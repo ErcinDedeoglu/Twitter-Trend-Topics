@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-19 19:16:37 UTC`
+📆 Last Updated: `2023-02-19 20:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,50 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BVBBSC](http://twitter.com/search?q=%23BVBBSC) | N/A |
+| 1 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
 | 2 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 3 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 4 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 5 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
-| 6 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 7 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 8 | [Auslosung](http://twitter.com/search?q=Auslosung) | N/A |
-| 9 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 10 | [Reus](http://twitter.com/search?q=Reus) | N/A |
-| 11 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 12 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 13 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 14 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 15 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
+| 3 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 4 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 5 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 6 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
+| 7 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 8 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
+| 9 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 10 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 11 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 12 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 13 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 14 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
+| 15 | [Malen](http://twitter.com/search?q=Malen) | N/A |
 | 16 | [Heimspiel](http://twitter.com/search?q=Heimspiel) | N/A |
-| 17 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 18 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 20 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
-| 21 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 22 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 23 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
-| 24 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 25 | [Morde](http://twitter.com/search?q=Morde) | N/A |
-| 26 | [Patrioten](http://twitter.com/search?q=Patrioten) | N/A |
-| 27 | [Atombomben](http://twitter.com/search?q=Atombomben) | N/A |
-| 28 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 29 | [Trikots](http://twitter.com/search?q=Trikots) | N/A |
-| 30 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 31 | [#B04M05](http://twitter.com/search?q=%23B04M05) | N/A |
-| 32 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 17 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 18 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
+| 19 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
+| 20 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 22 | [Morde](http://twitter.com/search?q=Morde) | N/A |
+| 23 | [Atombomben](http://twitter.com/search?q=Atombomben) | N/A |
+| 24 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 25 | [Trikots](http://twitter.com/search?q=Trikots) | N/A |
+| 26 | [#B04M05](http://twitter.com/search?q=%23B04M05) | N/A |
+| 27 | [#BVBBSC](http://twitter.com/search?q=%23BVBBSC) | N/A |
+| 28 | [#Polizeiruf110](http://twitter.com/search?q=%23Polizeiruf110) | N/A |
+| 29 | [#kitchenimpossible](http://twitter.com/search?q=%23kitchenimpossible) | N/A |
+| 30 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
+| 31 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 32 | [#ranNHL](http://twitter.com/search?q=%23ranNHL) | N/A |
 | 33 | [#FCUS04](http://twitter.com/search?q=%23FCUS04) | N/A |
-| 34 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
-| 35 | [#DAZN](http://twitter.com/search?q=%23DAZN) | #DAZN is a streaming service for live sports. It stands for Digital Access Zone Network and is available in several countries around the world. It allows users to watch live sports events, including football, boxing, tennis, and more. |
+| 34 | [#DAZN](http://twitter.com/search?q=%23DAZN) | #DAZN is a streaming service for live sports. It stands for Digital Access Zone Network and is available in several countries around the world. It allows users to watch live sports events, including football, boxing, tennis, and more. |
+| 35 | [#Reus](http://twitter.com/search?q=%23Reus) | N/A |
 | 36 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
 | 37 | [#Baerbock360](http://twitter.com/search?q=%23Baerbock360) | N/A |
 | 38 | [#360Grad](http://twitter.com/search?q=%23360Grad) | N/A |
 | 39 | [#saytheirnames](http://twitter.com/search?q=%23saytheirnames) | N/A |
-| 40 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 41 | [#HSVDSC](http://twitter.com/search?q=%23HSVDSC) | N/A |
-| 42 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
-| 43 | [#FCHFCN](http://twitter.com/search?q=%23FCHFCN) | N/A |
-| 44 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
-| 45 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
-| 46 | [#nurderHSV](http://twitter.com/search?q=%23nurderHSV) | N/A |
+| 40 | [#HSVDSC](http://twitter.com/search?q=%23HSVDSC) | N/A |
+| 41 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
+| 42 | [#FCHFCN](http://twitter.com/search?q=%23FCHFCN) | N/A |
+| 43 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
+| 44 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
 
 
 

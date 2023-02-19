@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-19 19:17:16 UTC`
+📆 Last Updated: `2023-02-19 20:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,11 +17,11 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 3 | [#FCBSFC](http://twitter.com/search?q=%23FCBSFC) | N/A |
+| 3 | [#FCSGFCL](http://twitter.com/search?q=%23FCSGFCL) | N/A |
 | 4 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 5 | [#InterUdinese](http://twitter.com/search?q=%23InterUdinese) | N/A |
-| 6 | [#FCSGFCL](http://twitter.com/search?q=%23FCSGFCL) | N/A |
-| 7 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
+| 5 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
+| 6 | [#InterUdinese](http://twitter.com/search?q=%23InterUdinese) | N/A |
+| 7 | [#FCBSFC](http://twitter.com/search?q=%23FCBSFC) | N/A |
 | 8 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
 | 9 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 10 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for Switzerland
 | 15 | [Munich](http://twitter.com/search?q=Munich) | N/A |
 | 16 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 17 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
-| 18 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 19 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
-| 20 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 21 | [Fresse](http://twitter.com/search?q=Fresse) | N/A |
-| 22 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 23 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
-| 24 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 26 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 27 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 28 | [Gegner](http://twitter.com/search?q=Gegner) | N/A |
-| 29 | [sozialhilfe](http://twitter.com/search?q=sozialhilfe) | N/A |
+| 18 | [Gegner](http://twitter.com/search?q=Gegner) | N/A |
+| 19 | [Juso](http://twitter.com/search?q=Juso) | N/A |
+| 20 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 21 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
+| 22 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 23 | [Fresse](http://twitter.com/search?q=Fresse) | N/A |
+| 24 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 25 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 26 | [Wissenschaftler](http://twitter.com/search?q=Wissenschaftler) | N/A |
+| 27 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 28 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 30 | [Aargau](http://twitter.com/search?q=Aargau) | N/A |
-| 31 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 32 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 33 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
-| 34 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
-| 35 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
-| 36 | [Marco Odermatt](http://twitter.com/search?q=Marco+Odermatt) | N/A |
-| 37 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 38 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 39 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 40 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 41 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 42 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
-| 43 | [Markt](http://twitter.com/search?q=Markt) | N/A |
-| 44 | [Haufen](http://twitter.com/search?q=Haufen) | N/A |
-| 45 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
-| 46 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
-| 47 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 48 | [Juso](http://twitter.com/search?q=Juso) | N/A |
-| 49 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 50 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
+| 31 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
+| 32 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 33 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 34 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 35 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
+| 36 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 37 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
+| 38 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 39 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
+| 40 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
+| 41 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 42 | [Hälfte](http://twitter.com/search?q=H%c3%a4lfte) | N/A |
+| 43 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 44 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 45 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
+| 46 | [Markt](http://twitter.com/search?q=Markt) | N/A |
+| 47 | [Haufen](http://twitter.com/search?q=Haufen) | N/A |
+| 48 | [Regeln](http://twitter.com/search?q=Regeln) | N/A |
+| 49 | [Forderungen](http://twitter.com/search?q=Forderungen) | N/A |
+| 50 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
 
 
 

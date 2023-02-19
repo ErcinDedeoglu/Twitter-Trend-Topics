@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zapopan
 
-📆 Last Updated: `2023-02-19 19:16:30 UTC`
+📆 Last Updated: `2023-02-19 20:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,41 +17,49 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
 | 2 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 4 | [#DíaDelEjércitoMexicano](http://twitter.com/search?q=%23D%c3%adaDelEj%c3%a9rcitoMexicano) | N/A |
-| 5 | [#MexicoEsClaudia](http://twitter.com/search?q=%23MexicoEsClaudia) | N/A |
-| 6 | [#Tamaulipas](http://twitter.com/search?q=%23Tamaulipas) | N/A |
-| 7 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
-| 8 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
-| 9 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 10 | [Nación](http://twitter.com/search?q=Naci%c3%b3n) | N/A |
-| 11 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 12 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 13 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 14 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 15 | [Pique](http://twitter.com/search?q=Pique) | N/A |
-| 16 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 17 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 18 | [Guillermo Ochoa](http://twitter.com/search?q=Guillermo+Ochoa) | N/A |
-| 19 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 20 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 22 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
-| 23 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 24 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 25 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
-| 26 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
-| 27 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 28 | [Poncho](http://twitter.com/search?q=Poncho) | N/A |
-| 29 | [#YoJuegoEnVLA](http://twitter.com/search?q=%23YoJuegoEnVLA) | N/A |
-| 30 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
-| 31 | [#19deFebrero](http://twitter.com/search?q=%2319deFebrero) | N/A |
-| 32 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
-| 33 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 34 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
-| 35 | [#AmloFracasoPresidencial](http://twitter.com/search?q=%23AmloFracasoPresidencial) | N/A |
-| 36 | [#MORENAEsUnASCO](http://twitter.com/search?q=%23MORENAEsUnASCO) | N/A |
-| 37 | [#YoDefiendoAlINE26deFebrero](http://twitter.com/search?q=%23YoDefiendoAlINE26deFebrero) | N/A |
+| 3 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 4 | [#MexicoEsClaudia](http://twitter.com/search?q=%23MexicoEsClaudia) | N/A |
+| 5 | [#DíaDelEjércitoMexicano](http://twitter.com/search?q=%23D%c3%adaDelEj%c3%a9rcitoMexicano) | N/A |
+| 6 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 7 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
+| 8 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
+| 9 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 10 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 11 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 12 | [Litio](http://twitter.com/search?q=Litio) | N/A |
+| 13 | [Desde 1917](http://twitter.com/search?q=Desde+1917) | N/A |
+| 14 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
+| 15 | [Adrian Marcelo](http://twitter.com/search?q=Adrian+Marcelo) | N/A |
+| 16 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 17 | [Nación](http://twitter.com/search?q=Naci%c3%b3n) | N/A |
+| 18 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
+| 19 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 20 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 21 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 22 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 23 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 24 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
+| 25 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 26 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 27 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 28 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 29 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 30 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 31 | [Poncho](http://twitter.com/search?q=Poncho) | N/A |
+| 32 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
+| 33 | [#Tamaulipas](http://twitter.com/search?q=%23Tamaulipas) | N/A |
+| 34 | [#YoJuegoEnVLA](http://twitter.com/search?q=%23YoJuegoEnVLA) | N/A |
+| 35 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
+| 36 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
+| 37 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
+| 38 | [#19deFebrero](http://twitter.com/search?q=%2319deFebrero) | N/A |
+| 39 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
+| 40 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
+| 41 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
+| 42 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 43 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
+| 44 | [#AmloFracasoPresidencial](http://twitter.com/search?q=%23AmloFracasoPresidencial) | N/A |
+| 45 | [#MORENAEsUnASCO](http://twitter.com/search?q=%23MORENAEsUnASCO) | N/A |
 
 
 

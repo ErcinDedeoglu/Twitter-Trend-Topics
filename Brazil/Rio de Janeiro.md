@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-19 19:16:33 UTC`
+📆 Last Updated: `2023-02-19 20:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tijuca](http://twitter.com/search?q=Tijuca) | N/A |
-| 2 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
-| 3 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
-| 4 | [Ipanema](http://twitter.com/search?q=Ipanema) | N/A |
-| 5 | [#TheMaskedSingerBrasil](http://twitter.com/search?q=%23TheMaskedSingerBrasil) | N/A |
-| 6 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 7 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 8 | [#MinhaMaeCozinhaMelhorQueASua](http://twitter.com/search?q=%23MinhaMaeCozinhaMelhorQueASua) | N/A |
-| 9 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
-| 10 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
-| 11 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 12 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 13 | [FLUXO NO RMR](http://twitter.com/search?q=FLUXO+NO+RMR) | N/A |
-| 14 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 15 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 17 | [Marco Reus](http://twitter.com/search?q=Marco+Reus) | N/A |
-| 18 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 19 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 20 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
-| 21 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 22 | [PQ MEU TECLADO ESCREVE](http://twitter.com/search?q=PQ+MEU+TECLADO+ESCREVE) | N/A |
-| 23 | [TÃO PEQUENO](http://twitter.com/search?q=T%c3%83O+PEQUENO) | N/A |
-| 24 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 25 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 26 | [Se a Larissa](http://twitter.com/search?q=Se+a+Larissa) | N/A |
-| 27 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 28 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 29 | [Crashies](http://twitter.com/search?q=Crashies) | N/A |
-| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 31 | [tutu](http://twitter.com/search?q=tutu) | N/A |
-| 32 | [FLAMENGO CS NO MÉXICO](http://twitter.com/search?q=FLAMENGO+CS+NO+M%c3%89XICO) | N/A |
-| 33 | [INTZ](http://twitter.com/search?q=INTZ) | INTZ is an acronym for the Brazilian esports organization, INTZ e-Sports. The name is derived from the Portuguese phrase "Intrépidos e-Sports", which translates to "Fearless e-Sports" in English. |
-| 34 | [Varus](http://twitter.com/search?q=Varus) | N/A |
-| 35 | [Tuyz](http://twitter.com/search?q=Tuyz) | N/A |
-| 36 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 37 | [Vinagrete](http://twitter.com/search?q=Vinagrete) | N/A |
-| 38 | [Titan](http://twitter.com/search?q=Titan) | Titan is a term used to refer to something that is very large or powerful. It can be used to describe a person, an organization, or an object. In Greek mythology, the Titans were a race of powerful gods who ruled the universe before the Olympian gods. |
-| 39 | [CADE O FLAKES](http://twitter.com/search?q=CADE+O+FLAKES) | N/A |
-| 40 | [Split](http://twitter.com/search?q=Split) | N/A |
-| 41 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
-| 42 | [Mamãe OG](http://twitter.com/search?q=Mam%c3%a3e+OG) | N/A |
-| 43 | [Vitória Régia](http://twitter.com/search?q=Vit%c3%b3ria+R%c3%a9gia) | N/A |
-| 44 | [Conca](http://twitter.com/search?q=Conca) | N/A |
-| 45 | [Drake](http://twitter.com/search?q=Drake) | N/A |
-| 46 | [Santos x Portuguesa](http://twitter.com/search?q=Santos+x+Portuguesa) | N/A |
-| 47 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 48 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 49 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
-| 50 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 1 | [Ipanema](http://twitter.com/search?q=Ipanema) | N/A |
+| 2 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 3 | [Mocidade](http://twitter.com/search?q=Mocidade) | N/A |
+| 4 | [Grande Rio](http://twitter.com/search?q=Grande+Rio) | N/A |
+| 5 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
+| 6 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 7 | [#TheMaskedSingerBr](http://twitter.com/search?q=%23TheMaskedSingerBr) | #TheMaskedSingerBr is a hashtag used on Twitter to discuss the Brazilian version of the popular singing competition show, The Masked Singer. It is used to share news, updates, and fan reactions about the show. |
+| 8 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 9 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 10 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 11 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
+| 12 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 13 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
+| 14 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
+| 15 | [Judas Lima](http://twitter.com/search?q=Judas+Lima) | N/A |
+| 16 | [FLUXO NO RMR](http://twitter.com/search?q=FLUXO+NO+RMR) | N/A |
+| 17 | [Sandry](http://twitter.com/search?q=Sandry) | N/A |
+| 18 | [Tatau](http://twitter.com/search?q=Tatau) | N/A |
+| 19 | [Emanuelle Araújo](http://twitter.com/search?q=Emanuelle+Ara%c3%bajo) | N/A |
+| 20 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 21 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 22 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 23 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 24 | [PQ MEU TECLADO ESCREVE](http://twitter.com/search?q=PQ+MEU+TECLADO+ESCREVE) | N/A |
+| 25 | [Capivara](http://twitter.com/search?q=Capivara) | Capivara is a Brazilian word for the Capybara, a large rodent native to South America. It is the largest living rodent in the world and can weigh up to 140 pounds. In English, Capivara means "water hog". |
+| 26 | [Emerson Royal](http://twitter.com/search?q=Emerson+Royal) | Emerson Royal is a Brazilian football club based in the city of Recife, Pernambuco. The club was founded in 2018 and currently plays in the Campeonato Brasileiro Série B, the second tier of Brazilian football. The name Emerson Royal is derived from the combination of two words: Emerson, which is a tribute to the former player and coach Emerson Leão, and Royal, which symbolizes the team's ambition to become one of Brazil's top clubs. In English, Emerson Royal translates to "Royal Ambition". |
+| 27 | [Se a Larissa](http://twitter.com/search?q=Se+a+Larissa) | N/A |
+| 28 | [Marco Reus](http://twitter.com/search?q=Marco+Reus) | N/A |
+| 29 | [FLAMENGO CS NO MÉXICO](http://twitter.com/search?q=FLAMENGO+CS+NO+M%c3%89XICO) | N/A |
+| 30 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 31 | [Fracture](http://twitter.com/search?q=Fracture) | N/A |
+| 32 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 33 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
+| 34 | [Vila Belmiro](http://twitter.com/search?q=Vila+Belmiro) | Vila Belmiro is a football stadium located in Santos, Brazil. It is the home stadium of Santos FC, one of the most successful clubs in Brazilian football. The name Vila Belmiro translates to "Belmiro Village" in English. |
+| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 36 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 37 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 38 | [TÃO PEQUENO](http://twitter.com/search?q=T%c3%83O+PEQUENO) | N/A |
+| 39 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
+| 40 | [Mendonza](http://twitter.com/search?q=Mendonza) | N/A |
+| 41 | [Régia](http://twitter.com/search?q=R%c3%a9gia) | N/A |
+| 42 | [Ardiis](http://twitter.com/search?q=Ardiis) | N/A |
+| 43 | [tutu](http://twitter.com/search?q=tutu) | N/A |
+| 44 | [Lusa](http://twitter.com/search?q=Lusa) | N/A |
+| 45 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
+| 46 | [Crashies](http://twitter.com/search?q=Crashies) | N/A |
+| 47 | [Drake](http://twitter.com/search?q=Drake) | N/A |
+| 48 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
+| 49 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
+| 50 | [Varus](http://twitter.com/search?q=Varus) | N/A |
 
 
 

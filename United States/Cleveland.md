@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cleveland
 
-📆 Last Updated: `2023-02-19 19:17:02 UTC`
+📆 Last Updated: `2023-02-19 20:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 2 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 3 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 1 | [Purdue](http://twitter.com/search?q=Purdue) | Purdue is a public research university located in West Lafayette, Indiana. It was founded in 1869 and is the flagship university of the Purdue University system. The university is known for its programs in engineering, agriculture, science, and business. Purdue's main campus is located on 2,468 acres (998 ha) in West Lafayette, Indiana. |
+| 2 | [Heat](http://twitter.com/search?q=Heat) | Heat is a form of energy that is transferred from one object to another due to a difference in temperature. Heat can be generated through natural processes such as friction, combustion, or radiation. Heat can also be artificially generated through machines such as furnaces, ovens, and air conditioners. In everyday language, heat is often used to refer to the sensation of warmth or hotness that is felt when exposed to high temperatures. |
+| 3 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
 | 4 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
 | 5 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
 | 6 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 7 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 7 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
 | 8 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 9 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 10 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 11 | [#iuwbb](http://twitter.com/search?q=%23iuwbb) | N/A |
-| 12 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
+| 9 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 10 | [#NASCAR75](http://twitter.com/search?q=%23NASCAR75) | N/A |
+| 11 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
+| 12 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
 | 13 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 14 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
-| 15 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 17 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 18 | [Joe Lunardi](http://twitter.com/search?q=Joe+Lunardi) | N/A |
-| 19 | [Zeller](http://twitter.com/search?q=Zeller) | N/A |
-| 20 | [Perisic](http://twitter.com/search?q=Perisic) | Perisic is a surname of Slavic origin. It is derived from the personal name Pero, which is a diminutive of Peter. The English meaning of the name is "son of Peter". |
-| 21 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 22 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
-| 23 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 24 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 25 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 26 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 27 | [Meta Verified](http://twitter.com/search?q=Meta+Verified) | N/A |
-| 28 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 29 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 30 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 31 | [Pyrex](http://twitter.com/search?q=Pyrex) | N/A |
-| 32 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
-| 33 | [First Sunday](http://twitter.com/search?q=First+Sunday) | N/A |
-| 34 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
-| 35 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 36 | [Christopher Fitzgerald](http://twitter.com/search?q=Christopher+Fitzgerald) | N/A |
-| 37 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 38 | [Zuck](http://twitter.com/search?q=Zuck) | N/A |
-| 39 | [Richarlison](http://twitter.com/search?q=Richarlison) | Richarlison is a Brazilian professional footballer who plays as a forward for Premier League club Everton and the Brazil national team. His name is a combination of his first name, Richarlison, and his last name, Silva. |
-| 40 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 41 | [Cigarettes](http://twitter.com/search?q=Cigarettes) | N/A |
-| 42 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 43 | [Executive Order 9066](http://twitter.com/search?q=Executive+Order+9066) | N/A |
-| 44 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 45 | [Davies](http://twitter.com/search?q=Davies) | N/A |
-| 46 | [Hogan](http://twitter.com/search?q=Hogan) | N/A |
-| 47 | [Japanese Americans](http://twitter.com/search?q=Japanese+Americans) | N/A |
-| 48 | [Chris Drury](http://twitter.com/search?q=Chris+Drury) | N/A |
-| 49 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 50 | [Street](http://twitter.com/search?q=Street) | N/A |
+| 14 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 15 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
+| 16 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 17 | [Jarkel Joiner](http://twitter.com/search?q=Jarkel+Joiner) | N/A |
+| 18 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 19 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 20 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 21 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 22 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
+| 23 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 24 | [Joe Lunardi](http://twitter.com/search?q=Joe+Lunardi) | N/A |
+| 25 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
+| 26 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 27 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 28 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 29 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
+| 30 | [Meta Verified](http://twitter.com/search?q=Meta+Verified) | N/A |
+| 31 | [Joey Logano](http://twitter.com/search?q=Joey+Logano) | N/A |
+| 32 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 33 | [Zeller](http://twitter.com/search?q=Zeller) | N/A |
+| 34 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 35 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 36 | [Cigarettes](http://twitter.com/search?q=Cigarettes) | N/A |
+| 37 | [Street](http://twitter.com/search?q=Street) | N/A |
+| 38 | [Michael Waltrip](http://twitter.com/search?q=Michael+Waltrip) | N/A |
+| 39 | [Wolfpack](http://twitter.com/search?q=Wolfpack) | N/A |
+| 40 | [Pyrex](http://twitter.com/search?q=Pyrex) | N/A |
+| 41 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
+| 42 | [Ryan Blaney](http://twitter.com/search?q=Ryan+Blaney) | N/A |
+| 43 | [Christopher Fitzgerald](http://twitter.com/search?q=Christopher+Fitzgerald) | N/A |
+| 44 | [First Sunday](http://twitter.com/search?q=First+Sunday) | N/A |
+| 45 | [Hogan](http://twitter.com/search?q=Hogan) | N/A |
+| 46 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 47 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
+| 48 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 49 | [Zuck](http://twitter.com/search?q=Zuck) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-19 19:17:10 UTC`
+📆 Last Updated: `2023-02-19 20:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Canada
 | 3 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
 | 4 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
 | 5 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 6 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 7 | [Julien Gauthier](http://twitter.com/search?q=Julien+Gauthier) | N/A |
-| 8 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 6 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 7 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 8 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
 | 9 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
 | 10 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 11 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 12 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
+| 11 | [Julien Gauthier](http://twitter.com/search?q=Julien+Gauthier) | N/A |
+| 12 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 13 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
 | 14 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 15 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 15 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
 | 16 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
 | 17 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 18 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
-| 19 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 21 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 22 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 18 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 19 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
+| 20 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 22 | [Drai](http://twitter.com/search?q=Drai) | N/A |
 | 23 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 24 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 24 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
 | 25 | [RANDLE](http://twitter.com/search?q=RANDLE) | N/A |
-| 26 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 27 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 26 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 27 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
 | 28 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 29 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 30 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 31 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 32 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 33 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 34 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 35 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 36 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 37 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 38 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
+| 29 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 30 | [Jeff Teat](http://twitter.com/search?q=Jeff+Teat) | N/A |
+| 31 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
+| 32 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 33 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 34 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 35 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 36 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
+| 37 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 38 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
 | 39 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 40 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 40 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
 | 41 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 42 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
-| 43 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 44 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 45 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 46 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 47 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 48 | [Convoy](http://twitter.com/search?q=Convoy) | N/A |
-| 49 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 50 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 42 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 43 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
+| 44 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 45 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 46 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 47 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 48 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 49 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 50 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
 
 
 
