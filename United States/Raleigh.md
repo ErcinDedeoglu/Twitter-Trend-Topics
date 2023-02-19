@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-02-19 21:16:33 UTC`
+📆 Last Updated: `2023-02-19 22:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Joe Lunardi](http://twitter.com/search?q=Joe+Lunardi) | N/A |
-| 2 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 3 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 4 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 5 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 6 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
-| 7 | [#Busch401K](http://twitter.com/search?q=%23Busch401K) | N/A |
-| 8 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 9 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 10 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 11 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
-| 12 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 13 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 14 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 15 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 16 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 17 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
-| 18 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 19 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
-| 20 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 21 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
-| 22 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 23 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 24 | [Truex](http://twitter.com/search?q=Truex) | N/A |
-| 25 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
-| 26 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 27 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
-| 28 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 29 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 30 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 31 | [Jarkel Joiner](http://twitter.com/search?q=Jarkel+Joiner) | N/A |
-| 32 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 33 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 34 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
-| 35 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
-| 36 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
-| 37 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 38 | [Battlehawks](http://twitter.com/search?q=Battlehawks) | N/A |
-| 39 | [Brad Keselowski](http://twitter.com/search?q=Brad+Keselowski) | N/A |
-| 40 | [Ty Dillon](http://twitter.com/search?q=Ty+Dillon) | N/A |
-| 41 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 42 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 43 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 44 | [Jack Coan](http://twitter.com/search?q=Jack+Coan) | N/A |
-| 45 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 46 | [Roc Riggio](http://twitter.com/search?q=Roc+Riggio) | N/A |
-| 47 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 48 | [Manek](http://twitter.com/search?q=Manek) | N/A |
-| 49 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
-| 50 | [Riley Herbst](http://twitter.com/search?q=Riley+Herbst) | N/A |
+| 1 | [Go Pack](http://twitter.com/search?q=Go+Pack) | N/A |
+| 2 | [Lunardi](http://twitter.com/search?q=Lunardi) | N/A |
+| 3 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
+| 4 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 5 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
+| 6 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 7 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 8 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
+| 9 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 10 | [#Busch401K](http://twitter.com/search?q=%23Busch401K) | N/A |
+| 11 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
+| 12 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 13 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 14 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 15 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 16 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 17 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 18 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 19 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 20 | [#Commercial500](http://twitter.com/search?q=%23Commercial500) | N/A |
+| 21 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
+| 22 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
+| 23 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
+| 24 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 25 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 26 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 27 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 28 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 29 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 30 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 31 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 32 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 33 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 34 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 35 | [Truex](http://twitter.com/search?q=Truex) | N/A |
+| 36 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
+| 37 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
+| 38 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 39 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
+| 40 | [Tyler Reddick](http://twitter.com/search?q=Tyler+Reddick) | N/A |
+| 41 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 42 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 43 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 44 | [Spaceballs](http://twitter.com/search?q=Spaceballs) | N/A |
+| 45 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 46 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 47 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
+| 48 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
+| 49 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 50 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
 
 
 

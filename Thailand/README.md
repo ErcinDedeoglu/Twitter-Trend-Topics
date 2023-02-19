@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-19 21:16:43 UTC`
+📆 Last Updated: `2023-02-19 22:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,16 +27,16 @@ This is top 50 for Thailand
 | 10 | [VIF X GULFHAZARD](http://twitter.com/search?q=VIF+X+GULFHAZARD) | N/A |
 | 11 | [bambam all the butlers ep246](http://twitter.com/search?q=bambam+all+the+butlers+ep246) | N/A |
 | 12 | [bambam gm 19february](http://twitter.com/search?q=bambam+gm+19february) | N/A |
-| 13 | [CHARLOTTE AUSTIN](http://twitter.com/search?q=CHARLOTTE+AUSTIN) | Charlotte Austin is a female given name. It is derived from the French name "Charlotte" which means "free man" and the English name "Austin" which means "great". |
-| 14 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 13 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 14 | [CHARLOTTE AUSTIN](http://twitter.com/search?q=CHARLOTTE+AUSTIN) | Charlotte Austin is a female given name. It is derived from the French name "Charlotte" which means "free man" and the English name "Austin" which means "great". |
 | 15 | [engfa waraha](http://twitter.com/search?q=engfa+waraha) | N/A |
 | 16 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
-| 17 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
+| 17 | [London](http://twitter.com/search?q=London) | N/A |
 | 18 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 19 | [London](http://twitter.com/search?q=London) | N/A |
+| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 20 | [#ParkJinYoungInBKK2023](http://twitter.com/search?q=%23ParkJinYoungInBKK2023) | #ParkJinYoungInBKK2023 is a hashtag used to promote a potential concert by South Korean singer and songwriter Park Jin Young in Bangkok, Thailand in 2023. The hashtag is used to encourage fans to show their support for the potential event. |
-| 21 | [#TENatICONSIAM](http://twitter.com/search?q=%23TENatICONSIAM) | N/A |
-| 22 | [#BurberryxBright](http://twitter.com/search?q=%23BurberryxBright) | N/A |
+| 21 | [#BurberryxBright](http://twitter.com/search?q=%23BurberryxBright) | N/A |
+| 22 | [#TENatICONSIAM](http://twitter.com/search?q=%23TENatICONSIAM) | N/A |
 | 23 | [#ITSSKINxMeenPing1stFanSign](http://twitter.com/search?q=%23ITSSKINxMeenPing1stFanSign) | N/A |
 | 24 | [#VIFxHazardZuluaYearOlder](http://twitter.com/search?q=%23VIFxHazardZuluaYearOlder) | N/A |
 | 25 | [#FWDThailandxJamFilm](http://twitter.com/search?q=%23FWDThailandxJamFilm) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for Thailand
 | 27 | [#BedFriendEP1](http://twitter.com/search?q=%23BedFriendEP1) | N/A |
 | 28 | [#ไลฟ์นี้มีบอสโนอึล](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a5%e0%b8%9f%e0%b9%8c%e0%b8%99%e0%b8%b5%e0%b9%89%e0%b8%a1%e0%b8%b5%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b9%82%e0%b8%99%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
 | 29 | [#มะเขือเทศเพื่อนรักxเตนิว](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b0%e0%b9%80%e0%b8%82%e0%b8%b7%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b8%a8%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%a3%e0%b8%b1%e0%b8%81x%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 30 | [#อิงฟ้ามหาชน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%8a%e0%b8%99) | N/A |
-| 31 | [#ข้ามฟ้าเคียงเธอ](http://twitter.com/search?q=%23%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%84%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
-| 32 | [#ก้อนขายขํา](http://twitter.com/search?q=%23%e0%b8%81%e0%b9%89%e0%b8%ad%e0%b8%99%e0%b8%82%e0%b8%b2%e0%b8%a2%e0%b8%82%e0%b9%8d%e0%b8%b2) | N/A |
-| 33 | [#livenationออกมาชี้แจงด้วย](http://twitter.com/search?q=%23livenation%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%a1%e0%b8%b2%e0%b8%8a%e0%b8%b5%e0%b9%89%e0%b9%81%e0%b8%88%e0%b8%87%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2) | N/A |
-| 34 | [#ทีมชีบิว](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b8%8a%e0%b8%b5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 30 | [#ข้ามฟ้าเคียงเธอ](http://twitter.com/search?q=%23%e0%b8%82%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%84%e0%b8%b5%e0%b8%a2%e0%b8%87%e0%b9%80%e0%b8%98%e0%b8%ad) | N/A |
+| 31 | [#ทีมชีบิว](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b8%a1%e0%b8%8a%e0%b8%b5%e0%b8%9a%e0%b8%b4%e0%b8%a7) | N/A |
+| 32 | [#paipaivisitsbalmain](http://twitter.com/search?q=%23paipaivisitsbalmain) | N/A |
+| 33 | [#กระรอกขาวมินิมาราธอน](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%a3%e0%b8%ad%e0%b8%81%e0%b8%82%e0%b8%b2%e0%b8%a7%e0%b8%a1%e0%b8%b4%e0%b8%99%e0%b8%b4%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b8%b2%e0%b8%98%e0%b8%ad%e0%b8%99) | N/A |
+| 34 | [#น้องวอคือแมว](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%a7%e0%b8%ad%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b9%81%e0%b8%a1%e0%b8%a7) | N/A |
 | 35 | [#ภารกิจลับปิดกล้อง](http://twitter.com/search?q=%23%e0%b8%a0%e0%b8%b2%e0%b8%a3%e0%b8%81%e0%b8%b4%e0%b8%88%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%81%e0%b8%a5%e0%b9%89%e0%b8%ad%e0%b8%87) | N/A |
-| 36 | [#paipaivisitsbalmain](http://twitter.com/search?q=%23paipaivisitsbalmain) | N/A |
-| 37 | [#กระรอกขาวมินิมาราธอน](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b8%a3%e0%b8%ad%e0%b8%81%e0%b8%82%e0%b8%b2%e0%b8%a7%e0%b8%a1%e0%b8%b4%e0%b8%99%e0%b8%b4%e0%b8%a1%e0%b8%b2%e0%b8%a3%e0%b8%b2%e0%b8%98%e0%b8%ad%e0%b8%99) | N/A |
-| 38 | [#น้องวอคือแมว](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%a7%e0%b8%ad%e0%b8%84%e0%b8%b7%e0%b8%ad%e0%b9%81%e0%b8%a1%e0%b8%a7) | N/A |
-| 39 | [#ส่งความรักบิ๊กกลัฟป๋าซาร์](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%9a%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f%e0%b8%9b%e0%b9%8b%e0%b8%b2%e0%b8%8b%e0%b8%b2%e0%b8%a3%e0%b9%8c) | N/A |
-| 40 | [#26thHappyBDPlan](http://twitter.com/search?q=%2326thHappyBDPlan) | N/A |
-| 41 | [#ไม่หลับไม่นอนส่งปอนด์ภูวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99) | N/A |
-| 42 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
-| 43 | [#CrashCourseInRomanceEp12](http://twitter.com/search?q=%23CrashCourseInRomanceEp12) | N/A |
-| 44 | [#PPKritลังเล_MV2M](http://twitter.com/search?q=%23PPKrit%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%a5_MV2M) | N/A |
-| 45 | [#สี่แสบที่ไม่ใช่ชื่อรายการ](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%aa%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%83%e0%b8%8a%e0%b9%88%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3) | N/A |
-| 46 | [#140kbommutiktokstar](http://twitter.com/search?q=%23140kbommutiktokstar) | N/A |
-| 47 | [#GetWellSoonOffroad](http://twitter.com/search?q=%23GetWellSoonOffroad) | N/A |
-| 48 | [#HAPPYJUNGWOODAY](http://twitter.com/search?q=%23HAPPYJUNGWOODAY) | N/A |
-| 49 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
-| 50 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
+| 36 | [#ส่งความรักบิ๊กกลัฟป๋าซาร์](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%84%e0%b8%a7%e0%b8%b2%e0%b8%a1%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%9a%e0%b8%b4%e0%b9%8a%e0%b8%81%e0%b8%81%e0%b8%a5%e0%b8%b1%e0%b8%9f%e0%b8%9b%e0%b9%8b%e0%b8%b2%e0%b8%8b%e0%b8%b2%e0%b8%a3%e0%b9%8c) | N/A |
+| 37 | [#สี่แสบที่ไม่ใช่ชื่อรายการ](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%aa%e0%b8%9a%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b9%83%e0%b8%8a%e0%b9%88%e0%b8%8a%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%a3%e0%b8%b2%e0%b8%a2%e0%b8%81%e0%b8%b2%e0%b8%a3) | N/A |
+| 38 | [#26thHappyBDPlan](http://twitter.com/search?q=%2326thHappyBDPlan) | N/A |
+| 39 | [#ไม่หลับไม่นอนส่งปอนด์ภูวิน](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab%e0%b8%a5%e0%b8%b1%e0%b8%9a%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%99%e0%b8%ad%e0%b8%99%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%9b%e0%b8%ad%e0%b8%99%e0%b8%94%e0%b9%8c%e0%b8%a0%e0%b8%b9%e0%b8%a7%e0%b8%b4%e0%b8%99) | N/A |
+| 40 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
+| 41 | [#livenationออกมาชี้แจงด้วย](http://twitter.com/search?q=%23livenation%e0%b8%ad%e0%b8%ad%e0%b8%81%e0%b8%a1%e0%b8%b2%e0%b8%8a%e0%b8%b5%e0%b9%89%e0%b9%81%e0%b8%88%e0%b8%87%e0%b8%94%e0%b9%89%e0%b8%a7%e0%b8%a2) | N/A |
+| 42 | [#CrashCourseInRomanceEp12](http://twitter.com/search?q=%23CrashCourseInRomanceEp12) | N/A |
+| 43 | [#ppkritลังเล_mv2m](http://twitter.com/search?q=%23ppkrit%e0%b8%a5%e0%b8%b1%e0%b8%87%e0%b9%80%e0%b8%a5_mv2m) | N/A |
+| 44 | [#140kbommutiktokstar](http://twitter.com/search?q=%23140kbommutiktokstar) | N/A |
+| 45 | [#getwellsoonoffroad](http://twitter.com/search?q=%23getwellsoonoffroad) | N/A |
+| 46 | [#HAPPYJUNGWOODAY](http://twitter.com/search?q=%23HAPPYJUNGWOODAY) | N/A |
+| 47 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
+| 48 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
+| 49 | [#อิงฟ้ามหาชน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b4%e0%b8%87%e0%b8%9f%e0%b9%89%e0%b8%b2%e0%b8%a1%e0%b8%ab%e0%b8%b2%e0%b8%8a%e0%b8%99) | N/A |
+| 50 | [#DestinyclinicxGF](http://twitter.com/search?q=%23DestinyclinicxGF) | N/A |
 
 
 

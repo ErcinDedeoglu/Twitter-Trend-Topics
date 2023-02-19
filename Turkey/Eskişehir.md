@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-02-19 21:16:26 UTC`
+📆 Last Updated: `2023-02-19 22:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
-| 2 | [#isiasgizliliğikaldırılsın](http://twitter.com/search?q=%23isiasgizlili%c4%9fikald%c4%b1r%c4%b1ls%c4%b1n) | N/A |
-| 3 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
-| 4 | [Neyledim](http://twitter.com/search?q=Neyledim) | N/A |
-| 5 | [#Eğitimicin100binAtama](http://twitter.com/search?q=%23E%c4%9fitimicin100binAtama) | N/A |
+| 1 | [#isiasgizliliğikaldırılsın](http://twitter.com/search?q=%23isiasgizlili%c4%9fikald%c4%b1r%c4%b1ls%c4%b1n) | N/A |
+| 2 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
+| 3 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
+| 4 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
+| 5 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
 | 6 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
 | 7 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 8 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 9 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
-| 10 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 11 | [Yüküm](http://twitter.com/search?q=Y%c3%bck%c3%bcm) | N/A |
-| 12 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
-| 13 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
-| 14 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
-| 15 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
-| 16 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 17 | [Depremin 14](http://twitter.com/search?q=Depremin+14) | N/A |
-| 18 | [Esenyurt](http://twitter.com/search?q=Esenyurt) | N/A |
-| 19 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 20 | [Çakmadır](http://twitter.com/search?q=%c3%87akmad%c4%b1r) | N/A |
-| 21 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
-| 22 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 23 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
-| 24 | [Evim Yuvan Olsun](http://twitter.com/search?q=Evim+Yuvan+Olsun) | N/A |
-| 25 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
-| 26 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 27 | [Kübra Dörtkardeş](http://twitter.com/search?q=K%c3%bcbra+D%c3%b6rtkarde%c5%9f) | N/A |
-| 28 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
-| 29 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
-| 30 | [Dostoyevski](http://twitter.com/search?q=Dostoyevski) | N/A |
-| 31 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 32 | [Başak](http://twitter.com/search?q=Ba%c5%9fak) | N/A |
-| 33 | [20 Şubat Pazartesi](http://twitter.com/search?q=20+%c5%9eubat+Pazartesi) | N/A |
-| 34 | [İsmet Özel](http://twitter.com/search?q=%c4%b0smet+%c3%96zel) | N/A |
-| 35 | [633 Suriyeli](http://twitter.com/search?q=633+Suriyeli) | N/A |
-| 36 | [Cemal Süreya](http://twitter.com/search?q=Cemal+S%c3%bcreya) | N/A |
-| 37 | [Nasip](http://twitter.com/search?q=Nasip) | N/A |
-| 38 | [Kızlar](http://twitter.com/search?q=K%c4%b1zlar) | N/A |
-| 39 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
-| 40 | [#isiashotelkatliamı](http://twitter.com/search?q=%23isiashotelkatliam%c4%b1) | N/A |
-| 41 | [#FıratYılmazCAKIROĞLU](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmazCAKIRO%c4%9eLU) | N/A |
-| 42 | [#astroloji](http://twitter.com/search?q=%23astroloji) | N/A |
-| 43 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
-| 44 | [#EmeklilikteYaşaTakıIanIar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1IanIar) | N/A |
-| 45 | [#bagkurasozverdin](http://twitter.com/search?q=%23bagkurasozverdin) | N/A |
-| 46 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
-| 47 | [#isiaskatillericezalandırılsın](http://twitter.com/search?q=%23isiaskatillericezaland%c4%b1r%c4%b1ls%c4%b1n) | N/A |
-| 48 | [#Antalya](http://twitter.com/search?q=%23Antalya) | N/A |
-| 49 | [#GeceyeNotum](http://twitter.com/search?q=%23GeceyeNotum) | N/A |
+| 8 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
+| 9 | [Eray](http://twitter.com/search?q=Eray) | N/A |
+| 10 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
+| 11 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 12 | [Ruhun](http://twitter.com/search?q=Ruhun) | N/A |
+| 13 | [Naim Süleymanoğlu](http://twitter.com/search?q=Naim+S%c3%bcleymano%c4%9flu) | N/A |
+| 14 | [Yüküm](http://twitter.com/search?q=Y%c3%bck%c3%bcm) | N/A |
+| 15 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
+| 16 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
+| 17 | [Alper](http://twitter.com/search?q=Alper) | N/A |
+| 18 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
+| 19 | [Ege Üniversitesi](http://twitter.com/search?q=Ege+%c3%9cniversitesi) | N/A |
+| 20 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 21 | [Depremin 14](http://twitter.com/search?q=Depremin+14) | N/A |
+| 22 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 23 | [Esenyurt](http://twitter.com/search?q=Esenyurt) | N/A |
+| 24 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
+| 25 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 26 | [Çakmadır](http://twitter.com/search?q=%c3%87akmad%c4%b1r) | N/A |
+| 27 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 28 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 29 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
+| 30 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
+| 31 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
+| 32 | [Kübra Dörtkardeş](http://twitter.com/search?q=K%c3%bcbra+D%c3%b6rtkarde%c5%9f) | N/A |
+| 33 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 34 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
+| 35 | [Aşık](http://twitter.com/search?q=A%c5%9f%c4%b1k) | N/A |
+| 36 | [Genelde](http://twitter.com/search?q=Genelde) | N/A |
+| 37 | [Başak](http://twitter.com/search?q=Ba%c5%9fak) | N/A |
+| 38 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 39 | [İsmet Özel](http://twitter.com/search?q=%c4%b0smet+%c3%96zel) | N/A |
+| 40 | [Dostoyevski](http://twitter.com/search?q=Dostoyevski) | N/A |
+| 41 | [20 Şubat Pazartesi](http://twitter.com/search?q=20+%c5%9eubat+Pazartesi) | N/A |
+| 42 | [633 Suriyeli](http://twitter.com/search?q=633+Suriyeli) | N/A |
+| 43 | [Cemal Süreya](http://twitter.com/search?q=Cemal+S%c3%bcreya) | N/A |
+| 44 | [#Üniversiteleri](http://twitter.com/search?q=%23%c3%9cniversiteleri) | N/A |
+| 45 | [#isiashotelkatliamı](http://twitter.com/search?q=%23isiashotelkatliam%c4%b1) | N/A |
+| 46 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
+| 47 | [#Eğitimicin100binAtama](http://twitter.com/search?q=%23E%c4%9fitimicin100binAtama) | N/A |
+| 48 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
+| 49 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
 
 
 

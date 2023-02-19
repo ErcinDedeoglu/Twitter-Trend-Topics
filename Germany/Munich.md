@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-02-19 21:16:02 UTC`
+📆 Last Updated: `2023-02-19 22:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
 | 2 | [#BVBBSC](http://twitter.com/search?q=%23BVBBSC) | N/A |
-| 3 | [#Polizeiruf110](http://twitter.com/search?q=%23Polizeiruf110) | N/A |
-| 4 | [#B04M05](http://twitter.com/search?q=%23B04M05) | N/A |
-| 5 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
-| 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 7 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 8 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 3 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 4 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
+| 5 | [#Polizeiruf110](http://twitter.com/search?q=%23Polizeiruf110) | N/A |
+| 6 | [#FCUS04](http://twitter.com/search?q=%23FCUS04) | N/A |
+| 7 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 8 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 9 | [Steven](http://twitter.com/search?q=Steven) | N/A |
 | 10 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
-| 11 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 12 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 13 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 14 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 15 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 16 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 17 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 18 | [Bill Kaulitz](http://twitter.com/search?q=Bill+Kaulitz) | N/A |
+| 11 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 12 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 13 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 14 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 15 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 16 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 17 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 18 | [Foul](http://twitter.com/search?q=Foul) | N/A |
 | 19 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
-| 20 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 21 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 22 | [Kohr](http://twitter.com/search?q=Kohr) | N/A |
-| 23 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
-| 24 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 25 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 26 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
-| 27 | [Plea](http://twitter.com/search?q=Plea) | N/A |
+| 20 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 21 | [Kohr](http://twitter.com/search?q=Kohr) | N/A |
+| 22 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 23 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 24 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
+| 25 | [Plea](http://twitter.com/search?q=Plea) | N/A |
+| 26 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 27 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
 | 28 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
-| 29 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 30 | [Welz](http://twitter.com/search?q=Welz) | N/A |
-| 31 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 32 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 29 | [Welz](http://twitter.com/search?q=Welz) | N/A |
+| 30 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 31 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 32 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
 | 33 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
-| 34 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
-| 35 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 36 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 37 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
-| 38 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 39 | [Kroatien](http://twitter.com/search?q=Kroatien) | N/A |
+| 34 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 35 | [Bill Kaulitz](http://twitter.com/search?q=Bill+Kaulitz) | N/A |
+| 36 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 37 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 38 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
+| 39 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
 | 40 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
-| 41 | [Thomas Gottschalk](http://twitter.com/search?q=Thomas+Gottschalk) | N/A |
-| 42 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 43 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
-| 44 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 45 | [Auslosung](http://twitter.com/search?q=Auslosung) | N/A |
-| 46 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 47 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
-| 48 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 49 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
-| 50 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
+| 41 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 42 | [Kroatien](http://twitter.com/search?q=Kroatien) | N/A |
+| 43 | [Auslosung](http://twitter.com/search?q=Auslosung) | N/A |
+| 44 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 45 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 46 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 47 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
+| 48 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
+| 49 | [Streubomben](http://twitter.com/search?q=Streubomben) | N/A |
+| 50 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
 
 
 

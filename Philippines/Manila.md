@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-19 21:16:15 UTC`
+📆 Last Updated: `2023-02-19 22:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,41 +30,41 @@ This is top 50 for [Philippines](</Philippines>)
 | 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 14 | [myla pablo](http://twitter.com/search?q=myla+pablo) | N/A |
 | 15 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 16 | [piewer vote for anji](http://twitter.com/search?q=piewer+vote+for+anji) | N/A |
-| 17 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 18 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 19 | [HAPPY 8200TH DAYS](http://twitter.com/search?q=HAPPY+8200TH+DAYS) | N/A |
+| 16 | [HAPPY 8200TH DAYS](http://twitter.com/search?q=HAPPY+8200TH+DAYS) | N/A |
+| 17 | [piewer vote for anji](http://twitter.com/search?q=piewer+vote+for+anji) | N/A |
+| 18 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
+| 19 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
 | 20 | [alam by sarahgxjroa](http://twitter.com/search?q=alam+by+sarahgxjroa) | N/A |
 | 21 | [walang aray sa kdlex](http://twitter.com/search?q=walang+aray+sa+kdlex) | N/A |
-| 22 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
-| 23 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
-| 24 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 25 | [zacham piegalingan saepl](http://twitter.com/search?q=zacham+piegalingan+saepl) | N/A |
-| 26 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
-| 27 | [sundrei goodvibes](http://twitter.com/search?q=sundrei+goodvibes) | N/A |
-| 28 | [hwanderfulyears with junghwan](http://twitter.com/search?q=hwanderfulyears+with+junghwan) | N/A |
-| 29 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 30 | [asapfeboritonatinto jona](http://twitter.com/search?q=asapfeboritonatinto+jona) | N/A |
-| 31 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
-| 32 | [thank you mc hwasa](http://twitter.com/search?q=thank+you+mc+hwasa) | N/A |
-| 33 | [bagyong pablo](http://twitter.com/search?q=bagyong+pablo) | N/A |
-| 34 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
-| 35 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
-| 36 | [Dear Dream](http://twitter.com/search?q=Dear+Dream) | N/A |
-| 37 | [gumabao](http://twitter.com/search?q=gumabao) | N/A |
+| 22 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 23 | [zacham piegalingan saepl](http://twitter.com/search?q=zacham+piegalingan+saepl) | N/A |
+| 24 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
+| 25 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 26 | [sundrei goodvibes](http://twitter.com/search?q=sundrei+goodvibes) | N/A |
+| 27 | [hwanderfulyears with junghwan](http://twitter.com/search?q=hwanderfulyears+with+junghwan) | N/A |
+| 28 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
+| 29 | [mc hwasa](http://twitter.com/search?q=mc+hwasa) | N/A |
+| 30 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
+| 31 | [bagyong pablo](http://twitter.com/search?q=bagyong+pablo) | N/A |
+| 32 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
+| 33 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
+| 34 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 35 | [asapfeboritonatinto jona](http://twitter.com/search?q=asapfeboritonatinto+jona) | N/A |
+| 36 | [gumabao](http://twitter.com/search?q=gumabao) | N/A |
+| 37 | [sundate with matt](http://twitter.com/search?q=sundate+with+matt) | N/A |
 | 38 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 39 | [sundate with matt](http://twitter.com/search?q=sundate+with+matt) | N/A |
+| 39 | [kehlani](http://twitter.com/search?q=kehlani) | N/A |
 | 40 | [warlio official couple na](http://twitter.com/search?q=warlio+official+couple+na) | N/A |
-| 41 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 41 | [Primo](http://twitter.com/search?q=Primo) | N/A |
 | 42 | [EUNCHAE KIRSH MODEL](http://twitter.com/search?q=EUNCHAE+KIRSH+MODEL) | N/A |
-| 43 | [Primo](http://twitter.com/search?q=Primo) | N/A |
-| 44 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
-| 45 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 43 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 44 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 45 | [fransethxace 30muliyon na](http://twitter.com/search?q=fransethxace+30muliyon+na) | N/A |
 | 46 | [Juyeon](http://twitter.com/search?q=Juyeon) | N/A |
-| 47 | [FRANSETHXACE 30MULIYON NA](http://twitter.com/search?q=FRANSETHXACE+30MULIYON+NA) | N/A |
-| 48 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 47 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 48 | [wet the bed](http://twitter.com/search?q=wet+the+bed) | N/A |
 | 49 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 50 | [wet the bed](http://twitter.com/search?q=wet+the+bed) | N/A |
+| 50 | [melanie martinez](http://twitter.com/search?q=melanie+martinez) | N/A |
 
 
 

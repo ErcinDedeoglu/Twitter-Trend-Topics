@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-02-19 21:16:28 UTC`
+📆 Last Updated: `2023-02-19 22:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 2 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
-| 3 | [#Busch401K](http://twitter.com/search?q=%23Busch401K) | N/A |
+| 2 | [#Busch401K](http://twitter.com/search?q=%23Busch401K) | N/A |
+| 3 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
 | 4 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
 | 5 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 6 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 7 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 6 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 7 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 8 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 9 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 10 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 11 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 12 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 13 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
-| 14 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 9 | [#USWNT](http://twitter.com/search?q=%23USWNT) | N/A |
+| 10 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 11 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 12 | [#Commercial500](http://twitter.com/search?q=%23Commercial500) | N/A |
+| 13 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
+| 14 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
 | 15 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
-| 16 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 17 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
-| 18 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 19 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 20 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
-| 21 | [Truex](http://twitter.com/search?q=Truex) | N/A |
-| 22 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 23 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
-| 24 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 25 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 26 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 27 | [Jarkel Joiner](http://twitter.com/search?q=Jarkel+Joiner) | N/A |
-| 28 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
-| 29 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 30 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 31 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
-| 32 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
-| 33 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 34 | [Battlehawks](http://twitter.com/search?q=Battlehawks) | N/A |
-| 35 | [Ty Dillon](http://twitter.com/search?q=Ty+Dillon) | N/A |
-| 36 | [Brad Keselowski](http://twitter.com/search?q=Brad+Keselowski) | N/A |
-| 37 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 38 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 39 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 40 | [Jack Coan](http://twitter.com/search?q=Jack+Coan) | N/A |
-| 41 | [Roc Riggio](http://twitter.com/search?q=Roc+Riggio) | N/A |
-| 42 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 43 | [Manek](http://twitter.com/search?q=Manek) | N/A |
-| 44 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
-| 45 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 46 | [Riley Herbst](http://twitter.com/search?q=Riley+Herbst) | N/A |
-| 47 | [Meta Verified](http://twitter.com/search?q=Meta+Verified) | N/A |
-| 48 | [Joey Logano](http://twitter.com/search?q=Joey+Logano) | N/A |
-| 49 | [Zuck](http://twitter.com/search?q=Zuck) | N/A |
+| 16 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 17 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 18 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 19 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 20 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 21 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
+| 22 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 23 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 24 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 25 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 26 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 27 | [Truex](http://twitter.com/search?q=Truex) | N/A |
+| 28 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
+| 29 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
+| 30 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
+| 31 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 32 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 33 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 34 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 35 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 36 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 37 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 38 | [Spaceballs](http://twitter.com/search?q=Spaceballs) | N/A |
+| 39 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
+| 40 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 41 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
+| 42 | [Jimmie Johnson](http://twitter.com/search?q=Jimmie+Johnson) | N/A |
+| 43 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 44 | [Brad Keselowski](http://twitter.com/search?q=Brad+Keselowski) | N/A |
+| 45 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
+| 46 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 47 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
+| 48 | [Jarkel Joiner](http://twitter.com/search?q=Jarkel+Joiner) | N/A |
+| 49 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
 
 
 
