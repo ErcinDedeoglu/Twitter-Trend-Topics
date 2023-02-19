@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-02-19 04:17:01 UTC`
+📆 Last Updated: `2023-02-19 05:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BMGFCB](http://twitter.com/search?q=%23BMGFCB) | N/A |
-| 2 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 3 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 4 | [#VFBKOE](http://twitter.com/search?q=%23VFBKOE) | N/A |
+| 1 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
+| 2 | [#BMGFCB](http://twitter.com/search?q=%23BMGFCB) | N/A |
+| 3 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 4 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
 | 5 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 6 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
-| 7 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 8 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 9 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 10 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
-| 11 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 12 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 13 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 14 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
-| 15 | [Warteschlange](http://twitter.com/search?q=Warteschlange) | N/A |
-| 16 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 6 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 7 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 8 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 9 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 10 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 11 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
+| 12 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 13 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 14 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 15 | [start ins wochenende](http://twitter.com/search?q=start+ins+wochenende) | N/A |
+| 16 | [warteschlange](http://twitter.com/search?q=warteschlange) | N/A |
 | 17 | [Welz](http://twitter.com/search?q=Welz) | N/A |
 | 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 19 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 20 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
-| 21 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
+| 19 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 20 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 21 | [ataman](http://twitter.com/search?q=ataman) | N/A |
 | 22 | [Plea](http://twitter.com/search?q=Plea) | N/A |
 | 23 | [Authy](http://twitter.com/search?q=Authy) | N/A |
 | 24 | [Upamecano](http://twitter.com/search?q=Upamecano) | N/A |
-| 25 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
-| 26 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 27 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 28 | [Pandemien](http://twitter.com/search?q=Pandemien) | N/A |
+| 25 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 26 | [Pandemien](http://twitter.com/search?q=Pandemien) | N/A |
+| 27 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 28 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
 | 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 30 | [Silas](http://twitter.com/search?q=Silas) | N/A |
 | 31 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 32 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 33 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 32 | [Rote Karte](http://twitter.com/search?q=Rote+Karte) | N/A |
+| 33 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
 | 34 | [zieler](http://twitter.com/search?q=zieler) | N/A |
 | 35 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 36 | [Benachrichtigungen](http://twitter.com/search?q=Benachrichtigungen) | N/A |
-| 37 | [freistoß](http://twitter.com/search?q=freisto%c3%9f) | N/A |
-| 38 | ['Streifen'](http://twitter.com/search?q=%27Streifen%27) | N/A |
-| 39 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 40 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 41 | [Rewe](http://twitter.com/search?q=Rewe) | N/A |
-| 42 | [Streubomben](http://twitter.com/search?q=Streubomben) | N/A |
-| 43 | [zwayer](http://twitter.com/search?q=zwayer) | N/A |
-| 44 | [Wang Yi](http://twitter.com/search?q=Wang+Yi) | N/A |
-| 45 | [unterzahl](http://twitter.com/search?q=unterzahl) | N/A |
-| 46 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 47 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 36 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 37 | [benachrichtigungen](http://twitter.com/search?q=benachrichtigungen) | N/A |
+| 38 | [freistoß](http://twitter.com/search?q=freisto%c3%9f) | N/A |
+| 39 | ['Streifen'](http://twitter.com/search?q=%27Streifen%27) | N/A |
+| 40 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 41 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 42 | [Rewe](http://twitter.com/search?q=Rewe) | N/A |
+| 43 | [Streubomben](http://twitter.com/search?q=Streubomben) | N/A |
+| 44 | [zwayer](http://twitter.com/search?q=zwayer) | N/A |
+| 45 | [Wang Yi](http://twitter.com/search?q=Wang+Yi) | N/A |
+| 46 | [unterzahl](http://twitter.com/search?q=unterzahl) | N/A |
+| 47 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 48 | [Gravenberch](http://twitter.com/search?q=Gravenberch) | N/A |
-| 49 | [Stindl](http://twitter.com/search?q=Stindl) | N/A |
+| 49 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
 
 
 

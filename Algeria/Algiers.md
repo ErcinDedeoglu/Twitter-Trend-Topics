@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-19 04:17:14 UTC`
+📆 Last Updated: `2023-02-19 05:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,8 +29,8 @@ This is top 50 for [Algeria](</Algeria>)
 | 12 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
 | 13 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
 | 14 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 15 | [#فلسطين_قضيه_الشرفاء](http://twitter.com/search?q=%23%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86_%d9%82%d8%b6%d9%8a%d9%87_%d8%a7%d9%84%d8%b4%d8%b1%d9%81%d8%a7%d8%a1) | N/A |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 16 | [#بيت_العايله_الابراهيميه](http://twitter.com/search?q=%23%d8%a8%d9%8a%d8%aa_%d8%a7%d9%84%d8%b9%d8%a7%d9%8a%d9%84%d9%87_%d8%a7%d9%84%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85%d9%8a%d9%87) | N/A |
 | 17 | [Africa](http://twitter.com/search?q=Africa) | N/A |
 | 18 | [الدول الافريقيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d9%87) | N/A |
 | 19 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
@@ -62,9 +62,9 @@ This is top 50 for [Algeria](</Algeria>)
 | 45 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
 | 46 | [علي نعمه الجزاير](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d9%8a%d8%b1) | N/A |
 | 47 | [غير الاسلام](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 48 | [اوساسونا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a7%d8%b3%d9%88%d9%86%d8%a7) | N/A |
-| 49 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 50 | [منصور البلوشي](http://twitter.com/search?q=%d9%85%d9%86%d8%b5%d9%88%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b4%d9%8a) | N/A |
+| 48 | [سامي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a) | سامي (pronounced sah-mee) is an Arabic name meaning "high, exalted, or sublime". |
+| 49 | [اوساسونا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a7%d8%b3%d9%88%d9%86%d8%a7) | N/A |
+| 50 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 
 
 

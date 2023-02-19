@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-19 04:17:05 UTC`
+📆 Last Updated: `2023-02-19 05:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,29 +19,29 @@ This is top 50 for [Sweden](</Sweden>)
 | 2 | [#mello](http://twitter.com/search?q=%23mello) | N/A |
 | 3 | [Nordman](http://twitter.com/search?q=Nordman) | N/A |
 | 4 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
-| 5 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
-| 6 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 7 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 8 | [Martinus](http://twitter.com/search?q=Martinus) | N/A |
-| 9 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 10 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 5 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 6 | [#Melodifestivalen2023](http://twitter.com/search?q=%23Melodifestivalen2023) | N/A |
+| 7 | [Martinus](http://twitter.com/search?q=Martinus) | N/A |
+| 8 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 9 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 11 | [videll](http://twitter.com/search?q=videll) | N/A |
 | 12 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
 | 13 | [chang frick](http://twitter.com/search?q=chang+frick) | N/A |
 | 14 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 15 | [Tappara](http://twitter.com/search?q=Tappara) | N/A |
-| 16 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
+| 15 | [tappara](http://twitter.com/search?q=tappara) | N/A |
+| 16 | [leksand](http://twitter.com/search?q=leksand) | N/A |
 | 17 | [stenergard](http://twitter.com/search?q=stenergard) | N/A |
 | 18 | [Pope](http://twitter.com/search?q=Pope) | N/A |
 | 19 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
 | 20 | [jesper rönndahl](http://twitter.com/search?q=jesper+r%c3%b6nndahl) | N/A |
 | 21 | [Paul Rey](http://twitter.com/search?q=Paul+Rey) | N/A |
 | 22 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 23 | [Henrik Jönsson](http://twitter.com/search?q=Henrik+J%c3%b6nsson) | N/A |
-| 24 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 25 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 26 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 27 | [niederbach](http://twitter.com/search?q=niederbach) | N/A |
+| 23 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 24 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 25 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 26 | [niederbach](http://twitter.com/search?q=niederbach) | N/A |
+| 27 | [Henrik Jönsson](http://twitter.com/search?q=Henrik+J%c3%b6nsson) | N/A |
 | 28 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 29 | [Jämtin](http://twitter.com/search?q=J%c3%a4mtin) | N/A |
 | 30 | [Nottingham](http://twitter.com/search?q=Nottingham) | N/A |
