@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Virginia Beach
 
-📆 Last Updated: `2023-02-19 14:17:29 UTC`
+📆 Last Updated: `2023-02-19 15:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 2 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 3 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 4 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 5 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 6 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 7 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 8 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 9 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
-| 10 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 13 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 14 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 15 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
-| 16 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 17 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 18 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
-| 19 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 20 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 21 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 22 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
-| 23 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 24 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
-| 25 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 26 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 27 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 28 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 29 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 30 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 31 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 32 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
-| 33 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 34 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 35 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 36 | [KEVIN HUERTER](http://twitter.com/search?q=KEVIN+HUERTER) | N/A |
-| 37 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
-| 38 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 39 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 40 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
-| 41 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 42 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 43 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
-| 44 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
-| 45 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
-| 46 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 47 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 48 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
-| 49 | [Kenny Smith](http://twitter.com/search?q=Kenny+Smith) | N/A |
+| 1 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 2 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 3 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 4 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
+| 5 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 6 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 7 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 8 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 9 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 10 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 11 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 12 | [Executive Order 9066](http://twitter.com/search?q=Executive+Order+9066) | N/A |
+| 13 | [RED HAIR](http://twitter.com/search?q=RED+HAIR) | N/A |
+| 14 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
+| 15 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
+| 16 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 17 | [First Sunday](http://twitter.com/search?q=First+Sunday) | N/A |
+| 18 | [Japanese Americans](http://twitter.com/search?q=Japanese+Americans) | N/A |
+| 19 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 20 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 21 | [Pisces Season](http://twitter.com/search?q=Pisces+Season) | N/A |
+| 22 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 23 | [Pyrex](http://twitter.com/search?q=Pyrex) | N/A |
+| 24 | [Race Day](http://twitter.com/search?q=Race+Day) | N/A |
+| 25 | [Iwo Jima](http://twitter.com/search?q=Iwo+Jima) | N/A |
+| 26 | [Fannita](http://twitter.com/search?q=Fannita) | N/A |
+| 27 | [Lord's Day](http://twitter.com/search?q=Lord%27s+Day) | N/A |
+| 28 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 29 | [Spam](http://twitter.com/search?q=Spam) | N/A |
+| 30 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 31 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 32 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 33 | [Thug](http://twitter.com/search?q=Thug) | Thug is a term used to describe someone who is violent or intimidating. It is often used to refer to criminals, especially those involved in organized crime. The word comes from the Hindi word thag, which means "thief" or "swindler". |
+| 34 | [Corned](http://twitter.com/search?q=Corned) | N/A |
+| 35 | [Temple University](http://twitter.com/search?q=Temple+University) | N/A |
+| 36 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
+| 37 | [Michigan GOP](http://twitter.com/search?q=Michigan+GOP) | N/A |
+| 38 | [Impeach](http://twitter.com/search?q=Impeach) | N/A |
+| 39 | [Sunday School](http://twitter.com/search?q=Sunday+School) | N/A |
+| 40 | [Height - 6](http://twitter.com/search?q=Height+-+6) | N/A |
+| 41 | [Kairi](http://twitter.com/search?q=Kairi) | Kairi is a Japanese name meaning "ocean village". It is also the name of a character in the popular video game series Kingdom Hearts. |
+| 42 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 43 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 44 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 45 | [Gate City](http://twitter.com/search?q=Gate+City) | N/A |
+| 46 | [Plains](http://twitter.com/search?q=Plains) | N/A |
+| 47 | [Wizard of Oz](http://twitter.com/search?q=Wizard+of+Oz) | N/A |
+| 48 | [O God](http://twitter.com/search?q=O+God) | N/A |
+| 49 | [White Men Can't Jump](http://twitter.com/search?q=White+Men+Can%27t+Jump) | N/A |
 
 
 

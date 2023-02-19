@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kitakyushu
 
-📆 Last Updated: `2023-02-19 14:17:02 UTC`
+📆 Last Updated: `2023-02-19 15:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [BUMP](http://twitter.com/search?q=BUMP) | BUMP is an acronym that stands for "Bring Up My Post." It is used on social media and online forums to indicate that a user would like their post to be seen by more people. It is often used when a post has not received many responses or views, and the user wants to draw more attention to it. |
-| 2 | [カンスト](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%82%b9%e3%83%88) | N/A |
-| 3 | [#aiko井口理ANN](http://twitter.com/search?q=%23aiko%e4%ba%95%e5%8f%a3%e7%90%86ANN) | N/A |
+| 1 | [#BUMPOFCHICKEN](http://twitter.com/search?q=%23BUMPOFCHICKEN) | N/A |
+| 2 | [#bethere](http://twitter.com/search?q=%23bethere) | N/A |
+| 3 | [カンスト](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%82%b9%e3%83%88) | N/A |
 | 4 | [#ブラッシュアップライフ](http://twitter.com/search?q=%23%e3%83%96%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%82%a2%e3%83%83%e3%83%97%e3%83%a9%e3%82%a4%e3%83%95) | #ブラッシュアップライフ is a Japanese hashtag that translates to "Brush Up Life". It is used to refer to activities or lifestyle changes that are intended to improve one's life, such as taking up a new hobby, learning a new skill, or making healthier lifestyle choices. |
-| 5 | [#虹ヶ咲](http://twitter.com/search?q=%23%e8%99%b9%e3%83%b6%e5%92%b2) | #虹ヶ咲 is a Japanese light novel series written by Kiyo Kyujyo and illustrated by Asagi Tosaka. The title translates to "Rainbow Blooming" in English, and the story follows a group of high school students who form a band and work together to achieve their dreams. |
-| 6 | [#どうする家康](http://twitter.com/search?q=%23%e3%81%a9%e3%81%86%e3%81%99%e3%82%8b%e5%ae%b6%e5%ba%b7) | #どうする家康 is a hashtag used on Twitter in Japan. It is a phrase that means "What will Ieyasu do?" and is used to refer to the famous Japanese warlord, Tokugawa Ieyasu. The phrase is often used in humorous contexts, as a way of asking what someone should do in a difficult situation. |
-| 7 | [#情熱大陸](http://twitter.com/search?q=%23%e6%83%85%e7%86%b1%e5%a4%a7%e9%99%b8) | N/A |
-| 8 | [アニナナ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%8a%e3%83%8a) | アニナナ is a Japanese phrase that roughly translates to "What's up?" or "How's it going?" It is often used as a casual greeting. |
+| 5 | [#乃木坂工事中](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e5%b7%a5%e4%ba%8b%e4%b8%ad) | #乃木坂工事中 is a hashtag used by fans of the Japanese idol group Nogizaka46. It translates to "Nogizaka46 Under Construction" and is used to show support for the group's activities and projects. |
+| 6 | [#情熱大陸](http://twitter.com/search?q=%23%e6%83%85%e7%86%b1%e5%a4%a7%e9%99%b8) | N/A |
+| 7 | [アニナナ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%8a%e3%83%8a) | アニナナ is a Japanese phrase that roughly translates to "What's up?" or "How's it going?" It is often used as a casual greeting. |
+| 8 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
 | 9 | [アイドルアニメ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%89%e3%83%ab%e3%82%a2%e3%83%8b%e3%83%a1) | アイドルアニメ (idol anime) is a type of anime that focuses on characters who are idols, or performers in the entertainment industry. These characters often have singing and dancing performances, and their stories usually revolve around their journey to becoming successful idols. In English, it is sometimes referred to as "idol anime". |
-| 10 | [アフタヌーンティー](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%82%bf%e3%83%8c%e3%83%bc%e3%83%b3%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
-| 11 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
-| 12 | [レッチリ](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%81%e3%83%aa) | N/A |
-| 13 | [ベランダ事件](http://twitter.com/search?q=%e3%83%99%e3%83%a9%e3%83%b3%e3%83%80%e4%ba%8b%e4%bb%b6) | N/A |
-| 14 | [カブトムシ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%a0%e3%82%b7) | カブトムシ is the Japanese word for the beetle known as the rhinoceros beetle. In English, it is sometimes referred to as a horned beetle or a Hercules beetle. |
-| 15 | [YOASOBI](http://twitter.com/search?q=YOASOBI) | N/A |
-| 16 | [ABC290](http://twitter.com/search?q=ABC290) | N/A |
-| 17 | [優木せつ菜](http://twitter.com/search?q=%e5%84%aa%e6%9c%a8%e3%81%9b%e3%81%a4%e8%8f%9c) | N/A |
-| 18 | [宝石言葉](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e8%a8%80%e8%91%89) | N/A |
-| 19 | [ジャイアン](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%a2%e3%83%b3) | N/A |
-| 20 | [エイリアンズ](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%aa%e3%82%a2%e3%83%b3%e3%82%ba) | N/A |
-| 21 | [小少将の君](http://twitter.com/search?q=%e5%b0%8f%e5%b0%91%e5%b0%86%e3%81%ae%e5%90%9b) | N/A |
-| 22 | [池ちゃん](http://twitter.com/search?q=%e6%b1%a0%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 23 | [メロン狩り](http://twitter.com/search?q=%e3%83%a1%e3%83%ad%e3%83%b3%e7%8b%a9%e3%82%8a) | N/A |
-| 24 | [違法アップロード](http://twitter.com/search?q=%e9%81%95%e6%b3%95%e3%82%a2%e3%83%83%e3%83%97%e3%83%ad%e3%83%bc%e3%83%89) | N/A |
-| 25 | [アイカツ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%ab%e3%83%84) | アイカツ (Aikatsu!) is a Japanese multimedia franchise created by Bandai Namco Entertainment. It is a rhythm-based idol simulation game and anime series that follows the story of aspiring idols as they work to become top stars. The name "Aikatsu!" is derived from the Japanese phrase "Ai ni Katsu", which means "to strive for love". In English, it can be translated to mean "Strive for Love and Stardom". |
-| 26 | [Take Me Higher](http://twitter.com/search?q=Take+Me+Higher) | N/A |
-| 27 | [失恋ショコラティエ](http://twitter.com/search?q=%e5%a4%b1%e6%81%8b%e3%82%b7%e3%83%a7%e3%82%b3%e3%83%a9%e3%83%86%e3%82%a3%e3%82%a8) | N/A |
-| 28 | [公式放送](http://twitter.com/search?q=%e5%85%ac%e5%bc%8f%e6%94%be%e9%80%81) | 公式放送 (Koushiki HouSou) is a Japanese term that refers to official broadcasts, such as those from television networks or streaming services. It can also refer to live events that are broadcast on these platforms. In English, it can be translated as "official broadcast". |
-| 29 | [源氏物語](http://twitter.com/search?q=%e6%ba%90%e6%b0%8f%e7%89%a9%e8%aa%9e) | 源氏物語 (Genji Monogatari) is a classic work of Japanese literature written by the noblewoman and lady-in-waiting Murasaki Shikibu in the early 11th century. It is sometimes called the world's first novel, and is considered a masterpiece of Heian period literature. The story centers around the life and loves of Hikaru Genji, an imperial prince, and follows his romantic relationships with various women. The title translates to "The Tale of Genji" in English. |
-| 30 | [一向一揆](http://twitter.com/search?q=%e4%b8%80%e5%90%91%e4%b8%80%e6%8f%86) | N/A |
-| 31 | [河合くん](http://twitter.com/search?q=%e6%b2%b3%e5%90%88%e3%81%8f%e3%82%93) | N/A |
-| 32 | [ディレイ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ac%e3%82%a4) | ディレイ is a Japanese word that means "delay". It is used to refer to a period of time in which something is postponed or delayed. |
-| 33 | [ともりちゃん](http://twitter.com/search?q=%e3%81%a8%e3%82%82%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 34 | [せつ菜ちゃん](http://twitter.com/search?q=%e3%81%9b%e3%81%a4%e8%8f%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 35 | [ヘラクレス](http://twitter.com/search?q=%e3%83%98%e3%83%a9%e3%82%af%e3%83%ac%e3%82%b9) | N/A |
-| 36 | [ジョリー](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%aa%e3%83%bc) | N/A |
-| 37 | [自分の配偶者](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e9%85%8d%e5%81%b6%e8%80%85) | N/A |
-| 38 | [ダイアン](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%a2%e3%83%b3) | N/A |
-| 39 | [ミタコング](http://twitter.com/search?q=%e3%83%9f%e3%82%bf%e3%82%b3%e3%83%b3%e3%82%b0) | ミタコング is a Japanese word that literally translates to "three-eyed monkey". It is used to describe someone who is nosy or meddlesome. |
-| 40 | [太陽のトマト麺](http://twitter.com/search?q=%e5%a4%aa%e9%99%bd%e3%81%ae%e3%83%88%e3%83%9e%e3%83%88%e9%ba%ba) | N/A |
-| 41 | [ユキさん](http://twitter.com/search?q=%e3%83%a6%e3%82%ad%e3%81%95%e3%82%93) | N/A |
-| 42 | [ラフマニノフ](http://twitter.com/search?q=%e3%83%a9%e3%83%95%e3%83%9e%e3%83%8b%e3%83%8e%e3%83%95) | N/A |
-| 43 | [sumika](http://twitter.com/search?q=sumika) | N/A |
-| 44 | [水川あさみ](http://twitter.com/search?q=%e6%b0%b4%e5%b7%9d%e3%81%82%e3%81%95%e3%81%bf) | 水川あさみ is a Japanese female name. It is composed of two characters: 水 (mizu, meaning water) and 川 (kawa, meaning river). The name can be translated to English as "River of Water". |
-| 45 | [絶望ステップ](http://twitter.com/search?q=%e7%b5%b6%e6%9c%9b%e3%82%b9%e3%83%86%e3%83%83%e3%83%97) | N/A |
-| 46 | [望月千代女](http://twitter.com/search?q=%e6%9c%9b%e6%9c%88%e5%8d%83%e4%bb%a3%e5%a5%b3) | N/A |
-| 47 | [Re:vale](http://twitter.com/search?q=Re%3avale) | N/A |
-| 48 | [ニホンオオカミ](http://twitter.com/search?q=%e3%83%8b%e3%83%9b%e3%83%b3%e3%82%aa%e3%82%aa%e3%82%ab%e3%83%9f) | N/A |
-| 49 | [有馬かな](http://twitter.com/search?q=%e6%9c%89%e9%a6%ac%e3%81%8b%e3%81%aa) | N/A |
+| 10 | [選抜発表](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e7%99%ba%e8%a1%a8) | N/A |
+| 11 | [レッチリ](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%81%e3%83%aa) | N/A |
+| 12 | [ベランダ事件](http://twitter.com/search?q=%e3%83%99%e3%83%a9%e3%83%b3%e3%83%80%e4%ba%8b%e4%bb%b6) | N/A |
+| 13 | [関ジャム](http://twitter.com/search?q=%e9%96%a2%e3%82%b8%e3%83%a3%e3%83%a0) | 関ジャム is a Japanese variety show that has been airing since 1993. It features comedians, musicians, and other celebrities in a variety of skits and games. The name of the show comes from the phrase "Kansai jama," which means "Kansai style" in English. The show is known for its unique style of comedy and its ability to bring together different types of entertainment. |
+| 14 | [ドテラマン](http://twitter.com/search?q=%e3%83%89%e3%83%86%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
+| 15 | [大童貞祭](http://twitter.com/search?q=%e5%a4%a7%e7%ab%a5%e8%b2%9e%e7%a5%ad) | N/A |
+| 16 | [アイカツ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%ab%e3%83%84) | アイカツ (Aikatsu!) is a Japanese multimedia franchise created by Bandai Namco Entertainment. It is a rhythm-based idol simulation game and anime series that follows the story of aspiring idols as they work to become top stars. The name "Aikatsu!" is derived from the Japanese phrase "Ai ni Katsu", which means "to strive for love". In English, it can be translated to mean "Strive for Love and Stardom". |
+| 17 | [アフタヌーンティー](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%82%bf%e3%83%8c%e3%83%bc%e3%83%b3%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
+| 18 | [ラッシュフォード](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%89) | ラッシュフォード (Rashford) is the surname of English professional footballer Marcus Rashford. He currently plays for Manchester United and the England national team. The name is derived from an Old English word meaning "from the rushes" or "from the marshland". |
+| 19 | [太陽ノック](http://twitter.com/search?q=%e5%a4%aa%e9%99%bd%e3%83%8e%e3%83%83%e3%82%af) | N/A |
+| 20 | [Take Me Higher](http://twitter.com/search?q=Take+Me+Higher) | N/A |
+| 21 | [SMAP](http://twitter.com/search?q=SMAP) | N/A |
+| 22 | [YOASOBI](http://twitter.com/search?q=YOASOBI) | N/A |
+| 23 | [ラキちゃん](http://twitter.com/search?q=%e3%83%a9%e3%82%ad%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 24 | [宝石言葉](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e8%a8%80%e8%91%89) | N/A |
+| 25 | [失恋ショコラティエ](http://twitter.com/search?q=%e5%a4%b1%e6%81%8b%e3%82%b7%e3%83%a7%e3%82%b3%e3%83%a9%e3%83%86%e3%82%a3%e3%82%a8) | N/A |
+| 26 | [カブトムシ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%a0%e3%82%b7) | カブトムシ is the Japanese word for the beetle known as the rhinoceros beetle. In English, it is sometimes referred to as a horned beetle or a Hercules beetle. |
+| 27 | [優木せつ菜](http://twitter.com/search?q=%e5%84%aa%e6%9c%a8%e3%81%9b%e3%81%a4%e8%8f%9c) | N/A |
+| 28 | [ABC290](http://twitter.com/search?q=ABC290) | N/A |
+| 29 | [なっちとみー](http://twitter.com/search?q=%e3%81%aa%e3%81%a3%e3%81%a1%e3%81%a8%e3%81%bf%e3%83%bc) | N/A |
+| 30 | [自分の配偶者](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e9%85%8d%e5%81%b6%e8%80%85) | N/A |
+| 31 | [レスター](http://twitter.com/search?q=%e3%83%ac%e3%82%b9%e3%82%bf%e3%83%bc) | レスター (Resutā) is a Japanese surname. It is derived from the English surname "Lester". The meaning of the name in English is "fortified town". |
+| 32 | [源氏物語](http://twitter.com/search?q=%e6%ba%90%e6%b0%8f%e7%89%a9%e8%aa%9e) | 源氏物語 (Genji Monogatari) is a classic work of Japanese literature written by the noblewoman and lady-in-waiting Murasaki Shikibu in the early 11th century. It is sometimes called the world's first novel, and is considered a masterpiece of Heian period literature. The story centers around the life and loves of Hikaru Genji, an imperial prince, and follows his romantic relationships with various women. The title translates to "The Tale of Genji" in English. |
+| 33 | [エイリアンズ](http://twitter.com/search?q=%e3%82%a8%e3%82%a4%e3%83%aa%e3%82%a2%e3%83%b3%e3%82%ba) | N/A |
+| 34 | [麗乃ちゃん](http://twitter.com/search?q=%e9%ba%97%e4%b9%83%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 35 | [違法アップロード](http://twitter.com/search?q=%e9%81%95%e6%b3%95%e3%82%a2%e3%83%83%e3%83%97%e3%83%ad%e3%83%bc%e3%83%89) | N/A |
+| 36 | [公式放送](http://twitter.com/search?q=%e5%85%ac%e5%bc%8f%e6%94%be%e9%80%81) | 公式放送 (Koushiki HouSou) is a Japanese term that refers to official broadcasts, such as those from television networks or streaming services. It can also refer to live events that are broadcast on these platforms. In English, it can be translated as "official broadcast". |
+| 37 | [太陽のトマト麺](http://twitter.com/search?q=%e5%a4%aa%e9%99%bd%e3%81%ae%e3%83%88%e3%83%9e%e3%83%88%e9%ba%ba) | N/A |
+| 38 | [小少将の君](http://twitter.com/search?q=%e5%b0%8f%e5%b0%91%e5%b0%86%e3%81%ae%e5%90%9b) | N/A |
+| 39 | [れのちゃん](http://twitter.com/search?q=%e3%82%8c%e3%81%ae%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [ディレイ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ac%e3%82%a4) | ディレイ is a Japanese word that means "delay". It is used to refer to a period of time in which something is postponed or delayed. |
+| 41 | [マイナ事業](http://twitter.com/search?q=%e3%83%9e%e3%82%a4%e3%83%8a%e4%ba%8b%e6%a5%ad) | N/A |
+| 42 | [secret base](http://twitter.com/search?q=secret+base) | N/A |
+| 43 | [メロン狩り](http://twitter.com/search?q=%e3%83%a1%e3%83%ad%e3%83%b3%e7%8b%a9%e3%82%8a) | N/A |
+| 44 | [カード発行法人の発注](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%89%e7%99%ba%e8%a1%8c%e6%b3%95%e4%ba%ba%e3%81%ae%e7%99%ba%e6%b3%a8) | N/A |
+| 45 | [ダイアン](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%a2%e3%83%b3) | N/A |
+| 46 | [水川あさみ](http://twitter.com/search?q=%e6%b0%b4%e5%b7%9d%e3%81%82%e3%81%95%e3%81%bf) | 水川あさみ is a Japanese female name. It is composed of two characters: 水 (mizu, meaning water) and 川 (kawa, meaning river). The name can be translated to English as "River of Water". |
+| 47 | [うっしゃっしゃっ](http://twitter.com/search?q=%e3%81%86%e3%81%a3%e3%81%97%e3%82%83%e3%81%a3%e3%81%97%e3%82%83%e3%81%a3) | N/A |
+| 48 | [せつ菜ちゃん](http://twitter.com/search?q=%e3%81%9b%e3%81%a4%e8%8f%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 49 | [村上信五](http://twitter.com/search?q=%e6%9d%91%e4%b8%8a%e4%bf%a1%e4%ba%94) | N/A |
 
 
 

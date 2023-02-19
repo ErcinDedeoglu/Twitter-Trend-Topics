@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-19 14:17:09 UTC`
+📆 Last Updated: `2023-02-19 15:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#2M400KbeBBhoney](http://twitter.com/search?q=%232M400KbeBBhoney) | N/A |
+| 1 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
 | 2 | [#ทฤษฎีสีชมพูจบบริบูรณ์](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%a4%e0%b8%a9%e0%b8%8e%e0%b8%b5%e0%b8%aa%e0%b8%b5%e0%b8%8a%e0%b8%a1%e0%b8%9e%e0%b8%b9%e0%b8%88%e0%b8%9a%e0%b8%9a%e0%b8%a3%e0%b8%b4%e0%b8%9a%e0%b8%b9%e0%b8%a3%e0%b8%93%e0%b9%8c) | N/A |
-| 3 | [#BUILDxMOMMAE](http://twitter.com/search?q=%23BUILDxMOMMAE) | N/A |
+| 3 | [#StreamingForDHH](http://twitter.com/search?q=%23StreamingForDHH) | N/A |
 | 4 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
 | 5 | [build slay mommae](http://twitter.com/search?q=build+slay+mommae) | N/A |
 | 6 | [#OhmNanonFMVN2023](http://twitter.com/search?q=%23OhmNanonFMVN2023) | N/A |
-| 7 | [#FarmhouseShopeexMileApo](http://twitter.com/search?q=%23FarmhouseShopeexMileApo) | N/A |
-| 8 | [JIMIN CHO ARMY XEM TATOO VỚI](http://twitter.com/search?q=JIMIN+CHO+ARMY+XEM+TATOO+V%e1%bb%9aI) | N/A |
-| 9 | [our sunshine our hope](http://twitter.com/search?q=our+sunshine+our+hope) | N/A |
-| 10 | [OUR PRESENT AND FUTURE J-HOPE](http://twitter.com/search?q=OUR+PRESENT+AND+FUTURE+J-HOPE) | N/A |
-| 11 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
-| 12 | [UP AND DOWN](http://twitter.com/search?q=UP+AND+DOWN) | N/A |
-| 13 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
-| 14 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 15 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 16 | [ohm in vn](http://twitter.com/search?q=ohm+in+vn) | N/A |
-| 17 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
-| 18 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 19 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 20 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 21 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
-| 22 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 23 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 24 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
-| 25 | [President](http://twitter.com/search?q=President) | N/A |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 28 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 29 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
-| 30 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 35 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 36 | [Eagle Rock NFts](http://twitter.com/search?q=Eagle+Rock+NFts) | N/A |
-| 37 | [good mewning](http://twitter.com/search?q=good+mewning) | N/A |
-| 38 | [Trần Minh Nhật](http://twitter.com/search?q=Tr%e1%ba%a7n+Minh+Nh%e1%ba%adt) | N/A |
-| 39 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 40 | [Trung](http://twitter.com/search?q=Trung) | N/A |
-| 41 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 42 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
-| 43 | [DeFi](http://twitter.com/search?q=DeFi) | N/A |
-| 44 | [Scam](http://twitter.com/search?q=Scam) | N/A |
-| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 7 | [JIMIN CHO ARMY XEM TATOO VỚI](http://twitter.com/search?q=JIMIN+CHO+ARMY+XEM+TATOO+V%e1%bb%9aI) | N/A |
+| 8 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 9 | [#FarmhouseShopeexMileApo](http://twitter.com/search?q=%23FarmhouseShopeexMileApo) | N/A |
+| 10 | [#DANGHONGHAI](http://twitter.com/search?q=%23DANGHONGHAI) | N/A |
+| 11 | [our sunshine our hope](http://twitter.com/search?q=our+sunshine+our+hope) | N/A |
+| 12 | [Babiu](http://twitter.com/search?q=Babiu) | N/A |
+| 13 | [OUR PRESENT AND FUTURE J-HOPE](http://twitter.com/search?q=OUR+PRESENT+AND+FUTURE+J-HOPE) | N/A |
+| 14 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
+| 15 | [VIF X GULFHAZARD](http://twitter.com/search?q=VIF+X+GULFHAZARD) | N/A |
+| 16 | [UP AND DOWN](http://twitter.com/search?q=UP+AND+DOWN) | N/A |
+| 17 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 18 | [rikimaru 1st](http://twitter.com/search?q=rikimaru+1st) | N/A |
+| 19 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
+| 20 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 21 | [ohm in vn](http://twitter.com/search?q=ohm+in+vn) | N/A |
+| 22 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 23 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 24 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
+| 25 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 28 | [Sáng](http://twitter.com/search?q=S%c3%a1ng) | N/A |
+| 29 | [Byls](http://twitter.com/search?q=Byls) | N/A |
+| 30 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 31 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 33 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
+| 34 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 35 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 37 | [Trần Minh Nhật](http://twitter.com/search?q=Tr%e1%ba%a7n+Minh+Nh%e1%ba%adt) | N/A |
+| 38 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 39 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 40 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 41 | [Thật](http://twitter.com/search?q=Th%e1%ba%adt) | N/A |
+| 42 | [President](http://twitter.com/search?q=President) | N/A |
+| 43 | [eagle rock nfts](http://twitter.com/search?q=eagle+rock+nfts) | N/A |
+| 44 | [$ftm](http://twitter.com/search?q=%24ftm) | N/A |
+| 45 | [Thai](http://twitter.com/search?q=Thai) | N/A |
+| 46 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
+| 47 | [Trung](http://twitter.com/search?q=Trung) | N/A |
+| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 49 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 50 | [Scam](http://twitter.com/search?q=Scam) | N/A |
 
 
 

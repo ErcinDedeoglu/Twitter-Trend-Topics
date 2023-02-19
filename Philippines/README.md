@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-19 14:17:36 UTC`
+📆 Last Updated: `2023-02-19 15:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for Philippines
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jake](http://twitter.com/search?q=jake) | N/A |
-| 2 | [#JoshCullenTeaserPhoto](http://twitter.com/search?q=%23JoshCullenTeaserPhoto) | N/A |
-| 3 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
-| 4 | [#askBarbie](http://twitter.com/search?q=%23askBarbie) | N/A |
-| 5 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
-| 6 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
-| 7 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 8 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
-| 9 | [allforone asapwithbelle](http://twitter.com/search?q=allforone+asapwithbelle) | N/A |
-| 10 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
-| 11 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 12 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 13 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 14 | [WET THE BED](http://twitter.com/search?q=WET+THE+BED) | N/A |
-| 15 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
-| 16 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 17 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 18 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
-| 19 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 20 | [zach charms pangasinan](http://twitter.com/search?q=zach+charms+pangasinan) | N/A |
-| 21 | [JULIEVER ClashMasters](http://twitter.com/search?q=JULIEVER+ClashMasters) | N/A |
-| 22 | [PIEwer VOTE FOR ANJI](http://twitter.com/search?q=PIEwer+VOTE+FOR+ANJI) | N/A |
-| 23 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 24 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 25 | [alam by sarahgxjroa](http://twitter.com/search?q=alam+by+sarahgxjroa) | N/A |
-| 26 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 27 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
-| 28 | [walang aray sa kdlex](http://twitter.com/search?q=walang+aray+sa+kdlex) | N/A |
-| 29 | [JulieAnne ClashMaster](http://twitter.com/search?q=JulieAnne+ClashMaster) | N/A |
-| 30 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
-| 31 | [ZACHAM PieGalingan SaEPL](http://twitter.com/search?q=ZACHAM+PieGalingan+SaEPL) | N/A |
-| 32 | [sundrei goodvibes](http://twitter.com/search?q=sundrei+goodvibes) | N/A |
-| 33 | [bini sa cosmos 2023](http://twitter.com/search?q=bini+sa+cosmos+2023) | N/A |
-| 34 | [hwanderfulyears with junghwan](http://twitter.com/search?q=hwanderfulyears+with+junghwan) | N/A |
-| 35 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
-| 36 | [mc hwasa](http://twitter.com/search?q=mc+hwasa) | N/A |
-| 37 | [kehlani](http://twitter.com/search?q=kehlani) | N/A |
-| 38 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
-| 39 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 40 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
-| 41 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 42 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 43 | [PRIORITIZE JIN ON MUBEAT](http://twitter.com/search?q=PRIORITIZE+JIN+ON+MUBEAT) | N/A |
-| 44 | [sunoo red hair](http://twitter.com/search?q=sunoo+red+hair) | N/A |
-| 45 | [ES2 SEASON FINALE](http://twitter.com/search?q=ES2+SEASON+FINALE) | N/A |
-| 46 | [Primo](http://twitter.com/search?q=Primo) | N/A |
-| 47 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 48 | [asapfeboritonatinto jona](http://twitter.com/search?q=asapfeboritonatinto+jona) | N/A |
-| 49 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 50 | [gumabao](http://twitter.com/search?q=gumabao) | N/A |
+| 1 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
+| 2 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 3 | [#JoshCullenTeaserPhoto](http://twitter.com/search?q=%23JoshCullenTeaserPhoto) | N/A |
+| 4 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
+| 5 | [#NasaanKaReyster](http://twitter.com/search?q=%23NasaanKaReyster) | N/A |
+| 6 | [#WishDateFalling](http://twitter.com/search?q=%23WishDateFalling) | N/A |
+| 7 | [#AskBarbie](http://twitter.com/search?q=%23AskBarbie) | N/A |
+| 8 | [TZUYU](http://twitter.com/search?q=TZUYU) | TZUYU is the stage name of a Taiwanese singer and dancer, Chou Tzu-yu. She is a member of the South Korean girl group Twice. The name TZUYU is derived from her given name, which means "knowing one's purpose" in Chinese. |
+| 9 | [Ate J](http://twitter.com/search?q=Ate+J) | N/A |
+| 10 | [ONEW](http://twitter.com/search?q=ONEW) | N/A |
+| 11 | [RED HAIR](http://twitter.com/search?q=RED+HAIR) | N/A |
+| 12 | [Cash](http://twitter.com/search?q=Cash) | N/A |
+| 13 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 14 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 15 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 16 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
+| 17 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 18 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
+| 19 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 20 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 21 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 22 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
+| 23 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 24 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 25 | [Ni-ki](http://twitter.com/search?q=Ni-ki) | N/A |
+| 26 | [Raica](http://twitter.com/search?q=Raica) | N/A |
+| 27 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 28 | [Math](http://twitter.com/search?q=Math) | N/A |
+| 29 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
+| 30 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
+| 31 | [#CrashCourseInRomanceEp12](http://twitter.com/search?q=%23CrashCourseInRomanceEp12) | N/A |
+| 32 | [#KMJS](http://twitter.com/search?q=%23KMJS) | N/A |
+| 33 | [#EverybodySingLove](http://twitter.com/search?q=%23EverybodySingLove) | N/A |
+| 34 | [#TeamVinciGlobalLaunch](http://twitter.com/search?q=%23TeamVinciGlobalLaunch) | N/A |
+| 35 | [#FarmhouseShopeexMileApo](http://twitter.com/search?q=%23FarmhouseShopeexMileApo) | N/A |
+| 36 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
+| 37 | [#ChowFanaloTakeover](http://twitter.com/search?q=%23ChowFanaloTakeover) | N/A |
+| 38 | [#BGYOxChowking](http://twitter.com/search?q=%23BGYOxChowking) | N/A |
+| 39 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
+| 40 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
+| 41 | [#BSS5thWin](http://twitter.com/search?q=%23BSS5thWin) | N/A |
+| 42 | [#g22_annivcb](http://twitter.com/search?q=%23g22_annivcb) | N/A |
+| 43 | [#BOYCOTTEBxGMA711](http://twitter.com/search?q=%23BOYCOTTEBxGMA711) | N/A |
+| 44 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
+| 45 | [#방탄소년단진](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%a7%84) | N/A |
+| 46 | [#부석순_인기가요_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%b8%ea%b8%b0%ea%b0%80%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 47 | [#TheAstronaut](http://twitter.com/search?q=%23TheAstronaut) | N/A |
+| 48 | [#ATINKuharili](http://twitter.com/search?q=%23ATINKuharili) | N/A |
+| 49 | [#STELLJUN](http://twitter.com/search?q=%23STELLJUN) | N/A |
 
 
 

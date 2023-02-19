@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-19 14:16:56 UTC`
+📆 Last Updated: `2023-02-19 15:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
-| 2 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 3 | [#AtalantaLecce](http://twitter.com/search?q=%23AtalantaLecce) | N/A |
-| 4 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 5 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
-| 6 | [#mezzorainpiu](http://twitter.com/search?q=%23mezzorainpiu) | N/A |
-| 7 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 8 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 9 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 10 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 2 | [#DomenicaIn](http://twitter.com/search?q=%23DomenicaIn) | N/A |
+| 3 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 4 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 5 | [#AtalantaLecce](http://twitter.com/search?q=%23AtalantaLecce) | N/A |
+| 6 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
+| 7 | [#mezzorainpiu](http://twitter.com/search?q=%23mezzorainpiu) | N/A |
+| 8 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 9 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 10 | [Samu](http://twitter.com/search?q=Samu) | N/A |
 | 11 | [Gigante](http://twitter.com/search?q=Gigante) | N/A |
-| 12 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
-| 13 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 14 | [Federica](http://twitter.com/search?q=Federica) | N/A |
-| 15 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 16 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 17 | [Falcone](http://twitter.com/search?q=Falcone) | N/A |
-| 18 | [Vessicchio](http://twitter.com/search?q=Vessicchio) | N/A |
-| 19 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 20 | [Sangio](http://twitter.com/search?q=Sangio) | N/A |
-| 21 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 23 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
-| 24 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
-| 25 | [Israele](http://twitter.com/search?q=Israele) | N/A |
-| 26 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
-| 27 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
-| 28 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 29 | [Damasco](http://twitter.com/search?q=Damasco) | N/A |
-| 30 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 31 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
-| 32 | [#psglille](http://twitter.com/search?q=%23psglille) | N/A |
-| 33 | [#Vinatzer](http://twitter.com/search?q=%23Vinatzer) | N/A |
-| 34 | [#Fedez](http://twitter.com/search?q=%23Fedez) | N/A |
-| 35 | [#SalernitanaLazio](http://twitter.com/search?q=%23SalernitanaLazio) | N/A |
-| 36 | [#CourchevelMéribel2023](http://twitter.com/search?q=%23CourchevelM%c3%a9ribel2023) | N/A |
-| 37 | [#19febbraio](http://twitter.com/search?q=%2319febbraio) | N/A |
-| 38 | [#MassimoTroisi](http://twitter.com/search?q=%23MassimoTroisi) | N/A |
-| 39 | [#FiorentinaEmpoli](http://twitter.com/search?q=%23FiorentinaEmpoli) | N/A |
-| 40 | [#liceomichelangiolo](http://twitter.com/search?q=%23liceomichelangiolo) | N/A |
-| 41 | [#Fuoridalcoro](http://twitter.com/search?q=%23Fuoridalcoro) | N/A |
-| 42 | [#EurosportSCI](http://twitter.com/search?q=%23EurosportSCI) | N/A |
-| 43 | [#AzioneStudentesca](http://twitter.com/search?q=%23AzioneStudentesca) | N/A |
-| 44 | [#matrice](http://twitter.com/search?q=%23matrice) | N/A |
-| 45 | [#fascisti](http://twitter.com/search?q=%23fascisti) | N/A |
-| 46 | [#carnevale2023](http://twitter.com/search?q=%23carnevale2023) | N/A |
-| 47 | [#facciamorete](http://twitter.com/search?q=%23facciamorete) | N/A |
-| 48 | [#fuorionestini](http://twitter.com/search?q=%23fuorionestini) | N/A |
-| 49 | [#SpeziaJuve](http://twitter.com/search?q=%23SpeziaJuve) | N/A |
+| 12 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 13 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 14 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 15 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 16 | [Ramon](http://twitter.com/search?q=Ramon) | N/A |
+| 17 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 18 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 19 | [Emanuel](http://twitter.com/search?q=Emanuel) | N/A |
+| 20 | [Federica](http://twitter.com/search?q=Federica) | N/A |
+| 21 | [Falcone](http://twitter.com/search?q=Falcone) | N/A |
+| 22 | [Isobel](http://twitter.com/search?q=Isobel) | Isobel is a feminine given name of Scottish origin. It is derived from the Hebrew name Elizabeth, which means “God is my oath”. |
+| 23 | [Fini](http://twitter.com/search?q=Fini) | N/A |
+| 24 | [Vessicchio](http://twitter.com/search?q=Vessicchio) | N/A |
+| 25 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
+| 26 | [Sangiovanni](http://twitter.com/search?q=Sangiovanni) | N/A |
+| 27 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 28 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 29 | [Gasperini](http://twitter.com/search?q=Gasperini) | N/A |
+| 30 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
+| 31 | [Israele](http://twitter.com/search?q=Israele) | N/A |
+| 32 | [Damasco](http://twitter.com/search?q=Damasco) | N/A |
+| 33 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 34 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
+| 35 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 36 | [#HanKergoodhearts](http://twitter.com/search?q=%23HanKergoodhearts) | N/A |
+| 37 | [#FiorentinaEmpoli](http://twitter.com/search?q=%23FiorentinaEmpoli) | N/A |
+| 38 | [#SalernitanaLazio](http://twitter.com/search?q=%23SalernitanaLazio) | N/A |
+| 39 | [#Fedez](http://twitter.com/search?q=%23Fedez) | N/A |
+| 40 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
+| 41 | [#psglille](http://twitter.com/search?q=%23psglille) | N/A |
+| 42 | [#Messi](http://twitter.com/search?q=%23Messi) | N/A |
+| 43 | [#Vinatzer](http://twitter.com/search?q=%23Vinatzer) | N/A |
+| 44 | [#CourchevelMéribel2023](http://twitter.com/search?q=%23CourchevelM%c3%a9ribel2023) | N/A |
+| 45 | [#19febbraio](http://twitter.com/search?q=%2319febbraio) | N/A |
+| 46 | [#fuoridalcoro](http://twitter.com/search?q=%23fuoridalcoro) | N/A |
+| 47 | [#liceomichelangiolo](http://twitter.com/search?q=%23liceomichelangiolo) | N/A |
+| 48 | [#MassimoTroisi](http://twitter.com/search?q=%23MassimoTroisi) | N/A |
+| 49 | [#EurosportSCI](http://twitter.com/search?q=%23EurosportSCI) | N/A |
 
 
 

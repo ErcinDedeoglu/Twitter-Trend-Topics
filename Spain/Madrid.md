@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-19 14:16:58 UTC`
+📆 Last Updated: `2023-02-19 15:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Abascal](http://twitter.com/search?q=Abascal) | N/A |
-| 2 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 3 | [Olona](http://twitter.com/search?q=Olona) | N/A |
+| 1 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
+| 2 | [Olona](http://twitter.com/search?q=Olona) | N/A |
+| 3 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
 | 4 | [#Supervivientes2023](http://twitter.com/search?q=%23Supervivientes2023) | N/A |
-| 5 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 6 | [#MinicopaEndesa](http://twitter.com/search?q=%23MinicopaEndesa) | N/A |
-| 7 | [#carnavalCEX](http://twitter.com/search?q=%23carnavalCEX) | N/A |
+| 5 | [Darder](http://twitter.com/search?q=Darder) | N/A |
+| 6 | [#rcde](http://twitter.com/search?q=%23rcde) | N/A |
+| 7 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
 | 8 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 9 | [Luis Campos](http://twitter.com/search?q=Luis+Campos) | N/A |
-| 10 | [Jaime Nava](http://twitter.com/search?q=Jaime+Nava) | N/A |
-| 11 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 12 | [#ElcheEspanyol](http://twitter.com/search?q=%23ElcheEspanyol) | N/A |
-| 13 | [Depor](http://twitter.com/search?q=Depor) | N/A |
-| 14 | [Martínez Valero](http://twitter.com/search?q=Mart%c3%adnez+Valero) | N/A |
-| 15 | [Simo](http://twitter.com/search?q=Simo) | N/A |
-| 16 | [Talavera](http://twitter.com/search?q=Talavera) | N/A |
-| 17 | [El Alcoraz](http://twitter.com/search?q=El+Alcoraz) | N/A |
-| 18 | [Casado](http://twitter.com/search?q=Casado) | N/A |
-| 19 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 20 | [Vilda](http://twitter.com/search?q=Vilda) | N/A |
-| 21 | [Buen Domingo](http://twitter.com/search?q=Buen+Domingo) | N/A |
-| 22 | [Seat 1400](http://twitter.com/search?q=Seat+1400) | N/A |
-| 23 | [El Prado](http://twitter.com/search?q=El+Prado) | N/A |
-| 24 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 25 | [Suárez](http://twitter.com/search?q=Su%c3%a1rez) | Suárez is a Spanish surname. It is derived from the Latin word "suarius," which means "of the swineherd." In English, it can be translated to mean "swineherd." |
-| 26 | [Alba Carrillo](http://twitter.com/search?q=Alba+Carrillo) | N/A |
-| 27 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 28 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 29 | [Jorge Pérez](http://twitter.com/search?q=Jorge+P%c3%a9rez) | N/A |
-| 30 | [Munuera](http://twitter.com/search?q=Munuera) | N/A |
-| 31 | [Domingo 19](http://twitter.com/search?q=Domingo+19) | N/A |
-| 32 | [Paz Padilla](http://twitter.com/search?q=Paz+Padilla) | N/A |
-| 33 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 34 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 35 | [#HuescaGranada](http://twitter.com/search?q=%23HuescaGranada) | N/A |
-| 36 | [#APOYOROCIO19F](http://twitter.com/search?q=%23APOYOROCIO19F) | N/A |
-| 37 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
-| 38 | [#LGTBIfobia](http://twitter.com/search?q=%23LGTBIfobia) | N/A |
-| 39 | [#RayoSevillaFC](http://twitter.com/search?q=%23RayoSevillaFC) | N/A |
-| 40 | [#CCubicos313](http://twitter.com/search?q=%23CCubicos313) | N/A |
-| 41 | [#YoMeRebelo19F](http://twitter.com/search?q=%23YoMeRebelo19F) | N/A |
-| 42 | [#CEatletismoPC](http://twitter.com/search?q=%23CEatletismoPC) | N/A |
-| 43 | [#TerceraRFEF](http://twitter.com/search?q=%23TerceraRFEF) | N/A |
-| 44 | [#Llorona](http://twitter.com/search?q=%23Llorona) | N/A |
+| 9 | [Omar Fraile](http://twitter.com/search?q=Omar+Fraile) | N/A |
+| 10 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 11 | [Pacheco](http://twitter.com/search?q=Pacheco) | Pacheco is a Spanish surname. It is derived from the Latin word pascalis, meaning "of the paschal season". In English, it can be translated to mean "of Easter". |
+| 12 | [Landoure](http://twitter.com/search?q=Landoure) | N/A |
+| 13 | [#MinicopaEndesa](http://twitter.com/search?q=%23MinicopaEndesa) | N/A |
+| 14 | [#carnavalCEX](http://twitter.com/search?q=%23carnavalCEX) | N/A |
+| 15 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 16 | [Granada](http://twitter.com/search?q=Granada) | N/A |
+| 17 | [Luis Campos](http://twitter.com/search?q=Luis+Campos) | N/A |
+| 18 | [Weissman](http://twitter.com/search?q=Weissman) | N/A |
+| 19 | [El Elche](http://twitter.com/search?q=El+Elche) | N/A |
+| 20 | [El Alcoraz](http://twitter.com/search?q=El+Alcoraz) | N/A |
+| 21 | [Jaime Nava](http://twitter.com/search?q=Jaime+Nava) | N/A |
+| 22 | [Martínez Valero](http://twitter.com/search?q=Mart%c3%adnez+Valero) | N/A |
+| 23 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
+| 24 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 25 | [Talavera](http://twitter.com/search?q=Talavera) | N/A |
+| 26 | [Depor](http://twitter.com/search?q=Depor) | N/A |
+| 27 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 28 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 29 | [Quique](http://twitter.com/search?q=Quique) | N/A |
+| 30 | [Simo](http://twitter.com/search?q=Simo) | N/A |
+| 31 | [Casado](http://twitter.com/search?q=Casado) | N/A |
+| 32 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 33 | [Vilda](http://twitter.com/search?q=Vilda) | N/A |
+| 34 | [El Prado](http://twitter.com/search?q=El+Prado) | N/A |
+| 35 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
+| 36 | [Copa de la Reina](http://twitter.com/search?q=Copa+de+la+Reina) | N/A |
+| 37 | [Troya](http://twitter.com/search?q=Troya) | N/A |
+| 38 | [Alba Carrillo](http://twitter.com/search?q=Alba+Carrillo) | N/A |
+| 39 | [Jorge Pérez](http://twitter.com/search?q=Jorge+P%c3%a9rez) | N/A |
+| 40 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 41 | [Sampaoli](http://twitter.com/search?q=Sampaoli) | Sampaoli is a Spanish surname. It is derived from the Latin word sampo, which means "harvest". In English, it can be translated to mean "harvester". |
+| 42 | [McClung](http://twitter.com/search?q=McClung) | N/A |
+| 43 | [Paz Padilla](http://twitter.com/search?q=Paz+Padilla) | N/A |
+| 44 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 45 | [#RayoSevillaFC](http://twitter.com/search?q=%23RayoSevillaFC) | N/A |
+| 46 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
+| 47 | [#APOYOROCIO19F](http://twitter.com/search?q=%23APOYOROCIO19F) | N/A |
+| 48 | [#LGTBIfobia](http://twitter.com/search?q=%23LGTBIfobia) | N/A |
+| 49 | [#YoMeRebelo19F](http://twitter.com/search?q=%23YoMeRebelo19F) | N/A |
+| 50 | [#LaLigaSmartBank](http://twitter.com/search?q=%23LaLigaSmartBank) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-02-19 14:16:50 UTC`
+📆 Last Updated: `2023-02-19 15:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
-| 2 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 3 | [#FrancesNaESPN](http://twitter.com/search?q=%23FrancesNaESPN) | N/A |
-| 4 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 5 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
-| 6 | [LARISSA EXPULSA](http://twitter.com/search?q=LARISSA+EXPULSA) | N/A |
-| 7 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 8 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
-| 9 | [Domingo de Carnaval](http://twitter.com/search?q=Domingo+de+Carnaval) | N/A |
-| 10 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 11 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 12 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
-| 13 | [#foralarissa](http://twitter.com/search?q=%23foralarissa) | N/A |
-| 14 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 15 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 16 | [Se a Larissa](http://twitter.com/search?q=Se+a+Larissa) | N/A |
-| 17 | [Gosto da Larissa](http://twitter.com/search?q=Gosto+da+Larissa) | N/A |
+| 1 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 2 | [Campo Grande](http://twitter.com/search?q=Campo+Grande) | N/A |
+| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 4 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 5 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 6 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 7 | [#FrancesNaESPN](http://twitter.com/search?q=%23FrancesNaESPN) | N/A |
+| 8 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 9 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
+| 10 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
+| 11 | [LARISSA EXPULSA](http://twitter.com/search?q=LARISSA+EXPULSA) | N/A |
+| 12 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 13 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 14 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 15 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 16 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 17 | [Vinagrete](http://twitter.com/search?q=Vinagrete) | N/A |
 | 18 | [jonah](http://twitter.com/search?q=jonah) | N/A |
-| 19 | [ELE VOLTOU](http://twitter.com/search?q=ELE+VOLTOU) | N/A |
-| 20 | [O Neymar](http://twitter.com/search?q=O+Neymar) | N/A |
-| 21 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 22 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 23 | [#GlobelezaDragõesDaReal](http://twitter.com/search?q=%23GlobelezaDrag%c3%b5esDaReal) | N/A |
-| 24 | [#BometThanksgivingDay](http://twitter.com/search?q=%23BometThanksgivingDay) | N/A |
-| 25 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
-| 26 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
-| 27 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
-| 28 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
-| 29 | [Império da Tijuca](http://twitter.com/search?q=Imp%c3%a9rio+da+Tijuca) | N/A |
-| 30 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
-| 31 | [lito](http://twitter.com/search?q=lito) | N/A |
-| 32 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 33 | [daniel caesar](http://twitter.com/search?q=daniel+caesar) | N/A |
-| 34 | [Guarujá](http://twitter.com/search?q=Guaruj%c3%a1) | N/A |
-| 35 | [São Pedro](http://twitter.com/search?q=S%c3%a3o+Pedro) | N/A |
-| 36 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 37 | [No Carnaval](http://twitter.com/search?q=No+Carnaval) | N/A |
-| 38 | [Sodoma e Gomorra](http://twitter.com/search?q=Sodoma+e+Gomorra) | N/A |
-| 39 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 40 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
-| 41 | [Ibirapuera](http://twitter.com/search?q=Ibirapuera) | N/A |
-| 42 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
-| 43 | [Chico Xavier](http://twitter.com/search?q=Chico+Xavier) | N/A |
-| 44 | [União da Ilha](http://twitter.com/search?q=Uni%c3%a3o+da+Ilha) | N/A |
-| 45 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 46 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 47 | [bocardi](http://twitter.com/search?q=bocardi) | N/A |
-| 48 | [Skol Beats](http://twitter.com/search?q=Skol+Beats) | N/A |
-| 49 | [#DomingoDetremuraSDV](http://twitter.com/search?q=%23DomingoDetremuraSDV) | N/A |
+| 19 | [Domingo de Carnaval](http://twitter.com/search?q=Domingo+de+Carnaval) | N/A |
+| 20 | [#foralarissa](http://twitter.com/search?q=%23foralarissa) | N/A |
+| 21 | [Se a Larissa](http://twitter.com/search?q=Se+a+Larissa) | N/A |
+| 22 | [Gosto da Larissa](http://twitter.com/search?q=Gosto+da+Larissa) | N/A |
+| 23 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 24 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 25 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 26 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
+| 27 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 28 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
+| 29 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
+| 30 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 31 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
+| 32 | [Agrediu](http://twitter.com/search?q=Agrediu) | N/A |
+| 33 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 34 | [Manuel Capasso](http://twitter.com/search?q=Manuel+Capasso) | N/A |
+| 35 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 36 | [ELE VOLTOU](http://twitter.com/search?q=ELE+VOLTOU) | N/A |
+| 37 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
+| 38 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 39 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
+| 40 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
+| 41 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 42 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
+| 43 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 44 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 45 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 46 | [Império da Tijuca](http://twitter.com/search?q=Imp%c3%a9rio+da+Tijuca) | N/A |
+| 47 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
+| 48 | [lito](http://twitter.com/search?q=lito) | N/A |
+| 49 | [Que Carnaval](http://twitter.com/search?q=Que+Carnaval) | N/A |
+| 50 | [Dragões](http://twitter.com/search?q=Drag%c3%b5es) | N/A |
 
 
 

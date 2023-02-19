@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Middlesbrough
 
-📆 Last Updated: `2023-02-19 14:16:42 UTC`
+📆 Last Updated: `2023-02-19 15:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 2 | [LTNs](http://twitter.com/search?q=LTNs) | N/A |
-| 3 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 4 | [#ToryBrexitDisaster](http://twitter.com/search?q=%23ToryBrexitDisaster) | N/A |
-| 5 | [#COYI](http://twitter.com/search?q=%23COYI) | N/A |
-| 6 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 7 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 8 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 10 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
-| 11 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 12 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
-| 13 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
-| 14 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
-| 15 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
-| 16 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 17 | [Toughsheet](http://twitter.com/search?q=Toughsheet) | N/A |
-| 18 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
-| 19 | [Hash](http://twitter.com/search?q=Hash) | N/A |
-| 20 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 21 | [JANETTE](http://twitter.com/search?q=JANETTE) | N/A |
-| 22 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 23 | [McKay](http://twitter.com/search?q=McKay) | N/A |
-| 24 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 25 | [Beans](http://twitter.com/search?q=Beans) | N/A |
-| 26 | [Leyton Orient](http://twitter.com/search?q=Leyton+Orient) | N/A |
-| 27 | [Devlin](http://twitter.com/search?q=Devlin) | N/A |
-| 28 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
-| 29 | [Fried](http://twitter.com/search?q=Fried) | N/A |
-| 30 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 31 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 32 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
-| 33 | [Happy 2nd](http://twitter.com/search?q=Happy+2nd) | N/A |
-| 34 | [Black Pudding](http://twitter.com/search?q=Black+Pudding) | N/A |
-| 35 | [Madri](http://twitter.com/search?q=Madri) | N/A |
-| 36 | [ASBOs](http://twitter.com/search?q=ASBOs) | N/A |
-| 37 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
-| 38 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 39 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
-| 40 | [Laurie](http://twitter.com/search?q=Laurie) | N/A |
-| 41 | [Mansfield](http://twitter.com/search?q=Mansfield) | N/A |
-| 42 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 43 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
-| 44 | [Observer](http://twitter.com/search?q=Observer) | N/A |
-| 45 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
-| 46 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
-| 47 | [Eggs](http://twitter.com/search?q=Eggs) | N/A |
-| 48 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
-| 49 | [Full English](http://twitter.com/search?q=Full+English) | N/A |
+| 1 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
+| 2 | [Lionesses](http://twitter.com/search?q=Lionesses) | N/A |
+| 3 | [#ArnoldClarkCup](http://twitter.com/search?q=%23ArnoldClarkCup) | N/A |
+| 4 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 5 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
+| 6 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 7 | [#COYI](http://twitter.com/search?q=%23COYI) | N/A |
+| 8 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 9 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
+| 10 | [#Lux2](http://twitter.com/search?q=%23Lux2) | N/A |
+| 11 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 12 | [Sainsbury](http://twitter.com/search?q=Sainsbury) | N/A |
+| 13 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 14 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
+| 15 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 16 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 17 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 18 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 20 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 22 | [Faes](http://twitter.com/search?q=Faes) | N/A |
+| 23 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 24 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
+| 25 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 26 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 27 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 28 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
+| 29 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 30 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
+| 31 | [Souttar](http://twitter.com/search?q=Souttar) | N/A |
+| 32 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
+| 33 | [Toughsheet](http://twitter.com/search?q=Toughsheet) | N/A |
+| 34 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
+| 35 | [Hash](http://twitter.com/search?q=Hash) | N/A |
+| 36 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 37 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
+| 38 | [sarina](http://twitter.com/search?q=sarina) | N/A |
+| 39 | [janette](http://twitter.com/search?q=janette) | N/A |
+| 40 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 41 | [Beans](http://twitter.com/search?q=Beans) | N/A |
+| 42 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 43 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 44 | [Leyton Orient](http://twitter.com/search?q=Leyton+Orient) | N/A |
+| 45 | [Kettlewell](http://twitter.com/search?q=Kettlewell) | N/A |
+| 46 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
+| 47 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
+| 48 | [Devlin](http://twitter.com/search?q=Devlin) | N/A |
+| 49 | [ASBOs](http://twitter.com/search?q=ASBOs) | N/A |
 
 
 
