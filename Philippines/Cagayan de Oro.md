@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-19 03:20:40 UTC`
+📆 Last Updated: `2023-02-19 04:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 2 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 3 | [#TakoTimes3](http://twitter.com/search?q=%23TakoTimes3) | N/A |
-| 4 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 5 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
-| 6 | [AllForOne ASAPwithBELLE](http://twitter.com/search?q=AllForOne+ASAPwithBELLE) | N/A |
+| 1 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 2 | [AllForOne ASAPwithBELLE](http://twitter.com/search?q=AllForOne+ASAPwithBELLE) | N/A |
+| 3 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 4 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 5 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 6 | [#TakoTimes3](http://twitter.com/search?q=%23TakoTimes3) | N/A |
 | 7 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
-| 8 | [McClung](http://twitter.com/search?q=McClung) | N/A |
+| 8 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
 | 9 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 10 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 10 | [ASAPFEBoritoNatinTo JONA](http://twitter.com/search?q=ASAPFEBoritoNatinTo+JONA) | N/A |
 | 11 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
 | 12 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 13 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 14 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
+| 13 | [CONGRATS F2](http://twitter.com/search?q=CONGRATS+F2) | N/A |
+| 14 | [ALAM BY SARAHGxJROA](http://twitter.com/search?q=ALAM+BY+SARAHGxJROA) | N/A |
 | 15 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 16 | [jungwoo](http://twitter.com/search?q=jungwoo) | N/A |
-| 17 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
-| 18 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 19 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 16 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 17 | [Where You At](http://twitter.com/search?q=Where+You+At) | N/A |
+| 18 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 19 | [Dame Time](http://twitter.com/search?q=Dame+Time) | N/A |
 | 20 | [SUNOO RED HAIR](http://twitter.com/search?q=SUNOO+RED+HAIR) | N/A |
-| 21 | [SUNDREI GOODVIBES](http://twitter.com/search?q=SUNDREI+GOODVIBES) | N/A |
-| 22 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 23 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 24 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
-| 25 | [WALANG ARAY SA KDLEX](http://twitter.com/search?q=WALANG+ARAY+SA+KDLEX) | N/A |
-| 26 | [zach charms pangasinan](http://twitter.com/search?q=zach+charms+pangasinan) | N/A |
-| 27 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
-| 28 | [Rainy Sunday](http://twitter.com/search?q=Rainy+Sunday) | N/A |
-| 29 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 30 | [papangmasa with anji](http://twitter.com/search?q=papangmasa+with+anji) | N/A |
-| 31 | [BINI SA COSMOS 2023](http://twitter.com/search?q=BINI+SA+COSMOS+2023) | N/A |
-| 32 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
-| 33 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
-| 34 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
-| 35 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
-| 36 | [Queen Regine](http://twitter.com/search?q=Queen+Regine) | N/A |
-| 37 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 38 | [congratulations f2](http://twitter.com/search?q=congratulations+f2) | N/A |
-| 39 | [MPKpresents KOKOY LifeStory](http://twitter.com/search?q=MPKpresents+KOKOY+LifeStory) | N/A |
-| 40 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 41 | [Hot Performance of the Year](http://twitter.com/search?q=Hot+Performance+of+the+Year) | N/A |
-| 42 | [happy birthday dk](http://twitter.com/search?q=happy+birthday+dk) | N/A |
-| 43 | [kodrea at enchanted kingdom](http://twitter.com/search?q=kodrea+at+enchanted+kingdom) | N/A |
-| 44 | [mc hoon](http://twitter.com/search?q=mc+hoon) | N/A |
-| 45 | [Sasha](http://twitter.com/search?q=Sasha) | N/A |
-| 46 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
-| 47 | [Steph](http://twitter.com/search?q=Steph) | Steph is a shortened form of the name Stephanie, which is of Greek origin and means “crown” or “garland.” |
-| 48 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 49 | [melanie martinez](http://twitter.com/search?q=melanie+martinez) | N/A |
-| 50 | [ONE IN A BILLION](http://twitter.com/search?q=ONE+IN+A+BILLION) | N/A |
+| 21 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 22 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
+| 23 | [SUNDREI GOODVIBES](http://twitter.com/search?q=SUNDREI+GOODVIBES) | N/A |
+| 24 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 25 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 26 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 27 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 28 | [Sheena B UmaaLove](http://twitter.com/search?q=Sheena+B+UmaaLove) | N/A |
+| 29 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 30 | [AOS JulieSanJose](http://twitter.com/search?q=AOS+JulieSanJose) | N/A |
+| 31 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 32 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 33 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
+| 34 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 35 | [zach charms pangasinan](http://twitter.com/search?q=zach+charms+pangasinan) | N/A |
+| 36 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 37 | [Dunk Contest](http://twitter.com/search?q=Dunk+Contest) | N/A |
+| 38 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
+| 39 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 40 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 41 | [BINI SA COSMOS 2023](http://twitter.com/search?q=BINI+SA+COSMOS+2023) | N/A |
+| 42 | [papangmasa with anji](http://twitter.com/search?q=papangmasa+with+anji) | N/A |
+| 43 | [WALANG ARAY SA KDLEX](http://twitter.com/search?q=WALANG+ARAY+SA+KDLEX) | N/A |
+| 44 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
+| 45 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 46 | [Gumabao](http://twitter.com/search?q=Gumabao) | N/A |
+| 47 | [ALAMAT MAKIKISAYA SA BAGUIO](http://twitter.com/search?q=ALAMAT+MAKIKISAYA+SA+BAGUIO) | N/A |
+| 48 | [Ara Galang](http://twitter.com/search?q=Ara+Galang) | N/A |
+| 49 | [Queen Regine](http://twitter.com/search?q=Queen+Regine) | N/A |
+| 50 | [congratulations f2](http://twitter.com/search?q=congratulations+f2) | N/A |
 
 
 

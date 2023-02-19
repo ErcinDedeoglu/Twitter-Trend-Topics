@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-02-19 03:20:22 UTC`
+📆 Last Updated: `2023-02-19 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 2 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
+| 1 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
+| 2 | [McClung](http://twitter.com/search?q=McClung) | N/A |
 | 3 | [#GlobelezaMilênio](http://twitter.com/search?q=%23GlobelezaMil%c3%aanio) | N/A |
 | 4 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 5 | [McClung](http://twitter.com/search?q=McClung) | N/A |
+| 5 | [#nbanaespn](http://twitter.com/search?q=%23nbanaespn) | N/A |
 | 6 | [Grajaú](http://twitter.com/search?q=Graja%c3%ba) | N/A |
-| 7 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 8 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 9 | [Dame Time](http://twitter.com/search?q=Dame+Time) | N/A |
-| 10 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
-| 11 | [Tyler Herro](http://twitter.com/search?q=Tyler+Herro) | N/A |
-| 12 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 13 | [BIG NICACIO BRASIL](http://twitter.com/search?q=BIG+NICACIO+BRASIL) | N/A |
-| 14 | [Unidos da Ponte](http://twitter.com/search?q=Unidos+da+Ponte) | N/A |
-| 15 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 16 | [Huerter](http://twitter.com/search?q=Huerter) | N/A |
-| 17 | [Estrela](http://twitter.com/search?q=Estrela) | N/A |
-| 18 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 19 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 20 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 21 | [IGOR GUIMARÃES](http://twitter.com/search?q=IGOR+GUIMAR%c3%83ES) | N/A |
-| 22 | [Paulo Gustavo](http://twitter.com/search?q=Paulo+Gustavo) | Paulo Gustavo is a Brazilian actor, comedian, and screenwriter. His name is derived from the Portuguese words for "small" (Paulo) and "magnificent" (Gustavo). In English, his name can be translated to mean "small but magnificent". |
-| 23 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 24 | [#askbsd](http://twitter.com/search?q=%23askbsd) | N/A |
-| 25 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 26 | [Jacarepaguá](http://twitter.com/search?q=Jacarepagu%c3%a1) | N/A |
-| 27 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
-| 28 | [AKUTAGAWA](http://twitter.com/search?q=AKUTAGAWA) | N/A |
-| 29 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 30 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 7 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 8 | [Bezerra da Silva](http://twitter.com/search?q=Bezerra+da+Silva) | N/A |
+| 9 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 10 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 11 | [Dame Time](http://twitter.com/search?q=Dame+Time) | N/A |
+| 12 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 13 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 14 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 15 | [BIG NICACIO BRASIL](http://twitter.com/search?q=BIG+NICACIO+BRASIL) | N/A |
+| 16 | [Unidos da Ponte](http://twitter.com/search?q=Unidos+da+Ponte) | N/A |
+| 17 | [Unidos de Bangu](http://twitter.com/search?q=Unidos+de+Bangu) | N/A |
+| 18 | [Huerter](http://twitter.com/search?q=Huerter) | N/A |
+| 19 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 20 | [Estrela](http://twitter.com/search?q=Estrela) | N/A |
+| 21 | [Tyler Herro](http://twitter.com/search?q=Tyler+Herro) | N/A |
+| 22 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 23 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 24 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
+| 25 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 26 | [IGOR GUIMARÃES](http://twitter.com/search?q=IGOR+GUIMAR%c3%83ES) | N/A |
+| 27 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 28 | [Paulo Gustavo](http://twitter.com/search?q=Paulo+Gustavo) | Paulo Gustavo is a Brazilian actor, comedian, and screenwriter. His name is derived from the Portuguese words for "small" (Paulo) and "magnificent" (Gustavo). In English, his name can be translated to mean "small but magnificent". |
+| 29 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 30 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
 | 31 | [Carla Diaz](http://twitter.com/search?q=Carla+Diaz) | Carla Diaz is a Spanish name. It is derived from the Latin name "Carolus" which means "free man". In English, Carla Diaz would mean "Free Woman". |
-| 32 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 33 | [Dilson](http://twitter.com/search?q=Dilson) | N/A |
-| 34 | [HAVE A SAFE FLIGHT HOBI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+HOBI) | "HAVE A SAFE FLIGHT HOBI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be translated into English as "Have a safe flight, Hobi!" |
-| 35 | [ONDE FOI](http://twitter.com/search?q=ONDE+FOI) | N/A |
-| 36 | [Tucuruvi](http://twitter.com/search?q=Tucuruvi) | N/A |
-| 37 | [Adnet](http://twitter.com/search?q=Adnet) | N/A |
-| 38 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 39 | [ZÉ DELIVERY NO BBB](http://twitter.com/search?q=Z%c3%89+DELIVERY+NO+BBB) | N/A |
-| 40 | [dazai](http://twitter.com/search?q=dazai) | N/A |
-| 41 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
-| 42 | [Buddy Hield](http://twitter.com/search?q=Buddy+Hield) | N/A |
-| 43 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
-| 44 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 45 | [Sábado de Carnaval](http://twitter.com/search?q=S%c3%a1bado+de+Carnaval) | N/A |
-| 46 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 47 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
-| 48 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 49 | [Gibagol](http://twitter.com/search?q=Gibagol) | N/A |
-| 50 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 32 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 33 | [Jacarepaguá](http://twitter.com/search?q=Jacarepagu%c3%a1) | N/A |
+| 34 | [Dilson](http://twitter.com/search?q=Dilson) | N/A |
+| 35 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
+| 36 | [Xangô](http://twitter.com/search?q=Xang%c3%b4) | N/A |
+| 37 | [Dunk Contest](http://twitter.com/search?q=Dunk+Contest) | N/A |
+| 38 | [AKUTAGAWA](http://twitter.com/search?q=AKUTAGAWA) | N/A |
+| 39 | [ONDE FOI](http://twitter.com/search?q=ONDE+FOI) | N/A |
+| 40 | [HAVE A SAFE FLIGHT HOBI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+HOBI) | "HAVE A SAFE FLIGHT HOBI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be translated into English as "Have a safe flight, Hobi!" |
+| 41 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
+| 42 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
+| 43 | [Adnet](http://twitter.com/search?q=Adnet) | N/A |
+| 44 | [Sims](http://twitter.com/search?q=Sims) | N/A |
+| 45 | [ZÉ DELIVERY NO BBB](http://twitter.com/search?q=Z%c3%89+DELIVERY+NO+BBB) | N/A |
+| 46 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 47 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 48 | [Buddy Hield](http://twitter.com/search?q=Buddy+Hield) | N/A |
+| 49 | [dazai](http://twitter.com/search?q=dazai) | N/A |
+| 50 | [Acadêmicos](http://twitter.com/search?q=Acad%c3%aamicos) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-19 03:20:23 UTC`
+📆 Last Updated: `2023-02-19 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 2 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
-| 3 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 4 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 5 | [manoel gomes](http://twitter.com/search?q=manoel+gomes) | N/A |
-| 6 | [Guarujá](http://twitter.com/search?q=Guaruj%c3%a1) | N/A |
-| 7 | [Bloco](http://twitter.com/search?q=Bloco) | N/A |
-| 8 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 9 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 10 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
+| 1 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
+| 2 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 3 | [manoel gomes](http://twitter.com/search?q=manoel+gomes) | N/A |
+| 4 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 5 | [Guarujá](http://twitter.com/search?q=Guaruj%c3%a1) | N/A |
+| 6 | [Bloco](http://twitter.com/search?q=Bloco) | N/A |
+| 7 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 8 | [Jogada](http://twitter.com/search?q=Jogada) | N/A |
+| 9 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
+| 10 | [McClung](http://twitter.com/search?q=McClung) | N/A |
 | 11 | [#GlobelezaMilênio](http://twitter.com/search?q=%23GlobelezaMil%c3%aanio) | N/A |
 | 12 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 13 | [McClung](http://twitter.com/search?q=McClung) | N/A |
+| 13 | [#nbanaespn](http://twitter.com/search?q=%23nbanaespn) | N/A |
 | 14 | [Grajaú](http://twitter.com/search?q=Graja%c3%ba) | N/A |
-| 15 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 16 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 17 | [Dame Time](http://twitter.com/search?q=Dame+Time) | N/A |
-| 18 | [#NBAnaESPN](http://twitter.com/search?q=%23NBAnaESPN) | N/A |
-| 19 | [Tyler Herro](http://twitter.com/search?q=Tyler+Herro) | N/A |
-| 20 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 21 | [BIG NICACIO BRASIL](http://twitter.com/search?q=BIG+NICACIO+BRASIL) | N/A |
-| 22 | [Unidos da Ponte](http://twitter.com/search?q=Unidos+da+Ponte) | N/A |
-| 23 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 24 | [Huerter](http://twitter.com/search?q=Huerter) | N/A |
-| 25 | [Estrela](http://twitter.com/search?q=Estrela) | N/A |
-| 26 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 27 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 28 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 29 | [IGOR GUIMARÃES](http://twitter.com/search?q=IGOR+GUIMAR%c3%83ES) | N/A |
-| 30 | [Paulo Gustavo](http://twitter.com/search?q=Paulo+Gustavo) | Paulo Gustavo is a Brazilian actor, comedian, and screenwriter. His name is derived from the Portuguese words for "small" (Paulo) and "magnificent" (Gustavo). In English, his name can be translated to mean "small but magnificent". |
-| 31 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 32 | [#askbsd](http://twitter.com/search?q=%23askbsd) | N/A |
-| 33 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 34 | [Jacarepaguá](http://twitter.com/search?q=Jacarepagu%c3%a1) | N/A |
-| 35 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
-| 36 | [AKUTAGAWA](http://twitter.com/search?q=AKUTAGAWA) | N/A |
-| 37 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 38 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 15 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 16 | [Bezerra da Silva](http://twitter.com/search?q=Bezerra+da+Silva) | N/A |
+| 17 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 18 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 19 | [Dame Time](http://twitter.com/search?q=Dame+Time) | N/A |
+| 20 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 21 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 22 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 23 | [BIG NICACIO BRASIL](http://twitter.com/search?q=BIG+NICACIO+BRASIL) | N/A |
+| 24 | [Unidos da Ponte](http://twitter.com/search?q=Unidos+da+Ponte) | N/A |
+| 25 | [Unidos de Bangu](http://twitter.com/search?q=Unidos+de+Bangu) | N/A |
+| 26 | [Huerter](http://twitter.com/search?q=Huerter) | N/A |
+| 27 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 28 | [Estrela](http://twitter.com/search?q=Estrela) | N/A |
+| 29 | [Tyler Herro](http://twitter.com/search?q=Tyler+Herro) | N/A |
+| 30 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 31 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 32 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 33 | [IGOR GUIMARÃES](http://twitter.com/search?q=IGOR+GUIMAR%c3%83ES) | N/A |
+| 34 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
+| 35 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
+| 36 | [Paulo Gustavo](http://twitter.com/search?q=Paulo+Gustavo) | Paulo Gustavo is a Brazilian actor, comedian, and screenwriter. His name is derived from the Portuguese words for "small" (Paulo) and "magnificent" (Gustavo). In English, his name can be translated to mean "small but magnificent". |
+| 37 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 38 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
 | 39 | [Carla Diaz](http://twitter.com/search?q=Carla+Diaz) | Carla Diaz is a Spanish name. It is derived from the Latin name "Carolus" which means "free man". In English, Carla Diaz would mean "Free Woman". |
-| 40 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 41 | [Dilson](http://twitter.com/search?q=Dilson) | N/A |
-| 42 | [HAVE A SAFE FLIGHT HOBI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+HOBI) | "HAVE A SAFE FLIGHT HOBI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be translated into English as "Have a safe flight, Hobi!" |
-| 43 | [ONDE FOI](http://twitter.com/search?q=ONDE+FOI) | N/A |
-| 44 | [Tucuruvi](http://twitter.com/search?q=Tucuruvi) | N/A |
-| 45 | [Adnet](http://twitter.com/search?q=Adnet) | N/A |
-| 46 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 47 | [ZÉ DELIVERY NO BBB](http://twitter.com/search?q=Z%c3%89+DELIVERY+NO+BBB) | N/A |
-| 48 | [dazai](http://twitter.com/search?q=dazai) | N/A |
-| 49 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
-| 50 | [Buddy Hield](http://twitter.com/search?q=Buddy+Hield) | N/A |
+| 40 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 41 | [Jacarepaguá](http://twitter.com/search?q=Jacarepagu%c3%a1) | N/A |
+| 42 | [Dilson](http://twitter.com/search?q=Dilson) | N/A |
+| 43 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
+| 44 | [Dunk Contest](http://twitter.com/search?q=Dunk+Contest) | N/A |
+| 45 | [AKUTAGAWA](http://twitter.com/search?q=AKUTAGAWA) | N/A |
+| 46 | [Xangô](http://twitter.com/search?q=Xang%c3%b4) | N/A |
+| 47 | [ONDE FOI](http://twitter.com/search?q=ONDE+FOI) | N/A |
+| 48 | [HAVE A SAFE FLIGHT HOBI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+HOBI) | "HAVE A SAFE FLIGHT HOBI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be translated into English as "Have a safe flight, Hobi!" |
+| 49 | [Jericho](http://twitter.com/search?q=Jericho) | Jericho is a city in the West Bank, located near the Jordan River. It is believed to be one of the oldest continuously inhabited cities in the world. The name Jericho comes from the Hebrew word Yeriho, which means "moon" or "month." In English, it can mean either a place of moonlight or a place of months. |
+| 50 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
 
 
 

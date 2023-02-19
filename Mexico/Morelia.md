@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Morelia
 
-📆 Last Updated: `2023-02-19 03:20:19 UTC`
+📆 Last Updated: `2023-02-19 04:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 2 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 3 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
-| 4 | [Nico Ibáñez](http://twitter.com/search?q=Nico+Ib%c3%a1%c3%b1ez) | N/A |
-| 5 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 6 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 7 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 8 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 9 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 10 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
-| 11 | [Adonai Escobedo](http://twitter.com/search?q=Adonai+Escobedo) | N/A |
-| 12 | [#hartofut](http://twitter.com/search?q=%23hartofut) | N/A |
-| 13 | [HAVE A SAFE FLIGHT J-HOPE](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+J-HOPE) | N/A |
-| 14 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 15 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
-| 16 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 17 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 18 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
-| 19 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
-| 20 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
-| 21 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
-| 22 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
-| 23 | [Govea](http://twitter.com/search?q=Govea) | N/A |
-| 24 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 25 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
-| 26 | [Cortizo](http://twitter.com/search?q=Cortizo) | N/A |
-| 27 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
-| 28 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 29 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
-| 30 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 31 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 32 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
-| 33 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 34 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
-| 35 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 36 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 37 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 38 | [Pumas vs Chivas](http://twitter.com/search?q=Pumas+vs+Chivas) | N/A |
-| 39 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 40 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
-| 41 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 42 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 43 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 44 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 45 | [Garza](http://twitter.com/search?q=Garza) | N/A |
-| 46 | [Ponchito](http://twitter.com/search?q=Ponchito) | Ponchito is a Spanish term of endearment, similar to "little one" or "darling". It is often used as a nickname for someone who is close to you. |
-| 47 | [Adrian Marcelo](http://twitter.com/search?q=Adrian+Marcelo) | N/A |
-| 48 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 1 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 2 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 3 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 4 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 5 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
+| 6 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 7 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 8 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 9 | [Daniel Ríos](http://twitter.com/search?q=Daniel+R%c3%ados) | N/A |
+| 10 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 11 | [Córdova](http://twitter.com/search?q=C%c3%b3rdova) | N/A |
+| 12 | [Nico Ibáñez](http://twitter.com/search?q=Nico+Ib%c3%a1%c3%b1ez) | N/A |
+| 13 | [Samir](http://twitter.com/search?q=Samir) | N/A |
+| 14 | [Carlos Cisneros](http://twitter.com/search?q=Carlos+Cisneros) | N/A |
+| 15 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 16 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 17 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
+| 18 | [#SLAMDUNK](http://twitter.com/search?q=%23SLAMDUNK) | N/A |
+| 19 | [Aldrete](http://twitter.com/search?q=Aldrete) | N/A |
+| 20 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 21 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 22 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 23 | [Lichnovsky](http://twitter.com/search?q=Lichnovsky) | N/A |
+| 24 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 25 | [Furch](http://twitter.com/search?q=Furch) | N/A |
+| 26 | [Adonai Escobedo](http://twitter.com/search?q=Adonai+Escobedo) | N/A |
+| 27 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 28 | [Mozo](http://twitter.com/search?q=Mozo) | N/A |
+| 29 | [HAVE A SAFE FLIGHT HOBI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+HOBI) | "HAVE A SAFE FLIGHT HOBI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be translated into English as "Have a safe flight, Hobi!" |
+| 30 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 31 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
+| 32 | [Litio](http://twitter.com/search?q=Litio) | N/A |
+| 33 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
+| 34 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 35 | [Molina](http://twitter.com/search?q=Molina) | N/A |
+| 36 | [Govea](http://twitter.com/search?q=Govea) | N/A |
+| 37 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 38 | [Nahuel](http://twitter.com/search?q=Nahuel) | N/A |
+| 39 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 40 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 41 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 42 | [Cortizo](http://twitter.com/search?q=Cortizo) | N/A |
+| 43 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 44 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 45 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
+| 46 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
+| 47 | [Estadio Jalisco](http://twitter.com/search?q=Estadio+Jalisco) | N/A |
+| 48 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
 
 
 

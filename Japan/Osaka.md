@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-02-19 03:21:00 UTC`
+📆 Last Updated: `2023-02-19 04:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [雨のせい](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e3%81%9b%e3%81%84) | 雨のせい is a Japanese phrase that literally translates to "because of the rain." It is used to express the idea that something has happened or been caused by the rain. For example, if someone was late for an appointment, they might say "雨のせいで遅れました" ("I was late because of the rain"). |
-| 2 | [モーニング](http://twitter.com/search?q=%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0) | モーニング is a type of Japanese pop music, often featuring upbeat and cheerful melodies. In English, it can be translated as "morning music". |
-| 3 | [#アコスタあべのキューズモール](http://twitter.com/search?q=%23%e3%82%a2%e3%82%b3%e3%82%b9%e3%82%bf%e3%81%82%e3%81%b9%e3%81%ae%e3%82%ad%e3%83%a5%e3%83%bc%e3%82%ba%e3%83%a2%e3%83%bc%e3%83%ab) | N/A |
-| 4 | [はだしのゲン](http://twitter.com/search?q=%e3%81%af%e3%81%a0%e3%81%97%e3%81%ae%e3%82%b2%e3%83%b3) | N/A |
-| 5 | [ランナー](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc) | N/A |
-| 6 | [#エボルヴJCS勝利者予想](http://twitter.com/search?q=%23%e3%82%a8%e3%83%9c%e3%83%ab%e3%83%b4JCS%e5%8b%9d%e5%88%a9%e8%80%85%e4%ba%88%e6%83%b3) | N/A |
-| 7 | [コオロギ](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae) | N/A |
-| 8 | [レッドルゼル](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%89%e3%83%ab%e3%82%bc%e3%83%ab) | N/A |
-| 9 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
-| 10 | [#パズドラ](http://twitter.com/search?q=%23%e3%83%91%e3%82%ba%e3%83%89%e3%83%a9) | N/A |
-| 11 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
-| 12 | [ドンブラ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9) | ドンブラ (Donburako) is a Japanese game similar to the Western game of Jacks. It is played by throwing five small metal pieces into the air and then catching them on the back of one's hand. The object of the game is to pick up as many pieces as possible in one throw. In English, it is sometimes referred to as "Five Stones". |
-| 13 | [#伊集院光ANN](http://twitter.com/search?q=%23%e4%bc%8a%e9%9b%86%e9%99%a2%e5%85%89ANN) | N/A |
-| 14 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
-| 15 | [コミティア](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
-| 16 | [#がんばれG8S](http://twitter.com/search?q=%23%e3%81%8c%e3%82%93%e3%81%b0%e3%82%8cG8S) | N/A |
-| 17 | [コタロー](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%ad%e3%83%bc) | N/A |
-| 18 | [Aimerさん](http://twitter.com/search?q=Aimer%e3%81%95%e3%82%93) | Aimerさん is a way of referring to the Japanese singer-songwriter Aimer. It is a respectful way of addressing her, similar to saying "Ms. Aimer" in English. |
-| 19 | [スカイランド神拳](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89%e7%a5%9e%e6%8b%b3) | N/A |
-| 20 | [芳賀ゆい](http://twitter.com/search?q=%e8%8a%b3%e8%b3%80%e3%82%86%e3%81%84) | N/A |
-| 21 | [ソノニちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%8e%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | ソノニちゃん is a character from the Japanese manga series, "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". The character's name is Sononi, and her nickname is Sononi-chan. In English, it would be translated to "Little Sononi". |
-| 22 | [レッチリ](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%81%e3%83%aa) | N/A |
-| 23 | [ソノシゴロク](http://twitter.com/search?q=%e3%82%bd%e3%83%8e%e3%82%b7%e3%82%b4%e3%83%ad%e3%82%af) | N/A |
-| 24 | [忍者おじさん](http://twitter.com/search?q=%e5%bf%8d%e8%80%85%e3%81%8a%e3%81%98%e3%81%95%e3%82%93) | N/A |
-| 25 | [まいジャニ](http://twitter.com/search?q=%e3%81%be%e3%81%84%e3%82%b8%e3%83%a3%e3%83%8b) | N/A |
-| 26 | [キグナス氷河](http://twitter.com/search?q=%e3%82%ad%e3%82%b0%e3%83%8a%e3%82%b9%e6%b0%b7%e6%b2%b3) | N/A |
-| 27 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
-| 28 | [レモンポップ](http://twitter.com/search?q=%e3%83%ac%e3%83%a2%e3%83%b3%e3%83%9d%e3%83%83%e3%83%97) | レモンポップ is a type of Japanese candy. It is a hard candy with a lemon flavor. In English, it is known as Lemon Pop. |
-| 29 | [ムラサメ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%82%b5%e3%83%a1) | ムラサメ is a type of Japanese fish. It is also known as the Japanese butterfish or the striped beakfish. In English, it is sometimes referred to as the Striped Marlin. |
-| 30 | [シューイチ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%81) | シューイチ is a Japanese phrase that translates to "shoe store". It is used to refer to a store that specializes in selling shoes. |
-| 31 | [フェブラリーS](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%96%e3%83%a9%e3%83%aa%e3%83%bcS) | フェブラリーS is a Japanese manga series written and illustrated by Yabako Sandrovich. It follows the story of a high school student named Kenzaki Ryuji, who is granted superhuman strength after being chosen as the successor to an ancient martial arts style known as "Feuerbach Style". The title of the series is derived from the German word "Feuerbach", which means "fire and sword". In English, it can be translated to mean "The Fire and Sword Style". |
-| 32 | [ジャニ新体制](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e6%96%b0%e4%bd%93%e5%88%b6) | N/A |
-| 33 | [プレシャス](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%b7%e3%83%a3%e3%82%b9) | プレシャス is a Japanese word that means "precious" or "valuable". It is often used to describe something that is highly valued or cherished. |
-| 34 | [チョコミントの日](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%9f%e3%83%b3%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
-| 35 | [伊集院さん](http://twitter.com/search?q=%e4%bc%8a%e9%9b%86%e9%99%a2%e3%81%95%e3%82%93) | N/A |
-| 36 | [あと1話](http://twitter.com/search?q=%e3%81%82%e3%81%a81%e8%a9%b1) | あと1話 is a Japanese phrase that literally translates to "one more episode". It is often used to refer to the last episode of a television series or anime. In English, it can be translated as "one more episode to go" or "just one more episode". |
-| 37 | [タロウの記憶](http://twitter.com/search?q=%e3%82%bf%e3%83%ad%e3%82%a6%e3%81%ae%e8%a8%98%e6%86%b6) | N/A |
-| 38 | [ハリバートン](http://twitter.com/search?q=%e3%83%8f%e3%83%aa%e3%83%90%e3%83%bc%e3%83%88%e3%83%b3) | N/A |
-| 39 | [星空のパスポート](http://twitter.com/search?q=%e6%98%9f%e7%a9%ba%e3%81%ae%e3%83%91%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%88) | N/A |
-| 40 | [雨の日曜日](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e6%97%a5%e6%9b%9c%e6%97%a5) | N/A |
-| 41 | [スケボー少年](http://twitter.com/search?q=%e3%82%b9%e3%82%b1%e3%83%9c%e3%83%bc%e5%b0%91%e5%b9%b4) | N/A |
-| 42 | [ドライスタウト](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%a4%e3%82%b9%e3%82%bf%e3%82%a6%e3%83%88) | ドライスタウト is a type of beer that is brewed without the addition of sugar or other sweeteners. It is a light, crisp beer with a dry finish. In English, it is known as a "Dry Stout". |
-| 43 | [マクラング](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%a9%e3%83%b3%e3%82%b0) | N/A |
-| 44 | [ロサンゼルス](http://twitter.com/search?q=%e3%83%ad%e3%82%b5%e3%83%b3%e3%82%bc%e3%83%ab%e3%82%b9) | N/A |
-| 45 | [桃井タロウ](http://twitter.com/search?q=%e6%a1%83%e4%ba%95%e3%82%bf%e3%83%ad%e3%82%a6) | 桃井タロウ is a Japanese manga series written and illustrated by Taro Momoi. It follows the story of a young man named Taro Momoi, who is sent to a strange world where he must fight monsters and find his way back home. The title of the series is a play on words, as "桃井" (Momoi) can also be read as "peach well". In English, the title could be translated as "Taro Momoi of the Peach Well". |
-| 46 | [ミッキーゴージャス](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%82%ad%e3%83%bc%e3%82%b4%e3%83%bc%e3%82%b8%e3%83%a3%e3%82%b9) | N/A |
-| 47 | [ヒトツ鬼](http://twitter.com/search?q=%e3%83%92%e3%83%88%e3%83%84%e9%ac%bc) | ヒトツ鬼 (Hitotsu Oni) is a Japanese phrase that literally translates to "One Demon". It is used to describe someone who is very powerful and intimidating. |
-| 48 | [フェブラリーステークス](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%96%e3%83%a9%e3%83%aa%e3%83%bc%e3%82%b9%e3%83%86%e3%83%bc%e3%82%af%e3%82%b9) | N/A |
-| 49 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
+| 1 | [慎吾ちゃん](http://twitter.com/search?q=%e6%85%8e%e5%90%be%e3%81%a1%e3%82%83%e3%82%93) | 慎吾ちゃん is a nickname for the Japanese actor, singer, and model Shingo Katori. It is a combination of his given name (Shingo) and the suffix “-chan”, which is used to show endearment or familiarity. In English, it could be translated as “Shingo-chan”. |
+| 2 | [#アコスタあべのキューズモール](http://twitter.com/search?q=%23%e3%82%a2%e3%82%b3%e3%82%b9%e3%82%bf%e3%81%82%e3%81%b9%e3%81%ae%e3%82%ad%e3%83%a5%e3%83%bc%e3%82%ba%e3%83%a2%e3%83%bc%e3%83%ab) | N/A |
+| 3 | [#香取慎吾](http://twitter.com/search?q=%23%e9%a6%99%e5%8f%96%e6%85%8e%e5%90%be) | N/A |
+| 4 | [土砂降り](http://twitter.com/search?q=%e5%9c%9f%e7%a0%82%e9%99%8d%e3%82%8a) | 土砂降り is a Japanese phrase that literally translates to "heavy rain with mud and sand". It is used to describe a heavy rainstorm that is accompanied by strong winds and large amounts of mud and sand. In English, it could be translated as "a torrential downpour". |
+| 5 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
+| 6 | [エルちゃん](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | エルちゃん is a nickname for the character Elle from the Japanese manga series Chobits. It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 7 | [モーニング](http://twitter.com/search?q=%e3%83%a2%e3%83%bc%e3%83%8b%e3%83%b3%e3%82%b0) | モーニング is a type of Japanese pop music, often featuring upbeat and cheerful melodies. In English, it can be translated as "morning music". |
+| 8 | [フードコート](http://twitter.com/search?q=%e3%83%95%e3%83%bc%e3%83%89%e3%82%b3%e3%83%bc%e3%83%88) | N/A |
+| 9 | [ブランチ](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%83%b3%e3%83%81) | ブランチ is a Japanese word meaning "branch" or "branch office". It is commonly used to refer to a branch of a company or organization, such as a bank branch or a branch of the government. |
+| 10 | [ランナー](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc) | N/A |
+| 11 | [みほちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%bb%e3%81%a1%e3%82%83%e3%82%93) | みほちゃん is a nickname for the Japanese name Miho. It is a combination of the first two syllables of the name, and is often used as an affectionate term of endearment. In English, it could be translated to something like "Miho-chan". |
+| 12 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
+| 13 | [はだしのゲン](http://twitter.com/search?q=%e3%81%af%e3%81%a0%e3%81%97%e3%81%ae%e3%82%b2%e3%83%b3) | N/A |
+| 14 | [エビフライ](http://twitter.com/search?q=%e3%82%a8%e3%83%93%e3%83%95%e3%83%a9%e3%82%a4) | N/A |
+| 15 | [オリックス劇場](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9%e5%8a%87%e5%a0%b4) | N/A |
+| 16 | [NCT DREAM](http://twitter.com/search?q=NCT+DREAM) | N/A |
+| 17 | [#パズドラ](http://twitter.com/search?q=%23%e3%83%91%e3%82%ba%e3%83%89%e3%83%a9) | N/A |
+| 18 | [#伊集院光ANN](http://twitter.com/search?q=%23%e4%bc%8a%e9%9b%86%e9%99%a2%e5%85%89ANN) | N/A |
+| 19 | [#くりぃむANN](http://twitter.com/search?q=%23%e3%81%8f%e3%82%8a%e3%81%83%e3%82%80ANN) | N/A |
+| 20 | [ドンブラ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9) | ドンブラ (Donburako) is a Japanese game similar to the Western game of Jacks. It is played by throwing five small metal pieces into the air and then catching them on the back of one's hand. The object of the game is to pick up as many pieces as possible in one throw. In English, it is sometimes referred to as "Five Stones". |
+| 21 | [コミティア](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
+| 22 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
+| 23 | [グッパチ](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%83%91%e3%83%81) | N/A |
+| 24 | [コタロー](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%ad%e3%83%bc) | N/A |
+| 25 | [マクラング](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%a9%e3%83%b3%e3%82%b0) | N/A |
+| 26 | [ノッキングポイント](http://twitter.com/search?q=%e3%83%8e%e3%83%83%e3%82%ad%e3%83%b3%e3%82%b0%e3%83%9d%e3%82%a4%e3%83%b3%e3%83%88) | N/A |
+| 27 | [レッチリ](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%81%e3%83%aa) | N/A |
+| 28 | [フェブラリーS](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%96%e3%83%a9%e3%83%aa%e3%83%bcS) | フェブラリーS is a Japanese manga series written and illustrated by Yabako Sandrovich. It follows the story of a high school student named Kenzaki Ryuji, who is granted superhuman strength after being chosen as the successor to an ancient martial arts style known as "Feuerbach Style". The title of the series is derived from the German word "Feuerbach", which means "fire and sword". In English, it can be translated to mean "The Fire and Sword Style". |
+| 29 | [レモンポップ](http://twitter.com/search?q=%e3%83%ac%e3%83%a2%e3%83%b3%e3%83%9d%e3%83%83%e3%83%97) | レモンポップ is a type of Japanese candy. It is a hard candy with a lemon flavor. In English, it is known as Lemon Pop. |
+| 30 | [ランニングホームラン](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8b%e3%83%b3%e3%82%b0%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | N/A |
+| 31 | [Aimerさん](http://twitter.com/search?q=Aimer%e3%81%95%e3%82%93) | Aimerさん is a way of referring to the Japanese singer-songwriter Aimer. It is a respectful way of addressing her, similar to saying "Ms. Aimer" in English. |
+| 32 | [ダンクコンテスト](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%af%e3%82%b3%e3%83%b3%e3%83%86%e3%82%b9%e3%83%88) | N/A |
+| 33 | [チョコミントの日](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%9f%e3%83%b3%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
+| 34 | [トワコレ](http://twitter.com/search?q=%e3%83%88%e3%83%af%e3%82%b3%e3%83%ac) | トワコレ is an abbreviation of the Japanese phrase "とわかれても", which means "even if we part ways". |
+| 35 | [杏ちゃん](http://twitter.com/search?q=%e6%9d%8f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 36 | [芳賀ゆい](http://twitter.com/search?q=%e8%8a%b3%e8%b3%80%e3%82%86%e3%81%84) | N/A |
+| 37 | [そくほー](http://twitter.com/search?q=%e3%81%9d%e3%81%8f%e3%81%bb%e3%83%bc) | そくほー is an onomatopoeia that is used to express the sound of a siren. In English, it could be translated as "woo-woo". |
+| 38 | [ドライスタウト](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%82%a4%e3%82%b9%e3%82%bf%e3%82%a6%e3%83%88) | ドライスタウト is a type of beer that is brewed without the addition of sugar or other sweeteners. It is a light, crisp beer with a dry finish. In English, it is known as a "Dry Stout". |
+| 39 | [マクブルーム](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%96%e3%83%ab%e3%83%bc%e3%83%a0) | N/A |
+| 40 | [まいジャニ](http://twitter.com/search?q=%e3%81%be%e3%81%84%e3%82%b8%e3%83%a3%e3%83%8b) | N/A |
+| 41 | [スカイランド神拳](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89%e7%a5%9e%e6%8b%b3) | N/A |
+| 42 | [キグナス氷河](http://twitter.com/search?q=%e3%82%ad%e3%82%b0%e3%83%8a%e3%82%b9%e6%b0%b7%e6%b2%b3) | N/A |
+| 43 | [有ちゃん](http://twitter.com/search?q=%e6%9c%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [伊集院さん](http://twitter.com/search?q=%e4%bc%8a%e9%9b%86%e9%99%a2%e3%81%95%e3%82%93) | N/A |
+| 45 | [ソノニちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%8e%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | ソノニちゃん is a character from the Japanese manga series, "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". The character's name is Sononi, and her nickname is Sononi-chan. In English, it would be translated to "Little Sononi". |
+| 46 | [ジャニ新体制](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%8b%e6%96%b0%e4%bd%93%e5%88%b6) | N/A |
+| 47 | [小倉大賞典](http://twitter.com/search?q=%e5%b0%8f%e5%80%89%e5%a4%a7%e8%b3%9e%e5%85%b8) | N/A |
+| 48 | [イナちゃん](http://twitter.com/search?q=%e3%82%a4%e3%83%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 49 | [忍者おじさん](http://twitter.com/search?q=%e5%bf%8d%e8%80%85%e3%81%8a%e3%81%98%e3%81%95%e3%82%93) | N/A |
 
 
 

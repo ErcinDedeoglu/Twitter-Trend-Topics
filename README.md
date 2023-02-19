@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-19 03:20:12 UTC`
+📆 Last Updated: `2023-02-19 04:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 3 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 1 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 2 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 3 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
 | 4 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
 | 5 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 6 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 7 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
-| 8 | [ドンブラ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9) | ドンブラ (Donburako) is a Japanese game similar to the Western game of Jacks. It is played by throwing five small metal pieces into the air and then catching them on the back of one's hand. The object of the game is to pick up as many pieces as possible in one throw. In English, it is sometimes referred to as "Five Stones". |
-| 9 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
-| 10 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 11 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 12 | [#伊集院光ANN](http://twitter.com/search?q=%23%e4%bc%8a%e9%9b%86%e9%99%a2%e5%85%89ANN) | N/A |
-| 13 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
-| 14 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 15 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 16 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 17 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 18 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
+| 6 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
+| 7 | [#TakoTimes3](http://twitter.com/search?q=%23TakoTimes3) | N/A |
+| 8 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 9 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 10 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 11 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 12 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 13 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 14 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 15 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
+| 16 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
+| 17 | [ドンブラ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9) | ドンブラ (Donburako) is a Japanese game similar to the Western game of Jacks. It is played by throwing five small metal pieces into the air and then catching them on the back of one's hand. The object of the game is to pick up as many pieces as possible in one throw. In English, it is sometimes referred to as "Five Stones". |
+| 18 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
 | 19 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 20 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 21 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 22 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 20 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 21 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 22 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
 | 23 | [コミティア](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
-| 24 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 25 | [Beth](http://twitter.com/search?q=Beth) | N/A |
-| 26 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 27 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 28 | [Erin Blanchfield](http://twitter.com/search?q=Erin+Blanchfield) | N/A |
-| 29 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 30 | [Harold Miner](http://twitter.com/search?q=Harold+Miner) | N/A |
-| 31 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
-| 32 | [コタロー](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%ad%e3%83%bc) | N/A |
-| 33 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 34 | [Kenyon Martin](http://twitter.com/search?q=Kenyon+Martin) | N/A |
-| 35 | [Shatter Machine](http://twitter.com/search?q=Shatter+Machine) | N/A |
-| 36 | [Yalnızlaştık](http://twitter.com/search?q=Yaln%c4%b1zla%c5%9ft%c4%b1k) | N/A |
-| 37 | [Jordan Clarkson](http://twitter.com/search?q=Jordan+Clarkson) | Jordan Clarkson is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). He was drafted 46th overall by the Washington Wizards in the 2014 NBA draft and has since played for the Los Angeles Lakers, Cleveland Cavaliers, and Utah Jazz. |
-| 38 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
-| 39 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 40 | [Terceiro Milênio](http://twitter.com/search?q=Terceiro+Mil%c3%aanio) | N/A |
-| 41 | [Kenny Smith](http://twitter.com/search?q=Kenny+Smith) | N/A |
-| 42 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
-| 43 | [Sierra Mist](http://twitter.com/search?q=Sierra+Mist) | N/A |
-| 44 | [Starry](http://twitter.com/search?q=Starry) | N/A |
-| 45 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 46 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 47 | [スカイランド神拳](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89%e7%a5%9e%e6%8b%b3) | N/A |
-| 48 | [Buddy Hield](http://twitter.com/search?q=Buddy+Hield) | N/A |
-| 49 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 50 | [KJ Martin](http://twitter.com/search?q=KJ+Martin) | N/A |
+| 24 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 25 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 26 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 27 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 28 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 29 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 30 | [Kenny Smith](http://twitter.com/search?q=Kenny+Smith) | N/A |
+| 31 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 32 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
+| 33 | [Aaron Gordon](http://twitter.com/search?q=Aaron+Gordon) | N/A |
+| 34 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 35 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 36 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
+| 37 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 38 | [Gate City](http://twitter.com/search?q=Gate+City) | N/A |
+| 39 | [グッパチ](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%83%91%e3%83%81) | N/A |
+| 40 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 41 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 42 | [コタロー](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%ad%e3%83%bc) | N/A |
+| 43 | [Beth](http://twitter.com/search?q=Beth) | N/A |
+| 44 | [Kenyon Martin](http://twitter.com/search?q=Kenyon+Martin) | N/A |
+| 45 | [Yalnızlaştık](http://twitter.com/search?q=Yaln%c4%b1zla%c5%9ft%c4%b1k) | N/A |
+| 46 | [Erin Blanchfield](http://twitter.com/search?q=Erin+Blanchfield) | N/A |
+| 47 | [G League](http://twitter.com/search?q=G+League) | N/A |
+| 48 | [マクラング](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%a9%e3%83%b3%e3%82%b0) | N/A |
+| 49 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 50 | [フェブラリーS](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%96%e3%83%a9%e3%83%aa%e3%83%bcS) | フェブラリーS is a Japanese manga series written and illustrated by Yabako Sandrovich. It follows the story of a high school student named Kenzaki Ryuji, who is granted superhuman strength after being chosen as the successor to an ancient martial arts style known as "Feuerbach Style". The title of the series is derived from the German word "Feuerbach", which means "fire and sword". In English, it can be translated to mean "The Fire and Sword Style". |
 
 
 

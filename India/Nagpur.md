@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-02-19 03:20:48 UTC`
+📆 Last Updated: `2023-02-19 04:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,48 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 2 | [#Mahashivratri](http://twitter.com/search?q=%23Mahashivratri) | N/A |
-| 3 | [#RespectNature](http://twitter.com/search?q=%23RespectNature) | N/A |
-| 4 | [#Mayilsamy](http://twitter.com/search?q=%23Mayilsamy) | N/A |
-| 5 | [#महाशिवरात्रि](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf) | N/A |
+| 2 | [#ShivajiMaharaj](http://twitter.com/search?q=%23ShivajiMaharaj) | N/A |
+| 3 | [#Mayilsamy](http://twitter.com/search?q=%23Mayilsamy) | N/A |
+| 4 | [#RespectNature](http://twitter.com/search?q=%23RespectNature) | N/A |
+| 5 | [#FuturisticIndia](http://twitter.com/search?q=%23FuturisticIndia) | N/A |
 | 6 | [राष्ट्रीय स्वयंसेवक संघ](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%af%e0%a4%82%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%95+%e0%a4%b8%e0%a4%82%e0%a4%98) | N/A |
-| 7 | [भगवान शिव](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%bf%e0%a4%b5) | N/A |
+| 7 | [गोपाल कृष्ण गोखले](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%97%e0%a5%8b%e0%a4%96%e0%a4%b2%e0%a5%87) | N/A |
 | 8 | [मराठा साम्राज्य](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 9 | [गोपाल कृष्ण गोखले](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%97%e0%a5%8b%e0%a4%96%e0%a4%b2%e0%a5%87) | N/A |
-| 10 | [माधवराव सदाशिवराव गोलवलकर](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%b8%e0%a4%a6%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%97%e0%a5%8b%e0%a4%b2%e0%a4%b5%e0%a4%b2%e0%a4%95%e0%a4%b0) | N/A |
-| 11 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 12 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 13 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 14 | [Sushant Singh Rajput](http://twitter.com/search?q=Sushant+Singh+Rajput) | N/A |
-| 15 | [हिंद स्वराज](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 16 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 17 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 18 | [Nitin Menon](http://twitter.com/search?q=Nitin+Menon) | N/A |
-| 19 | [गुरूजी माधव सदाशिव गोलवलकर](http://twitter.com/search?q=%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%82%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5+%e0%a4%b8%e0%a4%a6%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%97%e0%a5%8b%e0%a4%b2%e0%a4%b5%e0%a4%b2%e0%a4%95%e0%a4%b0) | N/A |
-| 20 | [shrikant bharatiya](http://twitter.com/search?q=shrikant+bharatiya) | N/A |
-| 21 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
-| 22 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
-| 23 | [भगवान शंकर](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
-| 24 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 25 | [Maratha Empire](http://twitter.com/search?q=Maratha+Empire) | N/A |
-| 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 27 | [धर्म रक्षक](http://twitter.com/search?q=%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95) | N/A |
-| 28 | [श्री गुरु](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a5%81%e0%a4%b0%e0%a5%81) | N/A |
-| 29 | [जॉर्ज सोरोस](http://twitter.com/search?q=%e0%a4%9c%e0%a5%89%e0%a4%b0%e0%a5%8d%e0%a4%9c+%e0%a4%b8%e0%a5%8b%e0%a4%b0%e0%a5%8b%e0%a4%b8) | N/A |
-| 30 | [शिव शंकर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%b6%e0%a4%82%e0%a4%95%e0%a4%b0) | N/A |
-| 31 | [Jai Bhawani](http://twitter.com/search?q=Jai+Bhawani) | N/A |
-| 32 | [चुनाव आयोग](http://twitter.com/search?q=%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5+%e0%a4%86%e0%a4%af%e0%a5%8b%e0%a4%97) | N/A |
-| 33 | [हिन्दू हृदय सम्राट](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82+%e0%a4%b9%e0%a5%83%e0%a4%a6%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f) | N/A |
-| 34 | [कोटि वंदन](http://twitter.com/search?q=%e0%a4%95%e0%a5%8b%e0%a4%9f%e0%a4%bf+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 35 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 36 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 37 | [EMI MARTINEZ](http://twitter.com/search?q=EMI+MARTINEZ) | N/A |
-| 38 | [शिव बारात](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a4) | N/A |
-| 39 | [मोनू मानेसर](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0) | N/A |
-| 40 | [भोले नाथ](http://twitter.com/search?q=%e0%a4%ad%e0%a5%8b%e0%a4%b2%e0%a5%87+%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
-| 41 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 42 | [सेवा हेतु](http://twitter.com/search?q=%e0%a4%b8%e0%a5%87%e0%a4%b5%e0%a4%be+%e0%a4%b9%e0%a5%87%e0%a4%a4%e0%a5%81) | N/A |
-| 43 | [स्वामी रामकृष्ण परमहंस](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a4%b9%e0%a4%82%e0%a4%b8) | N/A |
-| 44 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 45 | [शिव अनादि](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%be%e0%a4%a6%e0%a4%bf) | N/A |
-| 46 | [Online Gurukul](http://twitter.com/search?q=Online+Gurukul) | N/A |
-| 47 | [अनुसूचित क्षेत्र](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a5%81%e0%a4%b8%e0%a5%82%e0%a4%9a%e0%a4%bf%e0%a4%a4+%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a5%87%e0%a4%a4%e0%a5%8d%e0%a4%b0) | N/A |
-| 48 | [शिव मंदिर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%ae%e0%a4%82%e0%a4%a6%e0%a4%bf%e0%a4%b0) | N/A |
-| 49 | [शिव अनंत](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%b5+%e0%a4%85%e0%a4%a8%e0%a4%82%e0%a4%a4) | N/A |
+| 9 | [श्री माधवराव सदाशिवराव गोलवलकर](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%be%e0%a4%a7%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%b8%e0%a4%a6%e0%a4%be%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%b5+%e0%a4%97%e0%a5%8b%e0%a4%b2%e0%a4%b5%e0%a4%b2%e0%a4%95%e0%a4%b0) | N/A |
+| 10 | [हिन्द स्वराज](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 11 | [Sushant Singh Rajput](http://twitter.com/search?q=Sushant+Singh+Rajput) | N/A |
+| 12 | [धर्म रक्षक](http://twitter.com/search?q=%e0%a4%a7%e0%a4%b0%e0%a5%8d%e0%a4%ae+%e0%a4%b0%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95) | N/A |
+| 13 | [Jai Bhavani](http://twitter.com/search?q=Jai+Bhavani) | N/A |
+| 14 | [सूर्य देव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 15 | [हिन्दू हृदय सम्राट](http://twitter.com/search?q=%e0%a4%b9%e0%a4%bf%e0%a4%a8%e0%a5%8d%e0%a4%a6%e0%a5%82+%e0%a4%b9%e0%a5%83%e0%a4%a6%e0%a4%af+%e0%a4%b8%e0%a4%ae%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%9f) | N/A |
+| 16 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 17 | [RIP Sir](http://twitter.com/search?q=RIP+Sir) | N/A |
+| 18 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 19 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 20 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 21 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 22 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 23 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 24 | [Cambridge](http://twitter.com/search?q=Cambridge) | N/A |
+| 25 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 26 | [Haryana](http://twitter.com/search?q=Haryana) | N/A |
+| 27 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 28 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 29 | [#शिवजयंती](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 30 | [#GopalKrishnaGokhale](http://twitter.com/search?q=%23GopalKrishnaGokhale) | N/A |
+| 31 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 32 | [#GodMorningSunday](http://twitter.com/search?q=%23GodMorningSunday) | N/A |
+| 33 | [#மயில்சாமி](http://twitter.com/search?q=%23%e0%ae%ae%e0%ae%af%e0%ae%bf%e0%ae%b2%e0%af%8d%e0%ae%9a%e0%ae%be%e0%ae%ae%e0%ae%bf) | N/A |
+| 34 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 35 | [#जय_भवानी_जय_शिवाजी](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%ad%e0%a4%b5%e0%a4%be%e0%a4%a8%e0%a5%80_%e0%a4%9c%e0%a4%af_%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80) | N/A |
+| 36 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 37 | [#sundaymotivation](http://twitter.com/search?q=%23sundaymotivation) | N/A |
+| 38 | [#maratha](http://twitter.com/search?q=%23maratha) | N/A |
+| 39 | [#ManishSisodia](http://twitter.com/search?q=%23ManishSisodia) | N/A |
+| 40 | [#TarakaRatna](http://twitter.com/search?q=%23TarakaRatna) | N/A |
+| 41 | [#Dookudu](http://twitter.com/search?q=%23Dookudu) | N/A |
+| 42 | [#ShivaShivaAllNight](http://twitter.com/search?q=%23ShivaShivaAllNight) | N/A |
+| 43 | [#AskSadhguru](http://twitter.com/search?q=%23AskSadhguru) | N/A |
 
 
 
