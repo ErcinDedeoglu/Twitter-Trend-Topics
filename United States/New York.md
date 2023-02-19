@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-18 23:18:22 UTC`
+📆 Last Updated: `2023-02-19 00:30:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 2 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
-| 3 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
-| 4 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 7 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 8 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 1 | [Duke](http://twitter.com/search?q=Duke) | Duke is a title of nobility, ranking in modern times immediately below a prince and above a marquess or earl. In the United Kingdom, the title of Duke is the highest rank in the British peerage system. |
+| 2 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 3 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 4 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
+| 5 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 6 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 7 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 8 | [Lara](http://twitter.com/search?q=Lara) | N/A |
 | 9 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
-| 10 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
-| 11 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 12 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 13 | [Keyonte George](http://twitter.com/search?q=Keyonte+George) | N/A |
-| 14 | [#WoodLara](http://twitter.com/search?q=%23WoodLara) | N/A |
-| 15 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 17 | [Emmers](http://twitter.com/search?q=Emmers) | N/A |
-| 18 | [Renegades](http://twitter.com/search?q=Renegades) | N/A |
-| 19 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 20 | [Habitat for Humanity](http://twitter.com/search?q=Habitat+for+Humanity) | N/A |
-| 21 | [Luis Perez](http://twitter.com/search?q=Luis+Perez) | N/A |
-| 22 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
-| 23 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
-| 24 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 25 | [ARCA](http://twitter.com/search?q=ARCA) | N/A |
-| 26 | [Lins](http://twitter.com/search?q=Lins) | N/A |
-| 27 | [Allen Fieldhouse](http://twitter.com/search?q=Allen+Fieldhouse) | N/A |
-| 28 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 29 | [Greg Van Alst](http://twitter.com/search?q=Greg+Van+Alst) | N/A |
-| 30 | [Askhabov](http://twitter.com/search?q=Askhabov) | N/A |
-| 31 | [DeBrusk](http://twitter.com/search?q=DeBrusk) | DeBrusk is a surname of French origin. It is derived from the Old French word "debrusque", which means "harsh" or "rough". |
-| 32 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
-| 33 | [Scott Drew](http://twitter.com/search?q=Scott+Drew) | N/A |
-| 34 | [Sam Mayer](http://twitter.com/search?q=Sam+Mayer) | N/A |
-| 35 | [AJ Fletcher](http://twitter.com/search?q=AJ+Fletcher) | N/A |
-| 36 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 37 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 38 | [UNCLE NICK](http://twitter.com/search?q=UNCLE+NICK) | N/A |
-| 39 | [Rosalynn](http://twitter.com/search?q=Rosalynn) | N/A |
-| 40 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
-| 41 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 42 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 43 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 44 | [Grambling](http://twitter.com/search?q=Grambling) | N/A |
-| 45 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 46 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 47 | [Bob Stoops](http://twitter.com/search?q=Bob+Stoops) | N/A |
-| 48 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 49 | [Jalen Graham](http://twitter.com/search?q=Jalen+Graham) | N/A |
-| 50 | [Vic Beasley](http://twitter.com/search?q=Vic+Beasley) | N/A |
+| 10 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 11 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 12 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 13 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 14 | [Habitat for Humanity](http://twitter.com/search?q=Habitat+for+Humanity) | N/A |
+| 15 | [Jim Miller](http://twitter.com/search?q=Jim+Miller) | N/A |
+| 16 | [His World](http://twitter.com/search?q=His+World) | N/A |
+| 17 | [Endless Possibilities](http://twitter.com/search?q=Endless+Possibilities) | N/A |
+| 18 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 19 | [Find Your Flame](http://twitter.com/search?q=Find+Your+Flame) | N/A |
+| 20 | [Live and Learn](http://twitter.com/search?q=Live+and+Learn) | N/A |
+| 21 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 22 | [Keyonte George](http://twitter.com/search?q=Keyonte+George) | N/A |
+| 23 | [Emmers](http://twitter.com/search?q=Emmers) | N/A |
+| 24 | [Reach for the Stars](http://twitter.com/search?q=Reach+for+the+Stars) | N/A |
+| 25 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
+| 26 | [Luis Perez](http://twitter.com/search?q=Luis+Perez) | N/A |
+| 27 | [Bueno Silva](http://twitter.com/search?q=Bueno+Silva) | N/A |
+| 28 | [Hoosier Philly](http://twitter.com/search?q=Hoosier+Philly) | N/A |
+| 29 | [Knight of the Wind](http://twitter.com/search?q=Knight+of+the+Wind) | N/A |
+| 30 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 31 | [Renegades](http://twitter.com/search?q=Renegades) | N/A |
+| 32 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 33 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 34 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
+| 35 | [Allen Fieldhouse](http://twitter.com/search?q=Allen+Fieldhouse) | N/A |
+| 36 | [Open Your Heart](http://twitter.com/search?q=Open+Your+Heart) | N/A |
+| 37 | [Sam Wilson](http://twitter.com/search?q=Sam+Wilson) | N/A |
+| 38 | [Break Through It](http://twitter.com/search?q=Break+Through+It) | N/A |
+| 39 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 40 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
+| 41 | [Lins](http://twitter.com/search?q=Lins) | N/A |
+| 42 | [Scott Drew](http://twitter.com/search?q=Scott+Drew) | N/A |
+| 43 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 44 | [Kissinger](http://twitter.com/search?q=Kissinger) | N/A |
+| 45 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
+| 46 | [Ben Davison](http://twitter.com/search?q=Ben+Davison) | N/A |
+| 47 | [Grambling](http://twitter.com/search?q=Grambling) | N/A |
+| 48 | [Askhabov](http://twitter.com/search?q=Askhabov) | N/A |
+| 49 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
+| 50 | [Britestar](http://twitter.com/search?q=Britestar) | N/A |
 
 
 

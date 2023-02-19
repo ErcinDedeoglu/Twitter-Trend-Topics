@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-18 23:18:33 UTC`
+📆 Last Updated: `2023-02-19 00:30:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,30 +40,30 @@ This is top 50 for Vietnam
 | 23 | [Good Mewning](http://twitter.com/search?q=Good+Mewning) | N/A |
 | 24 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
 | 25 | [Terraform Labs](http://twitter.com/search?q=Terraform+Labs) | N/A |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [NFT 2.0](http://twitter.com/search?q=NFT+2.0) | N/A |
-| 28 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 29 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 30 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 31 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 32 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 33 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
-| 34 | [Crypto](http://twitter.com/search?q=Crypto) | N/A |
-| 35 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
-| 36 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
-| 37 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
-| 38 | [cười](http://twitter.com/search?q=c%c6%b0%e1%bb%9di) | N/A |
-| 39 | [trần minh nhật](http://twitter.com/search?q=tr%e1%ba%a7n+minh+nh%e1%ba%adt) | N/A |
-| 40 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
-| 41 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 43 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 44 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 45 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
-| 46 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
-| 47 | [#staystrongbible](http://twitter.com/search?q=%23staystrongbible) | N/A |
-| 48 | [#20DaysWithoutBiu](http://twitter.com/search?q=%2320DaysWithoutBiu) | N/A |
-| 49 | [#SONGFORBUILD](http://twitter.com/search?q=%23SONGFORBUILD) | N/A |
+| 26 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
+| 27 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 28 | [NFT 2.0](http://twitter.com/search?q=NFT+2.0) | N/A |
+| 29 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 30 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
+| 31 | [Muốn](http://twitter.com/search?q=Mu%e1%bb%91n) | N/A |
+| 32 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 33 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 34 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 35 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
+| 36 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 37 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 38 | [Hyuk](http://twitter.com/search?q=Hyuk) | N/A |
+| 39 | [tiền](http://twitter.com/search?q=ti%e1%bb%81n) | N/A |
+| 40 | [cười](http://twitter.com/search?q=c%c6%b0%e1%bb%9di) | N/A |
+| 41 | [trần minh nhật](http://twitter.com/search?q=tr%e1%ba%a7n+minh+nh%e1%ba%adt) | N/A |
+| 42 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
+| 43 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 45 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 46 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 47 | [GULF KANAWUT](http://twitter.com/search?q=GULF+KANAWUT) | N/A |
+| 48 | [Trung](http://twitter.com/search?q=Trung) | N/A |
+| 49 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
 
 
 

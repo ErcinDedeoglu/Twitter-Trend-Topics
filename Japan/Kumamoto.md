@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumamoto
 
-📆 Last Updated: `2023-02-18 23:18:00 UTC`
+📆 Last Updated: `2023-02-19 00:30:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ブルアカらいぶやっちゃいますSP](http://twitter.com/search?q=%23%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e3%82%89%e3%81%84%e3%81%b6%e3%82%84%e3%81%a3%e3%81%a1%e3%82%83%e3%81%84%e3%81%be%e3%81%99SP) | N/A |
-| 2 | [コタロー続編](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%ad%e3%83%bc%e7%b6%9a%e7%b7%a8) | N/A |
-| 3 | [#笑福亭鶴光ANN](http://twitter.com/search?q=%23%e7%ac%91%e7%a6%8f%e4%ba%ad%e9%b6%b4%e5%85%89ANN) | N/A |
-| 4 | [#イルカANN](http://twitter.com/search?q=%23%e3%82%a4%e3%83%ab%e3%82%abANN) | N/A |
-| 5 | [#日曜報道THEPRIME](http://twitter.com/search?q=%23%e6%97%a5%e6%9b%9c%e5%a0%b1%e9%81%93THEPRIME) | N/A |
-| 6 | [アルバロ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%ad) | N/A |
-| 7 | [#ボクらの時代](http://twitter.com/search?q=%23%e3%83%9c%e3%82%af%e3%82%89%e3%81%ae%e6%99%82%e4%bb%a3) | N/A |
-| 8 | [雨の日曜日](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e6%97%a5%e6%9b%9c%e6%97%a5) | N/A |
-| 9 | [洋ちゃん](http://twitter.com/search?q=%e6%b4%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 10 | [花輪先生](http://twitter.com/search?q=%e8%8a%b1%e8%bc%aa%e5%85%88%e7%94%9f) | N/A |
-| 11 | [イルカさん](http://twitter.com/search?q=%e3%82%a4%e3%83%ab%e3%82%ab%e3%81%95%e3%82%93) | N/A |
-| 12 | [アセンシオ](http://twitter.com/search?q=%e3%82%a2%e3%82%bb%e3%83%b3%e3%82%b7%e3%82%aa) | アセンシオ is a Japanese word that means "ascension" or "elevation". It is often used to refer to spiritual or physical ascension, such as the ascension of a person to a higher level of consciousness or the elevation of an object to a higher position. |
-| 13 | [プロレスの日](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%ac%e3%82%b9%e3%81%ae%e6%97%a5) | N/A |
-| 14 | [チョコミントの日](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%9f%e3%83%b3%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
-| 15 | [ゆりっぺ確定ガチャ](http://twitter.com/search?q=%e3%82%86%e3%82%8a%e3%81%a3%e3%81%ba%e7%a2%ba%e5%ae%9a%e3%82%ac%e3%83%81%e3%83%a3) | N/A |
-| 16 | [ロドリゴ](http://twitter.com/search?q=%e3%83%ad%e3%83%89%e3%83%aa%e3%82%b4) | ロドリゴ is a Spanish name. It is derived from the Latin name Rodericus, which means "famous power". In English, it can be translated to mean "famous ruler". |
-| 17 | [絢音ちゃん](http://twitter.com/search?q=%e7%b5%a2%e9%9f%b3%e3%81%a1%e3%82%83%e3%82%93) | 絢音ちゃん is a character from the Japanese multimedia franchise "Kiratto Pri☆Chan". Her name translates to "Ayane-chan" in English. She is a cheerful and energetic girl who loves to sing and dance. She is also known for her bright pink hair and her love of fashion. |
-| 18 | [日曜劇場](http://twitter.com/search?q=%e6%97%a5%e6%9b%9c%e5%8a%87%e5%a0%b4) | 日曜劇場 is a Japanese television program that airs on Sundays. It is a variety show featuring a mix of comedy, music, and drama. The English translation of 日曜劇場 is Sunday Theater. |
-| 19 | [二十四節気](http://twitter.com/search?q=%e4%ba%8c%e5%8d%81%e5%9b%9b%e7%af%80%e6%b0%97) | N/A |
-| 20 | [ヴィニシウス](http://twitter.com/search?q=%e3%83%b4%e3%82%a3%e3%83%8b%e3%82%b7%e3%82%a6%e3%82%b9) | N/A |
-| 21 | [狩野どの](http://twitter.com/search?q=%e7%8b%a9%e9%87%8e%e3%81%a9%e3%81%ae) | N/A |
-| 22 | [コミティア](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
-| 23 | [杏樹さん](http://twitter.com/search?q=%e6%9d%8f%e6%a8%b9%e3%81%95%e3%82%93) | N/A |
-| 24 | [第394回](http://twitter.com/search?q=%e7%ac%ac394%e5%9b%9e) | N/A |
-| 25 | [Talon](http://twitter.com/search?q=Talon) | N/A |
-| 26 | [オサスナ](http://twitter.com/search?q=%e3%82%aa%e3%82%b5%e3%82%b9%e3%83%8a) | N/A |
-| 27 | [リヴァプール](http://twitter.com/search?q=%e3%83%aa%e3%83%b4%e3%82%a1%e3%83%97%e3%83%bc%e3%83%ab) | リヴァプール is the Japanese name for the city of Liverpool in England. It is a port city located on the eastern side of the Mersey Estuary in North West England. The English translation of リヴァプール is Liverpool. |
-| 28 | [モリタク](http://twitter.com/search?q=%e3%83%a2%e3%83%aa%e3%82%bf%e3%82%af) | N/A |
-| 29 | [鶴光師匠](http://twitter.com/search?q=%e9%b6%b4%e5%85%89%e5%b8%ab%e5%8c%a0) | N/A |
-| 30 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
-| 31 | [ヌニェス](http://twitter.com/search?q=%e3%83%8c%e3%83%8b%e3%82%a7%e3%82%b9) | ヌニェス is a Japanese word that means "nonsense". It is used to describe something that is nonsensical or absurd. |
-| 32 | [土脉潤起](http://twitter.com/search?q=%e5%9c%9f%e8%84%89%e6%bd%a4%e8%b5%b7) | N/A |
-| 33 | [フェブラリーS](http://twitter.com/search?q=%e3%83%95%e3%82%a7%e3%83%96%e3%83%a9%e3%83%aa%e3%83%bcS) | フェブラリーS is a Japanese manga series written and illustrated by Yabako Sandrovich. It follows the story of a high school student named Kenzaki Ryuji, who is granted superhuman strength after being chosen as the successor to an ancient martial arts style known as "Feuerbach Style". The title of the series is derived from the German word "Feuerbach", which means "fire and sword". In English, it can be translated to mean "The Fire and Sword Style". |
-| 34 | [アリソン](http://twitter.com/search?q=%e3%82%a2%e3%83%aa%e3%82%bd%e3%83%b3) | アリソン is a Japanese female given name. It is a combination of the words "ari" (ant) and "son" (sound). The name can be translated to mean "ant sound" or "ant song". |
-| 35 | [ウルフデイトナ](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%95%e3%83%87%e3%82%a4%e3%83%88%e3%83%8a) | N/A |
-| 36 | [ブライトン](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88%e3%83%b3) | ブライトン (Buraiton) is a Japanese surname. In English, it can be translated to mean "Brighton". |
-| 37 | [レモンポップ](http://twitter.com/search?q=%e3%83%ac%e3%83%a2%e3%83%b3%e3%83%9d%e3%83%83%e3%83%97) | レモンポップ is a type of Japanese candy. It is a hard candy with a lemon flavor. In English, it is known as Lemon Pop. |
-| 38 | [ハーバー](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
-| 39 | [ピエール瀧](http://twitter.com/search?q=%e3%83%94%e3%82%a8%e3%83%bc%e3%83%ab%e7%80%a7) | N/A |
-| 40 | [ニューカッスル](http://twitter.com/search?q=%e3%83%8b%e3%83%a5%e3%83%bc%e3%82%ab%e3%83%83%e3%82%b9%e3%83%ab) | N/A |
-| 41 | [福山さん](http://twitter.com/search?q=%e7%a6%8f%e5%b1%b1%e3%81%95%e3%82%93) | N/A |
-| 42 | [天地の日](http://twitter.com/search?q=%e5%a4%a9%e5%9c%b0%e3%81%ae%e6%97%a5) | N/A |
-| 43 | [電気のANN](http://twitter.com/search?q=%e9%9b%bb%e6%b0%97%e3%81%aeANN) | N/A |
-| 44 | [ラウタロ](http://twitter.com/search?q=%e3%83%a9%e3%82%a6%e3%82%bf%e3%83%ad) | N/A |
-| 45 | [チェルシー](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%ab%e3%82%b7%e3%83%bc) | N/A |
-| 46 | [インターステラー](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%82%b9%e3%83%86%e3%83%a9%e3%83%bc) | N/A |
-| 47 | [Wordle 610](http://twitter.com/search?q=Wordle+610) | N/A |
-| 48 | [プリキュアリアタイ](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%aa%e3%82%a2%e3%82%bf%e3%82%a4) | N/A |
-| 49 | [マクガフ](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%82%ac%e3%83%95) | N/A |
-| 50 | [ロイヤルノーチラス](http://twitter.com/search?q=%e3%83%ad%e3%82%a4%e3%83%a4%e3%83%ab%e3%83%8e%e3%83%bc%e3%83%81%e3%83%a9%e3%82%b9) | N/A |
+| 1 | [ランナー](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc) | N/A |
+| 2 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
+| 3 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
+| 4 | [スカイランド神拳](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89%e7%a5%9e%e6%8b%b3) | N/A |
+| 5 | [プレシャス](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%b7%e3%83%a3%e3%82%b9) | プレシャス is a Japanese word that means "precious" or "valuable". It is often used to describe something that is highly valued or cherished. |
+| 6 | [#アルフィーANN](http://twitter.com/search?q=%23%e3%82%a2%e3%83%ab%e3%83%95%e3%82%a3%e3%83%bcANN) | N/A |
+| 7 | [#ひろプリ](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%83%97%e3%83%aa) | #ひろプリ is a hashtag used on Twitter in Japan to refer to the popular manga and anime series, "Hiroshima Prefecture". It is used to discuss the series, share fan art, and connect with other fans. In English, it translates to "#HiroshimaPrefecture". |
+| 8 | [#nitiasa](http://twitter.com/search?q=%23nitiasa) | #nitiasa is a hashtag used on Twitter in Japan. It stands for "Night Time Information Sharing Association" and is used to share information about nightlife events, such as concerts, clubs, and bars. |
+| 9 | [コタロー](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%ad%e3%83%bc) | N/A |
+| 10 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
+| 11 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
+| 12 | [エルちゃん](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | エルちゃん is a nickname for the character Elle from the Japanese manga series Chobits. It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 13 | [シューイチ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%81) | シューイチ is a Japanese phrase that translates to "shoe store". It is used to refer to a store that specializes in selling shoes. |
+| 14 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 15 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
+| 16 | [スカイジュエル](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%82%b8%e3%83%a5%e3%82%a8%e3%83%ab) | N/A |
+| 17 | [トゥルーヒーロー](http://twitter.com/search?q=%e3%83%88%e3%82%a5%e3%83%ab%e3%83%bc%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
+| 18 | [福くんさん](http://twitter.com/search?q=%e7%a6%8f%e3%81%8f%e3%82%93%e3%81%95%e3%82%93) | N/A |
+| 19 | [キュアプリズム](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
+| 20 | [同時変身](http://twitter.com/search?q=%e5%90%8c%e6%99%82%e5%a4%89%e8%ba%ab) | N/A |
+| 21 | [毒キノコ](http://twitter.com/search?q=%e6%af%92%e3%82%ad%e3%83%8e%e3%82%b3) | N/A |
+| 22 | [ハイパースゴスギレジェンド](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%b9%e3%82%b4%e3%82%b9%e3%82%ae%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%89) | N/A |
+| 23 | [ケケラさん](http://twitter.com/search?q=%e3%82%b1%e3%82%b1%e3%83%a9%e3%81%95%e3%82%93) | N/A |
+| 24 | [ばあちゃんの正体](http://twitter.com/search?q=%e3%81%b0%e3%81%82%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
+| 25 | [ばあちゃん何者](http://twitter.com/search?q=%e3%81%b0%e3%81%82%e3%81%a1%e3%82%83%e3%82%93%e4%bd%95%e8%80%85) | N/A |
+| 26 | [キグナスダンス](http://twitter.com/search?q=%e3%82%ad%e3%82%b0%e3%83%8a%e3%82%b9%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
+| 27 | [デリシャスマイル](http://twitter.com/search?q=%e3%83%87%e3%83%aa%e3%82%b7%e3%83%a3%e3%82%b9%e3%83%9e%e3%82%a4%e3%83%ab) | デリシャスマイル is a Japanese phrase that translates to "Delicious Smile". It is used to describe someone who has a beautiful, captivating smile. |
+| 28 | [ヨヨさん](http://twitter.com/search?q=%e3%83%a8%e3%83%a8%e3%81%95%e3%82%93) | N/A |
+| 29 | [コミティア](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
+| 30 | [ダゴモン](http://twitter.com/search?q=%e3%83%80%e3%82%b4%e3%83%a2%e3%83%b3) | N/A |
+| 31 | [創世の女神](http://twitter.com/search?q=%e5%89%b5%e4%b8%96%e3%81%ae%e5%a5%b3%e7%a5%9e) | 創世の女神 is a Japanese phrase that translates to "Goddess of Creation" in English. It is used to refer to a female deity or spirit who is responsible for the creation of the universe, or some other aspect of the world. |
+| 32 | [ジャマト](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%9e%e3%83%88) | ジャマト is a Japanese word that means "jammed" or "stuck". It is often used to describe something that is stuck in a tight space or stuck in a difficult situation. |
+| 33 | [メリーアン](http://twitter.com/search?q=%e3%83%a1%e3%83%aa%e3%83%bc%e3%82%a2%e3%83%b3) | N/A |
+| 34 | [ソラまし](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%be%e3%81%97) | N/A |
+| 35 | [くもパン](http://twitter.com/search?q=%e3%81%8f%e3%82%82%e3%83%91%e3%83%b3) | N/A |
+| 36 | [キグナス氷河](http://twitter.com/search?q=%e3%82%ad%e3%82%b0%e3%83%8a%e3%82%b9%e6%b0%b7%e6%b2%b3) | N/A |
+| 37 | [ジーンさん](http://twitter.com/search?q=%e3%82%b8%e3%83%bc%e3%83%b3%e3%81%95%e3%82%93) | N/A |
+| 38 | [ランボーグ](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%9c%e3%83%bc%e3%82%b0) | N/A |
+| 39 | [ヒーローの出番](http://twitter.com/search?q=%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc%e3%81%ae%e5%87%ba%e7%95%aa) | N/A |
+| 40 | [変身バンク](http://twitter.com/search?q=%e5%a4%89%e8%ba%ab%e3%83%90%e3%83%b3%e3%82%af) | 変身バンク (Henshin Banku) is a Japanese term for a bank account that allows customers to switch between different currencies. It is a type of foreign exchange account that allows customers to easily convert their money into different currencies. The term literally translates to "transformation bank". |
+| 41 | [二十四節気](http://twitter.com/search?q=%e4%ba%8c%e5%8d%81%e5%9b%9b%e7%af%80%e6%b0%97) | N/A |
+| 42 | [雨の日曜日](http://twitter.com/search?q=%e9%9b%a8%e3%81%ae%e6%97%a5%e6%9b%9c%e6%97%a5) | N/A |
+| 43 | [洋ちゃん](http://twitter.com/search?q=%e6%b4%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [カバピョン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%94%e3%83%a7%e3%83%b3) | N/A |
+| 45 | [日曜劇場](http://twitter.com/search?q=%e6%97%a5%e6%9b%9c%e5%8a%87%e5%a0%b4) | 日曜劇場 is a Japanese television program that airs on Sundays. It is a variety show featuring a mix of comedy, music, and drama. The English translation of 日曜劇場 is Sunday Theater. |
+| 46 | [花輪先生](http://twitter.com/search?q=%e8%8a%b1%e8%bc%aa%e5%85%88%e7%94%9f) | N/A |
+| 47 | [チョコミントの日](http://twitter.com/search?q=%e3%83%81%e3%83%a7%e3%82%b3%e3%83%9f%e3%83%b3%e3%83%88%e3%81%ae%e6%97%a5) | N/A |
+| 48 | [デザグラ](http://twitter.com/search?q=%e3%83%87%e3%82%b6%e3%82%b0%e3%83%a9) | N/A |
+| 49 | [イルカさん](http://twitter.com/search?q=%e3%82%a4%e3%83%ab%e3%82%ab%e3%81%95%e3%82%93) | N/A |
+| 50 | [ブーストバックル](http://twitter.com/search?q=%e3%83%96%e3%83%bc%e3%82%b9%e3%83%88%e3%83%90%e3%83%83%e3%82%af%e3%83%ab) | N/A |
 
 
 

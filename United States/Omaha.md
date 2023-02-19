@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omaha
 
-📆 Last Updated: `2023-02-18 23:18:22 UTC`
+📆 Last Updated: `2023-02-19 00:30:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [President Carter](http://twitter.com/search?q=President+Carter) | N/A |
-| 2 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 3 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
-| 4 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
-| 5 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 6 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 7 | [Keyonte George](http://twitter.com/search?q=Keyonte+George) | N/A |
-| 8 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 9 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 10 | [Emmers](http://twitter.com/search?q=Emmers) | N/A |
-| 11 | [Renegades](http://twitter.com/search?q=Renegades) | N/A |
-| 12 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 13 | [Habitat for Humanity](http://twitter.com/search?q=Habitat+for+Humanity) | N/A |
-| 14 | [Luis Perez](http://twitter.com/search?q=Luis+Perez) | N/A |
-| 15 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
-| 16 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
-| 17 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 18 | [ARCA](http://twitter.com/search?q=ARCA) | N/A |
-| 19 | [Lins](http://twitter.com/search?q=Lins) | N/A |
-| 20 | [Allen Fieldhouse](http://twitter.com/search?q=Allen+Fieldhouse) | N/A |
-| 21 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 22 | [Greg Van Alst](http://twitter.com/search?q=Greg+Van+Alst) | N/A |
-| 23 | [Askhabov](http://twitter.com/search?q=Askhabov) | N/A |
-| 24 | [DeBrusk](http://twitter.com/search?q=DeBrusk) | DeBrusk is a surname of French origin. It is derived from the Old French word "debrusque", which means "harsh" or "rough". |
-| 25 | [Scott Drew](http://twitter.com/search?q=Scott+Drew) | N/A |
-| 26 | [Sam Mayer](http://twitter.com/search?q=Sam+Mayer) | N/A |
-| 27 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
-| 28 | [AJ Fletcher](http://twitter.com/search?q=AJ+Fletcher) | N/A |
-| 29 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 30 | [UNCLE NICK](http://twitter.com/search?q=UNCLE+NICK) | N/A |
-| 31 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 32 | [Rosalynn](http://twitter.com/search?q=Rosalynn) | N/A |
-| 33 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
-| 34 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 35 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 36 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
-| 37 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 38 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 39 | [Bob Stoops](http://twitter.com/search?q=Bob+Stoops) | N/A |
-| 40 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 41 | [Jalen Graham](http://twitter.com/search?q=Jalen+Graham) | N/A |
-| 42 | [Vic Beasley](http://twitter.com/search?q=Vic+Beasley) | N/A |
-| 43 | [Clayton Carpenter](http://twitter.com/search?q=Clayton+Carpenter) | N/A |
-| 44 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 45 | [Jeff Badet](http://twitter.com/search?q=Jeff+Badet) | N/A |
-| 46 | [Grambling](http://twitter.com/search?q=Grambling) | N/A |
-| 47 | [Plains](http://twitter.com/search?q=Plains) | N/A |
-| 48 | [Kissinger](http://twitter.com/search?q=Kissinger) | N/A |
-| 49 | [Ferris Bueller](http://twitter.com/search?q=Ferris+Bueller) | N/A |
+| 2 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 3 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 4 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 5 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 6 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
+| 7 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 8 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 9 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 10 | [Jim Miller](http://twitter.com/search?q=Jim+Miller) | N/A |
+| 11 | [Habitat for Humanity](http://twitter.com/search?q=Habitat+for+Humanity) | N/A |
+| 12 | [His World](http://twitter.com/search?q=His+World) | N/A |
+| 13 | [Endless Possibilities](http://twitter.com/search?q=Endless+Possibilities) | N/A |
+| 14 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 15 | [Find Your Flame](http://twitter.com/search?q=Find+Your+Flame) | N/A |
+| 16 | [Live and Learn](http://twitter.com/search?q=Live+and+Learn) | N/A |
+| 17 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 18 | [Keyonte George](http://twitter.com/search?q=Keyonte+George) | N/A |
+| 19 | [Emmers](http://twitter.com/search?q=Emmers) | N/A |
+| 20 | [Reach for the Stars](http://twitter.com/search?q=Reach+for+the+Stars) | N/A |
+| 21 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
+| 22 | [Luis Perez](http://twitter.com/search?q=Luis+Perez) | N/A |
+| 23 | [Bueno Silva](http://twitter.com/search?q=Bueno+Silva) | N/A |
+| 24 | [Knight of the Wind](http://twitter.com/search?q=Knight+of+the+Wind) | N/A |
+| 25 | [Hoosier Philly](http://twitter.com/search?q=Hoosier+Philly) | N/A |
+| 26 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 27 | [Renegades](http://twitter.com/search?q=Renegades) | N/A |
+| 28 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 29 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 30 | [Vipers](http://twitter.com/search?q=Vipers) | N/A |
+| 31 | [Allen Fieldhouse](http://twitter.com/search?q=Allen+Fieldhouse) | N/A |
+| 32 | [Open Your Heart](http://twitter.com/search?q=Open+Your+Heart) | N/A |
+| 33 | [Sam Wilson](http://twitter.com/search?q=Sam+Wilson) | N/A |
+| 34 | [Break Through It](http://twitter.com/search?q=Break+Through+It) | N/A |
+| 35 | [Syracuse](http://twitter.com/search?q=Syracuse) | Syracuse is a city in Central New York, United States. It is the fifth most populous city in the state of New York and the largest city in Upstate New York. Syracuse is known for its rich history, diverse culture, and vibrant arts scene. The city is home to Syracuse University, one of the oldest universities in the United States. |
+| 36 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
+| 37 | [Lins](http://twitter.com/search?q=Lins) | N/A |
+| 38 | [Scott Drew](http://twitter.com/search?q=Scott+Drew) | N/A |
+| 39 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 40 | [Kissinger](http://twitter.com/search?q=Kissinger) | N/A |
+| 41 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
+| 42 | [Ben Davison](http://twitter.com/search?q=Ben+Davison) | N/A |
+| 43 | [Grambling](http://twitter.com/search?q=Grambling) | N/A |
+| 44 | [Askhabov](http://twitter.com/search?q=Askhabov) | N/A |
+| 45 | [Whitehead](http://twitter.com/search?q=Whitehead) | N/A |
+| 46 | [Britestar](http://twitter.com/search?q=Britestar) | N/A |
+| 47 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
+| 48 | [Plains](http://twitter.com/search?q=Plains) | N/A |
+| 49 | [Elder](http://twitter.com/search?q=Elder) | N/A |
 
 
 

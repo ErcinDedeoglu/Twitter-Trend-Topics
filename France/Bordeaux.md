@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-18 23:17:50 UTC`
+📆 Last Updated: `2023-02-19 00:30:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FCGBPFC](http://twitter.com/search?q=%23FCGBPFC) | N/A |
-| 2 | [#RCTST](http://twitter.com/search?q=%23RCTST) | N/A |
-| 3 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 4 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 5 | [#RCSASCO](http://twitter.com/search?q=%23RCSASCO) | N/A |
-| 6 | [#100Logique](http://twitter.com/search?q=%23100Logique) | N/A |
-| 7 | [La Défense](http://twitter.com/search?q=La+D%c3%a9fense) | N/A |
-| 8 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 9 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 10 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 11 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 12 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 13 | [Toulon](http://twitter.com/search?q=Toulon) | N/A |
-| 14 | [Parisse](http://twitter.com/search?q=Parisse) | N/A |
-| 15 | [Guts](http://twitter.com/search?q=Guts) | N/A |
-| 16 | [Epik High](http://twitter.com/search?q=Epik+High) | N/A |
-| 17 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 18 | [Hwasa](http://twitter.com/search?q=Hwasa) | N/A |
-| 19 | [Les 3](http://twitter.com/search?q=Les+3) | N/A |
-| 20 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 21 | [Sami Zayn](http://twitter.com/search?q=Sami+Zayn) | Sami Zayn is a professional wrestler and the ring name of Rami Sebei, a Canadian of Syrian descent. The name is derived from the Arabic phrase “samī zayn”, which translates to “elevated” or “high-minded”. |
-| 22 | [Bastia](http://twitter.com/search?q=Bastia) | N/A |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [chungha](http://twitter.com/search?q=chungha) | N/A |
-| 25 | [Vincent Cassel](http://twitter.com/search?q=Vincent+Cassel) | N/A |
-| 26 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 27 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 28 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
-| 29 | [Aurélien Pradié](http://twitter.com/search?q=Aur%c3%a9lien+Pradi%c3%a9) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [#QuelleEpoque](http://twitter.com/search?q=%23QuelleEpoque) | N/A |
-| 32 | [#SmackDownAB](http://twitter.com/search?q=%23SmackDownAB) | N/A |
-| 33 | [#camilleetimages](http://twitter.com/search?q=%23camilleetimages) | N/A |
-| 34 | [#FRAURU](http://twitter.com/search?q=%23FRAURU) | N/A |
-| 35 | [#MIKFESTIVAL](http://twitter.com/search?q=%23MIKFESTIVAL) | N/A |
-| 36 | [#OsasunaRealMadrid](http://twitter.com/search?q=%23OsasunaRealMadrid) | N/A |
-| 37 | [#redFlags](http://twitter.com/search?q=%23redFlags) | N/A |
-| 38 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 39 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 40 | [#ateezinbrussels](http://twitter.com/search?q=%23ateezinbrussels) | N/A |
-| 41 | [#SCBEAG](http://twitter.com/search?q=%23SCBEAG) | N/A |
-| 42 | [#TPMPPeople](http://twitter.com/search?q=%23TPMPPeople) | N/A |
-| 43 | [#SMCGF38](http://twitter.com/search?q=%23SMCGF38) | N/A |
-| 44 | [#DFCOFCM](http://twitter.com/search?q=%23DFCOFCM) | N/A |
-| 45 | [#Top14](http://twitter.com/search?q=%23Top14) | N/A |
-| 46 | [#QRMFCSM](http://twitter.com/search?q=%23QRMFCSM) | N/A |
-| 47 | [#FreebetPMU](http://twitter.com/search?q=%23FreebetPMU) | N/A |
-| 48 | [#OGCNSDR](http://twitter.com/search?q=%23OGCNSDR) | N/A |
-| 49 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 1 | [#RCTST](http://twitter.com/search?q=%23RCTST) | N/A |
+| 2 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 3 | [La Défense](http://twitter.com/search?q=La+D%c3%a9fense) | N/A |
+| 4 | [#MIKFESTIVAL](http://twitter.com/search?q=%23MIKFESTIVAL) | N/A |
+| 5 | [#QuelleEpoque](http://twitter.com/search?q=%23QuelleEpoque) | N/A |
+| 6 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 7 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
+| 8 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 9 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 10 | [Vincent Cassel](http://twitter.com/search?q=Vincent+Cassel) | N/A |
+| 11 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
+| 12 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 13 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 14 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 15 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 17 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 18 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 19 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 21 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 22 | [SEDUCTIVE SUNDAY](http://twitter.com/search?q=SEDUCTIVE+SUNDAY) | N/A |
+| 23 | [Guts](http://twitter.com/search?q=Guts) | N/A |
+| 24 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 25 | [Aurélien Pradié](http://twitter.com/search?q=Aur%c3%a9lien+Pradi%c3%a9) | N/A |
+| 26 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 27 | [chungha](http://twitter.com/search?q=chungha) | N/A |
+| 28 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 29 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 30 | [Free YSL](http://twitter.com/search?q=Free+YSL) | N/A |
+| 31 | [Habib Diallo](http://twitter.com/search?q=Habib+Diallo) | N/A |
+| 32 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 33 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 34 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
+| 35 | [Askhabov](http://twitter.com/search?q=Askhabov) | N/A |
+| 36 | [Epik High](http://twitter.com/search?q=Epik+High) | N/A |
+| 37 | [Auxerre](http://twitter.com/search?q=Auxerre) | N/A |
+| 38 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 39 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 40 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 41 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 42 | [Roumat](http://twitter.com/search?q=Roumat) | N/A |
+| 43 | [Elstadt](http://twitter.com/search?q=Elstadt) | N/A |
+| 44 | [Parisse](http://twitter.com/search?q=Parisse) | N/A |
+| 45 | [Balogun](http://twitter.com/search?q=Balogun) | Balogun is a Nigerian title of nobility, usually given to a warrior or leader. It is derived from the Yoruba language and means "commander of the army". |
+| 46 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 47 | [Barassi](http://twitter.com/search?q=Barassi) | N/A |
+| 48 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 49 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
 
 
 
