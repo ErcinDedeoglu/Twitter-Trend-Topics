@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-02-19 12:17:12 UTC`
+📆 Last Updated: `2023-02-19 13:18:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 2 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
-| 3 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 4 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 5 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 6 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 7 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 8 | [Ben Davison](http://twitter.com/search?q=Ben+Davison) | N/A |
-| 9 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 10 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 11 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
-| 12 | [Hash](http://twitter.com/search?q=Hash) | N/A |
-| 13 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 14 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
-| 15 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 16 | [#SundayShare](http://twitter.com/search?q=%23SundayShare) | N/A |
-| 17 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 18 | [Leyton Orient](http://twitter.com/search?q=Leyton+Orient) | N/A |
-| 19 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 20 | [Fried](http://twitter.com/search?q=Fried) | N/A |
-| 21 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 22 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
-| 23 | [Beans](http://twitter.com/search?q=Beans) | N/A |
-| 24 | [Happy 2nd](http://twitter.com/search?q=Happy+2nd) | N/A |
-| 25 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 26 | [Wendy Morton](http://twitter.com/search?q=Wendy+Morton) | N/A |
-| 27 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
-| 28 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
-| 29 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 30 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
-| 31 | [Refugees](http://twitter.com/search?q=Refugees) | N/A |
-| 32 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 1 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 2 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
+| 3 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 4 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 5 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 6 | [#ToryBrexitDisaster](http://twitter.com/search?q=%23ToryBrexitDisaster) | N/A |
+| 7 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 8 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 9 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
+| 10 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
+| 11 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
+| 12 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
+| 13 | [Hash](http://twitter.com/search?q=Hash) | N/A |
+| 14 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
+| 15 | [Toughsheet](http://twitter.com/search?q=Toughsheet) | N/A |
+| 16 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 17 | [froch](http://twitter.com/search?q=froch) | N/A |
+| 18 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 19 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 20 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
+| 21 | [Leyton Orient](http://twitter.com/search?q=Leyton+Orient) | N/A |
+| 22 | [Devlin](http://twitter.com/search?q=Devlin) | N/A |
+| 23 | [Fried](http://twitter.com/search?q=Fried) | N/A |
+| 24 | [Beans](http://twitter.com/search?q=Beans) | N/A |
+| 25 | [Happy 2nd](http://twitter.com/search?q=Happy+2nd) | N/A |
+| 26 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 27 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
+| 28 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 29 | [Wendy Morton](http://twitter.com/search?q=Wendy+Morton) | N/A |
+| 30 | [Madri](http://twitter.com/search?q=Madri) | N/A |
+| 31 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
+| 32 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
 | 33 | [Laurie](http://twitter.com/search?q=Laurie) | N/A |
-| 34 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 35 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 36 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 37 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
-| 38 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 39 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 40 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
-| 41 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 42 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 43 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
-| 44 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
-| 45 | [Morrisons](http://twitter.com/search?q=Morrisons) | N/A |
-| 46 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 47 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 48 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 49 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 34 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
+| 35 | [Full English](http://twitter.com/search?q=Full+English) | N/A |
+| 36 | [Leicester City](http://twitter.com/search?q=Leicester+City) | N/A |
+| 37 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 38 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
+| 39 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
+| 40 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
+| 41 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 42 | [Refugees](http://twitter.com/search?q=Refugees) | N/A |
+| 43 | [BAFTAs](http://twitter.com/search?q=BAFTAs) | N/A |
+| 44 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
+| 45 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
+| 46 | [Morrisons](http://twitter.com/search?q=Morrisons) | N/A |
+| 47 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 48 | [Gids](http://twitter.com/search?q=Gids) | N/A |
+| 49 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
 
 
 

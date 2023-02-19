@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-19 12:18:05 UTC`
+📆 Last Updated: `2023-02-19 13:19:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for United Kingdom
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 2 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 3 | [Hash](http://twitter.com/search?q=Hash) | N/A |
-| 4 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
-| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 6 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
-| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 8 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 9 | [#SundayShare](http://twitter.com/search?q=%23SundayShare) | N/A |
-| 10 | [Leyton Orient](http://twitter.com/search?q=Leyton+Orient) | N/A |
+| 1 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
+| 2 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
+| 3 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
+| 4 | [Hash](http://twitter.com/search?q=Hash) | N/A |
+| 5 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
+| 6 | [Toughsheet](http://twitter.com/search?q=Toughsheet) | N/A |
+| 7 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 8 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 9 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
+| 10 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
 | 11 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 12 | [#SundayBrunch](http://twitter.com/search?q=%23SundayBrunch) | N/A |
-| 13 | [Fried](http://twitter.com/search?q=Fried) | N/A |
-| 14 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 15 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
-| 16 | [Beans](http://twitter.com/search?q=Beans) | N/A |
-| 17 | [Happy 2nd](http://twitter.com/search?q=Happy+2nd) | N/A |
-| 18 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 19 | [Wendy Morton](http://twitter.com/search?q=Wendy+Morton) | N/A |
-| 20 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
-| 21 | [Full English](http://twitter.com/search?q=Full+English) | N/A |
-| 22 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
-| 23 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
-| 24 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 25 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
-| 26 | [Laurie](http://twitter.com/search?q=Laurie) | N/A |
-| 27 | [Refugees](http://twitter.com/search?q=Refugees) | N/A |
-| 28 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 29 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
-| 30 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
-| 31 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 32 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 33 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
-| 34 | [Salford](http://twitter.com/search?q=Salford) | N/A |
-| 35 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
-| 36 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
-| 39 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 40 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 41 | [Morrisons](http://twitter.com/search?q=Morrisons) | N/A |
-| 42 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 43 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
-| 44 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 45 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 46 | [Sainsbury](http://twitter.com/search?q=Sainsbury) | N/A |
-| 47 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
-| 48 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 49 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 50 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 12 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 13 | [#SundayShare](http://twitter.com/search?q=%23SundayShare) | N/A |
+| 14 | [McKay](http://twitter.com/search?q=McKay) | N/A |
+| 15 | [Leyton Orient](http://twitter.com/search?q=Leyton+Orient) | N/A |
+| 16 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 17 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
+| 18 | [Devlin](http://twitter.com/search?q=Devlin) | N/A |
+| 19 | [Fried](http://twitter.com/search?q=Fried) | N/A |
+| 20 | [Beans](http://twitter.com/search?q=Beans) | N/A |
+| 21 | [Happy 2nd](http://twitter.com/search?q=Happy+2nd) | N/A |
+| 22 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 23 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 24 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
+| 25 | [Madri](http://twitter.com/search?q=Madri) | N/A |
+| 26 | [Wendy Morton](http://twitter.com/search?q=Wendy+Morton) | N/A |
+| 27 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 28 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
+| 29 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
+| 30 | [laurie](http://twitter.com/search?q=laurie) | N/A |
+| 31 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 32 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
+| 33 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
+| 34 | [Leicester City](http://twitter.com/search?q=Leicester+City) | N/A |
+| 35 | [Full English](http://twitter.com/search?q=Full+English) | N/A |
+| 36 | [Gillingham](http://twitter.com/search?q=Gillingham) | Gillingham is a town in the county of Kent, England. It is located on the River Medway and is known for its historic buildings, including Gillingham Palace, which was once the home of King Henry VIII. The name Gillingham is derived from the Old English words "gyllan" meaning "to gush" and "ham" meaning "homestead". |
+| 37 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
+| 38 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 39 | [Crewe](http://twitter.com/search?q=Crewe) | N/A |
+| 40 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
+| 41 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 42 | [Refugees](http://twitter.com/search?q=Refugees) | N/A |
+| 43 | [BAFTAs](http://twitter.com/search?q=BAFTAs) | N/A |
+| 44 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
+| 45 | [Morrisons](http://twitter.com/search?q=Morrisons) | N/A |
+| 46 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 47 | [Gids](http://twitter.com/search?q=Gids) | N/A |
+| 48 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
+| 49 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 50 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
 
 
 

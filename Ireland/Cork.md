@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cork
 
-📆 Last Updated: `2023-02-19 12:17:23 UTC`
+📆 Last Updated: `2023-02-19 13:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [#IrelandForAll](http://twitter.com/search?q=%23IrelandForAll) | N/A |
 | 2 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
 | 3 | [#TommyTiernanShow](http://twitter.com/search?q=%23TommyTiernanShow) | N/A |
-| 4 | [#WoodLara](http://twitter.com/search?q=%23WoodLara) | N/A |
+| 4 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
 | 5 | [#NEWLIV](http://twitter.com/search?q=%23NEWLIV) | N/A |
 | 6 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 7 | [Kerry](http://twitter.com/search?q=Kerry) | N/A |
-| 8 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 9 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 8 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 9 | [Pope](http://twitter.com/search?q=Pope) | N/A |
 | 10 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 11 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 11 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 12 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 13 | [DJ Carey](http://twitter.com/search?q=DJ+Carey) | N/A |
-| 14 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 15 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 16 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 17 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 14 | [NGOs](http://twitter.com/search?q=NGOs) | N/A |
+| 15 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 16 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 17 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 18 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 19 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
-| 20 | [EMI MARTINEZ](http://twitter.com/search?q=EMI+MARTINEZ) | N/A |
+| 19 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 20 | [Emi Martinez](http://twitter.com/search?q=Emi+Martinez) | N/A |
 | 21 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 22 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 23 | [David Clifford](http://twitter.com/search?q=David+Clifford) | N/A |
-| 24 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 22 | [David Clifford](http://twitter.com/search?q=David+Clifford) | N/A |
+| 23 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 24 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
 | 25 | [parnell square](http://twitter.com/search?q=parnell+square) | N/A |
 | 26 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 27 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 28 | [Denise Gough](http://twitter.com/search?q=Denise+Gough) | N/A |
-| 29 | [zebre](http://twitter.com/search?q=zebre) | N/A |
-| 30 | [Dubravka](http://twitter.com/search?q=Dubravka) | Dubravka is a Slavic female name derived from the word "dubrava," which means "oak grove." It is also the name of a municipality in Serbia. The name is often translated to English as "oak meadow." |
-| 31 | [Seamus Coleman](http://twitter.com/search?q=Seamus+Coleman) | N/A |
-| 32 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 33 | [Fried](http://twitter.com/search?q=Fried) | N/A |
-| 34 | [gary cully](http://twitter.com/search?q=gary+cully) | N/A |
-| 35 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 36 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
-| 37 | [Meslier](http://twitter.com/search?q=Meslier) | N/A |
-| 38 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 39 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
-| 40 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
-| 41 | [coombes](http://twitter.com/search?q=coombes) | N/A |
-| 42 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 43 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 44 | [Jordan Flynn](http://twitter.com/search?q=Jordan+Flynn) | N/A |
-| 45 | [Shishkin](http://twitter.com/search?q=Shishkin) | N/A |
+| 28 | [zebre](http://twitter.com/search?q=zebre) | N/A |
+| 29 | [Dubravka](http://twitter.com/search?q=Dubravka) | Dubravka is a Slavic female name derived from the word "dubrava," which means "oak grove." It is also the name of a municipality in Serbia. The name is often translated to English as "oak meadow." |
+| 30 | [Seamus Coleman](http://twitter.com/search?q=Seamus+Coleman) | N/A |
+| 31 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 32 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 33 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 34 | [Fried](http://twitter.com/search?q=Fried) | N/A |
+| 35 | [gary cully](http://twitter.com/search?q=gary+cully) | N/A |
+| 36 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 37 | [Mings](http://twitter.com/search?q=Mings) | Mings is a Chinese surname. It is derived from the Chinese characters for “bright” and “clear”. In English, it can be translated to mean “brilliant” or “luminous”. |
+| 38 | [Juniper](http://twitter.com/search?q=Juniper) | N/A |
+| 39 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
+| 40 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 41 | [Denise Gough](http://twitter.com/search?q=Denise+Gough) | N/A |
+| 42 | [coombes](http://twitter.com/search?q=coombes) | N/A |
+| 43 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 44 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 45 | [Jordan Flynn](http://twitter.com/search?q=Jordan+Flynn) | N/A |
 | 46 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 47 | [jack Harrison](http://twitter.com/search?q=jack+Harrison) | N/A |
+| 47 | [Jack Harrison](http://twitter.com/search?q=Jack+Harrison) | N/A |
 | 48 | [Jim Ratcliffe](http://twitter.com/search?q=Jim+Ratcliffe) | Jim Ratcliffe is the name of a British billionaire businessman and philanthropist. He is the founder, chairman, and majority shareholder of Ineos, a multinational chemicals company. He is one of the wealthiest people in the United Kingdom and has been listed as one of the richest people in the world. |
-| 49 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 50 | [Sligo Rovers](http://twitter.com/search?q=Sligo+Rovers) | N/A |
+| 49 | [Bamford](http://twitter.com/search?q=Bamford) | Bamford is a surname of English origin. It is derived from the Old English words "bam" and "ford," meaning "a ford over a high bank or cliff." The name is most commonly associated with the town of Bamford in Derbyshire, England. |
+| 50 | [Sipo](http://twitter.com/search?q=Sipo) | N/A |
 
 
 

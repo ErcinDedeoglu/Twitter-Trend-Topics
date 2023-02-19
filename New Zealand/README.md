@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-19 12:18:03 UTC`
+📆 Last Updated: `2023-02-19 13:19:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -40,24 +40,24 @@ This is top 50 for New Zealand
 | 23 | [Julie](http://twitter.com/search?q=Julie) | N/A |
 | 24 | [Newshub](http://twitter.com/search?q=Newshub) | N/A |
 | 25 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 26 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 26 | [napier](http://twitter.com/search?q=napier) | N/A |
 | 27 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
 | 28 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 29 | [Richard Hills](http://twitter.com/search?q=Richard+Hills) | N/A |
+| 29 | [richard hills](http://twitter.com/search?q=richard+hills) | N/A |
 | 30 | [plunket](http://twitter.com/search?q=plunket) | N/A |
 | 31 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 32 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 33 | [Hoots](http://twitter.com/search?q=Hoots) | N/A |
-| 34 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
+| 33 | [hoots](http://twitter.com/search?q=hoots) | N/A |
+| 34 | [stuart broad](http://twitter.com/search?q=stuart+broad) | N/A |
 | 35 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 36 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 37 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 38 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
-| 39 | [williamson](http://twitter.com/search?q=williamson) | N/A |
-| 40 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 41 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 42 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 43 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 36 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 37 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 38 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
+| 39 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
+| 40 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
+| 41 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 42 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 43 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
 | 44 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
 | 45 | [Michael](http://twitter.com/search?q=Michael) | N/A |
 | 46 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bahrain
 
-📆 Last Updated: `2023-02-19 12:17:59 UTC`
+📆 Last Updated: `2023-02-19 13:19:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for Bahrain
 | 18 | [مكارم الاخلاق](http://twitter.com/search?q=%d9%85%d9%83%d8%a7%d8%b1%d9%85+%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
 | 19 | [الجزائر](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d8%a7%d8%a6%d8%b1) | N/A |
 | 20 | [ناصر بن حمد](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a8%d9%86+%d8%ad%d9%85%d8%af) | N/A |
-| 21 | [ليبيا](http://twitter.com/search?q=%d9%84%d9%8a%d8%a8%d9%8a%d8%a7) | N/A |
-| 22 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 23 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 24 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
-| 25 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 26 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 27 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
-| 28 | [موسي بن جعفر الكاظم](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a8%d9%86+%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85) | N/A |
-| 29 | [أحمد](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af) | N/A |
-| 30 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
-| 31 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
-| 32 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
-| 33 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 34 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 35 | [اليوتيوب](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
-| 36 | [الامام المهدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
-| 37 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 38 | [التعاون](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | التعاون is an Arabic word meaning "cooperation" or "collaboration" in English. It refers to the act of working together to achieve a common goal. |
-| 39 | [مانشستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1) | مانشستر (Manchester) is a city in the northwest of England. It is the most populous city in the United Kingdom after London and one of the major global cities. In English, it is often referred to simply as Manchester. |
-| 40 | [دول الخليج](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
-| 41 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
-| 42 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 43 | [مشاري](http://twitter.com/search?q=%d9%85%d8%b4%d8%a7%d8%b1%d9%8a) | N/A |
-| 44 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 45 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
-| 46 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
-| 47 | [النيابه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 48 | [علي حسب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d8%b3%d8%a8) | N/A |
-| 49 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 50 | [صاحب العصر](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b9%d8%b5%d8%b1) | N/A |
+| 21 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 22 | [علي الجميع](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 23 | [تشلسي](http://twitter.com/search?q=%d8%aa%d8%b4%d9%84%d8%b3%d9%8a) | N/A |
+| 24 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 25 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 26 | [موسي بن جعفر الكاظم](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%8a+%d8%a8%d9%86+%d8%ac%d8%b9%d9%81%d8%b1+%d8%a7%d9%84%d9%83%d8%a7%d8%b8%d9%85) | N/A |
+| 27 | [أحمد](http://twitter.com/search?q=%d8%a3%d8%ad%d9%85%d8%af) | N/A |
+| 28 | [صالح الاعمال](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%a7%d9%84%d8%a7%d8%b9%d9%85%d8%a7%d9%84) | N/A |
+| 29 | [فرنسا](http://twitter.com/search?q=%d9%81%d8%b1%d9%86%d8%b3%d8%a7) | N/A |
+| 30 | [جنات النعيم](http://twitter.com/search?q=%d8%ac%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d8%b9%d9%8a%d9%85) | N/A |
+| 31 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
+| 32 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 33 | [الطرف الاخر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d8%b1%d9%81+%d8%a7%d9%84%d8%a7%d8%ae%d8%b1) | N/A |
+| 34 | [اليوتيوب](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d8%aa%d9%8a%d9%88%d8%a8) | N/A |
+| 35 | [الامام المهدي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d9%87%d8%af%d9%8a) | N/A |
+| 36 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 37 | [التعاون](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86) | التعاون is an Arabic word meaning "cooperation" or "collaboration" in English. It refers to the act of working together to achieve a common goal. |
+| 38 | [مانشستر](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1) | مانشستر (Manchester) is a city in the northwest of England. It is the most populous city in the United Kingdom after London and one of the major global cities. In English, it is often referred to simply as Manchester. |
+| 39 | [دول الخليج](http://twitter.com/search?q=%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 40 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 41 | [مشاري](http://twitter.com/search?q=%d9%85%d8%b4%d8%a7%d8%b1%d9%8a) | N/A |
+| 42 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 43 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
+| 44 | [طرفه عين](http://twitter.com/search?q=%d8%b7%d8%b1%d9%81%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 45 | [النيابه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 46 | [علي حسب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d8%b3%d8%a8) | N/A |
+| 47 | [كره القدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
+| 48 | [رياض الجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 49 | [صاحب العصر](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%b9%d8%b5%d8%b1) | N/A |
+| 50 | [فيصل](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84) | N/A |
 
 
 

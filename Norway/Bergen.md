@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-19 12:17:29 UTC`
+📆 Last Updated: `2023-02-19 13:19:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,49 @@ This is top 50 for [Norway](</Norway>)
 | 1 | [Nasjonalmuseet](http://twitter.com/search?q=Nasjonalmuseet) | N/A |
 | 2 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
 | 3 | [Stina Högkvist](http://twitter.com/search?q=Stina+H%c3%b6gkvist) | N/A |
-| 4 | [Asia](http://twitter.com/search?q=Asia) | N/A |
+| 4 | [Leiv Eriksson](http://twitter.com/search?q=Leiv+Eriksson) | N/A |
 | 5 | [#NEWLIV](http://twitter.com/search?q=%23NEWLIV) | N/A |
 | 6 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
-| 7 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 8 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 9 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
-| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 11 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 12 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 13 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
-| 14 | [#viaplaypl](http://twitter.com/search?q=%23viaplaypl) | N/A |
-| 15 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 16 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 17 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
-| 18 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 19 | [Sandefjord](http://twitter.com/search?q=Sandefjord) | N/A |
-| 20 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
-| 21 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 22 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 23 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 24 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 25 | [Espen Teigen](http://twitter.com/search?q=Espen+Teigen) | N/A |
-| 26 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 27 | [Nidar](http://twitter.com/search?q=Nidar) | N/A |
+| 7 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 8 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 9 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 10 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 11 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
+| 12 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
+| 13 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 14 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 15 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 16 | [Mount](http://twitter.com/search?q=Mount) | Mount is a verb that means to attach or secure something in place. It can also refer to the act of climbing up or onto something. For example, you might mount a television on the wall, or mount a horse to ride it. |
+| 17 | [#viaplaypl](http://twitter.com/search?q=%23viaplaypl) | N/A |
+| 18 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 19 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 20 | [Sandefjord](http://twitter.com/search?q=Sandefjord) | N/A |
+| 21 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 22 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 23 | [Glazers](http://twitter.com/search?q=Glazers) | Glazers is a term used to refer to the owners of Manchester United Football Club, an English professional football club based in Manchester, England. The Glazer family, led by American businessman Malcolm Glazer, acquired the club in 2005. |
+| 24 | [Espen Teigen](http://twitter.com/search?q=Espen+Teigen) | N/A |
+| 25 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 26 | [Nidar](http://twitter.com/search?q=Nidar) | N/A |
+| 27 | [Tate](http://twitter.com/search?q=Tate) | N/A |
 | 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
 | 29 | [Ødegaard](http://twitter.com/search?q=%c3%98degaard) | N/A |
 | 30 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 | 31 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 32 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
-| 33 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 32 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 33 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
 | 34 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 35 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 36 | [Tate](http://twitter.com/search?q=Tate) | N/A |
-| 37 | [Norge](http://twitter.com/search?q=Norge) | N/A |
-| 38 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 39 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 35 | [Trippier](http://twitter.com/search?q=Trippier) | Trippier is a slang term used to describe something that is exciting, thrilling, or stimulating. It can also be used to describe someone who is adventurous and likes to take risks. |
+| 36 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 37 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 38 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
+| 39 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
 | 40 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 41 | [Neida](http://twitter.com/search?q=Neida) | N/A |
-| 42 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 43 | [narvik](http://twitter.com/search?q=narvik) | N/A |
-| 44 | [Nettavisen](http://twitter.com/search?q=Nettavisen) | N/A |
-| 45 | [Heldigvis](http://twitter.com/search?q=Heldigvis) | N/A |
-| 46 | [Bjerke](http://twitter.com/search?q=Bjerke) | N/A |
+| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 42 | [narvik](http://twitter.com/search?q=narvik) | N/A |
+| 43 | [Nettavisen](http://twitter.com/search?q=Nettavisen) | N/A |
+| 44 | [Heldigvis](http://twitter.com/search?q=Heldigvis) | N/A |
+| 45 | [bjerke](http://twitter.com/search?q=bjerke) | N/A |
+| 46 | [Grattis](http://twitter.com/search?q=Grattis) | N/A |
 | 47 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
 | 48 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
 

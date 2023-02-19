@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-19 12:17:59 UTC`
+📆 Last Updated: `2023-02-19 13:19:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,43 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 2 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 3 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
-| 4 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 5 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 6 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
-| 7 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
-| 8 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
-| 9 | [LARISSA EXPULSA](http://twitter.com/search?q=LARISSA+EXPULSA) | N/A |
-| 10 | [juliette no galo da madrugada](http://twitter.com/search?q=juliette+no+galo+da+madrugada) | N/A |
-| 11 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 12 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 13 | [matheus gonçalves](http://twitter.com/search?q=matheus+gon%c3%a7alves) | N/A |
-| 14 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 15 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 16 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 17 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 18 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
-| 19 | [McClung](http://twitter.com/search?q=McClung) | N/A |
-| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 21 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 22 | [Corinthians](http://twitter.com/search?q=Corinthians) | Corinthians is a book of the Bible, specifically the second book of the New Testament. It is a letter written by Paul to the church in Corinth, Greece. The book contains Paul's teachings on many topics, including love, faith, and hope. |
-| 23 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 24 | [Terceiro Milênio](http://twitter.com/search?q=Terceiro+Mil%c3%aanio) | N/A |
-| 25 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 26 | [#provaroubada](http://twitter.com/search?q=%23provaroubada) | N/A |
-| 27 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 28 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
-| 29 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 30 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 31 | [Hoseok](http://twitter.com/search?q=Hoseok) | N/A |
-| 32 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 33 | [Império da Tijuca](http://twitter.com/search?q=Imp%c3%a9rio+da+Tijuca) | N/A |
-| 34 | [Jogada](http://twitter.com/search?q=Jogada) | N/A |
-| 35 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 36 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
-| 37 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
-| 38 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 39 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 40 | [Grajaú](http://twitter.com/search?q=Graja%c3%ba) | N/A |
-| 41 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 42 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 43 | [marinho](http://twitter.com/search?q=marinho) | N/A |
-| 44 | [Anhembi](http://twitter.com/search?q=Anhembi) | N/A |
-| 45 | [Aline](http://twitter.com/search?q=Aline) | Aline is a French name meaning "noble" or "nobility". It is also a variant of the name Adeline, which is derived from the Germanic name Adalheidis, meaning "noble kind". |
-| 46 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 47 | [Vagner Dolly](http://twitter.com/search?q=Vagner+Dolly) | N/A |
-| 48 | [BIG NICACIO BRASIL](http://twitter.com/search?q=BIG+NICACIO+BRASIL) | N/A |
-| 49 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 50 | [Unidos da Ponte](http://twitter.com/search?q=Unidos+da+Ponte) | N/A |
+| 1 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 2 | [LARISSA EXPULSA](http://twitter.com/search?q=LARISSA+EXPULSA) | N/A |
+| 3 | [#FrancesNaESPN](http://twitter.com/search?q=%23FrancesNaESPN) | N/A |
+| 4 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 5 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 6 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 7 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 8 | [Domingo de Carnaval](http://twitter.com/search?q=Domingo+de+Carnaval) | N/A |
+| 9 | [Dragões](http://twitter.com/search?q=Drag%c3%b5es) | N/A |
+| 10 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
+| 11 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
+| 12 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 13 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
+| 14 | [#BometThanksgivingDay](http://twitter.com/search?q=%23BometThanksgivingDay) | N/A |
+| 15 | [#DomingoDetremuraSDV](http://twitter.com/search?q=%23DomingoDetremuraSDV) | N/A |
+| 16 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 17 | [ELE VOLTOU](http://twitter.com/search?q=ELE+VOLTOU) | N/A |
+| 18 | [Império da Tijuca](http://twitter.com/search?q=Imp%c3%a9rio+da+Tijuca) | N/A |
+| 19 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
+| 20 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
+| 21 | [Ilha](http://twitter.com/search?q=Ilha) | N/A |
+| 22 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 23 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 24 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
+| 25 | [jonah](http://twitter.com/search?q=jonah) | N/A |
+| 26 | [Mocidade Alegre](http://twitter.com/search?q=Mocidade+Alegre) | N/A |
+| 27 | [Sodoma e Gomorra](http://twitter.com/search?q=Sodoma+e+Gomorra) | N/A |
+| 28 | [#globelezamanchaverde](http://twitter.com/search?q=%23globelezamanchaverde) | N/A |
+| 29 | [São Pedro](http://twitter.com/search?q=S%c3%a3o+Pedro) | N/A |
+| 30 | [Chico Xavier](http://twitter.com/search?q=Chico+Xavier) | N/A |
+| 31 | [Guarujá](http://twitter.com/search?q=Guaruj%c3%a1) | N/A |
+| 32 | [lito](http://twitter.com/search?q=lito) | N/A |
+| 33 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
+| 34 | [Bocardi](http://twitter.com/search?q=Bocardi) | N/A |
+| 35 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 36 | [Samba](http://twitter.com/search?q=Samba) | N/A |
+| 37 | [Tucuruvi](http://twitter.com/search?q=Tucuruvi) | N/A |
 
 
 

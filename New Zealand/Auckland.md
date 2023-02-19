@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-19 12:17:49 UTC`
+📆 Last Updated: `2023-02-19 13:19:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 2 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 3 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
 | 4 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 5 | [#nbl23](http://twitter.com/search?q=%23nbl23) | N/A |
+| 5 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
 | 6 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 7 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 8 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
@@ -39,24 +39,24 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 22 | [Julie](http://twitter.com/search?q=Julie) | N/A |
 | 23 | [Newshub](http://twitter.com/search?q=Newshub) | N/A |
 | 24 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 25 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 25 | [napier](http://twitter.com/search?q=napier) | N/A |
 | 26 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
 | 27 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 28 | [Richard Hills](http://twitter.com/search?q=Richard+Hills) | N/A |
+| 28 | [richard hills](http://twitter.com/search?q=richard+hills) | N/A |
 | 29 | [plunket](http://twitter.com/search?q=plunket) | N/A |
 | 30 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 31 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 32 | [Hoots](http://twitter.com/search?q=Hoots) | N/A |
-| 33 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
+| 32 | [hoots](http://twitter.com/search?q=hoots) | N/A |
+| 33 | [stuart broad](http://twitter.com/search?q=stuart+broad) | N/A |
 | 34 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 35 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 36 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 37 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
-| 38 | [williamson](http://twitter.com/search?q=williamson) | N/A |
-| 39 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 40 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 41 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 42 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 35 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 36 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 37 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
+| 38 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
+| 39 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
+| 40 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 41 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 42 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
 | 43 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
 | 44 | [Michael](http://twitter.com/search?q=Michael) | N/A |
 | 45 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
