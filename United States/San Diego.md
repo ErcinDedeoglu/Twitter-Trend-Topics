@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-02-19 22:17:29 UTC`
+📆 Last Updated: `2023-02-19 23:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Manny](http://twitter.com/search?q=Manny) | N/A |
 | 2 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 3 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 3 | [Meta](http://twitter.com/search?q=Meta) | N/A |
 | 4 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
-| 5 | [#BPS2023](http://twitter.com/search?q=%23BPS2023) | N/A |
-| 6 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 7 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 8 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 9 | [Jodie](http://twitter.com/search?q=Jodie) | N/A |
-| 10 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 11 | [#Busch401K](http://twitter.com/search?q=%23Busch401K) | N/A |
-| 12 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
-| 13 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 14 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 15 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 16 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 17 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 18 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 5 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 6 | [#BPS2023](http://twitter.com/search?q=%23BPS2023) | N/A |
+| 7 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 8 | [Jodie](http://twitter.com/search?q=Jodie) | N/A |
+| 9 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 10 | [#Busch401K](http://twitter.com/search?q=%23Busch401K) | N/A |
+| 11 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
+| 12 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 13 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
+| 14 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
+| 15 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 16 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 17 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 18 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
 | 19 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 20 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 21 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
-| 22 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
-| 23 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 24 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 25 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 26 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 27 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 28 | [Sunday Funday](http://twitter.com/search?q=Sunday+Funday) | N/A |
-| 29 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 30 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 31 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 32 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 20 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 21 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 22 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 23 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 24 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 25 | [Austin Proehl](http://twitter.com/search?q=Austin+Proehl) | N/A |
+| 26 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
+| 27 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 28 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
+| 29 | [Preece](http://twitter.com/search?q=Preece) | N/A |
+| 30 | [Hines Ward](http://twitter.com/search?q=Hines+Ward) | N/A |
+| 31 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 32 | [Homa](http://twitter.com/search?q=Homa) | N/A |
 | 33 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 34 | [Truex](http://twitter.com/search?q=Truex) | N/A |
-| 35 | [Georgetown](http://twitter.com/search?q=Georgetown) | Georgetown is a neighborhood in Washington, D.C., located in the northwest quadrant of the city. It is home to the main campus of Georgetown University, as well as numerous embassies, restaurants, shops, and other attractions. The name Georgetown is derived from George Gordon, who was an early settler in the area. |
-| 36 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
-| 37 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 38 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
-| 39 | [Tyler Reddick](http://twitter.com/search?q=Tyler+Reddick) | N/A |
-| 40 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
-| 41 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 42 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 43 | [Spaceballs](http://twitter.com/search?q=Spaceballs) | N/A |
-| 44 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 45 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 46 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
-| 47 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 48 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
-| 49 | [Jimmie Johnson](http://twitter.com/search?q=Jimmie+Johnson) | N/A |
-| 50 | [Brad Keselowski](http://twitter.com/search?q=Brad+Keselowski) | N/A |
+| 34 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 35 | [Truex](http://twitter.com/search?q=Truex) | N/A |
+| 36 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
+| 37 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
+| 38 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 39 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 40 | [Hakeem Butler](http://twitter.com/search?q=Hakeem+Butler) | N/A |
+| 41 | [Casey Murphy](http://twitter.com/search?q=Casey+Murphy) | N/A |
+| 42 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 43 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
+| 44 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
+| 45 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 46 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
+| 47 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
+| 48 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
+| 49 | [Spaceballs](http://twitter.com/search?q=Spaceballs) | N/A |
+| 50 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
 
 
 

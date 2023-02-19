@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-02-19 22:16:40 UTC`
+📆 Last Updated: `2023-02-19 23:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Campo Grande](http://twitter.com/search?q=Campo+Grande) | N/A |
-| 2 | [#TVEemCadaEsquinaDoCarnaval](http://twitter.com/search?q=%23TVEemCadaEsquinaDoCarnaval) | N/A |
-| 3 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 4 | [roger guedes](http://twitter.com/search?q=roger+guedes) | N/A |
-| 5 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 6 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
-| 7 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 8 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 9 | [#PaulistaoNaHBOMAX](http://twitter.com/search?q=%23PaulistaoNaHBOMAX) | N/A |
-| 10 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 2 | [Baiana System](http://twitter.com/search?q=Baiana+System) | N/A |
+| 3 | [#TVEemCadaEsquinaDoCarnaval](http://twitter.com/search?q=%23TVEemCadaEsquinaDoCarnaval) | N/A |
+| 4 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 5 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
+| 6 | [Roger Guedes](http://twitter.com/search?q=Roger+Guedes) | Roger Guedes is a Brazilian footballer who currently plays for Atlético Mineiro. His name in English translates to "Roger Woods". |
+| 7 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
+| 8 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 9 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 10 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
 | 11 | [#PaulistaoNaTNT](http://twitter.com/search?q=%23PaulistaoNaTNT) | N/A |
-| 12 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
-| 13 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 14 | [Calvo](http://twitter.com/search?q=Calvo) | N/A |
-| 15 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 16 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
-| 17 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 18 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 19 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
-| 20 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 21 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 22 | [TUTU](http://twitter.com/search?q=TUTU) | N/A |
-| 23 | [Stegen](http://twitter.com/search?q=Stegen) | N/A |
-| 24 | [SHEA](http://twitter.com/search?q=SHEA) | N/A |
-| 25 | [PQ MEU TECLADO ESCREVE](http://twitter.com/search?q=PQ+MEU+TECLADO+ESCREVE) | N/A |
-| 26 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
-| 27 | [Judas Lima](http://twitter.com/search?q=Judas+Lima) | N/A |
-| 28 | [Lusa](http://twitter.com/search?q=Lusa) | N/A |
-| 29 | [TÃO PEQUENO](http://twitter.com/search?q=T%c3%83O+PEQUENO) | N/A |
-| 30 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 31 | [Sandry](http://twitter.com/search?q=Sandry) | N/A |
-| 32 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
-| 33 | [Meu 10](http://twitter.com/search?q=Meu+10) | Meu 10 is a Brazilian expression that literally translates to "My 10." It is used to express approval or agreement with something, similar to the English phrase "I'm with you." |
-| 34 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
-| 35 | [Tuyz](http://twitter.com/search?q=Tuyz) | N/A |
-| 36 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 37 | [Maicon](http://twitter.com/search?q=Maicon) | Maicon is a Portuguese name derived from the Latin name Michael, meaning “who is like God?” It is also a variant of the Hebrew name Mikha'el. |
-| 38 | [Visca Barça](http://twitter.com/search?q=Visca+Bar%c3%a7a) | N/A |
-| 39 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
-| 40 | [FLUXO NO RMR](http://twitter.com/search?q=FLUXO+NO+RMR) | N/A |
-| 41 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 42 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
-| 43 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 44 | [Cauanzin](http://twitter.com/search?q=Cauanzin) | N/A |
-| 45 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
-| 46 | [Emanuelle Araújo](http://twitter.com/search?q=Emanuelle+Ara%c3%bajo) | N/A |
-| 47 | [Baiana System](http://twitter.com/search?q=Baiana+System) | N/A |
-| 48 | [Tatau](http://twitter.com/search?q=Tatau) | N/A |
-| 49 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 50 | [Saadhak](http://twitter.com/search?q=Saadhak) | N/A |
+| 12 | [#PaulistaoNaHBOMAX](http://twitter.com/search?q=%23PaulistaoNaHBOMAX) | N/A |
+| 13 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 14 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 15 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
+| 16 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 17 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 18 | [#Domingão](http://twitter.com/search?q=%23Doming%c3%a3o) | N/A |
+| 19 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 20 | [Rafael Ramos](http://twitter.com/search?q=Rafael+Ramos) | Rafael Ramos is a Spanish name, derived from the Hebrew name Rafael, which means "God has healed". It is also the name of a Venezuelan footballer. |
+| 21 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 22 | [SHEA](http://twitter.com/search?q=SHEA) | N/A |
+| 23 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
+| 24 | [Dona Cida](http://twitter.com/search?q=Dona+Cida) | N/A |
+| 25 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
+| 26 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 27 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
+| 28 | [EU TE AMO CORINTHIANS](http://twitter.com/search?q=EU+TE+AMO+CORINTHIANS) | N/A |
+| 29 | [Meu 10](http://twitter.com/search?q=Meu+10) | Meu 10 is a Brazilian expression that literally translates to "My 10." It is used to express approval or agreement with something, similar to the English phrase "I'm with you." |
+| 30 | [Muralha](http://twitter.com/search?q=Muralha) | N/A |
+| 31 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 32 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
+| 33 | [Otis](http://twitter.com/search?q=Otis) | N/A |
+| 34 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 35 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 36 | [Dodi](http://twitter.com/search?q=Dodi) | N/A |
+| 37 | [Maeve](http://twitter.com/search?q=Maeve) | N/A |
+| 38 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 39 | [Giovane](http://twitter.com/search?q=Giovane) | N/A |
+| 40 | [Tuyz](http://twitter.com/search?q=Tuyz) | N/A |
+| 41 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 42 | [Fausto](http://twitter.com/search?q=Fausto) | N/A |
+| 43 | [Lusa](http://twitter.com/search?q=Lusa) | N/A |
+| 44 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 45 | [TUTU](http://twitter.com/search?q=TUTU) | N/A |
+| 46 | [PQ MEU TECLADO ESCREVE](http://twitter.com/search?q=PQ+MEU+TECLADO+ESCREVE) | N/A |
+| 47 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 48 | [Judas Lima](http://twitter.com/search?q=Judas+Lima) | N/A |
+| 49 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 50 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
 
 
 

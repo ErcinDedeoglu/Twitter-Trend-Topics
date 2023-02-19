@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-19 22:17:38 UTC`
+📆 Last Updated: `2023-02-19 23:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Pakistan
 | 9 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
 | 10 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
 | 11 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 12 | [guptil](http://twitter.com/search?q=guptil) | N/A |
-| 13 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
-| 14 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
+| 12 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
+| 13 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
+| 14 | [guptil](http://twitter.com/search?q=guptil) | N/A |
 | 15 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 16 | [Tahir Baig](http://twitter.com/search?q=Tahir+Baig) | N/A |
+| 16 | [tahir baig](http://twitter.com/search?q=tahir+baig) | N/A |
 | 17 | [28 Rajab](http://twitter.com/search?q=28+Rajab) | N/A |
-| 18 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
+| 18 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
 | 19 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 20 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 20 | [tom curran](http://twitter.com/search?q=tom+curran) | N/A |
 | 21 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
 | 22 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
 | 23 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
-| 24 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 25 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 26 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 27 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 28 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 24 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
+| 25 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 26 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 27 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 28 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
 | 29 | [Shai Hope](http://twitter.com/search?q=Shai+Hope) | N/A |
-| 30 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 30 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
 | 31 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
 | 32 | [ben cutting](http://twitter.com/search?q=ben+cutting) | N/A |
 | 33 | [Aqib Javed](http://twitter.com/search?q=Aqib+Javed) | N/A |
-| 34 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
-| 35 | [Akif Javed](http://twitter.com/search?q=Akif+Javed) | N/A |
-| 36 | [28th Rajab](http://twitter.com/search?q=28th+Rajab) | N/A |
-| 37 | [Madina](http://twitter.com/search?q=Madina) | N/A |
-| 38 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
+| 34 | [Akif Javed](http://twitter.com/search?q=Akif+Javed) | N/A |
+| 35 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 36 | [Madina](http://twitter.com/search?q=Madina) | N/A |
+| 37 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
+| 38 | [28th Rajab](http://twitter.com/search?q=28th+Rajab) | N/A |
 | 39 | [Iron](http://twitter.com/search?q=Iron) | N/A |
 | 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 41 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
-| 42 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 43 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 44 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
-| 45 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
-| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 47 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 48 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 49 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 50 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 41 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 42 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 43 | [Raha](http://twitter.com/search?q=Raha) | N/A |
+| 44 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 45 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 46 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 47 | [Ayesha](http://twitter.com/search?q=Ayesha) | N/A |
+| 48 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
+| 49 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
+| 50 | [Sell](http://twitter.com/search?q=Sell) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-02-19 22:17:19 UTC`
+📆 Last Updated: `2023-02-19 23:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#isiasgizliliğikaldırılsın](http://twitter.com/search?q=%23isiasgizlili%c4%9fikald%c4%b1r%c4%b1ls%c4%b1n) | N/A |
 | 2 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
-| 3 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
-| 4 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
+| 3 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
+| 4 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
 | 5 | [#Üniversiteleri](http://twitter.com/search?q=%23%c3%9cniversiteleri) | N/A |
 | 6 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
 | 7 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
 | 8 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
 | 9 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
 | 10 | [Eray](http://twitter.com/search?q=Eray) | N/A |
-| 11 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
-| 12 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 13 | [Ruhun](http://twitter.com/search?q=Ruhun) | N/A |
+| 11 | [Depremin 14](http://twitter.com/search?q=Depremin+14) | N/A |
+| 12 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
+| 13 | [Yüküm](http://twitter.com/search?q=Y%c3%bck%c3%bcm) | N/A |
 | 14 | [Naim Süleymanoğlu](http://twitter.com/search?q=Naim+S%c3%bcleymano%c4%9flu) | N/A |
-| 15 | [Yüküm](http://twitter.com/search?q=Y%c3%bck%c3%bcm) | N/A |
-| 16 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
-| 17 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
-| 18 | [Alper](http://twitter.com/search?q=Alper) | N/A |
-| 19 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
-| 20 | [Ege Üniversitesi](http://twitter.com/search?q=Ege+%c3%9cniversitesi) | N/A |
-| 21 | [Depremin 14](http://twitter.com/search?q=Depremin+14) | N/A |
-| 22 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 15 | [Ege Üniversitesi](http://twitter.com/search?q=Ege+%c3%9cniversitesi) | N/A |
+| 16 | [Ruhun](http://twitter.com/search?q=Ruhun) | N/A |
+| 17 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
+| 18 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 19 | [Alper](http://twitter.com/search?q=Alper) | N/A |
+| 20 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 21 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
+| 22 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
 | 23 | [Vali](http://twitter.com/search?q=Vali) | N/A |
 | 24 | [Esenyurt](http://twitter.com/search?q=Esenyurt) | N/A |
 | 25 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
 | 26 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 27 | [Çakma](http://twitter.com/search?q=%c3%87akma) | N/A |
-| 28 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 29 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 30 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
-| 31 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
-| 32 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
-| 33 | [Kübra Dörtkardeş](http://twitter.com/search?q=K%c3%bcbra+D%c3%b6rtkarde%c5%9f) | N/A |
-| 34 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
-| 35 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 36 | [Aşık](http://twitter.com/search?q=A%c5%9f%c4%b1k) | N/A |
+| 27 | [Başak](http://twitter.com/search?q=Ba%c5%9fak) | N/A |
+| 28 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
+| 29 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 30 | [Çakma](http://twitter.com/search?q=%c3%87akma) | N/A |
+| 31 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 32 | [Aşık](http://twitter.com/search?q=A%c5%9f%c4%b1k) | N/A |
+| 33 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
+| 34 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
+| 35 | [Kübra Dörtkardeş](http://twitter.com/search?q=K%c3%bcbra+D%c3%b6rtkarde%c5%9f) | N/A |
+| 36 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 37 | [Genelde](http://twitter.com/search?q=Genelde) | N/A |
-| 38 | [Başak](http://twitter.com/search?q=Ba%c5%9fak) | N/A |
-| 39 | [İsmet Özel](http://twitter.com/search?q=%c4%b0smet+%c3%96zel) | N/A |
-| 40 | [Dostoyevski](http://twitter.com/search?q=Dostoyevski) | N/A |
-| 41 | [20 Şubat Pazartesi](http://twitter.com/search?q=20+%c5%9eubat+Pazartesi) | N/A |
-| 42 | [633 Suriyeli](http://twitter.com/search?q=633+Suriyeli) | N/A |
-| 43 | [Cemal Süreya](http://twitter.com/search?q=Cemal+S%c3%bcreya) | N/A |
-| 44 | [#isiashotelkatliamı](http://twitter.com/search?q=%23isiashotelkatliam%c4%b1) | N/A |
-| 45 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
-| 46 | [#Eğitimicin100binAtama](http://twitter.com/search?q=%23E%c4%9fitimicin100binAtama) | N/A |
-| 47 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
-| 48 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
-| 49 | [#NisandadeğilMartta](http://twitter.com/search?q=%23Nisandade%c4%9filMartta) | N/A |
-| 50 | [#astroloji](http://twitter.com/search?q=%23astroloji) | N/A |
+| 38 | [İsmet Özel](http://twitter.com/search?q=%c4%b0smet+%c3%96zel) | N/A |
+| 39 | [#isiashotelkatliamı](http://twitter.com/search?q=%23isiashotelkatliam%c4%b1) | N/A |
+| 40 | [#StajyerCalısıyor](http://twitter.com/search?q=%23StajyerCal%c4%b1s%c4%b1yor) | N/A |
+| 41 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
+| 42 | [#Eğitimicin100binAtama](http://twitter.com/search?q=%23E%c4%9fitimicin100binAtama) | N/A |
+| 43 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
+| 44 | [#NisandadeğilMartta](http://twitter.com/search?q=%23Nisandade%c4%9filMartta) | N/A |
+| 45 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
+| 46 | [#GeceyeNotum](http://twitter.com/search?q=%23GeceyeNotum) | N/A |
+| 47 | [#astroloji](http://twitter.com/search?q=%23astroloji) | N/A |
+| 48 | [#Antalya](http://twitter.com/search?q=%23Antalya) | N/A |
+| 49 | [#OzTuğ](http://twitter.com/search?q=%23OzTu%c4%9f) | N/A |
+| 50 | [#isiaskatillericezalandırılsın](http://twitter.com/search?q=%23isiaskatillericezaland%c4%b1r%c4%b1ls%c4%b1n) | N/A |
 
 
 

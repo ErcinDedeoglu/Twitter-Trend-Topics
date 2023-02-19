@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-19 22:16:48 UTC`
+📆 Last Updated: `2023-02-19 23:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RomaVerona](http://twitter.com/search?q=%23RomaVerona) | N/A |
-| 2 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
+| 1 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
+| 2 | [#RomaVerona](http://twitter.com/search?q=%23RomaVerona) | N/A |
 | 3 | [#RestaConMe](http://twitter.com/search?q=%23RestaConMe) | N/A |
-| 4 | [#Solbakken](http://twitter.com/search?q=%23Solbakken) | N/A |
-| 5 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
-| 6 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
-| 7 | [Bove](http://twitter.com/search?q=Bove) | N/A |
-| 8 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
-| 9 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
-| 10 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 11 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
-| 12 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 13 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 14 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 15 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
+| 4 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
+| 5 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
+| 6 | [Bove](http://twitter.com/search?q=Bove) | N/A |
+| 7 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
+| 8 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 9 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 10 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
+| 11 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
+| 12 | [El Shaarawy](http://twitter.com/search?q=El+Shaarawy) | N/A |
+| 13 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 14 | [Gini](http://twitter.com/search?q=Gini) | N/A |
+| 15 | [Fedayn](http://twitter.com/search?q=Fedayn) | N/A |
 | 16 | [Kean](http://twitter.com/search?q=Kean) | N/A |
 | 17 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
-| 18 | [Valvole](http://twitter.com/search?q=Valvole) | N/A |
-| 19 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 20 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 18 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 19 | [Valvole](http://twitter.com/search?q=Valvole) | N/A |
+| 20 | [Milena](http://twitter.com/search?q=Milena) | N/A |
 | 21 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 22 | [Marchetti](http://twitter.com/search?q=Marchetti) | N/A |
-| 23 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 24 | [Saviano](http://twitter.com/search?q=Saviano) | N/A |
-| 25 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 26 | [Brescia](http://twitter.com/search?q=Brescia) | N/A |
-| 27 | [Rabiot](http://twitter.com/search?q=Rabiot) | N/A |
-| 28 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 29 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 30 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 31 | [Gigante](http://twitter.com/search?q=Gigante) | N/A |
-| 32 | [Massimo](http://twitter.com/search?q=Massimo) | N/A |
-| 33 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 34 | [#SpeziaJuve](http://twitter.com/search?q=%23SpeziaJuve) | N/A |
-| 35 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
-| 36 | [#chetempochefa](http://twitter.com/search?q=%23chetempochefa) | N/A |
-| 37 | [#RomaHellas](http://twitter.com/search?q=%23RomaHellas) | N/A |
-| 38 | [#zonabianca](http://twitter.com/search?q=%23zonabianca) | N/A |
-| 39 | [#nostroTempo](http://twitter.com/search?q=%23nostroTempo) | N/A |
-| 40 | [#Giorgia_NON_CONDANNA](http://twitter.com/search?q=%23Giorgia_NON_CONDANNA) | N/A |
-| 41 | [#DiMaria](http://twitter.com/search?q=%23DiMaria) | N/A |
-| 42 | [#Loshowdeirecord](http://twitter.com/search?q=%23Loshowdeirecord) | N/A |
-| 43 | [#elodie](http://twitter.com/search?q=%23elodie) | N/A |
-| 44 | [#CarnivalHMGDR](http://twitter.com/search?q=%23CarnivalHMGDR) | N/A |
-| 45 | [#EEBAFTAs](http://twitter.com/search?q=%23EEBAFTAs) | N/A |
-| 46 | [#inonda](http://twitter.com/search?q=%23inonda) | N/A |
-| 47 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 48 | [#Abraham](http://twitter.com/search?q=%23Abraham) | N/A |
-| 49 | [#Kostic](http://twitter.com/search?q=%23Kostic) | N/A |
-| 50 | [#Fedayn](http://twitter.com/search?q=%23Fedayn) | N/A |
+| 22 | [Saviano](http://twitter.com/search?q=Saviano) | N/A |
+| 23 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
+| 24 | [Brescia](http://twitter.com/search?q=Brescia) | N/A |
+| 25 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 26 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 27 | [GIGANTE](http://twitter.com/search?q=GIGANTE) | N/A |
+| 28 | [La Cina](http://twitter.com/search?q=La+Cina) | N/A |
+| 29 | [#Solbakken](http://twitter.com/search?q=%23Solbakken) | N/A |
+| 30 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
+| 31 | [#SpeziaJuve](http://twitter.com/search?q=%23SpeziaJuve) | N/A |
+| 32 | [#Giorgia_NON_CONDANNA](http://twitter.com/search?q=%23Giorgia_NON_CONDANNA) | N/A |
+| 33 | [#zonabianca](http://twitter.com/search?q=%23zonabianca) | N/A |
+| 34 | [#nostroTempo](http://twitter.com/search?q=%23nostroTempo) | N/A |
+| 35 | [#chetempochefa](http://twitter.com/search?q=%23chetempochefa) | N/A |
+| 36 | [#Cristante](http://twitter.com/search?q=%23Cristante) | N/A |
+| 37 | [#Spinazzola](http://twitter.com/search?q=%23Spinazzola) | N/A |
+| 38 | [#Loshowdeirecord](http://twitter.com/search?q=%23Loshowdeirecord) | N/A |
+| 39 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
+| 40 | [#DiMaria](http://twitter.com/search?q=%23DiMaria) | N/A |
+| 41 | [#CarnivalHMGDR](http://twitter.com/search?q=%23CarnivalHMGDR) | N/A |
+| 42 | [#elodie](http://twitter.com/search?q=%23elodie) | N/A |
+| 43 | [#Abraham](http://twitter.com/search?q=%23Abraham) | N/A |
+| 44 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
+| 45 | [#Locatelli](http://twitter.com/search?q=%23Locatelli) | N/A |
+| 46 | [#SerieATipo](http://twitter.com/search?q=%23SerieATipo) | N/A |
+| 47 | [#Tajani](http://twitter.com/search?q=%23Tajani) | N/A |
+| 48 | [#ForzaJuve](http://twitter.com/search?q=%23ForzaJuve) | N/A |
+| 49 | [#HanKergoodhearts](http://twitter.com/search?q=%23HanKergoodhearts) | N/A |
+| 50 | [#LBAF82023](http://twitter.com/search?q=%23LBAF82023) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-19 22:17:37 UTC`
+📆 Last Updated: `2023-02-19 23:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,49 @@ This is top 50 for Mexico
 | 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
 | 3 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
 | 4 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 5 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
-| 6 | [#MexicoEsClaudia](http://twitter.com/search?q=%23MexicoEsClaudia) | N/A |
-| 7 | [#OlaAzul](http://twitter.com/search?q=%23OlaAzul) | N/A |
-| 8 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 5 | [Henry Martin](http://twitter.com/search?q=Henry+Martin) | N/A |
+| 6 | [#OlaAzul](http://twitter.com/search?q=%23OlaAzul) | N/A |
+| 7 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
+| 8 | [#MexicoEsClaudia](http://twitter.com/search?q=%23MexicoEsClaudia) | N/A |
 | 9 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 10 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 11 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 10 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 11 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
 | 12 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 13 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 14 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
-| 15 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 16 | [#DíaDelEjércitoMexicano](http://twitter.com/search?q=%23D%c3%adaDelEj%c3%a9rcitoMexicano) | N/A |
+| 13 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 14 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 15 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 16 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
 | 17 | [John Munch](http://twitter.com/search?q=John+Munch) | N/A |
-| 18 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 19 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 20 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 21 | [La Ley](http://twitter.com/search?q=La+Ley) | N/A |
-| 22 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 23 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 24 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 25 | [Nación](http://twitter.com/search?q=Naci%c3%b3n) | N/A |
-| 26 | [Desde 1917](http://twitter.com/search?q=Desde+1917) | N/A |
-| 27 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
-| 28 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
-| 29 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 30 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
-| 31 | [Venustiano Carranza](http://twitter.com/search?q=Venustiano+Carranza) | N/A |
-| 32 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 33 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 34 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
-| 35 | [El AIFA](http://twitter.com/search?q=El+AIFA) | N/A |
-| 36 | [El INE](http://twitter.com/search?q=El+INE) | N/A |
-| 37 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 38 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 39 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 40 | [#Tamaulipas](http://twitter.com/search?q=%23Tamaulipas) | N/A |
-| 41 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
+| 18 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 19 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 20 | [Ejército Mexicano](http://twitter.com/search?q=Ej%c3%a9rcito+Mexicano) | N/A |
+| 21 | [Fresnillo](http://twitter.com/search?q=Fresnillo) | N/A |
+| 22 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 23 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 24 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
+| 25 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 26 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 27 | [Tepito](http://twitter.com/search?q=Tepito) | N/A |
+| 28 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 29 | [La Ley](http://twitter.com/search?q=La+Ley) | N/A |
+| 30 | [Litio](http://twitter.com/search?q=Litio) | N/A |
+| 31 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
+| 32 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 33 | [Travolta](http://twitter.com/search?q=Travolta) | N/A |
+| 34 | [Guaymas](http://twitter.com/search?q=Guaymas) | N/A |
+| 35 | [Nación](http://twitter.com/search?q=Naci%c3%b3n) | N/A |
+| 36 | [Venustiano Carranza](http://twitter.com/search?q=Venustiano+Carranza) | N/A |
+| 37 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
+| 38 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 39 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 40 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 41 | [#Tamaulipas](http://twitter.com/search?q=%23Tamaulipas) | N/A |
 | 42 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 43 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
+| 43 | [#LaLiga](http://twitter.com/search?q=%23LaLiga) | N/A |
 | 44 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
 | 45 | [#JefaDeGobierno](http://twitter.com/search?q=%23JefaDeGobierno) | N/A |
 | 46 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
 | 47 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
-| 48 | [#YoDefiendoAlINE26deFebrero](http://twitter.com/search?q=%23YoDefiendoAlINE26deFebrero) | N/A |
 
 
 
