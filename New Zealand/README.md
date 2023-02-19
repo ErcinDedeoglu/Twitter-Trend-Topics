@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-19 02:41:56 UTC`
+📆 Last Updated: `2023-02-19 03:21:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,18 +16,18 @@ This is top 50 for New Zealand
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 2 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
-| 3 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 4 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 5 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 2 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 3 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
+| 4 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 5 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 6 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 | 7 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 8 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
 | 9 | [Helen](http://twitter.com/search?q=Helen) | N/A |
 | 10 | [plunket](http://twitter.com/search?q=plunket) | N/A |
-| 11 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 12 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 13 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 11 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
+| 12 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 13 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
 | 14 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 15 | [Farrar](http://twitter.com/search?q=Farrar) | N/A |
 | 16 | [Hooton](http://twitter.com/search?q=Hooton) | N/A |
@@ -35,9 +35,9 @@ This is top 50 for New Zealand
 | 18 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 19 | [#JHOPEDAY](http://twitter.com/search?q=%23JHOPEDAY) | N/A |
 | 20 | [Hawkesby](http://twitter.com/search?q=Hawkesby) | N/A |
-| 21 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
-| 22 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 23 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 21 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 22 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 23 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
 | 24 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 25 | [Julie](http://twitter.com/search?q=Julie) | N/A |
 | 26 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for New Zealand
 | 30 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 31 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 | 32 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
-| 33 | [Richard](http://twitter.com/search?q=Richard) | N/A |
-| 34 | [Southland](http://twitter.com/search?q=Southland) | N/A |
-| 35 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 36 | [Esk Valley](http://twitter.com/search?q=Esk+Valley) | N/A |
-| 37 | [Auckland Grammar](http://twitter.com/search?q=Auckland+Grammar) | N/A |
-| 38 | [Kuggeleijn](http://twitter.com/search?q=Kuggeleijn) | N/A |
-| 39 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
-| 40 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
-| 41 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 42 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 43 | [don't come here now](http://twitter.com/search?q=don%27t+come+here+now) | N/A |
-| 44 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 45 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 46 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 47 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 48 | [Southee](http://twitter.com/search?q=Southee) | N/A |
-| 49 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 50 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 33 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
+| 34 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
+| 35 | [Southland](http://twitter.com/search?q=Southland) | N/A |
+| 36 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 37 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 38 | [Esk Valley](http://twitter.com/search?q=Esk+Valley) | N/A |
+| 39 | [Auckland Grammar](http://twitter.com/search?q=Auckland+Grammar) | N/A |
+| 40 | [Kuggeleijn](http://twitter.com/search?q=Kuggeleijn) | N/A |
+| 41 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
+| 42 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
+| 43 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [don't come here now](http://twitter.com/search?q=don%27t+come+here+now) | N/A |
+| 46 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 47 | [England](http://twitter.com/search?q=England) | N/A |
+| 48 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 49 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 50 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
 
 
 

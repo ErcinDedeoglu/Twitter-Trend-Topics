@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colombia
 
-📆 Last Updated: `2023-02-19 02:41:52 UTC`
+📆 Last Updated: `2023-02-19 03:21:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Colombia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 2 | [Óscar Cortés](http://twitter.com/search?q=%c3%93scar+Cort%c3%a9s) | N/A |
-| 3 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
-| 4 | [#SomosDignidadYCompromiso](http://twitter.com/search?q=%23SomosDignidadYCompromiso) | N/A |
-| 5 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 6 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 7 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 8 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 9 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 10 | [Jorge Arias](http://twitter.com/search?q=Jorge+Arias) | N/A |
-| 11 | [#BatallaDeFlores](http://twitter.com/search?q=%23BatallaDeFlores) | N/A |
-| 12 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
-| 13 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 14 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
-| 15 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 16 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 17 | [Jaguares](http://twitter.com/search?q=Jaguares) | N/A |
-| 18 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 19 | [HAVE A SAFE FLIGHT HOBI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+HOBI) | "HAVE A SAFE FLIGHT HOBI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be translated into English as "Have a safe flight, Hobi!" |
-| 20 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
-| 21 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 22 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
-| 23 | [Jader Valencia](http://twitter.com/search?q=Jader+Valencia) | N/A |
-| 24 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [Juntas de Acción Comunal](http://twitter.com/search?q=Juntas+de+Acci%c3%b3n+Comunal) | N/A |
-| 27 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
-| 28 | [Guima](http://twitter.com/search?q=Guima) | N/A |
-| 29 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 30 | [Niche](http://twitter.com/search?q=Niche) | N/A |
-| 31 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 32 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
-| 33 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
-| 34 | [Pons](http://twitter.com/search?q=Pons) | N/A |
-| 35 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 36 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 37 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
-| 38 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
-| 39 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 40 | [Falque](http://twitter.com/search?q=Falque) | N/A |
-| 41 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
-| 42 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 43 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
-| 44 | [Las JAC](http://twitter.com/search?q=Las+JAC) | N/A |
-| 45 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
-| 46 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 47 | [Pasto](http://twitter.com/search?q=Pasto) | N/A |
-| 48 | [Fujimori](http://twitter.com/search?q=Fujimori) | N/A |
-| 49 | [Yuber](http://twitter.com/search?q=Yuber) | N/A |
-| 50 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 2 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
+| 3 | [Óscar Cortés](http://twitter.com/search?q=%c3%93scar+Cort%c3%a9s) | N/A |
+| 4 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 5 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 6 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 7 | [#SomosDignidadYCompromiso](http://twitter.com/search?q=%23SomosDignidadYCompromiso) | N/A |
+| 8 | [Berrío](http://twitter.com/search?q=Berr%c3%ado) | N/A |
+| 9 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 10 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 11 | [Juanfer](http://twitter.com/search?q=Juanfer) | Juanfer is a Spanish name derived from the given name Juan and the suffix -fer, which means "son of". In English, it can be translated to mean "son of John". |
+| 12 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 13 | [Jorge Arias](http://twitter.com/search?q=Jorge+Arias) | N/A |
+| 14 | [#BatallaDeFlores](http://twitter.com/search?q=%23BatallaDeFlores) | N/A |
+| 15 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
+| 16 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 17 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
+| 18 | [Reyes](http://twitter.com/search?q=Reyes) | Reyes is a Spanish word meaning "kings". It is derived from the Latin word rex, which means "king". |
+| 19 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
+| 20 | [McClung](http://twitter.com/search?q=McClung) | N/A |
+| 21 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 22 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 23 | [HAVE A SAFE FLIGHT HOBI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+HOBI) | "HAVE A SAFE FLIGHT HOBI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be translated into English as "Have a safe flight, Hobi!" |
+| 24 | [Jaguares](http://twitter.com/search?q=Jaguares) | N/A |
+| 25 | [Vamos Millonarios](http://twitter.com/search?q=Vamos+Millonarios) | N/A |
+| 26 | [Jader Valencia](http://twitter.com/search?q=Jader+Valencia) | N/A |
+| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 28 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 29 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
+| 30 | [Juntas de Acción Comunal](http://twitter.com/search?q=Juntas+de+Acci%c3%b3n+Comunal) | N/A |
+| 31 | [Guima](http://twitter.com/search?q=Guima) | N/A |
+| 32 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 33 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 34 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 35 | [Cierra](http://twitter.com/search?q=Cierra) | N/A |
+| 36 | [Keiko](http://twitter.com/search?q=Keiko) | N/A |
+| 37 | [Ever Valencia](http://twitter.com/search?q=Ever+Valencia) | N/A |
+| 38 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 39 | [Pons](http://twitter.com/search?q=Pons) | N/A |
+| 40 | [Perlaza](http://twitter.com/search?q=Perlaza) | N/A |
+| 41 | [Novoa](http://twitter.com/search?q=Novoa) | N/A |
+| 42 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 43 | [Falque](http://twitter.com/search?q=Falque) | N/A |
+| 44 | [Luis Sánchez](http://twitter.com/search?q=Luis+S%c3%a1nchez) | N/A |
+| 45 | [Quiñones](http://twitter.com/search?q=Qui%c3%b1ones) | Quiñones is a Spanish surname derived from the Latin word "quinonem," which means "fifth." It is a common surname in Spain, Latin America, and the Philippines. In English, it can be translated to mean "the fifth one." |
+| 46 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
+| 47 | [Las JAC](http://twitter.com/search?q=Las+JAC) | N/A |
+| 48 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
+| 49 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
+| 50 | [Paulina Vega](http://twitter.com/search?q=Paulina+Vega) | N/A |
 
 
 

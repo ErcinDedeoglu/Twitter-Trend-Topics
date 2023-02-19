@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-19 02:41:20 UTC`
+📆 Last Updated: `2023-02-19 03:20:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,38 +24,38 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 | 8 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 9 | [Sozialhilfe](http://twitter.com/search?q=Sozialhilfe) | N/A |
-| 10 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
-| 11 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 12 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 13 | [Frag](http://twitter.com/search?q=Frag) | N/A |
-| 14 | [Krieg in der Ukraine](http://twitter.com/search?q=Krieg+in+der+Ukraine) | N/A |
-| 15 | [Kindheit](http://twitter.com/search?q=Kindheit) | N/A |
-| 16 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
-| 17 | [strafen](http://twitter.com/search?q=strafen) | N/A |
-| 18 | [Dreck](http://twitter.com/search?q=Dreck) | N/A |
-| 19 | [Damso](http://twitter.com/search?q=Damso) | N/A |
-| 20 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 21 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 22 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
-| 23 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
-| 24 | [Verbindung](http://twitter.com/search?q=Verbindung) | N/A |
-| 25 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
-| 28 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
-| 29 | [Italien](http://twitter.com/search?q=Italien) | N/A |
-| 30 | [Fernseher](http://twitter.com/search?q=Fernseher) | N/A |
-| 31 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 32 | [dividenden](http://twitter.com/search?q=dividenden) | N/A |
-| 33 | [Jura](http://twitter.com/search?q=Jura) | N/A |
-| 34 | [Bargeld](http://twitter.com/search?q=Bargeld) | Bargeld is a German word meaning "cash" or "money". It is used to refer to physical money, such as coins and banknotes, rather than electronic payments. |
-| 35 | [glarner](http://twitter.com/search?q=glarner) | N/A |
-| 36 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
-| 37 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 38 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
-| 39 | [Achso](http://twitter.com/search?q=Achso) | N/A |
-| 40 | [Munich](http://twitter.com/search?q=Munich) | N/A |
-| 41 | [Begriffe](http://twitter.com/search?q=Begriffe) | N/A |
+| 10 | [Marx](http://twitter.com/search?q=Marx) | N/A |
+| 11 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 12 | [Frag](http://twitter.com/search?q=Frag) | N/A |
+| 13 | [krieg in der ukraine](http://twitter.com/search?q=krieg+in+der+ukraine) | N/A |
+| 14 | [Kindheit](http://twitter.com/search?q=Kindheit) | N/A |
+| 15 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
+| 16 | [strafen](http://twitter.com/search?q=strafen) | N/A |
+| 17 | [Damso](http://twitter.com/search?q=Damso) | N/A |
+| 18 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 19 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
+| 20 | [Eddie](http://twitter.com/search?q=Eddie) | Eddie is a slang term used to refer to someone who is considered to be cool, attractive, or stylish. It can also be used as a term of endearment for someone you like or admire. |
+| 21 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
+| 22 | [Verbindung](http://twitter.com/search?q=Verbindung) | N/A |
+| 23 | [Spieler](http://twitter.com/search?q=Spieler) | N/A |
+| 24 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 25 | ["Trychler"](http://twitter.com/search?q=%22Trychler%22) | N/A |
+| 26 | [marco odermatt](http://twitter.com/search?q=marco+odermatt) | N/A |
+| 27 | [Kindergarten](http://twitter.com/search?q=Kindergarten) | N/A |
+| 28 | [Italien](http://twitter.com/search?q=Italien) | N/A |
+| 29 | [Fernseher](http://twitter.com/search?q=Fernseher) | N/A |
+| 30 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 31 | [dividenden](http://twitter.com/search?q=dividenden) | N/A |
+| 32 | [Bargeld](http://twitter.com/search?q=Bargeld) | Bargeld is a German word meaning "cash" or "money". It is used to refer to physical money, such as coins and banknotes, rather than electronic payments. |
+| 33 | [glarner](http://twitter.com/search?q=glarner) | N/A |
+| 34 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
+| 35 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 36 | [Frankreich](http://twitter.com/search?q=Frankreich) | N/A |
+| 37 | [Achso](http://twitter.com/search?q=Achso) | N/A |
+| 38 | [Munich](http://twitter.com/search?q=Munich) | N/A |
+| 39 | [Begriffe](http://twitter.com/search?q=Begriffe) | N/A |
+| 40 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
+| 41 | [Jura](http://twitter.com/search?q=Jura) | N/A |
 | 42 | [Koch](http://twitter.com/search?q=Koch) | N/A |
 | 43 | [Impfstoff](http://twitter.com/search?q=Impfstoff) | N/A |
 | 44 | [gemeinde](http://twitter.com/search?q=gemeinde) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-19 02:41:21 UTC`
+📆 Last Updated: `2023-02-19 03:20:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,7 +35,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 18 | [Pope](http://twitter.com/search?q=Pope) | N/A |
 | 19 | [Leksand](http://twitter.com/search?q=Leksand) | N/A |
 | 20 | [Sida](http://twitter.com/search?q=Sida) | N/A |
-| 21 | [Jämtin](http://twitter.com/search?q=J%c3%a4mtin) | N/A |
+| 21 | [jämtin](http://twitter.com/search?q=j%c3%a4mtin) | N/A |
 | 22 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
 | 23 | [jesper rönndahl](http://twitter.com/search?q=jesper+r%c3%b6nndahl) | N/A |
 | 24 | [Tappara](http://twitter.com/search?q=Tappara) | N/A |
@@ -46,7 +46,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 29 | [Nottingham](http://twitter.com/search?q=Nottingham) | N/A |
 | 30 | [Casanovas](http://twitter.com/search?q=Casanovas) | N/A |
 | 31 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 32 | [Niederbach](http://twitter.com/search?q=Niederbach) | N/A |
+| 32 | [niederbach](http://twitter.com/search?q=niederbach) | N/A |
 | 33 | [Ida-Lova](http://twitter.com/search?q=Ida-Lova) | N/A |
 | 34 | [Häcken](http://twitter.com/search?q=H%c3%a4cken) | N/A |
 | 35 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
@@ -55,10 +55,10 @@ This is top 50 for [Sweden](</Sweden>)
 | 38 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
 | 39 | [petra mede](http://twitter.com/search?q=petra+mede) | N/A |
 | 40 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 41 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 42 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 41 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 42 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
 | 43 | [ruohomaa](http://twitter.com/search?q=ruohomaa) | N/A |
-| 44 | [Lidköping](http://twitter.com/search?q=Lidk%c3%b6ping) | N/A |
+| 44 | [lidköping](http://twitter.com/search?q=lidk%c3%b6ping) | N/A |
 | 45 | [Demirok](http://twitter.com/search?q=Demirok) | N/A |
 | 46 | [Authy](http://twitter.com/search?q=Authy) | N/A |
 | 47 | [Guidetti](http://twitter.com/search?q=Guidetti) | N/A |

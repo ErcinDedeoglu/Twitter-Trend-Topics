@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-19 02:41:22 UTC`
+📆 Last Updated: `2023-02-19 03:20:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [#jodohditanganantono](http://twitter.com/search?q=%23jodohditanganantono) | N/A |
 | 4 | [Baju Kembaran](http://twitter.com/search?q=Baju+Kembaran) | N/A |
 | 5 | [#JanganLagiTBC](http://twitter.com/search?q=%23JanganLagiTBC) | N/A |
-| 6 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 7 | [TBC Musuh Semua](http://twitter.com/search?q=TBC+Musuh+Semua) | N/A |
+| 6 | [TBC Musuh Semua](http://twitter.com/search?q=TBC+Musuh+Semua) | N/A |
+| 7 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
 | 8 | [danamon](http://twitter.com/search?q=danamon) | N/A |
-| 9 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 10 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
-| 11 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 12 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 13 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 14 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
-| 15 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
-| 16 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 17 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 18 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 19 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
-| 20 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
-| 21 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 22 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 23 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
-| 24 | [d-bank pro](http://twitter.com/search?q=d-bank+pro) | N/A |
-| 25 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 26 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 27 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
-| 28 | [27 rajab 1444 h](http://twitter.com/search?q=27+rajab+1444+h) | N/A |
-| 29 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
-| 30 | [Brunei](http://twitter.com/search?q=Brunei) | N/A |
-| 31 | [Lagunya](http://twitter.com/search?q=Lagunya) | N/A |
-| 32 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
-| 33 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 34 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
-| 35 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
-| 36 | [Hotel Del Luna](http://twitter.com/search?q=Hotel+Del+Luna) | N/A |
-| 37 | [Sangiran](http://twitter.com/search?q=Sangiran) | N/A |
-| 38 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
-| 39 | [Terapkan Syariah Kaffah](http://twitter.com/search?q=Terapkan+Syariah+Kaffah) | N/A |
-| 40 | [CHART LEGEND JUNGKOOK](http://twitter.com/search?q=CHART+LEGEND+JUNGKOOK) | N/A |
-| 41 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
-| 42 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
-| 43 | [WARD PROWSE](http://twitter.com/search?q=WARD+PROWSE) | N/A |
-| 44 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 45 | [Sidratul Muntaha](http://twitter.com/search?q=Sidratul+Muntaha) | N/A |
-| 46 | [WayV](http://twitter.com/search?q=WayV) | N/A |
-| 47 | [2023 M](http://twitter.com/search?q=2023+M) | N/A |
-| 48 | [BUILD SLAY MOMMAE](http://twitter.com/search?q=BUILD+SLAY+MOMMAE) | N/A |
-| 49 | [Masjidil Haram](http://twitter.com/search?q=Masjidil+Haram) | N/A |
-| 50 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 9 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 10 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 11 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
+| 12 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 13 | [McClung](http://twitter.com/search?q=McClung) | N/A |
+| 14 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 15 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
+| 16 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
+| 17 | [Pagii](http://twitter.com/search?q=Pagii) | N/A |
+| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 19 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 20 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 21 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
+| 22 | [Jinny](http://twitter.com/search?q=Jinny) | N/A |
+| 23 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Brunei](http://twitter.com/search?q=Brunei) | N/A |
+| 26 | [CHART LEGEND JUNGKOOK](http://twitter.com/search?q=CHART+LEGEND+JUNGKOOK) | N/A |
+| 27 | [d-bank pro](http://twitter.com/search?q=d-bank+pro) | N/A |
+| 28 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 29 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
+| 30 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 31 | [27 rajab 1444 h](http://twitter.com/search?q=27+rajab+1444+h) | N/A |
+| 32 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 33 | [Sarapan](http://twitter.com/search?q=Sarapan) | N/A |
+| 34 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
+| 35 | [Hotel Del Luna](http://twitter.com/search?q=Hotel+Del+Luna) | N/A |
+| 36 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 37 | [Ria SW](http://twitter.com/search?q=Ria+SW) | N/A |
+| 38 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 39 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
+| 40 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
+| 41 | [Sangiran](http://twitter.com/search?q=Sangiran) | N/A |
+| 42 | [Lagunya](http://twitter.com/search?q=Lagunya) | N/A |
+| 43 | [NOMIN JAYA JAYA JAYA](http://twitter.com/search?q=NOMIN+JAYA+JAYA+JAYA) | N/A |
+| 44 | [TXT AT CIRCLE CHART AWARDS](http://twitter.com/search?q=TXT+AT+CIRCLE+CHART+AWARDS) | N/A |
+| 45 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
+| 46 | [Sidratul Muntaha](http://twitter.com/search?q=Sidratul+Muntaha) | N/A |
+| 47 | [WayV](http://twitter.com/search?q=WayV) | N/A |
+| 48 | [Terapkan Syariah Kaffah](http://twitter.com/search?q=Terapkan+Syariah+Kaffah) | N/A |
+| 49 | [2023 M](http://twitter.com/search?q=2023+M) | N/A |
+| 50 | [BUILD SLAY MOMMAE](http://twitter.com/search?q=BUILD+SLAY+MOMMAE) | N/A |
 
 
 

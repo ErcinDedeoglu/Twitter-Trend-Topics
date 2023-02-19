@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-19 02:41:51 UTC`
+📆 Last Updated: `2023-02-19 03:21:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,15 +18,15 @@ This is top 50 for Algeria
 | 1 | [#تم_الطرد_بنجاح](http://twitter.com/search?q=%23%d8%aa%d9%85_%d8%a7%d9%84%d8%b7%d8%b1%d8%af_%d8%a8%d9%86%d8%ac%d8%a7%d8%ad) | N/A |
 | 2 | [الاتحاد الافريقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a) | N/A |
 | 3 | [جنوب افريقيا](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 4 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
-| 5 | [القمه الافريقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d9%87) | N/A |
+| 4 | [القمه الافريقيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d9%87) | N/A |
+| 5 | [الكيان الصهيوني](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b5%d9%87%d9%8a%d9%88%d9%86%d9%8a) | N/A |
 | 6 | [18 فيفري](http://twitter.com/search?q=18+%d9%81%d9%8a%d9%81%d8%b1%d9%8a) | N/A |
 | 7 | [#يوم_الشهيد](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%b4%d9%87%d9%8a%d8%af) | N/A |
 | 8 | [#اليوم_الوطني_للشهيد](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a_%d9%84%d9%84%d8%b4%d9%87%d9%8a%d8%af) | N/A |
-| 9 | [#jskwac](http://twitter.com/search?q=%23jskwac) | N/A |
-| 10 | [#الاسراء_والمعراج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1_%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
-| 11 | [اليوم الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 12 | [الوفد الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 9 | [الوفد الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%81%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 10 | [#jskwac](http://twitter.com/search?q=%23jskwac) | N/A |
+| 11 | [#الاسراء_والمعراج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1_%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
+| 12 | [اليوم الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
 | 13 | [الوداد](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%af%d8%a7%d8%af) | الوداد is an Arabic phrase meaning "the lion". It is often used as a metaphor for strength and courage. |
 | 14 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
 | 15 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
@@ -50,7 +50,7 @@ This is top 50 for Algeria
 | 33 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
 | 34 | [الكيان الغاصب](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d8%b5%d8%a8) | N/A |
 | 35 | [بول البعير](http://twitter.com/search?q=%d8%a8%d9%88%d9%84+%d8%a7%d9%84%d8%a8%d8%b9%d9%8a%d8%b1) | N/A |
-| 36 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 36 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
 | 37 | [نوتنغهام](http://twitter.com/search?q=%d9%86%d9%88%d8%aa%d9%86%d8%ba%d9%87%d8%a7%d9%85) | N/A |
 | 38 | [الوزير الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
 | 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
@@ -60,11 +60,11 @@ This is top 50 for Algeria
 | 43 | [غير الاسلام](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85) | N/A |
 | 44 | [اوساسونا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a7%d8%b3%d9%88%d9%86%d8%a7) | N/A |
 | 45 | [منصور البلوشي](http://twitter.com/search?q=%d9%85%d9%86%d8%b5%d9%88%d8%b1+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b4%d9%8a) | N/A |
-| 46 | [الجمهوريه الصحراويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d9%88%d9%8a%d9%87) | N/A |
-| 47 | [كره قدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d9%82%d8%af%d9%85) | N/A |
-| 48 | [الاخوه العرب](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d9%88%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
-| 49 | [شيماء أنفال](http://twitter.com/search?q=%d8%b4%d9%8a%d9%85%d8%a7%d8%a1+%d8%a3%d9%86%d9%81%d8%a7%d9%84) | N/A |
-| 50 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 46 | [القضيه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 47 | [الجمهوريه الصحراويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d9%88%d9%8a%d9%87) | N/A |
+| 48 | [كره قدم](http://twitter.com/search?q=%d9%83%d8%b1%d9%87+%d9%82%d8%af%d9%85) | N/A |
+| 49 | [الاخوه العرب](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d9%88%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8) | N/A |
+| 50 | [شيماء أنفال](http://twitter.com/search?q=%d8%b4%d9%8a%d9%85%d8%a7%d8%a1+%d8%a3%d9%86%d9%81%d8%a7%d9%84) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-02-19 02:41:43 UTC`
+📆 Last Updated: `2023-02-19 03:20:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
 | 3 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 4 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 5 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 6 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 7 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 8 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 9 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 10 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 11 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 12 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 13 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
-| 14 | [Beth](http://twitter.com/search?q=Beth) | N/A |
-| 15 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 16 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 17 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 18 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 19 | [Jordan Clarkson](http://twitter.com/search?q=Jordan+Clarkson) | Jordan Clarkson is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). He was drafted 46th overall by the Washington Wizards in the 2014 NBA draft and has since played for the Los Angeles Lakers, Cleveland Cavaliers, and Utah Jazz. |
-| 20 | [Shatter Machine](http://twitter.com/search?q=Shatter+Machine) | N/A |
-| 21 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
-| 22 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
-| 23 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
-| 24 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 25 | [#StadiumSeries](http://twitter.com/search?q=%23StadiumSeries) | N/A |
-| 26 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
-| 27 | [Skills Challenge](http://twitter.com/search?q=Skills+Challenge) | N/A |
-| 28 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
-| 29 | [Starry](http://twitter.com/search?q=Starry) | N/A |
-| 30 | [Hield](http://twitter.com/search?q=Hield) | N/A |
-| 31 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
-| 32 | [Sierra Mist](http://twitter.com/search?q=Sierra+Mist) | N/A |
-| 33 | [Seth Rollins](http://twitter.com/search?q=Seth+Rollins) | N/A |
-| 34 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
-| 35 | [Montez](http://twitter.com/search?q=Montez) | N/A |
-| 36 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 37 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 38 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 39 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 40 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
-| 41 | [Antetokounmpo](http://twitter.com/search?q=Antetokounmpo) | N/A |
-| 42 | [Weber State](http://twitter.com/search?q=Weber+State) | N/A |
-| 43 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 44 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
-| 45 | [Blanchfield](http://twitter.com/search?q=Blanchfield) | N/A |
-| 46 | [Nikki Cross](http://twitter.com/search?q=Nikki+Cross) | N/A |
-| 47 | [Jim Miller](http://twitter.com/search?q=Jim+Miller) | N/A |
-| 48 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 49 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 5 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 6 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 7 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 8 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 9 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 10 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
+| 11 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 12 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 13 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 14 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 15 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 16 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
+| 17 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 18 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 19 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 20 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 21 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
+| 22 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 23 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 24 | [Gargano](http://twitter.com/search?q=Gargano) | Gargano is a region in the Apulia region of southeastern Italy. It is known for its beautiful coastline, its national parks, and its historic towns. The name Gargano comes from the Latin word "gargarus," which means "rugged." |
+| 25 | [Beth](http://twitter.com/search?q=Beth) | N/A |
+| 26 | [Kenyon Martin](http://twitter.com/search?q=Kenyon+Martin) | N/A |
+| 27 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 28 | [Harold Miner](http://twitter.com/search?q=Harold+Miner) | N/A |
+| 29 | [Kenny Smith](http://twitter.com/search?q=Kenny+Smith) | N/A |
+| 30 | [Blanchfield](http://twitter.com/search?q=Blanchfield) | N/A |
+| 31 | [That's a 50](http://twitter.com/search?q=That%27s+a+50) | N/A |
+| 32 | [Damian Lillard](http://twitter.com/search?q=Damian+Lillard) | Damian Lillard is an American professional basketball player who currently plays for the Portland Trail Blazers of the National Basketball Association (NBA). He is a six-time NBA All-Star and was named the NBA Rookie of the Year in 2013. |
+| 33 | [Starry](http://twitter.com/search?q=Starry) | N/A |
+| 34 | [Jordan Clarkson](http://twitter.com/search?q=Jordan+Clarkson) | Jordan Clarkson is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). He was drafted 46th overall by the Washington Wizards in the 2014 NBA draft and has since played for the Los Angeles Lakers, Cleveland Cavaliers, and Utah Jazz. |
+| 35 | [Bronson Reed](http://twitter.com/search?q=Bronson+Reed) | N/A |
+| 36 | [Sierra Mist](http://twitter.com/search?q=Sierra+Mist) | N/A |
+| 37 | [Shatter Machine](http://twitter.com/search?q=Shatter+Machine) | N/A |
+| 38 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 39 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 40 | [Reggie Miller](http://twitter.com/search?q=Reggie+Miller) | Reggie Miller is an American retired professional basketball player who played his entire 18-year career with the Indiana Pacers of the National Basketball Association (NBA). He was known for his clutch shooting and ability to hit three-point shots in the final seconds of a game. |
+| 41 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 42 | [KJ Martin](http://twitter.com/search?q=KJ+Martin) | N/A |
+| 43 | [Austin Theory](http://twitter.com/search?q=Austin+Theory) | N/A |
+| 44 | [Bianca](http://twitter.com/search?q=Bianca) | Bianca is an Italian female name meaning "white" or "fair". It is also a Spanish and Portuguese name meaning "beautiful". |
+| 45 | [Michael Cole](http://twitter.com/search?q=Michael+Cole) | Michael Cole is a professional wrestling commentator and interviewer who works for WWE. He is known for his work on WWE's flagship show, Monday Night Raw. The name Michael Cole is derived from the phrase "mic check," which is used to check the sound levels of a microphone before an event. |
+| 46 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
+| 47 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
+| 48 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 49 | [Buddy Hield](http://twitter.com/search?q=Buddy+Hield) | N/A |
 
 
 

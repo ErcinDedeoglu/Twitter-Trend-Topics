@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-19 02:41:56 UTC`
+📆 Last Updated: `2023-02-19 03:21:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -42,29 +42,29 @@ This is top 50 for Norway
 | 25 | [Ratcliffe](http://twitter.com/search?q=Ratcliffe) | N/A |
 | 26 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
 | 27 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
-| 28 | [rune tangen](http://twitter.com/search?q=rune+tangen) | N/A |
-| 29 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 30 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
-| 31 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
-| 32 | [bjerke](http://twitter.com/search?q=bjerke) | N/A |
-| 33 | [heldigvis](http://twitter.com/search?q=heldigvis) | N/A |
-| 34 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 35 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
-| 36 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 37 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
-| 38 | [Narvik](http://twitter.com/search?q=Narvik) | N/A |
-| 39 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
-| 40 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
-| 41 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 42 | [rv 7 hardangervidda](http://twitter.com/search?q=rv+7+hardangervidda) | N/A |
-| 43 | [fv 53 tyin-årdal](http://twitter.com/search?q=fv+53+tyin-%c3%a5rdal) | N/A |
-| 44 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 45 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
-| 46 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 47 | [Nike](http://twitter.com/search?q=Nike) | N/A |
-| 48 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
-| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 50 | [anders magnus](http://twitter.com/search?q=anders+magnus) | N/A |
+| 28 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 29 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
+| 30 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
+| 31 | [bjerke](http://twitter.com/search?q=bjerke) | N/A |
+| 32 | [heldigvis](http://twitter.com/search?q=heldigvis) | N/A |
+| 33 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 34 | [Sir Jim](http://twitter.com/search?q=Sir+Jim) | Sir Jim is a term of endearment used to refer to someone who is respected and admired. It is often used as a way to show appreciation for someone's accomplishments or contributions. |
+| 35 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 36 | [Brighton](http://twitter.com/search?q=Brighton) | Brighton is a seaside resort town in the south of England. It is located on the south coast of England, about an hour's drive from London. The name Brighton comes from the Old English words "beorh" and "tun", meaning "a fortified place by the sea". |
+| 37 | [Narvik](http://twitter.com/search?q=Narvik) | N/A |
+| 38 | [åsane](http://twitter.com/search?q=%c3%a5sane) | N/A |
+| 39 | [INSANE](http://twitter.com/search?q=INSANE) | N/A |
+| 40 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 41 | [rv 7 hardangervidda](http://twitter.com/search?q=rv+7+hardangervidda) | N/A |
+| 42 | [fv 53 tyin-årdal](http://twitter.com/search?q=fv+53+tyin-%c3%a5rdal) | N/A |
+| 43 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 44 | [Partey](http://twitter.com/search?q=Partey) | Partey is a slang term used to describe a party or celebration. It is often used in a celebratory context, such as when someone is excited about an upcoming event. |
+| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 46 | [Nike](http://twitter.com/search?q=Nike) | N/A |
+| 47 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
+| 48 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 49 | [anders magnus](http://twitter.com/search?q=anders+magnus) | N/A |
+| 50 | [kongsvinger](http://twitter.com/search?q=kongsvinger) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-19 02:41:23 UTC`
+📆 Last Updated: `2023-02-19 03:20:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Australia](</Australia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 2 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 3 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
-| 4 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
-| 5 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 6 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 7 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 8 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 9 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 10 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 11 | [Jim Miller](http://twitter.com/search?q=Jim+Miller) | N/A |
-| 12 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 13 | [Knight](http://twitter.com/search?q=Knight) | N/A |
-| 14 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 15 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 16 | [Beth](http://twitter.com/search?q=Beth) | N/A |
-| 17 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 18 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 3 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 4 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 5 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
+| 6 | [#insiders](http://twitter.com/search?q=%23insiders) | N/A |
+| 7 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 8 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 9 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 10 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 11 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 12 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 13 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 14 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 15 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 16 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 17 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 18 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 19 | [Samantha Maiden](http://twitter.com/search?q=Samantha+Maiden) | N/A |
-| 20 | [Ginnivan](http://twitter.com/search?q=Ginnivan) | N/A |
-| 21 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 22 | [Fair Day](http://twitter.com/search?q=Fair+Day) | N/A |
-| 23 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 24 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
-| 25 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 26 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
-| 27 | [Dana Morse](http://twitter.com/search?q=Dana+Morse) | N/A |
-| 28 | [Glover](http://twitter.com/search?q=Glover) | Glover is a surname of English origin. It is derived from the Old English word "glof," meaning "glove." The name was originally given to someone who made or sold gloves. |
-| 29 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 30 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 31 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 32 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 33 | [The AFP](http://twitter.com/search?q=The+AFP) | N/A |
-| 34 | [Speers](http://twitter.com/search?q=Speers) | N/A |
-| 35 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
-| 36 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 37 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
-| 38 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 39 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 40 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
-| 41 | [ODEGAARD](http://twitter.com/search?q=ODEGAARD) | N/A |
-| 42 | [Nature Strip](http://twitter.com/search?q=Nature+Strip) | N/A |
-| 43 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 44 | [The Australian](http://twitter.com/search?q=The+Australian) | N/A |
-| 45 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
-| 46 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
-| 47 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 48 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 49 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 20 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 21 | [Fair Day](http://twitter.com/search?q=Fair+Day) | N/A |
+| 22 | [Ginnivan](http://twitter.com/search?q=Ginnivan) | N/A |
+| 23 | [Beth](http://twitter.com/search?q=Beth) | N/A |
+| 24 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 25 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 26 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 27 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 28 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 29 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 30 | [Glover](http://twitter.com/search?q=Glover) | Glover is a surname of English origin. It is derived from the Old English word "glof," meaning "glove." The name was originally given to someone who made or sold gloves. |
+| 31 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 32 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 33 | [Trey](http://twitter.com/search?q=Trey) | N/A |
+| 34 | [Dana Morse](http://twitter.com/search?q=Dana+Morse) | N/A |
+| 35 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 36 | [The AFP](http://twitter.com/search?q=The+AFP) | N/A |
+| 37 | [Travis Head](http://twitter.com/search?q=Travis+Head) | N/A |
+| 38 | [Speers](http://twitter.com/search?q=Speers) | N/A |
+| 39 | [Lesnar](http://twitter.com/search?q=Lesnar) | Lesnar is a surname of German origin. It is derived from the Middle High German word "lesen" which means "to read". In English, it can be translated to mean "reader". |
+| 40 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 42 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 43 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
+| 44 | [Tierney](http://twitter.com/search?q=Tierney) | Tierney is a surname of Irish origin. It is derived from the Gaelic name Ó Tíghearnaigh, which means "descendant of the lord". |
+| 45 | [ODEGAARD](http://twitter.com/search?q=ODEGAARD) | N/A |
+| 46 | [Authy](http://twitter.com/search?q=Authy) | N/A |
+| 47 | [Raquel](http://twitter.com/search?q=Raquel) | N/A |
+| 48 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 49 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
 
 
 

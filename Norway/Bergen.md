@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-19 02:41:21 UTC`
+📆 Last Updated: `2023-02-19 03:20:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -44,7 +44,7 @@ This is top 50 for [Norway](</Norway>)
 | 27 | [nettavisen](http://twitter.com/search?q=nettavisen) | N/A |
 | 28 | [rune tangen](http://twitter.com/search?q=rune+tangen) | N/A |
 | 29 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 30 | [Ineos](http://twitter.com/search?q=Ineos) | Ineos is a multinational chemicals company based in the United Kingdom. The name is derived from the initials of its founder, Sir Jim Ratcliffe, and stands for INdustrial and ENergy CHemicalS. The company produces a wide range of products, including petrochemicals, specialty chemicals, and oil and gas. |
+| 30 | [INEOS](http://twitter.com/search?q=INEOS) | N/A |
 | 31 | [Lee Mason](http://twitter.com/search?q=Lee+Mason) | N/A |
 | 32 | [bjerke](http://twitter.com/search?q=bjerke) | N/A |
 | 33 | [heldigvis](http://twitter.com/search?q=heldigvis) | N/A |

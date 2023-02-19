@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-19 02:41:51 UTC`
+📆 Last Updated: `2023-02-19 03:21:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,24 +24,24 @@ This is top 50 for Austria
 | 7 | [#htbSTU](http://twitter.com/search?q=%23htbSTU) | N/A |
 | 8 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 | 9 | [#svrask](http://twitter.com/search?q=%23svrask) | N/A |
-| 10 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 11 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 12 | [Sekunde](http://twitter.com/search?q=Sekunde) | N/A |
-| 13 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 14 | [schönen urlaub](http://twitter.com/search?q=sch%c3%b6nen+urlaub) | N/A |
-| 15 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 16 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
-| 17 | [Obst](http://twitter.com/search?q=Obst) | N/A |
+| 10 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 11 | [Sekunde](http://twitter.com/search?q=Sekunde) | N/A |
+| 12 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 13 | [schönen urlaub](http://twitter.com/search?q=sch%c3%b6nen+urlaub) | N/A |
+| 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 15 | [Alkohol](http://twitter.com/search?q=Alkohol) | N/A |
+| 16 | [Obst](http://twitter.com/search?q=Obst) | N/A |
+| 17 | [Pech](http://twitter.com/search?q=Pech) | N/A |
 | 18 | [Produkt](http://twitter.com/search?q=Produkt) | N/A |
 | 19 | [Laune](http://twitter.com/search?q=Laune) | N/A |
 | 20 | [Bargeld](http://twitter.com/search?q=Bargeld) | Bargeld is a German word meaning "cash" or "money". It is used to refer to physical money, such as coins and banknotes, rather than electronic payments. |
 | 21 | [Rundfunk](http://twitter.com/search?q=Rundfunk) | N/A |
-| 22 | [Pech](http://twitter.com/search?q=Pech) | N/A |
-| 23 | [Staub](http://twitter.com/search?q=Staub) | N/A |
-| 24 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
-| 25 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 26 | [Flaschen](http://twitter.com/search?q=Flaschen) | N/A |
-| 27 | [Kennzeichen](http://twitter.com/search?q=Kennzeichen) | N/A |
+| 22 | [Staub](http://twitter.com/search?q=Staub) | N/A |
+| 23 | [Gerät](http://twitter.com/search?q=Ger%c3%a4t) | N/A |
+| 24 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 25 | [Flaschen](http://twitter.com/search?q=Flaschen) | N/A |
+| 26 | [Kennzeichen](http://twitter.com/search?q=Kennzeichen) | N/A |
+| 27 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
 | 28 | [Texte](http://twitter.com/search?q=Texte) | N/A |
 | 29 | [Fernseher](http://twitter.com/search?q=Fernseher) | N/A |
 | 30 | [Experten](http://twitter.com/search?q=Experten) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Austria
 | 40 | [Staffel](http://twitter.com/search?q=Staffel) | N/A |
 | 41 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
 | 42 | [Richter](http://twitter.com/search?q=Richter) | N/A |
-| 43 | [Derby](http://twitter.com/search?q=Derby) | Derby is a type of horse race, usually run over a distance of one and a half miles. It is one of the most prestigious races in the world and is often referred to as the "Run for the Roses" due to the blanket of roses draped over the winning horse. The term "Derby" can also refer to any competitive event that involves horses, such as a show jumping competition or polo match. |
-| 44 | [Petra](http://twitter.com/search?q=Petra) | N/A |
-| 45 | [Ansicht](http://twitter.com/search?q=Ansicht) | N/A |
-| 46 | [gewessler](http://twitter.com/search?q=gewessler) | N/A |
-| 47 | [leitner](http://twitter.com/search?q=leitner) | N/A |
-| 48 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 49 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 50 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 43 | [Petra](http://twitter.com/search?q=Petra) | N/A |
+| 44 | [Ansicht](http://twitter.com/search?q=Ansicht) | N/A |
+| 45 | [gewessler](http://twitter.com/search?q=gewessler) | N/A |
+| 46 | [leitner](http://twitter.com/search?q=leitner) | N/A |
+| 47 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 49 | [Ampel](http://twitter.com/search?q=Ampel) | N/A |
+| 50 | [Muttersprache](http://twitter.com/search?q=Muttersprache) | N/A |
 
 
 
