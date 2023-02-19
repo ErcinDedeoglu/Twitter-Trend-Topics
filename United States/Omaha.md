@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Omaha
 
-📆 Last Updated: `2023-02-19 10:16:28 UTC`
+📆 Last Updated: `2023-02-19 11:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
 | 2 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 3 | [#njBitV](http://twitter.com/search?q=%23njBitV) | N/A |
-| 4 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 5 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 6 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 7 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 8 | [Kairi](http://twitter.com/search?q=Kairi) | Kairi is a Japanese name meaning "ocean village". It is also the name of a character in the popular video game series Kingdom Hearts. |
-| 9 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 10 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
-| 11 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
-| 12 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 13 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 14 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
-| 15 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
-| 16 | [Hana Kimura](http://twitter.com/search?q=Hana+Kimura) | N/A |
-| 17 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
-| 18 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
-| 19 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 20 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
-| 21 | [Mone](http://twitter.com/search?q=Mone) | N/A |
-| 22 | [Brent Barry](http://twitter.com/search?q=Brent+Barry) | N/A |
-| 23 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
-| 24 | [Gate City](http://twitter.com/search?q=Gate+City) | N/A |
+| 3 | [#FarmhouseShopeexMileApo](http://twitter.com/search?q=%23FarmhouseShopeexMileApo) | N/A |
+| 4 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
+| 5 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 6 | [#njBitV](http://twitter.com/search?q=%23njBitV) | N/A |
+| 7 | [#Wordle610](http://twitter.com/search?q=%23Wordle610) | N/A |
+| 8 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 9 | [Kairi](http://twitter.com/search?q=Kairi) | Kairi is a Japanese name meaning "ocean village". It is also the name of a character in the popular video game series Kingdom Hearts. |
+| 10 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 11 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
+| 12 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 13 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 14 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 15 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 16 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 17 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 18 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
+| 19 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
+| 20 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 21 | [Brent Barry](http://twitter.com/search?q=Brent+Barry) | N/A |
+| 22 | [Seth](http://twitter.com/search?q=Seth) | Seth is a Hebrew name meaning "appointed" or "established". It is also the name of the third son of Adam and Eve in the Bible. |
+| 23 | [Gate City](http://twitter.com/search?q=Gate+City) | N/A |
+| 24 | [Trey](http://twitter.com/search?q=Trey) | N/A |
 | 25 | [Sierra Mist](http://twitter.com/search?q=Sierra+Mist) | N/A |
-| 26 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 27 | [Draymond](http://twitter.com/search?q=Draymond) | Draymond is a given name derived from the Old English words "dreng" (meaning brave) and "mund" (meaning protector). It is typically used as a masculine name, although it can also be used as a unisex name. |
-| 28 | [Hacienda Heights](http://twitter.com/search?q=Hacienda+Heights) | N/A |
-| 29 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 30 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
-| 31 | [Aaron Gordon](http://twitter.com/search?q=Aaron+Gordon) | N/A |
-| 32 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 33 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
-| 34 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 35 | [New Japan](http://twitter.com/search?q=New+Japan) | N/A |
-| 36 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 37 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 38 | [His World](http://twitter.com/search?q=His+World) | N/A |
-| 39 | [Kevin Huerter](http://twitter.com/search?q=Kevin+Huerter) | N/A |
-| 40 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 41 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
-| 42 | [Live and Learn](http://twitter.com/search?q=Live+and+Learn) | N/A |
-| 43 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 44 | [Harold Miner](http://twitter.com/search?q=Harold+Miner) | N/A |
-| 45 | [Find Your Flame](http://twitter.com/search?q=Find+Your+Flame) | N/A |
-| 46 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
-| 47 | [Endless Possibilities](http://twitter.com/search?q=Endless+Possibilities) | N/A |
-| 48 | [Starry](http://twitter.com/search?q=Starry) | N/A |
-| 49 | [G League](http://twitter.com/search?q=G+League) | N/A |
+| 26 | [Shade](http://twitter.com/search?q=Shade) | N/A |
+| 27 | [Aaron Gordon](http://twitter.com/search?q=Aaron+Gordon) | N/A |
+| 28 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
+| 29 | [New Japan](http://twitter.com/search?q=New+Japan) | N/A |
+| 30 | [His World](http://twitter.com/search?q=His+World) | N/A |
+| 31 | [Lavine](http://twitter.com/search?q=Lavine) | Lavine is a French word meaning "valley". |
+| 32 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
+| 33 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
+| 34 | [Zion](http://twitter.com/search?q=Zion) | Zion is a term used in the Bible to refer to Jerusalem, the holy city of the Jewish people. It is also used as a metaphor for heaven or paradise. In modern usage, Zion can refer to any place of refuge or sanctuary. |
+| 35 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 36 | [Find Your Flame](http://twitter.com/search?q=Find+Your+Flame) | N/A |
+| 37 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 38 | [Spam](http://twitter.com/search?q=Spam) | N/A |
+| 39 | [Live and Learn](http://twitter.com/search?q=Live+and+Learn) | N/A |
+| 40 | [Triple H](http://twitter.com/search?q=Triple+H) | Triple H is an abbreviation for the professional wrestling stable, World Wrestling Entertainment (WWE). The name stands for "The Game", "The King of Kings" and "The Cerebral Assassin". Triple H is a multi-time world champion in WWE and is one of the most recognizable figures in professional wrestling. |
+| 41 | [G League](http://twitter.com/search?q=G+League) | N/A |
+| 42 | [Endless Possibilities](http://twitter.com/search?q=Endless+Possibilities) | N/A |
+| 43 | [Starry](http://twitter.com/search?q=Starry) | N/A |
+| 44 | [White Men Can't Jump](http://twitter.com/search?q=White+Men+Can%27t+Jump) | N/A |
+| 45 | [Kenny Smith](http://twitter.com/search?q=Kenny+Smith) | N/A |
+| 46 | [Bloodline](http://twitter.com/search?q=Bloodline) | Bloodline is a term used to refer to a person's ancestry or family history. It is often used to describe the line of descent from one generation to the next, tracing back to a common ancestor. Bloodline can also be used to refer to the genetic makeup of an individual or group, as well as any hereditary traits that may be passed down through generations. |
+| 47 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
+| 48 | [Habitat for Humanity](http://twitter.com/search?q=Habitat+for+Humanity) | N/A |
+| 49 | [Harold Miner](http://twitter.com/search?q=Harold+Miner) | N/A |
 
 
 

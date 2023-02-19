@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Winnipeg
 
-📆 Last Updated: `2023-02-19 10:15:42 UTC`
+📆 Last Updated: `2023-02-19 11:15:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
 | 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 3 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 4 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 5 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 6 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
-| 7 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 8 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 3 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 4 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 5 | [o'reilly](http://twitter.com/search?q=o%27reilly) | N/A |
+| 6 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 7 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 8 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
 | 9 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
 | 10 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
 | 11 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
 | 12 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 13 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
 | 14 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 15 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 16 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 15 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 16 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
 | 17 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 18 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
-| 19 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 18 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 19 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
 | 20 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 21 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 22 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 23 | [Petey](http://twitter.com/search?q=Petey) | N/A |
-| 24 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 25 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 21 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 22 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 23 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 24 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 25 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
 | 26 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 27 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 28 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 29 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
-| 30 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
-| 31 | [Habs](http://twitter.com/search?q=Habs) | N/A |
-| 32 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 33 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 34 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 35 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 36 | [Knight](http://twitter.com/search?q=Knight) | N/A |
-| 37 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 38 | [TYRESE](http://twitter.com/search?q=TYRESE) | N/A |
-| 39 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 40 | [Convoy](http://twitter.com/search?q=Convoy) | N/A |
-| 41 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
-| 42 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
-| 43 | [Torts](http://twitter.com/search?q=Torts) | Torts is a branch of civil law that deals with wrongs committed against individuals or their property. It is an area of law that provides remedies for those who have suffered harm due to the wrongful acts of another. Torts can include intentional wrongs, such as assault and battery, as well as unintentional wrongs, such as negligence. |
-| 44 | [Peter Herrndorf](http://twitter.com/search?q=Peter+Herrndorf) | N/A |
-| 45 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
-| 46 | [WOll](http://twitter.com/search?q=WOll) | N/A |
-| 47 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 48 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 49 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 27 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 28 | [Silovs](http://twitter.com/search?q=Silovs) | N/A |
+| 29 | [Habs](http://twitter.com/search?q=Habs) | N/A |
+| 30 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 31 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 32 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 33 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
+| 34 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 35 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 36 | [TYRESE](http://twitter.com/search?q=TYRESE) | N/A |
+| 37 | [Convoy](http://twitter.com/search?q=Convoy) | N/A |
+| 38 | [Engvall](http://twitter.com/search?q=Engvall) | N/A |
+| 39 | [Torts](http://twitter.com/search?q=Torts) | Torts is a branch of civil law that deals with wrongs committed against individuals or their property. It is an area of law that provides remedies for those who have suffered harm due to the wrongful acts of another. Torts can include intentional wrongs, such as assault and battery, as well as unintentional wrongs, such as negligence. |
+| 40 | [Peter Herrndorf](http://twitter.com/search?q=Peter+Herrndorf) | N/A |
+| 41 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 42 | [Chris Neil](http://twitter.com/search?q=Chris+Neil) | N/A |
+| 43 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 44 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 45 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
+| 46 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 47 | [Matthews](http://twitter.com/search?q=Matthews) | N/A |
+| 48 | [Elias Pettersson](http://twitter.com/search?q=Elias+Pettersson) | Elias Pettersson is a Swedish professional ice hockey player who currently plays for the Vancouver Canucks of the National Hockey League (NHL). He was selected fifth overall in the 2017 NHL Entry Draft. The name Elias Pettersson translates to "God is my strength" in English. |
+| 49 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 
 
 

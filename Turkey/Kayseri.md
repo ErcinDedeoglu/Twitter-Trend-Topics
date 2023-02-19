@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-19 10:16:22 UTC`
+📆 Last Updated: `2023-02-19 11:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sagopa Kajmer](http://twitter.com/search?q=Sagopa+Kajmer) | Sagopa Kajmer is a Turkish hip-hop artist and record label. His name is a combination of the words "sagopa" (meaning "wise") and "kajmer" (meaning "poet"). In English, Sagopa Kajmer can be translated to mean "wise poet". |
-| 2 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 3 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
-| 4 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
-| 5 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 6 | [#depremoldu](http://twitter.com/search?q=%23depremoldu) | N/A |
-| 7 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
-| 8 | [Ahmet Suat Özyazıcı](http://twitter.com/search?q=Ahmet+Suat+%c3%96zyaz%c4%b1c%c4%b1) | N/A |
-| 9 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 10 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 11 | [yalnızlaştık](http://twitter.com/search?q=yaln%c4%b1zla%c5%9ft%c4%b1k) | N/A |
-| 12 | [633 Suriyeli](http://twitter.com/search?q=633+Suriyeli) | N/A |
-| 13 | [her zaman umut](http://twitter.com/search?q=her+zaman+umut) | N/A |
-| 14 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
-| 15 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
-| 16 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 17 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 18 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 19 | [alihan adamdır](http://twitter.com/search?q=alihan+adamd%c4%b1r) | N/A |
-| 20 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 21 | [Aşk Kazandı](http://twitter.com/search?q=A%c5%9fk+Kazand%c4%b1) | N/A |
-| 22 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
-| 23 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
-| 24 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
-| 25 | [bağışla](http://twitter.com/search?q=ba%c4%9f%c4%b1%c5%9fla) | N/A |
-| 26 | [Kahramanmaraş'ta 5.1](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5.1) | N/A |
-| 27 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
-| 28 | [Meclis](http://twitter.com/search?q=Meclis) | N/A |
-| 29 | [Bilal Erdoğan](http://twitter.com/search?q=Bilal+Erdo%c4%9fan) | N/A |
-| 30 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 31 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
-| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [Berfin](http://twitter.com/search?q=Berfin) | N/A |
-| 34 | [Nigar](http://twitter.com/search?q=Nigar) | N/A |
-| 35 | [Akar](http://twitter.com/search?q=Akar) | N/A |
-| 36 | [Hatay'da 296](http://twitter.com/search?q=Hatay%27da+296) | N/A |
-| 37 | [Ahaber](http://twitter.com/search?q=Ahaber) | N/A |
-| 38 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 39 | [Elitaş](http://twitter.com/search?q=Elita%c5%9f) | N/A |
-| 40 | [Dolandırıcının](http://twitter.com/search?q=Doland%c4%b1r%c4%b1c%c4%b1n%c4%b1n) | N/A |
-| 41 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
-| 42 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
-| 43 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
-| 44 | [Hatay Valiliği](http://twitter.com/search?q=Hatay+Valili%c4%9fi) | N/A |
-| 45 | [Uludağ Üniversitesi](http://twitter.com/search?q=Uluda%c4%9f+%c3%9cniversitesi) | N/A |
-| 46 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 47 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 48 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 49 | [Bayram Bektaş](http://twitter.com/search?q=Bayram+Bekta%c5%9f) | N/A |
-| 50 | [Antre](http://twitter.com/search?q=Antre) | N/A |
+| 1 | [#Kayseri](http://twitter.com/search?q=%23Kayseri) | N/A |
+| 2 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
+| 3 | [Sagopa Kajmer](http://twitter.com/search?q=Sagopa+Kajmer) | Sagopa Kajmer is a Turkish hip-hop artist and record label. His name is a combination of the words "sagopa" (meaning "wise") and "kajmer" (meaning "poet"). In English, Sagopa Kajmer can be translated to mean "wise poet". |
+| 4 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 5 | [#UlaşBardakçı](http://twitter.com/search?q=%23Ula%c5%9fBardak%c3%a7%c4%b1) | N/A |
+| 6 | [Bilal Erdoğan](http://twitter.com/search?q=Bilal+Erdo%c4%9fan) | N/A |
+| 7 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
+| 8 | [#StajaSesVer](http://twitter.com/search?q=%23StajaSesVer) | N/A |
+| 9 | [633 Suriyeli](http://twitter.com/search?q=633+Suriyeli) | N/A |
+| 10 | [Aşk Kazandı](http://twitter.com/search?q=A%c5%9fk+Kazand%c4%b1) | N/A |
+| 11 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 12 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
+| 13 | [Akar](http://twitter.com/search?q=Akar) | N/A |
+| 14 | [Ahaber](http://twitter.com/search?q=Ahaber) | N/A |
+| 15 | [Uludağ Üniversitesi](http://twitter.com/search?q=Uluda%c4%9f+%c3%9cniversitesi) | N/A |
+| 16 | [Gürsel](http://twitter.com/search?q=G%c3%bcrsel) | N/A |
+| 17 | [İsrailli](http://twitter.com/search?q=%c4%b0srailli) | N/A |
+| 18 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 19 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
+| 20 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 21 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
+| 22 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 23 | [Sözcü](http://twitter.com/search?q=S%c3%b6zc%c3%bc) | N/A |
+| 24 | [İlber Ortaylı](http://twitter.com/search?q=%c4%b0lber+Ortayl%c4%b1) | N/A |
+| 25 | [Günaydin](http://twitter.com/search?q=G%c3%bcnaydin) | N/A |
+| 26 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 27 | [Tolga](http://twitter.com/search?q=Tolga) | N/A |
+| 28 | [Aybüke](http://twitter.com/search?q=Ayb%c3%bcke) | N/A |
+| 29 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
+| 30 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
+| 31 | [Sakal](http://twitter.com/search?q=Sakal) | N/A |
+| 32 | [Sedat](http://twitter.com/search?q=Sedat) | Sedat is a Turkish name meaning "calm" or "peaceful". |
+| 33 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 34 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
+| 35 | [#GaleriaKurtarılmayıBekliyor](http://twitter.com/search?q=%23GaleriaKurtar%c4%b1lmay%c4%b1Bekliyor) | N/A |
+| 36 | [#değişmeli](http://twitter.com/search?q=%23de%c4%9fi%c5%9fmeli) | N/A |
+| 37 | [#5000VeKısmiYasayaEkleTBMM](http://twitter.com/search?q=%235000VeK%c4%b1smiYasayaEkleTBMM) | N/A |
+| 38 | [#nisandegılmart](http://twitter.com/search?q=%23nisandeg%c4%b1lmart) | N/A |
+| 39 | [#EYTResmiGazeteye](http://twitter.com/search?q=%23EYTResmiGazeteye) | #EYTResmiGazeteye is a hashtag used on Twitter in Turkey to refer to the Official Gazette of the Republic of Turkey. It is used to refer to official announcements, laws, and regulations published in the Gazette. In English, it translates to "Official Gazette of Turkey". |
+| 40 | [#Icardi](http://twitter.com/search?q=%23Icardi) | #Icardi is a hashtag used to show support for the Argentinian professional footballer, Mauro Icardi. It is often used on social media platforms such as Twitter and Instagram. |
+| 41 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
+| 42 | [#elsed](http://twitter.com/search?q=%23elsed) | N/A |
+| 43 | [#2000sonrasıADALET](http://twitter.com/search?q=%232000sonras%c4%b1ADALET) | N/A |
+| 44 | [#kısmetseolur](http://twitter.com/search?q=%23k%c4%b1smetseolur) | N/A |
+| 45 | [#MEBÖğrencileriDuy](http://twitter.com/search?q=%23MEB%c3%96%c4%9frencileriDuy) | N/A |
 
 
 

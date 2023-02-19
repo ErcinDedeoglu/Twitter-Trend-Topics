@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-19 10:16:38 UTC`
+📆 Last Updated: `2023-02-19 11:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Ukraine
 | ------- | ------------ | ------------ |
 | 1 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 | 2 | [#ChatGPT](http://twitter.com/search?q=%23ChatGPT) | N/A |
-| 3 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
-| 4 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 5 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 6 | [Munich](http://twitter.com/search?q=Munich) | N/A |
+| 3 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
+| 4 | [Munich](http://twitter.com/search?q=Munich) | N/A |
+| 5 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 6 | [Потап](http://twitter.com/search?q=%d0%9f%d0%be%d1%82%d0%b0%d0%bf) | N/A |
 | 7 | [Прикольно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%ba%d0%be%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 8 | [Потап](http://twitter.com/search?q=%d0%9f%d0%be%d1%82%d0%b0%d0%bf) | N/A |
-| 9 | [#Shardeum](http://twitter.com/search?q=%23Shardeum) | N/A |
-| 10 | [Макрон](http://twitter.com/search?q=%d0%9c%d0%b0%d0%ba%d1%80%d0%be%d0%bd) | N/A |
-| 11 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 12 | [Мюнхенской](http://twitter.com/search?q=%d0%9c%d1%8e%d0%bd%d1%85%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b9) | N/A |
+| 8 | [#Shardeum](http://twitter.com/search?q=%23Shardeum) | N/A |
+| 9 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 10 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 11 | [Макрон](http://twitter.com/search?q=%d0%9c%d0%b0%d0%ba%d1%80%d0%be%d0%bd) | N/A |
+| 12 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
 | 13 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 14 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 15 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 16 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 17 | [Минск](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
-| 18 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 19 | [Мене](http://twitter.com/search?q=%d0%9c%d0%b5%d0%bd%d0%b5) | N/A |
-| 20 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 21 | [отак](http://twitter.com/search?q=%d0%be%d1%82%d0%b0%d0%ba) | N/A |
+| 14 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
+| 15 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 16 | [Минск](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
+| 17 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
+| 18 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
+| 19 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 20 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 21 | [Киеве](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b5) | N/A |
 | 22 | [Black Sea](http://twitter.com/search?q=Black+Sea) | N/A |
 | 23 | [Casino](http://twitter.com/search?q=Casino) | N/A |
-| 24 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
-| 25 | [шикарно](http://twitter.com/search?q=%d1%88%d0%b8%d0%ba%d0%b0%d1%80%d0%bd%d0%be) | N/A |
-| 26 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
-| 27 | [Раночку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
-| 28 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
-| 29 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
+| 24 | [Мюнхенской](http://twitter.com/search?q=%d0%9c%d1%8e%d0%bd%d1%85%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b9) | N/A |
+| 25 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 26 | [Раночку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
+| 27 | [Руси](http://twitter.com/search?q=%d0%a0%d1%83%d1%81%d0%b8) | N/A |
+| 28 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
+| 29 | [Саме](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%b5) | N/A |
 | 30 | [Belarusian](http://twitter.com/search?q=Belarusian) | N/A |
 | 31 | [Америке](http://twitter.com/search?q=%d0%90%d0%bc%d0%b5%d1%80%d0%b8%d0%ba%d0%b5) | N/A |
 | 32 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 33 | [Киеве](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b5) | N/A |
-| 34 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
-| 35 | [Помню](http://twitter.com/search?q=%d0%9f%d0%be%d0%bc%d0%bd%d1%8e) | N/A |
-| 36 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 37 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
-| 38 | [таак](http://twitter.com/search?q=%d1%82%d0%b0%d0%b0%d0%ba) | N/A |
-| 39 | [ридаю](http://twitter.com/search?q=%d1%80%d0%b8%d0%b4%d0%b0%d1%8e) | N/A |
-| 40 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
-| 41 | [реву](http://twitter.com/search?q=%d1%80%d0%b5%d0%b2%d1%83) | N/A |
-| 42 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 43 | [Плачу](http://twitter.com/search?q=%d0%9f%d0%bb%d0%b0%d1%87%d1%83) | N/A |
-| 44 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 45 | [Тупо](http://twitter.com/search?q=%d0%a2%d1%83%d0%bf%d0%be) | N/A |
-| 46 | [🇺🇦](http://twitter.com/search?q=%f0%9f%87%ba%f0%9f%87%a6) | N/A |
-| 47 | [Треба](http://twitter.com/search?q=%d0%a2%d1%80%d0%b5%d0%b1%d0%b0) | N/A |
-| 48 | [Мариуполя](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d1%8f) | N/A |
-| 49 | [Походу](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b4%d1%83) | N/A |
-| 50 | [Путиным](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
+| 33 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
+| 34 | [Мене](http://twitter.com/search?q=%d0%9c%d0%b5%d0%bd%d0%b5) | N/A |
+| 35 | [ATACMS](http://twitter.com/search?q=ATACMS) | N/A |
+| 36 | [Треба](http://twitter.com/search?q=%d0%a2%d1%80%d0%b5%d0%b1%d0%b0) | N/A |
+| 37 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 38 | [Окей](http://twitter.com/search?q=%d0%9e%d0%ba%d0%b5%d0%b9) | N/A |
+| 39 | [Бахмут](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82) | N/A |
+| 40 | [нато](http://twitter.com/search?q=%d0%bd%d0%b0%d1%82%d0%be) | N/A |
+| 41 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 42 | [ридаю](http://twitter.com/search?q=%d1%80%d0%b8%d0%b4%d0%b0%d1%8e) | N/A |
+| 43 | [Netherlands](http://twitter.com/search?q=Netherlands) | N/A |
+| 44 | [Москве](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
+| 45 | [Пусть](http://twitter.com/search?q=%d0%9f%d1%83%d1%81%d1%82%d1%8c) | N/A |
+| 46 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 47 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 48 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 49 | [Тупо](http://twitter.com/search?q=%d0%a2%d1%83%d0%bf%d0%be) | N/A |
+| 50 | [Плачу](http://twitter.com/search?q=%d0%9f%d0%bb%d0%b0%d1%87%d1%83) | N/A |
 
 
 

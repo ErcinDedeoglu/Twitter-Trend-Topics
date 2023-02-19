@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-02-19 10:16:10 UTC`
+📆 Last Updated: `2023-02-19 11:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
-| 2 | [#BSS5thWin](http://twitter.com/search?q=%23BSS5thWin) | N/A |
-| 3 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 4 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
-| 5 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
-| 6 | [#부석순_인기가요_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%b8%ea%b8%b0%ea%b0%80%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 7 | [DEAR DREAM](http://twitter.com/search?q=DEAR+DREAM) | N/A |
-| 8 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
-| 9 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 10 | [PIEwer VOTE FOR ANJI](http://twitter.com/search?q=PIEwer+VOTE+FOR+ANJI) | N/A |
-| 11 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 12 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 13 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
-| 14 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 15 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 1 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
+| 2 | [#JoshCullenTeaserPhoto](http://twitter.com/search?q=%23JoshCullenTeaserPhoto) | N/A |
+| 3 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
+| 4 | [#ChowFanaloTakeover](http://twitter.com/search?q=%23ChowFanaloTakeover) | N/A |
+| 5 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
+| 6 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
+| 7 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 8 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 9 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 10 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 11 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
+| 12 | [DEAR DREAM](http://twitter.com/search?q=DEAR+DREAM) | N/A |
+| 13 | [PIEwer VOTE FOR ANJI](http://twitter.com/search?q=PIEwer+VOTE+FOR+ANJI) | N/A |
+| 14 | [ZACHAM PieGalingan SaEPL](http://twitter.com/search?q=ZACHAM+PieGalingan+SaEPL) | N/A |
+| 15 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
 | 16 | [WARLIO OFFICIAL COUPLE NA](http://twitter.com/search?q=WARLIO+OFFICIAL+COUPLE+NA) | N/A |
-| 17 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 18 | [Congrats f2](http://twitter.com/search?q=Congrats+f2) | N/A |
-| 19 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 20 | [ZACHAM PieGalingan SaEPL](http://twitter.com/search?q=ZACHAM+PieGalingan+SaEPL) | N/A |
-| 21 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 22 | [MYLA](http://twitter.com/search?q=MYLA) | N/A |
-| 23 | [zach charms pangasinan](http://twitter.com/search?q=zach+charms+pangasinan) | N/A |
-| 24 | [MAVLINE ON DAIG](http://twitter.com/search?q=MAVLINE+ON+DAIG) | N/A |
-| 25 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 26 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 27 | [The Road](http://twitter.com/search?q=The+Road) | N/A |
-| 28 | [ALAM BY SARAHGxJROA](http://twitter.com/search?q=ALAM+BY+SARAHGxJROA) | N/A |
-| 29 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
-| 30 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 31 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
-| 32 | [walang aray sa kdlex](http://twitter.com/search?q=walang+aray+sa+kdlex) | N/A |
-| 33 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 34 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 35 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
-| 36 | [Best Friend Ever](http://twitter.com/search?q=Best+Friend+Ever) | N/A |
-| 37 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
-| 38 | [TRIGGER THE FEVER](http://twitter.com/search?q=TRIGGER+THE+FEVER) | N/A |
-| 39 | [SUNOO RED HAIR](http://twitter.com/search?q=SUNOO+RED+HAIR) | N/A |
-| 40 | [en-vaders go big on ccma](http://twitter.com/search?q=en-vaders+go+big+on+ccma) | N/A |
-| 41 | [SUNDREI GOODVIBES](http://twitter.com/search?q=SUNDREI+GOODVIBES) | N/A |
-| 42 | [asapfeboritonatinto jona](http://twitter.com/search?q=asapfeboritonatinto+jona) | N/A |
-| 43 | [BINI SA COSMOS 2023](http://twitter.com/search?q=BINI+SA+COSMOS+2023) | N/A |
-| 44 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
-| 45 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
-| 46 | [THANK YOU MC HWASA](http://twitter.com/search?q=THANK+YOU+MC+HWASA) | N/A |
-| 47 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 48 | [FRANSETHXACE 30MULIYON NA](http://twitter.com/search?q=FRANSETHXACE+30MULIYON+NA) | N/A |
-| 49 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
-| 50 | [RALPHGAIL SA SMVALENZUELA](http://twitter.com/search?q=RALPHGAIL+SA+SMVALENZUELA) | N/A |
+| 17 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 18 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
+| 19 | [CONGRATULATIONS BSS](http://twitter.com/search?q=CONGRATULATIONS+BSS) | N/A |
+| 20 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
+| 21 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
+| 22 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 23 | [Ni-ki](http://twitter.com/search?q=Ni-ki) | N/A |
+| 24 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 25 | [yoon](http://twitter.com/search?q=yoon) | N/A |
+| 26 | [ALAM BY SARAHGxJROA](http://twitter.com/search?q=ALAM+BY+SARAHGxJROA) | N/A |
+| 27 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 28 | [#BGYOxChowking](http://twitter.com/search?q=%23BGYOxChowking) | N/A |
+| 29 | [#BSS5thWin](http://twitter.com/search?q=%23BSS5thWin) | N/A |
+| 30 | [#부석순_인기가요_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%b8%ea%b8%b0%ea%b0%80%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 31 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
+| 32 | [#RSGH2WO](http://twitter.com/search?q=%23RSGH2WO) | N/A |
+| 33 | [#GGRSG](http://twitter.com/search?q=%23GGRSG) | N/A |
+| 34 | [#MNL48onJapanFiestaD2](http://twitter.com/search?q=%23MNL48onJapanFiestaD2) | N/A |
+| 35 | [#STELLJUN](http://twitter.com/search?q=%23STELLJUN) | N/A |
+| 36 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
+| 37 | [#WestlifeAtTheBigDome](http://twitter.com/search?q=%23WestlifeAtTheBigDome) | N/A |
+| 38 | [#ATINKuharili](http://twitter.com/search?q=%23ATINKuharili) | N/A |
+| 39 | [#MakeItGreat](http://twitter.com/search?q=%23MakeItGreat) | N/A |
+| 40 | [#PizzaHutPH](http://twitter.com/search?q=%23PizzaHutPH) | N/A |
+| 41 | [#2023_웬디데이_파티](http://twitter.com/search?q=%232023_%ec%9b%ac%eb%94%94%eb%8d%b0%ec%9d%b4_%ed%8c%8c%ed%8b%b0) | N/A |
+| 42 | [#ToInfini3WithVINCI](http://twitter.com/search?q=%23ToInfini3WithVINCI) | N/A |
+| 43 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
+| 44 | [#BurberryxBright](http://twitter.com/search?q=%23BurberryxBright) | N/A |
+| 45 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
 
 
 

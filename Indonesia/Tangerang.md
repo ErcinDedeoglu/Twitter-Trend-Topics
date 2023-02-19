@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-19 10:16:04 UTC`
+📆 Last Updated: `2023-02-19 11:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
 | 2 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
-| 3 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
-| 4 | [#BSS5thWin](http://twitter.com/search?q=%23BSS5thWin) | N/A |
+| 3 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 4 | [#FarmhouseShopeexMileApo](http://twitter.com/search?q=%23FarmhouseShopeexMileApo) | N/A |
 | 5 | [Baju Kembaran](http://twitter.com/search?q=Baju+Kembaran) | N/A |
-| 6 | [DEAR DREAM](http://twitter.com/search?q=DEAR+DREAM) | N/A |
+| 6 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
 | 7 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
-| 8 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 9 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
-| 10 | [VIF X GULFHAZARD](http://twitter.com/search?q=VIF+X+GULFHAZARD) | N/A |
-| 11 | [No 15](http://twitter.com/search?q=No+15) | N/A |
-| 12 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
+| 8 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
+| 9 | [DEAR DREAM](http://twitter.com/search?q=DEAR+DREAM) | N/A |
+| 10 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 11 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 12 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
 | 13 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
-| 14 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 15 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 14 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 15 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
 | 16 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
 | 17 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 18 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
-| 19 | [Nabi Muhammad SAW](http://twitter.com/search?q=Nabi+Muhammad+SAW) | N/A |
-| 20 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 21 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
-| 22 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
-| 23 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 24 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
-| 25 | [EMI MARTINEZ](http://twitter.com/search?q=EMI+MARTINEZ) | N/A |
-| 26 | [Pasar Wonokromo](http://twitter.com/search?q=Pasar+Wonokromo) | N/A |
-| 27 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 28 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 29 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 30 | [Era Baru PSSI](http://twitter.com/search?q=Era+Baru+PSSI) | N/A |
-| 31 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 32 | [MC JJUNIJJUN DAY](http://twitter.com/search?q=MC+JJUNIJJUN+DAY) | MC JJUNIJJUN DAY is an annual event held in South Korea to celebrate the birthday of the popular K-pop artist MC JJUNIJJUN. The event is usually held on August 7th and includes a variety of activities such as fan meetings, special performances, and giveaways. The name of the event is derived from the artist's stage name, which is a combination of his real name (Jun) and his nickname (JJUNI). In English, MC JJUNIJJUN DAY translates to "MC JJUNIJJUN's Birthday Celebration". |
-| 33 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
-| 36 | [Evos](http://twitter.com/search?q=Evos) | N/A |
-| 37 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 38 | [Sangiran](http://twitter.com/search?q=Sangiran) | N/A |
-| 39 | [Rans](http://twitter.com/search?q=Rans) | N/A |
-| 40 | [CHART LEGEND JUNGKOOK](http://twitter.com/search?q=CHART+LEGEND+JUNGKOOK) | N/A |
-| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 42 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
-| 43 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
-| 44 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 45 | [Brunei](http://twitter.com/search?q=Brunei) | N/A |
-| 46 | [tbc musuh semua](http://twitter.com/search?q=tbc+musuh+semua) | N/A |
-| 47 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
-| 48 | [Jakarta Bhayangkara](http://twitter.com/search?q=Jakarta+Bhayangkara) | N/A |
-| 49 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
+| 18 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
+| 19 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
+| 20 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 21 | [VIF X GULFHAZARD](http://twitter.com/search?q=VIF+X+GULFHAZARD) | N/A |
+| 22 | [Pasar Wonokromo](http://twitter.com/search?q=Pasar+Wonokromo) | N/A |
+| 23 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
+| 24 | [Nabi Muhammad SAW](http://twitter.com/search?q=Nabi+Muhammad+SAW) | N/A |
+| 25 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 26 | [YO DREAM](http://twitter.com/search?q=YO+DREAM) | N/A |
+| 27 | [EMI MARTINEZ](http://twitter.com/search?q=EMI+MARTINEZ) | N/A |
+| 28 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 29 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
+| 30 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 31 | [Era Baru PSSI](http://twitter.com/search?q=Era+Baru+PSSI) | N/A |
+| 32 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 33 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 34 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 35 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 36 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 37 | [Sangiran](http://twitter.com/search?q=Sangiran) | N/A |
+| 38 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
+| 39 | [CHART LEGEND JUNGKOOK](http://twitter.com/search?q=CHART+LEGEND+JUNGKOOK) | N/A |
+| 40 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 41 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 42 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
+| 43 | [Brunei](http://twitter.com/search?q=Brunei) | N/A |
+| 44 | [tbc musuh semua](http://twitter.com/search?q=tbc+musuh+semua) | N/A |
+| 45 | [900M FOR SUGA](http://twitter.com/search?q=900M+FOR+SUGA) | N/A |
+| 46 | [Sore](http://twitter.com/search?q=Sore) | N/A |
+| 47 | [Jung Hoseok](http://twitter.com/search?q=Jung+Hoseok) | N/A |
+| 48 | [Evos](http://twitter.com/search?q=Evos) | N/A |
+| 49 | [HWANDERFUL YEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFUL+YEARS+WITH+JUNGHWAN) | N/A |
 
 
 

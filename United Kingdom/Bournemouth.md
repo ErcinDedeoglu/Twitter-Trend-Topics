@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-19 10:15:44 UTC`
+📆 Last Updated: `2023-02-19 11:15:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
 | 2 | [#BrexitReality](http://twitter.com/search?q=%23BrexitReality) | N/A |
-| 3 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 3 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
 | 4 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 5 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 6 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 7 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 8 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
-| 9 | [Fried](http://twitter.com/search?q=Fried) | N/A |
-| 10 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
-| 11 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 12 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 13 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 14 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
-| 15 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
-| 16 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
-| 17 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
-| 18 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
-| 19 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 20 | [Refugees](http://twitter.com/search?q=Refugees) | N/A |
-| 21 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 22 | [Morrisons](http://twitter.com/search?q=Morrisons) | N/A |
-| 23 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 24 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
-| 25 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 26 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 27 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 5 | [Ben Davison](http://twitter.com/search?q=Ben+Davison) | N/A |
+| 6 | [Orta](http://twitter.com/search?q=Orta) | N/A |
+| 7 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 8 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
+| 9 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 10 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
+| 11 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
+| 12 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
+| 13 | [Hash](http://twitter.com/search?q=Hash) | N/A |
+| 14 | [Fried](http://twitter.com/search?q=Fried) | N/A |
+| 15 | [Happy 2nd](http://twitter.com/search?q=Happy+2nd) | N/A |
+| 16 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 17 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
+| 18 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
+| 19 | [Beans](http://twitter.com/search?q=Beans) | N/A |
+| 20 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 21 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 22 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
+| 23 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 24 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
+| 25 | [Morrisons](http://twitter.com/search?q=Morrisons) | N/A |
+| 26 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
+| 27 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
 | 28 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 29 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
-| 30 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 31 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 32 | [Sainsbury](http://twitter.com/search?q=Sainsbury) | N/A |
-| 33 | [Wood](http://twitter.com/search?q=Wood) | N/A |
-| 34 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 35 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 36 | [Ben Davison](http://twitter.com/search?q=Ben+Davison) | N/A |
-| 37 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
-| 38 | [#ASongOrMovieForCopying](http://twitter.com/search?q=%23ASongOrMovieForCopying) | N/A |
-| 39 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 40 | [#SundayShare](http://twitter.com/search?q=%23SundayShare) | N/A |
-| 41 | [#ShakespeareSunday](http://twitter.com/search?q=%23ShakespeareSunday) | N/A |
-| 42 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
-| 43 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
-| 44 | [#bbcbh](http://twitter.com/search?q=%23bbcbh) | N/A |
-| 45 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
-| 46 | [#sundaymotivation](http://twitter.com/search?q=%23sundaymotivation) | N/A |
-| 47 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 48 | [#Wordle610](http://twitter.com/search?q=%23Wordle610) | N/A |
+| 29 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
+| 30 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 31 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 32 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 33 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 34 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
+| 35 | [Refugees](http://twitter.com/search?q=Refugees) | N/A |
+| 36 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
+| 37 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 38 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 39 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 40 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 41 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 42 | [Sainsbury](http://twitter.com/search?q=Sainsbury) | N/A |
+| 43 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
+| 44 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
+| 45 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 46 | [Seamus](http://twitter.com/search?q=Seamus) | N/A |
+| 47 | [#SundayShare](http://twitter.com/search?q=%23SundayShare) | N/A |
+| 48 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
 
 
 
