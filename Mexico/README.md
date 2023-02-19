@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-19 20:16:50 UTC`
+📆 Last Updated: `2023-02-19 21:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,51 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 2 | [#MexicoEsClaudia](http://twitter.com/search?q=%23MexicoEsClaudia) | N/A |
-| 3 | [#DíaDelEjércitoMexicano](http://twitter.com/search?q=%23D%c3%adaDelEj%c3%a9rcitoMexicano) | N/A |
-| 4 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 1 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 2 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 3 | [#MexicoEsClaudia](http://twitter.com/search?q=%23MexicoEsClaudia) | N/A |
+| 4 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
 | 5 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
-| 6 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
+| 6 | [#OlaAzul](http://twitter.com/search?q=%23OlaAzul) | N/A |
 | 7 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 8 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 9 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 10 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 11 | [Desde 1917](http://twitter.com/search?q=Desde+1917) | N/A |
-| 12 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
-| 13 | [Adrian Marcelo](http://twitter.com/search?q=Adrian+Marcelo) | N/A |
-| 14 | [Nación](http://twitter.com/search?q=Naci%c3%b3n) | N/A |
-| 15 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 16 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 17 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 18 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 19 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 20 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 22 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
-| 23 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 24 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 25 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 26 | [El AIFA](http://twitter.com/search?q=El+AIFA) | N/A |
-| 27 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
-| 28 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 29 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 30 | [Poncho](http://twitter.com/search?q=Poncho) | N/A |
-| 31 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
-| 32 | [#Tamaulipas](http://twitter.com/search?q=%23Tamaulipas) | N/A |
-| 33 | [#YoJuegoEnVLA](http://twitter.com/search?q=%23YoJuegoEnVLA) | N/A |
-| 34 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
-| 35 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
-| 36 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 37 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
-| 38 | [#19deFebrero](http://twitter.com/search?q=%2319deFebrero) | N/A |
-| 39 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
-| 40 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
-| 41 | [#MiVotoNoSeToca](http://twitter.com/search?q=%23MiVotoNoSeToca) | N/A |
-| 42 | [#AmloFracasoPresidencial](http://twitter.com/search?q=%23AmloFracasoPresidencial) | N/A |
-| 43 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
-| 44 | [#MORENAEsUnASCO](http://twitter.com/search?q=%23MORENAEsUnASCO) | N/A |
+| 8 | [#DíaDelEjércitoMexicano](http://twitter.com/search?q=%23D%c3%adaDelEj%c3%a9rcitoMexicano) | N/A |
+| 9 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
+| 10 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 11 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 12 | [John Munch](http://twitter.com/search?q=John+Munch) | N/A |
+| 13 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 14 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 15 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 16 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 17 | [Adrian Marcelo](http://twitter.com/search?q=Adrian+Marcelo) | N/A |
+| 18 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 19 | [Desde 1917](http://twitter.com/search?q=Desde+1917) | N/A |
+| 20 | [Litio](http://twitter.com/search?q=Litio) | N/A |
+| 21 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 22 | [Nación](http://twitter.com/search?q=Naci%c3%b3n) | N/A |
+| 23 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 24 | [Venustiano Carranza](http://twitter.com/search?q=Venustiano+Carranza) | N/A |
+| 25 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 26 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
+| 27 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 28 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
+| 29 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 30 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
+| 31 | [El AIFA](http://twitter.com/search?q=El+AIFA) | N/A |
+| 32 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 33 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 34 | [Pearl](http://twitter.com/search?q=Pearl) | N/A |
+| 35 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 36 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 37 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 38 | [#YoJuegoEnVLA](http://twitter.com/search?q=%23YoJuegoEnVLA) | N/A |
+| 39 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
+| 40 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
+| 41 | [#JefaDeGobierno](http://twitter.com/search?q=%23JefaDeGobierno) | N/A |
+| 42 | [#HonestidadQueDaResultados](http://twitter.com/search?q=%23HonestidadQueDaResultados) | N/A |
+| 43 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
+| 44 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
+| 45 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
 
 
 

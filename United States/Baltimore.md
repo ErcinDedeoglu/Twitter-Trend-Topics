@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baltimore
 
-📆 Last Updated: `2023-02-19 20:16:37 UTC`
+📆 Last Updated: `2023-02-19 21:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [United States](</United States>)
 | 3 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
 | 4 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
 | 5 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 6 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 7 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 8 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
-| 9 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 10 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
-| 11 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 12 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
-| 13 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 14 | [Jarkel Joiner](http://twitter.com/search?q=Jarkel+Joiner) | N/A |
-| 15 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 16 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
-| 17 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 18 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 19 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
-| 20 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
-| 21 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 22 | [Joe Lunardi](http://twitter.com/search?q=Joe+Lunardi) | N/A |
-| 23 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 24 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 25 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
-| 26 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 27 | [Meta Verified](http://twitter.com/search?q=Meta+Verified) | N/A |
-| 28 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 29 | [Zeller](http://twitter.com/search?q=Zeller) | N/A |
-| 30 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 31 | [Joey Logano](http://twitter.com/search?q=Joey+Logano) | N/A |
-| 32 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 33 | [Cigarettes](http://twitter.com/search?q=Cigarettes) | N/A |
-| 34 | [Street](http://twitter.com/search?q=Street) | N/A |
-| 35 | [Michael Waltrip](http://twitter.com/search?q=Michael+Waltrip) | N/A |
-| 36 | [Pyrex](http://twitter.com/search?q=Pyrex) | N/A |
-| 37 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
-| 38 | [Wolfpack](http://twitter.com/search?q=Wolfpack) | N/A |
-| 39 | [Hogan](http://twitter.com/search?q=Hogan) | N/A |
-| 40 | [Ryan Blaney](http://twitter.com/search?q=Ryan+Blaney) | N/A |
-| 41 | [Christopher Fitzgerald](http://twitter.com/search?q=Christopher+Fitzgerald) | N/A |
-| 42 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 43 | [First Sunday](http://twitter.com/search?q=First+Sunday) | N/A |
-| 44 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
-| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 46 | [Zuck](http://twitter.com/search?q=Zuck) | N/A |
-| 47 | [Terquavion Smith](http://twitter.com/search?q=Terquavion+Smith) | N/A |
+| 6 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 7 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 8 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 9 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 10 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
+| 11 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 12 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
+| 13 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
+| 14 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 15 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
+| 16 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 17 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 18 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
+| 19 | [Truex](http://twitter.com/search?q=Truex) | N/A |
+| 20 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 21 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 22 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
+| 23 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 24 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 25 | [Jarkel Joiner](http://twitter.com/search?q=Jarkel+Joiner) | N/A |
+| 26 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 27 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 28 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
+| 29 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
+| 30 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 31 | [Battlehawks](http://twitter.com/search?q=Battlehawks) | N/A |
+| 32 | [Ty Dillon](http://twitter.com/search?q=Ty+Dillon) | N/A |
+| 33 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 34 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 35 | [Brad Keselowski](http://twitter.com/search?q=Brad+Keselowski) | N/A |
+| 36 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 37 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 38 | [Jack Coan](http://twitter.com/search?q=Jack+Coan) | N/A |
+| 39 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 40 | [Roc Riggio](http://twitter.com/search?q=Roc+Riggio) | N/A |
+| 41 | [Manek](http://twitter.com/search?q=Manek) | N/A |
+| 42 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
+| 43 | [Riley Herbst](http://twitter.com/search?q=Riley+Herbst) | N/A |
+| 44 | [Meta Verified](http://twitter.com/search?q=Meta+Verified) | N/A |
+| 45 | [Joey Logano](http://twitter.com/search?q=Joey+Logano) | N/A |
+| 46 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 47 | [Zuck](http://twitter.com/search?q=Zuck) | N/A |
 
 
 

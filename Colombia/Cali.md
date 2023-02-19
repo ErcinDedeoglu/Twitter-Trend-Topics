@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-19 20:16:05 UTC`
+📆 Last Updated: `2023-02-19 21:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 2 | [Carlos Ramírez](http://twitter.com/search?q=Carlos+Ram%c3%adrez) | N/A |
-| 3 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 4 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 5 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 6 | [#LosDanieles](http://twitter.com/search?q=%23LosDanieles) | N/A |
-| 7 | [#GabrielJoséGonzález](http://twitter.com/search?q=%23GabrielJos%c3%a9Gonz%c3%a1lez) | N/A |
-| 8 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 9 | [#SomosMayoresNoImbéciles](http://twitter.com/search?q=%23SomosMayoresNoImb%c3%a9ciles) | N/A |
-| 10 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
-| 11 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 12 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
-| 13 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
-| 14 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 15 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
-| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 17 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 18 | [Bavaria](http://twitter.com/search?q=Bavaria) | N/A |
-| 19 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
-| 20 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 21 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 22 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
-| 23 | [Daniel Felipe Martínez](http://twitter.com/search?q=Daniel+Felipe+Mart%c3%adnez) | N/A |
-| 24 | [Batalla de Flores](http://twitter.com/search?q=Batalla+de+Flores) | N/A |
-| 25 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
-| 26 | [McClung](http://twitter.com/search?q=McClung) | N/A |
-| 27 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 28 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
-| 29 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 30 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 31 | [vamos millonarios](http://twitter.com/search?q=vamos+millonarios) | N/A |
-| 32 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
-| 33 | [Daniel Coronell](http://twitter.com/search?q=Daniel+Coronell) | N/A |
-| 34 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 35 | [Reficar](http://twitter.com/search?q=Reficar) | N/A |
-| 36 | [Dayro Moreno](http://twitter.com/search?q=Dayro+Moreno) | N/A |
-| 37 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 38 | [Primera Dama](http://twitter.com/search?q=Primera+Dama) | N/A |
-| 39 | [El PSG](http://twitter.com/search?q=El+PSG) | N/A |
-| 40 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 41 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 42 | [Estupiñan](http://twitter.com/search?q=Estupi%c3%b1an) | N/A |
-| 43 | [Alicia](http://twitter.com/search?q=Alicia) | N/A |
-| 44 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 45 | [Ever Valencia](http://twitter.com/search?q=Ever+Valencia) | N/A |
-| 46 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 47 | [Berrío](http://twitter.com/search?q=Berr%c3%ado) | N/A |
+| 1 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 2 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 4 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 5 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
+| 6 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 7 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 8 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 9 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 10 | [#LosDanieles](http://twitter.com/search?q=%23LosDanieles) | N/A |
+| 11 | [Carlos Ramírez](http://twitter.com/search?q=Carlos+Ram%c3%adrez) | N/A |
+| 12 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 13 | [#GabrielJoséGonzález](http://twitter.com/search?q=%23GabrielJos%c3%a9Gonz%c3%a1lez) | N/A |
+| 14 | [Yesus](http://twitter.com/search?q=Yesus) | N/A |
+| 15 | [#SomosMayoresNoImbéciles](http://twitter.com/search?q=%23SomosMayoresNoImb%c3%a9ciles) | N/A |
+| 16 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
+| 17 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 18 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 19 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 20 | [Dayro](http://twitter.com/search?q=Dayro) | N/A |
+| 21 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 22 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 23 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
+| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 25 | [Bavaria](http://twitter.com/search?q=Bavaria) | N/A |
+| 26 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 27 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
+| 28 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
+| 29 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
+| 30 | [Oliver](http://twitter.com/search?q=Oliver) | N/A |
+| 31 | [Batalla de Flores](http://twitter.com/search?q=Batalla+de+Flores) | N/A |
+| 32 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
+| 33 | [Fajardo](http://twitter.com/search?q=Fajardo) | N/A |
+| 34 | [Daniel Felipe Martínez](http://twitter.com/search?q=Daniel+Felipe+Mart%c3%adnez) | N/A |
+| 35 | [McClung](http://twitter.com/search?q=McClung) | N/A |
+| 36 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 37 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 38 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 39 | [Portilla](http://twitter.com/search?q=Portilla) | N/A |
+| 40 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 41 | [Soto](http://twitter.com/search?q=Soto) | Soto is a type of Indonesian soup made with a variety of ingredients such as beef, chicken, vegetables, and spices. The word "soto" is derived from the Javanese word "sroto", which means "soup". In English, it can be translated as "soup". |
+| 42 | [vamos millonarios](http://twitter.com/search?q=vamos+millonarios) | N/A |
+| 43 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 44 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 45 | [Alicia](http://twitter.com/search?q=Alicia) | N/A |
+| 46 | [Primera Dama](http://twitter.com/search?q=Primera+Dama) | N/A |
+| 47 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
 
 
 

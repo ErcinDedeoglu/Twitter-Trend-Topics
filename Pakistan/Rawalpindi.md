@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-19 20:16:32 UTC`
+📆 Last Updated: `2023-02-19 21:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#MSvIU](http://twitter.com/search?q=%23MSvIU) | N/A |
 | 5 | [#SahibzadaSultan](http://twitter.com/search?q=%23SahibzadaSultan) | N/A |
 | 6 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 7 | [Lahore Qalandars](http://twitter.com/search?q=Lahore+Qalandars) | N/A |
+| 7 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 8 | [Kamran Ghulam](http://twitter.com/search?q=Kamran+Ghulam) | N/A |
-| 9 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 10 | [Tahir Baig](http://twitter.com/search?q=Tahir+Baig) | N/A |
-| 11 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
-| 12 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 13 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 14 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 15 | [guptil](http://twitter.com/search?q=guptil) | N/A |
-| 16 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
-| 17 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 9 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
+| 10 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 11 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 12 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
+| 13 | [guptil](http://twitter.com/search?q=guptil) | N/A |
+| 14 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
+| 15 | [Abbas Afridi](http://twitter.com/search?q=Abbas+Afridi) | N/A |
+| 16 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 17 | [Tahir Baig](http://twitter.com/search?q=Tahir+Baig) | N/A |
 | 18 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
 | 19 | [28 Rajab](http://twitter.com/search?q=28+Rajab) | N/A |
-| 20 | [Aqib Javed](http://twitter.com/search?q=Aqib+Javed) | N/A |
+| 20 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
 | 21 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 22 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 23 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
-| 24 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 25 | [Shai Hope](http://twitter.com/search?q=Shai+Hope) | N/A |
-| 26 | [Akif Javed](http://twitter.com/search?q=Akif+Javed) | N/A |
-| 27 | [Shan masood](http://twitter.com/search?q=Shan+masood) | N/A |
-| 28 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
-| 29 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
-| 30 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 31 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 32 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 33 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 34 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 35 | [Ben Cutting](http://twitter.com/search?q=Ben+Cutting) | N/A |
-| 36 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
-| 37 | [Madina](http://twitter.com/search?q=Madina) | N/A |
-| 38 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 39 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 40 | [Sikandar Raza](http://twitter.com/search?q=Sikandar+Raza) | N/A |
-| 41 | [Iron](http://twitter.com/search?q=Iron) | N/A |
-| 42 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 43 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 44 | [Lala](http://twitter.com/search?q=Lala) | N/A |
-| 45 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
-| 46 | [Batting](http://twitter.com/search?q=Batting) | N/A |
-| 47 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 22 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
+| 23 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 24 | [Shai Hope](http://twitter.com/search?q=Shai+Hope) | N/A |
+| 25 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
+| 26 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
+| 27 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
+| 28 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 29 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 30 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 31 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 32 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 33 | [Ben Cutting](http://twitter.com/search?q=Ben+Cutting) | N/A |
+| 34 | [Aqib Javed](http://twitter.com/search?q=Aqib+Javed) | N/A |
+| 35 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 36 | [Akif Javed](http://twitter.com/search?q=Akif+Javed) | N/A |
+| 37 | [Iron](http://twitter.com/search?q=Iron) | N/A |
+| 38 | [Madina](http://twitter.com/search?q=Madina) | N/A |
+| 39 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
+| 40 | [28th Rajab](http://twitter.com/search?q=28th+Rajab) | N/A |
+| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 42 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
+| 43 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 44 | [Sikandar Raza](http://twitter.com/search?q=Sikandar+Raza) | N/A |
+| 45 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
+| 46 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 47 | [Batting](http://twitter.com/search?q=Batting) | N/A |
 | 48 | [Ayesha](http://twitter.com/search?q=Ayesha) | N/A |
-| 49 | [Nahi](http://twitter.com/search?q=Nahi) | N/A |
-| 50 | [Horrible](http://twitter.com/search?q=Horrible) | N/A |
+| 49 | [Happiest Birthday](http://twitter.com/search?q=Happiest+Birthday) | N/A |
+| 50 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 
 
 

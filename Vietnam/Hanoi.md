@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-19 20:16:25 UTC`
+📆 Last Updated: `2023-02-19 21:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 5 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
 | 6 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
 | 7 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 8 | [JIMIN CHO ARMY XEM TATOO VỚI](http://twitter.com/search?q=JIMIN+CHO+ARMY+XEM+TATOO+V%e1%bb%9aI) | N/A |
+| 8 | [jimin cho army xem tatoo với](http://twitter.com/search?q=jimin+cho+army+xem+tatoo+v%e1%bb%9bi) | N/A |
 | 9 | [VIF X GULFHAZARD](http://twitter.com/search?q=VIF+X+GULFHAZARD) | N/A |
 | 10 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
 | 11 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
@@ -33,7 +33,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 16 | [ohm in vn](http://twitter.com/search?q=ohm+in+vn) | N/A |
 | 17 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 18 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 19 | [Oh Hanbin](http://twitter.com/search?q=Oh+Hanbin) | N/A |
+| 19 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
 | 20 | [BYLs](http://twitter.com/search?q=BYLs) | N/A |
 | 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 22 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
@@ -57,14 +57,13 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 40 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
 | 41 | [Những](http://twitter.com/search?q=Nh%e1%bb%afng) | N/A |
 | 42 | [Nhìn](http://twitter.com/search?q=Nh%c3%acn) | N/A |
-| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 44 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 45 | [Trung](http://twitter.com/search?q=Trung) | N/A |
+| 43 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
+| 44 | [Trung](http://twitter.com/search?q=Trung) | N/A |
+| 45 | [Thực](http://twitter.com/search?q=Th%e1%bb%b1c) | N/A |
 | 46 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 48 | [Thực](http://twitter.com/search?q=Th%e1%bb%b1c) | N/A |
-| 49 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 50 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
+| 48 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
+| 49 | [Thái](http://twitter.com/search?q=Th%c3%a1i) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-02-19 20:16:35 UTC`
+📆 Last Updated: `2023-02-19 21:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Turkey](</Turkey>)
 | 2 | [#isiasgizliliğikaldırılsın](http://twitter.com/search?q=%23isiasgizlili%c4%9fikald%c4%b1r%c4%b1ls%c4%b1n) | N/A |
 | 3 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
 | 4 | [Neyledim](http://twitter.com/search?q=Neyledim) | N/A |
-| 5 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 6 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 7 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
-| 8 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 9 | [Yüküm](http://twitter.com/search?q=Y%c3%bck%c3%bcm) | N/A |
-| 10 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
-| 11 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 12 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
-| 13 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
+| 5 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 6 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
+| 7 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
+| 8 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
+| 9 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 10 | [Yüküm](http://twitter.com/search?q=Y%c3%bck%c3%bcm) | N/A |
+| 11 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
+| 12 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
+| 13 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
 | 14 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
-| 15 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
+| 15 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 | 16 | [Depremin 14](http://twitter.com/search?q=Depremin+14) | N/A |
-| 17 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 17 | [Esenyurt](http://twitter.com/search?q=Esenyurt) | N/A |
 | 18 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 19 | [Esenyurt](http://twitter.com/search?q=Esenyurt) | N/A |
-| 20 | [Çakmadır](http://twitter.com/search?q=%c3%87akmad%c4%b1r) | N/A |
+| 19 | [Çakmadır](http://twitter.com/search?q=%c3%87akmad%c4%b1r) | N/A |
+| 20 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
 | 21 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 22 | [Kübra Dörtkardeş](http://twitter.com/search?q=K%c3%bcbra+D%c3%b6rtkarde%c5%9f) | N/A |
-| 23 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
-| 24 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
-| 25 | [Evim Yuvan Olsun](http://twitter.com/search?q=Evim+Yuvan+Olsun) | N/A |
-| 26 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
-| 27 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 28 | [633 Suriyeli](http://twitter.com/search?q=633+Suriyeli) | N/A |
-| 29 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
-| 30 | [Dostoyevski](http://twitter.com/search?q=Dostoyevski) | N/A |
-| 31 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 22 | [Ak Parti](http://twitter.com/search?q=Ak+Parti) | N/A |
+| 23 | [Evim Yuvan Olsun](http://twitter.com/search?q=Evim+Yuvan+Olsun) | N/A |
+| 24 | [Ayyy](http://twitter.com/search?q=Ayyy) | N/A |
+| 25 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 26 | [Kübra Dörtkardeş](http://twitter.com/search?q=K%c3%bcbra+D%c3%b6rtkarde%c5%9f) | N/A |
+| 27 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
+| 28 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 29 | [Dostoyevski](http://twitter.com/search?q=Dostoyevski) | N/A |
+| 30 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 31 | [Başak](http://twitter.com/search?q=Ba%c5%9fak) | N/A |
 | 32 | [20 Şubat Pazartesi](http://twitter.com/search?q=20+%c5%9eubat+Pazartesi) | N/A |
-| 33 | [Nasip](http://twitter.com/search?q=Nasip) | N/A |
-| 34 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 33 | [İsmet Özel](http://twitter.com/search?q=%c4%b0smet+%c3%96zel) | N/A |
+| 34 | [633 Suriyeli](http://twitter.com/search?q=633+Suriyeli) | N/A |
 | 35 | [Cemal Süreya](http://twitter.com/search?q=Cemal+S%c3%bcreya) | N/A |
-| 36 | [Kızlar](http://twitter.com/search?q=K%c4%b1zlar) | N/A |
-| 37 | [İsrailli](http://twitter.com/search?q=%c4%b0srailli) | N/A |
-| 38 | [Tevrat](http://twitter.com/search?q=Tevrat) | N/A |
-| 39 | [#Eğitimicin100binAtama](http://twitter.com/search?q=%23E%c4%9fitimicin100binAtama) | N/A |
-| 40 | [#FıratYılmazCakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmazCak%c4%b1ro%c4%9flu) | N/A |
-| 41 | [#ahaber](http://twitter.com/search?q=%23ahaber) | N/A |
+| 36 | [Nasip](http://twitter.com/search?q=Nasip) | N/A |
+| 37 | [Kızlar](http://twitter.com/search?q=K%c4%b1zlar) | N/A |
+| 38 | [#Eğitimicin100binAtama](http://twitter.com/search?q=%23E%c4%9fitimicin100binAtama) | N/A |
+| 39 | [#ahaber](http://twitter.com/search?q=%23ahaber) | N/A |
+| 40 | [#isiashotelkatliamı](http://twitter.com/search?q=%23isiashotelkatliam%c4%b1) | N/A |
+| 41 | [#FıratYılmazCAKIROĞLU](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmazCAKIRO%c4%9eLU) | N/A |
 | 42 | [#astroloji](http://twitter.com/search?q=%23astroloji) | N/A |
-| 43 | [#bagkurasozverdin](http://twitter.com/search?q=%23bagkurasozverdin) | N/A |
-| 44 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
-| 45 | [#isiashotelkatliamı](http://twitter.com/search?q=%23isiashotelkatliam%c4%b1) | N/A |
-| 46 | [#EmeklilikteYaşaTakıIanIar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1IanIar) | N/A |
-| 47 | [#TekAdamlıkEnkazdaKaldı](http://twitter.com/search?q=%23TekAdaml%c4%b1kEnkazdaKald%c4%b1) | N/A |
-| 48 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
+| 43 | [#AcıkveNet](http://twitter.com/search?q=%23Ac%c4%b1kveNet) | N/A |
+| 44 | [#EmeklilikteYaşaTakıIanIar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1IanIar) | N/A |
+| 45 | [#bagkurasozverdin](http://twitter.com/search?q=%23bagkurasozverdin) | N/A |
+| 46 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
+| 47 | [#isiaskatillericezalandırılsın](http://twitter.com/search?q=%23isiaskatillericezaland%c4%b1r%c4%b1ls%c4%b1n) | N/A |
+| 48 | [#Antalya](http://twitter.com/search?q=%23Antalya) | N/A |
 
 
 

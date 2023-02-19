@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-19 20:16:12 UTC`
+📆 Last Updated: `2023-02-19 21:16:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
-| 2 | [#B04M05](http://twitter.com/search?q=%23B04M05) | N/A |
-| 3 | [#BVBBSC](http://twitter.com/search?q=%23BVBBSC) | N/A |
-| 4 | [#Polizeiruf110](http://twitter.com/search?q=%23Polizeiruf110) | N/A |
-| 5 | [#kitchenimpossible](http://twitter.com/search?q=%23kitchenimpossible) | N/A |
-| 6 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 7 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 8 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
-| 9 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 10 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
-| 11 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 12 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 13 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 14 | [Tore](http://twitter.com/search?q=Tore) | N/A |
-| 15 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 16 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 17 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 18 | [Mannschaft](http://twitter.com/search?q=Mannschaft) | N/A |
-| 19 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 20 | [Heimspiel](http://twitter.com/search?q=Heimspiel) | N/A |
-| 21 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 22 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
-| 23 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
-| 24 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 26 | [Morde](http://twitter.com/search?q=Morde) | N/A |
-| 27 | [Atombomben](http://twitter.com/search?q=Atombomben) | N/A |
-| 28 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 29 | [Trikots](http://twitter.com/search?q=Trikots) | N/A |
-| 30 | [#DFBPokal](http://twitter.com/search?q=%23DFBPokal) | N/A |
-| 31 | [#ranNHL](http://twitter.com/search?q=%23ranNHL) | N/A |
-| 32 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
-| 33 | [#FCUS04](http://twitter.com/search?q=%23FCUS04) | N/A |
-| 34 | [#DAZN](http://twitter.com/search?q=%23DAZN) | #DAZN is a streaming service for live sports. It stands for Digital Access Zone Network and is available in several countries around the world. It allows users to watch live sports events, including football, boxing, tennis, and more. |
-| 35 | [#Reus](http://twitter.com/search?q=%23Reus) | N/A |
-| 36 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
-| 37 | [#Baerbock360](http://twitter.com/search?q=%23Baerbock360) | N/A |
-| 38 | [#360Grad](http://twitter.com/search?q=%23360Grad) | N/A |
-| 39 | [#saytheirnames](http://twitter.com/search?q=%23saytheirnames) | N/A |
-| 40 | [#HSVDSC](http://twitter.com/search?q=%23HSVDSC) | N/A |
-| 41 | [#Bundesliga](http://twitter.com/search?q=%23Bundesliga) | N/A |
-| 42 | [#FCHFCN](http://twitter.com/search?q=%23FCHFCN) | N/A |
-| 43 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
-| 44 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
+| 2 | [#BVBBSC](http://twitter.com/search?q=%23BVBBSC) | N/A |
+| 3 | [#Polizeiruf110](http://twitter.com/search?q=%23Polizeiruf110) | N/A |
+| 4 | [#B04M05](http://twitter.com/search?q=%23B04M05) | N/A |
+| 5 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
+| 6 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
+| 7 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 8 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 9 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 10 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 11 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 12 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 13 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 14 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 15 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 16 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 17 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 18 | [Bill Kaulitz](http://twitter.com/search?q=Bill+Kaulitz) | N/A |
+| 19 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
+| 20 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 21 | [schönen samstag](http://twitter.com/search?q=sch%c3%b6nen+samstag) | N/A |
+| 22 | [Kohr](http://twitter.com/search?q=Kohr) | N/A |
+| 23 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
+| 24 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 25 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
+| 26 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 27 | [Plea](http://twitter.com/search?q=Plea) | N/A |
+| 28 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
+| 29 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 30 | [Welz](http://twitter.com/search?q=Welz) | N/A |
+| 31 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 32 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 33 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
+| 34 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 35 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 36 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 37 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 38 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
+| 39 | [Kroatien](http://twitter.com/search?q=Kroatien) | N/A |
+| 40 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
+| 41 | [Thomas Gottschalk](http://twitter.com/search?q=Thomas+Gottschalk) | N/A |
+| 42 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 43 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 44 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
+| 45 | [Auslosung](http://twitter.com/search?q=Auslosung) | N/A |
+| 46 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 47 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
+| 48 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 49 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
+| 50 | [Gittens](http://twitter.com/search?q=Gittens) | N/A |
 
 
 

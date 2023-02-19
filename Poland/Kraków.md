@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-02-19 20:16:09 UTC`
+📆 Last Updated: `2023-02-19 21:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#LPOZAG](http://twitter.com/search?q=%23LPOZAG) | N/A |
 | 2 | [#PIALEG](http://twitter.com/search?q=%23PIALEG) | N/A |
 | 3 | [#woronicza17](http://twitter.com/search?q=%23woronicza17) | N/A |
-| 4 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 5 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 6 | [Sylwestrzak](http://twitter.com/search?q=Sylwestrzak) | N/A |
-| 7 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
-| 8 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
+| 4 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 5 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
+| 6 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 7 | [Fati](http://twitter.com/search?q=Fati) | N/A |
+| 8 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
 | 9 | [#Minela20](http://twitter.com/search?q=%23Minela20) | N/A |
-| 10 | [#MIEWPŁ](http://twitter.com/search?q=%23MIEWP%c5%81) | N/A |
-| 11 | [Oskar Kwiatkowski](http://twitter.com/search?q=Oskar+Kwiatkowski) | N/A |
+| 10 | [#StrefaStarcia](http://twitter.com/search?q=%23StrefaStarcia) | N/A |
+| 11 | [Slisz](http://twitter.com/search?q=Slisz) | N/A |
 | 12 | [Mikołaja Kopernika](http://twitter.com/search?q=Miko%c5%82aja+Kopernika) | N/A |
-| 13 | [Slisz](http://twitter.com/search?q=Slisz) | N/A |
-| 14 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 15 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
-| 16 | [Legii](http://twitter.com/search?q=Legii) | N/A |
-| 17 | [Aleksandra Król](http://twitter.com/search?q=Aleksandra+Kr%c3%b3l) | N/A |
-| 18 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
-| 19 | [Bąkiewicz](http://twitter.com/search?q=B%c4%85kiewicz) | N/A |
-| 20 | [Pekhart](http://twitter.com/search?q=Pekhart) | N/A |
-| 21 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 22 | [Sokołowski](http://twitter.com/search?q=Soko%c5%82owski) | N/A |
-| 23 | [Ribeiro](http://twitter.com/search?q=Ribeiro) | N/A |
-| 24 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
-| 25 | [Rymanowski](http://twitter.com/search?q=Rymanowski) | N/A |
-| 26 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
-| 27 | [Adeyemiego](http://twitter.com/search?q=Adeyemiego) | N/A |
+| 13 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 14 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 15 | [Oskar Kwiatkowski](http://twitter.com/search?q=Oskar+Kwiatkowski) | N/A |
+| 16 | [Bąkiewicz](http://twitter.com/search?q=B%c4%85kiewicz) | N/A |
+| 17 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 18 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 19 | [Pekhart](http://twitter.com/search?q=Pekhart) | N/A |
+| 20 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 21 | [Aleksandra Król](http://twitter.com/search?q=Aleksandra+Kr%c3%b3l) | N/A |
+| 22 | [Sylwestrzak](http://twitter.com/search?q=Sylwestrzak) | N/A |
+| 23 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 24 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 25 | [Sokołowski](http://twitter.com/search?q=Soko%c5%82owski) | N/A |
+| 26 | [Legii](http://twitter.com/search?q=Legii) | N/A |
+| 27 | [Jowisz](http://twitter.com/search?q=Jowisz) | N/A |
 | 28 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
-| 29 | [Zagłębia](http://twitter.com/search?q=Zag%c5%82%c4%99bia) | N/A |
-| 30 | [Muci](http://twitter.com/search?q=Muci) | N/A |
-| 31 | [Gliwicach](http://twitter.com/search?q=Gliwicach) | N/A |
+| 29 | [Carlitos](http://twitter.com/search?q=Carlitos) | N/A |
+| 30 | [Rymanowski](http://twitter.com/search?q=Rymanowski) | N/A |
+| 31 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
 | 32 | [Rebocho](http://twitter.com/search?q=Rebocho) | N/A |
-| 33 | [Zuzanna Borucka](http://twitter.com/search?q=Zuzanna+Borucka) | N/A |
-| 34 | [Mielcu](http://twitter.com/search?q=Mielcu) | N/A |
-| 35 | [Szejna](http://twitter.com/search?q=Szejna) | N/A |
-| 36 | [Sobiech](http://twitter.com/search?q=Sobiech) | N/A |
-| 37 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
-| 38 | [Mladen](http://twitter.com/search?q=Mladen) | N/A |
-| 39 | [antoni k.](http://twitter.com/search?q=antoni+k.) | N/A |
-| 40 | [Dzień Nauki Polskiej](http://twitter.com/search?q=Dzie%c5%84+Nauki+Polskiej) | N/A |
-| 41 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
-| 42 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 43 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 44 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 45 | [Vuko](http://twitter.com/search?q=Vuko) | N/A |
-| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 47 | [VARze](http://twitter.com/search?q=VARze) | N/A |
-| 48 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 49 | [Kosta](http://twitter.com/search?q=Kosta) | N/A |
-| 50 | [Friz](http://twitter.com/search?q=Friz) | N/A |
+| 33 | [Kosta](http://twitter.com/search?q=Kosta) | N/A |
+| 34 | [Muci](http://twitter.com/search?q=Muci) | N/A |
+| 35 | [Piastem](http://twitter.com/search?q=Piastem) | N/A |
+| 36 | [Szejna](http://twitter.com/search?q=Szejna) | N/A |
+| 37 | [Zuzanna Borucka](http://twitter.com/search?q=Zuzanna+Borucka) | N/A |
+| 38 | [Sobiech](http://twitter.com/search?q=Sobiech) | N/A |
+| 39 | [Mladen](http://twitter.com/search?q=Mladen) | N/A |
+| 40 | [antoni k.](http://twitter.com/search?q=antoni+k.) | N/A |
+| 41 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 42 | [Broma](http://twitter.com/search?q=Broma) | N/A |
+| 43 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 44 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
+| 45 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
+| 46 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 47 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
+| 48 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
+| 49 | [Marsz Niepodległości](http://twitter.com/search?q=Marsz+Niepodleg%c5%82o%c5%9bci) | N/A |
+| 50 | [Lubina](http://twitter.com/search?q=Lubina) | N/A |
 
 
 

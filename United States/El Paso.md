@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-02-19 20:16:39 UTC`
+📆 Last Updated: `2023-02-19 21:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Californians](http://twitter.com/search?q=Californians) | N/A |
-| 2 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
-| 3 | [Vandy](http://twitter.com/search?q=Vandy) | Vandy is a nickname for Vanderbilt University, a private research university located in Nashville, Tennessee. The name is derived from the university's namesake, Cornelius Vanderbilt. |
-| 4 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 5 | [#ECNLHOU](http://twitter.com/search?q=%23ECNLHOU) | N/A |
-| 6 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 7 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
-| 8 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 9 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 10 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 11 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 12 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
-| 13 | [#NASCAR75](http://twitter.com/search?q=%23NASCAR75) | N/A |
-| 14 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 15 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
-| 16 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 17 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
-| 18 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 19 | [Jarkel Joiner](http://twitter.com/search?q=Jarkel+Joiner) | N/A |
-| 20 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 21 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
-| 22 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 23 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 24 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
-| 25 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
-| 26 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 27 | [Joe Lunardi](http://twitter.com/search?q=Joe+Lunardi) | N/A |
-| 28 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 29 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 30 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
-| 31 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 32 | [Meta Verified](http://twitter.com/search?q=Meta+Verified) | N/A |
-| 33 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 34 | [Zeller](http://twitter.com/search?q=Zeller) | N/A |
-| 35 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 36 | [Joey Logano](http://twitter.com/search?q=Joey+Logano) | N/A |
-| 37 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 38 | [Cigarettes](http://twitter.com/search?q=Cigarettes) | N/A |
-| 39 | [Street](http://twitter.com/search?q=Street) | N/A |
-| 40 | [Michael Waltrip](http://twitter.com/search?q=Michael+Waltrip) | N/A |
-| 41 | [Wolfpack](http://twitter.com/search?q=Wolfpack) | N/A |
-| 42 | [Pyrex](http://twitter.com/search?q=Pyrex) | N/A |
-| 43 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
-| 44 | [Hogan](http://twitter.com/search?q=Hogan) | N/A |
-| 45 | [Ryan Blaney](http://twitter.com/search?q=Ryan+Blaney) | N/A |
-| 46 | [Christopher Fitzgerald](http://twitter.com/search?q=Christopher+Fitzgerald) | N/A |
-| 47 | [First Sunday](http://twitter.com/search?q=First+Sunday) | N/A |
+| 1 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
+| 2 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 3 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 4 | [#XFL2023](http://twitter.com/search?q=%23XFL2023) | N/A |
+| 5 | [Californians](http://twitter.com/search?q=Californians) | N/A |
+| 6 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
+| 7 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 8 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 9 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 10 | [#ECNLHOU](http://twitter.com/search?q=%23ECNLHOU) | N/A |
+| 11 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 12 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
+| 13 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 14 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 15 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 16 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 17 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 18 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 19 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
+| 20 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 21 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
+| 22 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
+| 23 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
+| 24 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
+| 25 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 26 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 27 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
+| 28 | [Truex](http://twitter.com/search?q=Truex) | N/A |
+| 29 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 30 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
+| 31 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 32 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 33 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 34 | [Jarkel Joiner](http://twitter.com/search?q=Jarkel+Joiner) | N/A |
+| 35 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 36 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 37 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
+| 38 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
+| 39 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 40 | [Battlehawks](http://twitter.com/search?q=Battlehawks) | N/A |
+| 41 | [Ty Dillon](http://twitter.com/search?q=Ty+Dillon) | N/A |
+| 42 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 43 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 44 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 45 | [Brad Keselowski](http://twitter.com/search?q=Brad+Keselowski) | N/A |
+| 46 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 47 | [Jack Coan](http://twitter.com/search?q=Jack+Coan) | N/A |
 
 
 

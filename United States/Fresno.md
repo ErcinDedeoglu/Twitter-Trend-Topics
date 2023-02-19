@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-02-19 20:16:39 UTC`
+📆 Last Updated: `2023-02-19 21:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jodie](http://twitter.com/search?q=Jodie) | N/A |
-| 2 | [#BPS2023](http://twitter.com/search?q=%23BPS2023) | N/A |
-| 3 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 4 | [Manny](http://twitter.com/search?q=Manny) | N/A |
-| 5 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 6 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 7 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
-| 8 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 9 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 10 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 11 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
-| 12 | [#NASCAR75](http://twitter.com/search?q=%23NASCAR75) | N/A |
-| 13 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 14 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 15 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
-| 16 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
-| 17 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 18 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
-| 19 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 20 | [Jarkel Joiner](http://twitter.com/search?q=Jarkel+Joiner) | N/A |
-| 21 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
-| 22 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 1 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 2 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 3 | [#BPS2023](http://twitter.com/search?q=%23BPS2023) | N/A |
+| 4 | [Jodie](http://twitter.com/search?q=Jodie) | N/A |
+| 5 | [Carter](http://twitter.com/search?q=Carter) | N/A |
+| 6 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 7 | [Manny](http://twitter.com/search?q=Manny) | N/A |
+| 8 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 9 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 10 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 11 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
+| 12 | [#Busch401K](http://twitter.com/search?q=%23Busch401K) | N/A |
+| 13 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 14 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 15 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 16 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 17 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 18 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
+| 19 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
+| 20 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 21 | [Hubert Davis](http://twitter.com/search?q=Hubert+Davis) | N/A |
+| 22 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
 | 23 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 24 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 25 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
-| 26 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 27 | [Joe Lunardi](http://twitter.com/search?q=Joe+Lunardi) | N/A |
-| 28 | [DJ Burns](http://twitter.com/search?q=DJ+Burns) | DJ Burns is a stage name used by a professional DJ and music producer from the United Kingdom. The name is derived from the phrase "burns the decks," which is a term used to describe an intense, energetic style of mixing and scratching records. |
-| 29 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 30 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 31 | [TV Teddy](http://twitter.com/search?q=TV+Teddy) | N/A |
-| 32 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
-| 33 | [Meta Verified](http://twitter.com/search?q=Meta+Verified) | N/A |
-| 34 | [Joey Logano](http://twitter.com/search?q=Joey+Logano) | N/A |
-| 35 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 36 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 37 | [Zeller](http://twitter.com/search?q=Zeller) | N/A |
-| 38 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 39 | [Cigarettes](http://twitter.com/search?q=Cigarettes) | N/A |
-| 40 | [Street](http://twitter.com/search?q=Street) | N/A |
-| 41 | [Michael Waltrip](http://twitter.com/search?q=Michael+Waltrip) | N/A |
-| 42 | [Wolfpack](http://twitter.com/search?q=Wolfpack) | N/A |
-| 43 | [Pyrex](http://twitter.com/search?q=Pyrex) | N/A |
-| 44 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
-| 45 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 46 | [Christopher Fitzgerald](http://twitter.com/search?q=Christopher+Fitzgerald) | N/A |
-| 47 | [First Sunday](http://twitter.com/search?q=First+Sunday) | N/A |
-| 48 | [Hogan](http://twitter.com/search?q=Hogan) | N/A |
-| 49 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 24 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
+| 25 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 26 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 27 | [Truex](http://twitter.com/search?q=Truex) | N/A |
+| 28 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
+| 29 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 30 | [Bubba Wallace](http://twitter.com/search?q=Bubba+Wallace) | N/A |
+| 31 | [Pete Nance](http://twitter.com/search?q=Pete+Nance) | N/A |
+| 32 | [Caleb Love](http://twitter.com/search?q=Caleb+Love) | Caleb Love is a phrase that is used to express love and affection for someone. It is derived from the biblical figure Caleb, who was known for his loyalty and faithfulness. In English, it can be used as a term of endearment or to express admiration for someone. |
+| 33 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 34 | [Jarkel Joiner](http://twitter.com/search?q=Jarkel+Joiner) | N/A |
+| 35 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 36 | [Stage 1](http://twitter.com/search?q=Stage+1) | N/A |
+| 37 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 38 | [Tar Heels](http://twitter.com/search?q=Tar+Heels) | N/A |
+| 39 | [Jonathan Toews](http://twitter.com/search?q=Jonathan+Toews) | N/A |
+| 40 | [Tom Sizemore](http://twitter.com/search?q=Tom+Sizemore) | N/A |
+| 41 | [Battlehawks](http://twitter.com/search?q=Battlehawks) | N/A |
+| 42 | [Brad Keselowski](http://twitter.com/search?q=Brad+Keselowski) | N/A |
+| 43 | [Ty Dillon](http://twitter.com/search?q=Ty+Dillon) | N/A |
+| 44 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 45 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 46 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
+| 47 | [Jack Coan](http://twitter.com/search?q=Jack+Coan) | N/A |
+| 48 | [Roc Riggio](http://twitter.com/search?q=Roc+Riggio) | N/A |
+| 49 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
 
 
 
