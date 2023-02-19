@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-19 11:15:42 UTC`
+📆 Last Updated: `2023-02-19 12:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 2 | [#MIKFESTIVAL](http://twitter.com/search?q=%23MIKFESTIVAL) | N/A |
+| 1 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
+| 2 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
 | 3 | [#PSGxParionsSport](http://twitter.com/search?q=%23PSGxParionsSport) | N/A |
-| 4 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 5 | [La Défense](http://twitter.com/search?q=La+D%c3%a9fense) | N/A |
-| 6 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
-| 7 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 4 | [#MIKFESTIVAL](http://twitter.com/search?q=%23MIKFESTIVAL) | N/A |
+| 5 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 6 | [La Défense](http://twitter.com/search?q=La+D%c3%a9fense) | N/A |
+| 7 | [Allez Paris](http://twitter.com/search?q=Allez+Paris) | N/A |
 | 8 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 9 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 10 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
-| 11 | [Vincent Cassel](http://twitter.com/search?q=Vincent+Cassel) | N/A |
-| 12 | [ODEGAARD](http://twitter.com/search?q=ODEGAARD) | N/A |
-| 13 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
-| 14 | [L'alcool](http://twitter.com/search?q=L%27alcool) | N/A |
-| 15 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
-| 16 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 17 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 18 | [ALVARO](http://twitter.com/search?q=ALVARO) | N/A |
-| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 20 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
-| 21 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 22 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
-| 23 | [Jeanne Moreau](http://twitter.com/search?q=Jeanne+Moreau) | N/A |
+| 10 | [Vincent Cassel](http://twitter.com/search?q=Vincent+Cassel) | N/A |
+| 11 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
+| 12 | [Ciotti](http://twitter.com/search?q=Ciotti) | N/A |
+| 13 | [Allez Lille](http://twitter.com/search?q=Allez+Lille) | N/A |
+| 14 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 15 | [Marseillaise](http://twitter.com/search?q=Marseillaise) | N/A |
+| 16 | [Darmanin](http://twitter.com/search?q=Darmanin) | N/A |
+| 17 | [ALVARO](http://twitter.com/search?q=ALVARO) | N/A |
+| 18 | [Hamza](http://twitter.com/search?q=Hamza) | Hamza is an Arabic name meaning "strong". It is also a common surname in the Middle East and North Africa. |
+| 19 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 20 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 21 | [Zinchenko](http://twitter.com/search?q=Zinchenko) | Zinchenko is a Russian surname derived from the word "zinchen", which means "little one". It is a patronymic name, meaning it is derived from the given name of a father or ancestor. In English, it can be translated to mean "son of Zincha". |
+| 22 | [L'alcool](http://twitter.com/search?q=L%27alcool) | N/A |
+| 23 | [Weah](http://twitter.com/search?q=Weah) | N/A |
 | 24 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
-| 25 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
-| 26 | [Pradié](http://twitter.com/search?q=Pradi%c3%a9) | N/A |
-| 27 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 28 | [Sarkozy](http://twitter.com/search?q=Sarkozy) | N/A |
-| 29 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 25 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
+| 26 | [NUPES](http://twitter.com/search?q=NUPES) | N/A |
+| 27 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 28 | [Pradié](http://twitter.com/search?q=Pradi%c3%a9) | N/A |
+| 29 | [Jeanne Moreau](http://twitter.com/search?q=Jeanne+Moreau) | N/A |
 | 30 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 31 | [Javier Ribalta](http://twitter.com/search?q=Javier+Ribalta) | N/A |
-| 32 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
-| 33 | [Guts](http://twitter.com/search?q=Guts) | N/A |
-| 34 | [Ward Prowse](http://twitter.com/search?q=Ward+Prowse) | N/A |
+| 31 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 32 | [Bon Dimanche](http://twitter.com/search?q=Bon+Dimanche) | N/A |
+| 33 | [Ward Prowse](http://twitter.com/search?q=Ward+Prowse) | N/A |
+| 34 | [Guts](http://twitter.com/search?q=Guts) | N/A |
 | 35 | [Chungha](http://twitter.com/search?q=Chungha) | N/A |
-| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 37 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
-| 38 | [JOUR DE MATCH](http://twitter.com/search?q=JOUR+DE+MATCH) | N/A |
-| 39 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 36 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
+| 37 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 38 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 39 | [Les 3](http://twitter.com/search?q=Les+3) | N/A |
 | 40 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 41 | [Authy](http://twitter.com/search?q=Authy) | N/A |
-| 42 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 43 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 44 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 45 | [Les 3](http://twitter.com/search?q=Les+3) | N/A |
-| 46 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 47 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
-| 48 | [Circonvolution](http://twitter.com/search?q=Circonvolution) | N/A |
-| 49 | [Pléiade](http://twitter.com/search?q=Pl%c3%a9iade) | N/A |
-| 50 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 42 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 43 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 44 | [Pléiade](http://twitter.com/search?q=Pl%c3%a9iade) | N/A |
+| 45 | [Epik High](http://twitter.com/search?q=Epik+High) | N/A |
+| 46 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 47 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 48 | [Kard](http://twitter.com/search?q=Kard) | N/A |
+| 49 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 50 | [Kamara](http://twitter.com/search?q=Kamara) | Kamara is a female given name of African origin, derived from the Igbo language. It means “moon” in English. |
 
 
 

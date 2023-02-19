@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-02-19 11:15:50 UTC`
+📆 Last Updated: `2023-02-19 12:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
 | 2 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
 | 3 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 4 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
-| 5 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 6 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 7 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 8 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 9 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 10 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 11 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 12 | [#AUSvESP](http://twitter.com/search?q=%23AUSvESP) | N/A |
-| 13 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 14 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 15 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 16 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 17 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 18 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
-| 19 | [Langer](http://twitter.com/search?q=Langer) | N/A |
-| 20 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 21 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 22 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 23 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 24 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 25 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 5 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 6 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 7 | [#AUSvESP](http://twitter.com/search?q=%23AUSvESP) | N/A |
+| 8 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 9 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 10 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 11 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 12 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 13 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 14 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 15 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
+| 16 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 17 | [Langer](http://twitter.com/search?q=Langer) | N/A |
+| 18 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 19 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 20 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 21 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 22 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 23 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 24 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
+| 25 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
 | 26 | [Fair Day](http://twitter.com/search?q=Fair+Day) | N/A |
-| 27 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 28 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 29 | [Samantha Maiden](http://twitter.com/search?q=Samantha+Maiden) | N/A |
-| 30 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 31 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 32 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 33 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 34 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 35 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
-| 36 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 37 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 38 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
-| 39 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 40 | [Barry](http://twitter.com/search?q=Barry) | N/A |
-| 41 | [Ginnivan](http://twitter.com/search?q=Ginnivan) | N/A |
-| 42 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
-| 43 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
-| 44 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 45 | [Toast](http://twitter.com/search?q=Toast) | N/A |
-| 46 | [Vine](http://twitter.com/search?q=Vine) | N/A |
-| 47 | [Piper](http://twitter.com/search?q=Piper) | N/A |
-| 48 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
-| 49 | [Dana Morse](http://twitter.com/search?q=Dana+Morse) | N/A |
-| 50 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 27 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 28 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 29 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 30 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
+| 31 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 32 | [Samantha Maiden](http://twitter.com/search?q=Samantha+Maiden) | N/A |
+| 33 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 34 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
+| 35 | [Penrith](http://twitter.com/search?q=Penrith) | N/A |
+| 36 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 37 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 38 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 39 | [Ginnivan](http://twitter.com/search?q=Ginnivan) | N/A |
+| 40 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 41 | [Toast](http://twitter.com/search?q=Toast) | N/A |
+| 42 | [Vine](http://twitter.com/search?q=Vine) | N/A |
+| 43 | [Ashes](http://twitter.com/search?q=Ashes) | N/A |
+| 44 | [Leigh Sales](http://twitter.com/search?q=Leigh+Sales) | N/A |
+| 45 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 46 | [Murdoch](http://twitter.com/search?q=Murdoch) | N/A |
+| 47 | [Barry](http://twitter.com/search?q=Barry) | N/A |
+| 48 | [Dana Morse](http://twitter.com/search?q=Dana+Morse) | N/A |
+| 49 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
+| 50 | [Heroes](http://twitter.com/search?q=Heroes) | N/A |
 
 
 

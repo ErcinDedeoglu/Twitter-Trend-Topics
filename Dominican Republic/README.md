@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-19 11:16:18 UTC`
+📆 Last Updated: `2023-02-19 12:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Dominican Republic
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cristo Rey](http://twitter.com/search?q=Cristo+Rey) | N/A |
+| 1 | [cristo rey](http://twitter.com/search?q=cristo+rey) | N/A |
 | 2 | [Mapache](http://twitter.com/search?q=Mapache) | N/A |
 | 3 | [Rauw](http://twitter.com/search?q=Rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not cooked, or something that is unfinished or unpolished. |
 | 4 | [oportunidad 14-24](http://twitter.com/search?q=oportunidad+14-24) | N/A |
@@ -25,46 +25,46 @@ This is top 50 for Dominican Republic
 | 8 | [día nacional del estudiante](http://twitter.com/search?q=d%c3%ada+nacional+del+estudiante) | N/A |
 | 9 | [Homs](http://twitter.com/search?q=Homs) | N/A |
 | 10 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 11 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 12 | [El Señor](http://twitter.com/search?q=El+Se%c3%b1or) | N/A |
+| 11 | [El Señor](http://twitter.com/search?q=El+Se%c3%b1or) | N/A |
+| 12 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
 | 13 | [#SLAMDUNK](http://twitter.com/search?q=%23SLAMDUNK) | N/A |
-| 14 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
+| 14 | [#TikTok](http://twitter.com/search?q=%23TikTok) | N/A |
 | 15 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 16 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
-| 17 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 18 | [cultura profética](http://twitter.com/search?q=cultura+prof%c3%a9tica) | N/A |
-| 19 | [john kelly martínez](http://twitter.com/search?q=john+kelly+mart%c3%adnez) | N/A |
-| 20 | [angel dior](http://twitter.com/search?q=angel+dior) | N/A |
-| 21 | [faride](http://twitter.com/search?q=faride) | N/A |
-| 22 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 16 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 17 | [cultura profética](http://twitter.com/search?q=cultura+prof%c3%a9tica) | N/A |
+| 18 | [john kelly martínez](http://twitter.com/search?q=john+kelly+mart%c3%adnez) | N/A |
+| 19 | [faride](http://twitter.com/search?q=faride) | N/A |
+| 20 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 21 | [Esmeralda](http://twitter.com/search?q=Esmeralda) | N/A |
+| 22 | [Angel Dior](http://twitter.com/search?q=Angel+Dior) | N/A |
 | 23 | [wason](http://twitter.com/search?q=wason) | N/A |
 | 24 | [#díadelestudiante](http://twitter.com/search?q=%23d%c3%adadelestudiante) | N/A |
-| 25 | [#seguimoscreciendo](http://twitter.com/search?q=%23seguimoscreciendo) | N/A |
-| 26 | [San Diego](http://twitter.com/search?q=San+Diego) | San Diego is a city in California, United States. It is located on the coast of the Pacific Ocean and is known for its mild climate, beaches, and natural deep-water harbor. The name San Diego is Spanish for "Saint Didacus," a Spanish saint who was born in the area. |
-| 27 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
-| 28 | [Yadira](http://twitter.com/search?q=Yadira) | N/A |
-| 29 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 30 | [Catalina](http://twitter.com/search?q=Catalina) | N/A |
-| 31 | [clayton kershaw](http://twitter.com/search?q=clayton+kershaw) | N/A |
-| 32 | [omar fernández](http://twitter.com/search?q=omar+fern%c3%a1ndez) | N/A |
+| 25 | [San Diego](http://twitter.com/search?q=San+Diego) | San Diego is a city in California, United States. It is located on the coast of the Pacific Ocean and is known for its mild climate, beaches, and natural deep-water harbor. The name San Diego is Spanish for "Saint Didacus," a Spanish saint who was born in the area. |
+| 26 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
+| 27 | [Yadira](http://twitter.com/search?q=Yadira) | N/A |
+| 28 | [Catalina](http://twitter.com/search?q=Catalina) | N/A |
+| 29 | [clayton kershaw](http://twitter.com/search?q=clayton+kershaw) | N/A |
+| 30 | [Tolentino](http://twitter.com/search?q=Tolentino) | N/A |
+| 31 | [omar fernández](http://twitter.com/search?q=omar+fern%c3%a1ndez) | N/A |
+| 32 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 33 | [Wattpad](http://twitter.com/search?q=Wattpad) | N/A |
 | 34 | [hot entra](http://twitter.com/search?q=hot+entra) | N/A |
 | 35 | [new contenido](http://twitter.com/search?q=new+contenido) | N/A |
 | 36 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 37 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 38 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 39 | [José Ramírez](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%adrez) | N/A |
-| 40 | [braulio](http://twitter.com/search?q=braulio) | N/A |
+| 37 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 38 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 39 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
+| 40 | [José Ramírez](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%adrez) | N/A |
 | 41 | [Michael Jordan](http://twitter.com/search?q=Michael+Jordan) | N/A |
 | 42 | [Bruce Willis](http://twitter.com/search?q=Bruce+Willis) | N/A |
-| 43 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 44 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 45 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 46 | [rafael paz](http://twitter.com/search?q=rafael+paz) | N/A |
-| 47 | [María](http://twitter.com/search?q=Mar%c3%ada) | N/A |
-| 48 | [Satanás](http://twitter.com/search?q=Satan%c3%a1s) | N/A |
-| 49 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
-| 50 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 43 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 44 | [rafael paz](http://twitter.com/search?q=rafael+paz) | N/A |
+| 45 | [María](http://twitter.com/search?q=Mar%c3%ada) | N/A |
+| 46 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 47 | [Satanás](http://twitter.com/search?q=Satan%c3%a1s) | N/A |
+| 48 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 49 | [Pablo](http://twitter.com/search?q=Pablo) | N/A |
+| 50 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
 
 
 

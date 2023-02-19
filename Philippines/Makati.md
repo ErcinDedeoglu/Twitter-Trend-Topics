@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-02-19 11:15:55 UTC`
+📆 Last Updated: `2023-02-19 12:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,52 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 2 | [#AnjiSalvacion](http://twitter.com/search?q=%23AnjiSalvacion) | N/A |
-| 3 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
-| 4 | [#JoshCullenTeaserPhoto](http://twitter.com/search?q=%23JoshCullenTeaserPhoto) | N/A |
-| 5 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
-| 6 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
-| 7 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
-| 8 | [#ChowFanaloTakeover](http://twitter.com/search?q=%23ChowFanaloTakeover) | N/A |
-| 9 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
+| 2 | [#JoshCullenTeaserPhoto](http://twitter.com/search?q=%23JoshCullenTeaserPhoto) | N/A |
+| 3 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
+| 4 | [#askbarbie](http://twitter.com/search?q=%23askbarbie) | N/A |
+| 5 | [#WishDateFalling](http://twitter.com/search?q=%23WishDateFalling) | N/A |
+| 6 | [#EverybodySingLove](http://twitter.com/search?q=%23EverybodySingLove) | N/A |
+| 7 | [#TheClashHindiSusuko](http://twitter.com/search?q=%23TheClashHindiSusuko) | N/A |
+| 8 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
+| 9 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
 | 10 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 11 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 12 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 13 | [jisung](http://twitter.com/search?q=jisung) | N/A |
-| 14 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 15 | [DEAR DREAM](http://twitter.com/search?q=DEAR+DREAM) | N/A |
-| 16 | [PIEwer VOTE FOR ANJI](http://twitter.com/search?q=PIEwer+VOTE+FOR+ANJI) | N/A |
-| 17 | [ZACHAM PieGalingan SaEPL](http://twitter.com/search?q=ZACHAM+PieGalingan+SaEPL) | N/A |
-| 18 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 12 | [Dear Dream](http://twitter.com/search?q=Dear+Dream) | N/A |
+| 13 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 14 | [PIEwer VOTE FOR ANJI](http://twitter.com/search?q=PIEwer+VOTE+FOR+ANJI) | N/A |
+| 15 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 16 | [ZACHAM PieGalingan SaEPL](http://twitter.com/search?q=ZACHAM+PieGalingan+SaEPL) | N/A |
+| 17 | [jisung](http://twitter.com/search?q=jisung) | N/A |
+| 18 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
 | 19 | [WARLIO OFFICIAL COUPLE NA](http://twitter.com/search?q=WARLIO+OFFICIAL+COUPLE+NA) | N/A |
-| 20 | [jeno](http://twitter.com/search?q=jeno) | N/A |
-| 21 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
-| 22 | [CONGRATULATIONS BSS](http://twitter.com/search?q=CONGRATULATIONS+BSS) | N/A |
-| 23 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
-| 24 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
-| 25 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 26 | [Ni-ki](http://twitter.com/search?q=Ni-ki) | N/A |
-| 27 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
-| 28 | [yoon](http://twitter.com/search?q=yoon) | N/A |
-| 29 | [ALAM BY SARAHGxJROA](http://twitter.com/search?q=ALAM+BY+SARAHGxJROA) | N/A |
-| 30 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 31 | [#BGYOxChowking](http://twitter.com/search?q=%23BGYOxChowking) | N/A |
-| 32 | [#BSS5thWin](http://twitter.com/search?q=%23BSS5thWin) | N/A |
-| 33 | [#부석순_인기가요_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%b8%ea%b8%b0%ea%b0%80%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 34 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
-| 35 | [#RSGH2WO](http://twitter.com/search?q=%23RSGH2WO) | N/A |
-| 36 | [#GGRSG](http://twitter.com/search?q=%23GGRSG) | N/A |
+| 20 | [chenle](http://twitter.com/search?q=chenle) | Chenle is a Chinese given name, derived from the characters 陈 (chén) meaning "to exhibit" and 乐 (lè) meaning "happiness". In English, it can be translated to mean "happy exhibition". |
+| 21 | [g22 anniversary comeback](http://twitter.com/search?q=g22+anniversary+comeback) | N/A |
+| 22 | [jeno](http://twitter.com/search?q=jeno) | N/A |
+| 23 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 24 | [NI-KI](http://twitter.com/search?q=NI-KI) | N/A |
+| 25 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
+| 26 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 27 | [#TeamVinciGlobalLaunch](http://twitter.com/search?q=%23TeamVinciGlobalLaunch) | N/A |
+| 28 | [#ChowFanaloTakeover](http://twitter.com/search?q=%23ChowFanaloTakeover) | N/A |
+| 29 | [#BGYOxChowking](http://twitter.com/search?q=%23BGYOxChowking) | N/A |
+| 30 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
+| 31 | [#BelleMariano](http://twitter.com/search?q=%23BelleMariano) | N/A |
+| 32 | [#PARKJINYOUNGinMNL2023](http://twitter.com/search?q=%23PARKJINYOUNGinMNL2023) | N/A |
+| 33 | [#BSS5thWin](http://twitter.com/search?q=%23BSS5thWin) | N/A |
+| 34 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
+| 35 | [#weareoneEXO](http://twitter.com/search?q=%23weareoneEXO) | N/A |
+| 36 | [#부석순_인기가요_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%b8%ea%b8%b0%ea%b0%80%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 37 | [#MNL48onJapanFiestaD2](http://twitter.com/search?q=%23MNL48onJapanFiestaD2) | N/A |
-| 38 | [#STELLJUN](http://twitter.com/search?q=%23STELLJUN) | N/A |
-| 39 | [#T1WIN](http://twitter.com/search?q=%23T1WIN) | N/A |
-| 40 | [#WestlifeAtTheBigDome](http://twitter.com/search?q=%23WestlifeAtTheBigDome) | N/A |
-| 41 | [#ATINKuharili](http://twitter.com/search?q=%23ATINKuharili) | N/A |
-| 42 | [#MakeItGreat](http://twitter.com/search?q=%23MakeItGreat) | N/A |
-| 43 | [#PizzaHutPH](http://twitter.com/search?q=%23PizzaHutPH) | N/A |
-| 44 | [#2023_웬디데이_파티](http://twitter.com/search?q=%232023_%ec%9b%ac%eb%94%94%eb%8d%b0%ec%9d%b4_%ed%8c%8c%ed%8b%b0) | N/A |
-| 45 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
-| 46 | [#ToInfini3WithVINCI](http://twitter.com/search?q=%23ToInfini3WithVINCI) | N/A |
-| 47 | [#BurberryxBright](http://twitter.com/search?q=%23BurberryxBright) | N/A |
-| 48 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
+| 38 | [#boycottebxgma711](http://twitter.com/search?q=%23boycottebxgma711) | N/A |
+| 39 | [#ATINKuharili](http://twitter.com/search?q=%23ATINKuharili) | N/A |
+| 40 | [#AndreaBrillantes](http://twitter.com/search?q=%23AndreaBrillantes) | N/A |
+| 41 | [#G22_AnnivCB](http://twitter.com/search?q=%23G22_AnnivCB) | N/A |
+| 42 | [#2023_웬디데이_파티](http://twitter.com/search?q=%232023_%ec%9b%ac%eb%94%94%eb%8d%b0%ec%9d%b4_%ed%8c%8c%ed%8b%b0) | N/A |
+| 43 | [#STELLJUN](http://twitter.com/search?q=%23STELLJUN) | N/A |
+| 44 | [#ToInfini3WithVINCI](http://twitter.com/search?q=%23ToInfini3WithVINCI) | N/A |
+| 45 | [#BurberryxBright](http://twitter.com/search?q=%23BurberryxBright) | N/A |
+| 46 | [#KKPanniXVersary](http://twitter.com/search?q=%23KKPanniXVersary) | N/A |
+| 47 | [#SarahGeronimo](http://twitter.com/search?q=%23SarahGeronimo) | N/A |
 
 
 

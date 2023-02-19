@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-19 11:15:30 UTC`
+📆 Last Updated: `2023-02-19 12:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
-| 2 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 3 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 4 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
-| 5 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
-| 6 | [Hash](http://twitter.com/search?q=Hash) | N/A |
-| 7 | [#SundayShare](http://twitter.com/search?q=%23SundayShare) | N/A |
-| 8 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 9 | [#Ridge](http://twitter.com/search?q=%23Ridge) | N/A |
-| 10 | [Fried](http://twitter.com/search?q=Fried) | N/A |
-| 11 | [Happy 2nd](http://twitter.com/search?q=Happy+2nd) | N/A |
-| 12 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 13 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
-| 14 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
-| 15 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 16 | [Beans](http://twitter.com/search?q=Beans) | N/A |
-| 17 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 18 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
-| 19 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 20 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
-| 21 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
-| 22 | [Morrisons](http://twitter.com/search?q=Morrisons) | N/A |
-| 23 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
-| 24 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
-| 25 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
-| 26 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
-| 27 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 28 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 29 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 30 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 31 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
-| 32 | [Refugees](http://twitter.com/search?q=Refugees) | N/A |
-| 33 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
-| 34 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 35 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 36 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 2 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
+| 3 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
+| 4 | [Hash](http://twitter.com/search?q=Hash) | N/A |
+| 5 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 6 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
+| 7 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 8 | [#SundayShare](http://twitter.com/search?q=%23SundayShare) | N/A |
+| 9 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 10 | [Leyton Orient](http://twitter.com/search?q=Leyton+Orient) | N/A |
+| 11 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 12 | [#SundayBrunch](http://twitter.com/search?q=%23SundayBrunch) | N/A |
+| 13 | [Fried](http://twitter.com/search?q=Fried) | N/A |
+| 14 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 15 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
+| 16 | [Happy 2nd](http://twitter.com/search?q=Happy+2nd) | N/A |
+| 17 | [Beans](http://twitter.com/search?q=Beans) | N/A |
+| 18 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 19 | [Wendy Morton](http://twitter.com/search?q=Wendy+Morton) | N/A |
+| 20 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
+| 21 | [Stephen Flynn](http://twitter.com/search?q=Stephen+Flynn) | N/A |
+| 22 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 23 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
+| 24 | [Refugees](http://twitter.com/search?q=Refugees) | N/A |
+| 25 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 26 | [Laurie](http://twitter.com/search?q=Laurie) | N/A |
+| 27 | [Stevenage](http://twitter.com/search?q=Stevenage) | Stevenage is a town in Hertfordshire, England. It is located about 30 miles north of London and is part of the Greater London Urban Area. The name Stevenage comes from the Old English words stiþen (meaning "stony") and age (meaning "place"). |
+| 28 | [Yvette Cooper](http://twitter.com/search?q=Yvette+Cooper) | N/A |
+| 29 | [Damascus](http://twitter.com/search?q=Damascus) | N/A |
+| 30 | [Lidl](http://twitter.com/search?q=Lidl) | N/A |
+| 31 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 32 | [Petronella](http://twitter.com/search?q=Petronella) | N/A |
+| 33 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 34 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 35 | [Diane Abbott](http://twitter.com/search?q=Diane+Abbott) | N/A |
+| 36 | [Irish Sea](http://twitter.com/search?q=Irish+Sea) | N/A |
 | 37 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 38 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 39 | [Sainsbury](http://twitter.com/search?q=Sainsbury) | N/A |
-| 40 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
-| 41 | [Aussies](http://twitter.com/search?q=Aussies) | N/A |
-| 42 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 43 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 44 | [Seamus](http://twitter.com/search?q=Seamus) | N/A |
-| 45 | [Orta](http://twitter.com/search?q=Orta) | N/A |
-| 46 | [Ben Davison](http://twitter.com/search?q=Ben+Davison) | N/A |
-| 47 | [#ASongOrMovieForCopying](http://twitter.com/search?q=%23ASongOrMovieForCopying) | N/A |
-| 48 | [#sundaybrunch](http://twitter.com/search?q=%23sundaybrunch) | N/A |
-| 49 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 38 | [Morrisons](http://twitter.com/search?q=Morrisons) | N/A |
+| 39 | [Thousands](http://twitter.com/search?q=Thousands) | N/A |
+| 40 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 41 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 42 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 43 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 44 | [Lammy](http://twitter.com/search?q=Lammy) | N/A |
+| 45 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 46 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 47 | [Sainsbury](http://twitter.com/search?q=Sainsbury) | N/A |
+| 48 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 49 | [Forbes](http://twitter.com/search?q=Forbes) | N/A |
 
 
 
