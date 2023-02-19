@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-19 17:17:14 UTC`
+📆 Last Updated: `2023-02-19 18:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,44 +20,44 @@ This is top 50 for Germany
 | 3 | [#FCUS04](http://twitter.com/search?q=%23FCUS04) | N/A |
 | 4 | [Adeyemi](http://twitter.com/search?q=Adeyemi) | N/A |
 | 5 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 6 | [Auslosung](http://twitter.com/search?q=Auslosung) | N/A |
-| 7 | [#HSVDSC](http://twitter.com/search?q=%23HSVDSC) | N/A |
-| 8 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 9 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
-| 10 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
-| 11 | [Malen](http://twitter.com/search?q=Malen) | N/A |
-| 12 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
-| 13 | [Heimspiel](http://twitter.com/search?q=Heimspiel) | N/A |
-| 14 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 15 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 16 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 17 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
-| 18 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
-| 19 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 20 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 21 | [Morde](http://twitter.com/search?q=Morde) | N/A |
-| 22 | [Atombomben](http://twitter.com/search?q=Atombomben) | N/A |
-| 23 | [Meister](http://twitter.com/search?q=Meister) | N/A |
-| 24 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 25 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 26 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 27 | [Kroatien](http://twitter.com/search?q=Kroatien) | N/A |
-| 28 | [Einzelfälle](http://twitter.com/search?q=Einzelf%c3%a4lle) | N/A |
-| 29 | [Stürmer](http://twitter.com/search?q=St%c3%bcrmer) | N/A |
-| 30 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
-| 31 | [Migrationspolitik](http://twitter.com/search?q=Migrationspolitik) | N/A |
-| 32 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 33 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
-| 34 | [#FCHFCN](http://twitter.com/search?q=%23FCHFCN) | N/A |
-| 35 | [#saytheirnames](http://twitter.com/search?q=%23saytheirnames) | N/A |
-| 36 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
-| 37 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
-| 38 | [#360Grad](http://twitter.com/search?q=%23360Grad) | N/A |
-| 39 | [#SVSKSC](http://twitter.com/search?q=%23SVSKSC) | N/A |
-| 40 | [#dopa](http://twitter.com/search?q=%23dopa) | N/A |
-| 41 | [#nurderHSV](http://twitter.com/search?q=%23nurderHSV) | N/A |
-| 42 | [#arminia](http://twitter.com/search?q=%23arminia) | N/A |
-| 43 | [#biathlon](http://twitter.com/search?q=%23biathlon) | N/A |
+| 6 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 7 | [#B04M05](http://twitter.com/search?q=%23B04M05) | N/A |
+| 8 | [Auslosung](http://twitter.com/search?q=Auslosung) | N/A |
+| 9 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 10 | [Reus](http://twitter.com/search?q=Reus) | N/A |
+| 11 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 12 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 13 | [Nürnberg](http://twitter.com/search?q=N%c3%bcrnberg) | N/A |
+| 14 | [Halbfinale](http://twitter.com/search?q=Halbfinale) | N/A |
+| 15 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 16 | [Tore](http://twitter.com/search?q=Tore) | N/A |
+| 17 | [Heimspiel](http://twitter.com/search?q=Heimspiel) | N/A |
+| 18 | [Malen](http://twitter.com/search?q=Malen) | N/A |
+| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 20 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
+| 21 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 22 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
+| 23 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 24 | [Morde](http://twitter.com/search?q=Morde) | N/A |
+| 25 | [Patrioten](http://twitter.com/search?q=Patrioten) | N/A |
+| 26 | [Atombomben](http://twitter.com/search?q=Atombomben) | N/A |
+| 27 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 28 | [Trikots](http://twitter.com/search?q=Trikots) | N/A |
+| 29 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 30 | [Meister](http://twitter.com/search?q=Meister) | N/A |
+| 31 | [Kroatien](http://twitter.com/search?q=Kroatien) | N/A |
+| 32 | [Einzelfälle](http://twitter.com/search?q=Einzelf%c3%a4lle) | N/A |
+| 33 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 34 | [#DAZN](http://twitter.com/search?q=%23DAZN) | #DAZN is a streaming service for live sports. It stands for Digital Access Zone Network and is available in several countries around the world. It allows users to watch live sports events, including football, boxing, tennis, and more. |
+| 35 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
+| 36 | [#HSVDSC](http://twitter.com/search?q=%23HSVDSC) | N/A |
+| 37 | [#saytheirnames](http://twitter.com/search?q=%23saytheirnames) | N/A |
+| 38 | [#FCHFCN](http://twitter.com/search?q=%23FCHFCN) | N/A |
+| 39 | [#360Grad](http://twitter.com/search?q=%23360Grad) | N/A |
+| 40 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
+| 41 | [#SVSKSC](http://twitter.com/search?q=%23SVSKSC) | N/A |
+| 42 | [#tsv1860](http://twitter.com/search?q=%23tsv1860) | N/A |
+| 43 | [#nurderHSV](http://twitter.com/search?q=%23nurderHSV) | N/A |
 
 
 

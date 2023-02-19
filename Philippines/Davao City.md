@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-19 17:16:47 UTC`
+📆 Last Updated: `2023-02-19 18:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,44 +24,44 @@ This is top 50 for [Philippines](</Philippines>)
 | 7 | [allforone asapwithbelle](http://twitter.com/search?q=allforone+asapwithbelle) | N/A |
 | 8 | [HAPPY 8200TH DAYS](http://twitter.com/search?q=HAPPY+8200TH+DAYS) | N/A |
 | 9 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
-| 10 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
-| 11 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
-| 12 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 14 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 15 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
-| 16 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
-| 17 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
-| 18 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 10 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 11 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 12 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 13 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
+| 14 | [myla pablo](http://twitter.com/search?q=myla+pablo) | N/A |
+| 15 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 16 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 17 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
+| 18 | [EUNCHAE KIRSH MODEL](http://twitter.com/search?q=EUNCHAE+KIRSH+MODEL) | N/A |
 | 19 | [piewer vote for anji](http://twitter.com/search?q=piewer+vote+for+anji) | N/A |
 | 20 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 21 | [EUNCHAE KIRSH MODEL](http://twitter.com/search?q=EUNCHAE+KIRSH+MODEL) | N/A |
-| 22 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 23 | [alam by sarahgxjroa](http://twitter.com/search?q=alam+by+sarahgxjroa) | N/A |
+| 21 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 22 | [alam by sarahgxjroa](http://twitter.com/search?q=alam+by+sarahgxjroa) | N/A |
+| 23 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
 | 24 | [walang aray sa kdlex](http://twitter.com/search?q=walang+aray+sa+kdlex) | N/A |
-| 25 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
-| 26 | [jihyo](http://twitter.com/search?q=jihyo) | Jihyo is a Korean given name, usually for females. It is composed of two characters, the first meaning "wisdom" and the second meaning "beauty". In English, it can be translated to mean "wise beauty". |
-| 27 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
-| 28 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 29 | [TWICE THE MOVIE](http://twitter.com/search?q=TWICE+THE+MOVIE) | N/A |
-| 30 | [zacham piegalingan saepl](http://twitter.com/search?q=zacham+piegalingan+saepl) | N/A |
-| 31 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 32 | [sundrei goodvibes](http://twitter.com/search?q=sundrei+goodvibes) | N/A |
+| 25 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
+| 26 | [tzuyu](http://twitter.com/search?q=tzuyu) | Tzuyu is a Taiwanese singer and member of the K-pop girl group Twice. Her name is derived from the Taiwanese phrase "tzyu yu," which means "the most beautiful." |
+| 27 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 28 | [zacham piegalingan saepl](http://twitter.com/search?q=zacham+piegalingan+saepl) | N/A |
+| 29 | [sundrei goodvibes](http://twitter.com/search?q=sundrei+goodvibes) | N/A |
+| 30 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 31 | [bini sa cosmos 2023](http://twitter.com/search?q=bini+sa+cosmos+2023) | N/A |
+| 32 | [First MV Teaser](http://twitter.com/search?q=First+MV+Teaser) | N/A |
 | 33 | [HWANDERFULYEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFULYEARS+WITH+JUNGHWAN) | N/A |
-| 34 | [First MV Teaser](http://twitter.com/search?q=First+MV+Teaser) | N/A |
-| 35 | [asapfeboritonatinto jona](http://twitter.com/search?q=asapfeboritonatinto+jona) | N/A |
-| 36 | [bini sa cosmos 2023](http://twitter.com/search?q=bini+sa+cosmos+2023) | N/A |
-| 37 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
-| 38 | [thank you mc hwasa](http://twitter.com/search?q=thank+you+mc+hwasa) | N/A |
-| 39 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
-| 40 | [Dear Dream](http://twitter.com/search?q=Dear+Dream) | N/A |
-| 41 | [RED HAIRED YOONGI](http://twitter.com/search?q=RED+HAIRED+YOONGI) | N/A |
-| 42 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 43 | [gumabao](http://twitter.com/search?q=gumabao) | N/A |
-| 44 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
-| 45 | [FRANSETHXACE 30MULIYON NA](http://twitter.com/search?q=FRANSETHXACE+30MULIYON+NA) | N/A |
-| 46 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 47 | [sundate with matt](http://twitter.com/search?q=sundate+with+matt) | N/A |
+| 34 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
+| 35 | [mc hwasa](http://twitter.com/search?q=mc+hwasa) | N/A |
+| 36 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
+| 37 | [bagyong pablo](http://twitter.com/search?q=bagyong+pablo) | N/A |
+| 38 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
+| 39 | [RED HAIRED YOONGI](http://twitter.com/search?q=RED+HAIRED+YOONGI) | N/A |
+| 40 | [asapfeboritonatinto jona](http://twitter.com/search?q=asapfeboritonatinto+jona) | N/A |
+| 41 | [Vega](http://twitter.com/search?q=Vega) | N/A |
+| 42 | [gumabao](http://twitter.com/search?q=gumabao) | N/A |
+| 43 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
+| 44 | [sundate with matt](http://twitter.com/search?q=sundate+with+matt) | N/A |
+| 45 | [Primo](http://twitter.com/search?q=Primo) | N/A |
+| 46 | [WARLIO OFFICIAL COUPLE NA](http://twitter.com/search?q=WARLIO+OFFICIAL+COUPLE+NA) | N/A |
+| 47 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
 
 
 

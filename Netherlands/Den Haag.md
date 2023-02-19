@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-19 17:16:35 UTC`
+📆 Last Updated: `2023-02-19 18:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#ajaspa](http://twitter.com/search?q=%23ajaspa) | N/A |
 | 2 | [#utrpsv](http://twitter.com/search?q=%23utrpsv) | N/A |
-| 3 | [#feyaz](http://twitter.com/search?q=%23feyaz) | N/A |
-| 4 | [#gaetwe](http://twitter.com/search?q=%23gaetwe) | N/A |
+| 3 | [#gaetwe](http://twitter.com/search?q=%23gaetwe) | N/A |
+| 4 | [#feyaz](http://twitter.com/search?q=%23feyaz) | N/A |
 | 5 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 6 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 7 | [Femke Bol](http://twitter.com/search?q=Femke+Bol) | N/A |
-| 8 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
-| 9 | [Van Boekel](http://twitter.com/search?q=Van+Boekel) | N/A |
-| 10 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 11 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
-| 12 | [GL-Kamerlid](http://twitter.com/search?q=GL-Kamerlid) | N/A |
-| 13 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 14 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 15 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
-| 16 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 17 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 18 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 19 | [Geweld](http://twitter.com/search?q=Geweld) | N/A |
-| 20 | [Higler](http://twitter.com/search?q=Higler) | N/A |
-| 21 | [Obispo](http://twitter.com/search?q=Obispo) | Obispo is a Spanish word meaning "bishop". It is used to refer to a bishop in the Catholic Church. |
-| 22 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
-| 23 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 24 | [Hardenberg](http://twitter.com/search?q=Hardenberg) | N/A |
-| 25 | [Go Ahead Eagles](http://twitter.com/search?q=Go+Ahead+Eagles) | N/A |
-| 26 | [Pakhuis de Zwijger](http://twitter.com/search?q=Pakhuis+de+Zwijger) | N/A |
-| 27 | [Guus Til](http://twitter.com/search?q=Guus+Til) | N/A |
-| 28 | [FC Utrecht](http://twitter.com/search?q=FC+Utrecht) | N/A |
-| 29 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 30 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 31 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
-| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 33 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
-| 34 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 35 | [Linda de Mol](http://twitter.com/search?q=Linda+de+Mol) | N/A |
-| 36 | [Guti](http://twitter.com/search?q=Guti) | N/A |
-| 37 | [Dag 19](http://twitter.com/search?q=Dag+19) | N/A |
-| 38 | [Teze](http://twitter.com/search?q=Teze) | N/A |
-| 39 | [Fred Rutten](http://twitter.com/search?q=Fred+Rutten) | N/A |
-| 40 | [Volkert](http://twitter.com/search?q=Volkert) | N/A |
-| 41 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 42 | [Oempa Loempa](http://twitter.com/search?q=Oempa+Loempa) | N/A |
-| 43 | [Volt](http://twitter.com/search?q=Volt) | N/A |
-| 44 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
-| 45 | [Jans](http://twitter.com/search?q=Jans) | N/A |
-| 46 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
-| 47 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
+| 6 | [Femke Bol](http://twitter.com/search?q=Femke+Bol) | N/A |
+| 7 | [Van Boekel](http://twitter.com/search?q=Van+Boekel) | N/A |
+| 8 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 9 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 10 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
+| 11 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 12 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 13 | [GL-Kamerlid](http://twitter.com/search?q=GL-Kamerlid) | N/A |
+| 14 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 15 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 16 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
+| 17 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 18 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
+| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 20 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 21 | [Hardenberg](http://twitter.com/search?q=Hardenberg) | N/A |
+| 22 | [Higler](http://twitter.com/search?q=Higler) | N/A |
+| 23 | [Ficq](http://twitter.com/search?q=Ficq) | N/A |
+| 24 | [Pakhuis de Zwijger](http://twitter.com/search?q=Pakhuis+de+Zwijger) | N/A |
+| 25 | [Volkert](http://twitter.com/search?q=Volkert) | N/A |
+| 26 | [Kenneth Taylor](http://twitter.com/search?q=Kenneth+Taylor) | N/A |
+| 27 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
+| 28 | [Geweld](http://twitter.com/search?q=Geweld) | N/A |
+| 29 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
+| 30 | [Go Ahead Eagles](http://twitter.com/search?q=Go+Ahead+Eagles) | N/A |
+| 31 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 32 | [Fred Rutten](http://twitter.com/search?q=Fred+Rutten) | N/A |
+| 33 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 34 | [Linda de Mol](http://twitter.com/search?q=Linda+de+Mol) | N/A |
+| 35 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 36 | [Oempa Loempa](http://twitter.com/search?q=Oempa+Loempa) | N/A |
+| 37 | [Dilrosun](http://twitter.com/search?q=Dilrosun) | N/A |
+| 38 | [Jans](http://twitter.com/search?q=Jans) | N/A |
+| 39 | [Volt](http://twitter.com/search?q=Volt) | N/A |
+| 40 | [Teze](http://twitter.com/search?q=Teze) | N/A |
+| 41 | [Liz Truss](http://twitter.com/search?q=Liz+Truss) | Liz Truss is the current Secretary of State for International Trade in the United Kingdom. She is responsible for developing and implementing the UK's international trade policy, negotiating trade agreements with other countries, and promoting British exports. |
+| 42 | [Guti](http://twitter.com/search?q=Guti) | N/A |
+| 43 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
+| 44 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 45 | [Dag 19](http://twitter.com/search?q=Dag+19) | N/A |
+| 46 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
+| 47 | [FC Utrecht](http://twitter.com/search?q=FC+Utrecht) | N/A |
 | 48 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 49 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
+| 49 | [Suriname](http://twitter.com/search?q=Suriname) | N/A |
 
 
 

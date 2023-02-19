@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kawasaki
 
-📆 Last Updated: `2023-02-19 17:16:42 UTC`
+📆 Last Updated: `2023-02-19 18:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,53 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [荒木さん](http://twitter.com/search?q=%e8%8d%92%e6%9c%a8%e3%81%95%e3%82%93) | 荒木さん is a Japanese honorific title used to refer to someone with the surname of Araki. It is similar to the English title of "Mr. Araki". |
-| 2 | [#tvk](http://twitter.com/search?q=%23tvk) | N/A |
-| 3 | [ユナイテッド](http://twitter.com/search?q=%e3%83%a6%e3%83%8a%e3%82%a4%e3%83%86%e3%83%83%e3%83%89) | ユナイテッド is the Japanese word for "United". It is used to refer to something that is unified or joined together. |
-| 4 | [#行列のできる相談所](http://twitter.com/search?q=%23%e8%a1%8c%e5%88%97%e3%81%ae%e3%81%a7%e3%81%8d%e3%82%8b%e7%9b%b8%e8%ab%87%e6%89%80) | #行列のできる相談所 is a Japanese hashtag that translates to "Consultation Office for Arrangements". It is used to refer to a place where people can go for advice and assistance in arranging their affairs. |
-| 5 | [アフタヌーンティー](http://twitter.com/search?q=%e3%82%a2%e3%83%95%e3%82%bf%e3%83%8c%e3%83%bc%e3%83%b3%e3%83%86%e3%82%a3%e3%83%bc) | N/A |
-| 6 | [太陽のトマト麺](http://twitter.com/search?q=%e5%a4%aa%e9%99%bd%e3%81%ae%e3%83%88%e3%83%9e%e3%83%88%e9%ba%ba) | N/A |
-| 7 | [コオロギ](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae) | N/A |
-| 8 | [#太ももは太いから太ももっていうんだよ](http://twitter.com/search?q=%23%e5%a4%aa%e3%82%82%e3%82%82%e3%81%af%e5%a4%aa%e3%81%84%e3%81%8b%e3%82%89%e5%a4%aa%e3%82%82%e3%82%82%e3%81%a3%e3%81%a6%e3%81%84%e3%81%86%e3%82%93%e3%81%a0%e3%82%88) | N/A |
-| 9 | [カブトムシ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%a0%e3%82%b7) | カブトムシ is the Japanese word for the beetle known as the rhinoceros beetle. In English, it is sometimes referred to as a horned beetle or a Hercules beetle. |
-| 10 | [刀剣男士](http://twitter.com/search?q=%e5%88%80%e5%89%a3%e7%94%b7%e5%a3%ab) | 刀剣男士 (Touken Ranbu) is a Japanese online card game developed by Nitroplus and DMM Games. It is based on the historical figures featured in various Japanese swords, and the players take on the role of a sage who travels through time to defeat evil forces. The English translation of 刀剣男士 is "Sword Warriors". |
-| 11 | [莉犬くん](http://twitter.com/search?q=%e8%8e%89%e7%8a%ac%e3%81%8f%e3%82%93) | N/A |
-| 12 | [大倶利伽羅](http://twitter.com/search?q=%e5%a4%a7%e5%80%b6%e5%88%a9%e4%bc%bd%e7%be%85) | N/A |
-| 13 | [ディレイ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ac%e3%82%a4) | ディレイ is a Japanese word that means "delay". It is used to refer to a period of time in which something is postponed or delayed. |
-| 14 | [sumika](http://twitter.com/search?q=sumika) | N/A |
-| 15 | [サークル参加](http://twitter.com/search?q=%e3%82%b5%e3%83%bc%e3%82%af%e3%83%ab%e5%8f%82%e5%8a%a0) | N/A |
-| 16 | [ジャイアン](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%a2%e3%83%b3) | N/A |
-| 17 | [Wセンター](http://twitter.com/search?q=W%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 18 | [高校生家族](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e7%94%9f%e5%ae%b6%e6%97%8f) | N/A |
-| 19 | [選抜発表](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e7%99%ba%e8%a1%a8) | N/A |
-| 20 | [選抜入り](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e5%85%a5%e3%82%8a) | N/A |
-| 21 | [第395回](http://twitter.com/search?q=%e7%ac%ac395%e5%9b%9e) | N/A |
-| 22 | [アニナナ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%8a%e3%83%8a) | アニナナ is a Japanese phrase that roughly translates to "What's up?" or "How's it going?" It is often used as a casual greeting. |
-| 23 | [常闇くん](http://twitter.com/search?q=%e5%b8%b8%e9%97%87%e3%81%8f%e3%82%93) | N/A |
-| 24 | [璃果ちゃん](http://twitter.com/search?q=%e7%92%83%e6%9e%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 25 | [りかちゃん](http://twitter.com/search?q=%e3%82%8a%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 26 | [五百城ちゃん](http://twitter.com/search?q=%e4%ba%94%e7%99%be%e5%9f%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 27 | [ヒロアカ本誌](http://twitter.com/search?q=%e3%83%92%e3%83%ad%e3%82%a2%e3%82%ab%e6%9c%ac%e8%aa%8c) | N/A |
-| 28 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
-| 29 | [ラッシュフォード](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%89) | ラッシュフォード (Rashford) is the surname of English professional footballer Marcus Rashford. He currently plays for Manchester United and the England national team. The name is derived from an Old English word meaning "from the rushes" or "from the marshland". |
-| 30 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
-| 31 | [バイバイク](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%90%e3%82%a4%e3%82%af) | N/A |
-| 32 | [美佑ちゃん](http://twitter.com/search?q=%e7%be%8e%e4%bd%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 33 | [ドテラマン](http://twitter.com/search?q=%e3%83%89%e3%83%86%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
-| 34 | [大河女優](http://twitter.com/search?q=%e5%a4%a7%e6%b2%b3%e5%a5%b3%e5%84%aa) | N/A |
-| 35 | [ダブセン](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%82%bb%e3%83%b3) | N/A |
-| 36 | [バッファローマン](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%83%95%e3%82%a1%e3%83%ad%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
-| 37 | [松尾ちゃん](http://twitter.com/search?q=%e6%9d%be%e5%b0%be%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 38 | [パズドラ11周年](http://twitter.com/search?q=%e3%83%91%e3%82%ba%e3%83%89%e3%83%a911%e5%91%a8%e5%b9%b4) | N/A |
-| 39 | [ヤンマガ](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%9e%e3%82%ac) | N/A |
-| 40 | [未来の答え](http://twitter.com/search?q=%e6%9c%aa%e6%9d%a5%e3%81%ae%e7%ad%94%e3%81%88) | N/A |
-| 41 | [選抜落ち](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e8%90%bd%e3%81%a1) | N/A |
-| 42 | [アイカツ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%ab%e3%83%84) | アイカツ (Aikatsu!) is a Japanese multimedia franchise created by Bandai Namco Entertainment. It is a rhythm-based idol simulation game and anime series that follows the story of aspiring idols as they work to become top stars. The name "Aikatsu!" is derived from the Japanese phrase "Ai ni Katsu", which means "to strive for love". In English, it can be translated to mean "Strive for Love and Stardom". |
-| 43 | [ハジマリノウタ](http://twitter.com/search?q=%e3%83%8f%e3%82%b8%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%a6%e3%82%bf) | N/A |
-| 44 | [大童貞祭](http://twitter.com/search?q=%e5%a4%a7%e7%ab%a5%e8%b2%9e%e7%a5%ad) | N/A |
-| 45 | [メイヌー](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%83%8c%e3%83%bc) | N/A |
-| 46 | [荘ちゃん](http://twitter.com/search?q=%e8%8d%98%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 47 | [レッチリ](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%81%e3%83%aa) | N/A |
+| 2 | [コオロギ](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae) | N/A |
+| 3 | [#tvk](http://twitter.com/search?q=%23tvk) | N/A |
+| 4 | [#Lovemusic](http://twitter.com/search?q=%23Lovemusic) | N/A |
+| 5 | [ユナイテッド](http://twitter.com/search?q=%e3%83%a6%e3%83%8a%e3%82%a4%e3%83%86%e3%83%83%e3%83%89) | ユナイテッド is the Japanese word for "United". It is used to refer to something that is unified or joined together. |
+| 6 | [#太ももは太いから太ももっていうんだよ](http://twitter.com/search?q=%23%e5%a4%aa%e3%82%82%e3%82%82%e3%81%af%e5%a4%aa%e3%81%84%e3%81%8b%e3%82%89%e5%a4%aa%e3%82%82%e3%82%82%e3%81%a3%e3%81%a6%e3%81%84%e3%81%86%e3%82%93%e3%81%a0%e3%82%88) | N/A |
+| 7 | [カブトムシ](http://twitter.com/search?q=%e3%82%ab%e3%83%96%e3%83%88%e3%83%a0%e3%82%b7) | カブトムシ is the Japanese word for the beetle known as the rhinoceros beetle. In English, it is sometimes referred to as a horned beetle or a Hercules beetle. |
+| 8 | [ディレイ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%ac%e3%82%a4) | ディレイ is a Japanese word that means "delay". It is used to refer to a period of time in which something is postponed or delayed. |
+| 9 | [ジャイアン](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%a2%e3%83%b3) | N/A |
+| 10 | [高校生家族](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e7%94%9f%e5%ae%b6%e6%97%8f) | N/A |
+| 11 | [Wセンター](http://twitter.com/search?q=W%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
+| 12 | [選抜発表](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e7%99%ba%e8%a1%a8) | N/A |
+| 13 | [エメルソン](http://twitter.com/search?q=%e3%82%a8%e3%83%a1%e3%83%ab%e3%82%bd%e3%83%b3) | エメルソン (Emerson) is a Japanese clothing brand that specializes in casual and streetwear fashion. The brand is known for its use of bright colors and bold designs, as well as its focus on comfort and quality. In English, the name Emerson means "son of Emery", which is derived from the Old German name Emmerich. |
+| 14 | [選抜入り](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e5%85%a5%e3%82%8a) | N/A |
+| 15 | [第395回](http://twitter.com/search?q=%e7%ac%ac395%e5%9b%9e) | N/A |
+| 16 | [常闇くん](http://twitter.com/search?q=%e5%b8%b8%e9%97%87%e3%81%8f%e3%82%93) | N/A |
+| 17 | [アニナナ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%8a%e3%83%8a) | アニナナ is a Japanese phrase that roughly translates to "What's up?" or "How's it going?" It is often used as a casual greeting. |
+| 18 | [璃果ちゃん](http://twitter.com/search?q=%e7%92%83%e6%9e%9c%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 19 | [五百城ちゃん](http://twitter.com/search?q=%e4%ba%94%e7%99%be%e5%9f%8e%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 20 | [りかちゃん](http://twitter.com/search?q=%e3%82%8a%e3%81%8b%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 21 | [ヒロアカ本誌](http://twitter.com/search?q=%e3%83%92%e3%83%ad%e3%82%a2%e3%82%ab%e6%9c%ac%e8%aa%8c) | N/A |
+| 22 | [推しの子](http://twitter.com/search?q=%e6%8e%a8%e3%81%97%e3%81%ae%e5%ad%90) | 推しの子 (Oshii no ko) is a term used in Japan to refer to someone who is a fan of a particular celebrity or idol. It literally translates to "the one I'm pushing for" or "my favorite". |
+| 23 | [ドテラマン](http://twitter.com/search?q=%e3%83%89%e3%83%86%e3%83%a9%e3%83%9e%e3%83%b3) | N/A |
+| 24 | [サンチョ](http://twitter.com/search?q=%e3%82%b5%e3%83%b3%e3%83%81%e3%83%a7) | N/A |
+| 25 | [ラッシュフォード](http://twitter.com/search?q=%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5%e3%83%95%e3%82%a9%e3%83%bc%e3%83%89) | ラッシュフォード (Rashford) is the surname of English professional footballer Marcus Rashford. He currently plays for Manchester United and the England national team. The name is derived from an Old English word meaning "from the rushes" or "from the marshland". |
+| 26 | [バッファローマン](http://twitter.com/search?q=%e3%83%90%e3%83%83%e3%83%95%e3%82%a1%e3%83%ad%e3%83%bc%e3%83%9e%e3%83%b3) | N/A |
+| 27 | [美佑ちゃん](http://twitter.com/search?q=%e7%be%8e%e4%bd%91%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 28 | [大河女優](http://twitter.com/search?q=%e5%a4%a7%e6%b2%b3%e5%a5%b3%e5%84%aa) | N/A |
+| 29 | [バイバイク](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%90%e3%82%a4%e3%82%af) | N/A |
+| 30 | [ダブセン](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%82%bb%e3%83%b3) | N/A |
+| 31 | [ヤンマガ](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%9e%e3%82%ac) | N/A |
+| 32 | [LOUD](http://twitter.com/search?q=LOUD) | N/A |
+| 33 | [リッチー](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%83%81%e3%83%bc) | N/A |
+| 34 | [松尾ちゃん](http://twitter.com/search?q=%e6%9d%be%e5%b0%be%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 35 | [オルンガ](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%83%b3%e3%82%ac) | N/A |
+| 36 | [パズドラ11周年](http://twitter.com/search?q=%e3%83%91%e3%82%ba%e3%83%89%e3%83%a911%e5%91%a8%e5%b9%b4) | N/A |
+| 37 | [未来の答え](http://twitter.com/search?q=%e6%9c%aa%e6%9d%a5%e3%81%ae%e7%ad%94%e3%81%88) | N/A |
+| 38 | [アイカツ](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%ab%e3%83%84) | アイカツ (Aikatsu!) is a Japanese multimedia franchise created by Bandai Namco Entertainment. It is a rhythm-based idol simulation game and anime series that follows the story of aspiring idols as they work to become top stars. The name "Aikatsu!" is derived from the Japanese phrase "Ai ni Katsu", which means "to strive for love". In English, it can be translated to mean "Strive for Love and Stardom". |
+| 39 | [選抜落ち](http://twitter.com/search?q=%e9%81%b8%e6%8a%9c%e8%90%bd%e3%81%a1) | N/A |
+| 40 | [ハジマリノウタ](http://twitter.com/search?q=%e3%83%8f%e3%82%b8%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%a6%e3%82%bf) | N/A |
+| 41 | [ヤニねこ](http://twitter.com/search?q=%e3%83%a4%e3%83%8b%e3%81%ad%e3%81%93) | N/A |
+| 42 | [ラブラバ](http://twitter.com/search?q=%e3%83%a9%e3%83%96%e3%83%a9%e3%83%90) | ラブラバ is a Japanese phrase that translates to "love love". It is often used as an expression of affection or endearment. |
+| 43 | [人造人間100](http://twitter.com/search?q=%e4%ba%ba%e9%80%a0%e4%ba%ba%e9%96%93100) | N/A |
+| 44 | [荘ちゃん](http://twitter.com/search?q=%e8%8d%98%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 45 | [パレデス](http://twitter.com/search?q=%e3%83%91%e3%83%ac%e3%83%87%e3%82%b9) | N/A |
+| 46 | [レッチリ](http://twitter.com/search?q=%e3%83%ac%e3%83%83%e3%83%81%e3%83%aa) | N/A |
+| 47 | [メイヌー](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%83%8c%e3%83%bc) | N/A |
+| 48 | [ベランダ事件](http://twitter.com/search?q=%e3%83%99%e3%83%a9%e3%83%b3%e3%83%80%e4%ba%8b%e4%bb%b6) | N/A |
 
 
 

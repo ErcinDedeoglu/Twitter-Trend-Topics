@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-19 17:17:15 UTC`
+📆 Last Updated: `2023-02-19 18:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Indonesia
 | ------- | ------------ | ------------ |
 | 1 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 2 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 3 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
-| 4 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 5 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 6 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
-| 7 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 8 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 9 | [#INTRODUCING_ASA](http://twitter.com/search?q=%23INTRODUCING_ASA) | N/A |
-| 10 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
+| 3 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
+| 4 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
+| 5 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
+| 6 | [#kitadukungjakartastinbin](http://twitter.com/search?q=%23kitadukungjakartastinbin) | N/A |
+| 7 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
+| 8 | [Baju Kembaran](http://twitter.com/search?q=Baju+Kembaran) | N/A |
+| 9 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 10 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
 | 11 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 12 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 13 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 14 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 15 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 16 | [RED HAIR](http://twitter.com/search?q=RED+HAIR) | N/A |
-| 17 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
-| 18 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 19 | [EUNCHAE KIRSH MODEL](http://twitter.com/search?q=EUNCHAE+KIRSH+MODEL) | N/A |
-| 20 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 21 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 23 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 24 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 25 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 26 | [Dave](http://twitter.com/search?q=Dave) | N/A |
-| 27 | [Flexing](http://twitter.com/search?q=Flexing) | N/A |
-| 28 | [Confess](http://twitter.com/search?q=Confess) | N/A |
-| 29 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
-| 30 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 31 | [Aldebaran](http://twitter.com/search?q=Aldebaran) | N/A |
-| 32 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 33 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
-| 34 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 35 | [Indramayu](http://twitter.com/search?q=Indramayu) | N/A |
-| 36 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 37 | [RENJUN WE LOVE YOU](http://twitter.com/search?q=RENJUN+WE+LOVE+YOU) | N/A |
-| 38 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 39 | [Adit](http://twitter.com/search?q=Adit) | N/A |
-| 40 | [Kerang](http://twitter.com/search?q=Kerang) | N/A |
-| 41 | [Lagunya](http://twitter.com/search?q=Lagunya) | N/A |
-| 42 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 43 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
-| 44 | [#CrashCourseInRomanceEp12](http://twitter.com/search?q=%23CrashCourseInRomanceEp12) | N/A |
-| 45 | [#EUNCHAExKIRSH](http://twitter.com/search?q=%23EUNCHAExKIRSH) | N/A |
-| 46 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
-| 47 | [#PradaxWin](http://twitter.com/search?q=%23PradaxWin) | N/A |
-| 48 | [#JeffLiveOnSaturnSGD2](http://twitter.com/search?q=%23JeffLiveOnSaturnSGD2) | N/A |
-| 49 | [#PradaSS23](http://twitter.com/search?q=%23PradaSS23) | N/A |
-| 50 | [#FarmhouseShopeexMileApo](http://twitter.com/search?q=%23FarmhouseShopeexMileApo) | N/A |
+| 12 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
+| 13 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 14 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 15 | [danamon](http://twitter.com/search?q=danamon) | N/A |
+| 16 | [Happy Birthday Jungwoo](http://twitter.com/search?q=Happy+Birthday+Jungwoo) | N/A |
+| 17 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 18 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 19 | [YOONGI RED HAIR](http://twitter.com/search?q=YOONGI+RED+HAIR) | N/A |
+| 20 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
+| 21 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 22 | [RENJUN WE LOVE YOU](http://twitter.com/search?q=RENJUN+WE+LOVE+YOU) | N/A |
+| 23 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 24 | [era baru pssi](http://twitter.com/search?q=era+baru+pssi) | N/A |
+| 25 | [Sonny](http://twitter.com/search?q=Sonny) | Sonny is a nickname for someone named Sonny, or it can be used as a term of endearment for someone close to you. It is derived from the Latin word "sonus," which means sound. |
+| 26 | [Pasar Wonokromo](http://twitter.com/search?q=Pasar+Wonokromo) | N/A |
+| 27 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
+| 28 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 29 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 30 | [hapsun](http://twitter.com/search?q=hapsun) | N/A |
+| 31 | [Weswos](http://twitter.com/search?q=Weswos) | N/A |
+| 32 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
+| 33 | [Mainoo](http://twitter.com/search?q=Mainoo) | Mainoo is a term used in the Indian state of Gujarat to refer to a person who is generous and kind-hearted. It is derived from the Gujarati word "manu", which means "generous". In English, it can be translated as "generous" or "kind-hearted". |
+| 34 | [HAPPY 8200TH DAYS](http://twitter.com/search?q=HAPPY+8200TH+DAYS) | N/A |
+| 35 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 36 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 37 | [Unlocked](http://twitter.com/search?q=Unlocked) | N/A |
+| 38 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 39 | [Sangiran](http://twitter.com/search?q=Sangiran) | N/A |
+| 40 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
+| 41 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
+| 42 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
+| 43 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
+| 44 | [Confess](http://twitter.com/search?q=Confess) | N/A |
+| 45 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 46 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 47 | [NCT DREAM KYOCERA DOME DAY3](http://twitter.com/search?q=NCT+DREAM+KYOCERA+DOME+DAY3) | N/A |
+| 48 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 49 | [park jisung thank you](http://twitter.com/search?q=park+jisung+thank+you) | N/A |
+| 50 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
 
 
 
