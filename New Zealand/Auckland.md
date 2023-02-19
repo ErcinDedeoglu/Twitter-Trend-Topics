@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-19 15:16:40 UTC`
+📆 Last Updated: `2023-02-19 16:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | ------- | ------------ | ------------ |
 | 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
 | 2 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 3 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
+| 3 | [newstalk zb](http://twitter.com/search?q=newstalk+zb) | N/A |
 | 4 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 5 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
 | 6 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
@@ -25,7 +25,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 8 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 9 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
 | 10 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 11 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
+| 11 | [breakers](http://twitter.com/search?q=breakers) | N/A |
 | 12 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
 | 13 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
 | 14 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 31 | [hoots](http://twitter.com/search?q=hoots) | N/A |
 | 32 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
 | 33 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 34 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 34 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
 | 35 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 36 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
 | 37 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 46 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
 | 47 | [Pride](http://twitter.com/search?q=Pride) | N/A |
 | 48 | [nzme](http://twitter.com/search?q=nzme) | N/A |
-| 49 | [southland](http://twitter.com/search?q=southland) | N/A |
+| 49 | [Southland](http://twitter.com/search?q=Southland) | N/A |
 
 
 

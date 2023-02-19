@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-19 15:16:03 UTC`
+📆 Last Updated: `2023-02-19 16:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fernandes](http://twitter.com/search?q=Fernandes) | Fernandes is a Portuguese surname derived from the given name Fernando, which is derived from the Germanic name Ferdinando, meaning "bold journey". |
-| 2 | [Lionesses](http://twitter.com/search?q=Lionesses) | N/A |
-| 3 | [#ArnoldClarkCup](http://twitter.com/search?q=%23ArnoldClarkCup) | N/A |
-| 4 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 1 | [Richy](http://twitter.com/search?q=Richy) | N/A |
+| 2 | [Luke Shaw](http://twitter.com/search?q=Luke+Shaw) | Luke Shaw is an English professional footballer who plays as a left-back for Premier League club Manchester United and the England national team. The phrase is used to refer to the player himself. |
+| 3 | [Magna Carta](http://twitter.com/search?q=Magna+Carta) | N/A |
+| 4 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
 | 5 | [Newbury](http://twitter.com/search?q=Newbury) | N/A |
-| 6 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 7 | [#COYI](http://twitter.com/search?q=%23COYI) | N/A |
-| 8 | [Calais](http://twitter.com/search?q=Calais) | N/A |
-| 9 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
-| 10 | [#Lux2](http://twitter.com/search?q=%23Lux2) | N/A |
-| 11 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 12 | [Sainsbury](http://twitter.com/search?q=Sainsbury) | N/A |
-| 13 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 14 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 15 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 16 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 17 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 19 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 20 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 21 | [Faes](http://twitter.com/search?q=Faes) | N/A |
-| 22 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 23 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
-| 24 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 25 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 26 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
-| 27 | [Hearts](http://twitter.com/search?q=Hearts) | N/A |
-| 28 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
-| 29 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 30 | [Souttar](http://twitter.com/search?q=Souttar) | N/A |
-| 31 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
-| 32 | [Toughsheet](http://twitter.com/search?q=Toughsheet) | N/A |
-| 33 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
-| 34 | [Hash](http://twitter.com/search?q=Hash) | N/A |
-| 35 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 36 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
-| 37 | [sarina](http://twitter.com/search?q=sarina) | N/A |
-| 38 | [janette](http://twitter.com/search?q=janette) | N/A |
-| 39 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 40 | [Beans](http://twitter.com/search?q=Beans) | N/A |
-| 41 | [McKay](http://twitter.com/search?q=McKay) | N/A |
-| 42 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 43 | [Leyton Orient](http://twitter.com/search?q=Leyton+Orient) | N/A |
-| 44 | [Kettlewell](http://twitter.com/search?q=Kettlewell) | N/A |
-| 45 | [Neilson](http://twitter.com/search?q=Neilson) | N/A |
-| 46 | [Boris Johnson](http://twitter.com/search?q=Boris+Johnson) | N/A |
-| 47 | [Devlin](http://twitter.com/search?q=Devlin) | N/A |
-| 48 | [ASBOs](http://twitter.com/search?q=ASBOs) | N/A |
+| 6 | [Tigers](http://twitter.com/search?q=Tigers) | N/A |
+| 7 | [COYS](http://twitter.com/search?q=COYS) | N/A |
+| 8 | [Fried](http://twitter.com/search?q=Fried) | N/A |
+| 9 | [Leyton Orient](http://twitter.com/search?q=Leyton+Orient) | N/A |
+| 10 | [#bbclaurak](http://twitter.com/search?q=%23bbclaurak) | #bbclaurak is a hashtag used to refer to BBC journalist Laura Kuenssberg. It is used to highlight her work and to discuss her reporting. |
+| 11 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 12 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 13 | [Penny Mordaunt](http://twitter.com/search?q=Penny+Mordaunt) | N/A |
+| 14 | [#Lux2](http://twitter.com/search?q=%23Lux2) | N/A |
+| 15 | [Calais](http://twitter.com/search?q=Calais) | N/A |
+| 16 | [#SocialistSunday](http://twitter.com/search?q=%23SocialistSunday) | N/A |
+| 17 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 18 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
+| 19 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 20 | [LTNs](http://twitter.com/search?q=LTNs) | N/A |
+| 21 | [Salford](http://twitter.com/search?q=Salford) | N/A |
+| 22 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 23 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
+| 24 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 25 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 26 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 27 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 28 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 29 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 30 | [Souness](http://twitter.com/search?q=Souness) | N/A |
+| 31 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 32 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 33 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 34 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 35 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
+| 36 | [Danny Ward](http://twitter.com/search?q=Danny+Ward) | N/A |
+| 37 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 38 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 39 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 40 | [Rachel Daly](http://twitter.com/search?q=Rachel+Daly) | N/A |
+| 41 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 42 | [Mainoo](http://twitter.com/search?q=Mainoo) | Mainoo is a term used in the Indian state of Gujarat to refer to a person who is generous and kind-hearted. It is derived from the Gujarati word "manu", which means "generous". In English, it can be translated as "generous" or "kind-hearted". |
+| 43 | [Downes](http://twitter.com/search?q=Downes) | N/A |
+| 44 | [Iheanacho](http://twitter.com/search?q=Iheanacho) | N/A |
+| 45 | [McTominay](http://twitter.com/search?q=McTominay) | McTominay is a Scottish surname. It is derived from the Gaelic Mac Thomain, which means "son of Thomas". |
+| 46 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 47 | [Motherwell](http://twitter.com/search?q=Motherwell) | N/A |
+| 48 | [Souttar](http://twitter.com/search?q=Souttar) | N/A |
 
 
 

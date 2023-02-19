@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-19 15:16:36 UTC`
+📆 Last Updated: `2023-02-19 16:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#KKvLQ](http://twitter.com/search?q=%23KKvLQ) | N/A |
 | 2 | [#الٹی_میٹم72گھنٹوں_کا](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%b9%db%8c_%d9%85%db%8c%d9%b9%d9%8572%da%af%da%be%d9%86%d9%b9%d9%88%da%ba_%da%a9%d8%a7) | N/A |
-| 3 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 3 | [#LQvsKK](http://twitter.com/search?q=%23LQvsKK) | N/A |
 | 4 | [#MSvIU](http://twitter.com/search?q=%23MSvIU) | N/A |
 | 5 | [#SahibzadaSultan](http://twitter.com/search?q=%23SahibzadaSultan) | N/A |
-| 6 | [#TentPeggingWorldCup](http://twitter.com/search?q=%23TentPeggingWorldCup) | N/A |
-| 7 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 8 | [Abbas Afridi](http://twitter.com/search?q=Abbas+Afridi) | N/A |
-| 9 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 10 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
-| 11 | [guptill](http://twitter.com/search?q=guptill) | N/A |
-| 12 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 13 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
-| 14 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 15 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
-| 16 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 6 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 7 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 8 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 9 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [Guptill](http://twitter.com/search?q=Guptill) | N/A |
+| 12 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 13 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 14 | [Ben Cutting](http://twitter.com/search?q=Ben+Cutting) | N/A |
+| 15 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
+| 16 | [Miller](http://twitter.com/search?q=Miller) | N/A |
 | 17 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
-| 18 | [Zaman Khan](http://twitter.com/search?q=Zaman+Khan) | N/A |
-| 19 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 20 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
-| 21 | [Multan Sultans](http://twitter.com/search?q=Multan+Sultans) | N/A |
-| 22 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 23 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 24 | [28 Rajab](http://twitter.com/search?q=28+Rajab) | N/A |
-| 25 | [Prophet Muhammad](http://twitter.com/search?q=Prophet+Muhammad) | N/A |
-| 26 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 27 | [Madina](http://twitter.com/search?q=Madina) | N/A |
-| 28 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 29 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
-| 30 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 31 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
-| 32 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 33 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 34 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 35 | [Azam](http://twitter.com/search?q=Azam) | N/A |
-| 36 | [Team Pakistan](http://twitter.com/search?q=Team+Pakistan) | N/A |
-| 37 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
-| 38 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
-| 39 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 18 | [Nida Dar](http://twitter.com/search?q=Nida+Dar) | N/A |
+| 19 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 20 | [Abbas Afridi](http://twitter.com/search?q=Abbas+Afridi) | N/A |
+| 21 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 22 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 23 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 24 | [Tom Curran](http://twitter.com/search?q=Tom+Curran) | N/A |
+| 25 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
+| 26 | [28 Rajab](http://twitter.com/search?q=28+Rajab) | N/A |
+| 27 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 28 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
+| 29 | [Islamabad united](http://twitter.com/search?q=Islamabad+united) | N/A |
+| 30 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
+| 31 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 32 | [Madina](http://twitter.com/search?q=Madina) | N/A |
+| 33 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
+| 34 | [28th Rajab](http://twitter.com/search?q=28th+Rajab) | N/A |
+| 35 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 36 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 37 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 38 | [Team Pakistan](http://twitter.com/search?q=Team+Pakistan) | N/A |
+| 39 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
 | 40 | [Wasim Jr](http://twitter.com/search?q=Wasim+Jr) | N/A |
-| 41 | [Superman](http://twitter.com/search?q=Superman) | Superman is a fictional superhero created by American writer Jerry Siegel and Canadian-born artist Joe Shuster in 1938. He is widely considered to be an American cultural icon and has been featured in numerous media outlets, including radio serials, television programs, films, and video games. Superman's traditional origin story tells of him being sent to Earth from the planet Krypton as a baby and growing up with superhuman powers. He fights for truth, justice, and the American way. |
-| 42 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 43 | [Umar Akmal](http://twitter.com/search?q=Umar+Akmal) | N/A |
-| 44 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 45 | [saim ayub](http://twitter.com/search?q=saim+ayub) | N/A |
-| 46 | [Ilyas](http://twitter.com/search?q=Ilyas) | N/A |
-| 47 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 48 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 49 | [PTSD](http://twitter.com/search?q=PTSD) | N/A |
-| 50 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 41 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 42 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 43 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 44 | [Surgery](http://twitter.com/search?q=Surgery) | N/A |
+| 45 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 46 | [West Indies](http://twitter.com/search?q=West+Indies) | N/A |
+| 47 | [PTSD](http://twitter.com/search?q=PTSD) | N/A |
+| 48 | [Ayesha](http://twitter.com/search?q=Ayesha) | N/A |
+| 49 | [Qasim Akram](http://twitter.com/search?q=Qasim+Akram) | N/A |
+| 50 | [Search](http://twitter.com/search?q=Search) | N/A |
 
 
 

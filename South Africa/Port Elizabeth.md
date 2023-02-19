@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Elizabeth
 
-📆 Last Updated: `2023-02-19 15:16:31 UTC`
+📆 Last Updated: `2023-02-19 16:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,49 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 2 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
-| 3 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 4 | [#AKAFuneral](http://twitter.com/search?q=%23AKAFuneral) | N/A |
-| 5 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 6 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 7 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 8 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 9 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 10 | [Zwane](http://twitter.com/search?q=Zwane) | Zwane is a South African surname derived from the Zulu word for "king". It is also used as a given name. In English, it can be translated to mean "king". |
-| 11 | [Arrows](http://twitter.com/search?q=Arrows) | N/A |
-| 12 | [#Amakhosi4Life](http://twitter.com/search?q=%23Amakhosi4Life) | N/A |
-| 13 | [dube](http://twitter.com/search?q=dube) | N/A |
-| 14 | [Du Preez](http://twitter.com/search?q=Du+Preez) | N/A |
-| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
-| 17 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 18 | [Shabalala](http://twitter.com/search?q=Shabalala) | N/A |
-| 19 | [Sim Dope](http://twitter.com/search?q=Sim+Dope) | N/A |
-| 20 | [Saile](http://twitter.com/search?q=Saile) | N/A |
-| 21 | [#akamemorialservice](http://twitter.com/search?q=%23akamemorialservice) | N/A |
-| 22 | [#ASVARS](http://twitter.com/search?q=%23ASVARS) | N/A |
-| 23 | [Ngezana](http://twitter.com/search?q=Ngezana) | N/A |
-| 24 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 25 | [Kwinika](http://twitter.com/search?q=Kwinika) | N/A |
-| 26 | [Zinhle](http://twitter.com/search?q=Zinhle) | N/A |
-| 27 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 28 | [Hlanti](http://twitter.com/search?q=Hlanti) | N/A |
-| 29 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 30 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 31 | [Maart](http://twitter.com/search?q=Maart) | N/A |
-| 32 | [vibe with tsatsii](http://twitter.com/search?q=vibe+with+tsatsii) | N/A |
-| 33 | [Dove](http://twitter.com/search?q=Dove) | N/A |
-| 34 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 35 | [Ngcobo](http://twitter.com/search?q=Ngcobo) | N/A |
-| 36 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
-| 37 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
-| 38 | [Ntsako Makhubela](http://twitter.com/search?q=Ntsako+Makhubela) | N/A |
-| 39 | [Josiah](http://twitter.com/search?q=Josiah) | N/A |
-| 40 | [Nelisa](http://twitter.com/search?q=Nelisa) | Nelisa is a female name of African origin. It is derived from the Zulu word "nelisa," which means "to be loved." |
-| 41 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 42 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 43 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 44 | [Block 4](http://twitter.com/search?q=Block+4) | N/A |
-| 45 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 46 | [Andile Mpisane](http://twitter.com/search?q=Andile+Mpisane) | N/A |
-| 47 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 48 | [Robert Gumede](http://twitter.com/search?q=Robert+Gumede) | N/A |
-| 49 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 50 | [party with juicy jay](http://twitter.com/search?q=party+with+juicy+jay) | N/A |
+| 2 | [Zwane](http://twitter.com/search?q=Zwane) | Zwane is a South African surname derived from the Zulu word for "king". It is also used as a given name. In English, it can be translated to mean "king". |
+| 3 | [Kaizer Chiefs](http://twitter.com/search?q=Kaizer+Chiefs) | Kaizer Chiefs is a South African professional football club based in Johannesburg. The club was founded in 1970 and is one of the most successful teams in the country, having won the Premier Soccer League title a record eight times. The name Kaizer Chiefs is derived from the late South African president, Kaizer Matanzima, who was a strong supporter of the team. |
+| 4 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 5 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
+| 6 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 7 | [Arrows](http://twitter.com/search?q=Arrows) | N/A |
+| 8 | [#DStvPrem](http://twitter.com/search?q=%23DStvPrem) | N/A |
+| 9 | [#Amakhosi4Life](http://twitter.com/search?q=%23Amakhosi4Life) | N/A |
+| 10 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 11 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 12 | [Nange](http://twitter.com/search?q=Nange) | N/A |
+| 13 | [Saile](http://twitter.com/search?q=Saile) | N/A |
+| 14 | [Shabalala](http://twitter.com/search?q=Shabalala) | N/A |
+| 15 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 16 | [Mangethe](http://twitter.com/search?q=Mangethe) | N/A |
+| 17 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 18 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 19 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 20 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 21 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 22 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 23 | [Maart](http://twitter.com/search?q=Maart) | N/A |
+| 24 | [Ngezana](http://twitter.com/search?q=Ngezana) | N/A |
+| 25 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
+| 26 | [Caleb](http://twitter.com/search?q=Caleb) | N/A |
+| 27 | [Benni](http://twitter.com/search?q=Benni) | N/A |
+| 28 | [Coach](http://twitter.com/search?q=Coach) | N/A |
+| 29 | [Du Preez](http://twitter.com/search?q=Du+Preez) | N/A |
+| 30 | [Hlanti](http://twitter.com/search?q=Hlanti) | N/A |
+| 31 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 32 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 33 | [Mpho](http://twitter.com/search?q=Mpho) | N/A |
+| 34 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 35 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 36 | [#ssDiski](http://twitter.com/search?q=%23ssDiski) | N/A |
+| 37 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
+| 38 | [#ManUtd](http://twitter.com/search?q=%23ManUtd) | N/A |
+| 39 | [#TakeYourLifeOnline](http://twitter.com/search?q=%23TakeYourLifeOnline) | N/A |
+| 40 | [#OTT4Me](http://twitter.com/search?q=%23OTT4Me) | N/A |
+| 41 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 42 | [#uMjoloWithAzola](http://twitter.com/search?q=%23uMjoloWithAzola) | N/A |
+| 43 | [#McCafeMotivationalMonday](http://twitter.com/search?q=%23McCafeMotivationalMonday) | N/A |
+| 44 | [#OneMoreFan](http://twitter.com/search?q=%23OneMoreFan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-19 15:16:51 UTC`
+📆 Last Updated: `2023-02-19 16:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,55 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 2 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 1 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 2 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 3 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
-| 4 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
-| 5 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 6 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 7 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 8 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 9 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 10 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
-| 11 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 12 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 13 | [Dave](http://twitter.com/search?q=Dave) | N/A |
-| 14 | [Confess](http://twitter.com/search?q=Confess) | N/A |
-| 15 | [#CrashCourseInRomanceEp12](http://twitter.com/search?q=%23CrashCourseInRomanceEp12) | N/A |
+| 4 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
+| 5 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 6 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
+| 7 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
+| 8 | [#INTRODUCING_ASA](http://twitter.com/search?q=%23INTRODUCING_ASA) | N/A |
+| 9 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
+| 10 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 11 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 12 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 13 | [YOONGI RED HAIR](http://twitter.com/search?q=YOONGI+RED+HAIR) | N/A |
+| 14 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 15 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
 | 16 | [Rashy](http://twitter.com/search?q=Rashy) | Rashy is not a word in English. It does not have a meaning. |
-| 17 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
-| 18 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 19 | [#JeffLiveOnSaturnSGD2](http://twitter.com/search?q=%23JeffLiveOnSaturnSGD2) | N/A |
-| 20 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 21 | [jinki](http://twitter.com/search?q=jinki) | N/A |
-| 22 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 23 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
-| 24 | [PRIORITIZE JIN ON MUBEAT](http://twitter.com/search?q=PRIORITIZE+JIN+ON+MUBEAT) | N/A |
-| 25 | [RENJUN WE LOVE YOU](http://twitter.com/search?q=RENJUN+WE+LOVE+YOU) | N/A |
-| 26 | [Tall](http://twitter.com/search?q=Tall) | N/A |
-| 27 | [Kerang](http://twitter.com/search?q=Kerang) | N/A |
-| 28 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
-| 29 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 30 | [Aldebaran](http://twitter.com/search?q=Aldebaran) | N/A |
-| 31 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
-| 32 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 33 | [Pasar Wonokromo](http://twitter.com/search?q=Pasar+Wonokromo) | N/A |
-| 34 | [Unlocked](http://twitter.com/search?q=Unlocked) | N/A |
-| 35 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 36 | [#PradaSS23](http://twitter.com/search?q=%23PradaSS23) | N/A |
-| 37 | [#FarmhouseShopeexMileApo](http://twitter.com/search?q=%23FarmhouseShopeexMileApo) | N/A |
-| 38 | [#방탄소년단진](http://twitter.com/search?q=%23%eb%b0%a9%ed%83%84%ec%86%8c%eb%85%84%eb%8b%a8%ec%a7%84) | N/A |
-| 39 | [#TheAstronaut](http://twitter.com/search?q=%23TheAstronaut) | N/A |
-| 40 | [#มะเขือเทศเพื่อนรักxเตนิว](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b0%e0%b9%80%e0%b8%82%e0%b8%b7%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b8%a8%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%a3%e0%b8%b1%e0%b8%81x%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
-| 41 | [#VIFxHazardZuluaYearOlder](http://twitter.com/search?q=%23VIFxHazardZuluaYearOlder) | N/A |
-| 42 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
-| 43 | [#TDS2KyoceraDome_DAY3](http://twitter.com/search?q=%23TDS2KyoceraDome_DAY3) | N/A |
-| 44 | [#PersibDay](http://twitter.com/search?q=%23PersibDay) | N/A |
-| 45 | [#BSS5thWin](http://twitter.com/search?q=%23BSS5thWin) | N/A |
-| 46 | [#SongHyeKyo](http://twitter.com/search?q=%23SongHyeKyo) | N/A |
-| 47 | [#부석순_인기가요_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%b8%ea%b8%b0%ea%b0%80%ec%9a%94_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 17 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 18 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 19 | [EUNCHAE KIRSH MODEL](http://twitter.com/search?q=EUNCHAE+KIRSH+MODEL) | N/A |
+| 20 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 21 | [Lindelof](http://twitter.com/search?q=Lindelof) | Lindelof is a surname of Swedish origin. It is derived from the Old Norse name Lindalófr, which means "linden leaf" or "linden tree". In English, the name can be translated to mean "beloved of the linden tree". |
+| 22 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 23 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 24 | [Dave](http://twitter.com/search?q=Dave) | N/A |
+| 25 | [Confess](http://twitter.com/search?q=Confess) | N/A |
+| 26 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
+| 27 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 28 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 29 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 30 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
+| 31 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
+| 32 | [Aldebaran](http://twitter.com/search?q=Aldebaran) | N/A |
+| 33 | [RENJUN WE LOVE YOU](http://twitter.com/search?q=RENJUN+WE+LOVE+YOU) | N/A |
+| 34 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 35 | [Adit](http://twitter.com/search?q=Adit) | N/A |
+| 36 | [Kerang](http://twitter.com/search?q=Kerang) | N/A |
+| 37 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
+| 38 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 39 | [Unlocked](http://twitter.com/search?q=Unlocked) | N/A |
+| 40 | [#BABYMONSTER](http://twitter.com/search?q=%23BABYMONSTER) | N/A |
+| 41 | [#CrashCourseInRomanceEp12](http://twitter.com/search?q=%23CrashCourseInRomanceEp12) | N/A |
+| 42 | [#EUNCHAExKIRSH](http://twitter.com/search?q=%23EUNCHAExKIRSH) | N/A |
+| 43 | [#TimnasDay](http://twitter.com/search?q=%23TimnasDay) | #TimnasDay is a hashtag used by Indonesian football fans to celebrate the national team, Timnas Indonesia. The hashtag is used to share photos, videos, and messages of support for the team. In English, #TimnasDay translates to "Indonesian National Team Day". |
+| 44 | [#PradaSS23](http://twitter.com/search?q=%23PradaSS23) | N/A |
+| 45 | [#PradaxWin](http://twitter.com/search?q=%23PradaxWin) | N/A |
+| 46 | [#JeffLiveOnSaturnSGD2](http://twitter.com/search?q=%23JeffLiveOnSaturnSGD2) | N/A |
+| 47 | [#FarmhouseShopeexMileApo](http://twitter.com/search?q=%23FarmhouseShopeexMileApo) | N/A |
+| 48 | [#VIFxHazardZuluaYearOlder](http://twitter.com/search?q=%23VIFxHazardZuluaYearOlder) | N/A |
+| 49 | [#มะเขือเทศเพื่อนรักxเตนิว](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b0%e0%b9%80%e0%b8%82%e0%b8%b7%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b8%a8%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%99%e0%b8%a3%e0%b8%b1%e0%b8%81x%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%b4%e0%b8%a7) | N/A |
 
 
 

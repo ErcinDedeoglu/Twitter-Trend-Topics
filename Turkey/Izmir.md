@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-02-19 15:16:40 UTC`
+📆 Last Updated: `2023-02-19 16:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
 | 2 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
-| 3 | [Evim Yuvan Olsun](http://twitter.com/search?q=Evim+Yuvan+Olsun) | N/A |
-| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 5 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
-| 6 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 7 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 8 | [#ahaber](http://twitter.com/search?q=%23ahaber) | N/A |
-| 9 | [#EYTERTELENEMEZ](http://twitter.com/search?q=%23EYTERTELENEMEZ) | N/A |
-| 10 | [Bilal Erdoğan](http://twitter.com/search?q=Bilal+Erdo%c4%9fan) | N/A |
-| 11 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 12 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
-| 13 | [Tevrat](http://twitter.com/search?q=Tevrat) | N/A |
-| 14 | [Sagopa Kajmer](http://twitter.com/search?q=Sagopa+Kajmer) | Sagopa Kajmer is a Turkish hip-hop artist and record label. His name is a combination of the words "sagopa" (meaning "wise") and "kajmer" (meaning "poet"). In English, Sagopa Kajmer can be translated to mean "wise poet". |
-| 15 | [#YeniProfilResmi](http://twitter.com/search?q=%23YeniProfilResmi) | N/A |
-| 16 | [Türk Yahudi Toplumu](http://twitter.com/search?q=T%c3%bcrk+Yahudi+Toplumu) | N/A |
-| 17 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 18 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
-| 19 | [21 Şubat](http://twitter.com/search?q=21+%c5%9eubat) | N/A |
-| 20 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
-| 21 | [Kübra Dörtkardeş](http://twitter.com/search?q=K%c3%bcbra+D%c3%b6rtkarde%c5%9f) | N/A |
-| 22 | [Yılmaz Çakıroğlu](http://twitter.com/search?q=Y%c4%b1lmaz+%c3%87ak%c4%b1ro%c4%9flu) | N/A |
+| 3 | [#ahaber](http://twitter.com/search?q=%23ahaber) | N/A |
+| 4 | [Evim Yuvan Olsun](http://twitter.com/search?q=Evim+Yuvan+Olsun) | N/A |
+| 5 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 6 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
+| 7 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 8 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 9 | [#EmekçilerBekliyor](http://twitter.com/search?q=%23Emek%c3%a7ilerBekliyor) | N/A |
+| 10 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
+| 11 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 12 | [Kübra Dörtkardeş](http://twitter.com/search?q=K%c3%bcbra+D%c3%b6rtkarde%c5%9f) | N/A |
+| 13 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
+| 14 | [Tevrat](http://twitter.com/search?q=Tevrat) | N/A |
+| 15 | [Bilal Erdoğan](http://twitter.com/search?q=Bilal+Erdo%c4%9fan) | N/A |
+| 16 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 17 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 18 | [Türk Yahudi Toplumu](http://twitter.com/search?q=T%c3%bcrk+Yahudi+Toplumu) | N/A |
+| 19 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
+| 20 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 21 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
+| 22 | [GOAT](http://twitter.com/search?q=GOAT) | N/A |
 | 23 | [TBMM](http://twitter.com/search?q=TBMM) | N/A |
-| 24 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 25 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 26 | [Yunus Sezer](http://twitter.com/search?q=Yunus+Sezer) | N/A |
-| 27 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
-| 28 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 29 | [Sedat](http://twitter.com/search?q=Sedat) | Sedat is a Turkish name meaning "calm" or "peaceful". |
-| 30 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
-| 31 | [İlber Ortaylı](http://twitter.com/search?q=%c4%b0lber+Ortayl%c4%b1) | N/A |
-| 32 | [Sakal](http://twitter.com/search?q=Sakal) | N/A |
-| 33 | [İcardi](http://twitter.com/search?q=%c4%b0cardi) | N/A |
-| 34 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 35 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 36 | [Tolga](http://twitter.com/search?q=Tolga) | N/A |
-| 37 | [#StajaSesVer](http://twitter.com/search?q=%23StajaSesVer) | N/A |
-| 38 | [#EMAD](http://twitter.com/search?q=%23EMAD) | N/A |
-| 39 | [#NisandeğilMart](http://twitter.com/search?q=%23Nisande%c4%9filMart) | N/A |
-| 40 | [#UlaşBardakçı](http://twitter.com/search?q=%23Ula%c5%9fBardak%c3%a7%c4%b1) | N/A |
-| 41 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
-| 42 | [#EYTResmiGazeteye](http://twitter.com/search?q=%23EYTResmiGazeteye) | #EYTResmiGazeteye is a hashtag used on Twitter in Turkey to refer to the Official Gazette of the Republic of Turkey. It is used to refer to official announcements, laws, and regulations published in the Gazette. In English, it translates to "Official Gazette of Turkey". |
+| 24 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 25 | [İlber Ortaylı](http://twitter.com/search?q=%c4%b0lber+Ortayl%c4%b1) | N/A |
+| 26 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
+| 27 | [Sedat](http://twitter.com/search?q=Sedat) | Sedat is a Turkish name meaning "calm" or "peaceful". |
+| 28 | [Sakal](http://twitter.com/search?q=Sakal) | N/A |
+| 29 | [Şenol Güneş](http://twitter.com/search?q=%c5%9eenol+G%c3%bcne%c5%9f) | Şenol Güneş is a Turkish football manager and former player. He is currently the manager of the Turkish national team. In English, his name translates to "Joyful Sun". |
+| 30 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 31 | [Tolga](http://twitter.com/search?q=Tolga) | N/A |
+| 32 | [#EYTERTELENEMEZ](http://twitter.com/search?q=%23EYTERTELENEMEZ) | N/A |
+| 33 | [#StajaSesVer](http://twitter.com/search?q=%23StajaSesVer) | N/A |
+| 34 | [#NisandeğilMart](http://twitter.com/search?q=%23Nisande%c4%9filMart) | N/A |
+| 35 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
+| 36 | [#EMAD](http://twitter.com/search?q=%23EMAD) | N/A |
+| 37 | [#YeniProfilResmİ](http://twitter.com/search?q=%23YeniProfilResm%c4%b0) | N/A |
+| 38 | [#KismeteOlur](http://twitter.com/search?q=%23KismeteOlur) | N/A |
+| 39 | [#EYTResmiGazeteye](http://twitter.com/search?q=%23EYTResmiGazeteye) | #EYTResmiGazeteye is a hashtag used on Twitter in Turkey to refer to the Official Gazette of the Republic of Turkey. It is used to refer to official announcements, laws, and regulations published in the Gazette. In English, it translates to "Official Gazette of Turkey". |
+| 40 | [#EYTliler](http://twitter.com/search?q=%23EYTliler) | N/A |
+| 41 | [#UlasBardakcı](http://twitter.com/search?q=%23UlasBardakc%c4%b1) | N/A |
+| 42 | [#EmeklilikteYaşaTakılanlar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1lanlar) | #EmeklilikteYaşaTakılanlar is a hashtag used in Turkey to refer to people who have retired and are living on their pension. In English, it translates to "Retirees Living on Pension". |
 | 43 | [#MEBÖğrencileriDuy](http://twitter.com/search?q=%23MEB%c3%96%c4%9frencileriDuy) | N/A |
-| 44 | [#cemre](http://twitter.com/search?q=%23cemre) | N/A |
-| 45 | [#2000sonrasıADALET](http://twitter.com/search?q=%232000sonras%c4%b1ADALET) | N/A |
-| 46 | [#GaleriaKurtarılmayıbekliyor](http://twitter.com/search?q=%23GaleriaKurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
-| 47 | [#kısmetseolur](http://twitter.com/search?q=%23k%c4%b1smetseolur) | N/A |
+| 44 | [#AkParti](http://twitter.com/search?q=%23AkParti) | N/A |
+| 45 | [#cemre](http://twitter.com/search?q=%23cemre) | N/A |
+| 46 | [#Icardi](http://twitter.com/search?q=%23Icardi) | #Icardi is a hashtag used to show support for the Argentinian professional footballer, Mauro Icardi. It is often used on social media platforms such as Twitter and Instagram. |
+| 47 | [#2000sonrasıADALET](http://twitter.com/search?q=%232000sonras%c4%b1ADALET) | N/A |
 | 48 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
 
 

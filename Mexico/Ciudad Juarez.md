@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-02-19 15:16:07 UTC`
+📆 Last Updated: `2023-02-19 16:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
 | 2 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 3 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
-| 4 | [#DíaDelEjércitoMexicano](http://twitter.com/search?q=%23D%c3%adaDelEj%c3%a9rcitoMexicano) | N/A |
+| 3 | [#DíaDelEjércitoMexicano](http://twitter.com/search?q=%23D%c3%adaDelEj%c3%a9rcitoMexicano) | N/A |
+| 4 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
 | 5 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
 | 6 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
 | 7 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 8 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 10 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
-| 11 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 12 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
-| 13 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 8 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
+| 9 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 12 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 13 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
 | 14 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
 | 15 | [Diogo](http://twitter.com/search?q=Diogo) | N/A |
-| 16 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 17 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 18 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
-| 19 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 20 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
-| 21 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 22 | [daniel ríos](http://twitter.com/search?q=daniel+r%c3%ados) | N/A |
-| 23 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 24 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 25 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 26 | [El 19](http://twitter.com/search?q=El+19) | N/A |
-| 27 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
-| 28 | [hugo gonzález](http://twitter.com/search?q=hugo+gonz%c3%a1lez) | N/A |
-| 29 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
-| 30 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
-| 31 | [camilo vargas](http://twitter.com/search?q=camilo+vargas) | N/A |
-| 32 | [Hoy 19](http://twitter.com/search?q=Hoy+19) | N/A |
-| 33 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
-| 34 | [IBAÑEZ](http://twitter.com/search?q=IBA%c3%91EZ) | N/A |
-| 35 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
-| 36 | [Monroy](http://twitter.com/search?q=Monroy) | N/A |
-| 37 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 38 | [alex quackity](http://twitter.com/search?q=alex+quackity) | N/A |
-| 39 | [aldrete](http://twitter.com/search?q=aldrete) | N/A |
-| 40 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 41 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 42 | [Salvio](http://twitter.com/search?q=Salvio) | N/A |
-| 43 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 44 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 45 | [chiquete](http://twitter.com/search?q=chiquete) | N/A |
-| 46 | [adonai escobedo](http://twitter.com/search?q=adonai+escobedo) | N/A |
-| 47 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
+| 16 | [Litio](http://twitter.com/search?q=Litio) | N/A |
+| 17 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
+| 18 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 19 | [Salernitana](http://twitter.com/search?q=Salernitana) | Salernitana is the nickname of U.S. Salernitana 1919, an Italian football club based in Salerno, Campania. The name Salernitana is derived from the city of Salerno and translates to "of/from Salerno" in English. |
+| 20 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 21 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
+| 22 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 23 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
+| 24 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 25 | [Nacionalizó](http://twitter.com/search?q=Nacionaliz%c3%b3) | N/A |
+| 26 | [Daniel Ríos](http://twitter.com/search?q=Daniel+R%c3%ados) | N/A |
+| 27 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 28 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 29 | [Excelente Domingo](http://twitter.com/search?q=Excelente+Domingo) | N/A |
+| 30 | [Aniquiladores](http://twitter.com/search?q=Aniquiladores) | N/A |
+| 31 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 32 | [Richard Gere](http://twitter.com/search?q=Richard+Gere) | N/A |
+| 33 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 34 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 35 | [hugo gonzález](http://twitter.com/search?q=hugo+gonz%c3%a1lez) | N/A |
+| 36 | [Tiba](http://twitter.com/search?q=Tiba) | N/A |
+| 37 | [camilo vargas](http://twitter.com/search?q=camilo+vargas) | N/A |
+| 38 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 39 | [Ibañez](http://twitter.com/search?q=Iba%c3%b1ez) | N/A |
+| 40 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 41 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 42 | [Hoy 19](http://twitter.com/search?q=Hoy+19) | N/A |
+| 43 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
+| 44 | [alex quackity](http://twitter.com/search?q=alex+quackity) | N/A |
+| 45 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
+| 46 | [aldrete](http://twitter.com/search?q=aldrete) | N/A |
+| 47 | [Salvio](http://twitter.com/search?q=Salvio) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-02-19 15:16:13 UTC`
+📆 Last Updated: `2023-02-19 16:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 2 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 1 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 3 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 4 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 5 | [#FrancesNaESPN](http://twitter.com/search?q=%23FrancesNaESPN) | N/A |
-| 6 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 7 | [LARISSA EXPULSA](http://twitter.com/search?q=LARISSA+EXPULSA) | N/A |
-| 8 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 9 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 10 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 11 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 12 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
-| 13 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
-| 14 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 15 | [jonah](http://twitter.com/search?q=jonah) | N/A |
-| 16 | [Domingo de Carnaval](http://twitter.com/search?q=Domingo+de+Carnaval) | N/A |
-| 17 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 18 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 20 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 21 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
-| 22 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 23 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
-| 24 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 25 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
-| 26 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
-| 27 | [Agrediu](http://twitter.com/search?q=Agrediu) | N/A |
-| 28 | [Manuel Capasso](http://twitter.com/search?q=Manuel+Capasso) | N/A |
-| 29 | [Millie](http://twitter.com/search?q=Millie) | N/A |
-| 30 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
-| 31 | [O Neymar](http://twitter.com/search?q=O+Neymar) | N/A |
-| 32 | [ELE VOLTOU](http://twitter.com/search?q=ELE+VOLTOU) | N/A |
-| 33 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 34 | [#BometThanksgivingDay](http://twitter.com/search?q=%23BometThanksgivingDay) | N/A |
-| 35 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 36 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
-| 37 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 38 | [Gordon](http://twitter.com/search?q=Gordon) | Gordon is a masculine given name of Scottish origin. It is derived from the Scottish surname Gordon, which is believed to be derived from a place name in Berwickshire, Scotland. The meaning of Gordon in English is "spacious fort". |
-| 39 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 40 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 41 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 42 | [Império da Tijuca](http://twitter.com/search?q=Imp%c3%a9rio+da+Tijuca) | N/A |
-| 43 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
-| 44 | [lito](http://twitter.com/search?q=lito) | N/A |
-| 45 | [Dragões](http://twitter.com/search?q=Drag%c3%b5es) | N/A |
-| 46 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
-| 47 | [São Pedro](http://twitter.com/search?q=S%c3%a3o+Pedro) | N/A |
-| 48 | [Espiritismo](http://twitter.com/search?q=Espiritismo) | N/A |
-| 49 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 4 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 5 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 6 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
+| 7 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
+| 8 | [#larissaexpulsa](http://twitter.com/search?q=%23larissaexpulsa) | N/A |
+| 9 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 10 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 11 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 12 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 13 | [Vinagrete](http://twitter.com/search?q=Vinagrete) | N/A |
+| 14 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 15 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 16 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 17 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 18 | [#DoctorWhoNoBrasil](http://twitter.com/search?q=%23DoctorWhoNoBrasil) | N/A |
+| 19 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 20 | [#francêsnaespn](http://twitter.com/search?q=%23franc%c3%aasnaespn) | N/A |
+| 21 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
+| 22 | [Domingo de Carnaval](http://twitter.com/search?q=Domingo+de+Carnaval) | N/A |
+| 23 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 24 | [Agrediu](http://twitter.com/search?q=Agrediu) | N/A |
+| 25 | [Faes](http://twitter.com/search?q=Faes) | N/A |
+| 26 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
+| 27 | [Couve](http://twitter.com/search?q=Couve) | N/A |
+| 28 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 29 | [Deolane](http://twitter.com/search?q=Deolane) | N/A |
+| 30 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
+| 31 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 32 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 33 | [#PremierLeagueNaESPN](http://twitter.com/search?q=%23PremierLeagueNaESPN) | N/A |
+| 34 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 35 | [Millie](http://twitter.com/search?q=Millie) | N/A |
+| 36 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
+| 37 | [Noah](http://twitter.com/search?q=Noah) | Noah is a biblical figure who is best known for building an ark and saving two of every animal from a great flood. The name Noah is derived from the Hebrew word “Noach” which means “rest” or “comfort.” |
+| 38 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 39 | [Hary](http://twitter.com/search?q=Hary) | N/A |
+| 40 | [Manuel Capasso](http://twitter.com/search?q=Manuel+Capasso) | N/A |
+| 41 | [Fisicamente](http://twitter.com/search?q=Fisicamente) | N/A |
+| 42 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
+| 43 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 44 | [ELE VOLTOU](http://twitter.com/search?q=ELE+VOLTOU) | N/A |
+| 45 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
+| 46 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 47 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 48 | [Divaldo Franco](http://twitter.com/search?q=Divaldo+Franco) | N/A |
+| 49 | [Folha](http://twitter.com/search?q=Folha) | Folha is a Portuguese word meaning "leaf" or "sheet". It is commonly used to refer to newspapers, magazines, and other publications. It can also be used to refer to a single page of a book or document. |
 
 
 
