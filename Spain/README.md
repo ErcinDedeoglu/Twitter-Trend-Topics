@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-19 13:19:49 UTC`
+📆 Last Updated: `2023-02-19 14:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for Spain
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 2 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 3 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 4 | [#COAC2023Final](http://twitter.com/search?q=%23COAC2023Final) | N/A |
-| 5 | [#FinalMurgasLPGC](http://twitter.com/search?q=%23FinalMurgasLPGC) | N/A |
-| 6 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
-| 7 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 8 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 9 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 10 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 11 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 12 | [Jaime Nava](http://twitter.com/search?q=Jaime+Nava) | N/A |
-| 13 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 14 | [#dejatequerer](http://twitter.com/search?q=%23dejatequerer) | N/A |
-| 15 | [David Suárez](http://twitter.com/search?q=David+Su%c3%a1rez) | N/A |
-| 16 | [El Sadar](http://twitter.com/search?q=El+Sadar) | N/A |
-| 17 | [Jordi Wild](http://twitter.com/search?q=Jordi+Wild) | N/A |
-| 18 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 19 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 20 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 21 | [Simo](http://twitter.com/search?q=Simo) | N/A |
-| 22 | [munuera montero](http://twitter.com/search?q=munuera+montero) | N/A |
-| 23 | [Clerc](http://twitter.com/search?q=Clerc) | N/A |
-| 24 | [Chus Mateo](http://twitter.com/search?q=Chus+Mateo) | Chus Mateo is a Spanish phrase that translates to "God bless you" in English. It is used as a way to express good wishes or blessings to someone. |
-| 25 | [Mourinho](http://twitter.com/search?q=Mourinho) | N/A |
-| 26 | [Talavera](http://twitter.com/search?q=Talavera) | N/A |
-| 27 | [Villa Park](http://twitter.com/search?q=Villa+Park) | N/A |
-| 28 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 29 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 30 | [Lebedenko](http://twitter.com/search?q=Lebedenko) | N/A |
-| 31 | [Moi Gómez](http://twitter.com/search?q=Moi+G%c3%b3mez) | N/A |
-| 32 | [Sergio Herrera](http://twitter.com/search?q=Sergio+Herrera) | N/A |
-| 33 | [Tiparraco](http://twitter.com/search?q=Tiparraco) | N/A |
-| 34 | [Mateu](http://twitter.com/search?q=Mateu) | N/A |
-| 35 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
-| 36 | [Casado](http://twitter.com/search?q=Casado) | N/A |
-| 37 | [Xerez](http://twitter.com/search?q=Xerez) | N/A |
-| 38 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 39 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 40 | [Vilda](http://twitter.com/search?q=Vilda) | N/A |
-| 41 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 42 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 43 | [Marvel](http://twitter.com/search?q=Marvel) | Marvel is a brand name associated with comic books, movies, and other entertainment media created by Marvel Entertainment. It is best known for its superhero characters such as Spider-Man, Iron Man, Captain America, Thor, the Hulk, and the X-Men. The word "marvel" can also be used to describe something that is extraordinary or amazing. |
-| 44 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
-| 45 | [SEAT 1400](http://twitter.com/search?q=SEAT+1400) | N/A |
-| 46 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 47 | [Laso](http://twitter.com/search?q=Laso) | N/A |
-| 48 | [Depor](http://twitter.com/search?q=Depor) | N/A |
-| 49 | [El Alcoraz](http://twitter.com/search?q=El+Alcoraz) | N/A |
-| 50 | [Penya](http://twitter.com/search?q=Penya) | N/A |
+| 1 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 2 | [#MinicopaEndesa](http://twitter.com/search?q=%23MinicopaEndesa) | N/A |
+| 3 | [#carnavalCEX](http://twitter.com/search?q=%23carnavalCEX) | N/A |
+| 4 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 5 | [Luis Campos](http://twitter.com/search?q=Luis+Campos) | N/A |
+| 6 | [Jaime Nava](http://twitter.com/search?q=Jaime+Nava) | N/A |
+| 7 | [#ElcheEspanyol](http://twitter.com/search?q=%23ElcheEspanyol) | N/A |
+| 8 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 9 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
+| 10 | [Depor](http://twitter.com/search?q=Depor) | N/A |
+| 11 | [Rafa Mir](http://twitter.com/search?q=Rafa+Mir) | Rafa Mir is a Spanish footballer who currently plays for Wolverhampton Wanderers in the English Premier League. His name translates to "Rafa Look" in English. |
+| 12 | [Martínez Valero](http://twitter.com/search?q=Mart%c3%adnez+Valero) | N/A |
+| 13 | [Talavera](http://twitter.com/search?q=Talavera) | N/A |
+| 14 | [Simo](http://twitter.com/search?q=Simo) | N/A |
+| 15 | [El Alcoraz](http://twitter.com/search?q=El+Alcoraz) | N/A |
+| 16 | [Casado](http://twitter.com/search?q=Casado) | N/A |
+| 17 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 18 | [Vilda](http://twitter.com/search?q=Vilda) | N/A |
+| 19 | [Buen Domingo](http://twitter.com/search?q=Buen+Domingo) | N/A |
+| 20 | [Seat 1400](http://twitter.com/search?q=Seat+1400) | N/A |
+| 21 | [El Prado](http://twitter.com/search?q=El+Prado) | N/A |
+| 22 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 23 | [Luis Suárez](http://twitter.com/search?q=Luis+Su%c3%a1rez) | N/A |
+| 24 | [Alba Carrillo](http://twitter.com/search?q=Alba+Carrillo) | N/A |
+| 25 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 26 | [Jorge Pérez](http://twitter.com/search?q=Jorge+P%c3%a9rez) | N/A |
+| 27 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 28 | [Domingo 19](http://twitter.com/search?q=Domingo+19) | N/A |
+| 29 | [Paz Padilla](http://twitter.com/search?q=Paz+Padilla) | N/A |
+| 30 | [Laso](http://twitter.com/search?q=Laso) | N/A |
+| 31 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 32 | [#HuescaGranada](http://twitter.com/search?q=%23HuescaGranada) | N/A |
+| 33 | [#APOYOROCIO19F](http://twitter.com/search?q=%23APOYOROCIO19F) | N/A |
+| 34 | [#SeductiveSunday](http://twitter.com/search?q=%23SeductiveSunday) | N/A |
+| 35 | [#LGTBIfobia](http://twitter.com/search?q=%23LGTBIfobia) | N/A |
+| 36 | [#RayoSevillaFC](http://twitter.com/search?q=%23RayoSevillaFC) | N/A |
+| 37 | [#CCubicos313](http://twitter.com/search?q=%23CCubicos313) | N/A |
+| 38 | [#YoMeRebelo19F](http://twitter.com/search?q=%23YoMeRebelo19F) | N/A |
+| 39 | [#CEatletismoPC](http://twitter.com/search?q=%23CEatletismoPC) | N/A |
+| 40 | [#TerceraRFEF](http://twitter.com/search?q=%23TerceraRFEF) | N/A |
+| 41 | [#69RdS](http://twitter.com/search?q=%2369RdS) | N/A |
+| 42 | [#Llorona](http://twitter.com/search?q=%23Llorona) | N/A |
 
 
 

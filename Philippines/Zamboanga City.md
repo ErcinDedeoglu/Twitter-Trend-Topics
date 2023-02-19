@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-19 13:19:22 UTC`
+📆 Last Updated: `2023-02-19 14:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JoshCullenTeaserPhoto](http://twitter.com/search?q=%23JoshCullenTeaserPhoto) | N/A |
-| 2 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
-| 3 | [#askBarbie](http://twitter.com/search?q=%23askBarbie) | N/A |
-| 4 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
-| 5 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
-| 6 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 7 | [allforone asapwithbelle](http://twitter.com/search?q=allforone+asapwithbelle) | N/A |
-| 8 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
-| 9 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 10 | [VICE SING GANDA B](http://twitter.com/search?q=VICE+SING+GANDA+B) | N/A |
-| 11 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 12 | [stephen curry](http://twitter.com/search?q=stephen+curry) | N/A |
-| 13 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 1 | [jake](http://twitter.com/search?q=jake) | N/A |
+| 2 | [#JoshCullenTeaserPhoto](http://twitter.com/search?q=%23JoshCullenTeaserPhoto) | N/A |
+| 3 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
+| 4 | [#askBarbie](http://twitter.com/search?q=%23askBarbie) | N/A |
+| 5 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
+| 6 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
+| 7 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
+| 8 | [allforone asapwithbelle](http://twitter.com/search?q=allforone+asapwithbelle) | N/A |
+| 9 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
+| 10 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 11 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 12 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 13 | [WET THE BED](http://twitter.com/search?q=WET+THE+BED) | N/A |
 | 14 | [INVINCIBL3 DAY](http://twitter.com/search?q=INVINCIBL3+DAY) | N/A |
-| 15 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 16 | [Cash](http://twitter.com/search?q=Cash) | N/A |
-| 17 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 18 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
+| 15 | [Jungwoo](http://twitter.com/search?q=Jungwoo) | Jungwoo is a Korean given name, typically given to boys. It is composed of two characters: Jung (중) meaning "center" or "middle", and Woo (우) meaning "rain". In English, the name can be translated to mean "center of rain". |
+| 16 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 17 | [Myla Pablo](http://twitter.com/search?q=Myla+Pablo) | N/A |
+| 18 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
 | 19 | [zach charms pangasinan](http://twitter.com/search?q=zach+charms+pangasinan) | N/A |
-| 20 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 21 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 22 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 23 | [JULIEVER ClashMasters](http://twitter.com/search?q=JULIEVER+ClashMasters) | N/A |
-| 24 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
-| 25 | [PIEwer VOTE FOR ANJI](http://twitter.com/search?q=PIEwer+VOTE+FOR+ANJI) | N/A |
+| 20 | [JULIEVER ClashMasters](http://twitter.com/search?q=JULIEVER+ClashMasters) | N/A |
+| 21 | [PIEwer VOTE FOR ANJI](http://twitter.com/search?q=PIEwer+VOTE+FOR+ANJI) | N/A |
+| 22 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 23 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
+| 24 | [alam by sarahgxjroa](http://twitter.com/search?q=alam+by+sarahgxjroa) | N/A |
+| 25 | [Cash](http://twitter.com/search?q=Cash) | N/A |
 | 26 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
-| 27 | [ALAM BY SARAHGxJROA](http://twitter.com/search?q=ALAM+BY+SARAHGxJROA) | N/A |
-| 28 | [walang aray sa kdlex](http://twitter.com/search?q=walang+aray+sa+kdlex) | N/A |
-| 29 | [JulieAnne ClashMaster](http://twitter.com/search?q=JulieAnne+ClashMaster) | N/A |
-| 30 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
-| 31 | [ES2 SEASON FINALE](http://twitter.com/search?q=ES2+SEASON+FINALE) | N/A |
-| 32 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 33 | [ZACHAM PieGalingan SaEPL](http://twitter.com/search?q=ZACHAM+PieGalingan+SaEPL) | N/A |
-| 34 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
-| 35 | [sundrei goodvibes](http://twitter.com/search?q=sundrei+goodvibes) | N/A |
-| 36 | [HWANDERFULYEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFULYEARS+WITH+JUNGHWAN) | N/A |
-| 37 | [asapfeboritonatinto jona](http://twitter.com/search?q=asapfeboritonatinto+jona) | N/A |
-| 38 | [bini sa cosmos 2023](http://twitter.com/search?q=bini+sa+cosmos+2023) | N/A |
-| 39 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
+| 27 | [walang aray sa kdlex](http://twitter.com/search?q=walang+aray+sa+kdlex) | N/A |
+| 28 | [JulieAnne ClashMaster](http://twitter.com/search?q=JulieAnne+ClashMaster) | N/A |
+| 29 | [walang aray sa teatro](http://twitter.com/search?q=walang+aray+sa+teatro) | N/A |
+| 30 | [ZACHAM PieGalingan SaEPL](http://twitter.com/search?q=ZACHAM+PieGalingan+SaEPL) | N/A |
+| 31 | [sundrei goodvibes](http://twitter.com/search?q=sundrei+goodvibes) | N/A |
+| 32 | [bini sa cosmos 2023](http://twitter.com/search?q=bini+sa+cosmos+2023) | N/A |
+| 33 | [hwanderfulyears with junghwan](http://twitter.com/search?q=hwanderfulyears+with+junghwan) | N/A |
+| 34 | [queen regine](http://twitter.com/search?q=queen+regine) | N/A |
+| 35 | [mc hwasa](http://twitter.com/search?q=mc+hwasa) | N/A |
+| 36 | [kehlani](http://twitter.com/search?q=kehlani) | N/A |
+| 37 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
+| 38 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
+| 39 | [Vega](http://twitter.com/search?q=Vega) | N/A |
 | 40 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 41 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
-| 42 | [thank you mc hwasa](http://twitter.com/search?q=thank+you+mc+hwasa) | N/A |
-| 43 | [Kehlani](http://twitter.com/search?q=Kehlani) | N/A |
-| 44 | [mpkpresents kokoy lifestory](http://twitter.com/search?q=mpkpresents+kokoy+lifestory) | N/A |
-| 45 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 46 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
-| 47 | [SUNOO RED HAIR](http://twitter.com/search?q=SUNOO+RED+HAIR) | N/A |
-| 48 | [PRIORITIZE JIN ON MUBEAT](http://twitter.com/search?q=PRIORITIZE+JIN+ON+MUBEAT) | N/A |
-| 49 | [mark lee](http://twitter.com/search?q=mark+lee) | Mark Lee is a Korean name, and it does not have a specific meaning in English. |
+| 41 | [PRIORITIZE JIN ON MUBEAT](http://twitter.com/search?q=PRIORITIZE+JIN+ON+MUBEAT) | N/A |
+| 42 | [sunoo red hair](http://twitter.com/search?q=sunoo+red+hair) | N/A |
+| 43 | [ES2 SEASON FINALE](http://twitter.com/search?q=ES2+SEASON+FINALE) | N/A |
+| 44 | [Primo](http://twitter.com/search?q=Primo) | N/A |
+| 45 | [Creamline](http://twitter.com/search?q=Creamline) | N/A |
+| 46 | [Justin Bieber](http://twitter.com/search?q=Justin+Bieber) | N/A |
+| 47 | [asapfeboritonatinto jona](http://twitter.com/search?q=asapfeboritonatinto+jona) | N/A |
+| 48 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 49 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
 
 
 

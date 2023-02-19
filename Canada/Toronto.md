@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-02-19 13:18:54 UTC`
+📆 Last Updated: `2023-02-19 14:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 3 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 4 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 5 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 6 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 7 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
-| 8 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 9 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 10 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 11 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 12 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
-| 13 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 14 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 15 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 16 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 17 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 18 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
-| 19 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 2 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 3 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 4 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 5 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 6 | [o'reilly](http://twitter.com/search?q=o%27reilly) | N/A |
+| 7 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 8 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
+| 9 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 10 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 11 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 12 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
+| 13 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
+| 14 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 15 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
+| 16 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 17 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 18 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 19 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 | 20 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 21 | [RANDLE](http://twitter.com/search?q=RANDLE) | N/A |
-| 22 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 23 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
-| 24 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 25 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 26 | [silovs](http://twitter.com/search?q=silovs) | N/A |
-| 27 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
-| 28 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 29 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
-| 30 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 31 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 32 | [Knight](http://twitter.com/search?q=Knight) | N/A |
-| 33 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 34 | [TYRESE](http://twitter.com/search?q=TYRESE) | N/A |
-| 35 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 36 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 37 | [engvall](http://twitter.com/search?q=engvall) | N/A |
-| 38 | [Torts](http://twitter.com/search?q=Torts) | Torts is a branch of civil law that deals with wrongs committed against individuals or their property. It is an area of law that provides remedies for those who have suffered harm due to the wrongful acts of another. Torts can include intentional wrongs, such as assault and battery, as well as unintentional wrongs, such as negligence. |
-| 39 | [Habs](http://twitter.com/search?q=Habs) | N/A |
-| 40 | [Peter Herrndorf](http://twitter.com/search?q=Peter+Herrndorf) | N/A |
-| 41 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 42 | [Woll](http://twitter.com/search?q=Woll) | N/A |
-| 43 | [Convoy](http://twitter.com/search?q=Convoy) | N/A |
-| 44 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
-| 45 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 46 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 21 | [Emergencies Act](http://twitter.com/search?q=Emergencies+Act) | N/A |
+| 22 | [Dubas](http://twitter.com/search?q=Dubas) | N/A |
+| 23 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 24 | [RANDLE](http://twitter.com/search?q=RANDLE) | N/A |
+| 25 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 26 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 27 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
+| 28 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 29 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 30 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 31 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 32 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
+| 33 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 34 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 35 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 36 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 37 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 38 | [Peter Herrndorf](http://twitter.com/search?q=Peter+Herrndorf) | N/A |
+| 39 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 40 | [Convoy](http://twitter.com/search?q=Convoy) | N/A |
+| 41 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 42 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 43 | [Habs](http://twitter.com/search?q=Habs) | N/A |
+| 44 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 45 | [silovs](http://twitter.com/search?q=silovs) | N/A |
+| 46 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
 | 47 | [o'rielly](http://twitter.com/search?q=o%27rielly) | N/A |
-| 48 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
-| 49 | [Emergency Act](http://twitter.com/search?q=Emergency+Act) | N/A |
-| 50 | [KEVIN HUERTER](http://twitter.com/search?q=KEVIN+HUERTER) | N/A |
+| 48 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 49 | [Woll](http://twitter.com/search?q=Woll) | N/A |
+| 50 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
 
 
 

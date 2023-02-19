@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-02-19 13:19:39 UTC`
+📆 Last Updated: `2023-02-19 14:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
-| 2 | [Good Sunday](http://twitter.com/search?q=Good+Sunday) | Good Sunday is a South Korean variety show that aired on SBS from 2005 to 2011. It was a popular variety show that featured celebrity guests, games, and performances. The show's name comes from the fact that it aired on Sundays, which is traditionally considered a day of rest and relaxation in South Korea. In English, Good Sunday means a day of rest and relaxation. |
-| 3 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 4 | [#SundayMotivation](http://twitter.com/search?q=%23SundayMotivation) | N/A |
-| 5 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 6 | [#Wordle610](http://twitter.com/search?q=%23Wordle610) | N/A |
-| 7 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
-| 8 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 9 | [Carter](http://twitter.com/search?q=Carter) | N/A |
-| 10 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 11 | [Contented](http://twitter.com/search?q=Contented) | Contented is an adjective that means feeling or showing satisfaction with one's situation or circumstances. It is often used to describe someone who is happy and content with their life. |
-| 12 | [Kairi](http://twitter.com/search?q=Kairi) | Kairi is a Japanese name meaning "ocean village". It is also the name of a character in the popular video game series Kingdom Hearts. |
-| 13 | [Shade](http://twitter.com/search?q=Shade) | N/A |
-| 14 | [Spam](http://twitter.com/search?q=Spam) | N/A |
-| 15 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
-| 16 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
-| 17 | [O God](http://twitter.com/search?q=O+God) | N/A |
-| 18 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
-| 19 | [Ciara](http://twitter.com/search?q=Ciara) | N/A |
-| 20 | [Brent Barry](http://twitter.com/search?q=Brent+Barry) | N/A |
-| 21 | [Keffals](http://twitter.com/search?q=Keffals) | N/A |
-| 22 | [Montez](http://twitter.com/search?q=Montez) | N/A |
-| 23 | [Sierra Mist](http://twitter.com/search?q=Sierra+Mist) | N/A |
-| 24 | [Aaron Gordon](http://twitter.com/search?q=Aaron+Gordon) | N/A |
-| 25 | [Gate City](http://twitter.com/search?q=Gate+City) | N/A |
-| 26 | [His World](http://twitter.com/search?q=His+World) | N/A |
-| 27 | [G-League](http://twitter.com/search?q=G-League) | N/A |
-| 28 | [Jay White](http://twitter.com/search?q=Jay+White) | Jay White is a Japanese professional wrestler who currently works for New Japan Pro-Wrestling. His ring name is derived from his real name, Shoji White. He is known for his high-flying style and technical wrestling ability. |
-| 29 | [Reigns](http://twitter.com/search?q=Reigns) | N/A |
-| 30 | [Starry](http://twitter.com/search?q=Starry) | N/A |
-| 31 | [Black Adam](http://twitter.com/search?q=Black+Adam) | N/A |
-| 32 | [Owens](http://twitter.com/search?q=Owens) | N/A |
-| 33 | [Usos](http://twitter.com/search?q=Usos) | Usos is a Spanish word meaning "uses" or "purposes". It is used to refer to the various ways in which something can be used or applied. |
-| 34 | [#sundaythoughts](http://twitter.com/search?q=%23sundaythoughts) | N/A |
-| 35 | [#FarmhouseShopeexMileApo](http://twitter.com/search?q=%23FarmhouseShopeexMileApo) | N/A |
-| 36 | [#njBitV](http://twitter.com/search?q=%23njBitV) | N/A |
-| 37 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
-| 38 | [#njpw](http://twitter.com/search?q=%23njpw) | #NJPW stands for New Japan Pro Wrestling, which is a Japanese professional wrestling promotion. It is one of the largest and most popular wrestling promotions in the world. |
-| 39 | [#NASCAR75](http://twitter.com/search?q=%23NASCAR75) | N/A |
-| 40 | [#Injustice](http://twitter.com/search?q=%23Injustice) | N/A |
-| 41 | [#Toonami](http://twitter.com/search?q=%23Toonami) | N/A |
-| 42 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 43 | [#FuralityLumaFestival](http://twitter.com/search?q=%23FuralityLumaFestival) | N/A |
-| 44 | [#LAMDC](http://twitter.com/search?q=%23LAMDC) | N/A |
+| 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 2 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 3 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 4 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 5 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 6 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 7 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 8 | [#SundayMorning](http://twitter.com/search?q=%23SundayMorning) | N/A |
+| 9 | [#DunkContest](http://twitter.com/search?q=%23DunkContest) | N/A |
+| 10 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 11 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 12 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 13 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 14 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 15 | [Jericho Sims](http://twitter.com/search?q=Jericho+Sims) | N/A |
+| 16 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 17 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 18 | [FEMA](http://twitter.com/search?q=FEMA) | N/A |
+| 19 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 20 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 21 | [Trey Murphy](http://twitter.com/search?q=Trey+Murphy) | Trey Murphy is a slang term used to describe someone who is very intelligent and successful. It is derived from the name of the character in the movie "Good Will Hunting," who was portrayed as a genius with an impressive academic record. |
+| 22 | [Montez Ford](http://twitter.com/search?q=Montez+Ford) | N/A |
+| 23 | [Kang](http://twitter.com/search?q=Kang) | Kang is a Korean word that means "room" or "space." It is often used to refer to a living space, such as a bedroom or living room. |
+| 24 | [Lisa Leslie](http://twitter.com/search?q=Lisa+Leslie) | N/A |
+| 25 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 26 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 27 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 28 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 29 | [Skrillex](http://twitter.com/search?q=Skrillex) | N/A |
+| 30 | [Logan Paul](http://twitter.com/search?q=Logan+Paul) | Logan Paul is an American YouTuber, actor, and social media personality. He is best known for his YouTube videos, which have been viewed over 4 billion times. He has also appeared in films and television series such as The Thinning and Law & Order: Special Victims Unit. The name Logan Paul is derived from the combination of his first name, Logan, and his middle name, Paul. |
+| 31 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 32 | [Tiger](http://twitter.com/search?q=Tiger) | N/A |
+| 33 | [Brock](http://twitter.com/search?q=Brock) | Brock is a name of English origin, derived from the Old English word "broc" meaning badger. It is also a surname, and can be used as a given name for both boys and girls. |
+| 34 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
+| 35 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 36 | [KEVIN HUERTER](http://twitter.com/search?q=KEVIN+HUERTER) | N/A |
+| 37 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 38 | [Daily Quordle 391](http://twitter.com/search?q=Daily+Quordle+391) | N/A |
+| 39 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 40 | [Authenticator](http://twitter.com/search?q=Authenticator) | N/A |
+| 41 | [Lashley](http://twitter.com/search?q=Lashley) | Lashley is a surname of English origin. It is derived from the Old English words læsc (meaning "salmon") and leah (meaning "woodland clearing"). The name was originally given to someone who lived near a salmon-filled stream or river. |
+| 42 | [Herro](http://twitter.com/search?q=Herro) | "Herro" is an informal way of saying "Hello". It is often used as a friendly greeting. |
+| 43 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
+| 44 | [Jonathan Majors](http://twitter.com/search?q=Jonathan+Majors) | Jonathan Majors is an American actor. He is best known for his roles in the films The Last Black Man in San Francisco, Da 5 Bloods, and Lovecraft Country. His name is derived from his given name, Jonathan, and his middle name, Majors. |
+| 45 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 46 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 47 | [Tyrese](http://twitter.com/search?q=Tyrese) | N/A |
+| 48 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 49 | [MSNBC](http://twitter.com/search?q=MSNBC) | N/A |
 
 
 

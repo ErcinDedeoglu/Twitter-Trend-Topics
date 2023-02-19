@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-19 13:19:34 UTC`
+📆 Last Updated: `2023-02-19 14:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [New Zealand](</New Zealand>)
 | ------- | ------------ | ------------ |
 | 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
 | 2 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 3 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
+| 3 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
 | 4 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 5 | [#NBL23](http://twitter.com/search?q=%23NBL23) | N/A |
-| 6 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 6 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
 | 7 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 8 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 9 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 8 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 9 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 | 10 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 11 | [Breakers](http://twitter.com/search?q=Breakers) | N/A |
 | 12 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
-| 13 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 14 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 15 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 16 | [LARP](http://twitter.com/search?q=LARP) | N/A |
-| 17 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 18 | [Hooton](http://twitter.com/search?q=Hooton) | N/A |
-| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 13 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 14 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 15 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
+| 16 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 17 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 18 | [hooton](http://twitter.com/search?q=hooton) | N/A |
+| 19 | [Newshub](http://twitter.com/search?q=Newshub) | N/A |
 | 20 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 21 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 22 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 23 | [Newshub](http://twitter.com/search?q=Newshub) | N/A |
-| 24 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 25 | [napier](http://twitter.com/search?q=napier) | N/A |
-| 26 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
-| 27 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 28 | [richard hills](http://twitter.com/search?q=richard+hills) | N/A |
-| 29 | [plunket](http://twitter.com/search?q=plunket) | N/A |
-| 30 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 31 | [Helen](http://twitter.com/search?q=Helen) | N/A |
-| 32 | [hoots](http://twitter.com/search?q=hoots) | N/A |
-| 33 | [stuart broad](http://twitter.com/search?q=stuart+broad) | N/A |
-| 34 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 35 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 36 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 37 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
-| 38 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
-| 39 | [Williamson](http://twitter.com/search?q=Williamson) | N/A |
-| 40 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
-| 41 | [Conway](http://twitter.com/search?q=Conway) | N/A |
-| 42 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 43 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
-| 44 | [Michael](http://twitter.com/search?q=Michael) | N/A |
-| 45 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
+| 21 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 22 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
+| 23 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 24 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
+| 25 | [richard hills](http://twitter.com/search?q=richard+hills) | N/A |
+| 26 | [plunket](http://twitter.com/search?q=plunket) | N/A |
+| 27 | [Napier](http://twitter.com/search?q=Napier) | N/A |
+| 28 | [Helen](http://twitter.com/search?q=Helen) | N/A |
+| 29 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 30 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 31 | [Stuart Broad](http://twitter.com/search?q=Stuart+Broad) | N/A |
+| 32 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 33 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 34 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 35 | [Gilda](http://twitter.com/search?q=Gilda) | N/A |
+| 36 | [Red Cross](http://twitter.com/search?q=Red+Cross) | N/A |
+| 37 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 38 | [Conway](http://twitter.com/search?q=Conway) | N/A |
+| 39 | [hoots](http://twitter.com/search?q=hoots) | N/A |
+| 40 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 41 | [Michael](http://twitter.com/search?q=Michael) | N/A |
+| 42 | [Foxy](http://twitter.com/search?q=Foxy) | N/A |
+| 43 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 44 | [Shakespeare](http://twitter.com/search?q=Shakespeare) | N/A |
+| 45 | [Southland](http://twitter.com/search?q=Southland) | N/A |
 | 46 | [Collins](http://twitter.com/search?q=Collins) | N/A |
 | 47 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 48 | [Pride](http://twitter.com/search?q=Pride) | N/A |
-| 49 | [NZME](http://twitter.com/search?q=NZME) | N/A |
+| 48 | [NZME](http://twitter.com/search?q=NZME) | N/A |
+| 49 | [Pride](http://twitter.com/search?q=Pride) | N/A |
 
 
 

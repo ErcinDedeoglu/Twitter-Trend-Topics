@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-19 13:19:15 UTC`
+📆 Last Updated: `2023-02-19 14:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
 | 2 | [#정우가모은_슈가링캔디_스물여섯알](http://twitter.com/search?q=%23%ec%a0%95%ec%9a%b0%ea%b0%80%eb%aa%a8%ec%9d%80_%ec%8a%88%ea%b0%80%eb%a7%81%ec%ba%94%eb%94%94_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af%ec%95%8c) | N/A |
-| 3 | [Baju Kembaran](http://twitter.com/search?q=Baju+Kembaran) | N/A |
-| 4 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
-| 5 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 6 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
-| 7 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
-| 8 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 9 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 10 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
-| 11 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 12 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
-| 13 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 14 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 15 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
-| 16 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 17 | [Pasar Wonokromo](http://twitter.com/search?q=Pasar+Wonokromo) | N/A |
-| 18 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 19 | [PRIORITIZE JIN ON MUBEAT](http://twitter.com/search?q=PRIORITIZE+JIN+ON+MUBEAT) | N/A |
+| 3 | [#Fighting5thWin](http://twitter.com/search?q=%23Fighting5thWin) | N/A |
+| 4 | [Baju Kembaran](http://twitter.com/search?q=Baju+Kembaran) | N/A |
+| 5 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
+| 6 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 7 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 8 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
+| 9 | [Besok Senin](http://twitter.com/search?q=Besok+Senin) | N/A |
+| 10 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 11 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
+| 12 | [danamon](http://twitter.com/search?q=danamon) | N/A |
+| 13 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 14 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 15 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
+| 16 | [Pasar Wonokromo](http://twitter.com/search?q=Pasar+Wonokromo) | N/A |
+| 17 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 18 | [RENJUN WE LOVE YOU](http://twitter.com/search?q=RENJUN+WE+LOVE+YOU) | N/A |
+| 19 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
 | 20 | [Emi Martinez](http://twitter.com/search?q=Emi+Martinez) | N/A |
-| 21 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
+| 21 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
 | 22 | [era baru pssi](http://twitter.com/search?q=era+baru+pssi) | N/A |
-| 23 | [Minggu](http://twitter.com/search?q=Minggu) | N/A |
-| 24 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 23 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
+| 24 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
 | 25 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
-| 26 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 27 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 28 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
-| 29 | [Nabi Muhammad SAW](http://twitter.com/search?q=Nabi+Muhammad+SAW) | N/A |
-| 30 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
-| 31 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 32 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 33 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
-| 34 | [Sangiran](http://twitter.com/search?q=Sangiran) | N/A |
-| 35 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
-| 36 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 37 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
-| 38 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
-| 39 | [tbc musuh semua](http://twitter.com/search?q=tbc+musuh+semua) | N/A |
-| 40 | [7dream](http://twitter.com/search?q=7dream) | 7dream is a Japanese term that refers to the idea of achieving one's dreams and goals. It is often used as a motivational phrase to encourage people to pursue their ambitions and strive for success. The term can also be used to refer to the idea of living life with passion and purpose. |
-| 41 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
-| 42 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
-| 43 | [PARK JISUNG THANK YOU](http://twitter.com/search?q=PARK+JISUNG+THANK+YOU) | N/A |
-| 44 | [Confess](http://twitter.com/search?q=Confess) | N/A |
-| 45 | [CHART LEGEND JUNGKOOK](http://twitter.com/search?q=CHART+LEGEND+JUNGKOOK) | N/A |
-| 46 | [jaemin](http://twitter.com/search?q=jaemin) | N/A |
-| 47 | [900M FOR SUGA](http://twitter.com/search?q=900M+FOR+SUGA) | N/A |
-| 48 | [HWANDERFULYEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFULYEARS+WITH+JUNGHWAN) | N/A |
+| 26 | [PRIORITIZE JIN ON MUBEAT](http://twitter.com/search?q=PRIORITIZE+JIN+ON+MUBEAT) | N/A |
+| 27 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 28 | [Confess](http://twitter.com/search?q=Confess) | N/A |
+| 29 | [Hapsun](http://twitter.com/search?q=Hapsun) | N/A |
+| 30 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 31 | [Rasulullah SAW](http://twitter.com/search?q=Rasulullah+SAW) | N/A |
+| 32 | [Cilung](http://twitter.com/search?q=Cilung) | N/A |
+| 33 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 34 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 35 | [Sullyoon](http://twitter.com/search?q=Sullyoon) | N/A |
+| 36 | [Nick Pope](http://twitter.com/search?q=Nick+Pope) | Nick Pope is a British author, journalist, and media commentator who specializes in conspiracy theories and the paranormal. He is best known for his work with the British Ministry of Defence from 1991 to 1994, where he investigated reports of UFOs. |
+| 37 | [Nabi Muhammad SAW](http://twitter.com/search?q=Nabi+Muhammad+SAW) | N/A |
+| 38 | [txt at circle chart awards](http://twitter.com/search?q=txt+at+circle+chart+awards) | N/A |
+| 39 | [Sangiran](http://twitter.com/search?q=Sangiran) | N/A |
+| 40 | [Elanga](http://twitter.com/search?q=Elanga) | Elanga is a term used in the Indian language of Tamil, and it means “to be happy” or “to be joyful”. |
+| 41 | [tbc musuh semua](http://twitter.com/search?q=tbc+musuh+semua) | N/A |
+| 42 | [Unlocked](http://twitter.com/search?q=Unlocked) | N/A |
+| 43 | [Biduran](http://twitter.com/search?q=Biduran) | N/A |
+| 44 | [park jisung thank you](http://twitter.com/search?q=park+jisung+thank+you) | N/A |
+| 45 | [900M FOR SUGA](http://twitter.com/search?q=900M+FOR+SUGA) | N/A |
+| 46 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 47 | [iPhone 14](http://twitter.com/search?q=iPhone+14) | N/A |
+| 48 | [CHART LEGEND JUNGKOOK](http://twitter.com/search?q=CHART+LEGEND+JUNGKOOK) | N/A |
 
 
 

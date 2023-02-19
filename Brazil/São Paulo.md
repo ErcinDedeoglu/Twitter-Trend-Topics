@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-19 13:19:04 UTC`
+📆 Last Updated: `2023-02-19 14:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Pabllo](http://twitter.com/search?q=Pabllo) | N/A |
 | 2 | [São Pedro](http://twitter.com/search?q=S%c3%a3o+Pedro) | N/A |
 | 3 | [Guarujá](http://twitter.com/search?q=Guaruj%c3%a1) | N/A |
-| 4 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 5 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 6 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
-| 7 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 8 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
-| 9 | [Black](http://twitter.com/search?q=Black) | N/A |
-| 10 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 11 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
-| 12 | [#SerieOuronaBand](http://twitter.com/search?q=%23SerieOuronaBand) | N/A |
-| 13 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 14 | [#sharbi](http://twitter.com/search?q=%23sharbi) | N/A |
-| 15 | [juliette no galo da madrugada](http://twitter.com/search?q=juliette+no+galo+da+madrugada) | N/A |
-| 16 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 17 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 18 | [#FrancesNaESPN](http://twitter.com/search?q=%23FrancesNaESPN) | N/A |
-| 19 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 20 | [matheus gonçalves](http://twitter.com/search?q=matheus+gon%c3%a7alves) | N/A |
-| 21 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 22 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 23 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
-| 24 | [McClung](http://twitter.com/search?q=McClung) | N/A |
-| 25 | [Cezar](http://twitter.com/search?q=Cezar) | Cezar is a Romanian male given name derived from the Latin name Caesar, which means "emperor". |
-| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 27 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
-| 28 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 29 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 30 | [Terceiro Milênio](http://twitter.com/search?q=Terceiro+Mil%c3%aanio) | N/A |
-| 31 | [#provaroubada](http://twitter.com/search?q=%23provaroubada) | N/A |
-| 32 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
-| 33 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 34 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
-| 35 | [#ProvaDoAnjo](http://twitter.com/search?q=%23ProvaDoAnjo) | #ProvaDoAnjo is a Brazilian reality television show that follows the lives of five aspiring singers as they compete for a recording contract. The literal translation of the phrase is "Angel's Test". |
-| 36 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
-| 37 | [Hoseok](http://twitter.com/search?q=Hoseok) | N/A |
-| 38 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
-| 39 | [Jogada](http://twitter.com/search?q=Jogada) | N/A |
-| 40 | [Lillard](http://twitter.com/search?q=Lillard) | N/A |
-| 41 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
-| 42 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 43 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
-| 44 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 45 | [Grajaú](http://twitter.com/search?q=Graja%c3%ba) | N/A |
-| 46 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
-| 47 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 48 | [Recife](http://twitter.com/search?q=Recife) | N/A |
-| 49 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
-| 50 | [Vagner dolly](http://twitter.com/search?q=Vagner+dolly) | N/A |
+| 4 | [Ibirapuera](http://twitter.com/search?q=Ibirapuera) | N/A |
+| 5 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 6 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 7 | [#FrancesNaESPN](http://twitter.com/search?q=%23FrancesNaESPN) | N/A |
+| 8 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 9 | [Lionel Messi](http://twitter.com/search?q=Lionel+Messi) | N/A |
+| 10 | [LARISSA EXPULSA](http://twitter.com/search?q=LARISSA+EXPULSA) | N/A |
+| 11 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
+| 12 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 13 | [Domingo de Carnaval](http://twitter.com/search?q=Domingo+de+Carnaval) | N/A |
+| 14 | [Assédio](http://twitter.com/search?q=Ass%c3%a9dio) | N/A |
+| 15 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
+| 16 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
+| 17 | [#foralarissa](http://twitter.com/search?q=%23foralarissa) | N/A |
+| 18 | [Atalanta](http://twitter.com/search?q=Atalanta) | Atalanta is a figure from Greek mythology. She was a brave and strong hunter who refused to marry anyone who could not beat her in a footrace. The meaning of Atalanta in English is "equal in weight". |
+| 19 | [Kimpembe](http://twitter.com/search?q=Kimpembe) | N/A |
+| 20 | [Se a Larissa](http://twitter.com/search?q=Se+a+Larissa) | N/A |
+| 21 | [Gosto da Larissa](http://twitter.com/search?q=Gosto+da+Larissa) | N/A |
+| 22 | [jonah](http://twitter.com/search?q=jonah) | N/A |
+| 23 | [ELE VOLTOU](http://twitter.com/search?q=ELE+VOLTOU) | N/A |
+| 24 | [O Neymar](http://twitter.com/search?q=O+Neymar) | N/A |
+| 25 | [#BometThanksgivingDay](http://twitter.com/search?q=%23BometThanksgivingDay) | N/A |
+| 26 | [Globo Rural](http://twitter.com/search?q=Globo+Rural) | N/A |
+| 27 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 28 | [#GlobelezaDragõesDaReal](http://twitter.com/search?q=%23GlobelezaDrag%c3%b5esDaReal) | N/A |
+| 29 | [millie](http://twitter.com/search?q=millie) | Millie is a nickname for the name Millicent, which is derived from the Latin words "mille" and "centum," meaning "thousand" and "hundred," respectively. It can also be used as a diminutive form of the name Mildred. |
+| 30 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
+| 31 | [Divaldo](http://twitter.com/search?q=Divaldo) | N/A |
+| 32 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
+| 33 | [Império da Tijuca](http://twitter.com/search?q=Imp%c3%a9rio+da+Tijuca) | N/A |
+| 34 | [Capasso](http://twitter.com/search?q=Capasso) | N/A |
+| 35 | [lito](http://twitter.com/search?q=lito) | N/A |
+| 36 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 37 | [daniel caesar](http://twitter.com/search?q=daniel+caesar) | N/A |
+| 38 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 39 | [Sodoma e Gomorra](http://twitter.com/search?q=Sodoma+e+Gomorra) | N/A |
+| 40 | [Coreia do Norte](http://twitter.com/search?q=Coreia+do+Norte) | N/A |
+| 41 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
+| 42 | [Mancha Verde](http://twitter.com/search?q=Mancha+Verde) | N/A |
+| 43 | [União da Ilha](http://twitter.com/search?q=Uni%c3%a3o+da+Ilha) | N/A |
+| 44 | [Chico Xavier](http://twitter.com/search?q=Chico+Xavier) | N/A |
+| 45 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 46 | [bocardi](http://twitter.com/search?q=bocardi) | N/A |
+| 47 | [Skol Beats](http://twitter.com/search?q=Skol+Beats) | N/A |
+| 48 | [#DomingoDetremuraSDV](http://twitter.com/search?q=%23DomingoDetremuraSDV) | N/A |
+| 49 | [#BORUTO](http://twitter.com/search?q=%23BORUTO) | N/A |
 
 
 
