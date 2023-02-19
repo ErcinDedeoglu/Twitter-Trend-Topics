@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-19 00:30:05 UTC`
+📆 Last Updated: `2023-02-19 01:44:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#precure](http://twitter.com/search?q=%23precure) | #Precure is a Japanese media franchise created by Izumi Todo and produced by Toei Animation. It is a magical girl anime series aimed at young girls, featuring teams of teenage girls who transform into legendary warriors to fight evil. The English translation of the term "Precure" is "Pretty Cure". |
-| 2 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 3 | [スカイランド神拳](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89%e7%a5%9e%e6%8b%b3) | N/A |
+| 1 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 2 | [#ドンブラザーズ](http://twitter.com/search?q=%23%e3%83%89%e3%83%b3%e3%83%96%e3%83%a9%e3%82%b6%e3%83%bc%e3%82%ba) | #ドンブラザーズ is a hashtag used to refer to the Japanese comedy duo Donburako, consisting of brothers Tomonori and Takahiro Jinnai. The hashtag is used to share content related to the duo, such as videos, photos, and news. In English, it translates to "Don Brothers". |
+| 3 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
 | 4 | [#仮面ライダーギーツ](http://twitter.com/search?q=%23%e4%bb%ae%e9%9d%a2%e3%83%a9%e3%82%a4%e3%83%80%e3%83%bc%e3%82%ae%e3%83%bc%e3%83%84) | #仮面ライダーギーツ is the Japanese title for the television series Kamen Rider Gaim. The English translation of the title is Masked Rider Gaim. The series follows a young man named Kouta Kazuraba, who transforms into a superhero known as Kamen Rider Gaim to fight against an evil organization called the Inves. |
-| 5 | [#WoodLara](http://twitter.com/search?q=%23WoodLara) | N/A |
-| 6 | [プレシャス](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%b7%e3%83%a3%e3%82%b9) | プレシャス is a Japanese word that means "precious" or "valuable". It is often used to describe something that is highly valued or cherished. |
-| 7 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 8 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 9 | [#アルフィーANN](http://twitter.com/search?q=%23%e3%82%a2%e3%83%ab%e3%83%95%e3%82%a3%e3%83%bcANN) | N/A |
-| 10 | [#ひろプリ](http://twitter.com/search?q=%23%e3%81%b2%e3%82%8d%e3%83%97%e3%83%aa) | #ひろプリ is a hashtag used on Twitter in Japan to refer to the popular manga and anime series, "Hiroshima Prefecture". It is used to discuss the series, share fan art, and connect with other fans. In English, it translates to "#HiroshimaPrefecture". |
-| 11 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
-| 12 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
-| 13 | [コタロー](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%ad%e3%83%bc) | N/A |
-| 14 | [エルちゃん](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | エルちゃん is a nickname for the character Elle from the Japanese manga series Chobits. It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
-| 15 | [シューイチ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%82%a4%e3%83%81) | シューイチ is a Japanese phrase that translates to "shoe store". It is used to refer to a store that specializes in selling shoes. |
-| 16 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 17 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 18 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 19 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
-| 20 | [カバトン](http://twitter.com/search?q=%e3%82%ab%e3%83%90%e3%83%88%e3%83%b3) | N/A |
-| 21 | [スカイジュエル](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%82%b8%e3%83%a5%e3%82%a8%e3%83%ab) | N/A |
-| 22 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 23 | [キュアプリズム](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%82%a2%e3%83%97%e3%83%aa%e3%82%ba%e3%83%a0) | N/A |
-| 24 | [Ben Davison](http://twitter.com/search?q=Ben+Davison) | N/A |
-| 25 | [トゥルーヒーロー](http://twitter.com/search?q=%e3%83%88%e3%82%a5%e3%83%ab%e3%83%bc%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
-| 26 | [Armani](http://twitter.com/search?q=Armani) | Armani is an Italian luxury fashion house founded by Giorgio Armani in 1975. It is known for its high-end clothing, accessories, and fragrances. The name Armani is derived from the founder's surname and is synonymous with quality, style, and sophistication. |
-| 27 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 28 | [福くんさん](http://twitter.com/search?q=%e7%a6%8f%e3%81%8f%e3%82%93%e3%81%95%e3%82%93) | N/A |
-| 29 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
-| 30 | [ハイパースゴスギレジェンド](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%82%b9%e3%82%b4%e3%82%b9%e3%82%ae%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%89) | N/A |
-| 31 | [毒キノコ](http://twitter.com/search?q=%e6%af%92%e3%82%ad%e3%83%8e%e3%82%b3) | N/A |
-| 32 | [ハイパーすごすぎレジェンド](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%91%e3%83%bc%e3%81%99%e3%81%94%e3%81%99%e3%81%8e%e3%83%ac%e3%82%b8%e3%82%a7%e3%83%b3%e3%83%89) | N/A |
-| 33 | [同時変身](http://twitter.com/search?q=%e5%90%8c%e6%99%82%e5%a4%89%e8%ba%ab) | N/A |
-| 34 | [González Pirez](http://twitter.com/search?q=Gonz%c3%a1lez+Pirez) | N/A |
-| 35 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 36 | [ばあちゃんの正体](http://twitter.com/search?q=%e3%81%b0%e3%81%82%e3%81%a1%e3%82%83%e3%82%93%e3%81%ae%e6%ad%a3%e4%bd%93) | N/A |
-| 37 | [ケケラさん](http://twitter.com/search?q=%e3%82%b1%e3%82%b1%e3%83%a9%e3%81%95%e3%82%93) | N/A |
-| 38 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 39 | [ばあちゃん何者](http://twitter.com/search?q=%e3%81%b0%e3%81%82%e3%81%a1%e3%82%83%e3%82%93%e4%bd%95%e8%80%85) | N/A |
-| 40 | [Bruera](http://twitter.com/search?q=Bruera) | N/A |
-| 41 | [Lollo](http://twitter.com/search?q=Lollo) | N/A |
-| 42 | [キグナスダンス](http://twitter.com/search?q=%e3%82%ad%e3%82%b0%e3%83%8a%e3%82%b9%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
-| 43 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
-| 44 | [デリシャスマイル](http://twitter.com/search?q=%e3%83%87%e3%83%aa%e3%82%b7%e3%83%a3%e3%82%b9%e3%83%9e%e3%82%a4%e3%83%ab) | デリシャスマイル is a Japanese phrase that translates to "Delicious Smile". It is used to describe someone who has a beautiful, captivating smile. |
-| 45 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 46 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 47 | [Alihan Adamdır](http://twitter.com/search?q=Alihan+Adamd%c4%b1r) | N/A |
-| 48 | [ヨヨさん](http://twitter.com/search?q=%e3%83%a8%e3%83%a8%e3%81%95%e3%82%93) | N/A |
-| 49 | [Rondón](http://twitter.com/search?q=Rond%c3%b3n) | N/A |
-| 50 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 5 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 6 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 7 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
+| 8 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
+| 9 | [スカイランド神拳](http://twitter.com/search?q=%e3%82%b9%e3%82%ab%e3%82%a4%e3%83%a9%e3%83%b3%e3%83%89%e7%a5%9e%e6%8b%b3) | N/A |
+| 10 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 11 | [ソノニちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%8e%e3%83%8b%e3%81%a1%e3%82%83%e3%82%93) | ソノニちゃん is a character from the Japanese manga series, "Kochira Katsushika-ku Kameari Kōen-mae Hashutsujo". The character's name is Sononi, and her nickname is Sononi-chan. In English, it would be translated to "Little Sononi". |
+| 12 | [コタロー](http://twitter.com/search?q=%e3%82%b3%e3%82%bf%e3%83%ad%e3%83%bc) | N/A |
+| 13 | [忍者おじさん](http://twitter.com/search?q=%e5%bf%8d%e8%80%85%e3%81%8a%e3%81%98%e3%81%95%e3%82%93) | N/A |
+| 14 | [プレシャス](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%b7%e3%83%a3%e3%82%b9) | プレシャス is a Japanese word that means "precious" or "valuable". It is often used to describe something that is highly valued or cherished. |
+| 15 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 16 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 17 | [ソノシゴロク](http://twitter.com/search?q=%e3%82%bd%e3%83%8e%e3%82%b7%e3%82%b4%e3%83%ad%e3%82%af) | N/A |
+| 18 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 19 | [ニチアサ](http://twitter.com/search?q=%e3%83%8b%e3%83%81%e3%82%a2%e3%82%b5) | ニチアサ is a Japanese company that specializes in the production of stationery and office supplies. The name is derived from the Japanese words "nichi" (日) meaning "day" and "asahi" (朝日) meaning "morning sun". In English, the name can be translated to mean "Morning Sun Stationery". |
+| 20 | [ムラサメ](http://twitter.com/search?q=%e3%83%a0%e3%83%a9%e3%82%b5%e3%83%a1) | ムラサメ is a type of Japanese fish. It is also known as the Japanese butterfish or the striped beakfish. In English, it is sometimes referred to as the Striped Marlin. |
+| 21 | [HAVE A SAFE FLIGHT HOBI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+HOBI) | "HAVE A SAFE FLIGHT HOBI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be translated into English as "Have a safe flight, Hobi!" |
+| 22 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 23 | [設営完了](http://twitter.com/search?q=%e8%a8%ad%e5%96%b6%e5%ae%8c%e4%ba%86) | 設営完了 is a Japanese phrase that means "set up complete" or "setup finished". It is used to indicate that the setup of something has been completed. |
+| 24 | [あと1話](http://twitter.com/search?q=%e3%81%82%e3%81%a81%e8%a9%b1) | あと1話 is a Japanese phrase that literally translates to "one more episode". It is often used to refer to the last episode of a television series or anime. In English, it can be translated as "one more episode to go" or "just one more episode". |
+| 25 | [Nelisa](http://twitter.com/search?q=Nelisa) | Nelisa is a female name of African origin. It is derived from the Zulu word "nelisa," which means "to be loved." |
+| 26 | [ましろちゃん](http://twitter.com/search?q=%e3%81%be%e3%81%97%e3%82%8d%e3%81%a1%e3%82%83%e3%82%93) | ましろちゃん is a nickname for the Japanese anime character Mashiro Shiina from the series The Pet Girl of Sakurasou. It translates to "Mashiro-chan" in English. |
+| 27 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 28 | [Jim Miller](http://twitter.com/search?q=Jim+Miller) | N/A |
+| 29 | [コミティア](http://twitter.com/search?q=%e3%82%b3%e3%83%9f%e3%83%86%e3%82%a3%e3%82%a2) | N/A |
+| 30 | [ソラちゃん](http://twitter.com/search?q=%e3%82%bd%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | ソラちゃん is a nickname for the character Sora from the Japanese manga and anime series No Game No Life. It is a combination of her name and the Japanese honorific suffix “-chan”, which is used to denote familiarity or endearment. In English, it could be translated as “Sora dear” or “dear Sora”. |
+| 31 | [ヒトツ鬼](http://twitter.com/search?q=%e3%83%92%e3%83%88%e3%83%84%e9%ac%bc) | ヒトツ鬼 (Hitotsu Oni) is a Japanese phrase that literally translates to "One Demon". It is used to describe someone who is very powerful and intimidating. |
+| 32 | [State Farm](http://twitter.com/search?q=State+Farm) | N/A |
+| 33 | [Jordan Clarkson](http://twitter.com/search?q=Jordan+Clarkson) | Jordan Clarkson is an American professional basketball player who currently plays for the Utah Jazz of the National Basketball Association (NBA). He was drafted 46th overall by the Washington Wizards in the 2014 NBA draft and has since played for the Los Angeles Lakers, Cleveland Cavaliers, and Utah Jazz. |
+| 34 | [Austin Hill](http://twitter.com/search?q=Austin+Hill) | N/A |
+| 35 | [タロウの記憶](http://twitter.com/search?q=%e3%82%bf%e3%83%ad%e3%82%a6%e3%81%ae%e8%a8%98%e6%86%b6) | N/A |
+| 36 | [キューン](http://twitter.com/search?q=%e3%82%ad%e3%83%a5%e3%83%bc%e3%83%b3) | N/A |
+| 37 | [エルちゃん](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%81%a1%e3%82%83%e3%82%93) | エルちゃん is a nickname for the character Elle from the Japanese manga series Chobits. It is a term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 38 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
+| 39 | [Nikki Cross](http://twitter.com/search?q=Nikki+Cross) | N/A |
+| 40 | [桃井タロウ](http://twitter.com/search?q=%e6%a1%83%e4%ba%95%e3%82%bf%e3%83%ad%e3%82%a6) | 桃井タロウ is a Japanese manga series written and illustrated by Taro Momoi. It follows the story of a young man named Taro Momoi, who is sent to a strange world where he must fight monsters and find his way back home. The title of the series is a play on words, as "桃井" (Momoi) can also be read as "peach well". In English, the title could be translated as "Taro Momoi of the Peach Well". |
+| 41 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 42 | [キグナス氷河](http://twitter.com/search?q=%e3%82%ad%e3%82%b0%e3%83%8a%e3%82%b9%e6%b0%b7%e6%b2%b3) | N/A |
+| 43 | [Nattie](http://twitter.com/search?q=Nattie) | N/A |
+| 44 | [デザグラ](http://twitter.com/search?q=%e3%83%87%e3%82%b6%e3%82%b0%e3%83%a9) | N/A |
+| 45 | [みほちゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%bb%e3%81%a1%e3%82%83%e3%82%93) | みほちゃん is a nickname for the Japanese name Miho. It is a combination of the first two syllables of the name, and is often used as an affectionate term of endearment. In English, it could be translated to something like "Miho-chan". |
+| 46 | [トゥルーヒーロー](http://twitter.com/search?q=%e3%83%88%e3%82%a5%e3%83%ab%e3%83%bc%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | N/A |
+| 47 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 48 | [緊急特番](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e7%89%b9%e7%95%aa) | N/A |
+| 49 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 50 | [Allgaier](http://twitter.com/search?q=Allgaier) | N/A |
 
 
 

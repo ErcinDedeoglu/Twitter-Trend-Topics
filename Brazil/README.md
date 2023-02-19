@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-19 00:30:53 UTC`
+📆 Last Updated: `2023-02-19 01:44:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 2 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
-| 3 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
-| 4 | [#DiazNoCarnaval](http://twitter.com/search?q=%23DiazNoCarnaval) | N/A |
-| 5 | [Gibagol](http://twitter.com/search?q=Gibagol) | N/A |
-| 6 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
-| 7 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
-| 8 | [Cebolinha](http://twitter.com/search?q=Cebolinha) | Cebolinha is a character from the Brazilian comic strip Turma da Mônica. He is known for his mischievous behavior and his unique way of speaking, which involves replacing the letter "r" with "l". In English, Cebolinha means "Little Onion". |
-| 9 | [AKUTAGAWA](http://twitter.com/search?q=AKUTAGAWA) | N/A |
-| 10 | [Mateus Vital](http://twitter.com/search?q=Mateus+Vital) | N/A |
-| 11 | [BRAM](http://twitter.com/search?q=BRAM) | N/A |
-| 12 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
-| 13 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
-| 14 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
-| 15 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 16 | [Patrocinense](http://twitter.com/search?q=Patrocinense) | N/A |
-| 17 | [madelyn](http://twitter.com/search?q=madelyn) | Madelyn is a feminine given name of English origin. It is derived from the combination of the names Madeline and Lynn. The name means "woman from Magdala" or "high tower". |
-| 18 | [CRUZEIRO ESPORTE CLUBE](http://twitter.com/search?q=CRUZEIRO+ESPORTE+CLUBE) | N/A |
-| 19 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
-| 20 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 21 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
-| 22 | [Kaiki](http://twitter.com/search?q=Kaiki) | N/A |
-| 23 | [Wallisson](http://twitter.com/search?q=Wallisson) | N/A |
-| 24 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 25 | [Neris](http://twitter.com/search?q=Neris) | N/A |
-| 26 | [Resende](http://twitter.com/search?q=Resende) | Resende is a municipality in the state of Rio de Janeiro, Brazil. In English, it means "to send". |
-| 27 | [Atsushi](http://twitter.com/search?q=Atsushi) | N/A |
-| 28 | [Matheus França](http://twitter.com/search?q=Matheus+Fran%c3%a7a) | Matheus França is a Portuguese name. It is composed of two parts: Matheus, which is a variant of the name Matthew, and França, which is derived from the French word for France. In English, it would mean Matthew France. |
-| 29 | [Givanildo](http://twitter.com/search?q=Givanildo) | N/A |
-| 30 | [#WildLegends](http://twitter.com/search?q=%23WildLegends) | N/A |
-| 31 | [União Corinthians](http://twitter.com/search?q=Uni%c3%a3o+Corinthians) | N/A |
-| 32 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
-| 33 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
-| 34 | [Hat Trick](http://twitter.com/search?q=Hat+Trick) | A hat trick is a term used in sports to describe when a player achieves three successes in a single game or match. It is most commonly used in association football, cricket, ice hockey, and field hockey. In each of these sports, it is considered an impressive feat for a player to score three goals or points in one game. |
-| 35 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
-| 36 | [Cuiabano](http://twitter.com/search?q=Cuiabano) | N/A |
-| 37 | [Gabriel Silva](http://twitter.com/search?q=Gabriel+Silva) | N/A |
-| 38 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
-| 39 | [Villa Nova](http://twitter.com/search?q=Villa+Nova) | N/A |
-| 40 | [#LaLigaNaESPN](http://twitter.com/search?q=%23LaLigaNaESPN) | N/A |
-| 41 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 42 | [Mateusão](http://twitter.com/search?q=Mateus%c3%a3o) | Mateusão is a nickname for the Brazilian soccer player Mateus Vital, who currently plays for the Palmeiras club. The name is derived from his first name, Mateus, and the Portuguese suffix "-ão", which is used to indicate affection or familiarity. In English, it can be translated as "Mateus Big". |
-| 43 | [#jornaldacultura](http://twitter.com/search?q=%23jornaldacultura) | N/A |
-| 44 | [O Hulk](http://twitter.com/search?q=O+Hulk) | N/A |
-| 45 | [Super Choque](http://twitter.com/search?q=Super+Choque) | N/A |
-| 46 | [Gustavo Martins](http://twitter.com/search?q=Gustavo+Martins) | N/A |
-| 47 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 48 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
-| 49 | [Glória Groove](http://twitter.com/search?q=Gl%c3%b3ria+Groove) | N/A |
-| 50 | [Rever](http://twitter.com/search?q=Rever) | N/A |
+| 1 | [Dilsinho](http://twitter.com/search?q=Dilsinho) | N/A |
+| 2 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 3 | [Hulk](http://twitter.com/search?q=Hulk) | Hulk is a fictional character created by Marvel Comics. He is a large, green humanoid with superhuman strength and invulnerability. The character first appeared in the comic book The Incredible Hulk #1 in May 1962. His catchphrase is "Hulk Smash!" |
+| 4 | [AKUTAGAWA](http://twitter.com/search?q=AKUTAGAWA) | N/A |
+| 5 | [Jacarepaguá](http://twitter.com/search?q=Jacarepagu%c3%a1) | N/A |
+| 6 | [BIG NICACIO BRASIL](http://twitter.com/search?q=BIG+NICACIO+BRASIL) | N/A |
+| 7 | [ISSO NÃO É UM CULTO](http://twitter.com/search?q=ISSO+N%c3%83O+%c3%89+UM+CULTO) | N/A |
+| 8 | [#ufcbr](http://twitter.com/search?q=%23ufcbr) | N/A |
+| 9 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 10 | [HAVE A SAFE FLIGHT HOBI](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+HOBI) | "HAVE A SAFE FLIGHT HOBI" is a phrase used to wish someone a safe journey as they travel by air. It is typically used when someone is saying goodbye to a friend or family member who is about to board an airplane. The phrase can be translated into English as "Have a safe flight, Hobi!" |
+| 11 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 12 | [ZÉ DELIVERY NO BBB](http://twitter.com/search?q=Z%c3%89+DELIVERY+NO+BBB) | N/A |
+| 13 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 14 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 15 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
+| 16 | [dazai](http://twitter.com/search?q=dazai) | N/A |
+| 17 | [#DiazNoCarnaval](http://twitter.com/search?q=%23DiazNoCarnaval) | N/A |
+| 18 | [Dilson](http://twitter.com/search?q=Dilson) | N/A |
+| 19 | [Matheus Gonçalves](http://twitter.com/search?q=Matheus+Gon%c3%a7alves) | N/A |
+| 20 | [Olinda](http://twitter.com/search?q=Olinda) | N/A |
+| 21 | [Gibagol](http://twitter.com/search?q=Gibagol) | N/A |
+| 22 | [Knight](http://twitter.com/search?q=Knight) | N/A |
+| 23 | [BRAM](http://twitter.com/search?q=BRAM) | N/A |
+| 24 | [#nascarnobandsports](http://twitter.com/search?q=%23nascarnobandsports) | N/A |
+| 25 | [Mateus Vital](http://twitter.com/search?q=Mateus+Vital) | N/A |
+| 26 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 27 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
+| 28 | [Terceiro Milênio](http://twitter.com/search?q=Terceiro+Mil%c3%aanio) | N/A |
+| 29 | [ONDE FOI](http://twitter.com/search?q=ONDE+FOI) | N/A |
+| 30 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 31 | [Jonah](http://twitter.com/search?q=Jonah) | N/A |
+| 32 | [Marinho](http://twitter.com/search?q=Marinho) | Marinho is a Portuguese name derived from the Latin word marinus, meaning "of the sea". It is a masculine given name and can also be used as a surname. In English, Marinho can be translated to mean "marine" or "seafarer". |
+| 33 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 34 | [madelyn](http://twitter.com/search?q=madelyn) | Madelyn is a feminine given name of English origin. It is derived from the combination of the names Madeline and Lynn. The name means "woman from Magdala" or "high tower". |
+| 35 | [Patrocinense](http://twitter.com/search?q=Patrocinense) | N/A |
+| 36 | [Cruzeiro Esporte Clube](http://twitter.com/search?q=Cruzeiro+Esporte+Clube) | N/A |
+| 37 | [Atsushi](http://twitter.com/search?q=Atsushi) | N/A |
+| 38 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 39 | [Kaiki](http://twitter.com/search?q=Kaiki) | N/A |
+| 40 | [Wallison](http://twitter.com/search?q=Wallison) | N/A |
+| 41 | [Villa Nova](http://twitter.com/search?q=Villa+Nova) | N/A |
+| 42 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 43 | [Thiago Santos](http://twitter.com/search?q=Thiago+Santos) | Thiago Santos is a Brazilian mixed martial artist who competes in the Ultimate Fighting Championship (UFC). In English, the name Thiago Santos means "Saint James". |
+| 44 | [Sábado de Carnaval](http://twitter.com/search?q=S%c3%a1bado+de+Carnaval) | N/A |
+| 45 | [André](http://twitter.com/search?q=Andr%c3%a9) | N/A |
+| 46 | [União Corinthians](http://twitter.com/search?q=Uni%c3%a3o+Corinthians) | N/A |
+| 47 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 48 | [Neto Moura](http://twitter.com/search?q=Neto+Moura) | N/A |
+| 49 | [Hat Trick](http://twitter.com/search?q=Hat+Trick) | A hat trick is a term used in sports to describe when a player achieves three successes in a single game or match. It is most commonly used in association football, cricket, ice hockey, and field hockey. In each of these sports, it is considered an impressive feat for a player to score three goals or points in one game. |
+| 50 | [Neris](http://twitter.com/search?q=Neris) | N/A |
 
 
 

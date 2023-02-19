@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-02-19 00:30:43 UTC`
+📆 Last Updated: `2023-02-19 01:44:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,48 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Alihan Adamdır](http://twitter.com/search?q=Alihan+Adamd%c4%b1r) | N/A |
-| 2 | [#gizemligelecek](http://twitter.com/search?q=%23gizemligelecek) | N/A |
-| 3 | [#sallanıyoruz](http://twitter.com/search?q=%23sallan%c4%b1yoruz) | N/A |
-| 4 | [#StajaSesVer](http://twitter.com/search?q=%23StajaSesVer) | N/A |
-| 5 | [#Kayseri](http://twitter.com/search?q=%23Kayseri) | N/A |
-| 6 | [Kahramanmaraş'ta 5.1](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5.1) | N/A |
-| 7 | [Dolandırıcının](http://twitter.com/search?q=Doland%c4%b1r%c4%b1c%c4%b1n%c4%b1n) | N/A |
-| 8 | [Ahmet Suat Özyazıcı](http://twitter.com/search?q=Ahmet+Suat+%c3%96zyaz%c4%b1c%c4%b1) | N/A |
-| 9 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
-| 10 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 11 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 12 | [Göksun](http://twitter.com/search?q=G%c3%b6ksun) | N/A |
-| 13 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
-| 14 | [Askim](http://twitter.com/search?q=Askim) | N/A |
-| 15 | [Eray](http://twitter.com/search?q=Eray) | N/A |
-| 16 | [Ziyech](http://twitter.com/search?q=Ziyech) | Ziyech is a surname of Arabic origin. It is derived from the Arabic word "zayyach," which means "strong" or "powerful." In English, it can be translated to mean "strong-willed" or "determined." |
-| 17 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
-| 18 | [Cahit Zarifoğlu](http://twitter.com/search?q=Cahit+Zarifo%c4%9flu) | N/A |
-| 19 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
-| 20 | [Millet İttifakı](http://twitter.com/search?q=Millet+%c4%b0ttifak%c4%b1) | N/A |
-| 21 | [#Çorum](http://twitter.com/search?q=%23%c3%87orum) | N/A |
-| 22 | [#isiasınhesabısorulacak](http://twitter.com/search?q=%23isias%c4%b1nhesab%c4%b1sorulacak) | N/A |
-| 23 | [#EvimYuvanOlsun](http://twitter.com/search?q=%23EvimYuvanOlsun) | N/A |
-| 24 | [#GaleriaKurtarılmayıBekliyor](http://twitter.com/search?q=%23GaleriaKurtar%c4%b1lmay%c4%b1Bekliyor) | N/A |
-| 25 | [#GeceyeNotum](http://twitter.com/search?q=%23GeceyeNotum) | N/A |
-| 26 | [#UlaşBardakçı](http://twitter.com/search?q=%23Ula%c5%9fBardak%c3%a7%c4%b1) | N/A |
-| 27 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
-| 28 | [#okul](http://twitter.com/search?q=%23okul) | N/A |
-| 29 | [#GeceyeBirNot](http://twitter.com/search?q=%23GeceyeBirNot) | N/A |
-| 30 | [#MEBÖğrencileriDuy](http://twitter.com/search?q=%23MEB%c3%96%c4%9frencileriDuy) | N/A |
-| 31 | [#5000VeKısmiYasayaEkleTBMM](http://twitter.com/search?q=%235000VeK%c4%b1smiYasayaEkleTBMM) | N/A |
-| 32 | [#artçı](http://twitter.com/search?q=%23art%c3%a7%c4%b1) | N/A |
-| 33 | [#Icardi](http://twitter.com/search?q=%23Icardi) | #Icardi is a hashtag used to show support for the Argentinian professional footballer, Mauro Icardi. It is often used on social media platforms such as Twitter and Instagram. |
-| 34 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 35 | [#DepremCocuklarıGuevendemi](http://twitter.com/search?q=%23DepremCocuklar%c4%b1Guevendemi) | N/A |
-| 36 | [#İyileşmekİçinYüzyüzeEğitim](http://twitter.com/search?q=%23%c4%b0yile%c5%9fmek%c4%b0%c3%a7inY%c3%bczy%c3%bczeE%c4%9fitim) | N/A |
-| 37 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 38 | [#Nurdağı](http://twitter.com/search?q=%23Nurda%c4%9f%c4%b1) | N/A |
-| 39 | [#kismetseolur](http://twitter.com/search?q=%23kismetseolur) | N/A |
-| 40 | [#EmeklilikteYaşaTakıIanIar](http://twitter.com/search?q=%23EmeklilikteYa%c5%9faTak%c4%b1IanIar) | N/A |
-| 41 | [#isiaskatillericezalandırılsın](http://twitter.com/search?q=%23isiaskatillericezaland%c4%b1r%c4%b1ls%c4%b1n) | N/A |
-| 42 | [#balıkesir](http://twitter.com/search?q=%23bal%c4%b1kesir) | N/A |
+| 1 | [#Sharbi](http://twitter.com/search?q=%23Sharbi) | N/A |
+| 2 | [#diyanetkapatılsın](http://twitter.com/search?q=%23diyanetkapat%c4%b1ls%c4%b1n) | N/A |
+| 3 | [Alihan Adamdır](http://twitter.com/search?q=Alihan+Adamd%c4%b1r) | N/A |
+| 4 | [#depremoldu](http://twitter.com/search?q=%23depremoldu) | N/A |
+| 5 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 6 | [#BeniDeNotEt](http://twitter.com/search?q=%23BeniDeNotEt) | N/A |
+| 7 | [Ahmet Suat Özyazıcı](http://twitter.com/search?q=Ahmet+Suat+%c3%96zyaz%c4%b1c%c4%b1) | N/A |
+| 8 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 9 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 10 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 11 | [İmam](http://twitter.com/search?q=%c4%b0mam) | N/A |
+| 12 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 13 | [her zaman umut](http://twitter.com/search?q=her+zaman+umut) | N/A |
+| 14 | [Thanks to Türkiye](http://twitter.com/search?q=Thanks+to+T%c3%bcrkiye) | N/A |
+| 15 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 16 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 17 | [Kahramanmaraş'ta 5.1](http://twitter.com/search?q=Kahramanmara%c5%9f%27ta+5.1) | N/A |
+| 18 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
+| 19 | [Bağışla](http://twitter.com/search?q=Ba%c4%9f%c4%b1%c5%9fla) | N/A |
+| 20 | [şerefsiz fahişçiler](http://twitter.com/search?q=%c5%9ferefsiz+fahi%c5%9f%c3%a7iler) | N/A |
+| 21 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
+| 22 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 24 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 25 | [Bülent Arınç](http://twitter.com/search?q=B%c3%bclent+Ar%c4%b1n%c3%a7) | N/A |
+| 26 | [Anayasa](http://twitter.com/search?q=Anayasa) | N/A |
+| 27 | [Hatay'da 296](http://twitter.com/search?q=Hatay%27da+296) | N/A |
+| 28 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 29 | [Hoca](http://twitter.com/search?q=Hoca) | N/A |
+| 30 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
+| 31 | [ilknurtepeden osurdu](http://twitter.com/search?q=ilknurtepeden+osurdu) | N/A |
+| 32 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
+| 33 | [Sapık](http://twitter.com/search?q=Sap%c4%b1k) | N/A |
+| 34 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 35 | [Berfin](http://twitter.com/search?q=Berfin) | N/A |
+| 36 | [Dolandırıcının](http://twitter.com/search?q=Doland%c4%b1r%c4%b1c%c4%b1n%c4%b1n) | N/A |
+| 37 | [i̇stanbul valiliği](http://twitter.com/search?q=i%cc%87stanbul+valili%c4%9fi) | N/A |
+| 38 | [Uludağ Üniversitesi](http://twitter.com/search?q=Uluda%c4%9f+%c3%9cniversitesi) | N/A |
+| 39 | [Hatay Valiliği](http://twitter.com/search?q=Hatay+Valili%c4%9fi) | N/A |
+| 40 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 41 | [Nigar](http://twitter.com/search?q=Nigar) | N/A |
+| 42 | [Eray](http://twitter.com/search?q=Eray) | N/A |
+| 43 | [Bayram Bektaş](http://twitter.com/search?q=Bayram+Bekta%c5%9f) | N/A |
+| 44 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
+| 45 | [camide](http://twitter.com/search?q=camide) | N/A |
+| 46 | [Barış Atay](http://twitter.com/search?q=Bar%c4%b1%c5%9f+Atay) | N/A |
+| 47 | [Süleyman Soylu](http://twitter.com/search?q=S%c3%bcleyman+Soylu) | Süleyman Soylu is a Turkish politician who has been the Minister of Interior since 2016. His name translates to "mighty man of the law" in English. |
+| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 49 | [Özkan Sümer](http://twitter.com/search?q=%c3%96zkan+S%c3%bcmer) | N/A |
 
 
 

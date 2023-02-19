@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-19 00:30:07 UTC`
+📆 Last Updated: `2023-02-19 01:44:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 2 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 2 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
 | 3 | [#WoodLara](http://twitter.com/search?q=%23WoodLara) | N/A |
-| 4 | [Ben Davison](http://twitter.com/search?q=Ben+Davison) | N/A |
-| 5 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
-| 6 | [#starstruck](http://twitter.com/search?q=%23starstruck) | N/A |
-| 7 | [#maskedsingeruk](http://twitter.com/search?q=%23maskedsingeruk) | N/A |
-| 8 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 9 | [Dalton Smith](http://twitter.com/search?q=Dalton+Smith) | N/A |
-| 10 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 11 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
-| 12 | [Fried](http://twitter.com/search?q=Fried) | N/A |
-| 13 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 14 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 15 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 16 | [The Lost Boys](http://twitter.com/search?q=The+Lost+Boys) | N/A |
-| 17 | [Conlan](http://twitter.com/search?q=Conlan) | N/A |
-| 18 | [Charlie Simpson](http://twitter.com/search?q=Charlie+Simpson) | Charlie Simpson is a British singer, songwriter, and multi-instrumentalist. He is best known as the former frontman of the rock band Busted and as a current member of the folk-rock band Fightstar. |
-| 19 | [Ricky Wilson](http://twitter.com/search?q=Ricky+Wilson) | N/A |
-| 20 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 21 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 22 | [Rhino](http://twitter.com/search?q=Rhino) | N/A |
-| 23 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
-| 24 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 25 | [James Arthur](http://twitter.com/search?q=James+Arthur) | James Arthur is a British singer and songwriter. He rose to fame after winning the ninth series of The X Factor in 2012. His debut single, "Impossible", was released in December 2012 and peaked at number one on the UK Singles Chart. |
-| 26 | [Gary Cully](http://twitter.com/search?q=Gary+Cully) | N/A |
-| 27 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 28 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 29 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
-| 30 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 31 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 32 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
-| 33 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 34 | [Fawn](http://twitter.com/search?q=Fawn) | Fawn is a light brown color, usually associated with the color of a young deer. It is also used as a verb to describe the behavior of an animal or person who shows fear or nervousness. |
-| 35 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 36 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 37 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 38 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
-| 39 | [Shania Twain](http://twitter.com/search?q=Shania+Twain) | N/A |
-| 40 | [Jamie Redknapp](http://twitter.com/search?q=Jamie+Redknapp) | N/A |
-| 41 | [YNWA](http://twitter.com/search?q=YNWA) | N/A |
-| 42 | [Fred West](http://twitter.com/search?q=Fred+West) | N/A |
-| 43 | [Gillespie](http://twitter.com/search?q=Gillespie) | N/A |
-| 44 | [Forest](http://twitter.com/search?q=Forest) | Forest is an area of land covered with trees and other vegetation. It is a natural environment that provides habitat for animals, plants, and other organisms. The term can also refer to the plants and animals that inhabit such an area. Forests are important for their ecological, economic, and social benefits. |
-| 45 | [Dubravka](http://twitter.com/search?q=Dubravka) | Dubravka is a Slavic female name derived from the word "dubrava," which means "oak grove." It is also the name of a municipality in Serbia. The name is often translated to English as "oak meadow." |
-| 46 | [Martin Tyler](http://twitter.com/search?q=Martin+Tyler) | Martin Tyler is an English football commentator and journalist. He is best known for his work as a commentator for Sky Sports, where he has been the lead commentator since 1992. He is renowned for his enthusiasm and knowledge of the game, as well as his catchphrases such as "Aguerooooo!" and "Unbelievable Jeff!". |
-| 47 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 48 | [David Tennant](http://twitter.com/search?q=David+Tennant) | N/A |
-| 49 | [Natalie Appleton](http://twitter.com/search?q=Natalie+Appleton) | N/A |
-| 50 | [Seamus](http://twitter.com/search?q=Seamus) | N/A |
+| 4 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
+| 5 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 6 | [Ben Davison](http://twitter.com/search?q=Ben+Davison) | N/A |
+| 7 | [William Knight](http://twitter.com/search?q=William+Knight) | N/A |
+| 8 | [#MOTD](http://twitter.com/search?q=%23MOTD) | #MOTD stands for Message of the Day. It is a hashtag used on social media to share a quote, inspirational message, or other thought of the day. |
+| 9 | [Asuka](http://twitter.com/search?q=Asuka) | Asuka is a Japanese name meaning "tomorrow perfume" or "fragrance of the future". It is also used as a given name for girls. |
+| 10 | [Fried](http://twitter.com/search?q=Fried) | N/A |
+| 11 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 12 | [The Lost Boys](http://twitter.com/search?q=The+Lost+Boys) | N/A |
+| 13 | [Liv Morgan](http://twitter.com/search?q=Liv+Morgan) | Liv Morgan is the ring name of American professional wrestler Gionna Jene Daddio. She is currently signed to WWE, where she performs on the Raw brand. The name Liv Morgan is derived from her real name, Gionna Jene. |
+| 14 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 15 | [Warrington](http://twitter.com/search?q=Warrington) | N/A |
+| 16 | [Carmella](http://twitter.com/search?q=Carmella) | Carmella is an Italian name derived from the Latin word for "song". It is also a variant of the name Carmel, which means "garden" or "orchard". In English, Carmella can be translated to mean "song of the garden". |
+| 17 | [Jim Miller](http://twitter.com/search?q=Jim+Miller) | N/A |
+| 18 | [Conlan](http://twitter.com/search?q=Conlan) | N/A |
+| 19 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 20 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 21 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 22 | [Thabang](http://twitter.com/search?q=Thabang) | Thabang is a South African name derived from the Sesotho language. It means “be thankful” or “give thanks”. |
+| 23 | [Nelisa](http://twitter.com/search?q=Nelisa) | Nelisa is a female name of African origin. It is derived from the Zulu word "nelisa," which means "to be loved." |
+| 24 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 25 | [Dalton Smith](http://twitter.com/search?q=Dalton+Smith) | N/A |
+| 26 | [Charlie Simpson](http://twitter.com/search?q=Charlie+Simpson) | Charlie Simpson is a British singer, songwriter, and multi-instrumentalist. He is best known as the former frontman of the rock band Busted and as a current member of the folk-rock band Fightstar. |
+| 27 | [Ricky Wilson](http://twitter.com/search?q=Ricky+Wilson) | N/A |
+| 28 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 29 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 30 | [Allington](http://twitter.com/search?q=Allington) | N/A |
+| 31 | [Hernandez](http://twitter.com/search?q=Hernandez) | N/A |
+| 32 | [Montreal](http://twitter.com/search?q=Montreal) | N/A |
+| 33 | [Rhino](http://twitter.com/search?q=Rhino) | N/A |
+| 34 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 35 | [James Arthur](http://twitter.com/search?q=James+Arthur) | James Arthur is a British singer and songwriter. He rose to fame after winning the ninth series of The X Factor in 2012. His debut single, "Impossible", was released in December 2012 and peaked at number one on the UK Singles Chart. |
+| 36 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
+| 37 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 38 | [Busted](http://twitter.com/search?q=Busted) | Busted is a slang term meaning to be caught doing something wrong or illegal. It can also mean to be defeated or ruined. |
+| 39 | [YNWA](http://twitter.com/search?q=YNWA) | N/A |
+| 40 | [Antifa](http://twitter.com/search?q=Antifa) | Antifa is short for "anti-fascist," and it refers to a loose network of left-wing activists who oppose fascism, racism, and other forms of oppression. Antifa activists often use direct action tactics such as protests, boycotts, and civil disobedience to achieve their goals. |
+| 41 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 42 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
+| 43 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 44 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 45 | [Shania Twain](http://twitter.com/search?q=Shania+Twain) | N/A |
+| 46 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 47 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 48 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
+| 49 | [Marc Almond](http://twitter.com/search?q=Marc+Almond) | N/A |
+| 50 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 
 
 

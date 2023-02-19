@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-19 00:30:55 UTC`
+📆 Last Updated: `2023-02-19 01:44:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CePostaPerTe](http://twitter.com/search?q=%23CePostaPerTe) | #CePostaPerTe is an Italian hashtag that translates to "This Post Is For You". It is often used on social media to share content with a specific person or group of people. |
-| 2 | [#taleequalesanremo](http://twitter.com/search?q=%23taleequalesanremo) | N/A |
-| 3 | [#InterUdinese](http://twitter.com/search?q=%23InterUdinese) | N/A |
-| 4 | [#taleequaleshow](http://twitter.com/search?q=%23taleequaleshow) | N/A |
-| 5 | [#CiaoMaschio](http://twitter.com/search?q=%23CiaoMaschio) | N/A |
-| 6 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 7 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 8 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
-| 9 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
-| 10 | [Success](http://twitter.com/search?q=Success) | N/A |
-| 11 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 12 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 13 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
-| 14 | [Pippo Franco](http://twitter.com/search?q=Pippo+Franco) | N/A |
-| 15 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
-| 16 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
-| 17 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
-| 18 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 19 | [Gagliardini](http://twitter.com/search?q=Gagliardini) | Gagliardini is an Italian surname. It is derived from the word "gagliardo," which means brave or valiant. In English, it can be translated to mean "valiant one." |
-| 20 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 21 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 22 | [Silvestri](http://twitter.com/search?q=Silvestri) | N/A |
-| 23 | [Luciana](http://twitter.com/search?q=Luciana) | N/A |
-| 24 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
-| 25 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 26 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 27 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 28 | [Vranckx](http://twitter.com/search?q=Vranckx) | N/A |
-| 29 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
-| 30 | [Krunic](http://twitter.com/search?q=Krunic) | N/A |
-| 31 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
-| 32 | [Montaruli](http://twitter.com/search?q=Montaruli) | N/A |
-| 33 | [Soumahoro](http://twitter.com/search?q=Soumahoro) | N/A |
-| 34 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
-| 35 | [#TommasoZorzi](http://twitter.com/search?q=%23TommasoZorzi) | N/A |
-| 36 | [#Lautaro](http://twitter.com/search?q=%23Lautaro) | N/A |
-| 37 | [#Mkhitaryan](http://twitter.com/search?q=%23Mkhitaryan) | N/A |
-| 38 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
-| 39 | [#Sapiens](http://twitter.com/search?q=%23Sapiens) | N/A |
-| 40 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 41 | [#MonzaMilan](http://twitter.com/search?q=%23MonzaMilan) | N/A |
-| 42 | [#Inzaghi](http://twitter.com/search?q=%23Inzaghi) | N/A |
-| 43 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
-| 44 | [#Investigatrici](http://twitter.com/search?q=%23Investigatrici) | N/A |
-| 45 | [#fascisti](http://twitter.com/search?q=%23fascisti) | N/A |
-| 46 | [#luvana](http://twitter.com/search?q=%23luvana) | N/A |
-| 47 | [#pierpaolopretelli](http://twitter.com/search?q=%23pierpaolopretelli) | N/A |
-| 48 | [#Firenze](http://twitter.com/search?q=%23Firenze) | N/A |
-| 49 | [#amala](http://twitter.com/search?q=%23amala) | N/A |
-| 50 | [#Sinner](http://twitter.com/search?q=%23Sinner) | N/A |
+| 2 | [#InterUdinese](http://twitter.com/search?q=%23InterUdinese) | N/A |
+| 3 | [#taleequalesanremo](http://twitter.com/search?q=%23taleequalesanremo) | N/A |
+| 4 | [#MonzaMilan](http://twitter.com/search?q=%23MonzaMilan) | N/A |
+| 5 | [#taleequaleshow](http://twitter.com/search?q=%23taleequaleshow) | N/A |
+| 6 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 7 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 8 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 9 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 10 | [Origi](http://twitter.com/search?q=Origi) | Origi is a Japanese word that means "origin" or "beginning". It is often used to refer to the source of something, such as the origin of a story or the beginning of a journey. |
+| 11 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 12 | [Luciana](http://twitter.com/search?q=Luciana) | N/A |
+| 13 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 14 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 15 | [Success](http://twitter.com/search?q=Success) | N/A |
+| 16 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
+| 17 | [Kvara](http://twitter.com/search?q=Kvara) | Kvara is a Slavic word meaning “fourth” or “fourth part.” It is used to refer to the fourth day of the week in some Slavic languages, such as Russian and Ukrainian. |
+| 18 | [Messias](http://twitter.com/search?q=Messias) | Messias is a Hebrew word meaning "anointed one" or "savior." It is used in the Bible to refer to Jesus Christ, who is seen as the promised Messiah of the Old Testament. In English, it is often translated as "Messiah." |
+| 19 | [Mario Giordano](http://twitter.com/search?q=Mario+Giordano) | N/A |
+| 20 | [Ambrosio](http://twitter.com/search?q=Ambrosio) | N/A |
+| 21 | [buon sabato](http://twitter.com/search?q=buon+sabato) | N/A |
+| 22 | [Cleopatra](http://twitter.com/search?q=Cleopatra) | N/A |
+| 23 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 24 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
+| 25 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 26 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 27 | [Inzaghi](http://twitter.com/search?q=Inzaghi) | Inzaghi is an Italian surname. It is derived from the word "insaccare", which means "to bag" or "to sack". In English, it can be translated to mean "one who bags or sacks". |
+| 28 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 29 | [Soumahoro](http://twitter.com/search?q=Soumahoro) | N/A |
+| 30 | [Consigli](http://twitter.com/search?q=Consigli) | N/A |
+| 31 | [Luis Miguel](http://twitter.com/search?q=Luis+Miguel) | N/A |
+| 32 | [Giorgetti](http://twitter.com/search?q=Giorgetti) | N/A |
+| 33 | [Silvestri](http://twitter.com/search?q=Silvestri) | N/A |
+| 34 | [Azione Studentesca](http://twitter.com/search?q=Azione+Studentesca) | N/A |
+| 35 | [PARAMOUNT SAVE WARRIOR NUN](http://twitter.com/search?q=PARAMOUNT+SAVE+WARRIOR+NUN) | N/A |
+| 36 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 37 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 38 | [Marelli](http://twitter.com/search?q=Marelli) | N/A |
+| 39 | [Gedi](http://twitter.com/search?q=Gedi) | N/A |
+| 40 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
+| 41 | [Cassazione](http://twitter.com/search?q=Cassazione) | N/A |
+| 42 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 43 | [Lovric](http://twitter.com/search?q=Lovric) | N/A |
+| 44 | [Asllani](http://twitter.com/search?q=Asllani) | N/A |
+| 45 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 46 | [Vranckx](http://twitter.com/search?q=Vranckx) | N/A |
+| 47 | [Marchegiani](http://twitter.com/search?q=Marchegiani) | N/A |
+| 48 | [Brozovic](http://twitter.com/search?q=Brozovic) | N/A |
+| 49 | [Littizzetto](http://twitter.com/search?q=Littizzetto) | N/A |
+| 50 | [Quale Cugino di Campagna](http://twitter.com/search?q=Quale+Cugino+di+Campagna) | N/A |
 
 
 

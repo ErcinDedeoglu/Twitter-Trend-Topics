@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-02-19 00:30:11 UTC`
+📆 Last Updated: `2023-02-19 01:44:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AmasDeCasaMexiquenses](http://twitter.com/search?q=%23AmasDeCasaMexiquenses) | N/A |
-| 2 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 3 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 4 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 5 | [#HappyBirthdayJhope](http://twitter.com/search?q=%23HappyBirthdayJhope) | N/A |
-| 6 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
-| 7 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 8 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
-| 9 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 10 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
-| 11 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 12 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
-| 13 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 14 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 15 | [Karla Panini](http://twitter.com/search?q=Karla+Panini) | N/A |
-| 16 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 17 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 18 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 19 | [Ponchito](http://twitter.com/search?q=Ponchito) | Ponchito is a Spanish term of endearment, similar to "little one" or "darling". It is often used as a nickname for someone who is close to you. |
-| 20 | [Anubis](http://twitter.com/search?q=Anubis) | N/A |
-| 21 | [Don Alfonso](http://twitter.com/search?q=Don+Alfonso) | N/A |
-| 22 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
-| 23 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 24 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 1 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
+| 2 | [Berterame](http://twitter.com/search?q=Berterame) | Berterame is a traditional dance from the Caribbean island of Martinique. It is a lively, energetic dance that involves clapping, stomping, and singing. The name Berterame comes from the French phrase "battre le rythme," which means "to beat the rhythm." |
+| 3 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 4 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 5 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 6 | [HAVE A SAFE FLIGHT J-HOPE](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+J-HOPE) | N/A |
+| 7 | [#hartofut](http://twitter.com/search?q=%23hartofut) | N/A |
+| 8 | [Andrada](http://twitter.com/search?q=Andrada) | Andrada is a Spanish surname derived from the Latin word "andradus," which means "brave." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "brave one." |
+| 9 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
+| 10 | [Govea](http://twitter.com/search?q=Govea) | N/A |
+| 11 | [Brunetta](http://twitter.com/search?q=Brunetta) | Brunetta is an Italian word that means "dark-haired". It is often used to describe someone with dark hair, or to refer to a person with a dark complexion. |
+| 12 | [Cortizo](http://twitter.com/search?q=Cortizo) | N/A |
+| 13 | [Vuce](http://twitter.com/search?q=Vuce) | N/A |
+| 14 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 15 | [Hugo González](http://twitter.com/search?q=Hugo+Gonz%c3%a1lez) | N/A |
+| 16 | [Monterrey](http://twitter.com/search?q=Monterrey) | N/A |
+| 17 | [#MostRequestedLive](http://twitter.com/search?q=%23MostRequestedLive) | N/A |
+| 18 | [#LaguneroPrimero](http://twitter.com/search?q=%23LaguneroPrimero) | N/A |
+| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 20 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
+| 21 | [Maxi](http://twitter.com/search?q=Maxi) | Maxi is a term used to describe a long, loose-fitting dress or skirt that reaches the ankles. It is typically made of lightweight fabrics such as cotton or linen and is often worn in warm weather. The term can also refer to a style of dress that is shorter than a maxi dress but still reaches the ankles. |
+| 22 | [Alfonso Lastras](http://twitter.com/search?q=Alfonso+Lastras) | N/A |
+| 23 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
+| 24 | [Medina](http://twitter.com/search?q=Medina) | N/A |
 | 25 | [Bronco Lara](http://twitter.com/search?q=Bronco+Lara) | N/A |
-| 26 | [Funes](http://twitter.com/search?q=Funes) | Funes is a Spanish surname derived from the Latin word "fons" meaning "spring". It is also a place name in Spain, derived from the same root. In English, it can be translated to mean "source of water". |
-| 27 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 28 | [Alfonso González](http://twitter.com/search?q=Alfonso+Gonz%c3%a1lez) | N/A |
-| 29 | [Nico Sánchez](http://twitter.com/search?q=Nico+S%c3%a1nchez) | N/A |
-| 30 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 31 | [Súper Ki](http://twitter.com/search?q=S%c3%baper+Ki) | N/A |
-| 32 | [Avilés](http://twitter.com/search?q=Avil%c3%a9s) | N/A |
-| 33 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 34 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 35 | [Harold Preciado](http://twitter.com/search?q=Harold+Preciado) | N/A |
-| 36 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 37 | [JJ Macías](http://twitter.com/search?q=JJ+Mac%c3%adas) | N/A |
-| 38 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 39 | [Kendall Jenner](http://twitter.com/search?q=Kendall+Jenner) | N/A |
-| 40 | [Celso](http://twitter.com/search?q=Celso) | N/A |
-| 41 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 42 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 43 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 44 | [Baca](http://twitter.com/search?q=Baca) | N/A |
-| 45 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 46 | [Kola Loka](http://twitter.com/search?q=Kola+Loka) | N/A |
-| 47 | [Hugo Gzz](http://twitter.com/search?q=Hugo+Gzz) | N/A |
-| 48 | [hoseok](http://twitter.com/search?q=hoseok) | Hoseok is a Korean given name, derived from the Chinese characters 虎 (hǔ) and 石 (shí). It means "tiger stone" and is associated with strength, courage, and power. |
-| 49 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 26 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 27 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
+| 28 | [Ponchito](http://twitter.com/search?q=Ponchito) | Ponchito is a Spanish term of endearment, similar to "little one" or "darling". It is often used as a nickname for someone who is close to you. |
+| 29 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 30 | [Costa Rica](http://twitter.com/search?q=Costa+Rica) | N/A |
+| 31 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 32 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 33 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 34 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 35 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 36 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 37 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 38 | [La Paz](http://twitter.com/search?q=La+Paz) | N/A |
+| 39 | [Temach](http://twitter.com/search?q=Temach) | N/A |
+| 40 | [Poncho](http://twitter.com/search?q=Poncho) | N/A |
+| 41 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 42 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 44 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 45 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 46 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 47 | [#RevelationsCup](http://twitter.com/search?q=%23RevelationsCup) | N/A |
+| 48 | [#HalaMadrid](http://twitter.com/search?q=%23HalaMadrid) | #HalaMadrid is a hashtag used by fans of the Spanish soccer team Real Madrid. It is a rallying cry and a show of support for the team, and it translates to "Go Madrid!" |
+| 49 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
 
 
 

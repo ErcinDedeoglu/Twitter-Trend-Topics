@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-19 00:30:12 UTC`
+📆 Last Updated: `2023-02-19 01:44:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [#NocheCero](http://twitter.com/search?q=%23NocheCero) | N/A |
 | 2 | [#LosCruzados](http://twitter.com/search?q=%23LosCruzados) | N/A |
-| 3 | [#echalelaculpaaviña](http://twitter.com/search?q=%23echalelaculpaavi%c3%b1a) | N/A |
-| 4 | [#AlfombraRoja](http://twitter.com/search?q=%23AlfombraRoja) | N/A |
-| 5 | [#CSLvsÑUBxTNTSports](http://twitter.com/search?q=%23CSLvs%c3%91UBxTNTSports) | N/A |
-| 6 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 7 | [Di Mondo](http://twitter.com/search?q=Di+Mondo) | N/A |
-| 8 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
-| 9 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
-| 10 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
-| 11 | [Vesta](http://twitter.com/search?q=Vesta) | N/A |
-| 12 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 13 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 14 | [Leonor Varela](http://twitter.com/search?q=Leonor+Varela) | N/A |
-| 15 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
-| 16 | [nicki nicole](http://twitter.com/search?q=nicki+nicole) | N/A |
-| 17 | [Chilean Premier League](http://twitter.com/search?q=Chilean+Premier+League) | N/A |
-| 18 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 19 | [Tita Ureta](http://twitter.com/search?q=Tita+Ureta) | N/A |
-| 20 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 21 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
-| 22 | [ignacia antonia](http://twitter.com/search?q=ignacia+antonia) | N/A |
-| 23 | [Kika Silva](http://twitter.com/search?q=Kika+Silva) | N/A |
-| 24 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 25 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
-| 26 | [Ronald Fuentes](http://twitter.com/search?q=Ronald+Fuentes) | N/A |
-| 27 | [Mario Mezza](http://twitter.com/search?q=Mario+Mezza) | N/A |
-| 28 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 29 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 30 | [luli](http://twitter.com/search?q=luli) | N/A |
-| 31 | [Carlos Pinto](http://twitter.com/search?q=Carlos+Pinto) | N/A |
-| 32 | [Emily](http://twitter.com/search?q=Emily) | Emily is a feminine given name derived from the Roman name Aemilia. It is derived from the Latin word aemulus, meaning "rival". The name Emily has been popular in English-speaking countries since the 19th century. |
-| 33 | [pancha merino](http://twitter.com/search?q=pancha+merino) | N/A |
-| 34 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 35 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
-| 36 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 37 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 38 | [Eugenia](http://twitter.com/search?q=Eugenia) | N/A |
-| 39 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 40 | [karen paola](http://twitter.com/search?q=karen+paola) | N/A |
-| 41 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 42 | [La CAM](http://twitter.com/search?q=La+CAM) | N/A |
-| 43 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 44 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 46 | [Holan](http://twitter.com/search?q=Holan) | N/A |
-| 47 | [cote lópez](http://twitter.com/search?q=cote+l%c3%b3pez) | N/A |
-| 48 | [Gino Costa](http://twitter.com/search?q=Gino+Costa) | N/A |
-| 49 | [Iquique](http://twitter.com/search?q=Iquique) | N/A |
-| 50 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 3 | [Isla](http://twitter.com/search?q=Isla) | N/A |
+| 4 | [Holan](http://twitter.com/search?q=Holan) | N/A |
+| 5 | [Burdisso](http://twitter.com/search?q=Burdisso) | N/A |
+| 6 | [Marcelo Díaz](http://twitter.com/search?q=Marcelo+D%c3%adaz) | N/A |
+| 7 | [Audax](http://twitter.com/search?q=Audax) | Audax is a Latin word meaning "bold" or "daring". It is often used to describe a type of cycling event in which participants ride long distances over a set course, usually within a specified time limit. Audax events are typically non-competitive and are designed to test the endurance and self-sufficiency of the riders. |
+| 8 | [#GALA](http://twitter.com/search?q=%23GALA) | N/A |
+| 9 | [#AlfombraRoja](http://twitter.com/search?q=%23AlfombraRoja) | N/A |
+| 10 | [Cuevas](http://twitter.com/search?q=Cuevas) | N/A |
+| 11 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 12 | [#AUDvsUCxTNTSports](http://twitter.com/search?q=%23AUDvsUCxTNTSports) | N/A |
+| 13 | [Di Mondo](http://twitter.com/search?q=Di+Mondo) | N/A |
+| 14 | [Tapia](http://twitter.com/search?q=Tapia) | N/A |
+| 15 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
+| 16 | [Parot](http://twitter.com/search?q=Parot) | N/A |
+| 17 | [Di Santo](http://twitter.com/search?q=Di+Santo) | Di Santo is an Italian surname. It is derived from the Latin phrase "de sancto," which means "of the saint." The name is likely to have been given to someone who was associated with a saint or had a strong religious faith. |
+| 18 | [Aravena](http://twitter.com/search?q=Aravena) | Aravena is a Spanish surname derived from the Latin word "ravena," which means "raven." It is also a place name in Spain, referring to a small village in the province of Ourense. |
+| 19 | [Cobresal](http://twitter.com/search?q=Cobresal) | N/A |
+| 20 | [Vesta](http://twitter.com/search?q=Vesta) | N/A |
+| 21 | [Saavedra](http://twitter.com/search?q=Saavedra) | N/A |
+| 22 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 23 | [Católica](http://twitter.com/search?q=Cat%c3%b3lica) | N/A |
+| 24 | [Gamboa](http://twitter.com/search?q=Gamboa) | N/A |
+| 25 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 26 | [Pinares](http://twitter.com/search?q=Pinares) | N/A |
+| 27 | [leonor varela](http://twitter.com/search?q=leonor+varela) | N/A |
+| 28 | [Rovira](http://twitter.com/search?q=Rovira) | N/A |
+| 29 | [nicki nicole](http://twitter.com/search?q=nicki+nicole) | N/A |
+| 30 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 31 | [Zampedri](http://twitter.com/search?q=Zampedri) | N/A |
+| 32 | [Tita Ureta](http://twitter.com/search?q=Tita+Ureta) | N/A |
+| 33 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 34 | [emilia](http://twitter.com/search?q=emilia) | N/A |
+| 35 | [ignacia antonia](http://twitter.com/search?q=ignacia+antonia) | N/A |
+| 36 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 37 | [MARLEN](http://twitter.com/search?q=MARLEN) | N/A |
+| 38 | [luli](http://twitter.com/search?q=luli) | N/A |
+| 39 | [Mario Mezza](http://twitter.com/search?q=Mario+Mezza) | N/A |
+| 40 | [Ríos](http://twitter.com/search?q=R%c3%ados) | N/A |
+| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 42 | [Kika Silva](http://twitter.com/search?q=Kika+Silva) | N/A |
+| 43 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 44 | [Carlos Pinto](http://twitter.com/search?q=Carlos+Pinto) | N/A |
+| 45 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 46 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 47 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
+| 48 | [La CAM](http://twitter.com/search?q=La+CAM) | N/A |
+| 49 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 50 | [Eugenia](http://twitter.com/search?q=Eugenia) | N/A |
 
 
 

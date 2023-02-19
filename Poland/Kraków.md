@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-02-19 00:30:17 UTC`
+📆 Last Updated: `2023-02-19 01:44:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#BlackLies](http://twitter.com/search?q=%23BlackLies) | N/A |
 | 2 | [#wersow](http://twitter.com/search?q=%23wersow) | N/A |
 | 3 | [#ARKWIS](http://twitter.com/search?q=%23ARKWIS) | N/A |
-| 4 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 5 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 6 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 7 | [#korlgd](http://twitter.com/search?q=%23korlgd) | N/A |
-| 8 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
-| 9 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 10 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
-| 11 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
-| 12 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 4 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 5 | [#korlgd](http://twitter.com/search?q=%23korlgd) | N/A |
+| 6 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 7 | [Auchan](http://twitter.com/search?q=Auchan) | N/A |
+| 8 | [Monachium](http://twitter.com/search?q=Monachium) | N/A |
+| 9 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 10 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
+| 11 | [Brawo Iga](http://twitter.com/search?q=Brawo+Iga) | N/A |
+| 12 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
 | 13 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 14 | [Brawo Iga](http://twitter.com/search?q=Brawo+Iga) | N/A |
-| 15 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 16 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 17 | [Arki](http://twitter.com/search?q=Arki) | N/A |
-| 18 | [Castilli](http://twitter.com/search?q=Castilli) | N/A |
-| 19 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 20 | [Friz](http://twitter.com/search?q=Friz) | N/A |
-| 21 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 22 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 23 | [pucharu świata](http://twitter.com/search?q=pucharu+%c5%9bwiata) | N/A |
-| 24 | [Antoni K.](http://twitter.com/search?q=Antoni+K.) | N/A |
-| 25 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 26 | [Matty Cash](http://twitter.com/search?q=Matty+Cash) | N/A |
-| 27 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 28 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 29 | [Arka](http://twitter.com/search?q=Arka) | N/A |
-| 30 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 31 | [kacper juroszek](http://twitter.com/search?q=kacper+juroszek) | N/A |
-| 32 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 33 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 34 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 35 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 36 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
-| 37 | [nketiaha](http://twitter.com/search?q=nketiaha) | N/A |
-| 38 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 39 | [tomczyk](http://twitter.com/search?q=tomczyk) | N/A |
-| 40 | [Rasnovie](http://twitter.com/search?q=Rasnovie) | N/A |
-| 41 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
-| 42 | [Wieje](http://twitter.com/search?q=Wieje) | N/A |
-| 43 | [Pogoni](http://twitter.com/search?q=Pogoni) | N/A |
-| 44 | [Campusie](http://twitter.com/search?q=Campusie) | N/A |
+| 14 | [Friz](http://twitter.com/search?q=Friz) | N/A |
+| 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 16 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 17 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 18 | [Arki](http://twitter.com/search?q=Arki) | N/A |
+| 19 | [Antoni K.](http://twitter.com/search?q=Antoni+K.) | N/A |
+| 20 | [pucharu świata](http://twitter.com/search?q=pucharu+%c5%9bwiata) | N/A |
+| 21 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 22 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 23 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 24 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 25 | [Matty Cash](http://twitter.com/search?q=Matty+Cash) | N/A |
+| 26 | [kacper juroszek](http://twitter.com/search?q=kacper+juroszek) | N/A |
+| 27 | [Arka](http://twitter.com/search?q=Arka) | N/A |
+| 28 | [Wrześni](http://twitter.com/search?q=Wrze%c5%9bni) | N/A |
+| 29 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 30 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 31 | [Rozenek](http://twitter.com/search?q=Rozenek) | N/A |
+| 32 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 33 | [Campusie](http://twitter.com/search?q=Campusie) | N/A |
+| 34 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 35 | [Fede](http://twitter.com/search?q=Fede) | N/A |
+| 36 | [tomczyk](http://twitter.com/search?q=tomczyk) | N/A |
+| 37 | [wieje](http://twitter.com/search?q=wieje) | N/A |
+| 38 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 39 | [Google Authenticator](http://twitter.com/search?q=Google+Authenticator) | N/A |
+| 40 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
+| 41 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 42 | [aston villi](http://twitter.com/search?q=aston+villi) | N/A |
+| 43 | [dosze](http://twitter.com/search?q=dosze) | N/A |
+| 44 | [JPII](http://twitter.com/search?q=JPII) | N/A |
 | 45 | [Adrianna Sułek](http://twitter.com/search?q=Adrianna+Su%c5%82ek) | N/A |
-| 46 | [Wrześni](http://twitter.com/search?q=Wrze%c5%9bni) | N/A |
-| 47 | [tomasz pilch](http://twitter.com/search?q=tomasz+pilch) | N/A |
-| 48 | [Dosze](http://twitter.com/search?q=Dosze) | N/A |
-| 49 | [Michnik](http://twitter.com/search?q=Michnik) | N/A |
-| 50 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
+| 46 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 47 | [maciej kot](http://twitter.com/search?q=maciej+kot) | N/A |
+| 48 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 49 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 50 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 
 
 
