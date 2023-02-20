@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-02-20 00:30:03 UTC`
+📆 Last Updated: `2023-02-20 01:45:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
-| 2 | [#isiasgizliliğikaldırılsın](http://twitter.com/search?q=%23isiasgizlili%c4%9fikald%c4%b1r%c4%b1ls%c4%b1n) | N/A |
-| 3 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
-| 4 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
-| 5 | [#isiashotelkatliamı](http://twitter.com/search?q=%23isiashotelkatliam%c4%b1) | N/A |
-| 6 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 7 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
-| 8 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
-| 9 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 10 | [Eray](http://twitter.com/search?q=Eray) | N/A |
-| 11 | [Depremin 14](http://twitter.com/search?q=Depremin+14) | N/A |
-| 12 | [Ruhun](http://twitter.com/search?q=Ruhun) | N/A |
-| 13 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
-| 14 | [Yüküm](http://twitter.com/search?q=Y%c3%bck%c3%bcm) | N/A |
-| 15 | [Ege Üniversitesi](http://twitter.com/search?q=Ege+%c3%9cniversitesi) | N/A |
-| 16 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
+| 1 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
+| 2 | [#Oxai](http://twitter.com/search?q=%23Oxai) | N/A |
+| 3 | [#isiasgizliliğikaldırılsın](http://twitter.com/search?q=%23isiasgizlili%c4%9fikald%c4%b1r%c4%b1ls%c4%b1n) | N/A |
+| 4 | [#babyfloki](http://twitter.com/search?q=%23babyfloki) | N/A |
+| 5 | [#pazar](http://twitter.com/search?q=%23pazar) | #Pazar is a Turkish word meaning "market". It is used to refer to a market or bazaar, where people can buy and sell goods. |
+| 6 | [yalnızlaştık](http://twitter.com/search?q=yaln%c4%b1zla%c5%9ft%c4%b1k) | N/A |
+| 7 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
+| 8 | [Palu](http://twitter.com/search?q=Palu) | N/A |
+| 9 | [neyledim](http://twitter.com/search?q=neyledim) | N/A |
+| 10 | [Islam](http://twitter.com/search?q=Islam) | N/A |
+| 11 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
+| 12 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
+| 13 | [Evim Yuvan Olsun](http://twitter.com/search?q=Evim+Yuvan+Olsun) | N/A |
+| 14 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
+| 15 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 16 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
 | 17 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 18 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 19 | [İhsan](http://twitter.com/search?q=%c4%b0hsan) | N/A |
-| 20 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
-| 21 | [Şener](http://twitter.com/search?q=%c5%9eener) | N/A |
-| 22 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
-| 23 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 24 | [Esenyurt](http://twitter.com/search?q=Esenyurt) | N/A |
-| 25 | [Başak](http://twitter.com/search?q=Ba%c5%9fak) | N/A |
-| 26 | [Aşık](http://twitter.com/search?q=A%c5%9f%c4%b1k) | N/A |
-| 27 | [Çakma](http://twitter.com/search?q=%c3%87akma) | N/A |
-| 28 | [#Üniversiteleri](http://twitter.com/search?q=%23%c3%9cniversiteleri) | N/A |
-| 29 | [#StajyerCalısıyor](http://twitter.com/search?q=%23StajyerCal%c4%b1s%c4%b1yor) | N/A |
-| 30 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
-| 31 | [#GeceyeNotum](http://twitter.com/search?q=%23GeceyeNotum) | N/A |
-| 32 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
-| 33 | [#NisandadeğilMartta](http://twitter.com/search?q=%23Nisandade%c4%9filMartta) | N/A |
-| 34 | [#OzTuğ](http://twitter.com/search?q=%23OzTu%c4%9f) | N/A |
-| 35 | [#forEF](http://twitter.com/search?q=%23forEF) | N/A |
-| 36 | [#astroloji](http://twitter.com/search?q=%23astroloji) | N/A |
-| 37 | [#isiaskatillericezalandırılsın](http://twitter.com/search?q=%23isiaskatillericezaland%c4%b1r%c4%b1ls%c4%b1n) | N/A |
-| 38 | [#Antalya](http://twitter.com/search?q=%23Antalya) | N/A |
-| 39 | [#tusertelensin](http://twitter.com/search?q=%23tusertelensin) | N/A |
-| 40 | [#GeceyeBirNot](http://twitter.com/search?q=%23GeceyeBirNot) | N/A |
-| 41 | [#nisandegilmart](http://twitter.com/search?q=%23nisandegilmart) | N/A |
-| 42 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 43 | [#eryar](http://twitter.com/search?q=%23eryar) | N/A |
-| 44 | [#kismetseoluraskingucu](http://twitter.com/search?q=%23kismetseoluraskingucu) | N/A |
+| 18 | [Ahmet Suat Özyazıcı](http://twitter.com/search?q=Ahmet+Suat+%c3%96zyaz%c4%b1c%c4%b1) | N/A |
+| 19 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
+| 20 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
+| 21 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
+| 22 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
+| 23 | [Sagopa Kajmer](http://twitter.com/search?q=Sagopa+Kajmer) | Sagopa Kajmer is a Turkish hip-hop artist and record label. His name is a combination of the words "sagopa" (meaning "wise") and "kajmer" (meaning "poet"). In English, Sagopa Kajmer can be translated to mean "wise poet". |
+| 24 | [Yüküm](http://twitter.com/search?q=Y%c3%bck%c3%bcm) | N/A |
+| 25 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
+| 26 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
+| 27 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 28 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 29 | [Depremin 14](http://twitter.com/search?q=Depremin+14) | N/A |
+| 30 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
+| 31 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 32 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 33 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
+| 34 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
+| 35 | [Kübra Dörtkardeş](http://twitter.com/search?q=K%c3%bcbra+D%c3%b6rtkarde%c5%9f) | N/A |
+| 36 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
+| 37 | [Prada](http://twitter.com/search?q=Prada) | N/A |
+| 38 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
+| 39 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
+| 40 | [633 Suriyeli](http://twitter.com/search?q=633+Suriyeli) | N/A |
+| 41 | [Eray](http://twitter.com/search?q=Eray) | N/A |
+| 42 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 43 | [Ecevit](http://twitter.com/search?q=Ecevit) | N/A |
+| 44 | [Tevrat](http://twitter.com/search?q=Tevrat) | N/A |
+| 45 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
+| 46 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
+| 47 | [Bilal Erdoğan](http://twitter.com/search?q=Bilal+Erdo%c4%9fan) | N/A |
+| 48 | [Berfin](http://twitter.com/search?q=Berfin) | N/A |
+| 49 | [Biriz Beraberiz](http://twitter.com/search?q=Biriz+Beraberiz) | N/A |
+| 50 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
 
 
 

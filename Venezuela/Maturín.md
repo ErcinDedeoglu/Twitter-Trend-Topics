@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maturín
 
-📆 Last Updated: `2023-02-20 00:29:37 UTC`
+📆 Last Updated: `2023-02-20 01:45:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#ADisfrutarElCarnaval](http://twitter.com/search?q=%23ADisfrutarElCarnaval) | N/A |
 | 3 | [Feliz Domingo](http://twitter.com/search?q=Feliz+Domingo) | N/A |
 | 4 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 5 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
-| 6 | [Dedos](http://twitter.com/search?q=Dedos) | N/A |
-| 7 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 8 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 9 | [#ClubHipicoxTLT](http://twitter.com/search?q=%23ClubHipicoxTLT) | N/A |
-| 10 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
-| 11 | [Simón Díaz](http://twitter.com/search?q=Sim%c3%b3n+D%c3%adaz) | N/A |
-| 12 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
-| 13 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 14 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 15 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 16 | [Eva Blanco](http://twitter.com/search?q=Eva+Blanco) | N/A |
-| 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 18 | [Jacke](http://twitter.com/search?q=Jacke) | N/A |
-| 19 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
-| 20 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 21 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 22 | [Complicado](http://twitter.com/search?q=Complicado) | N/A |
-| 23 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 24 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
-| 25 | [Doris Wells](http://twitter.com/search?q=Doris+Wells) | N/A |
-| 26 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 27 | [Trucutú](http://twitter.com/search?q=Trucut%c3%ba) | N/A |
-| 28 | [Patacón](http://twitter.com/search?q=Patac%c3%b3n) | N/A |
-| 29 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 30 | [Philomena](http://twitter.com/search?q=Philomena) | N/A |
-| 31 | [CLARA DEL VALLE](http://twitter.com/search?q=CLARA+DEL+VALLE) | N/A |
-| 32 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 33 | [Tío Simón](http://twitter.com/search?q=T%c3%ado+Sim%c3%b3n) | N/A |
-| 34 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 6 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
+| 7 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 8 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 9 | [#clubhipicoxtlt](http://twitter.com/search?q=%23clubhipicoxtlt) | N/A |
+| 10 | [Elisa Soteldo](http://twitter.com/search?q=Elisa+Soteldo) | N/A |
+| 11 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 12 | [Dedos](http://twitter.com/search?q=Dedos) | N/A |
+| 13 | [Eva Blanco](http://twitter.com/search?q=Eva+Blanco) | N/A |
+| 14 | [Simón Díaz](http://twitter.com/search?q=Sim%c3%b3n+D%c3%adaz) | N/A |
+| 15 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
+| 16 | [Pierina España](http://twitter.com/search?q=Pierina+Espa%c3%b1a) | N/A |
+| 17 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
+| 18 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 19 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 20 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 21 | [Complicado](http://twitter.com/search?q=Complicado) | N/A |
+| 22 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 23 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 24 | [Doris Wells](http://twitter.com/search?q=Doris+Wells) | N/A |
+| 25 | [Jacke](http://twitter.com/search?q=Jacke) | N/A |
+| 26 | [feliz sábado](http://twitter.com/search?q=feliz+s%c3%a1bado) | N/A |
+| 27 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 28 | [Museo de los Niños](http://twitter.com/search?q=Museo+de+los+Ni%c3%b1os) | N/A |
+| 29 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 30 | [Trucutú](http://twitter.com/search?q=Trucut%c3%ba) | N/A |
+| 31 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 32 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 33 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 34 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
 | 35 | [Tu Finca Express](http://twitter.com/search?q=Tu+Finca+Express) | N/A |
-| 36 | [Mazamorra](http://twitter.com/search?q=Mazamorra) | N/A |
-| 37 | [Cundeamor](http://twitter.com/search?q=Cundeamor) | N/A |
-| 38 | [El Callao](http://twitter.com/search?q=El+Callao) | N/A |
-| 39 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
-| 40 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 41 | [Papelón](http://twitter.com/search?q=Papel%c3%b3n) | N/A |
-| 42 | [#elesequiboesdevenezuela](http://twitter.com/search?q=%23elesequiboesdevenezuela) | N/A |
-| 43 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 44 | [Damasco](http://twitter.com/search?q=Damasco) | N/A |
-| 45 | [Pedro Infante](http://twitter.com/search?q=Pedro+Infante) | N/A |
-| 46 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 47 | [TEMPLARIO](http://twitter.com/search?q=TEMPLARIO) | N/A |
-| 48 | [Iker Casillas](http://twitter.com/search?q=Iker+Casillas) | N/A |
-| 49 | [Pilín León](http://twitter.com/search?q=Pil%c3%adn+Le%c3%b3n) | N/A |
-| 50 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 36 | [CLARA DEL VALLE](http://twitter.com/search?q=CLARA+DEL+VALLE) | N/A |
+| 37 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 38 | [Philomena](http://twitter.com/search?q=Philomena) | N/A |
+| 39 | [Popeye](http://twitter.com/search?q=Popeye) | N/A |
+| 40 | [Mazamorra](http://twitter.com/search?q=Mazamorra) | N/A |
+| 41 | [Cundeamor](http://twitter.com/search?q=Cundeamor) | N/A |
+| 42 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 43 | [El Callao](http://twitter.com/search?q=El+Callao) | N/A |
+| 44 | [Hilda Carrero](http://twitter.com/search?q=Hilda+Carrero) | N/A |
+| 45 | [#UnidosSomosMejores](http://twitter.com/search?q=%23UnidosSomosMejores) | N/A |
+| 46 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 47 | [robert pérez](http://twitter.com/search?q=robert+p%c3%a9rez) | N/A |
+| 48 | [Patacón](http://twitter.com/search?q=Patac%c3%b3n) | N/A |
+| 49 | [Tío Simón](http://twitter.com/search?q=T%c3%ado+Sim%c3%b3n) | N/A |
+| 50 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
 
 
 

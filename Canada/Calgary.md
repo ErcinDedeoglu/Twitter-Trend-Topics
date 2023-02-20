@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calgary
 
-📆 Last Updated: `2023-02-20 00:29:26 UTC`
+📆 Last Updated: `2023-02-20 01:44:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 2 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 3 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 4 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
-| 5 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 6 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 7 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
-| 8 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 9 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 10 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 11 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 12 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 13 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 14 | [#EliminationChamber](http://twitter.com/search?q=%23EliminationChamber) | N/A |
-| 15 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 16 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 17 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
-| 18 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 19 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 20 | [RANDLE](http://twitter.com/search?q=RANDLE) | N/A |
-| 21 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 22 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 23 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 24 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
-| 25 | [Foegele](http://twitter.com/search?q=Foegele) | N/A |
-| 26 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 27 | [Family Day](http://twitter.com/search?q=Family+Day) | N/A |
-| 28 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
-| 29 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 30 | [Ken Holland](http://twitter.com/search?q=Ken+Holland) | N/A |
-| 31 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 32 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 33 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 34 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
-| 35 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 36 | [Ridly Greig](http://twitter.com/search?q=Ridly+Greig) | N/A |
-| 37 | [Haliburton](http://twitter.com/search?q=Haliburton) | Haliburton is a Canadian multinational corporation that provides a variety of services and products primarily to the energy industry. It is one of the world's largest oilfield services companies and has operations in more than 80 countries. The company's name is derived from the town of Haliburton, Ontario, where it was founded in 1919. |
-| 38 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 39 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 40 | [Morgan Rielly](http://twitter.com/search?q=Morgan+Rielly) | N/A |
-| 41 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 42 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 43 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 44 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 45 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 46 | [Bouchard](http://twitter.com/search?q=Bouchard) | N/A |
-| 47 | [Janmark](http://twitter.com/search?q=Janmark) | N/A |
-| 48 | [Ben Woodhouse](http://twitter.com/search?q=Ben+Woodhouse) | N/A |
-| 49 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 50 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 1 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
+| 2 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 3 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 4 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 5 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 6 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
+| 7 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 8 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 9 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 10 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 11 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 12 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 13 | [Team Lebron](http://twitter.com/search?q=Team+Lebron) | N/A |
+| 14 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 15 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 16 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 17 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 18 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 19 | [O Canada](http://twitter.com/search?q=O+Canada) | N/A |
+| 20 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 21 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 22 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 23 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 24 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 25 | [#bbcelebrites](http://twitter.com/search?q=%23bbcelebrites) | N/A |
+| 26 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
+| 27 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 28 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 29 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 30 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 31 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
+| 32 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 33 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 34 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 35 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
+| 36 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
+| 37 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 38 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 39 | [Drai](http://twitter.com/search?q=Drai) | N/A |
+| 40 | [Leaf](http://twitter.com/search?q=Leaf) | N/A |
+| 41 | [Foegele](http://twitter.com/search?q=Foegele) | N/A |
+| 42 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 43 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 44 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 45 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 46 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
+| 47 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 48 | [#CanXNT](http://twitter.com/search?q=%23CanXNT) | N/A |
+| 49 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 50 | [#abstorm](http://twitter.com/search?q=%23abstorm) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-02-20 00:29:32 UTC`
+📆 Last Updated: `2023-02-20 01:45:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
-| 2 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 3 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
-| 4 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 5 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 6 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
-| 7 | [#OHIvsUCHxTntsports](http://twitter.com/search?q=%23OHIvsUCHxTntsports) | N/A |
-| 8 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
-| 9 | [#EchaleLaCulpaaVina](http://twitter.com/search?q=%23EchaleLaCulpaaVina) | N/A |
-| 10 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
-| 11 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 12 | [#CCvsEVExTNTSports](http://twitter.com/search?q=%23CCvsEVExTNTSports) | N/A |
-| 13 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
-| 14 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 15 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
-| 16 | [Donoso](http://twitter.com/search?q=Donoso) | N/A |
-| 17 | [Nico Guerra](http://twitter.com/search?q=Nico+Guerra) | N/A |
-| 18 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 19 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 20 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
-| 21 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
-| 22 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 24 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 25 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
-| 26 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
-| 27 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 28 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 29 | [Universidad de Chile](http://twitter.com/search?q=Universidad+de+Chile) | N/A |
-| 30 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 31 | [Gabriel Suazo](http://twitter.com/search?q=Gabriel+Suazo) | N/A |
-| 32 | [Moya](http://twitter.com/search?q=Moya) | N/A |
-| 33 | [Palma](http://twitter.com/search?q=Palma) | N/A |
-| 34 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 35 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 36 | [Montes](http://twitter.com/search?q=Montes) | N/A |
-| 37 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 38 | [Milei](http://twitter.com/search?q=Milei) | N/A |
-| 39 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 40 | [#UdeChile](http://twitter.com/search?q=%23UdeChile) | N/A |
-| 41 | [#Viña2023](http://twitter.com/search?q=%23Vi%c3%b1a2023) | N/A |
+| 1 | [#Viña2023](http://twitter.com/search?q=%23Vi%c3%b1a2023) | N/A |
+| 2 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 3 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
+| 4 | [Cris MJ](http://twitter.com/search?q=Cris+MJ) | N/A |
+| 5 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 6 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 7 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 8 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 9 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 10 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
+| 11 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
+| 12 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 13 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 14 | [#CCvsEVExTNTSports](http://twitter.com/search?q=%23CCvsEVExTNTSports) | N/A |
+| 15 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
+| 16 | [Bolados](http://twitter.com/search?q=Bolados) | Bolados is a Spanish slang term that means "cool" or "awesome." It is often used to express approval or admiration for something. |
+| 17 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 18 | [Peluca](http://twitter.com/search?q=Peluca) | N/A |
+| 19 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 20 | [María Luisa](http://twitter.com/search?q=Mar%c3%ada+Luisa) | N/A |
+| 21 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 22 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 23 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
+| 24 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 25 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 26 | [Donoso](http://twitter.com/search?q=Donoso) | N/A |
+| 27 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
+| 28 | [Pamela Leiva](http://twitter.com/search?q=Pamela+Leiva) | N/A |
+| 29 | [Paqui](http://twitter.com/search?q=Paqui) | N/A |
+| 30 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 31 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 32 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 33 | [Nico Guerra](http://twitter.com/search?q=Nico+Guerra) | N/A |
+| 34 | [Fuentes](http://twitter.com/search?q=Fuentes) | N/A |
+| 35 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 36 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 37 | [Pizarro](http://twitter.com/search?q=Pizarro) | N/A |
+| 38 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 39 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
+| 40 | [González](http://twitter.com/search?q=Gonz%c3%a1lez) | N/A |
+| 41 | [Gabriel Suazo](http://twitter.com/search?q=Gabriel+Suazo) | N/A |
+| 42 | [Rancagua](http://twitter.com/search?q=Rancagua) | N/A |
+| 43 | [Montes](http://twitter.com/search?q=Montes) | N/A |
+| 44 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 45 | [Huerta](http://twitter.com/search?q=Huerta) | N/A |
+| 46 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 47 | [Universidad de Chile](http://twitter.com/search?q=Universidad+de+Chile) | N/A |
+| 48 | [Tobar](http://twitter.com/search?q=Tobar) | N/A |
+| 49 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 50 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
 
 
 

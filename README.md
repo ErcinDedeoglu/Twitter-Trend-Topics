@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-20 00:29:25 UTC`
+📆 Last Updated: `2023-02-20 01:44:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 2 | [#LoDeOlona](http://twitter.com/search?q=%23LoDeOlona) | N/A |
-| 3 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 4 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 5 | [Roger Guedes](http://twitter.com/search?q=Roger+Guedes) | Roger Guedes is a Brazilian footballer who currently plays for Atlético Mineiro. His name in English translates to "Roger Woods". |
-| 6 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
-| 7 | [Briasco](http://twitter.com/search?q=Briasco) | N/A |
-| 8 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 9 | [Stenhouse](http://twitter.com/search?q=Stenhouse) | N/A |
-| 10 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 11 | [Figal](http://twitter.com/search?q=Figal) | N/A |
-| 12 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
-| 13 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
-| 14 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
-| 15 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
-| 16 | [Langoni](http://twitter.com/search?q=Langoni) | Langoni is a type of traditional Indian clothing worn by women in some parts of India. It is a long, loose-fitting garment that is usually made from cotton or silk and is often decorated with intricate embroidery. The word "langoni" comes from the Hindi language and translates to "loose clothing". |
-| 17 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 18 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 19 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
-| 20 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 21 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
-| 22 | [Platense](http://twitter.com/search?q=Platense) | N/A |
-| 23 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 24 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 25 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
-| 26 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 27 | [Jon Rahm](http://twitter.com/search?q=Jon+Rahm) | N/A |
-| 28 | [Logano](http://twitter.com/search?q=Logano) | N/A |
-| 29 | [由良先輩](http://twitter.com/search?q=%e7%94%b1%e8%89%af%e5%85%88%e8%bc%a9) | N/A |
-| 30 | [Equi](http://twitter.com/search?q=Equi) | Equi is a Latin word meaning "equal" or "equally". It is often used in legal and financial contexts to refer to a situation where two parties have equal rights or obligations. |
-| 31 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 32 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 33 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
-| 34 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
-| 35 | [Norby](http://twitter.com/search?q=Norby) | N/A |
-| 36 | [Pol Fernández](http://twitter.com/search?q=Pol+Fern%c3%a1ndez) | N/A |
-| 37 | [Kyle Busch](http://twitter.com/search?q=Kyle+Busch) | N/A |
-| 38 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 39 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
-| 40 | [リフォーム](http://twitter.com/search?q=%e3%83%aa%e3%83%95%e3%82%a9%e3%83%bc%e3%83%a0) | N/A |
-| 41 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 42 | [ケロポンズ](http://twitter.com/search?q=%e3%82%b1%e3%83%ad%e3%83%9d%e3%83%b3%e3%82%ba) | N/A |
-| 43 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 44 | [World of Sport](http://twitter.com/search?q=World+of+Sport) | N/A |
-| 45 | [Arriba Alianza](http://twitter.com/search?q=Arriba+Alianza) | N/A |
-| 46 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 47 | [高校生家族](http://twitter.com/search?q=%e9%ab%98%e6%a0%a1%e7%94%9f%e5%ae%b6%e6%97%8f) | N/A |
-| 48 | [朝ドラ受け](http://twitter.com/search?q=%e6%9c%9d%e3%83%89%e3%83%a9%e5%8f%97%e3%81%91) | N/A |
-| 49 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 50 | [Sandez](http://twitter.com/search?q=Sandez) | Sandez is a Spanish term meaning “goodbye” or “farewell.” It is derived from the phrase “adiós, amigo,” which literally translates to “goodbye, friend.” |
+| 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 2 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 3 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 4 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 5 | [#RuyalarBuyusun](http://twitter.com/search?q=%23RuyalarBuyusun) | N/A |
+| 6 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
+| 7 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 8 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 9 | [#Viña2023](http://twitter.com/search?q=%23Vi%c3%b1a2023) | N/A |
+| 10 | [Team Lebron](http://twitter.com/search?q=Team+Lebron) | N/A |
+| 11 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 12 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 13 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 14 | [Império Serrano](http://twitter.com/search?q=Imp%c3%a9rio+Serrano) | N/A |
+| 15 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 16 | [Hookah Doncic](http://twitter.com/search?q=Hookah+Doncic) | N/A |
+| 17 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 18 | [CRIS MJ](http://twitter.com/search?q=CRIS+MJ) | N/A |
+| 19 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 20 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 21 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 22 | [Briasco](http://twitter.com/search?q=Briasco) | N/A |
+| 23 | [Ernie](http://twitter.com/search?q=Ernie) | N/A |
+| 24 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 25 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 26 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
+| 27 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 28 | [Roger Guedes](http://twitter.com/search?q=Roger+Guedes) | Roger Guedes is a Brazilian footballer who currently plays for Atlético Mineiro. His name in English translates to "Roger Woods". |
+| 29 | [Jewel](http://twitter.com/search?q=Jewel) | N/A |
+| 30 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
+| 31 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 32 | [Stenhouse](http://twitter.com/search?q=Stenhouse) | N/A |
+| 33 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
+| 34 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 35 | [fred boco](http://twitter.com/search?q=fred+boco) | N/A |
+| 36 | [Figal](http://twitter.com/search?q=Figal) | N/A |
+| 37 | [Novick](http://twitter.com/search?q=Novick) | N/A |
+| 38 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
+| 39 | [Menosse](http://twitter.com/search?q=Menosse) | Menosse is a Portuguese word that means "less" or "fewer". It is used to describe a smaller amount of something. |
+| 40 | [LeGM](http://twitter.com/search?q=LeGM) | N/A |
+| 41 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 42 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 43 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 44 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 45 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
+| 46 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 47 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 48 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
+| 49 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
+| 50 | [PAULOANDRE E HELLMANNS NBA](http://twitter.com/search?q=PAULOANDRE+E+HELLMANNS+NBA) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-20 00:29:39 UTC`
+📆 Last Updated: `2023-02-20 01:45:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#BVBBSC](http://twitter.com/search?q=%23BVBBSC) | N/A |
 | 3 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
 | 4 | [#FCUS04](http://twitter.com/search?q=%23FCUS04) | N/A |
-| 5 | [#saytheirnames](http://twitter.com/search?q=%23saytheirnames) | N/A |
-| 6 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 7 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 8 | [Schönen Sonntag](http://twitter.com/search?q=Sch%c3%b6nen+Sonntag) | "Schönen Sonntag" is a German phrase that translates to "Have a nice Sunday" in English. It is a common greeting used to wish someone a pleasant day on Sunday. |
-| 9 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
-| 10 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 11 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 5 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 6 | [#saytheirnames](http://twitter.com/search?q=%23saytheirnames) | N/A |
+| 7 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 8 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 9 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 10 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 11 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
 | 12 | [Messer](http://twitter.com/search?q=Messer) | N/A |
 | 13 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 14 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 15 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
-| 16 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 17 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
-| 18 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 19 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 20 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 21 | [Steven](http://twitter.com/search?q=Steven) | N/A |
-| 22 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
-| 23 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 24 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 25 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 26 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 27 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
-| 28 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
-| 29 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 14 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 15 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 16 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 17 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 18 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 19 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 20 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
+| 21 | [Joko](http://twitter.com/search?q=Joko) | N/A |
+| 22 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 23 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 24 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
+| 25 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 26 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
+| 27 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
+| 28 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 29 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
 | 30 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
-| 31 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
-| 32 | [Welz](http://twitter.com/search?q=Welz) | N/A |
-| 33 | [Bill Kaulitz](http://twitter.com/search?q=Bill+Kaulitz) | N/A |
-| 34 | [Auslosung](http://twitter.com/search?q=Auslosung) | N/A |
-| 35 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
-| 36 | [Kroatien](http://twitter.com/search?q=Kroatien) | N/A |
+| 31 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 32 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
+| 33 | [Welz](http://twitter.com/search?q=Welz) | N/A |
+| 34 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
+| 35 | [Kroatien](http://twitter.com/search?q=Kroatien) | N/A |
+| 36 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
 | 37 | [halbfinale](http://twitter.com/search?q=halbfinale) | N/A |
-| 38 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 38 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 | 39 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 40 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 41 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 42 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 43 | [Streubomben](http://twitter.com/search?q=Streubomben) | N/A |
-| 44 | [Plea](http://twitter.com/search?q=Plea) | N/A |
-| 45 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 46 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
-| 47 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
-| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 49 | [Ladendiebin](http://twitter.com/search?q=Ladendiebin) | N/A |
-| 50 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 40 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 41 | [Plea](http://twitter.com/search?q=Plea) | N/A |
+| 42 | [streubomben](http://twitter.com/search?q=streubomben) | N/A |
+| 43 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 44 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
+| 45 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
+| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 47 | [Ladendiebin](http://twitter.com/search?q=Ladendiebin) | N/A |
+| 48 | [Auslosung](http://twitter.com/search?q=Auslosung) | N/A |
+| 49 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 50 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
 
 
 

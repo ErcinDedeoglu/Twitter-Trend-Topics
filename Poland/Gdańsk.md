@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-20 00:29:37 UTC`
+📆 Last Updated: `2023-02-20 01:45:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [#LPOZAG](http://twitter.com/search?q=%23LPOZAG) | N/A |
 | 2 | [#PIALEG](http://twitter.com/search?q=%23PIALEG) | N/A |
-| 3 | [#woronicza17](http://twitter.com/search?q=%23woronicza17) | N/A |
-| 4 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
-| 5 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
-| 6 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 7 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
-| 8 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 9 | [Mikołaja Kopernika](http://twitter.com/search?q=Miko%c5%82aja+Kopernika) | N/A |
-| 10 | [Oskar Kwiatkowski](http://twitter.com/search?q=Oskar+Kwiatkowski) | N/A |
-| 11 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 12 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
-| 13 | [Senyszyn](http://twitter.com/search?q=Senyszyn) | N/A |
-| 14 | [Zuzanna Borucka](http://twitter.com/search?q=Zuzanna+Borucka) | N/A |
-| 15 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 16 | [Sylwia Przybysz](http://twitter.com/search?q=Sylwia+Przybysz) | N/A |
-| 17 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
-| 18 | [Aleksandra Król](http://twitter.com/search?q=Aleksandra+Kr%c3%b3l) | N/A |
-| 19 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 20 | [sylwestrzak](http://twitter.com/search?q=sylwestrzak) | N/A |
-| 21 | [Sokołowski](http://twitter.com/search?q=Soko%c5%82owski) | N/A |
+| 3 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
+| 4 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
+| 5 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 6 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 7 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
+| 8 | [Mikołaja Kopernika](http://twitter.com/search?q=Miko%c5%82aja+Kopernika) | N/A |
+| 9 | [Oskar Kwiatkowski](http://twitter.com/search?q=Oskar+Kwiatkowski) | N/A |
+| 10 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 11 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
+| 12 | [Zuzanna Borucka](http://twitter.com/search?q=Zuzanna+Borucka) | N/A |
+| 13 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 14 | [Sylwia Przybysz](http://twitter.com/search?q=Sylwia+Przybysz) | N/A |
+| 15 | [Aleksandra Król](http://twitter.com/search?q=Aleksandra+Kr%c3%b3l) | N/A |
+| 16 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 17 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 18 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 19 | [sylwestrzak](http://twitter.com/search?q=sylwestrzak) | N/A |
+| 20 | [Sokołowski](http://twitter.com/search?q=Soko%c5%82owski) | N/A |
+| 21 | [varze](http://twitter.com/search?q=varze) | N/A |
 | 22 | [Slisza](http://twitter.com/search?q=Slisza) | N/A |
 | 23 | [Kosta](http://twitter.com/search?q=Kosta) | N/A |
 | 24 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
 | 25 | [Lil Masti](http://twitter.com/search?q=Lil+Masti) | N/A |
-| 26 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 27 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 28 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
+| 26 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
+| 27 | [piastem](http://twitter.com/search?q=piastem) | N/A |
+| 28 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
 | 29 | [Rymanowski](http://twitter.com/search?q=Rymanowski) | N/A |
-| 30 | [piastem](http://twitter.com/search?q=piastem) | N/A |
-| 31 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 30 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 31 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
 | 32 | [Broma](http://twitter.com/search?q=Broma) | N/A |
 | 33 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 34 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
-| 35 | [Fati](http://twitter.com/search?q=Fati) | N/A |
-| 36 | [antoni k.](http://twitter.com/search?q=antoni+k.) | N/A |
-| 37 | [Szejna](http://twitter.com/search?q=Szejna) | N/A |
-| 38 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
-| 39 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 40 | [pekhart](http://twitter.com/search?q=pekhart) | N/A |
-| 41 | [Marsz Niepodległości](http://twitter.com/search?q=Marsz+Niepodleg%c5%82o%c5%9bci) | N/A |
-| 42 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
-| 43 | [Mladen](http://twitter.com/search?q=Mladen) | N/A |
-| 44 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
-| 45 | [Lubina](http://twitter.com/search?q=Lubina) | N/A |
+| 34 | [szejna](http://twitter.com/search?q=szejna) | N/A |
+| 35 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
+| 36 | [pekhart](http://twitter.com/search?q=pekhart) | N/A |
+| 37 | [Robert Bąkiewicz](http://twitter.com/search?q=Robert+B%c4%85kiewicz) | N/A |
+| 38 | [antoni k.](http://twitter.com/search?q=antoni+k.) | N/A |
+| 39 | [Marsz Niepodległości](http://twitter.com/search?q=Marsz+Niepodleg%c5%82o%c5%9bci) | N/A |
+| 40 | [Senyszyn](http://twitter.com/search?q=Senyszyn) | N/A |
+| 41 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
+| 42 | [Mladen](http://twitter.com/search?q=Mladen) | N/A |
+| 43 | [Faworki](http://twitter.com/search?q=Faworki) | N/A |
+| 44 | [lubina](http://twitter.com/search?q=lubina) | N/A |
+| 45 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
 | 46 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
 | 47 | [Sobiech](http://twitter.com/search?q=Sobiech) | N/A |
-| 48 | [Faworki](http://twitter.com/search?q=Faworki) | N/A |
-| 49 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 48 | [muci](http://twitter.com/search?q=muci) | N/A |
+| 49 | [Spokojnej](http://twitter.com/search?q=Spokojnej) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rome
 
-📆 Last Updated: `2023-02-20 00:29:42 UTC`
+📆 Last Updated: `2023-02-20 01:45:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RomaVerona](http://twitter.com/search?q=%23RomaVerona) | N/A |
-| 2 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
-| 3 | [#RestaConMe](http://twitter.com/search?q=%23RestaConMe) | N/A |
-| 4 | [#90giorniperinnamorarsi](http://twitter.com/search?q=%2390giorniperinnamorarsi) | N/A |
-| 5 | [#Mourinho](http://twitter.com/search?q=%23Mourinho) | N/A |
-| 6 | [Bove](http://twitter.com/search?q=Bove) | N/A |
-| 7 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
-| 8 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 9 | [Fedayn](http://twitter.com/search?q=Fedayn) | N/A |
-| 10 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 11 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
-| 12 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 13 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 14 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 1 | [#SpeziaJuve](http://twitter.com/search?q=%23SpeziaJuve) | N/A |
+| 2 | [#RomaVerona](http://twitter.com/search?q=%23RomaVerona) | N/A |
+| 3 | [#CTCF](http://twitter.com/search?q=%23CTCF) | N/A |
+| 4 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
+| 5 | [#amici22](http://twitter.com/search?q=%23amici22) | #Amici22 is a hashtag used on social media to refer to the twenty-second season of the Italian talent show Amici di Maria De Filippi. In English, it translates to "Friends of Maria De Filippi Season 22". |
+| 6 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 7 | [#19febbraio](http://twitter.com/search?q=%2319febbraio) | N/A |
+| 8 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 9 | [Bove](http://twitter.com/search?q=Bove) | N/A |
+| 10 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 11 | [GIGANTE](http://twitter.com/search?q=GIGANTE) | N/A |
+| 12 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 13 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 14 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
 | 15 | [Valvole](http://twitter.com/search?q=Valvole) | N/A |
-| 16 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 17 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 18 | [Edobau](http://twitter.com/search?q=Edobau) | N/A |
-| 19 | [Locatelli](http://twitter.com/search?q=Locatelli) | Locatelli is an Italian cheese made from sheep's milk. It is a hard, salty cheese with a strong flavor and a granular texture. The name Locatelli comes from the Italian word "locatello," which means "little place." |
-| 20 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
-| 21 | [Brescia](http://twitter.com/search?q=Brescia) | N/A |
-| 22 | [Tajani](http://twitter.com/search?q=Tajani) | N/A |
-| 23 | [La Cina](http://twitter.com/search?q=La+Cina) | N/A |
-| 24 | [#Solbakken](http://twitter.com/search?q=%23Solbakken) | N/A |
-| 25 | [#nonelarena](http://twitter.com/search?q=%23nonelarena) | N/A |
-| 26 | [#ASRoma](http://twitter.com/search?q=%23ASRoma) | N/A |
-| 27 | [#zonabianca](http://twitter.com/search?q=%23zonabianca) | N/A |
-| 28 | [#Giorgia_NON_CONDANNA](http://twitter.com/search?q=%23Giorgia_NON_CONDANNA) | N/A |
-| 29 | [#chetempochefa](http://twitter.com/search?q=%23chetempochefa) | N/A |
-| 30 | [#SpeziaJuve](http://twitter.com/search?q=%23SpeziaJuve) | N/A |
-| 31 | [#Cristante](http://twitter.com/search?q=%23Cristante) | N/A |
-| 32 | [#nostroTempo](http://twitter.com/search?q=%23nostroTempo) | N/A |
-| 33 | [#Giletti](http://twitter.com/search?q=%23Giletti) | N/A |
-| 34 | [#Spinazzola](http://twitter.com/search?q=%23Spinazzola) | N/A |
-| 35 | [#Loshowdeirecord](http://twitter.com/search?q=%23Loshowdeirecord) | N/A |
-| 36 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
-| 37 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 38 | [#CarnivalHMGDR](http://twitter.com/search?q=%23CarnivalHMGDR) | N/A |
-| 39 | [#Elodie](http://twitter.com/search?q=%23Elodie) | N/A |
-| 40 | [#DiMaria](http://twitter.com/search?q=%23DiMaria) | N/A |
-| 41 | [#EEBAFTAs](http://twitter.com/search?q=%23EEBAFTAs) | N/A |
-| 42 | [#Abraham](http://twitter.com/search?q=%23Abraham) | N/A |
-| 43 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
-| 44 | [#SerieATIM](http://twitter.com/search?q=%23SerieATIM) | N/A |
-| 45 | [#ForzaJuve](http://twitter.com/search?q=%23ForzaJuve) | N/A |
-| 46 | [#HanKergoodhearts](http://twitter.com/search?q=%23HanKergoodhearts) | N/A |
-| 47 | [#LBAF82023](http://twitter.com/search?q=%23LBAF82023) | N/A |
+| 16 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 17 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
+| 18 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
+| 19 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 20 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
+| 21 | [paky](http://twitter.com/search?q=paky) | N/A |
+| 22 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
+| 23 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
+| 24 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 25 | [Marchetti](http://twitter.com/search?q=Marchetti) | N/A |
+| 26 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 27 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 28 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 29 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
+| 30 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
+| 31 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 32 | [Carnevale](http://twitter.com/search?q=Carnevale) | N/A |
+| 33 | [Gianmarco](http://twitter.com/search?q=Gianmarco) | N/A |
+| 34 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 35 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 36 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 37 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 38 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 39 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 40 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 41 | [Cricca](http://twitter.com/search?q=Cricca) | Cricca is an Italian word that means "clique" or "gang." It is used to refer to a group of people who are close friends or associates. |
+| 42 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
+| 43 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 44 | [Spaghetti](http://twitter.com/search?q=Spaghetti) | N/A |
+| 45 | [Jannik](http://twitter.com/search?q=Jannik) | Jannik is a Scandinavian name derived from the Hebrew name John, meaning "God is gracious". |
+| 46 | [Senaldi](http://twitter.com/search?q=Senaldi) | N/A |
+| 47 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 48 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 49 | [Karsdorp](http://twitter.com/search?q=Karsdorp) | N/A |
+| 50 | [Notte](http://twitter.com/search?q=Notte) | N/A |
 
 
 

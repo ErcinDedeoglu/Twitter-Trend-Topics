@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-20 00:30:12 UTC`
+📆 Last Updated: `2023-02-20 01:45:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 2 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 3 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 4 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 5 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 6 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
-| 7 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
-| 8 | [#BPS2023](http://twitter.com/search?q=%23BPS2023) | N/A |
-| 9 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 10 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 11 | [Stenhouse](http://twitter.com/search?q=Stenhouse) | N/A |
-| 12 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 13 | [Larson](http://twitter.com/search?q=Larson) | N/A |
-| 14 | [Logano](http://twitter.com/search?q=Logano) | N/A |
-| 15 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 16 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
-| 17 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 18 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 19 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 20 | [Nebraska](http://twitter.com/search?q=Nebraska) | N/A |
-| 21 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 22 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 23 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
-| 24 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 25 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
-| 26 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
-| 27 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
-| 28 | [Wrecky Spinhouse](http://twitter.com/search?q=Wrecky+Spinhouse) | N/A |
-| 29 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 30 | [Jimmie](http://twitter.com/search?q=Jimmie) | N/A |
-| 31 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 32 | [Tony Stewart](http://twitter.com/search?q=Tony+Stewart) | N/A |
-| 33 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 34 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 35 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 36 | [Donta Scott](http://twitter.com/search?q=Donta+Scott) | N/A |
-| 37 | [Austin Proehl](http://twitter.com/search?q=Austin+Proehl) | N/A |
-| 38 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 39 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 40 | [Zhen](http://twitter.com/search?q=Zhen) | N/A |
-| 41 | [Brad Daugherty](http://twitter.com/search?q=Brad+Daugherty) | N/A |
-| 42 | [Keselowski](http://twitter.com/search?q=Keselowski) | N/A |
-| 43 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
-| 44 | [Austin Dillon](http://twitter.com/search?q=Austin+Dillon) | N/A |
-| 45 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
-| 46 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
-| 47 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 48 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
-| 49 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
+| 1 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 2 | [PG&E](http://twitter.com/search?q=PG%26E) | N/A |
+| 3 | [#SundayFunday](http://twitter.com/search?q=%23SundayFunday) | N/A |
+| 4 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 5 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 6 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
+| 7 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
+| 8 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
+| 9 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 10 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 11 | [Oscars](http://twitter.com/search?q=Oscars) | Oscars is short for the Academy Awards, which are annual awards given out by the Academy of Motion Picture Arts and Sciences to recognize excellence in the film industry. The awards are presented in 24 categories, including Best Picture, Best Director, Best Actor, and Best Actress. |
+| 12 | [#sundayvibes](http://twitter.com/search?q=%23sundayvibes) | N/A |
+| 13 | [Avengers](http://twitter.com/search?q=Avengers) | N/A |
+| 14 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 15 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 16 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 17 | [Rest In Peace](http://twitter.com/search?q=Rest+In+Peace) | N/A |
+| 18 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 19 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 20 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 21 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 22 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 23 | [Team Lebron](http://twitter.com/search?q=Team+Lebron) | N/A |
+| 24 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 25 | [Hookah Doncic](http://twitter.com/search?q=Hookah+Doncic) | N/A |
+| 26 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 27 | [Jewel](http://twitter.com/search?q=Jewel) | N/A |
+| 28 | [Ernie](http://twitter.com/search?q=Ernie) | N/A |
+| 29 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 30 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 31 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
+| 32 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 33 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 34 | [Stenhouse](http://twitter.com/search?q=Stenhouse) | N/A |
+| 35 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
+| 36 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
+| 37 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
+| 38 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 39 | [LeGM](http://twitter.com/search?q=LeGM) | N/A |
+| 40 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 41 | [Candace Parker](http://twitter.com/search?q=Candace+Parker) | Candace Parker is an American professional basketball player who currently plays for the Los Angeles Sparks of the Women's National Basketball Association (WNBA). She is a two-time WNBA MVP, a three-time WNBA champion, and a four-time WNBA All-Star. She is also the first woman to dunk in an NCAA tournament game and the first woman to win both an Olympic gold medal and a WNBA championship. |
+| 42 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 43 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 44 | [Ben DiNucci](http://twitter.com/search?q=Ben+DiNucci) | N/A |
+| 45 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 46 | [O Canada](http://twitter.com/search?q=O+Canada) | N/A |
+| 47 | [East vs West](http://twitter.com/search?q=East+vs+West) | N/A |
+| 48 | [White Iverson](http://twitter.com/search?q=White+Iverson) | N/A |
+| 49 | [Fergie](http://twitter.com/search?q=Fergie) | N/A |
 
 
 

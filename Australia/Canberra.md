@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-20 00:29:47 UTC`
+📆 Last Updated: `2023-02-20 01:45:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
-| 2 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 3 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
-| 4 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
-| 5 | [#AUSvESP](http://twitter.com/search?q=%23AUSvESP) | N/A |
-| 6 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 7 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
-| 8 | [Langer](http://twitter.com/search?q=Langer) | N/A |
-| 9 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 10 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 11 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 12 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 13 | [Narty](http://twitter.com/search?q=Narty) | N/A |
-| 14 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 15 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 16 | [Alan Kohler](http://twitter.com/search?q=Alan+Kohler) | N/A |
-| 17 | [McClung](http://twitter.com/search?q=McClung) | N/A |
-| 18 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 19 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 20 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 21 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 22 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 2 | [#RoboDebtRC](http://twitter.com/search?q=%23RoboDebtRC) | N/A |
+| 3 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 4 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
+| 5 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 6 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 7 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 8 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 9 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
+| 10 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 11 | [Langer](http://twitter.com/search?q=Langer) | N/A |
+| 12 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 13 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 14 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 15 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 16 | [Kyrie](http://twitter.com/search?q=Kyrie) | Kyrie is a Greek word meaning "Lord" or "Lord have mercy". It is commonly used in Christian liturgy, particularly in the Eastern Orthodox, Catholic, Anglican, Lutheran, and Methodist traditions. It is also used as a prayer of supplication or thanksgiving. |
+| 17 | [Ben Fordham](http://twitter.com/search?q=Ben+Fordham) | N/A |
+| 18 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 19 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 20 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 21 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 22 | [Leigh Sales](http://twitter.com/search?q=Leigh+Sales) | N/A |
 | 23 | [Fair Day](http://twitter.com/search?q=Fair+Day) | N/A |
-| 24 | [Leigh Sales](http://twitter.com/search?q=Leigh+Sales) | N/A |
-| 25 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 26 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 27 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 28 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 29 | [Carla Zampatti](http://twitter.com/search?q=Carla+Zampatti) | N/A |
-| 30 | [dana morse](http://twitter.com/search?q=dana+morse) | N/A |
-| 31 | [Samantha Maiden](http://twitter.com/search?q=Samantha+Maiden) | N/A |
-| 32 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 33 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 34 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 35 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
-| 36 | [Toast](http://twitter.com/search?q=Toast) | N/A |
-| 37 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 38 | [Ginnivan](http://twitter.com/search?q=Ginnivan) | N/A |
-| 39 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 40 | [Brontë](http://twitter.com/search?q=Bront%c3%ab) | N/A |
-| 41 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 42 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 43 | [The New Daily](http://twitter.com/search?q=The+New+Daily) | N/A |
-| 44 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 45 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 46 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 47 | [Andrew McDonald](http://twitter.com/search?q=Andrew+McDonald) | N/A |
-| 48 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 49 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 24 | [Carla Zampatti](http://twitter.com/search?q=Carla+Zampatti) | N/A |
+| 25 | [Rhys](http://twitter.com/search?q=Rhys) | N/A |
+| 26 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 27 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 28 | [Narty](http://twitter.com/search?q=Narty) | N/A |
+| 29 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 30 | [Alan Kohler](http://twitter.com/search?q=Alan+Kohler) | N/A |
+| 31 | [dana morse](http://twitter.com/search?q=dana+morse) | N/A |
+| 32 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 33 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 34 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 35 | [Samantha Maiden](http://twitter.com/search?q=Samantha+Maiden) | N/A |
+| 36 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 37 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 38 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
+| 39 | [BAFTAs](http://twitter.com/search?q=BAFTAs) | N/A |
+| 40 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 41 | [Toast](http://twitter.com/search?q=Toast) | N/A |
+| 42 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 43 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
+| 44 | [Ginnivan](http://twitter.com/search?q=Ginnivan) | N/A |
+| 45 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 46 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 47 | [Superannuation](http://twitter.com/search?q=Superannuation) | N/A |
+| 48 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 49 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
 
 
 
