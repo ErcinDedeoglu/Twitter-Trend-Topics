@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-20 22:16:28 UTC`
+📆 Last Updated: `2023-02-20 23:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [France](</France>)
 | 1 | [Booba](http://twitter.com/search?q=Booba) | N/A |
 | 2 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
 | 3 | [#NOASSE](http://twitter.com/search?q=%23NOASSE) | N/A |
-| 4 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 5 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
-| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 7 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
-| 8 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
-| 9 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 10 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 11 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 8 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 9 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
+| 10 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
+| 11 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
 | 12 | [Samy](http://twitter.com/search?q=Samy) | N/A |
-| 13 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 13 | [Krasso](http://twitter.com/search?q=Krasso) | N/A |
 | 14 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
 | 15 | [Michel Deville](http://twitter.com/search?q=Michel+Deville) | N/A |
-| 16 | [Krasso](http://twitter.com/search?q=Krasso) | N/A |
-| 17 | [Nîmes](http://twitter.com/search?q=N%c3%aemes) | N/A |
-| 18 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 19 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 20 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 21 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 22 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
-| 23 | [Allan](http://twitter.com/search?q=Allan) | N/A |
-| 24 | [Rungis](http://twitter.com/search?q=Rungis) | N/A |
-| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 26 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 27 | [Chap](http://twitter.com/search?q=Chap) | N/A |
-| 28 | [Condoléances](http://twitter.com/search?q=Condol%c3%a9ances) | N/A |
-| 29 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 30 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
-| 31 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 32 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 33 | [LICRA](http://twitter.com/search?q=LICRA) | N/A |
-| 34 | [Pensées](http://twitter.com/search?q=Pens%c3%a9es) | N/A |
-| 35 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 36 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 37 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
-| 38 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
-| 39 | [Solary](http://twitter.com/search?q=Solary) | N/A |
-| 40 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 41 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 16 | [Nîmes](http://twitter.com/search?q=N%c3%aemes) | N/A |
+| 17 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 18 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 19 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 20 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 21 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
+| 22 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 23 | [Chap](http://twitter.com/search?q=Chap) | N/A |
+| 24 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 25 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 26 | [Rungis](http://twitter.com/search?q=Rungis) | N/A |
+| 27 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
+| 28 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 30 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 31 | [Condoléances](http://twitter.com/search?q=Condol%c3%a9ances) | N/A |
+| 32 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 33 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 34 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 35 | [LICRA](http://twitter.com/search?q=LICRA) | N/A |
+| 36 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 37 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 38 | [Pensées](http://twitter.com/search?q=Pens%c3%a9es) | N/A |
+| 39 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 40 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
+| 41 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
 | 42 | [#MissionTravaux](http://twitter.com/search?q=%23MissionTravaux) | N/A |
-| 43 | [#ATEEZFRAinParis_FAQ](http://twitter.com/search?q=%23ATEEZFRAinParis_FAQ) | N/A |
-| 44 | [#SpaceMHSC](http://twitter.com/search?q=%23SpaceMHSC) | N/A |
+| 43 | [#SpaceMHSC](http://twitter.com/search?q=%23SpaceMHSC) | N/A |
+| 44 | [#ATEEZFRAinParis_FAQ](http://twitter.com/search?q=%23ATEEZFRAinParis_FAQ) | N/A |
 | 45 | [#Paris2024tickets](http://twitter.com/search?q=%23Paris2024tickets) | N/A |
 | 46 | [#MDRWIN](http://twitter.com/search?q=%23MDRWIN) | N/A |
-| 47 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 48 | [#ONEPIECE1076](http://twitter.com/search?q=%23ONEPIECE1076) | N/A |
-| 49 | [#MicromaniaAtomicHeart](http://twitter.com/search?q=%23MicromaniaAtomicHeart) | N/A |
-| 50 | [#JO2024](http://twitter.com/search?q=%23JO2024) | N/A |
+| 47 | [#ONEPIECE1076](http://twitter.com/search?q=%23ONEPIECE1076) | N/A |
+| 48 | [#MicromaniaAtomicHeart](http://twitter.com/search?q=%23MicromaniaAtomicHeart) | N/A |
+| 49 | [#JO2024](http://twitter.com/search?q=%23JO2024) | N/A |
+| 50 | [#MicromaniaIshin](http://twitter.com/search?q=%23MicromaniaIshin) | N/A |
 
 
 

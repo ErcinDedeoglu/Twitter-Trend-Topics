@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-20 22:16:18 UTC`
+📆 Last Updated: `2023-02-20 23:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
-| 2 | [#c4news](http://twitter.com/search?q=%23c4news) | N/A |
-| 3 | [#hotmail](http://twitter.com/search?q=%23hotmail) | N/A |
-| 4 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
-| 5 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 6 | [#payrestoration](http://twitter.com/search?q=%23payrestoration) | N/A |
-| 7 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 8 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
-| 9 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 10 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
-| 11 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
-| 12 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 13 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
-| 14 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 15 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 16 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
-| 17 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 18 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 19 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 20 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 21 | [Jax Jones](http://twitter.com/search?q=Jax+Jones) | N/A |
-| 22 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 23 | [Callum Scott](http://twitter.com/search?q=Callum+Scott) | N/A |
-| 24 | [Poor Martin](http://twitter.com/search?q=Poor+Martin) | N/A |
-| 25 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 26 | [Craig David](http://twitter.com/search?q=Craig+David) | N/A |
-| 27 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 28 | [Nish](http://twitter.com/search?q=Nish) | N/A |
-| 29 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
-| 30 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 31 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 32 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 33 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
-| 34 | [Yes Kai](http://twitter.com/search?q=Yes+Kai) | N/A |
-| 35 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 36 | [Townsend](http://twitter.com/search?q=Townsend) | N/A |
-| 37 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 38 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 39 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
-| 40 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 41 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 42 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
-| 43 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 44 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
-| 45 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
-| 46 | [Furlong](http://twitter.com/search?q=Furlong) | N/A |
-| 47 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
-| 48 | [Shaq and Martin](http://twitter.com/search?q=Shaq+and+Martin) | N/A |
-| 49 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 50 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 1 | [Yes Kai](http://twitter.com/search?q=Yes+Kai) | N/A |
+| 2 | [Ron and Lana](http://twitter.com/search?q=Ron+and+Lana) | N/A |
+| 3 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
+| 4 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 5 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
+| 6 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 7 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 8 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 9 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 10 | [#payrestoration](http://twitter.com/search?q=%23payrestoration) | N/A |
+| 11 | [#BMADoctorsVoteYes](http://twitter.com/search?q=%23BMADoctorsVoteYes) | N/A |
+| 12 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 13 | [#FSGOUT](http://twitter.com/search?q=%23FSGOUT) | N/A |
+| 14 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
+| 15 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 16 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
+| 17 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 18 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
+| 19 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
+| 20 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 21 | [Cheese](http://twitter.com/search?q=Cheese) | N/A |
+| 22 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 23 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 24 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 25 | [Jax Jones](http://twitter.com/search?q=Jax+Jones) | N/A |
+| 26 | [Callum Scott](http://twitter.com/search?q=Callum+Scott) | N/A |
+| 27 | [Poor Martin](http://twitter.com/search?q=Poor+Martin) | N/A |
+| 28 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 29 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 30 | [Craig David](http://twitter.com/search?q=Craig+David) | N/A |
+| 31 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 32 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
+| 33 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 34 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 35 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 36 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
+| 37 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
+| 38 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 39 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 40 | [Dike](http://twitter.com/search?q=Dike) | N/A |
+| 41 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 42 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 43 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 44 | [Townsend](http://twitter.com/search?q=Townsend) | N/A |
+| 45 | [Sema](http://twitter.com/search?q=Sema) | N/A |
+| 46 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 47 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 48 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 49 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 50 | [Pieters](http://twitter.com/search?q=Pieters) | N/A |
 
 
 

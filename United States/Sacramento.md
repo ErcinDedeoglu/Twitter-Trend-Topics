@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-02-20 22:17:02 UTC`
+📆 Last Updated: `2023-02-20 23:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 2 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 3 | [#CLIPPERNATION](http://twitter.com/search?q=%23CLIPPERNATION) | N/A |
-| 4 | [Federal](http://twitter.com/search?q=Federal) | N/A |
-| 5 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 6 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 7 | [America First](http://twitter.com/search?q=America+First) | N/A |
-| 8 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 9 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 10 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 12 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 13 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
-| 14 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 2 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
+| 3 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 4 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 5 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
+| 6 | [#CLIPPERNATION](http://twitter.com/search?q=%23CLIPPERNATION) | N/A |
+| 7 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 8 | [America First](http://twitter.com/search?q=America+First) | N/A |
+| 9 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 11 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
+| 12 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 13 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
+| 14 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 15 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
+| 16 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
 | 17 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 18 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 19 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
-| 20 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 21 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 22 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 23 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 24 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
-| 25 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
-| 26 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
-| 27 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 28 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 18 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 19 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 21 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
+| 22 | [Osteen](http://twitter.com/search?q=Osteen) | N/A |
+| 23 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 24 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 25 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 26 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 27 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 28 | [Union](http://twitter.com/search?q=Union) | N/A |
 | 29 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
-| 30 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 31 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
-| 32 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 33 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 34 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
-| 35 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 36 | [Osteen](http://twitter.com/search?q=Osteen) | N/A |
-| 37 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 38 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
-| 39 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
-| 40 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 41 | [Jim Bob](http://twitter.com/search?q=Jim+Bob) | N/A |
-| 42 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 43 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 44 | [Pitcher of the Week](http://twitter.com/search?q=Pitcher+of+the+Week) | N/A |
-| 45 | [Iron Man](http://twitter.com/search?q=Iron+Man) | N/A |
-| 46 | [No James](http://twitter.com/search?q=No+James) | N/A |
-| 47 | [Steve Asmussen](http://twitter.com/search?q=Steve+Asmussen) | N/A |
-| 48 | [Sedition](http://twitter.com/search?q=Sedition) | N/A |
-| 49 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
+| 30 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
+| 31 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
+| 32 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
+| 33 | [Martin Jones](http://twitter.com/search?q=Martin+Jones) | N/A |
+| 34 | [Cheese](http://twitter.com/search?q=Cheese) | N/A |
+| 35 | [Trolls 3](http://twitter.com/search?q=Trolls+3) | N/A |
+| 36 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
+| 37 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 38 | [Jason Kipnis](http://twitter.com/search?q=Jason+Kipnis) | N/A |
+| 39 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 40 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 41 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
+| 42 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
+| 43 | [Iron Man](http://twitter.com/search?q=Iron+Man) | N/A |
+| 44 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 45 | [Club Renaissance](http://twitter.com/search?q=Club+Renaissance) | N/A |
+| 46 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 47 | [Sedition](http://twitter.com/search?q=Sedition) | N/A |
+| 48 | [Jim Bob](http://twitter.com/search?q=Jim+Bob) | N/A |
+| 49 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
 
 
 

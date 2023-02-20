@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-20 22:16:57 UTC`
+📆 Last Updated: `2023-02-20 23:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gonzaga](http://twitter.com/search?q=Gonzaga) | Gonzaga is a surname of Italian origin. It is derived from the Latin word "Gundisacus", which means "warrior". The name is associated with the Gonzaga family, a powerful noble family in Italy during the Middle Ages and Renaissance. In English, Gonzaga can be translated to mean "warrior". |
-| 2 | [#RISDBelieves](http://twitter.com/search?q=%23RISDBelieves) | N/A |
-| 3 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
+| 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 2 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 3 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
 | 4 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 5 | [Altuve](http://twitter.com/search?q=Altuve) | N/A |
 | 6 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 7 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 8 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 9 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
-| 10 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 12 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 13 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 8 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
+| 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 10 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
+| 11 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 12 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
+| 13 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
 | 14 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 15 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
-| 16 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 17 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 18 | [#Sprina](http://twitter.com/search?q=%23Sprina) | N/A |
-| 19 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 20 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 21 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
-| 22 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
-| 23 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
-| 24 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 25 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 26 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
-| 27 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 28 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
-| 29 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 30 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 31 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
-| 32 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 33 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
-| 34 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
-| 35 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
-| 36 | [Osteen](http://twitter.com/search?q=Osteen) | N/A |
-| 37 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 38 | [Jim Bob](http://twitter.com/search?q=Jim+Bob) | N/A |
-| 39 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 40 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 41 | [Sedition](http://twitter.com/search?q=Sedition) | N/A |
-| 42 | [Pitcher of the Week](http://twitter.com/search?q=Pitcher+of+the+Week) | N/A |
-| 43 | [Steve Asmussen](http://twitter.com/search?q=Steve+Asmussen) | N/A |
-| 44 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
-| 45 | [No James](http://twitter.com/search?q=No+James) | N/A |
-| 46 | [Iron Man](http://twitter.com/search?q=Iron+Man) | N/A |
-| 47 | [Pastrnak](http://twitter.com/search?q=Pastrnak) | N/A |
-| 48 | [Cejudo](http://twitter.com/search?q=Cejudo) | N/A |
-| 49 | [Mazz](http://twitter.com/search?q=Mazz) | N/A |
-| 50 | [Homeland Security](http://twitter.com/search?q=Homeland+Security) | N/A |
+| 15 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 16 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 17 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 18 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
+| 19 | [Osteen](http://twitter.com/search?q=Osteen) | N/A |
+| 20 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 21 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 22 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 23 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 24 | [#Sprina](http://twitter.com/search?q=%23Sprina) | N/A |
+| 25 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 26 | [#IKnewIWasRightAbout](http://twitter.com/search?q=%23IKnewIWasRightAbout) | N/A |
+| 27 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 28 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
+| 29 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
+| 30 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
+| 31 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
+| 32 | [Martin Jones](http://twitter.com/search?q=Martin+Jones) | N/A |
+| 33 | [Cheese](http://twitter.com/search?q=Cheese) | N/A |
+| 34 | [Trolls 3](http://twitter.com/search?q=Trolls+3) | N/A |
+| 35 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 36 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 37 | [Jason Kipnis](http://twitter.com/search?q=Jason+Kipnis) | N/A |
+| 38 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
+| 39 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 40 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
+| 41 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
+| 42 | [Iron Man](http://twitter.com/search?q=Iron+Man) | N/A |
+| 43 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 44 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 45 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 46 | [Club Renaissance](http://twitter.com/search?q=Club+Renaissance) | N/A |
+| 47 | [Sedition](http://twitter.com/search?q=Sedition) | N/A |
+| 48 | [Jim Bob](http://twitter.com/search?q=Jim+Bob) | N/A |
+| 49 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 50 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
 
 
 

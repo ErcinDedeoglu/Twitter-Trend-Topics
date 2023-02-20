@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-20 22:17:08 UTC`
+📆 Last Updated: `2023-02-20 23:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,53 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 2 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 3 | [#CiudadanosContraPlanB](http://twitter.com/search?q=%23CiudadanosContraPlanB) | N/A |
+| 2 | [#enhorabuenagato](http://twitter.com/search?q=%23enhorabuenagato) | N/A |
+| 3 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
 | 4 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
 | 5 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 6 | [#AtomicHeartconReborn](http://twitter.com/search?q=%23AtomicHeartconReborn) | N/A |
-| 7 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 8 | [#CiudadSustentable](http://twitter.com/search?q=%23CiudadSustentable) | N/A |
-| 9 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 6 | [#CiudadanosContraElPlanB](http://twitter.com/search?q=%23CiudadanosContraElPlanB) | N/A |
+| 7 | [#AtomicHeartconReborn](http://twitter.com/search?q=%23AtomicHeartconReborn) | N/A |
+| 8 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 9 | [Loret](http://twitter.com/search?q=Loret) | N/A |
 | 10 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 11 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 12 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 13 | [Álvarez](http://twitter.com/search?q=%c3%81lvarez) | N/A |
-| 14 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 15 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 17 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 18 | [Fan ID](http://twitter.com/search?q=Fan+ID) | N/A |
-| 19 | [El 20](http://twitter.com/search?q=El+20) | N/A |
-| 20 | [Catalina Creel](http://twitter.com/search?q=Catalina+Creel) | N/A |
-| 21 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 22 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 23 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
-| 24 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
-| 25 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
-| 26 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 27 | [Nirvana](http://twitter.com/search?q=Nirvana) | N/A |
-| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 29 | [The Mars Volta](http://twitter.com/search?q=The+Mars+Volta) | N/A |
-| 30 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 31 | [Ciro Gómez Leyva](http://twitter.com/search?q=Ciro+G%c3%b3mez+Leyva) | Ciro Gómez Leyva is a Mexican journalist and radio host. He is known for his talk show Ciro Gómez Leyva por la Mañana, which airs on Radio Fórmula in Mexico. The show focuses on political and social issues in Mexico and Latin America. In English, the phrase "Ciro Gómez Leyva" translates to "Ciro Gomez Leyva". |
-| 32 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
-| 33 | [#MetrobúsEléctrico](http://twitter.com/search?q=%23Metrob%c3%basEl%c3%a9ctrico) | N/A |
-| 34 | [#NoaMusicVibe](http://twitter.com/search?q=%23NoaMusicVibe) | N/A |
-| 35 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 36 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
-| 37 | [#JusticiaSocial](http://twitter.com/search?q=%23JusticiaSocial) | N/A |
-| 38 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
-| 39 | [#3YearsWithMOTS7](http://twitter.com/search?q=%233YearsWithMOTS7) | N/A |
-| 40 | [#Celaya](http://twitter.com/search?q=%23Celaya) | N/A |
-| 41 | [#SandraCuevasRepresora](http://twitter.com/search?q=%23SandraCuevasRepresora) | N/A |
+| 11 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 12 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 13 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 14 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 15 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 16 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 17 | [Álvarez](http://twitter.com/search?q=%c3%81lvarez) | N/A |
+| 18 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 19 | [Catalina Creel](http://twitter.com/search?q=Catalina+Creel) | N/A |
+| 20 | [Fan ID](http://twitter.com/search?q=Fan+ID) | N/A |
+| 21 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 22 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 24 | [El 20](http://twitter.com/search?q=El+20) | N/A |
+| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 26 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
+| 27 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 28 | [Ciro Gómez Leyva](http://twitter.com/search?q=Ciro+G%c3%b3mez+Leyva) | Ciro Gómez Leyva is a Mexican journalist and radio host. He is known for his talk show Ciro Gómez Leyva por la Mañana, which airs on Radio Fórmula in Mexico. The show focuses on political and social issues in Mexico and Latin America. In English, the phrase "Ciro Gómez Leyva" translates to "Ciro Gomez Leyva". |
+| 29 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
+| 30 | [CHAIFA](http://twitter.com/search?q=CHAIFA) | N/A |
+| 31 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 32 | [Crocs](http://twitter.com/search?q=Crocs) | N/A |
+| 33 | [Nirvana](http://twitter.com/search?q=Nirvana) | N/A |
+| 34 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 35 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 36 | [#NoaMusicVibe](http://twitter.com/search?q=%23NoaMusicVibe) | N/A |
+| 37 | [#CiudadSustentable](http://twitter.com/search?q=%23CiudadSustentable) | N/A |
+| 38 | [#MetrobúsEléctrico](http://twitter.com/search?q=%23Metrob%c3%basEl%c3%a9ctrico) | N/A |
+| 39 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
+| 40 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 41 | [#JusticiaSocial](http://twitter.com/search?q=%23JusticiaSocial) | N/A |
 | 42 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
-| 43 | [#20DeFebrero](http://twitter.com/search?q=%2320DeFebrero) | N/A |
-| 44 | [#LadyBuchona](http://twitter.com/search?q=%23LadyBuchona) | N/A |
-| 45 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
-| 46 | [#OposicionMoralmenteDerrotada](http://twitter.com/search?q=%23OposicionMoralmenteDerrotada) | N/A |
+| 43 | [#3YearsWithMOTS7](http://twitter.com/search?q=%233YearsWithMOTS7) | N/A |
+| 44 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
+| 45 | [#SandraCuevasRepresora](http://twitter.com/search?q=%23SandraCuevasRepresora) | N/A |
+| 46 | [#Celaya](http://twitter.com/search?q=%23Celaya) | N/A |
+| 47 | [#LadyBuchona](http://twitter.com/search?q=%23LadyBuchona) | N/A |
+| 48 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
 
 
 

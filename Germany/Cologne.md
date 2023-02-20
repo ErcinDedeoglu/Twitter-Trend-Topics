@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-02-20 22:16:30 UTC`
+📆 Last Updated: `2023-02-20 23:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 2 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 3 | [#Rosenmontag](http://twitter.com/search?q=%23Rosenmontag) | N/A |
+| 2 | [#Rosenmontag](http://twitter.com/search?q=%23Rosenmontag) | N/A |
+| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 4 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
 | 5 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 7 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
 | 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 9 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 9 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 10 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 11 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 12 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 13 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 14 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 11 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 12 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 13 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 14 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
 | 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 16 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 17 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 18 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 16 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 17 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 18 | [Lörrach](http://twitter.com/search?q=L%c3%b6rrach) | N/A |
 | 19 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
 | 20 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 21 | [Beben](http://twitter.com/search?q=Beben) | N/A |
-| 22 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 23 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 24 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 25 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 26 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
-| 27 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
-| 28 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 29 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 30 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 31 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 32 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 33 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 21 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 22 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 23 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 24 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 25 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
+| 26 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
+| 27 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 28 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 29 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 30 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 31 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 32 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 33 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
 | 34 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 35 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 36 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 37 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 38 | [Nahles](http://twitter.com/search?q=Nahles) | N/A |
-| 39 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 40 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
-| 41 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 42 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 43 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
-| 44 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 45 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 46 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 35 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 36 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
+| 37 | [Nahles](http://twitter.com/search?q=Nahles) | N/A |
+| 38 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
+| 39 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 40 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 41 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
+| 42 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 43 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 44 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 45 | [Wagen](http://twitter.com/search?q=Wagen) | N/A |
+| 46 | [Le Fee](http://twitter.com/search?q=Le+Fee) | N/A |
 | 47 | [Strommix](http://twitter.com/search?q=Strommix) | N/A |
-| 48 | [Wagen](http://twitter.com/search?q=Wagen) | N/A |
-| 49 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 50 | [Le Fee](http://twitter.com/search?q=Le+Fee) | N/A |
+| 48 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 49 | [Erdbeben](http://twitter.com/search?q=Erdbeben) | N/A |
+| 50 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
 
 
 
