@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-02-20 02:43:15 UTC`
+📆 Last Updated: `2023-02-20 03:21:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Kuwait
 | 2 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
 | 3 | [#برشلونه_قادش](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d9%82%d8%a7%d8%af%d8%b4) | N/A |
 | 4 | [#الكويت_كاظمه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa_%d9%83%d8%a7%d8%b8%d9%85%d9%87) | N/A |
-| 5 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 5 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
 | 6 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
 | 7 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
-| 8 | [#بوح_اخر_اليل](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%ad_%d8%a7%d8%ae%d8%b1_%d8%a7%d9%84%d9%8a%d9%84) | N/A |
-| 9 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 10 | [علي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
-| 11 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
-| 12 | [وزير التجاره](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87) | N/A |
-| 13 | [سعود السمحان](http://twitter.com/search?q=%d8%b3%d8%b9%d9%88%d8%af+%d8%a7%d9%84%d8%b3%d9%85%d8%ad%d8%a7%d9%86) | N/A |
-| 14 | [خالد ابراهيم](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | خالد ابراهيم is an Arabic name, which translates to "Khalid Ibrahim" in English. |
-| 15 | [شبيب الخالدي](http://twitter.com/search?q=%d8%b4%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af%d9%8a) | N/A |
-| 16 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
-| 17 | [محمد ابراهيم](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 18 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
-| 19 | [نايف زويد](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%b2%d9%88%d9%8a%d8%af) | N/A |
+| 8 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 9 | [علي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
+| 10 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
+| 11 | [وزير التجاره](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87) | N/A |
+| 12 | [سعود السمحان](http://twitter.com/search?q=%d8%b3%d8%b9%d9%88%d8%af+%d8%a7%d9%84%d8%b3%d9%85%d8%ad%d8%a7%d9%86) | N/A |
+| 13 | [خالد ابراهيم](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | خالد ابراهيم is an Arabic name, which translates to "Khalid Ibrahim" in English. |
+| 14 | [شبيب الخالدي](http://twitter.com/search?q=%d8%b4%d8%a8%d9%8a%d8%a8+%d8%a7%d9%84%d8%ae%d8%a7%d9%84%d8%af%d9%8a) | N/A |
+| 15 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
+| 16 | [محمد ابراهيم](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 17 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
+| 18 | [نايف زويد](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%b2%d9%88%d9%8a%d8%af) | N/A |
+| 19 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 20 | [راعي الباص](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%a8%d8%a7%d8%b5) | N/A |
 | 21 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 22 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 23 | [علي الحكم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d9%85) | N/A |
-| 24 | [الحكم السمحان](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d9%85%d8%ad%d8%a7%d9%86) | N/A |
-| 25 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
+| 22 | [علي الحكم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d9%85) | N/A |
+| 23 | [الحكم السمحان](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d9%85%d8%ad%d8%a7%d9%86) | N/A |
+| 24 | [الدفاع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 25 | [ليفاندوفسكي](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7%d9%86%d8%af%d9%88%d9%81%d8%b3%d9%83%d9%8a) | N/A |
 | 26 | [الزعيم الملكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d9%85+%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
-| 27 | [الدفاع الدولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 27 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
 | 28 | [مدير السوق](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d8%b3%d9%88%d9%82) | N/A |
 | 29 | [نجم المباراه](http://twitter.com/search?q=%d9%86%d8%ac%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d8%a7%d9%87) | N/A |
-| 30 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
-| 31 | [جمعه سعيد](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%87+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
-| 32 | [كريستنسن](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%86%d8%b3%d9%86) | N/A |
-| 33 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
-| 34 | [راعي اللاند](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d9%84%d8%a7%d9%86%d8%af) | N/A |
-| 35 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 30 | [جمعه سعيد](http://twitter.com/search?q=%d8%ac%d9%85%d8%b9%d9%87+%d8%b3%d8%b9%d9%8a%d8%af) | N/A |
+| 31 | [كريستنسن](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%86%d8%b3%d9%86) | N/A |
+| 32 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 33 | [راعي اللاند](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d9%84%d8%a7%d9%86%d8%af) | N/A |
+| 34 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 35 | [المواد المدعومه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%88%d9%85%d9%87) | N/A |
 | 36 | [يابو دهام](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%af%d9%87%d8%a7%d9%85) | N/A |
-| 37 | [المواد المدعومه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%88%d9%85%d9%87) | N/A |
-| 38 | [سالم سعد حميدان الفجي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%b3%d8%b9%d8%af+%d8%ad%d9%85%d9%8a%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d8%ac%d9%8a) | N/A |
-| 39 | [دوري زين الممتاز](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 40 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
-| 41 | [علي المستثمر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ab%d9%85%d8%b1) | N/A |
+| 37 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 38 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
+| 39 | [عيد الرشيدي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
+| 40 | [دوري زين الممتاز](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 41 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
 | 42 | [كلين شيت](http://twitter.com/search?q=%d9%83%d9%84%d9%8a%d9%86+%d8%b4%d9%8a%d8%aa) | N/A |
-| 43 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
+| 43 | [علي المستثمر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ab%d9%85%d8%b1) | N/A |
 | 44 | [الشماغ الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d8%ba+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
-| 45 | [عيد الرشيدي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
+| 45 | [سالم سعد حميدان الفجي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%b3%d8%b9%d8%af+%d8%ad%d9%85%d9%8a%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d8%ac%d9%8a) | N/A |
 | 46 | [نوتنغهام](http://twitter.com/search?q=%d9%86%d9%88%d8%aa%d9%86%d8%ba%d9%87%d8%a7%d9%85) | N/A |
-| 47 | [المستثمر الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ab%d9%85%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 48 | [نادي الكويت](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 49 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
-| 50 | [الكره الكويتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
+| 47 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 48 | [المستثمر الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ab%d9%85%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 49 | [نادي الكويت](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 50 | [فارس عوض](http://twitter.com/search?q=%d9%81%d8%a7%d8%b1%d8%b3+%d8%b9%d9%88%d8%b6) | فارس عوض is an Arabic phrase that translates to "Faris the Substitute" in English. It is a phrase used to describe someone who takes the place of another person or thing. |
 
 
 

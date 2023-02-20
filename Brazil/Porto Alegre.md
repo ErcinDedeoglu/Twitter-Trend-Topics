@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-20 02:42:35 UTC`
+📆 Last Updated: `2023-02-20 03:21:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
-| 2 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
-| 3 | [Império Serrano](http://twitter.com/search?q=Imp%c3%a9rio+Serrano) | N/A |
-| 4 | [Arlindo](http://twitter.com/search?q=Arlindo) | N/A |
-| 5 | [Paola Oliveira](http://twitter.com/search?q=Paola+Oliveira) | N/A |
-| 6 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
-| 7 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 8 | [Zeca](http://twitter.com/search?q=Zeca) | N/A |
-| 9 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 10 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 11 | [#FORAALFACE](http://twitter.com/search?q=%23FORAALFACE) | N/A |
-| 12 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 13 | [Diogo Nogueira](http://twitter.com/search?q=Diogo+Nogueira) | N/A |
-| 14 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 15 | [Arlindinho](http://twitter.com/search?q=Arlindinho) | N/A |
-| 16 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 17 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 18 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 19 | [#FicaFred](http://twitter.com/search?q=%23FicaFred) | N/A |
-| 20 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 21 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 22 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 23 | [Milton Cunha](http://twitter.com/search?q=Milton+Cunha) | N/A |
-| 24 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 25 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 26 | [PAULOANDRE E HELLMANNS NBA](http://twitter.com/search?q=PAULOANDRE+E+HELLMANNS+NBA) | N/A |
-| 27 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 28 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 29 | [Ito Melodia](http://twitter.com/search?q=Ito+Melodia) | N/A |
-| 30 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 31 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 32 | [Roger Guedes](http://twitter.com/search?q=Roger+Guedes) | Roger Guedes is a Brazilian footballer who currently plays for Atlético Mineiro. His name in English translates to "Roger Woods". |
-| 33 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
-| 34 | [Mariana Gross](http://twitter.com/search?q=Mariana+Gross) | N/A |
-| 35 | [Filipe Toledo](http://twitter.com/search?q=Filipe+Toledo) | N/A |
-| 36 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 37 | [Sazon](http://twitter.com/search?q=Sazon) | N/A |
-| 38 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
-| 39 | [Maju](http://twitter.com/search?q=Maju) | N/A |
-| 40 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 41 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 42 | [Otis](http://twitter.com/search?q=Otis) | N/A |
-| 43 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 44 | [Maeve](http://twitter.com/search?q=Maeve) | N/A |
-| 45 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
-| 46 | [Mestre Vitinho](http://twitter.com/search?q=Mestre+Vitinho) | N/A |
-| 47 | [Tchau Fred](http://twitter.com/search?q=Tchau+Fred) | N/A |
-| 48 | [Se o Fred](http://twitter.com/search?q=Se+o+Fred) | N/A |
-| 49 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 50 | [Boca Rosa](http://twitter.com/search?q=Boca+Rosa) | Boca Rosa is a Spanish phrase meaning "pink mouth". It is often used to describe someone who has a pinkish hue to their lips. |
+| 1 | [Benedetto](http://twitter.com/search?q=Benedetto) | Benedetto is an Italian name meaning "blessed". It is derived from the Latin word "benedictus", which means "blessed". |
+| 2 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 3 | [Grande Rio](http://twitter.com/search?q=Grande+Rio) | N/A |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 6 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
+| 7 | [Paola Oliveira](http://twitter.com/search?q=Paola+Oliveira) | N/A |
+| 8 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 9 | [Arlindo](http://twitter.com/search?q=Arlindo) | N/A |
+| 10 | [Zeca](http://twitter.com/search?q=Zeca) | N/A |
+| 11 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 12 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 14 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 15 | [Cosme](http://twitter.com/search?q=Cosme) | N/A |
+| 16 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 17 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 18 | [Diogo Nogueira](http://twitter.com/search?q=Diogo+Nogueira) | N/A |
+| 19 | [#FORAALFACE](http://twitter.com/search?q=%23FORAALFACE) | N/A |
+| 20 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 21 | [Arlindinho](http://twitter.com/search?q=Arlindinho) | N/A |
+| 22 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 23 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 24 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 25 | [Milton Cunha](http://twitter.com/search?q=Milton+Cunha) | N/A |
+| 26 | [Ogum](http://twitter.com/search?q=Ogum) | N/A |
+| 27 | [São Jorge](http://twitter.com/search?q=S%c3%a3o+Jorge) | N/A |
+| 28 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 29 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 30 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 31 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 32 | [Mariana Gross](http://twitter.com/search?q=Mariana+Gross) | N/A |
+| 33 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 34 | [Mestre Fafá](http://twitter.com/search?q=Mestre+Faf%c3%a1) | N/A |
+| 35 | [PAULOANDRE E HELLMANNS NBA](http://twitter.com/search?q=PAULOANDRE+E+HELLMANNS+NBA) | N/A |
+| 36 | [QUITANDINHA DE ERÊ](http://twitter.com/search?q=QUITANDINHA+DE+ER%c3%8a) | N/A |
+| 37 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
+| 38 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 39 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 40 | [Maju](http://twitter.com/search?q=Maju) | N/A |
+| 41 | [Mauá](http://twitter.com/search?q=Mau%c3%a1) | N/A |
+| 42 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 43 | [Curry](http://twitter.com/search?q=Curry) | Curry is a type of dish originating from South Asia, made with a combination of spices and herbs. It is usually served with rice or bread. The word "curry" comes from the Tamil word "kari," which means sauce or gravy. Curry dishes can range from mild to very spicy, and can be made with vegetables, meat, fish, or legumes. |
+| 44 | [Ito Melodia](http://twitter.com/search?q=Ito+Melodia) | N/A |
+| 45 | [Filipe Toledo](http://twitter.com/search?q=Filipe+Toledo) | N/A |
+| 46 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
+| 47 | [Sazon](http://twitter.com/search?q=Sazon) | N/A |
+| 48 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 49 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 50 | [Maeve](http://twitter.com/search?q=Maeve) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Spain
 
-📆 Last Updated: `2023-02-20 02:43:18 UTC`
+📆 Last Updated: `2023-02-20 03:21:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,45 +16,55 @@ This is top 50 for Spain
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LoDeOlona](http://twitter.com/search?q=%23LoDeOlona) | N/A |
-| 2 | [#PesadillaParaísoFinal](http://twitter.com/search?q=%23PesadillaPara%c3%adsoFinal) | #PesadillaParaísoFinal is a Spanish hashtag that translates to "Nightmare Paradise End" in English. It is often used to describe a situation that has gone from bad to worse, or a situation that has become unbearable. |
-| 3 | [#ChiringuitoMadrid](http://twitter.com/search?q=%23ChiringuitoMadrid) | N/A |
-| 4 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 5 | [#LoDeEvole](http://twitter.com/search?q=%23LoDeEvole) | N/A |
-| 6 | [#APOYOROCIO20F](http://twitter.com/search?q=%23APOYOROCIO20F) | N/A |
-| 7 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 8 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 9 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 10 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 11 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 12 | [Españabola](http://twitter.com/search?q=Espa%c3%b1abola) | N/A |
-| 13 | [Julio Anguita](http://twitter.com/search?q=Julio+Anguita) | N/A |
-| 14 | [Fali](http://twitter.com/search?q=Fali) | N/A |
-| 15 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 16 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 17 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 18 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 19 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 20 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 21 | [El Yunque](http://twitter.com/search?q=El+Yunque) | N/A |
-| 22 | [Racing](http://twitter.com/search?q=Racing) | Racing is a competitive sport involving the use of vehicles, usually cars, motorcycles, boats, or horses, to race against each other. It is a popular form of entertainment and has been around since ancient times. The goal of racing is to be the first to cross the finish line. Racing can take place on a variety of surfaces including dirt, asphalt, and water. |
-| 23 | [ana mena](http://twitter.com/search?q=ana+mena) | N/A |
-| 24 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 25 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 26 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 27 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 28 | [American History X](http://twitter.com/search?q=American+History+X) | N/A |
-| 29 | [Natalia Lacunza](http://twitter.com/search?q=Natalia+Lacunza) | N/A |
-| 30 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
-| 31 | [La Sexta](http://twitter.com/search?q=La+Sexta) | N/A |
-| 32 | [The Rose](http://twitter.com/search?q=The+Rose) | N/A |
-| 33 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 34 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 35 | [#AllStarEnVamos](http://twitter.com/search?q=%23AllStarEnVamos) | N/A |
-| 36 | [#LateXou](http://twitter.com/search?q=%23LateXou) | N/A |
-| 37 | [#CuartoMilenio](http://twitter.com/search?q=%23CuartoMilenio) | N/A |
-| 38 | [#ChiringuitoPolémica](http://twitter.com/search?q=%23ChiringuitoPol%c3%a9mica) | N/A |
-| 39 | [#PesadillaEnElParaiso](http://twitter.com/search?q=%23PesadillaEnElParaiso) | N/A |
-| 40 | [#BarçaGate](http://twitter.com/search?q=%23Bar%c3%a7aGate) | N/A |
+| 2 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 3 | [#LoDeEvole](http://twitter.com/search?q=%23LoDeEvole) | N/A |
+| 4 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
+| 5 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
+| 6 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 7 | [#PesadillaParaísoFinal](http://twitter.com/search?q=%23PesadillaPara%c3%adsoFinal) | #PesadillaParaísoFinal is a Spanish hashtag that translates to "Nightmare Paradise End" in English. It is often used to describe a situation that has gone from bad to worse, or a situation that has become unbearable. |
+| 8 | [#RuyalarBuyusun](http://twitter.com/search?q=%23RuyalarBuyusun) | N/A |
+| 9 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 10 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 11 | [Julio Anguita](http://twitter.com/search?q=Julio+Anguita) | N/A |
+| 12 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 14 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 15 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 16 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 17 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 18 | [Españabola](http://twitter.com/search?q=Espa%c3%b1abola) | N/A |
+| 19 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 20 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 21 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 22 | [Darder](http://twitter.com/search?q=Darder) | N/A |
+| 23 | [Fali](http://twitter.com/search?q=Fali) | N/A |
+| 24 | [Reinildo](http://twitter.com/search?q=Reinildo) | N/A |
+| 25 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 26 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
+| 27 | [Tania](http://twitter.com/search?q=Tania) | N/A |
+| 28 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 29 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 30 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 31 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 32 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 33 | [Lejeune](http://twitter.com/search?q=Lejeune) | N/A |
+| 34 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 35 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 36 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
+| 37 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 38 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 39 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 40 | [Marcelinho](http://twitter.com/search?q=Marcelinho) | N/A |
+| 41 | [Lenovo Tenerife](http://twitter.com/search?q=Lenovo+Tenerife) | N/A |
+| 42 | [La Zarra](http://twitter.com/search?q=La+Zarra) | La Zarra is a Spanish term that literally translates to "the sieve". It is used to refer to a situation in which someone is trying to find a way out of an uncomfortable or difficult situation. In English, it can be used to describe someone who is trying to wriggle out of an awkward or unpleasant situation. |
+| 43 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
+| 44 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 45 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 46 | [Suso](http://twitter.com/search?q=Suso) | Suso is a Spanish nickname for the given name Jesús. It is derived from the Latin name Iesus, which is the Greek version of the Hebrew name Joshua. In English, Suso would be translated to "Jesus". |
+| 47 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 48 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
+| 49 | [Ibon Navarro](http://twitter.com/search?q=Ibon+Navarro) | N/A |
+| 50 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
 
 
 

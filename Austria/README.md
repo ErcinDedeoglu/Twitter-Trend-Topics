@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-20 02:43:12 UTC`
+📆 Last Updated: `2023-02-20 03:21:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for Austria
 | 11 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
 | 12 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
 | 13 | [Seipel](http://twitter.com/search?q=Seipel) | N/A |
-| 14 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 15 | [Hacker](http://twitter.com/search?q=Hacker) | N/A |
-| 16 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 17 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 18 | [faschingsumzug](http://twitter.com/search?q=faschingsumzug) | N/A |
-| 19 | [Friedensverhandlungen](http://twitter.com/search?q=Friedensverhandlungen) | N/A |
-| 20 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 21 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 22 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
-| 23 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 24 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
-| 25 | [Pech](http://twitter.com/search?q=Pech) | N/A |
-| 26 | [baldige besserung](http://twitter.com/search?q=baldige+besserung) | N/A |
-| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 28 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 29 | [Lieferung](http://twitter.com/search?q=Lieferung) | N/A |
+| 14 | [Hacker](http://twitter.com/search?q=Hacker) | N/A |
+| 15 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 17 | [faschingsumzug](http://twitter.com/search?q=faschingsumzug) | N/A |
+| 18 | [Friedensverhandlungen](http://twitter.com/search?q=Friedensverhandlungen) | N/A |
+| 19 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 21 | [Iranian](http://twitter.com/search?q=Iranian) | N/A |
+| 22 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 23 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
+| 24 | [Pech](http://twitter.com/search?q=Pech) | N/A |
+| 25 | [Liebe Grüße](http://twitter.com/search?q=Liebe+Gr%c3%bc%c3%9fe) | N/A |
+| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [baldige besserung](http://twitter.com/search?q=baldige+besserung) | N/A |
+| 28 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 29 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 | 30 | [Rundfunk](http://twitter.com/search?q=Rundfunk) | N/A |
-| 31 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 32 | [Verlauf](http://twitter.com/search?q=Verlauf) | N/A |
-| 33 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 34 | [Schwangerschaft](http://twitter.com/search?q=Schwangerschaft) | N/A |
-| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 36 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 37 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 38 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 39 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 31 | [Lieferung](http://twitter.com/search?q=Lieferung) | N/A |
+| 32 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 33 | [schwangerschaft](http://twitter.com/search?q=schwangerschaft) | N/A |
+| 34 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 35 | [Verlauf](http://twitter.com/search?q=Verlauf) | N/A |
+| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 37 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 38 | [Umfrage](http://twitter.com/search?q=Umfrage) | N/A |
+| 39 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
 | 40 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 41 | [Heimdall](http://twitter.com/search?q=Heimdall) | N/A |
-| 42 | [Alptraum](http://twitter.com/search?q=Alptraum) | N/A |
-| 43 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 44 | [Wäsche](http://twitter.com/search?q=W%c3%a4sche) | N/A |
-| 45 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 41 | [Alptraum](http://twitter.com/search?q=Alptraum) | N/A |
+| 42 | [Wäsche](http://twitter.com/search?q=W%c3%a4sche) | N/A |
+| 43 | [Methode](http://twitter.com/search?q=Methode) | N/A |
+| 44 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 45 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
 | 46 | [Drohung](http://twitter.com/search?q=Drohung) | N/A |
-| 47 | [Arbeitnehmer](http://twitter.com/search?q=Arbeitnehmer) | N/A |
+| 47 | [Heimdall](http://twitter.com/search?q=Heimdall) | N/A |
 | 48 | [Abgrund](http://twitter.com/search?q=Abgrund) | N/A |
 | 49 | [Unfähigkeit](http://twitter.com/search?q=Unf%c3%a4higkeit) | N/A |
-| 50 | [Methode](http://twitter.com/search?q=Methode) | N/A |
+| 50 | [Deckel](http://twitter.com/search?q=Deckel) | N/A |
 
 
 

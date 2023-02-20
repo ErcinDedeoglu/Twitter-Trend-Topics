@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-02-20 02:43:09 UTC`
+📆 Last Updated: `2023-02-20 03:21:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 2 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 3 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 4 | [#GoPack](http://twitter.com/search?q=%23GoPack) | N/A |
-| 5 | [#RuyalarBuyusun](http://twitter.com/search?q=%23RuyalarBuyusun) | N/A |
-| 6 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 7 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 8 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 9 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
-| 10 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 11 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 12 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
-| 13 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 14 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 15 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 16 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 17 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 18 | [#AmericanIdol](http://twitter.com/search?q=%23AmericanIdol) | N/A |
-| 19 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 20 | [Hookah Doncic](http://twitter.com/search?q=Hookah+Doncic) | N/A |
-| 21 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
-| 22 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 23 | [Jewel](http://twitter.com/search?q=Jewel) | N/A |
-| 24 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 25 | [Ernie](http://twitter.com/search?q=Ernie) | N/A |
-| 26 | [Joker](http://twitter.com/search?q=Joker) | N/A |
-| 27 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 28 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 29 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 30 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 31 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 32 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 33 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
-| 34 | [Charles Barkley](http://twitter.com/search?q=Charles+Barkley) | N/A |
-| 35 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
-| 36 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 37 | [Stenhouse](http://twitter.com/search?q=Stenhouse) | N/A |
-| 38 | [Ben DiNucci](http://twitter.com/search?q=Ben+DiNucci) | N/A |
-| 39 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 40 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 41 | [East vs West](http://twitter.com/search?q=East+vs+West) | N/A |
-| 42 | [LeGM](http://twitter.com/search?q=LeGM) | N/A |
-| 43 | [WAS THAT DINA](http://twitter.com/search?q=WAS+THAT+DINA) | N/A |
-| 44 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 45 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 46 | [Amrit](http://twitter.com/search?q=Amrit) | N/A |
-| 47 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 48 | [Posty](http://twitter.com/search?q=Posty) | N/A |
-| 49 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 50 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 2 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 3 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 4 | [Wendy](http://twitter.com/search?q=Wendy) | N/A |
+| 5 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 6 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 7 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 8 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 9 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 10 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 11 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 12 | [#RuyalarBuyusun](http://twitter.com/search?q=%23RuyalarBuyusun) | N/A |
+| 13 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 14 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 15 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 16 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 17 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 18 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 19 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 20 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 21 | [Rema](http://twitter.com/search?q=Rema) | N/A |
+| 22 | [Janelle Monae](http://twitter.com/search?q=Janelle+Monae) | N/A |
+| 23 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 24 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 25 | [Last Last](http://twitter.com/search?q=Last+Last) | N/A |
+| 26 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 27 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 28 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
+| 29 | [The NBA](http://twitter.com/search?q=The+NBA) | The NBA stands for the National Basketball Association, which is a professional basketball league in North America. It is composed of 30 teams, 29 from the United States and one from Canada. The NBA is considered to be the premier men's professional basketball league in the world. |
+| 30 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 31 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 32 | [Ben DiNucci](http://twitter.com/search?q=Ben+DiNucci) | N/A |
+| 33 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
+| 34 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
+| 35 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 36 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 37 | [Jewel](http://twitter.com/search?q=Jewel) | N/A |
+| 38 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 39 | [Salt Lake City](http://twitter.com/search?q=Salt+Lake+City) | N/A |
+| 40 | [Hookah Doncic](http://twitter.com/search?q=Hookah+Doncic) | N/A |
+| 41 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 42 | [Ernie](http://twitter.com/search?q=Ernie) | N/A |
+| 43 | [Joker](http://twitter.com/search?q=Joker) | N/A |
+| 44 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 45 | [Courtney Green](http://twitter.com/search?q=Courtney+Green) | N/A |
+| 46 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 47 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 48 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
+| 49 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
+| 50 | [East vs West](http://twitter.com/search?q=East+vs+West) | N/A |
 
 
 

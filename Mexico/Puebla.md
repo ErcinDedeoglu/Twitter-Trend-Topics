@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Puebla
 
-📆 Last Updated: `2023-02-20 02:42:31 UTC`
+📆 Last Updated: `2023-02-20 03:21:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
-| 2 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 3 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 4 | [Toño Rodríguez](http://twitter.com/search?q=To%c3%b1o+Rodr%c3%adguez) | N/A |
-| 5 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
-| 6 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
-| 7 | [#AllStarElimina](http://twitter.com/search?q=%23AllStarElimina) | N/A |
-| 8 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 9 | [#CristianRey](http://twitter.com/search?q=%23CristianRey) | #CristianRey is a hashtag used to refer to the Christian faith. It is often used in posts related to Christianity, such as prayers, Bible verses, and inspirational quotes. The English translation of #CristianRey is "Christian King". |
-| 10 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 11 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 12 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 13 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 14 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
-| 15 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 16 | [Miguel Herrera](http://twitter.com/search?q=Miguel+Herrera) | N/A |
-| 17 | [#TUClausura2023](http://twitter.com/search?q=%23TUClausura2023) | N/A |
-| 18 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
-| 19 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 20 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
-| 21 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 22 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 23 | [#OlaAzul](http://twitter.com/search?q=%23OlaAzul) | N/A |
-| 24 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
-| 25 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
-| 26 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 27 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 28 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 29 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
-| 30 | [Tepito](http://twitter.com/search?q=Tepito) | N/A |
-| 31 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
-| 32 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
-| 33 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 34 | [Herly](http://twitter.com/search?q=Herly) | N/A |
-| 35 | [Ejército Mexicano](http://twitter.com/search?q=Ej%c3%a9rcito+Mexicano) | N/A |
-| 36 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 37 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
-| 38 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 39 | [Fresnillo](http://twitter.com/search?q=Fresnillo) | N/A |
+| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 2 | [#AllStarElimina](http://twitter.com/search?q=%23AllStarElimina) | N/A |
+| 3 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 4 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 5 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
+| 6 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 7 | [Layun](http://twitter.com/search?q=Layun) | N/A |
+| 8 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 9 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 10 | [Toño Rodríguez](http://twitter.com/search?q=To%c3%b1o+Rodr%c3%adguez) | N/A |
+| 11 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 12 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 13 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
+| 14 | [Tano](http://twitter.com/search?q=Tano) | N/A |
+| 15 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 16 | [Misael Domínguez](http://twitter.com/search?q=Misael+Dom%c3%adnguez) | N/A |
+| 17 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 18 | [Malagón](http://twitter.com/search?q=Malag%c3%b3n) | N/A |
+| 19 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 20 | [#CristianRey](http://twitter.com/search?q=%23CristianRey) | #CristianRey is a hashtag used to refer to the Christian faith. It is often used in posts related to Christianity, such as prayers, Bible verses, and inspirational quotes. The English translation of #CristianRey is "Christian King". |
+| 21 | [Miguel Herrera](http://twitter.com/search?q=Miguel+Herrera) | N/A |
+| 22 | [Jiménez](http://twitter.com/search?q=Jim%c3%a9nez) | N/A |
+| 23 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 24 | [Zendejas](http://twitter.com/search?q=Zendejas) | Zendejas is a Spanish surname. It is derived from the Basque word "zendegi," which means "life." In English, it can be translated to mean "one who has a long life." |
+| 25 | [Tijuana](http://twitter.com/search?q=Tijuana) | N/A |
+| 26 | [Cuino](http://twitter.com/search?q=Cuino) | N/A |
+| 27 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 28 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
+| 29 | [Fidalgo](http://twitter.com/search?q=Fidalgo) | N/A |
+| 30 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 31 | [Tepito](http://twitter.com/search?q=Tepito) | N/A |
+| 32 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 33 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 34 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 35 | [Solari](http://twitter.com/search?q=Solari) | Solari is a Latin word meaning “of the sun”. It is often used to refer to things related to the sun, such as solar energy or solar power. It can also be used as a surname, particularly in Italy. |
+| 36 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 37 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
+| 38 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 39 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
 | 40 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 41 | [Adrian Marcelo](http://twitter.com/search?q=Adrian+Marcelo) | N/A |
-| 42 | [Alcaldesa](http://twitter.com/search?q=Alcaldesa) | N/A |
-| 43 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 44 | [Travolta](http://twitter.com/search?q=Travolta) | N/A |
-| 45 | [Alcaldía](http://twitter.com/search?q=Alcald%c3%ada) | N/A |
-| 46 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 47 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 48 | [Guaymas](http://twitter.com/search?q=Guaymas) | N/A |
+| 41 | [Herly](http://twitter.com/search?q=Herly) | N/A |
+| 42 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 43 | [Richard](http://twitter.com/search?q=Richard) | N/A |
+| 44 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
+| 45 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 46 | [Fresnillo](http://twitter.com/search?q=Fresnillo) | N/A |
+| 47 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 48 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 49 | [Ejército Mexicano](http://twitter.com/search?q=Ej%c3%a9rcito+Mexicano) | N/A |
 
 
 
