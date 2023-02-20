@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-20 06:18:03 UTC`
+📆 Last Updated: `2023-02-20 07:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,34 +16,30 @@ This is top 50 for Belarus
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 2 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
-| 3 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 2 | [Европе](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d0%b5) | N/A |
+| 3 | [Точно](http://twitter.com/search?q=%d0%a2%d0%be%d1%87%d0%bd%d0%be) | N/A |
 | 4 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 5 | [Хэ Сюань](http://twitter.com/search?q=%d0%a5%d1%8d+%d0%a1%d1%8e%d0%b0%d0%bd%d1%8c) | N/A |
-| 6 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 7 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 8 | [сочувствую](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
-| 9 | [УЖАС](http://twitter.com/search?q=%d0%a3%d0%96%d0%90%d0%a1) | N/A |
-| 10 | [даааа](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
-| 11 | [Скоро](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%be) | N/A |
-| 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 13 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 14 | [минхо](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%85%d0%be) | N/A |
-| 15 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
+| 5 | [сочувствую](http://twitter.com/search?q=%d1%81%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
+| 6 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
+| 7 | [УЖАС](http://twitter.com/search?q=%d0%a3%d0%96%d0%90%d0%a1) | N/A |
+| 8 | [ДАААА](http://twitter.com/search?q=%d0%94%d0%90%d0%90%d0%90%d0%90) | N/A |
+| 9 | [Скоро](http://twitter.com/search?q=%d0%a1%d0%ba%d0%be%d1%80%d0%be) | N/A |
+| 10 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 11 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 12 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
+| 13 | [Какие](http://twitter.com/search?q=%d0%9a%d0%b0%d0%ba%d0%b8%d0%b5) | N/A |
+| 14 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
+| 15 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
 | 16 | [Самое](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%be%d0%b5) | N/A |
-| 17 | [Думаю](http://twitter.com/search?q=%d0%94%d1%83%d0%bc%d0%b0%d1%8e) | N/A |
-| 18 | [Люблю](http://twitter.com/search?q=%d0%9b%d1%8e%d0%b1%d0%bb%d1%8e) | N/A |
-| 19 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
-| 20 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
-| 21 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
-| 22 | [минск](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
-| 23 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
-| 24 | [красота](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
-| 25 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
-| 26 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
-| 27 | [вось](http://twitter.com/search?q=%d0%b2%d0%be%d1%81%d1%8c) | N/A |
-| 28 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
-| 29 | [Ахах](http://twitter.com/search?q=%d0%90%d1%85%d0%b0%d1%85) | N/A |
+| 17 | [Дзякуй](http://twitter.com/search?q=%d0%94%d0%b7%d1%8f%d0%ba%d1%83%d0%b9) | N/A |
+| 18 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
+| 19 | [Реально](http://twitter.com/search?q=%d0%a0%d0%b5%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 20 | [минск](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba) | N/A |
+| 21 | [красота](http://twitter.com/search?q=%d0%ba%d1%80%d0%b0%d1%81%d0%be%d1%82%d0%b0) | N/A |
+| 22 | [Благодарю](http://twitter.com/search?q=%d0%91%d0%bb%d0%b0%d0%b3%d0%be%d0%b4%d0%b0%d1%80%d1%8e) | N/A |
+| 23 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 24 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
+| 25 | [Кстати](http://twitter.com/search?q=%d0%9a%d1%81%d1%82%d0%b0%d1%82%d0%b8) | N/A |
 
 
 

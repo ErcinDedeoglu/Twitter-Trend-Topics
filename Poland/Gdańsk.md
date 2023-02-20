@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gdańsk
 
-📆 Last Updated: `2023-02-20 06:17:28 UTC`
+📆 Last Updated: `2023-02-20 07:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#lpozag](http://twitter.com/search?q=%23lpozag) | N/A |
-| 2 | [#pialeg](http://twitter.com/search?q=%23pialeg) | N/A |
-| 3 | [Piotrowicza](http://twitter.com/search?q=Piotrowicza) | N/A |
-| 4 | [#StrefaStarcia](http://twitter.com/search?q=%23StrefaStarcia) | N/A |
-| 5 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
-| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 1 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 2 | [Piotrowicza](http://twitter.com/search?q=Piotrowicza) | N/A |
+| 3 | [#LPOZAG](http://twitter.com/search?q=%23LPOZAG) | N/A |
+| 4 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 5 | [#PIALEG](http://twitter.com/search?q=%23PIALEG) | N/A |
+| 6 | [#StrefaStarcia](http://twitter.com/search?q=%23StrefaStarcia) | N/A |
 | 7 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
 | 8 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 9 | [mikołaja kopernika](http://twitter.com/search?q=miko%c5%82aja+kopernika) | N/A |
-| 10 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 11 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
-| 12 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 13 | [Mk 9](http://twitter.com/search?q=Mk+9) | N/A |
-| 14 | [sylwia przybysz](http://twitter.com/search?q=sylwia+przybysz) | N/A |
-| 15 | [velde](http://twitter.com/search?q=velde) | N/A |
-| 16 | [Oskar Kwiatkowski](http://twitter.com/search?q=Oskar+Kwiatkowski) | N/A |
-| 17 | [sylwestrzak](http://twitter.com/search?q=sylwestrzak) | N/A |
-| 18 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
-| 19 | [sokołowski](http://twitter.com/search?q=soko%c5%82owski) | N/A |
-| 20 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 21 | [zuzanna borucka](http://twitter.com/search?q=zuzanna+borucka) | N/A |
-| 22 | [slisza](http://twitter.com/search?q=slisza) | N/A |
-| 23 | [kosta](http://twitter.com/search?q=kosta) | N/A |
-| 24 | [Aleksandra Król](http://twitter.com/search?q=Aleksandra+Kr%c3%b3l) | N/A |
-| 25 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 26 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
-| 27 | [Lil Masti](http://twitter.com/search?q=Lil+Masti) | N/A |
-| 28 | [piastem](http://twitter.com/search?q=piastem) | N/A |
-| 29 | [biorę](http://twitter.com/search?q=bior%c4%99) | N/A |
-| 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 31 | [zagłębie](http://twitter.com/search?q=zag%c5%82%c4%99bie) | N/A |
-| 32 | [antoni k.](http://twitter.com/search?q=antoni+k.) | N/A |
-| 33 | [szejna](http://twitter.com/search?q=szejna) | N/A |
-| 34 | [Faworki](http://twitter.com/search?q=Faworki) | N/A |
-| 35 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 36 | [ba loua](http://twitter.com/search?q=ba+loua) | N/A |
-| 37 | [marsz niepodległości](http://twitter.com/search?q=marsz+niepodleg%c5%82o%c5%9bci) | N/A |
-| 38 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
-| 39 | [senyszyn](http://twitter.com/search?q=senyszyn) | N/A |
-| 40 | [Marta](http://twitter.com/search?q=Marta) | N/A |
-| 41 | [Rymanowski](http://twitter.com/search?q=Rymanowski) | N/A |
-| 42 | [mladen](http://twitter.com/search?q=mladen) | N/A |
-| 43 | [lubina](http://twitter.com/search?q=lubina) | N/A |
-| 44 | [pekharta](http://twitter.com/search?q=pekharta) | N/A |
-| 45 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 46 | [sobiech](http://twitter.com/search?q=sobiech) | N/A |
-| 47 | [dzień nauki polskiej](http://twitter.com/search?q=dzie%c5%84+nauki+polskiej) | N/A |
-| 48 | [muci](http://twitter.com/search?q=muci) | N/A |
-| 49 | [Afryce](http://twitter.com/search?q=Afryce) | N/A |
+| 9 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 10 | [Mk 9](http://twitter.com/search?q=Mk+9) | N/A |
+| 11 | [Mikołaja Kopernika](http://twitter.com/search?q=Miko%c5%82aja+Kopernika) | N/A |
+| 12 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 13 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 14 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 15 | [Oskar Kwiatkowski](http://twitter.com/search?q=Oskar+Kwiatkowski) | N/A |
+| 16 | [sylwestrzak](http://twitter.com/search?q=sylwestrzak) | N/A |
+| 17 | [sokołowski](http://twitter.com/search?q=soko%c5%82owski) | N/A |
+| 18 | [varze](http://twitter.com/search?q=varze) | N/A |
+| 19 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 20 | [Sylwia Przybysz](http://twitter.com/search?q=Sylwia+Przybysz) | N/A |
+| 21 | [slisza](http://twitter.com/search?q=slisza) | N/A |
+| 22 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 23 | [Aleksandra Król](http://twitter.com/search?q=Aleksandra+Kr%c3%b3l) | N/A |
+| 24 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 25 | [Kosta](http://twitter.com/search?q=Kosta) | N/A |
+| 26 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 27 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 28 | [Zuzanna Borucka](http://twitter.com/search?q=Zuzanna+Borucka) | N/A |
+| 29 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
+| 30 | [Lil Masti](http://twitter.com/search?q=Lil+Masti) | N/A |
+| 31 | [piastem](http://twitter.com/search?q=piastem) | N/A |
+| 32 | [biorę](http://twitter.com/search?q=bior%c4%99) | N/A |
+| 33 | [zagłębie](http://twitter.com/search?q=zag%c5%82%c4%99bie) | N/A |
+| 34 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 35 | [Faworki](http://twitter.com/search?q=Faworki) | N/A |
+| 36 | [szejna](http://twitter.com/search?q=szejna) | N/A |
+| 37 | [ba loua](http://twitter.com/search?q=ba+loua) | N/A |
+| 38 | [antoni k.](http://twitter.com/search?q=antoni+k.) | N/A |
+| 39 | [Rymanowski](http://twitter.com/search?q=Rymanowski) | N/A |
+| 40 | [marsz niepodległości](http://twitter.com/search?q=marsz+niepodleg%c5%82o%c5%9bci) | N/A |
+| 41 | [senyszyn](http://twitter.com/search?q=senyszyn) | N/A |
+| 42 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
+| 43 | [mladen](http://twitter.com/search?q=mladen) | N/A |
+| 44 | [Basiu](http://twitter.com/search?q=Basiu) | N/A |
+| 45 | [lubina](http://twitter.com/search?q=lubina) | N/A |
+| 46 | [alvaro](http://twitter.com/search?q=alvaro) | N/A |
+| 47 | [pekharta](http://twitter.com/search?q=pekharta) | N/A |
+| 48 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 49 | [sobiech](http://twitter.com/search?q=sobiech) | N/A |
 
 
 

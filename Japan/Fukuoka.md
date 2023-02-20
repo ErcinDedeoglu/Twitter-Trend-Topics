@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fukuoka
 
-📆 Last Updated: `2023-02-20 06:17:38 UTC`
+📆 Last Updated: `2023-02-20 07:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [福岡空港](http://twitter.com/search?q=%e7%a6%8f%e5%b2%a1%e7%a9%ba%e6%b8%af) | N/A |
-| 2 | [松本零士先生](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e9%9b%b6%e5%a3%ab%e5%85%88%e7%94%9f) | N/A |
-| 3 | [銀河鉄道999](http://twitter.com/search?q=%e9%8a%80%e6%b2%b3%e9%89%84%e9%81%93999) | N/A |
-| 4 | [宇宙戦艦ヤマト](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e6%88%a6%e8%89%a6%e3%83%a4%e3%83%9e%e3%83%88) | N/A |
-| 5 | [ハーロック](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%ad%e3%83%83%e3%82%af) | N/A |
-| 6 | [メーテル](http://twitter.com/search?q=%e3%83%a1%e3%83%bc%e3%83%86%e3%83%ab) | N/A |
-| 7 | [松本先生](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e5%85%88%e7%94%9f) | N/A |
-| 8 | [急性心不全](http://twitter.com/search?q=%e6%80%a5%e6%80%a7%e5%bf%83%e4%b8%8d%e5%85%a8) | N/A |
-| 9 | [男おいどん](http://twitter.com/search?q=%e7%94%b7%e3%81%8a%e3%81%84%e3%81%a9%e3%82%93) | N/A |
-| 10 | [日刊スポーツ](http://twitter.com/search?q=%e6%97%a5%e5%88%8a%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84) | N/A |
-| 11 | [#一番好きなモンスター](http://twitter.com/search?q=%23%e4%b8%80%e7%95%aa%e5%a5%bd%e3%81%8d%e3%81%aa%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 12 | [音声生配信](http://twitter.com/search?q=%e9%9f%b3%e5%a3%b0%e7%94%9f%e9%85%8d%e4%bf%a1) | N/A |
-| 13 | [エメラルダス](http://twitter.com/search?q=%e3%82%a8%e3%83%a1%e3%83%a9%e3%83%ab%e3%83%80%e3%82%b9) | N/A |
-| 14 | [Johnny's net](http://twitter.com/search?q=Johnny%27s+net) | Johnny's net is a phrase used to describe a person's network of contacts and relationships. It is often used to refer to the people who can help someone get ahead in their career or life. |
-| 15 | [#パズドラ11周年](http://twitter.com/search?q=%23%e3%83%91%e3%82%ba%e3%83%89%e3%83%a911%e5%91%a8%e5%b9%b4) | N/A |
-| 16 | [果南の謎解き成功](http://twitter.com/search?q=%e6%9e%9c%e5%8d%97%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 17 | [#小さすぎるタイパンツ](http://twitter.com/search?q=%23%e5%b0%8f%e3%81%95%e3%81%99%e3%81%8e%e3%82%8b%e3%82%bf%e3%82%a4%e3%83%91%e3%83%b3%e3%83%84) | N/A |
-| 18 | [#すの日常TheMovie](http://twitter.com/search?q=%23%e3%81%99%e3%81%ae%e6%97%a5%e5%b8%b8TheMovie) | N/A |
-| 19 | [ラプちゃん](http://twitter.com/search?q=%e3%83%a9%e3%83%97%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 20 | [#CRWIN](http://twitter.com/search?q=%23CRWIN) | N/A |
-| 21 | [ブライト](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
-| 22 | [戦場まんがシリーズ](http://twitter.com/search?q=%e6%88%a6%e5%a0%b4%e3%81%be%e3%82%93%e3%81%8c%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
-| 23 | [ロドスキッチン](http://twitter.com/search?q=%e3%83%ad%e3%83%89%e3%82%b9%e3%82%ad%e3%83%83%e3%83%81%e3%83%b3) | N/A |
-| 24 | [ラーメンライス](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%a9%e3%82%a4%e3%82%b9) | N/A |
-| 25 | [サルマタケ](http://twitter.com/search?q=%e3%82%b5%e3%83%ab%e3%83%9e%e3%82%bf%e3%82%b1) | N/A |
-| 26 | [ラプ様復活](http://twitter.com/search?q=%e3%83%a9%e3%83%97%e6%a7%98%e5%be%a9%e6%b4%bb) | N/A |
-| 27 | [Zhen](http://twitter.com/search?q=Zhen) | N/A |
-| 28 | [ザ・コクピット](http://twitter.com/search?q=%e3%82%b6%e3%83%bb%e3%82%b3%e3%82%af%e3%83%94%e3%83%83%e3%83%88) | N/A |
-| 29 | [絶対的ピンクベージュ](http://twitter.com/search?q=%e7%b5%b6%e5%af%be%e7%9a%84%e3%83%94%e3%83%b3%e3%82%af%e3%83%99%e3%83%bc%e3%82%b8%e3%83%a5) | N/A |
-| 30 | [万感の思い](http://twitter.com/search?q=%e4%b8%87%e6%84%9f%e3%81%ae%e6%80%9d%e3%81%84) | N/A |
-| 31 | [聖來さん](http://twitter.com/search?q=%e8%81%96%e4%be%86%e3%81%95%e3%82%93) | N/A |
-| 32 | [トチロー](http://twitter.com/search?q=%e3%83%88%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
-| 33 | [セクサロイド](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b5%e3%83%ad%e3%82%a4%e3%83%89) | N/A |
-| 34 | [横浜ガンダム](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | N/A |
-| 35 | [機械の体](http://twitter.com/search?q=%e6%a9%9f%e6%a2%b0%e3%81%ae%e4%bd%93) | N/A |
-| 36 | [彗星の空](http://twitter.com/search?q=%e5%bd%97%e6%98%9f%e3%81%ae%e7%a9%ba) | N/A |
-| 37 | [千年女王](http://twitter.com/search?q=%e5%8d%83%e5%b9%b4%e5%a5%b3%e7%8e%8b) | N/A |
-| 38 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 39 | [左折優先](http://twitter.com/search?q=%e5%b7%a6%e6%8a%98%e5%84%aa%e5%85%88) | N/A |
-| 40 | [Jr大賞](http://twitter.com/search?q=Jr%e5%a4%a7%e8%b3%9e) | N/A |
-| 41 | [ヴァルケン](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%ab%e3%82%b1%e3%83%b3) | N/A |
-| 42 | [🧡向井康二](http://twitter.com/search?q=%f0%9f%a7%a1%e5%90%91%e4%ba%95%e5%ba%b7%e4%ba%8c) | N/A |
-| 43 | [青春のアルカディア](http://twitter.com/search?q=%e9%9d%92%e6%98%a5%e3%81%ae%e3%82%a2%e3%83%ab%e3%82%ab%e3%83%87%e3%82%a3%e3%82%a2) | N/A |
-| 44 | [ゴダイゴ](http://twitter.com/search?q=%e3%82%b4%e3%83%80%e3%82%a4%e3%82%b4) | N/A |
-| 45 | [最低価格](http://twitter.com/search?q=%e6%9c%80%e4%bd%8e%e4%be%a1%e6%a0%bc) | N/A |
-| 46 | [カプコンカップ](http://twitter.com/search?q=%e3%82%ab%e3%83%97%e3%82%b3%e3%83%b3%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 47 | [プレイオフ](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%a4%e3%82%aa%e3%83%95) | N/A |
-| 48 | [マッツのチケット](http://twitter.com/search?q=%e3%83%9e%e3%83%83%e3%83%84%e3%81%ae%e3%83%81%e3%82%b1%e3%83%83%e3%83%88) | N/A |
-| 49 | [アルカディア号](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%ab%e3%83%87%e3%82%a3%e3%82%a2%e5%8f%b7) | N/A |
+| 2 | [まことお兄さん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
+| 3 | [ゆういちろう](http://twitter.com/search?q=%e3%82%86%e3%81%86%e3%81%84%e3%81%a1%e3%82%8d%e3%81%86) | ゆういちろう is a Japanese name, and it can be written in English as Yuichiro. It is a combination of two kanji characters: "yu" (勇) meaning brave or courageous, and "ichiro" (一郎) meaning first son. |
+| 4 | [兄さん卒業](http://twitter.com/search?q=%e5%85%84%e3%81%95%e3%82%93%e5%8d%92%e6%a5%ad) | N/A |
+| 5 | [松本零士先生](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e9%9b%b6%e5%a3%ab%e5%85%88%e7%94%9f) | N/A |
+| 6 | [銀河鉄道999](http://twitter.com/search?q=%e9%8a%80%e6%b2%b3%e9%89%84%e9%81%93999) | N/A |
+| 7 | [宇宙戦艦ヤマト](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e6%88%a6%e8%89%a6%e3%83%a4%e3%83%9e%e3%83%88) | N/A |
+| 8 | [まことおにいさん](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e3%81%8a%e3%81%ab%e3%81%84%e3%81%95%e3%82%93) | N/A |
+| 9 | [メーテル](http://twitter.com/search?q=%e3%83%a1%e3%83%bc%e3%83%86%e3%83%ab) | N/A |
+| 10 | [ハーロック](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 11 | [松本先生](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e5%85%88%e7%94%9f) | N/A |
+| 12 | [プレイオフ](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%82%a4%e3%82%aa%e3%83%95) | N/A |
+| 13 | [急性心不全](http://twitter.com/search?q=%e6%80%a5%e6%80%a7%e5%bf%83%e4%b8%8d%e5%85%a8) | N/A |
+| 14 | [#CRWIN](http://twitter.com/search?q=%23CRWIN) | N/A |
+| 15 | [男おいどん](http://twitter.com/search?q=%e7%94%b7%e3%81%8a%e3%81%84%e3%81%a9%e3%82%93) | N/A |
+| 16 | [#一番好きなモンスター](http://twitter.com/search?q=%23%e4%b8%80%e7%95%aa%e5%a5%bd%e3%81%8d%e3%81%aa%e3%83%a2%e3%83%b3%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 17 | [誠お兄さん](http://twitter.com/search?q=%e8%aa%a0%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
+| 18 | [聖來さん](http://twitter.com/search?q=%e8%81%96%e4%be%86%e3%81%95%e3%82%93) | N/A |
+| 19 | [#パズドラ11周年](http://twitter.com/search?q=%23%e3%83%91%e3%82%ba%e3%83%89%e3%83%a911%e5%91%a8%e5%b9%b4) | N/A |
+| 20 | [#小さすぎるタイパンツ](http://twitter.com/search?q=%23%e5%b0%8f%e3%81%95%e3%81%99%e3%81%8e%e3%82%8b%e3%82%bf%e3%82%a4%e3%83%91%e3%83%b3%e3%83%84) | N/A |
+| 21 | [果南の謎解き成功](http://twitter.com/search?q=%e6%9e%9c%e5%8d%97%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 22 | [まこと卒業](http://twitter.com/search?q=%e3%81%be%e3%81%93%e3%81%a8%e5%8d%92%e6%a5%ad) | N/A |
+| 23 | [エメラルダス](http://twitter.com/search?q=%e3%82%a8%e3%83%a1%e3%83%a9%e3%83%ab%e3%83%80%e3%82%b9) | N/A |
+| 24 | [音声生配信](http://twitter.com/search?q=%e9%9f%b3%e5%a3%b0%e7%94%9f%e9%85%8d%e4%bf%a1) | N/A |
+| 25 | [にいさん卒業](http://twitter.com/search?q=%e3%81%ab%e3%81%84%e3%81%95%e3%82%93%e5%8d%92%e6%a5%ad) | N/A |
+| 26 | [日刊スポーツ](http://twitter.com/search?q=%e6%97%a5%e5%88%8a%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84) | N/A |
+| 27 | [#すの日常TheMovie](http://twitter.com/search?q=%23%e3%81%99%e3%81%ae%e6%97%a5%e5%b8%b8TheMovie) | N/A |
+| 28 | [Johnny's net](http://twitter.com/search?q=Johnny%27s+net) | Johnny's net is a phrase used to describe a person's network of contacts and relationships. It is often used to refer to the people who can help someone get ahead in their career or life. |
+| 29 | [よしのん1位](http://twitter.com/search?q=%e3%82%88%e3%81%97%e3%81%ae%e3%82%931%e4%bd%8d) | N/A |
+| 30 | [兄さんの方](http://twitter.com/search?q=%e5%85%84%e3%81%95%e3%82%93%e3%81%ae%e6%96%b9) | N/A |
+| 31 | [ブライト](http://twitter.com/search?q=%e3%83%96%e3%83%a9%e3%82%a4%e3%83%88) | N/A |
+| 32 | [ラプちゃん](http://twitter.com/search?q=%e3%83%a9%e3%83%97%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 33 | [横浜ガンダム](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0) | N/A |
+| 34 | [グループC](http://twitter.com/search?q=%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97C) | N/A |
+| 35 | [ラーメンライス](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%83%a1%e3%83%b3%e3%83%a9%e3%82%a4%e3%82%b9) | N/A |
+| 36 | [戦場まんがシリーズ](http://twitter.com/search?q=%e6%88%a6%e5%a0%b4%e3%81%be%e3%82%93%e3%81%8c%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
+| 37 | [サルマタケ](http://twitter.com/search?q=%e3%82%b5%e3%83%ab%e3%83%9e%e3%82%bf%e3%82%b1) | N/A |
+| 38 | [絶対的ピンクベージュ](http://twitter.com/search?q=%e7%b5%b6%e5%af%be%e7%9a%84%e3%83%94%e3%83%b3%e3%82%af%e3%83%99%e3%83%bc%e3%82%b8%e3%83%a5) | N/A |
+| 39 | [ロドスキッチン](http://twitter.com/search?q=%e3%83%ad%e3%83%89%e3%82%b9%e3%82%ad%e3%83%83%e3%83%81%e3%83%b3) | N/A |
+| 40 | [ヴァルケン](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%ab%e3%82%b1%e3%83%b3) | N/A |
+| 41 | [いちろうお兄さん](http://twitter.com/search?q=%e3%81%84%e3%81%a1%e3%82%8d%e3%81%86%e3%81%8a%e5%85%84%e3%81%95%e3%82%93) | N/A |
+| 42 | [ラプ様復活](http://twitter.com/search?q=%e3%83%a9%e3%83%97%e6%a7%98%e5%be%a9%e6%b4%bb) | N/A |
+| 43 | [からだダンダン](http://twitter.com/search?q=%e3%81%8b%e3%82%89%e3%81%a0%e3%83%80%e3%83%b3%e3%83%80%e3%83%b3) | N/A |
+| 44 | [ザ・コクピット](http://twitter.com/search?q=%e3%82%b6%e3%83%bb%e3%82%b3%e3%82%af%e3%83%94%e3%83%83%e3%83%88) | N/A |
+| 45 | [誠おにいさん](http://twitter.com/search?q=%e8%aa%a0%e3%81%8a%e3%81%ab%e3%81%84%e3%81%95%e3%82%93) | N/A |
+| 46 | [トチロー](http://twitter.com/search?q=%e3%83%88%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
+| 47 | [セクサロイド](http://twitter.com/search?q=%e3%82%bb%e3%82%af%e3%82%b5%e3%83%ad%e3%82%a4%e3%83%89) | N/A |
+| 48 | [兄さん続投](http://twitter.com/search?q=%e5%85%84%e3%81%95%e3%82%93%e7%b6%9a%e6%8a%95) | N/A |
+| 49 | [Zhen](http://twitter.com/search?q=Zhen) | N/A |
 
 
 

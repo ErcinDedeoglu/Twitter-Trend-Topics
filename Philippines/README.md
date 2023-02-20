@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-20 06:18:08 UTC`
+📆 Last Updated: `2023-02-20 07:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ShowtimeIsipBata](http://twitter.com/search?q=%23ShowtimeIsipBata) | N/A |
-| 2 | [#Snippet_SetMeFree](http://twitter.com/search?q=%23Snippet_SetMeFree) | N/A |
-| 3 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
-| 4 | [BERRY](http://twitter.com/search?q=BERRY) | N/A |
-| 5 | [allforone asapwithbelle](http://twitter.com/search?q=allforone+asapwithbelle) | N/A |
-| 6 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
-| 7 | [#LetsAskFelipatGV991](http://twitter.com/search?q=%23LetsAskFelipatGV991) | N/A |
-| 8 | [#JoshCullenTeaserPhoto](http://twitter.com/search?q=%23JoshCullenTeaserPhoto) | N/A |
+| 2 | [#KENTIN](http://twitter.com/search?q=%23KENTIN) | N/A |
+| 3 | [allforone asapwithbelle](http://twitter.com/search?q=allforone+asapwithbelle) | N/A |
+| 4 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
+| 5 | [#AKNPTheNewOwner](http://twitter.com/search?q=%23AKNPTheNewOwner) | N/A |
+| 6 | [#Snippet_SetMeFree](http://twitter.com/search?q=%23Snippet_SetMeFree) | N/A |
+| 7 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
+| 8 | [Berry](http://twitter.com/search?q=Berry) | N/A |
 | 9 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
-| 10 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 11 | [IVE IN MANILA](http://twitter.com/search?q=IVE+IN+MANILA) | N/A |
-| 12 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 14 | [HAPPY 8200TH DAYS](http://twitter.com/search?q=HAPPY+8200TH+DAYS) | N/A |
-| 15 | [invincibl3 day](http://twitter.com/search?q=invincibl3+day) | N/A |
-| 16 | [Team Giannis](http://twitter.com/search?q=Team+Giannis) | N/A |
-| 17 | [Sunoo Beautiful](http://twitter.com/search?q=Sunoo+Beautiful) | N/A |
-| 18 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
-| 19 | [Jomalig](http://twitter.com/search?q=Jomalig) | N/A |
-| 20 | [Sunoo Brave](http://twitter.com/search?q=Sunoo+Brave) | N/A |
-| 21 | [Sunoo Bubbly](http://twitter.com/search?q=Sunoo+Bubbly) | N/A |
-| 22 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 23 | [come and get joshcullen](http://twitter.com/search?q=come+and+get+joshcullen) | N/A |
-| 24 | [Sunoo Bright](http://twitter.com/search?q=Sunoo+Bright) | N/A |
-| 25 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 26 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
-| 27 | [piewer vote for anji](http://twitter.com/search?q=piewer+vote+for+anji) | N/A |
-| 28 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 29 | [gap gl perfect ending](http://twitter.com/search?q=gap+gl+perfect+ending) | N/A |
-| 30 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
-| 31 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 32 | [taeil](http://twitter.com/search?q=taeil) | N/A |
+| 10 | [Argus](http://twitter.com/search?q=Argus) | N/A |
+| 11 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 12 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 13 | [IVE IN MANILA](http://twitter.com/search?q=IVE+IN+MANILA) | N/A |
+| 14 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 15 | [Analyn](http://twitter.com/search?q=Analyn) | N/A |
+| 16 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 17 | [HAPPY 8200TH DAYS](http://twitter.com/search?q=HAPPY+8200TH+DAYS) | N/A |
+| 18 | [invincibl3 day](http://twitter.com/search?q=invincibl3+day) | N/A |
+| 19 | [Sunoo Beautiful](http://twitter.com/search?q=Sunoo+Beautiful) | N/A |
+| 20 | [Sunoo Bubbly](http://twitter.com/search?q=Sunoo+Bubbly) | N/A |
+| 21 | [Sunoo Bright](http://twitter.com/search?q=Sunoo+Bright) | N/A |
+| 22 | [Sunoo Brave](http://twitter.com/search?q=Sunoo+Brave) | N/A |
+| 23 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
+| 24 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
+| 25 | [piewer vote for anji](http://twitter.com/search?q=piewer+vote+for+anji) | N/A |
+| 26 | [SEO CHANGBIN](http://twitter.com/search?q=SEO+CHANGBIN) | N/A |
+| 27 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 28 | [Team Lebron](http://twitter.com/search?q=Team+Lebron) | N/A |
+| 29 | [The Prom Queens](http://twitter.com/search?q=The+Prom+Queens) | N/A |
+| 30 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 31 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 32 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
 | 33 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 34 | [zacham piegalingan saepl](http://twitter.com/search?q=zacham+piegalingan+saepl) | N/A |
-| 35 | [letthegamesbeginrsg h2wo](http://twitter.com/search?q=letthegamesbeginrsg+h2wo) | N/A |
-| 36 | [sundrei goodvibes](http://twitter.com/search?q=sundrei+goodvibes) | N/A |
-| 37 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
-| 38 | [HWANDERFULYEARS WITH JUNGHWAN](http://twitter.com/search?q=HWANDERFULYEARS+WITH+JUNGHWAN) | N/A |
-| 39 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 40 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 41 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 42 | [Dear Dream](http://twitter.com/search?q=Dear+Dream) | N/A |
-| 43 | [WIDEN THE GAP](http://twitter.com/search?q=WIDEN+THE+GAP) | N/A |
-| 44 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 45 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 46 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
-| 47 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 48 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 49 | [ENRIQUE NBAPh](http://twitter.com/search?q=ENRIQUE+NBAPh) | N/A |
-| 50 | [warlio official couple na](http://twitter.com/search?q=warlio+official+couple+na) | N/A |
+| 34 | [taeyong](http://twitter.com/search?q=taeyong) | Taeyong is a Korean given name, derived from the Chinese characters 太 (tài) meaning "great" and 永 (yǒng) meaning "eternal". In English, it can be translated to mean "great eternity". |
+| 35 | [zacham piegalingan saepl](http://twitter.com/search?q=zacham+piegalingan+saepl) | N/A |
+| 36 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 37 | [Constitutional Amendments](http://twitter.com/search?q=Constitutional+Amendments) | N/A |
+| 38 | [taeil](http://twitter.com/search?q=taeil) | N/A |
+| 39 | [letthegamesbeginrsg h2wo](http://twitter.com/search?q=letthegamesbeginrsg+h2wo) | N/A |
+| 40 | [HWANG HYUNJIN](http://twitter.com/search?q=HWANG+HYUNJIN) | N/A |
+| 41 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
+| 42 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
+| 43 | [hwanderfulyears with junghwan](http://twitter.com/search?q=hwanderfulyears+with+junghwan) | N/A |
+| 44 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
+| 45 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 46 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 47 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 48 | [Dear Dream](http://twitter.com/search?q=Dear+Dream) | N/A |
+| 49 | [Moira](http://twitter.com/search?q=Moira) | N/A |
+| 50 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
 
 
 
