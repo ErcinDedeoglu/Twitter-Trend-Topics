@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-02-20 18:17:34 UTC`
+📆 Last Updated: `2023-02-20 19:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | ------- | ------------ | ------------ |
 | 1 | [ابو عبدالله](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87) | N/A |
 | 2 | [#جديد_بن_جخدب](http://twitter.com/search?q=%23%d8%ac%d8%af%d9%8a%d8%af_%d8%a8%d9%86_%d8%ac%d8%ae%d8%af%d8%a8) | N/A |
-| 3 | [#الماجد_للعود](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%a7%d8%ac%d8%af_%d9%84%d9%84%d8%b9%d9%88%d8%af) | N/A |
+| 3 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
 | 4 | [دوري يلو](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d9%8a%d9%84%d9%88) | دوري يلو is a popular Arabic television series that follows the lives of a group of young people living in the city of Jeddah, Saudi Arabia. The title translates to "Yello League" in English. |
-| 5 | [#الملكي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
-| 6 | [#يوم_التاسيس_عز_وفخر](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3_%d8%b9%d8%b2_%d9%88%d9%81%d8%ae%d8%b1) | N/A |
-| 7 | [جدول الاختبارات النهاييه](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 8 | [#الهلال_شباب_اهلي_دبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%87%d9%84%d9%8a_%d8%af%d8%a8%d9%8a) | N/A |
-| 9 | [ناصر الدوسري](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | ناصر الدوسري is the name of a prominent Iraqi politician who served as Prime Minister of Iraq from 2006 to 2014. In English, it translates to Nouri al-Maliki. |
-| 10 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
-| 11 | [وناصر](http://twitter.com/search?q=%d9%88%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 12 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
-| 13 | [ماجد ناصر](http://twitter.com/search?q=%d9%85%d8%a7%d8%ac%d8%af+%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 14 | [التصرفات العقاريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d8%b1%d9%81%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 15 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 16 | [ناصر وكنو](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%88%d9%83%d9%86%d9%88) | N/A |
-| 17 | [رياض بودبوز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a8%d9%88%d8%af%d8%a8%d9%88%d8%b2) | N/A |
-| 18 | [الهلال الليله](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87) | N/A |
-| 19 | [وفلسطين](http://twitter.com/search?q=%d9%88%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
-| 20 | [عايد](http://twitter.com/search?q=%d8%b9%d8%a7%d9%8a%d8%af) | N/A |
-| 21 | [البناء الذاتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a) | N/A |
-| 22 | [نايف كريري](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d9%83%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
-| 23 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 24 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 25 | [ميليسي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | ميليسي (pronounced mee-lee-see) is an Arabic word meaning "happiness" or "joy". It is often used as a greeting or to express joy and happiness. |
-| 26 | [الفريق الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 27 | [صالح سنبل](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%b3%d9%86%d8%a8%d9%84) | N/A |
-| 28 | [نايف الرفيدي](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%a7%d9%84%d8%b1%d9%81%d9%8a%d8%af%d9%8a) | N/A |
-| 29 | [هشام فايق](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | هشام فايق is an Arabic phrase that translates to "Hisham is outstanding" or "Hisham is excellent". It is often used as a compliment or expression of admiration for someone's achievements. |
-| 30 | [العلم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 31 | [جامعة الملك سعود](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 32 | [وزير الطاقه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87) | N/A |
-| 33 | [كييف](http://twitter.com/search?q=%d9%83%d9%8a%d9%8a%d9%81) | N/A |
-| 34 | [الدوله السعوديه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 35 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 36 | [المكتب الاستراتيجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a) | N/A |
-| 37 | [الشوون الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 38 | [علي الهبوط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a8%d9%88%d8%b7) | N/A |
-| 39 | [البطوله الاسيويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d9%87) | N/A |
-| 40 | [المدينة المنورة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d8%a9) | N/A |
-| 41 | [الاداره القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 42 | [النظام الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 43 | [#الهلال_اهلي_دبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%87%d9%84%d9%8a_%d8%af%d8%a8%d9%8a) | N/A |
-| 44 | [#الاهلي_احد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d8%ad%d8%af) | N/A |
-| 45 | [#البزنس76](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b376) | N/A |
-| 46 | [#شعبان](http://twitter.com/search?q=%23%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 47 | [#الدعم_السكني](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%b9%d9%85_%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a) | N/A |
-| 48 | [#زرار_مفقود](http://twitter.com/search?q=%23%d8%b2%d8%b1%d8%a7%d8%b1_%d9%85%d9%81%d9%82%d9%88%d8%af) | N/A |
-| 49 | [#البسامي_الدوليه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b3%d8%a7%d9%85%d9%8a_%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 50 | [#مسلسل_لغز_بابل23](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d9%84%d8%ba%d8%b2_%d8%a8%d8%a7%d8%a8%d9%8423) | N/A |
+| 5 | [ميليسي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | ميليسي (pronounced mee-lee-see) is an Arabic word meaning "happiness" or "joy". It is often used as a greeting or to express joy and happiness. |
+| 6 | [نايف الرفيدي](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%a7%d9%84%d8%b1%d9%81%d9%8a%d8%af%d9%8a) | N/A |
+| 7 | [#مساء__الخير](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1__%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 8 | [#عثمان_الخميس](http://twitter.com/search?q=%23%d8%b9%d8%ab%d9%85%d8%a7%d9%86_%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 9 | [#الهلال_شباب_اهلي_دبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%87%d9%84%d9%8a_%d8%af%d8%a8%d9%8a) | N/A |
+| 10 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
+| 11 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
+| 12 | [راعي المعروف](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%88%d9%81) | راعي المعروف is an Arabic phrase that translates to "uphold the known" or "follow the accepted". It is a proverb that encourages people to follow the accepted norms and values of society. |
+| 13 | [شباب الاهلي](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 14 | [عيسى الحربين](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a%d9%86) | عيسى الحربين is an Arabic phrase meaning "Jesus of the Two Wars". It is a reference to Jesus Christ, who is often referred to as the Prince of Peace. |
+| 15 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
+| 16 | [وسط الهلال](http://twitter.com/search?q=%d9%88%d8%b3%d8%b7+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 17 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
+| 18 | [قول النسر](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d8%a7%d9%84%d9%86%d8%b3%d8%b1) | N/A |
+| 19 | [خليل البلوشي](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%84+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d8%b4%d9%8a) | N/A |
+| 20 | [مصعب الجوير](http://twitter.com/search?q=%d9%85%d8%b5%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d9%88%d9%8a%d8%b1) | N/A |
+| 21 | [قول هلالي](http://twitter.com/search?q=%d9%82%d9%88%d9%84+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 22 | [النسر النيجيري](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b3%d8%b1+%d8%a7%d9%84%d9%86%d9%8a%d8%ac%d9%8a%d8%b1%d9%8a) | N/A |
+| 23 | [البريك](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d9%83) | البريك is an Arabic word that means "blessing". It is used to express a wish for good fortune or success. |
+| 24 | [اليامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%a7%d9%85%d9%8a) | اليامي is an Arabic word that means "the night". |
+| 25 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
+| 26 | [عمر خربين](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1+%d8%ae%d8%b1%d8%a8%d9%8a%d9%86) | N/A |
+| 27 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 28 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 29 | [دور المجموعات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa) | N/A |
+| 30 | [دكتور ماجد](http://twitter.com/search?q=%d8%af%d9%83%d8%aa%d9%88%d8%b1+%d9%85%d8%a7%d8%ac%d8%af) | N/A |
+| 31 | [نبي الثاني](http://twitter.com/search?q=%d9%86%d8%a8%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 32 | [التصرفات العقاريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d8%b1%d9%81%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 33 | [المنطقه الشماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 34 | [جارديم](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b1%d8%af%d9%8a%d9%85) | N/A |
+| 35 | [وفلسطين](http://twitter.com/search?q=%d9%88%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
+| 36 | [الهلال الليله](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87) | N/A |
+| 37 | [ايغالو](http://twitter.com/search?q=%d8%a7%d9%8a%d8%ba%d8%a7%d9%84%d9%88) | N/A |
+| 38 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 39 | [البناء الذاتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a) | N/A |
+| 40 | [الفريق الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 41 | [ريال غير](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d8%ba%d9%8a%d8%b1) | N/A |
+| 42 | [عايد](http://twitter.com/search?q=%d8%b9%d8%a7%d9%8a%d8%af) | N/A |
+| 43 | [كريري](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
+| 44 | [رياض بودبوز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a8%d9%88%d8%af%d8%a8%d9%88%d8%b2) | N/A |
+| 45 | [الدور القادم](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1+%d8%a7%d9%84%d9%82%d8%a7%d8%af%d9%85) | N/A |
+| 46 | [هشام فايق](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | هشام فايق is an Arabic phrase that translates to "Hisham is outstanding" or "Hisham is excellent". It is often used as a compliment or expression of admiration for someone's achievements. |
+| 47 | [جامعة الملك سعود](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 48 | [المكتب الاستراتيجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a) | N/A |
+| 49 | [الحدود الشماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 50 | [العلم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-20 18:17:44 UTC`
+📆 Last Updated: `2023-02-20 19:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DEPREMANI](http://twitter.com/search?q=%23DEPREMANI) | N/A |
-| 2 | [#kozal](http://twitter.com/search?q=%23kozal) | N/A |
-| 3 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
-| 4 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 5 | [#elsed](http://twitter.com/search?q=%23elsed) | N/A |
-| 6 | [Aşkım](http://twitter.com/search?q=A%c5%9fk%c4%b1m) | N/A |
-| 7 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 8 | [Hatay'da 6.4](http://twitter.com/search?q=Hatay%27da+6.4) | N/A |
-| 9 | [Artçı](http://twitter.com/search?q=Art%c3%a7%c4%b1) | Artçı is a Turkish word that means "artisan" or "craftsman". It is used to refer to someone who is skilled in a particular craft or trade. |
-| 10 | [Tsunami](http://twitter.com/search?q=Tsunami) | N/A |
-| 11 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
-| 12 | [Adana'da](http://twitter.com/search?q=Adana%27da) | N/A |
-| 13 | [Hasarlı](http://twitter.com/search?q=Hasarl%c4%b1) | N/A |
-| 14 | [Bitmiyor](http://twitter.com/search?q=Bitmiyor) | N/A |
-| 15 | [Adem Metan](http://twitter.com/search?q=Adem+Metan) | N/A |
-| 16 | [Diyarbakır'da 6](http://twitter.com/search?q=Diyarbak%c4%b1r%27da+6) | N/A |
-| 17 | [Devlet Milletiyle](http://twitter.com/search?q=Devlet+Milletiyle) | N/A |
-| 18 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 19 | [Kayseri](http://twitter.com/search?q=Kayseri) | N/A |
-| 20 | [Naci](http://twitter.com/search?q=Naci) | N/A |
-| 21 | [Antalya](http://twitter.com/search?q=Antalya) | Antalya is a city in southwestern Turkey. It is the capital of Antalya Province and the country's largest international sea resort. In English, Antalya means "city of paradise". |
-| 22 | [Sallandık](http://twitter.com/search?q=Salland%c4%b1k) | N/A |
-| 23 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
-| 24 | [Dr. Belkıs YAŞA](http://twitter.com/search?q=Dr.+Belk%c4%b1s+YA%c5%9eA) | N/A |
-| 25 | [Hepimize](http://twitter.com/search?q=Hepimize) | N/A |
-| 26 | [Hüseyin Cimşit](http://twitter.com/search?q=H%c3%bcseyin+Cim%c5%9fit) | N/A |
-| 27 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
-| 28 | [Susmuş](http://twitter.com/search?q=Susmu%c5%9f) | N/A |
-| 29 | [Kandilli](http://twitter.com/search?q=Kandilli) | N/A |
-| 30 | [Alanya'da](http://twitter.com/search?q=Alanya%27da) | N/A |
-| 31 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
-| 32 | [Konya'dan](http://twitter.com/search?q=Konya%27dan) | N/A |
-| 33 | [MİLLET YARDIMDA KENETLENDİ](http://twitter.com/search?q=M%c4%b0LLET+YARDIMDA+KENETLEND%c4%b0) | N/A |
-| 34 | [Afrika Prensi](http://twitter.com/search?q=Afrika+Prensi) | N/A |
-| 35 | [Bitsin](http://twitter.com/search?q=Bitsin) | N/A |
-| 36 | [Malatya'da 44](http://twitter.com/search?q=Malatya%27da+44) | N/A |
-| 37 | [Bulut](http://twitter.com/search?q=Bulut) | N/A |
-| 38 | [Kalyon](http://twitter.com/search?q=Kalyon) | N/A |
-| 39 | [Samsun'dan](http://twitter.com/search?q=Samsun%27dan) | N/A |
-| 40 | [Mardin](http://twitter.com/search?q=Mardin) | N/A |
-| 41 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
-| 42 | [Tarsus](http://twitter.com/search?q=Tarsus) | N/A |
-| 43 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
-| 44 | [Asgari 1](http://twitter.com/search?q=Asgari+1) | N/A |
-| 45 | [Kıbrıs](http://twitter.com/search?q=K%c4%b1br%c4%b1s) | N/A |
-| 46 | [Azami](http://twitter.com/search?q=Azami) | N/A |
-| 47 | [Fena](http://twitter.com/search?q=Fena) | N/A |
-| 48 | [Batman](http://twitter.com/search?q=Batman) | Batman is a fictional superhero created by Bob Kane and Bill Finger. He first appeared in Detective Comics #27 in 1939. Batman is a vigilante who fights crime and injustice in Gotham City using his physical prowess, detective skills, science and technology, wealth, and intimidation. He is often referred to as the "Caped Crusader" or the "Dark Knight". |
-| 49 | [Psikoloji](http://twitter.com/search?q=Psikoloji) | N/A |
-| 50 | [Baya](http://twitter.com/search?q=Baya) | N/A |
+| 1 | [Ya Rabbim](http://twitter.com/search?q=Ya+Rabbim) | N/A |
+| 2 | [#elsed](http://twitter.com/search?q=%23elsed) | N/A |
+| 3 | [#EREGL](http://twitter.com/search?q=%23EREGL) | N/A |
+| 4 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
+| 5 | [CNN Türk](http://twitter.com/search?q=CNN+T%c3%bcrk) | N/A |
+| 6 | [AFAD'dan](http://twitter.com/search?q=AFAD%27dan) | N/A |
+| 7 | [Bingöl](http://twitter.com/search?q=Bing%c3%b6l) | N/A |
+| 8 | [Hüseyin Cimşit](http://twitter.com/search?q=H%c3%bcseyin+Cim%c5%9fit) | N/A |
+| 9 | [Kıyamet](http://twitter.com/search?q=K%c4%b1yamet) | N/A |
+| 10 | [Mardin](http://twitter.com/search?q=Mardin) | N/A |
+| 11 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
+| 12 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
+| 13 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 14 | [Aşkım](http://twitter.com/search?q=A%c5%9fk%c4%b1m) | N/A |
+| 15 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 16 | [#Hatay](http://twitter.com/search?q=%23Hatay) | #Hatay is a province in southern Turkey, located on the Mediterranean coast. The name Hatay is derived from the ancient Hittite Empire, and it means "the land of the Hittites". In English, Hatay translates to "land of the Hittites". |
+| 17 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 18 | [Artçı](http://twitter.com/search?q=Art%c3%a7%c4%b1) | Artçı is a Turkish word that means "artisan" or "craftsman". It is used to refer to someone who is skilled in a particular craft or trade. |
+| 19 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
+| 20 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
+| 21 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 22 | [Deniz](http://twitter.com/search?q=Deniz) | N/A |
+| 23 | [Refik Eryılmaz](http://twitter.com/search?q=Refik+Ery%c4%b1lmaz) | N/A |
+| 24 | [İskenderun Devlet Hastanesi](http://twitter.com/search?q=%c4%b0skenderun+Devlet+Hastanesi) | N/A |
+| 25 | [Hasarlı](http://twitter.com/search?q=Hasarl%c4%b1) | N/A |
+| 26 | [Adem Metan](http://twitter.com/search?q=Adem+Metan) | N/A |
+| 27 | [Cumhurbaşkanı Yardımcısı Oktay](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Yard%c4%b1mc%c4%b1s%c4%b1+Oktay) | N/A |
+| 28 | [Kandilli](http://twitter.com/search?q=Kandilli) | N/A |
+| 29 | [Kıbrıs](http://twitter.com/search?q=K%c4%b1br%c4%b1s) | N/A |
+| 30 | [Uyarı](http://twitter.com/search?q=Uyar%c4%b1) | N/A |
+| 31 | [Bitmiyor](http://twitter.com/search?q=Bitmiyor) | N/A |
+| 32 | [Hepimize](http://twitter.com/search?q=Hepimize) | N/A |
+| 33 | [Bitsin](http://twitter.com/search?q=Bitsin) | N/A |
+| 34 | [Diyarbakır'da 6](http://twitter.com/search?q=Diyarbak%c4%b1r%27da+6) | N/A |
+| 35 | [Devlet Milletiyle](http://twitter.com/search?q=Devlet+Milletiyle) | N/A |
+| 36 | [Alanya](http://twitter.com/search?q=Alanya) | Alanya is a city and resort on the southern coast of Turkey. It is located in the province of Antalya and is a popular tourist destination. The name Alanya comes from the Arabic word for "peninsula" or "island". In English, it can be translated to mean "Island of the Sun". |
+| 37 | [İmana](http://twitter.com/search?q=%c4%b0mana) | N/A |
+| 38 | [Panik](http://twitter.com/search?q=Panik) | N/A |
+| 39 | [Dikkatli](http://twitter.com/search?q=Dikkatli) | N/A |
+| 40 | [Offff](http://twitter.com/search?q=Offff) | N/A |
+| 41 | [Sallandık](http://twitter.com/search?q=Salland%c4%b1k) | N/A |
+| 42 | [Bulut](http://twitter.com/search?q=Bulut) | N/A |
+| 43 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 44 | [Dr. Belkıs YAŞA](http://twitter.com/search?q=Dr.+Belk%c4%b1s+YA%c5%9eA) | N/A |
+| 45 | [Kayseri](http://twitter.com/search?q=Kayseri) | N/A |
+| 46 | [Konya'dan](http://twitter.com/search?q=Konya%27dan) | N/A |
+| 47 | [Şirin Payzın](http://twitter.com/search?q=%c5%9eirin+Payz%c4%b1n) | N/A |
+| 48 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 49 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 50 | [Malatya'da 44](http://twitter.com/search?q=Malatya%27da+44) | N/A |
 
 
 

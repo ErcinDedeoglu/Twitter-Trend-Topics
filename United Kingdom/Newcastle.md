@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-02-20 18:16:57 UTC`
+📆 Last Updated: `2023-02-20 19:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ScumMedia](http://twitter.com/search?q=%23ScumMedia) | N/A |
-| 2 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
-| 3 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 4 | [Devon](http://twitter.com/search?q=Devon) | N/A |
-| 5 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 1 | [#TippingPoint](http://twitter.com/search?q=%23TippingPoint) | N/A |
+| 2 | [Birmingham City](http://twitter.com/search?q=Birmingham+City) | N/A |
+| 3 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
+| 4 | [Lancashire](http://twitter.com/search?q=Lancashire) | N/A |
+| 5 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
 | 6 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 7 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 8 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 9 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
-| 10 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
-| 11 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 12 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 13 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
-| 14 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 15 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 16 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
-| 17 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
-| 18 | [Bristol De Mai](http://twitter.com/search?q=Bristol+De+Mai) | N/A |
-| 19 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
-| 20 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 21 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 22 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 23 | [National Action](http://twitter.com/search?q=National+Action) | N/A |
-| 24 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 25 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 26 | [Carl](http://twitter.com/search?q=Carl) | N/A |
-| 27 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
-| 28 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 29 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 30 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 31 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 32 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
-| 33 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 34 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 35 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 36 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 37 | [Regan](http://twitter.com/search?q=Regan) | N/A |
-| 38 | [Lee Whitlock](http://twitter.com/search?q=Lee+Whitlock) | N/A |
-| 39 | [Yousaf](http://twitter.com/search?q=Yousaf) | N/A |
-| 40 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 41 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 42 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 43 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 44 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
-| 45 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 46 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 47 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
+| 7 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
+| 8 | [Devon](http://twitter.com/search?q=Devon) | N/A |
+| 9 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 10 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 11 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 12 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
+| 13 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 14 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 15 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
+| 16 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 17 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
+| 18 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 19 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 20 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 21 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 22 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 23 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 24 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 25 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 26 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
+| 27 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 28 | [Bristol De Mai](http://twitter.com/search?q=Bristol+De+Mai) | N/A |
+| 29 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 30 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
+| 31 | [National Action](http://twitter.com/search?q=National+Action) | N/A |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 33 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 34 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
+| 35 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 36 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 37 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 38 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 39 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 40 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
+| 41 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 42 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 43 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 44 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 45 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
+| 46 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
+| 47 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 
 
 

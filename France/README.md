@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-20 18:17:58 UTC`
+📆 Last Updated: `2023-02-20 19:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TFCOM](http://twitter.com/search?q=%23TFCOM) | N/A |
-| 2 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
-| 3 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 4 | [Chap](http://twitter.com/search?q=Chap) | N/A |
-| 5 | [#jungkookzer](http://twitter.com/search?q=%23jungkookzer) | N/A |
-| 6 | [#FreebetWinamax](http://twitter.com/search?q=%23FreebetWinamax) | N/A |
-| 7 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 10 | [DIAMANT DU BLED](http://twitter.com/search?q=DIAMANT+DU+BLED) | N/A |
-| 11 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 12 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 13 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 15 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 16 | [LICRA](http://twitter.com/search?q=LICRA) | N/A |
-| 17 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
-| 18 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 19 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 20 | [Michel Deville](http://twitter.com/search?q=Michel+Deville) | N/A |
-| 21 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 22 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
-| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 24 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 25 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 26 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 27 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 28 | [Booba](http://twitter.com/search?q=Booba) | N/A |
-| 29 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
-| 30 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 31 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 32 | [Chancel](http://twitter.com/search?q=Chancel) | Chancel is a term used in Christian churches to refer to the area around the altar, typically separated from the nave by a screen or rail. It is usually reserved for clergy and choir members during services. The word comes from the Latin cancelli, meaning "lattice" or "enclosure". |
-| 33 | [Balerdi](http://twitter.com/search?q=Balerdi) | N/A |
-| 34 | [Werenoi](http://twitter.com/search?q=Werenoi) | N/A |
-| 35 | [Bénéfice](http://twitter.com/search?q=B%c3%a9n%c3%a9fice) | N/A |
-| 36 | [Turquie](http://twitter.com/search?q=Turquie) | N/A |
-| 37 | [La Zarra](http://twitter.com/search?q=La+Zarra) | La Zarra is a Spanish term that literally translates to "the sieve". It is used to refer to a situation in which someone is trying to find a way out of an uncomfortable or difficult situation. In English, it can be used to describe someone who is trying to wriggle out of an awkward or unpleasant situation. |
-| 38 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 39 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 40 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
-| 41 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 42 | [Solary](http://twitter.com/search?q=Solary) | N/A |
-| 43 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 44 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 45 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 46 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
-| 47 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
-| 48 | [Interstella 5555](http://twitter.com/search?q=Interstella+5555) | N/A |
-| 49 | [Gerets](http://twitter.com/search?q=Gerets) | N/A |
-| 50 | [Berger](http://twitter.com/search?q=Berger) | N/A |
+| 1 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
+| 2 | [#ATEEZFRAinParis_FAQ](http://twitter.com/search?q=%23ATEEZFRAinParis_FAQ) | N/A |
+| 3 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
+| 4 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
+| 5 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 6 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 7 | [Michel Deville](http://twitter.com/search?q=Michel+Deville) | N/A |
+| 8 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 9 | [Chap](http://twitter.com/search?q=Chap) | N/A |
+| 10 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 11 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 12 | [Samy](http://twitter.com/search?q=Samy) | N/A |
+| 13 | [#MicromaniaAtomicHeart](http://twitter.com/search?q=%23MicromaniaAtomicHeart) | N/A |
+| 14 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 15 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 16 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 18 | [#NOASSE](http://twitter.com/search?q=%23NOASSE) | N/A |
+| 19 | [Condoléances](http://twitter.com/search?q=Condol%c3%a9ances) | N/A |
+| 20 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 21 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
+| 22 | [LICRA](http://twitter.com/search?q=LICRA) | N/A |
+| 23 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
+| 24 | [Pensées](http://twitter.com/search?q=Pens%c3%a9es) | N/A |
+| 25 | [Solary](http://twitter.com/search?q=Solary) | N/A |
+| 26 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 27 | [Bahreïn](http://twitter.com/search?q=Bahre%c3%afn) | N/A |
+| 28 | [San Marina](http://twitter.com/search?q=San+Marina) | N/A |
+| 29 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 30 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 31 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 32 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
+| 33 | [Berger](http://twitter.com/search?q=Berger) | N/A |
+| 34 | [Lola](http://twitter.com/search?q=Lola) | N/A |
+| 35 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
+| 36 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 37 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 38 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 39 | [#JO2024](http://twitter.com/search?q=%23JO2024) | N/A |
+| 40 | [#MicromaniaIshin](http://twitter.com/search?q=%23MicromaniaIshin) | N/A |
+| 41 | [#Albator](http://twitter.com/search?q=%23Albator) | N/A |
+| 42 | [#leijimatsumoto](http://twitter.com/search?q=%23leijimatsumoto) | N/A |
 
 
 

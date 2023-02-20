@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-20 18:16:53 UTC`
+📆 Last Updated: `2023-02-20 19:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hatay'da 6.4](http://twitter.com/search?q=Hatay%27da+6.4) | N/A |
-| 2 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 3 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 4 | [#depremoldu](http://twitter.com/search?q=%23depremoldu) | N/A |
-| 5 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 6 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 7 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 8 | [#SONDAKİKA](http://twitter.com/search?q=%23SONDAK%c4%b0KA) | N/A |
-| 9 | [#الهلال_شباب_اهلي_دبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%87%d9%84%d9%8a_%d8%af%d8%a8%d9%8a) | N/A |
-| 10 | [ビッグラン](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%a9%e3%83%b3) | ビッグラン is a Japanese phrase that literally translates to "big run". It is used to describe a situation where someone has achieved a great success or accomplishment. |
-| 11 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 12 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 13 | [Artçı](http://twitter.com/search?q=Art%c3%a7%c4%b1) | Artçı is a Turkish word that means "artisan" or "craftsman". It is used to refer to someone who is skilled in a particular craft or trade. |
-| 14 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 15 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 16 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 17 | [JULIETTE NO BLOCO FORROZIN](http://twitter.com/search?q=JULIETTE+NO+BLOCO+FORROZIN) | N/A |
-| 18 | [Samandağ](http://twitter.com/search?q=Samanda%c4%9f) | N/A |
-| 19 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 20 | [Congratulations Yelisa](http://twitter.com/search?q=Congratulations+Yelisa) | N/A |
-| 21 | [SAFE FLIGHT KANAWUT](http://twitter.com/search?q=SAFE+FLIGHT+KANAWUT) | N/A |
-| 22 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 23 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
-| 24 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 25 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 26 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
-| 27 | [شهر شعبان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 28 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 29 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
-| 30 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
-| 31 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 32 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 33 | [ぼっちちゃん](http://twitter.com/search?q=%e3%81%bc%e3%81%a3%e3%81%a1%e3%81%a1%e3%82%83%e3%82%93) | ぼっちちゃん is a Japanese slang term used to describe someone who is alone or lonely. It can also be used to describe someone who is feeling down or depressed. In English, it could be translated as "lonely person" or "sad person". |
-| 34 | [وفلسطين](http://twitter.com/search?q=%d9%88%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
-| 35 | [マン凸待ち](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e5%87%b8%e5%be%85%e3%81%a1) | N/A |
-| 36 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
-| 37 | [Intolerância](http://twitter.com/search?q=Intoler%c3%a2ncia) | N/A |
-| 38 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
-| 39 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 40 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
-| 41 | [第396回](http://twitter.com/search?q=%e7%ac%ac396%e5%9b%9e) | N/A |
-| 42 | [ガンダムコラボ](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%82%b3%e3%83%a9%e3%83%9c) | ガンダムコラボ (Gundam Collaboration) is a series of collaborations between the popular Japanese anime franchise Gundam and various other companies. These collaborations involve the production of special merchandise, such as apparel, toys, and video games. The purpose of these collaborations is to promote the Gundam franchise and its products. In English, it can be translated as "Gundam Collaboration". |
-| 43 | [PETER OBI HAS MY VOTE](http://twitter.com/search?q=PETER+OBI+HAS+MY+VOTE) | N/A |
-| 44 | [健ちゃん](http://twitter.com/search?q=%e5%81%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 45 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 1 | [#Hatay](http://twitter.com/search?q=%23Hatay) | #Hatay is a province in southern Turkey, located on the Mediterranean coast. The name Hatay is derived from the ancient Hittite Empire, and it means "the land of the Hittites". In English, Hatay translates to "land of the Hittites". |
+| 2 | [#الهلال_شباب_اهلي_دبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%87%d9%84%d9%8a_%d8%af%d8%a8%d9%8a) | N/A |
+| 3 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
+| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 5 | [#DEPREMANI](http://twitter.com/search?q=%23DEPREMANI) | N/A |
+| 6 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 7 | [#depremoldu](http://twitter.com/search?q=%23depremoldu) | N/A |
+| 8 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 9 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
+| 10 | [ناصر](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1) | ناصر is an Arabic name meaning "helper" or "victor". It is also a common given name in the Middle East. |
+| 11 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 13 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 14 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 15 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 16 | [شباب الاهلي](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 17 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 18 | [Artçı](http://twitter.com/search?q=Art%c3%a7%c4%b1) | Artçı is a Turkish word that means "artisan" or "craftsman". It is used to refer to someone who is skilled in a particular craft or trade. |
+| 19 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 20 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 21 | [راعي المعروف](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d9%88%d9%81) | راعي المعروف is an Arabic phrase that translates to "uphold the known" or "follow the accepted". It is a proverb that encourages people to follow the accepted norms and values of society. |
+| 22 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 23 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 24 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
+| 25 | [شهر شعبان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 26 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 27 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 28 | [عيسى الحربين](http://twitter.com/search?q=%d8%b9%d9%8a%d8%b3%d9%89+%d8%a7%d9%84%d8%ad%d8%b1%d8%a8%d9%8a%d9%86) | عيسى الحربين is an Arabic phrase meaning "Jesus of the Two Wars". It is a reference to Jesus Christ, who is often referred to as the Prince of Peace. |
+| 29 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
+| 30 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
+| 31 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 32 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
+| 33 | [ビッグラン](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%a9%e3%83%b3) | ビッグラン is a Japanese phrase that literally translates to "big run". It is used to describe a situation where someone has achieved a great success or accomplishment. |
+| 34 | [عطيف](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%81) | عطيف (pronounced 'aTif) is an Arabic word meaning generous or kind. It is often used to describe someone who is generous with their time, money, or resources. |
+| 35 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
+| 36 | [JULIETTE NO BLOCO FORROZIN](http://twitter.com/search?q=JULIETTE+NO+BLOCO+FORROZIN) | N/A |
+| 37 | [خليفه الدوسري](http://twitter.com/search?q=%d8%ae%d9%84%d9%8a%d9%81%d9%87+%d8%a7%d9%84%d8%af%d9%88%d8%b3%d8%b1%d9%8a) | N/A |
+| 38 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
+| 39 | [الزلزال الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 40 | [ولبنان](http://twitter.com/search?q=%d9%88%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 41 | [Turkey-Syria](http://twitter.com/search?q=Turkey-Syria) | N/A |
+| 42 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
+| 43 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
+| 44 | [وفلسطين](http://twitter.com/search?q=%d9%88%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86) | N/A |
+| 45 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
 | 46 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
-| 47 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
-| 48 | [TEJASSWI GRACING DPIFF2023](http://twitter.com/search?q=TEJASSWI+GRACING+DPIFF2023) | N/A |
-| 49 | [شباب الاهلي](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 50 | [Drugovich](http://twitter.com/search?q=Drugovich) | N/A |
+| 47 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 48 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 49 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 50 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
 
 
 
