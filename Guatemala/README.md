@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-20 08:17:24 UTC`
+📆 Last Updated: `2023-02-20 09:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,10 +25,10 @@ This is top 50 for Guatemala
 | 8 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
 | 9 | [rudy muñoz](http://twitter.com/search?q=rudy+mu%c3%b1oz) | N/A |
 | 10 | [#40GlobalShow387](http://twitter.com/search?q=%2340GlobalShow387) | N/A |
-| 11 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 12 | [marlon puente](http://twitter.com/search?q=marlon+puente) | N/A |
-| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 14 | [Nuevo Amanecer](http://twitter.com/search?q=Nuevo+Amanecer) | N/A |
+| 11 | [marlon puente](http://twitter.com/search?q=marlon+puente) | N/A |
+| 12 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 13 | [nuevo amanecer](http://twitter.com/search?q=nuevo+amanecer) | N/A |
+| 14 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 15 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
 | 16 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
 | 17 | [Massiel](http://twitter.com/search?q=Massiel) | N/A |
@@ -51,12 +51,12 @@ This is top 50 for Guatemala
 | 34 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 35 | [achuapa](http://twitter.com/search?q=achuapa) | N/A |
 | 36 | [gabino vásquez](http://twitter.com/search?q=gabino+v%c3%a1squez) | N/A |
-| 37 | [Quiñónez](http://twitter.com/search?q=Qui%c3%b1%c3%b3nez) | N/A |
+| 37 | [quiñónez](http://twitter.com/search?q=qui%c3%b1%c3%b3nez) | N/A |
 | 38 | [saúl sagastume](http://twitter.com/search?q=sa%c3%bal+sagastume) | N/A |
 | 39 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
 | 40 | [malacateco](http://twitter.com/search?q=malacateco) | N/A |
 | 41 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 42 | [Patricia Sandoval](http://twitter.com/search?q=Patricia+Sandoval) | N/A |
+| 42 | [patricia sandoval](http://twitter.com/search?q=patricia+sandoval) | N/A |
 | 43 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
 | 44 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 45 | [muchá](http://twitter.com/search?q=much%c3%a1) | N/A |

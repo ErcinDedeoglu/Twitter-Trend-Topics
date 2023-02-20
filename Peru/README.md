@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-20 08:17:27 UTC`
+📆 Last Updated: `2023-02-20 09:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,8 +17,8 @@ This is top 50 for Peru
 | ------- | ------------ | ------------ |
 | 1 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
 | 2 | [Compagnucci](http://twitter.com/search?q=Compagnucci) | N/A |
-| 3 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
-| 4 | [Sabbag](http://twitter.com/search?q=Sabbag) | N/A |
+| 3 | [Sabbag](http://twitter.com/search?q=Sabbag) | N/A |
+| 4 | [Urruti](http://twitter.com/search?q=Urruti) | Urruti is a Basque surname. It is derived from the Basque word "urru" which means "wolf". In English, it can be translated to mean "wolf-like". |
 | 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 6 | [Cajamarca](http://twitter.com/search?q=Cajamarca) | N/A |
 | 7 | [Valera](http://twitter.com/search?q=Valera) | N/A |
@@ -27,14 +27,14 @@ This is top 50 for Peru
 | 10 | [Ureña](http://twitter.com/search?q=Ure%c3%b1a) | N/A |
 | 11 | [Arriba Alianza](http://twitter.com/search?q=Arriba+Alianza) | N/A |
 | 12 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 13 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 13 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
 | 14 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 15 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
-| 16 | [Calcaterra](http://twitter.com/search?q=Calcaterra) | N/A |
-| 17 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
-| 18 | [Carvallo](http://twitter.com/search?q=Carvallo) | N/A |
-| 19 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 20 | [felix](http://twitter.com/search?q=felix) | N/A |
+| 15 | [Herrera](http://twitter.com/search?q=Herrera) | Herrera is a Spanish surname derived from the Latin word ferreus, meaning "iron". It is also a common given name in Spanish-speaking countries. In English, Herrera can be translated to mean "ironworker" or "blacksmith". |
+| 16 | [Cabanillas](http://twitter.com/search?q=Cabanillas) | N/A |
+| 17 | [Carvallo](http://twitter.com/search?q=Carvallo) | N/A |
+| 18 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 19 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 20 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 21 | [Berry](http://twitter.com/search?q=Berry) | N/A |
 | 22 | [Reyna](http://twitter.com/search?q=Reyna) | Reyna is a Spanish female name meaning "queen". |
 | 23 | [Succar](http://twitter.com/search?q=Succar) | N/A |
@@ -46,12 +46,12 @@ This is top 50 for Peru
 | 29 | [Saravia](http://twitter.com/search?q=Saravia) | N/A |
 | 30 | [Prohibido](http://twitter.com/search?q=Prohibido) | N/A |
 | 31 | [Bustos](http://twitter.com/search?q=Bustos) | N/A |
-| 32 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
-| 33 | [#cuartopoder](http://twitter.com/search?q=%23cuartopoder) | N/A |
-| 34 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
-| 35 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 36 | [#elclasicoxgolperu](http://twitter.com/search?q=%23elclasicoxgolperu) | N/A |
-| 37 | [Di Benedetto](http://twitter.com/search?q=Di+Benedetto) | N/A |
+| 32 | [#cuartopoder](http://twitter.com/search?q=%23cuartopoder) | N/A |
+| 33 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
+| 34 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 35 | [#elclasicoxgolperu](http://twitter.com/search?q=%23elclasicoxgolperu) | N/A |
+| 36 | [Di Benedetto](http://twitter.com/search?q=Di+Benedetto) | N/A |
+| 37 | [Monumental](http://twitter.com/search?q=Monumental) | N/A |
 | 38 | [Chicho](http://twitter.com/search?q=Chicho) | N/A |
 | 39 | [Pérez Guedes](http://twitter.com/search?q=P%c3%a9rez+Guedes) | N/A |
 | 40 | [Universitario](http://twitter.com/search?q=Universitario) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for Peru
 | 43 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
 | 44 | [Cusco FC](http://twitter.com/search?q=Cusco+FC) | N/A |
 | 45 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 46 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
-| 47 | [Cinemark](http://twitter.com/search?q=Cinemark) | N/A |
-| 48 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 49 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 50 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 46 | [Cinemark](http://twitter.com/search?q=Cinemark) | N/A |
+| 47 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 48 | [Lavandeira](http://twitter.com/search?q=Lavandeira) | N/A |
+| 49 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 50 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
 
 
 

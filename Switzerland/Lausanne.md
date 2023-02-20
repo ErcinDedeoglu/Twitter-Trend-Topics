@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-20 08:16:52 UTC`
+📆 Last Updated: `2023-02-20 09:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,46 +23,46 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 6 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
 | 7 | [#FCBSFC](http://twitter.com/search?q=%23FCBSFC) | N/A |
 | 8 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 9 | [Juso](http://twitter.com/search?q=Juso) | N/A |
-| 10 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
-| 11 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 12 | [scheiben](http://twitter.com/search?q=scheiben) | N/A |
+| 9 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
+| 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 11 | [Juso](http://twitter.com/search?q=Juso) | N/A |
+| 12 | [Scheiben](http://twitter.com/search?q=Scheiben) | N/A |
 | 13 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 14 | [#gcfcz](http://twitter.com/search?q=%23gcfcz) | N/A |
-| 15 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
-| 16 | [bâle](http://twitter.com/search?q=b%c3%a2le) | N/A |
-| 17 | [Kreis](http://twitter.com/search?q=Kreis) | N/A |
-| 18 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 19 | [Honig](http://twitter.com/search?q=Honig) | N/A |
-| 20 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
-| 21 | [Munich](http://twitter.com/search?q=Munich) | N/A |
-| 22 | [Maul](http://twitter.com/search?q=Maul) | N/A |
-| 23 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 24 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
-| 25 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 26 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 27 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 28 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 15 | [Honig](http://twitter.com/search?q=Honig) | N/A |
+| 16 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
+| 17 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 18 | [Kreis](http://twitter.com/search?q=Kreis) | N/A |
+| 19 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 20 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
+| 21 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 22 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
+| 23 | [Munich](http://twitter.com/search?q=Munich) | N/A |
+| 24 | [Maul](http://twitter.com/search?q=Maul) | N/A |
+| 25 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 26 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 28 | [Demo](http://twitter.com/search?q=Demo) | N/A |
 | 29 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
-| 30 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 31 | [Trychler](http://twitter.com/search?q=Trychler) | N/A |
-| 32 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 33 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 30 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 31 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 32 | [Trychler](http://twitter.com/search?q=Trychler) | N/A |
+| 33 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
+| 34 | [Himmel](http://twitter.com/search?q=Himmel) | N/A |
 | 35 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
 | 36 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 | 37 | [Fresse](http://twitter.com/search?q=Fresse) | N/A |
-| 38 | [Journalismus](http://twitter.com/search?q=Journalismus) | N/A |
-| 39 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
-| 40 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 41 | [Unsinn](http://twitter.com/search?q=Unsinn) | N/A |
-| 42 | [Klassen](http://twitter.com/search?q=Klassen) | N/A |
+| 38 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
+| 39 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 40 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 41 | [Klassen](http://twitter.com/search?q=Klassen) | N/A |
+| 42 | [Druck](http://twitter.com/search?q=Druck) | N/A |
 | 43 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
-| 44 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 45 | [aargau](http://twitter.com/search?q=aargau) | N/A |
+| 44 | [Unsinn](http://twitter.com/search?q=Unsinn) | N/A |
+| 45 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 46 | [Schwurbler](http://twitter.com/search?q=Schwurbler) | N/A |
 | 47 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
-| 48 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
+| 48 | [Gegenteil](http://twitter.com/search?q=Gegenteil) | N/A |
 
 
 

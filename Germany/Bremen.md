@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-20 08:16:48 UTC`
+📆 Last Updated: `2023-02-20 09:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
 | 2 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 3 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 4 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 5 | [#bvbbsc](http://twitter.com/search?q=%23bvbbsc) | N/A |
+| 4 | [#bvbbsc](http://twitter.com/search?q=%23bvbbsc) | N/A |
+| 5 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 6 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
-| 7 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 8 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 9 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 10 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 12 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 13 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 14 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
-| 15 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 7 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 8 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 9 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 10 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 11 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 12 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 13 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 14 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 15 | [Helau](http://twitter.com/search?q=Helau) | N/A |
 | 16 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 17 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 17 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
 | 18 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 19 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 20 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 21 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
-| 22 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 23 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
-| 24 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
-| 25 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
-| 26 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 27 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
-| 28 | [Helau](http://twitter.com/search?q=Helau) | N/A |
-| 29 | [Welz](http://twitter.com/search?q=Welz) | N/A |
-| 30 | [Guten Morgen Wölfin](http://twitter.com/search?q=Guten+Morgen+W%c3%b6lfin) | N/A |
-| 31 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
-| 32 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 33 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 19 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 20 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 21 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 22 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
+| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 24 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 25 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 26 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
+| 27 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 28 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
+| 29 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
+| 30 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 31 | [Allie](http://twitter.com/search?q=Allie) | N/A |
+| 32 | [anschlags](http://twitter.com/search?q=anschlags) | N/A |
+| 33 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
 | 34 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 35 | [Allie](http://twitter.com/search?q=Allie) | N/A |
-| 36 | [anschlags](http://twitter.com/search?q=anschlags) | N/A |
-| 37 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 38 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
-| 39 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 40 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [halbfinale](http://twitter.com/search?q=halbfinale) | N/A |
-| 43 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
-| 44 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 45 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
-| 46 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 47 | [Kroatien](http://twitter.com/search?q=Kroatien) | N/A |
-| 48 | [Urlaubstag](http://twitter.com/search?q=Urlaubstag) | N/A |
+| 35 | [halbfinale](http://twitter.com/search?q=halbfinale) | N/A |
+| 36 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
+| 37 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
+| 38 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
+| 39 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 40 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 41 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
+| 42 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 43 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
+| 44 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
+| 45 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 46 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
+| 47 | [Ladendiebin](http://twitter.com/search?q=Ladendiebin) | N/A |
+| 48 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 
 
 

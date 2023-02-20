@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-20 08:17:23 UTC`
+📆 Last Updated: `2023-02-20 09:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,14 +16,14 @@ This is top 50 for Dominican Republic
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 2 | [#CAPCOMCUP](http://twitter.com/search?q=%23CAPCOMCUP) | N/A |
-| 3 | [Cristo Rey](http://twitter.com/search?q=Cristo+Rey) | N/A |
-| 4 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 5 | [Mapache](http://twitter.com/search?q=Mapache) | N/A |
-| 6 | [#JornadaVerdeFP](http://twitter.com/search?q=%23JornadaVerdeFP) | N/A |
-| 7 | [#SeguimosCreciendo](http://twitter.com/search?q=%23SeguimosCreciendo) | N/A |
-| 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 9 | [Cristina Aguiar](http://twitter.com/search?q=Cristina+Aguiar) | N/A |
+| 2 | [Cristo Rey](http://twitter.com/search?q=Cristo+Rey) | N/A |
+| 3 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 4 | [Mapache](http://twitter.com/search?q=Mapache) | N/A |
+| 5 | [#jornadaverdefp](http://twitter.com/search?q=%23jornadaverdefp) | N/A |
+| 6 | [#seguimoscreciendo](http://twitter.com/search?q=%23seguimoscreciendo) | N/A |
+| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 8 | [cristina aguiar](http://twitter.com/search?q=cristina+aguiar) | N/A |
+| 9 | [#afialiatefp](http://twitter.com/search?q=%23afialiatefp) | N/A |
 | 10 | [Monte Grande](http://twitter.com/search?q=Monte+Grande) | N/A |
 | 11 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
 | 12 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for Dominican Republic
 | 23 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
 | 24 | [Rabia](http://twitter.com/search?q=Rabia) | N/A |
 | 25 | [Plaza de la Bandera](http://twitter.com/search?q=Plaza+de+la+Bandera) | N/A |
-| 26 | [El Seibo](http://twitter.com/search?q=El+Seibo) | N/A |
+| 26 | [el seibo](http://twitter.com/search?q=el+seibo) | N/A |
 | 27 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 28 | [Catalina](http://twitter.com/search?q=Catalina) | N/A |
 | 29 | [comité central](http://twitter.com/search?q=comit%c3%a9+central) | N/A |
@@ -48,7 +48,7 @@ This is top 50 for Dominican Republic
 | 31 | [Barahona](http://twitter.com/search?q=Barahona) | N/A |
 | 32 | [felix bautista](http://twitter.com/search?q=felix+bautista) | N/A |
 | 33 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 34 | [Muchacho](http://twitter.com/search?q=Muchacho) | N/A |
+| 34 | [muchacho](http://twitter.com/search?q=muchacho) | N/A |
 | 35 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 36 | [cultura profética](http://twitter.com/search?q=cultura+prof%c3%a9tica) | N/A |
 | 37 | [día nacional del estudiante](http://twitter.com/search?q=d%c3%ada+nacional+del+estudiante) | N/A |

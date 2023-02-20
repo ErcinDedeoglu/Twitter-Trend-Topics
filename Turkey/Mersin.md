@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-02-20 08:17:12 UTC`
+📆 Last Updated: `2023-02-20 09:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
-| 2 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 3 | [#VekillerTBMMye](http://twitter.com/search?q=%23VekillerTBMMye) | N/A |
-| 4 | [Erdal Bakkal](http://twitter.com/search?q=Erdal+Bakkal) | N/A |
-| 5 | [Marmara'da 7,6](http://twitter.com/search?q=Marmara%27da+7%2c6) | N/A |
+| 1 | [#VekillerTBMMne](http://twitter.com/search?q=%23VekillerTBMMne) | N/A |
+| 2 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
+| 3 | [BenBernada TutukluKaldım](http://twitter.com/search?q=BenBernada+TutukluKald%c4%b1m) | N/A |
+| 4 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 5 | [Erdal Bakkal](http://twitter.com/search?q=Erdal+Bakkal) | N/A |
 | 6 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 7 | [Ege Üniversitesi](http://twitter.com/search?q=Ege+%c3%9cniversitesi) | N/A |
-| 8 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 9 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
+| 7 | [Marmara'da 7,6](http://twitter.com/search?q=Marmara%27da+7%2c6) | N/A |
+| 8 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
+| 9 | [Ege Üniversitesi](http://twitter.com/search?q=Ege+%c3%9cniversitesi) | N/A |
 | 10 | [Çavuşoğlu](http://twitter.com/search?q=%c3%87avu%c5%9fo%c4%9flu) | N/A |
-| 11 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 12 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 13 | [Ülkücü Şehidimiz](http://twitter.com/search?q=%c3%9clk%c3%bcc%c3%bc+%c5%9eehidimiz) | N/A |
-| 14 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
-| 15 | [Bakan Akar'dan](http://twitter.com/search?q=Bakan+Akar%27dan) | N/A |
-| 16 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 17 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 11 | [Murat Boz](http://twitter.com/search?q=Murat+Boz) | N/A |
+| 12 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 13 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 14 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 15 | [Ülkücü Şehidimiz](http://twitter.com/search?q=%c3%9clk%c3%bcc%c3%bc+%c5%9eehidimiz) | N/A |
+| 16 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 17 | [Bakan Akar'dan](http://twitter.com/search?q=Bakan+Akar%27dan) | N/A |
 | 18 | [PKK'lı](http://twitter.com/search?q=PKK%27l%c4%b1) | N/A |
-| 19 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 20 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
-| 21 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 22 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 23 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
-| 24 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 25 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
-| 26 | [#NotAlıyorum](http://twitter.com/search?q=%23NotAl%c4%b1yorum) | N/A |
-| 27 | [#HesapVereceksiniz](http://twitter.com/search?q=%23HesapVereceksiniz) | N/A |
-| 28 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
-| 29 | [#hacettepe](http://twitter.com/search?q=%23hacettepe) | N/A |
-| 30 | [#StajyerCalısıyor](http://twitter.com/search?q=%23StajyerCal%c4%b1s%c4%b1yor) | N/A |
-| 31 | [#Elazığ](http://twitter.com/search?q=%23Elaz%c4%b1%c4%9f) | N/A |
-| 32 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
-| 33 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
-| 34 | [#BundanSonra](http://twitter.com/search?q=%23BundanSonra) | N/A |
-| 35 | [#TOASO](http://twitter.com/search?q=%23TOASO) | N/A |
-| 36 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
-| 37 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
-| 38 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
-| 39 | [#ÖmerHalisdemir](http://twitter.com/search?q=%23%c3%96merHalisdemir) | N/A |
-| 40 | [#MeclisGörevininBasına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBas%c4%b1na) | N/A |
-| 41 | [#cemre](http://twitter.com/search?q=%23cemre) | N/A |
-| 42 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
-| 43 | [#isdmr](http://twitter.com/search?q=%23isdmr) | N/A |
-| 44 | [#tcell](http://twitter.com/search?q=%23tcell) | N/A |
-| 45 | [#ttkom](http://twitter.com/search?q=%23ttkom) | N/A |
-| 46 | [#Batman](http://twitter.com/search?q=%23Batman) | N/A |
-| 47 | [#palu](http://twitter.com/search?q=%23palu) | N/A |
-| 48 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
+| 19 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 20 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 21 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 22 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 23 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 24 | [Ruhun](http://twitter.com/search?q=Ruhun) | N/A |
+| 25 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
+| 26 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 27 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
+| 28 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 29 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
+| 30 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
+| 31 | [#HesapVereceksiniz](http://twitter.com/search?q=%23HesapVereceksiniz) | N/A |
+| 32 | [#cemre](http://twitter.com/search?q=%23cemre) | N/A |
+| 33 | [#mügeanlı](http://twitter.com/search?q=%23m%c3%bcgeanl%c4%b1) | #Mügeanlı is a Turkish hashtag that translates to "with Müge." It is used to show support for the Turkish actress Müge Boz, who is known for her roles in popular television series. |
+| 34 | [#NotAlıyorum](http://twitter.com/search?q=%23NotAl%c4%b1yorum) | N/A |
+| 35 | [#StajyerCalısıyor](http://twitter.com/search?q=%23StajyerCal%c4%b1s%c4%b1yor) | N/A |
+| 36 | [#elazig](http://twitter.com/search?q=%23elazig) | N/A |
+| 37 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
+| 38 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
+| 39 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 40 | [#hacettepe](http://twitter.com/search?q=%23hacettepe) | N/A |
+| 41 | [#BundanSonra](http://twitter.com/search?q=%23BundanSonra) | N/A |
+| 42 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
+| 43 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
+| 44 | [#ÖmerHalisdemir](http://twitter.com/search?q=%23%c3%96merHalisdemir) | N/A |
+| 45 | [#TOASO](http://twitter.com/search?q=%23TOASO) | N/A |
+| 46 | [#isdmr](http://twitter.com/search?q=%23isdmr) | N/A |
+| 47 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
+| 48 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
 
 
 

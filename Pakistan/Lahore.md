@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-02-20 08:17:09 UTC`
+📆 Last Updated: `2023-02-20 09:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Pakistan](</Pakistan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#COMSATS](http://twitter.com/search?q=%23COMSATS) | N/A |
-| 2 | [#الٹی_میٹم72گھنٹوں_کا](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%b9%db%8c_%d9%85%db%8c%d9%b9%d9%8572%da%af%da%be%d9%86%d9%b9%d9%88%da%ba_%da%a9%d8%a7) | N/A |
+| 2 | [#لاہور_ہائیکورٹ_پہنچیں](http://twitter.com/search?q=%23%d9%84%d8%a7%db%81%d9%88%d8%b1_%db%81%d8%a7%d8%a6%db%8c%da%a9%d9%88%d8%b1%d9%b9_%d9%be%db%81%d9%86%da%86%db%8c%da%ba) | N/A |
 | 3 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 4 | [#مظاہر_نقوی_استعفی_دو](http://twitter.com/search?q=%23%d9%85%d8%b8%d8%a7%db%81%d8%b1_%d9%86%d9%82%d9%88%db%8c_%d8%a7%d8%b3%d8%aa%d8%b9%d9%81%db%8c_%d8%af%d9%88) | N/A |
+| 4 | [#الٹی_میٹم72گھنٹوں_کا](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%b9%db%8c_%d9%85%db%8c%d9%b9%d9%8572%da%af%da%be%d9%86%d9%b9%d9%88%da%ba_%da%a9%d8%a7) | N/A |
 | 5 | [#KKvLQ](http://twitter.com/search?q=%23KKvLQ) | N/A |
-| 6 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 7 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 6 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 7 | [shaheen vs wade](http://twitter.com/search?q=shaheen+vs+wade) | N/A |
 | 8 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
 | 9 | [Kamran Ghulam](http://twitter.com/search?q=Kamran+Ghulam) | N/A |
-| 10 | [Frying](http://twitter.com/search?q=Frying) | N/A |
-| 11 | [abbas afridi](http://twitter.com/search?q=abbas+afridi) | N/A |
+| 10 | [abbas afridi](http://twitter.com/search?q=abbas+afridi) | N/A |
+| 11 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
 | 12 | [Martin Guptill](http://twitter.com/search?q=Martin+Guptill) | N/A |
-| 13 | [Torkham](http://twitter.com/search?q=Torkham) | N/A |
-| 14 | [killer miller](http://twitter.com/search?q=killer+miller) | N/A |
-| 15 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 16 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 17 | [baig](http://twitter.com/search?q=baig) | N/A |
-| 18 | [Teacher](http://twitter.com/search?q=Teacher) | N/A |
-| 19 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 20 | [usama mir](http://twitter.com/search?q=usama+mir) | N/A |
-| 21 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 22 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
-| 23 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 24 | [abrar ahmed](http://twitter.com/search?q=abrar+ahmed) | N/A |
-| 25 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
-| 26 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 27 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
-| 28 | [Ben Cutting](http://twitter.com/search?q=Ben+Cutting) | N/A |
-| 29 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 30 | [shai hope](http://twitter.com/search?q=shai+hope) | N/A |
-| 31 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 32 | [Aqib Javed](http://twitter.com/search?q=Aqib+Javed) | N/A |
-| 33 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 34 | [BMWs](http://twitter.com/search?q=BMWs) | N/A |
-| 35 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
-| 36 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 37 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 38 | [28th Rajab](http://twitter.com/search?q=28th+Rajab) | N/A |
-| 39 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 40 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
-| 41 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 42 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 43 | [Shoaib](http://twitter.com/search?q=Shoaib) | N/A |
-| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 45 | [felix](http://twitter.com/search?q=felix) | N/A |
-| 46 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
-| 47 | [President](http://twitter.com/search?q=President) | N/A |
-| 48 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
-| 49 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 50 | [Saad](http://twitter.com/search?q=Saad) | N/A |
+| 13 | [killer miller](http://twitter.com/search?q=killer+miller) | N/A |
+| 14 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 15 | [baig](http://twitter.com/search?q=baig) | N/A |
+| 16 | [usama mir](http://twitter.com/search?q=usama+mir) | N/A |
+| 17 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 18 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 19 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 20 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 21 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 22 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
+| 23 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
+| 24 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 25 | [Ben Cutting](http://twitter.com/search?q=Ben+Cutting) | N/A |
+| 26 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 27 | [Frying](http://twitter.com/search?q=Frying) | N/A |
+| 28 | [Torkham](http://twitter.com/search?q=Torkham) | N/A |
+| 29 | [shai hope](http://twitter.com/search?q=shai+hope) | N/A |
+| 30 | [Aqib Javed](http://twitter.com/search?q=Aqib+Javed) | N/A |
+| 31 | [abrar](http://twitter.com/search?q=abrar) | N/A |
+| 32 | [28 Rajab](http://twitter.com/search?q=28+Rajab) | N/A |
+| 33 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
+| 34 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 35 | [BMWs](http://twitter.com/search?q=BMWs) | N/A |
+| 36 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 37 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 38 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 39 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
+| 40 | [Professor](http://twitter.com/search?q=Professor) | N/A |
+| 41 | [Shameless](http://twitter.com/search?q=Shameless) | N/A |
+| 42 | [Bright](http://twitter.com/search?q=Bright) | N/A |
+| 43 | [Kashmiri](http://twitter.com/search?q=Kashmiri) | N/A |
+| 44 | [West](http://twitter.com/search?q=West) | N/A |
+| 45 | [Khair](http://twitter.com/search?q=Khair) | N/A |
+| 46 | [Rawalpindi](http://twitter.com/search?q=Rawalpindi) | N/A |
+| 47 | [Geo Entertainment](http://twitter.com/search?q=Geo+Entertainment) | N/A |
+| 48 | [Judge](http://twitter.com/search?q=Judge) | N/A |
+| 49 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 50 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
 
 
 

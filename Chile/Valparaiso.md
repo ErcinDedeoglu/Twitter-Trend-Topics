@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-20 08:16:41 UTC`
+📆 Last Updated: `2023-02-20 09:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,35 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 2 | [Paloma Mami](http://twitter.com/search?q=Paloma+Mami) | N/A |
+| 1 | [#Viña2023](http://twitter.com/search?q=%23Vi%c3%b1a2023) | N/A |
+| 2 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 3 | [Pamela Leiva](http://twitter.com/search?q=Pamela+Leiva) | N/A |
-| 4 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 5 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 7 | [Leandro Martínez](http://twitter.com/search?q=Leandro+Mart%c3%adnez) | N/A |
-| 8 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
-| 9 | [Fabricio](http://twitter.com/search?q=Fabricio) | N/A |
-| 10 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
-| 11 | [Palomita](http://twitter.com/search?q=Palomita) | N/A |
-| 12 | [Polimá](http://twitter.com/search?q=Polim%c3%a1) | N/A |
-| 13 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
-| 14 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
-| 15 | [Juan Gabriel](http://twitter.com/search?q=Juan+Gabriel) | N/A |
-| 16 | [Cris MJ](http://twitter.com/search?q=Cris+MJ) | N/A |
-| 17 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 18 | [Buenísima](http://twitter.com/search?q=Buen%c3%adsima) | N/A |
-| 19 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
-| 20 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
-| 21 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 22 | [Canta](http://twitter.com/search?q=Canta) | N/A |
-| 23 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
-| 24 | [emilia](http://twitter.com/search?q=emilia) | N/A |
-| 25 | [Myriam](http://twitter.com/search?q=Myriam) | N/A |
-| 26 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 27 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 28 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 29 | [Jeyson Rojas](http://twitter.com/search?q=Jeyson+Rojas) | N/A |
+| 4 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
+| 5 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 6 | [Cris MJ](http://twitter.com/search?q=Cris+MJ) | N/A |
+| 7 | [#VamosColoColo](http://twitter.com/search?q=%23VamosColoColo) | #VamosColoColo is a hashtag used by fans of the Chilean soccer team Club Social y Deportivo Colo-Colo. It translates to "Let's go Colo-Colo" in English, and is used to show support for the team. |
+| 8 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
+| 9 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
+| 10 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 11 | [#ohivsuchxtntsports](http://twitter.com/search?q=%23ohivsuchxtntsports) | N/A |
+| 12 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 13 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
+| 14 | [Myriam](http://twitter.com/search?q=Myriam) | N/A |
+| 15 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
+| 16 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
+| 17 | [bolados](http://twitter.com/search?q=bolados) | N/A |
+| 18 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 19 | [Fabricio](http://twitter.com/search?q=Fabricio) | N/A |
+| 20 | [Leandro Martínez](http://twitter.com/search?q=Leandro+Mart%c3%adnez) | N/A |
+| 21 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
+| 22 | [Tusa](http://twitter.com/search?q=Tusa) | N/A |
+| 23 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
+| 24 | [Enrique Iglesias](http://twitter.com/search?q=Enrique+Iglesias) | N/A |
+| 25 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 26 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
+| 27 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
+| 28 | [provenza](http://twitter.com/search?q=provenza) | N/A |
+| 29 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 30 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 31 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 32 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
+| 33 | [Benegas](http://twitter.com/search?q=Benegas) | Benegas is a Spanish surname. It is derived from the Latin word "bene" meaning "good" and the suffix "-gas" which is a patronymic ending. In English, it can be translated to mean "son of good". |
+| 34 | [cortés](http://twitter.com/search?q=cort%c3%a9s) | N/A |
+| 35 | [donoso](http://twitter.com/search?q=donoso) | N/A |
+| 36 | [Palomita](http://twitter.com/search?q=Palomita) | N/A |
+| 37 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 38 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
+| 39 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 40 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
+| 41 | [Nicki Minaj](http://twitter.com/search?q=Nicki+Minaj) | N/A |
+| 42 | [Lezcano](http://twitter.com/search?q=Lezcano) | N/A |
+| 43 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 44 | [O'Higgins](http://twitter.com/search?q=O%27Higgins) | N/A |
+| 45 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 46 | [Polima](http://twitter.com/search?q=Polima) | N/A |
+| 47 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 48 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 49 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 50 | [María Luisa](http://twitter.com/search?q=Mar%c3%ada+Luisa) | N/A |
 
 
 

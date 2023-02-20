@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-20 08:16:55 UTC`
+📆 Last Updated: `2023-02-20 09:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nyata Mending Prabowo](http://twitter.com/search?q=Nyata+Mending+Prabowo) | N/A |
-| 2 | [Lihat Di Dekade 08](http://twitter.com/search?q=Lihat+Di+Dekade+08) | N/A |
-| 3 | [Prabowo Kerja Terbaik](http://twitter.com/search?q=Prabowo+Kerja+Terbaik) | N/A |
-| 4 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 5 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
-| 6 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 7 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 8 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
-| 9 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 1 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
+| 2 | [Nyata Mending Prabowo](http://twitter.com/search?q=Nyata+Mending+Prabowo) | N/A |
+| 3 | [Lihat Di Dekade 08](http://twitter.com/search?q=Lihat+Di+Dekade+08) | N/A |
+| 4 | [Prabowo Kerja Terbaik](http://twitter.com/search?q=Prabowo+Kerja+Terbaik) | N/A |
+| 5 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
+| 6 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 7 | [#THEBOYZ_ROAR](http://twitter.com/search?q=%23THEBOYZ_ROAR) | N/A |
+| 8 | [#SMCUEp3_GirlsTeaser](http://twitter.com/search?q=%23SMCUEp3_GirlsTeaser) | N/A |
+| 9 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
 | 10 | [200MP Nightograpy Camera](http://twitter.com/search?q=200MP+Nightograpy+Camera) | N/A |
-| 11 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 12 | [baju kembaran](http://twitter.com/search?q=baju+kembaran) | N/A |
-| 13 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 14 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
-| 15 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 16 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 17 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 18 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 19 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 20 | [Integritasnya](http://twitter.com/search?q=Integritasnya) | N/A |
+| 11 | [Solo of NCT](http://twitter.com/search?q=Solo+of+NCT) | N/A |
+| 12 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 13 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 14 | [Pagar](http://twitter.com/search?q=Pagar) | N/A |
+| 15 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 16 | [Ferdy](http://twitter.com/search?q=Ferdy) | N/A |
+| 17 | [Sepatu](http://twitter.com/search?q=Sepatu) | N/A |
+| 18 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 19 | [SEO CHANGBIN](http://twitter.com/search?q=SEO+CHANGBIN) | N/A |
+| 20 | [Tercantik](http://twitter.com/search?q=Tercantik) | N/A |
 | 21 | [JINNY CONCEPT PHOTO](http://twitter.com/search?q=JINNY+CONCEPT+PHOTO) | N/A |
-| 22 | [Solo of NCT](http://twitter.com/search?q=Solo+of+NCT) | N/A |
-| 23 | [bss grandslam congratulations](http://twitter.com/search?q=bss+grandslam+congratulations) | N/A |
-| 24 | [Pagar](http://twitter.com/search?q=Pagar) | N/A |
-| 25 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 27 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 28 | [Ferdy](http://twitter.com/search?q=Ferdy) | N/A |
-| 29 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
-| 30 | [orang islam cinta ilmu](http://twitter.com/search?q=orang+islam+cinta+ilmu) | N/A |
-| 31 | [Wang Tao Zi](http://twitter.com/search?q=Wang+Tao+Zi) | N/A |
-| 32 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
-| 33 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 34 | [SEO CHANGBIN](http://twitter.com/search?q=SEO+CHANGBIN) | N/A |
-| 35 | [YOONGI RED HAIR](http://twitter.com/search?q=YOONGI+RED+HAIR) | N/A |
-| 36 | [Tercantik](http://twitter.com/search?q=Tercantik) | N/A |
-| 37 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 38 | [Siang](http://twitter.com/search?q=Siang) | N/A |
-| 39 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
-| 40 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 41 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 42 | [TOLO](http://twitter.com/search?q=TOLO) | N/A |
-| 43 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 44 | [900M FOR SUGA](http://twitter.com/search?q=900M+FOR+SUGA) | N/A |
-| 45 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
-| 46 | [nct dream kyocera dome day3](http://twitter.com/search?q=nct+dream+kyocera+dome+day3) | N/A |
-| 47 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 48 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
+| 22 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 23 | [Nyaman](http://twitter.com/search?q=Nyaman) | N/A |
+| 24 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 25 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 26 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 27 | [YOONGI RED HAIR](http://twitter.com/search?q=YOONGI+RED+HAIR) | N/A |
+| 28 | [Amerika Serikat](http://twitter.com/search?q=Amerika+Serikat) | N/A |
+| 29 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 30 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 31 | [Seminggu](http://twitter.com/search?q=Seminggu) | N/A |
+| 32 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
+| 33 | [Wang Tao Zi](http://twitter.com/search?q=Wang+Tao+Zi) | N/A |
+| 34 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
+| 35 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 36 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
+| 37 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 38 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
+| 39 | [#bilikdosa](http://twitter.com/search?q=%23bilikdosa) | N/A |
+| 40 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 41 | [#KitaSATUIndonesia](http://twitter.com/search?q=%23KitaSATUIndonesia) | N/A |
+| 42 | [#66TahunAstra](http://twitter.com/search?q=%2366TahunAstra) | N/A |
+| 43 | [#SECRET_NUMBER](http://twitter.com/search?q=%23SECRET_NUMBER) | N/A |
+| 44 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
+| 45 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 46 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 47 | [#SECRETNUMBERJAPANDEBUT](http://twitter.com/search?q=%23SECRETNUMBERJAPANDEBUT) | N/A |
 
 
 
