@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-02-20 13:21:11 UTC`
+📆 Last Updated: `2023-02-20 14:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [LeBron](http://twitter.com/search?q=LeBron) | N/A |
-| 2 | [Team Giannis](http://twitter.com/search?q=Team+Giannis) | N/A |
-| 3 | [All-Star](http://twitter.com/search?q=All-Star) | All-Star is an adjective used to describe someone or something that is considered to be the best of the best. It is often used to refer to athletes, celebrities, or other people who have achieved a high level of success in their field. It can also be used to describe products or services that are considered to be the best in their category. |
-| 4 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 5 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
-| 6 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 7 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
-| 8 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 9 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 10 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 11 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 12 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 13 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 14 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 15 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 16 | [#nationalloveyourpetday](http://twitter.com/search?q=%23nationalloveyourpetday) | N/A |
-| 17 | [Zelenskyy](http://twitter.com/search?q=Zelenskyy) | N/A |
-| 18 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 19 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
-| 20 | [10% for the Big Guy](http://twitter.com/search?q=10%25+for+the+Big+Guy) | N/A |
-| 21 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
-| 22 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
-| 23 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 24 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 25 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 2 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 3 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 7 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 8 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
+| 9 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 10 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 11 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 12 | [America Last](http://twitter.com/search?q=America+Last) | N/A |
+| 13 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
+| 14 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
+| 15 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 16 | [10% for the Big Guy](http://twitter.com/search?q=10%25+for+the+Big+Guy) | N/A |
+| 17 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 18 | [Washington's Birthday](http://twitter.com/search?q=Washington%27s+Birthday) | N/A |
+| 19 | [Picking](http://twitter.com/search?q=Picking) | N/A |
+| 20 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 21 | [Release the J6](http://twitter.com/search?q=Release+the+J6) | N/A |
+| 22 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 23 | [Americans in Ohio](http://twitter.com/search?q=Americans+in+Ohio) | N/A |
+| 24 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 25 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
 | 26 | [Collecting](http://twitter.com/search?q=Collecting) | N/A |
-| 27 | [american president](http://twitter.com/search?q=american+president) | N/A |
-| 28 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 29 | [Washington's Birthday](http://twitter.com/search?q=Washington%27s+Birthday) | N/A |
-| 30 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 31 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 32 | [Release the J6](http://twitter.com/search?q=Release+the+J6) | N/A |
+| 27 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 28 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 29 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 30 | [Helsinki](http://twitter.com/search?q=Helsinki) | N/A |
+| 31 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 32 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
 | 33 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
-| 34 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
-| 35 | [Roger Ailes](http://twitter.com/search?q=Roger+Ailes) | N/A |
-| 36 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
-| 37 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 38 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 34 | [Love & Thunder](http://twitter.com/search?q=Love+%26+Thunder) | N/A |
+| 35 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
+| 36 | [Flintstones](http://twitter.com/search?q=Flintstones) | N/A |
+| 37 | [Roger Ailes](http://twitter.com/search?q=Roger+Ailes) | N/A |
+| 38 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
 | 39 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
-| 40 | [Street Fighter](http://twitter.com/search?q=Street+Fighter) | N/A |
-| 41 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 42 | [Jayson Tatum](http://twitter.com/search?q=Jayson+Tatum) | Jayson Tatum is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). He was selected third overall in the 2017 NBA draft. He is known for his athleticism, shooting ability, and defensive prowess. |
-| 43 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
-| 44 | [Love & Thunder](http://twitter.com/search?q=Love+%26+Thunder) | N/A |
-| 45 | [US President](http://twitter.com/search?q=US+President) | N/A |
-| 46 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 47 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 48 | [Capcom](http://twitter.com/search?q=Capcom) | N/A |
-| 49 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
+| 40 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
+| 41 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 42 | [Bacchus](http://twitter.com/search?q=Bacchus) | N/A |
+| 43 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 44 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 45 | [New Moon](http://twitter.com/search?q=New+Moon) | N/A |
+| 46 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
+| 47 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 48 | [Street Fighter](http://twitter.com/search?q=Street+Fighter) | N/A |
+| 49 | [Capcom Cup](http://twitter.com/search?q=Capcom+Cup) | N/A |
+| 50 | [Episode 6](http://twitter.com/search?q=Episode+6) | N/A |
 
 
 

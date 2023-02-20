@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-02-20 13:20:41 UTC`
+📆 Last Updated: `2023-02-20 14:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 2 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
-| 3 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
-| 4 | [#bvbbsc](http://twitter.com/search?q=%23bvbbsc) | N/A |
+| 3 | [#BVBBSC](http://twitter.com/search?q=%23BVBBSC) | N/A |
+| 4 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
 | 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 6 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
 | 7 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 9 | [#saytheirnames](http://twitter.com/search?q=%23saytheirnames) | N/A |
-| 10 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 11 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 12 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 13 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 14 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 15 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 16 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 17 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 18 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 19 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 9 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 10 | [#360Grad](http://twitter.com/search?q=%23360Grad) | N/A |
+| 11 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 12 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 13 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 14 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 15 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 17 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 18 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 19 | [kommunismus](http://twitter.com/search?q=kommunismus) | N/A |
 | 20 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
-| 21 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 22 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 23 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
-| 24 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 25 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 26 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 27 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
-| 28 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 29 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 30 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
-| 31 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 32 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 33 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
-| 34 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 35 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 36 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
-| 37 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 38 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
-| 39 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 40 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 41 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 42 | [gedenken](http://twitter.com/search?q=gedenken) | N/A |
-| 43 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 44 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
-| 45 | [botschafterin](http://twitter.com/search?q=botschafterin) | N/A |
-| 46 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
-| 47 | [Streubomben](http://twitter.com/search?q=Streubomben) | N/A |
-| 48 | [Schusswaffe](http://twitter.com/search?q=Schusswaffe) | N/A |
-| 49 | [Schussabgabe](http://twitter.com/search?q=Schussabgabe) | N/A |
-| 50 | [Breitscheidplatz](http://twitter.com/search?q=Breitscheidplatz) | N/A |
+| 21 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 22 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 23 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 24 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 25 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 26 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
+| 27 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 28 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
+| 29 | [Lörrach](http://twitter.com/search?q=L%c3%b6rrach) | N/A |
+| 30 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 31 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 32 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 33 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 34 | [Täter](http://twitter.com/search?q=T%c3%a4ter) | N/A |
+| 35 | [rassismusproblem](http://twitter.com/search?q=rassismusproblem) | N/A |
+| 36 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 37 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 38 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 39 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 40 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
+| 41 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
+| 42 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
+| 43 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
+| 44 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 45 | [schussabgabe](http://twitter.com/search?q=schussabgabe) | N/A |
+| 46 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
+| 47 | [Katja](http://twitter.com/search?q=Katja) | N/A |
+| 48 | [Breitscheidplatz](http://twitter.com/search?q=Breitscheidplatz) | N/A |
+| 49 | [Schusswaffe](http://twitter.com/search?q=Schusswaffe) | N/A |
+| 50 | [Ladendiebin](http://twitter.com/search?q=Ladendiebin) | N/A |
 
 
 

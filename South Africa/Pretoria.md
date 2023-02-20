@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pretoria
 
-📆 Last Updated: `2023-02-20 13:20:55 UTC`
+📆 Last Updated: `2023-02-20 14:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [South Africa](</South Africa>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GirlTaken](http://twitter.com/search?q=%23GirlTaken) | N/A |
-| 2 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
-| 3 | [#ChampionBeer](http://twitter.com/search?q=%23ChampionBeer) | N/A |
+| 1 | [Stage 6](http://twitter.com/search?q=Stage+6) | Stage 6 is a term used in the English language to refer to the final stage of something. It is typically used to describe the last step in a process or journey, such as the completion of a project or the end of a school year. It can also be used to refer to the last stage of an illness or disease, such as terminal cancer. |
+| 2 | [#ChampionBeer](http://twitter.com/search?q=%23ChampionBeer) | N/A |
+| 3 | [#MadeExceptionalMadeHere](http://twitter.com/search?q=%23MadeExceptionalMadeHere) | N/A |
 | 4 | [Zwane](http://twitter.com/search?q=Zwane) | Zwane is a South African surname derived from the Zulu word for "king". It is also used as a given name. In English, it can be translated to mean "king". |
 | 5 | [#OwnYourCrown](http://twitter.com/search?q=%23OwnYourCrown) | N/A |
-| 6 | [#siyavannasa](http://twitter.com/search?q=%23siyavannasa) | N/A |
-| 7 | [#SavannaAlcFree](http://twitter.com/search?q=%23SavannaAlcFree) | N/A |
-| 8 | [Kaizer Chiefs](http://twitter.com/search?q=Kaizer+Chiefs) | Kaizer Chiefs is a South African professional football club based in Johannesburg. The club was founded in 1970 and is one of the most successful teams in the country, having won the Premier Soccer League title a record eight times. The name Kaizer Chiefs is derived from the late South African president, Kaizer Matanzima, who was a strong supporter of the team. |
-| 9 | [arrows](http://twitter.com/search?q=arrows) | N/A |
-| 10 | [Route B](http://twitter.com/search?q=Route+B) | N/A |
-| 11 | [Schalk](http://twitter.com/search?q=Schalk) | N/A |
-| 12 | [Mangethe](http://twitter.com/search?q=Mangethe) | N/A |
-| 13 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
+| 6 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 7 | [Kaizer Chiefs](http://twitter.com/search?q=Kaizer+Chiefs) | Kaizer Chiefs is a South African professional football club based in Johannesburg. The club was founded in 1970 and is one of the most successful teams in the country, having won the Premier Soccer League title a record eight times. The name Kaizer Chiefs is derived from the late South African president, Kaizer Matanzima, who was a strong supporter of the team. |
+| 8 | [Arrows](http://twitter.com/search?q=Arrows) | N/A |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [BACKSTREET BOYS](http://twitter.com/search?q=BACKSTREET+BOYS) | N/A |
+| 11 | [Mangethe](http://twitter.com/search?q=Mangethe) | N/A |
+| 12 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
+| 13 | [Nota](http://twitter.com/search?q=Nota) | N/A |
 | 14 | [JUICY JAY OUR MCM](http://twitter.com/search?q=JUICY+JAY+OUR+MCM) | N/A |
-| 15 | [mpho hart](http://twitter.com/search?q=mpho+hart) | N/A |
-| 16 | [WE LOVE JUICY JAY](http://twitter.com/search?q=WE+LOVE+JUICY+JAY) | N/A |
+| 15 | [WE LOVE JUICY JAY](http://twitter.com/search?q=WE+LOVE+JUICY+JAY) | N/A |
+| 16 | [Durban](http://twitter.com/search?q=Durban) | N/A |
 | 17 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 18 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 19 | [Block 2](http://twitter.com/search?q=Block+2) | N/A |
-| 20 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 18 | [Block 2](http://twitter.com/search?q=Block+2) | N/A |
+| 19 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
+| 20 | [Mpho Hart](http://twitter.com/search?q=Mpho+Hart) | N/A |
 | 21 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 22 | [Saile](http://twitter.com/search?q=Saile) | N/A |
-| 23 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 24 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 25 | [Karabo](http://twitter.com/search?q=Karabo) | N/A |
-| 26 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 27 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 28 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
+| 22 | [karabo](http://twitter.com/search?q=karabo) | N/A |
+| 23 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
+| 24 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 25 | [siyacela](http://twitter.com/search?q=siyacela) | N/A |
+| 26 | [Route B](http://twitter.com/search?q=Route+B) | N/A |
+| 27 | [DJ Sbu](http://twitter.com/search?q=DJ+Sbu) | N/A |
+| 28 | [Dube](http://twitter.com/search?q=Dube) | N/A |
 | 29 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 30 | [Durban](http://twitter.com/search?q=Durban) | N/A |
-| 31 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
-| 32 | [Andile Mpisane](http://twitter.com/search?q=Andile+Mpisane) | N/A |
-| 33 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 34 | [ngezana](http://twitter.com/search?q=ngezana) | N/A |
-| 35 | [juicy and olivia](http://twitter.com/search?q=juicy+and+olivia) | N/A |
-| 36 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 37 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
-| 38 | [Nange](http://twitter.com/search?q=Nange) | N/A |
+| 30 | [Khosi](http://twitter.com/search?q=Khosi) | Khosi is a Zulu word meaning "king" or "ruler". It is often used as a title of respect for a leader or elder. |
+| 31 | [Andile Mpisane](http://twitter.com/search?q=Andile+Mpisane) | N/A |
+| 32 | [Saile](http://twitter.com/search?q=Saile) | N/A |
+| 33 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 34 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
+| 35 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 36 | [Orlando Pirates](http://twitter.com/search?q=Orlando+Pirates) | N/A |
+| 37 | [ngezana](http://twitter.com/search?q=ngezana) | N/A |
+| 38 | [Juicy and Olivia](http://twitter.com/search?q=Juicy+and+Olivia) | N/A |
 | 39 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
-| 40 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 41 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 42 | [ntsako makhubela](http://twitter.com/search?q=ntsako+makhubela) | N/A |
-| 43 | [Maart](http://twitter.com/search?q=Maart) | N/A |
-| 44 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 45 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
-| 46 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 47 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 48 | [Shabalala](http://twitter.com/search?q=Shabalala) | N/A |
-| 49 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 40 | [Maart](http://twitter.com/search?q=Maart) | N/A |
+| 41 | [KEEPING UP WITH THABANG](http://twitter.com/search?q=KEEPING+UP+WITH+THABANG) | N/A |
+| 42 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 43 | [Nange](http://twitter.com/search?q=Nange) | N/A |
+| 44 | [ntsako makhubela](http://twitter.com/search?q=ntsako+makhubela) | N/A |
+| 45 | [Thando](http://twitter.com/search?q=Thando) | Thando is a South African name that means "love" in Zulu. It is also used as a unisex name in other African countries. |
+| 46 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 47 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 
 
 

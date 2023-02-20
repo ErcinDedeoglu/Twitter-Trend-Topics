@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-20 13:21:16 UTC`
+📆 Last Updated: `2023-02-20 14:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for Israel
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [של טלי גוטליב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%98%d7%9c%d7%99+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
-| 2 | [שבוע טוב](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%98%d7%95%d7%91) | שבוע טוב is a Hebrew phrase meaning "have a good week". It is often used as a greeting or farewell. |
-| 3 | [עם צרכים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a6%d7%a8%d7%9b%d7%99%d7%9d) | N/A |
-| 4 | [של גוטליב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
-| 5 | [כ גוטליב](http://twitter.com/search?q=%d7%9b+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
-| 6 | [של אלקין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%a7%d7%99%d7%9f) | N/A |
-| 7 | [של ח](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97) | N/A |
-| 8 | [סופר קלאס](http://twitter.com/search?q=%d7%a1%d7%95%d7%a4%d7%a8+%d7%a7%d7%9c%d7%90%d7%a1) | N/A |
-| 9 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
-| 10 | [יאיר נתניהו](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 11 | [יום חג](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%97%d7%92) | N/A |
-| 12 | [של סילמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%99%d7%9c%d7%9e%d7%9f) | N/A |
-| 13 | [קו אדום](http://twitter.com/search?q=%d7%a7%d7%95+%d7%90%d7%93%d7%95%d7%9d) | N/A |
-| 14 | [דובי גל](http://twitter.com/search?q=%d7%93%d7%95%d7%91%d7%99+%d7%92%d7%9c) | N/A |
-| 15 | [של ילדה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%9c%d7%93%d7%94) | N/A |
-| 16 | [בראש צוות](http://twitter.com/search?q=%d7%91%d7%a8%d7%90%d7%a9+%d7%a6%d7%95%d7%95%d7%aa) | N/A |
-| 17 | [אפס אמפתיה](http://twitter.com/search?q=%d7%90%d7%a4%d7%a1+%d7%90%d7%9e%d7%a4%d7%aa%d7%99%d7%94) | N/A |
-| 18 | [רביב דרוקר](http://twitter.com/search?q=%d7%a8%d7%91%d7%99%d7%91+%d7%93%d7%a8%d7%95%d7%a7%d7%a8) | N/A |
-| 19 | [יאיר לפיד](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
-| 20 | [דגל ישראל](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 21 | [הכנסת גוטליב](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
+| 2 | [עם צרכים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a6%d7%a8%d7%9b%d7%99%d7%9d) | N/A |
+| 3 | [של גוטליב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
+| 4 | [טלי גוטליב](http://twitter.com/search?q=%d7%98%d7%9c%d7%99+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
+| 5 | [של אלקין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%a7%d7%99%d7%9f) | N/A |
+| 6 | [כ גוטליב](http://twitter.com/search?q=%d7%9b+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
+| 7 | [סופר קלאס](http://twitter.com/search?q=%d7%a1%d7%95%d7%a4%d7%a8+%d7%a7%d7%9c%d7%90%d7%a1) | N/A |
+| 8 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
+| 9 | [יום חג](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%97%d7%92) | N/A |
+| 10 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
+| 11 | [של סילמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%99%d7%9c%d7%9e%d7%9f) | N/A |
+| 12 | [קו אדום](http://twitter.com/search?q=%d7%a7%d7%95+%d7%90%d7%93%d7%95%d7%9d) | N/A |
+| 13 | [בראש צוות](http://twitter.com/search?q=%d7%91%d7%a8%d7%90%d7%a9+%d7%a6%d7%95%d7%95%d7%aa) | N/A |
+| 14 | [אפס אמפתיה](http://twitter.com/search?q=%d7%90%d7%a4%d7%a1+%d7%90%d7%9e%d7%a4%d7%aa%d7%99%d7%94) | N/A |
+| 15 | [דובי גל](http://twitter.com/search?q=%d7%93%d7%95%d7%91%d7%99+%d7%92%d7%9c) | N/A |
+| 16 | [יאיר לפיד](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
+| 17 | [נגד ראש הממשלה](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 18 | [של ילדה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%9c%d7%93%d7%94) | N/A |
+| 19 | [הכנסת גוטליב](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
+| 20 | [בנק ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 21 | [לה ילדה](http://twitter.com/search?q=%d7%9c%d7%94+%d7%99%d7%9c%d7%93%d7%94) | N/A |
 | 22 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
-| 23 | [לה ילדה](http://twitter.com/search?q=%d7%9c%d7%94+%d7%99%d7%9c%d7%93%d7%94) | N/A |
-| 24 | [נגד ראש הממשלה](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 25 | [כ שמחה רוטמן](http://twitter.com/search?q=%d7%9b+%d7%a9%d7%9e%d7%97%d7%94+%d7%a8%d7%95%d7%98%d7%9e%d7%9f) | N/A |
-| 26 | [יום שחור](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a9%d7%97%d7%95%d7%a8) | N/A |
-| 27 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
-| 28 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
-| 29 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 30 | [גונן בן יצחק](http://twitter.com/search?q=%d7%92%d7%95%d7%a0%d7%9f+%d7%91%d7%9f+%d7%99%d7%a6%d7%97%d7%a7) | N/A |
-| 31 | [יעל דיין](http://twitter.com/search?q=%d7%99%d7%a2%d7%9c+%d7%93%d7%99%d7%99%d7%9f) | N/A |
-| 32 | [מעבר ל](http://twitter.com/search?q=%d7%9e%d7%a2%d7%91%d7%a8+%d7%9c) | N/A |
-| 33 | [רמי בן יהודה](http://twitter.com/search?q=%d7%a8%d7%9e%d7%99+%d7%91%d7%9f+%d7%99%d7%94%d7%95%d7%93%d7%94) | N/A |
+| 23 | [שום משמעות](http://twitter.com/search?q=%d7%a9%d7%95%d7%9d+%d7%9e%d7%a9%d7%9e%d7%a2%d7%95%d7%aa) | N/A |
+| 24 | [מול הכנסת](http://twitter.com/search?q=%d7%9e%d7%95%d7%9c+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 25 | [יאיר נתניהו](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
+| 26 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
+| 27 | [כ שמחה רוטמן](http://twitter.com/search?q=%d7%9b+%d7%a9%d7%9e%d7%97%d7%94+%d7%a8%d7%95%d7%98%d7%9e%d7%9f) | N/A |
+| 28 | [יום שחור](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a9%d7%97%d7%95%d7%a8) | N/A |
+| 29 | [רביב דרוקר](http://twitter.com/search?q=%d7%a8%d7%91%d7%99%d7%91+%d7%93%d7%a8%d7%95%d7%a7%d7%a8) | N/A |
+| 30 | [רמי בן יהודה](http://twitter.com/search?q=%d7%a8%d7%9e%d7%99+%d7%91%d7%9f+%d7%99%d7%94%d7%95%d7%93%d7%94) | N/A |
+| 31 | [ברוך דיין](http://twitter.com/search?q=%d7%91%d7%a8%d7%95%d7%9a+%d7%93%d7%99%d7%99%d7%9f) | N/A |
+| 32 | [גונן בן יצחק](http://twitter.com/search?q=%d7%92%d7%95%d7%a0%d7%9f+%d7%91%d7%9f+%d7%99%d7%a6%d7%97%d7%a7) | N/A |
+| 33 | [מעבר ל](http://twitter.com/search?q=%d7%9e%d7%a2%d7%91%d7%a8+%d7%9c) | N/A |
 | 34 | [ילד אוטיסט](http://twitter.com/search?q=%d7%99%d7%9c%d7%93+%d7%90%d7%95%d7%98%d7%99%d7%a1%d7%98) | N/A |
-| 35 | [שום משמעות](http://twitter.com/search?q=%d7%a9%d7%95%d7%9d+%d7%9e%d7%a9%d7%9e%d7%a2%d7%95%d7%aa) | N/A |
+| 35 | [ערוץ הכנסת](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
 | 36 | [לפיד גינה](http://twitter.com/search?q=%d7%9c%d7%a4%d7%99%d7%93+%d7%92%d7%99%d7%a0%d7%94) | N/A |
-| 37 | [ברוך דיין](http://twitter.com/search?q=%d7%91%d7%a8%d7%95%d7%9a+%d7%93%d7%99%d7%99%d7%9f) | N/A |
+| 37 | [חופש התנועה](http://twitter.com/search?q=%d7%97%d7%95%d7%a4%d7%a9+%d7%94%d7%aa%d7%a0%d7%95%d7%a2%d7%94) | N/A |
 | 38 | [ילדה בת](http://twitter.com/search?q=%d7%99%d7%9c%d7%93%d7%94+%d7%91%d7%aa) | N/A |
-| 39 | [חופש התנועה](http://twitter.com/search?q=%d7%97%d7%95%d7%a4%d7%a9+%d7%94%d7%aa%d7%a0%d7%95%d7%a2%d7%94) | N/A |
-| 40 | [ערוץ הכנסת](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
-| 41 | [צומת עזריאלי](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%a2%d7%96%d7%a8%d7%99%d7%90%d7%9c%d7%99) | N/A |
-| 42 | [יעל אלקנה](http://twitter.com/search?q=%d7%99%d7%a2%d7%9c+%d7%90%d7%9c%d7%a7%d7%a0%d7%94) | N/A |
-| 43 | [עלי מוגרבי](http://twitter.com/search?q=%d7%a2%d7%9c%d7%99+%d7%9e%d7%95%d7%92%d7%a8%d7%91%d7%99) | N/A |
-| 44 | [אלי ציפורי](http://twitter.com/search?q=%d7%90%d7%9c%d7%99+%d7%a6%d7%99%d7%a4%d7%95%d7%a8%d7%99) | N/A |
-| 45 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
-| 46 | [חיות טרף](http://twitter.com/search?q=%d7%97%d7%99%d7%95%d7%aa+%d7%98%d7%a8%d7%a3) | N/A |
-| 47 | [רונן צור](http://twitter.com/search?q=%d7%a8%d7%95%d7%a0%d7%9f+%d7%a6%d7%95%d7%a8) | N/A |
-| 48 | [של יואב קיש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%95%d7%90%d7%91+%d7%a7%d7%99%d7%a9) | N/A |
-| 49 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 39 | [צומת עזריאלי](http://twitter.com/search?q=%d7%a6%d7%95%d7%9e%d7%aa+%d7%a2%d7%96%d7%a8%d7%99%d7%90%d7%9c%d7%99) | N/A |
+| 40 | [חיות טרף](http://twitter.com/search?q=%d7%97%d7%99%d7%95%d7%aa+%d7%98%d7%a8%d7%a3) | N/A |
+| 41 | [עלי מוגרבי](http://twitter.com/search?q=%d7%a2%d7%9c%d7%99+%d7%9e%d7%95%d7%92%d7%a8%d7%91%d7%99) | N/A |
+| 42 | [אלי ציפורי](http://twitter.com/search?q=%d7%90%d7%9c%d7%99+%d7%a6%d7%99%d7%a4%d7%95%d7%a8%d7%99) | N/A |
+| 43 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
+| 44 | [רונן צור](http://twitter.com/search?q=%d7%a8%d7%95%d7%a0%d7%9f+%d7%a6%d7%95%d7%a8) | N/A |
+| 45 | [של יואב קיש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%95%d7%90%d7%91+%d7%a7%d7%99%d7%a9) | N/A |
+| 46 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 47 | [יעל דיין](http://twitter.com/search?q=%d7%99%d7%a2%d7%9c+%d7%93%d7%99%d7%99%d7%9f) | N/A |
+| 48 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 49 | [שבוע טוב](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%98%d7%95%d7%91) | שבוע טוב is a Hebrew phrase meaning "have a good week". It is often used as a greeting or farewell. |
 | 50 | [אמא שלה](http://twitter.com/search?q=%d7%90%d7%9e%d7%90+%d7%a9%d7%9c%d7%94) | N/A |
 
 

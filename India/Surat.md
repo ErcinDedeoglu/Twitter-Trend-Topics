@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surat
 
-📆 Last Updated: `2023-02-20 13:21:02 UTC`
+📆 Last Updated: `2023-02-20 14:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JaaduiPitara](http://twitter.com/search?q=%23JaaduiPitara) | N/A |
-| 2 | [#IncredibleAwardsonStar](http://twitter.com/search?q=%23IncredibleAwardsonStar) | N/A |
-| 3 | [#बाल_विवाह_मुक्त_भारत](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%be%e0%a4%b2_%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b9_%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4_%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 4 | [#SuperSarvottamwait](http://twitter.com/search?q=%23SuperSarvottamwait) | N/A |
-| 5 | [Modiji Bring Ariha](http://twitter.com/search?q=Modiji+Bring+Ariha) | N/A |
+| 1 | [#37yearsOfShivannaInKFI](http://twitter.com/search?q=%2337yearsOfShivannaInKFI) | N/A |
+| 2 | [#JaaduiPitara](http://twitter.com/search?q=%23JaaduiPitara) | N/A |
+| 3 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
+| 4 | [#बाल_विवाह_मुक्त_भारत](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%be%e0%a4%b2_%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b9_%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4_%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 5 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
 | 6 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
 | 7 | [प्रकाश कोहली](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
-| 8 | [उपेंद्र कुशवाहा](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%95%e0%a5%81%e0%a4%b6%e0%a4%b5%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
-| 9 | [राष्ट्रीय लोक जनता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
-| 10 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
-| 11 | [ABVP](http://twitter.com/search?q=ABVP) | N/A |
-| 12 | [अमेरिकी राष्ट्रपति](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 13 | [संजीव चड्ढा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5+%e0%a4%9a%e0%a4%a1%e0%a5%8d%e0%a4%a2%e0%a4%be) | N/A |
+| 8 | [Foundational Stage](http://twitter.com/search?q=Foundational+Stage) | N/A |
+| 9 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 10 | [Learning-Teaching](http://twitter.com/search?q=Learning-Teaching) | N/A |
+| 11 | [Harmanpreet Kaur](http://twitter.com/search?q=Harmanpreet+Kaur) | N/A |
+| 12 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
+| 13 | [उपेंद्र कुशवाहा](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%95%e0%a5%81%e0%a4%b6%e0%a4%b5%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
 | 14 | [Bank of Baroda](http://twitter.com/search?q=Bank+of+Baroda) | N/A |
-| 15 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 16 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
-| 17 | [अखिल भारतीय कांग्रेस कमेटी](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
-| 18 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 20 | [Malinga](http://twitter.com/search?q=Malinga) | N/A |
-| 21 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 22 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
-| 23 | [विधान परिषद](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
-| 24 | [Whats Stopping CBI InSushantCs](http://twitter.com/search?q=Whats+Stopping+CBI+InSushantCs) | N/A |
-| 25 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
-| 26 | [भूपेश बघेल](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%ac%e0%a4%98%e0%a5%87%e0%a4%b2) | N/A |
-| 27 | [विधान सभा](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ad%e0%a4%be) | N/A |
-| 28 | [Chhattisgarh](http://twitter.com/search?q=Chhattisgarh) | N/A |
-| 29 | [#BhairadeviMovie](http://twitter.com/search?q=%23BhairadeviMovie) | N/A |
-| 30 | [#JayantSinhaAtIVCA2023](http://twitter.com/search?q=%23JayantSinhaAtIVCA2023) | N/A |
-| 31 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 32 | [#JoeBiden](http://twitter.com/search?q=%23JoeBiden) | N/A |
-| 33 | [#NazarLagJayegiSongOutNow](http://twitter.com/search?q=%23NazarLagJayegiSongOutNow) | N/A |
-| 34 | [#BringArihaBack](http://twitter.com/search?q=%23BringArihaBack) | N/A |
-| 35 | [#askSonuSood](http://twitter.com/search?q=%23askSonuSood) | N/A |
-| 36 | [#askkangana](http://twitter.com/search?q=%23askkangana) | N/A |
-| 37 | [#MPLiquorPolicy](http://twitter.com/search?q=%23MPLiquorPolicy) | N/A |
-| 38 | [#INDvIRE](http://twitter.com/search?q=%23INDvIRE) | N/A |
-| 39 | [#Kyiv](http://twitter.com/search?q=%23Kyiv) | N/A |
-| 40 | [#ChumbakHaiBhai](http://twitter.com/search?q=%23ChumbakHaiBhai) | N/A |
-| 41 | [#UpendraKushwaha](http://twitter.com/search?q=%23UpendraKushwaha) | N/A |
-| 42 | [#NEP2020](http://twitter.com/search?q=%23NEP2020) | N/A |
-| 43 | [#UkraineWar](http://twitter.com/search?q=%23UkraineWar) | N/A |
-| 44 | [#HealthTips](http://twitter.com/search?q=%23HealthTips) | N/A |
-| 45 | [#I_support_devendra_yadav](http://twitter.com/search?q=%23I_support_devendra_yadav) | N/A |
+| 15 | [राष्ट्रीय लोक जनता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
+| 16 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
+| 17 | [ABVP](http://twitter.com/search?q=ABVP) | N/A |
+| 18 | [संजीव चड्ढा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5+%e0%a4%9a%e0%a4%a1%e0%a5%8d%e0%a4%a2%e0%a4%be) | N/A |
+| 19 | [Operation Dost](http://twitter.com/search?q=Operation+Dost) | N/A |
+| 20 | [अमेरिकी राष्ट्रपति](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
+| 21 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
+| 22 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
+| 23 | [Jaishankar](http://twitter.com/search?q=Jaishankar) | N/A |
+| 24 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 25 | [अखिल भारतीय कांग्रेस कमेटी](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
+| 26 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 27 | [Malinga](http://twitter.com/search?q=Malinga) | N/A |
+| 28 | [भूपेश बघेल](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%ac%e0%a4%98%e0%a5%87%e0%a4%b2) | N/A |
+| 29 | [विधान परिषद](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
+| 30 | [Whats Stopping CBI InSushantCs](http://twitter.com/search?q=Whats+Stopping+CBI+InSushantCs) | N/A |
+| 31 | [#incredibleawardsonstar](http://twitter.com/search?q=%23incredibleawardsonstar) | N/A |
+| 32 | [#INDvIRE](http://twitter.com/search?q=%23INDvIRE) | N/A |
+| 33 | [#IamJSPActiveMember](http://twitter.com/search?q=%23IamJSPActiveMember) | N/A |
+| 34 | [#supersarvottamwait](http://twitter.com/search?q=%23supersarvottamwait) | N/A |
+| 35 | [#inspirationalday](http://twitter.com/search?q=%23inspirationalday) | N/A |
+| 36 | [#KingAppuBirthdaycountdown](http://twitter.com/search?q=%23KingAppuBirthdaycountdown) | N/A |
+| 37 | [#HealthTips](http://twitter.com/search?q=%23HealthTips) | N/A |
+| 38 | [#JoeBiden](http://twitter.com/search?q=%23JoeBiden) | N/A |
+| 39 | [#NEP2020](http://twitter.com/search?q=%23NEP2020) | N/A |
+| 40 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 41 | [#NazarLagJayegiSongOutNow](http://twitter.com/search?q=%23NazarLagJayegiSongOutNow) | N/A |
+| 42 | [#Kyiv](http://twitter.com/search?q=%23Kyiv) | N/A |
+| 43 | [#JayantSinhaAtIVCA2023](http://twitter.com/search?q=%23JayantSinhaAtIVCA2023) | N/A |
+| 44 | [#DrPuneethRajkumar](http://twitter.com/search?q=%23DrPuneethRajkumar) | N/A |
+| 45 | [#askSonuSood](http://twitter.com/search?q=%23askSonuSood) | N/A |
 | 46 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 47 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
-| 48 | [#ThankUShivraj](http://twitter.com/search?q=%23ThankUShivraj) | N/A |
-| 49 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 47 | [#I_support_devendra_yadav](http://twitter.com/search?q=%23I_support_devendra_yadav) | N/A |
+| 48 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
+| 49 | [#UkraineWar](http://twitter.com/search?q=%23UkraineWar) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-02-20 13:21:10 UTC`
+📆 Last Updated: `2023-02-20 14:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 2 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 3 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 4 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 5 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 7 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 8 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 9 | [#nationalloveyourpetday](http://twitter.com/search?q=%23nationalloveyourpetday) | N/A |
-| 10 | [Zelenskyy](http://twitter.com/search?q=Zelenskyy) | N/A |
-| 11 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 12 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
-| 13 | [10% for the Big Guy](http://twitter.com/search?q=10%25+for+the+Big+Guy) | N/A |
-| 14 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
-| 15 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
-| 16 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 17 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 18 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 19 | [Collecting](http://twitter.com/search?q=Collecting) | N/A |
-| 20 | [american president](http://twitter.com/search?q=american+president) | N/A |
-| 21 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 22 | [Washington's Birthday](http://twitter.com/search?q=Washington%27s+Birthday) | N/A |
-| 23 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 24 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 25 | [Release the J6](http://twitter.com/search?q=Release+the+J6) | N/A |
-| 26 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
-| 27 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
-| 28 | [Roger Ailes](http://twitter.com/search?q=Roger+Ailes) | N/A |
-| 29 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
-| 30 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 31 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 32 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
-| 33 | [Street Fighter](http://twitter.com/search?q=Street+Fighter) | N/A |
-| 34 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 35 | [Jayson Tatum](http://twitter.com/search?q=Jayson+Tatum) | Jayson Tatum is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). He was selected third overall in the 2017 NBA draft. He is known for his athleticism, shooting ability, and defensive prowess. |
-| 36 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
-| 37 | [Love & Thunder](http://twitter.com/search?q=Love+%26+Thunder) | N/A |
-| 38 | [US President](http://twitter.com/search?q=US+President) | N/A |
-| 39 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 40 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 41 | [Capcom](http://twitter.com/search?q=Capcom) | N/A |
-| 42 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
-| 43 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 44 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 45 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 46 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 47 | [olivia rodrigo](http://twitter.com/search?q=olivia+rodrigo) | N/A |
-| 48 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 49 | [Episode 6](http://twitter.com/search?q=Episode+6) | N/A |
+| 2 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 3 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 7 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 8 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
+| 9 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 10 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 11 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 12 | [America Last](http://twitter.com/search?q=America+Last) | N/A |
+| 13 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
+| 14 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
+| 15 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 16 | [10% for the Big Guy](http://twitter.com/search?q=10%25+for+the+Big+Guy) | N/A |
+| 17 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 18 | [Washington's Birthday](http://twitter.com/search?q=Washington%27s+Birthday) | N/A |
+| 19 | [Picking](http://twitter.com/search?q=Picking) | N/A |
+| 20 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 21 | [Release the J6](http://twitter.com/search?q=Release+the+J6) | N/A |
+| 22 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 23 | [Americans in Ohio](http://twitter.com/search?q=Americans+in+Ohio) | N/A |
+| 24 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 25 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
+| 26 | [Collecting](http://twitter.com/search?q=Collecting) | N/A |
+| 27 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 28 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 29 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 30 | [Helsinki](http://twitter.com/search?q=Helsinki) | N/A |
+| 31 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 32 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 33 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
+| 34 | [Love & Thunder](http://twitter.com/search?q=Love+%26+Thunder) | N/A |
+| 35 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
+| 36 | [Flintstones](http://twitter.com/search?q=Flintstones) | N/A |
+| 37 | [Roger Ailes](http://twitter.com/search?q=Roger+Ailes) | N/A |
+| 38 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 39 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
+| 40 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
+| 41 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 42 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 43 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 44 | [New Moon](http://twitter.com/search?q=New+Moon) | N/A |
+| 45 | [Bacchus](http://twitter.com/search?q=Bacchus) | N/A |
+| 46 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
+| 47 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 48 | [Street Fighter](http://twitter.com/search?q=Street+Fighter) | N/A |
+| 49 | [Capcom Cup](http://twitter.com/search?q=Capcom+Cup) | N/A |
 
 
 

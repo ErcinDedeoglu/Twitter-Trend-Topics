@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kano
 
-📆 Last Updated: `2023-02-20 13:20:54 UTC`
+📆 Last Updated: `2023-02-20 14:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,51 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RIPDUKE](http://twitter.com/search?q=%23RIPDUKE) | N/A |
+| 1 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
 | 2 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 4 | [#atikuiswinning](http://twitter.com/search?q=%23atikuiswinning) | N/A |
-| 5 | [#itelA60](http://twitter.com/search?q=%23itelA60) | N/A |
-| 6 | [Sagamu](http://twitter.com/search?q=Sagamu) | N/A |
+| 3 | [#RIPDUKE](http://twitter.com/search?q=%23RIPDUKE) | N/A |
+| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 5 | [Where is Osimhen](http://twitter.com/search?q=Where+is+Osimhen) | N/A |
+| 6 | [ICONIC PHYNA](http://twitter.com/search?q=ICONIC+PHYNA) | N/A |
 | 7 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 8 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 9 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
-| 10 | [ICONIC PHYNA](http://twitter.com/search?q=ICONIC+PHYNA) | N/A |
-| 11 | [Piercings - No](http://twitter.com/search?q=Piercings+-+No) | N/A |
-| 12 | [Akin Alabi](http://twitter.com/search?q=Akin+Alabi) | N/A |
-| 13 | [Ogun State](http://twitter.com/search?q=Ogun+State) | N/A |
-| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 15 | [Iroh](http://twitter.com/search?q=Iroh) | N/A |
-| 16 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
-| 17 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 18 | [Ozai](http://twitter.com/search?q=Ozai) | N/A |
-| 19 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
+| 8 | [Sagamu](http://twitter.com/search?q=Sagamu) | N/A |
+| 9 | [Gabrielle Union](http://twitter.com/search?q=Gabrielle+Union) | Gabrielle Union is an American actress, activist, and author. She is best known for her roles in films such as Bring It On, Bad Boys II, and Think Like a Man. The name Gabrielle Union is derived from the Hebrew name Gabriel, which means "God is my strength". |
+| 10 | [#Atikuiswinning](http://twitter.com/search?q=%23Atikuiswinning) | N/A |
+| 11 | [Ogun State](http://twitter.com/search?q=Ogun+State) | N/A |
+| 12 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 13 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 14 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
+| 15 | [Akin Alabi](http://twitter.com/search?q=Akin+Alabi) | N/A |
+| 16 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 18 | [Iroh](http://twitter.com/search?q=Iroh) | N/A |
+| 19 | [Piercings - No](http://twitter.com/search?q=Piercings+-+No) | N/A |
 | 20 | [Pastors](http://twitter.com/search?q=Pastors) | N/A |
-| 21 | [POLAF](http://twitter.com/search?q=POLAF) | N/A |
-| 22 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 23 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
+| 21 | [Dapo Abiodun](http://twitter.com/search?q=Dapo+Abiodun) | N/A |
+| 22 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
+| 23 | [Ghanaian](http://twitter.com/search?q=Ghanaian) | N/A |
 | 24 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
-| 25 | [Vote Labour Party](http://twitter.com/search?q=Vote+Labour+Party) | N/A |
-| 26 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
-| 27 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 28 | [Mandy](http://twitter.com/search?q=Mandy) | N/A |
-| 29 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
-| 30 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 25 | [POLAF](http://twitter.com/search?q=POLAF) | N/A |
+| 26 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
+| 27 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 28 | [Ozai](http://twitter.com/search?q=Ozai) | N/A |
+| 29 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 30 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
 | 31 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
-| 32 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 33 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 34 | [#StockMarket](http://twitter.com/search?q=%23StockMarket) | N/A |
-| 35 | [#VoteLP2023](http://twitter.com/search?q=%23VoteLP2023) | N/A |
-| 36 | [#Elections2023](http://twitter.com/search?q=%23Elections2023) | N/A |
-| 37 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
-| 38 | [#CrashCourseInRomance](http://twitter.com/search?q=%23CrashCourseInRomance) | N/A |
-| 39 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 40 | [#jagabanarmy](http://twitter.com/search?q=%23jagabanarmy) | N/A |
-| 41 | [#8YearsOfAPC](http://twitter.com/search?q=%238YearsOfAPC) | N/A |
-| 42 | [#ObiDattiGlobalMegaRally](http://twitter.com/search?q=%23ObiDattiGlobalMegaRally) | N/A |
-| 43 | [#VoteWisely](http://twitter.com/search?q=%23VoteWisely) | N/A |
-| 44 | [#SafeChoice](http://twitter.com/search?q=%23SafeChoice) | N/A |
+| 32 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 33 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
+| 34 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
+| 35 | [Mandy](http://twitter.com/search?q=Mandy) | N/A |
+| 36 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 37 | [#itelA60](http://twitter.com/search?q=%23itelA60) | N/A |
+| 38 | [#VoteLP2023](http://twitter.com/search?q=%23VoteLP2023) | N/A |
+| 39 | [#StockMarket](http://twitter.com/search?q=%23StockMarket) | N/A |
+| 40 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
+| 41 | [#jagabanarmy](http://twitter.com/search?q=%23jagabanarmy) | N/A |
+| 42 | [#Elections2023](http://twitter.com/search?q=%23Elections2023) | N/A |
+| 43 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 44 | [#8YearsOfAPC](http://twitter.com/search?q=%238YearsOfAPC) | N/A |
+| 45 | [#ObiDattiGlobalMegaRally](http://twitter.com/search?q=%23ObiDattiGlobalMegaRally) | N/A |
 
 
 

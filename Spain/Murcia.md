@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-02-20 13:20:43 UTC`
+📆 Last Updated: `2023-02-20 14:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,49 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LoDeOlona](http://twitter.com/search?q=%23LoDeOlona) | N/A |
-| 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 3 | [#BizumEnMiravia](http://twitter.com/search?q=%23BizumEnMiravia) | N/A |
-| 4 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 5 | [#LoDeEvole](http://twitter.com/search?q=%23LoDeEvole) | N/A |
-| 6 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 7 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 8 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 10 | [#APOYOROCIO20F](http://twitter.com/search?q=%23APOYOROCIO20F) | N/A |
-| 11 | [Julio Anguita](http://twitter.com/search?q=Julio+Anguita) | N/A |
-| 12 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 13 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
-| 14 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 15 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
-| 16 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 17 | [Españabola](http://twitter.com/search?q=Espa%c3%b1abola) | N/A |
-| 18 | [Fali](http://twitter.com/search?q=Fali) | N/A |
-| 19 | [Antonio Cordón](http://twitter.com/search?q=Antonio+Cord%c3%b3n) | N/A |
-| 20 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 21 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 22 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 23 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 24 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 25 | [Darder](http://twitter.com/search?q=Darder) | N/A |
-| 26 | [Merlier](http://twitter.com/search?q=Merlier) | N/A |
-| 27 | [Reinildo](http://twitter.com/search?q=Reinildo) | N/A |
-| 28 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
-| 29 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 30 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 31 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 32 | [Casado](http://twitter.com/search?q=Casado) | N/A |
-| 33 | [marcelinho huertas](http://twitter.com/search?q=marcelinho+huertas) | N/A |
-| 34 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 35 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 36 | [Lejeune](http://twitter.com/search?q=Lejeune) | N/A |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 39 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
-| 40 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 41 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 42 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 43 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 44 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
-| 45 | [Ocelote](http://twitter.com/search?q=Ocelote) | N/A |
-| 46 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 47 | [Capitán Harlock](http://twitter.com/search?q=Capit%c3%a1n+Harlock) | N/A |
-| 48 | [Ewan](http://twitter.com/search?q=Ewan) | N/A |
-| 49 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 50 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 2 | [#BizumEnMiravia](http://twitter.com/search?q=%23BizumEnMiravia) | N/A |
+| 3 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
+| 4 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
+| 5 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 6 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 7 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 8 | [Filosofía](http://twitter.com/search?q=Filosof%c3%ada) | N/A |
+| 9 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 10 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 11 | [#YoMeRebelo20F](http://twitter.com/search?q=%23YoMeRebelo20F) | N/A |
+| 12 | [Antonio Cordón](http://twitter.com/search?q=Antonio+Cord%c3%b3n) | N/A |
+| 13 | [#UAETour](http://twitter.com/search?q=%23UAETour) | N/A |
+| 14 | [Ocelote](http://twitter.com/search?q=Ocelote) | N/A |
+| 15 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 16 | [Sevilla FC](http://twitter.com/search?q=Sevilla+FC) | N/A |
+| 17 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
+| 18 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 19 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 20 | [Hoy 20](http://twitter.com/search?q=Hoy+20) | N/A |
+| 21 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
+| 22 | [Capitán Harlock](http://twitter.com/search?q=Capit%c3%a1n+Harlock) | N/A |
+| 23 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 24 | [Facebook e Instagram](http://twitter.com/search?q=Facebook+e+Instagram) | N/A |
+| 25 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 26 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
+| 27 | [El 20](http://twitter.com/search?q=El+20) | N/A |
+| 28 | [Evole](http://twitter.com/search?q=Evole) | N/A |
+| 29 | [Javier Negre](http://twitter.com/search?q=Javier+Negre) | N/A |
+| 30 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 31 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
+| 32 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 34 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 35 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
+| 36 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
+| 37 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
+| 38 | [#JusticiaSocial](http://twitter.com/search?q=%23JusticiaSocial) | N/A |
+| 39 | [#LucusHost](http://twitter.com/search?q=%23LucusHost) | N/A |
+| 40 | [#APOYOROCIO20F](http://twitter.com/search?q=%23APOYOROCIO20F) | N/A |
+| 41 | [#SPIREC2023](http://twitter.com/search?q=%23SPIREC2023) | N/A |
+| 42 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
+| 43 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 44 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
 
 
 
