@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-20 16:17:16 UTC`
+📆 Last Updated: `2023-02-20 17:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,44 +25,44 @@ This is top 50 for [Philippines](</Philippines>)
 | 8 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
 | 9 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
 | 10 | [HAPPY SOLAR DAY](http://twitter.com/search?q=HAPPY+SOLAR+DAY) | N/A |
-| 11 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
-| 12 | [CertiPIEd ALPHA BOYS](http://twitter.com/search?q=CertiPIEd+ALPHA+BOYS) | N/A |
-| 13 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
+| 11 | [HAPPY 9TEEN JAY-R](http://twitter.com/search?q=HAPPY+9TEEN+JAY-R) | N/A |
+| 12 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
+| 13 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
 | 14 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 15 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
-| 16 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
-| 17 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
-| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 19 | [Basilio](http://twitter.com/search?q=Basilio) | N/A |
-| 20 | [A'tin](http://twitter.com/search?q=A%27tin) | N/A |
-| 21 | [Carats](http://twitter.com/search?q=Carats) | N/A |
-| 22 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 23 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 24 | [ssob](http://twitter.com/search?q=ssob) | N/A |
-| 25 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 26 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
-| 27 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 28 | [#TWICE_ConceptPhotoD1](http://twitter.com/search?q=%23TWICE_ConceptPhotoD1) | N/A |
-| 29 | [#SunshineSeoDay](http://twitter.com/search?q=%23SunshineSeoDay) | N/A |
-| 30 | [#이서는_언제나_빛나고있어](http://twitter.com/search?q=%23%ec%9d%b4%ec%84%9c%eb%8a%94_%ec%96%b8%ec%a0%9c%eb%82%98_%eb%b9%9b%eb%82%98%ea%b3%a0%ec%9e%88%ec%96%b4) | N/A |
-| 31 | [#JCLEDTakeover](http://twitter.com/search?q=%23JCLEDTakeover) | N/A |
-| 32 | [#MCILampara](http://twitter.com/search?q=%23MCILampara) | N/A |
+| 15 | [A'tin](http://twitter.com/search?q=A%27tin) | N/A |
+| 16 | [Mahalima](http://twitter.com/search?q=Mahalima) | N/A |
+| 17 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 18 | [Kim Taehyung](http://twitter.com/search?q=Kim+Taehyung) | Kim Taehyung is the stage name of South Korean singer, songwriter, and actor V (Kim Tae-hyung). His name means "to fly" in Korean. |
+| 19 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 20 | [Carats](http://twitter.com/search?q=Carats) | N/A |
+| 21 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 22 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 23 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 24 | [#TWICE_ConceptPhotoD1](http://twitter.com/search?q=%23TWICE_ConceptPhotoD1) | N/A |
+| 25 | [#SunshineSeoDay](http://twitter.com/search?q=%23SunshineSeoDay) | N/A |
+| 26 | [#이서는_언제나_빛나고있어](http://twitter.com/search?q=%23%ec%9d%b4%ec%84%9c%eb%8a%94_%ec%96%b8%ec%a0%9c%eb%82%98_%eb%b9%9b%eb%82%98%ea%b3%a0%ec%9e%88%ec%96%b4) | N/A |
+| 27 | [#JCLEDTakeover](http://twitter.com/search?q=%23JCLEDTakeover) | N/A |
+| 28 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 29 | [#BirthdayNaNiJAYR](http://twitter.com/search?q=%23BirthdayNaNiJAYR) | N/A |
+| 30 | [#제이알곁에있어줘](http://twitter.com/search?q=%23%ec%a0%9c%ec%9d%b4%ec%95%8c%ea%b3%81%ec%97%90%ec%9e%88%ec%96%b4%ec%a4%98) | N/A |
+| 31 | [#WestlifeAtTheBigDome](http://twitter.com/search?q=%23WestlifeAtTheBigDome) | N/A |
+| 32 | [#3YearsWithMoon](http://twitter.com/search?q=%233YearsWithMoon) | N/A |
 | 33 | [#DLTrueIdentity](http://twitter.com/search?q=%23DLTrueIdentity) | N/A |
-| 34 | [#alphaboysroadtopieever](http://twitter.com/search?q=%23alphaboysroadtopieever) | N/A |
-| 35 | [#WESTLIFEManila2023](http://twitter.com/search?q=%23WESTLIFEManila2023) | N/A |
+| 34 | [#BACKSTREETSBACKINMNL](http://twitter.com/search?q=%23BACKSTREETSBACKINMNL) | N/A |
+| 35 | [#MCILampara](http://twitter.com/search?q=%23MCILampara) | N/A |
 | 36 | [#RedVelvet](http://twitter.com/search?q=%23RedVelvet) | N/A |
-| 37 | [#12th_Mini_Album_TWICE](http://twitter.com/search?q=%2312th_Mini_Album_TWICE) | #12th_Mini_Album_TWICE is the title of the twelfth mini album released by the South Korean girl group TWICE. The title is a reference to the group's twelfth mini album, which was released in October 2020. The English translation of the title would be "Twelve Mini Albums by TWICE". |
-| 38 | [#레드벨벳](http://twitter.com/search?q=%23%eb%a0%88%eb%93%9c%eb%b2%a8%eb%b2%b3) | N/A |
-| 39 | [#AlphaBoysOnPIE](http://twitter.com/search?q=%23AlphaBoysOnPIE) | N/A |
-| 40 | [#TAEHYUNGonJinnysKitchen](http://twitter.com/search?q=%23TAEHYUNGonJinnysKitchen) | N/A |
+| 37 | [#레드벨벳](http://twitter.com/search?q=%23%eb%a0%88%eb%93%9c%eb%b2%a8%eb%b2%b3) | N/A |
+| 38 | [#12th_Mini_Album_TWICE](http://twitter.com/search?q=%2312th_Mini_Album_TWICE) | #12th_Mini_Album_TWICE is the title of the twelfth mini album released by the South Korean girl group TWICE. The title is a reference to the group's twelfth mini album, which was released in October 2020. The English translation of the title would be "Twelve Mini Albums by TWICE". |
+| 39 | [#BackstreetBoys](http://twitter.com/search?q=%23BackstreetBoys) | N/A |
+| 40 | [#AlphaBoysOnPIE](http://twitter.com/search?q=%23AlphaBoysOnPIE) | N/A |
 | 41 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 42 | [#DNAWORLDTOURPH](http://twitter.com/search?q=%23DNAWORLDTOURPH) | N/A |
-| 43 | [#BACKSTREETSBACKINMNL](http://twitter.com/search?q=%23BACKSTREETSBACKINMNL) | N/A |
+| 42 | [#TAEHYUNGonJinnysKitchen](http://twitter.com/search?q=%23TAEHYUNGonJinnysKitchen) | N/A |
+| 43 | [#DNAWORLDTOURPH](http://twitter.com/search?q=%23DNAWORLDTOURPH) | N/A |
 | 44 | [#DARREN](http://twitter.com/search?q=%23DARREN) | N/A |
 | 45 | [#luviswinningbid](http://twitter.com/search?q=%23luviswinningbid) | N/A |
 | 46 | [#วาดไว้NuNew](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b2%e0%b8%94%e0%b9%84%e0%b8%a7%e0%b9%89NuNew) | N/A |
-| 47 | [#JanineGutierrez](http://twitter.com/search?q=%23JanineGutierrez) | N/A |
-| 48 | [#MiniFMxMEW2023](http://twitter.com/search?q=%23MiniFMxMEW2023) | N/A |
+| 47 | [#MiniFMxMEW2023](http://twitter.com/search?q=%23MiniFMxMEW2023) | N/A |
+| 48 | [#KaoMiah](http://twitter.com/search?q=%23KaoMiah) | N/A |
 
 
 

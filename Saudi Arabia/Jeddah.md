@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jeddah
 
-📆 Last Updated: `2023-02-20 16:17:20 UTC`
+📆 Last Updated: `2023-02-20 17:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#الملكي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%84%d9%83%d9%8a) | N/A |
-| 2 | [#مساء__الخير](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1__%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 1 | [#يوم_التاسيس_عز_وفخر](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3_%d8%b9%d8%b2_%d9%88%d9%81%d8%ae%d8%b1) | N/A |
+| 2 | [هشام فايق](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | هشام فايق is an Arabic phrase that translates to "Hisham is outstanding" or "Hisham is excellent". It is often used as a compliment or expression of admiration for someone's achievements. |
 | 3 | [جدول الاختبارات النهاييه](http://twitter.com/search?q=%d8%ac%d8%af%d9%88%d9%84+%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
 | 4 | [#الاهلي_احد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a_%d8%a7%d8%ad%d8%af) | N/A |
-| 5 | [#البزنس76](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b376) | N/A |
-| 6 | [#مركز_الملك_سلمان_للاغاثه](http://twitter.com/search?q=%23%d9%85%d8%b1%d9%83%d8%b2_%d8%a7%d9%84%d9%85%d9%84%d9%83_%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d9%84%d9%84%d8%a7%d8%ba%d8%a7%d8%ab%d9%87) | N/A |
-| 7 | [كريري](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
-| 8 | [رياض بودبوز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a8%d9%88%d8%af%d8%a8%d9%88%d8%b2) | N/A |
+| 5 | [الفيصلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a) | N/A |
+| 6 | [#الهلال_اهلي_دبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%87%d9%84%d9%8a_%d8%af%d8%a8%d9%8a) | N/A |
+| 7 | [#البزنس76](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b376) | N/A |
+| 8 | [#الدعم_السكني](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%b9%d9%85_%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a) | N/A |
 | 9 | [التصرفات العقاريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b5%d8%b1%d9%81%d8%a7%d8%aa+%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 10 | [ميليسي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | ميليسي (pronounced mee-lee-see) is an Arabic word meaning "happiness" or "joy". It is often used as a greeting or to express joy and happiness. |
-| 11 | [هشام فايق](http://twitter.com/search?q=%d9%87%d8%b4%d8%a7%d9%85+%d9%81%d8%a7%d9%8a%d9%82) | هشام فايق is an Arabic phrase that translates to "Hisham is outstanding" or "Hisham is excellent". It is often used as a compliment or expression of admiration for someone's achievements. |
-| 12 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 13 | [مودو بارو](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d9%88+%d8%a8%d8%a7%d8%b1%d9%88) | N/A |
-| 14 | [صالح سنبل](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%b3%d9%86%d8%a8%d9%84) | N/A |
-| 15 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 16 | [وناصر](http://twitter.com/search?q=%d9%88%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
-| 17 | [حسن العلي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%84%d9%8a) | N/A |
-| 18 | [كييف](http://twitter.com/search?q=%d9%83%d9%8a%d9%8a%d9%81) | N/A |
-| 19 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 20 | [المكتب الاستراتيجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a) | N/A |
-| 21 | [عايد](http://twitter.com/search?q=%d8%b9%d8%a7%d9%8a%d8%af) | N/A |
-| 22 | [وزير الطاقه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87) | N/A |
-| 23 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 24 | [الدوله السعوديه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 25 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
-| 26 | [مناطق المملكه](http://twitter.com/search?q=%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87) | N/A |
-| 27 | [المدينة المنورة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d8%a9) | N/A |
-| 28 | [الاداره القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 29 | [الحجر الاسود](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
-| 30 | [استراليا](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d9%84%d9%8a%d8%a7) | N/A |
-| 31 | [#الفيصلي_فولاذ](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d9%8a%d8%b5%d9%84%d9%8a_%d9%81%d9%88%d9%84%d8%a7%d8%b0) | N/A |
-| 32 | [#الدعم_السكني](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%b9%d9%85_%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a) | N/A |
-| 33 | [#زرار_مفقود](http://twitter.com/search?q=%23%d8%b2%d8%b1%d8%a7%d8%b1_%d9%85%d9%81%d9%82%d9%88%d8%af) | N/A |
-| 34 | [#المنتدي_السعودي_للاعلام](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%af%d9%8a_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d9%84%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 35 | [#زد_رصيدك28](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8328) | N/A |
-| 36 | [#الهلال_اهلي_دبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%87%d9%84%d9%8a_%d8%af%d8%a8%d9%8a) | N/A |
-| 37 | [#الهلال_شباب_اهلي_دبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%87%d9%84%d9%8a_%d8%af%d8%a8%d9%8a) | N/A |
-| 38 | [#شعبان](http://twitter.com/search?q=%23%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 39 | [#وزاره_الشوون_الاسلاميه](http://twitter.com/search?q=%23%d9%88%d8%b2%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86_%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 40 | [#ارسال](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%b3%d8%a7%d9%84) | N/A |
-| 41 | [#دوري_يلو](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d9%8a%d9%84%d9%88) | N/A |
-| 42 | [#عبدالعزيز_بن_سلمان](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2_%d8%a8%d9%86_%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 43 | [#التعاون_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
-| 44 | [#هجوم_نجوم13](http://twitter.com/search?q=%23%d9%87%d8%ac%d9%88%d9%85_%d9%86%d8%ac%d9%88%d9%8513) | N/A |
-| 45 | [#مكتب_تطوير_الحدود_الشماليه](http://twitter.com/search?q=%23%d9%85%d9%83%d8%aa%d8%a8_%d8%aa%d8%b7%d9%88%d9%8a%d8%b1_%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af_%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 46 | [#ابها_الوحده](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%87%d8%a7_%d8%a7%d9%84%d9%88%d8%ad%d8%af%d9%87) | N/A |
-| 47 | [#مسلسل_رفاق13](http://twitter.com/search?q=%23%d9%85%d8%b3%d9%84%d8%b3%d9%84_%d8%b1%d9%81%d8%a7%d9%8213) | N/A |
-| 48 | [#العداله_الخليج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 10 | [كريري](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b1%d9%8a) | N/A |
+| 11 | [وناصر](http://twitter.com/search?q=%d9%88%d9%86%d8%a7%d8%b5%d8%b1) | N/A |
+| 12 | [رياض بودبوز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d8%a8%d9%88%d8%af%d8%a8%d9%88%d8%b2) | N/A |
+| 13 | [ناصر وكنو](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%88%d9%83%d9%86%d9%88) | N/A |
+| 14 | [الهلال اليوم](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 15 | [الهلال الليله](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%84%d9%8a%d9%84%d9%87) | N/A |
+| 16 | [ميليسي](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%8a%d8%b3%d9%8a) | ميليسي (pronounced mee-lee-see) is an Arabic word meaning "happiness" or "joy". It is often used as a greeting or to express joy and happiness. |
+| 17 | [البناء الذاتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%86%d8%a7%d8%a1+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a) | N/A |
+| 18 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 19 | [فوز هلالي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d9%87%d9%84%d8%a7%d9%84%d9%8a) | N/A |
+| 20 | [مودو بارو](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d9%88+%d8%a8%d8%a7%d8%b1%d9%88) | N/A |
+| 21 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 22 | [صالح سنبل](http://twitter.com/search?q=%d8%b5%d8%a7%d9%84%d8%ad+%d8%b3%d9%86%d8%a8%d9%84) | N/A |
+| 23 | [نايف الرفيدي](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%a7%d9%84%d8%b1%d9%81%d9%8a%d8%af%d9%8a) | N/A |
+| 24 | [جامعة الملك سعود](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d8%a7%d9%84%d9%85%d9%84%d9%83+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 25 | [وزير الطاقه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b7%d8%a7%d9%82%d9%87) | N/A |
+| 26 | [العلم السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 27 | [حسن العلي](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%84%d9%8a) | N/A |
+| 28 | [كييف](http://twitter.com/search?q=%d9%83%d9%8a%d9%8a%d9%81) | N/A |
+| 29 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
+| 30 | [الدوله السعوديه الثانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 31 | [عايد](http://twitter.com/search?q=%d8%b9%d8%a7%d9%8a%d8%af) | N/A |
+| 32 | [المكتب الاستراتيجي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a7%d8%b3%d8%aa%d8%b1%d8%a7%d8%aa%d9%8a%d8%ac%d9%8a) | N/A |
+| 33 | [علي الهبوط](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%87%d8%a8%d9%88%d8%b7) | N/A |
+| 34 | [المدينة المنورة](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d9%86%d8%a9+%d8%a7%d9%84%d9%85%d9%86%d9%88%d8%b1%d8%a9) | N/A |
+| 35 | [الاداره القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 36 | [مناطق المملكه](http://twitter.com/search?q=%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87) | N/A |
+| 37 | [البطوله الاسيويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a%d9%87) | N/A |
+| 38 | [النظام الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
+| 39 | [#زرار_مفقود](http://twitter.com/search?q=%23%d8%b2%d8%b1%d8%a7%d8%b1_%d9%85%d9%81%d9%82%d9%88%d8%af) | N/A |
+| 40 | [#الهلال_شباب_اهلي_دبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%87%d9%84%d9%8a_%d8%af%d8%a8%d9%8a) | N/A |
+| 41 | [#شعبان](http://twitter.com/search?q=%23%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 42 | [#مركز_الملك_سلمان_للاغاثه](http://twitter.com/search?q=%23%d9%85%d8%b1%d9%83%d8%b2_%d8%a7%d9%84%d9%85%d9%84%d9%83_%d8%b3%d9%84%d9%85%d8%a7%d9%86_%d9%84%d9%84%d8%a7%d8%ba%d8%a7%d8%ab%d9%87) | N/A |
+| 43 | [#البسامي_الدوليه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b3%d8%a7%d9%85%d9%8a_%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 44 | [#المنتدي_السعودي_للاعلام](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%af%d9%8a_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d9%84%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85) | N/A |
+| 45 | [#زد_رصيدك28](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8328) | N/A |
+| 46 | [#وزاره_الشوون_الاسلاميه](http://twitter.com/search?q=%23%d9%88%d8%b2%d8%a7%d8%b1%d9%87_%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86_%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 47 | [#ارسال](http://twitter.com/search?q=%23%d8%a7%d8%b1%d8%b3%d8%a7%d9%84) | N/A |
+| 48 | [#دوري_يلو](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d9%8a%d9%84%d9%88) | N/A |
 | 49 | [#الزعيزعي_فالمنكوس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b2%d8%b9%d9%8a%d8%b2%d8%b9%d9%8a_%d9%81%d8%a7%d9%84%d9%85%d9%86%d9%83%d9%88%d8%b3) | N/A |
-| 50 | [#الامير_محمد_بن_سلمان](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1_%d9%85%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
+| 50 | [#عبدالعزيز_بن_سلمان](http://twitter.com/search?q=%23%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2_%d8%a8%d9%86_%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
 
 
 

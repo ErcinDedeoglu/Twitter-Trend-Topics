@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-02-20 16:17:27 UTC`
+📆 Last Updated: `2023-02-20 17:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#VekillerTBMMne](http://twitter.com/search?q=%23VekillerTBMMne) | N/A |
-| 2 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
-| 3 | [Hüseyin Cimşit](http://twitter.com/search?q=H%c3%bcseyin+Cim%c5%9fit) | N/A |
-| 4 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
-| 5 | [Susmuş](http://twitter.com/search?q=Susmu%c5%9f) | N/A |
-| 6 | [#VedaMektubu](http://twitter.com/search?q=%23VedaMektubu) | N/A |
-| 7 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
-| 8 | [#Tele1Susturulamaz](http://twitter.com/search?q=%23Tele1Susturulamaz) | N/A |
-| 9 | [Asgari 1](http://twitter.com/search?q=Asgari+1) | N/A |
-| 10 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
-| 11 | [Azami](http://twitter.com/search?q=Azami) | N/A |
-| 12 | [Bahçeli Hatay'da](http://twitter.com/search?q=Bah%c3%a7eli+Hatay%27da) | N/A |
-| 13 | [Kalyon](http://twitter.com/search?q=Kalyon) | N/A |
-| 14 | [MİLLET YARDIMDA KENETLENDİ](http://twitter.com/search?q=M%c4%b0LLET+YARDIMDA+KENETLEND%c4%b0) | N/A |
+| 1 | [#70ildeOkullarKapatılsın](http://twitter.com/search?q=%2370ildeOkullarKapat%c4%b1ls%c4%b1n) | N/A |
+| 2 | [#isiaskaderdeğilcinayet](http://twitter.com/search?q=%23isiaskaderde%c4%9filcinayet) | N/A |
+| 3 | [#VekillerTBMMne](http://twitter.com/search?q=%23VekillerTBMMne) | N/A |
+| 4 | [#Tabakademisi](http://twitter.com/search?q=%23Tabakademisi) | N/A |
+| 5 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 6 | [Devlet Milletiyle](http://twitter.com/search?q=Devlet+Milletiyle) | N/A |
+| 7 | [Hüseyin Cimşit](http://twitter.com/search?q=H%c3%bcseyin+Cim%c5%9fit) | N/A |
+| 8 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 9 | [Mersin](http://twitter.com/search?q=Mersin) | N/A |
+| 10 | [Susmuş](http://twitter.com/search?q=Susmu%c5%9f) | N/A |
+| 11 | [Bahçeli Hatay'da](http://twitter.com/search?q=Bah%c3%a7eli+Hatay%27da) | N/A |
+| 12 | [MİLLET YARDIMDA KENETLENDİ](http://twitter.com/search?q=M%c4%b0LLET+YARDIMDA+KENETLEND%c4%b0) | N/A |
+| 13 | [Asgari](http://twitter.com/search?q=Asgari) | Asgari is an Arabic word meaning "minimal" or "lowest". It is often used to refer to the lowest level of something, such as wages or prices. |
+| 14 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
 | 15 | [Samsun'dan](http://twitter.com/search?q=Samsun%27dan) | N/A |
 | 16 | [Afrika Prensi](http://twitter.com/search?q=Afrika+Prensi) | N/A |
-| 17 | [Hasan Tahsin](http://twitter.com/search?q=Hasan+Tahsin) | N/A |
-| 18 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
-| 19 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 20 | [Belediye Başkanları](http://twitter.com/search?q=Belediye+Ba%c5%9fkanlar%c4%b1) | N/A |
-| 21 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 22 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
-| 23 | [Birsen](http://twitter.com/search?q=Birsen) | N/A |
-| 24 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
-| 25 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 26 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 27 | [Sinan](http://twitter.com/search?q=Sinan) | N/A |
-| 28 | [Kadıköy](http://twitter.com/search?q=Kad%c4%b1k%c3%b6y) | N/A |
-| 29 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
-| 30 | [Marmara'da 7,6](http://twitter.com/search?q=Marmara%27da+7%2c6) | N/A |
-| 31 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
-| 32 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 33 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 34 | [PKK'lı](http://twitter.com/search?q=PKK%27l%c4%b1) | N/A |
-| 35 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
-| 36 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 37 | [Ege Üniversitesinde](http://twitter.com/search?q=Ege+%c3%9cniversitesinde) | N/A |
-| 38 | [Rant](http://twitter.com/search?q=Rant) | N/A |
-| 39 | [Boğa](http://twitter.com/search?q=Bo%c4%9fa) | N/A |
-| 40 | [Orhan Aydın](http://twitter.com/search?q=Orhan+Ayd%c4%b1n) | N/A |
-| 41 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
-| 42 | [Atatürk'e](http://twitter.com/search?q=Atat%c3%bcrk%27e) | N/A |
-| 43 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 44 | [#mersintravesti](http://twitter.com/search?q=%23mersintravesti) | N/A |
-| 45 | [#antalyatravesti](http://twitter.com/search?q=%23antalyatravesti) | N/A |
-| 46 | [#MuhalefetKaostaBirLEŞti](http://twitter.com/search?q=%23MuhalefetKaostaBirLE%c5%9eti) | N/A |
-| 47 | [#yanlıskarar](http://twitter.com/search?q=%23yanl%c4%b1skarar) | N/A |
-| 48 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
-| 49 | [#Palu](http://twitter.com/search?q=%23Palu) | N/A |
+| 17 | [Kalyon](http://twitter.com/search?q=Kalyon) | N/A |
+| 18 | [Azami](http://twitter.com/search?q=Azami) | N/A |
+| 19 | [Sallanıyoruz](http://twitter.com/search?q=Sallan%c4%b1yoruz) | N/A |
+| 20 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
+| 21 | [Hasan Tahsin](http://twitter.com/search?q=Hasan+Tahsin) | N/A |
+| 22 | [İsmail Kartal](http://twitter.com/search?q=%c4%b0smail+Kartal) | İsmail Kartal is a Turkish name. It is composed of two words: İsmail, which means "God has heard," and Kartal, which means "eagle." In English, the name would translate to "God has heard the eagle." |
+| 23 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 24 | [Belediye Başkanları](http://twitter.com/search?q=Belediye+Ba%c5%9fkanlar%c4%b1) | N/A |
+| 25 | [Kayseri](http://twitter.com/search?q=Kayseri) | N/A |
+| 26 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 27 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 28 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
+| 29 | [Mart](http://twitter.com/search?q=Mart) | N/A |
+| 30 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 31 | [Birsen](http://twitter.com/search?q=Birsen) | N/A |
+| 32 | [Elif](http://twitter.com/search?q=Elif) | N/A |
+| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 34 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 35 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
+| 36 | [Huzurlu](http://twitter.com/search?q=Huzurlu) | N/A |
+| 37 | [Ozan](http://twitter.com/search?q=Ozan) | N/A |
+| 38 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 39 | [Kadıköy](http://twitter.com/search?q=Kad%c4%b1k%c3%b6y) | N/A |
+| 40 | [Sinan](http://twitter.com/search?q=Sinan) | N/A |
+| 41 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
+| 42 | [Marmara'da 7,6](http://twitter.com/search?q=Marmara%27da+7%2c6) | N/A |
+| 43 | [Orhan Aydın](http://twitter.com/search?q=Orhan+Ayd%c4%b1n) | N/A |
+| 44 | [Adnan](http://twitter.com/search?q=Adnan) | N/A |
+| 45 | [Bereketli](http://twitter.com/search?q=Bereketli) | N/A |
+| 46 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 47 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 48 | [Ege Üniversitesinde](http://twitter.com/search?q=Ege+%c3%9cniversitesinde) | N/A |
+| 49 | [Rant](http://twitter.com/search?q=Rant) | N/A |
 
 
 

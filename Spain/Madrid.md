@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Madrid
 
-📆 Last Updated: `2023-02-20 16:17:07 UTC`
+📆 Last Updated: `2023-02-20 17:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
+| 1 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 2 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
-| 3 | [Moscú](http://twitter.com/search?q=Mosc%c3%ba) | N/A |
-| 4 | [#CrisPorta20F](http://twitter.com/search?q=%23CrisPorta20F) | N/A |
-| 5 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 3 | [#CrisPorta20F](http://twitter.com/search?q=%23CrisPorta20F) | N/A |
+| 4 | [Estado de Transportes](http://twitter.com/search?q=Estado+de+Transportes) | N/A |
+| 5 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
 | 6 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 7 | [Estado de Transportes](http://twitter.com/search?q=Estado+de+Transportes) | N/A |
-| 8 | [#BizumEnMiravia](http://twitter.com/search?q=%23BizumEnMiravia) | N/A |
-| 9 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 10 | [Filosofía](http://twitter.com/search?q=Filosof%c3%ada) | N/A |
-| 11 | [Pardo de Vera](http://twitter.com/search?q=Pardo+de+Vera) | N/A |
-| 12 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
-| 13 | [Cantabria y Asturias](http://twitter.com/search?q=Cantabria+y+Asturias) | N/A |
+| 7 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 8 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 9 | [Drugovich](http://twitter.com/search?q=Drugovich) | N/A |
+| 10 | [Pardo de Vera](http://twitter.com/search?q=Pardo+de+Vera) | N/A |
+| 11 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
+| 12 | [#BizumEnMiravia](http://twitter.com/search?q=%23BizumEnMiravia) | N/A |
+| 13 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
 | 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 15 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 16 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 17 | [Drugovich](http://twitter.com/search?q=Drugovich) | N/A |
-| 18 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 19 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 20 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
-| 21 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
-| 22 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
-| 23 | [Baréin](http://twitter.com/search?q=Bar%c3%a9in) | N/A |
-| 24 | [Ocelote](http://twitter.com/search?q=Ocelote) | N/A |
-| 25 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 26 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 27 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
-| 28 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
-| 29 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 30 | [Antonio Cordón](http://twitter.com/search?q=Antonio+Cord%c3%b3n) | N/A |
-| 31 | [El Bigotes](http://twitter.com/search?q=El+Bigotes) | N/A |
-| 32 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
-| 33 | [Bioshock](http://twitter.com/search?q=Bioshock) | N/A |
-| 34 | [camps](http://twitter.com/search?q=camps) | N/A |
-| 35 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 36 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 37 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 38 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
-| 39 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 40 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 41 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
-| 42 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 43 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 44 | [Javier Negre](http://twitter.com/search?q=Javier+Negre) | N/A |
-| 45 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 46 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 15 | [Filosofía](http://twitter.com/search?q=Filosof%c3%ada) | N/A |
+| 16 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
+| 17 | [Cantabria y Asturias](http://twitter.com/search?q=Cantabria+y+Asturias) | N/A |
+| 18 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 19 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
+| 20 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 21 | [Bahréin](http://twitter.com/search?q=Bahr%c3%a9in) | N/A |
+| 22 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
+| 23 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 24 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
+| 25 | [Madrid Río](http://twitter.com/search?q=Madrid+R%c3%ado) | N/A |
+| 26 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 27 | [Ocelote](http://twitter.com/search?q=Ocelote) | N/A |
+| 28 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 29 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
+| 30 | [El Bigotes](http://twitter.com/search?q=El+Bigotes) | N/A |
+| 31 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
+| 32 | [Masip](http://twitter.com/search?q=Masip) | N/A |
+| 33 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 34 | [Villareja](http://twitter.com/search?q=Villareja) | N/A |
+| 35 | [Bioshock](http://twitter.com/search?q=Bioshock) | N/A |
+| 36 | [Antonio Cordón](http://twitter.com/search?q=Antonio+Cord%c3%b3n) | N/A |
+| 37 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 38 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 39 | [Los Ángeles](http://twitter.com/search?q=Los+%c3%81ngeles) | N/A |
+| 40 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
+| 41 | [Jorge Pérez](http://twitter.com/search?q=Jorge+P%c3%a9rez) | N/A |
+| 42 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 43 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 44 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 45 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 46 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
 | 47 | [#APOYOROCI020F](http://twitter.com/search?q=%23APOYOROCI020F) | N/A |
-| 48 | [#LucusHost](http://twitter.com/search?q=%23LucusHost) | N/A |
-| 49 | [#YoMeRebelo20F](http://twitter.com/search?q=%23YoMeRebelo20F) | N/A |
+| 48 | [#YoMeRebelo20F](http://twitter.com/search?q=%23YoMeRebelo20F) | N/A |
+| 49 | [#LucusHost](http://twitter.com/search?q=%23LucusHost) | N/A |
 | 50 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
 
 

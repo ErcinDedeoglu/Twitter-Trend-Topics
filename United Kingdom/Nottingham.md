@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-02-20 16:16:52 UTC`
+📆 Last Updated: `2023-02-20 17:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,50 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 2 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 3 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
-| 4 | [#nftart](http://twitter.com/search?q=%23nftart) | N/A |
-| 5 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 6 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
-| 7 | [Bristol De Mai](http://twitter.com/search?q=Bristol+De+Mai) | N/A |
-| 8 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 10 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 11 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 12 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 13 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 14 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 15 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 16 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 17 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 18 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
-| 19 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 20 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 21 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 22 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
-| 23 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 24 | [Pancake Day](http://twitter.com/search?q=Pancake+Day) | N/A |
-| 25 | [Outlook](http://twitter.com/search?q=Outlook) | Outlook is a Microsoft product that is used as an email client, calendar, task manager, contact manager, and note-taking application. It is designed to help users manage their personal and professional information in one place. Outlook can be used to send and receive emails, schedule meetings and appointments, manage contacts, keep track of tasks, and store notes. |
-| 26 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 27 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 28 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 29 | [Philip Pullman](http://twitter.com/search?q=Philip+Pullman) | N/A |
-| 30 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 31 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
-| 32 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 33 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 34 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
-| 35 | [Mayor of London](http://twitter.com/search?q=Mayor+of+London) | N/A |
-| 36 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 37 | [Angela Rayner](http://twitter.com/search?q=Angela+Rayner) | N/A |
-| 38 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 39 | [Regan](http://twitter.com/search?q=Regan) | N/A |
-| 40 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 41 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 42 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 43 | [Gaelic](http://twitter.com/search?q=Gaelic) | N/A |
-| 44 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 1 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 2 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 3 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 4 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 5 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 6 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
+| 7 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
+| 8 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 9 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 10 | [Bristol De Mai](http://twitter.com/search?q=Bristol+De+Mai) | N/A |
+| 11 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 12 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
+| 13 | [Junior Doctors](http://twitter.com/search?q=Junior+Doctors) | N/A |
+| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 15 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 16 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 17 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 18 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
+| 19 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
+| 20 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 21 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 22 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 23 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 24 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 25 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
+| 26 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 27 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
+| 28 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 29 | [Yousaf](http://twitter.com/search?q=Yousaf) | N/A |
+| 30 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 31 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 32 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 33 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 34 | [Devon](http://twitter.com/search?q=Devon) | N/A |
+| 35 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 36 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
+| 37 | [Philip Pullman](http://twitter.com/search?q=Philip+Pullman) | N/A |
+| 38 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
+| 39 | [Angus](http://twitter.com/search?q=Angus) | N/A |
+| 40 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
+| 41 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 42 | [Mayor of London](http://twitter.com/search?q=Mayor+of+London) | N/A |
+| 43 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 44 | [Regan](http://twitter.com/search?q=Regan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-20 16:17:28 UTC`
+📆 Last Updated: `2023-02-20 17:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,24 +20,24 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 3 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 4 | [#nzlvarg](http://twitter.com/search?q=%23nzlvarg) | N/A |
 | 5 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 6 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
+| 6 | [hawkesby](http://twitter.com/search?q=hawkesby) | N/A |
 | 7 | [O'Connor](http://twitter.com/search?q=O%27Connor) | N/A |
 | 8 | [newstalk zb](http://twitter.com/search?q=newstalk+zb) | N/A |
 | 9 | [Coster](http://twitter.com/search?q=Coster) | N/A |
 | 10 | [mitch](http://twitter.com/search?q=mitch) | N/A |
-| 11 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
-| 12 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 13 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
-| 14 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 15 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 16 | [Lani](http://twitter.com/search?q=Lani) | N/A |
-| 17 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 18 | [Susie](http://twitter.com/search?q=Susie) | N/A |
-| 19 | [Gangs](http://twitter.com/search?q=Gangs) | N/A |
-| 20 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 21 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 22 | [winz](http://twitter.com/search?q=winz) | N/A |
-| 23 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 11 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 12 | [rbnz](http://twitter.com/search?q=rbnz) | N/A |
+| 13 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 14 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 15 | [Lani](http://twitter.com/search?q=Lani) | N/A |
+| 16 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 17 | [Gangs](http://twitter.com/search?q=Gangs) | N/A |
+| 18 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 19 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 20 | [Football Ferns](http://twitter.com/search?q=Football+Ferns) | N/A |
+| 21 | [Winz](http://twitter.com/search?q=Winz) | N/A |
+| 22 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 23 | [Susie](http://twitter.com/search?q=Susie) | N/A |
 | 24 | [Clint](http://twitter.com/search?q=Clint) | N/A |
 | 25 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 | 26 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |

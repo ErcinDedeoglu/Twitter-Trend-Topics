@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-20 16:17:11 UTC`
+📆 Last Updated: `2023-02-20 17:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,51 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#qanda](http://twitter.com/search?q=%23qanda) | N/A |
+| 1 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
 | 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
 | 3 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 4 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 5 | [Daryl Braithwaite](http://twitter.com/search?q=Daryl+Braithwaite) | N/A |
+| 4 | [Daryl Braithwaite](http://twitter.com/search?q=Daryl+Braithwaite) | N/A |
+| 5 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 6 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
 | 7 | [mitch](http://twitter.com/search?q=mitch) | N/A |
 | 8 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
 | 9 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
-| 10 | [LEAVE AMERICA](http://twitter.com/search?q=LEAVE+AMERICA) | Leave America is a phrase used to express the idea of leaving the United States of America. It can be used as a call to action for those who wish to leave the country, or as a statement of intent for those who are planning to do so. It can also be used as a way to express frustration with the current political and social climate in the US. |
-| 11 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 12 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 13 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 14 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 15 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
-| 16 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 17 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
-| 18 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 19 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 10 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 11 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 12 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 13 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 14 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 15 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 16 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
+| 17 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 18 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 19 | [LEAVE AMERICA](http://twitter.com/search?q=LEAVE+AMERICA) | Leave America is a phrase used to express the idea of leaving the United States of America. It can be used as a call to action for those who wish to leave the country, or as a statement of intent for those who are planning to do so. It can also be used as a way to express frustration with the current political and social climate in the US. |
 | 20 | [Langer](http://twitter.com/search?q=Langer) | N/A |
 | 21 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
 | 22 | [Superannuation](http://twitter.com/search?q=Superannuation) | N/A |
 | 23 | [Claire](http://twitter.com/search?q=Claire) | N/A |
 | 24 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 25 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 26 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 25 | [little freak](http://twitter.com/search?q=little+freak) | N/A |
+| 26 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 27 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
 | 28 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 29 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
-| 30 | [David Coleman](http://twitter.com/search?q=David+Coleman) | N/A |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 30 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
 | 31 | [Carla Zampatti](http://twitter.com/search?q=Carla+Zampatti) | N/A |
 | 32 | [SMSF](http://twitter.com/search?q=SMSF) | N/A |
 | 33 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
 | 34 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 35 | [charles wann](http://twitter.com/search?q=charles+wann) | N/A |
-| 36 | [Kamahl](http://twitter.com/search?q=Kamahl) | N/A |
-| 37 | [Jennifer Miller](http://twitter.com/search?q=Jennifer+Miller) | N/A |
-| 38 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 39 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 40 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 41 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 42 | [narty](http://twitter.com/search?q=narty) | N/A |
-| 43 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 44 | [turuva](http://twitter.com/search?q=turuva) | N/A |
-| 45 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 35 | [David Coleman](http://twitter.com/search?q=David+Coleman) | N/A |
+| 36 | [charles wann](http://twitter.com/search?q=charles+wann) | N/A |
+| 37 | [kamahl](http://twitter.com/search?q=kamahl) | N/A |
+| 38 | [jennifer miller](http://twitter.com/search?q=jennifer+miller) | N/A |
+| 39 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 40 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 41 | [narty](http://twitter.com/search?q=narty) | N/A |
+| 42 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 43 | [turuva](http://twitter.com/search?q=turuva) | N/A |
+| 44 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 45 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
 | 46 | [Munch](http://twitter.com/search?q=Munch) | N/A |
 | 47 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
 | 48 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |

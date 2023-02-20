@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-20 16:17:41 UTC`
+📆 Last Updated: `2023-02-20 17:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,25 +20,25 @@ This is top 50 for New Zealand
 | 3 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 4 | [#nzlvarg](http://twitter.com/search?q=%23nzlvarg) | N/A |
 | 5 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 6 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
+| 6 | [hawkesby](http://twitter.com/search?q=hawkesby) | N/A |
 | 7 | [O'Connor](http://twitter.com/search?q=O%27Connor) | N/A |
 | 8 | [newstalk zb](http://twitter.com/search?q=newstalk+zb) | N/A |
-| 9 | [#GameDevFashion](http://twitter.com/search?q=%23GameDevFashion) | N/A |
+| 9 | [#gamedevfashion](http://twitter.com/search?q=%23gamedevfashion) | N/A |
 | 10 | [Coster](http://twitter.com/search?q=Coster) | N/A |
 | 11 | [mitch](http://twitter.com/search?q=mitch) | N/A |
-| 12 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
-| 13 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 14 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
-| 15 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 16 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 17 | [Lani](http://twitter.com/search?q=Lani) | N/A |
-| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 19 | [Susie](http://twitter.com/search?q=Susie) | N/A |
-| 20 | [Gangs](http://twitter.com/search?q=Gangs) | N/A |
-| 21 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 22 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 23 | [winz](http://twitter.com/search?q=winz) | N/A |
-| 24 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 12 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 13 | [rbnz](http://twitter.com/search?q=rbnz) | N/A |
+| 14 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 15 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 16 | [Lani](http://twitter.com/search?q=Lani) | N/A |
+| 17 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 18 | [Gangs](http://twitter.com/search?q=Gangs) | N/A |
+| 19 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 20 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 21 | [Football Ferns](http://twitter.com/search?q=Football+Ferns) | N/A |
+| 22 | [Winz](http://twitter.com/search?q=Winz) | N/A |
+| 23 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 24 | [Susie](http://twitter.com/search?q=Susie) | N/A |
 | 25 | [Clint](http://twitter.com/search?q=Clint) | N/A |
 | 26 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 | 27 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for New Zealand
 | 47 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
 | 48 | [Napier](http://twitter.com/search?q=Napier) | N/A |
 | 49 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 50 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 50 | [LLMs](http://twitter.com/search?q=LLMs) | N/A |
 
 
 
