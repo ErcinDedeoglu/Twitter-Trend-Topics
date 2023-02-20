@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-20 01:45:56 UTC`
+📆 Last Updated: `2023-02-20 02:43:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,23 +29,23 @@ This is top 50 for Denmark
 | 12 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
 | 13 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 14 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 15 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 16 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 15 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 16 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
 | 17 | [co-industri](http://twitter.com/search?q=co-industri) | N/A |
 | 18 | [Wass](http://twitter.com/search?q=Wass) | N/A |
-| 19 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 20 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 21 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 22 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
 | 23 | [farum](http://twitter.com/search?q=farum) | N/A |
 | 24 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 25 | [su'en](http://twitter.com/search?q=su%27en) | N/A |
 | 26 | [Spurs](http://twitter.com/search?q=Spurs) | Spurs are a type of metal footwear worn by horse riders. They have a row of sharp points on the heel which are used to urge the horse forward. The term is also used to refer to a sports team, most notably Tottenham Hotspur Football Club in England. |
 | 27 | [Benny](http://twitter.com/search?q=Benny) | N/A |
-| 28 | [Regeringen](http://twitter.com/search?q=Regeringen) | N/A |
+| 28 | [regeringen](http://twitter.com/search?q=regeringen) | N/A |
 | 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 30 | [Både](http://twitter.com/search?q=B%c3%a5de) | N/A |
-| 31 | [Minteh](http://twitter.com/search?q=Minteh) | N/A |
+| 30 | [både](http://twitter.com/search?q=b%c3%a5de) | N/A |
+| 31 | [minteh](http://twitter.com/search?q=minteh) | N/A |
 | 32 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 33 | [Vestegnen](http://twitter.com/search?q=Vestegnen) | N/A |
 | 34 | [Tottenham](http://twitter.com/search?q=Tottenham) | Tottenham is a district in North London, England. It is known for its diverse population and vibrant culture. The name Tottenham is derived from the Old English words "toten" and "ham", meaning a homestead or village. |
@@ -57,14 +57,14 @@ This is top 50 for Denmark
 | 40 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 41 | [Vestens](http://twitter.com/search?q=Vestens) | N/A |
 | 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 43 | [Danske](http://twitter.com/search?q=Danske) | N/A |
-| 44 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 45 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 46 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 47 | [østerbro](http://twitter.com/search?q=%c3%b8sterbro) | N/A |
-| 48 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 49 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 50 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 43 | [danske](http://twitter.com/search?q=danske) | N/A |
+| 44 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 45 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 46 | [østerbro](http://twitter.com/search?q=%c3%b8sterbro) | N/A |
+| 47 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 48 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 49 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 50 | [nordsjælland](http://twitter.com/search?q=nordsj%c3%a6lland) | N/A |
 
 
 

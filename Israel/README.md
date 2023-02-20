@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-20 01:45:58 UTC`
+📆 Last Updated: `2023-02-20 02:43:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,17 +23,17 @@ This is top 50 for Israel
 | 6 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
 | 7 | [שגריר ארה](http://twitter.com/search?q=%d7%a9%d7%92%d7%a8%d7%99%d7%a8+%d7%90%d7%a8%d7%94) | N/A |
 | 8 | [יורם כהן](http://twitter.com/search?q=%d7%99%d7%95%d7%a8%d7%9d+%d7%9b%d7%94%d7%9f) | N/A |
-| 9 | [עלי מוגרבי](http://twitter.com/search?q=%d7%a2%d7%9c%d7%99+%d7%9e%d7%95%d7%92%d7%a8%d7%91%d7%99) | N/A |
-| 10 | [כפייה דתית](http://twitter.com/search?q=%d7%9b%d7%a4%d7%99%d7%99%d7%94+%d7%93%d7%aa%d7%99%d7%aa) | N/A |
-| 11 | [עמיחי שיקלי](http://twitter.com/search?q=%d7%a2%d7%9e%d7%99%d7%97%d7%99+%d7%a9%d7%99%d7%a7%d7%9c%d7%99) | N/A |
-| 12 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
-| 13 | [עם ארה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%a8%d7%94) | N/A |
-| 14 | [אמנון רובינשטיין](http://twitter.com/search?q=%d7%90%d7%9e%d7%a0%d7%95%d7%9f+%d7%a8%d7%95%d7%91%d7%99%d7%a0%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
-| 15 | [יעל דן](http://twitter.com/search?q=%d7%99%d7%a2%d7%9c+%d7%93%d7%9f) | N/A |
-| 16 | [עם חמץ](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%9e%d7%a5) | N/A |
-| 17 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
-| 18 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
-| 19 | [ממשל ביידן](http://twitter.com/search?q=%d7%9e%d7%9e%d7%a9%d7%9c+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
+| 9 | [כפייה דתית](http://twitter.com/search?q=%d7%9b%d7%a4%d7%99%d7%99%d7%94+%d7%93%d7%aa%d7%99%d7%aa) | N/A |
+| 10 | [עמיחי שיקלי](http://twitter.com/search?q=%d7%a2%d7%9e%d7%99%d7%97%d7%99+%d7%a9%d7%99%d7%a7%d7%9c%d7%99) | N/A |
+| 11 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
+| 12 | [אמנון רובינשטיין](http://twitter.com/search?q=%d7%90%d7%9e%d7%a0%d7%95%d7%9f+%d7%a8%d7%95%d7%91%d7%99%d7%a0%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
+| 13 | [עלי מוגרבי](http://twitter.com/search?q=%d7%a2%d7%9c%d7%99+%d7%9e%d7%95%d7%92%d7%a8%d7%91%d7%99) | N/A |
+| 14 | [יעל דן](http://twitter.com/search?q=%d7%99%d7%a2%d7%9c+%d7%93%d7%9f) | N/A |
+| 15 | [עם חמץ](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%9e%d7%a5) | N/A |
+| 16 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 17 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
+| 18 | [ממשל ביידן](http://twitter.com/search?q=%d7%9e%d7%9e%d7%a9%d7%9c+%d7%91%d7%99%d7%99%d7%93%d7%9f) | N/A |
+| 19 | [עם ארה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%a8%d7%94) | N/A |
 | 20 | [יעל אלקנה](http://twitter.com/search?q=%d7%99%d7%a2%d7%9c+%d7%90%d7%9c%d7%a7%d7%a0%d7%94) | N/A |
 | 21 | [ביום כיפור](http://twitter.com/search?q=%d7%91%d7%99%d7%95%d7%9d+%d7%9b%d7%99%d7%a4%d7%95%d7%a8) | N/A |
 | 22 | [כ שמחה רוטמן](http://twitter.com/search?q=%d7%9b+%d7%a9%d7%9e%d7%97%d7%94+%d7%a8%d7%95%d7%98%d7%9e%d7%9f) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Israel
 | 46 | [#ماذا_بعد](http://twitter.com/search?q=%23%d9%85%d8%a7%d8%b0%d8%a7_%d8%a8%d8%b9%d8%af) | N/A |
 | 47 | [אח שלך](http://twitter.com/search?q=%d7%90%d7%97+%d7%a9%d7%9c%d7%9a) | N/A |
 | 48 | [חובש כיפה](http://twitter.com/search?q=%d7%97%d7%95%d7%91%d7%a9+%d7%9b%d7%99%d7%a4%d7%94) | N/A |
-| 49 | [יום חג](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%97%d7%92) | N/A |
-| 50 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 49 | [ميسي](http://twitter.com/search?q=%d9%85%d9%8a%d8%b3%d9%8a) | ميسي is a common Arabic name, derived from the word ميس (pronounced "mees"), which means "one who is chosen". In English, it can be translated to mean "chosen one". |
+| 50 | [אח״כ](http://twitter.com/search?q=%d7%90%d7%97%d7%b4%d7%9b) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-02-20 01:44:56 UTC`
+📆 Last Updated: `2023-02-20 02:42:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 2 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
-| 3 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 4 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 5 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 6 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 7 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
-| 8 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 9 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 2 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 3 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 4 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 5 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 6 | [Pascal](http://twitter.com/search?q=Pascal) | Pascal is a programming language developed in the late 1960s by Niklaus Wirth. It is a procedural language, meaning that it is designed to be used for writing programs that execute step-by-step instructions. Pascal is widely used in computer science education and research, as well as in commercial software development. The name Pascal comes from the French mathematician Blaise Pascal, who invented the first mechanical calculator in 1642. |
+| 7 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 8 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
+| 9 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
 | 10 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
-| 11 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 12 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 13 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 14 | [Team Lebron](http://twitter.com/search?q=Team+Lebron) | N/A |
-| 15 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 16 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 17 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 18 | [Holl](http://twitter.com/search?q=Holl) | N/A |
-| 19 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 20 | [O Canada](http://twitter.com/search?q=O+Canada) | N/A |
-| 21 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 22 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 23 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
-| 24 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 25 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
-| 26 | [#bbcelebrites](http://twitter.com/search?q=%23bbcelebrites) | N/A |
-| 27 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
-| 28 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
-| 29 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 30 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 31 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 32 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
-| 33 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 34 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 35 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
-| 36 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
-| 37 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
-| 38 | [Toews](http://twitter.com/search?q=Toews) | N/A |
-| 39 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
-| 40 | [Drai](http://twitter.com/search?q=Drai) | N/A |
-| 41 | [Leaf](http://twitter.com/search?q=Leaf) | N/A |
-| 42 | [Foegele](http://twitter.com/search?q=Foegele) | N/A |
-| 43 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
-| 44 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 45 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 46 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 47 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 48 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 49 | [#CanXNT](http://twitter.com/search?q=%23CanXNT) | N/A |
-| 50 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 11 | [#90DayFiance](http://twitter.com/search?q=%2390DayFiance) | #90DayFiance is a reality television series on the TLC network. It follows couples who have applied for or received a K-1 visa, which allows foreign fiancés of American citizens to enter the United States for a 90-day period in order to get married. The show documents their journey as they decide whether or not to marry their partner and adjust to life in the United States. |
+| 12 | [#tlmep](http://twitter.com/search?q=%23tlmep) | N/A |
+| 13 | [#LaVoixTVA](http://twitter.com/search?q=%23LaVoixTVA) | N/A |
+| 14 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 15 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 16 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 17 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 18 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 19 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 20 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 21 | [Holl](http://twitter.com/search?q=Holl) | N/A |
+| 22 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 23 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 24 | [O Canada](http://twitter.com/search?q=O+Canada) | N/A |
+| 25 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 26 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 27 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 28 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 29 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 30 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 31 | [Jrue](http://twitter.com/search?q=Jrue) | Jrue is a unisex name of French origin. It is derived from the Latin name "Gaius Julius Caesar" and means "youthful, young at heart". |
+| 32 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 33 | [Nurse](http://twitter.com/search?q=Nurse) | N/A |
+| 34 | [Demar](http://twitter.com/search?q=Demar) | Demar is a shortened form of the name Demarcus, which is a male given name of Latin origin. It is derived from the Latin words "de" (meaning "of") and "Marcus" (meaning "warlike"). In English, Demar can be translated to mean "of warlike". |
+| 35 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 36 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 37 | [MacKinnon](http://twitter.com/search?q=MacKinnon) | N/A |
+| 38 | [Bunting](http://twitter.com/search?q=Bunting) | Bunting is a type of fabric made from cotton, wool, or synthetic fibers. It is often used for decorative purposes, such as flags, banners, and decorations. The term "bunting" comes from the Old English word buntan, which means to adorn or decorate. |
+| 39 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 40 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 41 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 42 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 43 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
+| 44 | [Toews](http://twitter.com/search?q=Toews) | N/A |
+| 45 | [Foegele](http://twitter.com/search?q=Foegele) | N/A |
+| 46 | [Timmy](http://twitter.com/search?q=Timmy) | N/A |
+| 47 | [Kenny](http://twitter.com/search?q=Kenny) | N/A |
+| 48 | [Colorado](http://twitter.com/search?q=Colorado) | N/A |
+| 49 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 50 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-02-20 01:45:05 UTC`
+📆 Last Updated: `2023-02-20 02:42:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Equidad](http://twitter.com/search?q=Equidad) | N/A |
-| 2 | [Jhon Duque](http://twitter.com/search?q=Jhon+Duque) | N/A |
-| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 4 | [#Viña2023](http://twitter.com/search?q=%23Vi%c3%b1a2023) | N/A |
-| 5 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
-| 6 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 7 | [Brahian Palacios](http://twitter.com/search?q=Brahian+Palacios) | N/A |
+| 1 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 2 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 3 | [#Viña2023](http://twitter.com/search?q=%23Vi%c3%b1a2023) | N/A |
+| 4 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 5 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 6 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 7 | [Lencina](http://twitter.com/search?q=Lencina) | N/A |
 | 8 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 9 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 10 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
-| 11 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
-| 12 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 13 | [#LosDanieles](http://twitter.com/search?q=%23LosDanieles) | N/A |
-| 14 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
-| 15 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 16 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
-| 17 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
-| 18 | [#GabrielJoséGonzález](http://twitter.com/search?q=%23GabrielJos%c3%a9Gonz%c3%a1lez) | N/A |
-| 19 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
-| 20 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 21 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
-| 22 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 23 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 24 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 25 | [Harold Rivera](http://twitter.com/search?q=Harold+Rivera) | N/A |
-| 26 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
-| 27 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
-| 28 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
-| 29 | [Wilson Morelo](http://twitter.com/search?q=Wilson+Morelo) | N/A |
-| 30 | [Primera Dama](http://twitter.com/search?q=Primera+Dama) | N/A |
-| 31 | [Lencina](http://twitter.com/search?q=Lencina) | N/A |
-| 32 | [Tomás](http://twitter.com/search?q=Tom%c3%a1s) | N/A |
-| 33 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 34 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
-| 35 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 36 | [Bavaria](http://twitter.com/search?q=Bavaria) | N/A |
-| 37 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
-| 38 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
-| 39 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 40 | [Florez](http://twitter.com/search?q=Florez) | N/A |
-| 41 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
-| 42 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 43 | [albornoz](http://twitter.com/search?q=albornoz) | N/A |
-| 44 | [McClung](http://twitter.com/search?q=McClung) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [David González](http://twitter.com/search?q=David+Gonz%c3%a1lez) | N/A |
-| 47 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 48 | [Techo](http://twitter.com/search?q=Techo) | N/A |
-| 49 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 50 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 9 | [Jhon Duque](http://twitter.com/search?q=Jhon+Duque) | N/A |
+| 10 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 11 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 12 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 13 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
+| 14 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 15 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
+| 16 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
+| 17 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 18 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 19 | [#LosDanieles](http://twitter.com/search?q=%23LosDanieles) | N/A |
+| 20 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 21 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
+| 22 | [Barranquilla](http://twitter.com/search?q=Barranquilla) | N/A |
+| 23 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
+| 24 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 25 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 26 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 27 | [Felipe Bayón](http://twitter.com/search?q=Felipe+Bay%c3%b3n) | Felipe Bayón is a Spanish surname. It is derived from the given name Felipe, which is the Spanish form of Philip, and the word bayón, which means "bay" or "inlet". In English, it can be translated to mean "of Philip's bay". |
+| 28 | [Doncic](http://twitter.com/search?q=Doncic) | Doncic is the surname of Slovenian professional basketball player Luka Doncic. In English, it is pronounced "DOHN-chich". |
+| 29 | [Henry Delgado](http://twitter.com/search?q=Henry+Delgado) | N/A |
+| 30 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 31 | [Sambueza](http://twitter.com/search?q=Sambueza) | N/A |
+| 32 | [Arturo Reyes](http://twitter.com/search?q=Arturo+Reyes) | N/A |
+| 33 | [Alfonso López](http://twitter.com/search?q=Alfonso+L%c3%b3pez) | N/A |
+| 34 | [Primera Dama](http://twitter.com/search?q=Primera+Dama) | N/A |
+| 35 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 36 | [Carlos Antonio Vélez](http://twitter.com/search?q=Carlos+Antonio+V%c3%a9lez) | N/A |
+| 37 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 38 | [Pereira](http://twitter.com/search?q=Pereira) | N/A |
+| 39 | [Bavaria](http://twitter.com/search?q=Bavaria) | N/A |
+| 40 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 41 | [Tutina](http://twitter.com/search?q=Tutina) | N/A |
+| 42 | [Comesaña](http://twitter.com/search?q=Comesa%c3%b1a) | N/A |
+| 43 | [Enamorado](http://twitter.com/search?q=Enamorado) | N/A |
+| 44 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 45 | [Tomás](http://twitter.com/search?q=Tom%c3%a1s) | N/A |
+| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 47 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 48 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 49 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 50 | [vamos millonarios](http://twitter.com/search?q=vamos+millonarios) | N/A |
 
 
 

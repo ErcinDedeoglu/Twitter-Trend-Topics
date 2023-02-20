@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-20 01:45:59 UTC`
+📆 Last Updated: `2023-02-20 02:43:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,8 +27,8 @@ This is top 50 for Lebanon
 | 10 | [اسرائيل](http://twitter.com/search?q=%d8%a7%d8%b3%d8%b1%d8%a7%d8%a6%d9%8a%d9%84) | N/A |
 | 11 | [رامي نعيم](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%8a+%d9%86%d8%b9%d9%8a%d9%85) | N/A |
 | 12 | [شهر علي](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b9%d9%84%d9%8a) | N/A |
-| 13 | [القرض الحسن](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
-| 14 | [الفيه الباغيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%87+%d8%a7%d9%84%d8%a8%d8%a7%d8%ba%d9%8a%d9%87) | N/A |
+| 13 | [الفيه الباغيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%87+%d8%a7%d9%84%d8%a8%d8%a7%d8%ba%d9%8a%d9%87) | N/A |
+| 14 | [القرض الحسن](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
 | 15 | [بن ابي سفيان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
 | 16 | [بلوم بنك](http://twitter.com/search?q=%d8%a8%d9%84%d9%88%d9%85+%d8%a8%d9%86%d9%83) | N/A |
 | 17 | [قانا الجليل](http://twitter.com/search?q=%d9%82%d8%a7%d9%86%d8%a7+%d8%a7%d9%84%d8%ac%d9%84%d9%8a%d9%84) | N/A |
@@ -53,11 +53,11 @@ This is top 50 for Lebanon
 | 36 | [علي المنابر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%a8%d8%b1) | N/A |
 | 37 | [محمد](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af) | محمد is an Arabic name that means "praiseworthy" in English. It is also the name of the Islamic prophet Muhammad. |
 | 38 | [معاوية بن أبي سفيان](http://twitter.com/search?q=%d9%85%d8%b9%d8%a7%d9%88%d9%8a%d8%a9+%d8%a8%d9%86+%d8%a3%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
-| 39 | [نانسي اللقيس](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%b3%d9%8a+%d8%a7%d9%84%d9%84%d9%82%d9%8a%d8%b3) | N/A |
-| 40 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 41 | [مالك الاشتر](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d9%83+%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1) | N/A |
-| 42 | [البشير](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b4%d9%8a%d8%b1) | N/A |
-| 43 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 39 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 40 | [مالك الاشتر](http://twitter.com/search?q=%d9%85%d8%a7%d9%84%d9%83+%d8%a7%d9%84%d8%a7%d8%b4%d8%aa%d8%b1) | N/A |
+| 41 | [البشير](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b4%d9%8a%d8%b1) | N/A |
+| 42 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 43 | [نانسي اللقيس](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%b3%d9%8a+%d8%a7%d9%84%d9%84%d9%82%d9%8a%d8%b3) | N/A |
 | 44 | [19 شباط 2023](http://twitter.com/search?q=19+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
 | 45 | [الاتحاد الافريقي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a) | N/A |
 | 46 | [الدفاع الجوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%81%d8%a7%d8%b9+%d8%a7%d9%84%d8%ac%d9%88%d9%8a) | N/A |

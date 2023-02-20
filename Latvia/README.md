@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-20 01:45:59 UTC`
+📆 Last Updated: `2023-02-20 02:43:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,11 +24,11 @@ This is top 50 for Latvia
 | 7 | [Kurzemes](http://twitter.com/search?q=Kurzemes) | N/A |
 | 8 | [pasaules](http://twitter.com/search?q=pasaules) | N/A |
 | 9 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 10 | [Daugavas](http://twitter.com/search?q=Daugavas) | N/A |
+| 10 | [daugavas](http://twitter.com/search?q=daugavas) | N/A |
 | 11 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
 | 12 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
 | 13 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 14 | [Manā](http://twitter.com/search?q=Man%c4%81) | N/A |
+| 14 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
 | 15 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
 | 16 | [visiem](http://twitter.com/search?q=visiem) | N/A |
 | 17 | [taisnība](http://twitter.com/search?q=taisn%c4%abba) | N/A |
@@ -45,7 +45,7 @@ This is top 50 for Latvia
 | 28 | [pagaidām](http://twitter.com/search?q=pagaid%c4%81m) | N/A |
 | 29 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
 | 30 | [šeit](http://twitter.com/search?q=%c5%a1eit) | N/A |
-| 31 | [Domāju](http://twitter.com/search?q=Dom%c4%81ju) | N/A |
+| 31 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
 | 32 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 33 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
 | 34 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
@@ -60,8 +60,8 @@ This is top 50 for Latvia
 | 43 | [pirmo](http://twitter.com/search?q=pirmo) | N/A |
 | 44 | [izskatās](http://twitter.com/search?q=izskat%c4%81s) | N/A |
 | 45 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
-| 46 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
-| 47 | [Toties](http://twitter.com/search?q=Toties) | N/A |
+| 46 | [manuprāt](http://twitter.com/search?q=manupr%c4%81t) | N/A |
+| 47 | [toties](http://twitter.com/search?q=toties) | N/A |
 | 48 | [droši](http://twitter.com/search?q=dro%c5%a1i) | N/A |
 | 49 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
 | 50 | [eiropu](http://twitter.com/search?q=eiropu) | N/A |

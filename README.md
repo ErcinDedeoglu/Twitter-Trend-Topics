@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-20 01:44:55 UTC`
+📆 Last Updated: `2023-02-20 02:42:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 2 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 3 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 4 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 5 | [#RuyalarBuyusun](http://twitter.com/search?q=%23RuyalarBuyusun) | N/A |
-| 6 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
-| 7 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
-| 8 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
-| 9 | [#Viña2023](http://twitter.com/search?q=%23Vi%c3%b1a2023) | N/A |
-| 10 | [Team Lebron](http://twitter.com/search?q=Team+Lebron) | N/A |
-| 11 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 12 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 13 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 14 | [Império Serrano](http://twitter.com/search?q=Imp%c3%a9rio+Serrano) | N/A |
-| 15 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 16 | [Hookah Doncic](http://twitter.com/search?q=Hookah+Doncic) | N/A |
-| 17 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 18 | [CRIS MJ](http://twitter.com/search?q=CRIS+MJ) | N/A |
-| 19 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 20 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 21 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
-| 22 | [Briasco](http://twitter.com/search?q=Briasco) | N/A |
-| 23 | [Ernie](http://twitter.com/search?q=Ernie) | N/A |
-| 24 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 25 | [Josh Gordon](http://twitter.com/search?q=Josh+Gordon) | N/A |
-| 26 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 27 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 28 | [Roger Guedes](http://twitter.com/search?q=Roger+Guedes) | Roger Guedes is a Brazilian footballer who currently plays for Atlético Mineiro. His name in English translates to "Roger Woods". |
-| 29 | [Jewel](http://twitter.com/search?q=Jewel) | N/A |
-| 30 | [Jaren Jackson](http://twitter.com/search?q=Jaren+Jackson) | Jaren Jackson is a surname of English origin. It is derived from the Old English words "geard" (enclosure) and "sceaga" (wood). The name means "wooden enclosure". |
-| 31 | [Joker](http://twitter.com/search?q=Joker) | N/A |
-| 32 | [Stenhouse](http://twitter.com/search?q=Stenhouse) | N/A |
-| 33 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 34 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 35 | [fred boco](http://twitter.com/search?q=fred+boco) | N/A |
-| 36 | [Figal](http://twitter.com/search?q=Figal) | N/A |
-| 37 | [Novick](http://twitter.com/search?q=Novick) | N/A |
-| 38 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
-| 39 | [Menosse](http://twitter.com/search?q=Menosse) | Menosse is a Portuguese word that means "less" or "fewer". It is used to describe a smaller amount of something. |
-| 40 | [LeGM](http://twitter.com/search?q=LeGM) | N/A |
-| 41 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 42 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
-| 43 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 44 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 45 | [ミサイル](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab) | N/A |
-| 46 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 47 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
-| 48 | [Ricardo](http://twitter.com/search?q=Ricardo) | Ricardo is a Spanish name derived from the Latin name Richardus, which means “brave ruler”. It is also a common surname in Spanish-speaking countries. |
-| 49 | [Zambrano](http://twitter.com/search?q=Zambrano) | N/A |
-| 50 | [PAULOANDRE E HELLMANNS NBA](http://twitter.com/search?q=PAULOANDRE+E+HELLMANNS+NBA) | N/A |
+| 1 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 2 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 3 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 4 | [#RuyalarBuyusun](http://twitter.com/search?q=%23RuyalarBuyusun) | N/A |
+| 5 | [#Viña2023](http://twitter.com/search?q=%23Vi%c3%b1a2023) | N/A |
+| 6 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 7 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 8 | [銀河鉄道999](http://twitter.com/search?q=%e9%8a%80%e6%b2%b3%e9%89%84%e9%81%93999) | N/A |
+| 9 | [宇宙戦艦ヤマト](http://twitter.com/search?q=%e5%ae%87%e5%ae%99%e6%88%a6%e8%89%a6%e3%83%a4%e3%83%9e%e3%83%88) | N/A |
+| 10 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 11 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 12 | [松本零士さん死去](http://twitter.com/search?q=%e6%9d%be%e6%9c%ac%e9%9b%b6%e5%a3%ab%e3%81%95%e3%82%93%e6%ad%bb%e5%8e%bb) | N/A |
+| 13 | [急性心不全](http://twitter.com/search?q=%e6%80%a5%e6%80%a7%e5%bf%83%e4%b8%8d%e5%85%a8) | N/A |
+| 14 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
+| 15 | [Império Serrano](http://twitter.com/search?q=Imp%c3%a9rio+Serrano) | N/A |
+| 16 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 17 | [Arlindo](http://twitter.com/search?q=Arlindo) | N/A |
+| 18 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
+| 19 | [日刊スポーツ](http://twitter.com/search?q=%e6%97%a5%e5%88%8a%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84) | N/A |
+| 20 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 21 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 22 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 23 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 24 | [Paola Oliveira](http://twitter.com/search?q=Paola+Oliveira) | N/A |
+| 25 | [Zeca](http://twitter.com/search?q=Zeca) | N/A |
+| 26 | [Cris MJ](http://twitter.com/search?q=Cris+MJ) | N/A |
+| 27 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 28 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 29 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 30 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 31 | [CAMILA AL 9009](http://twitter.com/search?q=CAMILA+AL+9009) | N/A |
+| 32 | [Myriam Hernández](http://twitter.com/search?q=Myriam+Hern%c3%a1ndez) | N/A |
+| 33 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 34 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
+| 35 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 36 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
+| 37 | [Hookah Doncic](http://twitter.com/search?q=Hookah+Doncic) | N/A |
+| 38 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 39 | [ハーロック](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%ad%e3%83%83%e3%82%af) | N/A |
+| 40 | [Arlindinho](http://twitter.com/search?q=Arlindinho) | N/A |
+| 41 | [Diogo Nogueira](http://twitter.com/search?q=Diogo+Nogueira) | N/A |
+| 42 | [Ja Morant](http://twitter.com/search?q=Ja+Morant) | Ja Morant is the name of an American professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). The name is derived from his given name, Ja, and his surname, Morant. In English, it means "Ja of Morant". |
+| 43 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
+| 44 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 45 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 46 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 47 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 48 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 49 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 50 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-02-20 01:45:59 UTC`
+📆 Last Updated: `2023-02-20 02:43:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,12 +18,12 @@ This is top 50 for Kuwait
 | 1 | [#القادسيه_السالميه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d9%87_%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
 | 2 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
 | 3 | [#برشلونه_قادش](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d9%82%d8%a7%d8%af%d8%b4) | N/A |
-| 4 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
-| 5 | [#الكويت_كاظمه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa_%d9%83%d8%a7%d8%b8%d9%85%d9%87) | N/A |
-| 6 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 4 | [#الكويت_كاظمه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa_%d9%83%d8%a7%d8%b8%d9%85%d9%87) | N/A |
+| 5 | [ليستر](http://twitter.com/search?q=%d9%84%d9%8a%d8%b3%d8%aa%d8%b1) | N/A |
+| 6 | [راشفورد](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b4%d9%81%d9%88%d8%b1%d8%af) | راشفورد (Rashford) is the surname of English professional footballer Marcus Rashford. It is not a word in English, but it is the transliteration of his surname from English to Arabic. |
 | 7 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
-| 8 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 9 | [#الاسراء_والمعراج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d8%a1_%d9%88%d8%a7%d9%84%d9%85%d8%b9%d8%b1%d8%a7%d8%ac) | N/A |
+| 8 | [#بوح_اخر_اليل](http://twitter.com/search?q=%23%d8%a8%d9%88%d8%ad_%d8%a7%d8%ae%d8%b1_%d8%a7%d9%84%d9%8a%d9%84) | N/A |
+| 9 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
 | 10 | [علي طالب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b7%d8%a7%d9%84%d8%a8) | N/A |
 | 11 | [دي خيا](http://twitter.com/search?q=%d8%af%d9%8a+%d8%ae%d9%8a%d8%a7) | دي خيا is an Arabic phrase that translates to "this is mine" in English. It is used to express ownership or possession of something. |
 | 12 | [وزير التجاره](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87) | N/A |
@@ -34,8 +34,8 @@ This is top 50 for Kuwait
 | 17 | [محمد ابراهيم](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
 | 18 | [اليوم الاحد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ad%d8%af) | N/A |
 | 19 | [نايف زويد](http://twitter.com/search?q=%d9%86%d8%a7%d9%8a%d9%81+%d8%b2%d9%88%d9%8a%d8%af) | N/A |
-| 20 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
-| 21 | [راعي الباص](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%a8%d8%a7%d8%b5) | N/A |
+| 20 | [راعي الباص](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d8%a8%d8%a7%d8%b5) | N/A |
+| 21 | [شتيغن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ba%d9%86) | شتيغن (pronounced "shteeghan") is an Arabic word meaning "to be patient". It is often used as a reminder to stay calm and composed in difficult situations. |
 | 22 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
 | 23 | [علي الحكم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%ad%d9%83%d9%85) | N/A |
 | 24 | [الحكم السمحان](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d9%83%d9%85+%d8%a7%d9%84%d8%b3%d9%85%d8%ad%d8%a7%d9%86) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for Kuwait
 | 34 | [راعي اللاند](http://twitter.com/search?q=%d8%b1%d8%a7%d8%b9%d9%8a+%d8%a7%d9%84%d9%84%d8%a7%d9%86%d8%af) | N/A |
 | 35 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
 | 36 | [يابو دهام](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%af%d9%87%d8%a7%d9%85) | N/A |
-| 37 | [كلين شيت](http://twitter.com/search?q=%d9%83%d9%84%d9%8a%d9%86+%d8%b4%d9%8a%d8%aa) | N/A |
-| 38 | [المواد المدعومه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%88%d9%85%d9%87) | N/A |
-| 39 | [سالم سعد حميدان الفجي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%b3%d8%b9%d8%af+%d8%ad%d9%85%d9%8a%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d8%ac%d9%8a) | N/A |
-| 40 | [دوري زين الممتاز](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
-| 41 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
-| 42 | [علي المستثمر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ab%d9%85%d8%b1) | N/A |
+| 37 | [المواد المدعومه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%af%d8%b9%d9%88%d9%85%d9%87) | N/A |
+| 38 | [سالم سعد حميدان الفجي](http://twitter.com/search?q=%d8%b3%d8%a7%d9%84%d9%85+%d8%b3%d8%b9%d8%af+%d8%ad%d9%85%d9%8a%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d8%ac%d9%8a) | N/A |
+| 39 | [دوري زين الممتاز](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%b2%d9%8a%d9%86+%d8%a7%d9%84%d9%85%d9%85%d8%aa%d8%a7%d8%b2) | N/A |
+| 40 | [اليونايتد](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | اليونايتد (United Nations) is an international organization founded in 1945 after World War II to promote world peace, security, and cooperation among nations. Its mission is to maintain international peace and security, develop friendly relations among nations, achieve international cooperation in solving international problems, and be a center for harmonizing the actions of nations. In English, اليونايتد translates to United Nations. |
+| 41 | [علي المستثمر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ab%d9%85%d8%b1) | N/A |
+| 42 | [كلين شيت](http://twitter.com/search?q=%d9%83%d9%84%d9%8a%d9%86+%d8%b4%d9%8a%d8%aa) | N/A |
 | 43 | [الجهاز الفني](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%b2+%d8%a7%d9%84%d9%81%d9%86%d9%8a) | N/A |
 | 44 | [الشماغ الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%a7%d8%ba+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
 | 45 | [عيد الرشيدي](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%8a) | N/A |
 | 46 | [نوتنغهام](http://twitter.com/search?q=%d9%86%d9%88%d8%aa%d9%86%d8%ba%d9%87%d8%a7%d9%85) | N/A |
 | 47 | [المستثمر الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%ab%d9%85%d8%b1+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
 | 48 | [نادي الكويت](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 49 | [المسجد الحرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ac%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d8%a7%d9%85) | N/A |
-| 50 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
+| 49 | [الفارو](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%a7%d8%b1%d9%88) | الفارو is an Arabic word that means "the fox". |
+| 50 | [الكره الكويتيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a%d9%87) | N/A |
 
 
 

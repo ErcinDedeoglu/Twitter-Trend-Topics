@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saint Petersburg
 
-📆 Last Updated: `2023-02-20 01:45:37 UTC`
+📆 Last Updated: `2023-02-20 02:42:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,7 +33,7 @@ This is top 50 for [Russia](</Russia>)
 | 16 | [#GenshinImpact](http://twitter.com/search?q=%23GenshinImpact) | N/A |
 | 17 | [В США](http://twitter.com/search?q=%d0%92+%d0%a1%d0%a8%d0%90) | N/A |
 | 18 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 19 | [Проблема](http://twitter.com/search?q=%d0%9f%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0) | N/A |
+| 19 | [проблема](http://twitter.com/search?q=%d0%bf%d1%80%d0%be%d0%b1%d0%bb%d0%b5%d0%bc%d0%b0) | N/A |
 | 20 | [любовь](http://twitter.com/search?q=%d0%bb%d1%8e%d0%b1%d0%be%d0%b2%d1%8c) | N/A |
 | 21 | [Держи](http://twitter.com/search?q=%d0%94%d0%b5%d1%80%d0%b6%d0%b8) | N/A |
 | 22 | [Короче](http://twitter.com/search?q=%d0%9a%d0%be%d1%80%d0%be%d1%87%d0%b5) | N/A |
@@ -41,14 +41,14 @@ This is top 50 for [Russia](</Russia>)
 | 24 | [италии](http://twitter.com/search?q=%d0%b8%d1%82%d0%b0%d0%bb%d0%b8%d0%b8) | N/A |
 | 25 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 26 | [петербурге](http://twitter.com/search?q=%d0%bf%d0%b5%d1%82%d0%b5%d1%80%d0%b1%d1%83%d1%80%d0%b3%d0%b5) | N/A |
-| 27 | [Судя](http://twitter.com/search?q=%d0%a1%d1%83%d0%b4%d1%8f) | N/A |
+| 27 | [судя](http://twitter.com/search?q=%d1%81%d1%83%d0%b4%d1%8f) | N/A |
 | 28 | [попробуй](http://twitter.com/search?q=%d0%bf%d0%be%d0%bf%d1%80%d0%be%d0%b1%d1%83%d0%b9) | N/A |
 | 29 | [Дааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0) | N/A |
 | 30 | [извините](http://twitter.com/search?q=%d0%b8%d0%b7%d0%b2%d0%b8%d0%bd%d0%b8%d1%82%d0%b5) | N/A |
-| 31 | [Москву](http://twitter.com/search?q=%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d1%83) | N/A |
+| 31 | [москву](http://twitter.com/search?q=%d0%bc%d0%be%d1%81%d0%ba%d0%b2%d1%83) | N/A |
 | 32 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 33 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 34 | [Дайте](http://twitter.com/search?q=%d0%94%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
+| 34 | [дайте](http://twitter.com/search?q=%d0%b4%d0%b0%d0%b9%d1%82%d0%b5) | N/A |
 | 35 | [господь](http://twitter.com/search?q=%d0%b3%d0%be%d1%81%d0%bf%d0%be%d0%b4%d1%8c) | N/A |
 | 36 | [Боюсь](http://twitter.com/search?q=%d0%91%d0%be%d1%8e%d1%81%d1%8c) | N/A |
 | 37 | [Европы](http://twitter.com/search?q=%d0%95%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |

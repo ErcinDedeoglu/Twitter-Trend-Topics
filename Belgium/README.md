@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-20 01:45:55 UTC`
+📆 Last Updated: `2023-02-20 02:43:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for Belgium
 | 12 | [Parker](http://twitter.com/search?q=Parker) | N/A |
 | 13 | [Raman](http://twitter.com/search?q=Raman) | N/A |
 | 14 | [Dreyer](http://twitter.com/search?q=Dreyer) | N/A |
-| 15 | [Courtrai](http://twitter.com/search?q=Courtrai) | N/A |
+| 15 | [courtrai](http://twitter.com/search?q=courtrai) | N/A |
 | 16 | [Tom Lanoye](http://twitter.com/search?q=Tom+Lanoye) | N/A |
 | 17 | [Aalst](http://twitter.com/search?q=Aalst) | N/A |
 | 18 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
@@ -49,7 +49,7 @@ This is top 50 for Belgium
 | 32 | [Somers](http://twitter.com/search?q=Somers) | N/A |
 | 33 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
 | 34 | [matty](http://twitter.com/search?q=matty) | N/A |
-| 35 | [Vanaken](http://twitter.com/search?q=Vanaken) | N/A |
+| 35 | [vanaken](http://twitter.com/search?q=vanaken) | N/A |
 | 36 | [Theo Francken](http://twitter.com/search?q=Theo+Francken) | N/A |
 | 37 | [Yeosang](http://twitter.com/search?q=Yeosang) | N/A |
 | 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
