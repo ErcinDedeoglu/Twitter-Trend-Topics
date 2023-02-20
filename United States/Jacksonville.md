@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-02-20 17:17:18 UTC`
+📆 Last Updated: `2023-02-20 18:17:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 2 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 3 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 4 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
 | 5 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 7 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 8 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 9 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
-| 10 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 8 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
+| 9 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 10 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 11 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 12 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 12 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 13 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 14 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 15 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 14 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
+| 15 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
 | 16 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
-| 17 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
-| 18 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 19 | [America Last](http://twitter.com/search?q=America+Last) | N/A |
-| 20 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
-| 21 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 22 | [Roots Picnic](http://twitter.com/search?q=Roots+Picnic) | N/A |
-| 23 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 24 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 25 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 26 | [Abraham Lincoln](http://twitter.com/search?q=Abraham+Lincoln) | N/A |
-| 27 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 28 | [#DarkBrandon](http://twitter.com/search?q=%23DarkBrandon) | N/A |
-| 29 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 30 | [Sedition](http://twitter.com/search?q=Sedition) | N/A |
-| 31 | [East Palestine Ohio](http://twitter.com/search?q=East+Palestine+Ohio) | N/A |
+| 17 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 18 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
+| 19 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 20 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
+| 21 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 22 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 23 | [America Last](http://twitter.com/search?q=America+Last) | N/A |
+| 24 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
+| 25 | [#ClipperNation](http://twitter.com/search?q=%23ClipperNation) | N/A |
+| 26 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 27 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 28 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 29 | [Sedition](http://twitter.com/search?q=Sedition) | N/A |
+| 30 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 31 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 | 32 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 33 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 34 | [Big Guy](http://twitter.com/search?q=Big+Guy) | N/A |
-| 35 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
-| 36 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 37 | [Renaldo Hill](http://twitter.com/search?q=Renaldo+Hill) | N/A |
-| 38 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
-| 39 | [America First](http://twitter.com/search?q=America+First) | N/A |
-| 40 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 41 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
-| 42 | [Washington's Birthday](http://twitter.com/search?q=Washington%27s+Birthday) | N/A |
-| 43 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 44 | [Staley](http://twitter.com/search?q=Staley) | Staley is a surname of English origin. It is derived from the Old English words 'stael' meaning 'steel' and 'leah' meaning 'woodland clearing'. The name was originally given to someone who lived near a steel-producing area or worked in the steel industry. |
-| 45 | [PG and Kawhi](http://twitter.com/search?q=PG+and+Kawhi) | N/A |
+| 33 | [Roots Picnic](http://twitter.com/search?q=Roots+Picnic) | N/A |
+| 34 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 35 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 36 | [Abraham Lincoln](http://twitter.com/search?q=Abraham+Lincoln) | N/A |
+| 37 | [O'Keefe](http://twitter.com/search?q=O%27Keefe) | N/A |
+| 38 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
+| 39 | [Marjorie](http://twitter.com/search?q=Marjorie) | Marjorie is a female given name of French origin, derived from the Latin Margarita, meaning "pearl". It is also a Scottish form of Margaret. |
+| 40 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
+| 41 | [America First](http://twitter.com/search?q=America+First) | N/A |
+| 42 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 43 | [East Palestine Ohio](http://twitter.com/search?q=East+Palestine+Ohio) | N/A |
+| 44 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 45 | [Jim Leonhard](http://twitter.com/search?q=Jim+Leonhard) | N/A |
 | 46 | [Gotti](http://twitter.com/search?q=Gotti) | N/A |
-| 47 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 48 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 49 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 50 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 47 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 48 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
+| 49 | [Big Guy](http://twitter.com/search?q=Big+Guy) | N/A |
+| 50 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Plymouth
 
-📆 Last Updated: `2023-02-20 17:16:37 UTC`
+📆 Last Updated: `2023-02-20 18:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 2 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 3 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
-| 4 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 5 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 6 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
-| 7 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
-| 8 | [#BMADoctorsVoteYes](http://twitter.com/search?q=%23BMADoctorsVoteYes) | N/A |
-| 9 | [#JLPets](http://twitter.com/search?q=%23JLPets) | N/A |
-| 10 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 11 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 12 | [#payrestoration](http://twitter.com/search?q=%23payrestoration) | N/A |
-| 13 | [Bristol De Mai](http://twitter.com/search?q=Bristol+De+Mai) | N/A |
-| 14 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 15 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
-| 16 | [Junior Doctors](http://twitter.com/search?q=Junior+Doctors) | N/A |
-| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 18 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 19 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 20 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 21 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 22 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
-| 23 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 24 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 25 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 26 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 27 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 28 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
-| 29 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 30 | [Hotmail](http://twitter.com/search?q=Hotmail) | N/A |
-| 31 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 32 | [Yousaf](http://twitter.com/search?q=Yousaf) | N/A |
-| 33 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 34 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 35 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 36 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 37 | [Devon](http://twitter.com/search?q=Devon) | N/A |
-| 38 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 39 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
-| 40 | [Philip Pullman](http://twitter.com/search?q=Philip+Pullman) | N/A |
-| 41 | [Enid Blyton](http://twitter.com/search?q=Enid+Blyton) | N/A |
-| 42 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 43 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
-| 44 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 45 | [Mayor of London](http://twitter.com/search?q=Mayor+of+London) | N/A |
-| 46 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 47 | [Regan](http://twitter.com/search?q=Regan) | N/A |
-| 48 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 49 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
+| 1 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
+| 2 | [#ScumMedia](http://twitter.com/search?q=%23ScumMedia) | N/A |
+| 3 | [Lancashire Police](http://twitter.com/search?q=Lancashire+Police) | N/A |
+| 4 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 5 | [#RequestABetRewards](http://twitter.com/search?q=%23RequestABetRewards) | N/A |
+| 6 | [Devon](http://twitter.com/search?q=Devon) | N/A |
+| 7 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 8 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 9 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
+| 10 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 11 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 12 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
+| 13 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
+| 14 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 15 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 16 | [#JLPets](http://twitter.com/search?q=%23JLPets) | N/A |
+| 17 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
+| 18 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 19 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 20 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
+| 21 | [Bristol De Mai](http://twitter.com/search?q=Bristol+De+Mai) | N/A |
+| 22 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
+| 23 | [National Action](http://twitter.com/search?q=National+Action) | N/A |
+| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 25 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 26 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 27 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 28 | [Carl](http://twitter.com/search?q=Carl) | N/A |
+| 29 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
+| 30 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 31 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 32 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 33 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
+| 34 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
+| 35 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 36 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 37 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 38 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 39 | [Regan](http://twitter.com/search?q=Regan) | N/A |
+| 40 | [Yousaf](http://twitter.com/search?q=Yousaf) | N/A |
+| 41 | [Lee Whitlock](http://twitter.com/search?q=Lee+Whitlock) | N/A |
+| 42 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 43 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 44 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 45 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 46 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
+| 47 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 48 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 49 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
 
 
 

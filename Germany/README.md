@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-20 17:17:26 UTC`
+📆 Last Updated: `2023-02-20 18:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Germany
 | 2 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
 | 3 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 4 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
-| 5 | [#BVBBSC](http://twitter.com/search?q=%23BVBBSC) | N/A |
+| 5 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
 | 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 8 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
 | 9 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 10 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 11 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 10 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 11 | [Messer](http://twitter.com/search?q=Messer) | N/A |
 | 12 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 13 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 14 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 16 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 18 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 15 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 16 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 17 | [Florian](http://twitter.com/search?q=Florian) | N/A |
+| 18 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
 | 19 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 20 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 21 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 22 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 23 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 24 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 25 | [Nahles](http://twitter.com/search?q=Nahles) | N/A |
+| 20 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 22 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 23 | [Jörg](http://twitter.com/search?q=J%c3%b6rg) | N/A |
+| 24 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 25 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
 | 26 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 27 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 28 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 29 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
-| 30 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
-| 31 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
-| 32 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 33 | [Strommix](http://twitter.com/search?q=Strommix) | N/A |
-| 34 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 35 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 36 | [Natascha](http://twitter.com/search?q=Natascha) | N/A |
-| 37 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 38 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 39 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 40 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 41 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
-| 42 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 43 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 44 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 45 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
-| 46 | [Ladendiebin](http://twitter.com/search?q=Ladendiebin) | N/A |
-| 47 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
-| 48 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 49 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
-| 50 | [Mietrecht](http://twitter.com/search?q=Mietrecht) | N/A |
+| 27 | [Nahles](http://twitter.com/search?q=Nahles) | N/A |
+| 28 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 29 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 30 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 31 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 32 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 33 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 34 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 35 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
+| 36 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 37 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 38 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
+| 39 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 40 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 41 | [Strommix](http://twitter.com/search?q=Strommix) | N/A |
+| 42 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 43 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
+| 44 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
+| 45 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 46 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 47 | [Ladendiebin](http://twitter.com/search?q=Ladendiebin) | N/A |
+| 48 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 49 | [Natascha](http://twitter.com/search?q=Natascha) | N/A |
+| 50 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
 
 
 

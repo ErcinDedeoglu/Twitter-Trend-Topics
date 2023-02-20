@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-02-20 17:16:44 UTC`
+📆 Last Updated: `2023-02-20 18:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 2 | [Carol](http://twitter.com/search?q=Carol) | N/A |
-| 3 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 1 | [Carol](http://twitter.com/search?q=Carol) | N/A |
+| 2 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 3 | [Campo Grande](http://twitter.com/search?q=Campo+Grande) | N/A |
 | 4 | [JULIETTE NO BLOCO FORROZIN](http://twitter.com/search?q=JULIETTE+NO+BLOCO+FORROZIN) | N/A |
 | 5 | [Intolerância](http://twitter.com/search?q=Intoler%c3%a2ncia) | N/A |
 | 6 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
-| 7 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
+| 7 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
 | 8 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 9 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 10 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 11 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 12 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 13 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 14 | [Paulinho motocross](http://twitter.com/search?q=Paulinho+motocross) | N/A |
-| 15 | [#OurDazzlingPrideSolar](http://twitter.com/search?q=%23OurDazzlingPrideSolar) | N/A |
-| 16 | [mitch](http://twitter.com/search?q=mitch) | N/A |
-| 17 | [#내사랑은영원해_용선아_생일축하해](http://twitter.com/search?q=%23%eb%82%b4%ec%82%ac%eb%9e%91%ec%9d%80%ec%98%81%ec%9b%90%ed%95%b4_%ec%9a%a9%ec%84%a0%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 18 | [Religiosos](http://twitter.com/search?q=Religiosos) | N/A |
-| 19 | [Gustavo e Cristian](http://twitter.com/search?q=Gustavo+e+Cristian) | N/A |
+| 9 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 10 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
+| 11 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 12 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 13 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 14 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
+| 15 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 16 | [#OurDazzlingPrideSolar](http://twitter.com/search?q=%23OurDazzlingPrideSolar) | N/A |
+| 17 | [Gustavo e Cristian](http://twitter.com/search?q=Gustavo+e+Cristian) | N/A |
+| 18 | [Paulinho motocross](http://twitter.com/search?q=Paulinho+motocross) | N/A |
+| 19 | [#내사랑은영원해_용선아_생일축하해](http://twitter.com/search?q=%23%eb%82%b4%ec%82%ac%eb%9e%91%ec%9d%80%ec%98%81%ec%9b%90%ed%95%b4_%ec%9a%a9%ec%84%a0%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 20 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 21 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
-| 22 | [HAPPY SOLAR DAY](http://twitter.com/search?q=HAPPY+SOLAR+DAY) | N/A |
-| 23 | [READY TO BE AMAZED](http://twitter.com/search?q=READY+TO+BE+AMAZED) | N/A |
-| 24 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 21 | [Vaga](http://twitter.com/search?q=Vaga) | N/A |
+| 22 | [mitch](http://twitter.com/search?q=mitch) | N/A |
+| 23 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 24 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
 | 25 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 26 | [#TWICE_ConceptPhotoD1](http://twitter.com/search?q=%23TWICE_ConceptPhotoD1) | N/A |
-| 27 | [Vandoorne](http://twitter.com/search?q=Vandoorne) | N/A |
+| 26 | [Religiosos](http://twitter.com/search?q=Religiosos) | N/A |
+| 27 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
 | 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 29 | [Litoral Norte](http://twitter.com/search?q=Litoral+Norte) | N/A |
-| 30 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
-| 31 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 32 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
-| 33 | [little freak](http://twitter.com/search?q=little+freak) | N/A |
-| 34 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 35 | [Magé](http://twitter.com/search?q=Mag%c3%a9) | N/A |
-| 36 | [Crente](http://twitter.com/search?q=Crente) | N/A |
-| 37 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
-| 38 | [BBB 19](http://twitter.com/search?q=BBB+19) | N/A |
-| 39 | [R$60](http://twitter.com/search?q=R%2460) | N/A |
-| 40 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
-| 41 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
-| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 43 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 29 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
+| 30 | [HAPPY SOLAR DAY](http://twitter.com/search?q=HAPPY+SOLAR+DAY) | N/A |
+| 31 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 32 | [Vandoorne](http://twitter.com/search?q=Vandoorne) | N/A |
+| 33 | [Crente](http://twitter.com/search?q=Crente) | N/A |
+| 34 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
+| 35 | [Litoral Norte](http://twitter.com/search?q=Litoral+Norte) | N/A |
+| 36 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 37 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 39 | [Equipe](http://twitter.com/search?q=Equipe) | N/A |
+| 40 | [READY TO BE AMAZED](http://twitter.com/search?q=READY+TO+BE+AMAZED) | N/A |
+| 41 | [little freak](http://twitter.com/search?q=little+freak) | N/A |
+| 42 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 43 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
 | 44 | [Paolla Oliveira](http://twitter.com/search?q=Paolla+Oliveira) | N/A |
-| 45 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
-| 46 | [Nilópolis](http://twitter.com/search?q=Nil%c3%b3polis) | N/A |
-| 47 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 48 | [litoral paulista](http://twitter.com/search?q=litoral+paulista) | N/A |
-| 49 | [Sodoma e Gomorra](http://twitter.com/search?q=Sodoma+e+Gomorra) | N/A |
-| 50 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 45 | [BBB 19](http://twitter.com/search?q=BBB+19) | N/A |
+| 46 | [Kurt](http://twitter.com/search?q=Kurt) | N/A |
+| 47 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
+| 48 | [Magé](http://twitter.com/search?q=Mag%c3%a9) | N/A |
+| 49 | [Segunda de Carnaval](http://twitter.com/search?q=Segunda+de+Carnaval) | N/A |
+| 50 | [litoral paulista](http://twitter.com/search?q=litoral+paulista) | N/A |
 
 
 
