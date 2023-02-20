@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-02-20 07:17:11 UTC`
+📆 Last Updated: `2023-02-20 08:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#COMSATS](http://twitter.com/search?q=%23COMSATS) | N/A |
 | 2 | [#الٹی_میٹم72گھنٹوں_کا](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%b9%db%8c_%d9%85%db%8c%d9%b9%d9%8572%da%af%da%be%d9%86%d9%b9%d9%88%da%ba_%da%a9%d8%a7) | N/A |
-| 3 | [#مظاہر_نقوی_استعفی_دو](http://twitter.com/search?q=%23%d9%85%d8%b8%d8%a7%db%81%d8%b1_%d9%86%d9%82%d9%88%db%8c_%d8%a7%d8%b3%d8%aa%d8%b9%d9%81%db%8c_%d8%af%d9%88) | N/A |
-| 4 | [#KKvLQ](http://twitter.com/search?q=%23KKvLQ) | N/A |
-| 5 | [#جیلیں_تیار_رکھو](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84%db%8c%da%ba_%d8%aa%db%8c%d8%a7%d8%b1_%d8%b1%da%a9%da%be%d9%88) | N/A |
+| 3 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 4 | [#مظاہر_نقوی_استعفی_دو](http://twitter.com/search?q=%23%d9%85%d8%b8%d8%a7%db%81%d8%b1_%d9%86%d9%82%d9%88%db%8c_%d8%a7%d8%b3%d8%aa%d8%b9%d9%81%db%8c_%d8%af%d9%88) | N/A |
+| 5 | [#KKvLQ](http://twitter.com/search?q=%23KKvLQ) | N/A |
 | 6 | [Wade](http://twitter.com/search?q=Wade) | N/A |
 | 7 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 8 | [Kamran Ghulam](http://twitter.com/search?q=Kamran+Ghulam) | N/A |
-| 9 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 10 | [University](http://twitter.com/search?q=University) | N/A |
-| 11 | [martin guptill](http://twitter.com/search?q=martin+guptill) | N/A |
-| 12 | [Torkham](http://twitter.com/search?q=Torkham) | N/A |
-| 13 | [abbas Afridi](http://twitter.com/search?q=abbas+Afridi) | N/A |
+| 8 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 9 | [Kamran Ghulam](http://twitter.com/search?q=Kamran+Ghulam) | N/A |
+| 10 | [Frying](http://twitter.com/search?q=Frying) | N/A |
+| 11 | [abbas afridi](http://twitter.com/search?q=abbas+afridi) | N/A |
+| 12 | [Martin Guptill](http://twitter.com/search?q=Martin+Guptill) | N/A |
+| 13 | [Torkham](http://twitter.com/search?q=Torkham) | N/A |
 | 14 | [killer miller](http://twitter.com/search?q=killer+miller) | N/A |
 | 15 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
 | 16 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
 | 17 | [baig](http://twitter.com/search?q=baig) | N/A |
-| 18 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 19 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 20 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 21 | [abrar ahmed](http://twitter.com/search?q=abrar+ahmed) | N/A |
+| 18 | [Teacher](http://twitter.com/search?q=Teacher) | N/A |
+| 19 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 20 | [usama mir](http://twitter.com/search?q=usama+mir) | N/A |
+| 21 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
 | 22 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
-| 23 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 24 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 25 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
-| 26 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
-| 27 | [ben cutting](http://twitter.com/search?q=ben+cutting) | N/A |
-| 28 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 29 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
-| 30 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 31 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 32 | [Shai Hope](http://twitter.com/search?q=Shai+Hope) | N/A |
-| 33 | [Aqib Javed](http://twitter.com/search?q=Aqib+Javed) | N/A |
-| 34 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
+| 23 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 24 | [abrar ahmed](http://twitter.com/search?q=abrar+ahmed) | N/A |
+| 25 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
+| 26 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 27 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
+| 28 | [Ben Cutting](http://twitter.com/search?q=Ben+Cutting) | N/A |
+| 29 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 30 | [shai hope](http://twitter.com/search?q=shai+hope) | N/A |
+| 31 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
+| 32 | [Aqib Javed](http://twitter.com/search?q=Aqib+Javed) | N/A |
+| 33 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 34 | [BMWs](http://twitter.com/search?q=BMWs) | N/A |
 | 35 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
 | 36 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
-| 37 | [Democracy](http://twitter.com/search?q=Democracy) | N/A |
-| 38 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 39 | [28th Rajab](http://twitter.com/search?q=28th+Rajab) | N/A |
-| 40 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
-| 41 | [Teacher](http://twitter.com/search?q=Teacher) | N/A |
+| 37 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 38 | [28th Rajab](http://twitter.com/search?q=28th+Rajab) | N/A |
+| 39 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 40 | [Disgusting](http://twitter.com/search?q=Disgusting) | N/A |
+| 41 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
 | 42 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 43 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
-| 44 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 45 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
-| 46 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
-| 47 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
-| 48 | [felix](http://twitter.com/search?q=felix) | N/A |
-| 49 | [Respected](http://twitter.com/search?q=Respected) | N/A |
-| 50 | [My God](http://twitter.com/search?q=My+God) | N/A |
+| 43 | [Shoaib](http://twitter.com/search?q=Shoaib) | N/A |
+| 44 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 45 | [felix](http://twitter.com/search?q=felix) | N/A |
+| 46 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
+| 47 | [President](http://twitter.com/search?q=President) | N/A |
+| 48 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
+| 49 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 50 | [Saad](http://twitter.com/search?q=Saad) | N/A |
 
 
 

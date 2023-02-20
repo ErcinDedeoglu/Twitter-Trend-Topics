@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-20 07:17:15 UTC`
+📆 Last Updated: `2023-02-20 08:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MeclisGörevininBaşına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBa%c5%9f%c4%b1na) | N/A |
-| 2 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 3 | [Erdal Bakkal](http://twitter.com/search?q=Erdal+Bakkal) | N/A |
-| 4 | [#oxai](http://twitter.com/search?q=%23oxai) | N/A |
-| 5 | [#isiasgizliliğikaldırılsın](http://twitter.com/search?q=%23isiasgizlili%c4%9fikald%c4%b1r%c4%b1ls%c4%b1n) | N/A |
+| 1 | [#isiasgizliliğikaldırılsın](http://twitter.com/search?q=%23isiasgizlili%c4%9fikald%c4%b1r%c4%b1ls%c4%b1n) | N/A |
+| 2 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
+| 3 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
+| 4 | [#VekillerTBMMye](http://twitter.com/search?q=%23VekillerTBMMye) | N/A |
+| 5 | [Erdal Bakkal](http://twitter.com/search?q=Erdal+Bakkal) | N/A |
 | 6 | [#NotAlıyorum](http://twitter.com/search?q=%23NotAl%c4%b1yorum) | N/A |
 | 7 | [Marmara'da 7,6](http://twitter.com/search?q=Marmara%27da+7%2c6) | N/A |
-| 8 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 9 | [neyledim](http://twitter.com/search?q=neyledim) | N/A |
-| 10 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 11 | [Amcıksalak](http://twitter.com/search?q=Amc%c4%b1ksalak) | N/A |
-| 12 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 13 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 14 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 15 | [Bakan Akar'dan](http://twitter.com/search?q=Bakan+Akar%27dan) | N/A |
-| 16 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
-| 17 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 18 | [Evim Yuvan Olsun](http://twitter.com/search?q=Evim+Yuvan+Olsun) | N/A |
-| 19 | [Ege Üniversitesi](http://twitter.com/search?q=Ege+%c3%9cniversitesi) | N/A |
-| 20 | [Hulki](http://twitter.com/search?q=Hulki) | N/A |
-| 21 | [Deniz Akkaya](http://twitter.com/search?q=Deniz+Akkaya) | N/A |
-| 22 | [Mutlu](http://twitter.com/search?q=Mutlu) | N/A |
-| 23 | [Fatma Şahin](http://twitter.com/search?q=Fatma+%c5%9eahin) | N/A |
-| 24 | [Ahmet Suat Özyazıcı](http://twitter.com/search?q=Ahmet+Suat+%c3%96zyaz%c4%b1c%c4%b1) | N/A |
-| 25 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
-| 26 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 27 | [McDonald](http://twitter.com/search?q=McDonald) | McDonald is a fast food restaurant chain that is known for its hamburgers, french fries, and other menu items. The name comes from the original owner, Richard and Maurice McDonald, who opened the first restaurant in 1940 in San Bernardino, California. |
-| 28 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
-| 29 | [Hatay Belediye Başkanı](http://twitter.com/search?q=Hatay+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
-| 30 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
-| 31 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 32 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 33 | [Sagopa Kajmer](http://twitter.com/search?q=Sagopa+Kajmer) | Sagopa Kajmer is a Turkish hip-hop artist and record label. His name is a combination of the words "sagopa" (meaning "wise") and "kajmer" (meaning "poet"). In English, Sagopa Kajmer can be translated to mean "wise poet". |
-| 34 | [Yüküm](http://twitter.com/search?q=Y%c3%bck%c3%bcm) | N/A |
-| 35 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 36 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
-| 37 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 38 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
-| 39 | [Depremin 14](http://twitter.com/search?q=Depremin+14) | N/A |
-| 40 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
-| 41 | [Gülbin Tosun](http://twitter.com/search?q=G%c3%bclbin+Tosun) | N/A |
-| 42 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
-| 43 | [İsrail](http://twitter.com/search?q=%c4%b0srail) | N/A |
-| 44 | [633 Suriyeli](http://twitter.com/search?q=633+Suriyeli) | N/A |
-| 45 | [Kübra Dörtkardeş](http://twitter.com/search?q=K%c3%bcbra+D%c3%b6rtkarde%c5%9f) | N/A |
-| 46 | [Arda Turan](http://twitter.com/search?q=Arda+Turan) | N/A |
-| 47 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 48 | [Evlatlık](http://twitter.com/search?q=Evlatl%c4%b1k) | N/A |
-| 49 | [Prada](http://twitter.com/search?q=Prada) | N/A |
-| 50 | [Karpuz](http://twitter.com/search?q=Karpuz) | N/A |
+| 8 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 9 | [Ege Üniversitesi](http://twitter.com/search?q=Ege+%c3%9cniversitesi) | N/A |
+| 10 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 11 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
+| 12 | [Çavuşoğlu](http://twitter.com/search?q=%c3%87avu%c5%9fo%c4%9flu) | N/A |
+| 13 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 14 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 15 | [Ülkücü Şehidimiz](http://twitter.com/search?q=%c3%9clk%c3%bcc%c3%bc+%c5%9eehidimiz) | N/A |
+| 16 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 17 | [Bakan Akar'dan](http://twitter.com/search?q=Bakan+Akar%27dan) | N/A |
+| 18 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 19 | [Bismillah](http://twitter.com/search?q=Bismillah) | N/A |
+| 20 | [PKK'lı](http://twitter.com/search?q=PKK%27l%c4%b1) | N/A |
+| 21 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 22 | [İstifa](http://twitter.com/search?q=%c4%b0stifa) | İstifa is a Turkish word meaning "resignation". It is used to refer to the act of formally resigning from a job or position. |
+| 23 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 24 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
+| 25 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
+| 26 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 27 | [Sağlıklı](http://twitter.com/search?q=Sa%c4%9fl%c4%b1kl%c4%b1) | N/A |
+| 28 | [#HesapVereceksiniz](http://twitter.com/search?q=%23HesapVereceksiniz) | N/A |
+| 29 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 30 | [#hacettepe](http://twitter.com/search?q=%23hacettepe) | N/A |
+| 31 | [#StajyerCalısıyor](http://twitter.com/search?q=%23StajyerCal%c4%b1s%c4%b1yor) | N/A |
+| 32 | [#Elazığ](http://twitter.com/search?q=%23Elaz%c4%b1%c4%9f) | N/A |
+| 33 | [#HayırlıHaftalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Haftalar) | N/A |
+| 34 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
+| 35 | [#BundanSonra](http://twitter.com/search?q=%23BundanSonra) | N/A |
+| 36 | [#TOASO](http://twitter.com/search?q=%23TOASO) | N/A |
+| 37 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
+| 38 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
+| 39 | [#hisse](http://twitter.com/search?q=%23hisse) | N/A |
+| 40 | [#ÖmerHalisdemir](http://twitter.com/search?q=%23%c3%96merHalisdemir) | N/A |
+| 41 | [#MeclisGörevininBasına](http://twitter.com/search?q=%23MeclisG%c3%b6revininBas%c4%b1na) | N/A |
+| 42 | [#cemre](http://twitter.com/search?q=%23cemre) | N/A |
+| 43 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
+| 44 | [#isdmr](http://twitter.com/search?q=%23isdmr) | N/A |
+| 45 | [#tcell](http://twitter.com/search?q=%23tcell) | N/A |
+| 46 | [#ttkom](http://twitter.com/search?q=%23ttkom) | N/A |
+| 47 | [#Batman](http://twitter.com/search?q=%23Batman) | N/A |
+| 48 | [#palu](http://twitter.com/search?q=%23palu) | N/A |
+| 49 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
+| 50 | [#2000sonrasiADALET](http://twitter.com/search?q=%232000sonrasiADALET) | N/A |
 
 
 

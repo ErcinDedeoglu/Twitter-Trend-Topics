@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Australia
 
-📆 Last Updated: `2023-02-20 07:17:25 UTC`
+📆 Last Updated: `2023-02-20 08:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Australia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 2 | [Taylan May](http://twitter.com/search?q=Taylan+May) | N/A |
-| 3 | [#RoboDebtRC](http://twitter.com/search?q=%23RoboDebtRC) | N/A |
+| 2 | [#thedrum](http://twitter.com/search?q=%23thedrum) | N/A |
+| 3 | [Taylan May](http://twitter.com/search?q=Taylan+May) | N/A |
 | 4 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
-| 5 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 6 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 7 | [Turuva](http://twitter.com/search?q=Turuva) | N/A |
-| 8 | [Charles Wann](http://twitter.com/search?q=Charles+Wann) | N/A |
-| 9 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 10 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
-| 11 | [#AUSvESP](http://twitter.com/search?q=%23AUSvESP) | N/A |
-| 12 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 13 | [Langer](http://twitter.com/search?q=Langer) | N/A |
-| 14 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 15 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 16 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 17 | [Carla Zampatti](http://twitter.com/search?q=Carla+Zampatti) | N/A |
-| 18 | [Ben Fordham](http://twitter.com/search?q=Ben+Fordham) | N/A |
-| 19 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 20 | [AFLW](http://twitter.com/search?q=AFLW) | N/A |
-| 21 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 5 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
+| 6 | [#AUSvESP](http://twitter.com/search?q=%23AUSvESP) | N/A |
+| 7 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 8 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 9 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 10 | [#RoboDebtRC](http://twitter.com/search?q=%23RoboDebtRC) | N/A |
+| 11 | [Charles Wann](http://twitter.com/search?q=Charles+Wann) | N/A |
+| 12 | [Langer](http://twitter.com/search?q=Langer) | N/A |
+| 13 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 14 | [Turuva](http://twitter.com/search?q=Turuva) | N/A |
+| 15 | [Ben Fordham](http://twitter.com/search?q=Ben+Fordham) | N/A |
+| 16 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 17 | [Superannuation](http://twitter.com/search?q=Superannuation) | N/A |
+| 18 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 19 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 20 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 21 | [Carla Zampatti](http://twitter.com/search?q=Carla+Zampatti) | N/A |
 | 22 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 23 | [Superannuation](http://twitter.com/search?q=Superannuation) | N/A |
-| 24 | [Jennifer Miller](http://twitter.com/search?q=Jennifer+Miller) | N/A |
-| 25 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 26 | [BAFTAs](http://twitter.com/search?q=BAFTAs) | N/A |
-| 27 | [Leigh Sales](http://twitter.com/search?q=Leigh+Sales) | N/A |
-| 28 | [Fair Day](http://twitter.com/search?q=Fair+Day) | N/A |
-| 29 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 30 | [dana morse](http://twitter.com/search?q=dana+morse) | N/A |
-| 31 | [Alan Kohler](http://twitter.com/search?q=Alan+Kohler) | N/A |
-| 32 | [Narty](http://twitter.com/search?q=Narty) | N/A |
-| 33 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
-| 34 | [Perth](http://twitter.com/search?q=Perth) | N/A |
-| 35 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 36 | [Ginnivan](http://twitter.com/search?q=Ginnivan) | N/A |
-| 37 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 38 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 39 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 40 | [Kamahl](http://twitter.com/search?q=Kamahl) | N/A |
-| 41 | [Holmes](http://twitter.com/search?q=Holmes) | N/A |
-| 42 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 43 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 44 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 45 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 46 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 47 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 48 | [Alice Springs](http://twitter.com/search?q=Alice+Springs) | N/A |
-| 49 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 50 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 23 | [Jennifer Miller](http://twitter.com/search?q=Jennifer+Miller) | N/A |
+| 24 | [Fair Day](http://twitter.com/search?q=Fair+Day) | N/A |
+| 25 | [dana morse](http://twitter.com/search?q=dana+morse) | N/A |
+| 26 | [Leigh Sales](http://twitter.com/search?q=Leigh+Sales) | N/A |
+| 27 | [Perth](http://twitter.com/search?q=Perth) | N/A |
+| 28 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
+| 29 | [Alan Kohler](http://twitter.com/search?q=Alan+Kohler) | N/A |
+| 30 | [narty](http://twitter.com/search?q=narty) | N/A |
+| 31 | [Holmes](http://twitter.com/search?q=Holmes) | N/A |
+| 32 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 33 | [Kamahl](http://twitter.com/search?q=Kamahl) | N/A |
+| 34 | [Commissioner](http://twitter.com/search?q=Commissioner) | N/A |
+| 35 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
+| 36 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 37 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 38 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 39 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 40 | [Team Giannis](http://twitter.com/search?q=Team+Giannis) | N/A |
+| 41 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 42 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 43 | [Meta Verified](http://twitter.com/search?q=Meta+Verified) | N/A |
+| 44 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
+| 45 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 46 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 47 | [Ginnivan](http://twitter.com/search?q=Ginnivan) | N/A |
+| 48 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 49 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 50 | [Snowy 2.0](http://twitter.com/search?q=Snowy+2.0) | N/A |
 
 
 

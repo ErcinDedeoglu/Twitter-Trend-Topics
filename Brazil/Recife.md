@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-20 07:16:48 UTC`
+📆 Last Updated: `2023-02-20 08:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Brazil](</Brazil>)
 | 2 | [Tijuca](http://twitter.com/search?q=Tijuca) | N/A |
 | 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 4 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 5 | [Zeca](http://twitter.com/search?q=Zeca) | N/A |
-| 6 | [Mauá](http://twitter.com/search?q=Mau%c3%a1) | N/A |
-| 7 | [Viviane Araújo](http://twitter.com/search?q=Viviane+Ara%c3%bajo) | N/A |
-| 8 | [Furiosa](http://twitter.com/search?q=Furiosa) | N/A |
-| 9 | [Juliana Alves](http://twitter.com/search?q=Juliana+Alves) | N/A |
-| 10 | [Paola Oliveira](http://twitter.com/search?q=Paola+Oliveira) | N/A |
-| 11 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
-| 12 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 13 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 14 | [Meu Salgueiro](http://twitter.com/search?q=Meu+Salgueiro) | N/A |
-| 15 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 16 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
-| 17 | [Arlindo](http://twitter.com/search?q=Arlindo) | N/A |
-| 18 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 19 | [O Salgueiro](http://twitter.com/search?q=O+Salgueiro) | N/A |
-| 20 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 21 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
-| 22 | [LOS ONE NO MÉXICO](http://twitter.com/search?q=LOS+ONE+NO+M%c3%89XICO) | N/A |
-| 23 | [Diogo Nogueira](http://twitter.com/search?q=Diogo+Nogueira) | N/A |
-| 24 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 25 | [Milton Cunha](http://twitter.com/search?q=Milton+Cunha) | N/A |
-| 26 | [HAPPY BIRTHDAY OLIVIA](http://twitter.com/search?q=HAPPY+BIRTHDAY+OLIVIA) | N/A |
-| 27 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
-| 28 | [Vamos Salgueiro](http://twitter.com/search?q=Vamos+Salgueiro) | N/A |
-| 29 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 30 | [Damião](http://twitter.com/search?q=Dami%c3%a3o) | N/A |
-| 31 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 32 | [Comissão de Frente](http://twitter.com/search?q=Comiss%c3%a3o+de+Frente) | N/A |
-| 33 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 34 | [All Star Game](http://twitter.com/search?q=All+Star+Game) | N/A |
-| 35 | [Thomaz Costa](http://twitter.com/search?q=Thomaz+Costa) | N/A |
-| 36 | [Maju](http://twitter.com/search?q=Maju) | N/A |
-| 37 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
-| 38 | [Padre Miguel](http://twitter.com/search?q=Padre+Miguel) | N/A |
-| 39 | [Mestre Vitalino](http://twitter.com/search?q=Mestre+Vitalino) | N/A |
-| 40 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 41 | [#FORAALFACE](http://twitter.com/search?q=%23FORAALFACE) | N/A |
-| 42 | [#carnavalRJ](http://twitter.com/search?q=%23carnavalRJ) | N/A |
-| 43 | [Mariana Gross](http://twitter.com/search?q=Mariana+Gross) | N/A |
-| 44 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 45 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 46 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 47 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 48 | [Caruaru](http://twitter.com/search?q=Caruaru) | N/A |
-| 49 | [BDAY LOUD BABI](http://twitter.com/search?q=BDAY+LOUD+BABI) | N/A |
-| 50 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
+| 5 | [Viviane Araújo](http://twitter.com/search?q=Viviane+Ara%c3%bajo) | N/A |
+| 6 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 7 | [Furiosa](http://twitter.com/search?q=Furiosa) | N/A |
+| 8 | [Evelyn Bastos](http://twitter.com/search?q=Evelyn+Bastos) | N/A |
+| 9 | [Mauá](http://twitter.com/search?q=Mau%c3%a1) | N/A |
+| 10 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 11 | [Zeca](http://twitter.com/search?q=Zeca) | N/A |
+| 12 | [Juliana Alves](http://twitter.com/search?q=Juliana+Alves) | N/A |
+| 13 | [Meu Salgueiro](http://twitter.com/search?q=Meu+Salgueiro) | N/A |
+| 14 | [O Salgueiro](http://twitter.com/search?q=O+Salgueiro) | N/A |
+| 15 | [Paola Oliveira](http://twitter.com/search?q=Paola+Oliveira) | N/A |
+| 16 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
+| 17 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 18 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
+| 19 | [Império Serrano](http://twitter.com/search?q=Imp%c3%a9rio+Serrano) | N/A |
+| 20 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 21 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 22 | [Arlindo](http://twitter.com/search?q=Arlindo) | N/A |
+| 23 | [Quinho](http://twitter.com/search?q=Quinho) | N/A |
+| 24 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 25 | [LOS ONE NO MÉXICO](http://twitter.com/search?q=LOS+ONE+NO+M%c3%89XICO) | N/A |
+| 26 | [Milton Cunha](http://twitter.com/search?q=Milton+Cunha) | N/A |
+| 27 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 28 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
+| 29 | [Vamos Salgueiro](http://twitter.com/search?q=Vamos+Salgueiro) | N/A |
+| 30 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 31 | [Oxum](http://twitter.com/search?q=Oxum) | N/A |
+| 32 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 33 | [#ForaFred](http://twitter.com/search?q=%23ForaFred) | #ForaFred is a hashtag used to show support for the Brazilian footballer Fred, who was recently diagnosed with testicular cancer. The hashtag translates to "Go Fred!" in English. |
+| 34 | [HAPPY BIRTHDAY OLIVIA](http://twitter.com/search?q=HAPPY+BIRTHDAY+OLIVIA) | N/A |
+| 35 | [Diogo Nogueira](http://twitter.com/search?q=Diogo+Nogueira) | N/A |
+| 36 | [#carnavalRJ](http://twitter.com/search?q=%23carnavalRJ) | N/A |
+| 37 | [Comissão de Frente](http://twitter.com/search?q=Comiss%c3%a3o+de+Frente) | N/A |
+| 38 | [Salgueirense](http://twitter.com/search?q=Salgueirense) | N/A |
+| 39 | [Escobar](http://twitter.com/search?q=Escobar) | N/A |
+| 40 | [Berry](http://twitter.com/search?q=Berry) | N/A |
+| 41 | [Maju](http://twitter.com/search?q=Maju) | N/A |
+| 42 | [Thomaz Costa](http://twitter.com/search?q=Thomaz+Costa) | N/A |
+| 43 | [Joãozinho](http://twitter.com/search?q=Jo%c3%a3ozinho) | N/A |
+| 44 | [Cosme](http://twitter.com/search?q=Cosme) | N/A |
+| 45 | [Padre Miguel](http://twitter.com/search?q=Padre+Miguel) | N/A |
+| 46 | [Mestre Vitalino](http://twitter.com/search?q=Mestre+Vitalino) | N/A |
+| 47 | [Mariana Gross](http://twitter.com/search?q=Mariana+Gross) | N/A |
+| 48 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 49 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 50 | [Magé](http://twitter.com/search?q=Mag%c3%a9) | N/A |
 
 
 

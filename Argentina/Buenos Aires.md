@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-02-20 07:16:50 UTC`
+📆 Last Updated: `2023-02-20 08:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,44 @@ This is top 50 for [Argentina](</Argentina>)
 | 1 | [Talleres](http://twitter.com/search?q=Talleres) | N/A |
 | 2 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
 | 3 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 5 | [Romina y Julieta](http://twitter.com/search?q=Romina+y+Julieta) | N/A |
-| 6 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 7 | [#FUTBOLenDEPORTV](http://twitter.com/search?q=%23FUTBOLenDEPORTV) | N/A |
-| 8 | [#gh222](http://twitter.com/search?q=%23gh222) | N/A |
-| 9 | [Pestañela](http://twitter.com/search?q=Pesta%c3%b1ela) | N/A |
-| 10 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 11 | [Pobre Marcos](http://twitter.com/search?q=Pobre+Marcos) | N/A |
+| 4 | [#FUTBOLenDEPORTV](http://twitter.com/search?q=%23FUTBOLenDEPORTV) | N/A |
+| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 6 | [Romina y Julieta](http://twitter.com/search?q=Romina+y+Julieta) | N/A |
+| 7 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 8 | [Pestañela](http://twitter.com/search?q=Pesta%c3%b1ela) | N/A |
+| 9 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 10 | [Pobre Marcos](http://twitter.com/search?q=Pobre+Marcos) | N/A |
+| 11 | [#GranHermano22](http://twitter.com/search?q=%23GranHermano22) | N/A |
 | 12 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 13 | [#GranHermano22](http://twitter.com/search?q=%23GranHermano22) | N/A |
-| 14 | [Revivió GH](http://twitter.com/search?q=Revivi%c3%b3+GH) | N/A |
-| 15 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
-| 16 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 17 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 18 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
-| 19 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 20 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 21 | [Popoggio](http://twitter.com/search?q=Popoggio) | N/A |
-| 22 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 23 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 24 | [NO LO PUEDO CREER](http://twitter.com/search?q=NO+LO+PUEDO+CREER) | N/A |
-| 25 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
-| 26 | [Presa](http://twitter.com/search?q=Presa) | N/A |
-| 27 | [REVIVIÓ GRAN HERMANO](http://twitter.com/search?q=REVIVI%c3%93+GRAN+HERMANO) | N/A |
-| 28 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
+| 13 | [Tora](http://twitter.com/search?q=Tora) | Tora is a Japanese word meaning "tiger". It is often used as a nickname for someone who is strong and brave. |
+| 14 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 15 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 16 | [Popoggio](http://twitter.com/search?q=Popoggio) | N/A |
+| 17 | [Barreto](http://twitter.com/search?q=Barreto) | N/A |
+| 18 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 19 | [NO LO PUEDO CREER](http://twitter.com/search?q=NO+LO+PUEDO+CREER) | N/A |
+| 20 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
+| 21 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 22 | [Presa](http://twitter.com/search?q=Presa) | N/A |
+| 23 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
+| 24 | [Revivio GH](http://twitter.com/search?q=Revivio+GH) | N/A |
+| 25 | [Falcioni](http://twitter.com/search?q=Falcioni) | N/A |
+| 26 | [Pizzini](http://twitter.com/search?q=Pizzini) | N/A |
+| 27 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 28 | [Salle](http://twitter.com/search?q=Salle) | N/A |
 | 29 | [Vallejo](http://twitter.com/search?q=Vallejo) | N/A |
-| 30 | [Las Pelotas](http://twitter.com/search?q=Las+Pelotas) | N/A |
-| 31 | [Pizzini](http://twitter.com/search?q=Pizzini) | N/A |
-| 32 | [Salle](http://twitter.com/search?q=Salle) | N/A |
-| 33 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
-| 34 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
-| 35 | [Stillitano](http://twitter.com/search?q=Stillitano) | N/A |
-| 36 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 37 | [Costa](http://twitter.com/search?q=Costa) | N/A |
-| 38 | [Gran Primo](http://twitter.com/search?q=Gran+Primo) | N/A |
-| 39 | [Briasco](http://twitter.com/search?q=Briasco) | N/A |
-| 40 | [Pozzo](http://twitter.com/search?q=Pozzo) | N/A |
-| 41 | [Ganó Boca](http://twitter.com/search?q=Gan%c3%b3+Boca) | N/A |
-| 42 | [Paco](http://twitter.com/search?q=Paco) | N/A |
-| 43 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
-| 44 | [Blas](http://twitter.com/search?q=Blas) | N/A |
-| 45 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 46 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
-| 47 | [Norby](http://twitter.com/search?q=Norby) | N/A |
-| 48 | [Cristian U](http://twitter.com/search?q=Cristian+U) | Cristian U is a Christian university located in the Dominican Republic. It is a private, non-profit institution of higher education that seeks to provide quality education in a Christian environment. The university offers undergraduate and graduate programs in areas such as business, engineering, education, and theology. |
-| 49 | [Dillom](http://twitter.com/search?q=Dillom) | N/A |
-| 50 | [QUE BRONCA](http://twitter.com/search?q=QUE+BRONCA) | N/A |
+| 30 | [Karol](http://twitter.com/search?q=Karol) | Karol is a Polish name derived from the Latin name Carolus, meaning "free man". It is a popular name in Poland and other Slavic countries. In English, it is usually spelled as Charles. |
+| 31 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 32 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 33 | [Barbie](http://twitter.com/search?q=Barbie) | N/A |
+| 34 | [Gran Primo](http://twitter.com/search?q=Gran+Primo) | N/A |
+| 35 | [Costa](http://twitter.com/search?q=Costa) | N/A |
+| 36 | [Ganó Boca](http://twitter.com/search?q=Gan%c3%b3+Boca) | N/A |
+| 37 | [Paco](http://twitter.com/search?q=Paco) | N/A |
+| 38 | [Defensa y Justicia](http://twitter.com/search?q=Defensa+y+Justicia) | N/A |
+| 39 | [Cristian U](http://twitter.com/search?q=Cristian+U) | Cristian U is a Christian university located in the Dominican Republic. It is a private, non-profit institution of higher education that seeks to provide quality education in a Christian environment. The university offers undergraduate and graduate programs in areas such as business, engineering, education, and theology. |
+| 40 | [Central Córdoba](http://twitter.com/search?q=Central+C%c3%b3rdoba) | N/A |
+| 41 | [#GH2002](http://twitter.com/search?q=%23GH2002) | N/A |
 
 
 

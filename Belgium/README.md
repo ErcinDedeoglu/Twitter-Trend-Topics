@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-20 07:17:25 UTC`
+📆 Last Updated: `2023-02-20 08:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Belgium
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#cerclu](http://twitter.com/search?q=%23cerclu) | N/A |
+| 1 | [#CERCLU](http://twitter.com/search?q=%23CERCLU) | N/A |
 | 2 | [#kvkand](http://twitter.com/search?q=%23kvkand) | N/A |
 | 3 | [#ATEEZinBrussels](http://twitter.com/search?q=%23ATEEZinBrussels) | N/A |
-| 4 | [#gntohl](http://twitter.com/search?q=%23gntohl) | N/A |
-| 5 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 6 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
-| 7 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 4 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 5 | [#gntohl](http://twitter.com/search?q=%23gntohl) | N/A |
+| 6 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 7 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
 | 8 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 9 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
 | 10 | [Parker](http://twitter.com/search?q=Parker) | N/A |
 | 11 | [Raman](http://twitter.com/search?q=Raman) | N/A |
 | 12 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 13 | [Dreyer](http://twitter.com/search?q=Dreyer) | N/A |
-| 14 | [courtrai](http://twitter.com/search?q=courtrai) | N/A |
+| 13 | [courtrai](http://twitter.com/search?q=courtrai) | N/A |
+| 14 | [Dreyer](http://twitter.com/search?q=Dreyer) | N/A |
 | 15 | [Tom Lanoye](http://twitter.com/search?q=Tom+Lanoye) | N/A |
 | 16 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
-| 17 | [Murillo](http://twitter.com/search?q=Murillo) | N/A |
+| 17 | [Hoefkens](http://twitter.com/search?q=Hoefkens) | N/A |
 | 18 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 19 | [Aalst](http://twitter.com/search?q=Aalst) | N/A |
-| 20 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
-| 21 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 22 | [Nielsen](http://twitter.com/search?q=Nielsen) | N/A |
-| 23 | [Hoefkens](http://twitter.com/search?q=Hoefkens) | N/A |
-| 24 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 25 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 26 | [eva pauwels](http://twitter.com/search?q=eva+pauwels) | N/A |
-| 27 | [brouns](http://twitter.com/search?q=brouns) | N/A |
-| 28 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 20 | [Murillo](http://twitter.com/search?q=Murillo) | N/A |
+| 21 | [Mingi](http://twitter.com/search?q=Mingi) | N/A |
+| 22 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 23 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 24 | [Nielsen](http://twitter.com/search?q=Nielsen) | N/A |
+| 25 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 26 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 27 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 28 | [brouns](http://twitter.com/search?q=brouns) | N/A |
 | 29 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
-| 30 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 30 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
 | 31 | [somers](http://twitter.com/search?q=somers) | N/A |
-| 32 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 33 | [Matty](http://twitter.com/search?q=Matty) | N/A |
-| 34 | [vanaken](http://twitter.com/search?q=vanaken) | N/A |
-| 35 | [theo francken](http://twitter.com/search?q=theo+francken) | N/A |
-| 36 | [Fijne](http://twitter.com/search?q=Fijne) | N/A |
-| 37 | [Yeosang](http://twitter.com/search?q=Yeosang) | N/A |
-| 38 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 39 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 40 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 41 | [sabotage sammy](http://twitter.com/search?q=sabotage+sammy) | N/A |
-| 42 | [Munich](http://twitter.com/search?q=Munich) | N/A |
-| 43 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 44 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 45 | [yunho](http://twitter.com/search?q=yunho) | N/A |
-| 46 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 47 | [Standard](http://twitter.com/search?q=Standard) | N/A |
-| 48 | [Rik Torfs](http://twitter.com/search?q=Rik+Torfs) | N/A |
-| 49 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
-| 50 | [elchardus](http://twitter.com/search?q=elchardus) | N/A |
+| 32 | [Matty](http://twitter.com/search?q=Matty) | N/A |
+| 33 | [theo francken](http://twitter.com/search?q=theo+francken) | N/A |
+| 34 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
+| 35 | [Munich](http://twitter.com/search?q=Munich) | N/A |
+| 36 | [Yeosang](http://twitter.com/search?q=Yeosang) | N/A |
+| 37 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 38 | [Rik Torfs](http://twitter.com/search?q=Rik+Torfs) | N/A |
+| 39 | [sabotage sammy](http://twitter.com/search?q=sabotage+sammy) | N/A |
+| 40 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 41 | [Eva Pauwels](http://twitter.com/search?q=Eva+Pauwels) | N/A |
+| 42 | [Standard](http://twitter.com/search?q=Standard) | N/A |
+| 43 | [elchardus](http://twitter.com/search?q=elchardus) | N/A |
+| 44 | [karel de gucht](http://twitter.com/search?q=karel+de+gucht) | N/A |
+| 45 | [Boerenbond](http://twitter.com/search?q=Boerenbond) | N/A |
+| 46 | [Vanaken](http://twitter.com/search?q=Vanaken) | N/A |
+| 47 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
+| 48 | [Enorm](http://twitter.com/search?q=Enorm) | N/A |
+| 49 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 50 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
 
 
 

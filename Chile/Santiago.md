@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-20 07:16:45 UTC`
+📆 Last Updated: `2023-02-20 08:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,35 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Medellín](http://twitter.com/search?q=Medell%c3%adn) | N/A |
-| 2 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 3 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 4 | [Paloma](http://twitter.com/search?q=Paloma) | N/A |
-| 5 | [Pamela Leiva](http://twitter.com/search?q=Pamela+Leiva) | N/A |
-| 6 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 7 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 1 | [Jeyson Rojas](http://twitter.com/search?q=Jeyson+Rojas) | N/A |
+| 2 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
+| 3 | [Paloma Mami](http://twitter.com/search?q=Paloma+Mami) | N/A |
+| 4 | [Pamela Leiva](http://twitter.com/search?q=Pamela+Leiva) | N/A |
+| 5 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 6 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 7 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 8 | [Leandro Martínez](http://twitter.com/search?q=Leandro+Mart%c3%adnez) | N/A |
 | 9 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
-| 10 | [RICKY MARTIN](http://twitter.com/search?q=RICKY+MARTIN) | N/A |
+| 10 | [Fabricio](http://twitter.com/search?q=Fabricio) | N/A |
 | 11 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
-| 12 | [Polima](http://twitter.com/search?q=Polima) | N/A |
-| 13 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
-| 14 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 15 | [Palomita](http://twitter.com/search?q=Palomita) | N/A |
-| 16 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
-| 17 | [Juan Gabriel](http://twitter.com/search?q=Juan+Gabriel) | N/A |
-| 18 | [Cris MJ](http://twitter.com/search?q=Cris+MJ) | N/A |
-| 19 | [Myriam Hernández](http://twitter.com/search?q=Myriam+Hern%c3%a1ndez) | N/A |
-| 20 | [Seca](http://twitter.com/search?q=Seca) | N/A |
-| 21 | [Buenísima](http://twitter.com/search?q=Buen%c3%adsima) | N/A |
-| 22 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
-| 23 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
-| 24 | [Enrique Iglesias](http://twitter.com/search?q=Enrique+Iglesias) | N/A |
-| 25 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 26 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 27 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
-| 28 | [Castillo](http://twitter.com/search?q=Castillo) | N/A |
-| 29 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 30 | [Canta](http://twitter.com/search?q=Canta) | N/A |
-| 31 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
-| 32 | [emilia](http://twitter.com/search?q=emilia) | N/A |
-| 33 | [Bouzat](http://twitter.com/search?q=Bouzat) | Bouzat is a French word that means "small village". It is often used to refer to a small, rural community. |
-| 34 | [#YoSoyChv](http://twitter.com/search?q=%23YoSoyChv) | N/A |
-| 35 | [Tusa](http://twitter.com/search?q=Tusa) | N/A |
-| 36 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 37 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 38 | [Rojas](http://twitter.com/search?q=Rojas) | N/A |
-| 39 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 40 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 41 | [Pavez](http://twitter.com/search?q=Pavez) | Pavez is a Spanish word meaning "to protect" or "to guard". It is derived from the Latin word pavens, which means "guardian". |
-| 42 | [Flaite](http://twitter.com/search?q=Flaite) | N/A |
-| 43 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 12 | [Palomita](http://twitter.com/search?q=Palomita) | N/A |
+| 13 | [Polimá](http://twitter.com/search?q=Polim%c3%a1) | N/A |
+| 14 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
+| 15 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
+| 16 | [Juan Gabriel](http://twitter.com/search?q=Juan+Gabriel) | N/A |
+| 17 | [Cris MJ](http://twitter.com/search?q=Cris+MJ) | N/A |
+| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 19 | [Buenísima](http://twitter.com/search?q=Buen%c3%adsima) | N/A |
+| 20 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
+| 21 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
+| 22 | [Rojo](http://twitter.com/search?q=Rojo) | N/A |
+| 23 | [Canta](http://twitter.com/search?q=Canta) | N/A |
+| 24 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
+| 25 | [emilia](http://twitter.com/search?q=emilia) | N/A |
+| 26 | [Myriam](http://twitter.com/search?q=Myriam) | N/A |
+| 27 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 28 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 29 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
 
 
 

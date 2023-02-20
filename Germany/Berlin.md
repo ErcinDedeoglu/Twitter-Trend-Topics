@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-20 07:16:52 UTC`
+📆 Last Updated: `2023-02-20 08:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 2 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
-| 3 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 1 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
+| 2 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 3 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 4 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 5 | [#bvbbsc](http://twitter.com/search?q=%23bvbbsc) | N/A |
 | 6 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
 | 7 | [#FCUS04](http://twitter.com/search?q=%23FCUS04) | N/A |
-| 8 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 9 | [#SayTheirNames](http://twitter.com/search?q=%23SayTheirNames) | N/A |
-| 10 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 11 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 12 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 13 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 14 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 15 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
-| 16 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 17 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 18 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 19 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
-| 20 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 21 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
-| 22 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 23 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 24 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
-| 25 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 26 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 27 | [Allie](http://twitter.com/search?q=Allie) | N/A |
-| 28 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
-| 29 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
-| 30 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
-| 31 | [Guten Morgen Daggi](http://twitter.com/search?q=Guten+Morgen+Daggi) | N/A |
-| 32 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 33 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 34 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
-| 35 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 36 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 37 | [welz](http://twitter.com/search?q=welz) | N/A |
-| 38 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 39 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
-| 40 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 41 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
-| 42 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 43 | [halbfinale](http://twitter.com/search?q=halbfinale) | N/A |
-| 44 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
-| 45 | [kroatien](http://twitter.com/search?q=kroatien) | N/A |
-| 46 | [Fehlentscheidung](http://twitter.com/search?q=Fehlentscheidung) | N/A |
-| 47 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 48 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 49 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
-| 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 8 | [#saytheirnames](http://twitter.com/search?q=%23saytheirnames) | N/A |
+| 9 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 10 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 11 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 12 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 13 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 14 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 15 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 16 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 17 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 18 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 19 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 20 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 21 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
+| 22 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 23 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
+| 24 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 25 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
+| 26 | [Guten Morgen Manfred](http://twitter.com/search?q=Guten+Morgen+Manfred) | N/A |
+| 27 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
+| 28 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 29 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
+| 30 | [Welz](http://twitter.com/search?q=Welz) | N/A |
+| 31 | [Guten Morgen Wölfin](http://twitter.com/search?q=Guten+Morgen+W%c3%b6lfin) | N/A |
+| 32 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 33 | [Helau](http://twitter.com/search?q=Helau) | N/A |
+| 34 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 35 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 36 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 37 | [Allie](http://twitter.com/search?q=Allie) | N/A |
+| 38 | [anschlags](http://twitter.com/search?q=anschlags) | N/A |
+| 39 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 40 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
+| 41 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 42 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
+| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 44 | [halbfinale](http://twitter.com/search?q=halbfinale) | N/A |
+| 45 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
+| 46 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 47 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 48 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
+| 49 | [Kroatien](http://twitter.com/search?q=Kroatien) | N/A |
+| 50 | [Urlaubstag](http://twitter.com/search?q=Urlaubstag) | N/A |
 
 
 
