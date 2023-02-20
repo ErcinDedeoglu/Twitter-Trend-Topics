@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-02-20 15:17:02 UTC`
+📆 Last Updated: `2023-02-20 16:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Colombia](</Colombia>)
 | 4 | [#EsUnCaos](http://twitter.com/search?q=%23EsUnCaos) | N/A |
 | 5 | [#LasMascotasSon](http://twitter.com/search?q=%23LasMascotasSon) | N/A |
 | 6 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 7 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
-| 8 | [Brahian Palacios](http://twitter.com/search?q=Brahian+Palacios) | N/A |
-| 9 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 10 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 11 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
-| 12 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
-| 13 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 14 | [Lencina](http://twitter.com/search?q=Lencina) | N/A |
-| 15 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
-| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 17 | [Tutina](http://twitter.com/search?q=Tutina) | N/A |
-| 18 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 19 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 20 | [Henry Delgado](http://twitter.com/search?q=Henry+Delgado) | N/A |
-| 21 | [sambueza](http://twitter.com/search?q=sambueza) | N/A |
-| 22 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
-| 23 | [Marrugo](http://twitter.com/search?q=Marrugo) | Marrugo is a Spanish word that means "to be confused or perplexed". It is often used to describe a feeling of confusion or bewilderment. |
-| 24 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 25 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 26 | [Asoinca](http://twitter.com/search?q=Asoinca) | N/A |
-| 27 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
+| 7 | [Multiplaza](http://twitter.com/search?q=Multiplaza) | N/A |
+| 8 | [Verónica Alcocer](http://twitter.com/search?q=Ver%c3%b3nica+Alcocer) | N/A |
+| 9 | [Brahian Palacios](http://twitter.com/search?q=Brahian+Palacios) | N/A |
+| 10 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 11 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 12 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 13 | [Deossa](http://twitter.com/search?q=Deossa) | N/A |
+| 14 | [Henry Delgado](http://twitter.com/search?q=Henry+Delgado) | N/A |
+| 15 | [Tutina](http://twitter.com/search?q=Tutina) | N/A |
+| 16 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 17 | [Robledo](http://twitter.com/search?q=Robledo) | N/A |
+| 18 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 19 | [Aguirre](http://twitter.com/search?q=Aguirre) | Aguirre is a Spanish surname derived from the Basque word "aguirre" meaning "wolf". It is also a place name in Spain, and may refer to Aguirre, Navarre, a municipality in the province of Navarre. |
+| 20 | [Lencina](http://twitter.com/search?q=Lencina) | N/A |
+| 21 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 22 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 23 | [Bucaramanga](http://twitter.com/search?q=Bucaramanga) | N/A |
+| 24 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 25 | [Dama](http://twitter.com/search?q=Dama) | N/A |
+| 26 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 27 | [marrugo](http://twitter.com/search?q=marrugo) | N/A |
 | 28 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 29 | [Dama](http://twitter.com/search?q=Dama) | N/A |
-| 30 | [Jhon Duque](http://twitter.com/search?q=Jhon+Duque) | N/A |
-| 31 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 32 | [Dibu Martínez](http://twitter.com/search?q=Dibu+Mart%c3%adnez) | N/A |
-| 33 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 29 | [Jhon Duque](http://twitter.com/search?q=Jhon+Duque) | N/A |
+| 30 | [Congo de Oro](http://twitter.com/search?q=Congo+de+Oro) | N/A |
+| 31 | [Zapata](http://twitter.com/search?q=Zapata) | N/A |
+| 32 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 33 | [Rodallega](http://twitter.com/search?q=Rodallega) | N/A |
 | 34 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 35 | [Congo de Oro](http://twitter.com/search?q=Congo+de+Oro) | N/A |
-| 36 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
-| 37 | [Alfonso López](http://twitter.com/search?q=Alfonso+L%c3%b3pez) | N/A |
-| 38 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 39 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 40 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
-| 41 | [Albornoz](http://twitter.com/search?q=Albornoz) | N/A |
-| 42 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
-| 43 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 44 | [Carlos Ramírez](http://twitter.com/search?q=Carlos+Ram%c3%adrez) | N/A |
-| 45 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 47 | [Arauca](http://twitter.com/search?q=Arauca) | N/A |
+| 35 | [Dibu Martínez](http://twitter.com/search?q=Dibu+Mart%c3%adnez) | N/A |
+| 36 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 37 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
+| 38 | [albornoz](http://twitter.com/search?q=albornoz) | N/A |
+| 39 | [Juanda Caribe](http://twitter.com/search?q=Juanda+Caribe) | N/A |
+| 40 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 41 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
+| 42 | [Cortés](http://twitter.com/search?q=Cort%c3%a9s) | N/A |
+| 43 | [Libey Danilo Bravo](http://twitter.com/search?q=Libey+Danilo+Bravo) | N/A |
+| 44 | [carlos ramírez](http://twitter.com/search?q=carlos+ram%c3%adrez) | N/A |
+| 45 | [Danilo Rueda](http://twitter.com/search?q=Danilo+Rueda) | N/A |
+| 46 | [Once Caldas](http://twitter.com/search?q=Once+Caldas) | N/A |
+| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 48 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 49 | [Libey Danilo Bravo](http://twitter.com/search?q=Libey+Danilo+Bravo) | N/A |
-| 50 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 49 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 50 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
 
 
 

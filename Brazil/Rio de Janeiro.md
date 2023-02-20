@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-20 15:17:04 UTC`
+📆 Last Updated: `2023-02-20 16:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Maju](http://twitter.com/search?q=Maju) | N/A |
-| 2 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 1 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
+| 2 | [Mauá](http://twitter.com/search?q=Mau%c3%a1) | N/A |
 | 3 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 4 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
+| 4 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
 | 5 | [Rainha](http://twitter.com/search?q=Rainha) | N/A |
 | 6 | [JULIETTE NO BLOCO FORROZIN](http://twitter.com/search?q=JULIETTE+NO+BLOCO+FORROZIN) | N/A |
-| 7 | [mitch](http://twitter.com/search?q=mitch) | N/A |
+| 7 | [Intolerância](http://twitter.com/search?q=Intoler%c3%a2ncia) | N/A |
 | 8 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 9 | [little freak](http://twitter.com/search?q=little+freak) | N/A |
-| 10 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 11 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 12 | [Torres](http://twitter.com/search?q=Torres) | N/A |
-| 13 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 14 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
-| 15 | [Magé](http://twitter.com/search?q=Mag%c3%a9) | N/A |
-| 16 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
-| 17 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 18 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
-| 19 | [Segunda de Carnaval](http://twitter.com/search?q=Segunda+de+Carnaval) | N/A |
-| 20 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
-| 21 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 22 | [Litoral Norte](http://twitter.com/search?q=Litoral+Norte) | N/A |
-| 23 | [Mauá](http://twitter.com/search?q=Mau%c3%a1) | N/A |
-| 24 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 26 | [#HappyBirthdayRihanna](http://twitter.com/search?q=%23HappyBirthdayRihanna) | N/A |
-| 27 | [Paolla Oliveira](http://twitter.com/search?q=Paolla+Oliveira) | N/A |
-| 28 | [Tijuca](http://twitter.com/search?q=Tijuca) | N/A |
-| 29 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
-| 30 | [Nilópolis](http://twitter.com/search?q=Nil%c3%b3polis) | N/A |
-| 31 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 32 | [Kurt](http://twitter.com/search?q=Kurt) | N/A |
-| 33 | [Nova Zelândia](http://twitter.com/search?q=Nova+Zel%c3%a2ndia) | N/A |
-| 34 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 35 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
-| 36 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 37 | [BDAY LOUD BABI](http://twitter.com/search?q=BDAY+LOUD+BABI) | N/A |
+| 9 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
+| 10 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
+| 11 | [mitch](http://twitter.com/search?q=mitch) | N/A |
+| 12 | [#OurDazzlingPrideSolar](http://twitter.com/search?q=%23OurDazzlingPrideSolar) | N/A |
+| 13 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
+| 14 | [#내사랑은영원해_용선아_생일축하해](http://twitter.com/search?q=%23%eb%82%b4%ec%82%ac%eb%9e%91%ec%9d%80%ec%98%81%ec%9b%90%ed%95%b4_%ec%9a%a9%ec%84%a0%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 15 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 16 | [#TWICE_ConceptPhotoD1](http://twitter.com/search?q=%23TWICE_ConceptPhotoD1) | N/A |
+| 17 | [READY TO BE AMAZED](http://twitter.com/search?q=READY+TO+BE+AMAZED) | N/A |
+| 18 | [little freak](http://twitter.com/search?q=little+freak) | N/A |
+| 19 | [HAPPY SOLAR DAY](http://twitter.com/search?q=HAPPY+SOLAR+DAY) | N/A |
+| 20 | [Torres](http://twitter.com/search?q=Torres) | N/A |
+| 21 | [Magé](http://twitter.com/search?q=Mag%c3%a9) | N/A |
+| 22 | [Gustavo e Cristian](http://twitter.com/search?q=Gustavo+e+Cristian) | N/A |
+| 23 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 24 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 25 | [Vagner Glock](http://twitter.com/search?q=Vagner+Glock) | N/A |
+| 26 | [Litoral Norte](http://twitter.com/search?q=Litoral+Norte) | N/A |
+| 27 | [Paulinho motocross](http://twitter.com/search?q=Paulinho+motocross) | N/A |
+| 28 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
+| 29 | [Austrália](http://twitter.com/search?q=Austr%c3%a1lia) | N/A |
+| 30 | [Paolla Oliveira](http://twitter.com/search?q=Paolla+Oliveira) | N/A |
+| 31 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
+| 32 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 33 | [#encontro](http://twitter.com/search?q=%23encontro) | N/A |
+| 34 | [Segunda de Carnaval](http://twitter.com/search?q=Segunda+de+Carnaval) | N/A |
+| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 36 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 37 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
 | 38 | [R$60](http://twitter.com/search?q=R%2460) | N/A |
-| 39 | [Evangélicos](http://twitter.com/search?q=Evang%c3%a9licos) | N/A |
-| 40 | [taeil](http://twitter.com/search?q=taeil) | N/A |
-| 41 | [Defesa Civil](http://twitter.com/search?q=Defesa+Civil) | N/A |
-| 42 | [Changbin](http://twitter.com/search?q=Changbin) | N/A |
-| 43 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
-| 44 | [aracati](http://twitter.com/search?q=aracati) | N/A |
-| 45 | [Evelyn Bastos](http://twitter.com/search?q=Evelyn+Bastos) | N/A |
-| 46 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
-| 47 | [daniel caesar](http://twitter.com/search?q=daniel+caesar) | N/A |
-| 48 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 49 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 50 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 39 | [Crente](http://twitter.com/search?q=Crente) | N/A |
+| 40 | [Nilópolis](http://twitter.com/search?q=Nil%c3%b3polis) | N/A |
+| 41 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
+| 42 | [Berry](http://twitter.com/search?q=Berry) | N/A |
+| 43 | [Nova Zelândia](http://twitter.com/search?q=Nova+Zel%c3%a2ndia) | N/A |
+| 44 | [Sodoma e Gomorra](http://twitter.com/search?q=Sodoma+e+Gomorra) | N/A |
+| 45 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 46 | [Kurt](http://twitter.com/search?q=Kurt) | N/A |
+| 47 | [THE BOYZ](http://twitter.com/search?q=THE+BOYZ) | THE BOYZ is a South Korean boy band formed by Cre.ker Entertainment in 2017. The group consists of twelve members: Sangyeon, Jacob, Younghoon, Hyunjae, Juyeon, Kevin, New, Q, Ju Haknyeon, Hwall, Sunwoo and Eric. The name THE BOYZ is an acronym for "The Boys of Zodiac". |
+| 48 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
+| 49 | [Tarcísio de Freitas](http://twitter.com/search?q=Tarc%c3%adsio+de+Freitas) | N/A |
+| 50 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
 
 
 

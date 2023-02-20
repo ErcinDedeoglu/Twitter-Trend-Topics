@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Boston
 
-📆 Last Updated: `2023-02-20 15:17:33 UTC`
+📆 Last Updated: `2023-02-20 16:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 6 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 10 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 11 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
-| 12 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 13 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 1 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
+| 2 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 3 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 4 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 5 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 6 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 7 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
+| 8 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 9 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 10 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 11 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 12 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
+| 13 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
 | 14 | [America Last](http://twitter.com/search?q=America+Last) | N/A |
-| 15 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 16 | [Big Guy](http://twitter.com/search?q=Big+Guy) | N/A |
-| 17 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 18 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 19 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 20 | [Washington's Birthday](http://twitter.com/search?q=Washington%27s+Birthday) | N/A |
-| 21 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 22 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
-| 23 | [East Palestine Ohio](http://twitter.com/search?q=East+Palestine+Ohio) | N/A |
-| 24 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 25 | [Release the J6](http://twitter.com/search?q=Release+the+J6) | N/A |
-| 26 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 27 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 28 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 29 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
-| 30 | [America First](http://twitter.com/search?q=America+First) | N/A |
-| 31 | [Picking](http://twitter.com/search?q=Picking) | N/A |
-| 32 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 33 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 34 | [John Glenn](http://twitter.com/search?q=John+Glenn) | N/A |
-| 35 | [So Biden](http://twitter.com/search?q=So+Biden) | N/A |
-| 36 | [Americans in Ohio](http://twitter.com/search?q=Americans+in+Ohio) | N/A |
-| 37 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 38 | [Sidney Poitier](http://twitter.com/search?q=Sidney+Poitier) | N/A |
-| 39 | [Theodore Roosevelt](http://twitter.com/search?q=Theodore+Roosevelt) | N/A |
-| 40 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 41 | [Move to Russia](http://twitter.com/search?q=Move+to+Russia) | N/A |
-| 42 | [Meanwhile in Ohio](http://twitter.com/search?q=Meanwhile+in+Ohio) | N/A |
-| 43 | [Go to Ohio](http://twitter.com/search?q=Go+to+Ohio) | N/A |
-| 44 | [Helsinki](http://twitter.com/search?q=Helsinki) | N/A |
-| 45 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 46 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 47 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
-| 48 | [Burisma](http://twitter.com/search?q=Burisma) | N/A |
-| 49 | [Schoen](http://twitter.com/search?q=Schoen) | N/A |
-| 50 | [Collecting](http://twitter.com/search?q=Collecting) | N/A |
+| 15 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 16 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 17 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
+| 18 | [Russ to the Clippers](http://twitter.com/search?q=Russ+to+the+Clippers) | N/A |
+| 19 | [Abraham Lincoln](http://twitter.com/search?q=Abraham+Lincoln) | N/A |
+| 20 | [Roots Picnic](http://twitter.com/search?q=Roots+Picnic) | N/A |
+| 21 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 22 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 23 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
+| 24 | [East Palestine Ohio](http://twitter.com/search?q=East+Palestine+Ohio) | N/A |
+| 25 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 26 | [Big Guy](http://twitter.com/search?q=Big+Guy) | N/A |
+| 27 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 28 | [Brooklyn Dad](http://twitter.com/search?q=Brooklyn+Dad) | N/A |
+| 29 | [Westbrook to the Clippers](http://twitter.com/search?q=Westbrook+to+the+Clippers) | N/A |
+| 30 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 31 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 32 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 33 | [Washington's Birthday](http://twitter.com/search?q=Washington%27s+Birthday) | N/A |
+| 34 | [America First](http://twitter.com/search?q=America+First) | N/A |
+| 35 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 36 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 37 | [Sedition](http://twitter.com/search?q=Sedition) | N/A |
+| 38 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
+| 39 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 40 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 41 | [American President](http://twitter.com/search?q=American+President) | N/A |
+| 42 | [Marj](http://twitter.com/search?q=Marj) | N/A |
+| 43 | [Americans in Ohio](http://twitter.com/search?q=Americans+in+Ohio) | N/A |
+| 44 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 45 | [Checking](http://twitter.com/search?q=Checking) | N/A |
+| 46 | [Picking](http://twitter.com/search?q=Picking) | N/A |
+| 47 | [Captured](http://twitter.com/search?q=Captured) | N/A |
+| 48 | [Gotti](http://twitter.com/search?q=Gotti) | N/A |
+| 49 | [Secession](http://twitter.com/search?q=Secession) | N/A |
+| 50 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
 
 
 

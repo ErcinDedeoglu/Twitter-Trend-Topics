@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-02-20 15:17:44 UTC`
+📆 Last Updated: `2023-02-20 16:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Kenya
 | ------- | ------------ | ------------ |
 | 1 | [#TheBometConference](http://twitter.com/search?q=%23TheBometConference) | N/A |
 | 2 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 3 | [Kuria Delivers](http://twitter.com/search?q=Kuria+Delivers) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [#KenyaLoopForum](http://twitter.com/search?q=%23KenyaLoopForum) | N/A |
-| 6 | [#favAgriTechTeam](http://twitter.com/search?q=%23favAgriTechTeam) | N/A |
-| 7 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
-| 8 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 9 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 10 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 4 | [Riggy G](http://twitter.com/search?q=Riggy+G) | N/A |
+| 5 | [#farmbetter](http://twitter.com/search?q=%23farmbetter) | N/A |
+| 6 | [#KenyaLoopForum](http://twitter.com/search?q=%23KenyaLoopForum) | N/A |
+| 7 | [Sabina Chege](http://twitter.com/search?q=Sabina+Chege) | N/A |
+| 8 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 9 | [Facebook and Instagram](http://twitter.com/search?q=Facebook+and+Instagram) | Facebook and Instagram are two of the most popular social media platforms. Facebook is a social networking site that allows users to connect with friends, family, and businesses. Instagram is a photo-sharing platform that allows users to share photos and videos with their followers. Both platforms allow users to engage with each other through likes, comments, and messages. |
+| 10 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 11 | [Praying Mantis](http://twitter.com/search?q=Praying+Mantis) | N/A |
-| 12 | [Facebook and Instagram](http://twitter.com/search?q=Facebook+and+Instagram) | Facebook and Instagram are two of the most popular social media platforms. Facebook is a social networking site that allows users to connect with friends, family, and businesses. Instagram is a photo-sharing platform that allows users to share photos and videos with their followers. Both platforms allow users to engage with each other through likes, comments, and messages. |
-| 13 | [Sabina Chege](http://twitter.com/search?q=Sabina+Chege) | N/A |
-| 14 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
-| 15 | [lindelof](http://twitter.com/search?q=lindelof) | N/A |
-| 16 | [Gachagua](http://twitter.com/search?q=Gachagua) | N/A |
-| 17 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 18 | [paysii app](http://twitter.com/search?q=paysii+app) | N/A |
-| 19 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 20 | [Linet Toto](http://twitter.com/search?q=Linet+Toto) | N/A |
-| 21 | [owuor](http://twitter.com/search?q=owuor) | N/A |
-| 22 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 12 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 13 | [Deputy President](http://twitter.com/search?q=Deputy+President) | N/A |
+| 14 | [Gachagua](http://twitter.com/search?q=Gachagua) | N/A |
+| 15 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 16 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 17 | [paysii app](http://twitter.com/search?q=paysii+app) | N/A |
+| 18 | [linet toto](http://twitter.com/search?q=linet+toto) | N/A |
+| 19 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 20 | [Owuor](http://twitter.com/search?q=Owuor) | N/A |
+| 21 | [Email](http://twitter.com/search?q=Email) | N/A |
+| 22 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 | 23 | [Holiness](http://twitter.com/search?q=Holiness) | N/A |
-| 24 | [Addis](http://twitter.com/search?q=Addis) | N/A |
-| 25 | [Email](http://twitter.com/search?q=Email) | N/A |
-| 26 | [peter salasya](http://twitter.com/search?q=peter+salasya) | N/A |
+| 24 | [Junet](http://twitter.com/search?q=Junet) | N/A |
+| 25 | [peter salasya](http://twitter.com/search?q=peter+salasya) | N/A |
+| 26 | [Addis](http://twitter.com/search?q=Addis) | N/A |
 | 27 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 28 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
-| 29 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
-| 30 | [The DP](http://twitter.com/search?q=The+DP) | N/A |
+| 28 | [blessed sunday](http://twitter.com/search?q=blessed+sunday) | N/A |
+| 29 | [The DP](http://twitter.com/search?q=The+DP) | N/A |
+| 30 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
 | 31 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
-| 32 | [Junet](http://twitter.com/search?q=Junet) | N/A |
-| 33 | [Over 15](http://twitter.com/search?q=Over+15) | N/A |
-| 34 | [Deputy President](http://twitter.com/search?q=Deputy+President) | N/A |
-| 35 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 36 | [The Blood of Jesus](http://twitter.com/search?q=The+Blood+of+Jesus) | N/A |
-| 37 | [Transit](http://twitter.com/search?q=Transit) | N/A |
-| 38 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 39 | [Messiah](http://twitter.com/search?q=Messiah) | N/A |
-| 40 | [trailer](http://twitter.com/search?q=trailer) | N/A |
-| 41 | [congratulations jackie](http://twitter.com/search?q=congratulations+jackie) | N/A |
-| 42 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 43 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 44 | [Meta](http://twitter.com/search?q=Meta) | N/A |
-| 45 | [Odingaism](http://twitter.com/search?q=Odingaism) | N/A |
+| 32 | [The Blood of Jesus](http://twitter.com/search?q=The+Blood+of+Jesus) | N/A |
+| 33 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 34 | [Odingaism](http://twitter.com/search?q=Odingaism) | N/A |
+| 35 | [Over 15](http://twitter.com/search?q=Over+15) | N/A |
+| 36 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 37 | [Messiah](http://twitter.com/search?q=Messiah) | N/A |
+| 38 | [TRAILER](http://twitter.com/search?q=TRAILER) | N/A |
+| 39 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 40 | [congratulations jackie](http://twitter.com/search?q=congratulations+jackie) | N/A |
+| 41 | [The Church](http://twitter.com/search?q=The+Church) | N/A |
+| 42 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 43 | [Mark Zuckerberg](http://twitter.com/search?q=Mark+Zuckerberg) | N/A |
+| 44 | [Dalot](http://twitter.com/search?q=Dalot) | Dalot is a Hebrew word meaning "doorway" or "entrance". It is often used to refer to the entrance of a synagogue or other religious building. |
+| 45 | [Transit](http://twitter.com/search?q=Transit) | N/A |
 | 46 | [Truthful](http://twitter.com/search?q=Truthful) | N/A |
-| 47 | [Tuned](http://twitter.com/search?q=Tuned) | N/A |
+| 47 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 48 | [Prison](http://twitter.com/search?q=Prison) | N/A |
-| 49 | [The Church](http://twitter.com/search?q=The+Church) | N/A |
-| 50 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 49 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 50 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-20 15:17:31 UTC`
+📆 Last Updated: `2023-02-20 16:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 2 | [Mart](http://twitter.com/search?q=Mart) | N/A |
-| 3 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 4 | [#VekillerTBMMne](http://twitter.com/search?q=%23VekillerTBMMne) | N/A |
-| 5 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
-| 6 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
-| 7 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
+| 1 | [Balık](http://twitter.com/search?q=Bal%c4%b1k) | N/A |
+| 2 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
+| 3 | [#elsed](http://twitter.com/search?q=%23elsed) | N/A |
+| 4 | [Mart](http://twitter.com/search?q=Mart) | N/A |
+| 5 | [Lütfü](http://twitter.com/search?q=L%c3%bctf%c3%bc) | N/A |
+| 6 | [#VekillerTBMMne](http://twitter.com/search?q=%23VekillerTBMMne) | N/A |
+| 7 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
 | 8 | [Hüseyin Cimşit](http://twitter.com/search?q=H%c3%bcseyin+Cim%c5%9fit) | N/A |
-| 9 | [#VedaMektubu](http://twitter.com/search?q=%23VedaMektubu) | N/A |
-| 10 | [#mersintravesti](http://twitter.com/search?q=%23mersintravesti) | N/A |
-| 11 | [MİLLET YARDIMDA KENETLENDİ](http://twitter.com/search?q=M%c4%b0LLET+YARDIMDA+KENETLEND%c4%b0) | N/A |
-| 12 | [Azami](http://twitter.com/search?q=Azami) | N/A |
-| 13 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 14 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 15 | [EmpatiYapın ArtıkAffedin](http://twitter.com/search?q=EmpatiYap%c4%b1n+Art%c4%b1kAffedin) | N/A |
-| 16 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 17 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
-| 18 | [Birsen](http://twitter.com/search?q=Birsen) | N/A |
-| 19 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
-| 20 | [F-35](http://twitter.com/search?q=F-35) | N/A |
-| 21 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
-| 22 | [Marmara'da 7,6](http://twitter.com/search?q=Marmara%27da+7%2c6) | N/A |
-| 23 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
-| 24 | [Hatay Antakya'da](http://twitter.com/search?q=Hatay+Antakya%27da) | N/A |
-| 25 | [Orhan Aydın](http://twitter.com/search?q=Orhan+Ayd%c4%b1n) | N/A |
-| 26 | [Ege Üniversitesinde](http://twitter.com/search?q=Ege+%c3%9cniversitesinde) | N/A |
-| 27 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 28 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 29 | [PKK'lı](http://twitter.com/search?q=PKK%27l%c4%b1) | N/A |
-| 30 | [Kadıköy](http://twitter.com/search?q=Kad%c4%b1k%c3%b6y) | N/A |
-| 31 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
-| 32 | [Güneş](http://twitter.com/search?q=G%c3%bcne%c5%9f) | N/A |
-| 33 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 34 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 35 | [Sinan](http://twitter.com/search?q=Sinan) | N/A |
-| 36 | [Hulusi Akar](http://twitter.com/search?q=Hulusi+Akar) | N/A |
-| 37 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 38 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 39 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
-| 40 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 41 | [#Tele1Susturulamaz](http://twitter.com/search?q=%23Tele1Susturulamaz) | N/A |
-| 42 | [#antalyatravesti](http://twitter.com/search?q=%23antalyatravesti) | N/A |
-| 43 | [#MuhalefetKaostaBirLEŞti](http://twitter.com/search?q=%23MuhalefetKaostaBirLE%c5%9eti) | N/A |
-| 44 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
-| 45 | [#yanlıskarar](http://twitter.com/search?q=%23yanl%c4%b1skarar) | N/A |
-| 46 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
-| 47 | [#RabiaSoytürk](http://twitter.com/search?q=%23RabiaSoyt%c3%bcrk) | N/A |
-| 48 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
-| 49 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
-| 50 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 9 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
+| 10 | [Susmuş](http://twitter.com/search?q=Susmu%c5%9f) | N/A |
+| 11 | [#VedaMektubu](http://twitter.com/search?q=%23VedaMektubu) | N/A |
+| 12 | [#ZamGeldi](http://twitter.com/search?q=%23ZamGeldi) | N/A |
+| 13 | [Asgari 1](http://twitter.com/search?q=Asgari+1) | N/A |
+| 14 | [Cumhurbaşkanımız Sayın](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1m%c4%b1z+Say%c4%b1n) | N/A |
+| 15 | [Azami](http://twitter.com/search?q=Azami) | N/A |
+| 16 | [Bahçeli Hatay'da](http://twitter.com/search?q=Bah%c3%a7eli+Hatay%27da) | N/A |
+| 17 | [Kalyon](http://twitter.com/search?q=Kalyon) | N/A |
+| 18 | [MİLLET YARDIMDA KENETLENDİ](http://twitter.com/search?q=M%c4%b0LLET+YARDIMDA+KENETLEND%c4%b0) | N/A |
+| 19 | [Samsun'dan](http://twitter.com/search?q=Samsun%27dan) | N/A |
+| 20 | [Afrika Prensi](http://twitter.com/search?q=Afrika+Prensi) | N/A |
+| 21 | [Hasan Tahsin](http://twitter.com/search?q=Hasan+Tahsin) | N/A |
+| 22 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
+| 23 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 24 | [Belediye Başkanları](http://twitter.com/search?q=Belediye+Ba%c5%9fkanlar%c4%b1) | N/A |
+| 25 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 26 | [Doğu Perinçek](http://twitter.com/search?q=Do%c4%9fu+Perin%c3%a7ek) | N/A |
+| 27 | [Birsen](http://twitter.com/search?q=Birsen) | N/A |
+| 28 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
+| 29 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 30 | [F-35](http://twitter.com/search?q=F-35) | N/A |
+| 31 | [Sinan](http://twitter.com/search?q=Sinan) | N/A |
+| 32 | [Kadıköy](http://twitter.com/search?q=Kad%c4%b1k%c3%b6y) | N/A |
+| 33 | [rtük](http://twitter.com/search?q=rt%c3%bck) | N/A |
+| 34 | [Marmara'da 7,6](http://twitter.com/search?q=Marmara%27da+7%2c6) | N/A |
+| 35 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
+| 36 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 37 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 38 | [PKK'lı](http://twitter.com/search?q=PKK%27l%c4%b1) | N/A |
+| 39 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 40 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 41 | [Rant](http://twitter.com/search?q=Rant) | N/A |
+| 42 | [Ege Üniversitesi](http://twitter.com/search?q=Ege+%c3%9cniversitesi) | N/A |
+| 43 | [Boğa](http://twitter.com/search?q=Bo%c4%9fa) | N/A |
+| 44 | [Orhan Aydın](http://twitter.com/search?q=Orhan+Ayd%c4%b1n) | N/A |
+| 45 | [CHP'ye](http://twitter.com/search?q=CHP%27ye) | N/A |
+| 46 | [Atatürk'e](http://twitter.com/search?q=Atat%c3%bcrk%27e) | N/A |
+| 47 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 48 | [#Tele1Susturulamaz](http://twitter.com/search?q=%23Tele1Susturulamaz) | N/A |
+| 49 | [#mersintravesti](http://twitter.com/search?q=%23mersintravesti) | N/A |
+| 50 | [#antalyatravesti](http://twitter.com/search?q=%23antalyatravesti) | N/A |
 
 
 

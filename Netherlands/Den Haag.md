@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-20 15:17:11 UTC`
+📆 Last Updated: `2023-02-20 16:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
 | 2 | [#ajaspa](http://twitter.com/search?q=%23ajaspa) | N/A |
-| 3 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 4 | [#fakkels](http://twitter.com/search?q=%23fakkels) | N/A |
+| 3 | [#fakkels](http://twitter.com/search?q=%23fakkels) | N/A |
+| 4 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 5 | [#utrpsv](http://twitter.com/search?q=%23utrpsv) | N/A |
-| 6 | [#gaetwe](http://twitter.com/search?q=%23gaetwe) | N/A |
-| 7 | [#oranje](http://twitter.com/search?q=%23oranje) | N/A |
-| 8 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 9 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 10 | [Onacceptabel](http://twitter.com/search?q=Onacceptabel) | N/A |
-| 11 | [Femke Bol](http://twitter.com/search?q=Femke+Bol) | N/A |
-| 12 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
-| 13 | [Pakhuis de Zwijger](http://twitter.com/search?q=Pakhuis+de+Zwijger) | N/A |
-| 14 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 15 | [Higler](http://twitter.com/search?q=Higler) | N/A |
-| 16 | [MIVD](http://twitter.com/search?q=MIVD) | N/A |
+| 6 | [#oranje](http://twitter.com/search?q=%23oranje) | N/A |
+| 7 | [#gaetwe](http://twitter.com/search?q=%23gaetwe) | N/A |
+| 8 | [Prinses Beatrix](http://twitter.com/search?q=Prinses+Beatrix) | N/A |
+| 9 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 10 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 11 | [Onacceptabel](http://twitter.com/search?q=Onacceptabel) | N/A |
+| 12 | [Femke Bol](http://twitter.com/search?q=Femke+Bol) | N/A |
+| 13 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
+| 14 | [Higler](http://twitter.com/search?q=Higler) | N/A |
+| 15 | [Pakhuis de Zwijger](http://twitter.com/search?q=Pakhuis+de+Zwijger) | N/A |
+| 16 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
 | 17 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 18 | [Bedreiging](http://twitter.com/search?q=Bedreiging) | N/A |
-| 19 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 18 | [MIVD](http://twitter.com/search?q=MIVD) | N/A |
+| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 20 | [Intimidatie](http://twitter.com/search?q=Intimidatie) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [GEEN D66](http://twitter.com/search?q=GEEN+D66) | N/A |
-| 23 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 24 | [gl-kamerlid](http://twitter.com/search?q=gl-kamerlid) | N/A |
-| 25 | [Van Boekel](http://twitter.com/search?q=Van+Boekel) | N/A |
-| 26 | [Dag 19](http://twitter.com/search?q=Dag+19) | N/A |
-| 27 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 28 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 29 | [AIVD](http://twitter.com/search?q=AIVD) | N/A |
-| 30 | [Geweld](http://twitter.com/search?q=Geweld) | N/A |
-| 31 | [Wc-oorlog Kamer](http://twitter.com/search?q=Wc-oorlog+Kamer) | N/A |
-| 32 | [mitch](http://twitter.com/search?q=mitch) | N/A |
-| 33 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
-| 34 | [dik trom](http://twitter.com/search?q=dik+trom) | N/A |
-| 35 | [Middeleeuwen](http://twitter.com/search?q=Middeleeuwen) | N/A |
-| 36 | [Fortuyn](http://twitter.com/search?q=Fortuyn) | N/A |
-| 37 | [Heksen](http://twitter.com/search?q=Heksen) | N/A |
-| 38 | [Asha](http://twitter.com/search?q=Asha) | N/A |
+| 21 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 22 | [Bedreiging](http://twitter.com/search?q=Bedreiging) | N/A |
+| 23 | [AIVD](http://twitter.com/search?q=AIVD) | N/A |
+| 24 | [geen d66](http://twitter.com/search?q=geen+d66) | N/A |
+| 25 | [gl-kamerlid](http://twitter.com/search?q=gl-kamerlid) | N/A |
+| 26 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 27 | [Van Boekel](http://twitter.com/search?q=Van+Boekel) | N/A |
+| 28 | [Dag 19](http://twitter.com/search?q=Dag+19) | N/A |
+| 29 | [Geweld](http://twitter.com/search?q=Geweld) | N/A |
+| 30 | [Wc-oorlog Kamer](http://twitter.com/search?q=Wc-oorlog+Kamer) | N/A |
+| 31 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 32 | [Dik Trom](http://twitter.com/search?q=Dik+Trom) | N/A |
+| 33 | [Asha](http://twitter.com/search?q=Asha) | N/A |
+| 34 | [Pim Fortuyn](http://twitter.com/search?q=Pim+Fortuyn) | N/A |
+| 35 | [Heksen](http://twitter.com/search?q=Heksen) | N/A |
+| 36 | [Middeleeuwen](http://twitter.com/search?q=Middeleeuwen) | N/A |
+| 37 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
+| 38 | [Gesprek](http://twitter.com/search?q=Gesprek) | N/A |
 | 39 | [Dag 20](http://twitter.com/search?q=Dag+20) | N/A |
-| 40 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 41 | [wopke](http://twitter.com/search?q=wopke) | N/A |
-| 42 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 43 | [hans van mierlo](http://twitter.com/search?q=hans+van+mierlo) | N/A |
-| 44 | [Gesprek](http://twitter.com/search?q=Gesprek) | N/A |
-| 45 | [Alies](http://twitter.com/search?q=Alies) | N/A |
-| 46 | [linda de mol](http://twitter.com/search?q=linda+de+mol) | N/A |
-| 47 | [Stel](http://twitter.com/search?q=Stel) | N/A |
-| 48 | [tubantia](http://twitter.com/search?q=tubantia) | N/A |
-| 49 | [goedemorgen wilco](http://twitter.com/search?q=goedemorgen+wilco) | N/A |
-| 50 | [Volkert](http://twitter.com/search?q=Volkert) | N/A |
+| 40 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 41 | [hans van mierlo](http://twitter.com/search?q=hans+van+mierlo) | N/A |
+| 42 | [Alies](http://twitter.com/search?q=Alies) | N/A |
+| 43 | [Tubantia](http://twitter.com/search?q=Tubantia) | N/A |
+| 44 | [linda de mol](http://twitter.com/search?q=linda+de+mol) | N/A |
+| 45 | [mitch](http://twitter.com/search?q=mitch) | N/A |
+| 46 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
+| 47 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 48 | [goedemorgen wilco](http://twitter.com/search?q=goedemorgen+wilco) | N/A |
+| 49 | [Lientje](http://twitter.com/search?q=Lientje) | N/A |
+| 50 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
 
 
 

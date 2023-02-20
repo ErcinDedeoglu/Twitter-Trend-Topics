@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-20 15:17:03 UTC`
+📆 Last Updated: `2023-02-20 16:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,48 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#FestivalDeCarnavales2023](http://twitter.com/search?q=%23FestivalDeCarnavales2023) | N/A |
 | 3 | [#19Feb](http://twitter.com/search?q=%2319Feb) | N/A |
 | 4 | [Tadeo](http://twitter.com/search?q=Tadeo) | N/A |
-| 5 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 7 | [#YoSoyFANB](http://twitter.com/search?q=%23YoSoyFANB) | N/A |
-| 8 | [Guerra Federal](http://twitter.com/search?q=Guerra+Federal) | N/A |
-| 9 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
-| 10 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 11 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 12 | [Día de la Federación](http://twitter.com/search?q=D%c3%ada+de+la+Federaci%c3%b3n) | N/A |
-| 13 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 14 | [Juan Vicente Torrealba](http://twitter.com/search?q=Juan+Vicente+Torrealba) | N/A |
-| 15 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 16 | [Dani Hernández](http://twitter.com/search?q=Dani+Hern%c3%a1ndez) | N/A |
-| 17 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 18 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
-| 19 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 20 | [Complicado](http://twitter.com/search?q=Complicado) | N/A |
-| 21 | [Ezequiel Zamora](http://twitter.com/search?q=Ezequiel+Zamora) | N/A |
-| 22 | [Lulú](http://twitter.com/search?q=Lul%c3%ba) | N/A |
+| 5 | [#FelizDomingo](http://twitter.com/search?q=%23FelizDomingo) | N/A |
+| 6 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 7 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
+| 8 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 10 | [Roxana Díaz](http://twitter.com/search?q=Roxana+D%c3%adaz) | N/A |
+| 11 | [Juan Vicente Torrealba](http://twitter.com/search?q=Juan+Vicente+Torrealba) | N/A |
+| 12 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 13 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 14 | [Lulú](http://twitter.com/search?q=Lul%c3%ba) | N/A |
+| 15 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
+| 16 | [Día de la Federación](http://twitter.com/search?q=D%c3%ada+de+la+Federaci%c3%b3n) | N/A |
+| 17 | [Guerra Federal](http://twitter.com/search?q=Guerra+Federal) | N/A |
+| 18 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 19 | [Complicado](http://twitter.com/search?q=Complicado) | N/A |
+| 20 | [Dani Hernández](http://twitter.com/search?q=Dani+Hern%c3%a1ndez) | N/A |
+| 21 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 22 | [Ezequiel Zamora](http://twitter.com/search?q=Ezequiel+Zamora) | N/A |
 | 23 | [El Callao](http://twitter.com/search?q=El+Callao) | N/A |
-| 24 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 25 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 26 | [Dedos](http://twitter.com/search?q=Dedos) | N/A |
+| 24 | [Dedos](http://twitter.com/search?q=Dedos) | N/A |
+| 25 | [Philomena](http://twitter.com/search?q=Philomena) | N/A |
+| 26 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 27 | [Ansu Fati](http://twitter.com/search?q=Ansu+Fati) | Ansu Fati is the nickname of a Spanish professional footballer, Anssumane Fati. He currently plays for FC Barcelona and the Spanish national team. The name Ansu Fati is derived from his given name, Anssumane, which means "God's gift" in the West African language of Bambara. In English, Ansu Fati translates to "God's Gift". |
-| 28 | [Simón Díaz](http://twitter.com/search?q=Sim%c3%b3n+D%c3%adaz) | N/A |
-| 29 | [Eva Blanco](http://twitter.com/search?q=Eva+Blanco) | N/A |
-| 30 | [Isidora](http://twitter.com/search?q=Isidora) | N/A |
-| 31 | [Philomena](http://twitter.com/search?q=Philomena) | N/A |
-| 32 | [Trucutú](http://twitter.com/search?q=Trucut%c3%ba) | N/A |
-| 33 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 34 | [Doris Wells](http://twitter.com/search?q=Doris+Wells) | N/A |
-| 35 | [Elisa Soteldo](http://twitter.com/search?q=Elisa+Soteldo) | N/A |
-| 36 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
-| 37 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 39 | [Robert De Niro](http://twitter.com/search?q=Robert+De+Niro) | N/A |
-| 40 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 41 | [Sharon Stone](http://twitter.com/search?q=Sharon+Stone) | Sharon Stone is an American actress, producer, and former fashion model. She is best known for her roles in films such as Basic Instinct, Casino, and Total Recall. The phrase "Sharon Stone" has come to be used as a shorthand for a woman who is strong, confident, and beautiful. |
-| 42 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 43 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
-| 44 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 45 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
-| 46 | [Museo](http://twitter.com/search?q=Museo) | N/A |
+| 28 | [Eva Blanco](http://twitter.com/search?q=Eva+Blanco) | N/A |
+| 29 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 30 | [Trucutú](http://twitter.com/search?q=Trucut%c3%ba) | N/A |
+| 31 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 32 | [Robert De Niro](http://twitter.com/search?q=Robert+De+Niro) | N/A |
+| 33 | [Doris Wells](http://twitter.com/search?q=Doris+Wells) | N/A |
+| 34 | [elisa soteldo](http://twitter.com/search?q=elisa+soteldo) | N/A |
+| 35 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
+| 36 | [Simón Díaz](http://twitter.com/search?q=Sim%c3%b3n+D%c3%adaz) | N/A |
+| 37 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 38 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
+| 39 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 40 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 41 | [pierina españa](http://twitter.com/search?q=pierina+espa%c3%b1a) | N/A |
+| 42 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 44 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
+| 45 | [Popeye](http://twitter.com/search?q=Popeye) | N/A |
+| 46 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
 
 
 
