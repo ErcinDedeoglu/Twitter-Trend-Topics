@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-19 23:17:11 UTC`
+📆 Last Updated: `2023-02-20 00:29:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#zeltamikrofons](http://twitter.com/search?q=%23zeltamikrofons) | N/A |
-| 2 | [Valdemāra](http://twitter.com/search?q=Valdem%c4%81ra) | N/A |
+| 2 | [valdemāra](http://twitter.com/search?q=valdem%c4%81ra) | N/A |
 | 3 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 4 | [Liepājas](http://twitter.com/search?q=Liep%c4%81jas) | N/A |
 | 5 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
@@ -29,7 +29,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 12 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
 | 13 | [#floorball](http://twitter.com/search?q=%23floorball) | N/A |
 | 14 | [#MSC2023](http://twitter.com/search?q=%23MSC2023) | N/A |
-| 15 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | N/A |
+| 15 | [Muļķības](http://twitter.com/search?q=Mu%c4%bc%c4%b7%c4%abbas) | N/A |
 | 16 | [visiem](http://twitter.com/search?q=visiem) | N/A |
 | 17 | [taisnība](http://twitter.com/search?q=taisn%c4%abba) | N/A |
 | 18 | [Manā](http://twitter.com/search?q=Man%c4%81) | N/A |
@@ -38,8 +38,8 @@ This is top 50 for [Latvia](</Latvia>)
 | 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 22 | [francijas](http://twitter.com/search?q=francijas) | N/A |
 | 23 | [londonā](http://twitter.com/search?q=london%c4%81) | N/A |
-| 24 | [Kariņš](http://twitter.com/search?q=Kari%c5%86%c5%a1) | N/A |
-| 25 | [Siguldā](http://twitter.com/search?q=Siguld%c4%81) | N/A |
+| 24 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
+| 25 | [siguldā](http://twitter.com/search?q=siguld%c4%81) | N/A |
 | 26 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
 | 27 | [beidz](http://twitter.com/search?q=beidz) | N/A |
 | 28 | [pagaidām](http://twitter.com/search?q=pagaid%c4%81m) | N/A |
@@ -53,14 +53,14 @@ This is top 50 for [Latvia](</Latvia>)
 | 36 | [Covid](http://twitter.com/search?q=Covid) | N/A |
 | 37 | [Izskatās](http://twitter.com/search?q=Izskat%c4%81s) | N/A |
 | 38 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
-| 39 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
+| 39 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
 | 40 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 41 | [Noteikti](http://twitter.com/search?q=Noteikti) | N/A |
+| 41 | [noteikti](http://twitter.com/search?q=noteikti) | N/A |
 | 42 | [cilvēks](http://twitter.com/search?q=cilv%c4%93ks) | N/A |
 | 43 | [Nekad](http://twitter.com/search?q=Nekad) | N/A |
 | 44 | [Līdzīgi](http://twitter.com/search?q=L%c4%abdz%c4%abgi) | N/A |
 | 45 | [Pirmo](http://twitter.com/search?q=Pirmo) | N/A |
-| 46 | [Rīga](http://twitter.com/search?q=R%c4%abga) | N/A |
+| 46 | [rīga](http://twitter.com/search?q=r%c4%abga) | N/A |
 | 47 | [Manuprāt](http://twitter.com/search?q=Manupr%c4%81t) | N/A |
 | 48 | [Baltic](http://twitter.com/search?q=Baltic) | N/A |
 | 49 | [Toties](http://twitter.com/search?q=Toties) | N/A |

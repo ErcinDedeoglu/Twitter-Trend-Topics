@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-19 23:17:03 UTC`
+📆 Last Updated: `2023-02-20 00:29:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 2 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
-| 3 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
-| 4 | [Litoral Norte](http://twitter.com/search?q=Litoral+Norte) | N/A |
-| 5 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
-| 6 | [Neo Química Arena](http://twitter.com/search?q=Neo+Qu%c3%admica+Arena) | N/A |
-| 7 | [daniel caesar](http://twitter.com/search?q=daniel+caesar) | N/A |
-| 8 | [Santos Futebol Clube](http://twitter.com/search?q=Santos+Futebol+Clube) | N/A |
-| 9 | [Peixão](http://twitter.com/search?q=Peix%c3%a3o) | N/A |
-| 10 | [Ilhabela](http://twitter.com/search?q=Ilhabela) | N/A |
-| 11 | [Sócrates](http://twitter.com/search?q=S%c3%b3crates) | N/A |
-| 12 | [Bertioga](http://twitter.com/search?q=Bertioga) | N/A |
-| 13 | [Joaquim](http://twitter.com/search?q=Joaquim) | N/A |
-| 14 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
-| 15 | [Carelli](http://twitter.com/search?q=Carelli) | N/A |
-| 16 | [Ubatuba](http://twitter.com/search?q=Ubatuba) | N/A |
-| 17 | [Ituano](http://twitter.com/search?q=Ituano) | Ituano is a Brazilian football club based in Itu, São Paulo. The name Ituano is derived from the Tupi language and means "people of Itu". |
-| 18 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
-| 19 | [ONDE FOI](http://twitter.com/search?q=ONDE+FOI) | N/A |
-| 20 | [#SaveWarriorNun](http://twitter.com/search?q=%23SaveWarriorNun) | N/A |
-| 21 | [Desejo](http://twitter.com/search?q=Desejo) | N/A |
-| 22 | [Renan](http://twitter.com/search?q=Renan) | N/A |
-| 23 | [Chico](http://twitter.com/search?q=Chico) | N/A |
-| 24 | [#CBLOL](http://twitter.com/search?q=%23CBLOL) | N/A |
-| 25 | [#FicaAlface](http://twitter.com/search?q=%23FicaAlface) | N/A |
-| 26 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 27 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
-| 28 | [Roger Guedes](http://twitter.com/search?q=Roger+Guedes) | Roger Guedes is a Brazilian footballer who currently plays for Atlético Mineiro. His name in English translates to "Roger Woods". |
-| 29 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
-| 30 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
-| 31 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 1 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
+| 2 | [Ludmila](http://twitter.com/search?q=Ludmila) | N/A |
+| 3 | [Litoral Norte](http://twitter.com/search?q=Litoral+Norte) | N/A |
+| 4 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 5 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
+| 6 | [Caetano](http://twitter.com/search?q=Caetano) | N/A |
+| 7 | [#GOpaiN](http://twitter.com/search?q=%23GOpaiN) | N/A |
+| 8 | [Ângelo](http://twitter.com/search?q=%c3%82ngelo) | N/A |
+| 9 | [Bloco da Pabllo](http://twitter.com/search?q=Bloco+da+Pabllo) | N/A |
+| 10 | [Sócrates](http://twitter.com/search?q=S%c3%b3crates) | N/A |
+| 11 | [Peixão](http://twitter.com/search?q=Peix%c3%a3o) | N/A |
+| 12 | [Judas Lima](http://twitter.com/search?q=Judas+Lima) | N/A |
+| 13 | [shawn](http://twitter.com/search?q=shawn) | Shawn is a given name, typically a masculine name. It is an Anglicized form of the Irish name Seán, which is derived from the Hebrew name Yehohanan, meaning "God is gracious". |
+| 14 | [Sandry](http://twitter.com/search?q=Sandry) | N/A |
+| 15 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 16 | [Agressão](http://twitter.com/search?q=Agress%c3%a3o) | N/A |
+| 17 | [Bertioga](http://twitter.com/search?q=Bertioga) | N/A |
+| 18 | [tutu](http://twitter.com/search?q=tutu) | N/A |
+| 19 | [Santos Futebol Clube](http://twitter.com/search?q=Santos+Futebol+Clube) | N/A |
+| 20 | [Vila](http://twitter.com/search?q=Vila) | N/A |
+| 21 | [Joaquim](http://twitter.com/search?q=Joaquim) | N/A |
+| 22 | [Valorant](http://twitter.com/search?q=Valorant) | N/A |
+| 23 | [Julieta](http://twitter.com/search?q=Julieta) | Julieta is a Spanish female name derived from the Latin name Julia. It is a diminutive form of Julia, meaning "youthful" or "downy-bearded". In English, Julieta can be translated to mean "youthful one". |
+| 24 | [Romeu](http://twitter.com/search?q=Romeu) | N/A |
+| 25 | [Desejo](http://twitter.com/search?q=Desejo) | N/A |
+| 26 | [Renan](http://twitter.com/search?q=Renan) | N/A |
+| 27 | [Chico](http://twitter.com/search?q=Chico) | N/A |
+| 28 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
+| 29 | [Renato Augusto](http://twitter.com/search?q=Renato+Augusto) | Renato Augusto is a Brazilian professional footballer who plays for Beijing Guoan in the Chinese Super League. His name translates to "Renewed August" in English. |
+| 30 | [Roger Guedes](http://twitter.com/search?q=Roger+Guedes) | Roger Guedes is a Brazilian footballer who currently plays for Atlético Mineiro. His name in English translates to "Roger Woods". |
+| 31 | [Yuri](http://twitter.com/search?q=Yuri) | N/A |
 | 32 | [Mirassol](http://twitter.com/search?q=Mirassol) | Mirassol is a municipality in the state of São Paulo, Brazil. The name Mirassol is derived from the Tupi language and means "Sunflower". |
-| 33 | [#PaulistaoNaTNT](http://twitter.com/search?q=%23PaulistaoNaTNT) | N/A |
-| 34 | [#PaulistaoNaHBOMAX](http://twitter.com/search?q=%23PaulistaoNaHBOMAX) | N/A |
-| 35 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
-| 36 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
-| 37 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
-| 38 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 39 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
-| 40 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 33 | [Lázaro](http://twitter.com/search?q=L%c3%a1zaro) | N/A |
+| 34 | [#Fantastico](http://twitter.com/search?q=%23Fantastico) | #Fantastico is an Italian word meaning "fantastic" or "amazing". It is often used as a hashtag on social media to express enthusiasm for something. |
+| 35 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 36 | [PAULOANDRE E HELLMANNS NBA](http://twitter.com/search?q=PAULOANDRE+E+HELLMANNS+NBA) | N/A |
+| 37 | [Lucas Lima](http://twitter.com/search?q=Lucas+Lima) | Lucas Lima is a Brazilian professional footballer who plays as an attacking midfielder for Palmeiras. His name translates to Lucas Lime in English. |
+| 38 | [#PaulistaoNaTNT](http://twitter.com/search?q=%23PaulistaoNaTNT) | N/A |
+| 39 | [#PaulistaoNaHBOMAX](http://twitter.com/search?q=%23PaulistaoNaHBOMAX) | N/A |
+| 40 | [Maycon](http://twitter.com/search?q=Maycon) | Maycon is a Portuguese name derived from the Latin name Magnus, meaning “great”. It is also a variant of the English name Maxon. |
 | 41 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 42 | [SHEA](http://twitter.com/search?q=SHEA) | N/A |
-| 43 | [Dona Cida](http://twitter.com/search?q=Dona+Cida) | N/A |
-| 44 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 45 | [Marcos Leonardo](http://twitter.com/search?q=Marcos+Leonardo) | Marcos Leonardo is a Spanish name. It is composed of two given names, Marcos and Leonardo. The name Marcos is derived from the Latin name Marcus, which means “dedicated to Mars” or “warlike”. The name Leonardo is derived from the Latin name Leonhardus, which means “brave lion”. In English, the meaning of the name Marcos Leonardo would be “dedicated to Mars and brave lion”. |
-| 46 | [Portuguesa](http://twitter.com/search?q=Portuguesa) | N/A |
-| 47 | [Meu 10](http://twitter.com/search?q=Meu+10) | Meu 10 is a Brazilian expression that literally translates to "My 10." It is used to express approval or agreement with something, similar to the English phrase "I'm with you." |
-| 48 | [Muralha](http://twitter.com/search?q=Muralha) | N/A |
-| 49 | [Hariany](http://twitter.com/search?q=Hariany) | N/A |
-| 50 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
+| 42 | [Otis](http://twitter.com/search?q=Otis) | N/A |
+| 43 | [Ana Paula](http://twitter.com/search?q=Ana+Paula) | N/A |
+| 44 | [Maeve](http://twitter.com/search?q=Maeve) | N/A |
+| 45 | [Adson](http://twitter.com/search?q=Adson) | Adson is a Portuguese name derived from the Latin name Adsonus, which means “son of Adam”. It is a combination of the Latin words ad (meaning “to” or “toward”) and sonus (meaning “sound”). |
+| 46 | [#goLOUD](http://twitter.com/search?q=%23goLOUD) | N/A |
+| 47 | [Roni](http://twitter.com/search?q=Roni) | Roni is a Hebrew name meaning "my joy". |
+| 48 | [Larissa](http://twitter.com/search?q=Larissa) | Larissa is a female given name of Greek origin, derived from the ancient city of Larissa in Thessaly, Greece. It is thought to mean "citadel" or "fortress". |
+| 49 | [Du Queiroz](http://twitter.com/search?q=Du+Queiroz) | Du Queiroz is a Portuguese surname. It is derived from the Latin word quaerere, which means "to seek". In English, it can be translated to mean "seeker". |
+| 50 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
 
 
 

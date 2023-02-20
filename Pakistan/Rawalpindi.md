@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-19 23:17:27 UTC`
+📆 Last Updated: `2023-02-20 00:30:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#KKvLQ](http://twitter.com/search?q=%23KKvLQ) | N/A |
 | 2 | [#الٹی_میٹم72گھنٹوں_کا](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%b9%db%8c_%d9%85%db%8c%d9%b9%d9%8572%da%af%da%be%d9%86%d9%b9%d9%88%da%ba_%da%a9%d8%a7) | N/A |
-| 3 | [#LQvKK](http://twitter.com/search?q=%23LQvKK) | N/A |
-| 4 | [#SahibzadaSultan](http://twitter.com/search?q=%23SahibzadaSultan) | N/A |
-| 5 | [#TentPeggingWorldCup](http://twitter.com/search?q=%23TentPeggingWorldCup) | N/A |
+| 3 | [#lqvkk](http://twitter.com/search?q=%23lqvkk) | N/A |
+| 4 | [#sahibzadasultan](http://twitter.com/search?q=%23sahibzadasultan) | N/A |
+| 5 | [#tentpeggingworldcup](http://twitter.com/search?q=%23tentpeggingworldcup) | N/A |
 | 6 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 7 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 8 | [Kamran Ghulam](http://twitter.com/search?q=Kamran+Ghulam) | N/A |
-| 9 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
-| 10 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 11 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 12 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
+| 7 | [Kamran Ghulam](http://twitter.com/search?q=Kamran+Ghulam) | N/A |
+| 8 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
+| 9 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 10 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 11 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
+| 12 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 13 | [Hussain Talat](http://twitter.com/search?q=Hussain+Talat) | N/A |
 | 14 | [guptil](http://twitter.com/search?q=guptil) | N/A |
 | 15 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 16 | [tahir baig](http://twitter.com/search?q=tahir+baig) | N/A |
-| 17 | [28 Rajab](http://twitter.com/search?q=28+Rajab) | N/A |
-| 18 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 19 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 20 | [tom curran](http://twitter.com/search?q=tom+curran) | N/A |
-| 21 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
-| 22 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
-| 23 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
-| 24 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
-| 25 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 26 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 27 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
-| 28 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 29 | [Shai Hope](http://twitter.com/search?q=Shai+Hope) | N/A |
-| 30 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 31 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 32 | [ben cutting](http://twitter.com/search?q=ben+cutting) | N/A |
-| 33 | [Aqib Javed](http://twitter.com/search?q=Aqib+Javed) | N/A |
-| 34 | [Akif Javed](http://twitter.com/search?q=Akif+Javed) | N/A |
-| 35 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 36 | [Madina](http://twitter.com/search?q=Madina) | N/A |
+| 16 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 17 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 18 | [tom curran](http://twitter.com/search?q=tom+curran) | N/A |
+| 19 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
+| 20 | [Tahir baig](http://twitter.com/search?q=Tahir+baig) | N/A |
+| 21 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
+| 22 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
+| 23 | [usama mir](http://twitter.com/search?q=usama+mir) | N/A |
+| 24 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 25 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 26 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 27 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 28 | [shai hope](http://twitter.com/search?q=shai+hope) | N/A |
+| 29 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 30 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 31 | [ben cutting](http://twitter.com/search?q=ben+cutting) | N/A |
+| 32 | [Aqib Javed](http://twitter.com/search?q=Aqib+Javed) | N/A |
+| 33 | [Akif Javed](http://twitter.com/search?q=Akif+Javed) | N/A |
+| 34 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 35 | [28th Rajab](http://twitter.com/search?q=28th+Rajab) | N/A |
+| 36 | [Iron](http://twitter.com/search?q=Iron) | N/A |
 | 37 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
-| 38 | [28th Rajab](http://twitter.com/search?q=28th+Rajab) | N/A |
-| 39 | [Iron](http://twitter.com/search?q=Iron) | N/A |
-| 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 41 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 42 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
-| 43 | [Raha](http://twitter.com/search?q=Raha) | N/A |
-| 44 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 45 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
-| 46 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 47 | [Ayesha](http://twitter.com/search?q=Ayesha) | N/A |
-| 48 | [Abdullah](http://twitter.com/search?q=Abdullah) | N/A |
-| 49 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
-| 50 | [Sell](http://twitter.com/search?q=Sell) | N/A |
+| 38 | [Madina](http://twitter.com/search?q=Madina) | N/A |
+| 39 | [Raha](http://twitter.com/search?q=Raha) | N/A |
+| 40 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 41 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 42 | [Gotcha](http://twitter.com/search?q=Gotcha) | N/A |
+| 43 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 44 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 45 | [I LOVE YOU](http://twitter.com/search?q=I+LOVE+YOU) | N/A |
+| 46 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 47 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 48 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 49 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 50 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-19 23:17:10 UTC`
+📆 Last Updated: `2023-02-20 00:29:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,17 +19,17 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 2 | [#utrpsv](http://twitter.com/search?q=%23utrpsv) | N/A |
 | 3 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 4 | [#gaetwe](http://twitter.com/search?q=%23gaetwe) | N/A |
-| 5 | [#feyaz](http://twitter.com/search?q=%23feyaz) | N/A |
-| 6 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 5 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 6 | [#feyaz](http://twitter.com/search?q=%23feyaz) | N/A |
 | 7 | [#CAMHEE](http://twitter.com/search?q=%23CAMHEE) | N/A |
-| 8 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
-| 9 | [Diepenheim](http://twitter.com/search?q=Diepenheim) | N/A |
+| 8 | [Diepenheim](http://twitter.com/search?q=Diepenheim) | N/A |
+| 9 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
 | 10 | [Femke Bol](http://twitter.com/search?q=Femke+Bol) | N/A |
-| 11 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 12 | [Bart Vriends](http://twitter.com/search?q=Bart+Vriends) | N/A |
-| 13 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 11 | [Bart Vriends](http://twitter.com/search?q=Bart+Vriends) | N/A |
+| 12 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 13 | [gl-kamerlid](http://twitter.com/search?q=gl-kamerlid) | N/A |
 | 14 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 15 | [GL-Kamerlid](http://twitter.com/search?q=GL-Kamerlid) | N/A |
+| 15 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 16 | [Van Boekel](http://twitter.com/search?q=Van+Boekel) | N/A |
 | 17 | [Pedersen](http://twitter.com/search?q=Pedersen) | N/A |
 | 18 | [Pakhuis de Zwijger](http://twitter.com/search?q=Pakhuis+de+Zwijger) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 20 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
 | 21 | [Geweld](http://twitter.com/search?q=Geweld) | N/A |
 | 22 | [Hardenberg](http://twitter.com/search?q=Hardenberg) | N/A |
-| 23 | [Excelsior](http://twitter.com/search?q=Excelsior) | N/A |
-| 24 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
-| 25 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
-| 26 | [Linda de Mol](http://twitter.com/search?q=Linda+de+Mol) | N/A |
-| 27 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 28 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 29 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 30 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
-| 31 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
-| 32 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 33 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
-| 34 | [Fred Rutten](http://twitter.com/search?q=Fred+Rutten) | N/A |
-| 35 | [dag 19](http://twitter.com/search?q=dag+19) | N/A |
-| 36 | [Oempa Loempa](http://twitter.com/search?q=Oempa+Loempa) | N/A |
-| 37 | [Geen D66](http://twitter.com/search?q=Geen+D66) | N/A |
-| 38 | [La Zarra](http://twitter.com/search?q=La+Zarra) | La Zarra is a Spanish term that literally translates to "the sieve". It is used to refer to a situation in which someone is trying to find a way out of an uncomfortable or difficult situation. In English, it can be used to describe someone who is trying to wriggle out of an awkward or unpleasant situation. |
-| 39 | [Streep](http://twitter.com/search?q=Streep) | N/A |
-| 40 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
-| 41 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 42 | [Volkert](http://twitter.com/search?q=Volkert) | N/A |
-| 43 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 44 | [Obispo](http://twitter.com/search?q=Obispo) | Obispo is a Spanish word meaning "bishop". It is used to refer to a bishop in the Catholic Church. |
-| 45 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
-| 46 | [Volt](http://twitter.com/search?q=Volt) | N/A |
-| 47 | [Dik Trom](http://twitter.com/search?q=Dik+Trom) | N/A |
-| 48 | [Sybren](http://twitter.com/search?q=Sybren) | N/A |
-| 49 | [Roda JC](http://twitter.com/search?q=Roda+JC) | N/A |
-| 50 | [Hans van Mierlo](http://twitter.com/search?q=Hans+van+Mierlo) | N/A |
+| 23 | [Twente](http://twitter.com/search?q=Twente) | Twente is a region in the eastern part of the Netherlands. It is located in the province of Overijssel and is known for its natural beauty, cultural heritage, and vibrant cities. The name Twente comes from the Germanic word "tweanta", which means "between two rivers". In English, it can be translated to mean "between two rivers". |
+| 24 | [Tadic](http://twitter.com/search?q=Tadic) | Tadic is a surname of Slavic origin. It is derived from the given name Tado, which is a diminutive form of the name Thaddeus. The English meaning of the name is "gift of God". |
+| 25 | [Linda de Mol](http://twitter.com/search?q=Linda+de+Mol) | N/A |
+| 26 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 27 | [Eagles](http://twitter.com/search?q=Eagles) | Eagles are large birds of prey that are found in many parts of the world. They have powerful hooked beaks, sharp talons, and keen eyesight. In English, the term "eagle" is often used to refer to a person or group that is strong, powerful, and successful. |
+| 28 | [Vooruitgang](http://twitter.com/search?q=Vooruitgang) | N/A |
+| 29 | [Geen D66](http://twitter.com/search?q=Geen+D66) | N/A |
+| 30 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 31 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 32 | [Karlsson](http://twitter.com/search?q=Karlsson) | N/A |
+| 33 | [Fred Rutten](http://twitter.com/search?q=Fred+Rutten) | N/A |
+| 34 | [dag 19](http://twitter.com/search?q=dag+19) | N/A |
+| 35 | [Oempa Loempa](http://twitter.com/search?q=Oempa+Loempa) | N/A |
+| 36 | [Wieffer](http://twitter.com/search?q=Wieffer) | N/A |
+| 37 | [Volkert](http://twitter.com/search?q=Volkert) | N/A |
+| 38 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 39 | [Obispo](http://twitter.com/search?q=Obispo) | Obispo is a Spanish word meaning "bishop". It is used to refer to a bishop in the Catholic Church. |
+| 40 | [Volt](http://twitter.com/search?q=Volt) | N/A |
+| 41 | [Dik Trom](http://twitter.com/search?q=Dik+Trom) | N/A |
+| 42 | [Sybren](http://twitter.com/search?q=Sybren) | N/A |
+| 43 | [Roda JC](http://twitter.com/search?q=Roda+JC) | N/A |
+| 44 | [Oldenzaal](http://twitter.com/search?q=Oldenzaal) | N/A |
+| 45 | [El Yaakoubi](http://twitter.com/search?q=El+Yaakoubi) | N/A |
+| 46 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
+| 47 | [Zerrouki](http://twitter.com/search?q=Zerrouki) | N/A |
+| 48 | [Hans van Mierlo](http://twitter.com/search?q=Hans+van+Mierlo) | N/A |
+| 49 | [Sjakie](http://twitter.com/search?q=Sjakie) | N/A |
+| 50 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 
 
 

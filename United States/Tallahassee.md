@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tallahassee
 
-📆 Last Updated: `2023-02-19 23:17:38 UTC`
+📆 Last Updated: `2023-02-20 00:30:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
-| 2 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
-| 3 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 4 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
-| 5 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 6 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 7 | [#Busch401K](http://twitter.com/search?q=%23Busch401K) | N/A |
-| 8 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
-| 9 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 10 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
-| 11 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
-| 12 | [#KaKaw](http://twitter.com/search?q=%23KaKaw) | N/A |
-| 13 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 14 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 15 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
-| 16 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 17 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
-| 18 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 19 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
-| 20 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
-| 21 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 22 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 23 | [Austin Proehl](http://twitter.com/search?q=Austin+Proehl) | N/A |
-| 24 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 25 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 26 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
-| 27 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 28 | [Hines Ward](http://twitter.com/search?q=Hines+Ward) | N/A |
-| 29 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 30 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 31 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 32 | [Truex](http://twitter.com/search?q=Truex) | N/A |
-| 33 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 34 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 35 | [Hakeem Butler](http://twitter.com/search?q=Hakeem+Butler) | N/A |
-| 36 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
-| 37 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 38 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 39 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 40 | [Casey Murphy](http://twitter.com/search?q=Casey+Murphy) | N/A |
-| 41 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
-| 42 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
-| 43 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
-| 44 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 45 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
-| 46 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
-| 47 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
-| 48 | [Spaceballs](http://twitter.com/search?q=Spaceballs) | N/A |
-| 49 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
+| 1 | [Stage 2](http://twitter.com/search?q=Stage+2) | N/A |
+| 2 | [Chase Elliott](http://twitter.com/search?q=Chase+Elliott) | N/A |
+| 3 | [Kevin Love](http://twitter.com/search?q=Kevin+Love) | N/A |
+| 4 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 5 | [Reagan](http://twitter.com/search?q=Reagan) | N/A |
+| 6 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 7 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 8 | [Stenhouse](http://twitter.com/search?q=Stenhouse) | N/A |
+| 9 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 10 | [#Busch401K](http://twitter.com/search?q=%23Busch401K) | N/A |
+| 11 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
+| 12 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 13 | [Logano](http://twitter.com/search?q=Logano) | N/A |
+| 14 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 15 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
+| 16 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 17 | [#KaKaw](http://twitter.com/search?q=%23KaKaw) | N/A |
+| 18 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
+| 19 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 20 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
+| 21 | [Nebraska](http://twitter.com/search?q=Nebraska) | N/A |
+| 22 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 23 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 24 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
+| 25 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 26 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 27 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
+| 28 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
+| 29 | [Wrecky Spinhouse](http://twitter.com/search?q=Wrecky+Spinhouse) | N/A |
+| 30 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 31 | [Jimmie](http://twitter.com/search?q=Jimmie) | N/A |
+| 32 | [Homa](http://twitter.com/search?q=Homa) | N/A |
+| 33 | [Tony Stewart](http://twitter.com/search?q=Tony+Stewart) | N/A |
+| 34 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
+| 35 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 36 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 37 | [Donta Scott](http://twitter.com/search?q=Donta+Scott) | N/A |
+| 38 | [Austin Proehl](http://twitter.com/search?q=Austin+Proehl) | N/A |
+| 39 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 40 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 41 | [Zhen](http://twitter.com/search?q=Zhen) | N/A |
+| 42 | [Brad Daugherty](http://twitter.com/search?q=Brad+Daugherty) | N/A |
+| 43 | [Keselowski](http://twitter.com/search?q=Keselowski) | N/A |
+| 44 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
+| 45 | [Austin Dillon](http://twitter.com/search?q=Austin+Dillon) | N/A |
+| 46 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
+| 47 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 48 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
+| 49 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
 
 
 

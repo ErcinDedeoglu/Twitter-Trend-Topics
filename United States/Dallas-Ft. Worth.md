@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-19 23:17:33 UTC`
+📆 Last Updated: `2023-02-20 00:30:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
-| 2 | [#ForTheCity](http://twitter.com/search?q=%23ForTheCity) | N/A |
-| 3 | [Houston](http://twitter.com/search?q=Houston) | N/A |
-| 4 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 5 | [The Rock](http://twitter.com/search?q=The+Rock) | N/A |
-| 6 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 7 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
-| 8 | [#Busch401K](http://twitter.com/search?q=%23Busch401K) | N/A |
-| 9 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
-| 10 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 11 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
-| 12 | [#GoAvsGo](http://twitter.com/search?q=%23GoAvsGo) | N/A |
-| 13 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 14 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
-| 15 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
-| 16 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 1 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 2 | [Coogs](http://twitter.com/search?q=Coogs) | N/A |
+| 3 | [#ForTheCity](http://twitter.com/search?q=%23ForTheCity) | N/A |
+| 4 | [Houston](http://twitter.com/search?q=Houston) | N/A |
+| 5 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 6 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 7 | [Stenhouse](http://twitter.com/search?q=Stenhouse) | N/A |
+| 8 | [NASCAR](http://twitter.com/search?q=NASCAR) | NASCAR stands for the National Association for Stock Car Auto Racing. It is an American auto racing organization that sanctions and governs multiple auto racing sports events. NASCAR is the largest sanctioning body of stock car racing in the United States. |
+| 9 | [#Busch401K](http://twitter.com/search?q=%23Busch401K) | N/A |
+| 10 | [#Sweepstakes](http://twitter.com/search?q=%23Sweepstakes) | N/A |
+| 11 | [Larson](http://twitter.com/search?q=Larson) | N/A |
+| 12 | [Logano](http://twitter.com/search?q=Logano) | N/A |
+| 13 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 14 | [AJ McCarron](http://twitter.com/search?q=AJ+McCarron) | N/A |
+| 15 | [#KaKaw](http://twitter.com/search?q=%23KaKaw) | N/A |
+| 16 | [Munch](http://twitter.com/search?q=Munch) | N/A |
 | 17 | [Rahm](http://twitter.com/search?q=Rahm) | N/A |
 | 18 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 19 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 19 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
 | 20 | [Law & Order](http://twitter.com/search?q=Law+%26+Order) | N/A |
-| 21 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 22 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 23 | [Austin Proehl](http://twitter.com/search?q=Austin+Proehl) | N/A |
-| 24 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
-| 25 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
-| 26 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
-| 27 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 28 | [Hines Ward](http://twitter.com/search?q=Hines+Ward) | N/A |
-| 29 | [Preece](http://twitter.com/search?q=Preece) | N/A |
-| 30 | [Homa](http://twitter.com/search?q=Homa) | N/A |
-| 31 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 32 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 33 | [Blaney](http://twitter.com/search?q=Blaney) | N/A |
-| 34 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
-| 35 | [Truex](http://twitter.com/search?q=Truex) | N/A |
-| 36 | [Law and Order](http://twitter.com/search?q=Law+and+Order) | N/A |
-| 37 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 38 | [Hakeem Butler](http://twitter.com/search?q=Hakeem+Butler) | N/A |
-| 39 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 40 | [Casey Murphy](http://twitter.com/search?q=Casey+Murphy) | N/A |
-| 41 | [Chastain](http://twitter.com/search?q=Chastain) | N/A |
-| 42 | [Wegner](http://twitter.com/search?q=Wegner) | N/A |
-| 43 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 44 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
-| 45 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
-| 46 | [Spaceballs](http://twitter.com/search?q=Spaceballs) | N/A |
-| 47 | [NC State](http://twitter.com/search?q=NC+State) | NC State is an abbreviation for North Carolina State University, a public research university located in Raleigh, North Carolina. It is one of the oldest public universities in the United States and is a member of the prestigious Association of American Universities. NC State offers over 300 undergraduate and graduate degree programs across 12 colleges and schools. |
-| 48 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
-| 49 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 50 | [Stage 2](http://twitter.com/search?q=Stage+2) | N/A |
+| 21 | [Harvick](http://twitter.com/search?q=Harvick) | N/A |
+| 22 | [Travis Pastrana](http://twitter.com/search?q=Travis+Pastrana) | N/A |
+| 23 | [Ole Miss](http://twitter.com/search?q=Ole+Miss) | N/A |
+| 24 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
+| 25 | [Nebraska](http://twitter.com/search?q=Nebraska) | N/A |
+| 26 | [Wrecky Spinhouse](http://twitter.com/search?q=Wrecky+Spinhouse) | N/A |
+| 27 | [Spencer Lee](http://twitter.com/search?q=Spencer+Lee) | Spencer Lee is a British singer-songwriter and producer. He is best known for his single "The Wolf", which was featured in the Netflix series The Witcher. The meaning of his name in English is "protector of the meadow". |
+| 28 | [Jimmie](http://twitter.com/search?q=Jimmie) | N/A |
+| 29 | [Homa](http://twitter.com/search?q=Homa) | N/A |
+| 30 | [Tony Stewart](http://twitter.com/search?q=Tony+Stewart) | N/A |
+| 31 | [Homicide](http://twitter.com/search?q=Homicide) | N/A |
+| 32 | [Anthony Edwards](http://twitter.com/search?q=Anthony+Edwards) | Anthony Edwards is a popular American actor, best known for his roles in the films Top Gun, Zodiac, and ER. The name Anthony is derived from the Latin Antonius, which means "priceless one". |
+| 33 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 34 | [Austin Proehl](http://twitter.com/search?q=Austin+Proehl) | N/A |
+| 35 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 36 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 37 | [Zhen](http://twitter.com/search?q=Zhen) | N/A |
+| 38 | [Brad Daugherty](http://twitter.com/search?q=Brad+Daugherty) | N/A |
+| 39 | [Donta Scott](http://twitter.com/search?q=Donta+Scott) | N/A |
+| 40 | [Keselowski](http://twitter.com/search?q=Keselowski) | N/A |
+| 41 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 42 | [Jahmir Young](http://twitter.com/search?q=Jahmir+Young) | N/A |
+| 43 | [Austin Dillon](http://twitter.com/search?q=Austin+Dillon) | N/A |
+| 44 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 45 | [Coach K](http://twitter.com/search?q=Coach+K) | N/A |
+| 46 | [Mike Joy](http://twitter.com/search?q=Mike+Joy) | N/A |
+| 47 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
+| 48 | [San Antonio](http://twitter.com/search?q=San+Antonio) | San Antonio is a city in south-central Texas, USA. It is the second most populous city in the state and the seventh most populous city in the United States. The city is known for its Spanish colonial architecture, vibrant culture, and diverse population. San Antonio is also home to the Alamo, a historic mission and fort that was the site of a pivotal battle during the Texas Revolution. |
+| 49 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
+| 50 | [The XFL](http://twitter.com/search?q=The+XFL) | N/A |
 
 
 

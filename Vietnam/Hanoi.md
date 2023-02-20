@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-19 23:17:20 UTC`
+📆 Last Updated: `2023-02-20 00:29:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,22 +22,22 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 5 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
 | 6 | [#2M400KbeBBhoney](http://twitter.com/search?q=%232M400KbeBBhoney) | N/A |
 | 7 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 8 | [jimin cho army xem tatoo với](http://twitter.com/search?q=jimin+cho+army+xem+tatoo+v%e1%bb%9bi) | N/A |
-| 9 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 10 | [vif x gulfhazard](http://twitter.com/search?q=vif+x+gulfhazard) | N/A |
+| 8 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 9 | [JIMIN CHO ARMY XEM TATOO VỚI](http://twitter.com/search?q=JIMIN+CHO+ARMY+XEM+TATOO+V%e1%bb%9aI) | N/A |
+| 10 | [VIF X GULFHAZARD](http://twitter.com/search?q=VIF+X+GULFHAZARD) | N/A |
 | 11 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
 | 12 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
 | 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 14 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
 | 15 | [iconic aespa on ccma](http://twitter.com/search?q=iconic+aespa+on+ccma) | N/A |
-| 16 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
+| 16 | [Dáng](http://twitter.com/search?q=D%c3%a1ng) | N/A |
 | 17 | [ohm in vn](http://twitter.com/search?q=ohm+in+vn) | N/A |
 | 18 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 20 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
+| 20 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
 | 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 22 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 23 | [BYLs](http://twitter.com/search?q=BYLs) | N/A |
+| 23 | [Byls](http://twitter.com/search?q=Byls) | N/A |
 | 24 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
 | 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 26 | [The US](http://twitter.com/search?q=The+US) | N/A |
@@ -56,14 +56,14 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 39 | [Jack](http://twitter.com/search?q=Jack) | N/A |
 | 40 | [Pump](http://twitter.com/search?q=Pump) | N/A |
 | 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [tuyệt](http://twitter.com/search?q=tuy%e1%bb%87t) | N/A |
+| 42 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
 | 43 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
 | 44 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
 | 45 | [trung](http://twitter.com/search?q=trung) | N/A |
-| 46 | [Thực](http://twitter.com/search?q=Th%e1%bb%b1c) | N/A |
+| 46 | [thực](http://twitter.com/search?q=th%e1%bb%b1c) | N/A |
 | 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 49 | [#OhmNanonFMVN2023](http://twitter.com/search?q=%23OhmNanonFMVN2023) | N/A |
+| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 
 
 

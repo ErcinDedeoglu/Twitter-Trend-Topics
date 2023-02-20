@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-19 23:17:47 UTC`
+📆 Last Updated: `2023-02-20 00:30:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,49 @@ This is top 50 for Vietnam
 | 5 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
 | 6 | [#2M400KbeBBhoney](http://twitter.com/search?q=%232M400KbeBBhoney) | N/A |
 | 7 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 8 | [jimin cho army xem tatoo với](http://twitter.com/search?q=jimin+cho+army+xem+tatoo+v%e1%bb%9bi) | N/A |
-| 9 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 10 | [vif x gulfhazard](http://twitter.com/search?q=vif+x+gulfhazard) | N/A |
+| 8 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
+| 9 | [JIMIN CHO ARMY XEM TATOO VỚI](http://twitter.com/search?q=JIMIN+CHO+ARMY+XEM+TATOO+V%e1%bb%9aI) | N/A |
+| 10 | [VIF X GULFHAZARD](http://twitter.com/search?q=VIF+X+GULFHAZARD) | N/A |
 | 11 | [BaBiu](http://twitter.com/search?q=BaBiu) | N/A |
 | 12 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
 | 13 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 14 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
 | 15 | [iconic aespa on ccma](http://twitter.com/search?q=iconic+aespa+on+ccma) | N/A |
-| 16 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
+| 16 | [Dáng](http://twitter.com/search?q=D%c3%a1ng) | N/A |
 | 17 | [ohm in vn](http://twitter.com/search?q=ohm+in+vn) | N/A |
 | 18 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 20 | [oh hanbin](http://twitter.com/search?q=oh+hanbin) | N/A |
-| 21 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 22 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
-| 23 | [BYLs](http://twitter.com/search?q=BYLs) | N/A |
-| 24 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
-| 25 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 26 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 27 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
-| 28 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
-| 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 30 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
-| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 32 | [trần minh nhật](http://twitter.com/search?q=tr%e1%ba%a7n+minh+nh%e1%ba%adt) | N/A |
-| 33 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
-| 34 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 35 | [President](http://twitter.com/search?q=President) | N/A |
-| 36 | [Cong](http://twitter.com/search?q=Cong) | N/A |
-| 37 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 38 | [eagle rock nfts](http://twitter.com/search?q=eagle+rock+nfts) | N/A |
-| 39 | [Jack](http://twitter.com/search?q=Jack) | N/A |
-| 40 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 42 | [tuyệt](http://twitter.com/search?q=tuy%e1%bb%87t) | N/A |
-| 43 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
-| 44 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 45 | [trung](http://twitter.com/search?q=trung) | N/A |
-| 46 | [Thực](http://twitter.com/search?q=Th%e1%bb%b1c) | N/A |
-| 47 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 48 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 49 | [#OhmNanonFMVN2023](http://twitter.com/search?q=%23OhmNanonFMVN2023) | N/A |
+| 19 | [5,000 ZETA Points](http://twitter.com/search?q=5%2c000+ZETA+Points) | N/A |
+| 20 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 21 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
+| 22 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 23 | [Lucky](http://twitter.com/search?q=Lucky) | N/A |
+| 24 | [Byls](http://twitter.com/search?q=Byls) | N/A |
+| 25 | [Becbec](http://twitter.com/search?q=Becbec) | N/A |
+| 26 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 27 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 28 | [Ho Chi Minh](http://twitter.com/search?q=Ho+Chi+Minh) | N/A |
+| 29 | [taylor swift](http://twitter.com/search?q=taylor+swift) | N/A |
+| 30 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 31 | [sáng](http://twitter.com/search?q=s%c3%a1ng) | N/A |
+| 32 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 33 | [trần minh nhật](http://twitter.com/search?q=tr%e1%ba%a7n+minh+nh%e1%ba%adt) | N/A |
+| 34 | [Qatar](http://twitter.com/search?q=Qatar) | N/A |
+| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 36 | [President](http://twitter.com/search?q=President) | N/A |
+| 37 | [Cong](http://twitter.com/search?q=Cong) | N/A |
+| 38 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 39 | [eagle rock nfts](http://twitter.com/search?q=eagle+rock+nfts) | N/A |
+| 40 | [Jack](http://twitter.com/search?q=Jack) | N/A |
+| 41 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 43 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
+| 44 | [những](http://twitter.com/search?q=nh%e1%bb%afng) | N/A |
+| 45 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
+| 46 | [trung](http://twitter.com/search?q=trung) | N/A |
+| 47 | [thực](http://twitter.com/search?q=th%e1%bb%b1c) | N/A |
+| 48 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 50 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
 
 
 

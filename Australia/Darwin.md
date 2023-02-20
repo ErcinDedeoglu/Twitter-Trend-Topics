@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-02-19 23:17:14 UTC`
+📆 Last Updated: `2023-02-20 00:29:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [#INDvAUS](http://twitter.com/search?q=%23INDvAUS) | N/A |
 | 2 | [#WWEChamber](http://twitter.com/search?q=%23WWEChamber) | N/A |
-| 3 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
-| 4 | [#AUSvESP](http://twitter.com/search?q=%23AUSvESP) | N/A |
-| 5 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 6 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
+| 3 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
+| 4 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 5 | [#AUSvESP](http://twitter.com/search?q=%23AUSvESP) | N/A |
+| 6 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
 | 7 | [#AVLARS](http://twitter.com/search?q=%23AVLARS) | N/A |
 | 8 | [#UFCVegas69](http://twitter.com/search?q=%23UFCVegas69) | N/A |
-| 9 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 10 | [Narty](http://twitter.com/search?q=Narty) | N/A |
-| 11 | [Langer](http://twitter.com/search?q=Langer) | N/A |
-| 12 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 13 | [Ben Fordham](http://twitter.com/search?q=Ben+Fordham) | N/A |
-| 14 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 15 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
-| 16 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 17 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 18 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 19 | [McClung](http://twitter.com/search?q=McClung) | N/A |
-| 20 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 21 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 22 | [Fair Day](http://twitter.com/search?q=Fair+Day) | N/A |
-| 23 | [Bronte](http://twitter.com/search?q=Bronte) | N/A |
-| 24 | [Carey](http://twitter.com/search?q=Carey) | N/A |
-| 25 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 26 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 27 | [Josh](http://twitter.com/search?q=Josh) | N/A |
-| 28 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
-| 29 | [Leigh Sales](http://twitter.com/search?q=Leigh+Sales) | N/A |
-| 30 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 31 | [dana morse](http://twitter.com/search?q=dana+morse) | N/A |
-| 32 | [Samantha Maiden](http://twitter.com/search?q=Samantha+Maiden) | N/A |
-| 33 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
-| 34 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
-| 35 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
-| 36 | [Toast](http://twitter.com/search?q=Toast) | N/A |
-| 37 | [Barnaby Joyce](http://twitter.com/search?q=Barnaby+Joyce) | N/A |
-| 38 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 9 | [Langer](http://twitter.com/search?q=Langer) | N/A |
+| 10 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
+| 11 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 12 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 13 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 14 | [Narty](http://twitter.com/search?q=Narty) | N/A |
+| 15 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 16 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 17 | [Alan Kohler](http://twitter.com/search?q=Alan+Kohler) | N/A |
+| 18 | [McClung](http://twitter.com/search?q=McClung) | N/A |
+| 19 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 20 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 21 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 22 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 23 | [Barnaby](http://twitter.com/search?q=Barnaby) | N/A |
+| 24 | [Fair Day](http://twitter.com/search?q=Fair+Day) | N/A |
+| 25 | [Leigh Sales](http://twitter.com/search?q=Leigh+Sales) | N/A |
+| 26 | [Carey](http://twitter.com/search?q=Carey) | N/A |
+| 27 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 28 | [Renshaw](http://twitter.com/search?q=Renshaw) | N/A |
+| 29 | [Carla Zampatti](http://twitter.com/search?q=Carla+Zampatti) | N/A |
+| 30 | [dana morse](http://twitter.com/search?q=dana+morse) | N/A |
+| 31 | [Samantha Maiden](http://twitter.com/search?q=Samantha+Maiden) | N/A |
+| 32 | [Caitlin](http://twitter.com/search?q=Caitlin) | N/A |
+| 33 | [Meta](http://twitter.com/search?q=Meta) | N/A |
+| 34 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 35 | [Jadeja](http://twitter.com/search?q=Jadeja) | N/A |
+| 36 | [Belmore](http://twitter.com/search?q=Belmore) | N/A |
+| 37 | [Toast](http://twitter.com/search?q=Toast) | N/A |
+| 38 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
 | 39 | [Ginnivan](http://twitter.com/search?q=Ginnivan) | N/A |
-| 40 | [Alessandra](http://twitter.com/search?q=Alessandra) | Alessandra is a female given name of Italian origin. It is derived from the Greek name Alexandra, which means "defender of mankind". |
-| 41 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 42 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 43 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 44 | [Andrew McDonald](http://twitter.com/search?q=Andrew+McDonald) | N/A |
-| 45 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 46 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 47 | [St Helens](http://twitter.com/search?q=St+Helens) | N/A |
-| 48 | [Lismore](http://twitter.com/search?q=Lismore) | N/A |
-| 49 | [souttar](http://twitter.com/search?q=souttar) | N/A |
-| 50 | [Chalmers](http://twitter.com/search?q=Chalmers) | N/A |
+| 40 | [Josh](http://twitter.com/search?q=Josh) | N/A |
+| 41 | [Brontë](http://twitter.com/search?q=Bront%c3%ab) | N/A |
+| 42 | [Ashwin](http://twitter.com/search?q=Ashwin) | Ashwin is a Hindu name derived from Sanskrit, meaning "lord of the horse". It is often used as a given name for boys in India. |
+| 43 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 44 | [The New Daily](http://twitter.com/search?q=The+New+Daily) | N/A |
+| 45 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 46 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 47 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 48 | [Andrew McDonald](http://twitter.com/search?q=Andrew+McDonald) | N/A |
+| 49 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
+| 50 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
 
 
 
