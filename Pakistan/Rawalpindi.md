@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-20 20:17:06 UTC`
+📆 Last Updated: `2023-02-20 21:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 5 | [#ImranKhanForPakistan](http://twitter.com/search?q=%23ImranKhanForPakistan) | N/A |
 | 6 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 7 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 8 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 9 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 10 | [Neesham](http://twitter.com/search?q=Neesham) | N/A |
-| 11 | [Another 6.4](http://twitter.com/search?q=Another+6.4) | N/A |
-| 12 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 13 | [Zalmi](http://twitter.com/search?q=Zalmi) | N/A |
-| 14 | [Usman Qadir](http://twitter.com/search?q=Usman+Qadir) | N/A |
-| 15 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 16 | [Powell](http://twitter.com/search?q=Powell) | Powell is a surname of English origin. It is derived from the Welsh word "ap Hywel," meaning "son of Hywel." The name was first recorded in the 12th century and has been used as both a first and last name. |
-| 17 | [Islamic Republic of Pakistan](http://twitter.com/search?q=Islamic+Republic+of+Pakistan) | N/A |
-| 18 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 19 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 20 | [Aurat March](http://twitter.com/search?q=Aurat+March) | N/A |
-| 21 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 22 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 23 | [Election Act 2017](http://twitter.com/search?q=Election+Act+2017) | N/A |
-| 24 | [Arshad Iqbal](http://twitter.com/search?q=Arshad+Iqbal) | N/A |
-| 25 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 26 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 27 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 28 | [Quiz](http://twitter.com/search?q=Quiz) | N/A |
-| 29 | [Liam Dawson](http://twitter.com/search?q=Liam+Dawson) | N/A |
-| 30 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
-| 31 | [Frying](http://twitter.com/search?q=Frying) | N/A |
-| 32 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 33 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 34 | [Professor](http://twitter.com/search?q=Professor) | N/A |
-| 35 | [Torkham](http://twitter.com/search?q=Torkham) | N/A |
-| 36 | [Section 57](http://twitter.com/search?q=Section+57) | N/A |
+| 8 | [Another 6.4](http://twitter.com/search?q=Another+6.4) | N/A |
+| 9 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 10 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 11 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
+| 12 | [Usman Qadir](http://twitter.com/search?q=Usman+Qadir) | N/A |
+| 13 | [Neesham](http://twitter.com/search?q=Neesham) | N/A |
+| 14 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
+| 15 | [Islamic Republic of Pakistan](http://twitter.com/search?q=Islamic+Republic+of+Pakistan) | N/A |
+| 16 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 17 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 18 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 19 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
+| 20 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 21 | [Aurat March](http://twitter.com/search?q=Aurat+March) | N/A |
+| 22 | [Arshad Iqbal](http://twitter.com/search?q=Arshad+Iqbal) | N/A |
+| 23 | [Frying](http://twitter.com/search?q=Frying) | N/A |
+| 24 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 25 | [Quiz](http://twitter.com/search?q=Quiz) | N/A |
+| 26 | [Election Act 2017](http://twitter.com/search?q=Election+Act+2017) | N/A |
+| 27 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
+| 28 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 29 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 30 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 31 | [Section 57](http://twitter.com/search?q=Section+57) | N/A |
+| 32 | [Professor](http://twitter.com/search?q=Professor) | N/A |
+| 33 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 34 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
+| 35 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 36 | [Liam Dawson](http://twitter.com/search?q=Liam+Dawson) | N/A |
 | 37 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 38 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 39 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
-| 40 | [Bobby](http://twitter.com/search?q=Bobby) | N/A |
-| 41 | [Iron](http://twitter.com/search?q=Iron) | N/A |
-| 42 | [Haris](http://twitter.com/search?q=Haris) | Haris is a male given name of Arabic origin. It is derived from the Arabic word "haris", which means "guardian". In English, it can be translated to mean "protector" or "defender". |
-| 43 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 44 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
-| 45 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 46 | [Will Smeed](http://twitter.com/search?q=Will+Smeed) | N/A |
-| 47 | [Mian](http://twitter.com/search?q=Mian) | N/A |
-| 48 | [Officially in 2nd](http://twitter.com/search?q=Officially+in+2nd) | N/A |
-| 49 | [Thankyou](http://twitter.com/search?q=Thankyou) | N/A |
-| 50 | [Murshad](http://twitter.com/search?q=Murshad) | N/A |
+| 38 | [Hasaranga](http://twitter.com/search?q=Hasaranga) | N/A |
+| 39 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
+| 40 | [Will Smeed](http://twitter.com/search?q=Will+Smeed) | N/A |
+| 41 | [Istg](http://twitter.com/search?q=Istg) | N/A |
+| 42 | [Cousin](http://twitter.com/search?q=Cousin) | N/A |
+| 43 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 44 | [Relatable](http://twitter.com/search?q=Relatable) | N/A |
+| 45 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
+| 46 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 47 | [Ahmadis](http://twitter.com/search?q=Ahmadis) | N/A |
+| 48 | [MBBS](http://twitter.com/search?q=MBBS) | N/A |
+| 49 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 50 | [Welcome to Pakistan](http://twitter.com/search?q=Welcome+to+Pakistan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-02-20 20:16:28 UTC`
+📆 Last Updated: `2023-02-20 21:17:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Canada](</Canada>)
 | 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 6 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
-| 7 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 8 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 7 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 8 | [Louis Riel](http://twitter.com/search?q=Louis+Riel) | N/A |
 | 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 10 | [Louis Riel](http://twitter.com/search?q=Louis+Riel) | N/A |
-| 11 | [Welcome to Canada](http://twitter.com/search?q=Welcome+to+Canada) | N/A |
+| 10 | [Welcome to Canada](http://twitter.com/search?q=Welcome+to+Canada) | N/A |
+| 11 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 12 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
 | 13 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 14 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
-| 15 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 16 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 17 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 18 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 19 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 20 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 21 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 22 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 23 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
-| 24 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 25 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 26 | [Team LeBron](http://twitter.com/search?q=Team+LeBron) | N/A |
-| 27 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 28 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 29 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 30 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 31 | [Jimenez](http://twitter.com/search?q=Jimenez) | Jimenez is a Spanish surname. It is derived from the given name Jimeno, which is a form of the Germanic name Gundemar. In English, it means "son of Jimeno". |
-| 32 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 33 | [Rita Joe](http://twitter.com/search?q=Rita+Joe) | N/A |
-| 34 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 35 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 36 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 37 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
-| 38 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 39 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 40 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 14 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 15 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 16 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 17 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
+| 18 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 19 | [Panthers](http://twitter.com/search?q=Panthers) | Panthers are large cats that belong to the genus Panthera. They are found in many parts of the world, including Africa, Asia, and North and South America. Panthers are usually black in color, but some can be white or brown. The term "panther" is also used to refer to any big cat that has a black coat. |
+| 20 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
+| 21 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 22 | [Pastrnak](http://twitter.com/search?q=Pastrnak) | N/A |
+| 23 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 24 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 25 | [McAvoy](http://twitter.com/search?q=McAvoy) | McAvoy is a Scottish surname derived from the Gaelic Mac an Bhaird, meaning "son of the bard". It is most commonly found in the counties of Ayrshire and Renfrewshire. |
+| 26 | [Team Lebron](http://twitter.com/search?q=Team+Lebron) | N/A |
+| 27 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 28 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 29 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
+| 30 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
+| 31 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 32 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 33 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 34 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 35 | [Rita Joe](http://twitter.com/search?q=Rita+Joe) | N/A |
+| 36 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
+| 37 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 38 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 39 | [Mandolese](http://twitter.com/search?q=Mandolese) | N/A |
+| 40 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
 | 41 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 42 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 43 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 44 | [Heritage Day](http://twitter.com/search?q=Heritage+Day) | N/A |
-| 45 | [McAvoy](http://twitter.com/search?q=McAvoy) | McAvoy is a Scottish surname derived from the Gaelic Mac an Bhaird, meaning "son of the bard". It is most commonly found in the counties of Ayrshire and Renfrewshire. |
-| 46 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 47 | [Nova Scotia](http://twitter.com/search?q=Nova+Scotia) | N/A |
-| 48 | [Graham Greene](http://twitter.com/search?q=Graham+Greene) | N/A |
+| 42 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 43 | [Heritage Day](http://twitter.com/search?q=Heritage+Day) | N/A |
+| 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 45 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 46 | [Housefather](http://twitter.com/search?q=Housefather) | N/A |
+| 47 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 48 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
 
 
 

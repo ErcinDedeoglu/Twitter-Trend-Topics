@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-20 20:16:48 UTC`
+📆 Last Updated: `2023-02-20 21:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 3 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
 | 4 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 5 | [#SocialJusticeDay](http://twitter.com/search?q=%23SocialJusticeDay) | N/A |
-| 6 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 7 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 8 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 9 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 11 | [Scheiben](http://twitter.com/search?q=Scheiben) | N/A |
-| 12 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
-| 13 | [Juso](http://twitter.com/search?q=Juso) | N/A |
+| 5 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 6 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
+| 7 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
+| 8 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 9 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 10 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 11 | [Juso](http://twitter.com/search?q=Juso) | N/A |
+| 12 | [Scheiben](http://twitter.com/search?q=Scheiben) | N/A |
+| 13 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
 | 14 | [Honig](http://twitter.com/search?q=Honig) | N/A |
 | 15 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 16 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
 | 17 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 18 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
-| 19 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 20 | [Krieg mit Russland](http://twitter.com/search?q=Krieg+mit+Russland) | N/A |
-| 21 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 22 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
-| 23 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
-| 24 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 25 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 26 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 27 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 28 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
-| 29 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 30 | [Diktator](http://twitter.com/search?q=Diktator) | N/A |
-| 31 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
-| 32 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 33 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
-| 34 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
-| 35 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 36 | [Japon](http://twitter.com/search?q=Japon) | N/A |
-| 37 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
-| 38 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 39 | [Betrug](http://twitter.com/search?q=Betrug) | N/A |
-| 40 | [Verteidiger](http://twitter.com/search?q=Verteidiger) | N/A |
-| 41 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 42 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
-| 43 | [Seiten](http://twitter.com/search?q=Seiten) | N/A |
-| 44 | [Klassen](http://twitter.com/search?q=Klassen) | N/A |
-| 45 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
-| 46 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 47 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
+| 18 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 19 | [Krieg mit Russland](http://twitter.com/search?q=Krieg+mit+Russland) | N/A |
+| 20 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
+| 21 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
+| 22 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 23 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 24 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
+| 25 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 26 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 27 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 28 | [Seiten](http://twitter.com/search?q=Seiten) | N/A |
+| 29 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 30 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 31 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 32 | [Diktator](http://twitter.com/search?q=Diktator) | N/A |
+| 33 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
+| 34 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
+| 35 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 36 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
+| 37 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 38 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
+| 39 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
+| 40 | [Japon](http://twitter.com/search?q=Japon) | N/A |
+| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 42 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 43 | [Betrug](http://twitter.com/search?q=Betrug) | N/A |
+| 44 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
+| 45 | [Verteidiger](http://twitter.com/search?q=Verteidiger) | N/A |
+| 46 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 47 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
 
 
 

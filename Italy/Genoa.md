@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-20 20:16:45 UTC`
+📆 Last Updated: `2023-02-20 21:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
-| 2 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 3 | [#20febbraio](http://twitter.com/search?q=%2320febbraio) | N/A |
-| 4 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
-| 5 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 6 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 7 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 8 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 9 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 10 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 11 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 12 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 13 | [Tozzi](http://twitter.com/search?q=Tozzi) | N/A |
-| 14 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 15 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
-| 16 | [Capitan Harlock](http://twitter.com/search?q=Capitan+Harlock) | N/A |
-| 17 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 18 | [Carnevale](http://twitter.com/search?q=Carnevale) | N/A |
-| 19 | [Trevisani](http://twitter.com/search?q=Trevisani) | N/A |
-| 20 | [Tocci](http://twitter.com/search?q=Tocci) | N/A |
-| 21 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 22 | [Sabatini](http://twitter.com/search?q=Sabatini) | N/A |
-| 23 | [Valvole](http://twitter.com/search?q=Valvole) | N/A |
-| 24 | [Prince of Persia](http://twitter.com/search?q=Prince+of+Persia) | N/A |
-| 25 | [Tonon](http://twitter.com/search?q=Tonon) | N/A |
-| 26 | [Facebook e Instagram](http://twitter.com/search?q=Facebook+e+Instagram) | N/A |
-| 27 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 28 | [GIGANTE](http://twitter.com/search?q=GIGANTE) | N/A |
-| 29 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
-| 30 | [Sinisa](http://twitter.com/search?q=Sinisa) | N/A |
-| 31 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 32 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
-| 33 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 34 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
-| 35 | [Bove](http://twitter.com/search?q=Bove) | N/A |
-| 36 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 37 | [Fedayn](http://twitter.com/search?q=Fedayn) | N/A |
-| 38 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 39 | [Caracciolo](http://twitter.com/search?q=Caracciolo) | N/A |
-| 40 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 41 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 42 | [Massara](http://twitter.com/search?q=Massara) | N/A |
-| 43 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 44 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 45 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 46 | [Kate Middleton](http://twitter.com/search?q=Kate+Middleton) | N/A |
-| 47 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 48 | [Panchina](http://twitter.com/search?q=Panchina) | N/A |
-| 49 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
-| 50 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 2 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 3 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 4 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 5 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 6 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 7 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
+| 8 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
+| 9 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
+| 10 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 11 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
+| 12 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 13 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 14 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 15 | [Katia](http://twitter.com/search?q=Katia) | N/A |
+| 16 | [Gasparri](http://twitter.com/search?q=Gasparri) | N/A |
+| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 18 | [Tommaso](http://twitter.com/search?q=Tommaso) | N/A |
+| 19 | [Tozzi](http://twitter.com/search?q=Tozzi) | N/A |
+| 20 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 21 | [Oriana e Luca](http://twitter.com/search?q=Oriana+e+Luca) | N/A |
+| 22 | [Tonon](http://twitter.com/search?q=Tonon) | N/A |
+| 23 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 24 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 25 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 26 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 27 | [#fiorisopralinferno](http://twitter.com/search?q=%23fiorisopralinferno) | N/A |
+| 28 | [#staseratuttoèpossibile](http://twitter.com/search?q=%23staseratutto%c3%a8possibile) | N/A |
+| 29 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 30 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
+| 31 | [#hannoDeluso](http://twitter.com/search?q=%23hannoDeluso) | N/A |
+| 32 | [#iostoconoriana](http://twitter.com/search?q=%23iostoconoriana) | N/A |
+| 33 | [#ConfrontoSkyTG24](http://twitter.com/search?q=%23ConfrontoSkyTG24) | N/A |
+| 34 | [#TorinoCremonese](http://twitter.com/search?q=%23TorinoCremonese) | N/A |
+| 35 | [#PrimariePD](http://twitter.com/search?q=%23PrimariePD) | N/A |
+| 36 | [#bonaccinisegretario](http://twitter.com/search?q=%23bonaccinisegretario) | N/A |
+| 37 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 38 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 39 | [#LittleBigItaly](http://twitter.com/search?q=%23LittleBigItaly) | N/A |
+| 40 | [#confrontoTv](http://twitter.com/search?q=%23confrontoTv) | N/A |
+| 41 | [#IoScrivoLaNotte](http://twitter.com/search?q=%23IoScrivoLaNotte) | N/A |
+| 42 | [#Sallusti](http://twitter.com/search?q=%23Sallusti) | N/A |
+| 43 | [#DeLaurentiis](http://twitter.com/search?q=%23DeLaurentiis) | N/A |
+| 44 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 45 | [#EintrachtNapoli](http://twitter.com/search?q=%23EintrachtNapoli) | N/A |
+| 46 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
+| 47 | [#spartani](http://twitter.com/search?q=%23spartani) | N/A |
+| 48 | [#Giorgia_NON_CONDANNA](http://twitter.com/search?q=%23Giorgia_NON_CONDANNA) | N/A |
+| 49 | [#GiorgiaMeloni](http://twitter.com/search?q=%23GiorgiaMeloni) | N/A |
 
 
 

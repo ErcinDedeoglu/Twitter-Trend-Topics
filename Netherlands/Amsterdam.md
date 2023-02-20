@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-20 20:16:46 UTC`
+📆 Last Updated: `2023-02-20 21:18:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 2 | [#huntedvips](http://twitter.com/search?q=%23huntedvips) | N/A |
-| 3 | [#fakkels](http://twitter.com/search?q=%23fakkels) | N/A |
-| 4 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
-| 5 | [#massaiskassa](http://twitter.com/search?q=%23massaiskassa) | N/A |
-| 6 | [#hmmik](http://twitter.com/search?q=%23hmmik) | N/A |
-| 7 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 8 | [Jeroen Pauw](http://twitter.com/search?q=Jeroen+Pauw) | N/A |
-| 9 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 10 | [Denzel](http://twitter.com/search?q=Denzel) | N/A |
-| 11 | [Warmtepomp](http://twitter.com/search?q=Warmtepomp) | N/A |
-| 12 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 13 | [Famke](http://twitter.com/search?q=Famke) | N/A |
-| 14 | [Wolter Kroes](http://twitter.com/search?q=Wolter+Kroes) | N/A |
-| 15 | [Onacceptabel](http://twitter.com/search?q=Onacceptabel) | N/A |
-| 16 | [Tessa](http://twitter.com/search?q=Tessa) | Tessa is a female given name of Greek origin, derived from the word "Τέσσα", meaning "harvest". It is also a variant of the name Theresa. |
-| 17 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 18 | [Peggy](http://twitter.com/search?q=Peggy) | N/A |
-| 19 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
-| 20 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 2 | [#helpmijnmanisklusser](http://twitter.com/search?q=%23helpmijnmanisklusser) | N/A |
+| 3 | [#hmmik](http://twitter.com/search?q=%23hmmik) | N/A |
+| 4 | [Diepenheim](http://twitter.com/search?q=Diepenheim) | N/A |
+| 5 | [#fakkels](http://twitter.com/search?q=%23fakkels) | N/A |
+| 6 | [#benb](http://twitter.com/search?q=%23benb) | N/A |
+| 7 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 8 | [Peggy](http://twitter.com/search?q=Peggy) | N/A |
+| 9 | [Jeroen Pauw](http://twitter.com/search?q=Jeroen+Pauw) | N/A |
+| 10 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 11 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 12 | [Warmtepomp](http://twitter.com/search?q=Warmtepomp) | N/A |
+| 13 | [Denzel](http://twitter.com/search?q=Denzel) | N/A |
+| 14 | [Jong Ajax](http://twitter.com/search?q=Jong+Ajax) | N/A |
+| 15 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 16 | [Godts](http://twitter.com/search?q=Godts) | N/A |
+| 17 | [Onacceptabel](http://twitter.com/search?q=Onacceptabel) | N/A |
+| 18 | [Famke](http://twitter.com/search?q=Famke) | N/A |
+| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 20 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
 | 21 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 22 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 23 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 24 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
-| 25 | [Ku Klux Klan](http://twitter.com/search?q=Ku+Klux+Klan) | N/A |
-| 26 | [Pakhuis de Zwijger](http://twitter.com/search?q=Pakhuis+de+Zwijger) | N/A |
-| 27 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 28 | [Prinses Beatrix](http://twitter.com/search?q=Prinses+Beatrix) | N/A |
-| 29 | [Intimidatie](http://twitter.com/search?q=Intimidatie) | N/A |
-| 30 | [MIVD](http://twitter.com/search?q=MIVD) | N/A |
-| 31 | [Turks-Syrisch](http://twitter.com/search?q=Turks-Syrisch) | N/A |
-| 32 | [Bedreiging](http://twitter.com/search?q=Bedreiging) | N/A |
-| 33 | [AIVD](http://twitter.com/search?q=AIVD) | N/A |
-| 34 | [Geen D66](http://twitter.com/search?q=Geen+D66) | N/A |
+| 22 | [Wolter Kroes](http://twitter.com/search?q=Wolter+Kroes) | N/A |
+| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 24 | [Intimidatie](http://twitter.com/search?q=Intimidatie) | N/A |
+| 25 | [Prinses Beatrix](http://twitter.com/search?q=Prinses+Beatrix) | N/A |
+| 26 | [Femke Bol](http://twitter.com/search?q=Femke+Bol) | N/A |
+| 27 | [MIVD](http://twitter.com/search?q=MIVD) | N/A |
+| 28 | [Turks-Syrisch](http://twitter.com/search?q=Turks-Syrisch) | N/A |
+| 29 | [Ku Klux Klan](http://twitter.com/search?q=Ku+Klux+Klan) | N/A |
+| 30 | [Pakhuis de Zwijger](http://twitter.com/search?q=Pakhuis+de+Zwijger) | N/A |
+| 31 | [Geen D66](http://twitter.com/search?q=Geen+D66) | N/A |
+| 32 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
+| 33 | [Raven](http://twitter.com/search?q=Raven) | N/A |
+| 34 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
 | 35 | [Edith Schippers](http://twitter.com/search?q=Edith+Schippers) | N/A |
-| 36 | [gl-kamerlid](http://twitter.com/search?q=gl-kamerlid) | N/A |
-| 37 | [Aangifte](http://twitter.com/search?q=Aangifte) | N/A |
-| 38 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 39 | [Goedenavond](http://twitter.com/search?q=Goedenavond) | N/A |
-| 40 | [Pim Fortuyn](http://twitter.com/search?q=Pim+Fortuyn) | N/A |
-| 41 | [Middeleeuwen](http://twitter.com/search?q=Middeleeuwen) | N/A |
-| 42 | [Wc-oorlog Kamer](http://twitter.com/search?q=Wc-oorlog+Kamer) | N/A |
-| 43 | [Luisteren](http://twitter.com/search?q=Luisteren) | N/A |
-| 44 | [Gesprek](http://twitter.com/search?q=Gesprek) | N/A |
-| 45 | [Huffelen](http://twitter.com/search?q=Huffelen) | N/A |
-| 46 | [Barendrecht](http://twitter.com/search?q=Barendrecht) | N/A |
-| 47 | [Geweld](http://twitter.com/search?q=Geweld) | N/A |
-| 48 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 49 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 50 | [Tubantia](http://twitter.com/search?q=Tubantia) | N/A |
+| 36 | [AIVD](http://twitter.com/search?q=AIVD) | N/A |
+| 37 | [Henk](http://twitter.com/search?q=Henk) | N/A |
+| 38 | [Bedreiging](http://twitter.com/search?q=Bedreiging) | N/A |
+| 39 | [gl-kamerlid](http://twitter.com/search?q=gl-kamerlid) | N/A |
+| 40 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 41 | [Syrië](http://twitter.com/search?q=Syri%c3%ab) | N/A |
+| 42 | [Aangifte](http://twitter.com/search?q=Aangifte) | N/A |
+| 43 | [Heksen](http://twitter.com/search?q=Heksen) | N/A |
+| 44 | [Gerard](http://twitter.com/search?q=Gerard) | N/A |
+| 45 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 46 | [Middeleeuwen](http://twitter.com/search?q=Middeleeuwen) | N/A |
+| 47 | [Gesprek](http://twitter.com/search?q=Gesprek) | N/A |
+| 48 | [Wc-oorlog Kamer](http://twitter.com/search?q=Wc-oorlog+Kamer) | N/A |
+| 49 | [Tessa](http://twitter.com/search?q=Tessa) | Tessa is a female given name of Greek origin, derived from the word "Τέσσα", meaning "harvest". It is also a variant of the name Theresa. |
+| 50 | [Pim Fortuyn](http://twitter.com/search?q=Pim+Fortuyn) | N/A |
 
 
 

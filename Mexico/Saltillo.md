@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saltillo
 
-📆 Last Updated: `2023-02-20 20:16:34 UTC`
+📆 Last Updated: `2023-02-20 21:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,45 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CiudadanosContraPlanB](http://twitter.com/search?q=%23CiudadanosContraPlanB) | N/A |
-| 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 3 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 2 | [#CiudadanosContraPlanB](http://twitter.com/search?q=%23CiudadanosContraPlanB) | N/A |
+| 3 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 4 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
-| 5 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 6 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 7 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 8 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 5 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 6 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 7 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 8 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 9 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
 | 10 | [El 20](http://twitter.com/search?q=El+20) | N/A |
-| 11 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 11 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
 | 12 | [Hoy 20](http://twitter.com/search?q=Hoy+20) | N/A |
-| 13 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 14 | [FAN ID](http://twitter.com/search?q=FAN+ID) | N/A |
-| 15 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 16 | [The Mars Volta](http://twitter.com/search?q=The+Mars+Volta) | N/A |
-| 17 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
-| 18 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 19 | [Nirvana](http://twitter.com/search?q=Nirvana) | N/A |
-| 20 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 21 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 22 | [Línea 9](http://twitter.com/search?q=L%c3%adnea+9) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [José Ramón Gómez Leal](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+G%c3%b3mez+Leal) | N/A |
-| 25 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
-| 26 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
-| 27 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
-| 28 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 29 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 30 | [Aeropuerto](http://twitter.com/search?q=Aeropuerto) | N/A |
-| 31 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 32 | [#CiudadSustentable](http://twitter.com/search?q=%23CiudadSustentable) | N/A |
-| 33 | [#MetrobúsEléctrico](http://twitter.com/search?q=%23Metrob%c3%basEl%c3%a9ctrico) | N/A |
-| 34 | [#JusticiaSocial](http://twitter.com/search?q=%23JusticiaSocial) | N/A |
-| 35 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
-| 36 | [#3YearsWithMOTS7](http://twitter.com/search?q=%233YearsWithMOTS7) | N/A |
-| 37 | [#PROTECTROSÉ](http://twitter.com/search?q=%23PROTECTROS%c3%89) | N/A |
-| 38 | [#PoderosoDeBuenas](http://twitter.com/search?q=%23PoderosoDeBuenas) | N/A |
-| 39 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
-| 40 | [#accidente](http://twitter.com/search?q=%23accidente) | N/A |
-| 41 | [#SandraCuevasRepresora](http://twitter.com/search?q=%23SandraCuevasRepresora) | N/A |
-| 42 | [#OposicionMoralmenteDerrotada](http://twitter.com/search?q=%23OposicionMoralmenteDerrotada) | N/A |
-| 43 | [#ReformaElectoral](http://twitter.com/search?q=%23ReformaElectoral) | N/A |
+| 13 | [FAN ID](http://twitter.com/search?q=FAN+ID) | N/A |
+| 14 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 15 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 16 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 17 | [Nirvana](http://twitter.com/search?q=Nirvana) | N/A |
+| 18 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 21 | [The Mars Volta](http://twitter.com/search?q=The+Mars+Volta) | N/A |
+| 22 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 23 | [NAICM](http://twitter.com/search?q=NAICM) | N/A |
+| 24 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
+| 25 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
+| 26 | [Aeropuerto](http://twitter.com/search?q=Aeropuerto) | N/A |
+| 27 | [#CiudadSustentable](http://twitter.com/search?q=%23CiudadSustentable) | N/A |
+| 28 | [#MetrobúsEléctrico](http://twitter.com/search?q=%23Metrob%c3%basEl%c3%a9ctrico) | N/A |
+| 29 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 30 | [#JusticiaSocial](http://twitter.com/search?q=%23JusticiaSocial) | N/A |
+| 31 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
+| 32 | [#3YearsWithMOTS7](http://twitter.com/search?q=%233YearsWithMOTS7) | N/A |
+| 33 | [#PROTECTROSÉ](http://twitter.com/search?q=%23PROTECTROS%c3%89) | N/A |
+| 34 | [#AtomicHeart](http://twitter.com/search?q=%23AtomicHeart) | N/A |
+| 35 | [#20DeFebrero](http://twitter.com/search?q=%2320DeFebrero) | N/A |
+| 36 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
+| 37 | [#SandraCuevasRepresora](http://twitter.com/search?q=%23SandraCuevasRepresora) | N/A |
+| 38 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
+| 39 | [#OposicionMoralmenteDerrotada](http://twitter.com/search?q=%23OposicionMoralmenteDerrotada) | N/A |
 
 
 

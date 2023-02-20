@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-20 20:17:29 UTC`
+📆 Last Updated: `2023-02-20 21:18:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Turkey
 | ------- | ------------ | ------------ |
 | 1 | [#Hatay](http://twitter.com/search?q=%23Hatay) | #Hatay is a province in southern Turkey, located on the Mediterranean coast. The name Hatay is derived from the ancient Hittite Empire, and it means "the land of the Hittites". In English, Hatay translates to "land of the Hittites". |
 | 2 | [#DEPREMANI](http://twitter.com/search?q=%23DEPREMANI) | N/A |
-| 3 | [#SONDAKİKA](http://twitter.com/search?q=%23SONDAK%c4%b0KA) | N/A |
-| 4 | [#Tsunami](http://twitter.com/search?q=%23Tsunami) | N/A |
+| 3 | [#hükümetistifa](http://twitter.com/search?q=%23h%c3%bck%c3%bcmetistifa) | N/A |
+| 4 | [#SONDAKİKA](http://twitter.com/search?q=%23SONDAK%c4%b0KA) | N/A |
 | 5 | [#depremoldu](http://twitter.com/search?q=%23depremoldu) | N/A |
-| 6 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 7 | [Artçı](http://twitter.com/search?q=Art%c3%a7%c4%b1) | Artçı is a Turkish word that means "artisan" or "craftsman". It is used to refer to someone who is skilled in a particular craft or trade. |
+| 6 | [Asılsız İhbar](http://twitter.com/search?q=As%c4%b1ls%c4%b1z+%c4%b0hbar) | N/A |
+| 7 | [Adana](http://twitter.com/search?q=Adana) | N/A |
 | 8 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
-| 9 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
-| 10 | [Kıbrıs](http://twitter.com/search?q=K%c4%b1br%c4%b1s) | N/A |
-| 11 | [Refik Eryılmaz](http://twitter.com/search?q=Refik+Ery%c4%b1lmaz) | N/A |
-| 12 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
-| 13 | [Celal](http://twitter.com/search?q=Celal) | N/A |
-| 14 | [İskenderun Devlet Hastanesi](http://twitter.com/search?q=%c4%b0skenderun+Devlet+Hastanesi) | N/A |
-| 15 | [Kaderden](http://twitter.com/search?q=Kaderden) | N/A |
-| 16 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
-| 17 | [Şirin Payzın](http://twitter.com/search?q=%c5%9eirin+Payz%c4%b1n) | N/A |
-| 18 | [Yarabbim](http://twitter.com/search?q=Yarabbim) | N/A |
-| 19 | [Hasarlı](http://twitter.com/search?q=Hasarl%c4%b1) | N/A |
-| 20 | [Deniz](http://twitter.com/search?q=Deniz) | N/A |
-| 21 | [Antalya Valiliği](http://twitter.com/search?q=Antalya+Valili%c4%9fi) | N/A |
-| 22 | [Kandilli](http://twitter.com/search?q=Kandilli) | N/A |
-| 23 | [Uyarı](http://twitter.com/search?q=Uyar%c4%b1) | N/A |
-| 24 | [Dikkat](http://twitter.com/search?q=Dikkat) | N/A |
-| 25 | [Trafo](http://twitter.com/search?q=Trafo) | N/A |
-| 26 | [Cumhurbaşkanı Yardımcısı Oktay](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Yard%c4%b1mc%c4%b1s%c4%b1+Oktay) | N/A |
-| 27 | [Hepimize](http://twitter.com/search?q=Hepimize) | N/A |
-| 28 | [Depremin 15](http://twitter.com/search?q=Depremin+15) | N/A |
-| 29 | [Panik](http://twitter.com/search?q=Panik) | N/A |
-| 30 | [Besmele](http://twitter.com/search?q=Besmele) | N/A |
-| 31 | [Bakan Soylu](http://twitter.com/search?q=Bakan+Soylu) | N/A |
-| 32 | [Bitmiyor](http://twitter.com/search?q=Bitmiyor) | N/A |
-| 33 | [İçişleri Bakanı Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+Soylu) | N/A |
-| 34 | [Bitsin](http://twitter.com/search?q=Bitsin) | N/A |
-| 35 | [Doğu Anadolu](http://twitter.com/search?q=Do%c4%9fu+Anadolu) | N/A |
+| 9 | [Artçı](http://twitter.com/search?q=Art%c3%a7%c4%b1) | Artçı is a Turkish word that means "artisan" or "craftsman". It is used to refer to someone who is skilled in a particular craft or trade. |
+| 10 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
+| 11 | [Kıbrıs](http://twitter.com/search?q=K%c4%b1br%c4%b1s) | N/A |
+| 12 | [Depremin 15](http://twitter.com/search?q=Depremin+15) | N/A |
+| 13 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
+| 14 | [Refik Eryılmaz](http://twitter.com/search?q=Refik+Ery%c4%b1lmaz) | N/A |
+| 15 | [Bilim](http://twitter.com/search?q=Bilim) | N/A |
+| 16 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
+| 17 | [Kaderden](http://twitter.com/search?q=Kaderden) | N/A |
+| 18 | [Şirin Payzın](http://twitter.com/search?q=%c5%9eirin+Payz%c4%b1n) | N/A |
+| 19 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
+| 20 | [Celal](http://twitter.com/search?q=Celal) | N/A |
+| 21 | [Fuat Oktay](http://twitter.com/search?q=Fuat+Oktay) | N/A |
+| 22 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
+| 23 | [İskenderun Devlet Hastanesi](http://twitter.com/search?q=%c4%b0skenderun+Devlet+Hastanesi) | N/A |
+| 24 | [İçişleri Bakanı Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+Soylu) | N/A |
+| 25 | [Dikkat](http://twitter.com/search?q=Dikkat) | N/A |
+| 26 | [Uyarı](http://twitter.com/search?q=Uyar%c4%b1) | N/A |
+| 27 | [Trafo](http://twitter.com/search?q=Trafo) | N/A |
+| 28 | [CNN Türk](http://twitter.com/search?q=CNN+T%c3%bcrk) | N/A |
+| 29 | [Doğu Anadolu](http://twitter.com/search?q=Do%c4%9fu+Anadolu) | N/A |
+| 30 | [Kandilli](http://twitter.com/search?q=Kandilli) | N/A |
+| 31 | [Hasarlı](http://twitter.com/search?q=Hasarl%c4%b1) | N/A |
+| 32 | [Besmele](http://twitter.com/search?q=Besmele) | N/A |
+| 33 | [Bakan Soylu](http://twitter.com/search?q=Bakan+Soylu) | N/A |
+| 34 | [Hepimize](http://twitter.com/search?q=Hepimize) | N/A |
+| 35 | [Cumhurbaşkanı Yardımcısı Oktay](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Yard%c4%b1mc%c4%b1s%c4%b1+Oktay) | N/A |
 | 36 | [İmana](http://twitter.com/search?q=%c4%b0mana) | N/A |
-| 37 | [Psikoloji](http://twitter.com/search?q=Psikoloji) | N/A |
-| 38 | [Sağol](http://twitter.com/search?q=Sa%c4%9fol) | N/A |
-| 39 | [Bulut](http://twitter.com/search?q=Bulut) | N/A |
-| 40 | [Offff](http://twitter.com/search?q=Offff) | N/A |
-| 41 | [Dr. Belkıs YAŞA](http://twitter.com/search?q=Dr.+Belk%c4%b1s+YA%c5%9eA) | N/A |
-| 42 | [Devlet Milletiyle](http://twitter.com/search?q=Devlet+Milletiyle) | N/A |
-| 43 | [Alanya](http://twitter.com/search?q=Alanya) | Alanya is a city and resort on the southern coast of Turkey. It is located in the province of Antalya and is a popular tourist destination. The name Alanya comes from the Arabic word for "peninsula" or "island". In English, it can be translated to mean "Island of the Sun". |
-| 44 | [Sallandık](http://twitter.com/search?q=Salland%c4%b1k) | N/A |
-| 45 | [#Mersin](http://twitter.com/search?q=%23Mersin) | N/A |
-| 46 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
-| 47 | [#survivor2023](http://twitter.com/search?q=%23survivor2023) | N/A |
-| 48 | [#Tabakademisi](http://twitter.com/search?q=%23Tabakademisi) | N/A |
-| 49 | [#gelecektarımda](http://twitter.com/search?q=%23gelecektar%c4%b1mda) | N/A |
-| 50 | [#70ildeOkullarKapatılsın](http://twitter.com/search?q=%2370ildeOkullarKapat%c4%b1ls%c4%b1n) | N/A |
+| 37 | [Buket](http://twitter.com/search?q=Buket) | N/A |
+| 38 | [Memur](http://twitter.com/search?q=Memur) | N/A |
+| 39 | [Panik](http://twitter.com/search?q=Panik) | N/A |
+| 40 | [Girmeyin](http://twitter.com/search?q=Girmeyin) | N/A |
+| 41 | [Deniz](http://twitter.com/search?q=Deniz) | N/A |
+| 42 | [Psikoloji](http://twitter.com/search?q=Psikoloji) | N/A |
+| 43 | [Bismillahirrahmanirrahim](http://twitter.com/search?q=Bismillahirrahmanirrahim) | N/A |
+| 44 | [Bitmiyor](http://twitter.com/search?q=Bitmiyor) | N/A |
+| 45 | [#YardımParalarıNerede](http://twitter.com/search?q=%23Yard%c4%b1mParalar%c4%b1Nerede) | N/A |
+| 46 | [#kıyamet](http://twitter.com/search?q=%23k%c4%b1yamet) | N/A |
+| 47 | [#Tsunami](http://twitter.com/search?q=%23Tsunami) | N/A |
+| 48 | [#Mersin](http://twitter.com/search?q=%23Mersin) | N/A |
+| 49 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 50 | [#sallanıyoruz](http://twitter.com/search?q=%23sallan%c4%b1yoruz) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ranchi
 
-📆 Last Updated: `2023-02-20 20:17:07 UTC`
+📆 Last Updated: `2023-02-20 21:18:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SonuNigam](http://twitter.com/search?q=%23SonuNigam) | N/A |
-| 2 | [सोनू निगम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae) | N/A |
-| 3 | [#turkeyearthquake2023](http://twitter.com/search?q=%23turkeyearthquake2023) | N/A |
-| 4 | [#nationalistwithmodiji](http://twitter.com/search?q=%23nationalistwithmodiji) | N/A |
-| 5 | [Turkey-Syria](http://twitter.com/search?q=Turkey-Syria) | N/A |
-| 6 | [#TejasswiPrakash](http://twitter.com/search?q=%23TejasswiPrakash) | N/A |
-| 7 | [Chembur](http://twitter.com/search?q=Chembur) | N/A |
-| 8 | [TEJASSWI GRACING DPIFF2023](http://twitter.com/search?q=TEJASSWI+GRACING+DPIFF2023) | N/A |
-| 9 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 10 | [Sushant Divine Power](http://twitter.com/search?q=Sushant+Divine+Power) | N/A |
-| 11 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 12 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
-| 13 | [प्रकाश कोहली](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
-| 14 | [शीला दीक्षित](http://twitter.com/search?q=%e0%a4%b6%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
-| 15 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
-| 16 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 17 | [Pawan Khera](http://twitter.com/search?q=Pawan+Khera) | N/A |
-| 18 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 19 | [AICC](http://twitter.com/search?q=AICC) | N/A |
-| 20 | [ABVP](http://twitter.com/search?q=ABVP) | N/A |
-| 21 | [अखिल भारतीय कांग्रेस कमेटी](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
-| 22 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
-| 23 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 24 | [Jaishankar](http://twitter.com/search?q=Jaishankar) | N/A |
-| 25 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 26 | [Thala](http://twitter.com/search?q=Thala) | N/A |
-| 27 | [#INDvIRE](http://twitter.com/search?q=%23INDvIRE) | N/A |
-| 28 | [#3YearsWithMOTS7](http://twitter.com/search?q=%233YearsWithMOTS7) | N/A |
-| 29 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 30 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
-| 31 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
-| 32 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
-| 33 | [#TejaTroops](http://twitter.com/search?q=%23TejaTroops) | N/A |
-| 34 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
-| 35 | [#IamJSPActiveMember](http://twitter.com/search?q=%23IamJSPActiveMember) | N/A |
-| 36 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
-| 37 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 38 | [#MujhePyaarHuaTha](http://twitter.com/search?q=%23MujhePyaarHuaTha) | N/A |
-| 39 | [#NoToPriceHike](http://twitter.com/search?q=%23NoToPriceHike) | N/A |
-| 40 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
-| 41 | [#HealthTips](http://twitter.com/search?q=%23HealthTips) | N/A |
-| 42 | [#Pathaan1000crWorldWide](http://twitter.com/search?q=%23Pathaan1000crWorldWide) | N/A |
-| 43 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
-| 44 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 45 | [#NoToBroadcasterCartel](http://twitter.com/search?q=%23NoToBroadcasterCartel) | N/A |
-| 46 | [#Bankofbaroda](http://twitter.com/search?q=%23Bankofbaroda) | N/A |
-| 47 | [#UdhayanidhiStalin](http://twitter.com/search?q=%23UdhayanidhiStalin) | N/A |
-| 48 | [#PakistanBankrupt](http://twitter.com/search?q=%23PakistanBankrupt) | N/A |
-| 49 | [#DulquerSalmaan](http://twitter.com/search?q=%23DulquerSalmaan) | N/A |
+| 1 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 2 | [#SonuNigam](http://twitter.com/search?q=%23SonuNigam) | N/A |
+| 3 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 4 | [#GreedyBroadcaster](http://twitter.com/search?q=%23GreedyBroadcaster) | N/A |
+| 5 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
+| 6 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 7 | [AICC](http://twitter.com/search?q=AICC) | N/A |
+| 8 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 9 | [सोनू निगम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae) | N/A |
+| 10 | [उपेंद्र कुशवाहा](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%95%e0%a5%81%e0%a4%b6%e0%a4%b5%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
+| 11 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 12 | [TEJASSWI GRACING DPIFF2023](http://twitter.com/search?q=TEJASSWI+GRACING+DPIFF2023) | N/A |
+| 13 | [modiji bring ariha](http://twitter.com/search?q=modiji+bring+ariha) | N/A |
+| 14 | [प्रकाश कोहली](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
+| 15 | [Sushant Divine Power](http://twitter.com/search?q=Sushant+Divine+Power) | N/A |
+| 16 | [Pawan Khera](http://twitter.com/search?q=Pawan+Khera) | N/A |
+| 17 | [राष्ट्रीय लोक जनता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
+| 18 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 19 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
+| 20 | [Whats Stopping CBI InSushantCs](http://twitter.com/search?q=Whats+Stopping+CBI+InSushantCs) | N/A |
+| 21 | [ABVP](http://twitter.com/search?q=ABVP) | N/A |
+| 22 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 23 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 24 | [worldwide celebration](http://twitter.com/search?q=worldwide+celebration) | N/A |
+| 25 | [matru pitru pujan divas](http://twitter.com/search?q=matru+pitru+pujan+divas) | N/A |
+| 26 | [अखिल भारतीय कांग्रेस कमेटी](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
+| 27 | [शीला दीक्षित](http://twitter.com/search?q=%e0%a4%b6%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
+| 28 | [Bank of Baroda](http://twitter.com/search?q=Bank+of+Baroda) | N/A |
+| 29 | [9 liquor land](http://twitter.com/search?q=9+liquor+land) | N/A |
+| 30 | [Sadhguru](http://twitter.com/search?q=Sadhguru) | N/A |
+| 31 | [उद्धव ठाकरे](http://twitter.com/search?q=%e0%a4%89%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%b5+%e0%a4%a0%e0%a4%be%e0%a4%95%e0%a4%b0%e0%a5%87) | N/A |
+| 32 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 33 | [Harmanpreet Kaur](http://twitter.com/search?q=Harmanpreet+Kaur) | N/A |
+| 34 | [Foundational Stage](http://twitter.com/search?q=Foundational+Stage) | N/A |
+| 35 | [Venkatesh Prasad](http://twitter.com/search?q=Venkatesh+Prasad) | N/A |
+| 36 | [Mohit Chauhan](http://twitter.com/search?q=Mohit+Chauhan) | N/A |
+| 37 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 38 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 39 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 40 | [भारतीय महिला क्रिकेट टीम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%87%e0%a4%9f+%e0%a4%9f%e0%a5%80%e0%a4%ae) | भारतीय महिला क्रिकेट टीम is the Indian Women's Cricket Team. It is the national cricket team representing India in international women's cricket matches. |
+| 41 | [Zain](http://twitter.com/search?q=Zain) | N/A |
+| 42 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
+| 43 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
+| 44 | [Aalim](http://twitter.com/search?q=Aalim) | N/A |
+| 45 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 46 | [Teju](http://twitter.com/search?q=Teju) | N/A |
+| 47 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 48 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 49 | [Wipro](http://twitter.com/search?q=Wipro) | N/A |
 
 
 

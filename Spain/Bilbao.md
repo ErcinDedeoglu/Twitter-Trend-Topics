@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-20 20:16:46 UTC`
+📆 Last Updated: `2023-02-20 21:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Pasapalabra708](http://twitter.com/search?q=%23Pasapalabra708) | N/A |
-| 2 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 3 | [#GetafeValencia](http://twitter.com/search?q=%23GetafeValencia) | N/A |
-| 4 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 5 | [#TierraAmarga20Feb](http://twitter.com/search?q=%23TierraAmarga20Feb) | N/A |
-| 6 | [Renfe](http://twitter.com/search?q=Renfe) | N/A |
-| 7 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
-| 8 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 9 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
-| 10 | [Asturias y Cantabria](http://twitter.com/search?q=Asturias+y+Cantabria) | N/A |
-| 11 | [Juan Bernardo Fuentes](http://twitter.com/search?q=Juan+Bernardo+Fuentes) | N/A |
-| 12 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 14 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 15 | [Malrang](http://twitter.com/search?q=Malrang) | N/A |
-| 16 | [Estado de Transportes](http://twitter.com/search?q=Estado+de+Transportes) | N/A |
-| 17 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
-| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 19 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
-| 20 | [Coliseum](http://twitter.com/search?q=Coliseum) | N/A |
-| 21 | [Pardo de Vera](http://twitter.com/search?q=Pardo+de+Vera) | N/A |
-| 22 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
-| 23 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 24 | [Filosofía](http://twitter.com/search?q=Filosof%c3%ada) | N/A |
-| 25 | [Fuenlabrada](http://twitter.com/search?q=Fuenlabrada) | N/A |
-| 26 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
-| 27 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 28 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
-| 29 | [Drugovich](http://twitter.com/search?q=Drugovich) | N/A |
-| 30 | [Masip](http://twitter.com/search?q=Masip) | N/A |
-| 31 | [Madrid Río](http://twitter.com/search?q=Madrid+R%c3%ado) | N/A |
-| 32 | [Terelu](http://twitter.com/search?q=Terelu) | N/A |
-| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 34 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 35 | [Feve](http://twitter.com/search?q=Feve) | N/A |
-| 36 | [Baréin](http://twitter.com/search?q=Bar%c3%a9in) | N/A |
-| 37 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 38 | [Correos](http://twitter.com/search?q=Correos) | N/A |
-| 39 | [Bioshock](http://twitter.com/search?q=Bioshock) | N/A |
-| 40 | [Cristina Porta](http://twitter.com/search?q=Cristina+Porta) | N/A |
-| 41 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 42 | [Maradona](http://twitter.com/search?q=Maradona) | N/A |
-| 43 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 44 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
-| 45 | [Gamepass](http://twitter.com/search?q=Gamepass) | N/A |
-| 46 | [Ocelote](http://twitter.com/search?q=Ocelote) | N/A |
-| 47 | [#yoveosalvame](http://twitter.com/search?q=%23yoveosalvame) | N/A |
+| 1 | [Lino](http://twitter.com/search?q=Lino) | N/A |
+| 2 | [#firstdates20f](http://twitter.com/search?q=%23firstdates20f) | N/A |
+| 3 | [#LaIslaDeLasTentaciones5](http://twitter.com/search?q=%23LaIslaDeLasTentaciones5) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 5 | [#Pasapalabra708](http://twitter.com/search?q=%23Pasapalabra708) | N/A |
+| 6 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
+| 7 | [Mamardashvili](http://twitter.com/search?q=Mamardashvili) | Mamardashvili is a Georgian surname. It is derived from the Georgian word mamarda, which means "wise man". In English, the name can be translated to mean "wise man of the family". |
+| 8 | [Del Piero](http://twitter.com/search?q=Del+Piero) | N/A |
+| 9 | [Giuliano](http://twitter.com/search?q=Giuliano) | Giuliano is an Italian name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 10 | [David Soria](http://twitter.com/search?q=David+Soria) | N/A |
+| 11 | [Vada](http://twitter.com/search?q=Vada) | N/A |
+| 12 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
+| 13 | [Larra](http://twitter.com/search?q=Larra) | N/A |
+| 14 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 15 | [Ilaix](http://twitter.com/search?q=Ilaix) | N/A |
+| 16 | [Genaro](http://twitter.com/search?q=Genaro) | N/A |
+| 17 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 18 | [Diakhaby](http://twitter.com/search?q=Diakhaby) | N/A |
+| 19 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
+| 20 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 21 | [Asturias y Cantabria](http://twitter.com/search?q=Asturias+y+Cantabria) | N/A |
+| 22 | [Coliseum](http://twitter.com/search?q=Coliseum) | N/A |
+| 23 | [Bermejo](http://twitter.com/search?q=Bermejo) | N/A |
+| 24 | [Renfe](http://twitter.com/search?q=Renfe) | N/A |
+| 25 | [Espanyol](http://twitter.com/search?q=Espanyol) | Espanyol is the Spanish word for "Spanish". It is used to refer to the language, people, or culture of Spain. |
+| 26 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
+| 27 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
+| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
+| 30 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 31 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 32 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 33 | [Munir](http://twitter.com/search?q=Munir) | N/A |
+| 34 | [Malrang](http://twitter.com/search?q=Malrang) | N/A |
+| 35 | [Juan Bernardo Fuentes](http://twitter.com/search?q=Juan+Bernardo+Fuentes) | N/A |
+| 36 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 37 | [Pardo de Vera](http://twitter.com/search?q=Pardo+de+Vera) | N/A |
+| 38 | [Estado de Transportes](http://twitter.com/search?q=Estado+de+Transportes) | N/A |
+| 39 | [Fuenlabrada](http://twitter.com/search?q=Fuenlabrada) | N/A |
+| 40 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 42 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 43 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 44 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 45 | [Ana Rosa](http://twitter.com/search?q=Ana+Rosa) | N/A |
+| 46 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
+| 47 | [Masip](http://twitter.com/search?q=Masip) | N/A |
 
 
 

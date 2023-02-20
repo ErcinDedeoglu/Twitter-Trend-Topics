@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-02-20 20:16:30 UTC`
+📆 Last Updated: `2023-02-20 21:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#c4news](http://twitter.com/search?q=%23c4news) | N/A |
-| 2 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
-| 3 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 4 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
-| 5 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
-| 6 | [Cheese](http://twitter.com/search?q=Cheese) | N/A |
-| 7 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 8 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 9 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 10 | [#FreeSchoolMeals](http://twitter.com/search?q=%23FreeSchoolMeals) | N/A |
-| 11 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 12 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 13 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 14 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
-| 15 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 16 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 17 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 18 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
-| 19 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 20 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
-| 21 | [Nish](http://twitter.com/search?q=Nish) | N/A |
-| 22 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 23 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
-| 24 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 25 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 26 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 27 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 28 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
-| 29 | [Firewood](http://twitter.com/search?q=Firewood) | N/A |
-| 30 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
-| 31 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 32 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 34 | [The EFL](http://twitter.com/search?q=The+EFL) | N/A |
-| 35 | [Classic Tory](http://twitter.com/search?q=Classic+Tory) | N/A |
-| 36 | [Bristol De Mai](http://twitter.com/search?q=Bristol+De+Mai) | N/A |
-| 37 | [National Action](http://twitter.com/search?q=National+Action) | N/A |
-| 38 | [Kathy](http://twitter.com/search?q=Kathy) | N/A |
-| 39 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 40 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 41 | [Birmingham City](http://twitter.com/search?q=Birmingham+City) | N/A |
-| 42 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 43 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
-| 44 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
-| 45 | [Lance](http://twitter.com/search?q=Lance) | N/A |
-| 46 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 47 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 48 | [Briton](http://twitter.com/search?q=Briton) | N/A |
-| 49 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 1 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 2 | [#c4news](http://twitter.com/search?q=%23c4news) | N/A |
+| 3 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 4 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
+| 5 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 6 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 7 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 8 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
+| 9 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 10 | [Lancashire](http://twitter.com/search?q=Lancashire) | N/A |
+| 11 | [#GlazerOut](http://twitter.com/search?q=%23GlazerOut) | N/A |
+| 12 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 13 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
+| 14 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 15 | [Cheese](http://twitter.com/search?q=Cheese) | N/A |
+| 16 | [The Glazers](http://twitter.com/search?q=The+Glazers) | N/A |
+| 17 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 18 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 19 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 20 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 21 | [#FreeSchoolMeals](http://twitter.com/search?q=%23FreeSchoolMeals) | N/A |
+| 22 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 23 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 24 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 25 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 26 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 27 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 28 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
+| 29 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
+| 30 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
+| 31 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 32 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 33 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 34 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 35 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
+| 36 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 37 | [Furlong](http://twitter.com/search?q=Furlong) | N/A |
+| 38 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 39 | [Suki](http://twitter.com/search?q=Suki) | N/A |
+| 40 | [Townsend](http://twitter.com/search?q=Townsend) | N/A |
+| 41 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 42 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 43 | [Stacey](http://twitter.com/search?q=Stacey) | N/A |
+| 44 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 45 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 46 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 47 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 48 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 49 | [Maxco](http://twitter.com/search?q=Maxco) | N/A |
 
 
 
