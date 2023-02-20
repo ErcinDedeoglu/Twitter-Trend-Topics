@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-20 03:21:51 UTC`
+📆 Last Updated: `2023-02-20 04:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for Switzerland
 | 8 | [servette](http://twitter.com/search?q=servette) | N/A |
 | 9 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
 | 10 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 11 | [#BMGFCB](http://twitter.com/search?q=%23BMGFCB) | N/A |
+| 11 | [#bmgfcb](http://twitter.com/search?q=%23bmgfcb) | N/A |
 | 12 | [Munich](http://twitter.com/search?q=Munich) | N/A |
 | 13 | [Scheiben](http://twitter.com/search?q=Scheiben) | N/A |
 | 14 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |

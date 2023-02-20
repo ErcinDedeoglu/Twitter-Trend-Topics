@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-20 03:21:24 UTC`
+📆 Last Updated: `2023-02-20 04:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -61,9 +61,9 @@ This is top 50 for [Algeria](</Algeria>)
 | 44 | [الدرجه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
 | 45 | [الابالله العلي العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7%d9%84%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
 | 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 47 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 48 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
-| 49 | [الصحراء الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 47 | [الصحراء الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d8%b1%d8%a7%d8%a1+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 48 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
+| 49 | [البحرين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1%d9%8a%d9%86) | N/A |
 | 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 
 

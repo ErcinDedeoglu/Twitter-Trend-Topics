@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-20 03:21:08 UTC`
+📆 Last Updated: `2023-02-20 04:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,33 +15,33 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LPOZAG](http://twitter.com/search?q=%23LPOZAG) | N/A |
+| 1 | [#lpozag](http://twitter.com/search?q=%23lpozag) | N/A |
 | 2 | [#pialeg](http://twitter.com/search?q=%23pialeg) | N/A |
 | 3 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
 | 4 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
-| 5 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 6 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
-| 7 | [#ZarywamyNoc](http://twitter.com/search?q=%23ZarywamyNoc) | N/A |
+| 5 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
+| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 7 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
 | 8 | [#Woronicza17](http://twitter.com/search?q=%23Woronicza17) | N/A |
 | 9 | [mikołaja kopernika](http://twitter.com/search?q=miko%c5%82aja+kopernika) | N/A |
 | 10 | [oskar kwiatkowski](http://twitter.com/search?q=oskar+kwiatkowski) | N/A |
 | 11 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 12 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
 | 13 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 14 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 14 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
 | 15 | [aleksandra król](http://twitter.com/search?q=aleksandra+kr%c3%b3l) | N/A |
-| 16 | [Sylwia Przybysz](http://twitter.com/search?q=Sylwia+Przybysz) | N/A |
+| 16 | [sylwia przybysz](http://twitter.com/search?q=sylwia+przybysz) | N/A |
 | 17 | [Velde](http://twitter.com/search?q=Velde) | N/A |
 | 18 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
 | 19 | [sylwestrzak](http://twitter.com/search?q=sylwestrzak) | N/A |
-| 20 | [Sokołowski](http://twitter.com/search?q=Soko%c5%82owski) | N/A |
-| 21 | [Zuzanna Borucka](http://twitter.com/search?q=Zuzanna+Borucka) | N/A |
+| 20 | [sokołowski](http://twitter.com/search?q=soko%c5%82owski) | N/A |
+| 21 | [zuzanna borucka](http://twitter.com/search?q=zuzanna+borucka) | N/A |
 | 22 | [slisza](http://twitter.com/search?q=slisza) | N/A |
 | 23 | [kosta](http://twitter.com/search?q=kosta) | N/A |
 | 24 | [Lil Masti](http://twitter.com/search?q=Lil+Masti) | N/A |
 | 25 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
 | 26 | [piastem](http://twitter.com/search?q=piastem) | N/A |
-| 27 | [Biorę](http://twitter.com/search?q=Bior%c4%99) | N/A |
+| 27 | [biorę](http://twitter.com/search?q=bior%c4%99) | N/A |
 | 28 | [Rymanowski](http://twitter.com/search?q=Rymanowski) | N/A |
 | 29 | [Broma](http://twitter.com/search?q=Broma) | N/A |
 | 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
@@ -51,14 +51,14 @@ This is top 50 for [Poland](</Poland>)
 | 34 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
 | 35 | [pekhart](http://twitter.com/search?q=pekhart) | N/A |
 | 36 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
-| 37 | [Marsz Niepodległości](http://twitter.com/search?q=Marsz+Niepodleg%c5%82o%c5%9bci) | N/A |
+| 37 | [marsz niepodległości](http://twitter.com/search?q=marsz+niepodleg%c5%82o%c5%9bci) | N/A |
 | 38 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
 | 39 | [senyszyn](http://twitter.com/search?q=senyszyn) | N/A |
 | 40 | [mladen](http://twitter.com/search?q=mladen) | N/A |
-| 41 | [Faworki](http://twitter.com/search?q=Faworki) | N/A |
-| 42 | [lubina](http://twitter.com/search?q=lubina) | N/A |
-| 43 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 44 | [sobiech](http://twitter.com/search?q=sobiech) | N/A |
+| 41 | [lubina](http://twitter.com/search?q=lubina) | N/A |
+| 42 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 43 | [sobiech](http://twitter.com/search?q=sobiech) | N/A |
+| 44 | [Faworki](http://twitter.com/search?q=Faworki) | N/A |
 | 45 | [dzień nauki polskiej](http://twitter.com/search?q=dzie%c5%84+nauki+polskiej) | N/A |
 | 46 | [muci](http://twitter.com/search?q=muci) | N/A |
 | 47 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-20 03:21:10 UTC`
+📆 Last Updated: `2023-02-20 04:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,46 +21,46 @@ This is top 50 for [Germany](</Germany>)
 | 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
 | 5 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
 | 6 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 7 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 8 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 9 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
-| 10 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 11 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 12 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 13 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 14 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 15 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 16 | [schiri](http://twitter.com/search?q=schiri) | N/A |
-| 17 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 18 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 19 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
-| 20 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 21 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
-| 22 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 23 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
-| 24 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 25 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
-| 26 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
-| 27 | [Joko](http://twitter.com/search?q=Joko) | N/A |
-| 28 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 7 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 8 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 9 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 10 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 11 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 12 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 13 | [schiedsrichter](http://twitter.com/search?q=schiedsrichter) | N/A |
+| 14 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 15 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 16 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
+| 17 | [schiri](http://twitter.com/search?q=schiri) | N/A |
+| 18 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 19 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 20 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
+| 21 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 22 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 23 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
+| 24 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 25 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
+| 26 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 27 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
+| 28 | [Joko](http://twitter.com/search?q=Joko) | N/A |
 | 29 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
-| 30 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
-| 31 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 32 | [Welz](http://twitter.com/search?q=Welz) | N/A |
-| 33 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
-| 34 | [halbfinale](http://twitter.com/search?q=halbfinale) | N/A |
-| 35 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
-| 36 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 37 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 38 | [Streubomben](http://twitter.com/search?q=Streubomben) | N/A |
-| 39 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 40 | [Plea](http://twitter.com/search?q=Plea) | N/A |
-| 41 | [fehlentscheidung](http://twitter.com/search?q=fehlentscheidung) | N/A |
-| 42 | [Punkte](http://twitter.com/search?q=Punkte) | N/A |
+| 30 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 31 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 32 | [scheck](http://twitter.com/search?q=scheck) | N/A |
+| 33 | [Welz](http://twitter.com/search?q=Welz) | N/A |
+| 34 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 35 | [halbfinale](http://twitter.com/search?q=halbfinale) | N/A |
+| 36 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
+| 37 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 38 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 39 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
+| 40 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 41 | [plea](http://twitter.com/search?q=plea) | N/A |
+| 42 | [fehlentscheidung](http://twitter.com/search?q=fehlentscheidung) | N/A |
 | 43 | [Kroatien](http://twitter.com/search?q=Kroatien) | N/A |
 | 44 | [weinzierl](http://twitter.com/search?q=weinzierl) | N/A |
-| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 45 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
+| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 47 | [Ataman](http://twitter.com/search?q=Ataman) | N/A |
 | 48 | [Ladendiebin](http://twitter.com/search?q=Ladendiebin) | N/A |
 

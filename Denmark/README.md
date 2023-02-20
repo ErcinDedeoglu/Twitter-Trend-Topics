@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-20 03:21:46 UTC`
+📆 Last Updated: `2023-02-20 04:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,8 +31,8 @@ This is top 50 for Denmark
 | 14 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
 | 15 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
 | 16 | [Wass](http://twitter.com/search?q=Wass) | N/A |
-| 17 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 18 | [co-industri](http://twitter.com/search?q=co-industri) | N/A |
+| 17 | [co-industri](http://twitter.com/search?q=co-industri) | N/A |
+| 18 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
 | 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 21 | [Schweiz](http://twitter.com/search?q=Schweiz) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Denmark
 | 37 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
 | 38 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 39 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 40 | [Vestens](http://twitter.com/search?q=Vestens) | N/A |
+| 40 | [vestens](http://twitter.com/search?q=vestens) | N/A |
 | 41 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
 | 42 | [danske](http://twitter.com/search?q=danske) | N/A |
 | 43 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-02-20 03:21:31 UTC`
+📆 Last Updated: `2023-02-20 04:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,8 +18,8 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 1 | [#الٹی_میٹم72گھنٹوں_کا](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%b9%db%8c_%d9%85%db%8c%d9%b9%d9%8572%da%af%da%be%d9%86%d9%b9%d9%88%da%ba_%da%a9%d8%a7) | N/A |
 | 2 | [#KKvLQ](http://twitter.com/search?q=%23KKvLQ) | N/A |
 | 3 | [#sunrisewithadeel](http://twitter.com/search?q=%23sunrisewithadeel) | N/A |
-| 4 | [#LQvsKK](http://twitter.com/search?q=%23LQvsKK) | N/A |
-| 5 | [#unitedispink](http://twitter.com/search?q=%23unitedispink) | N/A |
+| 4 | [#LQvKK](http://twitter.com/search?q=%23LQvKK) | N/A |
+| 5 | [#UnitedIsPink](http://twitter.com/search?q=%23UnitedIsPink) | N/A |
 | 6 | [Wade](http://twitter.com/search?q=Wade) | N/A |
 | 7 | [Kamran Ghulam](http://twitter.com/search?q=Kamran+Ghulam) | N/A |
 | 8 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
@@ -28,43 +28,43 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 11 | [abbas Afridi](http://twitter.com/search?q=abbas+Afridi) | N/A |
 | 12 | [martin guptill](http://twitter.com/search?q=martin+guptill) | N/A |
 | 13 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 14 | [tom curran](http://twitter.com/search?q=tom+curran) | N/A |
+| 14 | [Tom curran](http://twitter.com/search?q=Tom+curran) | N/A |
 | 15 | [ABRAR](http://twitter.com/search?q=ABRAR) | N/A |
 | 16 | [Dawson](http://twitter.com/search?q=Dawson) | N/A |
 | 17 | [Baig](http://twitter.com/search?q=Baig) | N/A |
 | 18 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
 | 19 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 20 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
-| 21 | [usama mir](http://twitter.com/search?q=usama+mir) | N/A |
-| 22 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 23 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 24 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
-| 25 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 26 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 27 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 28 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
-| 29 | [ben cutting](http://twitter.com/search?q=ben+cutting) | N/A |
-| 30 | [rashid khan](http://twitter.com/search?q=rashid+khan) | N/A |
-| 31 | [akif javed](http://twitter.com/search?q=akif+javed) | N/A |
-| 32 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
-| 33 | [Aqib Javed](http://twitter.com/search?q=Aqib+Javed) | N/A |
-| 34 | [Shai Hope](http://twitter.com/search?q=Shai+Hope) | N/A |
-| 35 | [Iron](http://twitter.com/search?q=Iron) | N/A |
-| 36 | [28th Rajab](http://twitter.com/search?q=28th+Rajab) | N/A |
+| 20 | [usama mir](http://twitter.com/search?q=usama+mir) | N/A |
+| 21 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 22 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 23 | [Fakhar](http://twitter.com/search?q=Fakhar) | N/A |
+| 24 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 25 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 26 | [SHEHNAAZ WINNING HEARTS](http://twitter.com/search?q=SHEHNAAZ+WINNING+HEARTS) | N/A |
+| 27 | [ben cutting](http://twitter.com/search?q=ben+cutting) | N/A |
+| 28 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
+| 29 | [rashid khan](http://twitter.com/search?q=rashid+khan) | N/A |
+| 30 | [akif javed](http://twitter.com/search?q=akif+javed) | N/A |
+| 31 | [Shadab](http://twitter.com/search?q=Shadab) | N/A |
+| 32 | [Aqib Javed](http://twitter.com/search?q=Aqib+Javed) | N/A |
+| 33 | [Shai Hope](http://twitter.com/search?q=Shai+Hope) | N/A |
+| 34 | [Iron](http://twitter.com/search?q=Iron) | N/A |
+| 35 | [28th Rajab](http://twitter.com/search?q=28th+Rajab) | N/A |
+| 36 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
 | 37 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 38 | [Karbala](http://twitter.com/search?q=Karbala) | N/A |
-| 39 | [Madina](http://twitter.com/search?q=Madina) | N/A |
-| 40 | [Batting](http://twitter.com/search?q=Batting) | N/A |
-| 41 | [Acting](http://twitter.com/search?q=Acting) | N/A |
-| 42 | [Botox](http://twitter.com/search?q=Botox) | N/A |
-| 43 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
-| 44 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 38 | [Madina](http://twitter.com/search?q=Madina) | N/A |
+| 39 | [Batting](http://twitter.com/search?q=Batting) | N/A |
+| 40 | [W Salam](http://twitter.com/search?q=W+Salam) | N/A |
+| 41 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 42 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 43 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 44 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
 | 45 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
 | 46 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 | 47 | [Petrol](http://twitter.com/search?q=Petrol) | N/A |
-| 48 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 49 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 50 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 48 | [London](http://twitter.com/search?q=London) | N/A |
+| 49 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 50 | [Shame](http://twitter.com/search?q=Shame) | N/A |
 
 
 

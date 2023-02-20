@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-20 03:21:45 UTC`
+📆 Last Updated: `2023-02-20 04:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,10 +26,10 @@ This is top 50 for Belgium
 | 9 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 10 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 11 | [Parker](http://twitter.com/search?q=Parker) | N/A |
-| 12 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
-| 13 | [raman](http://twitter.com/search?q=raman) | N/A |
+| 12 | [slimani](http://twitter.com/search?q=slimani) | N/A |
+| 13 | [Raman](http://twitter.com/search?q=Raman) | N/A |
 | 14 | [courtrai](http://twitter.com/search?q=courtrai) | N/A |
-| 15 | [Tom Lanoye](http://twitter.com/search?q=Tom+Lanoye) | N/A |
+| 15 | [tom lanoye](http://twitter.com/search?q=tom+lanoye) | N/A |
 | 16 | [Dreyer](http://twitter.com/search?q=Dreyer) | N/A |
 | 17 | [Aalst](http://twitter.com/search?q=Aalst) | N/A |
 | 18 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
@@ -43,16 +43,16 @@ This is top 50 for Belgium
 | 26 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
 | 27 | [eva pauwels](http://twitter.com/search?q=eva+pauwels) | N/A |
 | 28 | [brouns](http://twitter.com/search?q=brouns) | N/A |
-| 29 | [Yunho](http://twitter.com/search?q=Yunho) | N/A |
+| 29 | [yunho](http://twitter.com/search?q=yunho) | N/A |
 | 30 | [Galtier](http://twitter.com/search?q=Galtier) | N/A |
 | 31 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 32 | [Somers](http://twitter.com/search?q=Somers) | N/A |
+| 32 | [somers](http://twitter.com/search?q=somers) | N/A |
 | 33 | [matty](http://twitter.com/search?q=matty) | N/A |
-| 34 | [Theo Francken](http://twitter.com/search?q=Theo+Francken) | N/A |
+| 34 | [theo francken](http://twitter.com/search?q=theo+francken) | N/A |
 | 35 | [vanaken](http://twitter.com/search?q=vanaken) | N/A |
 | 36 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
 | 37 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 38 | [Rik Torfs](http://twitter.com/search?q=Rik+Torfs) | N/A |
+| 38 | [rik torfs](http://twitter.com/search?q=rik+torfs) | N/A |
 | 39 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
 | 40 | [Munich](http://twitter.com/search?q=Munich) | N/A |
 | 41 | [Yeosang](http://twitter.com/search?q=Yeosang) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Belgium
 | 47 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
 | 48 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
 | 49 | [Marcus](http://twitter.com/search?q=Marcus) | N/A |
-| 50 | [Karel De Gucht](http://twitter.com/search?q=Karel+De+Gucht) | N/A |
+| 50 | [karel de gucht](http://twitter.com/search?q=karel+de+gucht) | N/A |
 
 
 
