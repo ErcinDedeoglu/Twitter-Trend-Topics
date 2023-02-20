@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naucalpan de Juárez
 
-📆 Last Updated: `2023-02-20 21:18:04 UTC`
+📆 Last Updated: `2023-02-20 22:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 5 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 6 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 7 | [#CiudadanosContraPlanB](http://twitter.com/search?q=%23CiudadanosContraPlanB) | N/A |
-| 8 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 9 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 10 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
-| 11 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 12 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
-| 13 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 14 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
-| 15 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 16 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 17 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 18 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 19 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 20 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 21 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 22 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
-| 23 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 24 | [feliz 19](http://twitter.com/search?q=feliz+19) | N/A |
-| 25 | [LEO SUÁREZ](http://twitter.com/search?q=LEO+SU%c3%81REZ) | N/A |
-| 26 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
-| 27 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 28 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 29 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 30 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
-| 31 | [toño rodríguez](http://twitter.com/search?q=to%c3%b1o+rodr%c3%adguez) | N/A |
-| 32 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 33 | [Línea 9](http://twitter.com/search?q=L%c3%adnea+9) | N/A |
-| 34 | [2 años floreciendo](http://twitter.com/search?q=2+a%c3%b1os+floreciendo) | N/A |
-| 35 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 36 | [José Ramón Gómez Leal](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+G%c3%b3mez+Leal) | N/A |
-| 37 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 38 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 39 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 40 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
-| 41 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 42 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 44 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 45 | [little freak](http://twitter.com/search?q=little+freak) | N/A |
-| 46 | [Hoy 20](http://twitter.com/search?q=Hoy+20) | N/A |
-| 47 | [The Mars Volta](http://twitter.com/search?q=The+Mars+Volta) | N/A |
-| 48 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 49 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 50 | [Armenta y López](http://twitter.com/search?q=Armenta+y+L%c3%b3pez) | N/A |
+| 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 2 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 3 | [#CiudadanosContraPlanB](http://twitter.com/search?q=%23CiudadanosContraPlanB) | N/A |
+| 4 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
+| 5 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 6 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 7 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 8 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 9 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 10 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 11 | [Álvarez](http://twitter.com/search?q=%c3%81lvarez) | N/A |
+| 12 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 13 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
+| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 15 | [Fan ID](http://twitter.com/search?q=Fan+ID) | N/A |
+| 16 | [El 20](http://twitter.com/search?q=El+20) | N/A |
+| 17 | [Catalina Creel](http://twitter.com/search?q=Catalina+Creel) | N/A |
+| 18 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 19 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 20 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
+| 21 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
+| 22 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 23 | [Nirvana](http://twitter.com/search?q=Nirvana) | N/A |
+| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 25 | [The Mars Volta](http://twitter.com/search?q=The+Mars+Volta) | N/A |
+| 26 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 27 | [Ciro Gómez Leyva](http://twitter.com/search?q=Ciro+G%c3%b3mez+Leyva) | Ciro Gómez Leyva is a Mexican journalist and radio host. He is known for his talk show Ciro Gómez Leyva por la Mañana, which airs on Radio Fórmula in Mexico. The show focuses on political and social issues in Mexico and Latin America. In English, the phrase "Ciro Gómez Leyva" translates to "Ciro Gomez Leyva". |
+| 28 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 29 | [NAICM](http://twitter.com/search?q=NAICM) | N/A |
+| 30 | [#AtomicHeartconReborn](http://twitter.com/search?q=%23AtomicHeartconReborn) | N/A |
+| 31 | [#CiudadSustentable](http://twitter.com/search?q=%23CiudadSustentable) | N/A |
+| 32 | [#MetrobúsEléctrico](http://twitter.com/search?q=%23Metrob%c3%basEl%c3%a9ctrico) | N/A |
+| 33 | [#NoaMusicVibe](http://twitter.com/search?q=%23NoaMusicVibe) | N/A |
+| 34 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 35 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
+| 36 | [#JusticiaSocial](http://twitter.com/search?q=%23JusticiaSocial) | N/A |
+| 37 | [#Celaya](http://twitter.com/search?q=%23Celaya) | N/A |
+| 38 | [#3YearsWithMOTS7](http://twitter.com/search?q=%233YearsWithMOTS7) | N/A |
+| 39 | [#SandraCuevasRepresora](http://twitter.com/search?q=%23SandraCuevasRepresora) | N/A |
+| 40 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
+| 41 | [#20DeFebrero](http://twitter.com/search?q=%2320DeFebrero) | N/A |
+| 42 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
+| 43 | [#LadyBuchona](http://twitter.com/search?q=%23LadyBuchona) | N/A |
+| 44 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
+| 45 | [#OposicionMoralmenteDerrotada](http://twitter.com/search?q=%23OposicionMoralmenteDerrotada) | N/A |
 
 
 

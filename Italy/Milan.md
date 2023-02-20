@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-20 21:18:15 UTC`
+📆 Last Updated: `2023-02-20 22:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
-| 2 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 3 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
-| 4 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 5 | [#fiorisopralinferno](http://twitter.com/search?q=%23fiorisopralinferno) | N/A |
-| 6 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 7 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 8 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 9 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 10 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
-| 11 | [Onestini](http://twitter.com/search?q=Onestini) | Onestini is an Italian phrase that translates to "one time only" or "just once." It is often used to express the idea of doing something only once, or for a limited time. |
-| 12 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
-| 13 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 14 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 15 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 16 | [Katia](http://twitter.com/search?q=Katia) | N/A |
-| 17 | [Gasparri](http://twitter.com/search?q=Gasparri) | N/A |
-| 18 | [Tommaso](http://twitter.com/search?q=Tommaso) | N/A |
-| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 20 | [Tozzi](http://twitter.com/search?q=Tozzi) | N/A |
-| 21 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 22 | [Oriana e Luca](http://twitter.com/search?q=Oriana+e+Luca) | N/A |
-| 23 | [Tonon](http://twitter.com/search?q=Tonon) | N/A |
-| 24 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
-| 25 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 26 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 27 | [Lille](http://twitter.com/search?q=Lille) | N/A |
-| 28 | [#staseratuttoèpossibile](http://twitter.com/search?q=%23staseratutto%c3%a8possibile) | N/A |
-| 29 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
-| 30 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 31 | [#hannoDeluso](http://twitter.com/search?q=%23hannoDeluso) | N/A |
-| 32 | [#iostoconoriana](http://twitter.com/search?q=%23iostoconoriana) | N/A |
-| 33 | [#ConfrontoSkyTG24](http://twitter.com/search?q=%23ConfrontoSkyTG24) | N/A |
-| 34 | [#TorinoCremonese](http://twitter.com/search?q=%23TorinoCremonese) | N/A |
-| 35 | [#PrimariePD](http://twitter.com/search?q=%23PrimariePD) | N/A |
-| 36 | [#bonaccinisegretario](http://twitter.com/search?q=%23bonaccinisegretario) | N/A |
-| 37 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
-| 38 | [#gfivip](http://twitter.com/search?q=%23gfivip) | N/A |
-| 39 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 40 | [#LittleBigItaly](http://twitter.com/search?q=%23LittleBigItaly) | N/A |
-| 41 | [#confrontoTv](http://twitter.com/search?q=%23confrontoTv) | N/A |
-| 42 | [#IoScrivoLaNotte](http://twitter.com/search?q=%23IoScrivoLaNotte) | N/A |
-| 43 | [#Sallusti](http://twitter.com/search?q=%23Sallusti) | N/A |
-| 44 | [#DeLaurentiis](http://twitter.com/search?q=%23DeLaurentiis) | N/A |
-| 45 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 46 | [#EintrachtNapoli](http://twitter.com/search?q=%23EintrachtNapoli) | N/A |
-| 47 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
-| 48 | [#spartani](http://twitter.com/search?q=%23spartani) | N/A |
-| 49 | [#Giorgia_NON_CONDANNA](http://twitter.com/search?q=%23Giorgia_NON_CONDANNA) | N/A |
-| 50 | [#GiorgiaMeloni](http://twitter.com/search?q=%23GiorgiaMeloni) | N/A |
+| 1 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
+| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 3 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 4 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 6 | [#fiorisopralinferno](http://twitter.com/search?q=%23fiorisopralinferno) | N/A |
+| 7 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
+| 8 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 9 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 10 | [#TorinoCremonese](http://twitter.com/search?q=%23TorinoCremonese) | N/A |
+| 11 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 12 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 13 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 14 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
+| 15 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 16 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
+| 17 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 18 | [Katia](http://twitter.com/search?q=Katia) | N/A |
+| 19 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 20 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 21 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 22 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
+| 23 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 24 | [Gasparri](http://twitter.com/search?q=Gasparri) | N/A |
+| 25 | [Persiani](http://twitter.com/search?q=Persiani) | N/A |
+| 26 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 27 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 28 | [La Murgia](http://twitter.com/search?q=La+Murgia) | N/A |
+| 29 | [Porro](http://twitter.com/search?q=Porro) | N/A |
+| 30 | [Tommaso](http://twitter.com/search?q=Tommaso) | N/A |
+| 31 | [CHE SCHIFO](http://twitter.com/search?q=CHE+SCHIFO) | N/A |
+| 32 | [Dana](http://twitter.com/search?q=Dana) | Dana is a Sanskrit word that means "generosity" or "giving". It is often used in Hindu and Buddhist traditions to refer to the practice of giving freely and without expectation of something in return. |
+| 33 | [Diamante](http://twitter.com/search?q=Diamante) | N/A |
+| 34 | [Tozzi](http://twitter.com/search?q=Tozzi) | N/A |
+| 35 | [Tonon](http://twitter.com/search?q=Tonon) | N/A |
+| 36 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 37 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 38 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 39 | [Lille](http://twitter.com/search?q=Lille) | N/A |
+| 40 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
+| 41 | [#staseratuttoèpossibile](http://twitter.com/search?q=%23staseratutto%c3%a8possibile) | N/A |
+| 42 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 43 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 44 | [#hannoDeluso](http://twitter.com/search?q=%23hannoDeluso) | N/A |
+| 45 | [#LittleBigItaly](http://twitter.com/search?q=%23LittleBigItaly) | N/A |
+| 46 | [#ConfrontoSkyTG24](http://twitter.com/search?q=%23ConfrontoSkyTG24) | N/A |
+| 47 | [#PrimariePD](http://twitter.com/search?q=%23PrimariePD) | N/A |
+| 48 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 49 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 50 | [#freedomitalia1](http://twitter.com/search?q=%23freedomitalia1) | N/A |
 
 
 

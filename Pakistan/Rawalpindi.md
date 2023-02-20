@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-20 21:18:34 UTC`
+📆 Last Updated: `2023-02-20 22:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 9 | [Julie](http://twitter.com/search?q=Julie) | N/A |
 | 10 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
 | 11 | [LUMS](http://twitter.com/search?q=LUMS) | N/A |
-| 12 | [Usman Qadir](http://twitter.com/search?q=Usman+Qadir) | N/A |
-| 13 | [Neesham](http://twitter.com/search?q=Neesham) | N/A |
+| 12 | [Neesham](http://twitter.com/search?q=Neesham) | N/A |
+| 13 | [usman qadir](http://twitter.com/search?q=usman+qadir) | N/A |
 | 14 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
 | 15 | [Islamic Republic of Pakistan](http://twitter.com/search?q=Islamic+Republic+of+Pakistan) | N/A |
-| 16 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 17 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 18 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 16 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 17 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 18 | [Aurat March](http://twitter.com/search?q=Aurat+March) | N/A |
 | 19 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 20 | [Wade](http://twitter.com/search?q=Wade) | N/A |
-| 21 | [Aurat March](http://twitter.com/search?q=Aurat+March) | N/A |
-| 22 | [Arshad Iqbal](http://twitter.com/search?q=Arshad+Iqbal) | N/A |
-| 23 | [Frying](http://twitter.com/search?q=Frying) | N/A |
-| 24 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 25 | [Quiz](http://twitter.com/search?q=Quiz) | N/A |
-| 26 | [Election Act 2017](http://twitter.com/search?q=Election+Act+2017) | N/A |
+| 20 | [Miftah](http://twitter.com/search?q=Miftah) | N/A |
+| 21 | [Arshad Iqbal](http://twitter.com/search?q=Arshad+Iqbal) | N/A |
+| 22 | [Frying](http://twitter.com/search?q=Frying) | N/A |
+| 23 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 24 | [Quiz](http://twitter.com/search?q=Quiz) | N/A |
+| 25 | [Election Act 2017](http://twitter.com/search?q=Election+Act+2017) | N/A |
+| 26 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
 | 27 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
-| 28 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 29 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 30 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 31 | [Section 57](http://twitter.com/search?q=Section+57) | N/A |
-| 32 | [Professor](http://twitter.com/search?q=Professor) | N/A |
-| 33 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 34 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
-| 35 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 36 | [Liam Dawson](http://twitter.com/search?q=Liam+Dawson) | N/A |
-| 37 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 38 | [Hasaranga](http://twitter.com/search?q=Hasaranga) | N/A |
-| 39 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
-| 40 | [Will Smeed](http://twitter.com/search?q=Will+Smeed) | N/A |
-| 41 | [Istg](http://twitter.com/search?q=Istg) | N/A |
-| 42 | [Cousin](http://twitter.com/search?q=Cousin) | N/A |
-| 43 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 44 | [Relatable](http://twitter.com/search?q=Relatable) | N/A |
-| 45 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
-| 46 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
-| 47 | [Ahmadis](http://twitter.com/search?q=Ahmadis) | N/A |
-| 48 | [MBBS](http://twitter.com/search?q=MBBS) | N/A |
-| 49 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 50 | [Welcome to Pakistan](http://twitter.com/search?q=Welcome+to+Pakistan) | N/A |
+| 28 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 29 | [Professor](http://twitter.com/search?q=Professor) | N/A |
+| 30 | [Section 57](http://twitter.com/search?q=Section+57) | N/A |
+| 31 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 32 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
+| 33 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
+| 34 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 35 | [Liam Dawson](http://twitter.com/search?q=Liam+Dawson) | N/A |
+| 36 | [Jinnah](http://twitter.com/search?q=Jinnah) | N/A |
+| 37 | [Heya](http://twitter.com/search?q=Heya) | N/A |
+| 38 | [Mercy](http://twitter.com/search?q=Mercy) | N/A |
+| 39 | [Hasaranga](http://twitter.com/search?q=Hasaranga) | N/A |
+| 40 | [Istg](http://twitter.com/search?q=Istg) | N/A |
+| 41 | [Cousin](http://twitter.com/search?q=Cousin) | N/A |
+| 42 | [Quetta Gladiators](http://twitter.com/search?q=Quetta+Gladiators) | N/A |
+| 43 | [Check DM](http://twitter.com/search?q=Check+DM) | N/A |
+| 44 | [Inbox](http://twitter.com/search?q=Inbox) | N/A |
+| 45 | [Welldone](http://twitter.com/search?q=Welldone) | N/A |
+| 46 | [Welcome to Pakistan](http://twitter.com/search?q=Welcome+to+Pakistan) | N/A |
+| 47 | [Shoaib Akhtar](http://twitter.com/search?q=Shoaib+Akhtar) | N/A |
+| 48 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
+| 49 | [Allah Pak](http://twitter.com/search?q=Allah+Pak) | N/A |
+| 50 | [Oh Allah](http://twitter.com/search?q=Oh+Allah) | N/A |
 
 
 

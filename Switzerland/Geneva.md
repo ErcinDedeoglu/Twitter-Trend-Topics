@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-20 21:18:17 UTC`
+📆 Last Updated: `2023-02-20 22:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [Switzerland](</Switzerland>)
 | ------- | ------------ | ------------ |
 | 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 2 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 3 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 4 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 3 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 5 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 6 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
-| 7 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
-| 8 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 9 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 10 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 11 | [Juso](http://twitter.com/search?q=Juso) | N/A |
-| 12 | [Scheiben](http://twitter.com/search?q=Scheiben) | N/A |
-| 13 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
-| 14 | [Honig](http://twitter.com/search?q=Honig) | N/A |
-| 15 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 16 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 17 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 18 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
-| 19 | [Krieg mit Russland](http://twitter.com/search?q=Krieg+mit+Russland) | N/A |
-| 20 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
-| 21 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
-| 22 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
-| 23 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 24 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
-| 25 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 26 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 27 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 28 | [Seiten](http://twitter.com/search?q=Seiten) | N/A |
-| 29 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 30 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
-| 31 | [Servette](http://twitter.com/search?q=Servette) | N/A |
-| 32 | [Diktator](http://twitter.com/search?q=Diktator) | N/A |
-| 33 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
-| 34 | [Wirkung](http://twitter.com/search?q=Wirkung) | N/A |
-| 35 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 36 | [Zurich](http://twitter.com/search?q=Zurich) | N/A |
-| 37 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 38 | [Englisch](http://twitter.com/search?q=Englisch) | N/A |
-| 39 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
-| 40 | [Japon](http://twitter.com/search?q=Japon) | N/A |
-| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 42 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 43 | [Betrug](http://twitter.com/search?q=Betrug) | N/A |
-| 44 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
-| 45 | [Verteidiger](http://twitter.com/search?q=Verteidiger) | N/A |
-| 46 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 47 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
+| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 7 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 8 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 9 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 10 | [Juso](http://twitter.com/search?q=Juso) | N/A |
+| 11 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
+| 12 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
+| 13 | [Honig](http://twitter.com/search?q=Honig) | N/A |
+| 14 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 15 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 16 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
+| 17 | [Krieg mit Russland](http://twitter.com/search?q=Krieg+mit+Russland) | N/A |
+| 18 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
+| 19 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 20 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 21 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
+| 22 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 23 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 24 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 25 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 26 | [Seiten](http://twitter.com/search?q=Seiten) | N/A |
+| 27 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 28 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 29 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 30 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 31 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 32 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 33 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
+| 34 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
+| 35 | [Verteidiger](http://twitter.com/search?q=Verteidiger) | N/A |
+| 36 | [Japon](http://twitter.com/search?q=Japon) | N/A |
+| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 38 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 39 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 40 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
+| 41 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
+| 42 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
+| 43 | [Okey](http://twitter.com/search?q=Okey) | N/A |
+| 44 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
+| 45 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 46 | [Produkt](http://twitter.com/search?q=Produkt) | N/A |
+| 47 | [Demos](http://twitter.com/search?q=Demos) | N/A |
 
 
 

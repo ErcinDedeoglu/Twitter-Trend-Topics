@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-20 21:18:02 UTC`
+📆 Last Updated: `2023-02-20 22:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,20 +15,20 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LosRielesCambiaConCAASD](http://twitter.com/search?q=%23LosRielesCambiaConCAASD) | N/A |
-| 2 | [Cristo Rey](http://twitter.com/search?q=Cristo+Rey) | N/A |
-| 3 | [Mapache](http://twitter.com/search?q=Mapache) | N/A |
-| 4 | [John Kelly Martínez](http://twitter.com/search?q=John+Kelly+Mart%c3%adnez) | N/A |
-| 5 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 6 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 7 | [#todosconmena](http://twitter.com/search?q=%23todosconmena) | N/A |
-| 8 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 9 | [#jornadaverdefp](http://twitter.com/search?q=%23jornadaverdefp) | N/A |
-| 10 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 1 | [Cristo Rey](http://twitter.com/search?q=Cristo+Rey) | N/A |
+| 2 | [Mapache](http://twitter.com/search?q=Mapache) | N/A |
+| 3 | [John Kelly Martínez](http://twitter.com/search?q=John+Kelly+Mart%c3%adnez) | N/A |
+| 4 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 5 | [#todosconmena](http://twitter.com/search?q=%23todosconmena) | N/A |
+| 6 | [#LosRielesCambiaConCAASD](http://twitter.com/search?q=%23LosRielesCambiaConCAASD) | N/A |
+| 7 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 8 | [#jornadaverdefp](http://twitter.com/search?q=%23jornadaverdefp) | N/A |
+| 9 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 10 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
 | 11 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
 | 12 | [Monte Grande](http://twitter.com/search?q=Monte+Grande) | N/A |
-| 13 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 14 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 13 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 14 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
 | 15 | [Guaricanos](http://twitter.com/search?q=Guaricanos) | N/A |
 | 16 | [Lino Rivera](http://twitter.com/search?q=Lino+Rivera) | N/A |
 | 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
@@ -39,32 +39,32 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 22 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
 | 23 | [Domingo 19](http://twitter.com/search?q=Domingo+19) | N/A |
 | 24 | [plaza de la bandera](http://twitter.com/search?q=plaza+de+la+bandera) | N/A |
-| 25 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 26 | [Álvarez](http://twitter.com/search?q=%c3%81lvarez) | N/A |
-| 27 | [Palacio](http://twitter.com/search?q=Palacio) | N/A |
-| 28 | [Anderson Comas](http://twitter.com/search?q=Anderson+Comas) | N/A |
+| 25 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
+| 26 | [Palacio](http://twitter.com/search?q=Palacio) | N/A |
+| 27 | [Zoológico Nacional](http://twitter.com/search?q=Zool%c3%b3gico+Nacional) | N/A |
+| 28 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
 | 29 | [Juan Dolio](http://twitter.com/search?q=Juan+Dolio) | N/A |
-| 30 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 31 | [Intrant](http://twitter.com/search?q=Intrant) | N/A |
-| 32 | [operación frontera](http://twitter.com/search?q=operaci%c3%b3n+frontera) | N/A |
-| 33 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 30 | [Anderson Comas](http://twitter.com/search?q=Anderson+Comas) | N/A |
+| 31 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 32 | [Álvarez](http://twitter.com/search?q=%c3%81lvarez) | N/A |
+| 33 | [operación frontera](http://twitter.com/search?q=operaci%c3%b3n+frontera) | N/A |
 | 34 | [Jayson Tatum](http://twitter.com/search?q=Jayson+Tatum) | Jayson Tatum is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). He was selected third overall in the 2017 NBA draft. He is known for his athleticism, shooting ability, and defensive prowess. |
 | 35 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
 | 36 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
-| 37 | [Justicia Social](http://twitter.com/search?q=Justicia+Social) | N/A |
-| 38 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 40 | [Comité Central](http://twitter.com/search?q=Comit%c3%a9+Central) | N/A |
-| 41 | [prsc](http://twitter.com/search?q=prsc) | N/A |
-| 42 | [Félix Bautista](http://twitter.com/search?q=F%c3%a9lix+Bautista) | N/A |
-| 43 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 44 | [El Presidente](http://twitter.com/search?q=El+Presidente) | N/A |
+| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 38 | [Justicia Social](http://twitter.com/search?q=Justicia+Social) | N/A |
+| 39 | [Félix Bautista](http://twitter.com/search?q=F%c3%a9lix+Bautista) | N/A |
+| 40 | [PRSC](http://twitter.com/search?q=PRSC) | N/A |
+| 41 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 42 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 43 | [El Presidente](http://twitter.com/search?q=El+Presidente) | N/A |
+| 44 | [INACIF](http://twitter.com/search?q=INACIF) | N/A |
 | 45 | [Santo Domingo Norte](http://twitter.com/search?q=Santo+Domingo+Norte) | N/A |
-| 46 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 47 | [INACIF](http://twitter.com/search?q=INACIF) | N/A |
-| 48 | [Barahona](http://twitter.com/search?q=Barahona) | N/A |
-| 49 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 50 | [Eduardo Alberto Then](http://twitter.com/search?q=Eduardo+Alberto+Then) | N/A |
+| 46 | [Barahona](http://twitter.com/search?q=Barahona) | N/A |
+| 47 | [Pobrecito](http://twitter.com/search?q=Pobrecito) | N/A |
+| 48 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
+| 49 | [Saturno](http://twitter.com/search?q=Saturno) | N/A |
+| 50 | [el seibo](http://twitter.com/search?q=el+seibo) | N/A |
 
 
 

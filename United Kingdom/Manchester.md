@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-02-20 21:18:00 UTC`
+📆 Last Updated: `2023-02-20 22:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
-| 2 | [#c4news](http://twitter.com/search?q=%23c4news) | N/A |
-| 3 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 4 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
-| 5 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
-| 6 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 7 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 8 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
-| 9 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 10 | [Lancashire](http://twitter.com/search?q=Lancashire) | N/A |
-| 11 | [#GlazerOut](http://twitter.com/search?q=%23GlazerOut) | N/A |
-| 12 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 13 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
-| 14 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 15 | [Cheese](http://twitter.com/search?q=Cheese) | N/A |
-| 16 | [The Glazers](http://twitter.com/search?q=The+Glazers) | N/A |
-| 17 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 18 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 19 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 1 | [#c4news](http://twitter.com/search?q=%23c4news) | N/A |
+| 2 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 3 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
+| 4 | [#TALKSWITHASH](http://twitter.com/search?q=%23TALKSWITHASH) | N/A |
+| 5 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 6 | [#payrestoration](http://twitter.com/search?q=%23payrestoration) | N/A |
+| 7 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 8 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 9 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 10 | [Birmingham City](http://twitter.com/search?q=Birmingham+City) | N/A |
+| 11 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
+| 12 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
+| 13 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 14 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
+| 15 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 16 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 17 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
+| 18 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 19 | [Vera](http://twitter.com/search?q=Vera) | N/A |
 | 20 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 21 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 22 | [#FreeSchoolMeals](http://twitter.com/search?q=%23FreeSchoolMeals) | N/A |
-| 23 | [#EastEnders](http://twitter.com/search?q=%23EastEnders) | #EastEnders is a British soap opera that has been running since 1985. It follows the lives of the residents of Albert Square in the East End of London. The show is known for its dramatic storylines and its exploration of social issues. |
-| 24 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 25 | [Nish](http://twitter.com/search?q=Nish) | N/A |
-| 26 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 27 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 28 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 29 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
-| 30 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
-| 31 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
-| 32 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
-| 33 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
-| 34 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 35 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 36 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 37 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
-| 38 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 39 | [Furlong](http://twitter.com/search?q=Furlong) | N/A |
-| 40 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
-| 41 | [Suki](http://twitter.com/search?q=Suki) | N/A |
-| 42 | [Townsend](http://twitter.com/search?q=Townsend) | N/A |
-| 43 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 44 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 45 | [Stacey](http://twitter.com/search?q=Stacey) | N/A |
-| 46 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 47 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 48 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 49 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 50 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 21 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 22 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 23 | [Jax Jones](http://twitter.com/search?q=Jax+Jones) | N/A |
+| 24 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 25 | [Callum Scott](http://twitter.com/search?q=Callum+Scott) | N/A |
+| 26 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 27 | [Poor Martin](http://twitter.com/search?q=Poor+Martin) | N/A |
+| 28 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 29 | [Craig David](http://twitter.com/search?q=Craig+David) | N/A |
+| 30 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 31 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 32 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
+| 33 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 34 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 35 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 36 | [Yes Kai](http://twitter.com/search?q=Yes+Kai) | N/A |
+| 37 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
+| 38 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 39 | [Townsend](http://twitter.com/search?q=Townsend) | N/A |
+| 40 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 41 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 42 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 43 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 44 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 45 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 46 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
+| 47 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
+| 48 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 49 | [Furlong](http://twitter.com/search?q=Furlong) | N/A |
+| 50 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
 
 
 

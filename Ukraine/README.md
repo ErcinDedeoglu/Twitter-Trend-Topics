@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-20 21:18:55 UTC`
+📆 Last Updated: `2023-02-20 22:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Ukraine
 | 2 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
 | 3 | [Welcome to Ukraine](http://twitter.com/search?q=Welcome+to+Ukraine) | N/A |
 | 4 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 5 | [Heavenly Hundred](http://twitter.com/search?q=Heavenly+Hundred) | N/A |
-| 6 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 7 | [America](http://twitter.com/search?q=America) | N/A |
-| 8 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
-| 9 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 5 | [#Zelensky](http://twitter.com/search?q=%23Zelensky) | N/A |
+| 6 | [Heavenly Hundred](http://twitter.com/search?q=Heavenly+Hundred) | N/A |
+| 7 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 8 | [America](http://twitter.com/search?q=America) | N/A |
+| 9 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
 | 10 | [#cryptocurrency](http://twitter.com/search?q=%23cryptocurrency) | N/A |
 | 11 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
 | 12 | [#хтивийпонеділок](http://twitter.com/search?q=%23%d1%85%d1%82%d0%b8%d0%b2%d0%b8%d0%b9%d0%bf%d0%be%d0%bd%d0%b5%d0%b4%d1%96%d0%bb%d0%be%d0%ba) | N/A |
-| 13 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 14 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 15 | [#sexymonday](http://twitter.com/search?q=%23sexymonday) | N/A |
-| 16 | [#Solana](http://twitter.com/search?q=%23Solana) | N/A |
-| 17 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 18 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
+| 13 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 14 | [иран](http://twitter.com/search?q=%d0%b8%d1%80%d0%b0%d0%bd) | N/A |
+| 15 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
+| 16 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 17 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 18 | [#sexymonday](http://twitter.com/search?q=%23sexymonday) | N/A |
 | 19 | [Турции](http://twitter.com/search?q=%d0%a2%d1%83%d1%80%d1%86%d0%b8%d0%b8) | N/A |
-| 20 | [Maidan](http://twitter.com/search?q=Maidan) | N/A |
-| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 22 | [Зараз](http://twitter.com/search?q=%d0%97%d0%b0%d1%80%d0%b0%d0%b7) | N/A |
-| 23 | [приднестровье](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
-| 24 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
-| 25 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 26 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 27 | [Китаю](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8e) | N/A |
-| 28 | [Victory](http://twitter.com/search?q=Victory) | N/A |
-| 29 | [Revolution of Dignity](http://twitter.com/search?q=Revolution+of+Dignity) | N/A |
-| 30 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
-| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 32 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
-| 33 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 34 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 35 | [White House](http://twitter.com/search?q=White+House) | N/A |
-| 36 | [ПЛАЧУ](http://twitter.com/search?q=%d0%9f%d0%9b%d0%90%d0%a7%d0%a3) | N/A |
-| 37 | [Десь](http://twitter.com/search?q=%d0%94%d0%b5%d1%81%d1%8c) | N/A |
-| 38 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 39 | [Майдан](http://twitter.com/search?q=%d0%9c%d0%b0%d0%b9%d0%b4%d0%b0%d0%bd) | N/A |
-| 40 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
-| 41 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
-| 42 | [Донецк](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba) | N/A |
-| 43 | [Кремля](http://twitter.com/search?q=%d0%9a%d1%80%d0%b5%d0%bc%d0%bb%d1%8f) | N/A |
-| 44 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 45 | [Зеленскому](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%bc%d1%83) | N/A |
-| 46 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
-| 47 | [Звучить](http://twitter.com/search?q=%d0%97%d0%b2%d1%83%d1%87%d0%b8%d1%82%d1%8c) | N/A |
-| 48 | [Клас](http://twitter.com/search?q=%d0%9a%d0%bb%d0%b0%d1%81) | N/A |
-| 49 | [Шойгу](http://twitter.com/search?q=%d0%a8%d0%be%d0%b9%d0%b3%d1%83) | N/A |
-| 50 | [Дякую](http://twitter.com/search?q=%d0%94%d1%8f%d0%ba%d1%83%d1%8e) | N/A |
+| 20 | [Revolution of Dignity](http://twitter.com/search?q=Revolution+of+Dignity) | N/A |
+| 21 | [#Ukrainians](http://twitter.com/search?q=%23Ukrainians) | N/A |
+| 22 | [Maidan](http://twitter.com/search?q=Maidan) | N/A |
+| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 24 | [Зараз](http://twitter.com/search?q=%d0%97%d0%b0%d1%80%d0%b0%d0%b7) | N/A |
+| 25 | [приднестровье](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
+| 26 | [Белгородской](http://twitter.com/search?q=%d0%91%d0%b5%d0%bb%d0%b3%d0%be%d1%80%d0%be%d0%b4%d1%81%d0%ba%d0%be%d0%b9) | N/A |
+| 27 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 28 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 29 | [Китаю](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8e) | N/A |
+| 30 | [Слава Украине](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0+%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 31 | [Victory](http://twitter.com/search?q=Victory) | N/A |
+| 32 | [White House](http://twitter.com/search?q=White+House) | N/A |
+| 33 | [Обожаю](http://twitter.com/search?q=%d0%9e%d0%b1%d0%be%d0%b6%d0%b0%d1%8e) | N/A |
+| 34 | [Израиль](http://twitter.com/search?q=%d0%98%d0%b7%d1%80%d0%b0%d0%b8%d0%bb%d1%8c) | N/A |
+| 35 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 36 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 37 | [Навального](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d0%be%d0%b3%d0%be) | N/A |
+| 38 | [Плачу](http://twitter.com/search?q=%d0%9f%d0%bb%d0%b0%d1%87%d1%83) | N/A |
+| 39 | [Десь](http://twitter.com/search?q=%d0%94%d0%b5%d1%81%d1%8c) | N/A |
+| 40 | [Washington](http://twitter.com/search?q=Washington) | N/A |
+| 41 | [Майдан](http://twitter.com/search?q=%d0%9c%d0%b0%d0%b9%d0%b4%d0%b0%d0%bd) | N/A |
+| 42 | [донецк](http://twitter.com/search?q=%d0%b4%d0%be%d0%bd%d0%b5%d1%86%d0%ba) | N/A |
+| 43 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
+| 44 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 45 | [Польше](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
+| 46 | [Кремля](http://twitter.com/search?q=%d0%9a%d1%80%d0%b5%d0%bc%d0%bb%d1%8f) | N/A |
+| 47 | [Gorgeous](http://twitter.com/search?q=Gorgeous) | N/A |
+| 48 | [Зеленскому](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%bc%d1%83) | N/A |
+| 49 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 50 | [ТААААК](http://twitter.com/search?q=%d0%a2%d0%90%d0%90%d0%90%d0%90%d0%9a) | N/A |
 
 
 

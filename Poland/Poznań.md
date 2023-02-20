@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-20 21:18:11 UTC`
+📆 Last Updated: `2023-02-20 22:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
 | 2 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 3 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 4 | [#GOATsoe](http://twitter.com/search?q=%23GOATsoe) | N/A |
 | 5 | [#RADJAG](http://twitter.com/search?q=%23RADJAG) | N/A |
-| 6 | [#farma](http://twitter.com/search?q=%23farma) | N/A |
-| 7 | [Piotrowicza](http://twitter.com/search?q=Piotrowicza) | N/A |
-| 8 | [Przemyślu](http://twitter.com/search?q=Przemy%c5%9blu) | N/A |
-| 9 | [#Minela20](http://twitter.com/search?q=%23Minela20) | N/A |
-| 10 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 11 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 12 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [Rzeszowa](http://twitter.com/search?q=Rzeszowa) | N/A |
-| 15 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
-| 16 | [Borewicz](http://twitter.com/search?q=Borewicz) | N/A |
-| 17 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 18 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 6 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 7 | [#farma](http://twitter.com/search?q=%23farma) | N/A |
+| 8 | [Piotrowicza](http://twitter.com/search?q=Piotrowicza) | N/A |
+| 9 | [Przemyślu](http://twitter.com/search?q=Przemy%c5%9blu) | N/A |
+| 10 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 12 | [Rzeszowa](http://twitter.com/search?q=Rzeszowa) | N/A |
+| 13 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 14 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 15 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
+| 16 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
+| 17 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
+| 18 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
 | 19 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 20 | [sokołowski](http://twitter.com/search?q=soko%c5%82owski) | N/A |
-| 21 | [Miszta](http://twitter.com/search?q=Miszta) | N/A |
-| 22 | [Kojak](http://twitter.com/search?q=Kojak) | N/A |
-| 23 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 24 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 25 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 26 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
-| 27 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 28 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 29 | [Kremlu](http://twitter.com/search?q=Kremlu) | N/A |
+| 21 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 22 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 23 | [Borewicz](http://twitter.com/search?q=Borewicz) | N/A |
+| 24 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 25 | [Cremonese](http://twitter.com/search?q=Cremonese) | N/A |
+| 26 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 27 | [Kremlu](http://twitter.com/search?q=Kremlu) | N/A |
+| 28 | [Amerykanie](http://twitter.com/search?q=Amerykanie) | N/A |
+| 29 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
 | 30 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
-| 31 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
-| 32 | [Amerykanie](http://twitter.com/search?q=Amerykanie) | N/A |
-| 33 | [oskar kwiatkowski](http://twitter.com/search?q=oskar+kwiatkowski) | N/A |
+| 31 | [Gazety Polskiej](http://twitter.com/search?q=Gazety+Polskiej) | N/A |
+| 32 | [oskar kwiatkowski](http://twitter.com/search?q=oskar+kwiatkowski) | N/A |
+| 33 | [Moskwą](http://twitter.com/search?q=Moskw%c4%85) | N/A |
 | 34 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
-| 35 | [Moskwą](http://twitter.com/search?q=Moskw%c4%85) | N/A |
-| 36 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 35 | [Jutro](http://twitter.com/search?q=Jutro) | N/A |
+| 36 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
 | 37 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
-| 38 | [velde](http://twitter.com/search?q=velde) | N/A |
-| 39 | [Sylwia Przybysz](http://twitter.com/search?q=Sylwia+Przybysz) | N/A |
-| 40 | [Mejza](http://twitter.com/search?q=Mejza) | N/A |
-| 41 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
-| 42 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
-| 43 | [Zełenskim](http://twitter.com/search?q=Ze%c5%82enskim) | N/A |
-| 44 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
-| 45 | [Zuzanna Borucka](http://twitter.com/search?q=Zuzanna+Borucka) | N/A |
-| 46 | [Lil Masti](http://twitter.com/search?q=Lil+Masti) | N/A |
-| 47 | [Torre](http://twitter.com/search?q=Torre) | N/A |
-| 48 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 49 | [kssip](http://twitter.com/search?q=kssip) | N/A |
-| 50 | [Warszawy](http://twitter.com/search?q=Warszawy) | N/A |
+| 38 | [Mejza](http://twitter.com/search?q=Mejza) | N/A |
+| 39 | [velde](http://twitter.com/search?q=velde) | N/A |
+| 40 | [Premier Włoch](http://twitter.com/search?q=Premier+W%c5%82och) | N/A |
+| 41 | [Sylwia Przybysz](http://twitter.com/search?q=Sylwia+Przybysz) | N/A |
+| 42 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
+| 43 | [Warszawy](http://twitter.com/search?q=Warszawy) | N/A |
+| 44 | [Kojak](http://twitter.com/search?q=Kojak) | N/A |
+| 45 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 46 | [Hładun](http://twitter.com/search?q=H%c5%82adun) | N/A |
+| 47 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
+| 48 | [Zuzanna Borucka](http://twitter.com/search?q=Zuzanna+Borucka) | N/A |
+| 49 | [Lil Masti](http://twitter.com/search?q=Lil+Masti) | N/A |
+| 50 | [Torre](http://twitter.com/search?q=Torre) | N/A |
 
 
 

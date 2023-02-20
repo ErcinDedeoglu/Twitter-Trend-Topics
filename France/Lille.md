@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lille
 
-📆 Last Updated: `2023-02-20 21:18:12 UTC`
+📆 Last Updated: `2023-02-20 22:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,55 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 1 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
 | 2 | [#NOASSE](http://twitter.com/search?q=%23NOASSE) | N/A |
-| 3 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
-| 4 | [#ATEEZFRAinParis_FAQ](http://twitter.com/search?q=%23ATEEZFRAinParis_FAQ) | N/A |
-| 5 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 6 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
-| 7 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
+| 3 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
+| 4 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
+| 5 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
+| 6 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
+| 7 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
 | 8 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 9 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 10 | [Michel Deville](http://twitter.com/search?q=Michel+Deville) | N/A |
-| 11 | [Samy](http://twitter.com/search?q=Samy) | N/A |
-| 12 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 13 | [Krasso](http://twitter.com/search?q=Krasso) | N/A |
-| 14 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
-| 15 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 16 | [Nîmes](http://twitter.com/search?q=N%c3%aemes) | N/A |
-| 17 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 19 | [Condoléances](http://twitter.com/search?q=Condol%c3%a9ances) | N/A |
-| 20 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
-| 21 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 22 | [Zola](http://twitter.com/search?q=Zola) | N/A |
-| 23 | [Pensées](http://twitter.com/search?q=Pens%c3%a9es) | N/A |
-| 24 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 25 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 26 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 27 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 28 | [Chap](http://twitter.com/search?q=Chap) | N/A |
-| 29 | [LICRA](http://twitter.com/search?q=LICRA) | N/A |
-| 30 | [Kawaki](http://twitter.com/search?q=Kawaki) | Kawaki is a Japanese word that means "tension" or "uneasiness". It is often used to describe a feeling of anticipation or anxiety. |
-| 31 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 32 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
-| 33 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
-| 34 | [Solary](http://twitter.com/search?q=Solary) | N/A |
-| 35 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
-| 36 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
-| 37 | [Berger](http://twitter.com/search?q=Berger) | N/A |
-| 38 | [San Marina](http://twitter.com/search?q=San+Marina) | N/A |
-| 39 | [Taïwan](http://twitter.com/search?q=Ta%c3%afwan) | N/A |
-| 40 | [#missiontravaux](http://twitter.com/search?q=%23missiontravaux) | N/A |
-| 41 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 42 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 43 | [#Paris2024tickets](http://twitter.com/search?q=%23Paris2024tickets) | N/A |
-| 44 | [#MicromaniaAtomicHeart](http://twitter.com/search?q=%23MicromaniaAtomicHeart) | N/A |
-| 45 | [#JO2024](http://twitter.com/search?q=%23JO2024) | N/A |
-| 46 | [#MicromaniaIshin](http://twitter.com/search?q=%23MicromaniaIshin) | N/A |
+| 9 | [Poufsouffle](http://twitter.com/search?q=Poufsouffle) | N/A |
+| 10 | [Samy](http://twitter.com/search?q=Samy) | N/A |
+| 11 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 12 | [Léna](http://twitter.com/search?q=L%c3%a9na) | N/A |
+| 13 | [Michel Deville](http://twitter.com/search?q=Michel+Deville) | N/A |
+| 14 | [Krasso](http://twitter.com/search?q=Krasso) | N/A |
+| 15 | [Nîmes](http://twitter.com/search?q=N%c3%aemes) | N/A |
+| 16 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 17 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 18 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 19 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 20 | [Joël](http://twitter.com/search?q=Jo%c3%abl) | N/A |
+| 21 | [Allan](http://twitter.com/search?q=Allan) | N/A |
+| 22 | [Rungis](http://twitter.com/search?q=Rungis) | N/A |
+| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 24 | [Zola](http://twitter.com/search?q=Zola) | N/A |
+| 25 | [Chap](http://twitter.com/search?q=Chap) | N/A |
+| 26 | [Condoléances](http://twitter.com/search?q=Condol%c3%a9ances) | N/A |
+| 27 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 28 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
+| 29 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 30 | [Cyril](http://twitter.com/search?q=Cyril) | N/A |
+| 31 | [LICRA](http://twitter.com/search?q=LICRA) | N/A |
+| 32 | [Pensées](http://twitter.com/search?q=Pens%c3%a9es) | N/A |
+| 33 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 34 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 35 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 36 | [Sasuke](http://twitter.com/search?q=Sasuke) | N/A |
+| 37 | [Solary](http://twitter.com/search?q=Solary) | N/A |
+| 38 | [Thuram](http://twitter.com/search?q=Thuram) | N/A |
+| 39 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 40 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 41 | [#MissionTravaux](http://twitter.com/search?q=%23MissionTravaux) | N/A |
+| 42 | [#ATEEZFRAinParis_FAQ](http://twitter.com/search?q=%23ATEEZFRAinParis_FAQ) | N/A |
+| 43 | [#SpaceMHSC](http://twitter.com/search?q=%23SpaceMHSC) | N/A |
+| 44 | [#Paris2024tickets](http://twitter.com/search?q=%23Paris2024tickets) | N/A |
+| 45 | [#MDRWIN](http://twitter.com/search?q=%23MDRWIN) | N/A |
+| 46 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 47 | [#ONEPIECE1076](http://twitter.com/search?q=%23ONEPIECE1076) | N/A |
+| 48 | [#MicromaniaAtomicHeart](http://twitter.com/search?q=%23MicromaniaAtomicHeart) | N/A |
+| 49 | [#JO2024](http://twitter.com/search?q=%23JO2024) | N/A |
 
 
 
