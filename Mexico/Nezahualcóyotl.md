@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nezahualcóyotl
 
-📆 Last Updated: `2023-02-20 11:16:34 UTC`
+📆 Last Updated: `2023-02-20 12:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 2 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 4 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 5 | [#cristianrey](http://twitter.com/search?q=%23cristianrey) | N/A |
-| 6 | [#allstarelimina](http://twitter.com/search?q=%23allstarelimina) | N/A |
-| 7 | [#felizdomingo](http://twitter.com/search?q=%23felizdomingo) | N/A |
+| 3 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 4 | [#cristianrey](http://twitter.com/search?q=%23cristianrey) | N/A |
+| 5 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 6 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 7 | [#allstarelimina](http://twitter.com/search?q=%23allstarelimina) | N/A |
 | 8 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
 | 9 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 10 | [aifa](http://twitter.com/search?q=aifa) | N/A |
+| 10 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
 | 11 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 12 | [Leo Suárez](http://twitter.com/search?q=Leo+Su%c3%a1rez) | N/A |
 | 13 | [Litio](http://twitter.com/search?q=Litio) | N/A |
@@ -34,37 +34,37 @@ This is top 50 for [Mexico](</Mexico>)
 | 17 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
 | 18 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
 | 19 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 20 | [Layun](http://twitter.com/search?q=Layun) | N/A |
-| 21 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 22 | [diego valdés](http://twitter.com/search?q=diego+vald%c3%a9s) | N/A |
-| 23 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 20 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 21 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 22 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
+| 23 | [toño rodríguez](http://twitter.com/search?q=to%c3%b1o+rodr%c3%adguez) | N/A |
 | 24 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 25 | [Toño Rodríguez](http://twitter.com/search?q=To%c3%b1o+Rodr%c3%adguez) | N/A |
-| 26 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 27 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 28 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 29 | [feliz 19](http://twitter.com/search?q=feliz+19) | N/A |
-| 30 | [guillermo del toro](http://twitter.com/search?q=guillermo+del+toro) | N/A |
-| 31 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 32 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
-| 33 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 34 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
-| 35 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
-| 36 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
-| 37 | [2 años floreciendo](http://twitter.com/search?q=2+a%c3%b1os+floreciendo) | N/A |
-| 38 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
+| 25 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 26 | [layun](http://twitter.com/search?q=layun) | N/A |
+| 27 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 28 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
+| 29 | [Berry](http://twitter.com/search?q=Berry) | N/A |
+| 30 | [Roger](http://twitter.com/search?q=Roger) | N/A |
+| 31 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 32 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 33 | [contracara](http://twitter.com/search?q=contracara) | N/A |
+| 34 | [2 años floreciendo](http://twitter.com/search?q=2+a%c3%b1os+floreciendo) | N/A |
+| 35 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 36 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 37 | [Chivas](http://twitter.com/search?q=Chivas) | Chivas is a brand of Scotch whisky owned by Pernod Ricard. The name Chivas is derived from the Latin phrase "Chivas Regal", which translates to "Royal Gift". The brand is known for its blended Scotch whiskies, which are made with malt and grain whiskies aged for at least 12 years. |
+| 38 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
 | 39 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
-| 40 | [De la Rosa](http://twitter.com/search?q=De+la+Rosa) | N/A |
-| 41 | [Herly](http://twitter.com/search?q=Herly) | N/A |
-| 42 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 43 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 44 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 45 | [Travolta](http://twitter.com/search?q=Travolta) | N/A |
-| 46 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
-| 47 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 48 | [Natali](http://twitter.com/search?q=Natali) | N/A |
-| 49 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
-| 50 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 40 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
+| 41 | [herly](http://twitter.com/search?q=herly) | N/A |
+| 42 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
+| 43 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 44 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 45 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
+| 46 | [Pachuca](http://twitter.com/search?q=Pachuca) | Pachuca is a term used to refer to a young woman from Mexico who is stylish, independent, and confident. It is derived from the city of Pachuca in the state of Hidalgo, Mexico. In English, it can be translated to mean “strong and independent woman”. |
+| 47 | [De la Rosa](http://twitter.com/search?q=De+la+Rosa) | N/A |
+| 48 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 49 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 50 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
 
 
 

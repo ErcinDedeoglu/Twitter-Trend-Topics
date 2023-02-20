@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangkok
 
-📆 Last Updated: `2023-02-20 11:17:01 UTC`
+📆 Last Updated: `2023-02-20 12:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Thailand](</Thailand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
-| 2 | [#MidnightMuseum](http://twitter.com/search?q=%23MidnightMuseum) | N/A |
-| 3 | [#IFourthYou900K](http://twitter.com/search?q=%23IFourthYou900K) | N/A |
-| 4 | [#yinwargotohk](http://twitter.com/search?q=%23yinwargotohk) | N/A |
-| 5 | [#XiaoZhanxNARS](http://twitter.com/search?q=%23XiaoZhanxNARS) | N/A |
-| 6 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
-| 7 | [HAPPY HAZARD DAY](http://twitter.com/search?q=HAPPY+HAZARD+DAY) | N/A |
-| 8 | [1st fansign meenping](http://twitter.com/search?q=1st+fansign+meenping) | N/A |
-| 9 | [FOND](http://twitter.com/search?q=FOND) | N/A |
-| 10 | [bambam gm 20february](http://twitter.com/search?q=bambam+gm+20february) | N/A |
-| 11 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 12 | [bambam all the butlers ep246](http://twitter.com/search?q=bambam+all+the+butlers+ep246) | N/A |
-| 13 | [vif x gulfhazard](http://twitter.com/search?q=vif+x+gulfhazard) | N/A |
-| 14 | [TENLEE SURPRISE FANSIGN](http://twitter.com/search?q=TENLEE+SURPRISE+FANSIGN) | N/A |
-| 15 | [CHARLOTTE BE MY LOVE20](http://twitter.com/search?q=CHARLOTTE+BE+MY+LOVE20) | N/A |
-| 16 | [jam x film](http://twitter.com/search?q=jam+x+film) | N/A |
-| 17 | [patrick balmain wfcentral](http://twitter.com/search?q=patrick+balmain+wfcentral) | N/A |
-| 18 | [Global Brand Spokesperson](http://twitter.com/search?q=Global+Brand+Spokesperson) | N/A |
-| 19 | [SPECIAL DAY20 OF ENGFA](http://twitter.com/search?q=SPECIAL+DAY20+OF+ENGFA) | N/A |
-| 20 | [702 wake](http://twitter.com/search?q=702+wake) | N/A |
-| 21 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
-| 22 | [MORNING 20 NNINE](http://twitter.com/search?q=MORNING+20+NNINE) | N/A |
-| 23 | [Suga](http://twitter.com/search?q=Suga) | N/A |
-| 24 | [Charlotte Austin](http://twitter.com/search?q=Charlotte+Austin) | N/A |
-| 25 | [20 morning dunk](http://twitter.com/search?q=20+morning+dunk) | N/A |
-| 26 | [Savage](http://twitter.com/search?q=Savage) | N/A |
-| 27 | [Happy Birthday HAZARD](http://twitter.com/search?q=Happy+Birthday+HAZARD) | N/A |
-| 28 | [Meta Verified](http://twitter.com/search?q=Meta+Verified) | N/A |
-| 29 | [Video Teaser](http://twitter.com/search?q=Video+Teaser) | N/A |
-| 30 | [Weibo](http://twitter.com/search?q=Weibo) | N/A |
-| 31 | [SERIOUS BACON](http://twitter.com/search?q=SERIOUS+BACON) | N/A |
-| 32 | [BEST FRIEND 4EVER](http://twitter.com/search?q=BEST+FRIEND+4EVER) | N/A |
-| 33 | [Lazada](http://twitter.com/search?q=Lazada) | N/A |
-| 34 | [Amazon](http://twitter.com/search?q=Amazon) | N/A |
-| 35 | [Asia Pacific](http://twitter.com/search?q=Asia+Pacific) | N/A |
-| 36 | [#RendezvousinBKK_Day2](http://twitter.com/search?q=%23RendezvousinBKK_Day2) | N/A |
-| 37 | [#กันอรรถพันธ์](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%a3%e0%b8%a3%e0%b8%96%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | N/A |
-| 38 | [#FarmhouseShopeexMileApo](http://twitter.com/search?q=%23FarmhouseShopeexMileApo) | N/A |
-| 39 | [#TREASURE_hello_in_bangkok](http://twitter.com/search?q=%23TREASURE_hello_in_bangkok) | #TREASURE_hello_in_bangkok is a hashtag used by the K-pop group TREASURE to promote their debut single "Hello" in Bangkok. The hashtag is used to encourage fans to share their excitement and support for the group's debut. |
-| 40 | [#TaraxYellowTop5](http://twitter.com/search?q=%23TaraxYellowTop5) | N/A |
-| 41 | [#Cherprang13thSingle](http://twitter.com/search?q=%23Cherprang13thSingle) | N/A |
-| 42 | [#ProjectAlphaTHEP10](http://twitter.com/search?q=%23ProjectAlphaTHEP10) | N/A |
-| 43 | [#อาซาร์สองขวบแล้วงับ](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b2%e0%b8%8b%e0%b8%b2%e0%b8%a3%e0%b9%8c%e0%b8%aa%e0%b8%ad%e0%b8%87%e0%b8%82%e0%b8%a7%e0%b8%9a%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7%e0%b8%87%e0%b8%b1%e0%b8%9a) | N/A |
-| 44 | [#WayV_Phantom_FANSIGNinBKK](http://twitter.com/search?q=%23WayV_Phantom_FANSIGNinBKK) | N/A |
-| 45 | [#BurberryxBright](http://twitter.com/search?q=%23BurberryxBright) | N/A |
-| 46 | [#ParkJinYoungInBKK2023](http://twitter.com/search?q=%23ParkJinYoungInBKK2023) | #ParkJinYoungInBKK2023 is a hashtag used to promote a potential concert by South Korean singer and songwriter Park Jin Young in Bangkok, Thailand in 2023. The hashtag is used to encourage fans to show their support for the potential event. |
-| 47 | [#SMCUEp3_GirlsTeaser](http://twitter.com/search?q=%23SMCUEp3_GirlsTeaser) | N/A |
-| 48 | [#อุ๊ยคุณพระพบปะชาวนครDay1](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b8%e0%b9%8a%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%9e%e0%b8%9a%e0%b8%9b%e0%b8%b0%e0%b8%8a%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b8%84%e0%b8%a3Day1) | N/A |
-| 49 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
-| 50 | [#วัดพลุSelcaDay](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%9e%e0%b8%a5%e0%b8%b8SelcaDay) | N/A |
+| 1 | [#WallowsLiveInBKK](http://twitter.com/search?q=%23WallowsLiveInBKK) | N/A |
+| 2 | [#โหนกระแส](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%ab%e0%b8%99%e0%b8%81%e0%b8%a3%e0%b8%b0%e0%b9%81%e0%b8%aa) | N/A |
+| 3 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 4 | [#ShowmeloveTheSeries](http://twitter.com/search?q=%23ShowmeloveTheSeries) | N/A |
+| 5 | [#วาดไว้NuNew](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b2%e0%b8%94%e0%b9%84%e0%b8%a7%e0%b9%89NuNew) | N/A |
+| 6 | [DMD Cover](http://twitter.com/search?q=DMD+Cover) | N/A |
+| 7 | [MINI FAN MEETING WITH MEW](http://twitter.com/search?q=MINI+FAN+MEETING+WITH+MEW) | N/A |
+| 8 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
+| 9 | [Fond](http://twitter.com/search?q=Fond) | N/A |
+| 10 | [#MiniFMxMEW2023](http://twitter.com/search?q=%23MiniFMxMEW2023) | N/A |
+| 11 | [#MidnightMuseum](http://twitter.com/search?q=%23MidnightMuseum) | N/A |
+| 12 | [#MadameLouiseXOffGun](http://twitter.com/search?q=%23MadameLouiseXOffGun) | N/A |
+| 13 | [#สี่แสบEP1](http://twitter.com/search?q=%23%e0%b8%aa%e0%b8%b5%e0%b9%88%e0%b9%81%e0%b8%aa%e0%b8%9aEP1) | N/A |
+| 14 | [#TARAxYLSPartyConcert](http://twitter.com/search?q=%23TARAxYLSPartyConcert) | N/A |
+| 15 | [#MrSLIMxMrNONTTANONT](http://twitter.com/search?q=%23MrSLIMxMrNONTTANONT) | N/A |
+| 16 | [#KAZZxGeminiFourth](http://twitter.com/search?q=%23KAZZxGeminiFourth) | N/A |
+| 17 | [#ไม่หยุดทําแค่คําว่าดี](http://twitter.com/search?q=%23%e0%b9%84%e0%b8%a1%e0%b9%88%e0%b8%ab%e0%b8%a2%e0%b8%b8%e0%b8%94%e0%b8%97%e0%b9%8d%e0%b8%b2%e0%b9%81%e0%b8%84%e0%b9%88%e0%b8%84%e0%b9%8d%e0%b8%b2%e0%b8%a7%e0%b9%88%e0%b8%b2%e0%b8%94%e0%b8%b5) | N/A |
+| 18 | [#กันอรรถพันธ์](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%ad%e0%b8%a3%e0%b8%a3%e0%b8%96%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | N/A |
+| 19 | [#นนท์คนคูล](http://twitter.com/search?q=%23%e0%b8%99%e0%b8%99%e0%b8%97%e0%b9%8c%e0%b8%84%e0%b8%99%e0%b8%84%e0%b8%b9%e0%b8%a5) | N/A |
+| 20 | [#เหงาเท่าวาฬ](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ab%e0%b8%87%e0%b8%b2%e0%b9%80%e0%b8%97%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%b2%e0%b8%ac) | N/A |
+| 21 | [#วินพรีม](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b4%e0%b8%99%e0%b8%9e%e0%b8%a3%e0%b8%b5%e0%b8%a1) | N/A |
+| 22 | [#วัดพลุSelcaDay](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b1%e0%b8%94%e0%b8%9e%e0%b8%a5%e0%b8%b8SelcaDay) | N/A |
+| 23 | [#ปิงโสดจีบด้ายนะ](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%b4%e0%b8%87%e0%b9%82%e0%b8%aa%e0%b8%94%e0%b8%88%e0%b8%b5%e0%b8%9a%e0%b8%94%e0%b9%89%e0%b8%b2%e0%b8%a2%e0%b8%99%e0%b8%b0) | N/A |
+| 24 | [#SMCUEp3_GirlsTeaser](http://twitter.com/search?q=%23SMCUEp3_GirlsTeaser) | N/A |
+| 25 | [#THEBOYZ_ROAR](http://twitter.com/search?q=%23THEBOYZ_ROAR) | N/A |
+| 26 | [#XiaoZhanxTODS](http://twitter.com/search?q=%23XiaoZhanxTODS) | N/A |
+| 27 | [#GunAtthaphan](http://twitter.com/search?q=%23GunAtthaphan) | N/A |
+| 28 | [#netsat](http://twitter.com/search?q=%23netsat) | N/A |
+| 29 | [#MellowxLAZ1อุ๊ยคุณพระ](http://twitter.com/search?q=%23MellowxLAZ1%e0%b8%ad%e0%b8%b8%e0%b9%8a%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9e%e0%b8%a3%e0%b8%b0) | N/A |
+| 30 | [#Primiily19thBirthday](http://twitter.com/search?q=%23Primiily19thBirthday) | N/A |
+| 31 | [#BE_AWAKE](http://twitter.com/search?q=%23BE_AWAKE) | N/A |
+| 32 | [#อุ๊ยคุณพระพบปะชาวนครDay1](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%b8%e0%b9%8a%e0%b8%a2%e0%b8%84%e0%b8%b8%e0%b8%93%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%9e%e0%b8%9a%e0%b8%9b%e0%b8%b0%e0%b8%8a%e0%b8%b2%e0%b8%a7%e0%b8%99%e0%b8%84%e0%b8%a3Day1) | N/A |
+| 33 | [#더보이즈](http://twitter.com/search?q=%23%eb%8d%94%eb%b3%b4%ec%9d%b4%ec%a6%88) | N/A |
+| 34 | [#เต้ยพงศกร](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b9%89%e0%b8%a2%e0%b8%9e%e0%b8%87%e0%b8%a8%e0%b8%81%e0%b8%a3) | N/A |
+| 35 | [#จ้าวลู่ซือ](http://twitter.com/search?q=%23%e0%b8%88%e0%b9%89%e0%b8%b2%e0%b8%a7%e0%b8%a5%e0%b8%b9%e0%b9%88%e0%b8%8b%e0%b8%b7%e0%b8%ad) | N/A |
+| 36 | [#บิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | N/A |
+| 37 | [#ZhaoLusi](http://twitter.com/search?q=%23ZhaoLusi) | N/A |
+| 38 | [#iiwakeMaybeTH](http://twitter.com/search?q=%23iiwakeMaybeTH) | N/A |
+| 39 | [#XiaoZhanxNARS](http://twitter.com/search?q=%23XiaoZhanxNARS) | N/A |
+| 40 | [#Cherprang13thSingle](http://twitter.com/search?q=%23Cherprang13thSingle) | N/A |
+| 41 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 42 | [#FANTASYBOYS](http://twitter.com/search?q=%23FANTASYBOYS) | N/A |
+| 43 | [#TarBom](http://twitter.com/search?q=%23TarBom) | N/A |
+| 44 | [#prompayy](http://twitter.com/search?q=%23prompayy) | N/A |
+| 45 | [#ตลาดนัด4eve](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%99%e0%b8%b1%e0%b8%944eve) | N/A |
 
 
 

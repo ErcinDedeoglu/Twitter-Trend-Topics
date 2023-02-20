@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-02-20 11:17:15 UTC`
+📆 Last Updated: `2023-02-20 12:18:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
-| 2 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 3 | [NOLA](http://twitter.com/search?q=NOLA) | N/A |
-| 4 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 5 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 7 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 8 | [Biden is in Ukraine](http://twitter.com/search?q=Biden+is+in+Ukraine) | N/A |
-| 9 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 10 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 11 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 12 | [Happy Presidents](http://twitter.com/search?q=Happy+Presidents) | N/A |
-| 13 | [President Zelenskyy](http://twitter.com/search?q=President+Zelenskyy) | N/A |
-| 14 | [#Wordle611](http://twitter.com/search?q=%23Wordle611) | N/A |
-| 15 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
-| 16 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 17 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 1 | [Bacchus](http://twitter.com/search?q=Bacchus) | N/A |
+| 2 | [Bron](http://twitter.com/search?q=Bron) | Bron is a Dutch name that is derived from the Old Germanic name Brunhild, which means "armored warrior." In English, Bron can be translated to mean "armored warrior" or "brave one." |
+| 3 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 4 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 5 | [NOLA](http://twitter.com/search?q=NOLA) | N/A |
+| 6 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 7 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 8 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 9 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 10 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 11 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 12 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 13 | [Biden in Ukraine](http://twitter.com/search?q=Biden+in+Ukraine) | N/A |
+| 14 | [President Zelenskyy](http://twitter.com/search?q=President+Zelenskyy) | N/A |
+| 15 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 16 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 17 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
 | 18 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 19 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 20 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
-| 21 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 22 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 23 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 24 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 25 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 26 | [Street Fighter](http://twitter.com/search?q=Street+Fighter) | N/A |
-| 27 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 28 | [Vegito](http://twitter.com/search?q=Vegito) | N/A |
-| 29 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 30 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 31 | [Capcom Cup](http://twitter.com/search?q=Capcom+Cup) | N/A |
-| 32 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
-| 33 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
-| 34 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 35 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 36 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
-| 37 | [Episode 6](http://twitter.com/search?q=Episode+6) | N/A |
-| 38 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 39 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 40 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
-| 41 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 42 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 43 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 44 | [Malone](http://twitter.com/search?q=Malone) | N/A |
-| 45 | [olivia rodrigo](http://twitter.com/search?q=olivia+rodrigo) | N/A |
-| 46 | [Paty](http://twitter.com/search?q=Paty) | N/A |
-| 47 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 19 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
+| 20 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 21 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 22 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 23 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
+| 24 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
+| 25 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
+| 26 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 27 | [Release the J6](http://twitter.com/search?q=Release+the+J6) | N/A |
+| 28 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 29 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 30 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 31 | [Street Fighter](http://twitter.com/search?q=Street+Fighter) | N/A |
+| 32 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 33 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
+| 34 | [Capcom](http://twitter.com/search?q=Capcom) | N/A |
+| 35 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
+| 36 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 37 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 38 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 39 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
+| 40 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 41 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 42 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 43 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 44 | [love & thunder](http://twitter.com/search?q=love+%26+thunder) | N/A |
+| 45 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 46 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 47 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 | 48 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 49 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
+| 49 | [olivia rodrigo](http://twitter.com/search?q=olivia+rodrigo) | N/A |
 
 
 

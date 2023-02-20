@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-20 11:17:00 UTC`
+📆 Last Updated: `2023-02-20 12:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,46 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JoshCullenLEDTakeover](http://twitter.com/search?q=%23JoshCullenLEDTakeover) | N/A |
+| 1 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
 | 2 | [WILD TONIGHT](http://twitter.com/search?q=WILD+TONIGHT) | N/A |
-| 3 | [#ShowtimeIsipBata](http://twitter.com/search?q=%23ShowtimeIsipBata) | N/A |
-| 4 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
-| 5 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 6 | [#MidnightMuseum](http://twitter.com/search?q=%23MidnightMuseum) | N/A |
-| 7 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
-| 8 | [#openingtrailer_readytobe](http://twitter.com/search?q=%23openingtrailer_readytobe) | N/A |
-| 9 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
-| 10 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 11 | [invincibl3 day](http://twitter.com/search?q=invincibl3+day) | N/A |
-| 12 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 13 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
-| 14 | [HAPPY 8200TH DAYS](http://twitter.com/search?q=HAPPY+8200TH+DAYS) | N/A |
-| 15 | [Team Scottie](http://twitter.com/search?q=Team+Scottie) | N/A |
-| 16 | [piewer vote for anji](http://twitter.com/search?q=piewer+vote+for+anji) | N/A |
-| 17 | [Sunoo Brave](http://twitter.com/search?q=Sunoo+Brave) | N/A |
-| 18 | [Sunoo Bright](http://twitter.com/search?q=Sunoo+Bright) | N/A |
-| 19 | [Sunoo Beautiful](http://twitter.com/search?q=Sunoo+Beautiful) | N/A |
-| 20 | [Sunoo Bubbly](http://twitter.com/search?q=Sunoo+Bubbly) | N/A |
-| 21 | [4TH MONTHSARY KARLIA](http://twitter.com/search?q=4TH+MONTHSARY+KARLIA) | N/A |
-| 22 | [Japeth](http://twitter.com/search?q=Japeth) | N/A |
-| 23 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 24 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 25 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 26 | [zacham piegalingan saepl](http://twitter.com/search?q=zacham+piegalingan+saepl) | N/A |
-| 27 | [Caratbong v3](http://twitter.com/search?q=Caratbong+v3) | N/A |
-| 28 | [Team LeBron](http://twitter.com/search?q=Team+LeBron) | N/A |
-| 29 | [PIEKADA WITH GABBLUKE](http://twitter.com/search?q=PIEKADA+WITH+GABBLUKE) | N/A |
-| 30 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
-| 31 | [IVE IN MANILA](http://twitter.com/search?q=IVE+IN+MANILA) | N/A |
-| 32 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
-| 33 | [Deco Ring Set](http://twitter.com/search?q=Deco+Ring+Set) | N/A |
-| 34 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 35 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
-| 36 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 37 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 38 | [Argus](http://twitter.com/search?q=Argus) | N/A |
-| 39 | [PBBM GOOD NEWS](http://twitter.com/search?q=PBBM+GOOD+NEWS) | N/A |
-| 40 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 41 | [Richard del Rosario](http://twitter.com/search?q=Richard+del+Rosario) | N/A |
-| 42 | [bss grandslam congratulations](http://twitter.com/search?q=bss+grandslam+congratulations) | N/A |
-| 43 | [Sebong](http://twitter.com/search?q=Sebong) | N/A |
-| 44 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 45 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 46 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
-| 47 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
-| 48 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 49 | [UPDATED TAGS](http://twitter.com/search?q=UPDATED+TAGS) | N/A |
-| 50 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 3 | [#MCILampara](http://twitter.com/search?q=%23MCILampara) | N/A |
+| 4 | [#JCLEDTakeover](http://twitter.com/search?q=%23JCLEDTakeover) | N/A |
+| 5 | [#วาดไว้NuNew](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b2%e0%b8%94%e0%b9%84%e0%b8%a7%e0%b9%89NuNew) | N/A |
+| 6 | [#KaoMiah](http://twitter.com/search?q=%23KaoMiah) | N/A |
+| 7 | [CertiPIEd ALPHA BOYS](http://twitter.com/search?q=CertiPIEd+ALPHA+BOYS) | N/A |
+| 8 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
+| 9 | [Scottie](http://twitter.com/search?q=Scottie) | Scottie is a nickname for the Scottish Terrier, a small breed of dog. It is also used as a nickname for people from Scotland or with Scottish heritage. |
+| 10 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
+| 11 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 12 | [Caratbong v3](http://twitter.com/search?q=Caratbong+v3) | N/A |
+| 13 | [4TH MONTHSARY KARLIA](http://twitter.com/search?q=4TH+MONTHSARY+KARLIA) | N/A |
+| 14 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
+| 15 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 16 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
+| 17 | [Normal ETA](http://twitter.com/search?q=Normal+ETA) | N/A |
+| 18 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 19 | [Westlife](http://twitter.com/search?q=Westlife) | N/A |
+| 20 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 21 | [Berry](http://twitter.com/search?q=Berry) | N/A |
+| 22 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
+| 23 | [ningning](http://twitter.com/search?q=ningning) | N/A |
+| 24 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
+| 25 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
+| 26 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 27 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 28 | [#AlphaBoysRoadToPIEever](http://twitter.com/search?q=%23AlphaBoysRoadToPIEever) | N/A |
+| 29 | [#AlphaBoysOnPIE](http://twitter.com/search?q=%23AlphaBoysOnPIE) | N/A |
+| 30 | [#MidnightMuseum](http://twitter.com/search?q=%23MidnightMuseum) | N/A |
+| 31 | [#ShineThroughGoodWorks](http://twitter.com/search?q=%23ShineThroughGoodWorks) | N/A |
+| 32 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
+| 33 | [#KENTIN](http://twitter.com/search?q=%23KENTIN) | N/A |
+| 34 | [#SMCUEp3_GirlsTeaser](http://twitter.com/search?q=%23SMCUEp3_GirlsTeaser) | N/A |
+| 35 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 36 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
+| 37 | [#ShowtimeIsipBata](http://twitter.com/search?q=%23ShowtimeIsipBata) | N/A |
+| 38 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 39 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 40 | [#SetMeFree](http://twitter.com/search?q=%23SetMeFree) | N/A |
 
 
 

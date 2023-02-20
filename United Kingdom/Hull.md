@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-02-20 11:16:30 UTC`
+📆 Last Updated: `2023-02-20 12:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 2 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
-| 3 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 4 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 5 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 6 | [#PLTpetday](http://twitter.com/search?q=%23PLTpetday) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
-| 9 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 10 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
-| 11 | [Angus Robertson](http://twitter.com/search?q=Angus+Robertson) | N/A |
-| 12 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 13 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 14 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 15 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 1 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 2 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 3 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 4 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 5 | [Joan](http://twitter.com/search?q=Joan) | N/A |
+| 6 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 7 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 8 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
+| 9 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 10 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 11 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 12 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 13 | [Angus Robertson](http://twitter.com/search?q=Angus+Robertson) | N/A |
+| 14 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 15 | [Philip Pullman](http://twitter.com/search?q=Philip+Pullman) | N/A |
 | 16 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 17 | [Yousaf](http://twitter.com/search?q=Yousaf) | N/A |
-| 18 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 19 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 20 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 17 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 18 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
+| 19 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 20 | [Ian Blackford](http://twitter.com/search?q=Ian+Blackford) | N/A |
 | 21 | [Thin Lizzy](http://twitter.com/search?q=Thin+Lizzy) | N/A |
-| 22 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 22 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
 | 23 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 24 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
-| 25 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
-| 26 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 27 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 28 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
-| 29 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 30 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 31 | [World of Sport](http://twitter.com/search?q=World+of+Sport) | N/A |
-| 32 | [Regan](http://twitter.com/search?q=Regan) | N/A |
-| 33 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
-| 34 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 35 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 36 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 37 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 38 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 39 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 40 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 41 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
-| 42 | [#FreeSchoolMeals](http://twitter.com/search?q=%23FreeSchoolMeals) | N/A |
-| 43 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
-| 44 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 45 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 46 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 47 | [#fsprintmonday](http://twitter.com/search?q=%23fsprintmonday) | N/A |
-| 48 | [#ambulancestrike](http://twitter.com/search?q=%23ambulancestrike) | N/A |
-| 49 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 24 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 25 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 26 | [Kenyan](http://twitter.com/search?q=Kenyan) | N/A |
+| 27 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 28 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
+| 29 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
+| 30 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 31 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 32 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
+| 33 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
+| 34 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
+| 35 | [Mr President](http://twitter.com/search?q=Mr+President) | N/A |
+| 36 | [Gaelic](http://twitter.com/search?q=Gaelic) | N/A |
+| 37 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 38 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 39 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 40 | [World of Sport](http://twitter.com/search?q=World+of+Sport) | N/A |
+| 41 | [Alison](http://twitter.com/search?q=Alison) | N/A |
+| 42 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 43 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 44 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 45 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 46 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
+| 47 | [#PLTpetday](http://twitter.com/search?q=%23PLTpetday) | N/A |
+| 48 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 49 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
 
 
 
