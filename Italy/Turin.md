@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-20 19:16:32 UTC`
+📆 Last Updated: `2023-02-20 20:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#20febbraio](http://twitter.com/search?q=%2320febbraio) | N/A |
-| 2 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 3 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
-| 4 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 5 | [#SpeziaJuve](http://twitter.com/search?q=%23SpeziaJuve) | N/A |
-| 6 | [#RomaVerona](http://twitter.com/search?q=%23RomaVerona) | N/A |
-| 7 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 8 | [#nostroTempo](http://twitter.com/search?q=%23nostroTempo) | N/A |
-| 9 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 10 | [Charles](http://twitter.com/search?q=Charles) | N/A |
-| 11 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 12 | [Tozzi](http://twitter.com/search?q=Tozzi) | N/A |
-| 13 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 14 | [Capitan Harlock](http://twitter.com/search?q=Capitan+Harlock) | N/A |
-| 15 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 16 | [valvole](http://twitter.com/search?q=valvole) | N/A |
-| 17 | [Carnevale](http://twitter.com/search?q=Carnevale) | N/A |
-| 18 | [GIGANTE](http://twitter.com/search?q=GIGANTE) | N/A |
+| 1 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
+| 2 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 3 | [#20febbraio](http://twitter.com/search?q=%2320febbraio) | N/A |
+| 4 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
+| 5 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 6 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
+| 7 | [#ottoemezzo](http://twitter.com/search?q=%23ottoemezzo) | N/A |
+| 8 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 9 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 10 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
+| 11 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 12 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 13 | [Tozzi](http://twitter.com/search?q=Tozzi) | N/A |
+| 14 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 15 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
+| 16 | [Capitan Harlock](http://twitter.com/search?q=Capitan+Harlock) | N/A |
+| 17 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 18 | [Carnevale](http://twitter.com/search?q=Carnevale) | N/A |
 | 19 | [Trevisani](http://twitter.com/search?q=Trevisani) | N/A |
-| 20 | [Sabatini](http://twitter.com/search?q=Sabatini) | N/A |
-| 21 | [Facebook e Instagram](http://twitter.com/search?q=Facebook+e+Instagram) | N/A |
-| 22 | [Prince of Persia](http://twitter.com/search?q=Prince+of+Persia) | N/A |
-| 23 | [Tonon](http://twitter.com/search?q=Tonon) | N/A |
-| 24 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
-| 25 | [Sinisa](http://twitter.com/search?q=Sinisa) | N/A |
-| 26 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 27 | [Fedayn](http://twitter.com/search?q=Fedayn) | N/A |
-| 28 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
-| 29 | [Murray](http://twitter.com/search?q=Murray) | N/A |
-| 30 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
-| 31 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
-| 32 | [Bove](http://twitter.com/search?q=Bove) | N/A |
-| 33 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
-| 34 | [Abodi](http://twitter.com/search?q=Abodi) | N/A |
-| 35 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 36 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 37 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 38 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
+| 20 | [Tocci](http://twitter.com/search?q=Tocci) | N/A |
+| 21 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 22 | [Sabatini](http://twitter.com/search?q=Sabatini) | N/A |
+| 23 | [Valvole](http://twitter.com/search?q=Valvole) | N/A |
+| 24 | [Prince of Persia](http://twitter.com/search?q=Prince+of+Persia) | N/A |
+| 25 | [Tonon](http://twitter.com/search?q=Tonon) | N/A |
+| 26 | [Facebook e Instagram](http://twitter.com/search?q=Facebook+e+Instagram) | N/A |
+| 27 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 28 | [GIGANTE](http://twitter.com/search?q=GIGANTE) | N/A |
+| 29 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
+| 30 | [Sinisa](http://twitter.com/search?q=Sinisa) | N/A |
+| 31 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 32 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
+| 33 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 34 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
+| 35 | [Bove](http://twitter.com/search?q=Bove) | N/A |
+| 36 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 37 | [Fedayn](http://twitter.com/search?q=Fedayn) | N/A |
+| 38 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
 | 39 | [Caracciolo](http://twitter.com/search?q=Caracciolo) | N/A |
-| 40 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 41 | [Massara](http://twitter.com/search?q=Massara) | N/A |
-| 42 | [Panchina](http://twitter.com/search?q=Panchina) | N/A |
-| 43 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 44 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 45 | [Ivan](http://twitter.com/search?q=Ivan) | N/A |
-| 46 | [Zampini](http://twitter.com/search?q=Zampini) | N/A |
-| 47 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 48 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
-| 49 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
-| 50 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 40 | [Charles](http://twitter.com/search?q=Charles) | N/A |
+| 41 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 42 | [Massara](http://twitter.com/search?q=Massara) | N/A |
+| 43 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 44 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 45 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
+| 46 | [Kate Middleton](http://twitter.com/search?q=Kate+Middleton) | N/A |
+| 47 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 48 | [Panchina](http://twitter.com/search?q=Panchina) | N/A |
+| 49 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
+| 50 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
 
 
 

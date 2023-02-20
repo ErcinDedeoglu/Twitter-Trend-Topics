@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-02-20 19:16:59 UTC`
+📆 Last Updated: `2023-02-20 20:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 2 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 1 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 2 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
 | 3 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 4 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 4 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
 | 5 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 6 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 9 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
-| 10 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 11 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 12 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 13 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
+| 6 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 7 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
+| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 10 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 11 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
+| 12 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
+| 13 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 14 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 15 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 16 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 17 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 18 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
-| 19 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
-| 20 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 21 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
-| 22 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 15 | [#Sprina](http://twitter.com/search?q=%23Sprina) | N/A |
+| 16 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 17 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
+| 18 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
+| 19 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 20 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 21 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
+| 22 | [#SignsYoureOutdated](http://twitter.com/search?q=%23SignsYoureOutdated) | N/A |
 | 23 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
-| 24 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 24 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 25 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 26 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 27 | [#SignsYoureOutdated](http://twitter.com/search?q=%23SignsYoureOutdated) | N/A |
-| 28 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
-| 29 | [America Last](http://twitter.com/search?q=America+Last) | N/A |
-| 30 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 31 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 32 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
-| 33 | [Sedition](http://twitter.com/search?q=Sedition) | N/A |
-| 34 | [Roots Picnic](http://twitter.com/search?q=Roots+Picnic) | N/A |
+| 26 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 27 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 28 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 29 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 30 | [America Last](http://twitter.com/search?q=America+Last) | N/A |
+| 31 | [Staal](http://twitter.com/search?q=Staal) | N/A |
+| 32 | [Sedition](http://twitter.com/search?q=Sedition) | N/A |
+| 33 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 34 | [Player of the Week](http://twitter.com/search?q=Player+of+the+Week) | N/A |
 | 35 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 36 | [Abraham Lincoln](http://twitter.com/search?q=Abraham+Lincoln) | N/A |
-| 37 | [AP Poll](http://twitter.com/search?q=AP+Poll) | The AP Poll (or the Associated Press Poll) is a weekly ranking of the top 25 college football teams in the United States, as determined by a panel of sportswriters and broadcasters. The poll is conducted by the Associated Press (AP), a news agency based in New York City. The rankings are released each Sunday during the college football season, with the exception of the final poll, which is released after the conclusion of the College Football Playoff National Championship. |
+| 36 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 37 | [Staten Island](http://twitter.com/search?q=Staten+Island) | N/A |
 | 38 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 39 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
-| 40 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
+| 39 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
+| 40 | [Homeland Security Committee](http://twitter.com/search?q=Homeland+Security+Committee) | The Homeland Security Committee is a standing committee of the United States House of Representatives. It is responsible for overseeing and funding the Department of Homeland Security, as well as related agencies and programs. The committee also has jurisdiction over matters related to national security, border security, immigration policy, cybersecurity, and emergency preparedness. |
 | 41 | [Leonhard](http://twitter.com/search?q=Leonhard) | N/A |
-| 42 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
-| 43 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 44 | [America First](http://twitter.com/search?q=America+First) | N/A |
-| 45 | [AP Top 25](http://twitter.com/search?q=AP+Top+25) | N/A |
-| 46 | [Clips](http://twitter.com/search?q=Clips) | N/A |
+| 42 | [Roots Picnic](http://twitter.com/search?q=Roots+Picnic) | N/A |
+| 43 | [Blueface](http://twitter.com/search?q=Blueface) | Blueface is the stage name of American rapper and singer Johnathan Porter. The name is derived from his habit of wearing blue bandanas around his face. The term has also come to be used as a slang term for someone who is considered to be a "tough guy" or a "gangster". |
+| 44 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
+| 45 | [Abraham Lincoln](http://twitter.com/search?q=Abraham+Lincoln) | N/A |
+| 46 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 | 47 | [Gotti](http://twitter.com/search?q=Gotti) | N/A |
-| 48 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 49 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 50 | [Jefferson Davis](http://twitter.com/search?q=Jefferson+Davis) | N/A |
+| 48 | [Iron Man](http://twitter.com/search?q=Iron+Man) | N/A |
+| 49 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
+| 50 | [Secession](http://twitter.com/search?q=Secession) | N/A |
 
 
 

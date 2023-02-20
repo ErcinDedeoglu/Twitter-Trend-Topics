@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-02-20 19:16:30 UTC`
+📆 Last Updated: `2023-02-20 20:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Düsseldorf](http://twitter.com/search?q=D%c3%bcsseldorf) | N/A |
-| 2 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 1 | [#Köln](http://twitter.com/search?q=%23K%c3%b6ln) | N/A |
+| 2 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
 | 3 | [#Rosenmontag](http://twitter.com/search?q=%23Rosenmontag) | N/A |
-| 4 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 5 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
-| 6 | [#BVBBSC](http://twitter.com/search?q=%23BVBBSC) | N/A |
-| 7 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 8 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 4 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 5 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 6 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 8 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
 | 9 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 10 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 11 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 12 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 13 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 14 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 16 | [Florian](http://twitter.com/search?q=Florian) | N/A |
-| 17 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 18 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 19 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 20 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 21 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 22 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 23 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 24 | [Jörg](http://twitter.com/search?q=J%c3%b6rg) | N/A |
-| 25 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 11 | [Florian](http://twitter.com/search?q=Florian) | N/A |
+| 12 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 13 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
+| 14 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 15 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 16 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 17 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 18 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
+| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 20 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 21 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 22 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 23 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
+| 24 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 25 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
 | 26 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
-| 27 | [Andrea](http://twitter.com/search?q=Andrea) | Andrea is a feminine given name of Italian origin. It is derived from the Greek word andreios, meaning "manly" or "masculine". In English, Andrea is often translated as "daring" or "brave". |
-| 28 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 29 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 30 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 31 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 32 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 33 | [Platz für Geflüchtete](http://twitter.com/search?q=Platz+f%c3%bcr+Gefl%c3%bcchtete) | N/A |
-| 34 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 35 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 36 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 37 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 38 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 39 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
-| 40 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 27 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 28 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 29 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 30 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 31 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 32 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 33 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 34 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 35 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 36 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
+| 37 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 38 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 39 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 40 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
 | 41 | [Strommix](http://twitter.com/search?q=Strommix) | N/A |
 | 42 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 43 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
-| 44 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
-| 45 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 46 | [Niederrhein](http://twitter.com/search?q=Niederrhein) | N/A |
-| 47 | [Ladendiebin](http://twitter.com/search?q=Ladendiebin) | N/A |
-| 48 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 49 | [Natascha](http://twitter.com/search?q=Natascha) | N/A |
-| 50 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 43 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 44 | [Platz für Geflüchtete](http://twitter.com/search?q=Platz+f%c3%bcr+Gefl%c3%bcchtete) | N/A |
+| 45 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 46 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
+| 47 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
+| 48 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
+| 49 | [Nahles](http://twitter.com/search?q=Nahles) | N/A |
+| 50 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
 
 
 

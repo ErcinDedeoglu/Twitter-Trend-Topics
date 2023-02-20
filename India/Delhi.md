@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-20 19:17:05 UTC`
+📆 Last Updated: `2023-02-20 20:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Selfiee](http://twitter.com/search?q=%23Selfiee) | N/A |
-| 2 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 3 | [#SonuNigam](http://twitter.com/search?q=%23SonuNigam) | N/A |
-| 4 | [सोनू निगम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae) | N/A |
-| 5 | [#TejasswiPrakash](http://twitter.com/search?q=%23TejasswiPrakash) | N/A |
-| 6 | [#NationalistWithModiJi](http://twitter.com/search?q=%23NationalistWithModiJi) | N/A |
-| 7 | [Turkey-Syria](http://twitter.com/search?q=Turkey-Syria) | N/A |
+| 1 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 2 | [#SonuNigam](http://twitter.com/search?q=%23SonuNigam) | N/A |
+| 3 | [सोनू निगम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae) | N/A |
+| 4 | [#turkeyearthquake2023](http://twitter.com/search?q=%23turkeyearthquake2023) | N/A |
+| 5 | [Turkey-Syria](http://twitter.com/search?q=Turkey-Syria) | N/A |
+| 6 | [#nationalistwithmodiji](http://twitter.com/search?q=%23nationalistwithmodiji) | N/A |
+| 7 | [#TejasswiPrakash](http://twitter.com/search?q=%23TejasswiPrakash) | N/A |
 | 8 | [Chembur](http://twitter.com/search?q=Chembur) | N/A |
-| 9 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 10 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 9 | [TEJASSWI GRACING DPIFF2023](http://twitter.com/search?q=TEJASSWI+GRACING+DPIFF2023) | N/A |
+| 10 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
 | 11 | [Sushant Divine Power](http://twitter.com/search?q=Sushant+Divine+Power) | N/A |
-| 12 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
-| 13 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 12 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 13 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
 | 14 | [प्रकाश कोहली](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
 | 15 | [शीला दीक्षित](http://twitter.com/search?q=%e0%a4%b6%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
-| 16 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 17 | [Pawan Khera](http://twitter.com/search?q=Pawan+Khera) | N/A |
-| 18 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
-| 19 | [Smriti Mandhana](http://twitter.com/search?q=Smriti+Mandhana) | N/A |
-| 20 | [Teju](http://twitter.com/search?q=Teju) | N/A |
-| 21 | [AICC](http://twitter.com/search?q=AICC) | N/A |
-| 22 | [Foundational Stage](http://twitter.com/search?q=Foundational+Stage) | N/A |
-| 23 | [अखिल भारतीय कांग्रेस कमेटी](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
-| 24 | [पवन खेरा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%b0%e0%a4%be) | N/A |
-| 25 | [ABVP](http://twitter.com/search?q=ABVP) | N/A |
-| 26 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
-| 27 | [NDRF](http://twitter.com/search?q=NDRF) | N/A |
-| 28 | [Jaishankar](http://twitter.com/search?q=Jaishankar) | N/A |
-| 29 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 30 | [Thala](http://twitter.com/search?q=Thala) | N/A |
-| 31 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 32 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 33 | [#INDvIRE](http://twitter.com/search?q=%23INDvIRE) | N/A |
-| 34 | [#turkeyearthquake2023](http://twitter.com/search?q=%23turkeyearthquake2023) | N/A |
-| 35 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 36 | [#3YearsWithMOTS7](http://twitter.com/search?q=%233YearsWithMOTS7) | N/A |
-| 37 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
-| 38 | [#NoToPriceHike](http://twitter.com/search?q=%23NoToPriceHike) | N/A |
-| 39 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
-| 40 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
-| 41 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
-| 42 | [#TejaTroops](http://twitter.com/search?q=%23TejaTroops) | N/A |
-| 43 | [#IamJSPActiveMember](http://twitter.com/search?q=%23IamJSPActiveMember) | N/A |
-| 44 | [#MujhePyaarHuaTha](http://twitter.com/search?q=%23MujhePyaarHuaTha) | N/A |
-| 45 | [#Pathaan1000crWorldWide](http://twitter.com/search?q=%23Pathaan1000crWorldWide) | N/A |
-| 46 | [#HealthTips](http://twitter.com/search?q=%23HealthTips) | N/A |
-| 47 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
-| 48 | [#NoToBroadcasterCartel](http://twitter.com/search?q=%23NoToBroadcasterCartel) | N/A |
-| 49 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
-| 50 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 16 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
+| 17 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
+| 18 | [Pawan Khera](http://twitter.com/search?q=Pawan+Khera) | N/A |
+| 19 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 20 | [AICC](http://twitter.com/search?q=AICC) | N/A |
+| 21 | [ABVP](http://twitter.com/search?q=ABVP) | N/A |
+| 22 | [अखिल भारतीय कांग्रेस कमेटी](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
+| 23 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 24 | [Jaishankar](http://twitter.com/search?q=Jaishankar) | N/A |
+| 25 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 26 | [Thala](http://twitter.com/search?q=Thala) | N/A |
+| 27 | [#INDvIRE](http://twitter.com/search?q=%23INDvIRE) | N/A |
+| 28 | [#3YearsWithMOTS7](http://twitter.com/search?q=%233YearsWithMOTS7) | N/A |
+| 29 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 30 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
+| 31 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
+| 32 | [#TejaTroops](http://twitter.com/search?q=%23TejaTroops) | N/A |
+| 33 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 34 | [#IamJSPActiveMember](http://twitter.com/search?q=%23IamJSPActiveMember) | N/A |
+| 35 | [#OperationDost](http://twitter.com/search?q=%23OperationDost) | N/A |
+| 36 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 37 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
+| 38 | [#MujhePyaarHuaTha](http://twitter.com/search?q=%23MujhePyaarHuaTha) | N/A |
+| 39 | [#NoToPriceHike](http://twitter.com/search?q=%23NoToPriceHike) | N/A |
+| 40 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
+| 41 | [#HealthTips](http://twitter.com/search?q=%23HealthTips) | N/A |
+| 42 | [#Pathaan1000crWorldWide](http://twitter.com/search?q=%23Pathaan1000crWorldWide) | N/A |
+| 43 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
+| 44 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 45 | [#NoToBroadcasterCartel](http://twitter.com/search?q=%23NoToBroadcasterCartel) | N/A |
+| 46 | [#Bankofbaroda](http://twitter.com/search?q=%23Bankofbaroda) | N/A |
+| 47 | [#UdhayanidhiStalin](http://twitter.com/search?q=%23UdhayanidhiStalin) | N/A |
+| 48 | [#PakistanBankrupt](http://twitter.com/search?q=%23PakistanBankrupt) | N/A |
+| 49 | [#DulquerSalmaan](http://twitter.com/search?q=%23DulquerSalmaan) | N/A |
+| 50 | [#JaaduiPitara](http://twitter.com/search?q=%23JaaduiPitara) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-20 19:16:25 UTC`
+📆 Last Updated: `2023-02-20 20:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 2 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 3 | [JULIETTE NO BLOCO FORROZIN](http://twitter.com/search?q=JULIETTE+NO+BLOCO+FORROZIN) | N/A |
-| 4 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 5 | [Intolerância](http://twitter.com/search?q=Intoler%c3%a2ncia) | N/A |
-| 6 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 7 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
-| 8 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
-| 9 | [daniel ricciardo](http://twitter.com/search?q=daniel+ricciardo) | N/A |
-| 10 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 11 | [Enner Valência](http://twitter.com/search?q=Enner+Val%c3%aancia) | N/A |
-| 12 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 13 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 14 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
-| 15 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 16 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 17 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
-| 18 | [Gustavo e Cristian](http://twitter.com/search?q=Gustavo+e+Cristian) | N/A |
-| 19 | [Vaga](http://twitter.com/search?q=Vaga) | N/A |
-| 20 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 2 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
+| 3 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 4 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
+| 5 | [JULIETTE NO BLOCO FORROZIN](http://twitter.com/search?q=JULIETTE+NO+BLOCO+FORROZIN) | N/A |
+| 6 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 7 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
+| 8 | [Intolerância](http://twitter.com/search?q=Intoler%c3%a2ncia) | N/A |
+| 9 | [Daniel Ricciardo](http://twitter.com/search?q=Daniel+Ricciardo) | N/A |
+| 10 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 11 | [#ForaCristian](http://twitter.com/search?q=%23ForaCristian) | N/A |
+| 12 | [Os Incríveis](http://twitter.com/search?q=Os+Incr%c3%adveis) | N/A |
+| 13 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 14 | [#bahiafolia](http://twitter.com/search?q=%23bahiafolia) | N/A |
+| 15 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
+| 16 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 17 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 18 | [Aparecida](http://twitter.com/search?q=Aparecida) | N/A |
+| 19 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
+| 20 | [Gustavo e Cristian](http://twitter.com/search?q=Gustavo+e+Cristian) | N/A |
 | 21 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 22 | [Os Incríveis](http://twitter.com/search?q=Os+Incr%c3%adveis) | N/A |
-| 23 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 24 | [#내사랑은영원해_용선아_생일축하해](http://twitter.com/search?q=%23%eb%82%b4%ec%82%ac%eb%9e%91%ec%9d%80%ec%98%81%ec%9b%90%ed%95%b4_%ec%9a%a9%ec%84%a0%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 25 | [#OurDazzlingPrideSolar](http://twitter.com/search?q=%23OurDazzlingPrideSolar) | N/A |
-| 26 | [Religiosos](http://twitter.com/search?q=Religiosos) | N/A |
-| 27 | [Paulinho Motocross](http://twitter.com/search?q=Paulinho+Motocross) | N/A |
-| 28 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 29 | [Crente](http://twitter.com/search?q=Crente) | N/A |
-| 30 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
-| 31 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 32 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
-| 33 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 35 | [Vandoorne](http://twitter.com/search?q=Vandoorne) | N/A |
-| 36 | [Bahrein](http://twitter.com/search?q=Bahrein) | N/A |
-| 37 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 38 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
+| 22 | [Vaga](http://twitter.com/search?q=Vaga) | N/A |
+| 23 | [Kannário](http://twitter.com/search?q=Kann%c3%a1rio) | N/A |
+| 24 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
+| 25 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 26 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 27 | [#LitoralNorteSP](http://twitter.com/search?q=%23LitoralNorteSP) | N/A |
+| 28 | [Crente](http://twitter.com/search?q=Crente) | N/A |
+| 29 | [Rio-Santos](http://twitter.com/search?q=Rio-Santos) | N/A |
+| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 31 | [Vandoorne](http://twitter.com/search?q=Vandoorne) | N/A |
+| 32 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
+| 33 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
+| 34 | [Religiosos](http://twitter.com/search?q=Religiosos) | N/A |
+| 35 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 36 | [Paulinho motocross](http://twitter.com/search?q=Paulinho+motocross) | N/A |
+| 37 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 38 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
 | 39 | [Aperta](http://twitter.com/search?q=Aperta) | N/A |
-| 40 | [Estadista](http://twitter.com/search?q=Estadista) | N/A |
-| 41 | [HAPPY SOLAR DAY](http://twitter.com/search?q=HAPPY+SOLAR+DAY) | N/A |
-| 42 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 43 | [Rio-Santos](http://twitter.com/search?q=Rio-Santos) | N/A |
-| 44 | [Equipe](http://twitter.com/search?q=Equipe) | N/A |
-| 45 | [Litoral Norte](http://twitter.com/search?q=Litoral+Norte) | N/A |
-| 46 | [Kurt](http://twitter.com/search?q=Kurt) | N/A |
-| 47 | [READY TO BE AMAZED](http://twitter.com/search?q=READY+TO+BE+AMAZED) | N/A |
-| 48 | [Hércules](http://twitter.com/search?q=H%c3%a9rcules) | N/A |
-| 49 | [BBB 19](http://twitter.com/search?q=BBB+19) | N/A |
-| 50 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 40 | [Kurt](http://twitter.com/search?q=Kurt) | N/A |
+| 41 | [Mocidade](http://twitter.com/search?q=Mocidade) | N/A |
+| 42 | [Aranguiz](http://twitter.com/search?q=Aranguiz) | N/A |
+| 43 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 44 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 45 | [HAPPY SOLAR DAY](http://twitter.com/search?q=HAPPY+SOLAR+DAY) | N/A |
+| 46 | [Equipe](http://twitter.com/search?q=Equipe) | N/A |
+| 47 | [Vagner](http://twitter.com/search?q=Vagner) | N/A |
+| 48 | [Estadista](http://twitter.com/search?q=Estadista) | N/A |
+| 49 | [Diabo](http://twitter.com/search?q=Diabo) | N/A |
+| 50 | [READY TO BE AMAZED](http://twitter.com/search?q=READY+TO+BE+AMAZED) | N/A |
 
 
 

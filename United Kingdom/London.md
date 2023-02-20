@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-20 19:16:19 UTC`
+📆 Last Updated: `2023-02-20 20:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TippingPoint](http://twitter.com/search?q=%23TippingPoint) | N/A |
-| 2 | [Birmingham City](http://twitter.com/search?q=Birmingham+City) | N/A |
+| 1 | [#c4news](http://twitter.com/search?q=%23c4news) | N/A |
+| 2 | [#BSHLOUT](http://twitter.com/search?q=%23BSHLOUT) | N/A |
 | 3 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 4 | [Lancashire](http://twitter.com/search?q=Lancashire) | N/A |
-| 5 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 4 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 5 | [Cheese](http://twitter.com/search?q=Cheese) | N/A |
 | 6 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 7 | [Rest in Peace](http://twitter.com/search?q=Rest+in+Peace) | N/A |
-| 8 | [Devon](http://twitter.com/search?q=Devon) | N/A |
-| 9 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 10 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
-| 11 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 12 | [European Union](http://twitter.com/search?q=European+Union) | N/A |
-| 13 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 14 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 15 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
-| 16 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
-| 17 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
-| 18 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 19 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
-| 20 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 21 | [#FSGOUT](http://twitter.com/search?q=%23FSGOUT) | N/A |
-| 22 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 23 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 24 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 7 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 8 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 9 | [#FreeSchoolMeals](http://twitter.com/search?q=%23FreeSchoolMeals) | N/A |
+| 10 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 11 | [#EastEnders](http://twitter.com/search?q=%23EastEnders) | #EastEnders is a British soap opera that has been running since 1985. It follows the lives of the residents of Albert Square in the East End of London. The show is known for its dramatic storylines and its exploration of social issues. |
+| 12 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 13 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 14 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
+| 15 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 16 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
+| 17 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 18 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 19 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
+| 20 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 21 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
+| 22 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 23 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
+| 24 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
 | 25 | [Watford](http://twitter.com/search?q=Watford) | N/A |
 | 26 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 27 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 27 | [Humza](http://twitter.com/search?q=Humza) | N/A |
 | 28 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
 | 29 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
-| 30 | [Bristol De Mai](http://twitter.com/search?q=Bristol+De+Mai) | N/A |
-| 31 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
-| 32 | [National Action](http://twitter.com/search?q=National+Action) | N/A |
+| 30 | [Firewood](http://twitter.com/search?q=Firewood) | N/A |
+| 31 | [Richardson](http://twitter.com/search?q=Richardson) | N/A |
+| 32 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
 | 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 34 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
-| 35 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 36 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
-| 37 | [Lance Stroll](http://twitter.com/search?q=Lance+Stroll) | N/A |
-| 38 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 39 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 40 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 41 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
-| 42 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
-| 43 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 44 | [Garcia](http://twitter.com/search?q=Garcia) | Garcia is a Spanish surname. It is derived from the Basque word "gar" meaning "bear". The name is often associated with strength and courage. In English, Garcia means "brave and strong". |
+| 34 | [The EFL](http://twitter.com/search?q=The+EFL) | N/A |
+| 35 | [Lopez](http://twitter.com/search?q=Lopez) | N/A |
+| 36 | [Classic Tory](http://twitter.com/search?q=Classic+Tory) | N/A |
+| 37 | [Bristol De Mai](http://twitter.com/search?q=Bristol+De+Mai) | N/A |
+| 38 | [National Action](http://twitter.com/search?q=National+Action) | N/A |
+| 39 | [Kathy](http://twitter.com/search?q=Kathy) | N/A |
+| 40 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 41 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 42 | [Birmingham City](http://twitter.com/search?q=Birmingham+City) | N/A |
+| 43 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
+| 44 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
 | 45 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 46 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
-| 47 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
-| 48 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
-| 49 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 50 | [Iron Man](http://twitter.com/search?q=Iron+Man) | N/A |
+| 46 | [Lance](http://twitter.com/search?q=Lance) | N/A |
+| 47 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 48 | [Speedy](http://twitter.com/search?q=Speedy) | Speedy is an adjective that means moving or acting quickly. It can also refer to someone who is quick-thinking or efficient. |
+| 49 | [Briton](http://twitter.com/search?q=Briton) | N/A |
+| 50 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
 
 
 

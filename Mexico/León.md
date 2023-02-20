@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For León
 
-📆 Last Updated: `2023-02-20 19:16:21 UTC`
+📆 Last Updated: `2023-02-20 20:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,48 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CiudadanosContraPlanB](http://twitter.com/search?q=%23CiudadanosContraPlanB) | N/A |
-| 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 3 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 2 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 3 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 4 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
 | 5 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 6 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
-| 7 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 8 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 9 | [Hoy 20](http://twitter.com/search?q=Hoy+20) | N/A |
-| 10 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 11 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 12 | [Catalina Creel](http://twitter.com/search?q=Catalina+Creel) | N/A |
-| 13 | [The Mars Volta](http://twitter.com/search?q=The+Mars+Volta) | N/A |
-| 14 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 15 | [little freak](http://twitter.com/search?q=little+freak) | N/A |
-| 16 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 17 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 7 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 8 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
+| 9 | [El 20](http://twitter.com/search?q=El+20) | N/A |
+| 10 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 11 | [Hoy 20](http://twitter.com/search?q=Hoy+20) | N/A |
+| 12 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 13 | [FAN ID](http://twitter.com/search?q=FAN+ID) | N/A |
+| 14 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 15 | [The Mars Volta](http://twitter.com/search?q=The+Mars+Volta) | N/A |
+| 16 | [América Latina](http://twitter.com/search?q=Am%c3%a9rica+Latina) | N/A |
+| 17 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
 | 18 | [Nirvana](http://twitter.com/search?q=Nirvana) | N/A |
-| 19 | [Línea 9](http://twitter.com/search?q=L%c3%adnea+9) | N/A |
-| 20 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
-| 21 | [José Ramón Gómez Leal](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+G%c3%b3mez+Leal) | N/A |
-| 22 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 19 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 20 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 21 | [Línea 9](http://twitter.com/search?q=L%c3%adnea+9) | N/A |
+| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 23 | [José Ramón Gómez Leal](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+G%c3%b3mez+Leal) | N/A |
+| 24 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
 | 25 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
-| 26 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 27 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 28 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
-| 29 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
-| 30 | [Aeropuerto](http://twitter.com/search?q=Aeropuerto) | N/A |
-| 31 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 32 | [Dania](http://twitter.com/search?q=Dania) | N/A |
-| 33 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
+| 26 | [Pinocho](http://twitter.com/search?q=Pinocho) | N/A |
+| 27 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 28 | [Democracia](http://twitter.com/search?q=Democracia) | Democracia is a Spanish word meaning democracy. It is used to refer to a system of government in which the people have the power to choose their leaders through free and fair elections. Democracia is based on the principle of majority rule, with the majority of citizens having a say in how their country is run. |
+| 29 | [Aeropuerto](http://twitter.com/search?q=Aeropuerto) | N/A |
+| 30 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 31 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
+| 32 | [#CiudadSustentable](http://twitter.com/search?q=%23CiudadSustentable) | N/A |
+| 33 | [#MetrobúsEléctrico](http://twitter.com/search?q=%23Metrob%c3%basEl%c3%a9ctrico) | N/A |
 | 34 | [#JusticiaSocial](http://twitter.com/search?q=%23JusticiaSocial) | N/A |
-| 35 | [#3YearsWithMOTS7](http://twitter.com/search?q=%233YearsWithMOTS7) | N/A |
-| 36 | [#PROTECTROSÉ](http://twitter.com/search?q=%23PROTECTROS%c3%89) | N/A |
-| 37 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
+| 35 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
+| 36 | [#3YearsWithMOTS7](http://twitter.com/search?q=%233YearsWithMOTS7) | N/A |
+| 37 | [#PROTECTROSÉ](http://twitter.com/search?q=%23PROTECTROS%c3%89) | N/A |
 | 38 | [#PoderosoDeBuenas](http://twitter.com/search?q=%23PoderosoDeBuenas) | N/A |
-| 39 | [#iniciodesemana](http://twitter.com/search?q=%23iniciodesemana) | N/A |
-| 40 | [#20DeFebrero](http://twitter.com/search?q=%2320DeFebrero) | N/A |
-| 41 | [#accidente](http://twitter.com/search?q=%23accidente) | N/A |
+| 39 | [#AIFA](http://twitter.com/search?q=%23AIFA) | N/A |
+| 40 | [#accidente](http://twitter.com/search?q=%23accidente) | N/A |
+| 41 | [#SandraCuevasRepresora](http://twitter.com/search?q=%23SandraCuevasRepresora) | N/A |
 | 42 | [#OposicionMoralmenteDerrotada](http://twitter.com/search?q=%23OposicionMoralmenteDerrotada) | N/A |
-| 43 | [#SandraCuevasRepresora](http://twitter.com/search?q=%23SandraCuevasRepresora) | N/A |
-| 44 | [#ReformaElectoral](http://twitter.com/search?q=%23ReformaElectoral) | N/A |
+| 43 | [#ReformaElectoral](http://twitter.com/search?q=%23ReformaElectoral) | N/A |
 
 
 
