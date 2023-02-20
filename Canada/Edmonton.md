@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edmonton
 
-📆 Last Updated: `2023-02-20 14:16:41 UTC`
+📆 Last Updated: `2023-02-20 15:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,52 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [#FamilyDay](http://twitter.com/search?q=%23FamilyDay) | N/A |
 | 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 3 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 4 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 5 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 6 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 7 | [Rita Joe](http://twitter.com/search?q=Rita+Joe) | N/A |
+| 3 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 4 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 5 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 7 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 8 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
-| 9 | [#HeritageDay](http://twitter.com/search?q=%23HeritageDay) | N/A |
-| 10 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 12 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 13 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 14 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 15 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 16 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 17 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 18 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
-| 19 | [shai](http://twitter.com/search?q=shai) | N/A |
+| 9 | [Rita Joe](http://twitter.com/search?q=Rita+Joe) | N/A |
+| 10 | [Happy Family](http://twitter.com/search?q=Happy+Family) | N/A |
+| 11 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 12 | [#DAYTONA500](http://twitter.com/search?q=%23DAYTONA500) | N/A |
+| 13 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 14 | [Louis Riel](http://twitter.com/search?q=Louis+Riel) | N/A |
+| 15 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 16 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 17 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Welcome to Canada](http://twitter.com/search?q=Welcome+to+Canada) | N/A |
 | 20 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 21 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 23 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 24 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
-| 25 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
-| 26 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
-| 27 | [Nova Scotia](http://twitter.com/search?q=Nova+Scotia) | N/A |
-| 28 | [Happy Family](http://twitter.com/search?q=Happy+Family) | N/A |
-| 29 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 30 | [Motte](http://twitter.com/search?q=Motte) | N/A |
-| 31 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 32 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
-| 33 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
-| 34 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 35 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 36 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
-| 37 | [Louis Riel](http://twitter.com/search?q=Louis+Riel) | N/A |
-| 38 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 39 | [Team LeBron](http://twitter.com/search?q=Team+LeBron) | N/A |
-| 40 | [Munch](http://twitter.com/search?q=Munch) | N/A |
-| 41 | [Rema](http://twitter.com/search?q=Rema) | N/A |
-| 42 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 43 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 44 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 45 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
-| 46 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 47 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 48 | [Graham Greene](http://twitter.com/search?q=Graham+Greene) | N/A |
-| 49 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
+| 21 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
+| 22 | [Ottawa](http://twitter.com/search?q=Ottawa) | N/A |
+| 23 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 24 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 25 | [Mac McClung](http://twitter.com/search?q=Mac+McClung) | Mac McClung is a basketball player who currently plays for the Georgetown Hoyas. He is known for his explosive athleticism and scoring ability. The name Mac McClung is derived from his middle name, McAllister, and his last name, McClung. |
+| 26 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
+| 27 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 28 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 29 | [Motte](http://twitter.com/search?q=Motte) | N/A |
+| 30 | [Rouleau](http://twitter.com/search?q=Rouleau) | N/A |
+| 31 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 32 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
+| 33 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 34 | [Nova Scotia](http://twitter.com/search?q=Nova+Scotia) | N/A |
+| 35 | [Team LeBron](http://twitter.com/search?q=Team+LeBron) | N/A |
+| 36 | [O'Reilly](http://twitter.com/search?q=O%27Reilly) | N/A |
+| 37 | [Munch](http://twitter.com/search?q=Munch) | N/A |
+| 38 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 39 | [Rema](http://twitter.com/search?q=Rema) | N/A |
+| 40 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 41 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 42 | [Vin Diesel](http://twitter.com/search?q=Vin+Diesel) | N/A |
+| 43 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 44 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 45 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 46 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 47 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 48 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
 
 
 

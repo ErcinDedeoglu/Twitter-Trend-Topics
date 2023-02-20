@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-20 14:17:26 UTC`
+📆 Last Updated: `2023-02-20 15:17:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UddhavThackeray](http://twitter.com/search?q=%23UddhavThackeray) | N/A |
-| 2 | [#37yearsOfShivannaInKFI](http://twitter.com/search?q=%2337yearsOfShivannaInKFI) | N/A |
-| 3 | [#JaaduiPitara](http://twitter.com/search?q=%23JaaduiPitara) | N/A |
-| 4 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
-| 5 | [#बाल_विवाह_मुक्त_भारत](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%be%e0%a4%b2_%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b9_%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4_%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 6 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 7 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 8 | [प्रकाश कोहली](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
-| 9 | [Foundational Stage](http://twitter.com/search?q=Foundational+Stage) | N/A |
-| 10 | [Harmanpreet Kaur](http://twitter.com/search?q=Harmanpreet+Kaur) | N/A |
+| 2 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
+| 3 | [#INDvIRE](http://twitter.com/search?q=%23INDvIRE) | N/A |
+| 4 | [#NoToBroadcasterCartel](http://twitter.com/search?q=%23NoToBroadcasterCartel) | N/A |
+| 5 | [#37yearsOfShivannaInKFI](http://twitter.com/search?q=%2337yearsOfShivannaInKFI) | N/A |
+| 6 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
+| 7 | [9 Liquor Land](http://twitter.com/search?q=9+Liquor+Land) | N/A |
+| 8 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
+| 9 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 10 | [प्रकाश कोहली](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
 | 11 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 12 | [Learning-Teaching](http://twitter.com/search?q=Learning-Teaching) | N/A |
-| 13 | [Finance Minister](http://twitter.com/search?q=Finance+Minister) | Finance Minister is a title given to the government official responsible for managing a country's financial affairs. This includes setting and implementing fiscal policies, overseeing the budget process, and managing public debt. The Finance Minister is usually a member of the cabinet or government executive. |
-| 14 | [उपेंद्र कुशवाहा](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%95%e0%a5%81%e0%a4%b6%e0%a4%b5%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
-| 15 | [Bank of Baroda](http://twitter.com/search?q=Bank+of+Baroda) | N/A |
-| 16 | [राष्ट्रीय लोक जनता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
-| 17 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
-| 18 | [ABVP](http://twitter.com/search?q=ABVP) | N/A |
-| 19 | [संजीव चड्ढा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5+%e0%a4%9a%e0%a4%a1%e0%a5%8d%e0%a4%a2%e0%a4%be) | N/A |
-| 20 | [Operation Dost](http://twitter.com/search?q=Operation+Dost) | N/A |
-| 21 | [अमेरिकी राष्ट्रपति](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
-| 22 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
-| 23 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
-| 24 | [Jaishankar](http://twitter.com/search?q=Jaishankar) | N/A |
-| 25 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 26 | [अखिल भारतीय कांग्रेस कमेटी](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
-| 27 | [नीतीश कुमार](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b0) | N/A |
-| 28 | [Malinga](http://twitter.com/search?q=Malinga) | N/A |
-| 29 | [भूपेश बघेल](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%ac%e0%a4%98%e0%a5%87%e0%a4%b2) | N/A |
-| 30 | [विधान परिषद](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a7%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%bf%e0%a4%b7%e0%a4%a6) | N/A |
-| 31 | [Whats Stopping CBI InSushantCs](http://twitter.com/search?q=Whats+Stopping+CBI+InSushantCs) | N/A |
-| 32 | [#incredibleawardsonstar](http://twitter.com/search?q=%23incredibleawardsonstar) | N/A |
-| 33 | [#INDvIRE](http://twitter.com/search?q=%23INDvIRE) | N/A |
-| 34 | [#IamJSPActiveMember](http://twitter.com/search?q=%23IamJSPActiveMember) | N/A |
-| 35 | [#supersarvottamwait](http://twitter.com/search?q=%23supersarvottamwait) | N/A |
-| 36 | [#inspirationalday](http://twitter.com/search?q=%23inspirationalday) | N/A |
-| 37 | [#KingAppuBirthdaycountdown](http://twitter.com/search?q=%23KingAppuBirthdaycountdown) | N/A |
-| 38 | [#HealthTips](http://twitter.com/search?q=%23HealthTips) | N/A |
-| 39 | [#JoeBiden](http://twitter.com/search?q=%23JoeBiden) | N/A |
-| 40 | [#NEP2020](http://twitter.com/search?q=%23NEP2020) | N/A |
-| 41 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 42 | [#NazarLagJayegiSongOutNow](http://twitter.com/search?q=%23NazarLagJayegiSongOutNow) | N/A |
-| 43 | [#DrPuneethRajkumar](http://twitter.com/search?q=%23DrPuneethRajkumar) | N/A |
-| 44 | [#JayantSinhaAtIVCA2023](http://twitter.com/search?q=%23JayantSinhaAtIVCA2023) | N/A |
-| 45 | [#Kyiv](http://twitter.com/search?q=%23Kyiv) | N/A |
-| 46 | [#askSonuSood](http://twitter.com/search?q=%23askSonuSood) | N/A |
-| 47 | [#I_support_devendra_yadav](http://twitter.com/search?q=%23I_support_devendra_yadav) | N/A |
-| 48 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 49 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
-| 50 | [#MPLiquorPolicy](http://twitter.com/search?q=%23MPLiquorPolicy) | N/A |
+| 12 | [Smriti Mandhana](http://twitter.com/search?q=Smriti+Mandhana) | N/A |
+| 13 | [Harmanpreet Kaur](http://twitter.com/search?q=Harmanpreet+Kaur) | N/A |
+| 14 | [Sushant Divine Power](http://twitter.com/search?q=Sushant+Divine+Power) | N/A |
+| 15 | [Foundational Stage](http://twitter.com/search?q=Foundational+Stage) | N/A |
+| 16 | [Learning-Teaching](http://twitter.com/search?q=Learning-Teaching) | N/A |
+| 17 | [Finance](http://twitter.com/search?q=Finance) | N/A |
+| 18 | [NDRF](http://twitter.com/search?q=NDRF) | N/A |
+| 19 | [पूर्व राष्ट्रीय](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%b5+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af) | N/A |
+| 20 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
+| 21 | [संजीव चड्ढा](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%9c%e0%a5%80%e0%a4%b5+%e0%a4%9a%e0%a4%a1%e0%a5%8d%e0%a4%a2%e0%a4%be) | N/A |
+| 22 | [Operation Dost](http://twitter.com/search?q=Operation+Dost) | N/A |
+| 23 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 24 | [उपेंद्र कुशवाहा](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%95%e0%a5%81%e0%a4%b6%e0%a4%b5%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
+| 25 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
+| 26 | [राष्ट्रीय लोक जनता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
+| 27 | [AICC](http://twitter.com/search?q=AICC) | N/A |
+| 28 | [Taj Mahal](http://twitter.com/search?q=Taj+Mahal) | N/A |
+| 29 | [ABVP](http://twitter.com/search?q=ABVP) | N/A |
+| 30 | [अमेरिकी राष्ट्रपति](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%87%e0%a4%b0%e0%a4%bf%e0%a4%95%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf) | N/A |
+| 31 | [अखिल भारतीय कांग्रेस कमेटी](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
+| 32 | [राजीव गांधी](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%80%e0%a4%b5+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 33 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 34 | [Jaishankar](http://twitter.com/search?q=Jaishankar) | N/A |
+| 35 | [Malinga](http://twitter.com/search?q=Malinga) | N/A |
+| 36 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
+| 37 | [भूपेश बघेल](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%b6+%e0%a4%ac%e0%a4%98%e0%a5%87%e0%a4%b2) | N/A |
+| 38 | [#JaaduiPitara](http://twitter.com/search?q=%23JaaduiPitara) | N/A |
+| 39 | [#IamJSPActiveMember](http://twitter.com/search?q=%23IamJSPActiveMember) | N/A |
+| 40 | [#बाल_विवाह_मुक्त_भारत](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%be%e0%a4%b2_%e0%a4%b5%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%b9_%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4_%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 41 | [#HealthTips](http://twitter.com/search?q=%23HealthTips) | N/A |
+| 42 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
+| 43 | [#inspirationalday](http://twitter.com/search?q=%23inspirationalday) | N/A |
+| 44 | [#KingAppuBirthdaycountdown](http://twitter.com/search?q=%23KingAppuBirthdaycountdown) | N/A |
+| 45 | [#ImranKhan](http://twitter.com/search?q=%23ImranKhan) | N/A |
+| 46 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 47 | [#NEP2020](http://twitter.com/search?q=%23NEP2020) | N/A |
+| 48 | [#justiceforkhadeer](http://twitter.com/search?q=%23justiceforkhadeer) | N/A |
+| 49 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 50 | [#I_support_devendra_yadav](http://twitter.com/search?q=%23I_support_devendra_yadav) | N/A |
 
 
 

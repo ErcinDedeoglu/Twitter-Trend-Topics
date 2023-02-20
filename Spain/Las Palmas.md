@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Palmas
 
-📆 Last Updated: `2023-02-20 14:16:58 UTC`
+📆 Last Updated: `2023-02-20 15:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,49 +16,53 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LoDeOlona](http://twitter.com/search?q=%23LoDeOlona) | N/A |
-| 2 | [#BizumEnMiravia](http://twitter.com/search?q=%23BizumEnMiravia) | N/A |
-| 3 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
-| 4 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
-| 5 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 6 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 7 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 8 | [Filosofía](http://twitter.com/search?q=Filosof%c3%ada) | N/A |
-| 9 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
-| 10 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 11 | [Antonio Cordón](http://twitter.com/search?q=Antonio+Cord%c3%b3n) | N/A |
-| 12 | [Ocelote](http://twitter.com/search?q=Ocelote) | N/A |
-| 13 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 2 | [Estado de Transportes](http://twitter.com/search?q=Estado+de+Transportes) | N/A |
+| 3 | [#BizumEnMiravia](http://twitter.com/search?q=%23BizumEnMiravia) | N/A |
+| 4 | [El Sevilla](http://twitter.com/search?q=El+Sevilla) | N/A |
+| 5 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 6 | [Caso Negreira](http://twitter.com/search?q=Caso+Negreira) | N/A |
+| 7 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 8 | [Cantabria y Asturias](http://twitter.com/search?q=Cantabria+y+Asturias) | N/A |
+| 9 | [Isabel Pardo de Vera](http://twitter.com/search?q=Isabel+Pardo+de+Vera) | N/A |
+| 10 | [Filosofía](http://twitter.com/search?q=Filosof%c3%ada) | N/A |
+| 11 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 12 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 13 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
 | 14 | [Sevilla FC](http://twitter.com/search?q=Sevilla+FC) | N/A |
-| 15 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
-| 16 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 17 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 18 | [Hoy 20](http://twitter.com/search?q=Hoy+20) | N/A |
-| 19 | [Jonan](http://twitter.com/search?q=Jonan) | N/A |
-| 20 | [Capitán Harlock](http://twitter.com/search?q=Capit%c3%a1n+Harlock) | N/A |
-| 21 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 22 | [Facebook e Instagram](http://twitter.com/search?q=Facebook+e+Instagram) | N/A |
-| 23 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 24 | [Tchouameni](http://twitter.com/search?q=Tchouameni) | N/A |
-| 25 | [El 20](http://twitter.com/search?q=El+20) | N/A |
-| 26 | [Evole](http://twitter.com/search?q=Evole) | N/A |
-| 27 | [Javier Negre](http://twitter.com/search?q=Javier+Negre) | N/A |
-| 28 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 29 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
-| 30 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 15 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 16 | [Ocelote](http://twitter.com/search?q=Ocelote) | N/A |
+| 17 | [Ginés](http://twitter.com/search?q=Gin%c3%a9s) | N/A |
+| 18 | [Antonio Cordón](http://twitter.com/search?q=Antonio+Cord%c3%b3n) | N/A |
+| 19 | [El Bigotes](http://twitter.com/search?q=El+Bigotes) | N/A |
+| 20 | [Bioshock](http://twitter.com/search?q=Bioshock) | N/A |
+| 21 | [Laura Borràs](http://twitter.com/search?q=Laura+Borr%c3%a0s) | N/A |
+| 22 | [Camps](http://twitter.com/search?q=Camps) | N/A |
+| 23 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 24 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 25 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 26 | [Monchi](http://twitter.com/search?q=Monchi) | Monchi is a Spanish nickname derived from the name Ramón. It is often used as a term of endearment, similar to "buddy" or "pal" in English. |
+| 27 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 28 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 29 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 30 | [Facebook e Instagram](http://twitter.com/search?q=Facebook+e+Instagram) | N/A |
 | 31 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 32 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 33 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
-| 34 | [#YoMeRebelo20F](http://twitter.com/search?q=%23YoMeRebelo20F) | N/A |
-| 35 | [#UAETour](http://twitter.com/search?q=%23UAETour) | N/A |
-| 36 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
-| 37 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
-| 38 | [#JusticiaSocial](http://twitter.com/search?q=%23JusticiaSocial) | N/A |
+| 32 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
+| 33 | [Javier Negre](http://twitter.com/search?q=Javier+Negre) | N/A |
+| 34 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 35 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 36 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 37 | [#CrisPorta20F](http://twitter.com/search?q=%23CrisPorta20F) | N/A |
+| 38 | [#YoMeRebelo20F](http://twitter.com/search?q=%23YoMeRebelo20F) | N/A |
 | 39 | [#LucusHost](http://twitter.com/search?q=%23LucusHost) | N/A |
-| 40 | [#APOYOROCIO20F](http://twitter.com/search?q=%23APOYOROCIO20F) | N/A |
-| 41 | [#SPIREC2023](http://twitter.com/search?q=%23SPIREC2023) | N/A |
-| 42 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
-| 43 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 44 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
+| 40 | [#UAETour](http://twitter.com/search?q=%23UAETour) | N/A |
+| 41 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
+| 42 | [#APOYOROCI020F](http://twitter.com/search?q=%23APOYOROCI020F) | N/A |
+| 43 | [#JusticiaSocial](http://twitter.com/search?q=%23JusticiaSocial) | N/A |
+| 44 | [#Renfe](http://twitter.com/search?q=%23Renfe) | N/A |
+| 45 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 46 | [#SPIREC2023](http://twitter.com/search?q=%23SPIREC2023) | N/A |
+| 47 | [#barcagate](http://twitter.com/search?q=%23barcagate) | N/A |
+| 48 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
 
 
 

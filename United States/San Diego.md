@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-02-20 14:17:25 UTC`
+📆 Last Updated: `2023-02-20 15:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
 | 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 3 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 4 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 3 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 6 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 10 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 9 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 10 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 11 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
 | 12 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
 | 13 | [America Last](http://twitter.com/search?q=America+Last) | N/A |
-| 14 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
-| 15 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
-| 16 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 17 | [10% for the Big Guy](http://twitter.com/search?q=10%25+for+the+Big+Guy) | N/A |
-| 18 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 14 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 15 | [Big Guy](http://twitter.com/search?q=Big+Guy) | N/A |
+| 16 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 17 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 18 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
 | 19 | [Washington's Birthday](http://twitter.com/search?q=Washington%27s+Birthday) | N/A |
-| 20 | [Picking](http://twitter.com/search?q=Picking) | N/A |
-| 21 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 22 | [Release the J6](http://twitter.com/search?q=Release+the+J6) | N/A |
-| 23 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 24 | [Americans in Ohio](http://twitter.com/search?q=Americans+in+Ohio) | N/A |
-| 25 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
-| 26 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
-| 27 | [Collecting](http://twitter.com/search?q=Collecting) | N/A |
-| 28 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 29 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 30 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 31 | [Helsinki](http://twitter.com/search?q=Helsinki) | N/A |
-| 32 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 33 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 34 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
-| 35 | [Love & Thunder](http://twitter.com/search?q=Love+%26+Thunder) | N/A |
-| 36 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
-| 37 | [Flintstones](http://twitter.com/search?q=Flintstones) | N/A |
-| 38 | [Roger Ailes](http://twitter.com/search?q=Roger+Ailes) | N/A |
-| 39 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
-| 40 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
-| 41 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
-| 42 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 43 | [Bacchus](http://twitter.com/search?q=Bacchus) | N/A |
-| 44 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 45 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 46 | [New Moon](http://twitter.com/search?q=New+Moon) | N/A |
-| 47 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
-| 48 | [Street Fighter](http://twitter.com/search?q=Street+Fighter) | N/A |
-| 49 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 50 | [Capcom Cup](http://twitter.com/search?q=Capcom+Cup) | N/A |
+| 20 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
+| 21 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 22 | [East Palestine Ohio](http://twitter.com/search?q=East+Palestine+Ohio) | N/A |
+| 23 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 24 | [Release the J6](http://twitter.com/search?q=Release+the+J6) | N/A |
+| 25 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 26 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 27 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 28 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
+| 29 | [Picking](http://twitter.com/search?q=Picking) | N/A |
+| 30 | [America First](http://twitter.com/search?q=America+First) | N/A |
+| 31 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 32 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 33 | [John Glenn](http://twitter.com/search?q=John+Glenn) | N/A |
+| 34 | [So Biden](http://twitter.com/search?q=So+Biden) | N/A |
+| 35 | [Americans in Ohio](http://twitter.com/search?q=Americans+in+Ohio) | N/A |
+| 36 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 37 | [Sidney Poitier](http://twitter.com/search?q=Sidney+Poitier) | N/A |
+| 38 | [Theodore Roosevelt](http://twitter.com/search?q=Theodore+Roosevelt) | N/A |
+| 39 | [New Week](http://twitter.com/search?q=New+Week) | N/A |
+| 40 | [Move to Russia](http://twitter.com/search?q=Move+to+Russia) | N/A |
+| 41 | [Meanwhile in Ohio](http://twitter.com/search?q=Meanwhile+in+Ohio) | N/A |
+| 42 | [Go to Ohio](http://twitter.com/search?q=Go+to+Ohio) | N/A |
+| 43 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 44 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 45 | [Helsinki](http://twitter.com/search?q=Helsinki) | N/A |
+| 46 | [Schoen](http://twitter.com/search?q=Schoen) | N/A |
+| 47 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
+| 48 | [Burisma](http://twitter.com/search?q=Burisma) | N/A |
+| 49 | [Collecting](http://twitter.com/search?q=Collecting) | N/A |
+| 50 | [Love & Thunder](http://twitter.com/search?q=Love+%26+Thunder) | N/A |
 
 
 

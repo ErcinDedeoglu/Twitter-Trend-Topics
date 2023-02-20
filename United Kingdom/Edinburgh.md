@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-20 14:16:43 UTC`
+📆 Last Updated: `2023-02-20 15:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
-| 2 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 3 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
-| 4 | [#JLPets](http://twitter.com/search?q=%23JLPets) | N/A |
-| 5 | [#PLTpetday](http://twitter.com/search?q=%23PLTpetday) | N/A |
-| 6 | [#politicslive](http://twitter.com/search?q=%23politicslive) | N/A |
-| 7 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 8 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 9 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 10 | [#AskTaylor](http://twitter.com/search?q=%23AskTaylor) | N/A |
-| 11 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 12 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 2 | [Greens](http://twitter.com/search?q=Greens) | N/A |
+| 3 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 4 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
+| 5 | [#JLPets](http://twitter.com/search?q=%23JLPets) | N/A |
+| 6 | [#PLTpetday](http://twitter.com/search?q=%23PLTpetday) | N/A |
+| 7 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
+| 8 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 9 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 10 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 11 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 12 | [#AskTaylor](http://twitter.com/search?q=%23AskTaylor) | N/A |
 | 13 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 14 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 15 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 16 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 17 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
-| 18 | [Outlook](http://twitter.com/search?q=Outlook) | Outlook is a Microsoft product that is used as an email client, calendar, task manager, contact manager, and note-taking application. It is designed to help users manage their personal and professional information in one place. Outlook can be used to send and receive emails, schedule meetings and appointments, manage contacts, keep track of tasks, and store notes. |
-| 19 | [Philip Pullman](http://twitter.com/search?q=Philip+Pullman) | N/A |
-| 20 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 21 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 22 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
-| 23 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
-| 24 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 25 | [mitch](http://twitter.com/search?q=mitch) | N/A |
-| 26 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 14 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 15 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 16 | [Ouch](http://twitter.com/search?q=Ouch) | N/A |
+| 17 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
+| 18 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 19 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 20 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 21 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 22 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
+| 23 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
+| 24 | [Philip Pullman](http://twitter.com/search?q=Philip+Pullman) | N/A |
+| 25 | [Outlook](http://twitter.com/search?q=Outlook) | Outlook is a Microsoft product that is used as an email client, calendar, task manager, contact manager, and note-taking application. It is designed to help users manage their personal and professional information in one place. Outlook can be used to send and receive emails, schedule meetings and appointments, manage contacts, keep track of tasks, and store notes. |
+| 26 | [Mike Graham](http://twitter.com/search?q=Mike+Graham) | N/A |
 | 27 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 28 | [Thin Lizzy](http://twitter.com/search?q=Thin+Lizzy) | N/A |
-| 29 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 30 | [rayner](http://twitter.com/search?q=rayner) | N/A |
-| 31 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 32 | [Ian Blackford](http://twitter.com/search?q=Ian+Blackford) | N/A |
-| 33 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 34 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 35 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 36 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 37 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 38 | [Puffin](http://twitter.com/search?q=Puffin) | N/A |
-| 39 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 40 | [Kenyan](http://twitter.com/search?q=Kenyan) | N/A |
-| 41 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 42 | [Gaelic](http://twitter.com/search?q=Gaelic) | N/A |
-| 43 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 44 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
-| 45 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 46 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
-| 47 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 48 | [Joan](http://twitter.com/search?q=Joan) | N/A |
-| 49 | [Mr President](http://twitter.com/search?q=Mr+President) | N/A |
+| 28 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 29 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 30 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 31 | [Mayor of London](http://twitter.com/search?q=Mayor+of+London) | N/A |
+| 32 | [Puffin](http://twitter.com/search?q=Puffin) | N/A |
+| 33 | [Regan](http://twitter.com/search?q=Regan) | N/A |
+| 34 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 35 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
+| 36 | [Thin Lizzy](http://twitter.com/search?q=Thin+Lizzy) | N/A |
+| 37 | [Ian Blackford](http://twitter.com/search?q=Ian+Blackford) | N/A |
+| 38 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 39 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 40 | [Angus](http://twitter.com/search?q=Angus) | N/A |
+| 41 | [mitch](http://twitter.com/search?q=mitch) | N/A |
+| 42 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 43 | [Gaelic](http://twitter.com/search?q=Gaelic) | N/A |
+| 44 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 45 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 46 | [Rayner](http://twitter.com/search?q=Rayner) | N/A |
+| 47 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 48 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 49 | [Matilda](http://twitter.com/search?q=Matilda) | Matilda is a female given name of Germanic origin, derived from the words maht (meaning "might, strength") and hild (meaning "battle"). It is often associated with the English queen Matilda of Flanders. The name can also be used as a nickname for Matilda or Mathilde. |
 
 
 

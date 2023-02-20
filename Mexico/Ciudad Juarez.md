@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-02-20 14:16:45 UTC`
+📆 Last Updated: `2023-02-20 15:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
 | 2 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 3 | [#cristianrey](http://twitter.com/search?q=%23cristianrey) | N/A |
-| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 3 | [#KornoConCafé](http://twitter.com/search?q=%23KornoConCaf%c3%a9) | N/A |
+| 4 | [#cristianrey](http://twitter.com/search?q=%23cristianrey) | N/A |
 | 5 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 6 | [#KornoConCafé](http://twitter.com/search?q=%23KornoConCaf%c3%a9) | N/A |
+| 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 7 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
 | 8 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 9 | [little freak](http://twitter.com/search?q=little+freak) | N/A |
-| 10 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 11 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 12 | [mitch](http://twitter.com/search?q=mitch) | N/A |
-| 13 | [tamaulipas](http://twitter.com/search?q=tamaulipas) | N/A |
-| 14 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 9 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 10 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 12 | [little freak](http://twitter.com/search?q=little+freak) | N/A |
+| 13 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 14 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
 | 15 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 16 | [leo Suárez](http://twitter.com/search?q=leo+Su%c3%a1rez) | N/A |
-| 17 | [Línea 9](http://twitter.com/search?q=L%c3%adnea+9) | N/A |
-| 18 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 19 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 20 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 21 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 22 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 23 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
-| 24 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
-| 25 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
-| 26 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 27 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
-| 28 | [Faby](http://twitter.com/search?q=Faby) | N/A |
-| 29 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
-| 30 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 31 | [LAYUN](http://twitter.com/search?q=LAYUN) | N/A |
-| 32 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
-| 33 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |
-| 34 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 35 | [Toño Rodríguez](http://twitter.com/search?q=To%c3%b1o+Rodr%c3%adguez) | N/A |
-| 36 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 37 | [Pantitlán](http://twitter.com/search?q=Pantitl%c3%a1n) | N/A |
-| 38 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 39 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
-| 40 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 41 | [2 años floreciendo](http://twitter.com/search?q=2+a%c3%b1os+floreciendo) | N/A |
-| 42 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
-| 43 | [Roger](http://twitter.com/search?q=Roger) | N/A |
-| 44 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
-| 45 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 46 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 47 | [Contracara](http://twitter.com/search?q=Contracara) | N/A |
-| 48 | [América](http://twitter.com/search?q=Am%c3%a9rica) | N/A |
+| 16 | [LEO SUÁREZ](http://twitter.com/search?q=LEO+SU%c3%81REZ) | N/A |
+| 17 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 18 | [Línea 9](http://twitter.com/search?q=L%c3%adnea+9) | N/A |
+| 19 | [mitch](http://twitter.com/search?q=mitch) | N/A |
+| 20 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
+| 21 | [Plan Estratégico](http://twitter.com/search?q=Plan+Estrat%c3%a9gico) | N/A |
+| 22 | [Seguridad y Justicia](http://twitter.com/search?q=Seguridad+y+Justicia) | N/A |
+| 23 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 24 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 25 | [Litio](http://twitter.com/search?q=Litio) | N/A |
+| 26 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
+| 27 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 28 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
+| 29 | [Excelente Lunes](http://twitter.com/search?q=Excelente+Lunes) | N/A |
+| 30 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 31 | [Diego Valdés](http://twitter.com/search?q=Diego+Vald%c3%a9s) | N/A |
+| 32 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 33 | [Feliz 19](http://twitter.com/search?q=Feliz+19) | N/A |
+| 34 | [LAYUN](http://twitter.com/search?q=LAYUN) | N/A |
+| 35 | [Guillermo del Toro](http://twitter.com/search?q=Guillermo+del+Toro) | Guillermo del Toro is a Mexican filmmaker, screenwriter, producer, and novelist. He is best known for his acclaimed films, such as Pan's Labyrinth (2006), The Shape of Water (2017), and the Hellboy film series (2004–2008). His works often explore themes of fantasy and horror, with an emphasis on magical realism. |
+| 36 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 37 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
+| 38 | [Berry](http://twitter.com/search?q=Berry) | N/A |
+| 39 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 40 | [Toño Rodríguez](http://twitter.com/search?q=To%c3%b1o+Rodr%c3%adguez) | N/A |
+| 41 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 42 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 43 | [Fonden](http://twitter.com/search?q=Fonden) | N/A |
+| 44 | [2 años floreciendo](http://twitter.com/search?q=2+a%c3%b1os+floreciendo) | N/A |
+| 45 | [El 20](http://twitter.com/search?q=El+20) | N/A |
+| 46 | [Xolos](http://twitter.com/search?q=Xolos) | Xolos is short for Club Tijuana Xoloitzcuintles de Caliente, which is a Mexican professional football club based in Tijuana, Baja California. The name Xoloitzcuintles is derived from the Aztec dog breed Xoloitzcuintli, which translates to "Mexican Hairless Dog" in English. |
+| 47 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 48 | [Roger](http://twitter.com/search?q=Roger) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-02-20 14:17:31 UTC`
+📆 Last Updated: `2023-02-20 15:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,54 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 2 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 3 | [#RIPDUKE](http://twitter.com/search?q=%23RIPDUKE) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Where is Osimhen](http://twitter.com/search?q=Where+is+Osimhen) | N/A |
-| 6 | [ICONIC PHYNA](http://twitter.com/search?q=ICONIC+PHYNA) | N/A |
-| 7 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 8 | [Sagamu](http://twitter.com/search?q=Sagamu) | N/A |
-| 9 | [Gabrielle Union](http://twitter.com/search?q=Gabrielle+Union) | Gabrielle Union is an American actress, activist, and author. She is best known for her roles in films such as Bring It On, Bad Boys II, and Think Like a Man. The name Gabrielle Union is derived from the Hebrew name Gabriel, which means "God is my strength". |
-| 10 | [#Atikuiswinning](http://twitter.com/search?q=%23Atikuiswinning) | N/A |
-| 11 | [Ogun State](http://twitter.com/search?q=Ogun+State) | N/A |
-| 12 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 13 | [Akin Alabi](http://twitter.com/search?q=Akin+Alabi) | N/A |
-| 14 | [Muslim-Muslim](http://twitter.com/search?q=Muslim-Muslim) | N/A |
-| 15 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 1 | [PETER OBI HAS MY VOTE](http://twitter.com/search?q=PETER+OBI+HAS+MY+VOTE) | N/A |
+| 2 | [Dozy Foundation](http://twitter.com/search?q=Dozy+Foundation) | N/A |
+| 3 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 4 | [Where is Osimhen](http://twitter.com/search?q=Where+is+Osimhen) | N/A |
+| 5 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 6 | [#RIPDUKE](http://twitter.com/search?q=%23RIPDUKE) | N/A |
+| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 8 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
+| 9 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
+| 10 | [Ihiala](http://twitter.com/search?q=Ihiala) | N/A |
+| 11 | [Gabrielle Union](http://twitter.com/search?q=Gabrielle+Union) | Gabrielle Union is an American actress, activist, and author. She is best known for her roles in films such as Bring It On, Bad Boys II, and Think Like a Man. The name Gabrielle Union is derived from the Hebrew name Gabriel, which means "God is my strength". |
+| 12 | [#StockMarket](http://twitter.com/search?q=%23StockMarket) | N/A |
+| 13 | [Sagamu](http://twitter.com/search?q=Sagamu) | N/A |
+| 14 | [House of Reps](http://twitter.com/search?q=House+of+Reps) | N/A |
+| 15 | [ICONIC PHYNA](http://twitter.com/search?q=ICONIC+PHYNA) | N/A |
 | 16 | [Pastors](http://twitter.com/search?q=Pastors) | N/A |
-| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 18 | [Iroh](http://twitter.com/search?q=Iroh) | N/A |
-| 19 | [Piercings - No](http://twitter.com/search?q=Piercings+-+No) | N/A |
+| 17 | [Ogun State](http://twitter.com/search?q=Ogun+State) | N/A |
+| 18 | [Muslim-Muslim](http://twitter.com/search?q=Muslim-Muslim) | N/A |
+| 19 | [Akin Alabi](http://twitter.com/search?q=Akin+Alabi) | N/A |
 | 20 | [Dapo Abiodun](http://twitter.com/search?q=Dapo+Abiodun) | N/A |
-| 21 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
-| 22 | [Ghanaian](http://twitter.com/search?q=Ghanaian) | N/A |
-| 23 | [Ozai](http://twitter.com/search?q=Ozai) | N/A |
+| 21 | [Iroh](http://twitter.com/search?q=Iroh) | N/A |
+| 22 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 23 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
 | 24 | [Southern Kaduna](http://twitter.com/search?q=Southern+Kaduna) | N/A |
-| 25 | [POLAF](http://twitter.com/search?q=POLAF) | N/A |
-| 26 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
-| 27 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 28 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
-| 29 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
-| 30 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
-| 31 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 25 | [Ozai](http://twitter.com/search?q=Ozai) | N/A |
+| 26 | [Piercings - No](http://twitter.com/search?q=Piercings+-+No) | N/A |
+| 27 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 28 | [Burna Boy](http://twitter.com/search?q=Burna+Boy) | N/A |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 30 | [It is POssible](http://twitter.com/search?q=It+is+POssible) | N/A |
+| 31 | [POLAF](http://twitter.com/search?q=POLAF) | N/A |
 | 32 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
-| 33 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
-| 34 | [Mandy](http://twitter.com/search?q=Mandy) | N/A |
-| 35 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 36 | [#StockMarket](http://twitter.com/search?q=%23StockMarket) | N/A |
-| 37 | [#NewWeek](http://twitter.com/search?q=%23NewWeek) | N/A |
-| 38 | [#itelA60](http://twitter.com/search?q=%23itelA60) | N/A |
-| 39 | [#VoteLP2023](http://twitter.com/search?q=%23VoteLP2023) | N/A |
-| 40 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
-| 41 | [#jagabanarmy](http://twitter.com/search?q=%23jagabanarmy) | N/A |
-| 42 | [#Elections2023](http://twitter.com/search?q=%23Elections2023) | N/A |
-| 43 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 44 | [#8YearsOfAPC](http://twitter.com/search?q=%238YearsOfAPC) | N/A |
-| 45 | [#ObiDattiGlobalMegaRally](http://twitter.com/search?q=%23ObiDattiGlobalMegaRally) | N/A |
+| 33 | [Ghanaian](http://twitter.com/search?q=Ghanaian) | N/A |
+| 34 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
+| 35 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
+| 36 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 37 | [Deborah](http://twitter.com/search?q=Deborah) | Deborah is a Hebrew name meaning "bee". It is also the name of a prophetess in the Old Testament. |
+| 38 | [Catholic](http://twitter.com/search?q=Catholic) | N/A |
+| 39 | [Mandy](http://twitter.com/search?q=Mandy) | N/A |
+| 40 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 41 | [#Atikuiswinning](http://twitter.com/search?q=%23Atikuiswinning) | N/A |
+| 42 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 43 | [#itelA60](http://twitter.com/search?q=%23itelA60) | N/A |
+| 44 | [#newweek](http://twitter.com/search?q=%23newweek) | N/A |
+| 45 | [#VoteLP2023](http://twitter.com/search?q=%23VoteLP2023) | N/A |
+| 46 | [#jagabanarmy](http://twitter.com/search?q=%23jagabanarmy) | N/A |
+| 47 | [#Elections2023](http://twitter.com/search?q=%23Elections2023) | N/A |
+| 48 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
 
 
 
