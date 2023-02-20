@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-20 12:18:06 UTC`
+📆 Last Updated: `2023-02-20 13:20:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
+| 1 | [#sharetheepicwithraisa](http://twitter.com/search?q=%23sharetheepicwithraisa) | N/A |
 | 2 | [#RaisaEpicConcert](http://twitter.com/search?q=%23RaisaEpicConcert) | N/A |
 | 3 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
 | 4 | [Minum](http://twitter.com/search?q=Minum) | N/A |
 | 5 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 6 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
-| 7 | [#วาดไว้NuNew](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b2%e0%b8%94%e0%b9%84%e0%b8%a7%e0%b9%89NuNew) | N/A |
-| 8 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 9 | [#MidnightMuseum](http://twitter.com/search?q=%23MidnightMuseum) | N/A |
-| 10 | [Sotong](http://twitter.com/search?q=Sotong) | N/A |
-| 11 | [Mad x Bon](http://twitter.com/search?q=Mad+x+Bon) | N/A |
-| 12 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 13 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
-| 14 | [SABRINA CARPENTER](http://twitter.com/search?q=SABRINA+CARPENTER) | N/A |
-| 15 | [We The Fest](http://twitter.com/search?q=We+The+Fest) | N/A |
-| 16 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
-| 17 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
-| 18 | [RINI](http://twitter.com/search?q=RINI) | N/A |
-| 19 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
-| 20 | [Nasgor](http://twitter.com/search?q=Nasgor) | N/A |
-| 21 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 22 | [Sepatu](http://twitter.com/search?q=Sepatu) | N/A |
-| 23 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 24 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 25 | [Diamond](http://twitter.com/search?q=Diamond) | Diamond is a precious gemstone made of highly compressed carbon. It is the hardest naturally occurring substance on Earth and is often used in jewelry and other decorative items. The word diamond comes from the Greek word "adamas," meaning "unconquerable." |
-| 26 | [Pagar](http://twitter.com/search?q=Pagar) | N/A |
-| 27 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 28 | [Tall](http://twitter.com/search?q=Tall) | N/A |
-| 29 | [SOLO OF NCT](http://twitter.com/search?q=SOLO+OF+NCT) | N/A |
-| 30 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 31 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
-| 32 | [Nyaman](http://twitter.com/search?q=Nyaman) | N/A |
-| 33 | [Tercantik](http://twitter.com/search?q=Tercantik) | N/A |
-| 34 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
-| 35 | [Amerika Serikat](http://twitter.com/search?q=Amerika+Serikat) | N/A |
-| 36 | [wang tao zi](http://twitter.com/search?q=wang+tao+zi) | N/A |
-| 37 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 38 | [Seminggu](http://twitter.com/search?q=Seminggu) | N/A |
-| 39 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 40 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
-| 41 | [#SMCUEp3_GirlsTeaser](http://twitter.com/search?q=%23SMCUEp3_GirlsTeaser) | N/A |
-| 42 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
-| 43 | [#더보이즈_로어_여섯시](http://twitter.com/search?q=%23%eb%8d%94%eb%b3%b4%ec%9d%b4%ec%a6%88_%eb%a1%9c%ec%96%b4_%ec%97%ac%ec%84%af%ec%8b%9c) | N/A |
-| 44 | [#더보이즈_로어_시작되리라](http://twitter.com/search?q=%23%eb%8d%94%eb%b3%b4%ec%9d%b4%ec%a6%88_%eb%a1%9c%ec%96%b4_%ec%8b%9c%ec%9e%91%eb%90%98%eb%a6%ac%eb%9d%bc) | N/A |
-| 45 | [#Primiily19thBirthday](http://twitter.com/search?q=%23Primiily19thBirthday) | N/A |
-| 46 | [#bilikdosa](http://twitter.com/search?q=%23bilikdosa) | N/A |
-| 47 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 48 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
-| 49 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
-| 50 | [#JINNY](http://twitter.com/search?q=%23JINNY) | N/A |
+| 6 | [#วาดไว้NuNew](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b2%e0%b8%94%e0%b9%84%e0%b8%a7%e0%b9%89NuNew) | N/A |
+| 7 | [DITA DISNEY PRINCESS](http://twitter.com/search?q=DITA+DISNEY+PRINCESS) | N/A |
+| 8 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 9 | [Christy](http://twitter.com/search?q=Christy) | N/A |
+| 10 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 11 | [#MiniFMxMEW2023](http://twitter.com/search?q=%23MiniFMxMEW2023) | N/A |
+| 12 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
+| 13 | [Mad x Bon](http://twitter.com/search?q=Mad+x+Bon) | N/A |
+| 14 | [Sotong](http://twitter.com/search?q=Sotong) | N/A |
+| 15 | [Lamaran](http://twitter.com/search?q=Lamaran) | N/A |
+| 16 | [THE BOYZ](http://twitter.com/search?q=THE+BOYZ) | THE BOYZ is a South Korean boy band formed by Cre.ker Entertainment in 2017. The group consists of twelve members: Sangyeon, Jacob, Younghoon, Hyunjae, Juyeon, Kevin, New, Q, Ju Haknyeon, Hwall, Sunwoo and Eric. The name THE BOYZ is an acronym for "The Boys of Zodiac". |
+| 17 | [Yamai](http://twitter.com/search?q=Yamai) | N/A |
+| 18 | [Dosen UII](http://twitter.com/search?q=Dosen+UII) | N/A |
+| 19 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 20 | [We The Fest](http://twitter.com/search?q=We+The+Fest) | N/A |
+| 21 | [RINI](http://twitter.com/search?q=RINI) | N/A |
+| 22 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 23 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
+| 24 | [Nasgor](http://twitter.com/search?q=Nasgor) | N/A |
+| 25 | [Pledis](http://twitter.com/search?q=Pledis) | N/A |
+| 26 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 27 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
+| 28 | [Sepatu](http://twitter.com/search?q=Sepatu) | N/A |
+| 29 | [Diamond](http://twitter.com/search?q=Diamond) | Diamond is a precious gemstone made of highly compressed carbon. It is the hardest naturally occurring substance on Earth and is often used in jewelry and other decorative items. The word diamond comes from the Greek word "adamas," meaning "unconquerable." |
+| 30 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 31 | [Tall](http://twitter.com/search?q=Tall) | N/A |
+| 32 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 33 | [Pagar](http://twitter.com/search?q=Pagar) | N/A |
+| 34 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 35 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 36 | [Menpora](http://twitter.com/search?q=Menpora) | N/A |
+| 37 | [Nyaman](http://twitter.com/search?q=Nyaman) | N/A |
+| 38 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 39 | [Yaya](http://twitter.com/search?q=Yaya) | Yaya is a term of endearment used in some Spanish-speaking countries. It is derived from the Spanish word for grandmother, abuela. In English, it can be translated to mean "dear" or "darling". |
+| 40 | [Amerika Serikat](http://twitter.com/search?q=Amerika+Serikat) | N/A |
+| 41 | [Wang Tao Zi](http://twitter.com/search?q=Wang+Tao+Zi) | N/A |
+| 42 | [#MadameLouiseXOffGun](http://twitter.com/search?q=%23MadameLouiseXOffGun) | N/A |
+| 43 | [#MidnightMuseum](http://twitter.com/search?q=%23MidnightMuseum) | N/A |
+| 44 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
+| 45 | [#zonauangᅠᅠ](http://twitter.com/search?q=%23zonauang%e1%85%a0%e1%85%a0) | N/A |
+| 46 | [#더보이즈_로어_시작되리라](http://twitter.com/search?q=%23%eb%8d%94%eb%b3%b4%ec%9d%b4%ec%a6%88_%eb%a1%9c%ec%96%b4_%ec%8b%9c%ec%9e%91%eb%90%98%eb%a6%ac%eb%9d%bc) | N/A |
+| 47 | [#SMCUEp3_GirlsTeaser](http://twitter.com/search?q=%23SMCUEp3_GirlsTeaser) | N/A |
+| 48 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 49 | [#Primiily19thBirthday](http://twitter.com/search?q=%23Primiily19thBirthday) | N/A |
+| 50 | [#bilikdosa](http://twitter.com/search?q=%23bilikdosa) | N/A |
 
 
 

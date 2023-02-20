@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denver
 
-📆 Last Updated: `2023-02-20 12:18:27 UTC`
+📆 Last Updated: `2023-02-20 13:21:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 2 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 3 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 4 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 5 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 6 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
-| 7 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 8 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 9 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 10 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 11 | [biden is in ukraine](http://twitter.com/search?q=biden+is+in+ukraine) | N/A |
-| 12 | [President Zelenskyy](http://twitter.com/search?q=President+Zelenskyy) | N/A |
+| 2 | [LeBron](http://twitter.com/search?q=LeBron) | N/A |
+| 3 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
+| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 5 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 6 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 7 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 8 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 11 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 12 | [Zelenskyy](http://twitter.com/search?q=Zelenskyy) | N/A |
 | 13 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 14 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 15 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 16 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 17 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
-| 18 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
-| 19 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 20 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 21 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
-| 22 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
-| 23 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 24 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
-| 25 | [Release the J6](http://twitter.com/search?q=Release+the+J6) | N/A |
-| 26 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 27 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 28 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 29 | [Street Fighter](http://twitter.com/search?q=Street+Fighter) | N/A |
-| 30 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 31 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 32 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
-| 33 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
-| 34 | [Capcom](http://twitter.com/search?q=Capcom) | N/A |
-| 35 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 36 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
-| 37 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 38 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 39 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 40 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 41 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 42 | [love & thunder](http://twitter.com/search?q=love+%26+thunder) | N/A |
-| 43 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 44 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 45 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 46 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 47 | [olivia rodrigo](http://twitter.com/search?q=olivia+rodrigo) | N/A |
-| 48 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
-| 49 | [Rema](http://twitter.com/search?q=Rema) | N/A |
-| 50 | [Berry](http://twitter.com/search?q=Berry) | N/A |
+| 14 | [Happy Lundi Gras](http://twitter.com/search?q=Happy+Lundi+Gras) | N/A |
+| 15 | [10% for the Big Guy](http://twitter.com/search?q=10%25+for+the+Big+Guy) | N/A |
+| 16 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
+| 17 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
+| 18 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 19 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 20 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 21 | [Collecting](http://twitter.com/search?q=Collecting) | N/A |
+| 22 | [american president](http://twitter.com/search?q=american+president) | N/A |
+| 23 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 24 | [Washington's Birthday](http://twitter.com/search?q=Washington%27s+Birthday) | N/A |
+| 25 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 26 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 27 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
+| 28 | [Release the J6](http://twitter.com/search?q=Release+the+J6) | N/A |
+| 29 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
+| 30 | [Roger Ailes](http://twitter.com/search?q=Roger+Ailes) | N/A |
+| 31 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
+| 32 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 33 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 34 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
+| 35 | [Street Fighter](http://twitter.com/search?q=Street+Fighter) | N/A |
+| 36 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 37 | [Jayson Tatum](http://twitter.com/search?q=Jayson+Tatum) | Jayson Tatum is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). He was selected third overall in the 2017 NBA draft. He is known for his athleticism, shooting ability, and defensive prowess. |
+| 38 | [Love & Thunder](http://twitter.com/search?q=Love+%26+Thunder) | N/A |
+| 39 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
+| 40 | [US President](http://twitter.com/search?q=US+President) | N/A |
+| 41 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 42 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 43 | [Capcom](http://twitter.com/search?q=Capcom) | N/A |
+| 44 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
+| 45 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 46 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 47 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 48 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 49 | [olivia rodrigo](http://twitter.com/search?q=olivia+rodrigo) | N/A |
+| 50 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
 
 
 

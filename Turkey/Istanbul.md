@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-20 12:18:25 UTC`
+📆 Last Updated: `2023-02-20 13:21:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 2 | [Yunus Sezer](http://twitter.com/search?q=Yunus+Sezer) | N/A |
-| 3 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 4 | [#VekillerTBMMne](http://twitter.com/search?q=%23VekillerTBMMne) | N/A |
-| 5 | [#Tele1Susturulamaz](http://twitter.com/search?q=%23Tele1Susturulamaz) | N/A |
-| 6 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
-| 7 | [#HesapVereceksiniz](http://twitter.com/search?q=%23HesapVereceksiniz) | N/A |
-| 8 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
-| 9 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 11 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
-| 12 | [hatay antakya'da](http://twitter.com/search?q=hatay+antakya%27da) | N/A |
-| 13 | [F-16](http://twitter.com/search?q=F-16) | N/A |
-| 14 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 15 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
-| 16 | [Marmara'da 7,6](http://twitter.com/search?q=Marmara%27da+7%2c6) | N/A |
-| 17 | [Ege Üniversitesi](http://twitter.com/search?q=Ege+%c3%9cniversitesi) | N/A |
-| 18 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 19 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 20 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 21 | [Çavuşoğlu](http://twitter.com/search?q=%c3%87avu%c5%9fo%c4%9flu) | N/A |
-| 22 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 23 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
-| 24 | [Ülkücü Şehidimiz](http://twitter.com/search?q=%c3%9clk%c3%bcc%c3%bc+%c5%9eehidimiz) | N/A |
-| 25 | [Bakan Özer](http://twitter.com/search?q=Bakan+%c3%96zer) | N/A |
-| 26 | [Heykel](http://twitter.com/search?q=Heykel) | N/A |
-| 27 | [Ruhu](http://twitter.com/search?q=Ruhu) | N/A |
-| 28 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 30 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 31 | [günaydınlar](http://twitter.com/search?q=g%c3%bcnayd%c4%b1nlar) | N/A |
-| 32 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
-| 33 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 34 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 35 | [Afrika](http://twitter.com/search?q=Afrika) | N/A |
-| 36 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 37 | [Hulusi Akar](http://twitter.com/search?q=Hulusi+Akar) | N/A |
-| 38 | [Şehit](http://twitter.com/search?q=%c5%9eehit) | N/A |
-| 39 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 40 | [Sakal](http://twitter.com/search?q=Sakal) | N/A |
-| 41 | [Okul](http://twitter.com/search?q=Okul) | N/A |
-| 42 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 43 | [#mersintravesti](http://twitter.com/search?q=%23mersintravesti) | N/A |
-| 44 | [#antalyatravesti](http://twitter.com/search?q=%23antalyatravesti) | N/A |
-| 45 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
-| 46 | [#Palu](http://twitter.com/search?q=%23Palu) | N/A |
-| 47 | [#pazartesi](http://twitter.com/search?q=%23pazartesi) | #Pazartesi is a Turkish word meaning "Monday". |
-| 48 | [#StajyerCalısıyor](http://twitter.com/search?q=%23StajyerCal%c4%b1s%c4%b1yor) | N/A |
+| 2 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 3 | [#elazig](http://twitter.com/search?q=%23elazig) | N/A |
+| 4 | [#Dolar](http://twitter.com/search?q=%23Dolar) | N/A |
+| 5 | [#VekillerTBMMne](http://twitter.com/search?q=%23VekillerTBMMne) | N/A |
+| 6 | [#Tele1Susturulamaz](http://twitter.com/search?q=%23Tele1Susturulamaz) | N/A |
+| 7 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
+| 8 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 10 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
+| 11 | [EmpatiYapın ArtıkAffedin](http://twitter.com/search?q=EmpatiYap%c4%b1n+Art%c4%b1kAffedin) | N/A |
+| 12 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
+| 13 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 14 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
+| 15 | [Ege Üniversitesi](http://twitter.com/search?q=Ege+%c3%9cniversitesi) | N/A |
+| 16 | [F-16](http://twitter.com/search?q=F-16) | N/A |
+| 17 | [hatay antakya'da](http://twitter.com/search?q=hatay+antakya%27da) | N/A |
+| 18 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 19 | [Hafif](http://twitter.com/search?q=Hafif) | N/A |
+| 20 | [Marmara'da 7,6](http://twitter.com/search?q=Marmara%27da+7%2c6) | N/A |
+| 21 | [Uğur Dündar](http://twitter.com/search?q=U%c4%9fur+D%c3%bcndar) | Uğur Dündar is a Turkish journalist and television presenter. His name translates to "Lucky Star" in English. |
+| 22 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 23 | [Ülkücü Şehidimiz](http://twitter.com/search?q=%c3%9clk%c3%bcc%c3%bc+%c5%9eehidimiz) | N/A |
+| 24 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 25 | [Heykel](http://twitter.com/search?q=Heykel) | N/A |
+| 26 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
+| 27 | [Bakan Özer](http://twitter.com/search?q=Bakan+%c3%96zer) | N/A |
+| 28 | [Kayserispor](http://twitter.com/search?q=Kayserispor) | N/A |
+| 29 | [Ruhu](http://twitter.com/search?q=Ruhu) | N/A |
+| 30 | [Kadıköy](http://twitter.com/search?q=Kad%c4%b1k%c3%b6y) | N/A |
+| 31 | [Rusya](http://twitter.com/search?q=Rusya) | N/A |
+| 32 | [Çavuşoğlu](http://twitter.com/search?q=%c3%87avu%c5%9fo%c4%9flu) | N/A |
+| 33 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
+| 34 | [Hulusi Akar](http://twitter.com/search?q=Hulusi+Akar) | N/A |
+| 35 | [Orhan Aydın](http://twitter.com/search?q=Orhan+Ayd%c4%b1n) | N/A |
+| 36 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 37 | [afrika](http://twitter.com/search?q=afrika) | N/A |
+| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 39 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 40 | [Okul](http://twitter.com/search?q=Okul) | N/A |
+| 41 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 42 | [Şehit](http://twitter.com/search?q=%c5%9eehit) | N/A |
+| 43 | [Sakal](http://twitter.com/search?q=Sakal) | N/A |
+| 44 | [#mersintravesti](http://twitter.com/search?q=%23mersintravesti) | N/A |
+| 45 | [#antalyatravesti](http://twitter.com/search?q=%23antalyatravesti) | N/A |
+| 46 | [#HesapVereceksiniz](http://twitter.com/search?q=%23HesapVereceksiniz) | N/A |
+| 47 | [#Palu](http://twitter.com/search?q=%23Palu) | N/A |
+| 48 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
 | 49 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 50 | [#zamgeldi](http://twitter.com/search?q=%23zamgeldi) | N/A |
+| 50 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
 
 
 

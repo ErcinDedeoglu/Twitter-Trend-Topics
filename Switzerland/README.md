@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-20 12:18:41 UTC`
+📆 Last Updated: `2023-02-20 13:21:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Switzerland
 | 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 5 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
 | 6 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 7 | [servette](http://twitter.com/search?q=servette) | N/A |
-| 8 | [Juso](http://twitter.com/search?q=Juso) | N/A |
-| 9 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 10 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 11 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 12 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 7 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 8 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 9 | [juso](http://twitter.com/search?q=juso) | N/A |
+| 10 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 11 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 12 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
 | 13 | [Scheiben](http://twitter.com/search?q=Scheiben) | N/A |
-| 14 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 15 | [Honig](http://twitter.com/search?q=Honig) | N/A |
-| 16 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
-| 17 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 14 | [Honig](http://twitter.com/search?q=Honig) | N/A |
+| 15 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
+| 16 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 17 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
 | 18 | [Gründen](http://twitter.com/search?q=Gr%c3%bcnden) | N/A |
 | 19 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
 | 20 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
 | 21 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
 | 22 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
 | 23 | [#FCBSFC](http://twitter.com/search?q=%23FCBSFC) | N/A |
-| 24 | [#CDL2023](http://twitter.com/search?q=%23CDL2023) | N/A |
+| 24 | [#cdl2023](http://twitter.com/search?q=%23cdl2023) | N/A |
 | 25 | [Maul](http://twitter.com/search?q=Maul) | N/A |
 | 26 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
-| 27 | [Munich](http://twitter.com/search?q=Munich) | N/A |
-| 28 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 29 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 31 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 32 | [Kreis](http://twitter.com/search?q=Kreis) | N/A |
-| 33 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
-| 34 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 35 | [Gesetz](http://twitter.com/search?q=Gesetz) | N/A |
-| 36 | [Ideologie](http://twitter.com/search?q=Ideologie) | N/A |
-| 37 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
-| 38 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 39 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 40 | [Fresse](http://twitter.com/search?q=Fresse) | N/A |
-| 41 | [Verteidiger](http://twitter.com/search?q=Verteidiger) | N/A |
-| 42 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 43 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
-| 44 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 45 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
-| 46 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 47 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
-| 48 | [Klassen](http://twitter.com/search?q=Klassen) | N/A |
-| 49 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
-| 50 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 27 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 29 | [Kreis](http://twitter.com/search?q=Kreis) | N/A |
+| 30 | [Auftritt](http://twitter.com/search?q=Auftritt) | N/A |
+| 31 | [Diktator](http://twitter.com/search?q=Diktator) | N/A |
+| 32 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 33 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
+| 34 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 35 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
+| 36 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 37 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
+| 38 | [Verteidiger](http://twitter.com/search?q=Verteidiger) | N/A |
+| 39 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 40 | [Mitleid](http://twitter.com/search?q=Mitleid) | N/A |
+| 41 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 42 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
+| 43 | [Klassen](http://twitter.com/search?q=Klassen) | N/A |
+| 44 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
+| 45 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 46 | [Studien](http://twitter.com/search?q=Studien) | N/A |
+| 47 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 48 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
+| 49 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 50 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
 
 
 

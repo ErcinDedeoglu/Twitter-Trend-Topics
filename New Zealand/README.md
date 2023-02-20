@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-20 12:18:39 UTC`
+📆 Last Updated: `2023-02-20 13:21:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,25 +19,25 @@ This is top 50 for New Zealand
 | 2 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
 | 3 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 4 | [#nzlvarg](http://twitter.com/search?q=%23nzlvarg) | N/A |
-| 5 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
-| 6 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 7 | [o'connor](http://twitter.com/search?q=o%27connor) | N/A |
-| 8 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
-| 9 | [#gamedevfashion](http://twitter.com/search?q=%23gamedevfashion) | N/A |
-| 10 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 5 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 6 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
+| 7 | [O'Connor](http://twitter.com/search?q=O%27Connor) | N/A |
+| 8 | [newstalk zb](http://twitter.com/search?q=newstalk+zb) | N/A |
+| 9 | [#GameDevFashion](http://twitter.com/search?q=%23GameDevFashion) | N/A |
+| 10 | [Coster](http://twitter.com/search?q=Coster) | N/A |
 | 11 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
 | 12 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 13 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
-| 14 | [Coster](http://twitter.com/search?q=Coster) | N/A |
+| 13 | [mitch](http://twitter.com/search?q=mitch) | N/A |
+| 14 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
 | 15 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 16 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 17 | [Lani](http://twitter.com/search?q=Lani) | N/A |
-| 18 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 19 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 20 | [Susie](http://twitter.com/search?q=Susie) | N/A |
-| 21 | [Gangs](http://twitter.com/search?q=Gangs) | N/A |
-| 22 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 23 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 16 | [Lani](http://twitter.com/search?q=Lani) | N/A |
+| 17 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 18 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 19 | [Susie](http://twitter.com/search?q=Susie) | N/A |
+| 20 | [Gangs](http://twitter.com/search?q=Gangs) | N/A |
+| 21 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 22 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 23 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 24 | [winz](http://twitter.com/search?q=winz) | N/A |
 | 25 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
 | 26 | [Clint](http://twitter.com/search?q=Clint) | N/A |
@@ -45,14 +45,14 @@ This is top 50 for New Zealand
 | 28 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
 | 29 | [Chuck](http://twitter.com/search?q=Chuck) | N/A |
 | 30 | [Chantelle](http://twitter.com/search?q=Chantelle) | N/A |
-| 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 31 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 32 | [Josh](http://twitter.com/search?q=Josh) | N/A |
 | 33 | [Jesus for NZ](http://twitter.com/search?q=Jesus+for+NZ) | N/A |
-| 34 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 35 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 36 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
-| 37 | [Typical](http://twitter.com/search?q=Typical) | N/A |
-| 38 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 34 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 35 | [Sri Lanka](http://twitter.com/search?q=Sri+Lanka) | Sri Lanka is an island nation located off the southeastern coast of India. The name Sri Lanka is derived from the Sanskrit words “śrī” (meaning “prosperous”) and “lanka” (meaning “island”). In English, Sri Lanka translates to “Prosperous Island.” |
+| 36 | [Typical](http://twitter.com/search?q=Typical) | N/A |
+| 37 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 38 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 39 | [breakers](http://twitter.com/search?q=breakers) | N/A |
 | 40 | [Natural](http://twitter.com/search?q=Natural) | N/A |
 | 41 | [Governments](http://twitter.com/search?q=Governments) | N/A |
@@ -60,9 +60,9 @@ This is top 50 for New Zealand
 | 43 | [Aunty](http://twitter.com/search?q=Aunty) | N/A |
 | 44 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
 | 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 46 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 46 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 47 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 48 | [Nicholls](http://twitter.com/search?q=Nicholls) | N/A |
+| 48 | [nicholls](http://twitter.com/search?q=nicholls) | N/A |
 | 49 | [Napier](http://twitter.com/search?q=Napier) | N/A |
 | 50 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 
