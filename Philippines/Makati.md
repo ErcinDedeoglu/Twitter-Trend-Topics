@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-02-20 09:17:15 UTC`
+📆 Last Updated: `2023-02-20 10:17:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
 | 2 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 3 | [#KENTIN](http://twitter.com/search?q=%23KENTIN) | N/A |
-| 4 | [#SMCUEp3_GirlsTeaser](http://twitter.com/search?q=%23SMCUEp3_GirlsTeaser) | N/A |
-| 5 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
-| 6 | [#ShowtimeIsipBata](http://twitter.com/search?q=%23ShowtimeIsipBata) | N/A |
-| 7 | [#OpeningTrailer_ReadyToBe](http://twitter.com/search?q=%23OpeningTrailer_ReadyToBe) | N/A |
+| 3 | [#MidnightMuseum](http://twitter.com/search?q=%23MidnightMuseum) | N/A |
+| 4 | [#ShowtimeIsipBata](http://twitter.com/search?q=%23ShowtimeIsipBata) | N/A |
+| 5 | [#KENTIN](http://twitter.com/search?q=%23KENTIN) | N/A |
+| 6 | [#SMCUEp3_GirlsTeaser](http://twitter.com/search?q=%23SMCUEp3_GirlsTeaser) | N/A |
+| 7 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
 | 8 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
-| 9 | [4TH MONTHSARY KARLIA](http://twitter.com/search?q=4TH+MONTHSARY+KARLIA) | N/A |
-| 10 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 11 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 12 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
-| 13 | [invincibl3 day](http://twitter.com/search?q=invincibl3+day) | N/A |
+| 9 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
+| 10 | [4TH MONTHSARY KARLIA](http://twitter.com/search?q=4TH+MONTHSARY+KARLIA) | N/A |
+| 11 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 12 | [invincibl3 day](http://twitter.com/search?q=invincibl3+day) | N/A |
+| 13 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
 | 14 | [Sunoo Beautiful](http://twitter.com/search?q=Sunoo+Beautiful) | N/A |
 | 15 | [Sunoo Bubbly](http://twitter.com/search?q=Sunoo+Bubbly) | N/A |
-| 16 | [HAPPY 8200TH DAYS](http://twitter.com/search?q=HAPPY+8200TH+DAYS) | N/A |
-| 17 | [Sunoo Brave](http://twitter.com/search?q=Sunoo+Brave) | N/A |
-| 18 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
-| 19 | [PIEKADA WITH GABBLUKE](http://twitter.com/search?q=PIEKADA+WITH+GABBLUKE) | N/A |
-| 20 | [Sunoo Bright](http://twitter.com/search?q=Sunoo+Bright) | N/A |
-| 21 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
-| 22 | [piewer vote for anji](http://twitter.com/search?q=piewer+vote+for+anji) | N/A |
-| 23 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 24 | [Argus](http://twitter.com/search?q=Argus) | N/A |
-| 25 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
-| 26 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
-| 27 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 28 | [zacham piegalingan saepl](http://twitter.com/search?q=zacham+piegalingan+saepl) | N/A |
-| 29 | [Team LeBron](http://twitter.com/search?q=Team+LeBron) | N/A |
-| 30 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 31 | [letthegamesbeginrsg h2wo](http://twitter.com/search?q=letthegamesbeginrsg+h2wo) | N/A |
+| 16 | [COME AND GET JOSHCULLEN](http://twitter.com/search?q=COME+AND+GET+JOSHCULLEN) | N/A |
+| 17 | [HAPPY 8200TH DAYS](http://twitter.com/search?q=HAPPY+8200TH+DAYS) | N/A |
+| 18 | [Sunoo Bright](http://twitter.com/search?q=Sunoo+Bright) | N/A |
+| 19 | [Sunoo Brave](http://twitter.com/search?q=Sunoo+Brave) | N/A |
+| 20 | [piewer vote for anji](http://twitter.com/search?q=piewer+vote+for+anji) | N/A |
+| 21 | [Berry](http://twitter.com/search?q=Berry) | N/A |
+| 22 | [BGYO AT HARBOR POINT SUBIC](http://twitter.com/search?q=BGYO+AT+HARBOR+POINT+SUBIC) | N/A |
+| 23 | [DECO RING SET](http://twitter.com/search?q=DECO+RING+SET) | N/A |
+| 24 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 25 | [Blessed Sunday](http://twitter.com/search?q=Blessed+Sunday) | N/A |
+| 26 | [zacham piegalingan saepl](http://twitter.com/search?q=zacham+piegalingan+saepl) | N/A |
+| 27 | [PIEKADA WITH GABBLUKE](http://twitter.com/search?q=PIEKADA+WITH+GABBLUKE) | N/A |
+| 28 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
+| 29 | [Team Lebron](http://twitter.com/search?q=Team+Lebron) | N/A |
+| 30 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
+| 31 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
 | 32 | [IVE IN MANILA](http://twitter.com/search?q=IVE+IN+MANILA) | N/A |
-| 33 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 34 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
-| 35 | [Kulot](http://twitter.com/search?q=Kulot) | N/A |
-| 36 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 37 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 38 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
-| 39 | [bss grandslam congratulations](http://twitter.com/search?q=bss+grandslam+congratulations) | N/A |
-| 40 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
-| 41 | [han jisung](http://twitter.com/search?q=han+jisung) | N/A |
-| 42 | [ENRIQUE NBAPh](http://twitter.com/search?q=ENRIQUE+NBAPh) | N/A |
-| 43 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
-| 44 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
-| 45 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
-| 46 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 47 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 48 | [Vega](http://twitter.com/search?q=Vega) | N/A |
-| 49 | [EUNCHAE KIRSH MODEL](http://twitter.com/search?q=EUNCHAE+KIRSH+MODEL) | N/A |
-| 50 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 33 | [PBBM GOOD NEWS](http://twitter.com/search?q=PBBM+GOOD+NEWS) | N/A |
+| 34 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 35 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
+| 36 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 37 | [Dear DREAM](http://twitter.com/search?q=Dear+DREAM) | N/A |
+| 38 | [Caratbong v3](http://twitter.com/search?q=Caratbong+v3) | N/A |
+| 39 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 40 | [Argus](http://twitter.com/search?q=Argus) | N/A |
+| 41 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 42 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
+| 43 | [bss grandslam congratulations](http://twitter.com/search?q=bss+grandslam+congratulations) | N/A |
+| 44 | [dahyun](http://twitter.com/search?q=dahyun) | Dahyun is a Korean female name. It is derived from the Sino-Korean elements dae (meaning “great”) and hyun (meaning “virtue”). The name can also be written as Da-Hyun or Da Hyun. In English, it means “great virtue”. |
+| 45 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 46 | [ENRIQUE NBAPh](http://twitter.com/search?q=ENRIQUE+NBAPh) | N/A |
+| 47 | [Sevyn](http://twitter.com/search?q=Sevyn) | N/A |
+| 48 | [GAP GL Perfect Ending](http://twitter.com/search?q=GAP+GL+Perfect+Ending) | N/A |
+| 49 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
+| 50 | [taeyeon](http://twitter.com/search?q=taeyeon) | Taeyeon is a Korean given name, derived from the Sino-Korean elements "tae" (meaning "great") and "yeon" (meaning "beauty"). It is usually given to girls. |
 
 
 

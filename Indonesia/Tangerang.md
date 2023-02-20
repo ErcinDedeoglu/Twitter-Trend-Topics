@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-20 09:17:10 UTC`
+📆 Last Updated: `2023-02-20 10:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
-| 2 | [Nyata Mending Prabowo](http://twitter.com/search?q=Nyata+Mending+Prabowo) | N/A |
-| 3 | [Lihat Di Dekade 08](http://twitter.com/search?q=Lihat+Di+Dekade+08) | N/A |
-| 4 | [Prabowo Kerja Terbaik](http://twitter.com/search?q=Prabowo+Kerja+Terbaik) | N/A |
-| 5 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 6 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 7 | [#THEBOYZ_ROAR](http://twitter.com/search?q=%23THEBOYZ_ROAR) | N/A |
+| 1 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 2 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
+| 3 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
+| 4 | [Lihat Di Dekade 08](http://twitter.com/search?q=Lihat+Di+Dekade+08) | N/A |
+| 5 | [Nyata Mending Prabowo](http://twitter.com/search?q=Nyata+Mending+Prabowo) | N/A |
+| 6 | [Prabowo Kerja Terbaik](http://twitter.com/search?q=Prabowo+Kerja+Terbaik) | N/A |
+| 7 | [#MidnightMuseum](http://twitter.com/search?q=%23MidnightMuseum) | N/A |
 | 8 | [#SMCUEp3_GirlsTeaser](http://twitter.com/search?q=%23SMCUEp3_GirlsTeaser) | N/A |
-| 9 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
-| 10 | [200MP Nightograpy Camera](http://twitter.com/search?q=200MP+Nightograpy+Camera) | N/A |
-| 11 | [Solo of NCT](http://twitter.com/search?q=Solo+of+NCT) | N/A |
-| 12 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 13 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 14 | [Pagar](http://twitter.com/search?q=Pagar) | N/A |
-| 15 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 16 | [Ferdy](http://twitter.com/search?q=Ferdy) | N/A |
+| 9 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 10 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
+| 11 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 12 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
+| 13 | [Sotong](http://twitter.com/search?q=Sotong) | N/A |
+| 14 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
+| 15 | [sabrina carpenter](http://twitter.com/search?q=sabrina+carpenter) | N/A |
+| 16 | [200MP Nightograpy Camera](http://twitter.com/search?q=200MP+Nightograpy+Camera) | N/A |
 | 17 | [Sepatu](http://twitter.com/search?q=Sepatu) | N/A |
-| 18 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
-| 19 | [SEO CHANGBIN](http://twitter.com/search?q=SEO+CHANGBIN) | N/A |
-| 20 | [Tercantik](http://twitter.com/search?q=Tercantik) | N/A |
-| 21 | [JINNY CONCEPT PHOTO](http://twitter.com/search?q=JINNY+CONCEPT+PHOTO) | N/A |
-| 22 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 23 | [Nyaman](http://twitter.com/search?q=Nyaman) | N/A |
-| 24 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 25 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 26 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 27 | [YOONGI RED HAIR](http://twitter.com/search?q=YOONGI+RED+HAIR) | N/A |
-| 28 | [Amerika Serikat](http://twitter.com/search?q=Amerika+Serikat) | N/A |
-| 29 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 30 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 31 | [Seminggu](http://twitter.com/search?q=Seminggu) | N/A |
-| 32 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 33 | [Wang Tao Zi](http://twitter.com/search?q=Wang+Tao+Zi) | N/A |
-| 34 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
-| 35 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 36 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
-| 37 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 38 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
-| 39 | [#bilikdosa](http://twitter.com/search?q=%23bilikdosa) | N/A |
-| 40 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 41 | [#KitaSATUIndonesia](http://twitter.com/search?q=%23KitaSATUIndonesia) | N/A |
-| 42 | [#66TahunAstra](http://twitter.com/search?q=%2366TahunAstra) | N/A |
-| 43 | [#SECRET_NUMBER](http://twitter.com/search?q=%23SECRET_NUMBER) | N/A |
-| 44 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
-| 45 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
-| 46 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 47 | [#SECRETNUMBERJAPANDEBUT](http://twitter.com/search?q=%23SECRETNUMBERJAPANDEBUT) | N/A |
+| 18 | [Solo of NCT](http://twitter.com/search?q=Solo+of+NCT) | N/A |
+| 19 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 20 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 21 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 22 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 23 | [Pagar](http://twitter.com/search?q=Pagar) | N/A |
+| 24 | [Wang Tao Zi](http://twitter.com/search?q=Wang+Tao+Zi) | N/A |
+| 25 | [YOONGI RED HAIR](http://twitter.com/search?q=YOONGI+RED+HAIR) | N/A |
+| 26 | [Tercantik](http://twitter.com/search?q=Tercantik) | N/A |
+| 27 | [Ferdy Irawan](http://twitter.com/search?q=Ferdy+Irawan) | N/A |
+| 28 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 29 | [Tall](http://twitter.com/search?q=Tall) | N/A |
+| 30 | [Nyaman](http://twitter.com/search?q=Nyaman) | N/A |
+| 31 | [Amerika Serikat](http://twitter.com/search?q=Amerika+Serikat) | N/A |
+| 32 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 33 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 34 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 35 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 36 | [Seminggu](http://twitter.com/search?q=Seminggu) | N/A |
+| 37 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
+| 38 | [#bilikdosa](http://twitter.com/search?q=%23bilikdosa) | N/A |
+| 39 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 40 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
+| 41 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 42 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 43 | [#JINNY](http://twitter.com/search?q=%23JINNY) | N/A |
+| 44 | [#KitaSATUIndonesia](http://twitter.com/search?q=%23KitaSATUIndonesia) | N/A |
+| 45 | [#66TahunAstra](http://twitter.com/search?q=%2366TahunAstra) | N/A |
+| 46 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
+| 47 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
 
 
 

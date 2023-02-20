@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-02-20 09:17:07 UTC`
+📆 Last Updated: `2023-02-20 10:17:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Spain](</Spain>)
 | 4 | [#LoDeEvole](http://twitter.com/search?q=%23LoDeEvole) | N/A |
 | 5 | [#CopaACB](http://twitter.com/search?q=%23CopaACB) | N/A |
 | 6 | [Unicaja](http://twitter.com/search?q=Unicaja) | N/A |
-| 7 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
-| 8 | [#FelizSemana](http://twitter.com/search?q=%23FelizSemana) | N/A |
-| 9 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 10 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 11 | [Julio Anguita](http://twitter.com/search?q=Julio+Anguita) | N/A |
+| 7 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 8 | [Cádiz](http://twitter.com/search?q=C%c3%a1diz) | Cádiz is a city in southwestern Spain. It is the capital of the province of Cádiz, one of eight which make up the autonomous community of Andalusia. The city is located on a narrow strip of land jutting out into the Atlantic Ocean. Its Old Town, surrounded by ancient city walls, contains a wealth of historical monuments and landmarks. In English, Cádiz means "fortress". |
+| 9 | [Julio Anguita](http://twitter.com/search?q=Julio+Anguita) | N/A |
+| 10 | [#LucusHost](http://twitter.com/search?q=%23LucusHost) | N/A |
+| 11 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
 | 12 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
-| 13 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 14 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 15 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 16 | [Españabola](http://twitter.com/search?q=Espa%c3%b1abola) | N/A |
-| 17 | [Fali](http://twitter.com/search?q=Fali) | N/A |
+| 13 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 14 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 15 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 16 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 17 | [Españabola](http://twitter.com/search?q=Espa%c3%b1abola) | N/A |
 | 18 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 19 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 20 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 21 | [Darder](http://twitter.com/search?q=Darder) | N/A |
-| 22 | [Reinildo](http://twitter.com/search?q=Reinildo) | N/A |
-| 23 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 24 | [Capitán Harlock](http://twitter.com/search?q=Capit%c3%a1n+Harlock) | N/A |
-| 25 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
-| 26 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 27 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 28 | [Mc 9](http://twitter.com/search?q=Mc+9) | N/A |
-| 29 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
-| 30 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
-| 31 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 32 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
-| 33 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
-| 34 | [Lejeune](http://twitter.com/search?q=Lejeune) | N/A |
-| 35 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 36 | [Casado](http://twitter.com/search?q=Casado) | N/A |
-| 37 | [marcelinho huertas](http://twitter.com/search?q=marcelinho+huertas) | N/A |
-| 38 | [gil manzano](http://twitter.com/search?q=gil+manzano) | N/A |
-| 39 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 40 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
-| 41 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 19 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 20 | [Fali](http://twitter.com/search?q=Fali) | N/A |
+| 21 | [Rayo](http://twitter.com/search?q=Rayo) | Rayo is a Spanish word meaning "lightning". It can also refer to a type of Spanish football club, Rayo Vallecano. |
+| 22 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 23 | [Darder](http://twitter.com/search?q=Darder) | N/A |
+| 24 | [Reinildo](http://twitter.com/search?q=Reinildo) | N/A |
+| 25 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
+| 26 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 27 | [Metropolitano](http://twitter.com/search?q=Metropolitano) | N/A |
+| 28 | [Tchouaméni](http://twitter.com/search?q=Tchouam%c3%a9ni) | N/A |
+| 29 | [Capitán Harlock](http://twitter.com/search?q=Capit%c3%a1n+Harlock) | N/A |
+| 30 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 31 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 32 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 33 | [Lejeune](http://twitter.com/search?q=Lejeune) | N/A |
+| 34 | [Casillas](http://twitter.com/search?q=Casillas) | N/A |
+| 35 | [Lunes 20](http://twitter.com/search?q=Lunes+20) | N/A |
+| 36 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 37 | [Casado](http://twitter.com/search?q=Casado) | N/A |
+| 38 | [Borja](http://twitter.com/search?q=Borja) | Borja is a Spanish name derived from the Latin name "Burgus," which means "fortress." It is also the name of several towns in Spain, including Borja in Zaragoza. In English, it can be translated to mean "fortified town." |
+| 39 | [marcelinho huertas](http://twitter.com/search?q=marcelinho+huertas) | N/A |
+| 40 | [Mario Martín](http://twitter.com/search?q=Mario+Mart%c3%adn) | N/A |
+| 41 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 42 | [Tania](http://twitter.com/search?q=Tania) | N/A |
-| 43 | [La Zarra](http://twitter.com/search?q=La+Zarra) | La Zarra is a Spanish term that literally translates to "the sieve". It is used to refer to a situation in which someone is trying to find a way out of an uncomfortable or difficult situation. In English, it can be used to describe someone who is trying to wriggle out of an awkward or unpleasant situation. |
-| 44 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 45 | [arzamendia](http://twitter.com/search?q=arzamendia) | N/A |
-| 46 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 47 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
-| 48 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
-| 49 | [Montiel](http://twitter.com/search?q=Montiel) | Montiel is a Spanish surname derived from the Latin word monticulus, meaning "small mountain". It is most commonly found in Spain and Latin America. In English, the name Montiel can be translated to mean "of the mountain". |
-| 50 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 44 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 45 | [Álvaro Rodríguez](http://twitter.com/search?q=%c3%81lvaro+Rodr%c3%adguez) | N/A |
+| 46 | [Egunkaria](http://twitter.com/search?q=Egunkaria) | N/A |
+| 47 | [Trejo](http://twitter.com/search?q=Trejo) | N/A |
+| 48 | [Acuña](http://twitter.com/search?q=Acu%c3%b1a) | Acuña is a Spanish surname derived from the place name Acuña, which is located in the province of León in northwestern Spain. The meaning of Acuña in English is "from Acuña". |
+| 49 | [American History X](http://twitter.com/search?q=American+History+X) | N/A |
+| 50 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 
 
 

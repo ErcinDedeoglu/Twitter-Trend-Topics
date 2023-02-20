@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-02-20 09:17:09 UTC`
+📆 Last Updated: `2023-02-20 10:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nyata Mending Prabowo](http://twitter.com/search?q=Nyata+Mending+Prabowo) | N/A |
-| 2 | [Lihat Di Dekade 08](http://twitter.com/search?q=Lihat+Di+Dekade+08) | N/A |
-| 3 | [Prabowo Kerja Terbaik](http://twitter.com/search?q=Prabowo+Kerja+Terbaik) | N/A |
-| 4 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
-| 5 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 6 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 7 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 8 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
-| 9 | [#SMCUEp3_GirlsTeaser](http://twitter.com/search?q=%23SMCUEp3_GirlsTeaser) | N/A |
-| 10 | [baju kembaran](http://twitter.com/search?q=baju+kembaran) | N/A |
-| 11 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 12 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
-| 13 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 14 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 15 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 16 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 17 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 18 | [200MP Nightograpy Camera](http://twitter.com/search?q=200MP+Nightograpy+Camera) | N/A |
-| 19 | [JINNY CONCEPT PHOTO](http://twitter.com/search?q=JINNY+CONCEPT+PHOTO) | N/A |
-| 20 | [bss grandslam congratulations](http://twitter.com/search?q=bss+grandslam+congratulations) | N/A |
-| 21 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 22 | [Ferdy](http://twitter.com/search?q=Ferdy) | N/A |
-| 23 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
-| 24 | [Wang Tao Zi](http://twitter.com/search?q=Wang+Tao+Zi) | N/A |
-| 25 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 26 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
-| 27 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 28 | [Tercantik](http://twitter.com/search?q=Tercantik) | N/A |
-| 29 | [YOONGI RED HAIR](http://twitter.com/search?q=YOONGI+RED+HAIR) | N/A |
-| 30 | [Solo of NCT](http://twitter.com/search?q=Solo+of+NCT) | N/A |
-| 31 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 32 | [Pagar](http://twitter.com/search?q=Pagar) | N/A |
-| 33 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 34 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 35 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 36 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
-| 37 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 38 | [Orang Islam Cinta Ilmu](http://twitter.com/search?q=Orang+Islam+Cinta+Ilmu) | N/A |
-| 39 | [HAPPY BIRTHDAY JUNGWOO](http://twitter.com/search?q=HAPPY+BIRTHDAY+JUNGWOO) | N/A |
-| 40 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 41 | [nct dream kyocera dome day3](http://twitter.com/search?q=nct+dream+kyocera+dome+day3) | N/A |
-| 42 | [900M FOR SUGA](http://twitter.com/search?q=900M+FOR+SUGA) | N/A |
-| 43 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
-| 44 | [Integritasnya](http://twitter.com/search?q=Integritasnya) | N/A |
-| 45 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 46 | [Sepatu](http://twitter.com/search?q=Sepatu) | N/A |
-| 47 | [Katla 396 X](http://twitter.com/search?q=Katla+396+X) | N/A |
-| 48 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 49 | [SEO CHANGBIN](http://twitter.com/search?q=SEO+CHANGBIN) | N/A |
-| 50 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
+| 1 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 2 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
+| 3 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
+| 4 | [Lihat Di Dekade 08](http://twitter.com/search?q=Lihat+Di+Dekade+08) | N/A |
+| 5 | [Nyata Mending Prabowo](http://twitter.com/search?q=Nyata+Mending+Prabowo) | N/A |
+| 6 | [Prabowo Kerja Terbaik](http://twitter.com/search?q=Prabowo+Kerja+Terbaik) | N/A |
+| 7 | [#MidnightMuseum](http://twitter.com/search?q=%23MidnightMuseum) | N/A |
+| 8 | [#SMCUEp3_GirlsTeaser](http://twitter.com/search?q=%23SMCUEp3_GirlsTeaser) | N/A |
+| 9 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 10 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
+| 11 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 12 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
+| 13 | [Sotong](http://twitter.com/search?q=Sotong) | N/A |
+| 14 | [Ver 2](http://twitter.com/search?q=Ver+2) | N/A |
+| 15 | [sabrina carpenter](http://twitter.com/search?q=sabrina+carpenter) | N/A |
+| 16 | [200MP Nightograpy Camera](http://twitter.com/search?q=200MP+Nightograpy+Camera) | N/A |
+| 17 | [Sepatu](http://twitter.com/search?q=Sepatu) | N/A |
+| 18 | [Solo of NCT](http://twitter.com/search?q=Solo+of+NCT) | N/A |
+| 19 | [#bilikdosa](http://twitter.com/search?q=%23bilikdosa) | N/A |
+| 20 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 21 | [Bawaslu](http://twitter.com/search?q=Bawaslu) | N/A |
+| 22 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 23 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 24 | [Pagar](http://twitter.com/search?q=Pagar) | N/A |
+| 25 | [Wang Tao Zi](http://twitter.com/search?q=Wang+Tao+Zi) | N/A |
+| 26 | [YOONGI RED HAIR](http://twitter.com/search?q=YOONGI+RED+HAIR) | N/A |
+| 27 | [Tercantik](http://twitter.com/search?q=Tercantik) | N/A |
+| 28 | [Ferdy Irawan](http://twitter.com/search?q=Ferdy+Irawan) | N/A |
+| 29 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 30 | [Tall](http://twitter.com/search?q=Tall) | N/A |
+| 31 | [Nyaman](http://twitter.com/search?q=Nyaman) | N/A |
+| 32 | [Amerika Serikat](http://twitter.com/search?q=Amerika+Serikat) | N/A |
+| 33 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 34 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 35 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 36 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 37 | [Seminggu](http://twitter.com/search?q=Seminggu) | N/A |
+| 38 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
+| 39 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 40 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
+| 41 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 42 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 43 | [#JINNY](http://twitter.com/search?q=%23JINNY) | N/A |
+| 44 | [#KitaSATUIndonesia](http://twitter.com/search?q=%23KitaSATUIndonesia) | N/A |
+| 45 | [#66TahunAstra](http://twitter.com/search?q=%2366TahunAstra) | N/A |
+| 46 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
+| 47 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
 
 
 

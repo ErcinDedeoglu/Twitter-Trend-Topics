@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-20 09:17:04 UTC`
+📆 Last Updated: `2023-02-20 10:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 2 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
-| 3 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 4 | [#bvbbsc](http://twitter.com/search?q=%23bvbbsc) | N/A |
-| 5 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
-| 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 7 | [#FCUS04](http://twitter.com/search?q=%23FCUS04) | N/A |
+| 3 | [#bvbbsc](http://twitter.com/search?q=%23bvbbsc) | N/A |
+| 4 | [#Hanau](http://twitter.com/search?q=%23Hanau) | N/A |
+| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 6 | [#FCUS04](http://twitter.com/search?q=%23FCUS04) | N/A |
+| 7 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
 | 8 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
 | 9 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 10 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 11 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 12 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 13 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 14 | [Helau](http://twitter.com/search?q=Helau) | N/A |
-| 15 | [sonntagabend](http://twitter.com/search?q=sonntagabend) | N/A |
-| 16 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 17 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
-| 18 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 19 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 20 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
-| 21 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
-| 22 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
-| 23 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 24 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 10 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 11 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 12 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 13 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
+| 14 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 15 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
+| 16 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 17 | [Opfern](http://twitter.com/search?q=Opfern) | N/A |
+| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 19 | [Streumunition](http://twitter.com/search?q=Streumunition) | N/A |
+| 20 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 21 | [Gabriele Rathjen](http://twitter.com/search?q=Gabriele+Rathjen) | N/A |
+| 22 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
+| 23 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 24 | [Montagmorgen](http://twitter.com/search?q=Montagmorgen) | N/A |
 | 25 | [Schiedsrichter](http://twitter.com/search?q=Schiedsrichter) | N/A |
-| 26 | [pfadfinder](http://twitter.com/search?q=pfadfinder) | N/A |
-| 27 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 28 | [Wochenanfang](http://twitter.com/search?q=Wochenanfang) | N/A |
-| 29 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
-| 30 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
-| 31 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
-| 32 | [Allie](http://twitter.com/search?q=Allie) | N/A |
-| 33 | [anschlags](http://twitter.com/search?q=anschlags) | N/A |
-| 34 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 35 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
-| 36 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 37 | [halbfinale](http://twitter.com/search?q=halbfinale) | N/A |
-| 38 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
-| 39 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
-| 40 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
-| 41 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 42 | [Arbeitswoche](http://twitter.com/search?q=Arbeitswoche) | N/A |
-| 43 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 44 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
-| 45 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
-| 46 | [Foul](http://twitter.com/search?q=Foul) | N/A |
-| 47 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
-| 48 | [Ladendiebin](http://twitter.com/search?q=Ladendiebin) | N/A |
-| 49 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 26 | [Mutter des Täters](http://twitter.com/search?q=Mutter+des+T%c3%a4ters) | N/A |
+| 27 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 28 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 29 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 30 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
+| 31 | [Anschlag](http://twitter.com/search?q=Anschlag) | N/A |
+| 32 | [Helau](http://twitter.com/search?q=Helau) | N/A |
+| 33 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 34 | [Sonntagabend](http://twitter.com/search?q=Sonntagabend) | N/A |
+| 35 | [Scheck](http://twitter.com/search?q=Scheck) | N/A |
+| 36 | [Rassismusproblem](http://twitter.com/search?q=Rassismusproblem) | N/A |
+| 37 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 38 | [Gedenken](http://twitter.com/search?q=Gedenken) | N/A |
+| 39 | [Phosphor](http://twitter.com/search?q=Phosphor) | N/A |
+| 40 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 41 | [Schussabgabe](http://twitter.com/search?q=Schussabgabe) | N/A |
+| 42 | [Schiri](http://twitter.com/search?q=Schiri) | N/A |
+| 43 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 44 | [Wildcard](http://twitter.com/search?q=Wildcard) | N/A |
+| 45 | [Feiertag](http://twitter.com/search?q=Feiertag) | Feiertag is a German word meaning "holiday" or "celebration day". It is used to refer to any day that is set aside for special observance, such as a national holiday, religious holiday, or other special occasion. |
+| 46 | [Streubomben](http://twitter.com/search?q=Streubomben) | N/A |
+| 47 | [Wochenbeginn](http://twitter.com/search?q=Wochenbeginn) | N/A |
+| 48 | [Trainer](http://twitter.com/search?q=Trainer) | N/A |
+| 49 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
 
 
 

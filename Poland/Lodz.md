@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-20 09:17:01 UTC`
+📆 Last Updated: `2023-02-20 10:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Piotrowicza](http://twitter.com/search?q=Piotrowicza) | N/A |
-| 2 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 3 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 1 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
+| 2 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 3 | [Piotrowicza](http://twitter.com/search?q=Piotrowicza) | N/A |
 | 4 | [#LPOZAG](http://twitter.com/search?q=%23LPOZAG) | N/A |
-| 5 | [#PIALEG](http://twitter.com/search?q=%23PIALEG) | N/A |
-| 6 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 7 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
-| 8 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 9 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
-| 10 | [Trela](http://twitter.com/search?q=Trela) | N/A |
-| 11 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 12 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
-| 13 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
-| 14 | [Oskar Kwiatkowski](http://twitter.com/search?q=Oskar+Kwiatkowski) | N/A |
+| 5 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
+| 6 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 7 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 8 | [#PIALEG](http://twitter.com/search?q=%23PIALEG) | N/A |
+| 9 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
+| 10 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
+| 11 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 12 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
+| 13 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 14 | [Mała Narew](http://twitter.com/search?q=Ma%c5%82a+Narew) | N/A |
 | 15 | [sokołowski](http://twitter.com/search?q=soko%c5%82owski) | N/A |
-| 16 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
-| 17 | [Sylwia Przybysz](http://twitter.com/search?q=Sylwia+Przybysz) | N/A |
-| 18 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
-| 19 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 20 | [Aleksandra Król](http://twitter.com/search?q=Aleksandra+Kr%c3%b3l) | N/A |
-| 21 | [Zuzanna Borucka](http://twitter.com/search?q=Zuzanna+Borucka) | N/A |
-| 22 | [Velde](http://twitter.com/search?q=Velde) | N/A |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
-| 25 | [Polsko](http://twitter.com/search?q=Polsko) | N/A |
-| 26 | [Zagłębie](http://twitter.com/search?q=Zag%c5%82%c4%99bie) | N/A |
-| 27 | [Lil Masti](http://twitter.com/search?q=Lil+Masti) | N/A |
-| 28 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 29 | [Faworki](http://twitter.com/search?q=Faworki) | N/A |
-| 30 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 31 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 32 | [Stać](http://twitter.com/search?q=Sta%c4%87) | N/A |
-| 33 | [marsz niepodległości](http://twitter.com/search?q=marsz+niepodleg%c5%82o%c5%9bci) | N/A |
-| 34 | [brawo iga](http://twitter.com/search?q=brawo+iga) | N/A |
-| 35 | [mladen](http://twitter.com/search?q=mladen) | N/A |
-| 36 | [Mk 9](http://twitter.com/search?q=Mk+9) | N/A |
-| 37 | [Afryce](http://twitter.com/search?q=Afryce) | N/A |
-| 38 | [lubina](http://twitter.com/search?q=lubina) | N/A |
-| 39 | [pekharta](http://twitter.com/search?q=pekharta) | N/A |
-| 40 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 41 | [Rymanowski](http://twitter.com/search?q=Rymanowski) | N/A |
-| 42 | [Sylwestrzak](http://twitter.com/search?q=Sylwestrzak) | N/A |
-| 43 | [Slisza](http://twitter.com/search?q=Slisza) | N/A |
-| 44 | [Broma](http://twitter.com/search?q=Broma) | N/A |
-| 45 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 46 | [Fede](http://twitter.com/search?q=Fede) | N/A |
-| 47 | [Kosta](http://twitter.com/search?q=Kosta) | N/A |
-| 48 | [vuko](http://twitter.com/search?q=vuko) | N/A |
+| 16 | [Sylwia Przybysz](http://twitter.com/search?q=Sylwia+Przybysz) | N/A |
+| 17 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 18 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
+| 19 | [Kvekve](http://twitter.com/search?q=Kvekve) | N/A |
+| 20 | [Oskar Kwiatkowski](http://twitter.com/search?q=Oskar+Kwiatkowski) | N/A |
+| 21 | [Velde](http://twitter.com/search?q=Velde) | N/A |
+| 22 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 23 | [Trela](http://twitter.com/search?q=Trela) | N/A |
+| 24 | [Zuzanna Borucka](http://twitter.com/search?q=Zuzanna+Borucka) | N/A |
+| 25 | [Lil Masti](http://twitter.com/search?q=Lil+Masti) | N/A |
+| 26 | [Faworki](http://twitter.com/search?q=Faworki) | N/A |
+| 27 | [Cadiz](http://twitter.com/search?q=Cadiz) | N/A |
+| 28 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 29 | [Aleksandra Król](http://twitter.com/search?q=Aleksandra+Kr%c3%b3l) | N/A |
+| 30 | [zagłębiem](http://twitter.com/search?q=zag%c5%82%c4%99biem) | N/A |
+| 31 | [mladen](http://twitter.com/search?q=mladen) | N/A |
+| 32 | [Afryce](http://twitter.com/search?q=Afryce) | N/A |
+| 33 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 34 | [pekharta](http://twitter.com/search?q=pekharta) | N/A |
+| 35 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
+| 36 | [Rymanowski](http://twitter.com/search?q=Rymanowski) | N/A |
+| 37 | [Sylwestrzak](http://twitter.com/search?q=Sylwestrzak) | N/A |
+| 38 | [Slisza](http://twitter.com/search?q=Slisza) | N/A |
+| 39 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 40 | [Kosta](http://twitter.com/search?q=Kosta) | N/A |
+| 41 | [vuko](http://twitter.com/search?q=vuko) | N/A |
+| 42 | [Mejza](http://twitter.com/search?q=Mejza) | N/A |
+| 43 | [VARze](http://twitter.com/search?q=VARze) | N/A |
+| 44 | [Putinowi](http://twitter.com/search?q=Putinowi) | N/A |
+| 45 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 46 | [sobiecha](http://twitter.com/search?q=sobiecha) | N/A |
+| 47 | [Robert Bąkiewicz](http://twitter.com/search?q=Robert+B%c4%85kiewicz) | N/A |
+| 48 | [KSSiP](http://twitter.com/search?q=KSSiP) | N/A |
 
 
 

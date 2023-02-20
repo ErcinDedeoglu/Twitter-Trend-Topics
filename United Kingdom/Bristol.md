@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-02-20 09:16:50 UTC`
+📆 Last Updated: `2023-02-20 10:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 2 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 3 | [#PLTpetday](http://twitter.com/search?q=%23PLTpetday) | N/A |
-| 4 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
-| 5 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 6 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 7 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
-| 8 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
-| 9 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 10 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
-| 11 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 12 | [World of Sport](http://twitter.com/search?q=World+of+Sport) | N/A |
-| 13 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 14 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 16 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 17 | [Souness](http://twitter.com/search?q=Souness) | N/A |
-| 18 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 19 | [Tomatoes](http://twitter.com/search?q=Tomatoes) | N/A |
-| 20 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 21 | [Fried](http://twitter.com/search?q=Fried) | N/A |
-| 22 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 23 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 24 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 25 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 26 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 27 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 28 | [Austin Butler](http://twitter.com/search?q=Austin+Butler) | Austin Butler is an American actor and singer. He is best known for his roles in the films The Carrie Diaries, Switched at Birth, and The Shannara Chronicles. He has also appeared in the television series Zoey 101 and Arrow. The name Austin Butler has no particular meaning in English; it is simply a combination of two given names. |
-| 29 | [Mushrooms](http://twitter.com/search?q=Mushrooms) | N/A |
-| 30 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 31 | [EMERSON ROYAL](http://twitter.com/search?q=EMERSON+ROYAL) | N/A |
-| 32 | [Philip Pullman](http://twitter.com/search?q=Philip+Pullman) | N/A |
-| 33 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 35 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 36 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 37 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 38 | [Richard E Grant](http://twitter.com/search?q=Richard+E+Grant) | N/A |
-| 39 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 40 | [Oxford](http://twitter.com/search?q=Oxford) | Oxford is a city in England, located about 50 miles northwest of London. It is best known as the home of the University of Oxford, the oldest university in the English-speaking world. The city is also known for its many historic buildings, including the Bodleian Library and Christ Church College. |
-| 41 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
-| 42 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 43 | [Faes](http://twitter.com/search?q=Faes) | N/A |
-| 44 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 45 | [Downes](http://twitter.com/search?q=Downes) | N/A |
-| 46 | [Newcastle](http://twitter.com/search?q=Newcastle) | Newcastle is a city in the North East of England. It is located on the River Tyne and is known for its rich industrial heritage, vibrant culture, and iconic bridges. The name Newcastle comes from the Old English words "new" and "castle", meaning a new fortification or castle. |
-| 47 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
-| 48 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 49 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
-| 50 | [Jeremy Farrar](http://twitter.com/search?q=Jeremy+Farrar) | N/A |
+| 1 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 2 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
+| 3 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 4 | [#PLTpetday](http://twitter.com/search?q=%23PLTpetday) | N/A |
+| 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 6 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
+| 7 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 8 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 9 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
+| 10 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 11 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 12 | [Angus Robertson](http://twitter.com/search?q=Angus+Robertson) | N/A |
+| 13 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 14 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 15 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
+| 16 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 17 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 18 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 19 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
+| 20 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
+| 21 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 22 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
+| 23 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 24 | [World of Sport](http://twitter.com/search?q=World+of+Sport) | N/A |
+| 25 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 26 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 27 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 28 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
+| 29 | [Terrifying](http://twitter.com/search?q=Terrifying) | N/A |
+| 30 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
+| 31 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 32 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 33 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
+| 34 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 35 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 36 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 37 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
+| 38 | [#FreeSchoolMeals](http://twitter.com/search?q=%23FreeSchoolMeals) | N/A |
+| 39 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 40 | [#fsprintmonday](http://twitter.com/search?q=%23fsprintmonday) | N/A |
+| 41 | [#ToriesOut228](http://twitter.com/search?q=%23ToriesOut228) | N/A |
+| 42 | [#MondayBlues](http://twitter.com/search?q=%23MondayBlues) | N/A |
+| 43 | [#evening](http://twitter.com/search?q=%23evening) | N/A |
+| 44 | [#Wordle611](http://twitter.com/search?q=%23Wordle611) | N/A |
+| 45 | [#Castle](http://twitter.com/search?q=%23Castle) | N/A |
+| 46 | [#ScottishTop10](http://twitter.com/search?q=%23ScottishTop10) | N/A |
+| 47 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 48 | [#BrexitReality](http://twitter.com/search?q=%23BrexitReality) | N/A |
 
 
 

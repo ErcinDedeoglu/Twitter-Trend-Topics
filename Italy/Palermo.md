@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-20 09:17:05 UTC`
+📆 Last Updated: `2023-02-20 10:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Italy](</Italy>)
 | 6 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
 | 7 | [#nostroTempo](http://twitter.com/search?q=%23nostroTempo) | N/A |
 | 8 | [Capitan Harlock](http://twitter.com/search?q=Capitan+Harlock) | N/A |
-| 9 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 9 | [Massara](http://twitter.com/search?q=Massara) | N/A |
 | 10 | [BUONA DOMENICA](http://twitter.com/search?q=BUONA+DOMENICA) | N/A |
-| 11 | [GIGANTE](http://twitter.com/search?q=GIGANTE) | N/A |
-| 12 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 13 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 14 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 15 | [Valvole](http://twitter.com/search?q=Valvole) | N/A |
-| 16 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 17 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
-| 18 | [Bove](http://twitter.com/search?q=Bove) | N/A |
-| 19 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
-| 20 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
-| 21 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
-| 22 | [Fedayn](http://twitter.com/search?q=Fedayn) | N/A |
-| 23 | [paky](http://twitter.com/search?q=paky) | N/A |
-| 24 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 25 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 26 | [Messina Denaro](http://twitter.com/search?q=Messina+Denaro) | N/A |
+| 11 | [Fedez](http://twitter.com/search?q=Fedez) | N/A |
+| 12 | [GIGANTE](http://twitter.com/search?q=GIGANTE) | N/A |
+| 13 | [Valvole](http://twitter.com/search?q=Valvole) | N/A |
+| 14 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 15 | [Bove](http://twitter.com/search?q=Bove) | N/A |
+| 16 | [Medvedev](http://twitter.com/search?q=Medvedev) | Medvedev is a Russian surname derived from the word medved, which means "bear". It is also the surname of Dmitry Medvedev, the current Prime Minister of Russia. In English, the name Medvedev can be translated to mean "son of the bear". |
+| 17 | [Digos](http://twitter.com/search?q=Digos) | N/A |
+| 18 | [Fedayn](http://twitter.com/search?q=Fedayn) | N/A |
+| 19 | [Renato Zero](http://twitter.com/search?q=Renato+Zero) | N/A |
+| 20 | [Angelina](http://twitter.com/search?q=Angelina) | Angelina is a female given name of Greek origin, derived from the word angelos, meaning "angel" or "messenger". It is also associated with the Latin word angelus, meaning "angel". |
+| 21 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 22 | [Carnevale](http://twitter.com/search?q=Carnevale) | N/A |
+| 23 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
+| 24 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 25 | [Buon Lunedì](http://twitter.com/search?q=Buon+Luned%c3%ac) | N/A |
+| 26 | [Maddalena](http://twitter.com/search?q=Maddalena) | N/A |
 | 27 | [Sinisa](http://twitter.com/search?q=Sinisa) | N/A |
-| 28 | [Sapienza](http://twitter.com/search?q=Sapienza) | N/A |
-| 29 | [Carnevale](http://twitter.com/search?q=Carnevale) | N/A |
-| 30 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 31 | [piccolo g](http://twitter.com/search?q=piccolo+g) | N/A |
-| 32 | [cricca](http://twitter.com/search?q=cricca) | N/A |
-| 33 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 34 | [Eolie](http://twitter.com/search?q=Eolie) | N/A |
-| 35 | [Marchetti](http://twitter.com/search?q=Marchetti) | N/A |
-| 36 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 37 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
-| 38 | [Cuadrado](http://twitter.com/search?q=Cuadrado) | N/A |
-| 39 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
-| 40 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
-| 41 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
-| 42 | [Buongiorno Mirella](http://twitter.com/search?q=Buongiorno+Mirella) | N/A |
-| 43 | [Il 99%](http://twitter.com/search?q=Il+99%25) | N/A |
-| 44 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 45 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
-| 46 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 47 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 48 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
-| 49 | [Mercoledì 22](http://twitter.com/search?q=Mercoled%c3%ac+22) | N/A |
-| 50 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 28 | [Marchetti](http://twitter.com/search?q=Marchetti) | N/A |
+| 29 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 30 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
+| 31 | [Il 99%](http://twitter.com/search?q=Il+99%25) | N/A |
+| 32 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 33 | [Belotti](http://twitter.com/search?q=Belotti) | N/A |
+| 34 | [Cristante](http://twitter.com/search?q=Cristante) | N/A |
+| 35 | [cuadrado](http://twitter.com/search?q=cuadrado) | N/A |
+| 36 | [Handanovic](http://twitter.com/search?q=Handanovic) | N/A |
+| 37 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 38 | [Tozzi](http://twitter.com/search?q=Tozzi) | N/A |
+| 39 | [Luis Alberto](http://twitter.com/search?q=Luis+Alberto) | N/A |
+| 40 | [Buongiorno Stefano](http://twitter.com/search?q=Buongiorno+Stefano) | N/A |
+| 41 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 42 | [Facebook e Instagram](http://twitter.com/search?q=Facebook+e+Instagram) | N/A |
+| 43 | [Allegri](http://twitter.com/search?q=Allegri) | Allegri is an Italian surname derived from the Latin word "allegro," which means cheerful or merry. It is also a given name, usually for males, and can be used as a nickname for someone who is cheerful or lively. |
+| 44 | [Mancini](http://twitter.com/search?q=Mancini) | Mancini is an Italian surname derived from the Latin name "Mantius". It is a common surname in Italy and other parts of Europe. In English, it means "son of Mantius". |
+| 45 | [Piccolo G](http://twitter.com/search?q=Piccolo+G) | Piccolo G is a type of Italian liqueur made from a blend of herbs, spices, and citrus fruits. The name Piccolo G is derived from the Italian word for “small” (piccolo) and the letter “G” which stands for “gusto” or “taste.” In English, Piccolo G translates to “small taste.” |
+| 46 | [Tonon](http://twitter.com/search?q=Tonon) | N/A |
+| 47 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
+| 48 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 49 | [Maldini](http://twitter.com/search?q=Maldini) | Maldini is a surname of Italian origin. It is derived from the Latin word "maldinus" which means "defender". The name is most famously associated with the Italian football player Paolo Maldini, who played for AC Milan for 25 years. |
+| 50 | [mercoledì 22](http://twitter.com/search?q=mercoled%c3%ac+22) | N/A |
 
 
 
