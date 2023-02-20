@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-02-20 10:18:02 UTC`
+📆 Last Updated: `2023-02-20 11:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 2 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
-| 3 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 4 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 5 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 6 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 7 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
-| 8 | [#BE_AWAKE_ALBUM_RELEASE](http://twitter.com/search?q=%23BE_AWAKE_ALBUM_RELEASE) | N/A |
-| 9 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 10 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 11 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 12 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 13 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
-| 14 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 15 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 16 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 17 | [Capcom Cup](http://twitter.com/search?q=Capcom+Cup) | N/A |
-| 18 | [Street Fighter 6](http://twitter.com/search?q=Street+Fighter+6) | N/A |
-| 19 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 20 | [All Star](http://twitter.com/search?q=All+Star) | "All Star" is a song by American rock band Smash Mouth, released in 1999. It is best known for its chorus, "Hey now, you're an all star, get your game on, go play". The phrase "all star" is used to describe someone who is exceptionally talented or successful in their field. |
-| 21 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
-| 22 | [Vegito](http://twitter.com/search?q=Vegito) | N/A |
-| 23 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 24 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 25 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 26 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
-| 27 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 28 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 29 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
-| 30 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
-| 31 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
-| 32 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 33 | [Episode 6](http://twitter.com/search?q=Episode+6) | N/A |
-| 34 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 35 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 36 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 37 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
-| 38 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
-| 39 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
-| 40 | [Interstella 5555](http://twitter.com/search?q=Interstella+5555) | N/A |
-| 41 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 42 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 43 | [Zhen](http://twitter.com/search?q=Zhen) | N/A |
-| 44 | [Team Giannis](http://twitter.com/search?q=Team+Giannis) | N/A |
-| 45 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
-| 46 | [Paty](http://twitter.com/search?q=Paty) | N/A |
-| 47 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 48 | [Shimmer](http://twitter.com/search?q=Shimmer) | N/A |
+| 1 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 2 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 3 | [#quackityspace](http://twitter.com/search?q=%23quackityspace) | #QuackitySpace is a hashtag used on social media to promote the content of Quackity, a Mexican YouTuber and Twitch streamer. The hashtag is used to share his content and support him. |
+| 4 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 5 | [Good Monday](http://twitter.com/search?q=Good+Monday) | Good Monday is an expression used to express enthusiasm for the start of a new week. It is typically used as a greeting or salutation when wishing someone a good start to the week. |
+| 6 | [Biden is in Ukraine](http://twitter.com/search?q=Biden+is+in+Ukraine) | N/A |
+| 7 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 8 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 9 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 10 | [Happy Presidents](http://twitter.com/search?q=Happy+Presidents) | N/A |
+| 11 | [President Zelenskyy](http://twitter.com/search?q=President+Zelenskyy) | N/A |
+| 12 | [#Wordle611](http://twitter.com/search?q=%23Wordle611) | N/A |
+| 13 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
+| 14 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 15 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 16 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 17 | [sunwoo](http://twitter.com/search?q=sunwoo) | N/A |
+| 18 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 19 | [changmin](http://twitter.com/search?q=changmin) | Changmin is a Korean given name, derived from the Chinese characters for "long" and "bright". It is a unisex name, and can be used for both boys and girls. In English, it can be translated to mean "eternal brightness". |
+| 20 | [Stunna](http://twitter.com/search?q=Stunna) | Stunna is a slang term used to describe someone who is confident and stylish. It can also be used to describe someone who is bold and daring. The term comes from the phrase "stunna shades," which refers to a type of sunglasses that are popular among hip-hop artists. |
+| 21 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 22 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 23 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 24 | [Street Fighter](http://twitter.com/search?q=Street+Fighter) | N/A |
+| 25 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 26 | [Vegito](http://twitter.com/search?q=Vegito) | N/A |
+| 27 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 28 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 29 | [Capcom Cup](http://twitter.com/search?q=Capcom+Cup) | N/A |
+| 30 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
+| 31 | [Multiverse of Madness](http://twitter.com/search?q=Multiverse+of+Madness) | N/A |
+| 32 | [Bella Ramsey](http://twitter.com/search?q=Bella+Ramsey) | Bella Ramsey is an English actress. She is best known for her roles as Lyanna Mormont in the HBO series Game of Thrones and Hilda in the Netflix series Hilda. The name Bella means "beautiful" in Italian and Ramsey is a surname derived from a place name meaning "wild garlic island". |
+| 33 | [Mena](http://twitter.com/search?q=Mena) | N/A |
+| 34 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
+| 35 | [Episode 6](http://twitter.com/search?q=Episode+6) | N/A |
+| 36 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 37 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 38 | [Love and Thunder](http://twitter.com/search?q=Love+and+Thunder) | N/A |
+| 39 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 40 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 41 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 42 | [Malone](http://twitter.com/search?q=Malone) | N/A |
+| 43 | [olivia rodrigo](http://twitter.com/search?q=olivia+rodrigo) | N/A |
+| 44 | [Paty](http://twitter.com/search?q=Paty) | N/A |
+| 45 | [Jaylen Brown](http://twitter.com/search?q=Jaylen+Brown) | Jaylen Brown is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is derived from his parents' first names, James and Lenora. |
+| 46 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
+| 47 | [Rema](http://twitter.com/search?q=Rema) | N/A |
+| 48 | [Left Behind](http://twitter.com/search?q=Left+Behind) | N/A |
 | 49 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 50 | [Afrobeats](http://twitter.com/search?q=Afrobeats) | N/A |
+| 50 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
 
 
 

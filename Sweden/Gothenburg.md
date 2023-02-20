@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-20 10:17:38 UTC`
+📆 Last Updated: `2023-02-20 11:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Riksbanken](http://twitter.com/search?q=Riksbanken) | N/A |
-| 2 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 3 | [Hanna Öberg](http://twitter.com/search?q=Hanna+%c3%96berg) | N/A |
-| 4 | [KPIF](http://twitter.com/search?q=KPIF) | N/A |
-| 5 | [EU-förordning](http://twitter.com/search?q=EU-f%c3%b6rordning) | N/A |
-| 6 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 7 | [#finanstwitter](http://twitter.com/search?q=%23finanstwitter) | N/A |
-| 8 | [Ebba Busch](http://twitter.com/search?q=Ebba+Busch) | N/A |
-| 9 | [Australien](http://twitter.com/search?q=Australien) | N/A |
-| 10 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 11 | [sprängning](http://twitter.com/search?q=spr%c3%a4ngning) | N/A |
-| 12 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 13 | [ponsi](http://twitter.com/search?q=ponsi) | N/A |
-| 14 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
-| 15 | [samuelsson](http://twitter.com/search?q=samuelsson) | N/A |
-| 16 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 17 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
-| 18 | [#skidskyttevm](http://twitter.com/search?q=%23skidskyttevm) | N/A |
-| 19 | [Roald Dahls](http://twitter.com/search?q=Roald+Dahls) | N/A |
-| 20 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
-| 21 | [EU-länder](http://twitter.com/search?q=EU-l%c3%a4nder) | N/A |
-| 22 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 23 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 24 | [Lööf](http://twitter.com/search?q=L%c3%b6%c3%b6f) | N/A |
-| 25 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 26 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 27 | [Madjed](http://twitter.com/search?q=Madjed) | N/A |
-| 28 | [Gunnar Strömmer](http://twitter.com/search?q=Gunnar+Str%c3%b6mmer) | N/A |
-| 29 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
-| 30 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 31 | [Erabi](http://twitter.com/search?q=Erabi) | N/A |
-| 32 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
-| 33 | [Ericsson](http://twitter.com/search?q=Ericsson) | N/A |
-| 34 | [Swedbank](http://twitter.com/search?q=Swedbank) | N/A |
-| 35 | [Brage](http://twitter.com/search?q=Brage) | N/A |
-| 36 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 1 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 2 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 3 | [Einár](http://twitter.com/search?q=Ein%c3%a1r) | N/A |
+| 4 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 5 | [Hanna Öberg](http://twitter.com/search?q=Hanna+%c3%96berg) | N/A |
+| 6 | [Oskarshamn](http://twitter.com/search?q=Oskarshamn) | N/A |
+| 7 | [Riksbanken](http://twitter.com/search?q=Riksbanken) | N/A |
+| 8 | [Chang](http://twitter.com/search?q=Chang) | N/A |
+| 9 | [Engsund](http://twitter.com/search?q=Engsund) | N/A |
+| 10 | [Ebba Busch](http://twitter.com/search?q=Ebba+Busch) | N/A |
+| 11 | [KPIF](http://twitter.com/search?q=KPIF) | N/A |
+| 12 | [Australien](http://twitter.com/search?q=Australien) | N/A |
+| 13 | [sprängning](http://twitter.com/search?q=spr%c3%a4ngning) | N/A |
+| 14 | [EU-förordning](http://twitter.com/search?q=EU-f%c3%b6rordning) | N/A |
+| 15 | [ponsi](http://twitter.com/search?q=ponsi) | N/A |
+| 16 | [EU-länder](http://twitter.com/search?q=EU-l%c3%a4nder) | N/A |
+| 17 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
+| 18 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
+| 19 | [samuelsson](http://twitter.com/search?q=samuelsson) | N/A |
+| 20 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 21 | [#MUNLEI](http://twitter.com/search?q=%23MUNLEI) | N/A |
+| 22 | [#skidskyttevm](http://twitter.com/search?q=%23skidskyttevm) | N/A |
+| 23 | [Roald Dahls](http://twitter.com/search?q=Roald+Dahls) | N/A |
+| 24 | [#finanstwitter](http://twitter.com/search?q=%23finanstwitter) | N/A |
+| 25 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 26 | [Lööf](http://twitter.com/search?q=L%c3%b6%c3%b6f) | N/A |
+| 27 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 28 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 29 | [Madjed](http://twitter.com/search?q=Madjed) | N/A |
+| 30 | [Erabi](http://twitter.com/search?q=Erabi) | N/A |
+| 31 | [Gunnar Strömmer](http://twitter.com/search?q=Gunnar+Str%c3%b6mmer) | N/A |
+| 32 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
+| 33 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 34 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 35 | [Ericsson](http://twitter.com/search?q=Ericsson) | N/A |
+| 36 | [Swedbank](http://twitter.com/search?q=Swedbank) | N/A |
 | 37 | [linderoth](http://twitter.com/search?q=linderoth) | N/A |
-| 38 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
-| 39 | [Martinus](http://twitter.com/search?q=Martinus) | N/A |
-| 40 | [vm-guld](http://twitter.com/search?q=vm-guld) | N/A |
-| 41 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 42 | [DDOS](http://twitter.com/search?q=DDOS) | N/A |
-| 43 | [Anonymous Sudan](http://twitter.com/search?q=Anonymous+Sudan) | N/A |
-| 44 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 45 | [paul rey](http://twitter.com/search?q=paul+rey) | N/A |
-| 46 | [Fischer](http://twitter.com/search?q=Fischer) | N/A |
-| 47 | [Norrby](http://twitter.com/search?q=Norrby) | N/A |
-| 48 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 49 | [med kristersson](http://twitter.com/search?q=med+kristersson) | N/A |
+| 38 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 39 | [Anonymous Sudan](http://twitter.com/search?q=Anonymous+Sudan) | N/A |
+| 40 | [Brage](http://twitter.com/search?q=Brage) | N/A |
+| 41 | [Emerson](http://twitter.com/search?q=Emerson) | Emerson is a surname of English origin. It is derived from the Old English personal name Emery, which means “brave” or “powerful.” The name was popularized by Ralph Waldo Emerson, an American essayist, lecturer, and poet who lived in the 19th century. |
+| 42 | [Martinus](http://twitter.com/search?q=Martinus) | N/A |
+| 43 | [vm-guld](http://twitter.com/search?q=vm-guld) | N/A |
+| 44 | [DDOS](http://twitter.com/search?q=DDOS) | N/A |
+| 45 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 46 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 47 | [Akelius](http://twitter.com/search?q=Akelius) | N/A |
+| 48 | [Zelenskyj](http://twitter.com/search?q=Zelenskyj) | N/A |
+| 49 | [paul rey](http://twitter.com/search?q=paul+rey) | N/A |
 
 
 

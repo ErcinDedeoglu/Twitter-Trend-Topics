@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-20 10:17:31 UTC`
+📆 Last Updated: `2023-02-20 11:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#imzentrum](http://twitter.com/search?q=%23imzentrum) | N/A |
-| 2 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 3 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
-| 4 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 5 | [#SCRALT](http://twitter.com/search?q=%23SCRALT) | N/A |
-| 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 7 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
-| 8 | [Franz](http://twitter.com/search?q=Franz) | N/A |
-| 9 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 10 | [#Pressestunde](http://twitter.com/search?q=%23Pressestunde) | N/A |
+| 2 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 3 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 4 | [schönen sonntag](http://twitter.com/search?q=sch%c3%b6nen+sonntag) | N/A |
+| 5 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
+| 6 | [#SCRALT](http://twitter.com/search?q=%23SCRALT) | N/A |
+| 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 8 | [WN SCRIPT BREAD AHEAD](http://twitter.com/search?q=WN+SCRIPT+BREAD+AHEAD) | N/A |
+| 9 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 10 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
 | 11 | [#360Grad](http://twitter.com/search?q=%23360Grad) | N/A |
-| 12 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 13 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 14 | [Demirel](http://twitter.com/search?q=Demirel) | N/A |
-| 15 | [Seipel](http://twitter.com/search?q=Seipel) | N/A |
-| 16 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
-| 17 | [Blunzn](http://twitter.com/search?q=Blunzn) | N/A |
+| 12 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 13 | [Demirel](http://twitter.com/search?q=Demirel) | N/A |
+| 14 | [Seipel](http://twitter.com/search?q=Seipel) | N/A |
+| 15 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 16 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 17 | [Rundfunk](http://twitter.com/search?q=Rundfunk) | N/A |
 | 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 19 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
 | 20 | [Faschingsumzug](http://twitter.com/search?q=Faschingsumzug) | N/A |
-| 21 | [Rundfunk](http://twitter.com/search?q=Rundfunk) | N/A |
-| 22 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 23 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 24 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 25 | [Ebenen](http://twitter.com/search?q=Ebenen) | N/A |
-| 26 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 27 | [Bezeichnung](http://twitter.com/search?q=Bezeichnung) | N/A |
-| 28 | [Hacker](http://twitter.com/search?q=Hacker) | N/A |
-| 29 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
-| 30 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 31 | [baldige besserung](http://twitter.com/search?q=baldige+besserung) | N/A |
-| 32 | [Friedensverhandlungen](http://twitter.com/search?q=Friedensverhandlungen) | N/A |
+| 21 | [Impfpflicht](http://twitter.com/search?q=Impfpflicht) | N/A |
+| 22 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 23 | [Blunzn](http://twitter.com/search?q=Blunzn) | N/A |
+| 24 | [Bezeichnung](http://twitter.com/search?q=Bezeichnung) | N/A |
+| 25 | [Hacker](http://twitter.com/search?q=Hacker) | N/A |
+| 26 | [Niederlage](http://twitter.com/search?q=Niederlage) | N/A |
+| 27 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 28 | [Zeichen](http://twitter.com/search?q=Zeichen) | N/A |
+| 29 | [Mathematik](http://twitter.com/search?q=Mathematik) | N/A |
+| 30 | [baldige besserung](http://twitter.com/search?q=baldige+besserung) | N/A |
+| 31 | [Friedensverhandlungen](http://twitter.com/search?q=Friedensverhandlungen) | N/A |
+| 32 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
 | 33 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 34 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 35 | [Mathematik](http://twitter.com/search?q=Mathematik) | N/A |
-| 36 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 37 | [Spektrum](http://twitter.com/search?q=Spektrum) | N/A |
+| 34 | [Danke für die Info](http://twitter.com/search?q=Danke+f%c3%bcr+die+Info) | N/A |
+| 35 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 36 | [Spektrum](http://twitter.com/search?q=Spektrum) | N/A |
+| 37 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
 | 38 | [Unfähigkeit](http://twitter.com/search?q=Unf%c3%a4higkeit) | N/A |
-| 39 | [Müll](http://twitter.com/search?q=M%c3%bcll) | N/A |
-| 40 | [Preise](http://twitter.com/search?q=Preise) | N/A |
-| 41 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 42 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 43 | [Alptraum](http://twitter.com/search?q=Alptraum) | N/A |
-| 44 | [Debatte](http://twitter.com/search?q=Debatte) | N/A |
-| 45 | [Geheimnis](http://twitter.com/search?q=Geheimnis) | N/A |
-| 46 | [drohung](http://twitter.com/search?q=drohung) | N/A |
-| 47 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 48 | [Kurier](http://twitter.com/search?q=Kurier) | N/A |
-| 49 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 50 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 39 | [Preise](http://twitter.com/search?q=Preise) | N/A |
+| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 41 | [Alptraum](http://twitter.com/search?q=Alptraum) | N/A |
+| 42 | [Drohung](http://twitter.com/search?q=Drohung) | N/A |
+| 43 | [Veganer](http://twitter.com/search?q=Veganer) | N/A |
+| 44 | [Rapid](http://twitter.com/search?q=Rapid) | N/A |
+| 45 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 46 | [Star Wars](http://twitter.com/search?q=Star+Wars) | N/A |
+| 47 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 48 | [Narren](http://twitter.com/search?q=Narren) | N/A |
+| 49 | [Herren](http://twitter.com/search?q=Herren) | N/A |
+| 50 | [Abgrund](http://twitter.com/search?q=Abgrund) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-20 10:18:08 UTC`
+📆 Last Updated: `2023-02-20 11:17:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,7 +41,7 @@ This is top 50 for Guatemala
 | 24 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 25 | [#KingsLeague](http://twitter.com/search?q=%23KingsLeague) | N/A |
 | 26 | [Osasuna](http://twitter.com/search?q=Osasuna) | Osasuna is a Spanish football club based in Pamplona, Navarre. The name Osasuna means "health" or "vigor" in the Basque language. |
-| 27 | [#tlou](http://twitter.com/search?q=%23tlou) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they travel across a post-apocalyptic America in search of a cure for an infection that has nearly wiped out humanity. |
+| 27 | [#TLOU](http://twitter.com/search?q=%23TLOU) | #TLOU is an acronym for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is a post-apocalyptic action-adventure survival horror game set in the United States. The game follows the story of Joel and Ellie as they traverse a post-apocalyptic world filled with hostile humans and cannibalistic creatures known as the Infected. |
 | 28 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
 | 29 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
 | 30 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
@@ -51,7 +51,7 @@ This is top 50 for Guatemala
 | 34 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
 | 35 | [malacateco](http://twitter.com/search?q=malacateco) | N/A |
 | 36 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
-| 37 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 37 | [valverde](http://twitter.com/search?q=valverde) | N/A |
 | 38 | [gabino vásquez](http://twitter.com/search?q=gabino+v%c3%a1squez) | N/A |
 | 39 | [quiñónez](http://twitter.com/search?q=qui%c3%b1%c3%b3nez) | N/A |
 | 40 | [Kendall](http://twitter.com/search?q=Kendall) | N/A |

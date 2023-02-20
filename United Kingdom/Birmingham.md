@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-02-20 10:17:20 UTC`
+📆 Last Updated: `2023-02-20 11:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 2 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 3 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 4 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 5 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 6 | [#PLTpetday](http://twitter.com/search?q=%23PLTpetday) | N/A |
-| 7 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 8 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
-| 9 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
-| 10 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 11 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
-| 12 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
-| 13 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 14 | [Angus Robertson](http://twitter.com/search?q=Angus+Robertson) | N/A |
-| 15 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 16 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
-| 17 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
+| 1 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
+| 2 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
+| 3 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 4 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 5 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
+| 6 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 7 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 8 | [#PLTpetday](http://twitter.com/search?q=%23PLTpetday) | N/A |
+| 9 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 10 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
+| 11 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 12 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
+| 13 | [Angus Robertson](http://twitter.com/search?q=Angus+Robertson) | N/A |
+| 14 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 15 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 16 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 17 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 18 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 19 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 20 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
-| 21 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
-| 22 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
-| 23 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 24 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
-| 25 | [World of Sport](http://twitter.com/search?q=World+of+Sport) | N/A |
-| 26 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 27 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
-| 28 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 29 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 30 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
-| 31 | [Terrifying](http://twitter.com/search?q=Terrifying) | N/A |
-| 32 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
-| 33 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 34 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
-| 35 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
-| 36 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 37 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
-| 38 | [#AskSRK](http://twitter.com/search?q=%23AskSRK) | #AskSRK is a hashtag used on social media to encourage people to ask questions to the Indian actor Shah Rukh Khan. It is an invitation for fans to ask him questions about his life, career, and opinions. |
-| 39 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
-| 40 | [#FreeSchoolMeals](http://twitter.com/search?q=%23FreeSchoolMeals) | N/A |
-| 41 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
-| 42 | [#fsprintmonday](http://twitter.com/search?q=%23fsprintmonday) | N/A |
-| 43 | [#ToriesOut228](http://twitter.com/search?q=%23ToriesOut228) | N/A |
-| 44 | [#MondayBlues](http://twitter.com/search?q=%23MondayBlues) | N/A |
-| 45 | [#evening](http://twitter.com/search?q=%23evening) | N/A |
-| 46 | [#Wordle611](http://twitter.com/search?q=%23Wordle611) | N/A |
-| 47 | [#Castle](http://twitter.com/search?q=%23Castle) | N/A |
-| 48 | [#ScottishTop10](http://twitter.com/search?q=%23ScottishTop10) | N/A |
-| 49 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 19 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 20 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 21 | [Daily Quordle 392](http://twitter.com/search?q=Daily+Quordle+392) | N/A |
+| 22 | [Yousaf](http://twitter.com/search?q=Yousaf) | N/A |
+| 23 | [Thin Lizzy](http://twitter.com/search?q=Thin+Lizzy) | N/A |
+| 24 | [Morning Karen](http://twitter.com/search?q=Morning+Karen) | N/A |
+| 25 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 26 | [City Hall](http://twitter.com/search?q=City+Hall) | N/A |
+| 27 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
+| 28 | [Morning Paul](http://twitter.com/search?q=Morning+Paul) | N/A |
+| 29 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 30 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
+| 31 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 32 | [Hall of Fame](http://twitter.com/search?q=Hall+of+Fame) | Hall of Fame is a term used to describe a group of people who have achieved greatness in their respective fields. It is usually used to honor those who have made significant contributions to their industry, sport, or art form. The term can also be used to refer to a physical building or monument that houses the names and accomplishments of these individuals. |
+| 33 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
+| 34 | [World of Sport](http://twitter.com/search?q=World+of+Sport) | N/A |
+| 35 | [All Quiet](http://twitter.com/search?q=All+Quiet) | All Quiet is a phrase used to describe a situation in which there is no noise or activity. It is often used to describe a peaceful or calm atmosphere. In English, it can be used to describe a moment of silence or tranquility. |
+| 36 | [Regan](http://twitter.com/search?q=Regan) | N/A |
+| 37 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 38 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 39 | [Western Front](http://twitter.com/search?q=Western+Front) | Western Front refers to the line of battle during World War I that stretched from the North Sea coast of Belgium to the Swiss border with France. It was the main theater of war between Germany and its allies on one side, and France, Britain, and their allies on the other. The term is also used more generally to refer to any line of battle in a war between two opposing sides. |
+| 40 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 41 | [#mondaythoughts](http://twitter.com/search?q=%23mondaythoughts) | #MondayThoughts is a hashtag used on social media to share thoughts, ideas, and reflections on the start of the week. It is often used to encourage others to have a positive outlook on the week ahead. |
+| 42 | [#MondayMorning](http://twitter.com/search?q=%23MondayMorning) | N/A |
+| 43 | [#arsecastextra](http://twitter.com/search?q=%23arsecastextra) | N/A |
+| 44 | [#FreeSchoolMeals](http://twitter.com/search?q=%23FreeSchoolMeals) | N/A |
+| 45 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
+| 46 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 47 | [#Mondayvibes](http://twitter.com/search?q=%23Mondayvibes) | N/A |
+| 48 | [#MondayMood](http://twitter.com/search?q=%23MondayMood) | N/A |
 
 
 
