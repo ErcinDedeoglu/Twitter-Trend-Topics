@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-02-20 05:16:59 UTC`
+📆 Last Updated: `2023-02-20 06:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 2 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 3 | [#JINNY](http://twitter.com/search?q=%23JINNY) | N/A |
-| 4 | [#SemuaPakeBRImo](http://twitter.com/search?q=%23SemuaPakeBRImo) | N/A |
-| 5 | [#KitaSATUIndonesia](http://twitter.com/search?q=%23KitaSATUIndonesia) | N/A |
+| 1 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
+| 2 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 3 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 4 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 5 | [BERRY](http://twitter.com/search?q=BERRY) | N/A |
 | 6 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 7 | [#66TahunAstra](http://twitter.com/search?q=%2366TahunAstra) | N/A |
+| 7 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
 | 8 | [baju kembaran](http://twitter.com/search?q=baju+kembaran) | N/A |
-| 9 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 10 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 11 | [Ferdy Irawan](http://twitter.com/search?q=Ferdy+Irawan) | N/A |
-| 12 | [Tercantik](http://twitter.com/search?q=Tercantik) | N/A |
-| 13 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 14 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 15 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 17 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
-| 18 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
-| 19 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
-| 20 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
-| 21 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
-| 22 | [Orang Islam Cinta Ilmu](http://twitter.com/search?q=Orang+Islam+Cinta+Ilmu) | N/A |
-| 23 | [Kakao](http://twitter.com/search?q=Kakao) | N/A |
-| 24 | [Wang Tao Zi](http://twitter.com/search?q=Wang+Tao+Zi) | N/A |
-| 25 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 26 | [Gong Yoo](http://twitter.com/search?q=Gong+Yoo) | N/A |
-| 27 | [era baru pssi](http://twitter.com/search?q=era+baru+pssi) | N/A |
-| 28 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 29 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 30 | [900M FOR SUGA](http://twitter.com/search?q=900M+FOR+SUGA) | N/A |
-| 31 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 32 | [YOONGI RED HAIR](http://twitter.com/search?q=YOONGI+RED+HAIR) | N/A |
-| 33 | [RENJUN WE LOVE YOU](http://twitter.com/search?q=RENJUN+WE+LOVE+YOU) | N/A |
-| 34 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 35 | [nct dream kyocera dome day3](http://twitter.com/search?q=nct+dream+kyocera+dome+day3) | N/A |
-| 36 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 37 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
-| 38 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 39 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
-| 40 | [park jisung thank you](http://twitter.com/search?q=park+jisung+thank+you) | N/A |
-| 41 | [Yerin](http://twitter.com/search?q=Yerin) | N/A |
-| 42 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 43 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
-| 44 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 45 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 46 | [Unlocked](http://twitter.com/search?q=Unlocked) | N/A |
-| 47 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 48 | [Katla 396 X](http://twitter.com/search?q=Katla+396+X) | N/A |
+| 9 | [#BuildFamilyLuve](http://twitter.com/search?q=%23BuildFamilyLuve) | N/A |
+| 10 | [#itsJUNGVELYday](http://twitter.com/search?q=%23itsJUNGVELYday) | N/A |
+| 11 | [200MP Nightograpy Camera](http://twitter.com/search?q=200MP+Nightograpy+Camera) | N/A |
+| 12 | [Solo of NCT](http://twitter.com/search?q=Solo+of+NCT) | N/A |
+| 13 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 14 | [Ferdy Irawan](http://twitter.com/search?q=Ferdy+Irawan) | N/A |
+| 15 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 16 | [Tercantik](http://twitter.com/search?q=Tercantik) | N/A |
+| 17 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 18 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 20 | [Maudy Ahyundai](http://twitter.com/search?q=Maudy+Ahyundai) | N/A |
+| 21 | [Pagar](http://twitter.com/search?q=Pagar) | N/A |
+| 22 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
+| 23 | [BSS GRANDSLAM CONGRATULATIONS](http://twitter.com/search?q=BSS+GRANDSLAM+CONGRATULATIONS) | N/A |
+| 24 | [ASA IS HERE](http://twitter.com/search?q=ASA+IS+HERE) | N/A |
+| 25 | [TOLO](http://twitter.com/search?q=TOLO) | N/A |
+| 26 | [dita concept photo](http://twitter.com/search?q=dita+concept+photo) | N/A |
+| 27 | [Orang Islam Cinta Ilmu](http://twitter.com/search?q=Orang+Islam+Cinta+Ilmu) | N/A |
+| 28 | [Apel Pagi](http://twitter.com/search?q=Apel+Pagi) | N/A |
+| 29 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
+| 30 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
+| 31 | [era baru pssi](http://twitter.com/search?q=era+baru+pssi) | N/A |
+| 32 | [Wang Tao Zi](http://twitter.com/search?q=Wang+Tao+Zi) | N/A |
+| 33 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 34 | [YOONGI RED HAIR](http://twitter.com/search?q=YOONGI+RED+HAIR) | N/A |
+| 35 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 36 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 37 | [900M FOR SUGA](http://twitter.com/search?q=900M+FOR+SUGA) | N/A |
+| 38 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
+| 39 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
+| 40 | [Gong Yoo](http://twitter.com/search?q=Gong+Yoo) | N/A |
+| 41 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 42 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 43 | [MARKHYUCK JAYA JAYA JAYA](http://twitter.com/search?q=MARKHYUCK+JAYA+JAYA+JAYA) | N/A |
+| 44 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 45 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 46 | [nct dream kyocera dome day3](http://twitter.com/search?q=nct+dream+kyocera+dome+day3) | N/A |
+| 47 | [park jisung thank you](http://twitter.com/search?q=park+jisung+thank+you) | N/A |
+| 48 | [RENJUN WE LOVE YOU](http://twitter.com/search?q=RENJUN+WE+LOVE+YOU) | N/A |
 
 
 

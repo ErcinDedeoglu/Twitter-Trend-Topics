@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-20 05:16:57 UTC`
+📆 Last Updated: `2023-02-20 06:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 2 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 3 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 4 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 2 | [Juso](http://twitter.com/search?q=Juso) | N/A |
+| 3 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 4 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 5 | [#fcsgfcl](http://twitter.com/search?q=%23fcsgfcl) | N/A |
-| 6 | [servette](http://twitter.com/search?q=servette) | N/A |
-| 7 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
-| 8 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 9 | [Munich](http://twitter.com/search?q=Munich) | N/A |
-| 10 | [Scheiben](http://twitter.com/search?q=Scheiben) | N/A |
-| 11 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
-| 12 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 6 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 7 | [servette](http://twitter.com/search?q=servette) | N/A |
+| 8 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
+| 9 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 10 | [Munich](http://twitter.com/search?q=Munich) | N/A |
+| 11 | [scheiben](http://twitter.com/search?q=scheiben) | N/A |
+| 12 | [Twitter Blue](http://twitter.com/search?q=Twitter+Blue) | Twitter Blue is a subscription service offered by Twitter that allows users to access exclusive features and content. It includes features such as an undo tweet button, custom app themes, and access to analytics. The meaning of Twitter Blue in English is a paid subscription service offered by Twitter that provides additional features and content. |
 | 13 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
-| 14 | [Trychler](http://twitter.com/search?q=Trychler) | N/A |
+| 14 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
 | 15 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
-| 16 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 17 | [bâle](http://twitter.com/search?q=b%c3%a2le) | N/A |
-| 18 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 19 | [juso](http://twitter.com/search?q=juso) | N/A |
-| 20 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
-| 21 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
-| 22 | [Kreis](http://twitter.com/search?q=Kreis) | N/A |
-| 23 | [Maul](http://twitter.com/search?q=Maul) | N/A |
-| 24 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 25 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 26 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
-| 27 | [Fresse](http://twitter.com/search?q=Fresse) | N/A |
-| 28 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 29 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 16 | [bâle](http://twitter.com/search?q=b%c3%a2le) | N/A |
+| 17 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
+| 18 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
+| 19 | [Kreis](http://twitter.com/search?q=Kreis) | N/A |
+| 20 | [Trychler](http://twitter.com/search?q=Trychler) | N/A |
+| 21 | [Maul](http://twitter.com/search?q=Maul) | N/A |
+| 22 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 23 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 24 | [Bewegung](http://twitter.com/search?q=Bewegung) | N/A |
+| 25 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 26 | [Fresse](http://twitter.com/search?q=Fresse) | N/A |
+| 27 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 28 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 29 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
 | 30 | [Brazil](http://twitter.com/search?q=Brazil) | Brazil is a country located in South America. It is the largest country in the region and the fifth largest in the world. The official language of Brazil is Portuguese, and its capital is Brasília. The name "Brazil" comes from a tree called brazilwood, which was once abundant in the region. |
-| 31 | [Frühling](http://twitter.com/search?q=Fr%c3%bchling) | N/A |
-| 32 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
-| 33 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
-| 34 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
-| 35 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 36 | [Marx](http://twitter.com/search?q=Marx) | N/A |
-| 37 | [Boris](http://twitter.com/search?q=Boris) | N/A |
-| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [Haufen](http://twitter.com/search?q=Haufen) | N/A |
-| 40 | [klassen](http://twitter.com/search?q=klassen) | N/A |
-| 41 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
-| 42 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
-| 43 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 44 | [Aargau](http://twitter.com/search?q=Aargau) | N/A |
-| 45 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
-| 46 | [Congo](http://twitter.com/search?q=Congo) | N/A |
-| 47 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
+| 31 | [Fasnacht](http://twitter.com/search?q=Fasnacht) | N/A |
+| 32 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 33 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 34 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
+| 35 | [Boris](http://twitter.com/search?q=Boris) | N/A |
+| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 37 | [klassen](http://twitter.com/search?q=klassen) | N/A |
+| 38 | [Hauptsache](http://twitter.com/search?q=Hauptsache) | N/A |
+| 39 | [Vernunft](http://twitter.com/search?q=Vernunft) | N/A |
+| 40 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
+| 41 | [aargau](http://twitter.com/search?q=aargau) | N/A |
+| 42 | [Sekunden](http://twitter.com/search?q=Sekunden) | N/A |
+| 43 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
+| 44 | [Absicht](http://twitter.com/search?q=Absicht) | N/A |
+| 45 | [Congo](http://twitter.com/search?q=Congo) | N/A |
+| 46 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
+| 47 | [Österreich](http://twitter.com/search?q=%c3%96sterreich) | N/A |
 
 
 
