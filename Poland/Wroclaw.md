@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-21 10:16:25 UTC`
+📆 Last Updated: `2023-02-21 11:17:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
-| 2 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 3 | [#mineła8](http://twitter.com/search?q=%23mine%c5%82a8) | N/A |
-| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 5 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 6 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 2 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
+| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 4 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [Prestiżowa](http://twitter.com/search?q=Presti%c5%bcowa) | N/A |
+| 7 | [#radjag](http://twitter.com/search?q=%23radjag) | N/A |
 | 8 | [Piotrowicza](http://twitter.com/search?q=Piotrowicza) | N/A |
-| 9 | [#RADJAG](http://twitter.com/search?q=%23RADJAG) | N/A |
-| 10 | [#GOATsoe](http://twitter.com/search?q=%23GOATsoe) | N/A |
-| 11 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
-| 12 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 13 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 14 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 15 | [Łacina](http://twitter.com/search?q=%c5%81acina) | N/A |
-| 16 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 17 | [Rzeszowa](http://twitter.com/search?q=Rzeszowa) | N/A |
-| 18 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
-| 19 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
+| 9 | [#GOATsoe](http://twitter.com/search?q=%23GOATsoe) | N/A |
+| 10 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 11 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 12 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
+| 13 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 14 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 15 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
+| 16 | [Zachód](http://twitter.com/search?q=Zach%c3%b3d) | N/A |
+| 17 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
+| 18 | [Rzeszowa](http://twitter.com/search?q=Rzeszowa) | N/A |
+| 19 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
 | 20 | [Przemyśla](http://twitter.com/search?q=Przemy%c5%9bla) | N/A |
-| 21 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 22 | [Zachód](http://twitter.com/search?q=Zach%c3%b3d) | N/A |
-| 23 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 21 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
+| 22 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
+| 23 | [Łacina](http://twitter.com/search?q=%c5%81acina) | N/A |
 | 24 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 25 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 26 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
-| 27 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 26 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
+| 27 | [#farma](http://twitter.com/search?q=%23farma) | N/A |
 | 28 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 29 | [Kremlu](http://twitter.com/search?q=Kremlu) | N/A |
-| 30 | [Budka](http://twitter.com/search?q=Budka) | N/A |
-| 31 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
-| 32 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
-| 33 | [Borewicz](http://twitter.com/search?q=Borewicz) | N/A |
-| 34 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 35 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
-| 36 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 37 | [Gazety Polskiej](http://twitter.com/search?q=Gazety+Polskiej) | N/A |
-| 38 | [Cześć Magda](http://twitter.com/search?q=Cze%c5%9b%c4%87+Magda) | N/A |
-| 39 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
-| 40 | [Amerykanie](http://twitter.com/search?q=Amerykanie) | N/A |
-| 41 | [Mordor](http://twitter.com/search?q=Mordor) | N/A |
-| 42 | [Zdzisław Beksiński](http://twitter.com/search?q=Zdzis%c5%82aw+Beksi%c5%84ski) | N/A |
-| 43 | [Haniu](http://twitter.com/search?q=Haniu) | N/A |
-| 44 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 45 | [Torre](http://twitter.com/search?q=Torre) | N/A |
-| 46 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
+| 29 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 30 | [Kremlu](http://twitter.com/search?q=Kremlu) | N/A |
+| 31 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 32 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
+| 33 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
+| 34 | [gazety polskiej](http://twitter.com/search?q=gazety+polskiej) | N/A |
+| 35 | [Amerykanie](http://twitter.com/search?q=Amerykanie) | N/A |
+| 36 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
+| 37 | [Mordor](http://twitter.com/search?q=Mordor) | N/A |
+| 38 | [Zdzisław Beksiński](http://twitter.com/search?q=Zdzis%c5%82aw+Beksi%c5%84ski) | N/A |
+| 39 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 40 | [Borewicz](http://twitter.com/search?q=Borewicz) | N/A |
+| 41 | [West](http://twitter.com/search?q=West) | N/A |
+| 42 | [w moskwie](http://twitter.com/search?q=w+moskwie) | N/A |
+| 43 | [Torre](http://twitter.com/search?q=Torre) | N/A |
+| 44 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
+| 45 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 46 | [Ramstein](http://twitter.com/search?q=Ramstein) | N/A |
 | 47 | [Afganistanu](http://twitter.com/search?q=Afganistanu) | N/A |
-| 48 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
+| 48 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
 | 49 | [Steki](http://twitter.com/search?q=Steki) | N/A |
-| 50 | [Ramstein](http://twitter.com/search?q=Ramstein) | N/A |
+| 50 | [Warszawy](http://twitter.com/search?q=Warszawy) | N/A |
 
 
 

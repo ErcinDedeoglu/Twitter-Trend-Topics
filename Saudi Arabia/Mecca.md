@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mecca
 
-📆 Last Updated: `2023-02-21 10:16:43 UTC`
+📆 Last Updated: `2023-02-21 11:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,43 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#تركي_بن_فيصل](http://twitter.com/search?q=%23%d8%aa%d8%b1%d9%83%d9%8a_%d8%a8%d9%86_%d9%81%d9%8a%d8%b5%d9%84) | N/A |
-| 2 | [#الهلال_فولاذ](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%88%d9%84%d8%a7%d8%b0) | N/A |
-| 3 | [#الشباب_الدحيل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84) | N/A |
-| 4 | [#صباح_الخير_والسعاده_للجميع](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87_%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
-| 5 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 1 | [الاختبارات النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 2 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 3 | [#الهلال_فولاذ](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%88%d9%84%d8%a7%d8%b0) | N/A |
+| 4 | [#الشباب_الدحيل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84) | N/A |
+| 5 | [#تركي_بن_فيصل](http://twitter.com/search?q=%23%d8%aa%d8%b1%d9%83%d9%8a_%d8%a8%d9%86_%d9%81%d9%8a%d8%b5%d9%84) | N/A |
 | 6 | [الدوله السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 7 | [#اجازه_يوم_التاسيس](http://twitter.com/search?q=%23%d8%a7%d8%ac%d8%a7%d8%b2%d9%87_%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 8 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 9 | [حجر الاساس](http://twitter.com/search?q=%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3) | N/A |
-| 10 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
-| 11 | [الاختبارات النهاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1%d8%a7%d8%aa+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 12 | [الفريق الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 13 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
-| 14 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 15 | [محمد بن سعود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 16 | [استاد الجنوب](http://twitter.com/search?q=%d8%a7%d8%b3%d8%aa%d8%a7%d8%af+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8) | N/A |
-| 17 | [علي البليهي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | N/A |
-| 18 | [اختبار اليوم](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 19 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 20 | [الاتحاد الاسيوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | الاتحاد الاسيوي (ASEAN) is the Association of Southeast Asian Nations, an intergovernmental organization made up of 10 countries in Southeast Asia. Its purpose is to promote economic growth, social progress, and cultural development among its members. In English, it means "Association of Southeast Asian Nations". |
-| 21 | [حسن العمل](http://twitter.com/search?q=%d8%ad%d8%b3%d9%86+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 22 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 23 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
-| 24 | [غرب اسيا](http://twitter.com/search?q=%d8%ba%d8%b1%d8%a8+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 25 | [#صباح_الحب](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
-| 26 | [#بشار_الاسد](http://twitter.com/search?q=%23%d8%a8%d8%b4%d8%a7%d8%b1_%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 7 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
+| 8 | [#قرعه_دوري_ابطال_اسيا](http://twitter.com/search?q=%23%d9%82%d8%b1%d8%b9%d9%87_%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 9 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 10 | [حجر الاساس](http://twitter.com/search?q=%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3) | N/A |
+| 11 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
+| 12 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
+| 13 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 14 | [علي البليهي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | N/A |
+| 15 | [الفريق الايراني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%8a%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 16 | [محمد بن سعود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 17 | [الاتحاد الاسيوي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%8a%d9%88%d9%8a) | الاتحاد الاسيوي (ASEAN) is the Association of Southeast Asian Nations, an intergovernmental organization made up of 10 countries in Southeast Asia. Its purpose is to promote economic growth, social progress, and cultural development among its members. In English, it means "Association of Southeast Asian Nations". |
+| 18 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 19 | [اختبار اليوم](http://twitter.com/search?q=%d8%a7%d8%ae%d8%aa%d8%a8%d8%a7%d8%b1+%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 20 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 21 | [غرب اسيا](http://twitter.com/search?q=%d8%ba%d8%b1%d8%a8+%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
+| 22 | [#جمعيه_الاسكان_التنموي_بعسير](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%8a%d9%87_%d8%a7%d9%84%d8%a7%d8%b3%d9%83%d8%a7%d9%86_%d8%a7%d9%84%d8%aa%d9%86%d9%85%d9%88%d9%8a_%d8%a8%d8%b9%d8%b3%d9%8a%d8%b1) | N/A |
+| 23 | [#البزنس77](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b377) | N/A |
+| 24 | [#صباح_الخير_والسعاده_للجميع](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87_%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 25 | [#بشار_الاسد](http://twitter.com/search?q=%23%d8%a8%d8%b4%d8%a7%d8%b1_%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
+| 26 | [#صباح_الحب](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ad%d8%a8) | N/A |
 | 27 | [#غارق_بالذنوب_فكيف_اتوب_بصدق](http://twitter.com/search?q=%23%d8%ba%d8%a7%d8%b1%d9%82_%d8%a8%d8%a7%d9%84%d8%b0%d9%86%d9%88%d8%a8_%d9%81%d9%83%d9%8a%d9%81_%d8%a7%d8%aa%d9%88%d8%a8_%d8%a8%d8%b5%d8%af%d9%82) | N/A |
-| 28 | [#دوري_ابطال_اسيا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d8%b3%d9%8a%d8%a7) | N/A |
-| 29 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 28 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 29 | [#شداد_عبدالمحسن_الراجحي](http://twitter.com/search?q=%23%d8%b4%d8%af%d8%a7%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ad%d8%b3%d9%86_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
 | 30 | [#شعبان](http://twitter.com/search?q=%23%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 31 | [#التاسيس_السعودي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 32 | [#شداد_عبدالمحسن_الراجحي](http://twitter.com/search?q=%23%d8%b4%d8%af%d8%a7%d8%af_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%85%d8%ad%d8%b3%d9%86_%d8%a7%d9%84%d8%b1%d8%a7%d8%ac%d8%ad%d9%8a) | N/A |
-| 33 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
+| 31 | [#قطوف_وحلا](http://twitter.com/search?q=%23%d9%82%d8%b7%d9%88%d9%81_%d9%88%d8%ad%d9%84%d8%a7) | N/A |
+| 32 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
+| 33 | [#المنتدي_السعودي_للاعلام2](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d9%86%d8%aa%d8%af%d9%8a_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a_%d9%84%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%852) | N/A |
 | 34 | [#يخبرني_الصباح](http://twitter.com/search?q=%23%d9%8a%d8%ae%d8%a8%d8%b1%d9%86%d9%8a_%d8%a7%d9%84%d8%b5%d8%a8%d8%a7%d8%ad) | N/A |
-| 35 | [#قطوف_وحلا](http://twitter.com/search?q=%23%d9%82%d8%b7%d9%88%d9%81_%d9%88%d8%ad%d9%84%d8%a7) | N/A |
-| 36 | [#الماجد_للعود](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%a7%d8%ac%d8%af_%d9%84%d9%84%d8%b9%d9%88%d8%af) | N/A |
-| 37 | [#العطاء_مالي_يدينا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1_%d9%85%d8%a7%d9%84%d9%8a_%d9%8a%d8%af%d9%8a%d9%86%d8%a7) | N/A |
-| 38 | [#البسامي_الدوليه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b3%d8%a7%d9%85%d9%8a_%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a%d9%87) | N/A |
-| 39 | [#الخبر](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ae%d8%a8%d8%b1) | N/A |
-| 40 | [#راعي_الطيب](http://twitter.com/search?q=%23%d8%b1%d8%a7%d8%b9%d9%8a_%d8%a7%d9%84%d8%b7%d9%8a%d8%a8) | N/A |
+| 35 | [#الماجد_للعود](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%a7%d8%ac%d8%af_%d9%84%d9%84%d8%b9%d9%88%d8%af) | N/A |
+| 36 | [#العطاء_مالي_يدينا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1_%d9%85%d8%a7%d9%84%d9%8a_%d9%8a%d8%af%d9%8a%d9%86%d8%a7) | N/A |
+| 37 | [#ليفربول_ريال_مدريد](http://twitter.com/search?q=%23%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84_%d8%b1%d9%8a%d8%a7%d9%84_%d9%85%d8%af%d8%b1%d9%8a%d8%af) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rawalpindi
 
-📆 Last Updated: `2023-02-21 10:16:47 UTC`
+📆 Last Updated: `2023-02-21 11:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Pakistan](</Pakistan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#لاہور_ہائیکورٹ_پہنچیں](http://twitter.com/search?q=%23%d9%84%d8%a7%db%81%d9%88%d8%b1_%db%81%d8%a7%d8%a6%db%8c%da%a9%d9%88%d8%b1%d9%b9_%d9%be%db%81%d9%86%da%86%db%8c%da%ba) | N/A |
-| 2 | [#لنگڑا_انصاف](http://twitter.com/search?q=%23%d9%84%d9%86%da%af%da%91%d8%a7_%d8%a7%d9%86%d8%b5%d8%a7%d9%81) | N/A |
-| 3 | [#واحدامیدسعدحسین](http://twitter.com/search?q=%23%d9%88%d8%a7%d8%ad%d8%af%d8%a7%d9%85%db%8c%d8%af%d8%b3%d8%b9%d8%af%d8%ad%d8%b3%db%8c%d9%86) | N/A |
-| 4 | [#ImranKhanForPakistan](http://twitter.com/search?q=%23ImranKhanForPakistan) | N/A |
-| 5 | [#COMSATS](http://twitter.com/search?q=%23COMSATS) | N/A |
-| 6 | [Another 6.4](http://twitter.com/search?q=Another+6.4) | N/A |
-| 7 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 8 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 9 | [Javed Iqbal](http://twitter.com/search?q=Javed+Iqbal) | N/A |
-| 10 | [Neesham](http://twitter.com/search?q=Neesham) | N/A |
-| 11 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
-| 12 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
-| 13 | [Frying](http://twitter.com/search?q=Frying) | N/A |
+| 1 | [#KhulKayKhareedo](http://twitter.com/search?q=%23KhulKayKhareedo) | N/A |
+| 2 | [#لاہور_ہائیکورٹ_پہنچیں](http://twitter.com/search?q=%23%d9%84%d8%a7%db%81%d9%88%d8%b1_%db%81%d8%a7%d8%a6%db%8c%da%a9%d9%88%d8%b1%d9%b9_%d9%be%db%81%d9%86%da%86%db%8c%da%ba) | N/A |
+| 3 | [#لنگڑا_انصاف](http://twitter.com/search?q=%23%d9%84%d9%86%da%af%da%91%d8%a7_%d8%a7%d9%86%d8%b5%d8%a7%d9%81) | N/A |
+| 4 | [Daraz](http://twitter.com/search?q=Daraz) | N/A |
+| 5 | [Durex Pakistan](http://twitter.com/search?q=Durex+Pakistan) | N/A |
+| 6 | [#واحدامیدسعدحسین](http://twitter.com/search?q=%23%d9%88%d8%a7%d8%ad%d8%af%d8%a7%d9%85%db%8c%d8%af%d8%b3%d8%b9%d8%af%d8%ad%d8%b3%db%8c%d9%86) | N/A |
+| 7 | [#COMSATS](http://twitter.com/search?q=%23COMSATS) | N/A |
+| 8 | [Another 6.4](http://twitter.com/search?q=Another+6.4) | N/A |
+| 9 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 10 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 11 | [Javed Iqbal](http://twitter.com/search?q=Javed+Iqbal) | N/A |
+| 12 | [Neesham](http://twitter.com/search?q=Neesham) | N/A |
+| 13 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
 | 14 | [arshad iqbal](http://twitter.com/search?q=arshad+iqbal) | N/A |
-| 15 | [Aurat March](http://twitter.com/search?q=Aurat+March) | N/A |
-| 16 | [Usman Qadir](http://twitter.com/search?q=Usman+Qadir) | N/A |
-| 17 | [election act 2017](http://twitter.com/search?q=election+act+2017) | N/A |
-| 18 | [Hasaranga](http://twitter.com/search?q=Hasaranga) | N/A |
-| 19 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 20 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
-| 21 | [Javed Akhtar](http://twitter.com/search?q=Javed+Akhtar) | N/A |
-| 22 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 15 | [Naseem](http://twitter.com/search?q=Naseem) | N/A |
+| 16 | [Frying](http://twitter.com/search?q=Frying) | N/A |
+| 17 | [Usman Qadir](http://twitter.com/search?q=Usman+Qadir) | N/A |
+| 18 | [Javed Akhtar](http://twitter.com/search?q=Javed+Akhtar) | N/A |
+| 19 | [Hasaranga](http://twitter.com/search?q=Hasaranga) | N/A |
+| 20 | [Aurat March](http://twitter.com/search?q=Aurat+March) | N/A |
+| 21 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 22 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
 | 23 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
-| 24 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 25 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
-| 26 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 27 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 28 | [Sindh](http://twitter.com/search?q=Sindh) | N/A |
-| 29 | [Iftikhar Ahmed](http://twitter.com/search?q=Iftikhar+Ahmed) | Iftikhar Ahmed is an Arabic name that means "honor and glory". It is often used as a given name for boys. |
-| 30 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
-| 31 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 32 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 33 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 34 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 35 | [England](http://twitter.com/search?q=England) | N/A |
-| 36 | [Yesh](http://twitter.com/search?q=Yesh) | N/A |
+| 24 | [Rothschild](http://twitter.com/search?q=Rothschild) | N/A |
+| 25 | [Sindhi](http://twitter.com/search?q=Sindhi) | N/A |
+| 26 | [Admin](http://twitter.com/search?q=Admin) | N/A |
+| 27 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 28 | [Jungkook](http://twitter.com/search?q=Jungkook) | N/A |
+| 29 | [Urdu](http://twitter.com/search?q=Urdu) | N/A |
+| 30 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 31 | [Iftikhar Ahmed](http://twitter.com/search?q=Iftikhar+Ahmed) | Iftikhar Ahmed is an Arabic name that means "honor and glory". It is often used as a given name for boys. |
+| 32 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 33 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 34 | [Yesh](http://twitter.com/search?q=Yesh) | N/A |
+| 35 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 36 | [America](http://twitter.com/search?q=America) | N/A |
 | 37 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 38 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 39 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
-| 40 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 41 | [Money](http://twitter.com/search?q=Money) | N/A |
+| 38 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
+| 39 | [Holy Quran](http://twitter.com/search?q=Holy+Quran) | N/A |
+| 40 | [Zionist](http://twitter.com/search?q=Zionist) | N/A |
+| 41 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
 | 42 | [Mafias](http://twitter.com/search?q=Mafias) | N/A |
-| 43 | [Almighty](http://twitter.com/search?q=Almighty) | N/A |
-| 44 | [London](http://twitter.com/search?q=London) | N/A |
-| 45 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 46 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 47 | [Bail](http://twitter.com/search?q=Bail) | N/A |
-| 48 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 49 | [Asia](http://twitter.com/search?q=Asia) | N/A |
-| 50 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
+| 43 | [Turkish](http://twitter.com/search?q=Turkish) | N/A |
+| 44 | [bail](http://twitter.com/search?q=bail) | N/A |
+| 45 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
+| 46 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 47 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 48 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
+| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 50 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
 
 
 

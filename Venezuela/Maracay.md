@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-02-21 10:16:21 UTC`
+📆 Last Updated: `2023-02-21 11:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,45 +23,45 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
 | 7 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 8 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 9 | [juan vicente torrealba](http://twitter.com/search?q=juan+vicente+torrealba) | N/A |
-| 10 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 11 | [Lulú](http://twitter.com/search?q=Lul%c3%ba) | N/A |
-| 12 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 9 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 10 | [juan vicente torrealba](http://twitter.com/search?q=juan+vicente+torrealba) | N/A |
+| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 12 | [Lulú](http://twitter.com/search?q=Lul%c3%ba) | N/A |
+| 13 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
 | 14 | [#saludoplanetario](http://twitter.com/search?q=%23saludoplanetario) | N/A |
 | 15 | [Dani Hernández](http://twitter.com/search?q=Dani+Hern%c3%a1ndez) | N/A |
-| 16 | [Sofía Imber](http://twitter.com/search?q=Sof%c3%ada+Imber) | N/A |
+| 16 | [sofía imber](http://twitter.com/search?q=sof%c3%ada+imber) | N/A |
 | 17 | [Los Próceres](http://twitter.com/search?q=Los+Pr%c3%b3ceres) | N/A |
 | 18 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 19 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 20 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 21 | [Roxana Díaz](http://twitter.com/search?q=Roxana+D%c3%adaz) | N/A |
-| 22 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 23 | [wilfredo peña](http://twitter.com/search?q=wilfredo+pe%c3%b1a) | N/A |
-| 24 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
+| 19 | [Roxana Díaz](http://twitter.com/search?q=Roxana+D%c3%adaz) | N/A |
+| 20 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 21 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 22 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
+| 23 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
+| 24 | [wilfredo peña](http://twitter.com/search?q=wilfredo+pe%c3%b1a) | N/A |
 | 25 | [Alicia Machado](http://twitter.com/search?q=Alicia+Machado) | N/A |
-| 26 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
-| 27 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 26 | [Clark Kent](http://twitter.com/search?q=Clark+Kent) | N/A |
+| 27 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
 | 28 | [guerra federal](http://twitter.com/search?q=guerra+federal) | N/A |
-| 29 | [Clark Kent](http://twitter.com/search?q=Clark+Kent) | N/A |
-| 30 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
-| 31 | [Robert De Niro](http://twitter.com/search?q=Robert+De+Niro) | N/A |
-| 32 | [Team Playa](http://twitter.com/search?q=Team+Playa) | N/A |
-| 33 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 34 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 35 | [gustavo rodríguez](http://twitter.com/search?q=gustavo+rodr%c3%adguez) | N/A |
-| 36 | [Ninoska Vásquez](http://twitter.com/search?q=Ninoska+V%c3%a1squez) | N/A |
-| 37 | [Complicado](http://twitter.com/search?q=Complicado) | N/A |
-| 38 | [elisa soteldo](http://twitter.com/search?q=elisa+soteldo) | N/A |
-| 39 | [Philomena](http://twitter.com/search?q=Philomena) | N/A |
-| 40 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
-| 41 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 42 | [Quieto](http://twitter.com/search?q=Quieto) | N/A |
-| 43 | [sueños de libertad](http://twitter.com/search?q=sue%c3%b1os+de+libertad) | N/A |
-| 44 | [Water Poet](http://twitter.com/search?q=Water+Poet) | N/A |
-| 45 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
-| 46 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 47 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 29 | [Ninoska Vásquez](http://twitter.com/search?q=Ninoska+V%c3%a1squez) | N/A |
+| 30 | [Robert De Niro](http://twitter.com/search?q=Robert+De+Niro) | N/A |
+| 31 | [Team Playa](http://twitter.com/search?q=Team+Playa) | N/A |
+| 32 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 33 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 34 | [Complicado](http://twitter.com/search?q=Complicado) | N/A |
+| 35 | [elisa soteldo](http://twitter.com/search?q=elisa+soteldo) | N/A |
+| 36 | [Philomena](http://twitter.com/search?q=Philomena) | N/A |
+| 37 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
+| 38 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 39 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
+| 40 | [Logrado](http://twitter.com/search?q=Logrado) | N/A |
+| 41 | [Quieto](http://twitter.com/search?q=Quieto) | N/A |
+| 42 | [sueños de libertad](http://twitter.com/search?q=sue%c3%b1os+de+libertad) | N/A |
+| 43 | [Water Poet](http://twitter.com/search?q=Water+Poet) | N/A |
+| 44 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 45 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 46 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 47 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
 
 
 

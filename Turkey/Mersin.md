@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-02-21 10:16:50 UTC`
+📆 Last Updated: `2023-02-21 11:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,52 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Mersin](http://twitter.com/search?q=Mersin) | N/A |
-| 2 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 3 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
-| 4 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
-| 5 | [Değildir](http://twitter.com/search?q=De%c4%9fildir) | N/A |
-| 6 | [Diyanet'ten Fatih Altaylı](http://twitter.com/search?q=Diyanet%27ten+Fatih+Altayl%c4%b1) | N/A |
-| 7 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 8 | [#samandag](http://twitter.com/search?q=%23samandag) | N/A |
-| 9 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 10 | [Rusya](http://twitter.com/search?q=Rusya) | N/A |
-| 11 | [Danla](http://twitter.com/search?q=Danla) | N/A |
-| 12 | [#DEPREMANI](http://twitter.com/search?q=%23DEPREMANI) | N/A |
-| 13 | [Ukrayna'ya](http://twitter.com/search?q=Ukrayna%27ya) | N/A |
-| 14 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
-| 15 | [Beyaz TV](http://twitter.com/search?q=Beyaz+TV) | N/A |
-| 16 | [Memurlar](http://twitter.com/search?q=Memurlar) | N/A |
-| 17 | [Kalyon](http://twitter.com/search?q=Kalyon) | N/A |
-| 18 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
-| 19 | [Aleykümselam](http://twitter.com/search?q=Aleyk%c3%bcmselam) | N/A |
-| 20 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 21 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 22 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
-| 23 | [Kaderden](http://twitter.com/search?q=Kaderden) | N/A |
-| 24 | [Dikkatli](http://twitter.com/search?q=Dikkatli) | N/A |
-| 25 | [Besmele](http://twitter.com/search?q=Besmele) | N/A |
-| 26 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
-| 27 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 28 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 29 | [#BenimSorum](http://twitter.com/search?q=%23BenimSorum) | N/A |
-| 30 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
-| 31 | [#hataydefne](http://twitter.com/search?q=%23hataydefne) | N/A |
-| 32 | [#YardımParalarıNerede](http://twitter.com/search?q=%23Yard%c4%b1mParalar%c4%b1Nerede) | N/A |
-| 33 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
-| 34 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
-| 35 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
-| 36 | [#HataydaDeprem](http://twitter.com/search?q=%23HataydaDeprem) | N/A |
-| 37 | [#HesapVereceksiniz](http://twitter.com/search?q=%23HesapVereceksiniz) | N/A |
-| 38 | [#VekilerTBMMne](http://twitter.com/search?q=%23VekilerTBMMne) | N/A |
-| 39 | [#turkeyearthquake2023](http://twitter.com/search?q=%23turkeyearthquake2023) | N/A |
-| 40 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
-| 41 | [#XAUUSD](http://twitter.com/search?q=%23XAUUSD) | N/A |
-| 42 | [#galeriakurtarılmayıbekliyor](http://twitter.com/search?q=%23galeriakurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
-| 43 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
-| 44 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
-| 45 | [#HEKTS](http://twitter.com/search?q=%23HEKTS) | N/A |
+| 2 | [Devlet Millet El Ele](http://twitter.com/search?q=Devlet+Millet+El+Ele) | N/A |
+| 3 | [Geçmişin İlacıAf](http://twitter.com/search?q=Ge%c3%a7mi%c5%9fin+%c4%b0lac%c4%b1Af) | N/A |
+| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 5 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
+| 6 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
+| 7 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
+| 8 | [#KılıçdaroğluNeSöyledi](http://twitter.com/search?q=%23K%c4%b1l%c4%b1%c3%a7daro%c4%9fluNeS%c3%b6yledi) | N/A |
+| 9 | [Değildir](http://twitter.com/search?q=De%c4%9fildir) | N/A |
+| 10 | [#galeriakurtarılmayıbekliyor](http://twitter.com/search?q=%23galeriakurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
+| 11 | [Diyanet'ten Fatih Altaylı](http://twitter.com/search?q=Diyanet%27ten+Fatih+Altayl%c4%b1) | N/A |
+| 12 | [Rusya](http://twitter.com/search?q=Rusya) | N/A |
+| 13 | [Metafazik](http://twitter.com/search?q=Metafazik) | N/A |
+| 14 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
+| 15 | [Melik](http://twitter.com/search?q=Melik) | N/A |
+| 16 | [Taner Savut](http://twitter.com/search?q=Taner+Savut) | N/A |
+| 17 | [Danla](http://twitter.com/search?q=Danla) | N/A |
+| 18 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
+| 19 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 20 | [Beyaz TV](http://twitter.com/search?q=Beyaz+TV) | N/A |
+| 21 | [Çadır](http://twitter.com/search?q=%c3%87ad%c4%b1r) | N/A |
+| 22 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
+| 23 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
+| 24 | [Memurlar](http://twitter.com/search?q=Memurlar) | N/A |
+| 25 | [Kalyon](http://twitter.com/search?q=Kalyon) | N/A |
+| 26 | [Aleykümselam](http://twitter.com/search?q=Aleyk%c3%bcmselam) | N/A |
+| 27 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 28 | [21 Şubat](http://twitter.com/search?q=21+%c5%9eubat) | N/A |
+| 29 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 30 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
+| 31 | [Kaderden](http://twitter.com/search?q=Kaderden) | N/A |
+| 32 | [Dikkatli](http://twitter.com/search?q=Dikkatli) | N/A |
+| 33 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
+| 34 | [#hataydefne](http://twitter.com/search?q=%23hataydefne) | N/A |
+| 35 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
+| 36 | [#samandag](http://twitter.com/search?q=%23samandag) | N/A |
+| 37 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
+| 38 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
+| 39 | [#BenimSorum](http://twitter.com/search?q=%23BenimSorum) | N/A |
+| 40 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
+| 41 | [#yanlıskarar](http://twitter.com/search?q=%23yanl%c4%b1skarar) | N/A |
+| 42 | [#HesapVereceksiniz](http://twitter.com/search?q=%23HesapVereceksiniz) | N/A |
+| 43 | [#VekilerTBMMne](http://twitter.com/search?q=%23VekilerTBMMne) | N/A |
+| 44 | [#turkeyearthquake2023](http://twitter.com/search?q=%23turkeyearthquake2023) | N/A |
+| 45 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
+| 46 | [#XAUUSD](http://twitter.com/search?q=%23XAUUSD) | N/A |
+| 47 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
 
 
 

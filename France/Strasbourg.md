@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-02-21 10:16:27 UTC`
+📆 Last Updated: `2023-02-21 11:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [Rungis](http://twitter.com/search?q=Rungis) | N/A |
 | 2 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
-| 3 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
-| 4 | [Chap](http://twitter.com/search?q=Chap) | N/A |
+| 3 | [Chap](http://twitter.com/search?q=Chap) | N/A |
+| 4 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
 | 5 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 6 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
-| 7 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
-| 8 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 7 | [#MardiConseil](http://twitter.com/search?q=%23MardiConseil) | N/A |
+| 8 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
 | 9 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
 | 10 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
 | 11 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
 | 12 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 13 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 14 | [Licra](http://twitter.com/search?q=Licra) | N/A |
-| 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 16 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 17 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 18 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 19 | [Michel Deville](http://twitter.com/search?q=Michel+Deville) | N/A |
-| 20 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
-| 21 | [Tatoos](http://twitter.com/search?q=Tatoos) | N/A |
-| 22 | [Le 21](http://twitter.com/search?q=Le+21) | N/A |
+| 13 | [licra](http://twitter.com/search?q=licra) | N/A |
+| 14 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 15 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
+| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 17 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 18 | [Ibrahim Ali](http://twitter.com/search?q=Ibrahim+Ali) | N/A |
+| 19 | [Tatoos](http://twitter.com/search?q=Tatoos) | N/A |
+| 20 | [Michel Deville](http://twitter.com/search?q=Michel+Deville) | N/A |
+| 21 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 23 | [Chine](http://twitter.com/search?q=Chine) | N/A |
 | 24 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 25 | [Samy](http://twitter.com/search?q=Samy) | N/A |
-| 26 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
-| 27 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 28 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 29 | [Solary](http://twitter.com/search?q=Solary) | N/A |
-| 30 | [Ibrahim Ali](http://twitter.com/search?q=Ibrahim+Ali) | N/A |
-| 31 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 25 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 26 | [Le 21](http://twitter.com/search?q=Le+21) | N/A |
+| 27 | [Samy](http://twitter.com/search?q=Samy) | N/A |
+| 28 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
+| 29 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 30 | [Solary](http://twitter.com/search?q=Solary) | N/A |
+| 31 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
 | 32 | [Ferran Torres](http://twitter.com/search?q=Ferran+Torres) | N/A |
-| 33 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
-| 34 | [Berger](http://twitter.com/search?q=Berger) | N/A |
-| 35 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
-| 36 | [Bac S](http://twitter.com/search?q=Bac+S) | N/A |
-| 37 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 38 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 39 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
-| 40 | [Olga Bancic](http://twitter.com/search?q=Olga+Bancic) | N/A |
-| 41 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 42 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
-| 43 | [andré gomes](http://twitter.com/search?q=andr%c3%a9+gomes) | N/A |
-| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 45 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
-| 46 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 47 | [Mont-Valérien](http://twitter.com/search?q=Mont-Val%c3%a9rien) | N/A |
-| 48 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 49 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
+| 33 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
+| 34 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 35 | [Berger](http://twitter.com/search?q=Berger) | N/A |
+| 36 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
+| 37 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 38 | [Bac S](http://twitter.com/search?q=Bac+S) | N/A |
+| 39 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 40 | [André Gomes](http://twitter.com/search?q=Andr%c3%a9+Gomes) | André Gomes is a Portuguese professional footballer who plays for Premier League club Everton and the Portugal national team. His name translates to "Andrew Gomes" in English. |
+| 41 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 42 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 43 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
+| 44 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 45 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
+| 46 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
+| 47 | [Tekken 8](http://twitter.com/search?q=Tekken+8) | Tekken 8 is the upcoming installment in the Tekken fighting game series. It is the ninth main installment in the series and will be released for PlayStation 4, Xbox One, and PC. The title of the game is derived from the Japanese word "tekken", which means "iron fist". |
+| 48 | [Uncharted 4](http://twitter.com/search?q=Uncharted+4) | N/A |
+| 49 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
 
 
 
