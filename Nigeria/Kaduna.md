@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-02-21 18:17:23 UTC`
+📆 Last Updated: `2023-02-21 19:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Nigeria](</Nigeria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 2 | [Copy and Paste](http://twitter.com/search?q=Copy+and+Paste) | N/A |
-| 3 | [#TinubuInLagos](http://twitter.com/search?q=%23TinubuInLagos) | N/A |
-| 4 | [Jamopyper Runtown](http://twitter.com/search?q=Jamopyper+Runtown) | N/A |
-| 5 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 6 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 7 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 8 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 9 | [Aisha Buhari](http://twitter.com/search?q=Aisha+Buhari) | N/A |
-| 10 | [#PDPRoadToVictory](http://twitter.com/search?q=%23PDPRoadToVictory) | N/A |
-| 11 | [Pastor Paul](http://twitter.com/search?q=Pastor+Paul) | N/A |
-| 12 | [#MoneyLounge](http://twitter.com/search?q=%23MoneyLounge) | N/A |
-| 13 | [#AtikuOnceSaid](http://twitter.com/search?q=%23AtikuOnceSaid) | N/A |
-| 14 | [Naira Marley](http://twitter.com/search?q=Naira+Marley) | N/A |
-| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [Pst Paul](http://twitter.com/search?q=Pst+Paul) | N/A |
-| 17 | [Teslim Balogun Stadium](http://twitter.com/search?q=Teslim+Balogun+Stadium) | N/A |
-| 18 | [Daddy GO](http://twitter.com/search?q=Daddy+GO) | N/A |
+| 2 | [#SportsbetioXChampsLeague](http://twitter.com/search?q=%23SportsbetioXChampsLeague) | N/A |
+| 3 | [Jamopyper Runtown](http://twitter.com/search?q=Jamopyper+Runtown) | N/A |
+| 4 | [Copy and Paste](http://twitter.com/search?q=Copy+and+Paste) | N/A |
+| 5 | [#TinubuInLagos](http://twitter.com/search?q=%23TinubuInLagos) | N/A |
+| 6 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 7 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 9 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 10 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 11 | [Aisha Buhari](http://twitter.com/search?q=Aisha+Buhari) | N/A |
+| 12 | [Pastor Paul](http://twitter.com/search?q=Pastor+Paul) | N/A |
+| 13 | [#Road2Victory](http://twitter.com/search?q=%23Road2Victory) | N/A |
+| 14 | [#AtikuOnceSaid](http://twitter.com/search?q=%23AtikuOnceSaid) | N/A |
+| 15 | [Naira Marley](http://twitter.com/search?q=Naira+Marley) | N/A |
+| 16 | [Portable](http://twitter.com/search?q=Portable) | N/A |
+| 17 | [Pst Paul](http://twitter.com/search?q=Pst+Paul) | N/A |
+| 18 | [Teslim Balogun Stadium](http://twitter.com/search?q=Teslim+Balogun+Stadium) | N/A |
 | 19 | [Acant](http://twitter.com/search?q=Acant) | N/A |
-| 20 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 21 | [Awka](http://twitter.com/search?q=Awka) | N/A |
-| 22 | [Sagamu](http://twitter.com/search?q=Sagamu) | N/A |
-| 23 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 24 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 25 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
-| 26 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
-| 27 | [iconic phyna](http://twitter.com/search?q=iconic+phyna) | N/A |
-| 28 | [Men of God](http://twitter.com/search?q=Men+of+God) | N/A |
-| 29 | [Portable](http://twitter.com/search?q=Portable) | N/A |
+| 20 | [Daddy GO](http://twitter.com/search?q=Daddy+GO) | N/A |
+| 21 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 22 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 23 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
+| 24 | [Awka](http://twitter.com/search?q=Awka) | N/A |
+| 25 | [iconic phyna](http://twitter.com/search?q=iconic+phyna) | N/A |
+| 26 | [Sagamu](http://twitter.com/search?q=Sagamu) | N/A |
+| 27 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
+| 28 | [King of Boys](http://twitter.com/search?q=King+of+Boys) | N/A |
+| 29 | [Slow Motion](http://twitter.com/search?q=Slow+Motion) | N/A |
 | 30 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 31 | [Osibanjo](http://twitter.com/search?q=Osibanjo) | N/A |
-| 32 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 33 | [King of Boys](http://twitter.com/search?q=King+of+Boys) | N/A |
-| 34 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
+| 32 | [Men of God](http://twitter.com/search?q=Men+of+God) | N/A |
+| 33 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 34 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
 | 35 | [KANAGA JNR MAN OF THE SEASON](http://twitter.com/search?q=KANAGA+JNR+MAN+OF+THE+SEASON) | N/A |
-| 36 | [BE LIKE KANAGA JNR](http://twitter.com/search?q=BE+LIKE+KANAGA+JNR) | N/A |
-| 37 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 38 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
+| 36 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
+| 37 | [Opay](http://twitter.com/search?q=Opay) | N/A |
+| 38 | [Bible](http://twitter.com/search?q=Bible) | N/A |
 | 39 | [Corn](http://twitter.com/search?q=Corn) | N/A |
-| 40 | [PDP - 176,588](http://twitter.com/search?q=PDP+-+176%2c588) | N/A |
-| 41 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 42 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 43 | [WHERE IS OSIMHEN](http://twitter.com/search?q=WHERE+IS+OSIMHEN) | N/A |
-| 44 | [LP -  134,874](http://twitter.com/search?q=LP+-++134%2c874) | N/A |
-| 45 | [Church](http://twitter.com/search?q=Church) | N/A |
-| 46 | [Adeleke Goliath](http://twitter.com/search?q=Adeleke+Goliath) | N/A |
-| 47 | [APC - 176,223](http://twitter.com/search?q=APC+-+176%2c223) | N/A |
-| 48 | [Offa](http://twitter.com/search?q=Offa) | N/A |
-| 49 | [Orji Uzor Kalu](http://twitter.com/search?q=Orji+Uzor+Kalu) | N/A |
-| 50 | [Conn](http://twitter.com/search?q=Conn) | N/A |
+| 40 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 41 | [BE LIKE KANAGA JNR](http://twitter.com/search?q=BE+LIKE+KANAGA+JNR) | N/A |
+| 42 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 43 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
+| 44 | [PDP - 176,588](http://twitter.com/search?q=PDP+-+176%2c588) | N/A |
+| 45 | [Juicy Jay](http://twitter.com/search?q=Juicy+Jay) | Juicy Jay is a brand of flavored rolling papers. The papers are made from hemp and come in a variety of flavors, such as strawberry, blueberry, watermelon, and more. The name "Juicy Jay" is derived from the fact that the papers are extra-long and extra-thick, making them juicy and flavorful when smoked. |
+| 46 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 47 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 48 | [Egusi](http://twitter.com/search?q=Egusi) | N/A |
+| 49 | [LP -  134,874](http://twitter.com/search?q=LP+-++134%2c874) | N/A |
+| 50 | [APC - 176,223](http://twitter.com/search?q=APC+-+176%2c223) | N/A |
 
 
 

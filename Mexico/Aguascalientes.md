@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Aguascalientes
 
-📆 Last Updated: `2023-02-21 18:16:54 UTC`
+📆 Last Updated: `2023-02-21 19:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [#HogaresMexiquenses](http://twitter.com/search?q=%23HogaresMexiquenses) | N/A |
 | 2 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 3 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 4 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 5 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 6 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 7 | [#LenguaMaterna](http://twitter.com/search?q=%23LenguaMaterna) | N/A |
-| 8 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
-| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 10 | [JIMIN SOLO ALBUM](http://twitter.com/search?q=JIMIN+SOLO+ALBUM) | N/A |
-| 11 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
-| 12 | [JIMIN FACE FIRST SOLO ALBUM](http://twitter.com/search?q=JIMIN+FACE+FIRST+SOLO+ALBUM) | N/A |
-| 13 | [Tecatito](http://twitter.com/search?q=Tecatito) | N/A |
-| 14 | [Cruz Roja Mexicana](http://twitter.com/search?q=Cruz+Roja+Mexicana) | N/A |
-| 15 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
-| 16 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
-| 17 | [Foals](http://twitter.com/search?q=Foals) | N/A |
-| 18 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
-| 19 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 20 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 22 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
-| 23 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 24 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 25 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 26 | [El 21](http://twitter.com/search?q=El+21) | N/A |
-| 27 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 28 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 29 | [Dos Bocas](http://twitter.com/search?q=Dos+Bocas) | N/A |
-| 30 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 32 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 33 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 34 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 35 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 36 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 37 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
-| 38 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 39 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
-| 40 | [Colima](http://twitter.com/search?q=Colima) | N/A |
-| 41 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 42 | [Celaya](http://twitter.com/search?q=Celaya) | N/A |
-| 43 | [#PoderosoUnido](http://twitter.com/search?q=%23PoderosoUnido) | N/A |
-| 44 | [#スキズ_THESOUND発売](http://twitter.com/search?q=%23%e3%82%b9%e3%82%ad%e3%82%ba_THESOUND%e7%99%ba%e5%a3%b2) | N/A |
-| 45 | [#SKZ_THESOUND_RELEASED](http://twitter.com/search?q=%23SKZ_THESOUND_RELEASED) | N/A |
-| 46 | [#Cuautitlán](http://twitter.com/search?q=%23Cuautitl%c3%a1n) | N/A |
-| 47 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 48 | [#EsteMartesPido](http://twitter.com/search?q=%23EsteMartesPido) | N/A |
-| 49 | [#READYTOBE_WORLDTOUR](http://twitter.com/search?q=%23READYTOBE_WORLDTOUR) | N/A |
+| 3 | [CHICHARITO](http://twitter.com/search?q=CHICHARITO) | N/A |
+| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 5 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 6 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 7 | [Conscripto](http://twitter.com/search?q=Conscripto) | N/A |
+| 8 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 9 | [América Rangel](http://twitter.com/search?q=Am%c3%a9rica+Rangel) | N/A |
+| 10 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 11 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 12 | [Lord Molécula](http://twitter.com/search?q=Lord+Mol%c3%a9cula) | N/A |
+| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 15 | [Congreso de la CDMX](http://twitter.com/search?q=Congreso+de+la+CDMX) | N/A |
+| 16 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 17 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 19 | [Lavadora](http://twitter.com/search?q=Lavadora) | N/A |
+| 20 | [JIMIN SOLO ALBUM](http://twitter.com/search?q=JIMIN+SOLO+ALBUM) | N/A |
+| 21 | [JIMIN FACE FIRST SOLO ALBUM](http://twitter.com/search?q=JIMIN+FACE+FIRST+SOLO+ALBUM) | N/A |
+| 22 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
+| 23 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 24 | [Tecatito](http://twitter.com/search?q=Tecatito) | N/A |
+| 25 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
+| 26 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 27 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 28 | [Foals](http://twitter.com/search?q=Foals) | N/A |
+| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 30 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
+| 31 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 32 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 33 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 34 | [El 21](http://twitter.com/search?q=El+21) | N/A |
+| 35 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 36 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
+| 37 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 38 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 39 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
+| 40 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 41 | [Dos Bocas](http://twitter.com/search?q=Dos+Bocas) | N/A |
+| 42 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 43 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
+| 44 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
+| 45 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 46 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 47 | [Colima](http://twitter.com/search?q=Colima) | N/A |
+| 48 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 49 | [#LenguaMaterna](http://twitter.com/search?q=%23LenguaMaterna) | N/A |
 
 
 

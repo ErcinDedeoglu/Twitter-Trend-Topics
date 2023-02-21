@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-02-21 18:17:40 UTC`
+📆 Last Updated: `2023-02-21 19:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,48 +20,48 @@ This is top 50 for [United States](</United States>)
 | 3 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
 | 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 5 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
-| 6 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 7 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 8 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 9 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 10 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 11 | [METLIFE](http://twitter.com/search?q=METLIFE) | N/A |
-| 12 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 13 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 14 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 15 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 16 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 17 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 18 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 19 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 20 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 21 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
-| 22 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 23 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 24 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 25 | [Best of 3](http://twitter.com/search?q=Best+of+3) | N/A |
-| 26 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 27 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 28 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
-| 29 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
-| 30 | [Madden](http://twitter.com/search?q=Madden) | N/A |
-| 31 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 32 | [Chainz](http://twitter.com/search?q=Chainz) | N/A |
-| 33 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 34 | [Section 230](http://twitter.com/search?q=Section+230) | N/A |
-| 35 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 36 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
-| 37 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 38 | [Dr. Hitt](http://twitter.com/search?q=Dr.+Hitt) | N/A |
-| 39 | [Finally 18](http://twitter.com/search?q=Finally+18) | N/A |
-| 40 | [GOTG](http://twitter.com/search?q=GOTG) | N/A |
-| 41 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
-| 42 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
-| 43 | [King Cake](http://twitter.com/search?q=King+Cake) | N/A |
-| 44 | [Jacque Vaughn](http://twitter.com/search?q=Jacque+Vaughn) | N/A |
-| 45 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 46 | [Gonzalez](http://twitter.com/search?q=Gonzalez) | N/A |
-| 47 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 6 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 7 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 8 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 9 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 10 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
+| 11 | [Chainz](http://twitter.com/search?q=Chainz) | N/A |
+| 12 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 13 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 14 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 15 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 16 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 17 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 18 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 19 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 20 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 23 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
+| 24 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 25 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
+| 26 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
+| 27 | [METLIFE](http://twitter.com/search?q=METLIFE) | N/A |
+| 28 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 29 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
+| 30 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 31 | [Best of 3](http://twitter.com/search?q=Best+of+3) | N/A |
+| 32 | [Commander Masters](http://twitter.com/search?q=Commander+Masters) | N/A |
+| 33 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 34 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 35 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 36 | [GeForce Now](http://twitter.com/search?q=GeForce+Now) | N/A |
+| 37 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 38 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 39 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
+| 40 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
+| 41 | [Malcolm X](http://twitter.com/search?q=Malcolm+X) | N/A |
+| 42 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 43 | [Ensign Peak](http://twitter.com/search?q=Ensign+Peak) | N/A |
+| 44 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
+| 45 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 46 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 47 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 
 
 

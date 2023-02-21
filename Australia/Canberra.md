@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-21 18:17:14 UTC`
+📆 Last Updated: `2023-02-21 19:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
 | 2 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
 | 3 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 4 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
-| 5 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
-| 6 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 7 | [marie blake](http://twitter.com/search?q=marie+blake) | N/A |
-| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 5 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 6 | [#SurvivorAU](http://twitter.com/search?q=%23SurvivorAU) | N/A |
+| 7 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 8 | [marie blake](http://twitter.com/search?q=marie+blake) | N/A |
 | 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 10 | [#MANIAC_IN_SYDNEY](http://twitter.com/search?q=%23MANIAC_IN_SYDNEY) | N/A |
 | 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 12 | [McVey](http://twitter.com/search?q=McVey) | N/A |
-| 13 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 12 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 13 | [Simon](http://twitter.com/search?q=Simon) | N/A |
 | 14 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 15 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 16 | [ms blake](http://twitter.com/search?q=ms+blake) | N/A |
-| 17 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 18 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 19 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 20 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 21 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 23 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
-| 24 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 25 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 26 | [noel pearson](http://twitter.com/search?q=noel+pearson) | N/A |
-| 27 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 28 | [port hedland](http://twitter.com/search?q=port+hedland) | N/A |
-| 29 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
-| 30 | [zach merrett](http://twitter.com/search?q=zach+merrett) | N/A |
-| 31 | [Centrelink](http://twitter.com/search?q=Centrelink) | N/A |
-| 32 | [daryl braithwaite](http://twitter.com/search?q=daryl+braithwaite) | N/A |
+| 15 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 17 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 18 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 19 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 20 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
+| 21 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 22 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 23 | [McVey](http://twitter.com/search?q=McVey) | N/A |
+| 24 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 25 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
+| 26 | [Port Hedland](http://twitter.com/search?q=Port+Hedland) | N/A |
+| 27 | [Ms Blake](http://twitter.com/search?q=Ms+Blake) | N/A |
+| 28 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
+| 29 | [zach merrett](http://twitter.com/search?q=zach+merrett) | N/A |
+| 30 | [Centrelink](http://twitter.com/search?q=Centrelink) | N/A |
+| 31 | [daryl braithwaite](http://twitter.com/search?q=daryl+braithwaite) | N/A |
+| 32 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
 | 33 | [Flick](http://twitter.com/search?q=Flick) | N/A |
 | 34 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
-| 35 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 36 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 37 | [Sticky Fingers](http://twitter.com/search?q=Sticky+Fingers) | N/A |
+| 35 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 36 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 37 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
 | 38 | [Devon](http://twitter.com/search?q=Devon) | N/A |
 | 39 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 40 | [Betts](http://twitter.com/search?q=Betts) | N/A |
 | 41 | [smsf](http://twitter.com/search?q=smsf) | N/A |
-| 42 | [Bluesfest](http://twitter.com/search?q=Bluesfest) | N/A |
+| 42 | [bluesfest](http://twitter.com/search?q=bluesfest) | N/A |
 | 43 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
 | 44 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 45 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 46 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 47 | [Cory](http://twitter.com/search?q=Cory) | N/A |
-| 48 | [Pancake Tuesday](http://twitter.com/search?q=Pancake+Tuesday) | N/A |
-| 49 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 45 | [rod laver](http://twitter.com/search?q=rod+laver) | N/A |
+| 46 | [Cory](http://twitter.com/search?q=Cory) | N/A |
+| 47 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 48 | [Sticky Fingers](http://twitter.com/search?q=Sticky+Fingers) | N/A |
+| 49 | [Pancake Tuesday](http://twitter.com/search?q=Pancake+Tuesday) | N/A |
 
 
 

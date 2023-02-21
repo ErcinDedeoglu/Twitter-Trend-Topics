@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-21 18:17:12 UTC`
+📆 Last Updated: `2023-02-21 19:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Sweden](</Sweden>)
 | 6 | [Farmanbar](http://twitter.com/search?q=Farmanbar) | N/A |
 | 7 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
 | 8 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
-| 9 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
-| 10 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
-| 11 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 12 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 13 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
-| 14 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 15 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 16 | [Semlor](http://twitter.com/search?q=Semlor) | N/A |
-| 17 | [#ifkgbg](http://twitter.com/search?q=%23ifkgbg) | N/A |
-| 18 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
-| 19 | [EU-förordning](http://twitter.com/search?q=EU-f%c3%b6rordning) | N/A |
-| 20 | [Klippan](http://twitter.com/search?q=Klippan) | N/A |
-| 21 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
-| 22 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
-| 23 | [EU-länder](http://twitter.com/search?q=EU-l%c3%a4nder) | N/A |
-| 24 | [Eman](http://twitter.com/search?q=Eman) | N/A |
-| 25 | [bravida](http://twitter.com/search?q=bravida) | N/A |
-| 26 | [Häcken](http://twitter.com/search?q=H%c3%a4cken) | N/A |
-| 27 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
-| 28 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 9 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
+| 10 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
+| 11 | [#timraik](http://twitter.com/search?q=%23timraik) | N/A |
+| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 13 | [Luleås](http://twitter.com/search?q=Lule%c3%a5s) | N/A |
+| 14 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
+| 15 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
+| 16 | [#hv71](http://twitter.com/search?q=%23hv71) | N/A |
+| 17 | [Semlor](http://twitter.com/search?q=Semlor) | N/A |
+| 18 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 19 | [#fbkse](http://twitter.com/search?q=%23fbkse) | N/A |
+| 20 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 21 | [Klippan](http://twitter.com/search?q=Klippan) | N/A |
+| 22 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
+| 23 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
+| 24 | [EU-förordning](http://twitter.com/search?q=EU-f%c3%b6rordning) | N/A |
+| 25 | [Eman](http://twitter.com/search?q=Eman) | N/A |
+| 26 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 27 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 28 | [EU-länder](http://twitter.com/search?q=EU-l%c3%a4nder) | N/A |
 | 29 | [Hagen](http://twitter.com/search?q=Hagen) | N/A |
-| 30 | [Bibeln](http://twitter.com/search?q=Bibeln) | N/A |
-| 31 | [Orwell](http://twitter.com/search?q=Orwell) | N/A |
-| 32 | [Smör](http://twitter.com/search?q=Sm%c3%b6r) | N/A |
-| 33 | [Koranen](http://twitter.com/search?q=Koranen) | N/A |
-| 34 | [wikheim](http://twitter.com/search?q=wikheim) | N/A |
-| 35 | [Utsikten](http://twitter.com/search?q=Utsikten) | N/A |
-| 36 | [WWII](http://twitter.com/search?q=WWII) | N/A |
-| 37 | [Reza Pahlavi](http://twitter.com/search?q=Reza+Pahlavi) | N/A |
-| 38 | [Alien Life Form](http://twitter.com/search?q=Alien+Life+Form) | N/A |
-| 39 | [Frölundaborg](http://twitter.com/search?q=Fr%c3%b6lundaborg) | N/A |
-| 40 | [Gunnar Strömmer](http://twitter.com/search?q=Gunnar+Str%c3%b6mmer) | N/A |
-| 41 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 42 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 43 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 44 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 45 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 46 | [Moldavien](http://twitter.com/search?q=Moldavien) | N/A |
-| 47 | [Kivra](http://twitter.com/search?q=Kivra) | N/A |
-| 48 | [Ryssar](http://twitter.com/search?q=Ryssar) | N/A |
-| 49 | [Arlanda](http://twitter.com/search?q=Arlanda) | N/A |
-| 50 | [Expressens](http://twitter.com/search?q=Expressens) | N/A |
+| 30 | [Orwell](http://twitter.com/search?q=Orwell) | N/A |
+| 31 | [smör](http://twitter.com/search?q=sm%c3%b6r) | N/A |
+| 32 | [Bibeln](http://twitter.com/search?q=Bibeln) | N/A |
+| 33 | [Hetvägg](http://twitter.com/search?q=Hetv%c3%a4gg) | N/A |
+| 34 | [Gunnar Strömmer](http://twitter.com/search?q=Gunnar+Str%c3%b6mmer) | N/A |
+| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 36 | [Moldavien](http://twitter.com/search?q=Moldavien) | N/A |
+| 37 | [wikheim](http://twitter.com/search?q=wikheim) | N/A |
+| 38 | [Utsikten](http://twitter.com/search?q=Utsikten) | N/A |
+| 39 | [Koranen](http://twitter.com/search?q=Koranen) | N/A |
+| 40 | [Reza Pahlavi](http://twitter.com/search?q=Reza+Pahlavi) | N/A |
+| 41 | [Häcken](http://twitter.com/search?q=H%c3%a4cken) | N/A |
+| 42 | [Pride](http://twitter.com/search?q=Pride) | N/A |
+| 43 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 44 | [Färjestad](http://twitter.com/search?q=F%c3%a4rjestad) | N/A |
+| 45 | [Frölundaborg](http://twitter.com/search?q=Fr%c3%b6lundaborg) | N/A |
+| 46 | [Alien Life Form](http://twitter.com/search?q=Alien+Life+Form) | N/A |
+| 47 | [Ryssar](http://twitter.com/search?q=Ryssar) | N/A |
+| 48 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 49 | [Kivra](http://twitter.com/search?q=Kivra) | N/A |
+| 50 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 
 
 

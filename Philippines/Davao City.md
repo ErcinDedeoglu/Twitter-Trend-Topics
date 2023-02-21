@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-21 18:17:21 UTC`
+📆 Last Updated: `2023-02-21 19:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,54 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 2 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 1 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
+| 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 3 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 4 | [#READYTOBE_WORLDTOUR](http://twitter.com/search?q=%23READYTOBE_WORLDTOUR) | N/A |
-| 5 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
+| 4 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 5 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 6 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 7 | [#sLEAyingAt52](http://twitter.com/search?q=%23sLEAyingAt52) | N/A |
-| 8 | [#IdoDoyou_OUT_NOW](http://twitter.com/search?q=%23IdoDoyou_OUT_NOW) | N/A |
-| 9 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
-| 10 | [BGYO AT PLDT SMART NATCON 2023](http://twitter.com/search?q=BGYO+AT+PLDT+SMART+NATCON+2023) | N/A |
-| 11 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
-| 12 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 13 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 14 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
-| 15 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
-| 16 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
-| 17 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
-| 18 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 19 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
-| 20 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 21 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 22 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 23 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
-| 24 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 25 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 26 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
-| 27 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 28 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 29 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 30 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
-| 31 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
-| 32 | [#IgniteOurFight](http://twitter.com/search?q=%23IgniteOurFight) | N/A |
-| 33 | [#Happy_ANM1XXVERSARY](http://twitter.com/search?q=%23Happy_ANM1XXVERSARY) | N/A |
-| 34 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
-| 35 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
-| 36 | [#DLNextTarget](http://twitter.com/search?q=%23DLNextTarget) | N/A |
-| 37 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
-| 38 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
-| 39 | [#physical100](http://twitter.com/search?q=%23physical100) | N/A |
-| 40 | [#WestlifeInManila](http://twitter.com/search?q=%23WestlifeInManila) | N/A |
-| 41 | [#MariaClaraAtIbarra](http://twitter.com/search?q=%23MariaClaraAtIbarra) | N/A |
-| 42 | [#ONEW_Circle](http://twitter.com/search?q=%23ONEW_Circle) | N/A |
-| 43 | [#FELIP_DRINKSMOKE](http://twitter.com/search?q=%23FELIP_DRINKSMOKE) | N/A |
-| 44 | [#2gether3years](http://twitter.com/search?q=%232gether3years) | N/A |
+| 7 | [#OurMiracleWendyDay](http://twitter.com/search?q=%23OurMiracleWendyDay) | N/A |
+| 8 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
+| 9 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
+| 10 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 11 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 12 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
+| 13 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 14 | [READY TO BE AMAZED](http://twitter.com/search?q=READY+TO+BE+AMAZED) | N/A |
+| 15 | [BGYO AT PLDT SMART NATCON 2023](http://twitter.com/search?q=BGYO+AT+PLDT+SMART+NATCON+2023) | N/A |
+| 16 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
+| 17 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
+| 18 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 19 | [VIVOREE MATAPANG THIS FRI](http://twitter.com/search?q=VIVOREE+MATAPANG+THIS+FRI) | N/A |
+| 20 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 21 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
+| 22 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
+| 23 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
+| 24 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 25 | [GQ KOREA X JEONGYEON](http://twitter.com/search?q=GQ+KOREA+X+JEONGYEON) | N/A |
+| 26 | [FILO ENGENES](http://twitter.com/search?q=FILO+ENGENES) | N/A |
+| 27 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 28 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
+| 29 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 30 | [Chery](http://twitter.com/search?q=Chery) | N/A |
+| 31 | [Closer MV](http://twitter.com/search?q=Closer+MV) | N/A |
+| 32 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
+| 33 | [arado](http://twitter.com/search?q=arado) | N/A |
+| 34 | [Crisostomo Ibarra](http://twitter.com/search?q=Crisostomo+Ibarra) | N/A |
+| 35 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 36 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 37 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
+| 38 | [METLIFE](http://twitter.com/search?q=METLIFE) | N/A |
+| 39 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
+| 40 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
+| 41 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
+| 42 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
+| 43 | [RCEP](http://twitter.com/search?q=RCEP) | N/A |
+| 44 | [Coffee Project](http://twitter.com/search?q=Coffee+Project) | N/A |
+| 45 | [Dennis Trillo](http://twitter.com/search?q=Dennis+Trillo) | N/A |
+| 46 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 47 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
+| 48 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
 
 
 

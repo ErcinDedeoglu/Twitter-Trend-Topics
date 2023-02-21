@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-21 18:16:50 UTC`
+📆 Last Updated: `2023-02-21 19:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ENGvPAK](http://twitter.com/search?q=%23ENGvPAK) | N/A |
+| 1 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
 | 2 | [Switch](http://twitter.com/search?q=Switch) | N/A |
 | 3 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
 | 4 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 5 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
-| 6 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
-| 7 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 8 | [#CostOfLiving](http://twitter.com/search?q=%23CostOfLiving) | N/A |
-| 9 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 10 | [Yousaf](http://twitter.com/search?q=Yousaf) | N/A |
-| 11 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
-| 12 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 13 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 14 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 15 | [Gareth Ainsworth](http://twitter.com/search?q=Gareth+Ainsworth) | N/A |
-| 16 | [Ron Gordon](http://twitter.com/search?q=Ron+Gordon) | N/A |
-| 17 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
-| 18 | [TNT Sports](http://twitter.com/search?q=TNT+Sports) | N/A |
-| 19 | [Matt Bloomfield](http://twitter.com/search?q=Matt+Bloomfield) | N/A |
-| 20 | [Dobbo](http://twitter.com/search?q=Dobbo) | N/A |
-| 21 | [Rest in Peace Ron](http://twitter.com/search?q=Rest+in+Peace+Ron) | N/A |
-| 22 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 5 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 6 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
+| 7 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 8 | [#BeatlesBiscuits](http://twitter.com/search?q=%23BeatlesBiscuits) | N/A |
+| 9 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 10 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
+| 11 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 12 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
+| 13 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 14 | [Gareth Ainsworth](http://twitter.com/search?q=Gareth+Ainsworth) | N/A |
+| 15 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 16 | [Dobbo](http://twitter.com/search?q=Dobbo) | N/A |
+| 17 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
+| 18 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 19 | [TNT Sports](http://twitter.com/search?q=TNT+Sports) | N/A |
+| 20 | [Matt Bloomfield](http://twitter.com/search?q=Matt+Bloomfield) | N/A |
+| 21 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 22 | [Rest in Peace Ron](http://twitter.com/search?q=Rest+in+Peace+Ron) | N/A |
 | 23 | [Blooms](http://twitter.com/search?q=Blooms) | N/A |
-| 24 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 25 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 26 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
-| 27 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 28 | [Wild Thing](http://twitter.com/search?q=Wild+Thing) | N/A |
-| 29 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 30 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 31 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 32 | [Leviticus](http://twitter.com/search?q=Leviticus) | N/A |
-| 33 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 34 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 35 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
-| 36 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 24 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 26 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 27 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 28 | [UP THE REDS](http://twitter.com/search?q=UP+THE+REDS) | N/A |
+| 29 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
+| 30 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 31 | [Wild Thing](http://twitter.com/search?q=Wild+Thing) | N/A |
+| 32 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 33 | [Lewisham](http://twitter.com/search?q=Lewisham) | N/A |
+| 34 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 35 | [Leviticus](http://twitter.com/search?q=Leviticus) | N/A |
+| 36 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
 | 37 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 38 | [Helmets](http://twitter.com/search?q=Helmets) | N/A |
-| 39 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
-| 40 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 41 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 42 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 43 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 44 | [Church of Scotland](http://twitter.com/search?q=Church+of+Scotland) | N/A |
-| 45 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 46 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
-| 47 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
-| 48 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 38 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
+| 39 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 40 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 41 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 42 | [Helmets](http://twitter.com/search?q=Helmets) | N/A |
+| 43 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
+| 44 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
+| 45 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 46 | [President Putin](http://twitter.com/search?q=President+Putin) | N/A |
+| 47 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 48 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
 
 
 

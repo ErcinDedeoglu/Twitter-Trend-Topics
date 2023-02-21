@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-21 18:16:48 UTC`
+📆 Last Updated: `2023-02-21 19:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,55 +21,55 @@ This is top 50
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HogaresMexiquenses](http://twitter.com/search?q=%23HogaresMexiquenses) | N/A |
-| 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 3 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 4 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 5 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 6 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 7 | [#BuschArmy](http://twitter.com/search?q=%23BuschArmy) | N/A |
-| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 9 | [BWリメイク](http://twitter.com/search?q=BW%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
-| 10 | [Da Brat](http://twitter.com/search?q=Da+Brat) | N/A |
-| 11 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 12 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
-| 13 | [ダイパリメイク](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%91%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
-| 14 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 15 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
-| 16 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 17 | [吉田ヒロフミ](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e3%83%92%e3%83%ad%e3%83%95%e3%83%9f) | N/A |
-| 18 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
-| 19 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
-| 20 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
-| 21 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 22 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 23 | [DLMLU](http://twitter.com/search?q=DLMLU) | N/A |
-| 24 | [Hacer Çınar](http://twitter.com/search?q=Hacer+%c3%87%c4%b1nar) | N/A |
-| 25 | [ねこの日](http://twitter.com/search?q=%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
-| 26 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 27 | [アサちゃん](http://twitter.com/search?q=%e3%82%a2%e3%82%b5%e3%81%a1%e3%82%83%e3%82%93) | アサちゃん is a nickname for the Japanese character Asahi, who is a popular mascot for the Asahi Soft Drinks company. The name translates to "Asahi-chan" in English. |
-| 28 | [Gonzalo Barrera](http://twitter.com/search?q=Gonzalo+Barrera) | N/A |
-| 29 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 30 | [O B DE LGBT](http://twitter.com/search?q=O+B+DE+LGBT) | N/A |
-| 31 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 32 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 33 | [Primci FerideÖzdinç](http://twitter.com/search?q=Primci+Feride%c3%96zdin%c3%a7) | N/A |
-| 34 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 35 | [ジミンちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | ジミンちゃん is a nickname for the Japanese singer and songwriter, Jimin Park. It is a term of endearment used by her fans. In English, it would be translated as "Jimin-chan". |
-| 36 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
-| 37 | [Jamopyper Runtown](http://twitter.com/search?q=Jamopyper+Runtown) | N/A |
-| 38 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 39 | [METLIFE](http://twitter.com/search?q=METLIFE) | N/A |
-| 40 | [Tanju Özcan](http://twitter.com/search?q=Tanju+%c3%96zcan) | N/A |
-| 41 | [第397回](http://twitter.com/search?q=%e7%ac%ac397%e5%9b%9e) | N/A |
-| 42 | [デート代](http://twitter.com/search?q=%e3%83%87%e3%83%bc%e3%83%88%e4%bb%a3) | N/A |
-| 43 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 44 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 45 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 46 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 47 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
-| 48 | [Hospital Villa Hermosa](http://twitter.com/search?q=Hospital+Villa+Hermosa) | N/A |
-| 49 | [死の悪魔](http://twitter.com/search?q=%e6%ad%bb%e3%81%ae%e6%82%aa%e9%ad%94) | N/A |
-| 50 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 2 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 3 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 8 | [#BuschArmy](http://twitter.com/search?q=%23BuschArmy) | N/A |
+| 9 | [Polatla Antepteyiz](http://twitter.com/search?q=Polatla+Antepteyiz) | N/A |
+| 10 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 11 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
+| 12 | [CHICHARITO](http://twitter.com/search?q=CHICHARITO) | N/A |
+| 13 | [Ekşi Nihayet Kapatıldı](http://twitter.com/search?q=Ek%c5%9fi+Nihayet+Kapat%c4%b1ld%c4%b1) | N/A |
+| 14 | [Da Brat](http://twitter.com/search?q=Da+Brat) | N/A |
+| 15 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 16 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 17 | [BWリメイク](http://twitter.com/search?q=BW%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
+| 18 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 19 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 20 | [Hacer Çınar](http://twitter.com/search?q=Hacer+%c3%87%c4%b1nar) | N/A |
+| 21 | [البليهي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | البليهي is an Arabic phrase meaning "the beautiful one". It is often used as a term of endearment for someone who is attractive or has a pleasing personality. |
+| 22 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
+| 25 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 26 | [ダイパリメイク](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%91%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
+| 27 | [Tanju Özcan](http://twitter.com/search?q=Tanju+%c3%96zcan) | N/A |
+| 28 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
+| 29 | [GeForce Now](http://twitter.com/search?q=GeForce+Now) | N/A |
+| 30 | [吉田ヒロフミ](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e3%83%92%e3%83%ad%e3%83%95%e3%83%9f) | N/A |
+| 31 | [Riolo](http://twitter.com/search?q=Riolo) | N/A |
+| 32 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
+| 33 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 34 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
+| 35 | [بيتي مارتينيز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa%d9%8a+%d9%85%d8%a7%d8%b1%d8%aa%d9%8a%d9%86%d9%8a%d8%b2) | N/A |
+| 36 | [Jamopyper Runtown](http://twitter.com/search?q=Jamopyper+Runtown) | N/A |
+| 37 | [Gonzalo Barrera](http://twitter.com/search?q=Gonzalo+Barrera) | N/A |
+| 38 | [DLMLU](http://twitter.com/search?q=DLMLU) | N/A |
+| 39 | [اوسبينا](http://twitter.com/search?q=%d8%a7%d9%88%d8%b3%d8%a8%d9%8a%d9%86%d8%a7) | اوسبينا (Osbena) is an Arabic word that means "to be patient". It is used to encourage someone to remain calm and not give up in the face of adversity. |
+| 40 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 41 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 42 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 43 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
+| 44 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 45 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 46 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
+| 47 | [O B DE LGBT](http://twitter.com/search?q=O+B+DE+LGBT) | N/A |
+| 48 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
+| 49 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 50 | [Farah Zeynep Abdullah](http://twitter.com/search?q=Farah+Zeynep+Abdullah) | N/A |
 
 
 

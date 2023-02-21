@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-21 18:17:02 UTC`
+📆 Last Updated: `2023-02-21 19:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 2 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 3 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 4 | [Satanás](http://twitter.com/search?q=Satan%c3%a1s) | N/A |
-| 5 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 6 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 7 | [Hipocrisia](http://twitter.com/search?q=Hipocrisia) | N/A |
-| 8 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 9 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 10 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 2 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 3 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 4 | [André Negão](http://twitter.com/search?q=Andr%c3%a9+Neg%c3%a3o) | N/A |
+| 5 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 6 | [Satanás](http://twitter.com/search?q=Satan%c3%a1s) | N/A |
+| 7 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
+| 8 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 9 | [lito](http://twitter.com/search?q=lito) | N/A |
+| 10 | [Hipocrisia](http://twitter.com/search?q=Hipocrisia) | N/A |
 | 11 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
 | 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [O B DE LGBT](http://twitter.com/search?q=O+B+DE+LGBT) | N/A |
-| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 15 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 16 | [Japão](http://twitter.com/search?q=Jap%c3%a3o) | N/A |
-| 17 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 18 | [#SKZ_THESOUND_RELEASED](http://twitter.com/search?q=%23SKZ_THESOUND_RELEASED) | N/A |
-| 19 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 21 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 22 | [Paulo Baier](http://twitter.com/search?q=Paulo+Baier) | N/A |
-| 23 | [Riven](http://twitter.com/search?q=Riven) | N/A |
+| 13 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 14 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 15 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 17 | [O B DE LGBT](http://twitter.com/search?q=O+B+DE+LGBT) | N/A |
+| 18 | [#ApuracaoSP](http://twitter.com/search?q=%23ApuracaoSP) | N/A |
+| 19 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 20 | [Japão](http://twitter.com/search?q=Jap%c3%a3o) | N/A |
+| 21 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
 | 24 | [Goku](http://twitter.com/search?q=Goku) | N/A |
-| 25 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
-| 26 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
-| 27 | [Xayah](http://twitter.com/search?q=Xayah) | N/A |
-| 28 | [Vegeta](http://twitter.com/search?q=Vegeta) | N/A |
-| 29 | [Dona Iris](http://twitter.com/search?q=Dona+Iris) | N/A |
-| 30 | [#FlakesNoFortnite](http://twitter.com/search?q=%23FlakesNoFortnite) | N/A |
-| 31 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 32 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 33 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
-| 34 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
-| 35 | [LEQUE](http://twitter.com/search?q=LEQUE) | N/A |
-| 36 | [Rakan](http://twitter.com/search?q=Rakan) | N/A |
-| 37 | [Anderson Barros](http://twitter.com/search?q=Anderson+Barros) | N/A |
-| 38 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
-| 39 | [Vlad](http://twitter.com/search?q=Vlad) | N/A |
-| 40 | [Virgínia](http://twitter.com/search?q=Virg%c3%adnia) | Virgínia is a female given name of Latin origin, derived from the Latin word virgo, meaning "maiden" or "virgin". In English, it is usually translated as Virginia. |
-| 41 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 42 | [WYLAN](http://twitter.com/search?q=WYLAN) | N/A |
-| 43 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 44 | [DLMLU](http://twitter.com/search?q=DLMLU) | N/A |
-| 45 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 46 | [Kep1er](http://twitter.com/search?q=Kep1er) | N/A |
+| 25 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 26 | [LEQUE](http://twitter.com/search?q=LEQUE) | N/A |
+| 27 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
+| 28 | [#SKZ_THESOUND_RELEASED](http://twitter.com/search?q=%23SKZ_THESOUND_RELEASED) | N/A |
+| 29 | [Anderson Barros](http://twitter.com/search?q=Anderson+Barros) | N/A |
+| 30 | [Dona Iris](http://twitter.com/search?q=Dona+Iris) | N/A |
+| 31 | [Paulo Baier](http://twitter.com/search?q=Paulo+Baier) | N/A |
+| 32 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
+| 33 | [#MelhorDaTarde](http://twitter.com/search?q=%23MelhorDaTarde) | N/A |
+| 34 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 35 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 36 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 37 | [Riven](http://twitter.com/search?q=Riven) | N/A |
+| 38 | [Esfera](http://twitter.com/search?q=Esfera) | N/A |
+| 39 | [Saulo](http://twitter.com/search?q=Saulo) | Saulo is a Portuguese name derived from the Hebrew name Saul, which means "asked for". In English, it can be translated to mean "prayed for". |
+| 40 | [Vegeta](http://twitter.com/search?q=Vegeta) | N/A |
+| 41 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
+| 42 | [Xayah](http://twitter.com/search?q=Xayah) | N/A |
+| 43 | [Macris](http://twitter.com/search?q=Macris) | N/A |
+| 44 | [Fener](http://twitter.com/search?q=Fener) | N/A |
+| 45 | [Rakan](http://twitter.com/search?q=Rakan) | N/A |
+| 46 | [URSS](http://twitter.com/search?q=URSS) | N/A |
 
 
 
