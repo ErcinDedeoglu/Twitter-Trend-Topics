@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-21 02:42:05 UTC`
+📆 Last Updated: `2023-02-21 03:21:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
-| 2 | [Nasjonalmuseet](http://twitter.com/search?q=Nasjonalmuseet) | N/A |
+| 1 | [Nasjonalmuseet](http://twitter.com/search?q=Nasjonalmuseet) | N/A |
+| 2 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
 | 3 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 4 | [Leiv Eiriksson](http://twitter.com/search?q=Leiv+Eiriksson) | N/A |
 | 5 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
@@ -30,7 +30,7 @@ This is top 50 for [Norway](</Norway>)
 | 13 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 14 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
 | 15 | [trond mohn](http://twitter.com/search?q=trond+mohn) | N/A |
-| 16 | [Nasjonalgalleriet](http://twitter.com/search?q=Nasjonalgalleriet) | N/A |
+| 16 | [nasjonalgalleriet](http://twitter.com/search?q=nasjonalgalleriet) | N/A |
 | 17 | [Jens](http://twitter.com/search?q=Jens) | N/A |
 | 18 | [Woke](http://twitter.com/search?q=Woke) | N/A |
 | 19 | [stina högkvist](http://twitter.com/search?q=stina+h%c3%b6gkvist) | N/A |
@@ -54,14 +54,14 @@ This is top 50 for [Norway](</Norway>)
 | 37 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
 | 38 | [#dagsrevyen](http://twitter.com/search?q=%23dagsrevyen) | N/A |
 | 39 | [Tuchel](http://twitter.com/search?q=Tuchel) | Tuchel is a German surname. It is derived from the Middle High German word "tuchel" which means "bag" or "sack". In English, the name Tuchel can be translated to mean "sack maker". |
-| 40 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 41 | [Grønland](http://twitter.com/search?q=Gr%c3%b8nland) | N/A |
-| 42 | [e134 haukelifjell](http://twitter.com/search?q=e134+haukelifjell) | N/A |
-| 43 | [rv 52 hemsedal](http://twitter.com/search?q=rv+52+hemsedal) | N/A |
-| 44 | [fv 50 aurland-hol](http://twitter.com/search?q=fv+50+aurland-hol) | N/A |
-| 45 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
-| 46 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
-| 47 | [rv 13 vikafjell](http://twitter.com/search?q=rv+13+vikafjell) | N/A |
+| 40 | [Grønland](http://twitter.com/search?q=Gr%c3%b8nland) | N/A |
+| 41 | [e134 haukelifjell](http://twitter.com/search?q=e134+haukelifjell) | N/A |
+| 42 | [rv 52 hemsedal](http://twitter.com/search?q=rv+52+hemsedal) | N/A |
+| 43 | [fv 50 aurland-hol](http://twitter.com/search?q=fv+50+aurland-hol) | N/A |
+| 44 | [Lebron](http://twitter.com/search?q=Lebron) | Lebron is a name, derived from the French name Léon. It is most commonly used as a given name for males, and it can also be used as a surname. The meaning of Lebron in English is "lion". |
+| 45 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
+| 46 | [rv 13 vikafjell](http://twitter.com/search?q=rv+13+vikafjell) | N/A |
+| 47 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 48 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
 | 49 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 50 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |

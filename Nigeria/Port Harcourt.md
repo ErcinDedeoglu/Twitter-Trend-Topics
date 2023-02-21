@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-02-21 02:42:15 UTC`
+📆 Last Updated: `2023-02-21 03:21:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,47 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 6 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
 | 7 | [Where is Osimhen](http://twitter.com/search?q=Where+is+Osimhen) | N/A |
 | 8 | [#Nigeriadecide2023](http://twitter.com/search?q=%23Nigeriadecide2023) | N/A |
-| 9 | [APC - 176,223](http://twitter.com/search?q=APC+-+176%2c223) | N/A |
-| 10 | [#munlei](http://twitter.com/search?q=%23munlei) | N/A |
-| 11 | [the shawn exchange](http://twitter.com/search?q=the+shawn+exchange) | N/A |
-| 12 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 9 | [#munlei](http://twitter.com/search?q=%23munlei) | N/A |
+| 10 | [the shawn exchange](http://twitter.com/search?q=the+shawn+exchange) | N/A |
+| 11 | [Happy New Week](http://twitter.com/search?q=Happy+New+Week) | Happy New Week is an expression used to express enthusiasm and excitement for the start of a new week. It is often used as a way to encourage someone to have a positive outlook on the upcoming week. |
+| 12 | [APC - 176,223](http://twitter.com/search?q=APC+-+176%2c223) | N/A |
 | 13 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
-| 14 | [PDP - 176,588](http://twitter.com/search?q=PDP+-+176%2c588) | N/A |
-| 15 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 14 | [Royals](http://twitter.com/search?q=Royals) | N/A |
+| 15 | [PDP - 176,588](http://twitter.com/search?q=PDP+-+176%2c588) | N/A |
 | 16 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
 | 17 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
 | 18 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
 | 19 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 20 | [Sagamu](http://twitter.com/search?q=Sagamu) | N/A |
-| 21 | [LP -  134,874](http://twitter.com/search?q=LP+-++134%2c874) | N/A |
-| 22 | [HYPE SHEGGZ](http://twitter.com/search?q=HYPE+SHEGGZ) | N/A |
-| 23 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 24 | [King of Boys](http://twitter.com/search?q=King+of+Boys) | N/A |
-| 25 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 26 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 20 | [LP -  134,874](http://twitter.com/search?q=LP+-++134%2c874) | N/A |
+| 21 | [HYPE SHEGGZ](http://twitter.com/search?q=HYPE+SHEGGZ) | N/A |
+| 22 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 23 | [King of Boys](http://twitter.com/search?q=King+of+Boys) | N/A |
+| 24 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 25 | [Sagamu](http://twitter.com/search?q=Sagamu) | N/A |
+| 26 | [ADC - 96,043](http://twitter.com/search?q=ADC+-+96%2c043) | N/A |
 | 27 | [NNPP - 176,200](http://twitter.com/search?q=NNPP+-+176%2c200) | N/A |
-| 28 | [Vote LP](http://twitter.com/search?q=Vote+LP) | N/A |
-| 29 | [ICONIC PHYNA](http://twitter.com/search?q=ICONIC+PHYNA) | N/A |
-| 30 | [ADC - 96,043](http://twitter.com/search?q=ADC+-+96%2c043) | N/A |
+| 28 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 29 | [Vote LP](http://twitter.com/search?q=Vote+LP) | N/A |
+| 30 | [iconic phyna](http://twitter.com/search?q=iconic+phyna) | N/A |
 | 31 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
 | 32 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
-| 33 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
-| 34 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 35 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 33 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 34 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 35 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
 | 36 | [Twitter Ban](http://twitter.com/search?q=Twitter+Ban) | N/A |
 | 37 | [Iroh](http://twitter.com/search?q=Iroh) | N/A |
 | 38 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
-| 39 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 40 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
-| 41 | [It is POssible](http://twitter.com/search?q=It+is+POssible) | N/A |
-| 42 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
-| 43 | [KANAGA JNR OUR WINNER](http://twitter.com/search?q=KANAGA+JNR+OUR+WINNER) | N/A |
-| 44 | [Dozy Foundation](http://twitter.com/search?q=Dozy+Foundation) | N/A |
-| 45 | [KANAGA JNR X](http://twitter.com/search?q=KANAGA+JNR+X) | N/A |
+| 39 | [Norwich](http://twitter.com/search?q=Norwich) | Norwich is a city in England, located in the county of Norfolk. It is the regional administrative centre and county town of Norfolk. The name Norwich is derived from the Old English word Norwic, meaning "north port". |
+| 40 | [It is POssible](http://twitter.com/search?q=It+is+POssible) | N/A |
+| 41 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
+| 42 | [kanaga jnr our winner](http://twitter.com/search?q=kanaga+jnr+our+winner) | N/A |
+| 43 | [dozy foundation](http://twitter.com/search?q=dozy+foundation) | N/A |
+| 44 | [kanaga jnr x](http://twitter.com/search?q=kanaga+jnr+x) | N/A |
+| 45 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
 | 46 | [Orji Uzor Kalu](http://twitter.com/search?q=Orji+Uzor+Kalu) | N/A |
-| 47 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 48 | [Ortom](http://twitter.com/search?q=Ortom) | N/A |
-| 49 | [Bayo Onanuga](http://twitter.com/search?q=Bayo+Onanuga) | N/A |
+| 47 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 48 | [bayo onanuga](http://twitter.com/search?q=bayo+onanuga) | N/A |
+| 49 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
 
 
 

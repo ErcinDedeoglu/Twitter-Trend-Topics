@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-21 02:42:35 UTC`
+📆 Last Updated: `2023-02-21 03:22:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -49,7 +49,7 @@ This is top 50 for Denmark
 | 32 | [Kina](http://twitter.com/search?q=Kina) | N/A |
 | 33 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
 | 34 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 35 | [Silkeborg](http://twitter.com/search?q=Silkeborg) | N/A |
+| 35 | [silkeborg](http://twitter.com/search?q=silkeborg) | N/A |
 | 36 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 38 | [endelig](http://twitter.com/search?q=endelig) | N/A |

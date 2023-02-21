@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagpur
 
-📆 Last Updated: `2023-02-21 02:42:21 UTC`
+📆 Last Updated: `2023-02-21 03:21:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [India](</India>)
 | 1 | [#MarriageIn17Minutes](http://twitter.com/search?q=%23MarriageIn17Minutes) | N/A |
 | 2 | [Dowry Free Marriages](http://twitter.com/search?q=Dowry+Free+Marriages) | N/A |
 | 3 | [#DepthCampaign](http://twitter.com/search?q=%23DepthCampaign) | N/A |
-| 4 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 5 | [#छू_गया_हर_दिल_को](http://twitter.com/search?q=%23%e0%a4%9b%e0%a5%82_%e0%a4%97%e0%a4%af%e0%a4%be_%e0%a4%b9%e0%a4%b0_%e0%a4%a6%e0%a4%bf%e0%a4%b2_%e0%a4%95%e0%a5%8b) | N/A |
-| 6 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 7 | [Media Neglected](http://twitter.com/search?q=Media+Neglected) | N/A |
-| 8 | [Asharamji Bapu Initiated Mppd](http://twitter.com/search?q=Asharamji+Bapu+Initiated+Mppd) | N/A |
-| 9 | [दहेज रूपी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a5%80) | N/A |
-| 10 | [World Celebrated](http://twitter.com/search?q=World+Celebrated) | N/A |
-| 11 | [#ਮਾਂ_ਬੋਲੀ_ਪੰਜਾਬੀ](http://twitter.com/search?q=%23%e0%a8%ae%e0%a8%be%e0%a8%82_%e0%a8%ac%e0%a9%8b%e0%a8%b2%e0%a9%80_%e0%a8%aa%e0%a9%b0%e0%a8%9c%e0%a8%be%e0%a8%ac%e0%a9%80) | N/A |
+| 4 | [#छू_गया_हर_दिल_को](http://twitter.com/search?q=%23%e0%a4%9b%e0%a5%82_%e0%a4%97%e0%a4%af%e0%a4%be_%e0%a4%b9%e0%a4%b0_%e0%a4%a6%e0%a4%bf%e0%a4%b2_%e0%a4%95%e0%a5%8b) | N/A |
+| 5 | [Media Neglected](http://twitter.com/search?q=Media+Neglected) | N/A |
+| 6 | [Asharamji Bapu Initiated Mppd](http://twitter.com/search?q=Asharamji+Bapu+Initiated+Mppd) | N/A |
+| 7 | [World Celebrated](http://twitter.com/search?q=World+Celebrated) | N/A |
+| 8 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 9 | [दहेज मुक्त](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 10 | [#MotherLanguageDay](http://twitter.com/search?q=%23MotherLanguageDay) | N/A |
+| 11 | [दहेज रूपी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a5%80) | N/A |
 | 12 | [Saint Rampal Ji Maharaj](http://twitter.com/search?q=Saint+Rampal+Ji+Maharaj) | N/A |
 | 13 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 14 | [सूर्यकांत त्रिपाठी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%a4+%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%aa%e0%a4%be%e0%a4%a0%e0%a5%80) | N/A |
+| 14 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
 | 15 | [Propoganda Abound In SSRCase](http://twitter.com/search?q=Propoganda+Abound+In+SSRCase) | N/A |
-| 16 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 16 | [सूर्यकांत त्रिपाठी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%a4+%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%aa%e0%a4%be%e0%a4%a0%e0%a5%80) | N/A |
 | 17 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
 | 18 | [AICC](http://twitter.com/search?q=AICC) | N/A |
 | 19 | [बड़ी बारात](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%a4) | N/A |
-| 20 | [तथा सामाजिक](http://twitter.com/search?q=%e0%a4%a4%e0%a4%a5%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95) | N/A |
+| 20 | [मानव समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
 | 21 | [छत्रपति शिवाजी महाराज](http://twitter.com/search?q=%e0%a4%9b%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%aa%e0%a4%a4%e0%a4%bf+%e0%a4%b6%e0%a4%bf%e0%a4%b5%e0%a4%be%e0%a4%9c%e0%a5%80+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 22 | [महान कवि](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%b5%e0%a4%bf) | N/A |
-| 23 | [मानव समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a4%b5+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 24 | [उपेंद्र कुशवाहा](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%95%e0%a5%81%e0%a4%b6%e0%a4%b5%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
-| 25 | [modiji bring ariha](http://twitter.com/search?q=modiji+bring+ariha) | N/A |
-| 26 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
-| 27 | [TEJASSWI GRACING DPIFF2023](http://twitter.com/search?q=TEJASSWI+GRACING+DPIFF2023) | N/A |
-| 28 | [राम रसायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
-| 29 | [Jai Hanuman](http://twitter.com/search?q=Jai+Hanuman) | N/A |
-| 30 | [प्रकाश कोहली](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
-| 31 | [Pawan Khera](http://twitter.com/search?q=Pawan+Khera) | N/A |
-| 32 | [सोनू निगम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae) | N/A |
-| 33 | [हनुमान ज्ञान](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
-| 34 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 35 | [Sushant Divine Power](http://twitter.com/search?q=Sushant+Divine+Power) | N/A |
+| 22 | [उपेंद्र कुशवाहा](http://twitter.com/search?q=%e0%a4%89%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%95%e0%a5%81%e0%a4%b6%e0%a4%b5%e0%a4%be%e0%a4%b9%e0%a4%be) | N/A |
+| 23 | [शांति स्वरूप भटनागर](http://twitter.com/search?q=%e0%a4%b6%e0%a4%be%e0%a4%82%e0%a4%a4%e0%a4%bf+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%b0%e0%a5%82%e0%a4%aa+%e0%a4%ad%e0%a4%9f%e0%a4%a8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
+| 24 | [वीर हनुमान](http://twitter.com/search?q=%e0%a4%b5%e0%a5%80%e0%a4%b0+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 25 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 26 | [महान कवि](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%95%e0%a4%b5%e0%a4%bf) | N/A |
+| 27 | [modiji bring ariha](http://twitter.com/search?q=modiji+bring+ariha) | N/A |
+| 28 | [सोनू निगम](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a5%82+%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae) | N/A |
+| 29 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
+| 30 | [KL Rahul](http://twitter.com/search?q=KL+Rahul) | KL Rahul is an Indian cricketer who plays for the Indian national cricket team. He is a right-handed batsman and occasional wicket-keeper. He made his international debut in 2014 and has since established himself as one of the most successful batsmen in the world. |
+| 31 | [Jai Hanuman](http://twitter.com/search?q=Jai+Hanuman) | N/A |
+| 32 | [दहेज विष](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%b5%e0%a4%bf%e0%a4%b7) | N/A |
+| 33 | [Ramaini](http://twitter.com/search?q=Ramaini) | N/A |
+| 34 | [TEJASSWI GRACING DPIFF2023](http://twitter.com/search?q=TEJASSWI+GRACING+DPIFF2023) | N/A |
+| 35 | [तथा सामाजिक](http://twitter.com/search?q=%e0%a4%a4%e0%a4%a5%e0%a4%be+%e0%a4%b8%e0%a4%be%e0%a4%ae%e0%a4%be%e0%a4%9c%e0%a4%bf%e0%a4%95) | N/A |
 | 36 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 37 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 38 | [Whats Stopping CBI InSushantCs](http://twitter.com/search?q=Whats+Stopping+CBI+InSushantCs) | N/A |
-| 39 | [Suprabhat](http://twitter.com/search?q=Suprabhat) | N/A |
-| 40 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
-| 41 | [Jai Shri Ram](http://twitter.com/search?q=Jai+Shri+Ram) | N/A |
-| 42 | [राष्ट्रीय लोक जनता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
-| 43 | [Satlok Ashram YouTube Channel](http://twitter.com/search?q=Satlok+Ashram+YouTube+Channel) | N/A |
-| 44 | [ABVP](http://twitter.com/search?q=ABVP) | N/A |
-| 45 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 46 | [शीला दीक्षित](http://twitter.com/search?q=%e0%a4%b6%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
-| 47 | [Ireland](http://twitter.com/search?q=Ireland) | N/A |
-| 48 | [9 liquor land](http://twitter.com/search?q=9+liquor+land) | N/A |
-| 49 | [प्रभात वंदन](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ad%e0%a4%be%e0%a4%a4+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 37 | [हनुमान ज्ञान](http://twitter.com/search?q=%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8) | N/A |
+| 38 | [Pawan Khera](http://twitter.com/search?q=Pawan+Khera) | N/A |
+| 39 | [प्रकाश कोहली](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b6+%e0%a4%95%e0%a5%8b%e0%a4%b9%e0%a4%b2%e0%a5%80) | N/A |
+| 40 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 41 | [Sushant Divine Power](http://twitter.com/search?q=Sushant+Divine+Power) | N/A |
+| 42 | [Whats Stopping CBI InSushantCs](http://twitter.com/search?q=Whats+Stopping+CBI+InSushantCs) | N/A |
+| 43 | [Jai Shri Ram](http://twitter.com/search?q=Jai+Shri+Ram) | N/A |
+| 44 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
+| 45 | [शीला दीक्षित](http://twitter.com/search?q=%e0%a4%b6%e0%a5%80%e0%a4%b2%e0%a4%be+%e0%a4%a6%e0%a5%80%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%bf%e0%a4%a4) | N/A |
+| 46 | [राष्ट्रीय लोक जनता](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%b2%e0%a5%8b%e0%a4%95+%e0%a4%9c%e0%a4%a8%e0%a4%a4%e0%a4%be) | N/A |
+| 47 | [ABVP](http://twitter.com/search?q=ABVP) | N/A |
+| 48 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 49 | [भाषा उन्नति](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b7%e0%a4%be+%e0%a4%89%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a4%a4%e0%a4%bf) | N/A |
 
 
 

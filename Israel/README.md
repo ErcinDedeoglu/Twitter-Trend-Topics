@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-21 02:42:37 UTC`
+📆 Last Updated: `2023-02-21 03:22:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for Israel
 | 4 | [רם בן ברק](http://twitter.com/search?q=%d7%a8%d7%9d+%d7%91%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
 | 5 | [חודש טוב](http://twitter.com/search?q=%d7%97%d7%95%d7%93%d7%a9+%d7%98%d7%95%d7%91) | N/A |
 | 6 | [עם צרכים](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%a6%d7%a8%d7%9b%d7%99%d7%9d) | N/A |
-| 7 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
-| 8 | [של גוטליב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
+| 7 | [של גוטליב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%95%d7%98%d7%9c%d7%99%d7%91) | N/A |
+| 8 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
 | 9 | [חג שמח](http://twitter.com/search?q=%d7%97%d7%92+%d7%a9%d7%9e%d7%97) | N/A |
 | 10 | [בנק ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
 | 11 | [של אלקין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%9c%d7%a7%d7%99%d7%9f) | N/A |
@@ -41,8 +41,8 @@ This is top 50 for Israel
 | 24 | [ערוץ הכנסת](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%94%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
 | 25 | [אמנון לוי](http://twitter.com/search?q=%d7%90%d7%9e%d7%a0%d7%95%d7%9f+%d7%9c%d7%95%d7%99) | N/A |
 | 26 | [של סילמן](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%99%d7%9c%d7%9e%d7%9f) | N/A |
-| 27 | [יאיר לפיד](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
-| 28 | [חינוך חינם](http://twitter.com/search?q=%d7%97%d7%99%d7%a0%d7%95%d7%9a+%d7%97%d7%99%d7%a0%d7%9d) | N/A |
+| 27 | [חינוך חינם](http://twitter.com/search?q=%d7%97%d7%99%d7%a0%d7%95%d7%9a+%d7%97%d7%99%d7%a0%d7%9d) | N/A |
+| 28 | [יאיר לפיד](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
 | 29 | [יום שחור](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a9%d7%97%d7%95%d7%a8) | N/A |
 | 30 | [אלי כהן](http://twitter.com/search?q=%d7%90%d7%9c%d7%99+%d7%9b%d7%94%d7%9f) | N/A |
 | 31 | [הפועל באר שבע](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%91%d7%90%d7%a8+%d7%a9%d7%91%d7%a2) | N/A |
@@ -52,19 +52,19 @@ This is top 50 for Israel
 | 35 | [גונן בן יצחק](http://twitter.com/search?q=%d7%92%d7%95%d7%a0%d7%9f+%d7%91%d7%9f+%d7%99%d7%a6%d7%97%d7%a7) | N/A |
 | 36 | [שום משמעות](http://twitter.com/search?q=%d7%a9%d7%95%d7%9d+%d7%9e%d7%a9%d7%9e%d7%a2%d7%95%d7%aa) | N/A |
 | 37 | [עם אלקין](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%9c%d7%a7%d7%99%d7%9f) | N/A |
-| 38 | [עם ישראל חי](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%99%d7%a9%d7%a8%d7%90%d7%9c+%d7%97%d7%99) | N/A |
-| 39 | [ראש חודש אדר](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%97%d7%95%d7%93%d7%a9+%d7%90%d7%93%d7%a8) | N/A |
-| 40 | [אפס אמפתיה](http://twitter.com/search?q=%d7%90%d7%a4%d7%a1+%d7%90%d7%9e%d7%a4%d7%aa%d7%99%d7%94) | N/A |
-| 41 | [נגד ראש הממשלה](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 42 | [של ילדה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%9c%d7%93%d7%94) | N/A |
-| 43 | [של יואב קיש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%95%d7%90%d7%91+%d7%a7%d7%99%d7%a9) | N/A |
-| 44 | [שופטים של](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%a9%d7%9c) | N/A |
-| 45 | [רואה חשבון](http://twitter.com/search?q=%d7%a8%d7%95%d7%90%d7%94+%d7%97%d7%a9%d7%91%d7%95%d7%9f) | N/A |
-| 46 | [לילה גדול](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%92%d7%93%d7%95%d7%9c) | N/A |
-| 47 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
-| 48 | [שבוע טוב](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%98%d7%95%d7%91) | שבוע טוב is a Hebrew phrase meaning "have a good week". It is often used as a greeting or farewell. |
-| 49 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
-| 50 | [אורלי לב](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%9c%d7%99+%d7%9c%d7%91) | N/A |
+| 38 | [ראש חודש אדר](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%97%d7%95%d7%93%d7%a9+%d7%90%d7%93%d7%a8) | N/A |
+| 39 | [אפס אמפתיה](http://twitter.com/search?q=%d7%90%d7%a4%d7%a1+%d7%90%d7%9e%d7%a4%d7%aa%d7%99%d7%94) | N/A |
+| 40 | [נגד ראש הממשלה](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 41 | [של ילדה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%9c%d7%93%d7%94) | N/A |
+| 42 | [של יואב קיש](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%99%d7%95%d7%90%d7%91+%d7%a7%d7%99%d7%a9) | N/A |
+| 43 | [שופטים של](http://twitter.com/search?q=%d7%a9%d7%95%d7%a4%d7%98%d7%99%d7%9d+%d7%a9%d7%9c) | N/A |
+| 44 | [רואה חשבון](http://twitter.com/search?q=%d7%a8%d7%95%d7%90%d7%94+%d7%97%d7%a9%d7%91%d7%95%d7%9f) | N/A |
+| 45 | [לילה גדול](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%92%d7%93%d7%95%d7%9c) | N/A |
+| 46 | [#קלמןליברמן](http://twitter.com/search?q=%23%d7%a7%d7%9c%d7%9e%d7%9f%d7%9c%d7%99%d7%91%d7%a8%d7%9e%d7%9f) | N/A |
+| 47 | [שבוע טוב](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%98%d7%95%d7%91) | שבוע טוב is a Hebrew phrase meaning "have a good week". It is often used as a greeting or farewell. |
+| 48 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
+| 49 | [אורלי לב](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%9c%d7%99+%d7%9c%d7%91) | N/A |
+| 50 | [כ שמחה רוטמן](http://twitter.com/search?q=%d7%9b+%d7%a9%d7%9e%d7%97%d7%94+%d7%a8%d7%95%d7%98%d7%9e%d7%9f) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-21 02:42:01 UTC`
+📆 Last Updated: `2023-02-21 03:21:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,36 +30,36 @@ This is top 50 for [Germany](</Germany>)
 | 13 | [Messer](http://twitter.com/search?q=Messer) | N/A |
 | 14 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
 | 15 | [Lörrach](http://twitter.com/search?q=L%c3%b6rrach) | N/A |
-| 16 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 17 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 16 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 17 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
 | 18 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
 | 19 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
 | 20 | [weinzierl](http://twitter.com/search?q=weinzierl) | N/A |
 | 21 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
 | 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 23 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 24 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 25 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 23 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 24 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 25 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 | 26 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 27 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 28 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 29 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 30 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 31 | [ladendetektiv](http://twitter.com/search?q=ladendetektiv) | N/A |
-| 32 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
-| 33 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
-| 34 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 35 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 27 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 28 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 29 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 30 | [ladendetektiv](http://twitter.com/search?q=ladendetektiv) | N/A |
+| 31 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
+| 32 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
+| 33 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 34 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 35 | [Munster](http://twitter.com/search?q=Munster) | N/A |
 | 36 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 37 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 38 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 39 | [Strommix](http://twitter.com/search?q=Strommix) | N/A |
-| 40 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
-| 41 | [morddrohungen](http://twitter.com/search?q=morddrohungen) | N/A |
+| 37 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 38 | [strommix](http://twitter.com/search?q=strommix) | N/A |
+| 39 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 40 | [morddrohungen](http://twitter.com/search?q=morddrohungen) | N/A |
+| 41 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
 | 42 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 43 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 44 | [Wagen](http://twitter.com/search?q=Wagen) | N/A |
-| 45 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 43 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 44 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 45 | [Wagen](http://twitter.com/search?q=Wagen) | N/A |
 | 46 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 47 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 | 48 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |

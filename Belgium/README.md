@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-21 02:42:35 UTC`
+📆 Last Updated: `2023-02-21 03:22:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,10 +28,10 @@ This is top 50 for Belgium
 | 11 | [Stib](http://twitter.com/search?q=Stib) | N/A |
 | 12 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 13 | [tom lanoye](http://twitter.com/search?q=tom+lanoye) | N/A |
-| 14 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
+| 14 | [slimani](http://twitter.com/search?q=slimani) | N/A |
 | 15 | [Chap](http://twitter.com/search?q=Chap) | N/A |
 | 16 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 17 | [Enorm](http://twitter.com/search?q=Enorm) | N/A |
+| 17 | [enorm](http://twitter.com/search?q=enorm) | N/A |
 | 18 | [Ewan](http://twitter.com/search?q=Ewan) | N/A |
 | 19 | [foreign affairs council](http://twitter.com/search?q=foreign+affairs+council) | N/A |
 | 20 | [rik torfs](http://twitter.com/search?q=rik+torfs) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Belgium
 | 40 | [boerenbond](http://twitter.com/search?q=boerenbond) | N/A |
 | 41 | [Raman](http://twitter.com/search?q=Raman) | N/A |
 | 42 | [Zwitserland](http://twitter.com/search?q=Zwitserland) | N/A |
-| 43 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 44 | [brugse](http://twitter.com/search?q=brugse) | N/A |
-| 45 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 46 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 47 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 49 | [Moskou](http://twitter.com/search?q=Moskou) | N/A |
-| 50 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 43 | [brugse](http://twitter.com/search?q=brugse) | N/A |
+| 44 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 45 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 46 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 48 | [Moskou](http://twitter.com/search?q=Moskou) | N/A |
+| 49 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 50 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
 
 
 

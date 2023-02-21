@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-02-21 02:41:52 UTC`
+📆 Last Updated: `2023-02-21 03:21:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,44 +25,44 @@ This is top 50 for [Mexico](</Mexico>)
 | 8 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
 | 9 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
 | 10 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 11 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
-| 12 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
-| 13 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 14 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 11 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 12 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 13 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 14 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 15 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 16 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
-| 17 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 18 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
-| 19 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 20 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 21 | [Chef Betty](http://twitter.com/search?q=Chef+Betty) | N/A |
+| 16 | [PANTERA DORADA](http://twitter.com/search?q=PANTERA+DORADA) | N/A |
+| 17 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
+| 18 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 19 | [Chef Betty](http://twitter.com/search?q=Chef+Betty) | N/A |
+| 20 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 21 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
 | 22 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 23 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 24 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 25 | [toño rodríguez](http://twitter.com/search?q=to%c3%b1o+rodr%c3%adguez) | N/A |
-| 26 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 27 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 28 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 29 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 31 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
-| 32 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 34 | [Catalina Creel](http://twitter.com/search?q=Catalina+Creel) | N/A |
-| 35 | [Fan ID](http://twitter.com/search?q=Fan+ID) | N/A |
-| 36 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 37 | [Little Freak](http://twitter.com/search?q=Little+Freak) | N/A |
-| 38 | [HAPPY BIRTHDAY MEWMEW](http://twitter.com/search?q=HAPPY+BIRTHDAY+MEWMEW) | N/A |
-| 39 | [Crocs](http://twitter.com/search?q=Crocs) | N/A |
-| 40 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 23 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 24 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 25 | [Litio](http://twitter.com/search?q=Litio) | N/A |
+| 26 | [toño rodríguez](http://twitter.com/search?q=to%c3%b1o+rodr%c3%adguez) | N/A |
+| 27 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 28 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 30 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 31 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 32 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
+| 33 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 35 | [Catalina Creel](http://twitter.com/search?q=Catalina+Creel) | N/A |
+| 36 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 37 | [little freak](http://twitter.com/search?q=little+freak) | N/A |
+| 38 | [Fan ID](http://twitter.com/search?q=Fan+ID) | N/A |
+| 39 | [José Ramón Gómez Leal](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+G%c3%b3mez+Leal) | N/A |
+| 40 | [Crocs](http://twitter.com/search?q=Crocs) | N/A |
 | 41 | [Hoy 20](http://twitter.com/search?q=Hoy+20) | N/A |
-| 42 | [José Ramón Gómez Leal](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+G%c3%b3mez+Leal) | N/A |
-| 43 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
-| 44 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 45 | [Ejército Mexicano](http://twitter.com/search?q=Ej%c3%a9rcito+Mexicano) | N/A |
-| 46 | [TINI EN VIÑA](http://twitter.com/search?q=TINI+EN+VI%c3%91A) | N/A |
-| 47 | [Comisiones del Senado](http://twitter.com/search?q=Comisiones+del+Senado) | N/A |
-| 48 | [Luisillo](http://twitter.com/search?q=Luisillo) | N/A |
+| 42 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
+| 43 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 44 | [Luisillo](http://twitter.com/search?q=Luisillo) | N/A |
+| 45 | [día del ejército mexicano](http://twitter.com/search?q=d%c3%ada+del+ej%c3%a9rcito+mexicano) | N/A |
+| 46 | [Paricutín](http://twitter.com/search?q=Paricut%c3%adn) | N/A |
+| 47 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 48 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-21 02:42:00 UTC`
+📆 Last Updated: `2023-02-21 03:21:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -36,29 +36,29 @@ This is top 50 for [Germany](</Germany>)
 | 19 | [weinzierl](http://twitter.com/search?q=weinzierl) | N/A |
 | 20 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
 | 21 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 22 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 23 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 24 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 22 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 23 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 24 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 | 25 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 26 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 27 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 28 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 29 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 30 | [ladendetektiv](http://twitter.com/search?q=ladendetektiv) | N/A |
-| 31 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
-| 32 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
-| 33 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 34 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 26 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 27 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 28 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 29 | [ladendetektiv](http://twitter.com/search?q=ladendetektiv) | N/A |
+| 30 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
+| 31 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
+| 32 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 33 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 34 | [Munster](http://twitter.com/search?q=Munster) | N/A |
 | 35 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 36 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 37 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 38 | [Strommix](http://twitter.com/search?q=Strommix) | N/A |
-| 39 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
-| 40 | [morddrohungen](http://twitter.com/search?q=morddrohungen) | N/A |
+| 36 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 37 | [strommix](http://twitter.com/search?q=strommix) | N/A |
+| 38 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 39 | [morddrohungen](http://twitter.com/search?q=morddrohungen) | N/A |
+| 40 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
 | 41 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 42 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 43 | [Wagen](http://twitter.com/search?q=Wagen) | N/A |
-| 44 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 42 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 43 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 44 | [Wagen](http://twitter.com/search?q=Wagen) | N/A |
 | 45 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 46 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 | 47 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |

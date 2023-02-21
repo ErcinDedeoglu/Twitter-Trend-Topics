@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-21 02:42:34 UTC`
+📆 Last Updated: `2023-02-21 03:22:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,14 +21,14 @@ This is top 50 for Austria
 | 4 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 5 | [Masern](http://twitter.com/search?q=Masern) | N/A |
 | 6 | [#puls24](http://twitter.com/search?q=%23puls24) | N/A |
-| 7 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 8 | [tempo 100](http://twitter.com/search?q=tempo+100) | N/A |
-| 9 | [Sender](http://twitter.com/search?q=Sender) | N/A |
-| 10 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
-| 11 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 7 | [tempo 100](http://twitter.com/search?q=tempo+100) | N/A |
+| 8 | [Sender](http://twitter.com/search?q=Sender) | N/A |
+| 9 | [Nötigung](http://twitter.com/search?q=N%c3%b6tigung) | N/A |
+| 10 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 11 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
 | 12 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 13 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 14 | [Botschafter](http://twitter.com/search?q=Botschafter) | N/A |
+| 14 | [botschafter](http://twitter.com/search?q=botschafter) | N/A |
 | 15 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
 | 16 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 17 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for Austria
 | 25 | [Demirel](http://twitter.com/search?q=Demirel) | N/A |
 | 26 | [#pressestunde](http://twitter.com/search?q=%23pressestunde) | N/A |
 | 27 | [babsi](http://twitter.com/search?q=babsi) | N/A |
-| 28 | [Rundfunk](http://twitter.com/search?q=Rundfunk) | N/A |
+| 28 | [rundfunk](http://twitter.com/search?q=rundfunk) | N/A |
 | 29 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
 | 30 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
 | 31 | [Reis](http://twitter.com/search?q=Reis) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Austria
 | 37 | [angriffe](http://twitter.com/search?q=angriffe) | N/A |
 | 38 | [Armut](http://twitter.com/search?q=Armut) | N/A |
 | 39 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
-| 40 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 40 | [ostern](http://twitter.com/search?q=ostern) | N/A |
 | 41 | [Gäste](http://twitter.com/search?q=G%c3%a4ste) | N/A |
 | 42 | [Bezeichnung](http://twitter.com/search?q=Bezeichnung) | N/A |
 | 43 | [Friedensverhandlungen](http://twitter.com/search?q=Friedensverhandlungen) | N/A |
@@ -62,9 +62,9 @@ This is top 50 for Austria
 | 45 | [Mitmenschen](http://twitter.com/search?q=Mitmenschen) | N/A |
 | 46 | [abschaum](http://twitter.com/search?q=abschaum) | N/A |
 | 47 | [Meter](http://twitter.com/search?q=Meter) | N/A |
-| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 49 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 50 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
+| 48 | [Statement](http://twitter.com/search?q=Statement) | N/A |
+| 49 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
+| 50 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 
 
 

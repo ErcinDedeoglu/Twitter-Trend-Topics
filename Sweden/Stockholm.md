@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-21 02:42:05 UTC`
+📆 Last Updated: `2023-02-21 03:21:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,17 +21,17 @@ This is top 50 for [Sweden](</Sweden>)
 | 4 | [Roald Dahls](http://twitter.com/search?q=Roald+Dahls) | N/A |
 | 5 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
 | 6 | [hanna öberg](http://twitter.com/search?q=hanna+%c3%b6berg) | N/A |
-| 7 | [EU-förordning](http://twitter.com/search?q=EU-f%c3%b6rordning) | N/A |
+| 7 | [eu-förordning](http://twitter.com/search?q=eu-f%c3%b6rordning) | N/A |
 | 8 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 9 | [Klippan](http://twitter.com/search?q=Klippan) | N/A |
+| 9 | [klippan](http://twitter.com/search?q=klippan) | N/A |
 | 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 11 | [Utsikten](http://twitter.com/search?q=Utsikten) | N/A |
+| 11 | [utsikten](http://twitter.com/search?q=utsikten) | N/A |
 | 12 | [EU-länder](http://twitter.com/search?q=EU-l%c3%a4nder) | N/A |
 | 13 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 14 | [Farmanbar](http://twitter.com/search?q=Farmanbar) | N/A |
-| 15 | [Häcken](http://twitter.com/search?q=H%c3%a4cken) | N/A |
-| 16 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
-| 17 | [Blåvitt](http://twitter.com/search?q=Bl%c3%a5vitt) | N/A |
+| 15 | [häcken](http://twitter.com/search?q=h%c3%a4cken) | N/A |
+| 16 | [blåvitt](http://twitter.com/search?q=bl%c3%a5vitt) | N/A |
+| 17 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
 | 18 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 19 | [einár](http://twitter.com/search?q=ein%c3%a1r) | N/A |
 | 20 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
@@ -43,7 +43,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 26 | [riksbank](http://twitter.com/search?q=riksbank) | N/A |
 | 27 | [Chang](http://twitter.com/search?q=Chang) | N/A |
 | 28 | [strömmer](http://twitter.com/search?q=str%c3%b6mmer) | N/A |
-| 29 | [Pontus](http://twitter.com/search?q=Pontus) | N/A |
+| 29 | [pontus](http://twitter.com/search?q=pontus) | N/A |
 | 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 31 | [Bravida](http://twitter.com/search?q=Bravida) | N/A |
 | 32 | [#loveIsland](http://twitter.com/search?q=%23loveIsland) | N/A |

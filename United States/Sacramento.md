@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-02-21 02:42:32 UTC`
+📆 Last Updated: `2023-02-21 03:22:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
-| 2 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 2 | [#ENVtubers](http://twitter.com/search?q=%23ENVtubers) | N/A |
 | 3 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
 | 4 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
 | 5 | [Washington](http://twitter.com/search?q=Washington) | N/A |
 | 6 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 7 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 8 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 7 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 8 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
 | 9 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 10 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
-| 11 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
-| 12 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 13 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 14 | [Zelenskyy](http://twitter.com/search?q=Zelenskyy) | N/A |
+| 10 | [Russell Westbrook](http://twitter.com/search?q=Russell+Westbrook) | N/A |
+| 11 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
+| 12 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
+| 13 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 14 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 15 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 16 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 17 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 16 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 17 | [Omos](http://twitter.com/search?q=Omos) | N/A |
 | 18 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 19 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 20 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 19 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 20 | [Igor](http://twitter.com/search?q=Igor) | N/A |
 | 21 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 22 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
-| 23 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
-| 24 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 25 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 26 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
-| 27 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 28 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 29 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
-| 30 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 31 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 32 | [Mustafa Ali](http://twitter.com/search?q=Mustafa+Ali) | N/A |
-| 33 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 34 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 35 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 36 | [Ziggler](http://twitter.com/search?q=Ziggler) | N/A |
-| 37 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 38 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 39 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
-| 40 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 41 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 42 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
-| 43 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 44 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 45 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
-| 46 | [El Ellis](http://twitter.com/search?q=El+Ellis) | N/A |
-| 47 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 48 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
-| 49 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 22 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 23 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 24 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 25 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 26 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
+| 27 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 28 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 29 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 30 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 31 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 32 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 33 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 34 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
+| 35 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 36 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
+| 37 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 38 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 39 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
+| 40 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 41 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 42 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 43 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 44 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 45 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 46 | [Mustafa Ali](http://twitter.com/search?q=Mustafa+Ali) | N/A |
+| 47 | [Keisha](http://twitter.com/search?q=Keisha) | N/A |
+| 48 | [Thea](http://twitter.com/search?q=Thea) | N/A |
+| 49 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
 
 
 

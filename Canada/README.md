@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-21 02:42:35 UTC`
+📆 Last Updated: `2023-02-21 03:22:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Canada
 | 1 | [#FamilyDay](http://twitter.com/search?q=%23FamilyDay) | N/A |
 | 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 3 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 5 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 6 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 4 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 6 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
 | 7 | [Welcome to Canada](http://twitter.com/search?q=Welcome+to+Canada) | N/A |
-| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 9 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 10 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 8 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
+| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 10 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 11 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 13 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 14 | [Louis Riel](http://twitter.com/search?q=Louis+Riel) | N/A |
+| 12 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 13 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 14 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
 | 15 | [Happy Family](http://twitter.com/search?q=Happy+Family) | N/A |
-| 16 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
+| 16 | [Louis Riel](http://twitter.com/search?q=Louis+Riel) | N/A |
 | 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 18 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
-| 19 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 20 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
-| 21 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 22 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 23 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 24 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 25 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 26 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 27 | [Team Lebron](http://twitter.com/search?q=Team+Lebron) | N/A |
-| 28 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 29 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 30 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 31 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 32 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 33 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 34 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
-| 35 | [Rita Joe](http://twitter.com/search?q=Rita+Joe) | N/A |
-| 36 | [Scheifele](http://twitter.com/search?q=Scheifele) | N/A |
-| 37 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 38 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
-| 39 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
-| 40 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 41 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 42 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 43 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 44 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 45 | [Dubois](http://twitter.com/search?q=Dubois) | Dubois is a French surname derived from the Old French word dubo, meaning "wood" or "forest". In English, it is usually pronounced "doo-bwah". |
-| 46 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
-| 47 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 48 | [Tyler Motte](http://twitter.com/search?q=Tyler+Motte) | N/A |
-| 49 | [Gauthier](http://twitter.com/search?q=Gauthier) | N/A |
-| 50 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 18 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
+| 19 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
+| 20 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 21 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 22 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 23 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
+| 24 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 25 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 26 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 27 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 28 | [Team Lebron](http://twitter.com/search?q=Team+Lebron) | N/A |
+| 29 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 30 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 31 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 32 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 33 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 34 | [Scheifele](http://twitter.com/search?q=Scheifele) | N/A |
+| 35 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 36 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 37 | [Marie-Philip Poulin](http://twitter.com/search?q=Marie-Philip+Poulin) | N/A |
+| 38 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 39 | [Burna](http://twitter.com/search?q=Burna) | Burna is a slang term used to refer to someone who is cool, confident, and stylish. It can also be used to describe someone who is a trendsetter or trend-setter. The term is derived from the word "burner," which is a slang term for a stylish person. |
+| 40 | [Rita Joe](http://twitter.com/search?q=Rita+Joe) | N/A |
+| 41 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 42 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 43 | [Campbell](http://twitter.com/search?q=Campbell) | N/A |
+| 44 | [Gambrell](http://twitter.com/search?q=Gambrell) | N/A |
+| 45 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 46 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 47 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
+| 48 | [Markstrom](http://twitter.com/search?q=Markstrom) | N/A |
+| 49 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 50 | [Pens](http://twitter.com/search?q=Pens) | N/A |
 
 
 

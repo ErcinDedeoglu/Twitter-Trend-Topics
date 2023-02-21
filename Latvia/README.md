@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-21 02:42:38 UTC`
+📆 Last Updated: `2023-02-21 03:22:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for Latvia
 | 9 | [neviens](http://twitter.com/search?q=neviens) | N/A |
 | 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 11 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 12 | [Levits](http://twitter.com/search?q=Levits) | N/A |
+| 12 | [levits](http://twitter.com/search?q=levits) | N/A |
 | 13 | [rdzn](http://twitter.com/search?q=rdzn) | N/A |
 | 14 | [USSR](http://twitter.com/search?q=USSR) | N/A |
 | 15 | [pievienojos](http://twitter.com/search?q=pievienojos) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for Latvia
 | 25 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | N/A |
 | 26 | [katru](http://twitter.com/search?q=katru) | N/A |
 | 27 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
-| 28 | [Tāda](http://twitter.com/search?q=T%c4%81da) | N/A |
+| 28 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
 | 29 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 30 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
 | 31 | [daugavas](http://twitter.com/search?q=daugavas) | N/A |

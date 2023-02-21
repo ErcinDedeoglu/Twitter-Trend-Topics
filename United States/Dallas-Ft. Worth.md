@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-21 02:42:27 UTC`
+📆 Last Updated: `2023-02-21 03:21:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 2 | [#sunset](http://twitter.com/search?q=%23sunset) | N/A |
+| 1 | [#sunset](http://twitter.com/search?q=%23sunset) | N/A |
+| 2 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
 | 3 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
 | 4 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 5 | [#PresidentsDay2023](http://twitter.com/search?q=%23PresidentsDay2023) | N/A |
-| 6 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 7 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 8 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 5 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 6 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
+| 7 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
+| 8 | [Marge](http://twitter.com/search?q=Marge) | N/A |
 | 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
 | 10 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 11 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 12 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 13 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 14 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 15 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 16 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
-| 17 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
-| 18 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 19 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 20 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
-| 21 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 22 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 23 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
-| 24 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 25 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 26 | [Mustafa Ali](http://twitter.com/search?q=Mustafa+Ali) | N/A |
-| 27 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 28 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 29 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 30 | [Ziggler](http://twitter.com/search?q=Ziggler) | N/A |
-| 31 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 32 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 33 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 34 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
-| 35 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 36 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
-| 37 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 38 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 39 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 40 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 41 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
-| 42 | [El Ellis](http://twitter.com/search?q=El+Ellis) | N/A |
-| 43 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
-| 44 | [Rocky IV](http://twitter.com/search?q=Rocky+IV) | N/A |
-| 45 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 46 | [Florian](http://twitter.com/search?q=Florian) | N/A |
-| 47 | [Keisha](http://twitter.com/search?q=Keisha) | N/A |
-| 48 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 49 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 50 | [Tre Mitchell](http://twitter.com/search?q=Tre+Mitchell) | N/A |
+| 11 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 12 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 13 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
+| 14 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 15 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 16 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 17 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 18 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 19 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 20 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 21 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 22 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
+| 23 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 24 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 25 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 26 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 27 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 28 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 29 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 30 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 31 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
+| 32 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 33 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
+| 34 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 35 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
+| 36 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 37 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 38 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 39 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 40 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 41 | [Ziggler](http://twitter.com/search?q=Ziggler) | N/A |
+| 42 | [Thea](http://twitter.com/search?q=Thea) | N/A |
+| 43 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 44 | [Mustafa Ali](http://twitter.com/search?q=Mustafa+Ali) | N/A |
+| 45 | [Keisha](http://twitter.com/search?q=Keisha) | N/A |
+| 46 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
+| 47 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 48 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
+| 49 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 50 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
 
 
 

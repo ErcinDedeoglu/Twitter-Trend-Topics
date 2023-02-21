@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-02-21 02:42:24 UTC`
+📆 Last Updated: `2023-02-21 03:21:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,31 +26,23 @@ This is top 50 for [Turkey](</Turkey>)
 | 9 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
 | 10 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
 | 11 | [Memur](http://twitter.com/search?q=Memur) | N/A |
-| 12 | [Depremin 15](http://twitter.com/search?q=Depremin+15) | N/A |
-| 13 | [Bilim](http://twitter.com/search?q=Bilim) | N/A |
-| 14 | [Kıbrıs](http://twitter.com/search?q=K%c4%b1br%c4%b1s) | N/A |
-| 15 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
-| 16 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 17 | [Dikkatli](http://twitter.com/search?q=Dikkatli) | N/A |
-| 18 | [Artçı](http://twitter.com/search?q=Art%c3%a7%c4%b1) | Artçı is a Turkish word that means "artisan" or "craftsman". It is used to refer to someone who is skilled in a particular craft or trade. |
-| 19 | [Doğu Anadolu](http://twitter.com/search?q=Do%c4%9fu+Anadolu) | N/A |
-| 20 | [Korku](http://twitter.com/search?q=Korku) | N/A |
-| 21 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
-| 22 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
-| 23 | [Şener](http://twitter.com/search?q=%c5%9eener) | N/A |
-| 24 | [#depremoldu](http://twitter.com/search?q=%23depremoldu) | N/A |
-| 25 | [#Mersin](http://twitter.com/search?q=%23Mersin) | N/A |
-| 26 | [#DEPREMANI](http://twitter.com/search?q=%23DEPREMANI) | N/A |
-| 27 | [#turkeyearthquake2023](http://twitter.com/search?q=%23turkeyearthquake2023) | N/A |
-| 28 | [#SonDakika](http://twitter.com/search?q=%23SonDakika) | N/A |
-| 29 | [#Tsunami](http://twitter.com/search?q=%23Tsunami) | N/A |
-| 30 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
-| 31 | [#Kandilli](http://twitter.com/search?q=%23Kandilli) | N/A |
-| 32 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
-| 33 | [#70ildeOkullarKapatılsın](http://twitter.com/search?q=%2370ildeOkullarKapat%c4%b1ls%c4%b1n) | N/A |
-| 34 | [#BingölAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23Bing%c3%b6lAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
-| 35 | [#sallanıyoruz](http://twitter.com/search?q=%23sallan%c4%b1yoruz) | N/A |
-| 36 | [#Antalya](http://twitter.com/search?q=%23Antalya) | N/A |
+| 12 | [Bilim](http://twitter.com/search?q=Bilim) | N/A |
+| 13 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 14 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
+| 15 | [Kıbrıs](http://twitter.com/search?q=K%c4%b1br%c4%b1s) | N/A |
+| 16 | [Korku](http://twitter.com/search?q=Korku) | N/A |
+| 17 | [Ahmet Ercan](http://twitter.com/search?q=Ahmet+Ercan) | N/A |
+| 18 | [#depremoldu](http://twitter.com/search?q=%23depremoldu) | N/A |
+| 19 | [#turkeyearthquake2023](http://twitter.com/search?q=%23turkeyearthquake2023) | N/A |
+| 20 | [#Mersin](http://twitter.com/search?q=%23Mersin) | N/A |
+| 21 | [#DEPREMANI](http://twitter.com/search?q=%23DEPREMANI) | N/A |
+| 22 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 23 | [#Tsunami](http://twitter.com/search?q=%23Tsunami) | N/A |
+| 24 | [#Kandilli](http://twitter.com/search?q=%23Kandilli) | N/A |
+| 25 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
+| 26 | [#70ildeOkullarKapatılsın](http://twitter.com/search?q=%2370ildeOkullarKapat%c4%b1ls%c4%b1n) | N/A |
+| 27 | [#BingölAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23Bing%c3%b6lAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
+| 28 | [#sallanıyoruz](http://twitter.com/search?q=%23sallan%c4%b1yoruz) | N/A |
 
 
 

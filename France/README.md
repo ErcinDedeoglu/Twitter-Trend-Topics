@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-21 02:42:36 UTC`
+📆 Last Updated: `2023-02-21 03:22:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,7 +26,7 @@ This is top 50 for France
 | 9 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
 | 10 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
 | 11 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 12 | [LICRA](http://twitter.com/search?q=LICRA) | N/A |
+| 12 | [Licra](http://twitter.com/search?q=Licra) | N/A |
 | 13 | [Russie](http://twitter.com/search?q=Russie) | N/A |
 | 14 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 15 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
@@ -44,27 +44,27 @@ This is top 50 for France
 | 27 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 28 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
 | 29 | [gerets](http://twitter.com/search?q=gerets) | N/A |
-| 30 | [Samy](http://twitter.com/search?q=Samy) | N/A |
-| 31 | [Ferran Torres](http://twitter.com/search?q=Ferran+Torres) | N/A |
-| 32 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 33 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 34 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 35 | [Berger](http://twitter.com/search?q=Berger) | N/A |
-| 36 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
-| 37 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 30 | [Ferran Torres](http://twitter.com/search?q=Ferran+Torres) | N/A |
+| 31 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 32 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 33 | [Samy](http://twitter.com/search?q=Samy) | N/A |
+| 34 | [Berger](http://twitter.com/search?q=Berger) | N/A |
+| 35 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
+| 36 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 37 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
 | 38 | [Krasso](http://twitter.com/search?q=Krasso) | N/A |
 | 39 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 40 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 41 | [La Zarra](http://twitter.com/search?q=La+Zarra) | La Zarra is a Spanish term that literally translates to "the sieve". It is used to refer to a situation in which someone is trying to find a way out of an uncomfortable or difficult situation. In English, it can be used to describe someone who is trying to wriggle out of an awkward or unpleasant situation. |
-| 42 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 43 | [L'épisode 6](http://twitter.com/search?q=L%27%c3%a9pisode+6) | N/A |
-| 44 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
-| 45 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
-| 46 | [Interstella 5555](http://twitter.com/search?q=Interstella+5555) | N/A |
-| 47 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
-| 48 | [andré gomes](http://twitter.com/search?q=andr%c3%a9+gomes) | N/A |
-| 49 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 50 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 40 | [La Zarra](http://twitter.com/search?q=La+Zarra) | La Zarra is a Spanish term that literally translates to "the sieve". It is used to refer to a situation in which someone is trying to find a way out of an uncomfortable or difficult situation. In English, it can be used to describe someone who is trying to wriggle out of an awkward or unpleasant situation. |
+| 41 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 42 | [L'épisode 6](http://twitter.com/search?q=L%27%c3%a9pisode+6) | N/A |
+| 43 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 44 | [Interstella 5555](http://twitter.com/search?q=Interstella+5555) | N/A |
+| 45 | [andré gomes](http://twitter.com/search?q=andr%c3%a9+gomes) | N/A |
+| 46 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 47 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
+| 48 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 49 | [Rabbi Jacob](http://twitter.com/search?q=Rabbi+Jacob) | N/A |
+| 50 | [Werenoi](http://twitter.com/search?q=Werenoi) | N/A |
 
 
 

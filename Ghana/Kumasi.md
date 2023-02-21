@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kumasi
 
-📆 Last Updated: `2023-02-21 02:42:14 UTC`
+📆 Last Updated: `2023-02-21 03:21:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,17 +26,17 @@ This is top 50 for [Ghana](</Ghana>)
 | 9 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
 | 10 | [Royals](http://twitter.com/search?q=Royals) | N/A |
 | 11 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
-| 12 | [Kaniva](http://twitter.com/search?q=Kaniva) | N/A |
+| 12 | [kaniva](http://twitter.com/search?q=kaniva) | N/A |
 | 13 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
 | 14 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
 | 15 | [Mohammed Kudus](http://twitter.com/search?q=Mohammed+Kudus) | N/A |
 | 16 | [Team Lebron](http://twitter.com/search?q=Team+Lebron) | N/A |
 | 17 | [Ebuka](http://twitter.com/search?q=Ebuka) | Ebuka is a Nigerian name of Igbo origin. It means "God's will" or "God's power". |
 | 18 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 19 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
-| 20 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
-| 21 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
-| 22 | [YEMI CREGX OUR FOCUS](http://twitter.com/search?q=YEMI+CREGX+OUR+FOCUS) | N/A |
+| 19 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
+| 20 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
+| 21 | [yemi cregx our focus](http://twitter.com/search?q=yemi+cregx+our+focus) | N/A |
+| 22 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
 | 23 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
 | 24 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 25 | [Team Giannis](http://twitter.com/search?q=Team+Giannis) | N/A |
@@ -55,14 +55,14 @@ This is top 50 for [Ghana](</Ghana>)
 | 38 | [McClung](http://twitter.com/search?q=McClung) | N/A |
 | 39 | [Joey](http://twitter.com/search?q=Joey) | N/A |
 | 40 | [Tatum](http://twitter.com/search?q=Tatum) | Tatum is a surname of English origin. It is derived from the Old English personal name Tatwine, which means "cheerful one". |
-| 41 | [HYPE SHEGGZ](http://twitter.com/search?q=HYPE+SHEGGZ) | N/A |
-| 42 | [Thabana](http://twitter.com/search?q=Thabana) | Thabana is a Sesotho word meaning “to be brave” or “to have courage”. It is often used as a rallying cry for people to stand up and take action in the face of adversity. |
-| 43 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 41 | [thabana](http://twitter.com/search?q=thabana) | N/A |
+| 42 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 43 | [Christensen](http://twitter.com/search?q=Christensen) | Christensen is a Danish and Norwegian surname derived from the given name Christian. It is the most common surname in Denmark, where it is shared by about 1.7% of the population. In English, Christensen means "son of Christian". |
 | 44 | [Doomsday](http://twitter.com/search?q=Doomsday) | N/A |
-| 45 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
-| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 47 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 48 | [Bernard](http://twitter.com/search?q=Bernard) | N/A |
+| 45 | [HYPE SHEGGZ](http://twitter.com/search?q=HYPE+SHEGGZ) | N/A |
+| 46 | [Dame](http://twitter.com/search?q=Dame) | Dame is a title of honor given to a woman, usually in the United Kingdom. It is the female equivalent of the title "Sir". It is typically used to recognize a woman's contribution to society, such as in the fields of public service, charity work, or the arts. |
+| 47 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 48 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
 
 
 
