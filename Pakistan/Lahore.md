@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lahore
 
-📆 Last Updated: `2023-02-21 04:17:15 UTC`
+📆 Last Updated: `2023-02-21 05:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#LahoreHighCourt](http://twitter.com/search?q=%23LahoreHighCourt) | N/A |
 | 5 | [#ImranKhanForPakistan](http://twitter.com/search?q=%23ImranKhanForPakistan) | N/A |
 | 6 | [HASNAIN](http://twitter.com/search?q=HASNAIN) | N/A |
-| 7 | [Another 6.4](http://twitter.com/search?q=Another+6.4) | N/A |
-| 8 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 9 | [Lums](http://twitter.com/search?q=Lums) | N/A |
-| 10 | [neesham](http://twitter.com/search?q=neesham) | N/A |
-| 11 | [Usman Qadir](http://twitter.com/search?q=Usman+Qadir) | N/A |
-| 12 | [Karachi](http://twitter.com/search?q=Karachi) | N/A |
-| 13 | [Wahab](http://twitter.com/search?q=Wahab) | N/A |
-| 14 | [Frying](http://twitter.com/search?q=Frying) | N/A |
-| 15 | [Islamic Republic of Pakistan](http://twitter.com/search?q=Islamic+Republic+of+Pakistan) | N/A |
-| 16 | [Aurat March](http://twitter.com/search?q=Aurat+March) | N/A |
-| 17 | [arshad iqbal](http://twitter.com/search?q=arshad+iqbal) | N/A |
-| 18 | [punjab and khyber pakhtunkhwa](http://twitter.com/search?q=punjab+and+khyber+pakhtunkhwa) | N/A |
-| 19 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 20 | [miftah ismail](http://twitter.com/search?q=miftah+ismail) | N/A |
-| 21 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 22 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
-| 23 | [odean smith](http://twitter.com/search?q=odean+smith) | N/A |
-| 24 | [London](http://twitter.com/search?q=London) | N/A |
-| 25 | [Election Act 2017](http://twitter.com/search?q=Election+Act+2017) | N/A |
-| 26 | [Game of Thrones](http://twitter.com/search?q=Game+of+Thrones) | N/A |
-| 27 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
-| 28 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 29 | [Quiz](http://twitter.com/search?q=Quiz) | N/A |
-| 30 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 31 | [Hasaranga](http://twitter.com/search?q=Hasaranga) | N/A |
-| 32 | [Professor](http://twitter.com/search?q=Professor) | N/A |
-| 33 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 34 | [Section 57](http://twitter.com/search?q=Section+57) | N/A |
-| 35 | [Jazak Allah](http://twitter.com/search?q=Jazak+Allah) | N/A |
-| 36 | [Courts](http://twitter.com/search?q=Courts) | N/A |
-| 37 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 38 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 39 | [W Salam](http://twitter.com/search?q=W+Salam) | N/A |
-| 40 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
-| 41 | [Egypt](http://twitter.com/search?q=Egypt) | N/A |
-| 42 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
-| 43 | [Surely](http://twitter.com/search?q=Surely) | N/A |
-| 44 | [Blessings](http://twitter.com/search?q=Blessings) | N/A |
-| 45 | [Jonathan Haidt](http://twitter.com/search?q=Jonathan+Haidt) | N/A |
-| 46 | [Count](http://twitter.com/search?q=Count) | N/A |
-| 47 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 48 | [Russian](http://twitter.com/search?q=Russian) | N/A |
-| 49 | [Heya](http://twitter.com/search?q=Heya) | N/A |
-| 50 | [MashaAllah](http://twitter.com/search?q=MashaAllah) | N/A |
+| 7 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 8 | [Another 6.4](http://twitter.com/search?q=Another+6.4) | N/A |
+| 9 | [neesham](http://twitter.com/search?q=neesham) | N/A |
+| 10 | [Usman Qadir](http://twitter.com/search?q=Usman+Qadir) | N/A |
+| 11 | [Frying](http://twitter.com/search?q=Frying) | N/A |
+| 12 | [wahab](http://twitter.com/search?q=wahab) | N/A |
+| 13 | [Aurat March](http://twitter.com/search?q=Aurat+March) | N/A |
+| 14 | [Arshad Iqbal](http://twitter.com/search?q=Arshad+Iqbal) | N/A |
+| 15 | [miftah ismail](http://twitter.com/search?q=miftah+ismail) | N/A |
+| 16 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 17 | [odean smith](http://twitter.com/search?q=odean+smith) | N/A |
+| 18 | [London](http://twitter.com/search?q=London) | N/A |
+| 19 | [Nawaz](http://twitter.com/search?q=Nawaz) | Nawaz is an Arabic name meaning "gift" or "blessing". It is also used as a surname in some parts of the world. |
+| 20 | [Election Act 2017](http://twitter.com/search?q=Election+Act+2017) | N/A |
+| 21 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
+| 22 | [Arshad Sharif](http://twitter.com/search?q=Arshad+Sharif) | N/A |
+| 23 | [hafeez](http://twitter.com/search?q=hafeez) | N/A |
+| 24 | [Quiz](http://twitter.com/search?q=Quiz) | N/A |
+| 25 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 26 | [Torkham](http://twitter.com/search?q=Torkham) | N/A |
+| 27 | [Professor](http://twitter.com/search?q=Professor) | N/A |
+| 28 | [Hasaranga](http://twitter.com/search?q=Hasaranga) | N/A |
+| 29 | [Section 57](http://twitter.com/search?q=Section+57) | N/A |
+| 30 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 31 | [O Allah](http://twitter.com/search?q=O+Allah) | N/A |
+| 32 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 33 | [Courts](http://twitter.com/search?q=Courts) | N/A |
+| 34 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 35 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 36 | [Prayers](http://twitter.com/search?q=Prayers) | Prayers are expressions of devotion or supplication to a deity or higher power. They can be spoken, written, or silent. Prayers can be used to express gratitude, ask for guidance, and seek forgiveness. |
+| 37 | [Brilliant](http://twitter.com/search?q=Brilliant) | N/A |
+| 38 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 39 | [Surely](http://twitter.com/search?q=Surely) | N/A |
+| 40 | [Jonathan Haidt](http://twitter.com/search?q=Jonathan+Haidt) | N/A |
+| 41 | [Javed Akhtar](http://twitter.com/search?q=Javed+Akhtar) | N/A |
+| 42 | [Count](http://twitter.com/search?q=Count) | N/A |
+| 43 | [Muslim Ummah](http://twitter.com/search?q=Muslim+Ummah) | N/A |
+| 44 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 45 | [W Salam](http://twitter.com/search?q=W+Salam) | N/A |
+| 46 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 47 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 48 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 49 | [Weldone](http://twitter.com/search?q=Weldone) | N/A |
+| 50 | [Kashmir](http://twitter.com/search?q=Kashmir) | N/A |
 
 
 

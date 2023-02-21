@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-02-21 04:17:27 UTC`
+📆 Last Updated: `2023-02-21 05:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Harper](http://twitter.com/search?q=Harper) | N/A |
-| 2 | [Zach](http://twitter.com/search?q=Zach) | N/A |
-| 3 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
-| 4 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 6 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 7 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 8 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 9 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 10 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
-| 11 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 12 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 13 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 14 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 15 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 16 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 17 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 18 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 19 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 20 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
-| 21 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 22 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 23 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 24 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 25 | [Max Duggan](http://twitter.com/search?q=Max+Duggan) | Max Duggan is a name of Irish origin. It is derived from the Gaelic words "mac" meaning "son" and "dubhagain" meaning "dark-haired". The name can be translated to mean "son of the dark-haired one". |
-| 26 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 27 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
-| 28 | [Damon](http://twitter.com/search?q=Damon) | N/A |
-| 29 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 30 | [McCullar](http://twitter.com/search?q=McCullar) | McCullar is not a word in English. It may be a misspelling of the surname "McCallar," which is an Irish surname derived from the Gaelic Mac Cathmhaoil, meaning "son of Cathmhaoil." |
-| 31 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 32 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 33 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 34 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 35 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
-| 36 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
-| 37 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
-| 38 | [Allen Herbert](http://twitter.com/search?q=Allen+Herbert) | N/A |
-| 39 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 40 | [RJ Melendez](http://twitter.com/search?q=RJ+Melendez) | N/A |
-| 41 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 42 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 43 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 44 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 45 | [Otis](http://twitter.com/search?q=Otis) | N/A |
-| 46 | [Balor](http://twitter.com/search?q=Balor) | N/A |
-| 47 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 48 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 1 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 2 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 3 | [Zach](http://twitter.com/search?q=Zach) | N/A |
+| 4 | [Sullivan](http://twitter.com/search?q=Sullivan) | N/A |
+| 5 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 7 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 8 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 9 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 10 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
+| 11 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 12 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 13 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 14 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
+| 15 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 16 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 17 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 18 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 19 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
+| 20 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 21 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 22 | [Allen Herbert](http://twitter.com/search?q=Allen+Herbert) | N/A |
+| 23 | [McCullar](http://twitter.com/search?q=McCullar) | McCullar is not a word in English. It may be a misspelling of the surname "McCallar," which is an Irish surname derived from the Gaelic Mac Cathmhaoil, meaning "son of Cathmhaoil." |
+| 24 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 25 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 26 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 27 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 28 | [Max Duggan](http://twitter.com/search?q=Max+Duggan) | Max Duggan is a name of Irish origin. It is derived from the Gaelic words "mac" meaning "son" and "dubhagain" meaning "dark-haired". The name can be translated to mean "son of the dark-haired one". |
+| 29 | [RJ Melendez](http://twitter.com/search?q=RJ+Melendez) | N/A |
+| 30 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 31 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
+| 32 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 33 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 34 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 35 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 36 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 37 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 38 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 39 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 40 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 41 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 42 | [Enna](http://twitter.com/search?q=Enna) | Enna is a city in Sicily, Italy. In English, it means "here". |
+| 43 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 44 | [Board](http://twitter.com/search?q=Board) | N/A |
+| 45 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
+| 46 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 47 | [Balor](http://twitter.com/search?q=Balor) | N/A |
+| 48 | [Lando](http://twitter.com/search?q=Lando) | N/A |
 | 49 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
-| 50 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 50 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
 
 
 

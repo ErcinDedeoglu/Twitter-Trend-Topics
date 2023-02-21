@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-21 04:16:49 UTC`
+📆 Last Updated: `2023-02-21 05:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,16 +16,16 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
-| 2 | [#psglosc](http://twitter.com/search?q=%23psglosc) | N/A |
-| 3 | [Chap](http://twitter.com/search?q=Chap) | N/A |
-| 4 | [#TFCOM](http://twitter.com/search?q=%23TFCOM) | N/A |
+| 2 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
+| 3 | [#TFCOM](http://twitter.com/search?q=%23TFCOM) | N/A |
+| 4 | [Chap](http://twitter.com/search?q=Chap) | N/A |
 | 5 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
 | 6 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
 | 7 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 8 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
-| 9 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 10 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 11 | [Licra](http://twitter.com/search?q=Licra) | N/A |
+| 9 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 10 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
+| 11 | [LICRA](http://twitter.com/search?q=LICRA) | N/A |
 | 12 | [Russie](http://twitter.com/search?q=Russie) | N/A |
 | 13 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 14 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
@@ -37,33 +37,33 @@ This is top 50 for [France](</France>)
 | 20 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
 | 21 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
 | 22 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 23 | [Chancel](http://twitter.com/search?q=Chancel) | Chancel is a term used in Christian churches to refer to the area around the altar, typically separated from the nave by a screen or rail. It is usually reserved for clergy and choir members during services. The word comes from the Latin cancelli, meaning "lattice" or "enclosure". |
+| 23 | [chancel](http://twitter.com/search?q=chancel) | N/A |
 | 24 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
 | 25 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
-| 26 | [gerets](http://twitter.com/search?q=gerets) | N/A |
+| 26 | [Gerets](http://twitter.com/search?q=Gerets) | N/A |
 | 27 | [Ferran Torres](http://twitter.com/search?q=Ferran+Torres) | N/A |
 | 28 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 29 | [Samy](http://twitter.com/search?q=Samy) | N/A |
-| 30 | [Berger](http://twitter.com/search?q=Berger) | N/A |
-| 31 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 32 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
-| 33 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 34 | [Krasso](http://twitter.com/search?q=Krasso) | N/A |
-| 35 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 36 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 37 | [La Zarra](http://twitter.com/search?q=La+Zarra) | La Zarra is a Spanish term that literally translates to "the sieve". It is used to refer to a situation in which someone is trying to find a way out of an uncomfortable or difficult situation. In English, it can be used to describe someone who is trying to wriggle out of an awkward or unpleasant situation. |
-| 38 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 39 | [L'épisode 6](http://twitter.com/search?q=L%27%c3%a9pisode+6) | N/A |
-| 40 | [Interstella 5555](http://twitter.com/search?q=Interstella+5555) | N/A |
-| 41 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 29 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 30 | [krasso](http://twitter.com/search?q=krasso) | N/A |
+| 31 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
+| 32 | [Samy](http://twitter.com/search?q=Samy) | N/A |
+| 33 | [Berger](http://twitter.com/search?q=Berger) | N/A |
+| 34 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 35 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 36 | [La Zarra](http://twitter.com/search?q=La+Zarra) | La Zarra is a Spanish term that literally translates to "the sieve". It is used to refer to a situation in which someone is trying to find a way out of an uncomfortable or difficult situation. In English, it can be used to describe someone who is trying to wriggle out of an awkward or unpleasant situation. |
+| 37 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 38 | [l'épisode 6](http://twitter.com/search?q=l%27%c3%a9pisode+6) | N/A |
+| 39 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
+| 40 | [Neymar](http://twitter.com/search?q=Neymar) | Neymar is a Brazilian professional soccer player who plays for Paris Saint-Germain and the Brazil national team. His full name is Neymar da Silva Santos Junior. He is widely considered one of the best players in the world and has won numerous awards, including the Golden Ball for best player at the 2013 FIFA Confederations Cup. The name Neymar is derived from his father's name, Neymar da Silva Santos Senior. |
+| 41 | [Interstella 5555](http://twitter.com/search?q=Interstella+5555) | N/A |
 | 42 | [andré gomes](http://twitter.com/search?q=andr%c3%a9+gomes) | N/A |
-| 43 | [Kolo](http://twitter.com/search?q=Kolo) | N/A |
-| 44 | [Veretout](http://twitter.com/search?q=Veretout) | Veretout is a French surname. It is derived from the Old French word "verte," meaning "green." In English, it can be translated to mean "green-haired" or "green-eyed." |
-| 45 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 46 | [Rabbi Jacob](http://twitter.com/search?q=Rabbi+Jacob) | N/A |
+| 43 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 44 | [Kolo](http://twitter.com/search?q=Kolo) | N/A |
+| 45 | [Rabbi Jacob](http://twitter.com/search?q=Rabbi+Jacob) | N/A |
+| 46 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
 | 47 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 48 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 49 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 48 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 49 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 
 
 

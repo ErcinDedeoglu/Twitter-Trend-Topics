@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-02-21 04:17:27 UTC`
+📆 Last Updated: `2023-02-21 05:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 2 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
-| 3 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
-| 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 6 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 1 | [Idaho](http://twitter.com/search?q=Idaho) | N/A |
+| 2 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
+| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 4 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 5 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 6 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
 | 7 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 8 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 9 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
-| 10 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 11 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
-| 12 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 8 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 9 | [#kubball](http://twitter.com/search?q=%23kubball) | N/A |
+| 10 | [#AllAmericanHomecoming](http://twitter.com/search?q=%23AllAmericanHomecoming) | N/A |
+| 11 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 12 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
 | 13 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
 | 14 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 15 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 16 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 17 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 18 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 19 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
-| 20 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 21 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 22 | [McCullar](http://twitter.com/search?q=McCullar) | McCullar is not a word in English. It may be a misspelling of the surname "McCallar," which is an Irish surname derived from the Gaelic Mac Cathmhaoil, meaning "son of Cathmhaoil." |
-| 23 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 24 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 15 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 16 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
+| 17 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 18 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 19 | [Allen Herbert](http://twitter.com/search?q=Allen+Herbert) | N/A |
+| 20 | [McCullar](http://twitter.com/search?q=McCullar) | McCullar is not a word in English. It may be a misspelling of the surname "McCallar," which is an Irish surname derived from the Gaelic Mac Cathmhaoil, meaning "son of Cathmhaoil." |
+| 21 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 22 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 23 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 24 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
 | 25 | [Max Duggan](http://twitter.com/search?q=Max+Duggan) | Max Duggan is a name of Irish origin. It is derived from the Gaelic words "mac" meaning "son" and "dubhagain" meaning "dark-haired". The name can be translated to mean "son of the dark-haired one". |
-| 26 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 27 | [Mania](http://twitter.com/search?q=Mania) | N/A |
-| 28 | [Damon](http://twitter.com/search?q=Damon) | N/A |
-| 29 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 30 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 31 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 32 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 33 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
-| 34 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
+| 26 | [RJ Melendez](http://twitter.com/search?q=RJ+Melendez) | N/A |
+| 27 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 28 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 29 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
+| 30 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 31 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 32 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 33 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 34 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
 | 35 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
-| 36 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
-| 37 | [Allen Herbert](http://twitter.com/search?q=Allen+Herbert) | N/A |
-| 38 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 39 | [RJ Melendez](http://twitter.com/search?q=RJ+Melendez) | N/A |
-| 40 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 41 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 42 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 43 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 44 | [Otis](http://twitter.com/search?q=Otis) | N/A |
-| 45 | [Balor](http://twitter.com/search?q=Balor) | N/A |
-| 46 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
-| 47 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 48 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
-| 49 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 36 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 37 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 38 | [Enna](http://twitter.com/search?q=Enna) | Enna is a city in Sicily, Italy. In English, it means "here". |
+| 39 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 40 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 41 | [Board](http://twitter.com/search?q=Board) | N/A |
+| 42 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
+| 43 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 44 | [Balor](http://twitter.com/search?q=Balor) | N/A |
+| 45 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 46 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
+| 47 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 48 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
 
 
 

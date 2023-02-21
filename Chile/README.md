@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-02-21 04:17:32 UTC`
+📆 Last Updated: `2023-02-21 05:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,44 @@ This is top 50 for Chile
 | ------- | ------------ | ------------ |
 | 1 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
 | 2 | [#FestivalDeRataDelMar](http://twitter.com/search?q=%23FestivalDeRataDelMar) | N/A |
-| 3 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
+| 3 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
 | 4 | [Yerko](http://twitter.com/search?q=Yerko) | N/A |
-| 5 | [#festival2023](http://twitter.com/search?q=%23festival2023) | N/A |
-| 6 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
-| 7 | [Yorka](http://twitter.com/search?q=Yorka) | N/A |
-| 8 | [violetta](http://twitter.com/search?q=violetta) | N/A |
-| 9 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
-| 10 | [Triple T](http://twitter.com/search?q=Triple+T) | N/A |
+| 5 | [Yorka](http://twitter.com/search?q=Yorka) | N/A |
+| 6 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
+| 7 | [#festival2023](http://twitter.com/search?q=%23festival2023) | N/A |
+| 8 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
+| 9 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 10 | [violetta](http://twitter.com/search?q=violetta) | N/A |
 | 11 | [Vamos Diego](http://twitter.com/search?q=Vamos+Diego) | N/A |
-| 12 | [El Diego](http://twitter.com/search?q=El+Diego) | N/A |
+| 12 | [Temuco](http://twitter.com/search?q=Temuco) | N/A |
 | 13 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 14 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
-| 15 | [Temuco](http://twitter.com/search?q=Temuco) | N/A |
-| 16 | [Maná](http://twitter.com/search?q=Man%c3%a1) | N/A |
-| 17 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 18 | [Piero Maza](http://twitter.com/search?q=Piero+Maza) | Piero Maza is a Spanish phrase that translates to "Peter's Blessing" in English. It is a phrase used to express good luck or fortune. |
-| 19 | [Felo](http://twitter.com/search?q=Felo) | N/A |
-| 20 | [#Vina23](http://twitter.com/search?q=%23Vina23) | N/A |
-| 21 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
+| 14 | [El Diego](http://twitter.com/search?q=El+Diego) | N/A |
+| 15 | [Maná](http://twitter.com/search?q=Man%c3%a1) | N/A |
+| 16 | [Piero Maza](http://twitter.com/search?q=Piero+Maza) | Piero Maza is a Spanish phrase that translates to "Peter's Blessing" in English. It is a phrase used to express good luck or fortune. |
+| 17 | [Duki](http://twitter.com/search?q=Duki) | N/A |
+| 18 | [Felo](http://twitter.com/search?q=Felo) | N/A |
+| 19 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
+| 20 | [La Triple T](http://twitter.com/search?q=La+Triple+T) | N/A |
+| 21 | [#Vina23](http://twitter.com/search?q=%23Vina23) | N/A |
 | 22 | [Edo Caroe](http://twitter.com/search?q=Edo+Caroe) | N/A |
-| 23 | [Wisin](http://twitter.com/search?q=Wisin) | N/A |
-| 24 | [Yandel](http://twitter.com/search?q=Yandel) | N/A |
-| 25 | [Meruane](http://twitter.com/search?q=Meruane) | N/A |
-| 26 | [Yatra](http://twitter.com/search?q=Yatra) | N/A |
-| 27 | [Rodrigo de Paul](http://twitter.com/search?q=Rodrigo+de+Paul) | N/A |
-| 28 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 29 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 30 | [Reppening](http://twitter.com/search?q=Reppening) | N/A |
-| 31 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 32 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 33 | [Víctor Jara](http://twitter.com/search?q=V%c3%adctor+Jara) | N/A |
-| 34 | [Garin](http://twitter.com/search?q=Garin) | N/A |
-| 35 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | N/A |
-| 36 | [Gracias al Rechazo](http://twitter.com/search?q=Gracias+al+Rechazo) | N/A |
-| 37 | [Canta](http://twitter.com/search?q=Canta) | N/A |
+| 23 | [wisin](http://twitter.com/search?q=wisin) | N/A |
+| 24 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 25 | [Yandel](http://twitter.com/search?q=Yandel) | N/A |
+| 26 | [Musetti](http://twitter.com/search?q=Musetti) | N/A |
+| 27 | [Meruane](http://twitter.com/search?q=Meruane) | N/A |
+| 28 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 29 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
+| 30 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 31 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 32 | [Víctor Jara](http://twitter.com/search?q=V%c3%adctor+Jara) | N/A |
+| 33 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | N/A |
+| 34 | [#Rechazo](http://twitter.com/search?q=%23Rechazo) | N/A |
+| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 36 | [Canta](http://twitter.com/search?q=Canta) | N/A |
+| 37 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
 | 38 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
-| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 40 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
-| 41 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
-| 42 | [Patagual](http://twitter.com/search?q=Patagual) | N/A |
-| 43 | [#AquiSeDebateCNN](http://twitter.com/search?q=%23AquiSeDebateCNN) | N/A |
-| 44 | [#YoSoyChv](http://twitter.com/search?q=%23YoSoyChv) | N/A |
-| 45 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 46 | [#VinaEnTVN](http://twitter.com/search?q=%23VinaEnTVN) | N/A |
-| 47 | [#URGENTE](http://twitter.com/search?q=%23URGENTE) | N/A |
+| 39 | [Marcel](http://twitter.com/search?q=Marcel) | N/A |
+| 40 | [#VinaEnTVN](http://twitter.com/search?q=%23VinaEnTVN) | N/A |
 
 
 
