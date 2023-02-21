@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-21 00:30:06 UTC`
+📆 Last Updated: `2023-02-21 01:45:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 2 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 3 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 4 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 5 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 6 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 8 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
-| 9 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 10 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
-| 11 | [El Ellis](http://twitter.com/search?q=El+Ellis) | N/A |
-| 12 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 13 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 14 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
-| 15 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 16 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
-| 17 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 18 | [Osteen](http://twitter.com/search?q=Osteen) | N/A |
-| 19 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 20 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
-| 21 | [Dr. Heiser](http://twitter.com/search?q=Dr.+Heiser) | N/A |
-| 22 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 24 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
-| 25 | [#IKnewIWasRightAbout](http://twitter.com/search?q=%23IKnewIWasRightAbout) | N/A |
-| 26 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 27 | [#AtomicHeart](http://twitter.com/search?q=%23AtomicHeart) | N/A |
-| 28 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 29 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 30 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 31 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 32 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 33 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 34 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
-| 35 | [Ersson](http://twitter.com/search?q=Ersson) | N/A |
-| 36 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
-| 37 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
-| 38 | [Trolls 3](http://twitter.com/search?q=Trolls+3) | N/A |
-| 39 | [Iron Man](http://twitter.com/search?q=Iron+Man) | N/A |
-| 40 | [Martin Jones](http://twitter.com/search?q=Martin+Jones) | N/A |
-| 41 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 42 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
-| 43 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 44 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
-| 45 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 46 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 47 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
-| 48 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 49 | [Jason Kipnis](http://twitter.com/search?q=Jason+Kipnis) | N/A |
-| 50 | [Ariana DeBose](http://twitter.com/search?q=Ariana+DeBose) | N/A |
+| 3 | [#sunset](http://twitter.com/search?q=%23sunset) | N/A |
+| 4 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 5 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 6 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 7 | [Zelenskyy](http://twitter.com/search?q=Zelenskyy) | N/A |
+| 8 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 9 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 10 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 11 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 12 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 13 | [Baron Corbin](http://twitter.com/search?q=Baron+Corbin) | Baron Corbin is a professional wrestler currently signed to WWE. His ring name is derived from his real name, Thomas Pestock. The term "Baron" is a title of nobility, while "Corbin" is an old French word meaning "raven". |
+| 14 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
+| 15 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 16 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 17 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 18 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 19 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 20 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 21 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
+| 22 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 23 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
+| 24 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
+| 25 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
+| 26 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 27 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
+| 28 | [Captain Sandy](http://twitter.com/search?q=Captain+Sandy) | N/A |
+| 29 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
+| 30 | [Jeanie](http://twitter.com/search?q=Jeanie) | N/A |
+| 31 | [El Ellis](http://twitter.com/search?q=El+Ellis) | N/A |
+| 32 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 33 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 34 | [Dr. Heiser](http://twitter.com/search?q=Dr.+Heiser) | N/A |
+| 35 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 36 | [Trocheck](http://twitter.com/search?q=Trocheck) | N/A |
+| 37 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 38 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
+| 39 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 40 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 41 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 42 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 43 | [President's Day](http://twitter.com/search?q=President%27s+Day) | N/A |
+| 44 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 45 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
+| 46 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 47 | [Camille](http://twitter.com/search?q=Camille) | N/A |
+| 48 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 49 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 50 | [Florian](http://twitter.com/search?q=Florian) | N/A |
 
 
 

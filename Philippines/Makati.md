@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-02-21 00:29:51 UTC`
+📆 Last Updated: `2023-02-21 01:45:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WILD TONIGHT](http://twitter.com/search?q=WILD+TONIGHT) | N/A |
-| 2 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 1 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 2 | [WILD TONIGHT](http://twitter.com/search?q=WILD+TONIGHT) | N/A |
 | 3 | [#OurMiracleWendyDay](http://twitter.com/search?q=%23OurMiracleWendyDay) | N/A |
 | 4 | [#우리_승완이_생일축하해_사랑해_고마워](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ec%8a%b9%ec%99%84%ec%9d%b4_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%82%ac%eb%9e%91%ed%95%b4_%ea%b3%a0%eb%a7%88%ec%9b%8c) | N/A |
-| 5 | [#rikiairbenderchallenge](http://twitter.com/search?q=%23rikiairbenderchallenge) | N/A |
+| 5 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
 | 6 | [#OurDazzlingPrideSolar](http://twitter.com/search?q=%23OurDazzlingPrideSolar) | N/A |
-| 7 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 7 | [#내사랑은영원해_용선아_생일축하해](http://twitter.com/search?q=%23%eb%82%b4%ec%82%ac%eb%9e%91%ec%9d%80%ec%98%81%ec%9b%90%ed%95%b4_%ec%9a%a9%ec%84%a0%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
 | 8 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
 | 9 | [READY TO BE AMAZED](http://twitter.com/search?q=READY+TO+BE+AMAZED) | N/A |
-| 10 | [certipied alpha boys](http://twitter.com/search?q=certipied+alpha+boys) | N/A |
-| 11 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
-| 12 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
-| 13 | [THEY NEED TO APOLOGIZE](http://twitter.com/search?q=THEY+NEED+TO+APOLOGIZE) | N/A |
-| 14 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 15 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
-| 16 | [4th monthsary karlia](http://twitter.com/search?q=4th+monthsary+karlia) | N/A |
-| 17 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
-| 18 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
-| 19 | [Team LeBron](http://twitter.com/search?q=Team+LeBron) | N/A |
-| 20 | [EYAversary](http://twitter.com/search?q=EYAversary) | N/A |
-| 21 | [happy 8200th days](http://twitter.com/search?q=happy+8200th+days) | N/A |
-| 22 | [Hobi](http://twitter.com/search?q=Hobi) | N/A |
-| 23 | [smcu episode 3 teaser](http://twitter.com/search?q=smcu+episode+3+teaser) | N/A |
+| 10 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
+| 11 | [certipied alpha boys](http://twitter.com/search?q=certipied+alpha+boys) | N/A |
+| 12 | [HERE I COME](http://twitter.com/search?q=HERE+I+COME) | N/A |
+| 13 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
+| 14 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
+| 15 | [4th monthsary karlia](http://twitter.com/search?q=4th+monthsary+karlia) | N/A |
+| 16 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
+| 17 | [Team LeBron](http://twitter.com/search?q=Team+LeBron) | N/A |
+| 18 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
+| 19 | [happy 8200th days](http://twitter.com/search?q=happy+8200th+days) | N/A |
+| 20 | [Happy EYAversary](http://twitter.com/search?q=Happy+EYAversary) | N/A |
+| 21 | [TWICE READY TO BE](http://twitter.com/search?q=TWICE+READY+TO+BE) | TWICE READY TO BE is a phrase used to describe someone who is prepared and eager to take on a challenge or task. It implies that the person is not only ready, but also willing and enthusiastic about the opportunity. |
+| 22 | [SMCU EPISODE 3 TEASER](http://twitter.com/search?q=SMCU+EPISODE+3+TEASER) | N/A |
+| 23 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
 | 24 | [ive in manila](http://twitter.com/search?q=ive+in+manila) | N/A |
-| 25 | [bss grandslam congratulations](http://twitter.com/search?q=bss+grandslam+congratulations) | N/A |
-| 26 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 27 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 25 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
+| 26 | [bss grandslam congratulations](http://twitter.com/search?q=bss+grandslam+congratulations) | N/A |
+| 27 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
 | 28 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 29 | [HAPPY 9TEEN JAY-R](http://twitter.com/search?q=HAPPY+9TEEN+JAY-R) | N/A |
-| 30 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
-| 31 | [piekada with gabbluke](http://twitter.com/search?q=piekada+with+gabbluke) | N/A |
-| 32 | [Sunoo Brave](http://twitter.com/search?q=Sunoo+Brave) | N/A |
-| 33 | [Sunoo Beautiful](http://twitter.com/search?q=Sunoo+Beautiful) | N/A |
-| 34 | [Sunoo Bubbly](http://twitter.com/search?q=Sunoo+Bubbly) | N/A |
-| 35 | [Sunoo Bright](http://twitter.com/search?q=Sunoo+Bright) | N/A |
-| 36 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 37 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 38 | [TadhanaMV OnFeb25](http://twitter.com/search?q=TadhanaMV+OnFeb25) | N/A |
-| 39 | [DMD Cover](http://twitter.com/search?q=DMD+Cover) | N/A |
-| 40 | [team scottie](http://twitter.com/search?q=team+scottie) | N/A |
-| 41 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
+| 29 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 30 | [HAPPY 9TEEN JAY-R](http://twitter.com/search?q=HAPPY+9TEEN+JAY-R) | N/A |
+| 31 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
+| 32 | [piekada with gabbluke](http://twitter.com/search?q=piekada+with+gabbluke) | N/A |
+| 33 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 34 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 35 | [Sunoo Brave](http://twitter.com/search?q=Sunoo+Brave) | N/A |
+| 36 | [Sunoo Beautiful](http://twitter.com/search?q=Sunoo+Beautiful) | N/A |
+| 37 | [Sunoo Bubbly](http://twitter.com/search?q=Sunoo+Bubbly) | N/A |
+| 38 | [Sunoo Bright](http://twitter.com/search?q=Sunoo+Bright) | N/A |
+| 39 | [TadhanaMV OnFeb25](http://twitter.com/search?q=TadhanaMV+OnFeb25) | N/A |
+| 40 | [DMD COVER](http://twitter.com/search?q=DMD+COVER) | N/A |
+| 41 | [team scottie](http://twitter.com/search?q=team+scottie) | N/A |
 | 42 | [Argus](http://twitter.com/search?q=Argus) | N/A |
-| 43 | [Japeth](http://twitter.com/search?q=Japeth) | N/A |
-| 44 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 45 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 46 | [MINI FAN MEETING WITH MEW](http://twitter.com/search?q=MINI+FAN+MEETING+WITH+MEW) | N/A |
-| 47 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 48 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 49 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 50 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
+| 43 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
+| 44 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 45 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 46 | [THEY NEED TO APOLOGIZE](http://twitter.com/search?q=THEY+NEED+TO+APOLOGIZE) | N/A |
+| 47 | [Wholly or Whole](http://twitter.com/search?q=Wholly+or+Whole) | N/A |
+| 48 | [MINI FAN MEETING WITH MEW](http://twitter.com/search?q=MINI+FAN+MEETING+WITH+MEW) | N/A |
+| 49 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 50 | [Kath](http://twitter.com/search?q=Kath) | N/A |
 
 
 

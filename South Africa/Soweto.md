@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-02-21 00:29:55 UTC`
+📆 Last Updated: `2023-02-21 01:45:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [South Africa](</South Africa>)
 | 2 | [#RamaphosaMustGo](http://twitter.com/search?q=%23RamaphosaMustGo) | N/A |
 | 3 | [Zwane](http://twitter.com/search?q=Zwane) | Zwane is a South African surname derived from the Zulu word for "king". It is also used as a given name. In English, it can be translated to mean "king". |
 | 4 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
-| 5 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 6 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
-| 7 | [#RHOPReunion](http://twitter.com/search?q=%23RHOPReunion) | N/A |
-| 8 | [#championbeer](http://twitter.com/search?q=%23championbeer) | N/A |
+| 5 | [#RHOPReunion](http://twitter.com/search?q=%23RHOPReunion) | N/A |
+| 6 | [#championbeer](http://twitter.com/search?q=%23championbeer) | N/A |
+| 7 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 8 | [Khosicle](http://twitter.com/search?q=Khosicle) | Khosicle is a portmanteau of the words “khaki” and “popsicle”. It is used to describe a type of clothing item that combines the look of khaki pants with the comfort of a popsicle. The term is often used to describe shorts, pants, or other clothing items that have a relaxed fit and are made from lightweight fabrics. |
 | 9 | [Kaizer Chiefs](http://twitter.com/search?q=Kaizer+Chiefs) | Kaizer Chiefs is a South African professional football club based in Johannesburg. The club was founded in 1970 and is one of the most successful teams in the country, having won the Premier Soccer League title a record eight times. The name Kaizer Chiefs is derived from the late South African president, Kaizer Matanzima, who was a strong supporter of the team. |
 | 10 | [Kanaiva](http://twitter.com/search?q=Kanaiva) | N/A |
-| 11 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 12 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
+| 11 | [Backstreet Boys](http://twitter.com/search?q=Backstreet+Boys) | N/A |
+| 12 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
 | 13 | [Mangethe](http://twitter.com/search?q=Mangethe) | N/A |
 | 14 | [Arrows](http://twitter.com/search?q=Arrows) | N/A |
-| 15 | [WE LOVE JUICY JAY](http://twitter.com/search?q=WE+LOVE+JUICY+JAY) | N/A |
-| 16 | [DJ Sbu](http://twitter.com/search?q=DJ+Sbu) | N/A |
-| 17 | [block 16](http://twitter.com/search?q=block+16) | N/A |
+| 15 | [we love juicy jay](http://twitter.com/search?q=we+love+juicy+jay) | N/A |
+| 16 | [block 16](http://twitter.com/search?q=block+16) | N/A |
+| 17 | [Dj Sbu](http://twitter.com/search?q=Dj+Sbu) | N/A |
 | 18 | [Royals](http://twitter.com/search?q=Royals) | N/A |
-| 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 20 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
+| 19 | [KEEPING UP WITH THABANG](http://twitter.com/search?q=KEEPING+UP+WITH+THABANG) | N/A |
+| 20 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 21 | [Blaqleng](http://twitter.com/search?q=Blaqleng) | Blaqleng is a term used in the Caribbean to describe a type of dance music that combines elements of hip-hop, reggae, and soca. The name is derived from the words "black" and "leng," which refer to the African and Caribbean influences in the music. In English, Blaqleng can be translated as "black rhythm." |
-| 22 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 22 | [Mpho Hart](http://twitter.com/search?q=Mpho+Hart) | N/A |
 | 23 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 24 | [Mpho Hart](http://twitter.com/search?q=Mpho+Hart) | N/A |
-| 25 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 26 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
-| 27 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 28 | [Nota](http://twitter.com/search?q=Nota) | N/A |
-| 29 | [State of the Province Address](http://twitter.com/search?q=State+of+the+Province+Address) | N/A |
-| 30 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
-| 31 | [Coach](http://twitter.com/search?q=Coach) | N/A |
-| 32 | [schalk](http://twitter.com/search?q=schalk) | N/A |
-| 33 | [South America](http://twitter.com/search?q=South+America) | N/A |
-| 34 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 24 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
+| 25 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 26 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 27 | [Apartheid](http://twitter.com/search?q=Apartheid) | N/A |
+| 28 | [state of the province address](http://twitter.com/search?q=state+of+the+province+address) | N/A |
+| 29 | [Gizelle](http://twitter.com/search?q=Gizelle) | Gizelle is a French female name derived from the Germanic name Gisela, which means "pledge". It is also a variant of the name Giselle, which means "hostage" or "pledge". |
+| 30 | [Coach](http://twitter.com/search?q=Coach) | N/A |
+| 31 | [schalk](http://twitter.com/search?q=schalk) | N/A |
+| 32 | [South America](http://twitter.com/search?q=South+America) | N/A |
+| 33 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 34 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 | 35 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
 | 36 | [Melita](http://twitter.com/search?q=Melita) | N/A |
-| 37 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
-| 38 | [Ipeleng](http://twitter.com/search?q=Ipeleng) | Ipeleng is a Setswana word meaning “to be beautiful”. It is often used as a name for girls in Botswana. |
-| 39 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
-| 40 | [Saile](http://twitter.com/search?q=Saile) | N/A |
-| 41 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 42 | [Orlando Pirates](http://twitter.com/search?q=Orlando+Pirates) | N/A |
-| 43 | [Nange](http://twitter.com/search?q=Nange) | N/A |
-| 44 | [Siyacela](http://twitter.com/search?q=Siyacela) | Siyacela is a Zulu word that means "please" or "I beg you". It is used as a polite request or to show respect. |
-| 45 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 46 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 47 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
-| 48 | [johannesburg city hall](http://twitter.com/search?q=johannesburg+city+hall) | N/A |
-| 49 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 37 | [Dolly](http://twitter.com/search?q=Dolly) | Dolly is a slang term used to refer to a person who is attractive, stylish, and fashionable. It can also be used to describe someone who is a trendsetter or trend follower. |
+| 38 | [saile](http://twitter.com/search?q=saile) | N/A |
+| 39 | [Nange](http://twitter.com/search?q=Nange) | N/A |
+| 40 | [siyacela](http://twitter.com/search?q=siyacela) | N/A |
+| 41 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
+| 42 | [Marcus Rashford](http://twitter.com/search?q=Marcus+Rashford) | Marcus Rashford is an English professional footballer who plays as a forward for Premier League club Manchester United and the England national team. He is known for his pace, skill, and direct style of play. |
+| 43 | [johannesburg city hall](http://twitter.com/search?q=johannesburg+city+hall) | N/A |
+| 44 | [Robyn](http://twitter.com/search?q=Robyn) | Robyn is a female given name of English origin, derived from the Old Germanic name Hrodebert, meaning "bright fame". It is also a variant spelling of the name Robin. |
+| 45 | [Nota](http://twitter.com/search?q=Nota) | N/A |
+| 46 | [radiokop](http://twitter.com/search?q=radiokop) | N/A |
+| 47 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 48 | [Orlando Pirates](http://twitter.com/search?q=Orlando+Pirates) | N/A |
+| 49 | [Airbnb](http://twitter.com/search?q=Airbnb) | N/A |
 
 
 

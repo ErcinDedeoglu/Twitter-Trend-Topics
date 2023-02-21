@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-21 00:29:43 UTC`
+📆 Last Updated: `2023-02-21 01:45:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,16 +21,16 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 4 | [#SocialJusticeDay](http://twitter.com/search?q=%23SocialJusticeDay) | N/A |
 | 5 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
 | 6 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 7 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 8 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 9 | [#Kiew](http://twitter.com/search?q=%23Kiew) | N/A |
+| 7 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 8 | [#Kiew](http://twitter.com/search?q=%23Kiew) | N/A |
+| 9 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
 | 10 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 11 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 12 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
 | 13 | [Juso](http://twitter.com/search?q=Juso) | N/A |
 | 14 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
 | 15 | [Honig](http://twitter.com/search?q=Honig) | N/A |
-| 16 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 16 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 17 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
 | 18 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
 | 19 | [Krieg mit Russland](http://twitter.com/search?q=Krieg+mit+Russland) | N/A |
@@ -39,13 +39,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 22 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
 | 23 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 | 24 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
-| 25 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 26 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 27 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
-| 28 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 29 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 30 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 31 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 25 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 26 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
+| 27 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 28 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 29 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 30 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 31 | [Details](http://twitter.com/search?q=Details) | N/A |
 | 32 | [Japon](http://twitter.com/search?q=Japon) | N/A |
 | 33 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
 | 34 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
@@ -54,9 +54,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 37 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
 | 38 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
 | 39 | [verteidiger](http://twitter.com/search?q=verteidiger) | N/A |
-| 40 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 41 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 42 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
+| 40 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 41 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
+| 42 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 43 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
 | 44 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
 | 45 | [Russie](http://twitter.com/search?q=Russie) | N/A |

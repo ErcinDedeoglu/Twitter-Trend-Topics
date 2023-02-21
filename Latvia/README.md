@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-21 00:30:17 UTC`
+📆 Last Updated: `2023-02-21 01:45:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,7 +32,7 @@ This is top 50 for Latvia
 | 15 | [pievienojos](http://twitter.com/search?q=pievienojos) | N/A |
 | 16 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
 | 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
+| 18 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
 | 19 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
 | 20 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
 | 21 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
@@ -40,12 +40,12 @@ This is top 50 for Latvia
 | 23 | [#florbols](http://twitter.com/search?q=%23florbols) | N/A |
 | 24 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
 | 25 | [muļķības](http://twitter.com/search?q=mu%c4%bc%c4%b7%c4%abbas) | N/A |
-| 26 | [Katru](http://twitter.com/search?q=Katru) | N/A |
-| 27 | [Ņemot](http://twitter.com/search?q=%c5%85emot) | N/A |
+| 26 | [katru](http://twitter.com/search?q=katru) | N/A |
+| 27 | [ņemot](http://twitter.com/search?q=%c5%86emot) | N/A |
 | 28 | [Tāda](http://twitter.com/search?q=T%c4%81da) | N/A |
 | 29 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
 | 30 | [kurzemē](http://twitter.com/search?q=kurzem%c4%93) | N/A |
-| 31 | [Daugavas](http://twitter.com/search?q=Daugavas) | N/A |
+| 31 | [daugavas](http://twitter.com/search?q=daugavas) | N/A |
 | 32 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 33 | [jūrmalas](http://twitter.com/search?q=j%c5%abrmalas) | N/A |
 | 34 | [pirmā](http://twitter.com/search?q=pirm%c4%81) | N/A |
@@ -53,7 +53,7 @@ This is top 50 for Latvia
 | 36 | [kādreiz](http://twitter.com/search?q=k%c4%81dreiz) | N/A |
 | 37 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
 | 38 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
-| 39 | [parasti](http://twitter.com/search?q=parasti) | N/A |
+| 39 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
 | 40 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 41 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
 | 42 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |

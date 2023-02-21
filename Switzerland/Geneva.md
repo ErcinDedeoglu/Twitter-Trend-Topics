@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-21 00:29:42 UTC`
+📆 Last Updated: `2023-02-21 01:45:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,7 +27,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 10 | [Juso](http://twitter.com/search?q=Juso) | N/A |
 | 11 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
 | 12 | [Honig](http://twitter.com/search?q=Honig) | N/A |
-| 13 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 13 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 14 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
 | 15 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
 | 16 | [Krieg mit Russland](http://twitter.com/search?q=Krieg+mit+Russland) | N/A |
@@ -36,13 +36,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 19 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
 | 20 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 | 21 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
-| 22 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 23 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 24 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
-| 25 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 26 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 27 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 28 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 22 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 23 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
+| 24 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 25 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 26 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 27 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 28 | [Details](http://twitter.com/search?q=Details) | N/A |
 | 29 | [Japon](http://twitter.com/search?q=Japon) | N/A |
 | 30 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
 | 31 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
@@ -51,9 +51,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 34 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
 | 35 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
 | 36 | [verteidiger](http://twitter.com/search?q=verteidiger) | N/A |
-| 37 | [J'avais](http://twitter.com/search?q=J%27avais) | N/A |
-| 38 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 39 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
+| 37 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 38 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
+| 39 | [Trans](http://twitter.com/search?q=Trans) | N/A |
 | 40 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
 | 41 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
 | 42 | [Russie](http://twitter.com/search?q=Russie) | N/A |

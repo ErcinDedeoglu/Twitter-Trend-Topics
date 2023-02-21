@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-02-21 00:29:32 UTC`
+📆 Last Updated: `2023-02-21 01:45:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 4 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
 | 5 | [#FuerzaViviana](http://twitter.com/search?q=%23FuerzaViviana) | N/A |
 | 6 | [Gabela](http://twitter.com/search?q=Gabela) | N/A |
-| 7 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 8 | [Madelen Riera](http://twitter.com/search?q=Madelen+Riera) | N/A |
-| 9 | [Karen Sichel](http://twitter.com/search?q=Karen+Sichel) | N/A |
-| 10 | [#HechosQueTransparentan](http://twitter.com/search?q=%23HechosQueTransparentan) | N/A |
+| 7 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 8 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 9 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
+| 10 | [Karen Sichel](http://twitter.com/search?q=Karen+Sichel) | N/A |
 | 11 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 12 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 13 | [telconet](http://twitter.com/search?q=telconet) | N/A |
-| 14 | [Erika Gracia](http://twitter.com/search?q=Erika+Gracia) | N/A |
+| 12 | [#HechosQueTransparentan](http://twitter.com/search?q=%23HechosQueTransparentan) | N/A |
+| 13 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 14 | [telconet](http://twitter.com/search?q=telconet) | N/A |
 | 15 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 16 | [Otto](http://twitter.com/search?q=Otto) | N/A |
-| 17 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 17 | [Erika Gracia](http://twitter.com/search?q=Erika+Gracia) | N/A |
 | 18 | [Edgardo Bauza](http://twitter.com/search?q=Edgardo+Bauza) | N/A |
 | 19 | [Recopa](http://twitter.com/search?q=Recopa) | N/A |
-| 20 | [Chapas](http://twitter.com/search?q=Chapas) | N/A |
-| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 22 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 23 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 24 | [Día del Abogado Ecuatoriano](http://twitter.com/search?q=D%c3%ada+del+Abogado+Ecuatoriano) | N/A |
-| 25 | [Deportivo Cuenca](http://twitter.com/search?q=Deportivo+Cuenca) | N/A |
-| 26 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 27 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 28 | [Santa Elena](http://twitter.com/search?q=Santa+Elena) | N/A |
-| 29 | [Ángel González](http://twitter.com/search?q=%c3%81ngel+Gonz%c3%a1lez) | N/A |
-| 30 | [Montañita](http://twitter.com/search?q=Monta%c3%b1ita) | N/A |
-| 31 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 32 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
-| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 34 | [NARCOGENERALES](http://twitter.com/search?q=NARCOGENERALES) | N/A |
-| 35 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 36 | [Quiteños](http://twitter.com/search?q=Quite%c3%b1os) | N/A |
-| 37 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 38 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 39 | [Cununyacu](http://twitter.com/search?q=Cununyacu) | N/A |
-| 40 | [Alausí](http://twitter.com/search?q=Alaus%c3%ad) | N/A |
-| 41 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 42 | [leonel quiñónez](http://twitter.com/search?q=leonel+qui%c3%b1%c3%b3nez) | N/A |
-| 43 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 44 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 45 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
-| 46 | [Playas](http://twitter.com/search?q=Playas) | N/A |
-| 47 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
-| 48 | [rinaldi](http://twitter.com/search?q=rinaldi) | N/A |
-| 49 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
-| 50 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 20 | [Madelen Riera](http://twitter.com/search?q=Madelen+Riera) | N/A |
+| 21 | [Chapas](http://twitter.com/search?q=Chapas) | N/A |
+| 22 | [Montañita](http://twitter.com/search?q=Monta%c3%b1ita) | N/A |
+| 23 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 24 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 25 | [Día del Abogado Ecuatoriano](http://twitter.com/search?q=D%c3%ada+del+Abogado+Ecuatoriano) | N/A |
+| 26 | [Deportivo Cuenca](http://twitter.com/search?q=Deportivo+Cuenca) | N/A |
+| 27 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 28 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 29 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 30 | [Santa Elena](http://twitter.com/search?q=Santa+Elena) | N/A |
+| 31 | [Quiteños](http://twitter.com/search?q=Quite%c3%b1os) | N/A |
+| 32 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 33 | [Ángel González](http://twitter.com/search?q=%c3%81ngel+Gonz%c3%a1lez) | N/A |
+| 34 | [We Are Build Worldwide Family](http://twitter.com/search?q=We+Are+Build+Worldwide+Family) | N/A |
+| 35 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 36 | [Playas](http://twitter.com/search?q=Playas) | N/A |
+| 37 | [Alausí](http://twitter.com/search?q=Alaus%c3%ad) | N/A |
+| 38 | [Leonel Quiñónez](http://twitter.com/search?q=Leonel+Qui%c3%b1%c3%b3nez) | N/A |
+| 39 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 40 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 41 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 42 | [NARCOGENERALES](http://twitter.com/search?q=NARCOGENERALES) | N/A |
+| 43 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 44 | [Rinaldi](http://twitter.com/search?q=Rinaldi) | N/A |
+| 45 | [Siria](http://twitter.com/search?q=Siria) | N/A |
+| 46 | [Piedra](http://twitter.com/search?q=Piedra) | N/A |
+| 47 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 48 | [patón](http://twitter.com/search?q=pat%c3%b3n) | N/A |
+| 49 | [SERVIR](http://twitter.com/search?q=SERVIR) | N/A |
+| 50 | [Cununyacu](http://twitter.com/search?q=Cununyacu) | N/A |
 
 
 

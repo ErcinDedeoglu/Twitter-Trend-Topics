@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-21 00:29:43 UTC`
+📆 Last Updated: `2023-02-21 01:45:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Norway](</Norway>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nasjonalmuseet](http://twitter.com/search?q=Nasjonalmuseet) | N/A |
-| 2 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 1 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 2 | [Nasjonalmuseet](http://twitter.com/search?q=Nasjonalmuseet) | N/A |
 | 3 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 4 | [Leiv Eiriksson](http://twitter.com/search?q=Leiv+Eiriksson) | N/A |
 | 5 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
@@ -38,15 +38,15 @@ This is top 50 for [Norway](</Norway>)
 | 21 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
 | 22 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 23 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 24 | [Virker](http://twitter.com/search?q=Virker) | N/A |
+| 24 | [virker](http://twitter.com/search?q=virker) | N/A |
 | 25 | [emma steinbakken](http://twitter.com/search?q=emma+steinbakken) | N/A |
 | 26 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
 | 27 | [Ola Solbakken](http://twitter.com/search?q=Ola+Solbakken) | N/A |
 | 28 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 29 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 31 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 32 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 30 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 31 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 33 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 34 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 35 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
@@ -63,7 +63,7 @@ This is top 50 for [Norway](</Norway>)
 | 46 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 | 47 | [rv 13 vikafjell](http://twitter.com/search?q=rv+13+vikafjell) | N/A |
 | 48 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
-| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 49 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 
 
 

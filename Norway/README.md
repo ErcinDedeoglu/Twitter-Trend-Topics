@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-21 00:30:18 UTC`
+📆 Last Updated: `2023-02-21 01:45:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nasjonalmuseet](http://twitter.com/search?q=Nasjonalmuseet) | N/A |
-| 2 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 1 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
+| 2 | [Nasjonalmuseet](http://twitter.com/search?q=Nasjonalmuseet) | N/A |
 | 3 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 4 | [Leiv Eiriksson](http://twitter.com/search?q=Leiv+Eiriksson) | N/A |
 | 5 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
@@ -44,9 +44,9 @@ This is top 50 for Norway
 | 27 | [Ola Solbakken](http://twitter.com/search?q=Ola+Solbakken) | N/A |
 | 28 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 29 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 31 | [Brad](http://twitter.com/search?q=Brad) | N/A |
-| 32 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 30 | [Brad](http://twitter.com/search?q=Brad) | N/A |
+| 31 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 33 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 34 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 35 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Norway
 | 46 | [SMS 2FA](http://twitter.com/search?q=SMS+2FA) | N/A |
 | 47 | [rv 13 vikafjell](http://twitter.com/search?q=rv+13+vikafjell) | N/A |
 | 48 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
-| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 50 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 49 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 50 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 
 
 

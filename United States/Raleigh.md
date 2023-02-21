@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Raleigh
 
-📆 Last Updated: `2023-02-21 00:30:11 UTC`
+📆 Last Updated: `2023-02-21 01:45:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 2 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
-| 3 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
-| 4 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
-| 5 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 7 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 8 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 9 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 10 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
-| 11 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 12 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
-| 13 | [El Ellis](http://twitter.com/search?q=El+Ellis) | N/A |
-| 14 | [#blindguess](http://twitter.com/search?q=%23blindguess) | N/A |
-| 15 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 16 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 17 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
-| 18 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 19 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
-| 20 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 21 | [Osteen](http://twitter.com/search?q=Osteen) | N/A |
-| 22 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 23 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 24 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
-| 25 | [Dr. Heiser](http://twitter.com/search?q=Dr.+Heiser) | N/A |
-| 26 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 27 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 28 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
-| 29 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 30 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 31 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 32 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 33 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 34 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 35 | [Ersson](http://twitter.com/search?q=Ersson) | N/A |
-| 36 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
-| 37 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
-| 38 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
-| 39 | [Iron Man](http://twitter.com/search?q=Iron+Man) | N/A |
-| 40 | [Trolls 3](http://twitter.com/search?q=Trolls+3) | N/A |
-| 41 | [Martin Jones](http://twitter.com/search?q=Martin+Jones) | N/A |
-| 42 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 43 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
-| 44 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
-| 45 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 46 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 47 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 48 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 49 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
+| 1 | [Beyoncé](http://twitter.com/search?q=Beyonc%c3%a9) | Beyoncé is the stage name of American singer, songwriter, and actress Beyoncé Knowles-Carter. She is one of the most successful and influential entertainers in the world. The name "Beyoncé" is derived from her mother's maiden name, Beyincé, which is of French origin. It means "beyond others" or "surpassing all others". |
+| 2 | [#RENAISSANCEWorldTour](http://twitter.com/search?q=%23RENAISSANCEWorldTour) | #RENAISSANCEWorldTour is the name of a concert tour by the British singer-songwriter Dua Lipa. The tour began in March 2019 and will visit cities across Europe, North America, South America, Asia, and Australia. The name of the tour is a reference to Lipa's second studio album, RENAISSANCE, which was released in April 2019. In English, the phrase "Renaissance World Tour" means a world tour that celebrates the rebirth of Dua Lipa's music. |
+| 3 | [President Biden](http://twitter.com/search?q=President+Biden) | N/A |
+| 4 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 6 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 7 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 8 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 9 | [Baron Corbin](http://twitter.com/search?q=Baron+Corbin) | Baron Corbin is a professional wrestler currently signed to WWE. His ring name is derived from his real name, Thomas Pestock. The term "Baron" is a title of nobility, while "Corbin" is an old French word meaning "raven". |
+| 10 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
+| 11 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 12 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 13 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 14 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 15 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 16 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 17 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 18 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
+| 19 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 20 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
+| 21 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
+| 22 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
+| 23 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 24 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
+| 25 | [Captain Sandy](http://twitter.com/search?q=Captain+Sandy) | N/A |
+| 26 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
+| 27 | [El Ellis](http://twitter.com/search?q=El+Ellis) | N/A |
+| 28 | [Jeanie](http://twitter.com/search?q=Jeanie) | N/A |
+| 29 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 30 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 31 | [Dr. Heiser](http://twitter.com/search?q=Dr.+Heiser) | N/A |
+| 32 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 33 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 34 | [Trocheck](http://twitter.com/search?q=Trocheck) | N/A |
+| 35 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 36 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
+| 37 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 38 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 39 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 40 | [President's Day](http://twitter.com/search?q=President%27s+Day) | N/A |
+| 41 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 42 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
+| 43 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 44 | [Camille](http://twitter.com/search?q=Camille) | N/A |
+| 45 | [Florian](http://twitter.com/search?q=Florian) | N/A |
+| 46 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 47 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 48 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
+| 49 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
 
 
 

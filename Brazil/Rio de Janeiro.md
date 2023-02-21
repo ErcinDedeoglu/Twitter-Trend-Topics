@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-21 00:29:34 UTC`
+📆 Last Updated: `2023-02-21 01:45:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BlocoDaPabllo](http://twitter.com/search?q=%23BlocoDaPabllo) | N/A |
-| 2 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
-| 3 | [Mocidade](http://twitter.com/search?q=Mocidade) | N/A |
-| 4 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
-| 5 | [daniel caesar](http://twitter.com/search?q=daniel+caesar) | N/A |
-| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 7 | [Yago Felipe](http://twitter.com/search?q=Yago+Felipe) | Yago Felipe is a Portuguese name. It is composed of two parts: Yago, which is a variation of the Hebrew name Jacob, and Felipe, which is the Spanish form of the name Philip. In English, it would be translated as Jacob Philip. |
-| 8 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
-| 9 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 10 | [CONEXAO BRISOTO](http://twitter.com/search?q=CONEXAO+BRISOTO) | N/A |
-| 11 | [Josias](http://twitter.com/search?q=Josias) | N/A |
-| 12 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
-| 13 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 14 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 15 | [#RioOpenNoSportv](http://twitter.com/search?q=%23RioOpenNoSportv) | N/A |
-| 16 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
-| 17 | [#askjjk](http://twitter.com/search?q=%23askjjk) | N/A |
-| 18 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 19 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 20 | [#TresVezesAna016](http://twitter.com/search?q=%23TresVezesAna016) | N/A |
-| 21 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
-| 22 | [Luva](http://twitter.com/search?q=Luva) | N/A |
-| 23 | [Lei Rouanet](http://twitter.com/search?q=Lei+Rouanet) | N/A |
-| 24 | [beto carrero](http://twitter.com/search?q=beto+carrero) | N/A |
-| 25 | [Daniel Ricciardo](http://twitter.com/search?q=Daniel+Ricciardo) | N/A |
-| 26 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
-| 27 | [Guiga](http://twitter.com/search?q=Guiga) | N/A |
-| 28 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 29 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 30 | [Thiago Monteiro](http://twitter.com/search?q=Thiago+Monteiro) | N/A |
-| 31 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
-| 32 | [2 Milhões](http://twitter.com/search?q=2+Milh%c3%b5es) | N/A |
-| 33 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 34 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
-| 35 | [Galã](http://twitter.com/search?q=Gal%c3%a3) | N/A |
-| 36 | [Jet Ski](http://twitter.com/search?q=Jet+Ski) | N/A |
-| 37 | [Silvan Alves](http://twitter.com/search?q=Silvan+Alves) | N/A |
-| 38 | [Zé Eduardo](http://twitter.com/search?q=Z%c3%a9+Eduardo) | N/A |
-| 39 | [Thor](http://twitter.com/search?q=Thor) | N/A |
-| 40 | [Jabuticaba](http://twitter.com/search?q=Jabuticaba) | N/A |
-| 41 | [Ultimato](http://twitter.com/search?q=Ultimato) | N/A |
-| 42 | [Zé Ricardo](http://twitter.com/search?q=Z%c3%a9+Ricardo) | N/A |
-| 43 | [Zé Neto](http://twitter.com/search?q=Z%c3%a9+Neto) | N/A |
-| 44 | [Calegari](http://twitter.com/search?q=Calegari) | Calegari is an Italian surname derived from the Latin word caligarius, meaning "soldier in boots". It is most commonly found in northern Italy, particularly in the regions of Lombardy and Piedmont. In English, the name can be translated to mean "booted soldier". |
-| 45 | [Profanação](http://twitter.com/search?q=Profana%c3%a7%c3%a3o) | N/A |
-| 46 | [Torino](http://twitter.com/search?q=Torino) | N/A |
-| 47 | [Guerra Infinita](http://twitter.com/search?q=Guerra+Infinita) | N/A |
-| 48 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
-| 49 | [Bananinha](http://twitter.com/search?q=Bananinha) | N/A |
-| 50 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
+| 1 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 2 | [#BlocoDaPabllo](http://twitter.com/search?q=%23BlocoDaPabllo) | N/A |
+| 3 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 4 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
+| 5 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
+| 6 | [Mocidade](http://twitter.com/search?q=Mocidade) | N/A |
+| 7 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
+| 8 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
+| 9 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 10 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 11 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 12 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
+| 13 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
+| 14 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 15 | [Fred desimpedidos](http://twitter.com/search?q=Fred+desimpedidos) | N/A |
+| 16 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
+| 17 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
+| 18 | [Marajó](http://twitter.com/search?q=Maraj%c3%b3) | N/A |
+| 19 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 20 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 21 | [INTOLERÂNCIA RELIGIOSA É CRIME](http://twitter.com/search?q=INTOLER%c3%82NCIA+RELIGIOSA+%c3%89+CRIME) | N/A |
+| 22 | [Yago Felipe](http://twitter.com/search?q=Yago+Felipe) | Yago Felipe is a Portuguese name. It is composed of two parts: Yago, which is a variation of the Hebrew name Jacob, and Felipe, which is the Spanish form of the name Philip. In English, it would be translated as Jacob Philip. |
+| 23 | [Kaká](http://twitter.com/search?q=Kak%c3%a1) | Kaká is a nickname for the Brazilian soccer player Ricardo Izecson dos Santos Leite, who is commonly known as Kaká. The name is derived from the Portuguese pronunciation of Ricardo, which is "ka-ka-shu". In English, it can be translated to mean "Ricardo". |
+| 24 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 25 | [#AmorPerfeito](http://twitter.com/search?q=%23AmorPerfeito) | N/A |
+| 26 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
+| 27 | [Sentiram](http://twitter.com/search?q=Sentiram) | N/A |
+| 28 | [CONEXAO BRISOTO](http://twitter.com/search?q=CONEXAO+BRISOTO) | N/A |
+| 29 | [Thiago Monteiro](http://twitter.com/search?q=Thiago+Monteiro) | N/A |
+| 30 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 31 | [Oxum](http://twitter.com/search?q=Oxum) | N/A |
+| 32 | [Josias](http://twitter.com/search?q=Josias) | N/A |
+| 33 | [IMPAGÁVEL](http://twitter.com/search?q=IMPAG%c3%81VEL) | N/A |
+| 34 | [Os 3](http://twitter.com/search?q=Os+3) | N/A |
+| 35 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
+| 36 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 37 | [Entenderam](http://twitter.com/search?q=Entenderam) | N/A |
+| 38 | [Rosa Magalhães](http://twitter.com/search?q=Rosa+Magalh%c3%a3es) | N/A |
+| 39 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
+| 40 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
+| 41 | [Fredinho](http://twitter.com/search?q=Fredinho) | N/A |
+| 42 | [Macetou](http://twitter.com/search?q=Macetou) | N/A |
+| 43 | [André Negão](http://twitter.com/search?q=Andr%c3%a9+Neg%c3%a3o) | N/A |
+| 44 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 45 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 46 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
+| 47 | [Tiago Leifert](http://twitter.com/search?q=Tiago+Leifert) | N/A |
+| 48 | [beto carrero](http://twitter.com/search?q=beto+carrero) | N/A |
+| 49 | [PODRES](http://twitter.com/search?q=PODRES) | N/A |
+| 50 | [Preconceituosos](http://twitter.com/search?q=Preconceituosos) | N/A |
 
 
 
