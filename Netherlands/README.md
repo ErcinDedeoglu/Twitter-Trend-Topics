@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-21 16:17:47 UTC`
+📆 Last Updated: `2023-02-21 17:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Netherlands
 | 6 | [Shula Rijxman](http://twitter.com/search?q=Shula+Rijxman) | N/A |
 | 7 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
 | 8 | [#oranje](http://twitter.com/search?q=%23oranje) | N/A |
-| 9 | [#olijf](http://twitter.com/search?q=%23olijf) | N/A |
+| 9 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
 | 10 | [Jeroen Pauw](http://twitter.com/search?q=Jeroen+Pauw) | N/A |
-| 11 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 11 | [#olijf](http://twitter.com/search?q=%23olijf) | N/A |
 | 12 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 13 | [#hunted](http://twitter.com/search?q=%23hunted) | N/A |
-| 14 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 13 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 14 | [#hunted](http://twitter.com/search?q=%23hunted) | N/A |
 | 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 16 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 17 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
-| 18 | [Philips Stadion](http://twitter.com/search?q=Philips+Stadion) | N/A |
-| 19 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 20 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 21 | [Marokko](http://twitter.com/search?q=Marokko) | N/A |
-| 22 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
-| 23 | [Aangifte](http://twitter.com/search?q=Aangifte) | N/A |
-| 24 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 25 | [Luisteren](http://twitter.com/search?q=Luisteren) | N/A |
-| 26 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 27 | [Dag 21](http://twitter.com/search?q=Dag+21) | N/A |
-| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 29 | [ONACCEPTABEL](http://twitter.com/search?q=ONACCEPTABEL) | N/A |
-| 30 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
-| 31 | [Farid](http://twitter.com/search?q=Farid) | N/A |
-| 32 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 33 | [Wybren](http://twitter.com/search?q=Wybren) | N/A |
-| 34 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 35 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 36 | [Ku Klux Klan](http://twitter.com/search?q=Ku+Klux+Klan) | N/A |
-| 37 | [Forum Inside](http://twitter.com/search?q=Forum+Inside) | N/A |
-| 38 | [Intimidatie](http://twitter.com/search?q=Intimidatie) | N/A |
-| 39 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 40 | [wc-oorlog kamer](http://twitter.com/search?q=wc-oorlog+kamer) | N/A |
-| 41 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
-| 42 | [Famke](http://twitter.com/search?q=Famke) | N/A |
-| 43 | [geen d66](http://twitter.com/search?q=geen+d66) | N/A |
-| 44 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 45 | [Fleur](http://twitter.com/search?q=Fleur) | N/A |
-| 46 | [Peggy](http://twitter.com/search?q=Peggy) | N/A |
-| 47 | [MIVD](http://twitter.com/search?q=MIVD) | N/A |
-| 48 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 49 | [Middeleeuwen](http://twitter.com/search?q=Middeleeuwen) | N/A |
-| 50 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 16 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
+| 17 | [Guns N](http://twitter.com/search?q=Guns+N) | N/A |
+| 18 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 19 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
+| 20 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 21 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 22 | [Luisteren](http://twitter.com/search?q=Luisteren) | N/A |
+| 23 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 24 | [Aangifte](http://twitter.com/search?q=Aangifte) | N/A |
+| 25 | [onacceptabel](http://twitter.com/search?q=onacceptabel) | N/A |
+| 26 | [Farid](http://twitter.com/search?q=Farid) | N/A |
+| 27 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 28 | [Philips Stadion](http://twitter.com/search?q=Philips+Stadion) | N/A |
+| 29 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 30 | [Dag 21](http://twitter.com/search?q=Dag+21) | N/A |
+| 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 32 | [Wybren](http://twitter.com/search?q=Wybren) | N/A |
+| 33 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 34 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
+| 35 | [Ku Klux Klan](http://twitter.com/search?q=Ku+Klux+Klan) | N/A |
+| 36 | [Forum Inside](http://twitter.com/search?q=Forum+Inside) | N/A |
+| 37 | [Intimidatie](http://twitter.com/search?q=Intimidatie) | N/A |
+| 38 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 39 | [Famke](http://twitter.com/search?q=Famke) | N/A |
+| 40 | [Marokko](http://twitter.com/search?q=Marokko) | N/A |
+| 41 | [geen d66](http://twitter.com/search?q=geen+d66) | N/A |
+| 42 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
+| 43 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 44 | [Kuipers](http://twitter.com/search?q=Kuipers) | N/A |
+| 45 | [Peggy](http://twitter.com/search?q=Peggy) | N/A |
+| 46 | [MIVD](http://twitter.com/search?q=MIVD) | N/A |
+| 47 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 48 | [middeleeuwen](http://twitter.com/search?q=middeleeuwen) | N/A |
+| 49 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
+| 50 | [Bedreiging](http://twitter.com/search?q=Bedreiging) | N/A |
 
 
 

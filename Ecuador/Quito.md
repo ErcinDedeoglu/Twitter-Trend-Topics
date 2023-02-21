@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-02-21 16:17:03 UTC`
+📆 Last Updated: `2023-02-21 17:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 6 | [Sodoma y Gomorra](http://twitter.com/search?q=Sodoma+y+Gomorra) | N/A |
 | 7 | [Taxo](http://twitter.com/search?q=Taxo) | N/A |
-| 8 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
-| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 9 | [#Carnaval](http://twitter.com/search?q=%23Carnaval) | N/A |
 | 10 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 11 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
-| 12 | [#fuerzaviviana](http://twitter.com/search?q=%23fuerzaviviana) | N/A |
-| 13 | [Día del Médico Ecuatoriano](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico+Ecuatoriano) | N/A |
-| 14 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 15 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 16 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 17 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 18 | [Santa Elena](http://twitter.com/search?q=Santa+Elena) | N/A |
-| 19 | [Otto](http://twitter.com/search?q=Otto) | N/A |
+| 11 | [#FuerzaViviana](http://twitter.com/search?q=%23FuerzaViviana) | N/A |
+| 12 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
+| 13 | [San Pedro](http://twitter.com/search?q=San+Pedro) | N/A |
+| 14 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 15 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 16 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 17 | [Santa Elena](http://twitter.com/search?q=Santa+Elena) | N/A |
+| 18 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 19 | [Día del Médico Ecuatoriano](http://twitter.com/search?q=D%c3%ada+del+M%c3%a9dico+Ecuatoriano) | N/A |
 | 20 | [Montañita](http://twitter.com/search?q=Monta%c3%b1ita) | N/A |
-| 21 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 21 | [Otto](http://twitter.com/search?q=Otto) | N/A |
 | 22 | [erika gracia](http://twitter.com/search?q=erika+gracia) | N/A |
-| 23 | [Gabela](http://twitter.com/search?q=Gabela) | N/A |
-| 24 | [Chapas](http://twitter.com/search?q=Chapas) | N/A |
-| 25 | [Karen Sichel](http://twitter.com/search?q=Karen+Sichel) | N/A |
-| 26 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 27 | [Bauza](http://twitter.com/search?q=Bauza) | N/A |
-| 28 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 29 | [deportivo cuenca](http://twitter.com/search?q=deportivo+cuenca) | N/A |
-| 30 | [quiteños](http://twitter.com/search?q=quite%c3%b1os) | N/A |
-| 31 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 32 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 33 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 34 | [Playas](http://twitter.com/search?q=Playas) | N/A |
-| 35 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
-| 36 | [Pallares](http://twitter.com/search?q=Pallares) | N/A |
-| 37 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 23 | [Chapas](http://twitter.com/search?q=Chapas) | N/A |
+| 24 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 25 | [Gabela](http://twitter.com/search?q=Gabela) | N/A |
+| 26 | [Bauza](http://twitter.com/search?q=Bauza) | N/A |
+| 27 | [Playas](http://twitter.com/search?q=Playas) | N/A |
+| 28 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 29 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
+| 30 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
+| 31 | [quiteños](http://twitter.com/search?q=quite%c3%b1os) | N/A |
+| 32 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 33 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 34 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 35 | [Karen Sichel](http://twitter.com/search?q=Karen+Sichel) | N/A |
+| 36 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 37 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 38 | [Paga](http://twitter.com/search?q=Paga) | N/A |
 | 39 | [Autoridades](http://twitter.com/search?q=Autoridades) | N/A |
-| 40 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 41 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
-| 42 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 43 | [Con Correa](http://twitter.com/search?q=Con+Correa) | N/A |
-| 44 | [Bolivia](http://twitter.com/search?q=Bolivia) | Bolivia is a country located in South America. It is bordered by Brazil, Paraguay, Argentina, Chile, and Peru. The name Bolivia comes from Simón Bolívar, a Venezuelan leader who helped lead several South American countries to independence from Spain in the early 19th century. The official language of Bolivia is Spanish. |
-| 45 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 46 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 47 | [Chuzo](http://twitter.com/search?q=Chuzo) | N/A |
-| 48 | [Siria](http://twitter.com/search?q=Siria) | N/A |
-| 49 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
-| 50 | [Abogados](http://twitter.com/search?q=Abogados) | N/A |
+| 40 | [Ricardo Gareca](http://twitter.com/search?q=Ricardo+Gareca) | N/A |
+| 41 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 42 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 43 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 44 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
+| 45 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 46 | [Burrai](http://twitter.com/search?q=Burrai) | N/A |
+| 47 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 48 | [chuzo](http://twitter.com/search?q=chuzo) | N/A |
+| 49 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 50 | [Cultura](http://twitter.com/search?q=Cultura) | N/A |
 
 
 

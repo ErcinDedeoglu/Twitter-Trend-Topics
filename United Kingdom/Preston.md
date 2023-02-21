@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Preston
 
-📆 Last Updated: `2023-02-21 16:16:59 UTC`
+📆 Last Updated: `2023-02-21 17:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
-| 2 | [#SNPLeadership](http://twitter.com/search?q=%23SNPLeadership) | N/A |
-| 3 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 4 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
-| 5 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 6 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 7 | [#GamblingFilmsOrSongs](http://twitter.com/search?q=%23GamblingFilmsOrSongs) | N/A |
-| 8 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
-| 9 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
-| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 11 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 12 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
-| 13 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 14 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 15 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
-| 16 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 17 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 18 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 19 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 20 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 21 | [Leviticus](http://twitter.com/search?q=Leviticus) | N/A |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
-| 24 | [Warren Gatland](http://twitter.com/search?q=Warren+Gatland) | N/A |
-| 25 | [BSHL](http://twitter.com/search?q=BSHL) | N/A |
-| 26 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 27 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 28 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 29 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
-| 30 | [Natural History Museum](http://twitter.com/search?q=Natural+History+Museum) | N/A |
-| 31 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
-| 32 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 33 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 34 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 35 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 36 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 37 | [Maple](http://twitter.com/search?q=Maple) | N/A |
+| 1 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 2 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 3 | [#IWD2023](http://twitter.com/search?q=%23IWD2023) | N/A |
+| 4 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 5 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
+| 6 | [Yousaf](http://twitter.com/search?q=Yousaf) | N/A |
+| 7 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 8 | [Martial](http://twitter.com/search?q=Martial) | Martial is an adjective that means relating to war or military matters. It can also refer to a style of combat or self-defense, such as martial arts. |
+| 9 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
+| 10 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 11 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 12 | [#ShroveTuesday](http://twitter.com/search?q=%23ShroveTuesday) | N/A |
+| 13 | [Ron Gordon](http://twitter.com/search?q=Ron+Gordon) | N/A |
+| 14 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 15 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 17 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
+| 18 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 19 | [Matt Bloomfield](http://twitter.com/search?q=Matt+Bloomfield) | N/A |
+| 20 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 21 | [Gareth Ainsworth](http://twitter.com/search?q=Gareth+Ainsworth) | N/A |
+| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 23 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 24 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 25 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
+| 26 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 27 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 28 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 29 | [Leviticus](http://twitter.com/search?q=Leviticus) | N/A |
+| 30 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 31 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 32 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
+| 33 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 34 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 36 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
+| 37 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
 | 38 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 39 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 40 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 41 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 42 | [Jacob Rees](http://twitter.com/search?q=Jacob+Rees) | N/A |
-| 43 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
-| 44 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 45 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 46 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
-| 47 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 48 | [#NFU23](http://twitter.com/search?q=%23NFU23) | N/A |
-| 49 | [#ENGvPAK](http://twitter.com/search?q=%23ENGvPAK) | N/A |
+| 39 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 40 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
+| 41 | [BSHL](http://twitter.com/search?q=BSHL) | N/A |
+| 42 | [Free Church](http://twitter.com/search?q=Free+Church) | N/A |
+| 43 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
+| 44 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 45 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 46 | [Maple](http://twitter.com/search?q=Maple) | N/A |
+| 47 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 48 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 49 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
 
 
 
