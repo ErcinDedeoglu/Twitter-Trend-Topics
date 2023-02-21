@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-21 17:16:43 UTC`
+📆 Last Updated: `2023-02-21 18:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bu Vebal Sizin](http://twitter.com/search?q=Bu+Vebal+Sizin) | N/A |
-| 2 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 3 | [Dask](http://twitter.com/search?q=Dask) | N/A |
-| 4 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
+| 1 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 2 | [Serkan](http://twitter.com/search?q=Serkan) | N/A |
+| 3 | [28 Şubat](http://twitter.com/search?q=28+%c5%9eubat) | N/A |
+| 4 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
 | 5 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
-| 6 | [#EYTyeVerdiginizSözüTutun](http://twitter.com/search?q=%23EYTyeVerdiginizS%c3%b6z%c3%bcTutun) | N/A |
-| 7 | [#AfetteSağlıkçıEksiği](http://twitter.com/search?q=%23AfetteSa%c4%9fl%c4%b1k%c3%a7%c4%b1Eksi%c4%9fi) | N/A |
-| 8 | [#İstifaEt](http://twitter.com/search?q=%23%c4%b0stifaEt) | N/A |
-| 9 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 10 | [Devlet Millet El Ele](http://twitter.com/search?q=Devlet+Millet+El+Ele) | N/A |
-| 11 | [Farah Zeynep Abdullah](http://twitter.com/search?q=Farah+Zeynep+Abdullah) | N/A |
-| 12 | [#küfür](http://twitter.com/search?q=%23k%c3%bcf%c3%bcr) | N/A |
-| 13 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
-| 14 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
-| 15 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 16 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 17 | [Cesaret](http://twitter.com/search?q=Cesaret) | N/A |
-| 18 | [Mesut Taşar](http://twitter.com/search?q=Mesut+Ta%c5%9far) | N/A |
-| 19 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 20 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
-| 21 | [Giannis Konstantelias](http://twitter.com/search?q=Giannis+Konstantelias) | N/A |
-| 22 | [Üslup](http://twitter.com/search?q=%c3%9cslup) | N/A |
-| 23 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 24 | [Gaziantep'in Nurdağı](http://twitter.com/search?q=Gaziantep%27in+Nurda%c4%9f%c4%b1) | N/A |
-| 25 | [Üsluba](http://twitter.com/search?q=%c3%9csluba) | N/A |
-| 26 | [Heykel](http://twitter.com/search?q=Heykel) | N/A |
-| 27 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
-| 28 | [İzmir Marşı](http://twitter.com/search?q=%c4%b0zmir+Mar%c5%9f%c4%b1) | N/A |
-| 29 | [Arap Levhası](http://twitter.com/search?q=Arap+Levhas%c4%b1) | N/A |
-| 30 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
-| 31 | [Reisim](http://twitter.com/search?q=Reisim) | N/A |
-| 32 | [Fox TV](http://twitter.com/search?q=Fox+TV) | N/A |
-| 33 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
-| 34 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
-| 35 | [Halka](http://twitter.com/search?q=Halka) | N/A |
-| 36 | [Değildir](http://twitter.com/search?q=De%c4%9fildir) | N/A |
-| 37 | [Ağzından](http://twitter.com/search?q=A%c4%9fz%c4%b1ndan) | N/A |
-| 38 | [Zafer Partisi](http://twitter.com/search?q=Zafer+Partisi) | N/A |
-| 39 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 40 | [Serkan](http://twitter.com/search?q=Serkan) | N/A |
-| 41 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 42 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
-| 43 | [Japonlar](http://twitter.com/search?q=Japonlar) | N/A |
-| 44 | [Rusya](http://twitter.com/search?q=Rusya) | N/A |
-| 45 | [Taner Savut](http://twitter.com/search?q=Taner+Savut) | N/A |
-| 46 | [#DiyanetimizinYanındayız](http://twitter.com/search?q=%23DiyanetimizinYan%c4%b1nday%c4%b1z) | N/A |
-| 47 | [#YardımParalarıNerede](http://twitter.com/search?q=%23Yard%c4%b1mParalar%c4%b1Nerede) | N/A |
-| 48 | [#OkullaraAraVerilsin](http://twitter.com/search?q=%23OkullaraAraVerilsin) | N/A |
-| 49 | [#DeFacto](http://twitter.com/search?q=%23DeFacto) | N/A |
-| 50 | [#yanlıskarar](http://twitter.com/search?q=%23yanl%c4%b1skarar) | N/A |
+| 6 | [Hacer Çınar](http://twitter.com/search?q=Hacer+%c3%87%c4%b1nar) | N/A |
+| 7 | [Primci FerideÖzdinç](http://twitter.com/search?q=Primci+Feride%c3%96zdin%c3%a7) | N/A |
+| 8 | [#EYTyeVerdiginizSözüTutun](http://twitter.com/search?q=%23EYTyeVerdiginizS%c3%b6z%c3%bcTutun) | N/A |
+| 9 | [Tanju Özcan](http://twitter.com/search?q=Tanju+%c3%96zcan) | N/A |
+| 10 | [Farah Zeynep Abdullah](http://twitter.com/search?q=Farah+Zeynep+Abdullah) | N/A |
+| 11 | [#muharremince](http://twitter.com/search?q=%23muharremince) | N/A |
+| 12 | [Bu Vebal Sizin](http://twitter.com/search?q=Bu+Vebal+Sizin) | N/A |
+| 13 | [#İstifaEt](http://twitter.com/search?q=%23%c4%b0stifaEt) | N/A |
+| 14 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
+| 15 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
+| 16 | [KÖR VE NANKÖRSÜNÜZ](http://twitter.com/search?q=K%c3%96R+VE+NANK%c3%96RS%c3%9cN%c3%9cZ) | N/A |
+| 17 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 18 | [Cesaret](http://twitter.com/search?q=Cesaret) | N/A |
+| 19 | [Prompter](http://twitter.com/search?q=Prompter) | N/A |
+| 20 | [Bolu](http://twitter.com/search?q=Bolu) | N/A |
+| 21 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 22 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 23 | [Devlet Millet El Ele](http://twitter.com/search?q=Devlet+Millet+El+Ele) | N/A |
+| 24 | [Hakedene](http://twitter.com/search?q=Hakedene) | N/A |
+| 25 | [Arzu](http://twitter.com/search?q=Arzu) | N/A |
+| 26 | [Gaziantep'in İslahiye](http://twitter.com/search?q=Gaziantep%27in+%c4%b0slahiye) | N/A |
+| 27 | [Temizlik](http://twitter.com/search?q=Temizlik) | N/A |
+| 28 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
+| 29 | [Üslup](http://twitter.com/search?q=%c3%9cslup) | N/A |
+| 30 | [Mesut Taşar](http://twitter.com/search?q=Mesut+Ta%c5%9far) | N/A |
+| 31 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 32 | [Seviye](http://twitter.com/search?q=Seviye) | N/A |
+| 33 | [Sürtük](http://twitter.com/search?q=S%c3%bcrt%c3%bck) | N/A |
+| 34 | [Giannis Konstantelias](http://twitter.com/search?q=Giannis+Konstantelias) | N/A |
+| 35 | [Malcolm X](http://twitter.com/search?q=Malcolm+X) | N/A |
+| 36 | [Gaziantep'in Nurdağı](http://twitter.com/search?q=Gaziantep%27in+Nurda%c4%9f%c4%b1) | N/A |
+| 37 | [Üsluba](http://twitter.com/search?q=%c3%9csluba) | N/A |
+| 38 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 39 | [Heykel](http://twitter.com/search?q=Heykel) | N/A |
+| 40 | [Muğla](http://twitter.com/search?q=Mu%c4%9fla) | N/A |
+| 41 | [İzmir Marşı](http://twitter.com/search?q=%c4%b0zmir+Mar%c5%9f%c4%b1) | N/A |
+| 42 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
+| 43 | [Reisim](http://twitter.com/search?q=Reisim) | N/A |
+| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 45 | [22 Şubat Çarşamba](http://twitter.com/search?q=22+%c5%9eubat+%c3%87ar%c5%9famba) | N/A |
+| 46 | [Arap Levhası](http://twitter.com/search?q=Arap+Levhas%c4%b1) | N/A |
+| 47 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 48 | [SENİNLEYİZ REİS](http://twitter.com/search?q=SEN%c4%b0NLEY%c4%b0Z+RE%c4%b0S) | N/A |
+| 49 | [Fox TV](http://twitter.com/search?q=Fox+TV) | N/A |
+| 50 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
 
 
 

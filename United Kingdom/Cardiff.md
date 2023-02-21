@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-21 17:16:04 UTC`
+📆 Last Updated: `2023-02-21 18:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
 | 2 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 3 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 4 | [#ShroveTuesday](http://twitter.com/search?q=%23ShroveTuesday) | N/A |
-| 5 | [Ron Gordon](http://twitter.com/search?q=Ron+Gordon) | N/A |
-| 6 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 7 | [#GamblingFilmsOrSongs](http://twitter.com/search?q=%23GamblingFilmsOrSongs) | N/A |
-| 8 | [#colu](http://twitter.com/search?q=%23colu) | N/A |
-| 9 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 11 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 12 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
-| 13 | [Matt Bloomfield](http://twitter.com/search?q=Matt+Bloomfield) | N/A |
-| 14 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 15 | [Gareth Ainsworth](http://twitter.com/search?q=Gareth+Ainsworth) | N/A |
-| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 17 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 19 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
-| 20 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 21 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 22 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
-| 23 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 24 | [Leviticus](http://twitter.com/search?q=Leviticus) | N/A |
-| 25 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 26 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 27 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
-| 28 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 30 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 31 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
-| 32 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 33 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 34 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 35 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
-| 36 | [BSHL](http://twitter.com/search?q=BSHL) | N/A |
-| 37 | [Free Church](http://twitter.com/search?q=Free+Church) | N/A |
-| 38 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 39 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
-| 40 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 41 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 42 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 43 | [Maple](http://twitter.com/search?q=Maple) | N/A |
-| 44 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 45 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 46 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 48 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 49 | [Jacob Rees](http://twitter.com/search?q=Jacob+Rees) | N/A |
+| 3 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 4 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 5 | [#BeatlesBiscuits](http://twitter.com/search?q=%23BeatlesBiscuits) | N/A |
+| 6 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
+| 7 | [#colu](http://twitter.com/search?q=%23colu) | N/A |
+| 8 | [Gareth Ainsworth](http://twitter.com/search?q=Gareth+Ainsworth) | N/A |
+| 9 | [Ron Gordon](http://twitter.com/search?q=Ron+Gordon) | N/A |
+| 10 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
+| 11 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 12 | [TNT Sports](http://twitter.com/search?q=TNT+Sports) | N/A |
+| 13 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 14 | [Matt Bloomfield](http://twitter.com/search?q=Matt+Bloomfield) | N/A |
+| 15 | [Dobbo](http://twitter.com/search?q=Dobbo) | N/A |
+| 16 | [Rest in Peace Ron](http://twitter.com/search?q=Rest+in+Peace+Ron) | N/A |
+| 17 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 18 | [Blooms](http://twitter.com/search?q=Blooms) | N/A |
+| 19 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 20 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 21 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
+| 22 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 23 | [Wild Thing](http://twitter.com/search?q=Wild+Thing) | N/A |
+| 24 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 25 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 27 | [Leviticus](http://twitter.com/search?q=Leviticus) | N/A |
+| 28 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 29 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 30 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
+| 31 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 32 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 33 | [Helmets](http://twitter.com/search?q=Helmets) | N/A |
+| 34 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
+| 35 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 37 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 38 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 39 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 40 | [Church of Scotland](http://twitter.com/search?q=Church+of+Scotland) | N/A |
+| 41 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 42 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
+| 43 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
+| 44 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 45 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 46 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 47 | [Maple](http://twitter.com/search?q=Maple) | N/A |
+| 48 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
+| 49 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 
 
 

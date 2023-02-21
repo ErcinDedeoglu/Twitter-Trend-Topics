@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-21 17:16:32 UTC`
+📆 Last Updated: `2023-02-21 18:17:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,49 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 2 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 3 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 4 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
-| 5 | [#READYTOBE_WORLDTOUR](http://twitter.com/search?q=%23READYTOBE_WORLDTOUR) | N/A |
+| 2 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 3 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 4 | [#READYTOBE_WORLDTOUR](http://twitter.com/search?q=%23READYTOBE_WORLDTOUR) | N/A |
+| 5 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
 | 6 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 7 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
-| 8 | [#sLEAyingAt52](http://twitter.com/search?q=%23sLEAyingAt52) | N/A |
-| 9 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
-| 10 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
-| 11 | [BGYO AT PLDT SMART NATCON 2023](http://twitter.com/search?q=BGYO+AT+PLDT+SMART+NATCON+2023) | N/A |
-| 12 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
-| 13 | [Shout Out](http://twitter.com/search?q=Shout+Out) | N/A |
-| 14 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
-| 15 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 16 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
+| 7 | [#sLEAyingAt52](http://twitter.com/search?q=%23sLEAyingAt52) | N/A |
+| 8 | [#IdoDoyou_OUT_NOW](http://twitter.com/search?q=%23IdoDoyou_OUT_NOW) | N/A |
+| 9 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
+| 10 | [BGYO AT PLDT SMART NATCON 2023](http://twitter.com/search?q=BGYO+AT+PLDT+SMART+NATCON+2023) | N/A |
+| 11 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 12 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 13 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 14 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
+| 15 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
+| 16 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
 | 17 | [PH Arena](http://twitter.com/search?q=PH+Arena) | N/A |
 | 18 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 19 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 19 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
 | 20 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 21 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
+| 21 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 22 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 23 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 23 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
 | 24 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 25 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
-| 26 | [bighit](http://twitter.com/search?q=bighit) | N/A |
-| 27 | [woozi](http://twitter.com/search?q=woozi) | N/A |
-| 28 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
-| 29 | [GQ KOREA X JEONGYEON](http://twitter.com/search?q=GQ+KOREA+X+JEONGYEON) | N/A |
-| 30 | [bambam](http://twitter.com/search?q=bambam) | N/A |
-| 31 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 32 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 33 | [rcep](http://twitter.com/search?q=rcep) | N/A |
-| 34 | [jinki](http://twitter.com/search?q=jinki) | N/A |
-| 35 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
-| 36 | [#IdoDoyou_OUT_NOW](http://twitter.com/search?q=%23IdoDoyou_OUT_NOW) | N/A |
-| 37 | [#Happy_ANM1XXVERSARY](http://twitter.com/search?q=%23Happy_ANM1XXVERSARY) | N/A |
-| 38 | [#IgniteOurFight](http://twitter.com/search?q=%23IgniteOurFight) | N/A |
-| 39 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
-| 40 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
-| 41 | [#DLNextTarget](http://twitter.com/search?q=%23DLNextTarget) | N/A |
-| 42 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
-| 43 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
-| 44 | [#EN_WORLDTOUR_MANIFESTO](http://twitter.com/search?q=%23EN_WORLDTOUR_MANIFESTO) | #EN_WORLDTOUR_MANIFESTO is a hashtag used to promote a global initiative for sustainable tourism. The manifesto calls for the adoption of responsible and sustainable practices in the tourism industry, with the aim of preserving the environment and protecting local cultures. It encourages travelers to be mindful of their impact on the environment and to respect local customs and traditions. |
-| 45 | [#physical100](http://twitter.com/search?q=%23physical100) | N/A |
-| 46 | [#MariaClaraAtIbarra](http://twitter.com/search?q=%23MariaClaraAtIbarra) | N/A |
-| 47 | [#SOOBIN](http://twitter.com/search?q=%23SOOBIN) | N/A |
-| 48 | [#ONEW_Circle](http://twitter.com/search?q=%23ONEW_Circle) | N/A |
-| 49 | [#WestlifeInManila](http://twitter.com/search?q=%23WestlifeInManila) | N/A |
+| 25 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 26 | [Part 2](http://twitter.com/search?q=Part+2) | N/A |
+| 27 | [bambam](http://twitter.com/search?q=bambam) | N/A |
+| 28 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 29 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 30 | [Jinki](http://twitter.com/search?q=Jinki) | N/A |
+| 31 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
+| 32 | [#IgniteOurFight](http://twitter.com/search?q=%23IgniteOurFight) | N/A |
+| 33 | [#Happy_ANM1XXVERSARY](http://twitter.com/search?q=%23Happy_ANM1XXVERSARY) | N/A |
+| 34 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
+| 35 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
+| 36 | [#DLNextTarget](http://twitter.com/search?q=%23DLNextTarget) | N/A |
+| 37 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
+| 38 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
+| 39 | [#physical100](http://twitter.com/search?q=%23physical100) | N/A |
+| 40 | [#WestlifeInManila](http://twitter.com/search?q=%23WestlifeInManila) | N/A |
+| 41 | [#MariaClaraAtIbarra](http://twitter.com/search?q=%23MariaClaraAtIbarra) | N/A |
+| 42 | [#ONEW_Circle](http://twitter.com/search?q=%23ONEW_Circle) | N/A |
+| 43 | [#FELIP_DRINKSMOKE](http://twitter.com/search?q=%23FELIP_DRINKSMOKE) | N/A |
+| 44 | [#2gether3years](http://twitter.com/search?q=%232gether3years) | N/A |
 
 
 

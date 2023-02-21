@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-02-21 17:16:41 UTC`
+📆 Last Updated: `2023-02-21 18:17:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 2 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 3 | [KBKJ ARRIVES IN 2MONTHS](http://twitter.com/search?q=KBKJ+ARRIVES+IN+2MONTHS) | N/A |
+| 2 | [HBD CELEB NAINA](http://twitter.com/search?q=HBD+CELEB+NAINA) | N/A |
+| 3 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 4 | [Sports](http://twitter.com/search?q=Sports) | N/A |
-| 5 | [Venky](http://twitter.com/search?q=Venky) | N/A |
-| 6 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 7 | [Sushant Cuteness Overloaded](http://twitter.com/search?q=Sushant+Cuteness+Overloaded) | N/A |
-| 8 | [Aakash Chopra](http://twitter.com/search?q=Aakash+Chopra) | N/A |
-| 9 | [#SaniaMirza](http://twitter.com/search?q=%23SaniaMirza) | N/A |
-| 10 | [#KingOfKotha](http://twitter.com/search?q=%23KingOfKotha) | N/A |
-| 11 | [#VenkateshPrasad](http://twitter.com/search?q=%23VenkateshPrasad) | N/A |
-| 12 | [Vivek Agnihotri](http://twitter.com/search?q=Vivek+Agnihotri) | N/A |
-| 13 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 14 | [#MarriageStrike](http://twitter.com/search?q=%23MarriageStrike) | N/A |
-| 15 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
-| 16 | [ELEGANT WINNER RUBINA](http://twitter.com/search?q=ELEGANT+WINNER+RUBINA) | N/A |
-| 17 | [जावेद अख्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%b5%e0%a5%87%e0%a4%a6+%e0%a4%85%e0%a4%96%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
+| 5 | [KBKJ ARRIVES IN 2MONTHS](http://twitter.com/search?q=KBKJ+ARRIVES+IN+2MONTHS) | N/A |
+| 6 | [Venky](http://twitter.com/search?q=Venky) | N/A |
+| 7 | [#VenkateshPrasad](http://twitter.com/search?q=%23VenkateshPrasad) | N/A |
+| 8 | [Sushant Cuteness Overloaded](http://twitter.com/search?q=Sushant+Cuteness+Overloaded) | N/A |
+| 9 | [NAINA BDAY BASH BEGINS](http://twitter.com/search?q=NAINA+BDAY+BASH+BEGINS) | N/A |
+| 10 | [#SaniaMirza](http://twitter.com/search?q=%23SaniaMirza) | N/A |
+| 11 | [Aakash Chopra](http://twitter.com/search?q=Aakash+Chopra) | N/A |
+| 12 | [#PJM1ISCOMING](http://twitter.com/search?q=%23PJM1ISCOMING) | N/A |
+| 13 | [जावेद अख्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%b5%e0%a5%87%e0%a4%a6+%e0%a4%85%e0%a4%96%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
+| 14 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
+| 15 | [ELEGANT WINNER RUBINA](http://twitter.com/search?q=ELEGANT+WINNER+RUBINA) | N/A |
+| 16 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 17 | [Motu Patlu](http://twitter.com/search?q=Motu+Patlu) | N/A |
 | 18 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 19 | [Motu Patlu](http://twitter.com/search?q=Motu+Patlu) | N/A |
-| 20 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 21 | [HASSAN TALKS WITH YUMHAJ](http://twitter.com/search?q=HASSAN+TALKS+WITH+YUMHAJ) | N/A |
-| 22 | [2YRS ELOQUENT WINNER RUBINA](http://twitter.com/search?q=2YRS+ELOQUENT+WINNER+RUBINA) | N/A |
-| 23 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
-| 24 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
-| 27 | [दहेज रूपी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a5%80) | N/A |
-| 28 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 29 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
-| 30 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 31 | [दहेज मुक्त भारत](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 32 | [Himachal Pradesh](http://twitter.com/search?q=Himachal+Pradesh) | N/A |
-| 33 | [विदेश मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 34 | [Street](http://twitter.com/search?q=Street) | N/A |
-| 35 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
-| 36 | [The Kashmir Files](http://twitter.com/search?q=The+Kashmir+Files) | N/A |
-| 37 | [Monu](http://twitter.com/search?q=Monu) | N/A |
-| 38 | [PATHAAN 1000 CRORES](http://twitter.com/search?q=PATHAAN+1000+CRORES) | N/A |
-| 39 | [best film](http://twitter.com/search?q=best+film) | N/A |
-| 40 | [#javedakhtar](http://twitter.com/search?q=%23javedakhtar) | N/A |
-| 41 | [#BengaluruHungerStrike](http://twitter.com/search?q=%23BengaluruHungerStrike) | N/A |
-| 42 | [#Pathaan1000crWorldWide](http://twitter.com/search?q=%23Pathaan1000crWorldWide) | N/A |
-| 43 | [#RunBTS](http://twitter.com/search?q=%23RunBTS) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
+| 21 | [2YRS ELOQUENT WINNER RUBINA](http://twitter.com/search?q=2YRS+ELOQUENT+WINNER+RUBINA) | N/A |
+| 22 | [Vivek Agnihotri](http://twitter.com/search?q=Vivek+Agnihotri) | N/A |
+| 23 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
+| 24 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 25 | [Sarfaraz](http://twitter.com/search?q=Sarfaraz) | Sarfaraz is an Arabic name meaning "commander" or "leader". It is also used as a title of respect for a person of high rank. |
+| 26 | [Himachal Pradesh](http://twitter.com/search?q=Himachal+Pradesh) | N/A |
+| 27 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 28 | [Ramadan](http://twitter.com/search?q=Ramadan) | N/A |
+| 29 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 30 | [दहेज रूपी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a5%80) | N/A |
+| 31 | [Street](http://twitter.com/search?q=Street) | N/A |
+| 32 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
+| 33 | [दहेज मुक्त भारत](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 34 | [विदेश मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 35 | [Rahane](http://twitter.com/search?q=Rahane) | Rahane is a Hindu name derived from the Sanskrit word 'rajan', meaning 'king'. It is commonly used as a first name for boys in India. |
+| 36 | [Shraddha](http://twitter.com/search?q=Shraddha) | N/A |
+| 37 | [UAPA](http://twitter.com/search?q=UAPA) | N/A |
+| 38 | [Horrible](http://twitter.com/search?q=Horrible) | N/A |
+| 39 | [#KingOfKotha](http://twitter.com/search?q=%23KingOfKotha) | N/A |
+| 40 | [#MarriageStrike](http://twitter.com/search?q=%23MarriageStrike) | N/A |
+| 41 | [#javedakhtar](http://twitter.com/search?q=%23javedakhtar) | N/A |
+| 42 | [#BengaluruHungerStrike](http://twitter.com/search?q=%23BengaluruHungerStrike) | N/A |
+| 43 | [#Pathaan1000crWorldWide](http://twitter.com/search?q=%23Pathaan1000crWorldWide) | N/A |
 | 44 | [#SJaishankar](http://twitter.com/search?q=%23SJaishankar) | N/A |
-| 45 | [#HeraPheri3](http://twitter.com/search?q=%23HeraPheri3) | N/A |
-| 46 | [#ENGvPAK](http://twitter.com/search?q=%23ENGvPAK) | N/A |
-| 47 | [#MinorityConclave](http://twitter.com/search?q=%23MinorityConclave) | N/A |
-| 48 | [#MalliMalli](http://twitter.com/search?q=%23MalliMalli) | N/A |
-| 49 | [#straydogs](http://twitter.com/search?q=%23straydogs) | N/A |
-| 50 | [#tennis](http://twitter.com/search?q=%23tennis) | N/A |
+| 45 | [#straydogs](http://twitter.com/search?q=%23straydogs) | N/A |
+| 46 | [#HeraPheri3](http://twitter.com/search?q=%23HeraPheri3) | N/A |
+| 47 | [#MalliMalli](http://twitter.com/search?q=%23MalliMalli) | N/A |
+| 48 | [#tennis](http://twitter.com/search?q=%23tennis) | N/A |
+| 49 | [#ENGvPAK](http://twitter.com/search?q=%23ENGvPAK) | N/A |
 
 
 

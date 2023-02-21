@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-02-21 17:16:50 UTC`
+📆 Last Updated: `2023-02-21 18:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 2 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 2 | [Union](http://twitter.com/search?q=Union) | N/A |
 | 3 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 4 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 5 | [#BuschArmy](http://twitter.com/search?q=%23BuschArmy) | N/A |
-| 6 | [Da Brat](http://twitter.com/search?q=Da+Brat) | N/A |
+| 4 | [#BuschArmy](http://twitter.com/search?q=%23BuschArmy) | N/A |
+| 5 | [Da Brat](http://twitter.com/search?q=Da+Brat) | N/A |
+| 6 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
 | 7 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 8 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 9 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
-| 10 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 11 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 12 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 13 | [METLIFE](http://twitter.com/search?q=METLIFE) | N/A |
-| 14 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 15 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 16 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 17 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 19 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 20 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 21 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 23 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
-| 24 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 25 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 26 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 27 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 28 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 29 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 30 | [Madden](http://twitter.com/search?q=Madden) | N/A |
-| 31 | [Best of 3](http://twitter.com/search?q=Best+of+3) | N/A |
-| 32 | [Section 230](http://twitter.com/search?q=Section+230) | N/A |
-| 33 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
-| 34 | [Tony Bradley](http://twitter.com/search?q=Tony+Bradley) | N/A |
-| 35 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
-| 36 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 37 | [Finally 18](http://twitter.com/search?q=Finally+18) | N/A |
-| 38 | [GOTG](http://twitter.com/search?q=GOTG) | N/A |
-| 39 | [Brandon Roy](http://twitter.com/search?q=Brandon+Roy) | N/A |
-| 40 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
-| 41 | [Jacque Vaughn](http://twitter.com/search?q=Jacque+Vaughn) | N/A |
-| 42 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
-| 43 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 44 | [Malcolm X](http://twitter.com/search?q=Malcolm+X) | N/A |
-| 45 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 46 | [King Cake](http://twitter.com/search?q=King+Cake) | N/A |
-| 47 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 48 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 8 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
+| 9 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 10 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 11 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 12 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 13 | [#AtinySelcaDay](http://twitter.com/search?q=%23AtinySelcaDay) | N/A |
+| 14 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 15 | [METLIFE](http://twitter.com/search?q=METLIFE) | N/A |
+| 16 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 17 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 18 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 19 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 20 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 21 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 22 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
+| 23 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 24 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 25 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
+| 26 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 27 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 28 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 29 | [Best of 3](http://twitter.com/search?q=Best+of+3) | N/A |
+| 30 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 31 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 32 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
+| 33 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 34 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 35 | [Madden](http://twitter.com/search?q=Madden) | N/A |
+| 36 | [Chainz](http://twitter.com/search?q=Chainz) | N/A |
+| 37 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 38 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 39 | [Section 230](http://twitter.com/search?q=Section+230) | N/A |
+| 40 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
+| 41 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 42 | [Dr. Hitt](http://twitter.com/search?q=Dr.+Hitt) | N/A |
+| 43 | [Finally 18](http://twitter.com/search?q=Finally+18) | N/A |
+| 44 | [GOTG](http://twitter.com/search?q=GOTG) | N/A |
+| 45 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
+| 46 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 47 | [King Cake](http://twitter.com/search?q=King+Cake) | N/A |
+| 48 | [Jacque Vaughn](http://twitter.com/search?q=Jacque+Vaughn) | N/A |
 
 
 
