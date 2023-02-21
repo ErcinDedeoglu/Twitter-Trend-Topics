@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Aguascalientes
 
-📆 Last Updated: `2023-02-21 01:45:05 UTC`
+📆 Last Updated: `2023-02-21 02:41:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,55 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 2 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 3 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
-| 4 | [#ControlDeDañosEnConvoy](http://twitter.com/search?q=%23ControlDeDa%c3%b1osEnConvoy) | N/A |
-| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 6 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 7 | [Chef Betty](http://twitter.com/search?q=Chef+Betty) | N/A |
-| 8 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 9 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
-| 10 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 11 | [Loret](http://twitter.com/search?q=Loret) | N/A |
-| 12 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 13 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 14 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 15 | [Saúl](http://twitter.com/search?q=Sa%c3%bal) | Saúl is a Spanish name derived from the Hebrew name Saul, which means "asked for". In English, it is usually spelled Saul. |
-| 16 | [Fan ID](http://twitter.com/search?q=Fan+ID) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
-| 19 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 20 | [Ciro Gómez Leyva](http://twitter.com/search?q=Ciro+G%c3%b3mez+Leyva) | Ciro Gómez Leyva is a Mexican journalist and radio host. He is known for his talk show Ciro Gómez Leyva por la Mañana, which airs on Radio Fórmula in Mexico. The show focuses on political and social issues in Mexico and Latin America. In English, the phrase "Ciro Gómez Leyva" translates to "Ciro Gomez Leyva". |
-| 21 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 22 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 23 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
-| 24 | [Crocs](http://twitter.com/search?q=Crocs) | N/A |
-| 25 | [Benito](http://twitter.com/search?q=Benito) | Benito is a Spanish name derived from the Latin name Benedictus, meaning "blessed". It is also a common Italian name, derived from the same Latin root. In English, Benito is usually translated as "blessed". |
-| 26 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
-| 27 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
-| 28 | [#enhorabuenagato](http://twitter.com/search?q=%23enhorabuenagato) | N/A |
-| 29 | [#CiudadanosContraElPlanB](http://twitter.com/search?q=%23CiudadanosContraElPlanB) | N/A |
-| 30 | [#NoaMusicVibe](http://twitter.com/search?q=%23NoaMusicVibe) | N/A |
-| 31 | [#DiaDelGato](http://twitter.com/search?q=%23DiaDelGato) | N/A |
-| 32 | [#AtomicHeart](http://twitter.com/search?q=%23AtomicHeart) | N/A |
-| 33 | [#Celaya](http://twitter.com/search?q=%23Celaya) | N/A |
-| 34 | [#CiudadSustentable](http://twitter.com/search?q=%23CiudadSustentable) | N/A |
-| 35 | [#MetrobúsEléctrico](http://twitter.com/search?q=%23Metrob%c3%basEl%c3%a9ctrico) | N/A |
-| 36 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
-| 37 | [#LadyBuchona](http://twitter.com/search?q=%23LadyBuchona) | N/A |
-| 38 | [#ReformaElectoral](http://twitter.com/search?q=%23ReformaElectoral) | N/A |
-| 39 | [#JusticiaSocial](http://twitter.com/search?q=%23JusticiaSocial) | N/A |
-| 40 | [#SandraCuevasRepresora](http://twitter.com/search?q=%23SandraCuevasRepresora) | N/A |
+| 1 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 4 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
+| 5 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
+| 6 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
+| 7 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 8 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 9 | [#CiudadanosContraPlanB](http://twitter.com/search?q=%23CiudadanosContraPlanB) | N/A |
+| 10 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 11 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 12 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 13 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 14 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 15 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 16 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 17 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
+| 18 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 19 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
+| 20 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 21 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 22 | [Chef Betty](http://twitter.com/search?q=Chef+Betty) | N/A |
+| 23 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 24 | [Litio](http://twitter.com/search?q=Litio) | N/A |
+| 25 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 26 | [toño rodríguez](http://twitter.com/search?q=to%c3%b1o+rodr%c3%adguez) | N/A |
+| 27 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 28 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 29 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
+| 30 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 32 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
+| 33 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 35 | [Catalina Creel](http://twitter.com/search?q=Catalina+Creel) | N/A |
+| 36 | [Fan ID](http://twitter.com/search?q=Fan+ID) | N/A |
+| 37 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 38 | [Little Freak](http://twitter.com/search?q=Little+Freak) | N/A |
+| 39 | [HAPPY BIRTHDAY MEWMEW](http://twitter.com/search?q=HAPPY+BIRTHDAY+MEWMEW) | N/A |
+| 40 | [Crocs](http://twitter.com/search?q=Crocs) | N/A |
+| 41 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 42 | [Hoy 20](http://twitter.com/search?q=Hoy+20) | N/A |
+| 43 | [José Ramón Gómez Leal](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+G%c3%b3mez+Leal) | N/A |
+| 44 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
+| 45 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 46 | [Ejército Mexicano](http://twitter.com/search?q=Ej%c3%a9rcito+Mexicano) | N/A |
+| 47 | [TINI EN VIÑA](http://twitter.com/search?q=TINI+EN+VI%c3%91A) | N/A |
+| 48 | [Comisiones del Senado](http://twitter.com/search?q=Comisiones+del+Senado) | N/A |
+| 49 | [Luisillo](http://twitter.com/search?q=Luisillo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-21 01:45:19 UTC`
+📆 Last Updated: `2023-02-21 02:42:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,9 +24,9 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 7 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 8 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 9 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 10 | [Juso](http://twitter.com/search?q=Juso) | N/A |
+| 10 | [juso](http://twitter.com/search?q=juso) | N/A |
 | 11 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 12 | [Honig](http://twitter.com/search?q=Honig) | N/A |
+| 12 | [honig](http://twitter.com/search?q=honig) | N/A |
 | 13 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 14 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
 | 15 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
@@ -49,19 +49,19 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 32 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
 | 33 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
 | 34 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
-| 35 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 36 | [verteidiger](http://twitter.com/search?q=verteidiger) | N/A |
-| 37 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 38 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
-| 39 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 40 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
-| 41 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
-| 42 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 43 | [Produkt](http://twitter.com/search?q=Produkt) | N/A |
-| 44 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 45 | [Okey](http://twitter.com/search?q=Okey) | N/A |
-| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 47 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 35 | [verteidiger](http://twitter.com/search?q=verteidiger) | N/A |
+| 36 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 37 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
+| 38 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 39 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
+| 40 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
+| 41 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 42 | [Produkt](http://twitter.com/search?q=Produkt) | N/A |
+| 43 | [Demos](http://twitter.com/search?q=Demos) | N/A |
+| 44 | [Okey](http://twitter.com/search?q=Okey) | N/A |
+| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 46 | [Servette](http://twitter.com/search?q=Servette) | N/A |
+| 47 | [Wand](http://twitter.com/search?q=Wand) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amman
 
-📆 Last Updated: `2023-02-21 01:45:32 UTC`
+📆 Last Updated: `2023-02-21 02:42:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Jordan](</Jordan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [الزلزال الجديد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d8%a7%d9%84+%d8%a7%d9%84%d8%ac%d8%af%d9%8a%d8%af) | N/A |
-| 2 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
-| 3 | [الكلاب الضاله](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%a8+%d8%a7%d9%84%d8%b6%d8%a7%d9%84%d9%87) | N/A |
-| 4 | [#البزنس76](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b376) | N/A |
+| 2 | [الكلاب الضاله](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%84%d8%a7%d8%a8+%d8%a7%d9%84%d8%b6%d8%a7%d9%84%d9%87) | N/A |
+| 3 | [#البزنس76](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b376) | N/A |
+| 4 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
 | 5 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
 | 6 | [مجلس الامن](http://twitter.com/search?q=%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
 | 7 | [فتح سوق المواشي](http://twitter.com/search?q=%d9%81%d8%aa%d8%ad+%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b4%d9%8a) | N/A |
@@ -58,13 +58,13 @@ This is top 50 for [Jordan](</Jordan>)
 | 41 | [أسامة](http://twitter.com/search?q=%d8%a3%d8%b3%d8%a7%d9%85%d8%a9) | N/A |
 | 42 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
 | 43 | [بن ابي سفيان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
-| 44 | [بيت المقدس](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%b3) | N/A |
-| 45 | [المره الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 46 | [علاوي حبيب](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d9%88%d9%8a+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 47 | [الشرق الاوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
-| 48 | [افريقيا](http://twitter.com/search?q=%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
-| 49 | [خطاب الكراهيه](http://twitter.com/search?q=%d8%ae%d8%b7%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%87%d9%8a%d9%87) | N/A |
-| 50 | [موسكو](http://twitter.com/search?q=%d9%85%d9%88%d8%b3%d9%83%d9%88) | N/A |
+| 44 | [الشفاء العاجل](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d8%ac%d9%84) | N/A |
+| 45 | [بيت المقدس](http://twitter.com/search?q=%d8%a8%d9%8a%d8%aa+%d8%a7%d9%84%d9%85%d9%82%d8%af%d8%b3) | N/A |
+| 46 | [المره الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 47 | [علاوي حبيب](http://twitter.com/search?q=%d8%b9%d9%84%d8%a7%d9%88%d9%8a+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 48 | [الشرق الاوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d9%82+%d8%a7%d9%84%d8%a7%d9%88%d8%b3%d8%b7) | N/A |
+| 49 | [افريقيا](http://twitter.com/search?q=%d8%a7%d9%81%d8%b1%d9%8a%d9%82%d9%8a%d8%a7) | N/A |
+| 50 | [خطاب الكراهيه](http://twitter.com/search?q=%d8%ae%d8%b7%d8%a7%d8%a8+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%87%d9%8a%d9%87) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-21 01:45:49 UTC`
+📆 Last Updated: `2023-02-21 02:42:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for Belgium
 | 4 | [#cerclu](http://twitter.com/search?q=%23cerclu) | N/A |
 | 5 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 6 | [#UAETour](http://twitter.com/search?q=%23UAETour) | N/A |
-| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 8 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 7 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 8 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 9 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 10 | [Merlier](http://twitter.com/search?q=Merlier) | N/A |
 | 11 | [Stib](http://twitter.com/search?q=Stib) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for Belgium
 | 16 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
 | 17 | [Enorm](http://twitter.com/search?q=Enorm) | N/A |
 | 18 | [Ewan](http://twitter.com/search?q=Ewan) | N/A |
-| 19 | [Foreign Affairs Council](http://twitter.com/search?q=Foreign+Affairs+Council) | N/A |
+| 19 | [foreign affairs council](http://twitter.com/search?q=foreign+affairs+council) | N/A |
 | 20 | [rik torfs](http://twitter.com/search?q=rik+torfs) | N/A |
 | 21 | [Aalst](http://twitter.com/search?q=Aalst) | N/A |
 | 22 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
 | 23 | [Parker](http://twitter.com/search?q=Parker) | N/A |
 | 24 | [Poupette](http://twitter.com/search?q=Poupette) | N/A |
-| 25 | [Toulouse](http://twitter.com/search?q=Toulouse) | Toulouse is a city in southern France. It is the capital of the Occitanie region and the Haute-Garonne department. The city is located on the banks of the River Garonne, 150 km from the Mediterranean Sea and 230 km from the Atlantic Ocean. The meaning of Toulouse in English is "The City of Light". |
-| 26 | [Marc](http://twitter.com/search?q=Marc) | N/A |
-| 27 | [Solary](http://twitter.com/search?q=Solary) | N/A |
-| 28 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 29 | [emilie claeys](http://twitter.com/search?q=emilie+claeys) | N/A |
-| 30 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
-| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 32 | [zwijndrecht](http://twitter.com/search?q=zwijndrecht) | N/A |
-| 33 | [Somers](http://twitter.com/search?q=Somers) | N/A |
-| 34 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 35 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 37 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
-| 38 | [Hoefkens](http://twitter.com/search?q=Hoefkens) | N/A |
-| 39 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
-| 40 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 41 | [boerenbond](http://twitter.com/search?q=boerenbond) | N/A |
-| 42 | [Raman](http://twitter.com/search?q=Raman) | N/A |
+| 25 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 26 | [Solary](http://twitter.com/search?q=Solary) | N/A |
+| 27 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 28 | [emilie claeys](http://twitter.com/search?q=emilie+claeys) | N/A |
+| 29 | [Charles Michel](http://twitter.com/search?q=Charles+Michel) | N/A |
+| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 31 | [zwijndrecht](http://twitter.com/search?q=zwijndrecht) | N/A |
+| 32 | [Somers](http://twitter.com/search?q=Somers) | N/A |
+| 33 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 34 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 36 | [Ligue 1](http://twitter.com/search?q=Ligue+1) | N/A |
+| 37 | [hoefkens](http://twitter.com/search?q=hoefkens) | N/A |
+| 38 | [Caroline](http://twitter.com/search?q=Caroline) | N/A |
+| 39 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
+| 40 | [boerenbond](http://twitter.com/search?q=boerenbond) | N/A |
+| 41 | [Raman](http://twitter.com/search?q=Raman) | N/A |
+| 42 | [Zwitserland](http://twitter.com/search?q=Zwitserland) | N/A |
 | 43 | [Polish](http://twitter.com/search?q=Polish) | N/A |
 | 44 | [brugse](http://twitter.com/search?q=brugse) | N/A |
-| 45 | [Zwitserland](http://twitter.com/search?q=Zwitserland) | N/A |
-| 46 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 47 | [Links](http://twitter.com/search?q=Links) | N/A |
-| 48 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 50 | [Moskou](http://twitter.com/search?q=Moskou) | N/A |
+| 45 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 46 | [Links](http://twitter.com/search?q=Links) | N/A |
+| 47 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 49 | [Moskou](http://twitter.com/search?q=Moskou) | N/A |
+| 50 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
 
 
 

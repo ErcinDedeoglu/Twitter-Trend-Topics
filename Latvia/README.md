@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-21 01:45:53 UTC`
+📆 Last Updated: `2023-02-21 02:42:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Latvia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kijivā](http://twitter.com/search?q=Kijiv%c4%81) | N/A |
-| 2 | [Kijivā](http://twitter.com/search?q=Kijiv%c4%81) | N/A |
+| 1 | [kijivā](http://twitter.com/search?q=kijiv%c4%81) | N/A |
+| 2 | [kijivā](http://twitter.com/search?q=kijiv%c4%81) | N/A |
 | 3 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
 | 4 | [valdemāra](http://twitter.com/search?q=valdem%c4%81ra) | N/A |
 | 5 | [ķīna](http://twitter.com/search?q=%c4%b7%c4%abna) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for Latvia
 | 32 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 33 | [jūrmalas](http://twitter.com/search?q=j%c5%abrmalas) | N/A |
 | 34 | [pirmā](http://twitter.com/search?q=pirm%c4%81) | N/A |
-| 35 | [Precīzi](http://twitter.com/search?q=Prec%c4%abzi) | N/A |
+| 35 | [precīzi](http://twitter.com/search?q=prec%c4%abzi) | N/A |
 | 36 | [kādreiz](http://twitter.com/search?q=k%c4%81dreiz) | N/A |
 | 37 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
 | 38 | [manā](http://twitter.com/search?q=man%c4%81) | N/A |
 | 39 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
 | 40 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 41 | [Tāpēc](http://twitter.com/search?q=T%c4%81p%c4%93c) | N/A |
-| 42 | [Paldies](http://twitter.com/search?q=Paldies) | N/A |
-| 43 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
-| 44 | [Rīgu](http://twitter.com/search?q=R%c4%abgu) | N/A |
-| 45 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 46 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
-| 47 | [Interesanti](http://twitter.com/search?q=Interesanti) | N/A |
-| 48 | [toties](http://twitter.com/search?q=toties) | N/A |
-| 49 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
-| 50 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
+| 41 | [tāpēc](http://twitter.com/search?q=t%c4%81p%c4%93c) | N/A |
+| 42 | [kariņš](http://twitter.com/search?q=kari%c5%86%c5%a1) | N/A |
+| 43 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
+| 44 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 45 | [domāju](http://twitter.com/search?q=dom%c4%81ju) | N/A |
+| 46 | [Interesanti](http://twitter.com/search?q=Interesanti) | N/A |
+| 47 | [toties](http://twitter.com/search?q=toties) | N/A |
+| 48 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 49 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
+| 50 | [līdzīgi](http://twitter.com/search?q=l%c4%abdz%c4%abgi) | N/A |
 
 
 

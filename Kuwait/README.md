@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-02-21 01:45:52 UTC`
+📆 Last Updated: `2023-02-21 02:42:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for Kuwait
 | 3 | [#المشهد_السياسي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%85%d8%b4%d9%87%d8%af_%d8%a7%d9%84%d8%b3%d9%8a%d8%a7%d8%b3%d9%8a) | N/A |
 | 4 | [#القادسيه_السالميه](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%af%d8%b3%d9%8a%d9%87_%d8%a7%d9%84%d8%b3%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
 | 5 | [#العربي_الساحل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a_%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d9%84) | N/A |
-| 6 | [سوق شرق](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%b4%d8%b1%d9%82) | N/A |
-| 7 | [فرع الدسمه](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d8%af%d8%b3%d9%85%d9%87) | N/A |
+| 6 | [فرع الدسمه](http://twitter.com/search?q=%d9%81%d8%b1%d8%b9+%d8%a7%d9%84%d8%af%d8%b3%d9%85%d9%87) | N/A |
+| 7 | [سوق شرق](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%b4%d8%b1%d9%82) | N/A |
 | 8 | [النادي العربي](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
 | 9 | [الملاله الكرام](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d9%85) | N/A |
 | 10 | [الوطنيه العقاريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
@@ -37,10 +37,10 @@ This is top 50 for Kuwait
 | 20 | [صادق المواساه](http://twitter.com/search?q=%d8%b5%d8%a7%d8%af%d9%82+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b3%d8%a7%d9%87) | N/A |
 | 21 | [القيمه الايجاريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%8a%d8%ac%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
 | 22 | [فيصل كريم سلمان الملاله العنزي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d9%83%d8%b1%d9%8a%d9%85+%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d9%84%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
-| 23 | [فيصل كريم العنزي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
-| 24 | [جميل الصبر](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
-| 25 | [عبدالله حسن](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%ad%d8%b3%d9%86) | N/A |
-| 26 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
+| 23 | [جميل الصبر](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%b5%d8%a8%d8%b1) | N/A |
+| 24 | [عبدالله حسن](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%84%d9%87+%d8%ad%d8%b3%d9%86) | N/A |
+| 25 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
+| 26 | [فيصل كريم العنزي](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d9%86%d8%b2%d9%8a) | N/A |
 | 27 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
 | 28 | [ابو يوسف](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
 | 29 | [غارسيا](http://twitter.com/search?q=%d8%ba%d8%a7%d8%b1%d8%b3%d9%8a%d8%a7) | غارسيا is an Arabic name meaning "Garcia". It is a unisex name, and can be used for both boys and girls. |
@@ -54,17 +54,17 @@ This is top 50 for Kuwait
 | 37 | [رييس مجلس الامه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%87) | N/A |
 | 38 | [ولي العهد السعودي](http://twitter.com/search?q=%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
 | 39 | [وزير التجاره](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%87) | N/A |
-| 40 | [يابو علي](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b9%d9%84%d9%8a) | N/A |
-| 41 | [جابر المخلف السعيدي](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d9%85%d8%ae%d9%84%d9%81+%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
-| 42 | [مشعل الضبيب](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d8%b6%d8%a8%d9%8a%d8%a8) | N/A |
-| 43 | [الدسمة](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b3%d9%85%d8%a9) | N/A |
-| 44 | [نواب المقصه](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%82%d8%b5%d9%87) | N/A |
-| 45 | [الرييس الامريكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
-| 46 | [عمار العجمي](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%ac%d9%85%d9%8a) | N/A |
-| 47 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
-| 48 | [التربيه الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 49 | [فيصل كريم الملاله](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d9%85%d9%84%d8%a7%d9%84%d9%87) | N/A |
-| 50 | [جاسم حبيب](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 40 | [جابر المخلف السعيدي](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d9%85%d8%ae%d9%84%d9%81+%d8%a7%d9%84%d8%b3%d8%b9%d9%8a%d8%af%d9%8a) | N/A |
+| 41 | [مشعل الضبيب](http://twitter.com/search?q=%d9%85%d8%b4%d8%b9%d9%84+%d8%a7%d9%84%d8%b6%d8%a8%d9%8a%d8%a8) | N/A |
+| 42 | [الدسمة](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b3%d9%85%d8%a9) | N/A |
+| 43 | [نواب المقصه](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d9%85%d9%82%d8%b5%d9%87) | N/A |
+| 44 | [الرييس الامريكي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a) | N/A |
+| 45 | [عمار العجمي](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d8%b1+%d8%a7%d9%84%d8%b9%d8%ac%d9%85%d9%8a) | N/A |
+| 46 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
+| 47 | [التربيه الاساسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 48 | [فيصل كريم الملاله](http://twitter.com/search?q=%d9%81%d9%8a%d8%b5%d9%84+%d9%83%d8%b1%d9%8a%d9%85+%d8%a7%d9%84%d9%85%d9%84%d8%a7%d9%84%d9%87) | N/A |
+| 49 | [جاسم حبيب](http://twitter.com/search?q=%d8%ac%d8%a7%d8%b3%d9%85+%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 50 | [مبارك الطشه](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%a7%d9%84%d8%b7%d8%b4%d9%87) | N/A |
 
 
 

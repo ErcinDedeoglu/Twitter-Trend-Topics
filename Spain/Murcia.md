@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-02-21 01:45:18 UTC`
+📆 Last Updated: `2023-02-21 02:42:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,40 @@ This is top 50 for [Spain](</Spain>)
 | 9 | [Rubén Castro](http://twitter.com/search?q=Rub%c3%a9n+Castro) | N/A |
 | 10 | [#Hermanos20Feb](http://twitter.com/search?q=%23Hermanos20Feb) | N/A |
 | 11 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 12 | [Lydia](http://twitter.com/search?q=Lydia) | N/A |
-| 13 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 14 | [Garcilaso de la Vega](http://twitter.com/search?q=Garcilaso+de+la+Vega) | N/A |
-| 15 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 12 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 13 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 14 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 15 | [Lino](http://twitter.com/search?q=Lino) | N/A |
 | 16 | [La Rosaleda](http://twitter.com/search?q=La+Rosaleda) | N/A |
 | 17 | [Málaga](http://twitter.com/search?q=M%c3%a1laga) | N/A |
-| 18 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 19 | [Lino](http://twitter.com/search?q=Lino) | N/A |
-| 20 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
-| 21 | [Fran Pérez](http://twitter.com/search?q=Fran+P%c3%a9rez) | Fran Pérez is a Spanish name. It is a combination of the given name Fran, which is short for Francisco, and the surname Pérez. In English, it would be translated as Frank Perez. |
-| 22 | [Corona](http://twitter.com/search?q=Corona) | N/A |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Larra](http://twitter.com/search?q=Larra) | N/A |
+| 18 | [Larra](http://twitter.com/search?q=Larra) | N/A |
+| 19 | [Real Zaragoza](http://twitter.com/search?q=Real+Zaragoza) | N/A |
+| 20 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
+| 21 | [Yunus](http://twitter.com/search?q=Yunus) | Yunus is an Arabic name meaning "dove". It is also the name of a prophet in Islam. |
+| 22 | [Lago Junior](http://twitter.com/search?q=Lago+Junior) | N/A |
+| 23 | [Vada](http://twitter.com/search?q=Vada) | N/A |
+| 24 | [Escribá](http://twitter.com/search?q=Escrib%c3%a1) | N/A |
 | 25 | [Ilaix](http://twitter.com/search?q=Ilaix) | N/A |
-| 26 | [Foulquier](http://twitter.com/search?q=Foulquier) | Foulquier is a French surname. It is derived from the Old French word "fouler," which means "to trample." The name is thought to have originally been given to someone who was a trampler of grapes in the wine-making process. In English, the name could be translated as "trampler." |
-| 27 | [Lago Junior](http://twitter.com/search?q=Lago+Junior) | N/A |
-| 28 | [Borja Mayoral](http://twitter.com/search?q=Borja+Mayoral) | N/A |
-| 29 | [TLOU](http://twitter.com/search?q=TLOU) | TLOU stands for The Last of Us, a popular video game developed by Naughty Dog and released in 2013. It is an action-adventure survival horror game set in a post-apocalyptic world. The game follows the story of Joel and Ellie as they try to survive against the dangers of the world. |
-| 30 | [Vada](http://twitter.com/search?q=Vada) | N/A |
-| 31 | [Escribá](http://twitter.com/search?q=Escrib%c3%a1) | N/A |
-| 32 | [Hugo Duro](http://twitter.com/search?q=Hugo+Duro) | N/A |
-| 33 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 34 | [Peter Lim](http://twitter.com/search?q=Peter+Lim) | N/A |
-| 35 | [Alderete](http://twitter.com/search?q=Alderete) | N/A |
-| 36 | [Izeta](http://twitter.com/search?q=Izeta) | N/A |
-| 37 | [Guillamón](http://twitter.com/search?q=Guillam%c3%b3n) | N/A |
-| 38 | [Quini](http://twitter.com/search?q=Quini) | N/A |
-| 39 | [Gil Marín](http://twitter.com/search?q=Gil+Mar%c3%adn) | N/A |
-| 40 | [Yaiza](http://twitter.com/search?q=Yaiza) | N/A |
-| 41 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 42 | [Kluivert](http://twitter.com/search?q=Kluivert) | Kluivert is a Dutch surname derived from the Germanic name Clovis. It is most commonly associated with the Dutch footballer Patrick Kluivert, who played for Ajax, Barcelona, Newcastle United and other clubs. In English, the name means "famous warrior". |
-| 43 | [Bermejo](http://twitter.com/search?q=Bermejo) | N/A |
-| 44 | [SI SE PUEDE](http://twitter.com/search?q=SI+SE+PUEDE) | N/A |
-| 45 | [Álex](http://twitter.com/search?q=%c3%81lex) | N/A |
-| 46 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
-| 47 | [Ramalho](http://twitter.com/search?q=Ramalho) | N/A |
-| 48 | [Cavani](http://twitter.com/search?q=Cavani) | Cavani is a surname of Italian origin. It is derived from the Latin word cavus, meaning "hollow". The name is most commonly associated with Uruguayan footballer Edinson Cavani. |
-| 49 | [Paulista](http://twitter.com/search?q=Paulista) | Paulista is a term used to refer to someone or something from the state of São Paulo in Brazil. It is derived from the name of the state, which comes from Saint Paul, the patron saint of the city of São Paulo. In English, it can be translated as "from São Paulo". |
+| 26 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 27 | [Quini](http://twitter.com/search?q=Quini) | N/A |
+| 28 | [Gil Marín](http://twitter.com/search?q=Gil+Mar%c3%adn) | N/A |
+| 29 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 30 | [Nieto](http://twitter.com/search?q=Nieto) | N/A |
+| 31 | [Ellie](http://twitter.com/search?q=Ellie) | Ellie is a shortened form of the name Eleanor, which is of Greek origin and means "light". |
+| 32 | [Coliseum](http://twitter.com/search?q=Coliseum) | N/A |
+| 33 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 34 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
+| 35 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 36 | [Bielorrusia](http://twitter.com/search?q=Bielorrusia) | N/A |
+| 37 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 39 | [Marlaska](http://twitter.com/search?q=Marlaska) | N/A |
+| 40 | [Asturias y Cantabria](http://twitter.com/search?q=Asturias+y+Cantabria) | N/A |
+| 41 | [Quique](http://twitter.com/search?q=Quique) | N/A |
+| 42 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 43 | [#AfterKings7](http://twitter.com/search?q=%23AfterKings7) | N/A |
+| 44 | [#LaNoche24h](http://twitter.com/search?q=%23LaNoche24h) | N/A |
+| 45 | [#AtomicHeart](http://twitter.com/search?q=%23AtomicHeart) | N/A |
 
 
 

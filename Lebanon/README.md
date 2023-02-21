@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-21 01:45:52 UTC`
+📆 Last Updated: `2023-02-21 02:42:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,8 +28,8 @@ This is top 50 for Lebanon
 | 11 | [صيام مقبول](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d9%82%d8%a8%d9%88%d9%84) | N/A |
 | 12 | [طوني نمر](http://twitter.com/search?q=%d8%b7%d9%88%d9%86%d9%8a+%d9%86%d9%85%d8%b1) | N/A |
 | 13 | [الجامعات الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
-| 14 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 15 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 14 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 15 | [علي السلامه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
 | 16 | [مياه البحر](http://twitter.com/search?q=%d9%85%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1) | N/A |
 | 17 | [الحدود التركيه السوريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ad%d8%af%d9%88%d8%af+%d8%a7%d9%84%d8%aa%d8%b1%d9%83%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
 | 18 | [بن ابي سفيان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
@@ -55,16 +55,16 @@ This is top 50 for Lebanon
 | 38 | [المدارس الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
 | 39 | [الجامعه اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
 | 40 | [غادة عون](http://twitter.com/search?q=%d8%ba%d8%a7%d8%af%d8%a9+%d8%b9%d9%88%d9%86) | N/A |
-| 41 | [الصوم المبارك](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d9%88%d9%85+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 42 | [جورج عقيص](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%b9%d9%82%d9%8a%d8%b5) | N/A |
-| 43 | [SGBL](http://twitter.com/search?q=SGBL) | N/A |
-| 44 | [نواب التغيير](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1) | N/A |
-| 45 | [20 شباط 2023](http://twitter.com/search?q=20+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
-| 46 | [معاوية بن أبي سفيان](http://twitter.com/search?q=%d9%85%d8%b9%d8%a7%d9%88%d9%8a%d8%a9+%d8%a8%d9%86+%d8%a3%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
-| 47 | [بشار الأسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a3%d8%b3%d8%af) | N/A |
-| 48 | [السريه المصرفيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81%d9%8a%d9%87) | N/A |
-| 49 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
-| 50 | [العدوان الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 41 | [جورج عقيص](http://twitter.com/search?q=%d8%ac%d9%88%d8%b1%d8%ac+%d8%b9%d9%82%d9%8a%d8%b5) | N/A |
+| 42 | [SGBL](http://twitter.com/search?q=SGBL) | N/A |
+| 43 | [نواب التغيير](http://twitter.com/search?q=%d9%86%d9%88%d8%a7%d8%a8+%d8%a7%d9%84%d8%aa%d8%ba%d9%8a%d9%8a%d8%b1) | N/A |
+| 44 | [20 شباط 2023](http://twitter.com/search?q=20+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
+| 45 | [معاوية بن أبي سفيان](http://twitter.com/search?q=%d9%85%d8%b9%d8%a7%d9%88%d9%8a%d8%a9+%d8%a8%d9%86+%d8%a3%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
+| 46 | [بشار الأسد](http://twitter.com/search?q=%d8%a8%d8%b4%d8%a7%d8%b1+%d8%a7%d9%84%d8%a3%d8%b3%d8%af) | N/A |
+| 47 | [السريه المصرفيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%81%d9%8a%d9%87) | N/A |
+| 48 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
+| 49 | [العدوان الاسراييلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%af%d9%88%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a) | N/A |
+| 50 | [شانتال عون](http://twitter.com/search?q=%d8%b4%d8%a7%d9%86%d8%aa%d8%a7%d9%84+%d8%b9%d9%88%d9%86) | N/A |
 
 
 

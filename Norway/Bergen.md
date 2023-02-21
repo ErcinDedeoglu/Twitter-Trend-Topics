@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-21 01:45:19 UTC`
+📆 Last Updated: `2023-02-21 02:42:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [Norway](</Norway>)
 | 12 | [Farmen](http://twitter.com/search?q=Farmen) | N/A |
 | 13 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
 | 14 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
-| 15 | [Trond Mohn](http://twitter.com/search?q=Trond+Mohn) | N/A |
+| 15 | [trond mohn](http://twitter.com/search?q=trond+mohn) | N/A |
 | 16 | [Nasjonalgalleriet](http://twitter.com/search?q=Nasjonalgalleriet) | N/A |
 | 17 | [Jens](http://twitter.com/search?q=Jens) | N/A |
 | 18 | [Woke](http://twitter.com/search?q=Woke) | N/A |
@@ -38,15 +38,15 @@ This is top 50 for [Norway](</Norway>)
 | 21 | [#COYS](http://twitter.com/search?q=%23COYS) | #COYS is an acronym for “Come On You Spurs”, which is a popular chant used by fans of Tottenham Hotspur Football Club. It is used to show support for the team and encourage them to do their best. |
 | 22 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 23 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 24 | [virker](http://twitter.com/search?q=virker) | N/A |
-| 25 | [emma steinbakken](http://twitter.com/search?q=emma+steinbakken) | N/A |
-| 26 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
-| 27 | [Ola Solbakken](http://twitter.com/search?q=Ola+Solbakken) | N/A |
-| 28 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 29 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 24 | [emma steinbakken](http://twitter.com/search?q=emma+steinbakken) | N/A |
+| 25 | [Ola Solbakken](http://twitter.com/search?q=Ola+Solbakken) | N/A |
+| 26 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 27 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 28 | [#IRGCterrorists](http://twitter.com/search?q=%23IRGCterrorists) | #IRGCterrorists is a hashtag used on social media to refer to members of the Islamic Revolutionary Guard Corps (IRGC), an Iranian military organization. The hashtag is used to express criticism of the IRGC's alleged involvement in terrorist activities. |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 30 | [Brad](http://twitter.com/search?q=Brad) | N/A |
 | 31 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 32 | [Virker](http://twitter.com/search?q=Virker) | N/A |
 | 33 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 34 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
 | 35 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-21 01:45:13 UTC`
+📆 Last Updated: `2023-02-21 02:41:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,8 +19,8 @@ This is top 50 for [Austria](</Austria>)
 | 2 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 3 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 4 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 5 | [#puls24](http://twitter.com/search?q=%23puls24) | N/A |
-| 6 | [Masern](http://twitter.com/search?q=Masern) | N/A |
+| 5 | [Masern](http://twitter.com/search?q=Masern) | N/A |
+| 6 | [#puls24](http://twitter.com/search?q=%23puls24) | N/A |
 | 7 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
 | 8 | [tempo 100](http://twitter.com/search?q=tempo+100) | N/A |
 | 9 | [Sender](http://twitter.com/search?q=Sender) | N/A |
@@ -36,7 +36,7 @@ This is top 50 for [Austria](</Austria>)
 | 19 | [Kreml](http://twitter.com/search?q=Kreml) | N/A |
 | 20 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 22 | [Talkshows](http://twitter.com/search?q=Talkshows) | N/A |
+| 22 | [talkshows](http://twitter.com/search?q=talkshows) | N/A |
 | 23 | [Tests](http://twitter.com/search?q=Tests) | N/A |
 | 24 | [Notwehr](http://twitter.com/search?q=Notwehr) | N/A |
 | 25 | [Demirel](http://twitter.com/search?q=Demirel) | N/A |
@@ -46,7 +46,7 @@ This is top 50 for [Austria](</Austria>)
 | 29 | [Haushaltsabgabe](http://twitter.com/search?q=Haushaltsabgabe) | N/A |
 | 30 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
 | 31 | [Reis](http://twitter.com/search?q=Reis) | N/A |
-| 32 | [Seipel](http://twitter.com/search?q=Seipel) | N/A |
+| 32 | [seipel](http://twitter.com/search?q=seipel) | N/A |
 | 33 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
 | 34 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
 | 35 | [blunzn](http://twitter.com/search?q=blunzn) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for [Austria](</Austria>)
 | 40 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
 | 41 | [Gäste](http://twitter.com/search?q=G%c3%a4ste) | N/A |
 | 42 | [Bezeichnung](http://twitter.com/search?q=Bezeichnung) | N/A |
-| 43 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 44 | [Friedensverhandlungen](http://twitter.com/search?q=Friedensverhandlungen) | N/A |
-| 45 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
-| 46 | [Mitmenschen](http://twitter.com/search?q=Mitmenschen) | N/A |
-| 47 | [Abschaum](http://twitter.com/search?q=Abschaum) | N/A |
-| 48 | [Meter](http://twitter.com/search?q=Meter) | N/A |
-| 49 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
-| 50 | [Statement](http://twitter.com/search?q=Statement) | N/A |
+| 43 | [Friedensverhandlungen](http://twitter.com/search?q=Friedensverhandlungen) | N/A |
+| 44 | [Mitglieder](http://twitter.com/search?q=Mitglieder) | N/A |
+| 45 | [Mitmenschen](http://twitter.com/search?q=Mitmenschen) | N/A |
+| 46 | [Abschaum](http://twitter.com/search?q=Abschaum) | N/A |
+| 47 | [Meter](http://twitter.com/search?q=Meter) | N/A |
+| 48 | [Jesus](http://twitter.com/search?q=Jesus) | Jesus is the central figure of Christianity, believed by Christians to be the Son of God and the Messiah. His life and teachings are recorded in the New Testament of the Bible. The name Jesus is derived from the Hebrew name Yeshua, which means “Yahweh is salvation.” |
+| 49 | [Statement](http://twitter.com/search?q=Statement) | N/A |
+| 50 | [Gebühr](http://twitter.com/search?q=Geb%c3%bchr) | N/A |
 
 
 

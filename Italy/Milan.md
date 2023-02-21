@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-21 01:45:16 UTC`
+📆 Last Updated: `2023-02-21 02:42:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,42 @@ This is top 50 for [Italy](</Italy>)
 | 5 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
 | 6 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 7 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
-| 8 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 9 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 8 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 9 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
 | 10 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
 | 11 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 12 | [Tonon](http://twitter.com/search?q=Tonon) | N/A |
+| 12 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
 | 13 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 14 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 14 | [Luca](http://twitter.com/search?q=Luca) | N/A |
 | 15 | [Antonella e Nikita](http://twitter.com/search?q=Antonella+e+Nikita) | N/A |
 | 16 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 17 | [Zorzi](http://twitter.com/search?q=Zorzi) | N/A |
-| 18 | [LE RAGAZZE](http://twitter.com/search?q=LE+RAGAZZE) | N/A |
-| 19 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 20 | [Giusy](http://twitter.com/search?q=Giusy) | N/A |
-| 21 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 22 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 23 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
-| 24 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
-| 25 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 26 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
-| 27 | [Persiani](http://twitter.com/search?q=Persiani) | N/A |
-| 28 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 29 | [CHE SCHIFO](http://twitter.com/search?q=CHE+SCHIFO) | N/A |
-| 30 | [Toro](http://twitter.com/search?q=Toro) | N/A |
-| 31 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 32 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
-| 33 | [Porro](http://twitter.com/search?q=Porro) | N/A |
-| 34 | [Tozzi](http://twitter.com/search?q=Tozzi) | N/A |
-| 35 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
-| 36 | [Tommaso](http://twitter.com/search?q=Tommaso) | N/A |
-| 37 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
-| 38 | [#gintonic](http://twitter.com/search?q=%23gintonic) | N/A |
-| 39 | [#nikiters](http://twitter.com/search?q=%23nikiters) | N/A |
-| 40 | [#fiorisopralinferno](http://twitter.com/search?q=%23fiorisopralinferno) | N/A |
-| 41 | [#gioiellers](http://twitter.com/search?q=%23gioiellers) | N/A |
-| 42 | [#staseratuttoepossibile](http://twitter.com/search?q=%23staseratuttoepossibile) | N/A |
-| 43 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 44 | [#TorinoCremonese](http://twitter.com/search?q=%23TorinoCremonese) | N/A |
-| 45 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
-| 46 | [#luvana](http://twitter.com/search?q=%23luvana) | N/A |
-| 47 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
-| 48 | [#oneston](http://twitter.com/search?q=%23oneston) | N/A |
-| 49 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
-| 50 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 17 | [LE RAGAZZE](http://twitter.com/search?q=LE+RAGAZZE) | N/A |
+| 18 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 19 | [Giusy](http://twitter.com/search?q=Giusy) | N/A |
+| 20 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 21 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 22 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
+| 23 | [Signorini](http://twitter.com/search?q=Signorini) | N/A |
+| 24 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 25 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
+| 26 | [Persiani](http://twitter.com/search?q=Persiani) | N/A |
+| 27 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
+| 28 | [Toro](http://twitter.com/search?q=Toro) | N/A |
+| 29 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
+| 30 | [#gintonic](http://twitter.com/search?q=%23gintonic) | N/A |
+| 31 | [#nikiters](http://twitter.com/search?q=%23nikiters) | N/A |
+| 32 | [#gioiellers](http://twitter.com/search?q=%23gioiellers) | N/A |
+| 33 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 34 | [#staseratuttoèpossibile](http://twitter.com/search?q=%23staseratutto%c3%a8possibile) | N/A |
+| 35 | [#thepisis](http://twitter.com/search?q=%23thepisis) | N/A |
+| 36 | [#luvana](http://twitter.com/search?q=%23luvana) | N/A |
+| 37 | [#presadiretta](http://twitter.com/search?q=%23presadiretta) | N/A |
+| 38 | [#oneston](http://twitter.com/search?q=%23oneston) | N/A |
+| 39 | [#GrandeFratelloVip](http://twitter.com/search?q=%23GrandeFratelloVip) | N/A |
+| 40 | [#spartani](http://twitter.com/search?q=%23spartani) | N/A |
+| 41 | [#hannoDeluso](http://twitter.com/search?q=%23hannoDeluso) | N/A |
+| 42 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 43 | [#onestiners](http://twitter.com/search?q=%23onestiners) | N/A |
 
 
 

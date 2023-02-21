@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-21 01:45:04 UTC`
+📆 Last Updated: `2023-02-21 02:41:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,43 +27,43 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 10 | [Martins](http://twitter.com/search?q=Martins) | N/A |
 | 11 | [Poor Martin](http://twitter.com/search?q=Poor+Martin) | N/A |
 | 12 | [Jax Jones](http://twitter.com/search?q=Jax+Jones) | N/A |
-| 13 | [Callum Scott](http://twitter.com/search?q=Callum+Scott) | N/A |
-| 14 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 15 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 16 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 17 | [Nish](http://twitter.com/search?q=Nish) | N/A |
-| 18 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 19 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
-| 20 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 21 | [Craig David](http://twitter.com/search?q=Craig+David) | N/A |
-| 22 | [Dike](http://twitter.com/search?q=Dike) | N/A |
-| 23 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 24 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
-| 25 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 26 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
-| 27 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 28 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 29 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 30 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
-| 31 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
-| 32 | [Burley](http://twitter.com/search?q=Burley) | N/A |
-| 33 | [Kone](http://twitter.com/search?q=Kone) | N/A |
-| 34 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 35 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 36 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 37 | [Suki](http://twitter.com/search?q=Suki) | N/A |
-| 38 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 39 | [Caroline Flack](http://twitter.com/search?q=Caroline+Flack) | N/A |
-| 40 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
-| 41 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 42 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
-| 43 | [Kathy](http://twitter.com/search?q=Kathy) | N/A |
-| 44 | [Stacey](http://twitter.com/search?q=Stacey) | N/A |
-| 45 | [Dean](http://twitter.com/search?q=Dean) | N/A |
-| 46 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 47 | [Only Connect](http://twitter.com/search?q=Only+Connect) | N/A |
-| 48 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
-| 49 | [Carl](http://twitter.com/search?q=Carl) | N/A |
+| 13 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 14 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 15 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 16 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 17 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 18 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
+| 19 | [Dike](http://twitter.com/search?q=Dike) | N/A |
+| 20 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 21 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
+| 22 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 23 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 24 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
+| 25 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 26 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 27 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 28 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 29 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 30 | [Dean](http://twitter.com/search?q=Dean) | N/A |
+| 31 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 32 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
+| 33 | [Stacey](http://twitter.com/search?q=Stacey) | N/A |
+| 34 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 35 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
+| 36 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
+| 37 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
+| 38 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
+| 39 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
+| 40 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
+| 41 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
+| 42 | [#watfordfc](http://twitter.com/search?q=%23watfordfc) | N/A |
+| 43 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 44 | [#UniversityChallenge](http://twitter.com/search?q=%23UniversityChallenge) | #UniversityChallenge is a British quiz show that has been running since 1962. It pits teams of two students from universities across the UK against each other in a series of general knowledge and academic questions. The aim of the game is to answer as many questions correctly as possible in order to win the competition. |
+| 45 | [#parole](http://twitter.com/search?q=%23parole) | N/A |
+| 46 | [#WATWBA](http://twitter.com/search?q=%23WATWBA) | N/A |
+| 47 | [#GiveMeGears2](http://twitter.com/search?q=%23GiveMeGears2) | N/A |
+| 48 | [#AtomicHeart](http://twitter.com/search?q=%23AtomicHeart) | N/A |
+| 49 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
 
 
 

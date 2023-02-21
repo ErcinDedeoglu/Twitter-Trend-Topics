@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-21 01:45:49 UTC`
+📆 Last Updated: `2023-02-21 02:42:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Argentina
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 2 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 3 | [#TheChallengeArgentina](http://twitter.com/search?q=%23TheChallengeArgentina) | N/A |
-| 4 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
-| 5 | [#GranHermamo](http://twitter.com/search?q=%23GranHermamo) | N/A |
-| 6 | [#GranHermano22](http://twitter.com/search?q=%23GranHermano22) | N/A |
-| 7 | [TINI EN VIÑA](http://twitter.com/search?q=TINI+EN+VI%c3%91A) | N/A |
-| 8 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
-| 9 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
-| 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 11 | [FROM THE DINING TABLE](http://twitter.com/search?q=FROM+THE+DINING+TABLE) | N/A |
-| 12 | [Bareiro](http://twitter.com/search?q=Bareiro) | N/A |
-| 13 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 14 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 15 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
-| 16 | [Ginocchio](http://twitter.com/search?q=Ginocchio) | N/A |
-| 17 | [Yeyo](http://twitter.com/search?q=Yeyo) | N/A |
-| 18 | [Braida](http://twitter.com/search?q=Braida) | N/A |
-| 19 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 20 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
-| 21 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
-| 22 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 23 | [Leguizamon](http://twitter.com/search?q=Leguizamon) | N/A |
-| 24 | [Florentin](http://twitter.com/search?q=Florentin) | N/A |
-| 25 | [Batalla](http://twitter.com/search?q=Batalla) | N/A |
-| 26 | [Ciclón](http://twitter.com/search?q=Cicl%c3%b3n) | N/A |
-| 27 | [Irala](http://twitter.com/search?q=Irala) | N/A |
-| 28 | [Cerutti](http://twitter.com/search?q=Cerutti) | N/A |
-| 29 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 30 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 31 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
-| 32 | [Durax](http://twitter.com/search?q=Durax) | N/A |
-| 33 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
-| 34 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
-| 35 | [La Roca](http://twitter.com/search?q=La+Roca) | N/A |
-| 36 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 37 | [Gallego](http://twitter.com/search?q=Gallego) | N/A |
-| 38 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 39 | [Lilia](http://twitter.com/search?q=Lilia) | N/A |
-| 40 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 41 | [Atlético Tucumán](http://twitter.com/search?q=Atl%c3%a9tico+Tucum%c3%a1n) | N/A |
-| 42 | [Luján](http://twitter.com/search?q=Luj%c3%a1n) | N/A |
-| 43 | [Junín](http://twitter.com/search?q=Jun%c3%adn) | N/A |
-| 44 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
-| 45 | [Sánchez](http://twitter.com/search?q=S%c3%a1nchez) | N/A |
-| 46 | [Mataderos](http://twitter.com/search?q=Mataderos) | N/A |
-| 47 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 48 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
-| 49 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 50 | [Gorosito](http://twitter.com/search?q=Gorosito) | N/A |
+| 2 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 3 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 4 | [#GH2023](http://twitter.com/search?q=%23GH2023) | #GH2023 is a hashtag used to refer to the 2023 Ghanaian general election. It is used to discuss and share news and information related to the upcoming election. |
+| 5 | [#GranHermano22](http://twitter.com/search?q=%23GranHermano22) | N/A |
+| 6 | [#GranHermamo](http://twitter.com/search?q=%23GranHermamo) | N/A |
+| 7 | [Doman](http://twitter.com/search?q=Doman) | N/A |
+| 8 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
+| 9 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 10 | [SOBRINO](http://twitter.com/search?q=SOBRINO) | N/A |
+| 11 | [#TheChallengeArgentina](http://twitter.com/search?q=%23TheChallengeArgentina) | N/A |
+| 12 | [Nachito](http://twitter.com/search?q=Nachito) | N/A |
+| 13 | [Ginocchio](http://twitter.com/search?q=Ginocchio) | N/A |
+| 14 | [ESTAS MAS GORDITO](http://twitter.com/search?q=ESTAS+MAS+GORDITO) | N/A |
+| 15 | [Janson](http://twitter.com/search?q=Janson) | N/A |
+| 16 | [Pratto](http://twitter.com/search?q=Pratto) | N/A |
+| 17 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
+| 18 | [FROM THE DINING TABLE](http://twitter.com/search?q=FROM+THE+DINING+TABLE) | N/A |
+| 19 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
+| 20 | [Yeyo](http://twitter.com/search?q=Yeyo) | N/A |
+| 21 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 22 | [Cabrera](http://twitter.com/search?q=Cabrera) | N/A |
+| 23 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
+| 24 | [Valeria](http://twitter.com/search?q=Valeria) | Valeria is a female given name of Latin origin, derived from the Latin word valere, meaning "to be strong". It is also associated with the Latin word valor, meaning "courage and strength". |
+| 25 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 26 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 27 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
+| 28 | [MENORES](http://twitter.com/search?q=MENORES) | N/A |
+| 29 | [Irala](http://twitter.com/search?q=Irala) | N/A |
+| 30 | [yolanda hadid](http://twitter.com/search?q=yolanda+hadid) | N/A |
+| 31 | [Xipolitakis](http://twitter.com/search?q=Xipolitakis) | N/A |
+| 32 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
+| 33 | [Florentin](http://twitter.com/search?q=Florentin) | N/A |
+| 34 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
+| 35 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 36 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
+| 37 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 38 | [Leguizamón](http://twitter.com/search?q=Leguizam%c3%b3n) | N/A |
+| 39 | [Rubén Darío Insúa](http://twitter.com/search?q=Rub%c3%a9n+Dar%c3%ado+Ins%c3%baa) | N/A |
+| 40 | [Bareiro](http://twitter.com/search?q=Bareiro) | N/A |
+| 41 | [Batalla](http://twitter.com/search?q=Batalla) | N/A |
+| 42 | [HIJAS](http://twitter.com/search?q=HIJAS) | N/A |
+| 43 | [Ciclón](http://twitter.com/search?q=Cicl%c3%b3n) | N/A |
+| 44 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
+| 45 | [Braida](http://twitter.com/search?q=Braida) | N/A |
+| 46 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
+| 47 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
+| 48 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 49 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 50 | [Gallego](http://twitter.com/search?q=Gallego) | N/A |
 
 
 

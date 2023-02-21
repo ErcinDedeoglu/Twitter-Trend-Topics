@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-21 01:45:50 UTC`
+📆 Last Updated: `2023-02-21 02:42:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,10 +24,10 @@ This is top 50 for Denmark
 | 7 | [#Midtjylland](http://twitter.com/search?q=%23Midtjylland) | N/A |
 | 8 | [#sldk](http://twitter.com/search?q=%23sldk) | N/A |
 | 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 10 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
-| 11 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 12 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 13 | [#bifach](http://twitter.com/search?q=%23bifach) | N/A |
+| 10 | [horsens](http://twitter.com/search?q=horsens) | N/A |
+| 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 12 | [#bifach](http://twitter.com/search?q=%23bifach) | N/A |
+| 13 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
 | 14 | [minteh](http://twitter.com/search?q=minteh) | N/A |
 | 15 | [nye borgerlige](http://twitter.com/search?q=nye+borgerlige) | N/A |
 | 16 | [#OK23](http://twitter.com/search?q=%23OK23) | N/A |

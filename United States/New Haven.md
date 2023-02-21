@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-02-21 01:45:45 UTC`
+📆 Last Updated: `2023-02-21 02:42:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 2 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 3 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 4 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
-| 5 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 6 | [Baron Corbin](http://twitter.com/search?q=Baron+Corbin) | Baron Corbin is a professional wrestler currently signed to WWE. His ring name is derived from his real name, Thomas Pestock. The term "Baron" is a title of nobility, while "Corbin" is an old French word meaning "raven". |
-| 7 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
-| 8 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 9 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 10 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 11 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 12 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
-| 13 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 14 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
-| 15 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
-| 16 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
-| 17 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
-| 18 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
-| 19 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
-| 20 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 21 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 22 | [Captain Sandy](http://twitter.com/search?q=Captain+Sandy) | N/A |
-| 23 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
-| 24 | [El Ellis](http://twitter.com/search?q=El+Ellis) | N/A |
-| 25 | [Jeanie](http://twitter.com/search?q=Jeanie) | N/A |
-| 26 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 27 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
-| 28 | [Dr. Heiser](http://twitter.com/search?q=Dr.+Heiser) | N/A |
-| 29 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 30 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
-| 31 | [Trocheck](http://twitter.com/search?q=Trocheck) | N/A |
-| 32 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 33 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
-| 34 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 2 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 3 | [#AllAmerican](http://twitter.com/search?q=%23AllAmerican) | N/A |
+| 4 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 5 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
+| 6 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 7 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 8 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 9 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
+| 10 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 11 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 12 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 13 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 14 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 15 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 16 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
+| 17 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 18 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 19 | [Mustafa Ali](http://twitter.com/search?q=Mustafa+Ali) | N/A |
+| 20 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 21 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 22 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 23 | [Ziggler](http://twitter.com/search?q=Ziggler) | N/A |
+| 24 | [Louisville](http://twitter.com/search?q=Louisville) | N/A |
+| 25 | [Kevin Owens](http://twitter.com/search?q=Kevin+Owens) | Kevin Owens is a Canadian professional wrestler currently signed to WWE. His ring name is a combination of his real first name and his middle name, which is also his father's first name. The meaning of the name in English is "brave warrior". |
+| 26 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
+| 27 | [Sami](http://twitter.com/search?q=Sami) | Sami is a term used to refer to the indigenous people of northern Europe, living in parts of Norway, Sweden, Finland and Russia. The Sami people have their own language and culture, and are known for their traditional reindeer herding. The English translation of the word Sami is "Laplander". |
+| 28 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
+| 29 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 30 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 31 | [El Ellis](http://twitter.com/search?q=El+Ellis) | N/A |
+| 32 | [Brock Nelson](http://twitter.com/search?q=Brock+Nelson) | Brock Nelson is a surname of English origin. It is derived from the Old English words "broc" meaning badger and "nel" meaning a small valley. The name can be translated to mean "valley of the badger". |
+| 33 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
+| 34 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
 | 35 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 36 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 37 | [President's Day](http://twitter.com/search?q=President%27s+Day) | N/A |
-| 38 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
-| 39 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 40 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 41 | [Camille](http://twitter.com/search?q=Camille) | N/A |
-| 42 | [Florian](http://twitter.com/search?q=Florian) | N/A |
-| 43 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 44 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
-| 45 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
-| 46 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
-| 47 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 48 | [Bad Company](http://twitter.com/search?q=Bad+Company) | N/A |
+| 36 | [Rocky IV](http://twitter.com/search?q=Rocky+IV) | N/A |
+| 37 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 38 | [Florian](http://twitter.com/search?q=Florian) | N/A |
+| 39 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 40 | [Tre Mitchell](http://twitter.com/search?q=Tre+Mitchell) | N/A |
+| 41 | [Captain Sandy](http://twitter.com/search?q=Captain+Sandy) | N/A |
+| 42 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
+| 43 | [Ryan Young](http://twitter.com/search?q=Ryan+Young) | N/A |
+| 44 | [Tyga](http://twitter.com/search?q=Tyga) | N/A |
+| 45 | [Keisha](http://twitter.com/search?q=Keisha) | N/A |
+| 46 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 47 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 48 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
 
 
 

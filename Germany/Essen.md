@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-02-21 01:45:15 UTC`
+📆 Last Updated: `2023-02-21 02:42:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 2 | [#Rosenmontag](http://twitter.com/search?q=%23Rosenmontag) | N/A |
-| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 5 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 7 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 8 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 9 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 10 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 2 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
+| 3 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 4 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
+| 5 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 7 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 8 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 9 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 11 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 12 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 13 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 14 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 15 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 16 | [Lörrach](http://twitter.com/search?q=L%c3%b6rrach) | N/A |
-| 17 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 12 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 13 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 14 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 15 | [Lörrach](http://twitter.com/search?q=L%c3%b6rrach) | N/A |
+| 16 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 17 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
 | 18 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
 | 19 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
 | 20 | [weinzierl](http://twitter.com/search?q=weinzierl) | N/A |
-| 21 | [winnetou](http://twitter.com/search?q=winnetou) | N/A |
-| 22 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 23 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 24 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 25 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 21 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 22 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 23 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 24 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 25 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
 | 26 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
 | 27 | [Munster](http://twitter.com/search?q=Munster) | N/A |
 | 28 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
 | 29 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
 | 30 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 31 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 32 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
-| 33 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 34 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 35 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 36 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 31 | [ladendetektiv](http://twitter.com/search?q=ladendetektiv) | N/A |
+| 32 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
+| 33 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
+| 34 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 35 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 36 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
 | 37 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
 | 38 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
 | 39 | [Strommix](http://twitter.com/search?q=Strommix) | N/A |
-| 40 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
-| 41 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 42 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 40 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 41 | [morddrohungen](http://twitter.com/search?q=morddrohungen) | N/A |
+| 42 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
 | 43 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
 | 44 | [Wagen](http://twitter.com/search?q=Wagen) | N/A |
-| 45 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 46 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 47 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 48 | [Sleepy Joe](http://twitter.com/search?q=Sleepy+Joe) | N/A |
+| 45 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 46 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 47 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 48 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
 | 49 | ["Zoch"](http://twitter.com/search?q=%22Zoch%22) | N/A |
 
 

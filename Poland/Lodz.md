@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-21 01:45:12 UTC`
+📆 Last Updated: `2023-02-21 02:41:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,38 +31,38 @@ This is top 50 for [Poland](</Poland>)
 | 14 | [Przemyślu](http://twitter.com/search?q=Przemy%c5%9blu) | N/A |
 | 15 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 16 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 17 | [Trzaskowski](http://twitter.com/search?q=Trzaskowski) | N/A |
-| 18 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 19 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 20 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 17 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
+| 18 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
+| 19 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 20 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
 | 21 | [Borewicz](http://twitter.com/search?q=Borewicz) | N/A |
 | 22 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
-| 23 | [marciniak](http://twitter.com/search?q=marciniak) | N/A |
-| 24 | [Kremlu](http://twitter.com/search?q=Kremlu) | N/A |
-| 25 | [oskar kwiatkowski](http://twitter.com/search?q=oskar+kwiatkowski) | N/A |
-| 26 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
-| 27 | [Amerykanie](http://twitter.com/search?q=Amerykanie) | N/A |
-| 28 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
-| 29 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 30 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
-| 31 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
-| 32 | [Moskwą](http://twitter.com/search?q=Moskw%c4%85) | N/A |
-| 33 | [Mejza](http://twitter.com/search?q=Mejza) | N/A |
-| 34 | [Premier Włoch](http://twitter.com/search?q=Premier+W%c5%82och) | N/A |
-| 35 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 36 | [zuzanna borucka](http://twitter.com/search?q=zuzanna+borucka) | N/A |
-| 37 | [Steki](http://twitter.com/search?q=Steki) | N/A |
-| 38 | [Torre](http://twitter.com/search?q=Torre) | N/A |
-| 39 | [Warszawy](http://twitter.com/search?q=Warszawy) | N/A |
-| 40 | [kssip](http://twitter.com/search?q=kssip) | N/A |
-| 41 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
-| 42 | [teatr](http://twitter.com/search?q=teatr) | N/A |
-| 43 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
-| 44 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
-| 45 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
-| 46 | [Gazety Polskiej](http://twitter.com/search?q=Gazety+Polskiej) | N/A |
-| 47 | [Marsz Niepodległości](http://twitter.com/search?q=Marsz+Niepodleg%c5%82o%c5%9bci) | N/A |
-| 48 | [Kojak](http://twitter.com/search?q=Kojak) | N/A |
+| 23 | [Kremlu](http://twitter.com/search?q=Kremlu) | N/A |
+| 24 | [oskar kwiatkowski](http://twitter.com/search?q=oskar+kwiatkowski) | N/A |
+| 25 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
+| 26 | [Amerykanie](http://twitter.com/search?q=Amerykanie) | N/A |
+| 27 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
+| 28 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
+| 29 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
+| 30 | [Moskwą](http://twitter.com/search?q=Moskw%c4%85) | N/A |
+| 31 | [Mejza](http://twitter.com/search?q=Mejza) | N/A |
+| 32 | [premier włoch](http://twitter.com/search?q=premier+w%c5%82och) | N/A |
+| 33 | [zuzanna borucka](http://twitter.com/search?q=zuzanna+borucka) | N/A |
+| 34 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
+| 35 | [Steki](http://twitter.com/search?q=Steki) | N/A |
+| 36 | [Torre](http://twitter.com/search?q=Torre) | N/A |
+| 37 | [Warszawy](http://twitter.com/search?q=Warszawy) | N/A |
+| 38 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 39 | [kssip](http://twitter.com/search?q=kssip) | N/A |
+| 40 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
+| 41 | [teatr](http://twitter.com/search?q=teatr) | N/A |
+| 42 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
+| 43 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
+| 44 | [rebocho](http://twitter.com/search?q=rebocho) | N/A |
+| 45 | [Gazety Polskiej](http://twitter.com/search?q=Gazety+Polskiej) | N/A |
+| 46 | [Marsz Niepodległości](http://twitter.com/search?q=Marsz+Niepodleg%c5%82o%c5%9bci) | N/A |
+| 47 | [Kojak](http://twitter.com/search?q=Kojak) | N/A |
+| 48 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
 
 
 
