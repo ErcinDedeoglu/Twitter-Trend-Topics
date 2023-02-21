@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-21 03:21:22 UTC`
+📆 Last Updated: `2023-02-21 04:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
 | 2 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 3 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
+| 3 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
 | 4 | [Portela](http://twitter.com/search?q=Portela) | N/A |
 | 5 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 6 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 7 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 8 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 9 | [VILA ISABEL](http://twitter.com/search?q=VILA+ISABEL) | N/A |
-| 10 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
-| 11 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
-| 12 | [Marajó](http://twitter.com/search?q=Maraj%c3%b3) | N/A |
-| 13 | [Mayara Lima](http://twitter.com/search?q=Mayara+Lima) | N/A |
-| 14 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 15 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
-| 16 | [Kaká](http://twitter.com/search?q=Kak%c3%a1) | Kaká is a nickname for the Brazilian soccer player Ricardo Izecson dos Santos Leite, who is commonly known as Kaká. The name is derived from the Portuguese pronunciation of Ricardo, which is "ka-ka-shu". In English, it can be translated to mean "Ricardo". |
-| 17 | [Fred desimpedidos](http://twitter.com/search?q=Fred+desimpedidos) | N/A |
-| 18 | [INTOLERÂNCIA RELIGIOSA É CRIME](http://twitter.com/search?q=INTOLER%c3%82NCIA+RELIGIOSA+%c3%89+CRIME) | N/A |
-| 19 | [centenário](http://twitter.com/search?q=centen%c3%a1rio) | N/A |
-| 20 | [Wander Pires](http://twitter.com/search?q=Wander+Pires) | N/A |
-| 21 | [Tia Surica](http://twitter.com/search?q=Tia+Surica) | N/A |
-| 22 | [Yago](http://twitter.com/search?q=Yago) | Yago is a Japanese name meaning "calm one". It can also be written as 八吾 or 弥吾. |
-| 23 | [Sheron Menezes](http://twitter.com/search?q=Sheron+Menezes) | N/A |
-| 24 | [Rosa Magalhães](http://twitter.com/search?q=Rosa+Magalh%c3%a3es) | N/A |
-| 25 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
-| 26 | [Lucinha](http://twitter.com/search?q=Lucinha) | N/A |
-| 27 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 28 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
-| 29 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 30 | [Clara Nunes](http://twitter.com/search?q=Clara+Nunes) | N/A |
-| 31 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 32 | [Dr. Fred](http://twitter.com/search?q=Dr.+Fred) | N/A |
-| 33 | [#SegundasDeChicago](http://twitter.com/search?q=%23SegundasDeChicago) | N/A |
-| 34 | [Adriane Galisteu](http://twitter.com/search?q=Adriane+Galisteu) | N/A |
-| 35 | [Monarco](http://twitter.com/search?q=Monarco) | N/A |
-| 36 | [Paulinho da Viola](http://twitter.com/search?q=Paulinho+da+Viola) | N/A |
-| 37 | [Sentiram](http://twitter.com/search?q=Sentiram) | N/A |
-| 38 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 39 | [Águia](http://twitter.com/search?q=%c3%81guia) | N/A |
-| 40 | [Oxum](http://twitter.com/search?q=Oxum) | N/A |
-| 41 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 42 | [Marisa Monte](http://twitter.com/search?q=Marisa+Monte) | N/A |
-| 43 | [beto carrero](http://twitter.com/search?q=beto+carrero) | N/A |
-| 44 | [Mestre Damasceno](http://twitter.com/search?q=Mestre+Damasceno) | N/A |
-| 45 | [Majestade](http://twitter.com/search?q=Majestade) | N/A |
-| 46 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
-| 47 | [Mestre Marcão](http://twitter.com/search?q=Mestre+Marc%c3%a3o) | N/A |
-| 48 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 49 | [Os 3](http://twitter.com/search?q=Os+3) | N/A |
-| 50 | [Casal 22](http://twitter.com/search?q=Casal+22) | N/A |
+| 7 | [Paulo Barros](http://twitter.com/search?q=Paulo+Barros) | N/A |
+| 8 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 9 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 10 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 11 | [centenário](http://twitter.com/search?q=centen%c3%a1rio) | N/A |
+| 12 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
+| 13 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
+| 14 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 15 | [WE LOVE YOU SAVANNAH](http://twitter.com/search?q=WE+LOVE+YOU+SAVANNAH) | N/A |
+| 16 | [Mayara Lima](http://twitter.com/search?q=Mayara+Lima) | N/A |
+| 17 | [Marajó](http://twitter.com/search?q=Maraj%c3%b3) | N/A |
+| 18 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 19 | [Sheron Menezes](http://twitter.com/search?q=Sheron+Menezes) | N/A |
+| 20 | [Tia Surica](http://twitter.com/search?q=Tia+Surica) | N/A |
+| 21 | [Paulinho da Viola](http://twitter.com/search?q=Paulinho+da+Viola) | N/A |
+| 22 | [Kaká](http://twitter.com/search?q=Kak%c3%a1) | Kaká is a nickname for the Brazilian soccer player Ricardo Izecson dos Santos Leite, who is commonly known as Kaká. The name is derived from the Portuguese pronunciation of Ricardo, which is "ka-ka-shu". In English, it can be translated to mean "Ricardo". |
+| 23 | [Marisa Monte](http://twitter.com/search?q=Marisa+Monte) | N/A |
+| 24 | [Eduardo Paes](http://twitter.com/search?q=Eduardo+Paes) | N/A |
+| 25 | [Luiza Brunet](http://twitter.com/search?q=Luiza+Brunet) | N/A |
+| 26 | [dudu paes](http://twitter.com/search?q=dudu+paes) | N/A |
+| 27 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
+| 28 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 29 | [Galisteu](http://twitter.com/search?q=Galisteu) | N/A |
+| 30 | [Lucinha](http://twitter.com/search?q=Lucinha) | N/A |
+| 31 | [Fred desimpedidos](http://twitter.com/search?q=Fred+desimpedidos) | N/A |
+| 32 | [INTOLERÂNCIA RELIGIOSA É CRIME](http://twitter.com/search?q=INTOLER%c3%82NCIA+RELIGIOSA+%c3%89+CRIME) | N/A |
+| 33 | [Clara Nunes](http://twitter.com/search?q=Clara+Nunes) | N/A |
+| 34 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 35 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 36 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 37 | [Yago Felipe](http://twitter.com/search?q=Yago+Felipe) | Yago Felipe is a Portuguese name. It is composed of two parts: Yago, which is a variation of the Hebrew name Jacob, and Felipe, which is the Spanish form of the name Philip. In English, it would be translated as Jacob Philip. |
+| 38 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
+| 39 | [Rosa Magalhães](http://twitter.com/search?q=Rosa+Magalh%c3%a3es) | N/A |
+| 40 | [Wander Pires](http://twitter.com/search?q=Wander+Pires) | N/A |
+| 41 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
+| 42 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 43 | [Águia](http://twitter.com/search?q=%c3%81guia) | N/A |
+| 44 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
+| 45 | [Monarco](http://twitter.com/search?q=Monarco) | N/A |
+| 46 | [#SegundasDeChicago](http://twitter.com/search?q=%23SegundasDeChicago) | N/A |
+| 47 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 48 | [ALÉM DO INFINITO](http://twitter.com/search?q=AL%c3%89M+DO+INFINITO) | N/A |
+| 49 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 50 | [Nando Reis](http://twitter.com/search?q=Nando+Reis) | Nando Reis is the stage name of Brazilian singer, songwriter, and multi-instrumentalist Fernando Anitelli. His name is a combination of his first name, Fernando, and the Portuguese word for king, rei. In English, Nando Reis translates to "Fernando King". |
 
 
 

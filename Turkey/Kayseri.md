@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-21 03:21:52 UTC`
+📆 Last Updated: `2023-02-21 04:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Hatay](http://twitter.com/search?q=%23Hatay) | #Hatay is a province in southern Turkey, located on the Mediterranean coast. The name Hatay is derived from the ancient Hittite Empire, and it means "the land of the Hittites". In English, Hatay translates to "land of the Hittites". |
-| 2 | [#VekillerTBMMne](http://twitter.com/search?q=%23VekillerTBMMne) | N/A |
-| 3 | [#YardımParalarıNerede](http://twitter.com/search?q=%23Yard%c4%b1mParalar%c4%b1Nerede) | N/A |
-| 4 | [#FıratYılmazÇakıroğlu](http://twitter.com/search?q=%23F%c4%b1ratY%c4%b1lmaz%c3%87ak%c4%b1ro%c4%9flu) | N/A |
-| 5 | [#hükümetistifa](http://twitter.com/search?q=%23h%c3%bck%c3%bcmetistifa) | N/A |
-| 6 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 7 | [amcıksalak](http://twitter.com/search?q=amc%c4%b1ksalak) | N/A |
-| 8 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
+| 1 | [#Kayseri](http://twitter.com/search?q=%23Kayseri) | N/A |
+| 2 | [#Hatay](http://twitter.com/search?q=%23Hatay) | #Hatay is a province in southern Turkey, located on the Mediterranean coast. The name Hatay is derived from the ancient Hittite Empire, and it means "the land of the Hittites". In English, Hatay translates to "land of the Hittites". |
+| 3 | [#Hatay](http://twitter.com/search?q=%23Hatay) | #Hatay is a province in southern Turkey, located on the Mediterranean coast. The name Hatay is derived from the ancient Hittite Empire, and it means "the land of the Hittites". In English, Hatay translates to "land of the Hittites". |
+| 4 | [#YardımParalarıNerede](http://twitter.com/search?q=%23Yard%c4%b1mParalar%c4%b1Nerede) | N/A |
+| 5 | [#VekillerTBMMne](http://twitter.com/search?q=%23VekillerTBMMne) | N/A |
+| 6 | [amcıksalak](http://twitter.com/search?q=amc%c4%b1ksalak) | N/A |
+| 7 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
+| 8 | [erdal bakkal](http://twitter.com/search?q=erdal+bakkal) | N/A |
 | 9 | [Artçı](http://twitter.com/search?q=Art%c3%a7%c4%b1) | Artçı is a Turkish word that means "artisan" or "craftsman". It is used to refer to someone who is skilled in a particular craft or trade. |
-| 10 | [erdal bakkal](http://twitter.com/search?q=erdal+bakkal) | N/A |
-| 11 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 12 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 13 | [asılsız ihbar](http://twitter.com/search?q=as%c4%b1ls%c4%b1z+ihbar) | N/A |
-| 14 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
-| 15 | [benbernada tutuklukaldım](http://twitter.com/search?q=benbernada+tutuklukald%c4%b1m) | N/A |
-| 16 | [birlikte aşacağız](http://twitter.com/search?q=birlikte+a%c5%9faca%c4%9f%c4%b1z) | N/A |
-| 17 | [marmara'da 7,6](http://twitter.com/search?q=marmara%27da+7%2c6) | N/A |
-| 18 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 19 | [Enes](http://twitter.com/search?q=Enes) | N/A |
-| 20 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
-| 21 | [ege üniversitesi](http://twitter.com/search?q=ege+%c3%bcniversitesi) | N/A |
-| 22 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 23 | [Refik Eryılmaz](http://twitter.com/search?q=Refik+Ery%c4%b1lmaz) | N/A |
-| 24 | [Kıbrıs](http://twitter.com/search?q=K%c4%b1br%c4%b1s) | N/A |
-| 25 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
-| 26 | [adem metan](http://twitter.com/search?q=adem+metan) | N/A |
-| 27 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
-| 28 | [Şirin Payzın](http://twitter.com/search?q=%c5%9eirin+Payz%c4%b1n) | N/A |
-| 29 | [onur bulut](http://twitter.com/search?q=onur+bulut) | N/A |
-| 30 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
-| 31 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
-| 32 | [evim yuvan olsun](http://twitter.com/search?q=evim+yuvan+olsun) | N/A |
-| 33 | [Mustafa](http://twitter.com/search?q=Mustafa) | N/A |
-| 34 | [Hüseyin Cimşit](http://twitter.com/search?q=H%c3%bcseyin+Cim%c5%9fit) | N/A |
-| 35 | [millet yardimda kenetlendi](http://twitter.com/search?q=millet+yardimda+kenetlendi) | N/A |
-| 36 | [hasarlı](http://twitter.com/search?q=hasarl%c4%b1) | N/A |
-| 37 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 38 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 39 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
-| 40 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
-| 41 | [İskenderun Devlet Hastanesi](http://twitter.com/search?q=%c4%b0skenderun+Devlet+Hastanesi) | N/A |
-| 42 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 43 | [Ya Rabbi](http://twitter.com/search?q=Ya+Rabbi) | N/A |
-| 44 | [Memur](http://twitter.com/search?q=Memur) | N/A |
-| 45 | [Bilim](http://twitter.com/search?q=Bilim) | N/A |
-| 46 | [Alper](http://twitter.com/search?q=Alper) | N/A |
-| 47 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
-| 48 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
-| 49 | [Işık](http://twitter.com/search?q=I%c5%9f%c4%b1k) | N/A |
-| 50 | [Rahman](http://twitter.com/search?q=Rahman) | N/A |
+| 10 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 11 | [asılsız ihbar](http://twitter.com/search?q=as%c4%b1ls%c4%b1z+ihbar) | N/A |
+| 12 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
+| 13 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
+| 14 | [benbernada tutuklukaldım](http://twitter.com/search?q=benbernada+tutuklukald%c4%b1m) | N/A |
+| 15 | [birlikte aşacağız](http://twitter.com/search?q=birlikte+a%c5%9faca%c4%9f%c4%b1z) | N/A |
+| 16 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 17 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
+| 18 | [ege üniversitesi](http://twitter.com/search?q=ege+%c3%bcniversitesi) | N/A |
+| 19 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
+| 20 | [Refik Eryılmaz](http://twitter.com/search?q=Refik+Ery%c4%b1lmaz) | N/A |
+| 21 | [Kıbrıs](http://twitter.com/search?q=K%c4%b1br%c4%b1s) | N/A |
+| 22 | [şirin payzın](http://twitter.com/search?q=%c5%9firin+payz%c4%b1n) | N/A |
+| 23 | [Marmara'da 7,6](http://twitter.com/search?q=Marmara%27da+7%2c6) | N/A |
+| 24 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
+| 25 | [adem metan](http://twitter.com/search?q=adem+metan) | N/A |
+| 26 | [onur bulut](http://twitter.com/search?q=onur+bulut) | N/A |
+| 27 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
+| 28 | [İhsan Şenocak](http://twitter.com/search?q=%c4%b0hsan+%c5%9eenocak) | N/A |
+| 29 | [Hüseyin Cimşit](http://twitter.com/search?q=H%c3%bcseyin+Cim%c5%9fit) | N/A |
+| 30 | [hasarlı](http://twitter.com/search?q=hasarl%c4%b1) | N/A |
+| 31 | [millet yardimda kenetlendi](http://twitter.com/search?q=millet+yardimda+kenetlendi) | N/A |
+| 32 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
+| 33 | [Blinken](http://twitter.com/search?q=Blinken) | N/A |
+| 34 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
+| 35 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
+| 36 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
+| 37 | [Kaderden](http://twitter.com/search?q=Kaderden) | N/A |
+| 38 | [İskenderun Devlet Hastanesi](http://twitter.com/search?q=%c4%b0skenderun+Devlet+Hastanesi) | N/A |
+| 39 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 40 | [Enes](http://twitter.com/search?q=Enes) | N/A |
+| 41 | [Rabbim](http://twitter.com/search?q=Rabbim) | Rabbim is an Arabic word meaning "Lord" or "God". It is used in Islamic prayer and is a term of respect for the divine. |
+| 42 | [Rahman](http://twitter.com/search?q=Rahman) | N/A |
+| 43 | [Selamün Aleyküm](http://twitter.com/search?q=Selam%c3%bcn+Aleyk%c3%bcm) | N/A |
+| 44 | [Rahim](http://twitter.com/search?q=Rahim) | N/A |
+| 45 | [Mustafa](http://twitter.com/search?q=Mustafa) | N/A |
+| 46 | [Oğuzhan](http://twitter.com/search?q=O%c4%9fuzhan) | N/A |
+| 47 | [AFAD](http://twitter.com/search?q=AFAD) | N/A |
+| 48 | [Günün Hadisi](http://twitter.com/search?q=G%c3%bcn%c3%bcn+Hadisi) | N/A |
+| 49 | [Memur](http://twitter.com/search?q=Memur) | N/A |
+| 50 | [Işık](http://twitter.com/search?q=I%c5%9f%c4%b1k) | N/A |
 
 
 

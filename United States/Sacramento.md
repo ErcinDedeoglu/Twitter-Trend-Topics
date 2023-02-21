@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-02-21 03:22:00 UTC`
+📆 Last Updated: `2023-02-21 04:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Presidents](http://twitter.com/search?q=Presidents) | N/A |
-| 2 | [#ENVtubers](http://twitter.com/search?q=%23ENVtubers) | N/A |
-| 3 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 4 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
-| 5 | [Washington](http://twitter.com/search?q=Washington) | N/A |
-| 6 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 7 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 1 | [#ENVtubers](http://twitter.com/search?q=%23ENVtubers) | N/A |
+| 2 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
+| 3 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
+| 4 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
+| 5 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 6 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 7 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
 | 8 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
-| 9 | [Dark Brandon](http://twitter.com/search?q=Dark+Brandon) | N/A |
-| 10 | [Russell Westbrook](http://twitter.com/search?q=Russell+Westbrook) | N/A |
-| 11 | [#SJSharks](http://twitter.com/search?q=%23SJSharks) | N/A |
-| 12 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
-| 13 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 14 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 15 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 16 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 17 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 18 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 19 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 20 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 21 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 22 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 23 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
-| 24 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 25 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
-| 26 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
-| 27 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 28 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 29 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 30 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
-| 31 | [Damon](http://twitter.com/search?q=Damon) | N/A |
-| 32 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
-| 33 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 34 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 35 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 36 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
-| 37 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 38 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 39 | [Sorokin](http://twitter.com/search?q=Sorokin) | N/A |
-| 40 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 41 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 42 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
-| 43 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 44 | [Islanders](http://twitter.com/search?q=Islanders) | Islanders is a term used to refer to people who live on an island or group of islands. It can also be used to refer to a sports team, such as the New York Islanders hockey team. |
-| 45 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 46 | [Mustafa Ali](http://twitter.com/search?q=Mustafa+Ali) | N/A |
-| 47 | [Keisha](http://twitter.com/search?q=Keisha) | N/A |
-| 48 | [Thea](http://twitter.com/search?q=Thea) | N/A |
-| 49 | [Alissa](http://twitter.com/search?q=Alissa) | N/A |
+| 9 | [Russell Westbrook](http://twitter.com/search?q=Russell+Westbrook) | N/A |
+| 10 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
+| 11 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 12 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 13 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 14 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 15 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 16 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 17 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 18 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 19 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 20 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 21 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 22 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 23 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
+| 24 | [McCullar](http://twitter.com/search?q=McCullar) | McCullar is not a word in English. It may be a misspelling of the surname "McCallar," which is an Irish surname derived from the Gaelic Mac Cathmhaoil, meaning "son of Cathmhaoil." |
+| 25 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 26 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 27 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 28 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 29 | [Max Duggan](http://twitter.com/search?q=Max+Duggan) | Max Duggan is a name of Irish origin. It is derived from the Gaelic words "mac" meaning "son" and "dubhagain" meaning "dark-haired". The name can be translated to mean "son of the dark-haired one". |
+| 30 | [Corbin](http://twitter.com/search?q=Corbin) | N/A |
+| 31 | [Mania](http://twitter.com/search?q=Mania) | N/A |
+| 32 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 33 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 34 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 35 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 36 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 37 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 38 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 39 | [Allen Herbert](http://twitter.com/search?q=Allen+Herbert) | N/A |
+| 40 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 41 | [RJ Melendez](http://twitter.com/search?q=RJ+Melendez) | N/A |
+| 42 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 43 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
+| 44 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
+| 45 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 46 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 47 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 48 | [Otis](http://twitter.com/search?q=Otis) | N/A |
+| 49 | [Balor](http://twitter.com/search?q=Balor) | N/A |
 
 
 

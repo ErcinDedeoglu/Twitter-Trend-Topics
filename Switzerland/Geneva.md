@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-21 03:21:31 UTC`
+📆 Last Updated: `2023-02-21 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,7 +28,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 11 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
 | 12 | [honig](http://twitter.com/search?q=honig) | N/A |
 | 13 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 14 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 14 | [chaoten](http://twitter.com/search?q=chaoten) | N/A |
 | 15 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
 | 16 | [krieg mit russland](http://twitter.com/search?q=krieg+mit+russland) | N/A |
 | 17 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
@@ -39,29 +39,29 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 22 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 23 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
 | 24 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 25 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 26 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 27 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
-| 28 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 29 | [Japon](http://twitter.com/search?q=Japon) | N/A |
-| 30 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 31 | [neutralität](http://twitter.com/search?q=neutralit%c3%a4t) | N/A |
-| 32 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
-| 33 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
-| 34 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
-| 35 | [verteidiger](http://twitter.com/search?q=verteidiger) | N/A |
-| 36 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 37 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
-| 38 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 39 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
-| 40 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
-| 41 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 25 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
+| 26 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 27 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 28 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 29 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 30 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 31 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 32 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 33 | [arroganz](http://twitter.com/search?q=arroganz) | N/A |
+| 34 | [fussball](http://twitter.com/search?q=fussball) | N/A |
+| 35 | [Betrug](http://twitter.com/search?q=Betrug) | N/A |
+| 36 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
+| 37 | [verteidiger](http://twitter.com/search?q=verteidiger) | N/A |
+| 38 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 39 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 40 | [thematik](http://twitter.com/search?q=thematik) | N/A |
+| 41 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
 | 42 | [Produkt](http://twitter.com/search?q=Produkt) | N/A |
 | 43 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 44 | [Okey](http://twitter.com/search?q=Okey) | N/A |
-| 45 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 46 | [servette](http://twitter.com/search?q=servette) | N/A |
-| 47 | [Wand](http://twitter.com/search?q=Wand) | N/A |
+| 44 | [Russie](http://twitter.com/search?q=Russie) | N/A |
+| 45 | [Rolle](http://twitter.com/search?q=Rolle) | N/A |
+| 46 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 47 | [servette](http://twitter.com/search?q=servette) | N/A |
 
 
 

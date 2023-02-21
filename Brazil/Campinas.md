@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-21 03:21:23 UTC`
+📆 Last Updated: `2023-02-21 04:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [André Negão](http://twitter.com/search?q=Andr%c3%a9+Neg%c3%a3o) | N/A |
-| 2 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
-| 3 | [Josias](http://twitter.com/search?q=Josias) | N/A |
-| 4 | [Bananinha](http://twitter.com/search?q=Bananinha) | N/A |
-| 5 | [Lei Rouanet](http://twitter.com/search?q=Lei+Rouanet) | N/A |
-| 6 | [Daniel Ricciardo](http://twitter.com/search?q=Daniel+Ricciardo) | N/A |
-| 7 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 8 | [Crente](http://twitter.com/search?q=Crente) | N/A |
+| 1 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 2 | [Os 3](http://twitter.com/search?q=Os+3) | N/A |
+| 3 | [Nojentos](http://twitter.com/search?q=Nojentos) | N/A |
+| 4 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
+| 5 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 6 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 7 | [Bananinha](http://twitter.com/search?q=Bananinha) | N/A |
+| 8 | [Lei Rouanet](http://twitter.com/search?q=Lei+Rouanet) | N/A |
 | 9 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 10 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
-| 11 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 12 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 13 | [Eduardo](http://twitter.com/search?q=Eduardo) | N/A |
-| 14 | [#FicaFred](http://twitter.com/search?q=%23FicaFred) | N/A |
-| 15 | [Hipocrisia](http://twitter.com/search?q=Hipocrisia) | N/A |
-| 16 | [Dean](http://twitter.com/search?q=Dean) | N/A |
-| 17 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
-| 18 | [Jess](http://twitter.com/search?q=Jess) | N/A |
-| 19 | [#LitoralNorteSP](http://twitter.com/search?q=%23LitoralNorteSP) | N/A |
-| 20 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 21 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 22 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 10 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 11 | [Crente](http://twitter.com/search?q=Crente) | N/A |
+| 12 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 13 | [Samba](http://twitter.com/search?q=Samba) | N/A |
+| 14 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
+| 15 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 16 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 17 | [Hipocrisia](http://twitter.com/search?q=Hipocrisia) | N/A |
+| 18 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 19 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 20 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 21 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 22 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
 | 23 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
-| 24 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 25 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 26 | [VILA ISABEL](http://twitter.com/search?q=VILA+ISABEL) | N/A |
-| 27 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
-| 28 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
-| 29 | [Marajó](http://twitter.com/search?q=Maraj%c3%b3) | N/A |
-| 30 | [Mayara Lima](http://twitter.com/search?q=Mayara+Lima) | N/A |
-| 31 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 32 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
-| 33 | [Kaká](http://twitter.com/search?q=Kak%c3%a1) | Kaká is a nickname for the Brazilian soccer player Ricardo Izecson dos Santos Leite, who is commonly known as Kaká. The name is derived from the Portuguese pronunciation of Ricardo, which is "ka-ka-shu". In English, it can be translated to mean "Ricardo". |
-| 34 | [INTOLERÂNCIA RELIGIOSA É CRIME](http://twitter.com/search?q=INTOLER%c3%82NCIA+RELIGIOSA+%c3%89+CRIME) | N/A |
-| 35 | [centenário](http://twitter.com/search?q=centen%c3%a1rio) | N/A |
-| 36 | [Wander Pires](http://twitter.com/search?q=Wander+Pires) | N/A |
-| 37 | [Tia Surica](http://twitter.com/search?q=Tia+Surica) | N/A |
-| 38 | [Yago](http://twitter.com/search?q=Yago) | Yago is a Japanese name meaning "calm one". It can also be written as 八吾 or 弥吾. |
-| 39 | [Sheron Menezes](http://twitter.com/search?q=Sheron+Menezes) | N/A |
-| 40 | [Rosa Magalhães](http://twitter.com/search?q=Rosa+Magalh%c3%a3es) | N/A |
-| 41 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
-| 42 | [Lucinha](http://twitter.com/search?q=Lucinha) | N/A |
-| 43 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 44 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
-| 45 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 46 | [Clara Nunes](http://twitter.com/search?q=Clara+Nunes) | N/A |
-| 47 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 48 | [Dr. Fred](http://twitter.com/search?q=Dr.+Fred) | N/A |
-| 49 | [Adriane Galisteu](http://twitter.com/search?q=Adriane+Galisteu) | N/A |
+| 24 | [Paulo Barros](http://twitter.com/search?q=Paulo+Barros) | N/A |
+| 25 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 26 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 27 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 28 | [centenário](http://twitter.com/search?q=centen%c3%a1rio) | N/A |
+| 29 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
+| 30 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
+| 31 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 32 | [WE LOVE YOU SAVANNAH](http://twitter.com/search?q=WE+LOVE+YOU+SAVANNAH) | N/A |
+| 33 | [Mayara Lima](http://twitter.com/search?q=Mayara+Lima) | N/A |
+| 34 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 35 | [Sheron Menezes](http://twitter.com/search?q=Sheron+Menezes) | N/A |
+| 36 | [Tia Surica](http://twitter.com/search?q=Tia+Surica) | N/A |
+| 37 | [Marajó](http://twitter.com/search?q=Maraj%c3%b3) | N/A |
+| 38 | [Paulinho da Viola](http://twitter.com/search?q=Paulinho+da+Viola) | N/A |
+| 39 | [Kaká](http://twitter.com/search?q=Kak%c3%a1) | Kaká is a nickname for the Brazilian soccer player Ricardo Izecson dos Santos Leite, who is commonly known as Kaká. The name is derived from the Portuguese pronunciation of Ricardo, which is "ka-ka-shu". In English, it can be translated to mean "Ricardo". |
+| 40 | [Marisa Monte](http://twitter.com/search?q=Marisa+Monte) | N/A |
+| 41 | [Eduardo Paes](http://twitter.com/search?q=Eduardo+Paes) | N/A |
+| 42 | [Luiza Brunet](http://twitter.com/search?q=Luiza+Brunet) | N/A |
+| 43 | [dudu paes](http://twitter.com/search?q=dudu+paes) | N/A |
+| 44 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
+| 45 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 46 | [Galisteu](http://twitter.com/search?q=Galisteu) | N/A |
+| 47 | [Lucinha](http://twitter.com/search?q=Lucinha) | N/A |
+| 48 | [INTOLERÂNCIA RELIGIOSA É CRIME](http://twitter.com/search?q=INTOLER%c3%82NCIA+RELIGIOSA+%c3%89+CRIME) | N/A |
+| 49 | [Clara Nunes](http://twitter.com/search?q=Clara+Nunes) | N/A |
 
 
 

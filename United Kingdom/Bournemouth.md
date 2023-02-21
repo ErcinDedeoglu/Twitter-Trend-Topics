@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-21 03:21:13 UTC`
+📆 Last Updated: `2023-02-21 04:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,42 +27,42 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 10 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
 | 11 | [Froch](http://twitter.com/search?q=Froch) | N/A |
 | 12 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 13 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 14 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 15 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
-| 16 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 17 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 18 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 20 | [World of Sport](http://twitter.com/search?q=World+of+Sport) | N/A |
-| 21 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 13 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
+| 14 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 15 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 16 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
+| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 18 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 19 | [World of Sport](http://twitter.com/search?q=World+of+Sport) | N/A |
+| 20 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 21 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 22 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 | 23 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
 | 24 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
 | 25 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
 | 26 | [Jax Jones](http://twitter.com/search?q=Jax+Jones) | N/A |
-| 27 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 27 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
 | 28 | [Alison Hammond](http://twitter.com/search?q=Alison+Hammond) | N/A |
-| 29 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
-| 30 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 31 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 32 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 33 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 34 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 29 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 30 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
+| 31 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 32 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 33 | [Paul Heyman](http://twitter.com/search?q=Paul+Heyman) | Paul Heyman is an American professional wrestling manager, promoter, and occasional color commentator. He is best known for his work in WWE as the manager of Brock Lesnar and as the founder and on-screen leader of the stable The Heyman Hustle. The phrase "Paul Heyman" is often used to refer to someone who is a shrewd negotiator or a savvy businessman. |
+| 34 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
 | 35 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 36 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 37 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 36 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 37 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
 | 38 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
 | 39 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
-| 40 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 41 | [Poor Martin](http://twitter.com/search?q=Poor+Martin) | N/A |
+| 40 | [Poor Martin](http://twitter.com/search?q=Poor+Martin) | N/A |
+| 41 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
 | 42 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 43 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
-| 44 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 45 | [Callum Scott](http://twitter.com/search?q=Callum+Scott) | N/A |
-| 46 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 43 | [callum scott](http://twitter.com/search?q=callum+scott) | N/A |
+| 44 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 45 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 46 | [Nish](http://twitter.com/search?q=Nish) | N/A |
 | 47 | [Peter Faulding](http://twitter.com/search?q=Peter+Faulding) | N/A |
-| 48 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 48 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
 
 
 

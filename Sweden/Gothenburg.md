@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-21 03:21:32 UTC`
+📆 Last Updated: `2023-02-21 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,14 +25,14 @@ This is top 50 for [Sweden](</Sweden>)
 | 8 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 9 | [klippan](http://twitter.com/search?q=klippan) | N/A |
 | 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 11 | [utsikten](http://twitter.com/search?q=utsikten) | N/A |
-| 12 | [EU-länder](http://twitter.com/search?q=EU-l%c3%a4nder) | N/A |
-| 13 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 14 | [Farmanbar](http://twitter.com/search?q=Farmanbar) | N/A |
+| 11 | [EU-länder](http://twitter.com/search?q=EU-l%c3%a4nder) | N/A |
+| 12 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 13 | [Farmanbar](http://twitter.com/search?q=Farmanbar) | N/A |
+| 14 | [Utsikten](http://twitter.com/search?q=Utsikten) | N/A |
 | 15 | [häcken](http://twitter.com/search?q=h%c3%a4cken) | N/A |
-| 16 | [blåvitt](http://twitter.com/search?q=bl%c3%a5vitt) | N/A |
-| 17 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
-| 18 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 16 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 17 | [blåvitt](http://twitter.com/search?q=bl%c3%a5vitt) | N/A |
+| 18 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
 | 19 | [einár](http://twitter.com/search?q=ein%c3%a1r) | N/A |
 | 20 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 21 | [Agenda](http://twitter.com/search?q=Agenda) | N/A |
@@ -40,29 +40,29 @@ This is top 50 for [Sweden](</Sweden>)
 | 23 | [Hagen](http://twitter.com/search?q=Hagen) | N/A |
 | 24 | [Eman](http://twitter.com/search?q=Eman) | N/A |
 | 25 | [erabi](http://twitter.com/search?q=erabi) | N/A |
-| 26 | [riksbank](http://twitter.com/search?q=riksbank) | N/A |
-| 27 | [Chang](http://twitter.com/search?q=Chang) | N/A |
-| 28 | [strömmer](http://twitter.com/search?q=str%c3%b6mmer) | N/A |
+| 26 | [strömmer](http://twitter.com/search?q=str%c3%b6mmer) | N/A |
+| 27 | [riksbank](http://twitter.com/search?q=riksbank) | N/A |
+| 28 | [Chang](http://twitter.com/search?q=Chang) | N/A |
 | 29 | [pontus](http://twitter.com/search?q=pontus) | N/A |
 | 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 31 | [Bravida](http://twitter.com/search?q=Bravida) | N/A |
+| 31 | [bravida](http://twitter.com/search?q=bravida) | N/A |
 | 32 | [#loveIsland](http://twitter.com/search?q=%23loveIsland) | N/A |
 | 33 | [sprängning](http://twitter.com/search?q=spr%c3%a4ngning) | N/A |
 | 34 | [anonymous sudan](http://twitter.com/search?q=anonymous+sudan) | N/A |
-| 35 | [Lindelöf](http://twitter.com/search?q=Lindel%c3%b6f) | N/A |
-| 36 | [ifk göteborg](http://twitter.com/search?q=ifk+g%c3%b6teborg) | N/A |
+| 35 | [ifk göteborg](http://twitter.com/search?q=ifk+g%c3%b6teborg) | N/A |
+| 36 | [Lindelöf](http://twitter.com/search?q=Lindel%c3%b6f) | N/A |
 | 37 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 | 38 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
-| 39 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 39 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
 | 40 | [brage](http://twitter.com/search?q=brage) | N/A |
-| 41 | [Landskrona](http://twitter.com/search?q=Landskrona) | N/A |
-| 42 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
-| 43 | [kungen](http://twitter.com/search?q=kungen) | N/A |
-| 44 | [christoffer bohman](http://twitter.com/search?q=christoffer+bohman) | N/A |
-| 45 | [djurgårn](http://twitter.com/search?q=djurg%c3%a5rn) | N/A |
-| 46 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
-| 47 | [montader madjed](http://twitter.com/search?q=montader+madjed) | N/A |
-| 48 | [d-vitamin](http://twitter.com/search?q=d-vitamin) | N/A |
+| 41 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 42 | [Landskrona](http://twitter.com/search?q=Landskrona) | N/A |
+| 43 | [Fox News](http://twitter.com/search?q=Fox+News) | N/A |
+| 44 | [kungen](http://twitter.com/search?q=kungen) | N/A |
+| 45 | [christoffer bohman](http://twitter.com/search?q=christoffer+bohman) | N/A |
+| 46 | [djurgårn](http://twitter.com/search?q=djurg%c3%a5rn) | N/A |
+| 47 | [d-vitamin](http://twitter.com/search?q=d-vitamin) | N/A |
+| 48 | [montader madjed](http://twitter.com/search?q=montader+madjed) | N/A |
 | 49 | [granskar](http://twitter.com/search?q=granskar) | N/A |
 | 50 | [måndag](http://twitter.com/search?q=m%c3%a5ndag) | N/A |
 

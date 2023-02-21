@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-21 03:21:23 UTC`
+📆 Last Updated: `2023-02-21 04:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
-| 2 | [doutor fred](http://twitter.com/search?q=doutor+fred) | Doutor Fred is a Brazilian children's television show that aired from 1997 to 2001. It follows the adventures of a doctor, Dr. Fred, and his assistant, Juca, as they travel around the world helping people in need. The show's title translates to "Dr. Fred" in English. |
-| 3 | [#BlocoDaPabllo](http://twitter.com/search?q=%23BlocoDaPabllo) | N/A |
-| 4 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 1 | [#BlocoDaPabllo](http://twitter.com/search?q=%23BlocoDaPabllo) | N/A |
+| 2 | [#CarnavalGlobeleza](http://twitter.com/search?q=%23CarnavalGlobeleza) | N/A |
+| 3 | [Nilópolis](http://twitter.com/search?q=Nil%c3%b3polis) | N/A |
+| 4 | [Globo](http://twitter.com/search?q=Globo) | Globo is a Brazilian media conglomerate and the largest communications group in Latin America. It is one of the largest commercial TV networks in the world, and it produces content for television, radio, internet, and print media. In English, Globo means "global" or "worldwide". |
 | 5 | [Samba](http://twitter.com/search?q=Samba) | N/A |
-| 6 | [Calegari](http://twitter.com/search?q=Calegari) | Calegari is an Italian surname derived from the Latin word caligarius, meaning "soldier in boots". It is most commonly found in northern Italy, particularly in the regions of Lombardy and Piedmont. In English, the name can be translated to mean "booted soldier". |
-| 7 | [#BeijaFlor2023](http://twitter.com/search?q=%23BeijaFlor2023) | N/A |
-| 8 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
-| 9 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
-| 10 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 11 | [Crente](http://twitter.com/search?q=Crente) | N/A |
-| 12 | [Diabo](http://twitter.com/search?q=Diabo) | N/A |
-| 13 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 14 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 15 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 16 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
-| 17 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 18 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 19 | [VILA ISABEL](http://twitter.com/search?q=VILA+ISABEL) | N/A |
-| 20 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
-| 21 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
-| 22 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
-| 23 | [Marajó](http://twitter.com/search?q=Maraj%c3%b3) | N/A |
-| 24 | [Mayara Lima](http://twitter.com/search?q=Mayara+Lima) | N/A |
-| 25 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
-| 26 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
-| 27 | [Kaká](http://twitter.com/search?q=Kak%c3%a1) | Kaká is a nickname for the Brazilian soccer player Ricardo Izecson dos Santos Leite, who is commonly known as Kaká. The name is derived from the Portuguese pronunciation of Ricardo, which is "ka-ka-shu". In English, it can be translated to mean "Ricardo". |
-| 28 | [Fred desimpedidos](http://twitter.com/search?q=Fred+desimpedidos) | N/A |
-| 29 | [INTOLERÂNCIA RELIGIOSA É CRIME](http://twitter.com/search?q=INTOLER%c3%82NCIA+RELIGIOSA+%c3%89+CRIME) | N/A |
-| 30 | [centenário](http://twitter.com/search?q=centen%c3%a1rio) | N/A |
-| 31 | [Wander Pires](http://twitter.com/search?q=Wander+Pires) | N/A |
-| 32 | [Tia Surica](http://twitter.com/search?q=Tia+Surica) | N/A |
-| 33 | [Yago](http://twitter.com/search?q=Yago) | Yago is a Japanese name meaning "calm one". It can also be written as 八吾 or 弥吾. |
-| 34 | [Rosa Magalhães](http://twitter.com/search?q=Rosa+Magalh%c3%a3es) | N/A |
-| 35 | [#jogodadiscórdia](http://twitter.com/search?q=%23jogodadisc%c3%b3rdia) | N/A |
-| 36 | [Sheron Menezes](http://twitter.com/search?q=Sheron+Menezes) | N/A |
-| 37 | [Lucinha](http://twitter.com/search?q=Lucinha) | N/A |
-| 38 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 39 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 40 | [Clara Nunes](http://twitter.com/search?q=Clara+Nunes) | N/A |
-| 41 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
-| 42 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 43 | [Dr. Fred](http://twitter.com/search?q=Dr.+Fred) | N/A |
-| 44 | [Monarco](http://twitter.com/search?q=Monarco) | N/A |
-| 45 | [Adriane Galisteu](http://twitter.com/search?q=Adriane+Galisteu) | N/A |
-| 46 | [Paulinho da Viola](http://twitter.com/search?q=Paulinho+da+Viola) | N/A |
-| 47 | [Sentiram](http://twitter.com/search?q=Sentiram) | N/A |
-| 48 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 49 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
-| 50 | [Águia](http://twitter.com/search?q=%c3%81guia) | N/A |
+| 6 | [doutor fred](http://twitter.com/search?q=doutor+fred) | Doutor Fred is a Brazilian children's television show that aired from 1997 to 2001. It follows the adventures of a doctor, Dr. Fred, and his assistant, Juca, as they travel around the world helping people in need. The show's title translates to "Dr. Fred" in English. |
+| 7 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
+| 8 | [Chernobyl](http://twitter.com/search?q=Chernobyl) | N/A |
+| 9 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
+| 10 | [Diabo](http://twitter.com/search?q=Diabo) | N/A |
+| 11 | [Maju](http://twitter.com/search?q=Maju) | N/A |
+| 12 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 13 | [Boco Roso](http://twitter.com/search?q=Boco+Roso) | N/A |
+| 14 | [Fred boco](http://twitter.com/search?q=Fred+boco) | N/A |
+| 15 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 16 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 17 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 18 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
+| 19 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
+| 20 | [Paulo Barros](http://twitter.com/search?q=Paulo+Barros) | N/A |
+| 21 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 22 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 23 | [centenário](http://twitter.com/search?q=centen%c3%a1rio) | N/A |
+| 24 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
+| 25 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
+| 26 | [Sarah Aline](http://twitter.com/search?q=Sarah+Aline) | N/A |
+| 27 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 28 | [WE LOVE YOU SAVANNAH](http://twitter.com/search?q=WE+LOVE+YOU+SAVANNAH) | N/A |
+| 29 | [Gustavo e Key](http://twitter.com/search?q=Gustavo+e+Key) | Gustavo e Key is a Brazilian phrase that translates to "Gustavo and Key." It is often used as a way of referring to two people who are close friends or partners. |
+| 30 | [Mayara Lima](http://twitter.com/search?q=Mayara+Lima) | N/A |
+| 31 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 32 | [Sheron Menezes](http://twitter.com/search?q=Sheron+Menezes) | N/A |
+| 33 | [Tia Surica](http://twitter.com/search?q=Tia+Surica) | N/A |
+| 34 | [Marajó](http://twitter.com/search?q=Maraj%c3%b3) | N/A |
+| 35 | [Paulinho da Viola](http://twitter.com/search?q=Paulinho+da+Viola) | N/A |
+| 36 | [Kaká](http://twitter.com/search?q=Kak%c3%a1) | Kaká is a nickname for the Brazilian soccer player Ricardo Izecson dos Santos Leite, who is commonly known as Kaká. The name is derived from the Portuguese pronunciation of Ricardo, which is "ka-ka-shu". In English, it can be translated to mean "Ricardo". |
+| 37 | [Marisa Monte](http://twitter.com/search?q=Marisa+Monte) | N/A |
+| 38 | [Eduardo Paes](http://twitter.com/search?q=Eduardo+Paes) | N/A |
+| 39 | [Luiza Brunet](http://twitter.com/search?q=Luiza+Brunet) | N/A |
+| 40 | [dudu paes](http://twitter.com/search?q=dudu+paes) | N/A |
+| 41 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
+| 42 | [O Fred](http://twitter.com/search?q=O+Fred) | "O Fred" is an expression of surprise or shock, usually used in response to something unexpected. It is similar to "Oh my!" or "Oh wow!" in English. |
+| 43 | [Galisteu](http://twitter.com/search?q=Galisteu) | N/A |
+| 44 | [Lucinha](http://twitter.com/search?q=Lucinha) | N/A |
+| 45 | [Fred desimpedidos](http://twitter.com/search?q=Fred+desimpedidos) | N/A |
+| 46 | [INTOLERÂNCIA RELIGIOSA É CRIME](http://twitter.com/search?q=INTOLER%c3%82NCIA+RELIGIOSA+%c3%89+CRIME) | N/A |
+| 47 | [Clara Nunes](http://twitter.com/search?q=Clara+Nunes) | N/A |
+| 48 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 49 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 50 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
 
 
 

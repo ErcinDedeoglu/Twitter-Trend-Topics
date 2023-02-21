@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-21 03:22:06 UTC`
+📆 Last Updated: `2023-02-21 04:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,42 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 2 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 5 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
-| 6 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 7 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 8 | [#VillaAllStar](http://twitter.com/search?q=%23VillaAllStar) | N/A |
-| 9 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 10 | [#CiudadanosContraPlanB](http://twitter.com/search?q=%23CiudadanosContraPlanB) | N/A |
-| 11 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 1 | [#VillaAllStar](http://twitter.com/search?q=%23VillaAllStar) | N/A |
+| 2 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 3 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 4 | [PANTERA DORADA](http://twitter.com/search?q=PANTERA+DORADA) | N/A |
+| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 6 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
+| 7 | [#NegrihoodConvoy](http://twitter.com/search?q=%23NegrihoodConvoy) | N/A |
+| 8 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 9 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 10 | [Livia Brito](http://twitter.com/search?q=Livia+Brito) | N/A |
+| 11 | [Chef Betty](http://twitter.com/search?q=Chef+Betty) | N/A |
 | 12 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 13 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
-| 14 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
-| 15 | [PANTERA DORADA](http://twitter.com/search?q=PANTERA+DORADA) | N/A |
-| 16 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 17 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 18 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 19 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
-| 20 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 21 | [Chef Betty](http://twitter.com/search?q=Chef+Betty) | N/A |
-| 22 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 23 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
-| 24 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 25 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 26 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 27 | [Litio](http://twitter.com/search?q=Litio) | N/A |
-| 28 | [toño rodríguez](http://twitter.com/search?q=to%c3%b1o+rodr%c3%adguez) | N/A |
-| 29 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 30 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 32 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 33 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 34 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 35 | [Zacatecas](http://twitter.com/search?q=Zacatecas) | N/A |
-| 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 37 | [Catalina Creel](http://twitter.com/search?q=Catalina+Creel) | N/A |
-| 38 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 39 | [little freak](http://twitter.com/search?q=little+freak) | N/A |
-| 40 | [Fan ID](http://twitter.com/search?q=Fan+ID) | N/A |
-| 41 | [José Ramón Gómez Leal](http://twitter.com/search?q=Jos%c3%a9+Ram%c3%b3n+G%c3%b3mez+Leal) | N/A |
-| 42 | [Crocs](http://twitter.com/search?q=Crocs) | N/A |
-| 43 | [Hoy 20](http://twitter.com/search?q=Hoy+20) | N/A |
-| 44 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
-| 45 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 46 | [HAPPY BIRTHDAY MEWMEW](http://twitter.com/search?q=HAPPY+BIRTHDAY+MEWMEW) | N/A |
-| 47 | [Paricutín](http://twitter.com/search?q=Paricut%c3%adn) | N/A |
-| 48 | [Luisillo](http://twitter.com/search?q=Luisillo) | N/A |
-| 49 | [día del ejército mexicano](http://twitter.com/search?q=d%c3%ada+del+ej%c3%a9rcito+mexicano) | N/A |
-| 50 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 13 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 14 | [Gael](http://twitter.com/search?q=Gael) | N/A |
+| 15 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 16 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 17 | [Tyler](http://twitter.com/search?q=Tyler) | N/A |
+| 18 | [Labello](http://twitter.com/search?q=Labello) | N/A |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [Loret](http://twitter.com/search?q=Loret) | N/A |
+| 21 | [Aleida](http://twitter.com/search?q=Aleida) | N/A |
+| 22 | [Colima](http://twitter.com/search?q=Colima) | N/A |
+| 23 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 24 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 25 | [Madison](http://twitter.com/search?q=Madison) | N/A |
+| 26 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 27 | [Kings League](http://twitter.com/search?q=Kings+League) | Kings League is a mobile strategy game developed by Gameloft. In the game, players build their own kingdom and compete against other players in a series of battles. The goal is to become the most powerful kingdom in the world. The name "Kings League" comes from the idea that players are competing to become the king of their own kingdom. |
+| 28 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 29 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
+| 30 | [Crocs](http://twitter.com/search?q=Crocs) | N/A |
+| 31 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 32 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 33 | [#NoaMusicVibe](http://twitter.com/search?q=%23NoaMusicVibe) | N/A |
+| 34 | [#Celaya](http://twitter.com/search?q=%23Celaya) | N/A |
+| 35 | [#ReformaElectoral](http://twitter.com/search?q=%23ReformaElectoral) | N/A |
+| 36 | [#AmloElFracasoPresidencial](http://twitter.com/search?q=%23AmloElFracasoPresidencial) | N/A |
 
 
 
