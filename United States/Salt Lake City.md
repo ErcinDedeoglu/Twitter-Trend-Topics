@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salt Lake City
 
-📆 Last Updated: `2023-02-21 11:17:36 UTC`
+📆 Last Updated: `2023-02-21 12:18:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,48 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 2 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 1 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 2 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
 | 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 4 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 6 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 7 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 8 | [Ohio](http://twitter.com/search?q=Ohio) | N/A |
-| 9 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 10 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 11 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
-| 12 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
-| 13 | [President](http://twitter.com/search?q=President) | N/A |
-| 14 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 15 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 16 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 17 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 18 | [Karl Malone](http://twitter.com/search?q=Karl+Malone) | N/A |
-| 19 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 20 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 21 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 22 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 23 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 24 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
-| 25 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
-| 26 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 27 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 28 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 29 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 30 | [Pisces](http://twitter.com/search?q=Pisces) | N/A |
-| 31 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 32 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 33 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 34 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 35 | [Wordle 612 X](http://twitter.com/search?q=Wordle+612+X) | N/A |
-| 36 | [No Way Home](http://twitter.com/search?q=No+Way+Home) | N/A |
-| 37 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 38 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 40 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 41 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
-| 42 | [Ashley](http://twitter.com/search?q=Ashley) | Ashley is a unisex name of English origin, derived from the Old English words 'æsc' and 'lēah', meaning "ash tree meadow". It is often used as a given name for both boys and girls. |
-| 43 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 44 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 45 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 46 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
-| 47 | [Candiace](http://twitter.com/search?q=Candiace) | Candiace is a female given name of Latin origin, derived from the word "candidus" meaning "bright" or "shining". |
-| 48 | [Wakanda Forever](http://twitter.com/search?q=Wakanda+Forever) | N/A |
-| 49 | [Shang Chi](http://twitter.com/search?q=Shang+Chi) | N/A |
+| 4 | [#FatTuesday](http://twitter.com/search?q=%23FatTuesday) | N/A |
+| 5 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 6 | [Wordle 612 X](http://twitter.com/search?q=Wordle+612+X) | N/A |
+| 7 | [#MutoFinal](http://twitter.com/search?q=%23MutoFinal) | N/A |
+| 8 | [#paczkiday](http://twitter.com/search?q=%23paczkiday) | N/A |
+| 9 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 10 | [Kazuya](http://twitter.com/search?q=Kazuya) | N/A |
+| 11 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 12 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 13 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
+| 14 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
+| 15 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 16 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 17 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 18 | [O'Keefe](http://twitter.com/search?q=O%27Keefe) | N/A |
+| 19 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
+| 20 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
+| 21 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 22 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 23 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
+| 24 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 25 | [dominic fike](http://twitter.com/search?q=dominic+fike) | N/A |
+| 26 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 27 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 28 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 29 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 30 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 31 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 32 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 33 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 34 | [#noah_ghc](http://twitter.com/search?q=%23noah_ghc) | #noah_ghc is a hashtag used on Twitter to refer to the Noah GHC project, which is an open source project for creating a Haskell compiler. The hashtag is used to share news and updates about the project, as well as to discuss related topics. |
+| 35 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 36 | [#bereft](http://twitter.com/search?q=%23bereft) | N/A |
+| 37 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
+| 38 | [#WasAHugeMistake](http://twitter.com/search?q=%23WasAHugeMistake) | N/A |
+| 39 | [#StyleOfThieves](http://twitter.com/search?q=%23StyleOfThieves) | N/A |
+| 40 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
+| 41 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
+| 42 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-21 11:17:44 UTC`
+📆 Last Updated: `2023-02-21 12:18:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Philippines
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
-| 2 | [#FelipOnSoundtrip_DrinkSmoke](http://twitter.com/search?q=%23FelipOnSoundtrip_DrinkSmoke) | N/A |
-| 3 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 4 | [#OurMiracleWendyDay](http://twitter.com/search?q=%23OurMiracleWendyDay) | N/A |
-| 5 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 6 | [#우리_승완이_생일축하해_사랑해_고마워](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ec%8a%b9%ec%99%84%ec%9d%b4_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%82%ac%eb%9e%91%ed%95%b4_%ea%b3%a0%eb%a7%88%ec%9b%8c) | N/A |
-| 7 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 8 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 9 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 10 | [VIVOREE MATAPANG THIS FRI](http://twitter.com/search?q=VIVOREE+MATAPANG+THIS+FRI) | N/A |
-| 11 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 12 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
-| 13 | [CLOSER MV](http://twitter.com/search?q=CLOSER+MV) | N/A |
+| 2 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
+| 3 | [#FelipOnSoundtrip_DrinkSmoke](http://twitter.com/search?q=%23FelipOnSoundtrip_DrinkSmoke) | N/A |
+| 4 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 5 | [#OurMiracleWendyDay](http://twitter.com/search?q=%23OurMiracleWendyDay) | N/A |
+| 6 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 7 | [#우리_승완이_생일축하해_사랑해_고마워](http://twitter.com/search?q=%23%ec%9a%b0%eb%a6%ac_%ec%8a%b9%ec%99%84%ec%9d%b4_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4_%ec%82%ac%eb%9e%91%ed%95%b4_%ea%b3%a0%eb%a7%88%ec%9b%8c) | N/A |
+| 8 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 9 | [VIVOREE MATAPANG THIS FRI](http://twitter.com/search?q=VIVOREE+MATAPANG+THIS+FRI) | N/A |
+| 10 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 11 | [GQ KOREA X JEONGYEON](http://twitter.com/search?q=GQ+KOREA+X+JEONGYEON) | N/A |
+| 12 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
+| 13 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
 | 14 | [READY TO BE AMAZED](http://twitter.com/search?q=READY+TO+BE+AMAZED) | N/A |
-| 15 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
-| 16 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 17 | [certipied alpha boys](http://twitter.com/search?q=certipied+alpha+boys) | N/A |
-| 18 | [here i come](http://twitter.com/search?q=here+i+come) | N/A |
-| 19 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 20 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 21 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 22 | [ALJAY TCtrailer REACTION](http://twitter.com/search?q=ALJAY+TCtrailer+REACTION) | N/A |
-| 23 | [4th monthsary karlia](http://twitter.com/search?q=4th+monthsary+karlia) | N/A |
-| 24 | [READY FOR TWICE](http://twitter.com/search?q=READY+FOR+TWICE) | N/A |
-| 25 | [Tubino](http://twitter.com/search?q=Tubino) | N/A |
-| 26 | [Coffee Project](http://twitter.com/search?q=Coffee+Project) | N/A |
-| 27 | [Raagas](http://twitter.com/search?q=Raagas) | N/A |
-| 28 | [happy 8200th days](http://twitter.com/search?q=happy+8200th+days) | N/A |
-| 29 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 30 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
-| 31 | [Decision to Leave](http://twitter.com/search?q=Decision+to+Leave) | Decision to Leave is a phrase used to describe the act of making a conscious choice to end a relationship, job, or other situation. It is often used in the context of someone deciding to leave a job or relationship due to dissatisfaction or unhappiness. |
-| 32 | [Bambi](http://twitter.com/search?q=Bambi) | N/A |
-| 33 | [smcu episode 3 teaser](http://twitter.com/search?q=smcu+episode+3+teaser) | N/A |
-| 34 | [PJM1 IN MARCH](http://twitter.com/search?q=PJM1+IN+MARCH) | N/A |
-| 35 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 36 | [Permentilla](http://twitter.com/search?q=Permentilla) | N/A |
-| 37 | [ive in manila](http://twitter.com/search?q=ive+in+manila) | N/A |
-| 38 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 39 | [Enna](http://twitter.com/search?q=Enna) | Enna is a city in Sicily, Italy. In English, it means "here". |
-| 40 | [God Tier](http://twitter.com/search?q=God+Tier) | N/A |
-| 41 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
-| 42 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 43 | [WHERE IS CHANTY MLD](http://twitter.com/search?q=WHERE+IS+CHANTY+MLD) | N/A |
-| 44 | [WELCOME BACK JUSTIN](http://twitter.com/search?q=WELCOME+BACK+JUSTIN) | N/A |
-| 45 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 46 | [UNSTOPPABLE ITZY](http://twitter.com/search?q=UNSTOPPABLE+ITZY) | N/A |
-| 47 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
-| 48 | [THEY NEED TO APOLOGIZE](http://twitter.com/search?q=THEY+NEED+TO+APOLOGIZE) | N/A |
-| 49 | [A'tin](http://twitter.com/search?q=A%27tin) | N/A |
-| 50 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 15 | [Arado](http://twitter.com/search?q=Arado) | N/A |
+| 16 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
+| 17 | [Chery](http://twitter.com/search?q=Chery) | N/A |
+| 18 | [certipied alpha boys](http://twitter.com/search?q=certipied+alpha+boys) | N/A |
+| 19 | [here i come](http://twitter.com/search?q=here+i+come) | N/A |
+| 20 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 21 | [the boyz roar-ing comeback](http://twitter.com/search?q=the+boyz+roar-ing+comeback) | N/A |
+| 22 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 23 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 24 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 25 | [CLOSER MV](http://twitter.com/search?q=CLOSER+MV) | N/A |
+| 26 | [KIM VERIFIED ON IG](http://twitter.com/search?q=KIM+VERIFIED+ON+IG) | N/A |
+| 27 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 28 | [ready for twice](http://twitter.com/search?q=ready+for+twice) | N/A |
+| 29 | [Tubino](http://twitter.com/search?q=Tubino) | N/A |
+| 30 | [raagas](http://twitter.com/search?q=raagas) | N/A |
+| 31 | [happy 8200th days](http://twitter.com/search?q=happy+8200th+days) | N/A |
+| 32 | [Coffee Project](http://twitter.com/search?q=Coffee+Project) | N/A |
+| 33 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 34 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 35 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
+| 36 | [ALJAY TCtrailer REACTION](http://twitter.com/search?q=ALJAY+TCtrailer+REACTION) | N/A |
+| 37 | [Paat](http://twitter.com/search?q=Paat) | N/A |
+| 38 | [smcu episode 3 teaser](http://twitter.com/search?q=smcu+episode+3+teaser) | N/A |
+| 39 | [Permentilla](http://twitter.com/search?q=Permentilla) | N/A |
+| 40 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
+| 41 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
+| 42 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
+| 43 | [God Tier](http://twitter.com/search?q=God+Tier) | N/A |
+| 44 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
+| 45 | [PJM1 IN MARCH](http://twitter.com/search?q=PJM1+IN+MARCH) | N/A |
+| 46 | [JOSH L PIEnomenal VOCAL](http://twitter.com/search?q=JOSH+L+PIEnomenal+VOCAL) | N/A |
+| 47 | [UNSTOPPABLE ITZY](http://twitter.com/search?q=UNSTOPPABLE+ITZY) | N/A |
+| 48 | [Argus](http://twitter.com/search?q=Argus) | N/A |
+| 49 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 50 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
 
 
 
