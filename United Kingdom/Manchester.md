@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manchester
 
-📆 Last Updated: `2023-02-21 12:17:31 UTC`
+📆 Last Updated: `2023-02-21 13:21:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ToriesOut229](http://twitter.com/search?q=%23ToriesOut229) | N/A |
-| 2 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 3 | [Gareth](http://twitter.com/search?q=Gareth) | N/A |
-| 4 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
-| 5 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 6 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
-| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [#NFU23](http://twitter.com/search?q=%23NFU23) | N/A |
-| 9 | [#SwanAlexaKettle](http://twitter.com/search?q=%23SwanAlexaKettle) | N/A |
-| 10 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 11 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 12 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 13 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 14 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 15 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
-| 16 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 17 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 18 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
-| 19 | [Natural History Museum](http://twitter.com/search?q=Natural+History+Museum) | N/A |
-| 20 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 21 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 22 | [Crete](http://twitter.com/search?q=Crete) | N/A |
-| 23 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 24 | [The West](http://twitter.com/search?q=The+West) | N/A |
-| 25 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 26 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 27 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 28 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 29 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 30 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 31 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 32 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 33 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 34 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 35 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 36 | [Bulley](http://twitter.com/search?q=Bulley) | N/A |
-| 37 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 38 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 39 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 40 | [#MHNursesDay](http://twitter.com/search?q=%23MHNursesDay) | N/A |
-| 41 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 42 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 43 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 44 | [#elevenseshour](http://twitter.com/search?q=%23elevenseshour) | N/A |
-| 45 | [#CharityTuesday](http://twitter.com/search?q=%23CharityTuesday) | N/A |
-| 46 | [#4DayWeek](http://twitter.com/search?q=%234DayWeek) | N/A |
-| 47 | [#SmallTalkSavesLives](http://twitter.com/search?q=%23SmallTalkSavesLives) | N/A |
-| 48 | [#MutoFinal](http://twitter.com/search?q=%23MutoFinal) | N/A |
-| 49 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 50 | [#MentalHealthNursesDay](http://twitter.com/search?q=%23MentalHealthNursesDay) | N/A |
+| 1 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 2 | [#CharityTuesday](http://twitter.com/search?q=%23CharityTuesday) | N/A |
+| 3 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 4 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
+| 5 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 6 | [Gareth](http://twitter.com/search?q=Gareth) | N/A |
+| 7 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 8 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
+| 9 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 11 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 12 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 13 | [#NFU23](http://twitter.com/search?q=%23NFU23) | N/A |
+| 14 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 15 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 17 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 18 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 19 | [West Cork](http://twitter.com/search?q=West+Cork) | N/A |
+| 20 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
+| 21 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
+| 22 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 23 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 24 | [Natural History Museum](http://twitter.com/search?q=Natural+History+Museum) | N/A |
+| 25 | [Crete](http://twitter.com/search?q=Crete) | N/A |
+| 26 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 27 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 28 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 29 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
+| 30 | [The West](http://twitter.com/search?q=The+West) | N/A |
+| 31 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 32 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 33 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 34 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 35 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 36 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 37 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 38 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 39 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 40 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 41 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 42 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
+| 43 | [Bulley](http://twitter.com/search?q=Bulley) | N/A |
+| 44 | [#MHNursesDay](http://twitter.com/search?q=%23MHNursesDay) | N/A |
+| 45 | [#swanalexakettle](http://twitter.com/search?q=%23swanalexakettle) | N/A |
+| 46 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 47 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 48 | [#MotherLanguageDay](http://twitter.com/search?q=%23MotherLanguageDay) | N/A |
+| 49 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 50 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
 
 
 

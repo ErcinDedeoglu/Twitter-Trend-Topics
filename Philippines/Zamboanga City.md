@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-21 12:17:56 UTC`
+📆 Last Updated: `2023-02-21 13:21:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,44 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
-| 2 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
-| 3 | [#FelipOnSoundtrip_DrinkSmoke](http://twitter.com/search?q=%23FelipOnSoundtrip_DrinkSmoke) | N/A |
-| 4 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 5 | [#OurMiracleWendyDay](http://twitter.com/search?q=%23OurMiracleWendyDay) | N/A |
-| 6 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 7 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 1 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
+| 2 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 3 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 4 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
+| 5 | [#FelipOnSoundtrip_DrinkSmoke](http://twitter.com/search?q=%23FelipOnSoundtrip_DrinkSmoke) | N/A |
+| 6 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
+| 7 | [#MariaClaraAtIbarra](http://twitter.com/search?q=%23MariaClaraAtIbarra) | N/A |
 | 8 | [VIVOREE MATAPANG THIS FRI](http://twitter.com/search?q=VIVOREE+MATAPANG+THIS+FRI) | N/A |
-| 9 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 10 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
-| 11 | [GQ KOREA X JEONGYEON](http://twitter.com/search?q=GQ+KOREA+X+JEONGYEON) | N/A |
-| 12 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 13 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
-| 14 | [arado](http://twitter.com/search?q=arado) | N/A |
-| 15 | [READY TO BE AMAZED](http://twitter.com/search?q=READY+TO+BE+AMAZED) | N/A |
-| 16 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
-| 17 | [Chery](http://twitter.com/search?q=Chery) | N/A |
-| 18 | [certipied alpha boys](http://twitter.com/search?q=certipied+alpha+boys) | N/A |
-| 19 | [here i come](http://twitter.com/search?q=here+i+come) | N/A |
-| 20 | [the boyz roar-ing comeback](http://twitter.com/search?q=the+boyz+roar-ing+comeback) | N/A |
-| 21 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 22 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 23 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 24 | [CLOSER MV](http://twitter.com/search?q=CLOSER+MV) | N/A |
-| 25 | [KIM VERIFIED ON IG](http://twitter.com/search?q=KIM+VERIFIED+ON+IG) | N/A |
-| 26 | [ready for twice](http://twitter.com/search?q=ready+for+twice) | N/A |
-| 27 | [Tubino](http://twitter.com/search?q=Tubino) | N/A |
-| 28 | [raagas](http://twitter.com/search?q=raagas) | N/A |
-| 29 | [happy 8200th days](http://twitter.com/search?q=happy+8200th+days) | N/A |
-| 30 | [Coffee Project](http://twitter.com/search?q=Coffee+Project) | N/A |
-| 31 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 32 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 33 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 34 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
-| 35 | [ALJAY TCtrailer REACTION](http://twitter.com/search?q=ALJAY+TCtrailer+REACTION) | N/A |
-| 36 | [smcu episode 3 teaser](http://twitter.com/search?q=smcu+episode+3+teaser) | N/A |
-| 37 | [Permentilla](http://twitter.com/search?q=Permentilla) | N/A |
-| 38 | [READY TO BE IS COMING](http://twitter.com/search?q=READY+TO+BE+IS+COMING) | N/A |
-| 39 | [Cobb](http://twitter.com/search?q=Cobb) | Cobb is a surname of English origin. It is derived from the Old English word cob, meaning "lump" or "rounded hill". The name was originally given to someone who lived near a rounded hill or lump. |
-| 40 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
-| 41 | [God Tier](http://twitter.com/search?q=God+Tier) | N/A |
-| 42 | [PJM1 IN MARCH](http://twitter.com/search?q=PJM1+IN+MARCH) | N/A |
-| 43 | [UNSTOPPABLE ITZY](http://twitter.com/search?q=UNSTOPPABLE+ITZY) | N/A |
-| 44 | [Argus](http://twitter.com/search?q=Argus) | N/A |
-| 45 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 46 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
-| 47 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 48 | [EXO COMEBACK](http://twitter.com/search?q=EXO+COMEBACK) | EXO COMEBACK is a term used to refer to the return of the South Korean-Chinese boy band EXO. It is used to express excitement and anticipation for the group's return after a period of absence from the music scene. In English, it can be translated as "EXO is coming back!" |
-| 49 | [WELCOME BACK JUSTIN](http://twitter.com/search?q=WELCOME+BACK+JUSTIN) | N/A |
+| 9 | [Arado](http://twitter.com/search?q=Arado) | N/A |
+| 10 | [Chery](http://twitter.com/search?q=Chery) | N/A |
+| 11 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
+| 12 | [GQ KOREA X JEONGYEON](http://twitter.com/search?q=GQ+KOREA+X+JEONGYEON) | N/A |
+| 13 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
+| 14 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 15 | [Crisostomo](http://twitter.com/search?q=Crisostomo) | N/A |
+| 16 | [Closer MV](http://twitter.com/search?q=Closer+MV) | N/A |
+| 17 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 18 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 19 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 20 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 21 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 22 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 23 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
+| 24 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 25 | [Kath](http://twitter.com/search?q=Kath) | N/A |
+| 26 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
+| 27 | [#FPJBQSupremo](http://twitter.com/search?q=%23FPJBQSupremo) | N/A |
+| 28 | [#DreamChasersTuesDate](http://twitter.com/search?q=%23DreamChasersTuesDate) | N/A |
+| 29 | [#MCGIFaithHopeLove](http://twitter.com/search?q=%23MCGIFaithHopeLove) | N/A |
+| 30 | [#askBarbie](http://twitter.com/search?q=%23askBarbie) | N/A |
+| 31 | [#physical100](http://twitter.com/search?q=%23physical100) | N/A |
+| 32 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 33 | [#TeddyBear1stWin](http://twitter.com/search?q=%23TeddyBear1stWin) | N/A |
+| 34 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 35 | [#2gether3years](http://twitter.com/search?q=%232gether3years) | N/A |
+| 36 | [#JAHiking](http://twitter.com/search?q=%23JAHiking) | N/A |
+| 37 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
+| 38 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
 
 
 

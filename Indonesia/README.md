@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-21 12:18:18 UTC`
+📆 Last Updated: `2023-02-21 13:21:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Indonesia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Beningsskincare](http://twitter.com/search?q=%23Beningsskincare) | N/A |
-| 2 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
+| 2 | [#HelloAgainCello](http://twitter.com/search?q=%23HelloAgainCello) | N/A |
 | 3 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
-| 4 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
-| 5 | [#BiothermxJeff](http://twitter.com/search?q=%23BiothermxJeff) | N/A |
-| 6 | [HBD Win Metawin](http://twitter.com/search?q=HBD+Win+Metawin) | N/A |
-| 7 | [Matiin](http://twitter.com/search?q=Matiin) | N/A |
-| 8 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 9 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 10 | [WEEKENDER](http://twitter.com/search?q=WEEKENDER) | N/A |
-| 11 | [Kusuka](http://twitter.com/search?q=Kusuka) | N/A |
-| 12 | [SN MARCH JAPAN DEBUT](http://twitter.com/search?q=SN+MARCH+JAPAN+DEBUT) | N/A |
-| 13 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 14 | [Cabut](http://twitter.com/search?q=Cabut) | N/A |
-| 15 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [Piper](http://twitter.com/search?q=Piper) | N/A |
-| 18 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
-| 19 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
-| 20 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
-| 21 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 4 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
+| 5 | [Bryan Domani](http://twitter.com/search?q=Bryan+Domani) | N/A |
+| 6 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 7 | [#AcneFreeUniverse](http://twitter.com/search?q=%23AcneFreeUniverse) | N/A |
+| 8 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
+| 9 | [WEEKENDER](http://twitter.com/search?q=WEEKENDER) | N/A |
+| 10 | [Matiin](http://twitter.com/search?q=Matiin) | N/A |
+| 11 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
+| 12 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 13 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 14 | [Kusuka](http://twitter.com/search?q=Kusuka) | N/A |
+| 15 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 16 | [HBD Win Metawin](http://twitter.com/search?q=HBD+Win+Metawin) | N/A |
+| 17 | [SN MARCH JAPAN DEBUT](http://twitter.com/search?q=SN+MARCH+JAPAN+DEBUT) | N/A |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 20 | [Babah](http://twitter.com/search?q=Babah) | N/A |
+| 21 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
 | 22 | [Papua Pegunungan](http://twitter.com/search?q=Papua+Pegunungan) | N/A |
-| 23 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 24 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 25 | [UKK Bacaleg DPR RI PKB](http://twitter.com/search?q=UKK+Bacaleg+DPR+RI+PKB) | N/A |
-| 26 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
-| 27 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 28 | [Tan Malaka](http://twitter.com/search?q=Tan+Malaka) | N/A |
-| 29 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
-| 30 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
-| 31 | [Pemilu 2024](http://twitter.com/search?q=Pemilu+2024) | N/A |
-| 32 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 23 | [Cabut](http://twitter.com/search?q=Cabut) | N/A |
+| 24 | [Piper](http://twitter.com/search?q=Piper) | N/A |
+| 25 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 26 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
+| 27 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
+| 28 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 29 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
+| 30 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
+| 31 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 32 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
 | 33 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 34 | [EXO COMEBACK](http://twitter.com/search?q=EXO+COMEBACK) | EXO COMEBACK is a term used to refer to the return of the South Korean-Chinese boy band EXO. It is used to express excitement and anticipation for the group's return after a period of absence from the music scene. In English, it can be translated as "EXO is coming back!" |
-| 35 | [#UntukBumiUntukNanti](http://twitter.com/search?q=%23UntukBumiUntukNanti) | N/A |
-| 36 | [#TeddyBear1stWin](http://twitter.com/search?q=%23TeddyBear1stWin) | N/A |
-| 37 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 38 | [#SOOBIN](http://twitter.com/search?q=%23SOOBIN) | N/A |
-| 39 | [#SHOHEI](http://twitter.com/search?q=%23SHOHEI) | N/A |
-| 40 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
-| 41 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
-| 42 | [#SetoOut](http://twitter.com/search?q=%23SetoOut) | N/A |
-| 43 | [#GusMuhaiminIskandar](http://twitter.com/search?q=%23GusMuhaiminIskandar) | N/A |
-| 44 | [#XLKejutanKeluarga](http://twitter.com/search?q=%23XLKejutanKeluarga) | N/A |
-| 45 | [#GerindraRasis](http://twitter.com/search?q=%23GerindraRasis) | N/A |
-| 46 | [#WeAreMore](http://twitter.com/search?q=%23WeAreMore) | N/A |
-| 47 | [#ashelasa](http://twitter.com/search?q=%23ashelasa) | N/A |
-| 48 | [#HUTBCA66](http://twitter.com/search?q=%23HUTBCA66) | N/A |
-| 49 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
-| 50 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 34 | [DPR RI](http://twitter.com/search?q=DPR+RI) | N/A |
+| 35 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
+| 36 | [exo comeback](http://twitter.com/search?q=exo+comeback) | N/A |
+| 37 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
+| 38 | [#BiothermxJeff](http://twitter.com/search?q=%23BiothermxJeff) | N/A |
+| 39 | [#UntukBumiUntukNanti](http://twitter.com/search?q=%23UntukBumiUntukNanti) | N/A |
+| 40 | [#SOOBIN](http://twitter.com/search?q=%23SOOBIN) | N/A |
+| 41 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
+| 42 | [#ZeeNunewXVamino](http://twitter.com/search?q=%23ZeeNunewXVamino) | N/A |
+| 43 | [#YEONJUN](http://twitter.com/search?q=%23YEONJUN) | N/A |
+| 44 | [#TeddyBear1stWin](http://twitter.com/search?q=%23TeddyBear1stWin) | N/A |
+| 45 | [#BEOMGYU](http://twitter.com/search?q=%23BEOMGYU) | N/A |
+| 46 | [#SHOHEI](http://twitter.com/search?q=%23SHOHEI) | N/A |
+| 47 | [#SetoOut](http://twitter.com/search?q=%23SetoOut) | N/A |
+| 48 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 49 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
+| 50 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
 
 
 

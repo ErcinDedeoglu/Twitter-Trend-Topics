@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-02-21 12:17:49 UTC`
+📆 Last Updated: `2023-02-21 13:21:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [semua di dekade 08](http://twitter.com/search?q=semua+di+dekade+08) | N/A |
-| 2 | [prabowo makin dipilih](http://twitter.com/search?q=prabowo+makin+dipilih) | N/A |
-| 3 | [setuju mending prabowo](http://twitter.com/search?q=setuju+mending+prabowo) | N/A |
-| 4 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 5 | [#Beningsskincare](http://twitter.com/search?q=%23Beningsskincare) | N/A |
-| 6 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
-| 7 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
-| 8 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
-| 9 | [#BiothermxJeff](http://twitter.com/search?q=%23BiothermxJeff) | N/A |
+| 1 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 2 | [#Beningsskincare](http://twitter.com/search?q=%23Beningsskincare) | N/A |
+| 3 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
+| 4 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
+| 5 | [Bryan Domani](http://twitter.com/search?q=Bryan+Domani) | N/A |
+| 6 | [#HelloAgainCello](http://twitter.com/search?q=%23HelloAgainCello) | N/A |
+| 7 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 8 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
+| 9 | [WEEKENDER](http://twitter.com/search?q=WEEKENDER) | N/A |
 | 10 | [Matiin](http://twitter.com/search?q=Matiin) | N/A |
-| 11 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 11 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
 | 12 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 13 | [HBD Win Metawin](http://twitter.com/search?q=HBD+Win+Metawin) | N/A |
-| 14 | [Kusuka](http://twitter.com/search?q=Kusuka) | N/A |
-| 15 | [WEEKENDER](http://twitter.com/search?q=WEEKENDER) | N/A |
-| 16 | [SN MARCH JAPAN DEBUT](http://twitter.com/search?q=SN+MARCH+JAPAN+DEBUT) | N/A |
-| 17 | [Derry](http://twitter.com/search?q=Derry) | N/A |
-| 18 | [Cabut](http://twitter.com/search?q=Cabut) | N/A |
-| 19 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 21 | [Piper](http://twitter.com/search?q=Piper) | N/A |
-| 22 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
-| 23 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
-| 24 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
-| 25 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 26 | [Papua Pegunungan](http://twitter.com/search?q=Papua+Pegunungan) | N/A |
-| 27 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 28 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
-| 29 | [UKK Bacaleg DPR RI PKB](http://twitter.com/search?q=UKK+Bacaleg+DPR+RI+PKB) | N/A |
-| 30 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 31 | [Tan Malaka](http://twitter.com/search?q=Tan+Malaka) | N/A |
-| 32 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
-| 33 | [Pemilu 2024](http://twitter.com/search?q=Pemilu+2024) | N/A |
-| 34 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 35 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 36 | [EXO COMEBACK](http://twitter.com/search?q=EXO+COMEBACK) | EXO COMEBACK is a term used to refer to the return of the South Korean-Chinese boy band EXO. It is used to express excitement and anticipation for the group's return after a period of absence from the music scene. In English, it can be translated as "EXO is coming back!" |
-| 37 | [#UntukBumiUntukNanti](http://twitter.com/search?q=%23UntukBumiUntukNanti) | N/A |
-| 38 | [#TeddyBear1stWin](http://twitter.com/search?q=%23TeddyBear1stWin) | N/A |
-| 39 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 40 | [#SHOHEI](http://twitter.com/search?q=%23SHOHEI) | N/A |
-| 41 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
-| 42 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
-| 43 | [#SetoOut](http://twitter.com/search?q=%23SetoOut) | N/A |
-| 44 | [#GusMuhaiminIskandar](http://twitter.com/search?q=%23GusMuhaiminIskandar) | N/A |
-| 45 | [#XLKejutanKeluarga](http://twitter.com/search?q=%23XLKejutanKeluarga) | N/A |
-| 46 | [#GerindraRasis](http://twitter.com/search?q=%23GerindraRasis) | N/A |
-| 47 | [#WeAreMore](http://twitter.com/search?q=%23WeAreMore) | N/A |
-| 48 | [#ashelasa](http://twitter.com/search?q=%23ashelasa) | N/A |
-| 49 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
-| 50 | [#HUTBCA66](http://twitter.com/search?q=%23HUTBCA66) | N/A |
+| 13 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 14 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 15 | [Kusuka](http://twitter.com/search?q=Kusuka) | N/A |
+| 16 | [HBD Win Metawin](http://twitter.com/search?q=HBD+Win+Metawin) | N/A |
+| 17 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [SN MARCH JAPAN DEBUT](http://twitter.com/search?q=SN+MARCH+JAPAN+DEBUT) | N/A |
+| 20 | [Babah](http://twitter.com/search?q=Babah) | N/A |
+| 21 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 22 | [Piper](http://twitter.com/search?q=Piper) | N/A |
+| 23 | [Cabut](http://twitter.com/search?q=Cabut) | N/A |
+| 24 | [Papua Pegunungan](http://twitter.com/search?q=Papua+Pegunungan) | N/A |
+| 25 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 26 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
+| 27 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
+| 28 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 29 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
+| 30 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
+| 31 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 32 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 33 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
+| 34 | [DPR RI](http://twitter.com/search?q=DPR+RI) | N/A |
+| 35 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
+| 36 | [Pemilu 2024](http://twitter.com/search?q=Pemilu+2024) | N/A |
+| 37 | [exo comeback](http://twitter.com/search?q=exo+comeback) | N/A |
+| 38 | [#AcneFreeUniverse](http://twitter.com/search?q=%23AcneFreeUniverse) | N/A |
+| 39 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
+| 40 | [#BiothermxJeff](http://twitter.com/search?q=%23BiothermxJeff) | N/A |
+| 41 | [#UntukBumiUntukNanti](http://twitter.com/search?q=%23UntukBumiUntukNanti) | N/A |
+| 42 | [#SOOBIN](http://twitter.com/search?q=%23SOOBIN) | N/A |
+| 43 | [#YEONJUN](http://twitter.com/search?q=%23YEONJUN) | N/A |
+| 44 | [#TeddyBear1stWin](http://twitter.com/search?q=%23TeddyBear1stWin) | N/A |
+| 45 | [#BEOMGYU](http://twitter.com/search?q=%23BEOMGYU) | N/A |
+| 46 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 47 | [#SHOHEI](http://twitter.com/search?q=%23SHOHEI) | N/A |
+| 48 | [#SetoOut](http://twitter.com/search?q=%23SetoOut) | N/A |
+| 49 | [#UCLxWINLIVE4D](http://twitter.com/search?q=%23UCLxWINLIVE4D) | N/A |
+| 50 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
 
 
 

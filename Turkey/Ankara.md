@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-02-21 12:18:06 UTC`
+📆 Last Updated: `2023-02-21 13:21:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Devlet Millet El Ele](http://twitter.com/search?q=Devlet+Millet+El+Ele) | N/A |
-| 2 | [Geçmişin İlacıAf](http://twitter.com/search?q=Ge%c3%a7mi%c5%9fin+%c4%b0lac%c4%b1Af) | N/A |
-| 3 | [#DEPREMANI](http://twitter.com/search?q=%23DEPREMANI) | N/A |
-| 4 | [#Hatay](http://twitter.com/search?q=%23Hatay) | #Hatay is a province in southern Turkey, located on the Mediterranean coast. The name Hatay is derived from the ancient Hittite Empire, and it means "the land of the Hittites". In English, Hatay translates to "land of the Hittites". |
-| 5 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
-| 6 | [Biliniyo](http://twitter.com/search?q=Biliniyo) | Biliniyo is a term used in the Yoruba language of Nigeria, and it means "friendship". |
-| 7 | [#VekillerTBMMne](http://twitter.com/search?q=%23VekillerTBMMne) | N/A |
-| 8 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
-| 9 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 10 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 11 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 12 | [asılsız ihbar](http://twitter.com/search?q=as%c4%b1ls%c4%b1z+ihbar) | N/A |
+| 1 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
+| 2 | [#galeriakurtarılmayıbekliyor](http://twitter.com/search?q=%23galeriakurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
+| 3 | [Devlet Millet El Ele](http://twitter.com/search?q=Devlet+Millet+El+Ele) | N/A |
+| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 5 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
+| 6 | [Geçmişin İlacıAf](http://twitter.com/search?q=Ge%c3%a7mi%c5%9fin+%c4%b0lac%c4%b1Af) | N/A |
+| 7 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
+| 8 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
+| 9 | [Arap Levhası](http://twitter.com/search?q=Arap+Levhas%c4%b1) | N/A |
+| 10 | [#KılıçdaroğluNeSöyledi](http://twitter.com/search?q=%23K%c4%b1l%c4%b1%c3%a7daro%c4%9fluNeS%c3%b6yledi) | N/A |
+| 11 | [Üsluba](http://twitter.com/search?q=%c3%9csluba) | N/A |
+| 12 | [#kiralaraDURdeyin](http://twitter.com/search?q=%23kiralaraDURdeyin) | N/A |
 | 13 | [Değildir](http://twitter.com/search?q=De%c4%9fildir) | N/A |
 | 14 | [Taner Savut](http://twitter.com/search?q=Taner+Savut) | N/A |
-| 15 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
-| 16 | [Artçı](http://twitter.com/search?q=Art%c3%a7%c4%b1) | Artçı is a Turkish word that means "artisan" or "craftsman". It is used to refer to someone who is skilled in a particular craft or trade. |
-| 17 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 18 | [Naci Görür](http://twitter.com/search?q=Naci+G%c3%b6r%c3%bcr) | N/A |
-| 19 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
-| 20 | [Çarşı](http://twitter.com/search?q=%c3%87ar%c5%9f%c4%b1) | N/A |
-| 21 | [Depremin 15](http://twitter.com/search?q=Depremin+15) | N/A |
-| 22 | [Metafazik](http://twitter.com/search?q=Metafazik) | N/A |
-| 23 | [İyiyiz](http://twitter.com/search?q=%c4%b0yiyiz) | N/A |
-| 24 | [Diyanet'ten Fatih Altaylı](http://twitter.com/search?q=Diyanet%27ten+Fatih+Altayl%c4%b1) | N/A |
-| 25 | [Kaderden](http://twitter.com/search?q=Kaderden) | N/A |
-| 26 | [Furkan](http://twitter.com/search?q=Furkan) | N/A |
-| 27 | [Kıbrıs](http://twitter.com/search?q=K%c4%b1br%c4%b1s) | N/A |
-| 28 | [Danla](http://twitter.com/search?q=Danla) | N/A |
-| 29 | [Hilal Kaplan](http://twitter.com/search?q=Hilal+Kaplan) | N/A |
-| 30 | [Melik](http://twitter.com/search?q=Melik) | N/A |
-| 31 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
-| 32 | [türkiye'den suriye'ye](http://twitter.com/search?q=t%c3%bcrkiye%27den+suriye%27ye) | N/A |
-| 33 | [Refik Eryılmaz](http://twitter.com/search?q=Refik+Ery%c4%b1lmaz) | N/A |
-| 34 | [hüseyin cimşit](http://twitter.com/search?q=h%c3%bcseyin+cim%c5%9fit) | N/A |
-| 35 | [Kalyon](http://twitter.com/search?q=Kalyon) | N/A |
-| 36 | [Memur](http://twitter.com/search?q=Memur) | N/A |
-| 37 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
-| 38 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
-| 39 | [Kahta](http://twitter.com/search?q=Kahta) | N/A |
-| 40 | [Doğum](http://twitter.com/search?q=Do%c4%9fum) | N/A |
-| 41 | [Celal Şengör](http://twitter.com/search?q=Celal+%c5%9eeng%c3%b6r) | N/A |
-| 42 | [Bilim](http://twitter.com/search?q=Bilim) | N/A |
-| 43 | [Serkan](http://twitter.com/search?q=Serkan) | N/A |
-| 44 | [Birlikte Aşacağız](http://twitter.com/search?q=Birlikte+A%c5%9faca%c4%9f%c4%b1z) | N/A |
-| 45 | [Marmara'da 7,6](http://twitter.com/search?q=Marmara%27da+7%2c6) | N/A |
-| 46 | [Adem Metan](http://twitter.com/search?q=Adem+Metan) | N/A |
-| 47 | [Kuran](http://twitter.com/search?q=Kuran) | N/A |
-| 48 | [Osman Bilgin](http://twitter.com/search?q=Osman+Bilgin) | N/A |
-| 49 | [İzmir Marşı](http://twitter.com/search?q=%c4%b0zmir+Mar%c5%9f%c4%b1) | N/A |
+| 15 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
+| 16 | [Melik](http://twitter.com/search?q=Melik) | N/A |
+| 17 | [Rusya](http://twitter.com/search?q=Rusya) | N/A |
+| 18 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
+| 19 | [Metafazik](http://twitter.com/search?q=Metafazik) | N/A |
+| 20 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 21 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 22 | [Beyaz TV](http://twitter.com/search?q=Beyaz+TV) | N/A |
+| 23 | [Japonlar](http://twitter.com/search?q=Japonlar) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 26 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
+| 27 | [Danla](http://twitter.com/search?q=Danla) | N/A |
+| 28 | [ukrayna](http://twitter.com/search?q=ukrayna) | N/A |
+| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 30 | [Kalyon](http://twitter.com/search?q=Kalyon) | N/A |
+| 31 | [Avukat](http://twitter.com/search?q=Avukat) | N/A |
+| 32 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 33 | [Memur](http://twitter.com/search?q=Memur) | N/A |
+| 34 | [#yanlıskarar](http://twitter.com/search?q=%23yanl%c4%b1skarar) | N/A |
+| 35 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
+| 36 | [#smrtg](http://twitter.com/search?q=%23smrtg) | N/A |
+| 37 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
+| 38 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
+| 39 | [#samandag](http://twitter.com/search?q=%23samandag) | N/A |
+| 40 | [#hataydefne](http://twitter.com/search?q=%23hataydefne) | N/A |
+| 41 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
+| 42 | [#VekilerTBMMne](http://twitter.com/search?q=%23VekilerTBMMne) | N/A |
+| 43 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
+| 44 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
+| 45 | [#CadırlarNerede](http://twitter.com/search?q=%23Cad%c4%b1rlarNerede) | N/A |
+| 46 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
+| 47 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
 
 
 

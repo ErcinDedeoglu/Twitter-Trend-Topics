@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-02-21 12:18:13 UTC`
+📆 Last Updated: `2023-02-21 13:21:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,48 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
 | 2 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 3 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 4 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 5 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 6 | [#FatTuesday](http://twitter.com/search?q=%23FatTuesday) | N/A |
-| 7 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 8 | [Wordle 612 X](http://twitter.com/search?q=Wordle+612+X) | N/A |
-| 9 | [#MutoFinal](http://twitter.com/search?q=%23MutoFinal) | N/A |
-| 10 | [#paczkiday](http://twitter.com/search?q=%23paczkiday) | N/A |
-| 11 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 12 | [#noah_ghc](http://twitter.com/search?q=%23noah_ghc) | #noah_ghc is a hashtag used on Twitter to refer to the Noah GHC project, which is an open source project for creating a Haskell compiler. The hashtag is used to share news and updates about the project, as well as to discuss related topics. |
-| 13 | [Kazuya](http://twitter.com/search?q=Kazuya) | N/A |
-| 14 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
-| 15 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 16 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 17 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
-| 18 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 19 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 20 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 21 | [O'Keefe](http://twitter.com/search?q=O%27Keefe) | N/A |
-| 22 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
-| 23 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 24 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 25 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
-| 26 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 27 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
-| 28 | [dominic fike](http://twitter.com/search?q=dominic+fike) | N/A |
-| 29 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 30 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 31 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 32 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 33 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 34 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 35 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 36 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 37 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 38 | [#bereft](http://twitter.com/search?q=%23bereft) | N/A |
-| 39 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
-| 40 | [#WasAHugeMistake](http://twitter.com/search?q=%23WasAHugeMistake) | N/A |
-| 41 | [#StyleOfThieves](http://twitter.com/search?q=%23StyleOfThieves) | N/A |
-| 42 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 43 | [#BelowDeck](http://twitter.com/search?q=%23BelowDeck) | N/A |
-| 44 | [#SUGA](http://twitter.com/search?q=%23SUGA) | #SUGA is the nickname of Min Yoongi, a South Korean rapper and member of the K-pop group BTS. The acronym stands for "Shooting Yoongi Unstoppable Greatness Achiever". |
+| 3 | [#FatTuesday](http://twitter.com/search?q=%23FatTuesday) | N/A |
+| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 6 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 7 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 8 | [#paczkiday](http://twitter.com/search?q=%23paczkiday) | N/A |
+| 9 | [Wordle 612 X](http://twitter.com/search?q=Wordle+612+X) | N/A |
+| 10 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 11 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
+| 12 | [#TacoTuesday](http://twitter.com/search?q=%23TacoTuesday) | N/A |
+| 13 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
+| 14 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 15 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
+| 16 | [Kazuya](http://twitter.com/search?q=Kazuya) | N/A |
+| 17 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 18 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
+| 19 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 20 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 21 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
+| 22 | [King Cake](http://twitter.com/search?q=King+Cake) | N/A |
+| 23 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 24 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 25 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 26 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 27 | [McCoy](http://twitter.com/search?q=McCoy) | N/A |
+| 28 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 29 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 30 | [Section 230](http://twitter.com/search?q=Section+230) | N/A |
+| 31 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 32 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 33 | [Osteen](http://twitter.com/search?q=Osteen) | N/A |
+| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 35 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 36 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
+| 37 | [lita](http://twitter.com/search?q=lita) | N/A |
+| 38 | [O’Keefe](http://twitter.com/search?q=O%e2%80%99Keefe) | N/A |
+| 39 | [Treasonous](http://twitter.com/search?q=Treasonous) | N/A |
+| 40 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 41 | [dominic fike](http://twitter.com/search?q=dominic+fike) | N/A |
+| 42 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 43 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 44 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 45 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 46 | [#TuesdayThoughts](http://twitter.com/search?q=%23TuesdayThoughts) | N/A |
+| 47 | [#MardiGras2023](http://twitter.com/search?q=%23MardiGras2023) | N/A |
+| 48 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 49 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 50 | [#VA04](http://twitter.com/search?q=%23VA04) | N/A |
 
 
 
