@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-21 06:18:32 UTC`
+📆 Last Updated: `2023-02-21 07:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Romo](http://twitter.com/search?q=Romo) | Romo is a robotic toy that can be programmed to interact with its environment. It has sensors and motors that allow it to move, respond to touch, and recognize objects. The word "Romo" is derived from the words "Robot" and "Mobile". |
-| 2 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 3 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 4 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
-| 5 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
-| 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 7 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 8 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 9 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 10 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 11 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 12 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 13 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 14 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 15 | [#WasAHugeMistake](http://twitter.com/search?q=%23WasAHugeMistake) | N/A |
+| 1 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 2 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
+| 3 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 4 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 5 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 6 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 7 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
+| 8 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 9 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 10 | [#WasAHugeMistake](http://twitter.com/search?q=%23WasAHugeMistake) | N/A |
+| 11 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 12 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 13 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 14 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 15 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
 | 16 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 17 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 18 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 17 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 18 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
 | 19 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 20 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 21 | [Allen Herbert](http://twitter.com/search?q=Allen+Herbert) | N/A |
-| 22 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
-| 23 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 24 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 25 | [McCullar](http://twitter.com/search?q=McCullar) | McCullar is not a word in English. It may be a misspelling of the surname "McCallar," which is an Irish surname derived from the Gaelic Mac Cathmhaoil, meaning "son of Cathmhaoil." |
-| 26 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 27 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 28 | [RJ Melendez](http://twitter.com/search?q=RJ+Melendez) | N/A |
-| 29 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 30 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 31 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 32 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 33 | [Max Duggan](http://twitter.com/search?q=Max+Duggan) | Max Duggan is a name of Irish origin. It is derived from the Gaelic words "mac" meaning "son" and "dubhagain" meaning "dark-haired". The name can be translated to mean "son of the dark-haired one". |
-| 34 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
-| 35 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
-| 36 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 37 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 38 | [Baron Corbin](http://twitter.com/search?q=Baron+Corbin) | Baron Corbin is a professional wrestler currently signed to WWE. His ring name is derived from his real name, Thomas Pestock. The term "Baron" is a title of nobility, while "Corbin" is an old French word meaning "raven". |
-| 39 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 40 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 20 | [Allen Herbert](http://twitter.com/search?q=Allen+Herbert) | N/A |
+| 21 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
+| 22 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 23 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 24 | [Kevin McCullar](http://twitter.com/search?q=Kevin+McCullar) | N/A |
+| 25 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 26 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 27 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 28 | [Max Duggan](http://twitter.com/search?q=Max+Duggan) | Max Duggan is a name of Irish origin. It is derived from the Gaelic words "mac" meaning "son" and "dubhagain" meaning "dark-haired". The name can be translated to mean "son of the dark-haired one". |
+| 29 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
+| 30 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 31 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
+| 32 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 33 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
+| 34 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
+| 35 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 36 | [Ariana DeBose](http://twitter.com/search?q=Ariana+DeBose) | N/A |
+| 37 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 38 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 39 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 40 | [Lando](http://twitter.com/search?q=Lando) | N/A |
 | 41 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 42 | [Damage CTRL](http://twitter.com/search?q=Damage+CTRL) | N/A |
-| 43 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 44 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
-| 45 | [Maryse](http://twitter.com/search?q=Maryse) | N/A |
-| 46 | [Board](http://twitter.com/search?q=Board) | N/A |
-| 47 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 48 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 49 | [Haley Jones](http://twitter.com/search?q=Haley+Jones) | N/A |
-| 50 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 42 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 43 | [Board](http://twitter.com/search?q=Board) | N/A |
+| 44 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 45 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
+| 46 | [Incredibles](http://twitter.com/search?q=Incredibles) | N/A |
+| 47 | [Florian](http://twitter.com/search?q=Florian) | N/A |
+| 48 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 49 | [Fregh](http://twitter.com/search?q=Fregh) | N/A |
+| 50 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
 
 
 

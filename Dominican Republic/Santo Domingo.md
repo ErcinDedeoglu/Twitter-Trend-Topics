@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-21 06:17:36 UTC`
+📆 Last Updated: `2023-02-21 07:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,33 +16,33 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Cristo Rey](http://twitter.com/search?q=Cristo+Rey) | N/A |
-| 2 | [Mapache](http://twitter.com/search?q=Mapache) | N/A |
-| 3 | [John Kelly Martínez](http://twitter.com/search?q=John+Kelly+Mart%c3%adnez) | N/A |
-| 4 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
-| 5 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 6 | [#losrielescambiaconcaasd](http://twitter.com/search?q=%23losrielescambiaconcaasd) | N/A |
-| 7 | [#jornadaverdefp](http://twitter.com/search?q=%23jornadaverdefp) | N/A |
+| 2 | [john kelly martínez](http://twitter.com/search?q=john+kelly+mart%c3%adnez) | N/A |
+| 3 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
+| 4 | [Mapache](http://twitter.com/search?q=Mapache) | N/A |
+| 5 | [#losrielescambiaconcaasd](http://twitter.com/search?q=%23losrielescambiaconcaasd) | N/A |
+| 6 | [#jornadaverdefp](http://twitter.com/search?q=%23jornadaverdefp) | N/A |
+| 7 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 8 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
 | 9 | [guaricanos](http://twitter.com/search?q=guaricanos) | N/A |
 | 10 | [#seguimoscreciendo](http://twitter.com/search?q=%23seguimoscreciendo) | N/A |
 | 11 | [Pantoja](http://twitter.com/search?q=Pantoja) | N/A |
-| 12 | [Lino Rivera](http://twitter.com/search?q=Lino+Rivera) | N/A |
+| 12 | [lino rivera](http://twitter.com/search?q=lino+rivera) | N/A |
 | 13 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
 | 14 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 15 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 17 | [Los Corruptos](http://twitter.com/search?q=Los+Corruptos) | N/A |
+| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 16 | [Los Corruptos](http://twitter.com/search?q=Los+Corruptos) | N/A |
+| 17 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
 | 18 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 19 | [Monte Grande](http://twitter.com/search?q=Monte+Grande) | N/A |
 | 20 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 21 | [Cristina Aguiar](http://twitter.com/search?q=Cristina+Aguiar) | N/A |
+| 21 | [cristina aguiar](http://twitter.com/search?q=cristina+aguiar) | N/A |
 | 22 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
 | 23 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
 | 24 | [Palacio](http://twitter.com/search?q=Palacio) | N/A |
-| 25 | [alofoke](http://twitter.com/search?q=alofoke) | N/A |
+| 25 | [Juan Dolio](http://twitter.com/search?q=Juan+Dolio) | N/A |
 | 26 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
 | 27 | [Mena](http://twitter.com/search?q=Mena) | N/A |
-| 28 | [Juan Dolio](http://twitter.com/search?q=Juan+Dolio) | N/A |
+| 28 | [Alofoke](http://twitter.com/search?q=Alofoke) | N/A |
 | 29 | [zoológico nacional](http://twitter.com/search?q=zool%c3%b3gico+nacional) | N/A |
 | 30 | [Álvarez](http://twitter.com/search?q=%c3%81lvarez) | N/A |
 | 31 | [operación frontera](http://twitter.com/search?q=operaci%c3%b3n+frontera) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 43 | [Caramba](http://twitter.com/search?q=Caramba) | N/A |
 | 44 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
 | 45 | [Machado](http://twitter.com/search?q=Machado) | N/A |
-| 46 | [santo domingo norte](http://twitter.com/search?q=santo+domingo+norte) | N/A |
-| 47 | [el seibo](http://twitter.com/search?q=el+seibo) | N/A |
-| 48 | [Boca Chica](http://twitter.com/search?q=Boca+Chica) | N/A |
+| 46 | [el seibo](http://twitter.com/search?q=el+seibo) | N/A |
+| 47 | [Boca Chica](http://twitter.com/search?q=Boca+Chica) | N/A |
+| 48 | [santo domingo norte](http://twitter.com/search?q=santo+domingo+norte) | N/A |
 | 49 | [plaza de la bandera](http://twitter.com/search?q=plaza+de+la+bandera) | N/A |
-| 50 | [Ministerio de Medio Ambiente](http://twitter.com/search?q=Ministerio+de+Medio+Ambiente) | N/A |
+| 50 | [ministerio de medio ambiente](http://twitter.com/search?q=ministerio+de+medio+ambiente) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-02-21 06:17:50 UTC`
+📆 Last Updated: `2023-02-21 07:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 2 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 3 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 4 | [#rosenmontag](http://twitter.com/search?q=%23rosenmontag) | N/A |
-| 5 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 6 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 7 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
+| 2 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 3 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 4 | [#Rosenmontag](http://twitter.com/search?q=%23Rosenmontag) | N/A |
+| 5 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 6 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
+| 7 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
 | 8 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 9 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
 | 10 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 11 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 14 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 15 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 16 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 11 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
+| 12 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 14 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 15 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
+| 16 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
 | 17 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 18 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 19 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 20 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 21 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
-| 22 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 23 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 24 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 25 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 26 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 27 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 28 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 29 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 30 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 31 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 32 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 33 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 34 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 35 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 36 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
-| 37 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 38 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 39 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 40 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 41 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
-| 42 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 43 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 44 | [strommix](http://twitter.com/search?q=strommix) | N/A |
-| 45 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 46 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 47 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 48 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 49 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 50 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 18 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 19 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 20 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 21 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 22 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 23 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 24 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 25 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 26 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 27 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 28 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 29 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 30 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 31 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 32 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 33 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 34 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
+| 35 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 36 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 37 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 38 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 39 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 40 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 41 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 42 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 43 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 44 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 45 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
+| 46 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 47 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 48 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
+| 49 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 50 | [Iris](http://twitter.com/search?q=Iris) | N/A |
 
 
 

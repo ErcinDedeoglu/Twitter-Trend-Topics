@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-21 06:18:23 UTC`
+📆 Last Updated: `2023-02-21 07:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 1 | [Maureen Pugh](http://twitter.com/search?q=Maureen+Pugh) | N/A |
 | 2 | [Simon Bridges](http://twitter.com/search?q=Simon+Bridges) | N/A |
 | 3 | [Simon Bridges](http://twitter.com/search?q=Simon+Bridges) | N/A |
-| 4 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
-| 5 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
-| 6 | [#nzlvarg](http://twitter.com/search?q=%23nzlvarg) | N/A |
-| 7 | [Chris Hipkins](http://twitter.com/search?q=Chris+Hipkins) | Chris Hipkins is a New Zealand politician who has been the Member of Parliament for Rimutaka since 2008. He is currently the Minister of Education and Leader of the House in the Sixth Labour Government. The name "Chris Hipkins" is derived from his given name, Christopher, and his surname, Hipkins. |
-| 8 | [Te Matatini](http://twitter.com/search?q=Te+Matatini) | N/A |
-| 9 | [Nicola Willis](http://twitter.com/search?q=Nicola+Willis) | N/A |
-| 10 | [#GameDevFashion](http://twitter.com/search?q=%23GameDevFashion) | N/A |
+| 4 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
+| 5 | [#nzlvarg](http://twitter.com/search?q=%23nzlvarg) | N/A |
+| 6 | [Te Matatini](http://twitter.com/search?q=Te+Matatini) | N/A |
+| 7 | [Nicola Willis](http://twitter.com/search?q=Nicola+Willis) | N/A |
+| 8 | [#GameDevFashion](http://twitter.com/search?q=%23GameDevFashion) | N/A |
+| 9 | [Coster](http://twitter.com/search?q=Coster) | N/A |
+| 10 | [Chris Hipkins](http://twitter.com/search?q=Chris+Hipkins) | Chris Hipkins is a New Zealand politician who has been the Member of Parliament for Rimutaka since 2008. He is currently the Minister of Education and Leader of the House in the Sixth Labour Government. The name "Chris Hipkins" is derived from his given name, Christopher, and his surname, Hipkins. |
 | 11 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
-| 12 | [Coster](http://twitter.com/search?q=Coster) | N/A |
-| 13 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 14 | [Hooton](http://twitter.com/search?q=Hooton) | N/A |
-| 15 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 16 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
-| 17 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 18 | [Susie](http://twitter.com/search?q=Susie) | N/A |
-| 19 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
+| 12 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 13 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
+| 14 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
+| 15 | [Nash](http://twitter.com/search?q=Nash) | Nash is a surname of English origin. It is derived from the Middle English phrase atten ash, meaning "at the ash tree". The name is also found in Scotland and Ireland. |
+| 16 | [lorde](http://twitter.com/search?q=lorde) | N/A |
+| 17 | [Hooton](http://twitter.com/search?q=Hooton) | N/A |
+| 18 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 19 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 20 | [Clint](http://twitter.com/search?q=Clint) | N/A |
 | 21 | [Air New Zealand](http://twitter.com/search?q=Air+New+Zealand) | N/A |
-| 22 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
-| 23 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
-| 24 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 22 | [Argentina](http://twitter.com/search?q=Argentina) | Argentina is a country located in South America. Its official name is the Argentine Republic. The name Argentina comes from the Latin word for silver, argentum, which was believed to be found in the country's mountains. |
+| 23 | [Hosking](http://twitter.com/search?q=Hosking) | N/A |
+| 24 | [Susie](http://twitter.com/search?q=Susie) | N/A |
 | 25 | [Lani](http://twitter.com/search?q=Lani) | N/A |
-| 26 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
-| 27 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 29 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
-| 30 | [Craig](http://twitter.com/search?q=Craig) | N/A |
-| 31 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 32 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
-| 33 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 34 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 35 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 36 | [Winston](http://twitter.com/search?q=Winston) | N/A |
-| 37 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
+| 26 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 27 | [Joyce](http://twitter.com/search?q=Joyce) | N/A |
+| 28 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 29 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 30 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
+| 31 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 32 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 33 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 34 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
+| 35 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
+| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 37 | [Craig](http://twitter.com/search?q=Craig) | N/A |
 | 38 | [WINZ](http://twitter.com/search?q=WINZ) | N/A |
 | 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 40 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 41 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 42 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 43 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
-| 44 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
-| 45 | [Bola](http://twitter.com/search?q=Bola) | N/A |
-| 46 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 47 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 48 | [Football Ferns](http://twitter.com/search?q=Football+Ferns) | N/A |
-| 49 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
+| 40 | [Winston](http://twitter.com/search?q=Winston) | N/A |
+| 41 | [Jason](http://twitter.com/search?q=Jason) | Jason is a masculine given name of Greek origin. It is derived from the Greek Ἰάσων (Iásōn), meaning "healer" or "the one who cures". |
+| 42 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 43 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 44 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 45 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 46 | [Bola](http://twitter.com/search?q=Bola) | N/A |
+| 47 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 48 | [Newstalk ZB](http://twitter.com/search?q=Newstalk+ZB) | N/A |
+| 49 | [Liebour](http://twitter.com/search?q=Liebour) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-02-21 06:17:57 UTC`
+📆 Last Updated: `2023-02-21 07:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
-| 2 | [#GusMuhaiminIskandar](http://twitter.com/search?q=%23GusMuhaiminIskandar) | N/A |
-| 3 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 4 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 5 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 6 | [lihat di dekade 08](http://twitter.com/search?q=lihat+di+dekade+08) | N/A |
-| 7 | [nyata mending prabowo](http://twitter.com/search?q=nyata+mending+prabowo) | N/A |
-| 8 | [prabowo kerja terbaik](http://twitter.com/search?q=prabowo+kerja+terbaik) | N/A |
-| 9 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 1 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 2 | [Semua DI Dekade 08](http://twitter.com/search?q=Semua+DI+Dekade+08) | N/A |
+| 3 | [Setuju Mending Prabowo](http://twitter.com/search?q=Setuju+Mending+Prabowo) | N/A |
+| 4 | [Prabowo Makin Dipilih](http://twitter.com/search?q=Prabowo+Makin+Dipilih) | Prabowo Makin Dipilih is an Indonesian phrase that translates to "Prabowo is getting elected". It is a slogan used by supporters of Prabowo Subianto, a former Indonesian military general and politician who ran for president in the 2019 Indonesian presidential election. |
+| 5 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 6 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 7 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
+| 8 | [#GusMuhaiminIskandar](http://twitter.com/search?q=%23GusMuhaiminIskandar) | N/A |
+| 9 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
 | 10 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
-| 11 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
-| 12 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 13 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 14 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
-| 15 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
-| 16 | [EXO COMEBACK](http://twitter.com/search?q=EXO+COMEBACK) | EXO COMEBACK is a term used to refer to the return of the South Korean-Chinese boy band EXO. It is used to express excitement and anticipation for the group's return after a period of absence from the music scene. In English, it can be translated as "EXO is coming back!" |
-| 17 | [Christy](http://twitter.com/search?q=Christy) | N/A |
-| 18 | [DITA DISNEY PRINCESS](http://twitter.com/search?q=DITA+DISNEY+PRINCESS) | N/A |
-| 19 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
-| 20 | [UKK Bacaleg DPR RI PKB](http://twitter.com/search?q=UKK+Bacaleg+DPR+RI+PKB) | N/A |
-| 21 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 22 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 23 | [Jenis Kelamin](http://twitter.com/search?q=Jenis+Kelamin) | N/A |
-| 24 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 11 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
+| 12 | [#SHOHEI](http://twitter.com/search?q=%23SHOHEI) | N/A |
+| 13 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
+| 14 | [UKK Bacaleg DPR RI PKB](http://twitter.com/search?q=UKK+Bacaleg+DPR+RI+PKB) | N/A |
+| 15 | [EXO COMEBACK](http://twitter.com/search?q=EXO+COMEBACK) | EXO COMEBACK is a term used to refer to the return of the South Korean-Chinese boy band EXO. It is used to express excitement and anticipation for the group's return after a period of absence from the music scene. In English, it can be translated as "EXO is coming back!" |
+| 16 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 17 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 18 | [WORLD TOUR](http://twitter.com/search?q=WORLD+TOUR) | N/A |
+| 19 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
+| 20 | [Sunjae](http://twitter.com/search?q=Sunjae) | N/A |
+| 21 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 24 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
 | 25 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 26 | [WORLD TOUR](http://twitter.com/search?q=WORLD+TOUR) | N/A |
-| 27 | [WEB DRAMA](http://twitter.com/search?q=WEB+DRAMA) | N/A |
-| 28 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
-| 29 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 30 | [200mp nightograpy camera](http://twitter.com/search?q=200mp+nightograpy+camera) | N/A |
-| 31 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 32 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
-| 33 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 34 | [Lamaran](http://twitter.com/search?q=Lamaran) | N/A |
-| 35 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
-| 36 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 37 | [Benda Favorite](http://twitter.com/search?q=Benda+Favorite) | N/A |
-| 38 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
-| 39 | [Cikini](http://twitter.com/search?q=Cikini) | N/A |
-| 40 | [Pagar](http://twitter.com/search?q=Pagar) | N/A |
-| 41 | [ready to be is coming](http://twitter.com/search?q=ready+to+be+is+coming) | N/A |
-| 42 | [Size L](http://twitter.com/search?q=Size+L) | N/A |
-| 43 | [Mad x Bon](http://twitter.com/search?q=Mad+x+Bon) | N/A |
-| 44 | [Papua Selatan](http://twitter.com/search?q=Papua+Selatan) | N/A |
-| 45 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 46 | [sambut kebangkitan islam](http://twitter.com/search?q=sambut+kebangkitan+islam) | N/A |
-| 47 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
-| 48 | [HAPPY BIRTHDAY MEWMEW](http://twitter.com/search?q=HAPPY+BIRTHDAY+MEWMEW) | N/A |
+| 26 | [BTOB](http://twitter.com/search?q=BTOB) | N/A |
+| 27 | [Jenis Kelamin](http://twitter.com/search?q=Jenis+Kelamin) | N/A |
+| 28 | [Cikini](http://twitter.com/search?q=Cikini) | N/A |
+| 29 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 30 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
+| 31 | [Size L](http://twitter.com/search?q=Size+L) | N/A |
+| 32 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
+| 33 | [Min Yoongi](http://twitter.com/search?q=Min+Yoongi) | Min Yoongi is the stage name of South Korean rapper, songwriter, and record producer Suga. The name Min Yoongi is a combination of his given name, Min Yoon-gi, and his family name, Suga. In English, it translates to "Suga from the Min family." |
+| 34 | [Ramadhan](http://twitter.com/search?q=Ramadhan) | N/A |
+| 35 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
+| 36 | [#GREply](http://twitter.com/search?q=%23GREply) | N/A |
+| 37 | [#GerindraRasis](http://twitter.com/search?q=%23GerindraRasis) | N/A |
+| 38 | [#PSSday](http://twitter.com/search?q=%23PSSday) | N/A |
+| 39 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 40 | [#DapetReno8TdariShopee](http://twitter.com/search?q=%23DapetReno8TdariShopee) | N/A |
+| 41 | [#HUTBCA66](http://twitter.com/search?q=%23HUTBCA66) | N/A |
+| 42 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
+| 43 | [#ITZY](http://twitter.com/search?q=%23ITZY) | N/A |
+| 44 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 45 | [#32yrsMEWBD](http://twitter.com/search?q=%2332yrsMEWBD) | N/A |
+| 46 | [#RedVelvet](http://twitter.com/search?q=%23RedVelvet) | N/A |
+| 47 | [#NCT런쥔](http://twitter.com/search?q=%23NCT%eb%9f%b0%ec%a5%94) | N/A |
+| 48 | [#BurberryAW23xBright](http://twitter.com/search?q=%23BurberryAW23xBright) | N/A |
+| 49 | [#SecretNumberJapanDebut](http://twitter.com/search?q=%23SecretNumberJapanDebut) | N/A |
 
 
 
