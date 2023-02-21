@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-21 05:16:15 UTC`
+📆 Last Updated: `2023-02-21 06:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Poland](</Poland>)
 | 5 | [Piotrowicza](http://twitter.com/search?q=Piotrowicza) | N/A |
 | 6 | [#GOATsoe](http://twitter.com/search?q=%23GOATsoe) | N/A |
 | 7 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 8 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
-| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 10 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 11 | [Rzeszowa](http://twitter.com/search?q=Rzeszowa) | N/A |
+| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 9 | [#strefastarcia](http://twitter.com/search?q=%23strefastarcia) | N/A |
+| 10 | [Rzeszowa](http://twitter.com/search?q=Rzeszowa) | N/A |
+| 11 | [#POTUS](http://twitter.com/search?q=%23POTUS) | N/A |
 | 12 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 13 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 14 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
-| 15 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 16 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 17 | [libicki](http://twitter.com/search?q=libicki) | N/A |
-| 18 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 19 | [Przemyśla](http://twitter.com/search?q=Przemy%c5%9bla) | N/A |
-| 20 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
-| 21 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 13 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
+| 14 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 15 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 16 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
+| 17 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 18 | [Przemyślu](http://twitter.com/search?q=Przemy%c5%9blu) | N/A |
+| 19 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 20 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
+| 21 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
 | 22 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 23 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 23 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
 | 24 | [Borewicz](http://twitter.com/search?q=Borewicz) | N/A |
-| 25 | [oskar kwiatkowski](http://twitter.com/search?q=oskar+kwiatkowski) | N/A |
-| 26 | [ishaka](http://twitter.com/search?q=ishaka) | N/A |
+| 25 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 26 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
 | 27 | [Kremlu](http://twitter.com/search?q=Kremlu) | N/A |
-| 28 | [Wersow](http://twitter.com/search?q=Wersow) | N/A |
-| 29 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
-| 30 | [Amerykanie](http://twitter.com/search?q=Amerykanie) | N/A |
+| 28 | [wersow](http://twitter.com/search?q=wersow) | N/A |
+| 29 | [Top 5](http://twitter.com/search?q=Top+5) | Top 5 is a phrase used to refer to the five best or most popular items in a particular category. It is commonly used to refer to the five best movies, songs, books, or other items in a given field. |
+| 30 | [kvekve](http://twitter.com/search?q=kvekve) | N/A |
 | 31 | [premier włoch](http://twitter.com/search?q=premier+w%c5%82och) | N/A |
-| 32 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
-| 33 | [zuzanna borucka](http://twitter.com/search?q=zuzanna+borucka) | N/A |
-| 34 | [Marciniak](http://twitter.com/search?q=Marciniak) | N/A |
-| 35 | [steki](http://twitter.com/search?q=steki) | N/A |
+| 32 | [Amerykanie](http://twitter.com/search?q=Amerykanie) | N/A |
+| 33 | [Jasionce](http://twitter.com/search?q=Jasionce) | N/A |
+| 34 | [zuzanna borucka](http://twitter.com/search?q=zuzanna+borucka) | N/A |
+| 35 | [marciniak](http://twitter.com/search?q=marciniak) | N/A |
 | 36 | [Jasionki](http://twitter.com/search?q=Jasionki) | N/A |
-| 37 | [Torre](http://twitter.com/search?q=Torre) | N/A |
-| 38 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 39 | [Moskwą](http://twitter.com/search?q=Moskw%c4%85) | N/A |
-| 40 | [kssip](http://twitter.com/search?q=kssip) | N/A |
-| 41 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
-| 42 | [cbos](http://twitter.com/search?q=cbos) | N/A |
-| 43 | [teatr](http://twitter.com/search?q=teatr) | N/A |
-| 44 | [kraśko](http://twitter.com/search?q=kra%c5%9bko) | N/A |
-| 45 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
-| 46 | [Mejza](http://twitter.com/search?q=Mejza) | N/A |
-| 47 | [marsz niepodległości](http://twitter.com/search?q=marsz+niepodleg%c5%82o%c5%9bci) | N/A |
-| 48 | [Kopernik](http://twitter.com/search?q=Kopernik) | N/A |
-| 49 | [mała narew](http://twitter.com/search?q=ma%c5%82a+narew) | N/A |
+| 37 | [steki](http://twitter.com/search?q=steki) | N/A |
+| 38 | [Moskwą](http://twitter.com/search?q=Moskw%c4%85) | N/A |
+| 39 | [Torre](http://twitter.com/search?q=Torre) | N/A |
+| 40 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 41 | [kssip](http://twitter.com/search?q=kssip) | N/A |
+| 42 | [Mr. President](http://twitter.com/search?q=Mr.+President) | N/A |
+| 43 | [zełenskim](http://twitter.com/search?q=ze%c5%82enskim) | N/A |
+| 44 | [Polsko](http://twitter.com/search?q=Polsko) | N/A |
+| 45 | [Maju](http://twitter.com/search?q=Maju) | N/A |
+| 46 | [teatr](http://twitter.com/search?q=teatr) | N/A |
+| 47 | [Mejza](http://twitter.com/search?q=Mejza) | N/A |
+| 48 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
+| 49 | [Mk 9](http://twitter.com/search?q=Mk+9) | N/A |
 | 50 | [Warszawy](http://twitter.com/search?q=Warszawy) | N/A |
 
 

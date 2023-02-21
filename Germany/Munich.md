@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Munich
 
-📆 Last Updated: `2023-02-21 05:16:19 UTC`
+📆 Last Updated: `2023-02-21 06:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
-| 2 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 3 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
-| 4 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
-| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 6 | [#bvbbsc](http://twitter.com/search?q=%23bvbbsc) | N/A |
-| 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 8 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 9 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 10 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 1 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 2 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 3 | [#rosenmontag](http://twitter.com/search?q=%23rosenmontag) | N/A |
+| 4 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 5 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
+| 6 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
+| 7 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 8 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 9 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 10 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
 | 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 12 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 13 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 14 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 15 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 16 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 17 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 18 | [Lörrach](http://twitter.com/search?q=L%c3%b6rrach) | N/A |
-| 19 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 20 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 21 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 22 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 23 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 24 | [weinzierl](http://twitter.com/search?q=weinzierl) | N/A |
-| 25 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 26 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
-| 27 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 12 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 13 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 14 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 15 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 16 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 17 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 18 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 19 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 20 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
+| 21 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 22 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 23 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 24 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 25 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 26 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 27 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
 | 28 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 29 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 30 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 31 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 32 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 33 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 34 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
-| 35 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
+| 29 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 30 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 31 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 32 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 33 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 34 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 35 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
 | 36 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 37 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 38 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 39 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 40 | [strommix](http://twitter.com/search?q=strommix) | N/A |
-| 41 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 42 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 43 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 44 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 45 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
-| 46 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 47 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 48 | [Wagen](http://twitter.com/search?q=Wagen) | N/A |
-| 49 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 50 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 37 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 38 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 39 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 40 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 41 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 42 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 43 | [strommix](http://twitter.com/search?q=strommix) | N/A |
+| 44 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
+| 45 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 46 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 47 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 48 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 49 | [Nahles](http://twitter.com/search?q=Nahles) | N/A |
+| 50 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 
 
 

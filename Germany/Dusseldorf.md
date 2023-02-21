@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-02-21 05:16:18 UTC`
+📆 Last Updated: `2023-02-21 06:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 2 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
-| 3 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 4 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
-| 5 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
-| 6 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 7 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 8 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 9 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 10 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 2 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 3 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 4 | [#rosenmontag](http://twitter.com/search?q=%23rosenmontag) | N/A |
+| 5 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 6 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 7 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 8 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 9 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
+| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 11 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 12 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 13 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 14 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 15 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 16 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 17 | [Lörrach](http://twitter.com/search?q=L%c3%b6rrach) | N/A |
-| 18 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 19 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 20 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 21 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 22 | [weinzierl](http://twitter.com/search?q=weinzierl) | N/A |
-| 23 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
-| 24 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
-| 25 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
-| 26 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 27 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 28 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 29 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 30 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 31 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 32 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
-| 33 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
-| 34 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 35 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 36 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 37 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 38 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 39 | [strommix](http://twitter.com/search?q=strommix) | N/A |
-| 40 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 41 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 42 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
-| 43 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 44 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
-| 45 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 46 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
-| 47 | [Wagen](http://twitter.com/search?q=Wagen) | N/A |
-| 48 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
-| 49 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 12 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 13 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 14 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 15 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 16 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 17 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 18 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 19 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
+| 20 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 21 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 22 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 23 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 24 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 25 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 26 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 27 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 28 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 29 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 30 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 31 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 32 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 33 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 34 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
+| 35 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 36 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 37 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 38 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 39 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 40 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 41 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 42 | [strommix](http://twitter.com/search?q=strommix) | N/A |
+| 43 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
+| 44 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 45 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 46 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 47 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 48 | [Nahles](http://twitter.com/search?q=Nahles) | N/A |
+| 49 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
 
 
 

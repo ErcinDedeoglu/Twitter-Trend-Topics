@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-02-21 05:16:11 UTC`
+📆 Last Updated: `2023-02-21 06:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,38 +30,39 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 13 | [Sofía Imber](http://twitter.com/search?q=Sof%c3%ada+Imber) | N/A |
 | 14 | [Roxana Díaz](http://twitter.com/search?q=Roxana+D%c3%adaz) | N/A |
 | 15 | [Dani Hernández](http://twitter.com/search?q=Dani+Hern%c3%a1ndez) | N/A |
-| 16 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 16 | [Los Próceres](http://twitter.com/search?q=Los+Pr%c3%b3ceres) | N/A |
 | 17 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 18 | [Los Próceres](http://twitter.com/search?q=Los+Pr%c3%b3ceres) | N/A |
-| 19 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
-| 20 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 22 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 20 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 21 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 22 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
 | 23 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
 | 24 | [Clark Kent](http://twitter.com/search?q=Clark+Kent) | N/A |
-| 25 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 26 | [Wilfredo peña](http://twitter.com/search?q=Wilfredo+pe%c3%b1a) | N/A |
-| 27 | [Alicia Machado](http://twitter.com/search?q=Alicia+Machado) | N/A |
-| 28 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
-| 29 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
-| 30 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
-| 31 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 32 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 25 | [Wilfredo peña](http://twitter.com/search?q=Wilfredo+pe%c3%b1a) | N/A |
+| 26 | [alicia machado](http://twitter.com/search?q=alicia+machado) | N/A |
+| 27 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
+| 28 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 29 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
+| 30 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 31 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 32 | [Guerra Federal](http://twitter.com/search?q=Guerra+Federal) | N/A |
 | 33 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 34 | [Guerra Federal](http://twitter.com/search?q=Guerra+Federal) | N/A |
+| 34 | [El Callao](http://twitter.com/search?q=El+Callao) | N/A |
 | 35 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
-| 36 | [El Callao](http://twitter.com/search?q=El+Callao) | N/A |
-| 37 | [Complicado](http://twitter.com/search?q=Complicado) | N/A |
-| 38 | [Robert De Niro](http://twitter.com/search?q=Robert+De+Niro) | N/A |
-| 39 | [Ninoska Vásquez](http://twitter.com/search?q=Ninoska+V%c3%a1squez) | N/A |
-| 40 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 41 | [Team Playa](http://twitter.com/search?q=Team+Playa) | N/A |
-| 42 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 43 | [Tini](http://twitter.com/search?q=Tini) | Tini is short for Martini, a type of alcoholic cocktail made with gin or vodka and vermouth. The name comes from the Italian word for "little", as the drink is traditionally served in a small glass. |
-| 44 | [Slew Prince](http://twitter.com/search?q=Slew+Prince) | N/A |
-| 45 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
-| 46 | [Water Poet](http://twitter.com/search?q=Water+Poet) | N/A |
-| 47 | [Elisa Soteldo](http://twitter.com/search?q=Elisa+Soteldo) | N/A |
+| 36 | [Ninoska Vásquez](http://twitter.com/search?q=Ninoska+V%c3%a1squez) | N/A |
+| 37 | [Slew Prince](http://twitter.com/search?q=Slew+Prince) | N/A |
+| 38 | [Water Poet](http://twitter.com/search?q=Water+Poet) | N/A |
+| 39 | [Team Playa](http://twitter.com/search?q=Team+Playa) | N/A |
+| 40 | [Robert De Niro](http://twitter.com/search?q=Robert+De+Niro) | N/A |
+| 41 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 42 | [Complicado](http://twitter.com/search?q=Complicado) | N/A |
+| 43 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 44 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
+| 45 | [Elisa Soteldo](http://twitter.com/search?q=Elisa+Soteldo) | N/A |
+| 46 | [philomena](http://twitter.com/search?q=philomena) | N/A |
+| 47 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
+| 48 | [Quieto](http://twitter.com/search?q=Quieto) | N/A |
 
 
 

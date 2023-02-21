@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-02-21 05:16:39 UTC`
+📆 Last Updated: `2023-02-21 06:18:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Oman](</Oman>)
 | 2 | [#بشار_الاسد](http://twitter.com/search?q=%23%d8%a8%d8%b4%d8%a7%d8%b1_%d8%a7%d9%84%d8%a7%d8%b3%d8%af) | N/A |
 | 3 | [#مدارسنا_مستقبل_واعد](http://twitter.com/search?q=%23%d9%85%d8%af%d8%a7%d8%b1%d8%b3%d9%86%d8%a7_%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84_%d9%88%d8%a7%d8%b9%d8%af) | N/A |
 | 4 | [الفصل الدراسي الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | N/A |
-| 5 | [#نطالب_برواتب_للجامعات_الخاصه](http://twitter.com/search?q=%23%d9%86%d8%b7%d8%a7%d9%84%d8%a8_%d8%a8%d8%b1%d9%88%d8%a7%d8%aa%d8%a8_%d9%84%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa_%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
-| 6 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 5 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 6 | [#نطالب_برواتب_للجامعات_الخاصه](http://twitter.com/search?q=%23%d9%86%d8%b7%d8%a7%d9%84%d8%a8_%d8%a8%d8%b1%d9%88%d8%a7%d8%aa%d8%a8_%d9%84%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa_%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
 | 7 | [الرييس السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 8 | [التخطيط العمراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ae%d8%b7%d9%8a%d8%b7+%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 9 | [الرييس الدكتور](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
-| 10 | [توكل علي](http://twitter.com/search?q=%d8%aa%d9%88%d9%83%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
-| 11 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
-| 12 | [وزارة الإسكان](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%a5%d8%b3%d9%83%d8%a7%d9%86) | N/A |
+| 8 | [الرييس الدكتور](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
+| 9 | [توكل علي](http://twitter.com/search?q=%d8%aa%d9%88%d9%83%d9%84+%d8%b9%d9%84%d9%8a) | N/A |
+| 10 | [سوريا](http://twitter.com/search?q=%d8%b3%d9%88%d8%b1%d9%8a%d8%a7) | سوريا is the Arabic word for Syria. In English, it means Syria. |
+| 11 | [التخطيط العمراني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ae%d8%b7%d9%8a%d8%b7+%d8%a7%d9%84%d8%b9%d9%85%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 12 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
 | 13 | [رييس الجمهوريه العربيه السوريه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%87) | N/A |
-| 14 | [توريس](http://twitter.com/search?q=%d8%aa%d9%88%d8%b1%d9%8a%d8%b3) | توريس is a type of traditional Moroccan music. It is characterized by its use of complex rhythms and improvisation. In English, it can be translated as "traditional Moroccan music". |
-| 15 | [الهييه الاداريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 16 | [البركه العامر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%b1) | N/A |
-| 17 | [الطلبه المبتعثين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%aa%d8%b9%d8%ab%d9%8a%d9%86) | N/A |
-| 18 | [التعادل السلبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84+%d8%a7%d9%84%d8%b3%d9%84%d8%a8%d9%8a) | N/A |
-| 19 | [صاحب الجلاله السلطان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%ac%d9%84%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 20 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 14 | [الهييه الاداريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 15 | [البركه العامر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d8%b1) | N/A |
+| 16 | [التعادل السلبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d8%af%d9%84+%d8%a7%d9%84%d8%b3%d9%84%d8%a8%d9%8a) | N/A |
+| 17 | [وزير الاسكان](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d9%83%d8%a7%d9%86) | N/A |
+| 18 | [صاحب الجلاله السلطان](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%ac%d9%84%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
+| 19 | [المختبر المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%a8%d8%b1+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
+| 20 | [الطلبه المبتعثين](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%84%d8%a8%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%aa%d8%b9%d8%ab%d9%8a%d9%86) | N/A |
 | 21 | [العام الجاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
 | 22 | [العام الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%85+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 23 | [الجامعات الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
-| 24 | [المسح الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ad+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 25 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 26 | [ذهاب نصف](http://twitter.com/search?q=%d8%b0%d9%87%d8%a7%d8%a8+%d9%86%d8%b5%d9%81) | N/A |
-| 27 | [جامعه السلطان](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
-| 28 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 29 | [البلدين الشقيقين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d9%82%d9%8a%d9%82%d9%8a%d9%86) | N/A |
-| 30 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 31 | [جامعة السلطان قابوس](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d9%82%d8%a7%d8%a8%d9%88%d8%b3) | N/A |
-| 32 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
-| 33 | [صدام حسين](http://twitter.com/search?q=%d8%b5%d8%af%d8%a7%d9%85+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
-| 34 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 35 | [المختبر المركزي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ae%d8%aa%d8%a8%d8%b1+%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2%d9%8a) | N/A |
-| 36 | [الاعانات الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
-| 37 | [حجر الاساس](http://twitter.com/search?q=%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3) | N/A |
-| 38 | [الدرس الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%b3+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 39 | [الصحه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 40 | [هلال شهر](http://twitter.com/search?q=%d9%87%d9%84%d8%a7%d9%84+%d8%b4%d9%87%d8%b1) | N/A |
-| 41 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
-| 42 | [الادعاء العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%b9%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 43 | [لبس التخرج](http://twitter.com/search?q=%d9%84%d8%a8%d8%b3+%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac) | N/A |
-| 44 | [التعليم الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
-| 45 | [مال التقنيه](http://twitter.com/search?q=%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d9%87) | N/A |
-| 46 | [اليوم الاثنين](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%ab%d9%86%d9%8a%d9%86) | اليوم الاثنين is Arabic for "Monday" and it means "Monday" in English. |
-| 47 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 48 | [المخصصات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 49 | [الجامعات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
-| 50 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
+| 23 | [الصحه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 24 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 25 | [المسح الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%ad+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 26 | [حجر الاساس](http://twitter.com/search?q=%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3) | N/A |
+| 27 | [مدير المدرسه](http://twitter.com/search?q=%d9%85%d8%af%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%87) | N/A |
+| 28 | [ذهاب نصف](http://twitter.com/search?q=%d8%b0%d9%87%d8%a7%d8%a8+%d9%86%d8%b5%d9%81) | N/A |
+| 29 | [جامعه السلطان](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d9%87+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86) | N/A |
+| 30 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 31 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
+| 32 | [جامعة السلطان قابوس](http://twitter.com/search?q=%d8%ac%d8%a7%d9%85%d8%b9%d8%a9+%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d8%a7%d9%86+%d9%82%d8%a7%d8%a8%d9%88%d8%b3) | N/A |
+| 33 | [الاعانات الدراسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d8%a7%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a%d9%87) | N/A |
+| 34 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 35 | [الدرس الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%b3+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 36 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 37 | [الادعاء العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%b9%d8%a7%d8%a1+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
+| 38 | [البلدين الشقيقين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d9%82%d9%8a%d9%82%d9%8a%d9%86) | N/A |
+| 39 | [هلال شهر](http://twitter.com/search?q=%d9%87%d9%84%d8%a7%d9%84+%d8%b4%d9%87%d8%b1) | N/A |
+| 40 | [اليوم الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 41 | [الجامعات الخاصه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5%d9%87) | N/A |
+| 42 | [لبس التخرج](http://twitter.com/search?q=%d9%84%d8%a8%d8%b3+%d8%a7%d9%84%d8%aa%d8%ae%d8%b1%d8%ac) | N/A |
+| 43 | [مال التقنيه](http://twitter.com/search?q=%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d8%aa%d9%82%d9%86%d9%8a%d9%87) | N/A |
+| 44 | [صدام حسين](http://twitter.com/search?q=%d8%b5%d8%af%d8%a7%d9%85+%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 45 | [التعليم الاساسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3%d9%8a) | N/A |
+| 46 | [عثمان الخميس](http://twitter.com/search?q=%d8%b9%d8%ab%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 47 | [المخصصات الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ae%d8%b5%d8%b5%d8%a7%d8%aa+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 48 | [الطيران المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
+| 49 | [الزلزال المدمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b2%d9%84%d8%b2%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d8%af%d9%85%d8%b1) | N/A |
+| 50 | [الجامعات الحكوميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%8a%d9%87) | N/A |
 
 
 

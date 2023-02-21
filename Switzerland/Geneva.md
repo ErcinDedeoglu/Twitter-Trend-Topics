@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-21 05:16:22 UTC`
+📆 Last Updated: `2023-02-21 06:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 3 | [#SocialJusticeDay](http://twitter.com/search?q=%23SocialJusticeDay) | N/A |
 | 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 6 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 5 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 6 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 7 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
 | 8 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 9 | [juso](http://twitter.com/search?q=juso) | N/A |
 | 10 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
 | 11 | [honig](http://twitter.com/search?q=honig) | N/A |
-| 12 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 13 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 14 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
-| 15 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
-| 16 | [krieg mit russland](http://twitter.com/search?q=krieg+mit+russland) | N/A |
-| 17 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 18 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
-| 19 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
-| 20 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
-| 21 | [Pologne](http://twitter.com/search?q=Pologne) | N/A |
-| 22 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 23 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
-| 24 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 25 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 26 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 27 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 28 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
-| 29 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 30 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 31 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 32 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
-| 33 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 34 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
-| 35 | [fussball](http://twitter.com/search?q=fussball) | N/A |
-| 36 | [verteidiger](http://twitter.com/search?q=verteidiger) | N/A |
-| 37 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
-| 38 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 39 | [thematik](http://twitter.com/search?q=thematik) | N/A |
-| 40 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 12 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
+| 13 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
+| 14 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 15 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 16 | [Pologne](http://twitter.com/search?q=Pologne) | N/A |
+| 17 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
+| 18 | [Krieg mit Russland](http://twitter.com/search?q=Krieg+mit+Russland) | N/A |
+| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 20 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
+| 21 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
+| 22 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 23 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
+| 24 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 25 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
+| 26 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 27 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 28 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
+| 29 | [Baerbock](http://twitter.com/search?q=Baerbock) | N/A |
+| 30 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 31 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 32 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 33 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 34 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 35 | [Armen](http://twitter.com/search?q=Armen) | N/A |
+| 36 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
+| 37 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 38 | [fussball](http://twitter.com/search?q=fussball) | N/A |
+| 39 | [Erde](http://twitter.com/search?q=Erde) | N/A |
+| 40 | [Betrug](http://twitter.com/search?q=Betrug) | N/A |
 | 41 | [Malheureusement](http://twitter.com/search?q=Malheureusement) | N/A |
-| 42 | [Monaten](http://twitter.com/search?q=Monaten) | N/A |
-| 43 | [Eskalation](http://twitter.com/search?q=Eskalation) | N/A |
-| 44 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 45 | [produkt](http://twitter.com/search?q=produkt) | N/A |
-| 46 | [Demos](http://twitter.com/search?q=Demos) | N/A |
-| 47 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 42 | [Verteidiger](http://twitter.com/search?q=Verteidiger) | N/A |
+| 43 | [Gegend](http://twitter.com/search?q=Gegend) | N/A |
+| 44 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 45 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
+| 46 | [Monaten](http://twitter.com/search?q=Monaten) | N/A |
+| 47 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
 
 
 

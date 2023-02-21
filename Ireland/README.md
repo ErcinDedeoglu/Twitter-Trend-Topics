@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-21 05:16:54 UTC`
+📆 Last Updated: `2023-02-21 06:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,16 +19,16 @@ This is top 50 for Ireland
 | 2 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
 | 3 | [#EastEnders](http://twitter.com/search?q=%23EastEnders) | #EastEnders is a British soap opera that has been running since 1985. It follows the lives of the residents of Albert Square in the East End of London. The show is known for its dramatic storylines and its exploration of social issues. |
 | 4 | [#BAFTA2023](http://twitter.com/search?q=%23BAFTA2023) | N/A |
-| 5 | [#RTECulture](http://twitter.com/search?q=%23RTECulture) | N/A |
-| 6 | [#RTEUpfront](http://twitter.com/search?q=%23RTEUpfront) | N/A |
+| 5 | [#rteculture](http://twitter.com/search?q=%23rteculture) | N/A |
+| 6 | [#rteupfront](http://twitter.com/search?q=%23rteupfront) | N/A |
 | 7 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
 | 8 | [Penny](http://twitter.com/search?q=Penny) | N/A |
-| 9 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 10 | [Ballyfermot](http://twitter.com/search?q=Ballyfermot) | N/A |
-| 11 | [hodnett](http://twitter.com/search?q=hodnett) | N/A |
+| 9 | [Ballyfermot](http://twitter.com/search?q=Ballyfermot) | N/A |
+| 10 | [hodnett](http://twitter.com/search?q=hodnett) | N/A |
+| 11 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
 | 12 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 13 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 14 | [Barry Keoghan](http://twitter.com/search?q=Barry+Keoghan) | N/A |
+| 13 | [Barry Keoghan](http://twitter.com/search?q=Barry+Keoghan) | N/A |
+| 14 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 15 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
 | 16 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 17 | [Watford](http://twitter.com/search?q=Watford) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Ireland
 | 33 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
 | 34 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
 | 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 36 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 37 | [Dunkirk](http://twitter.com/search?q=Dunkirk) | N/A |
+| 36 | [Dunkirk](http://twitter.com/search?q=Dunkirk) | N/A |
+| 37 | [Lana](http://twitter.com/search?q=Lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Gaelic word for "little rock". In English, Lana can mean "little rock" or "light". |
 | 38 | [Gaeilge](http://twitter.com/search?q=Gaeilge) | N/A |
-| 39 | [lana](http://twitter.com/search?q=lana) | Lana is a feminine given name of multiple origins. In some cases, it is derived from the Russian name Alena, which is a form of Helen. In other cases, it is derived from the Hawaiian word for "afloat" or "calm as still waters". In Spanish, it means "wool". |
-| 40 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 41 | [leinster](http://twitter.com/search?q=leinster) | N/A |
-| 42 | [Cabinet](http://twitter.com/search?q=Cabinet) | N/A |
-| 43 | [Cork](http://twitter.com/search?q=Cork) | N/A |
-| 44 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
-| 45 | [cornelius price](http://twitter.com/search?q=cornelius+price) | N/A |
-| 46 | [Martin McDonagh](http://twitter.com/search?q=Martin+McDonagh) | N/A |
+| 39 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 40 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 41 | [Cork](http://twitter.com/search?q=Cork) | N/A |
+| 42 | [Westminster](http://twitter.com/search?q=Westminster) | Westminster is a district in London, England, located to the west of the City of London. It is home to many of the city's most iconic landmarks, including Westminster Abbey, Buckingham Palace, and the Houses of Parliament. The term Westminster is often used to refer to the government of the United Kingdom as a whole. |
+| 43 | [cornelius price](http://twitter.com/search?q=cornelius+price) | N/A |
+| 44 | [Martin McDonagh](http://twitter.com/search?q=Martin+McDonagh) | N/A |
+| 45 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
+| 46 | [leinster](http://twitter.com/search?q=leinster) | N/A |
 | 47 | [Greg](http://twitter.com/search?q=Greg) | N/A |
-| 48 | [Green Party](http://twitter.com/search?q=Green+Party) | N/A |
-| 49 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 50 | [DJ Carey](http://twitter.com/search?q=DJ+Carey) | N/A |
+| 48 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 49 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 50 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
 
 
 

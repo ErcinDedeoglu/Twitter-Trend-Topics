@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-21 05:16:23 UTC`
+📆 Last Updated: `2023-02-21 06:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
-| 2 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 3 | [#GusMuhaiminIskandar](http://twitter.com/search?q=%23GusMuhaiminIskandar) | N/A |
-| 4 | [lihat di dekade 08](http://twitter.com/search?q=lihat+di+dekade+08) | N/A |
-| 5 | [nyata mending prabowo](http://twitter.com/search?q=nyata+mending+prabowo) | N/A |
-| 6 | [prabowo kerja terbaik](http://twitter.com/search?q=prabowo+kerja+terbaik) | N/A |
-| 7 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
-| 8 | [#OurMiracleWendyDay](http://twitter.com/search?q=%23OurMiracleWendyDay) | N/A |
-| 9 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
-| 10 | [EXO COMEBACK](http://twitter.com/search?q=EXO+COMEBACK) | EXO COMEBACK is a term used to refer to the return of the South Korean-Chinese boy band EXO. It is used to express excitement and anticipation for the group's return after a period of absence from the music scene. In English, it can be translated as "EXO is coming back!" |
-| 11 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 12 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 13 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
-| 14 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
-| 15 | [Christy](http://twitter.com/search?q=Christy) | N/A |
-| 16 | [DITA DISNEY PRINCESS](http://twitter.com/search?q=DITA+DISNEY+PRINCESS) | N/A |
-| 17 | [WORLD TOUR](http://twitter.com/search?q=WORLD+TOUR) | N/A |
-| 18 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
-| 19 | [UKK Bacaleg DPR RI PKB](http://twitter.com/search?q=UKK+Bacaleg+DPR+RI+PKB) | N/A |
-| 20 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 21 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 22 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 23 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 2 | [#GusMuhaiminIskandar](http://twitter.com/search?q=%23GusMuhaiminIskandar) | N/A |
+| 3 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 4 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 5 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 6 | [lihat di dekade 08](http://twitter.com/search?q=lihat+di+dekade+08) | N/A |
+| 7 | [nyata mending prabowo](http://twitter.com/search?q=nyata+mending+prabowo) | N/A |
+| 8 | [prabowo kerja terbaik](http://twitter.com/search?q=prabowo+kerja+terbaik) | N/A |
+| 9 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 10 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 11 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
+| 12 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
+| 13 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 14 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 15 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
+| 16 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 17 | [EXO COMEBACK](http://twitter.com/search?q=EXO+COMEBACK) | EXO COMEBACK is a term used to refer to the return of the South Korean-Chinese boy band EXO. It is used to express excitement and anticipation for the group's return after a period of absence from the music scene. In English, it can be translated as "EXO is coming back!" |
+| 18 | [Christy](http://twitter.com/search?q=Christy) | N/A |
+| 19 | [DITA DISNEY PRINCESS](http://twitter.com/search?q=DITA+DISNEY+PRINCESS) | N/A |
+| 20 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
+| 21 | [UKK Bacaleg DPR RI PKB](http://twitter.com/search?q=UKK+Bacaleg+DPR+RI+PKB) | N/A |
+| 22 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 23 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
 | 24 | [Jenis Kelamin](http://twitter.com/search?q=Jenis+Kelamin) | N/A |
-| 25 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
-| 26 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 27 | [MARKNO JAYA JAYA JAYA](http://twitter.com/search?q=MARKNO+JAYA+JAYA+JAYA) | N/A |
-| 28 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 29 | [200mp nightograpy camera](http://twitter.com/search?q=200mp+nightograpy+camera) | N/A |
-| 30 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
-| 31 | [WEB DRAMA](http://twitter.com/search?q=WEB+DRAMA) | N/A |
-| 32 | [Senin](http://twitter.com/search?q=Senin) | N/A |
-| 33 | [THEY NEED TO APOLOGIZE](http://twitter.com/search?q=THEY+NEED+TO+APOLOGIZE) | N/A |
-| 34 | [HAPPY BIRTHDAY MEWMEW](http://twitter.com/search?q=HAPPY+BIRTHDAY+MEWMEW) | N/A |
-| 35 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
+| 25 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 26 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 27 | [WORLD TOUR](http://twitter.com/search?q=WORLD+TOUR) | N/A |
+| 28 | [WEB DRAMA](http://twitter.com/search?q=WEB+DRAMA) | N/A |
+| 29 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
+| 30 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
+| 31 | [200mp nightograpy camera](http://twitter.com/search?q=200mp+nightograpy+camera) | N/A |
+| 32 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 33 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
+| 34 | [Senin](http://twitter.com/search?q=Senin) | N/A |
+| 35 | [Lamaran](http://twitter.com/search?q=Lamaran) | N/A |
 | 36 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
-| 37 | [Lamaran](http://twitter.com/search?q=Lamaran) | N/A |
+| 37 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
 | 38 | [Benda Favorite](http://twitter.com/search?q=Benda+Favorite) | N/A |
-| 39 | [Size L](http://twitter.com/search?q=Size+L) | N/A |
-| 40 | [Mad x Bon](http://twitter.com/search?q=Mad+x+Bon) | N/A |
-| 41 | [Cikini](http://twitter.com/search?q=Cikini) | N/A |
+| 39 | [Cikini](http://twitter.com/search?q=Cikini) | N/A |
+| 40 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
+| 41 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 42 | [Pagar](http://twitter.com/search?q=Pagar) | N/A |
-| 43 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 44 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 45 | [Papua Pegunungan](http://twitter.com/search?q=Papua+Pegunungan) | N/A |
-| 46 | [sambut kebangkitan islam](http://twitter.com/search?q=sambut+kebangkitan+islam) | N/A |
-| 47 | [AADC](http://twitter.com/search?q=AADC) | N/A |
-| 48 | [ready to be is coming](http://twitter.com/search?q=ready+to+be+is+coming) | N/A |
-| 49 | [PTSD](http://twitter.com/search?q=PTSD) | N/A |
-| 50 | [solo of nct](http://twitter.com/search?q=solo+of+nct) | N/A |
+| 43 | [ready to be is coming](http://twitter.com/search?q=ready+to+be+is+coming) | N/A |
+| 44 | [Size L](http://twitter.com/search?q=Size+L) | N/A |
+| 45 | [Mad x Bon](http://twitter.com/search?q=Mad+x+Bon) | N/A |
+| 46 | [Papua Selatan](http://twitter.com/search?q=Papua+Selatan) | N/A |
+| 47 | [sambut kebangkitan islam](http://twitter.com/search?q=sambut+kebangkitan+islam) | N/A |
+| 48 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 49 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
+| 50 | [HAPPY BIRTHDAY MEWMEW](http://twitter.com/search?q=HAPPY+BIRTHDAY+MEWMEW) | N/A |
 
 
 
