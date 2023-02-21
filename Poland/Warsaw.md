@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-21 21:16:22 UTC`
+📆 Last Updated: `2023-02-21 22:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,54 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 2 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 3 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
-| 4 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 1 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 2 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 3 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 6 | [Kaczyńskim](http://twitter.com/search?q=Kaczy%c5%84skim) | N/A |
-| 7 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
-| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
-| 11 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 12 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 13 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 14 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 16 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
-| 17 | [Realu](http://twitter.com/search?q=Realu) | N/A |
-| 18 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 6 | [Realu](http://twitter.com/search?q=Realu) | N/A |
+| 7 | [Real Madryt](http://twitter.com/search?q=Real+Madryt) | N/A |
+| 8 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
+| 9 | [Kaczyńskim](http://twitter.com/search?q=Kaczy%c5%84skim) | N/A |
+| 10 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 11 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
+| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 13 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
+| 14 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
+| 15 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
+| 16 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 17 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 18 | [Kariusa](http://twitter.com/search?q=Kariusa) | N/A |
 | 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 20 | [Realem](http://twitter.com/search?q=Realem) | N/A |
-| 21 | [Grodzki](http://twitter.com/search?q=Grodzki) | N/A |
-| 22 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 23 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
-| 24 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
-| 25 | [Donek](http://twitter.com/search?q=Donek) | N/A |
-| 26 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
-| 27 | [Morawieckim](http://twitter.com/search?q=Morawieckim) | N/A |
-| 28 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
-| 29 | [Real Madryt](http://twitter.com/search?q=Real+Madryt) | N/A |
-| 30 | [Jarek](http://twitter.com/search?q=Jarek) | N/A |
-| 31 | [Arkadach Kubickiego](http://twitter.com/search?q=Arkadach+Kubickiego) | N/A |
-| 32 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 33 | [#Poland](http://twitter.com/search?q=%23Poland) | N/A |
-| 34 | [Trumpem](http://twitter.com/search?q=Trumpem) | N/A |
-| 35 | [#GOATsoe](http://twitter.com/search?q=%23GOATsoe) | N/A |
-| 36 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 37 | [Boli](http://twitter.com/search?q=Boli) | N/A |
-| 38 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 39 | [#Warszawa](http://twitter.com/search?q=%23Warszawa) | N/A |
-| 40 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 20 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 21 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 22 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 23 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
+| 24 | [Realem](http://twitter.com/search?q=Realem) | N/A |
+| 25 | [Ligi Mistrzów](http://twitter.com/search?q=Ligi+Mistrz%c3%b3w) | N/A |
+| 26 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [Grodzki](http://twitter.com/search?q=Grodzki) | N/A |
+| 30 | [Realowi](http://twitter.com/search?q=Realowi) | N/A |
+| 31 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
+| 32 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 33 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 34 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
+| 35 | [Morawieckim](http://twitter.com/search?q=Morawieckim) | N/A |
+| 36 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 37 | [Donek](http://twitter.com/search?q=Donek) | N/A |
+| 38 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
+| 39 | [Rafał](http://twitter.com/search?q=Rafa%c5%82) | N/A |
+| 40 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
+| 41 | [Prezes](http://twitter.com/search?q=Prezes) | N/A |
+| 42 | [Jarek](http://twitter.com/search?q=Jarek) | N/A |
+| 43 | [Arkadach Kubickiego](http://twitter.com/search?q=Arkadach+Kubickiego) | N/A |
+| 44 | [Trumpem](http://twitter.com/search?q=Trumpem) | N/A |
+| 45 | [Boli](http://twitter.com/search?q=Boli) | N/A |
+| 46 | [#GOATsoe](http://twitter.com/search?q=%23GOATsoe) | N/A |
+| 47 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
+| 48 | [#Poland](http://twitter.com/search?q=%23Poland) | N/A |
 
 
 

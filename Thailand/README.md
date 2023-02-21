@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-21 21:17:05 UTC`
+📆 Last Updated: `2023-02-21 22:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for Thailand
 | 2 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
 | 3 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
 | 4 | [#ShowmelovePressCon](http://twitter.com/search?q=%23ShowmelovePressCon) | N/A |
-| 5 | [#XiaoZhanxGucciFW23](http://twitter.com/search?q=%23XiaoZhanxGucciFW23) | N/A |
+| 5 | [#ZeeNunewXVamino](http://twitter.com/search?q=%23ZeeNunewXVamino) | N/A |
 | 6 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
 | 7 | [channel 3](http://twitter.com/search?q=channel+3) | N/A |
 | 8 | [HAPPY BIRTHDAY MEWMEW](http://twitter.com/search?q=HAPPY+BIRTHDAY+MEWMEW) | N/A |
@@ -31,40 +31,40 @@ This is top 50 for Thailand
 | 14 | [safe flight kanawut](http://twitter.com/search?q=safe+flight+kanawut) | N/A |
 | 15 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
 | 16 | [dmd cover](http://twitter.com/search?q=dmd+cover) | N/A |
-| 17 | [morning bommu](http://twitter.com/search?q=morning+bommu) | N/A |
-| 18 | [actress singer cl debut](http://twitter.com/search?q=actress+singer+cl+debut) | N/A |
-| 19 | [Group Photo](http://twitter.com/search?q=Group+Photo) | N/A |
-| 20 | [#ZeeNunewXVamino](http://twitter.com/search?q=%23ZeeNunewXVamino) | N/A |
-| 21 | [#YinWarHKFansMeeting](http://twitter.com/search?q=%23YinWarHKFansMeeting) | N/A |
-| 22 | [#วาดไว้nunew](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b2%e0%b8%94%e0%b9%84%e0%b8%a7%e0%b9%89nunew) | N/A |
-| 23 | [#PEPSIXPROXIEX4EVE](http://twitter.com/search?q=%23PEPSIXPROXIEX4EVE) | N/A |
-| 24 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 25 | [#BiothermxJeff](http://twitter.com/search?q=%23BiothermxJeff) | N/A |
-| 26 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
-| 27 | [#OMGลาษวรรณสนั่นพระนคร](http://twitter.com/search?q=%23OMG%e0%b8%a5%e0%b8%b2%e0%b8%a9%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%93%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%99%e0%b8%84%e0%b8%a3) | N/A |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [morning bommu](http://twitter.com/search?q=morning+bommu) | N/A |
+| 19 | [actress singer cl debut](http://twitter.com/search?q=actress+singer+cl+debut) | N/A |
+| 20 | [Group Photo](http://twitter.com/search?q=Group+Photo) | N/A |
+| 21 | [European](http://twitter.com/search?q=European) | N/A |
+| 22 | [#TodsFW23](http://twitter.com/search?q=%23TodsFW23) | N/A |
+| 23 | [#YinWarHKFansMeeting](http://twitter.com/search?q=%23YinWarHKFansMeeting) | N/A |
+| 24 | [#วาดไว้nunew](http://twitter.com/search?q=%23%e0%b8%a7%e0%b8%b2%e0%b8%94%e0%b9%84%e0%b8%a7%e0%b9%89nunew) | N/A |
+| 25 | [#PEPSIXPROXIEX4EVE](http://twitter.com/search?q=%23PEPSIXPROXIEX4EVE) | N/A |
+| 26 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 27 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 28 | [#บิวจักรพันธ์](http://twitter.com/search?q=%23%e0%b8%9a%e0%b8%b4%e0%b8%a7%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%9e%e0%b8%b1%e0%b8%99%e0%b8%98%e0%b9%8c) | N/A |
-| 29 | [#kinnporscheworldtour2023](http://twitter.com/search?q=%23kinnporscheworldtour2023) | N/A |
-| 30 | [#BurberryAW23xBright](http://twitter.com/search?q=%23BurberryAW23xBright) | N/A |
-| 31 | [#32yrsMEWBD](http://twitter.com/search?q=%2332yrsMEWBD) | N/A |
-| 32 | [#เตนล์ในเรื่องเล่าเช้านี้](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%a5%e0%b9%8c%e0%b9%83%e0%b8%99%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%b5%e0%b9%89) | N/A |
-| 33 | [#TwoworldsFittingDay](http://twitter.com/search?q=%23TwoworldsFittingDay) | N/A |
-| 34 | [#ยุบสภา](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b8%e0%b8%9a%e0%b8%aa%e0%b8%a0%e0%b8%b2) | N/A |
-| 35 | [#morningnewstv3xwayv](http://twitter.com/search?q=%23morningnewstv3xwayv) | N/A |
-| 36 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 37 | [#WelcomeToItalyGulf](http://twitter.com/search?q=%23WelcomeToItalyGulf) | N/A |
-| 38 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 39 | [#ปุ้มปุ้ย](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%b8%e0%b9%89%e0%b8%a1%e0%b8%9b%e0%b8%b8%e0%b9%89%e0%b8%a2) | N/A |
-| 40 | [#THEGRANDCONCERTCHARLOTTE](http://twitter.com/search?q=%23THEGRANDCONCERTCHARLOTTE) | N/A |
-| 41 | [#ifourthyou900k](http://twitter.com/search?q=%23ifourthyou900k) | N/A |
-| 42 | [#ฟิตติ้งทูเวิร์ล](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%b4%e0%b8%95%e0%b8%95%e0%b8%b4%e0%b9%89%e0%b8%87%e0%b8%97%e0%b8%b9%e0%b9%80%e0%b8%a7%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%a5) | N/A |
-| 43 | [#PCreadyforOsaka](http://twitter.com/search?q=%23PCreadyforOsaka) | N/A |
-| 44 | [#มณีพยาบาทEP9](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%93%e0%b8%b5%e0%b8%9e%e0%b8%a2%e0%b8%b2%e0%b8%9a%e0%b8%b2%e0%b8%97EP9) | N/A |
-| 45 | [#คิว1ขยับเพราะเขานับเป็นน้อง](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%a71%e0%b8%82%e0%b8%a2%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%9e%e0%b8%a3%e0%b8%b2%e0%b8%b0%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%99%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87) | N/A |
-| 46 | [#yinwargotohk](http://twitter.com/search?q=%23yinwargotohk) | N/A |
-| 47 | [#ตลาดนัดคินน์พอร์ช](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%99%e0%b8%b1%e0%b8%94%e0%b8%84%e0%b8%b4%e0%b8%99%e0%b8%99%e0%b9%8c%e0%b8%9e%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%8a) | N/A |
-| 48 | [#GULFgotoMILAN](http://twitter.com/search?q=%23GULFgotoMILAN) | N/A |
-| 49 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
-| 50 | [#KPWT2023WTFTicketsday](http://twitter.com/search?q=%23KPWT2023WTFTicketsday) | N/A |
+| 29 | [#BiothermxJeff](http://twitter.com/search?q=%23BiothermxJeff) | N/A |
+| 30 | [#OMGลาษวรรณสนั่นพระนคร](http://twitter.com/search?q=%23OMG%e0%b8%a5%e0%b8%b2%e0%b8%a9%e0%b8%a7%e0%b8%a3%e0%b8%a3%e0%b8%93%e0%b8%aa%e0%b8%99%e0%b8%b1%e0%b9%88%e0%b8%99%e0%b8%9e%e0%b8%a3%e0%b8%b0%e0%b8%99%e0%b8%84%e0%b8%a3) | N/A |
+| 31 | [#winmetawin](http://twitter.com/search?q=%23winmetawin) | #winmetawin is a hashtag used to express the idea of winning in life. It is often used to encourage people to strive for success and to never give up on their goals. The phrase can be translated as "win the meta game of life". |
+| 32 | [#kinnporscheworldtour2023](http://twitter.com/search?q=%23kinnporscheworldtour2023) | N/A |
+| 33 | [#เตนล์ในเรื่องเล่าเช้านี้](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%a5%e0%b9%8c%e0%b9%83%e0%b8%99%e0%b9%80%e0%b8%a3%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%87%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%8a%e0%b9%89%e0%b8%b2%e0%b8%99%e0%b8%b5%e0%b9%89) | N/A |
+| 34 | [#32yrsMEWBD](http://twitter.com/search?q=%2332yrsMEWBD) | N/A |
+| 35 | [#BurberryAW23xBright](http://twitter.com/search?q=%23BurberryAW23xBright) | N/A |
+| 36 | [#TwoworldsFittingDay](http://twitter.com/search?q=%23TwoworldsFittingDay) | N/A |
+| 37 | [#ยุบสภา](http://twitter.com/search?q=%23%e0%b8%a2%e0%b8%b8%e0%b8%9a%e0%b8%aa%e0%b8%a0%e0%b8%b2) | N/A |
+| 38 | [#morningnewstv3xwayv](http://twitter.com/search?q=%23morningnewstv3xwayv) | N/A |
+| 39 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 40 | [#WelcomeToItalyGulf](http://twitter.com/search?q=%23WelcomeToItalyGulf) | N/A |
+| 41 | [#ปุ้มปุ้ย](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%b8%e0%b9%89%e0%b8%a1%e0%b8%9b%e0%b8%b8%e0%b9%89%e0%b8%a2) | N/A |
+| 42 | [#thegrandconcertcharlotte](http://twitter.com/search?q=%23thegrandconcertcharlotte) | N/A |
+| 43 | [#ifourthyou900k](http://twitter.com/search?q=%23ifourthyou900k) | N/A |
+| 44 | [#ฟิตติ้งทูเวิร์ล](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%b4%e0%b8%95%e0%b8%95%e0%b8%b4%e0%b9%89%e0%b8%87%e0%b8%97%e0%b8%b9%e0%b9%80%e0%b8%a7%e0%b8%b4%e0%b8%a3%e0%b9%8c%e0%b8%a5) | N/A |
+| 45 | [#มณีพยาบาทEP9](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%93%e0%b8%b5%e0%b8%9e%e0%b8%a2%e0%b8%b2%e0%b8%9a%e0%b8%b2%e0%b8%97EP9) | N/A |
+| 46 | [#PCreadyforOsaka](http://twitter.com/search?q=%23PCreadyforOsaka) | N/A |
+| 47 | [#คิว1ขยับเพราะเขานับเป็นน้อง](http://twitter.com/search?q=%23%e0%b8%84%e0%b8%b4%e0%b8%a71%e0%b8%82%e0%b8%a2%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%9e%e0%b8%a3%e0%b8%b2%e0%b8%b0%e0%b9%80%e0%b8%82%e0%b8%b2%e0%b8%99%e0%b8%b1%e0%b8%9a%e0%b9%80%e0%b8%9b%e0%b9%87%e0%b8%99%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87) | N/A |
+| 48 | [#ตลาดนัดคินน์พอร์ช](http://twitter.com/search?q=%23%e0%b8%95%e0%b8%a5%e0%b8%b2%e0%b8%94%e0%b8%99%e0%b8%b1%e0%b8%94%e0%b8%84%e0%b8%b4%e0%b8%99%e0%b8%99%e0%b9%8c%e0%b8%9e%e0%b8%ad%e0%b8%a3%e0%b9%8c%e0%b8%8a) | N/A |
+| 49 | [#yinwargotohk](http://twitter.com/search?q=%23yinwargotohk) | N/A |
+| 50 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
 
 
 
