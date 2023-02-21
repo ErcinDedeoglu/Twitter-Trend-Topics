@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-02-21 07:17:01 UTC`
+📆 Last Updated: `2023-02-21 08:21:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
 | 3 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
 | 4 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 5 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 6 | [#SummerHouse](http://twitter.com/search?q=%23SummerHouse) | N/A |
-| 7 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
-| 8 | [Lita](http://twitter.com/search?q=Lita) | N/A |
-| 9 | [#WasAHugeMistake](http://twitter.com/search?q=%23WasAHugeMistake) | N/A |
-| 10 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 11 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 12 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 13 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 14 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 15 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
-| 16 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 17 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
-| 18 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
-| 19 | [Allen Herbert](http://twitter.com/search?q=Allen+Herbert) | N/A |
-| 20 | [Gradey Dick](http://twitter.com/search?q=Gradey+Dick) | N/A |
-| 21 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 22 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 23 | [Kevin McCullar](http://twitter.com/search?q=Kevin+McCullar) | N/A |
-| 24 | [Edge](http://twitter.com/search?q=Edge) | N/A |
-| 25 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 26 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 5 | [#MutoFinal](http://twitter.com/search?q=%23MutoFinal) | N/A |
+| 6 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
+| 7 | [#noah_ghc](http://twitter.com/search?q=%23noah_ghc) | #noah_ghc is a hashtag used on Twitter to refer to the Noah GHC project, which is an open source project for creating a Haskell compiler. The hashtag is used to share news and updates about the project, as well as to discuss related topics. |
+| 8 | [Pfizer](http://twitter.com/search?q=Pfizer) | N/A |
+| 9 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 10 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 11 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 12 | [Lita](http://twitter.com/search?q=Lita) | N/A |
+| 13 | [Omos](http://twitter.com/search?q=Omos) | N/A |
+| 14 | [Tokyo Dome](http://twitter.com/search?q=Tokyo+Dome) | N/A |
+| 15 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 16 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 17 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 18 | [Kansas](http://twitter.com/search?q=Kansas) | Kansas is a state in the Midwestern United States. It is bordered by Nebraska to the north, Missouri to the east, Oklahoma to the south, and Colorado to the west. The state's name is derived from the Kansa Native American tribe, which inhabited the area. The capital of Kansas is Topeka and its largest city is Wichita. |
+| 19 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 20 | [Joel Osteen](http://twitter.com/search?q=Joel+Osteen) | N/A |
+| 21 | [Allen Herbert](http://twitter.com/search?q=Allen+Herbert) | N/A |
+| 22 | [dominic fike](http://twitter.com/search?q=dominic+fike) | N/A |
+| 23 | [Bill Self](http://twitter.com/search?q=Bill+Self) | Bill Self is the head coach of the University of Kansas men's basketball team. He has been the head coach since 2003 and has led the Jayhawks to 14 consecutive Big 12 regular season championships, three Final Four appearances, and one National Championship. The phrase "Bill Self" is often used to refer to his coaching style, which emphasizes hard work, discipline, and a commitment to excellence. |
+| 24 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
+| 25 | [Edge](http://twitter.com/search?q=Edge) | N/A |
+| 26 | [Igor](http://twitter.com/search?q=Igor) | N/A |
 | 27 | [Max Duggan](http://twitter.com/search?q=Max+Duggan) | Max Duggan is a name of Irish origin. It is derived from the Gaelic words "mac" meaning "son" and "dubhagain" meaning "dark-haired". The name can be translated to mean "son of the dark-haired one". |
-| 28 | [Mike Miles](http://twitter.com/search?q=Mike+Miles) | Mike Miles is a slang term used to describe someone who is extremely ambitious and driven. It is often used to describe someone who is determined to succeed in whatever they set out to do. |
-| 29 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
-| 30 | [Jayhawks](http://twitter.com/search?q=Jayhawks) | N/A |
-| 31 | [Trish](http://twitter.com/search?q=Trish) | N/A |
-| 32 | [Wrestlemania](http://twitter.com/search?q=Wrestlemania) | WrestleMania is a professional wrestling pay-per-view event produced annually by World Wrestling Entertainment (WWE). It is the biggest event of the year for WWE and is considered to be the Super Bowl of professional wrestling. WrestleMania typically features some of the biggest matches of the year, as well as celebrity appearances and musical performances. The phrase "WrestleMania" has become synonymous with professional wrestling in general, and is often used to refer to any major wrestling event. |
-| 33 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
-| 34 | [Damon](http://twitter.com/search?q=Damon) | N/A |
-| 35 | [Ariana DeBose](http://twitter.com/search?q=Ariana+DeBose) | N/A |
-| 36 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
-| 37 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 38 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
-| 39 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 40 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
-| 41 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 42 | [Board](http://twitter.com/search?q=Board) | N/A |
-| 43 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 44 | [Chad Gable](http://twitter.com/search?q=Chad+Gable) | N/A |
-| 45 | [Incredibles](http://twitter.com/search?q=Incredibles) | N/A |
-| 46 | [Florian](http://twitter.com/search?q=Florian) | N/A |
-| 47 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
-| 48 | [Fregh](http://twitter.com/search?q=Fregh) | N/A |
-| 49 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 28 | [Jenna](http://twitter.com/search?q=Jenna) | Jenna is a female given name of English origin, derived from the medieval form of Jenny. It is a diminutive form of Jennifer, which means "white wave" or "fair phantom". |
+| 29 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 30 | [Trish](http://twitter.com/search?q=Trish) | N/A |
+| 31 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 32 | [Incredibles](http://twitter.com/search?q=Incredibles) | N/A |
+| 33 | [Ariana DeBose](http://twitter.com/search?q=Ariana+DeBose) | N/A |
+| 34 | [Board](http://twitter.com/search?q=Board) | N/A |
+| 35 | [Bayley](http://twitter.com/search?q=Bayley) | Bayley is a name of English origin, derived from the Old English words "baeg" and "leah," meaning "berry clearing." It is most commonly used as a surname, but can also be used as a given name. |
+| 36 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 37 | [Lando](http://twitter.com/search?q=Lando) | N/A |
+| 38 | [Jalen Wilson](http://twitter.com/search?q=Jalen+Wilson) | Jalen Wilson is a name of American origin, derived from the combination of two names: Jalen, which is a modern variant of the name Galen, meaning “calm” or “tranquil”; and Wilson, which is an English surname meaning “son of William.” |
+| 39 | [Damon](http://twitter.com/search?q=Damon) | N/A |
+| 40 | [Florian](http://twitter.com/search?q=Florian) | N/A |
+| 41 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 42 | [Simone](http://twitter.com/search?q=Simone) | Simone is a French feminine given name, derived from the Hebrew name Shimon, meaning "he who hears". It is also a surname, and may refer to:Simone de Beauvoir (1908–1986), French writer and philosopherSimone Weil (1909–1943), French philosopher, mystic, and political activistSimone Veil (1927–2017), French lawyer and politician |
+| 43 | [Gabby](http://twitter.com/search?q=Gabby) | N/A |
+| 44 | [Garfield](http://twitter.com/search?q=Garfield) | N/A |
+| 45 | [Dr. Now](http://twitter.com/search?q=Dr.+Now) | N/A |
+| 46 | [McCoy](http://twitter.com/search?q=McCoy) | N/A |
+| 47 | [Balor](http://twitter.com/search?q=Balor) | N/A |
+| 48 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 49 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 
 
 

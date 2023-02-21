@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sagamihara
 
-📆 Last Updated: `2023-02-21 07:16:43 UTC`
+📆 Last Updated: `2023-02-21 08:21:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ホームラン](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%a9%e3%83%b3) | ホームラン (hōmuran) is a term used in baseball to refer to a home run, which is when a batter hits the ball and runs all the way around the bases, scoring a run for their team. In English, it is simply referred to as a home run. |
-| 2 | [#キスライ](http://twitter.com/search?q=%23%e3%82%ad%e3%82%b9%e3%83%a9%e3%82%a4) | N/A |
-| 3 | [コオロギ](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae) | N/A |
-| 4 | [ガンダムコラボ](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%82%b3%e3%83%a9%e3%83%9c) | ガンダムコラボ (Gundam Collaboration) is a series of collaborations between the popular Japanese anime franchise Gundam and various other companies. These collaborations involve the production of special merchandise, such as apparel, toys, and video games. The purpose of these collaborations is to promote the Gundam franchise and its products. In English, it can be translated as "Gundam Collaboration". |
-| 5 | [#神宮寺勇太](http://twitter.com/search?q=%23%e7%a5%9e%e5%ae%ae%e5%af%ba%e5%8b%87%e5%a4%aa) | N/A |
+| 2 | [コオロギ](http://twitter.com/search?q=%e3%82%b3%e3%82%aa%e3%83%ad%e3%82%ae) | N/A |
+| 3 | [#神宮寺勇太](http://twitter.com/search?q=%23%e7%a5%9e%e5%ae%ae%e5%af%ba%e5%8b%87%e5%a4%aa) | N/A |
+| 4 | [#シャンシャン](http://twitter.com/search?q=%23%e3%82%b7%e3%83%a3%e3%83%b3%e3%82%b7%e3%83%a3%e3%83%b3) | N/A |
+| 5 | [ガンダムコラボ](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%82%b3%e3%83%a9%e3%83%9c) | ガンダムコラボ (Gundam Collaboration) is a series of collaborations between the popular Japanese anime franchise Gundam and various other companies. These collaborations involve the production of special merchandise, such as apparel, toys, and video games. The purpose of these collaborations is to promote the Gundam franchise and its products. In English, it can be translated as "Gundam Collaboration". |
 | 6 | [同人誌の値段](http://twitter.com/search?q=%e5%90%8c%e4%ba%ba%e8%aa%8c%e3%81%ae%e5%80%a4%e6%ae%b5) | N/A |
-| 7 | [読み専搾取](http://twitter.com/search?q=%e8%aa%ad%e3%81%bf%e5%b0%82%e6%90%be%e5%8f%96) | N/A |
-| 8 | [#MutoFinal](http://twitter.com/search?q=%23MutoFinal) | N/A |
-| 9 | [#noah_ghc](http://twitter.com/search?q=%23noah_ghc) | #noah_ghc is a hashtag used on Twitter to refer to the Noah GHC project, which is an open source project for creating a Haskell compiler. The hashtag is used to share news and updates about the project, as well as to discuss related topics. |
-| 10 | [CRフェス](http://twitter.com/search?q=CR%e3%83%95%e3%82%a7%e3%82%b9) | CRフェス is an abbreviation for "Card Revolution Festival", which is an annual event held in Japan that celebrates the card game industry. It features tournaments, special guests, and exclusive merchandise. The event is open to both professional and amateur players. In English, CRフェス stands for Card Revolution Festival. |
-| 11 | [#光る君へ](http://twitter.com/search?q=%23%e5%85%89%e3%82%8b%e5%90%9b%e3%81%b8) | N/A |
-| 12 | [清少納言](http://twitter.com/search?q=%e6%b8%85%e5%b0%91%e7%b4%8d%e8%a8%80) | N/A |
-| 13 | [紙と金属](http://twitter.com/search?q=%e7%b4%99%e3%81%a8%e9%87%91%e5%b1%9e) | N/A |
-| 14 | [ラキドロ](http://twitter.com/search?q=%e3%83%a9%e3%82%ad%e3%83%89%e3%83%ad) | ラキドロ is a Japanese word that means "to take a break". It is often used to describe taking a break from work or school to relax and refresh. |
-| 15 | [エクシーズフェス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 7 | [#MutoFinal](http://twitter.com/search?q=%23MutoFinal) | N/A |
+| 8 | [#noah_ghc](http://twitter.com/search?q=%23noah_ghc) | #noah_ghc is a hashtag used on Twitter to refer to the Noah GHC project, which is an open source project for creating a Haskell compiler. The hashtag is used to share news and updates about the project, as well as to discuss related topics. |
+| 9 | [読み専搾取](http://twitter.com/search?q=%e8%aa%ad%e3%81%bf%e5%b0%82%e6%90%be%e5%8f%96) | N/A |
+| 10 | [オランプ](http://twitter.com/search?q=%e3%82%aa%e3%83%a9%e3%83%b3%e3%83%97) | N/A |
+| 11 | [バスティーユの恋人たち](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%83%86%e3%82%a3%e3%83%bc%e3%83%a6%e3%81%ae%e6%81%8b%e4%ba%ba%e3%81%9f%e3%81%a1) | N/A |
+| 12 | [星組公演](http://twitter.com/search?q=%e6%98%9f%e7%b5%84%e5%85%ac%e6%bc%94) | N/A |
+| 13 | [CRフェス](http://twitter.com/search?q=CR%e3%83%95%e3%82%a7%e3%82%b9) | CRフェス is an abbreviation for "Card Revolution Festival", which is an annual event held in Japan that celebrates the card game industry. It features tournaments, special guests, and exclusive merchandise. The event is open to both professional and amateur players. In English, CRフェス stands for Card Revolution Festival. |
+| 14 | [エクシーズフェス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 15 | [#光る君へ](http://twitter.com/search?q=%23%e5%85%89%e3%82%8b%e5%90%9b%e3%81%b8) | N/A |
 | 16 | [武藤敬司](http://twitter.com/search?q=%e6%ad%a6%e8%97%a4%e6%95%ac%e5%8f%b8) | 武藤敬司 is a Japanese name. It is composed of two characters: 武 (Take) and 藤 (Fuji). The meaning of the name is "respectful and noble". |
-| 17 | [KCON](http://twitter.com/search?q=KCON) | N/A |
-| 18 | [ダイヤの謎解き成功](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%a4%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 19 | [同人誌の価格](http://twitter.com/search?q=%e5%90%8c%e4%ba%ba%e8%aa%8c%e3%81%ae%e4%be%a1%e6%a0%bc) | N/A |
-| 20 | [安倍晴明](http://twitter.com/search?q=%e5%ae%89%e5%80%8d%e6%99%b4%e6%98%8e) | N/A |
-| 21 | [本の値段](http://twitter.com/search?q=%e6%9c%ac%e3%81%ae%e5%80%a4%e6%ae%b5) | N/A |
-| 22 | [約1.5mの鉄球](http://twitter.com/search?q=%e7%b4%841.5m%e3%81%ae%e9%89%84%e7%90%83) | N/A |
-| 23 | [アイエン](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%a8%e3%83%b3) | N/A |
-| 24 | [遠方割引](http://twitter.com/search?q=%e9%81%a0%e6%96%b9%e5%89%b2%e5%bc%95) | N/A |
-| 25 | [総力戦ショップ](http://twitter.com/search?q=%e7%b7%8f%e5%8a%9b%e6%88%a6%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97) | N/A |
-| 26 | [ファーストサマーウイカ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b9%e3%83%88%e3%82%b5%e3%83%9e%e3%83%bc%e3%82%a6%e3%82%a4%e3%82%ab) | N/A |
-| 27 | [才モコ口](http://twitter.com/search?q=%e6%89%8d%e3%83%a2%e3%82%b3%e5%8f%a3) | N/A |
-| 28 | [もの漂着](http://twitter.com/search?q=%e3%82%82%e3%81%ae%e6%bc%82%e7%9d%80) | N/A |
-| 29 | [周辺200m立入禁止](http://twitter.com/search?q=%e5%91%a8%e8%be%ba200m%e7%ab%8b%e5%85%a5%e7%a6%81%e6%ad%a2) | N/A |
-| 30 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
-| 31 | [フィリックス](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 32 | [PTA役員選び](http://twitter.com/search?q=PTA%e5%bd%b9%e5%93%a1%e9%81%b8%e3%81%b3) | N/A |
-| 33 | [物々交換](http://twitter.com/search?q=%e7%89%a9%e3%80%85%e4%ba%a4%e6%8f%9b) | N/A |
-| 34 | [同人界隈](http://twitter.com/search?q=%e5%90%8c%e4%ba%ba%e7%95%8c%e9%9a%88) | N/A |
-| 35 | [グノーシア](http://twitter.com/search?q=%e3%82%b0%e3%83%8e%e3%83%bc%e3%82%b7%e3%82%a2) | N/A |
-| 36 | [ユースケ・サンタマリア](http://twitter.com/search?q=%e3%83%a6%e3%83%bc%e3%82%b9%e3%82%b1%e3%83%bb%e3%82%b5%e3%83%b3%e3%82%bf%e3%83%9e%e3%83%aa%e3%82%a2) | N/A |
-| 37 | [頒布価格](http://twitter.com/search?q=%e9%a0%92%e5%b8%83%e4%be%a1%e6%a0%bc) | N/A |
-| 38 | [タワレコ](http://twitter.com/search?q=%e3%82%bf%e3%83%af%e3%83%ac%e3%82%b3) | N/A |
-| 39 | [アトミックハート](http://twitter.com/search?q=%e3%82%a2%e3%83%88%e3%83%9f%e3%83%83%e3%82%af%e3%83%8f%e3%83%bc%e3%83%88) | N/A |
-| 40 | [三石さん](http://twitter.com/search?q=%e4%b8%89%e7%9f%b3%e3%81%95%e3%82%93) | N/A |
-| 41 | [大関くん](http://twitter.com/search?q=%e5%a4%a7%e9%96%a2%e3%81%8f%e3%82%93) | N/A |
-| 42 | [井浦さん](http://twitter.com/search?q=%e4%ba%95%e6%b5%a6%e3%81%95%e3%82%93) | N/A |
-| 43 | [武藤さん](http://twitter.com/search?q=%e6%ad%a6%e8%97%a4%e3%81%95%e3%82%93) | N/A |
-| 44 | [アタイの福音書](http://twitter.com/search?q=%e3%82%a2%e3%82%bf%e3%82%a4%e3%81%ae%e7%a6%8f%e9%9f%b3%e6%9b%b8) | N/A |
-| 45 | [姫鶴さん](http://twitter.com/search?q=%e5%a7%ab%e9%b6%b4%e3%81%95%e3%82%93) | 姫鶴さん (Hime Tsuru-san) is a Japanese fairy tale about a princess who is transformed into a crane. The story follows the princess as she embarks on a journey to find her true love and break the spell that has been cast upon her. In English, the phrase translates to "Princess Crane". |
-| 46 | [コハルの神名文字](http://twitter.com/search?q=%e3%82%b3%e3%83%8f%e3%83%ab%e3%81%ae%e7%a5%9e%e5%90%8d%e6%96%87%e5%ad%97) | N/A |
-| 47 | [同人活動](http://twitter.com/search?q=%e5%90%8c%e4%ba%ba%e6%b4%bb%e5%8b%95) | N/A |
-| 48 | [三石琴乃さん](http://twitter.com/search?q=%e4%b8%89%e7%9f%b3%e7%90%b4%e4%b9%83%e3%81%95%e3%82%93) | N/A |
-| 49 | [薮くん舞台](http://twitter.com/search?q=%e8%96%ae%e3%81%8f%e3%82%93%e8%88%9e%e5%8f%b0) | N/A |
+| 17 | [なこちゃん](http://twitter.com/search?q=%e3%81%aa%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 18 | [ひなフェス](http://twitter.com/search?q=%e3%81%b2%e3%81%aa%e3%83%95%e3%82%a7%e3%82%b9) | ひなフェス (Hina Fest) is an annual festival in Japan that celebrates the Doll Festival, or Hinamatsuri. It is held on March 3rd and is a day to celebrate young girls and pray for their health and happiness. The festival involves displaying dolls dressed in traditional court costumes from the Heian period, as well as eating special foods such as Hina-arare (rice crackers) and Chirashizushi (sushi rice with various toppings). In English, it can be translated to "Doll Festival". |
+| 19 | [清少納言](http://twitter.com/search?q=%e6%b8%85%e5%b0%91%e7%b4%8d%e8%a8%80) | N/A |
+| 20 | [紙と金属](http://twitter.com/search?q=%e7%b4%99%e3%81%a8%e9%87%91%e5%b1%9e) | N/A |
+| 21 | [ラキドロ](http://twitter.com/search?q=%e3%83%a9%e3%82%ad%e3%83%89%e3%83%ad) | ラキドロ is a Japanese word that means "to take a break". It is often used to describe taking a break from work or school to relax and refresh. |
+| 22 | [ダイヤの謎解き成功](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%a4%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 23 | [宝塚歌劇公式ホームページ](http://twitter.com/search?q=%e5%ae%9d%e5%a1%9a%e6%ad%8c%e5%8a%87%e5%85%ac%e5%bc%8f%e3%83%9b%e3%83%bc%e3%83%a0%e3%83%9a%e3%83%bc%e3%82%b8) | 宝塚歌劇公式ホームページ is the official website of Takarazuka Revue, a Japanese all-female musical theater troupe. The website provides information about the troupe's performances, cast members, and other related news. In English, it translates to "Takarazuka Revue Official Homepage". |
+| 24 | [KCON](http://twitter.com/search?q=KCON) | N/A |
+| 25 | [同人誌の価格](http://twitter.com/search?q=%e5%90%8c%e4%ba%ba%e8%aa%8c%e3%81%ae%e4%be%a1%e6%a0%bc) | N/A |
+| 26 | [開幕投手](http://twitter.com/search?q=%e9%96%8b%e5%b9%95%e6%8a%95%e6%89%8b) | N/A |
+| 27 | [安倍晴明](http://twitter.com/search?q=%e5%ae%89%e5%80%8d%e6%99%b4%e6%98%8e) | N/A |
+| 28 | [高級マンション](http://twitter.com/search?q=%e9%ab%98%e7%b4%9a%e3%83%9e%e3%83%b3%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 29 | [アイエン](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%82%a8%e3%83%b3) | N/A |
+| 30 | [約1.5mの鉄球](http://twitter.com/search?q=%e7%b4%841.5m%e3%81%ae%e9%89%84%e7%90%83) | N/A |
+| 31 | [東京女子](http://twitter.com/search?q=%e6%9d%b1%e4%ba%ac%e5%a5%b3%e5%ad%90) | N/A |
+| 32 | [自民・世耕氏](http://twitter.com/search?q=%e8%87%aa%e6%b0%91%e3%83%bb%e4%b8%96%e8%80%95%e6%b0%8f) | N/A |
+| 33 | [先行画像](http://twitter.com/search?q=%e5%85%88%e8%a1%8c%e7%94%bb%e5%83%8f) | N/A |
+| 34 | [PTA役員選び](http://twitter.com/search?q=PTA%e5%bd%b9%e5%93%a1%e9%81%b8%e3%81%b3) | N/A |
+| 35 | [実施の見直し](http://twitter.com/search?q=%e5%ae%9f%e6%96%bd%e3%81%ae%e8%a6%8b%e7%9b%b4%e3%81%97) | N/A |
+| 36 | [周辺200m立入禁止](http://twitter.com/search?q=%e5%91%a8%e8%be%ba200m%e7%ab%8b%e5%85%a5%e7%a6%81%e6%ad%a2) | N/A |
+| 37 | [THE SOUND](http://twitter.com/search?q=THE+SOUND) | The Sound is a phrase used to refer to the English Channel, which is a body of water that separates England from France. It is also known as La Manche in French. |
+| 38 | [大関くん](http://twitter.com/search?q=%e5%a4%a7%e9%96%a2%e3%81%8f%e3%82%93) | N/A |
+| 39 | [本の値段](http://twitter.com/search?q=%e6%9c%ac%e3%81%ae%e5%80%a4%e6%ae%b5) | N/A |
+| 40 | [ファーストサマーウイカ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b9%e3%83%88%e3%82%b5%e3%83%9e%e3%83%bc%e3%82%a6%e3%82%a4%e3%82%ab) | N/A |
+| 41 | [もの漂着](http://twitter.com/search?q=%e3%82%82%e3%81%ae%e6%bc%82%e7%9d%80) | N/A |
+| 42 | [総力戦ショップ](http://twitter.com/search?q=%e7%b7%8f%e5%8a%9b%e6%88%a6%e3%82%b7%e3%83%a7%e3%83%83%e3%83%97) | N/A |
+| 43 | [フィリックス](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%aa%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 44 | [タワレコ](http://twitter.com/search?q=%e3%82%bf%e3%83%af%e3%83%ac%e3%82%b3) | N/A |
+| 45 | [グノーシア](http://twitter.com/search?q=%e3%82%b0%e3%83%8e%e3%83%bc%e3%82%b7%e3%82%a2) | N/A |
+| 46 | [児童手当の所得制限撤廃](http://twitter.com/search?q=%e5%85%90%e7%ab%a5%e6%89%8b%e5%bd%93%e3%81%ae%e6%89%80%e5%be%97%e5%88%b6%e9%99%90%e6%92%a4%e5%bb%83) | 児童手当の所得制限撤廃 is a policy in Japan that eliminates the income restrictions on child allowances. This means that parents with higher incomes will now be eligible to receive child allowances, regardless of their income level. In English, this policy is known as the Abolition of Income Restrictions on Child Allowances. |
+| 47 | [同人界隈](http://twitter.com/search?q=%e5%90%8c%e4%ba%ba%e7%95%8c%e9%9a%88) | N/A |
+| 48 | [武藤さん](http://twitter.com/search?q=%e6%ad%a6%e8%97%a4%e3%81%95%e3%82%93) | N/A |
+| 49 | [アトミックハート](http://twitter.com/search?q=%e3%82%a2%e3%83%88%e3%83%9f%e3%83%83%e3%82%af%e3%83%8f%e3%83%bc%e3%83%88) | N/A |
 
 
 

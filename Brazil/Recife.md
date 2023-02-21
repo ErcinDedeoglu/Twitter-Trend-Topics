@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Recife
 
-📆 Last Updated: `2023-02-21 07:16:29 UTC`
+📆 Last Updated: `2023-02-21 08:20:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
 | 2 | [Nando Reis](http://twitter.com/search?q=Nando+Reis) | Nando Reis is the stage name of Brazilian singer, songwriter, and multi-instrumentalist Fernando Anitelli. His name is a combination of his first name, Fernando, and the Portuguese word for king, rei. In English, Nando Reis translates to "Fernando King". |
-| 3 | [Marina Sena](http://twitter.com/search?q=Marina+Sena) | N/A |
-| 4 | [#GlobelezaBeijaFlor](http://twitter.com/search?q=%23GlobelezaBeijaFlor) | N/A |
-| 5 | [Paulo Barros](http://twitter.com/search?q=Paulo+Barros) | N/A |
-| 6 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
-| 7 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 8 | [Leandro Vieira](http://twitter.com/search?q=Leandro+Vieira) | N/A |
-| 9 | [Selminha](http://twitter.com/search?q=Selminha) | N/A |
-| 10 | [Claudinho](http://twitter.com/search?q=Claudinho) | N/A |
-| 11 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 12 | [Parintins](http://twitter.com/search?q=Parintins) | N/A |
-| 13 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 14 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 15 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
-| 16 | [Lampião](http://twitter.com/search?q=Lampi%c3%a3o) | N/A |
-| 17 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
-| 18 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
-| 19 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
-| 20 | [BAIXADA EM ATO DE REBELIÃO](http://twitter.com/search?q=BAIXADA+EM+ATO+DE+REBELI%c3%83O) | N/A |
+| 3 | [marina sena](http://twitter.com/search?q=marina+sena) | N/A |
+| 4 | [Marco Zero](http://twitter.com/search?q=Marco+Zero) | N/A |
+| 5 | [#GlobelezaBeijaFlor](http://twitter.com/search?q=%23GlobelezaBeijaFlor) | N/A |
+| 6 | [#GlobelezaBeijaFlor](http://twitter.com/search?q=%23GlobelezaBeijaFlor) | N/A |
+| 7 | [Paulo Barros](http://twitter.com/search?q=Paulo+Barros) | N/A |
+| 8 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
+| 9 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 10 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 11 | [Leandro Vieira](http://twitter.com/search?q=Leandro+Vieira) | N/A |
+| 12 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 13 | [Selminha](http://twitter.com/search?q=Selminha) | N/A |
+| 14 | [Claudinho](http://twitter.com/search?q=Claudinho) | N/A |
+| 15 | [Parintins](http://twitter.com/search?q=Parintins) | N/A |
+| 16 | [BAIXADA EM ATO DE REBELIÃO](http://twitter.com/search?q=BAIXADA+EM+ATO+DE+REBELI%c3%83O) | N/A |
+| 17 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 18 | [Lampião](http://twitter.com/search?q=Lampi%c3%a3o) | N/A |
+| 19 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
+| 20 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
 | 21 | [Mestre Lolo](http://twitter.com/search?q=Mestre+Lolo) | N/A |
-| 22 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 23 | [Soberana](http://twitter.com/search?q=Soberana) | N/A |
-| 24 | [WE LOVE YOU SAVANNAH](http://twitter.com/search?q=WE+LOVE+YOU+SAVANNAH) | N/A |
-| 25 | [centenário](http://twitter.com/search?q=centen%c3%a1rio) | N/A |
-| 26 | [Caprichoso](http://twitter.com/search?q=Caprichoso) | N/A |
+| 22 | [Soberana](http://twitter.com/search?q=Soberana) | N/A |
+| 23 | [Campeã](http://twitter.com/search?q=Campe%c3%a3) | N/A |
+| 24 | [Caprichoso](http://twitter.com/search?q=Caprichoso) | N/A |
+| 25 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 26 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
 | 27 | [Kaká](http://twitter.com/search?q=Kak%c3%a1) | Kaká is a nickname for the Brazilian soccer player Ricardo Izecson dos Santos Leite, who is commonly known as Kaká. The name is derived from the Portuguese pronunciation of Ricardo, which is "ka-ka-shu". In English, it can be translated to mean "Ricardo". |
-| 28 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
+| 28 | [IMPECÁVEL](http://twitter.com/search?q=IMPEC%c3%81VEL) | N/A |
 | 29 | [Maiara](http://twitter.com/search?q=Maiara) | Maiara is a female name of Brazilian origin. It is derived from the Tupi language and means "wise". |
-| 30 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
-| 31 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
-| 32 | [IMPECÁVEL](http://twitter.com/search?q=IMPEC%c3%81VEL) | N/A |
-| 33 | [Campeã](http://twitter.com/search?q=Campe%c3%a3) | N/A |
+| 30 | [Leopoldina](http://twitter.com/search?q=Leopoldina) | N/A |
+| 31 | [centenário](http://twitter.com/search?q=centen%c3%a1rio) | N/A |
+| 32 | [Milton Cunha](http://twitter.com/search?q=Milton+Cunha) | N/A |
+| 33 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
 | 34 | [#bbb233](http://twitter.com/search?q=%23bbb233) | N/A |
-| 35 | [#SUGA_AgustD_TOUR](http://twitter.com/search?q=%23SUGA_AgustD_TOUR) | N/A |
-| 36 | [Galisteu](http://twitter.com/search?q=Galisteu) | N/A |
-| 37 | [Milton Cunha](http://twitter.com/search?q=Milton+Cunha) | N/A |
-| 38 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 39 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
-| 40 | [Lage](http://twitter.com/search?q=Lage) | N/A |
-| 41 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 42 | [Beira Mar](http://twitter.com/search?q=Beira+Mar) | N/A |
-| 43 | [Key e Gustavo](http://twitter.com/search?q=Key+e+Gustavo) | Key e Gustavo is a Brazilian expression that translates to "Come on, Gustavo!" It is used as an encouragement or to show support for someone. |
-| 44 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 45 | [Cartoonizando](http://twitter.com/search?q=Cartoonizando) | N/A |
-| 46 | [Mayara Lima](http://twitter.com/search?q=Mayara+Lima) | N/A |
-| 47 | [beto carrero](http://twitter.com/search?q=beto+carrero) | N/A |
-| 48 | [Paulinho da Viola](http://twitter.com/search?q=Paulinho+da+Viola) | N/A |
-| 49 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
-| 50 | [sarah aline](http://twitter.com/search?q=sarah+aline) | N/A |
+| 35 | [Samba](http://twitter.com/search?q=Samba) | N/A |
+| 36 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 37 | [Galisteu](http://twitter.com/search?q=Galisteu) | N/A |
+| 38 | [beto carrero](http://twitter.com/search?q=beto+carrero) | N/A |
+| 39 | [Lage](http://twitter.com/search?q=Lage) | N/A |
+| 40 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 41 | [Beira Mar](http://twitter.com/search?q=Beira+Mar) | N/A |
+| 42 | [Key e Gustavo](http://twitter.com/search?q=Key+e+Gustavo) | Key e Gustavo is a Brazilian expression that translates to "Come on, Gustavo!" It is used as an encouragement or to show support for someone. |
+| 43 | [Cartoonizando](http://twitter.com/search?q=Cartoonizando) | N/A |
+| 44 | [Gabi Martins](http://twitter.com/search?q=Gabi+Martins) | N/A |
+| 45 | [Cláudia Raia](http://twitter.com/search?q=Cl%c3%a1udia+Raia) | N/A |
+| 46 | [Madureira](http://twitter.com/search?q=Madureira) | Madureira is a neighborhood in Rio de Janeiro, Brazil. It is known for its lively atmosphere and vibrant culture. In English, the name Madureira means "mature tree". |
+| 47 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 48 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 49 | [Dudu Paes](http://twitter.com/search?q=Dudu+Paes) | N/A |
+| 50 | [Eduardo Paes](http://twitter.com/search?q=Eduardo+Paes) | N/A |
 
 
 

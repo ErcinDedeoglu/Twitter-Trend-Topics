@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-21 07:17:11 UTC`
+📆 Last Updated: `2023-02-21 08:21:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 2 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 3 | [#Rosenmontag](http://twitter.com/search?q=%23Rosenmontag) | N/A |
-| 4 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 5 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
-| 6 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 7 | [#wsmds](http://twitter.com/search?q=%23wsmds) | N/A |
-| 8 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 9 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
+| 1 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 2 | [#Rosenmontag](http://twitter.com/search?q=%23Rosenmontag) | N/A |
+| 3 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 4 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
+| 5 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
+| 6 | [#FirstDatesHotel](http://twitter.com/search?q=%23FirstDatesHotel) | N/A |
+| 7 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
+| 8 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 9 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
 | 10 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 11 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
 | 12 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 14 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 15 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
-| 16 | [Moin Thomas](http://twitter.com/search?q=Moin+Thomas) | N/A |
-| 17 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
-| 18 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
-| 19 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 20 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 13 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 15 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 16 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 17 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 18 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 19 | [James Rizzi](http://twitter.com/search?q=James+Rizzi) | N/A |
+| 20 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
 | 21 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 22 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 23 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 24 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 22 | [Guten Morgen Claudia](http://twitter.com/search?q=Guten+Morgen+Claudia) | N/A |
+| 23 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 24 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
 | 25 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 26 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 27 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 28 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 29 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 30 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 31 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 26 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 27 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 28 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
+| 29 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 30 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 31 | [Guten Morgen Dietmar](http://twitter.com/search?q=Guten+Morgen+Dietmar) | N/A |
 | 32 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 33 | [Guten Morgen Rainer](http://twitter.com/search?q=Guten+Morgen+Rainer) | N/A |
-| 34 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 35 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 36 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 37 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 38 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 39 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 40 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 41 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 42 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 33 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 34 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 35 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 36 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
+| 37 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 38 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 39 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 40 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
+| 41 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 42 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
 | 43 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 44 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 45 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 46 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
-| 47 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 48 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 49 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 50 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
+| 44 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
+| 45 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 46 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 47 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 48 | [Nagelsmann](http://twitter.com/search?q=Nagelsmann) | Nagelsmann is a German surname. It is derived from the German word "Nagel," which means "nail." In English, the name can be translated to mean "one who nails things together." |
+| 49 | [Iris](http://twitter.com/search?q=Iris) | N/A |
+| 50 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
 
 
 

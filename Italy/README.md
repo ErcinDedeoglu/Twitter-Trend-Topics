@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-21 07:17:12 UTC`
+📆 Last Updated: `2023-02-21 08:21:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Italy
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [#21febbraio](http://twitter.com/search?q=%2321febbraio) | N/A |
+| 1 | [#21febbraio](http://twitter.com/search?q=%2321febbraio) | N/A |
+| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 3 | [#hannoDeluso](http://twitter.com/search?q=%23hannoDeluso) | N/A |
 | 4 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 5 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 5 | [Buongiorno Eric](http://twitter.com/search?q=Buongiorno+Eric) | N/A |
 | 6 | [#QuartaRepubblica](http://twitter.com/search?q=%23QuartaRepubblica) | N/A |
 | 7 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 8 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 9 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 8 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
+| 9 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
 | 10 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 11 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
-| 12 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 13 | [Tonon](http://twitter.com/search?q=Tonon) | N/A |
-| 14 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 11 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 12 | [Giordano](http://twitter.com/search?q=Giordano) | N/A |
+| 13 | [Buon Martedì](http://twitter.com/search?q=Buon+Marted%c3%ac) | N/A |
+| 14 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
 | 15 | [Casapound](http://twitter.com/search?q=Casapound) | N/A |
-| 16 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
-| 17 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 18 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 19 | [Tozzi](http://twitter.com/search?q=Tozzi) | N/A |
-| 20 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
-| 21 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 22 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 23 | [Matteo](http://twitter.com/search?q=Matteo) | Matteo is an Italian name derived from the Hebrew name Mattathias, meaning "gift of God". In English, it is usually translated as Matthew. |
+| 16 | [Tonon](http://twitter.com/search?q=Tonon) | N/A |
+| 17 | [Nastro](http://twitter.com/search?q=Nastro) | N/A |
+| 18 | [Buongiorno Stefania](http://twitter.com/search?q=Buongiorno+Stefania) | N/A |
+| 19 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 20 | [Tozzi](http://twitter.com/search?q=Tozzi) | N/A |
+| 21 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 22 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 23 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
 | 24 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
 | 25 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
-| 26 | [Digos](http://twitter.com/search?q=Digos) | N/A |
-| 27 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 26 | [Buongiorno Gerardina](http://twitter.com/search?q=Buongiorno+Gerardina) | N/A |
+| 27 | [Digos](http://twitter.com/search?q=Digos) | N/A |
 | 28 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 29 | [zorzi](http://twitter.com/search?q=zorzi) | N/A |
-| 30 | [trevisani](http://twitter.com/search?q=trevisani) | N/A |
-| 31 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
-| 32 | [le ragazze](http://twitter.com/search?q=le+ragazze) | N/A |
-| 33 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 34 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 29 | [Zorzi](http://twitter.com/search?q=Zorzi) | N/A |
+| 30 | [le ragazze](http://twitter.com/search?q=le+ragazze) | N/A |
+| 31 | [Carnevale](http://twitter.com/search?q=Carnevale) | N/A |
+| 32 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 33 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 34 | [Buongiorno Fede](http://twitter.com/search?q=Buongiorno+Fede) | N/A |
 | 35 | [Capitan Harlock](http://twitter.com/search?q=Capitan+Harlock) | N/A |
-| 36 | [Prince of Persia](http://twitter.com/search?q=Prince+of+Persia) | N/A |
-| 37 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 38 | [persiani](http://twitter.com/search?q=persiani) | N/A |
-| 39 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 40 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 41 | [Sabatini](http://twitter.com/search?q=Sabatini) | N/A |
-| 42 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 43 | [Carnevale](http://twitter.com/search?q=Carnevale) | N/A |
-| 44 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 45 | [Buongiorno Roby](http://twitter.com/search?q=Buongiorno+Roby) | N/A |
-| 46 | [Nikita](http://twitter.com/search?q=Nikita) | Nikita is a Russian female name derived from the Greek name Nikētas, meaning “unconquered” or “victory of the people.” It is also a popular name in other countries, including India, where it is spelled Nikitha. |
-| 47 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 48 | [Dahl](http://twitter.com/search?q=Dahl) | N/A |
-| 49 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 50 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 36 | [Kostic](http://twitter.com/search?q=Kostic) | N/A |
+| 37 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 38 | [Prince of Persia](http://twitter.com/search?q=Prince+of+Persia) | N/A |
+| 39 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 40 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
+| 41 | [Buongiorno Barbara](http://twitter.com/search?q=Buongiorno+Barbara) | N/A |
+| 42 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 43 | [Rossy](http://twitter.com/search?q=Rossy) | N/A |
+| 44 | [Sabatini](http://twitter.com/search?q=Sabatini) | N/A |
+| 45 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
+| 46 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 47 | [Morgan](http://twitter.com/search?q=Morgan) | N/A |
+| 48 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
+| 49 | [Trevisani](http://twitter.com/search?q=Trevisani) | N/A |
+| 50 | [violetta](http://twitter.com/search?q=violetta) | N/A |
 
 
 
