@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Frankfurt
 
-📆 Last Updated: `2023-02-21 14:17:17 UTC`
+📆 Last Updated: `2023-02-21 15:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
 | 2 | [#100AufDerAutobahn](http://twitter.com/search?q=%23100AufDerAutobahn) | N/A |
 | 3 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 4 | [#Rosenmontag](http://twitter.com/search?q=%23Rosenmontag) | N/A |
+| 4 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
 | 5 | [Baum](http://twitter.com/search?q=Baum) | N/A |
 | 6 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
 | 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 8 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 9 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
-| 10 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 11 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 12 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 13 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 8 | [#AtomicHeart](http://twitter.com/search?q=%23AtomicHeart) | N/A |
+| 9 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 10 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 11 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
+| 12 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 13 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 14 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
 | 15 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 16 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 17 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
-| 18 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 19 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 20 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 21 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 22 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 23 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 24 | [Rede zur Lage der Nation](http://twitter.com/search?q=Rede+zur+Lage+der+Nation) | N/A |
-| 25 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 26 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 27 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 28 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 29 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 30 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 31 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 32 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 33 | [Minima Moralia](http://twitter.com/search?q=Minima+Moralia) | N/A |
-| 34 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
-| 35 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 36 | [Hertha BSC](http://twitter.com/search?q=Hertha+BSC) | N/A |
-| 37 | [Nadja Tiller](http://twitter.com/search?q=Nadja+Tiller) | N/A |
-| 38 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 39 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 40 | [Bourdieu](http://twitter.com/search?q=Bourdieu) | N/A |
-| 41 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 42 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 43 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 44 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
-| 45 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 46 | [Adorno](http://twitter.com/search?q=Adorno) | N/A |
-| 47 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 48 | [Kurzarbeit](http://twitter.com/search?q=Kurzarbeit) | N/A |
-| 49 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 18 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 19 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 20 | [luftalarm](http://twitter.com/search?q=luftalarm) | N/A |
+| 21 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 22 | [Rede zur Lage der Nation](http://twitter.com/search?q=Rede+zur+Lage+der+Nation) | N/A |
+| 23 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 24 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 25 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 26 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 27 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 28 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 29 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 30 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 31 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 32 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 33 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
+| 34 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 35 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
+| 36 | [Minima Moralia](http://twitter.com/search?q=Minima+Moralia) | N/A |
+| 37 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 38 | [Nadja Tiller](http://twitter.com/search?q=Nadja+Tiller) | N/A |
+| 39 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 40 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 41 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 42 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 43 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 44 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 45 | [Adorno](http://twitter.com/search?q=Adorno) | N/A |
+| 46 | [Kurzarbeit](http://twitter.com/search?q=Kurzarbeit) | N/A |
+| 47 | [Bourdieu](http://twitter.com/search?q=Bourdieu) | N/A |
+| 48 | [Amtsanmaßung](http://twitter.com/search?q=Amtsanma%c3%9fung) | N/A |
+| 49 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-21 14:18:00 UTC`
+📆 Last Updated: `2023-02-21 15:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Canada
 | 1 | [#FamilyDay](http://twitter.com/search?q=%23FamilyDay) | N/A |
 | 2 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 3 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 4 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
-| 5 | [5.9% in January](http://twitter.com/search?q=5.9%25+in+January) | N/A |
+| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 5 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
 | 6 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 7 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 9 | [Welcome to Canada](http://twitter.com/search?q=Welcome+to+Canada) | N/A |
-| 10 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 11 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 13 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 14 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 15 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 16 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
+| 7 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 8 | [Welcome to Canada](http://twitter.com/search?q=Welcome+to+Canada) | N/A |
+| 9 | [5.9% in January](http://twitter.com/search?q=5.9%25+in+January) | N/A |
+| 10 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 11 | [Pancake Tuesday](http://twitter.com/search?q=Pancake+Tuesday) | N/A |
+| 12 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 13 | [Guns N](http://twitter.com/search?q=Guns+N) | N/A |
+| 14 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
+| 15 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 17 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 19 | [Happy Family](http://twitter.com/search?q=Happy+Family) | N/A |
-| 20 | [Mister Bean](http://twitter.com/search?q=Mister+Bean) | N/A |
-| 21 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 22 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 23 | [Louis Riel](http://twitter.com/search?q=Louis+Riel) | N/A |
-| 24 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 25 | [Gmgm](http://twitter.com/search?q=Gmgm) | N/A |
-| 26 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
-| 27 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 28 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
-| 29 | [Jamie Sale](http://twitter.com/search?q=Jamie+Sale) | N/A |
-| 30 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 31 | [team giannis](http://twitter.com/search?q=team+giannis) | N/A |
-| 32 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 18 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 19 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 20 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 21 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 22 | [Louis Riel](http://twitter.com/search?q=Louis+Riel) | N/A |
+| 23 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 24 | [Tems](http://twitter.com/search?q=Tems) | Tems is a software platform developed by Nokia that provides network optimization and assurance services for mobile networks. It is designed to help mobile operators improve the quality of their networks and reduce operational costs. The name Tems is derived from the phrase “Telecom Management Solutions”. |
+| 25 | [Jamie Sale](http://twitter.com/search?q=Jamie+Sale) | N/A |
+| 26 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 27 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 28 | [Team Giannis](http://twitter.com/search?q=Team+Giannis) | N/A |
+| 29 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 30 | [Happy Family](http://twitter.com/search?q=Happy+Family) | N/A |
+| 31 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 32 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
 | 33 | [Jimmy Carter](http://twitter.com/search?q=Jimmy+Carter) | N/A |
-| 34 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 35 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 36 | [gambrell](http://twitter.com/search?q=gambrell) | N/A |
-| 37 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 38 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 39 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 40 | [Moncton](http://twitter.com/search?q=Moncton) | N/A |
-| 41 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 42 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
-| 43 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
-| 44 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
-| 45 | [Home Depot](http://twitter.com/search?q=Home+Depot) | N/A |
-| 46 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
-| 47 | [Tyler Motte](http://twitter.com/search?q=Tyler+Motte) | N/A |
+| 34 | [gambrell](http://twitter.com/search?q=gambrell) | N/A |
+| 35 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 36 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 37 | [Greer](http://twitter.com/search?q=Greer) | Greer is a surname of Scottish origin. It is derived from the Gaelic word "griùrach", meaning "dweller by the thicket". |
+| 38 | [Conrad Black](http://twitter.com/search?q=Conrad+Black) | N/A |
+| 39 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
+| 40 | [Mister Bean](http://twitter.com/search?q=Mister+Bean) | N/A |
+| 41 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 42 | [Post Malone](http://twitter.com/search?q=Post+Malone) | N/A |
+| 43 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 44 | [Tyler Motte](http://twitter.com/search?q=Tyler+Motte) | N/A |
+| 45 | [Connor Hellebuyck](http://twitter.com/search?q=Connor+Hellebuyck) | N/A |
+| 46 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 47 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 | 48 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 49 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
-| 50 | [Queen's Park](http://twitter.com/search?q=Queen%27s+Park) | N/A |
+| 49 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 50 | [Ducks](http://twitter.com/search?q=Ducks) | N/A |
 
 
 

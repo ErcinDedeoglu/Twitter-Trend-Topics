@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-21 14:18:02 UTC`
+📆 Last Updated: `2023-02-21 15:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Germany
 | 2 | [#100AufDerAutobahn](http://twitter.com/search?q=%23100AufDerAutobahn) | N/A |
 | 3 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 4 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
-| 5 | [Baum](http://twitter.com/search?q=Baum) | N/A |
-| 6 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 7 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 8 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 5 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 6 | [Baum](http://twitter.com/search?q=Baum) | N/A |
+| 7 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 8 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 9 | [#AtomicHeart](http://twitter.com/search?q=%23AtomicHeart) | N/A |
-| 10 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 11 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
-| 12 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 13 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 14 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 15 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 16 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 17 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 18 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 19 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
-| 20 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 21 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 22 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 23 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 24 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 25 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 11 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
+| 12 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 13 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
+| 14 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 15 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 16 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 17 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 18 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 19 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 20 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
+| 21 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 22 | [luftalarm](http://twitter.com/search?q=luftalarm) | N/A |
+| 23 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 24 | [Rede zur Lage der Nation](http://twitter.com/search?q=Rede+zur+Lage+der+Nation) | N/A |
+| 25 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
 | 26 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 27 | [Rede zur Lage der Nation](http://twitter.com/search?q=Rede+zur+Lage+der+Nation) | N/A |
-| 28 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 29 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 30 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 31 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 32 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 33 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 34 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
-| 35 | [Minima Moralia](http://twitter.com/search?q=Minima+Moralia) | N/A |
-| 36 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 37 | [Hertha BSC](http://twitter.com/search?q=Hertha+BSC) | N/A |
-| 38 | [Nadja Tiller](http://twitter.com/search?q=Nadja+Tiller) | N/A |
-| 39 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 40 | [Bourdieu](http://twitter.com/search?q=Bourdieu) | N/A |
-| 41 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 42 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 43 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 27 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 28 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 29 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 30 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 31 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 32 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 33 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
+| 34 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 35 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 36 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 37 | [Minima Moralia](http://twitter.com/search?q=Minima+Moralia) | N/A |
+| 38 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 39 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
+| 40 | [Nadja Tiller](http://twitter.com/search?q=Nadja+Tiller) | N/A |
+| 41 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 42 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 43 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
 | 44 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 45 | [pfannkuchen](http://twitter.com/search?q=pfannkuchen) | N/A |
-| 46 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 45 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 46 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
 | 47 | [Adorno](http://twitter.com/search?q=Adorno) | N/A |
 | 48 | [Kurzarbeit](http://twitter.com/search?q=Kurzarbeit) | N/A |
-| 49 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 50 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 49 | [Bourdieu](http://twitter.com/search?q=Bourdieu) | N/A |
+| 50 | [Amtsanmaßung](http://twitter.com/search?q=Amtsanma%c3%9fung) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuala Lumpur
 
-📆 Last Updated: `2023-02-21 14:17:31 UTC`
+📆 Last Updated: `2023-02-21 15:17:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Malaysia](</Malaysia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
-| 2 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 3 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
-| 4 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 5 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 6 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 7 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 8 | [#ZeeNunewXVamino](http://twitter.com/search?q=%23ZeeNunewXVamino) | N/A |
-| 9 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
-| 10 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 11 | [the boyz roar-ing comeback](http://twitter.com/search?q=the+boyz+roar-ing+comeback) | N/A |
-| 12 | [Wan Saiful](http://twitter.com/search?q=Wan+Saiful) | N/A |
-| 13 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 14 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 15 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 16 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 17 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
-| 18 | [Sabrina Carpenter](http://twitter.com/search?q=Sabrina+Carpenter) | N/A |
-| 19 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 20 | [Jana Wibawa](http://twitter.com/search?q=Jana+Wibawa) | N/A |
-| 21 | [HAPPY BIRTHDAY MEWMEW](http://twitter.com/search?q=HAPPY+BIRTHDAY+MEWMEW) | N/A |
-| 22 | [kayman](http://twitter.com/search?q=kayman) | N/A |
-| 23 | [DMD COVER](http://twitter.com/search?q=DMD+COVER) | N/A |
-| 24 | [safe flight kanawut](http://twitter.com/search?q=safe+flight+kanawut) | N/A |
-| 25 | [centerpoint](http://twitter.com/search?q=centerpoint) | N/A |
-| 26 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 27 | [Enna](http://twitter.com/search?q=Enna) | Enna is a city in Sicily, Italy. In English, it means "here". |
-| 28 | [Safee Sali](http://twitter.com/search?q=Safee+Sali) | N/A |
-| 29 | [Good Vibes](http://twitter.com/search?q=Good+Vibes) | N/A |
-| 30 | [o first concept photo](http://twitter.com/search?q=o+first+concept+photo) | N/A |
-| 31 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
-| 32 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
-| 33 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 34 | [Dhruv](http://twitter.com/search?q=Dhruv) | N/A |
-| 35 | [Decision to Leave](http://twitter.com/search?q=Decision+to+Leave) | Decision to Leave is a phrase used to describe the act of making a conscious choice to end a relationship, job, or other situation. It is often used in the context of someone deciding to leave a job or relationship due to dissatisfaction or unhappiness. |
-| 36 | [Beto](http://twitter.com/search?q=Beto) | N/A |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 39 | [THEY NEED TO APOLOGIZE](http://twitter.com/search?q=THEY+NEED+TO+APOLOGIZE) | N/A |
-| 40 | [anderson paak](http://twitter.com/search?q=anderson+paak) | N/A |
-| 41 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 42 | [Muse](http://twitter.com/search?q=Muse) | N/A |
-| 43 | [Rini](http://twitter.com/search?q=Rini) | N/A |
-| 44 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 45 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 46 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
-| 47 | [MACC](http://twitter.com/search?q=MACC) | N/A |
-| 48 | [Sepang](http://twitter.com/search?q=Sepang) | N/A |
-| 49 | [consplay](http://twitter.com/search?q=consplay) | N/A |
-| 50 | [Coachella](http://twitter.com/search?q=Coachella) | Coachella is an annual music and arts festival held in Indio, California. It is one of the most popular music festivals in the world, featuring a variety of genres including rock, indie, hip hop, and electronic dance music. The name Coachella comes from the Spanish word "conchella," which means "little snake." |
+| 1 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 2 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
+| 3 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 4 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
+| 5 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 6 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 7 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 8 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 9 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 10 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 11 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 12 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 13 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
+| 14 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 15 | [Wan Saiful](http://twitter.com/search?q=Wan+Saiful) | N/A |
+| 16 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 17 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 18 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 19 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 20 | [Bersatu](http://twitter.com/search?q=Bersatu) | N/A |
+| 21 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 22 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 23 | [MINHYUK](http://twitter.com/search?q=MINHYUK) | N/A |
+| 24 | [Kayman](http://twitter.com/search?q=Kayman) | N/A |
+| 25 | [Jana Wibawa](http://twitter.com/search?q=Jana+Wibawa) | N/A |
+| 26 | [safe flight kanawut](http://twitter.com/search?q=safe+flight+kanawut) | N/A |
+| 27 | [Good Vibes](http://twitter.com/search?q=Good+Vibes) | N/A |
+| 28 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
+| 29 | [Enna](http://twitter.com/search?q=Enna) | Enna is a city in Sicily, Italy. In English, it means "here". |
+| 30 | [HAPPY BIRTHDAY MEWMEW](http://twitter.com/search?q=HAPPY+BIRTHDAY+MEWMEW) | N/A |
+| 31 | [Safee Sali](http://twitter.com/search?q=Safee+Sali) | N/A |
+| 32 | [Sabrina Carpenter](http://twitter.com/search?q=Sabrina+Carpenter) | N/A |
+| 33 | [o first concept photo](http://twitter.com/search?q=o+first+concept+photo) | N/A |
+| 34 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 35 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 36 | [Dhruv](http://twitter.com/search?q=Dhruv) | N/A |
+| 37 | [Decision to Leave](http://twitter.com/search?q=Decision+to+Leave) | Decision to Leave is a phrase used to describe the act of making a conscious choice to end a relationship, job, or other situation. It is often used in the context of someone deciding to leave a job or relationship due to dissatisfaction or unhappiness. |
+| 38 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
+| 39 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
+| 40 | [Anderson Paak](http://twitter.com/search?q=Anderson+Paak) | N/A |
+| 41 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
+| 42 | [THEY NEED TO APOLOGIZE](http://twitter.com/search?q=THEY+NEED+TO+APOLOGIZE) | N/A |
+| 43 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 45 | [RINI](http://twitter.com/search?q=RINI) | N/A |
+| 46 | [Muse](http://twitter.com/search?q=Muse) | N/A |
+| 47 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
+| 48 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
+| 49 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 50 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
 
 
 

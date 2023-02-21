@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-02-21 14:17:46 UTC`
+📆 Last Updated: `2023-02-21 15:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Tamil](http://twitter.com/search?q=%23Tamil) | N/A |
-| 2 | [#MagizhThirumeni](http://twitter.com/search?q=%23MagizhThirumeni) | N/A |
-| 3 | [#தமிழைத்தேடிமருத்துவர்அய்யா](http://twitter.com/search?q=%23%e0%ae%a4%e0%ae%ae%e0%ae%bf%e0%ae%b4%e0%af%88%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%87%e0%ae%9f%e0%ae%bf%e0%ae%ae%e0%ae%b0%e0%af%81%e0%ae%a4%e0%af%8d%e0%ae%a4%e0%af%81%e0%ae%b5%e0%ae%b0%e0%af%8d%e0%ae%85%e0%ae%af%e0%af%8d%e0%ae%af%e0%ae%be) | N/A |
-| 4 | [#News18PunjabBiznext](http://twitter.com/search?q=%23News18PunjabBiznext) | N/A |
-| 5 | [#MinorityConclave](http://twitter.com/search?q=%23MinorityConclave) | N/A |
-| 6 | [IFSC At IVCA2023](http://twitter.com/search?q=IFSC+At+IVCA2023) | N/A |
-| 7 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 8 | [ELEGANT WINNER RUBINA](http://twitter.com/search?q=ELEGANT+WINNER+RUBINA) | N/A |
-| 9 | [जावेद अख्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%b5%e0%a5%87%e0%a4%a6+%e0%a4%85%e0%a4%96%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
-| 10 | [Aakash Chopra](http://twitter.com/search?q=Aakash+Chopra) | N/A |
-| 11 | [Abhishek Agarwal](http://twitter.com/search?q=Abhishek+Agarwal) | N/A |
-| 12 | [2YRS ELOQUENT WINNER RUBINA](http://twitter.com/search?q=2YRS+ELOQUENT+WINNER+RUBINA) | N/A |
-| 13 | [Venky](http://twitter.com/search?q=Venky) | N/A |
-| 14 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
-| 15 | [PATHAAN 1000 CRORES](http://twitter.com/search?q=PATHAAN+1000+CRORES) | N/A |
-| 16 | [Venkatesh Prasad](http://twitter.com/search?q=Venkatesh+Prasad) | N/A |
-| 17 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
-| 18 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 19 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 20 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 21 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 22 | [The Kashmir Files](http://twitter.com/search?q=The+Kashmir+Files) | N/A |
-| 23 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 24 | [Himachal Pradesh](http://twitter.com/search?q=Himachal+Pradesh) | N/A |
-| 25 | [मासूम बच्चे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b8%e0%a5%82%e0%a4%ae+%e0%a4%ac%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a5%87) | N/A |
-| 26 | [West Bengal](http://twitter.com/search?q=West+Bengal) | N/A |
-| 27 | [दहेज मुक्त भारत](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 28 | [Street](http://twitter.com/search?q=Street) | N/A |
-| 29 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
-| 30 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 31 | [Horrible](http://twitter.com/search?q=Horrible) | N/A |
-| 32 | [#ETFertilityAwards](http://twitter.com/search?q=%23ETFertilityAwards) | N/A |
-| 33 | [#HeraPheri3](http://twitter.com/search?q=%23HeraPheri3) | N/A |
-| 34 | [#VivekAgnihotri](http://twitter.com/search?q=%23VivekAgnihotri) | N/A |
-| 35 | [#javedakhtar](http://twitter.com/search?q=%23javedakhtar) | N/A |
-| 36 | [#AngelOneForAll](http://twitter.com/search?q=%23AngelOneForAll) | N/A |
-| 37 | [#Pathaan1000crWorldWide](http://twitter.com/search?q=%23Pathaan1000crWorldWide) | N/A |
-| 38 | [#ShowMeTheThumkaSongOutNow](http://twitter.com/search?q=%23ShowMeTheThumkaSongOutNow) | N/A |
-| 39 | [#KingOfKotha](http://twitter.com/search?q=%23KingOfKotha) | N/A |
-| 40 | [#straydogs](http://twitter.com/search?q=%23straydogs) | N/A |
-| 41 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
-| 42 | [#POCOC55onFlipkart](http://twitter.com/search?q=%23POCOC55onFlipkart) | N/A |
-| 43 | [#AgentFirstSingle](http://twitter.com/search?q=%23AgentFirstSingle) | N/A |
-| 44 | [#BikeTaxi](http://twitter.com/search?q=%23BikeTaxi) | N/A |
-| 45 | [#Hyderabad](http://twitter.com/search?q=%23Hyderabad) | N/A |
-| 46 | [#TuJhoothiMainMakkaar](http://twitter.com/search?q=%23TuJhoothiMainMakkaar) | N/A |
-| 47 | [#SJaishankar](http://twitter.com/search?q=%23SJaishankar) | N/A |
-| 48 | [#ShraddhaKapoor](http://twitter.com/search?q=%23ShraddhaKapoor) | N/A |
-| 49 | [#ChillaChilla](http://twitter.com/search?q=%23ChillaChilla) | N/A |
-| 50 | [#RanbirKapoor](http://twitter.com/search?q=%23RanbirKapoor) | N/A |
+| 1 | [#MagizhThirumeni](http://twitter.com/search?q=%23MagizhThirumeni) | N/A |
+| 2 | [#Tamil](http://twitter.com/search?q=%23Tamil) | N/A |
+| 3 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 4 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 6 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 7 | [KBKJ ARRIVES IN 2MONTHS](http://twitter.com/search?q=KBKJ+ARRIVES+IN+2MONTHS) | N/A |
+| 8 | [#KingOfKotha](http://twitter.com/search?q=%23KingOfKotha) | N/A |
+| 9 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 10 | [#MinorityConclave](http://twitter.com/search?q=%23MinorityConclave) | N/A |
+| 11 | [Vivek Agnihotri](http://twitter.com/search?q=Vivek+Agnihotri) | N/A |
+| 12 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
+| 13 | [Aakash Chopra](http://twitter.com/search?q=Aakash+Chopra) | N/A |
+| 14 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 15 | [जावेद अख्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%b5%e0%a5%87%e0%a4%a6+%e0%a4%85%e0%a4%96%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
+| 16 | [ELEGANT WINNER RUBINA](http://twitter.com/search?q=ELEGANT+WINNER+RUBINA) | N/A |
+| 17 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 18 | [Sushant Cuteness Overloaded](http://twitter.com/search?q=Sushant+Cuteness+Overloaded) | N/A |
+| 19 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 20 | [2YRS ELOQUENT WINNER RUBINA](http://twitter.com/search?q=2YRS+ELOQUENT+WINNER+RUBINA) | N/A |
+| 21 | [Venky](http://twitter.com/search?q=Venky) | N/A |
+| 22 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
+| 23 | [Venkatesh Prasad](http://twitter.com/search?q=Venkatesh+Prasad) | N/A |
+| 24 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
+| 25 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 26 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 27 | [pathaan 1000 crores](http://twitter.com/search?q=pathaan+1000+crores) | N/A |
+| 28 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 29 | [West Bengal](http://twitter.com/search?q=West+Bengal) | N/A |
+| 30 | [the kashmir files](http://twitter.com/search?q=the+kashmir+files) | N/A |
+| 31 | [Himachal Pradesh](http://twitter.com/search?q=Himachal+Pradesh) | N/A |
+| 32 | [Street](http://twitter.com/search?q=Street) | N/A |
+| 33 | [दहेज रूपी](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%b0%e0%a5%82%e0%a4%aa%e0%a5%80) | N/A |
+| 34 | [दहेज मुक्त भारत अभियान](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%85%e0%a4%ad%e0%a4%bf%e0%a4%af%e0%a4%be%e0%a4%a8) | N/A |
+| 35 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 36 | [Best Film](http://twitter.com/search?q=Best+Film) | N/A |
+| 37 | [Horrible](http://twitter.com/search?q=Horrible) | N/A |
+| 38 | [#etfertilityawards](http://twitter.com/search?q=%23etfertilityawards) | N/A |
+| 39 | [#News18PunjabBiznext](http://twitter.com/search?q=%23News18PunjabBiznext) | N/A |
+| 40 | [#HeraPheri3](http://twitter.com/search?q=%23HeraPheri3) | N/A |
+| 41 | [#AngelOneForAll](http://twitter.com/search?q=%23AngelOneForAll) | N/A |
+| 42 | [#javedakhtar](http://twitter.com/search?q=%23javedakhtar) | N/A |
+| 43 | [#DulquerSalmaan](http://twitter.com/search?q=%23DulquerSalmaan) | N/A |
+| 44 | [#Pathaan1000crWorldWide](http://twitter.com/search?q=%23Pathaan1000crWorldWide) | N/A |
+| 45 | [#MalliMalli](http://twitter.com/search?q=%23MalliMalli) | N/A |
+| 46 | [#ENGvPAK](http://twitter.com/search?q=%23ENGvPAK) | N/A |
+| 47 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
+| 48 | [#ShowMeTheThumkaSongOutNow](http://twitter.com/search?q=%23ShowMeTheThumkaSongOutNow) | N/A |
+| 49 | [#straydogs](http://twitter.com/search?q=%23straydogs) | N/A |
+| 50 | [#AgentFirstSingle](http://twitter.com/search?q=%23AgentFirstSingle) | N/A |
 
 
 

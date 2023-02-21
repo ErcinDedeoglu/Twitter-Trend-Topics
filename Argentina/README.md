@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Argentina
 
-📆 Last Updated: `2023-02-21 14:17:59 UTC`
+📆 Last Updated: `2023-02-21 15:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Argentina
 | 1 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
 | 2 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
 | 3 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
-| 4 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 5 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
-| 6 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 7 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
-| 8 | [#GH2023](http://twitter.com/search?q=%23GH2023) | #GH2023 is a hashtag used to refer to the 2023 Ghanaian general election. It is used to discuss and share news and information related to the upcoming election. |
-| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 11 | [Nancy Pazos](http://twitter.com/search?q=Nancy+Pazos) | Nancy Pazos is a Spanish singer and songwriter. Her name translates to "peaceful Nancy" in English. |
-| 12 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 13 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 14 | [División Palermo](http://twitter.com/search?q=Divisi%c3%b3n+Palermo) | N/A |
-| 15 | [Doman](http://twitter.com/search?q=Doman) | N/A |
-| 16 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 17 | [Sobrino](http://twitter.com/search?q=Sobrino) | Sobrino is a Spanish word meaning "nephew". It is used to refer to a male relative who is the son of one's brother or sister. |
-| 18 | [Ginocchio](http://twitter.com/search?q=Ginocchio) | N/A |
-| 19 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
-| 20 | [tini en viña](http://twitter.com/search?q=tini+en+vi%c3%b1a) | N/A |
-| 21 | [Durax](http://twitter.com/search?q=Durax) | N/A |
-| 22 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
-| 23 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
-| 24 | [bareiro](http://twitter.com/search?q=bareiro) | N/A |
-| 25 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 26 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 27 | [estas mas gordito](http://twitter.com/search?q=estas+mas+gordito) | N/A |
-| 28 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 29 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 30 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 31 | [Cerutti](http://twitter.com/search?q=Cerutti) | N/A |
-| 32 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 33 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 34 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 35 | [Presa](http://twitter.com/search?q=Presa) | N/A |
-| 36 | [Janson](http://twitter.com/search?q=Janson) | N/A |
-| 37 | [precios justos](http://twitter.com/search?q=precios+justos) | N/A |
-| 38 | [Mecha](http://twitter.com/search?q=Mecha) | N/A |
-| 39 | [BLANDI](http://twitter.com/search?q=BLANDI) | N/A |
-| 40 | [Cosquín](http://twitter.com/search?q=Cosqu%c3%adn) | N/A |
-| 41 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 42 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 43 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 44 | [from the dining table](http://twitter.com/search?q=from+the+dining+table) | N/A |
-| 45 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 46 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
-| 47 | [leguizamon](http://twitter.com/search?q=leguizamon) | N/A |
-| 48 | [D'Alessio](http://twitter.com/search?q=D%27Alessio) | N/A |
-| 49 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 50 | [Irala](http://twitter.com/search?q=Irala) | N/A |
+| 4 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 5 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 6 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 7 | [Boletos](http://twitter.com/search?q=Boletos) | N/A |
+| 8 | [#AntesQueNadie](http://twitter.com/search?q=%23AntesQueNadie) | N/A |
+| 9 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
+| 10 | [#スキズ_THESOUND発売](http://twitter.com/search?q=%23%e3%82%b9%e3%82%ad%e3%82%ba_THESOUND%e7%99%ba%e5%a3%b2) | N/A |
+| 11 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
+| 12 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 13 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 14 | [#GranHermano](http://twitter.com/search?q=%23GranHermano) | Gran Hermano is a Spanish reality television show based on the Big Brother franchise. The show follows a group of contestants, known as housemates, who live together in a specially constructed house that is isolated from the outside world. The housemates are monitored by cameras and microphones 24 hours a day, and they must compete in various tasks and challenges to win prizes. The English translation of Gran Hermano is "Big Brother". |
+| 15 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
+| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 17 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 18 | [Nancy Pazos](http://twitter.com/search?q=Nancy+Pazos) | Nancy Pazos is a Spanish singer and songwriter. Her name translates to "peaceful Nancy" in English. |
+| 19 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 20 | [División Palermo](http://twitter.com/search?q=Divisi%c3%b3n+Palermo) | N/A |
+| 21 | [Doman](http://twitter.com/search?q=Doman) | N/A |
+| 22 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 23 | [BATTLE GROUND](http://twitter.com/search?q=BATTLE+GROUND) | N/A |
+| 24 | [haedo](http://twitter.com/search?q=haedo) | N/A |
+| 25 | [Ginocchio](http://twitter.com/search?q=Ginocchio) | N/A |
+| 26 | [tini en viña](http://twitter.com/search?q=tini+en+vi%c3%b1a) | N/A |
+| 27 | [Rodolfo](http://twitter.com/search?q=Rodolfo) | N/A |
+| 28 | [Sobrino](http://twitter.com/search?q=Sobrino) | Sobrino is a Spanish word meaning "nephew". It is used to refer to a male relative who is the son of one's brother or sister. |
+| 29 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 30 | [Durax](http://twitter.com/search?q=Durax) | N/A |
+| 31 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 32 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
+| 33 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
+| 34 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 35 | [estas mas gordito](http://twitter.com/search?q=estas+mas+gordito) | N/A |
+| 36 | [Bareiro](http://twitter.com/search?q=Bareiro) | N/A |
+| 37 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 38 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 39 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 40 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 41 | [Cerutti](http://twitter.com/search?q=Cerutti) | N/A |
+| 42 | [Estadista](http://twitter.com/search?q=Estadista) | N/A |
+| 43 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 44 | [Presa](http://twitter.com/search?q=Presa) | N/A |
+| 45 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
+| 46 | [Janson](http://twitter.com/search?q=Janson) | N/A |
+| 47 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 48 | [Cosquín](http://twitter.com/search?q=Cosqu%c3%adn) | N/A |
+| 49 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 50 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
 
 
 

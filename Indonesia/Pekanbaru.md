@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-21 14:17:23 UTC`
+📆 Last Updated: `2023-02-21 15:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bryan Domani](http://twitter.com/search?q=Bryan+Domani) | N/A |
-| 2 | [#HelloAgainCello](http://twitter.com/search?q=%23HelloAgainCello) | N/A |
-| 3 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 4 | [#Beningsskincare](http://twitter.com/search?q=%23Beningsskincare) | N/A |
-| 5 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
-| 6 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 7 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 8 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
-| 9 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
-| 10 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 11 | [WEEKENDER](http://twitter.com/search?q=WEEKENDER) | N/A |
-| 12 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
-| 13 | [Kusuka](http://twitter.com/search?q=Kusuka) | N/A |
-| 14 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 15 | [Matiin](http://twitter.com/search?q=Matiin) | N/A |
-| 16 | [SN MARCH JAPAN DEBUT](http://twitter.com/search?q=SN+MARCH+JAPAN+DEBUT) | N/A |
-| 17 | [Raffi](http://twitter.com/search?q=Raffi) | N/A |
-| 18 | [HBD Win Metawin](http://twitter.com/search?q=HBD+Win+Metawin) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 21 | [Babah](http://twitter.com/search?q=Babah) | N/A |
-| 22 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 23 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 24 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 25 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 26 | [Papua Pegunungan](http://twitter.com/search?q=Papua+Pegunungan) | N/A |
-| 27 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 28 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
-| 29 | [cabut](http://twitter.com/search?q=cabut) | N/A |
-| 30 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 31 | [Piper](http://twitter.com/search?q=Piper) | N/A |
-| 32 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
-| 33 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
-| 34 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
-| 35 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
-| 36 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 37 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
-| 38 | [DPR RI](http://twitter.com/search?q=DPR+RI) | N/A |
-| 39 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
-| 40 | [#AcneFreeUniverse](http://twitter.com/search?q=%23AcneFreeUniverse) | N/A |
-| 41 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
-| 42 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
-| 43 | [#BiothermxJeff](http://twitter.com/search?q=%23BiothermxJeff) | N/A |
-| 44 | [#UntukBumiUntukNanti](http://twitter.com/search?q=%23UntukBumiUntukNanti) | N/A |
-| 45 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
-| 46 | [#SOOBIN](http://twitter.com/search?q=%23SOOBIN) | N/A |
-| 47 | [#YEONJUN](http://twitter.com/search?q=%23YEONJUN) | N/A |
-| 48 | [#투모로우바이투게더](http://twitter.com/search?q=%23%ed%88%ac%eb%aa%a8%eb%a1%9c%ec%9a%b0%eb%b0%94%ec%9d%b4%ed%88%ac%ea%b2%8c%eb%8d%94) | N/A |
-| 49 | [#ZeeNunewXVamino](http://twitter.com/search?q=%23ZeeNunewXVamino) | N/A |
+| 1 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 2 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
+| 3 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 4 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 5 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
+| 6 | [#HelloAgainCello](http://twitter.com/search?q=%23HelloAgainCello) | N/A |
+| 7 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 10 | [Bryan Domani](http://twitter.com/search?q=Bryan+Domani) | N/A |
+| 11 | [JIMIN FACE](http://twitter.com/search?q=JIMIN+FACE) | N/A |
+| 12 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 13 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 14 | [O SECOND CONCEPT PHOTO](http://twitter.com/search?q=O+SECOND+CONCEPT+PHOTO) | N/A |
+| 15 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 16 | [WELCOME GULF KANAWUT](http://twitter.com/search?q=WELCOME+GULF+KANAWUT) | N/A |
+| 17 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
+| 18 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 19 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 20 | [WEEKENDER](http://twitter.com/search?q=WEEKENDER) | N/A |
+| 21 | [Kusuka](http://twitter.com/search?q=Kusuka) | N/A |
+| 22 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
+| 23 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
+| 24 | [Matiin](http://twitter.com/search?q=Matiin) | N/A |
+| 25 | [Raffi](http://twitter.com/search?q=Raffi) | N/A |
+| 26 | [SN MARCH JAPAN DEBUT](http://twitter.com/search?q=SN+MARCH+JAPAN+DEBUT) | N/A |
+| 27 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 30 | [Cabut](http://twitter.com/search?q=Cabut) | N/A |
+| 31 | [Babah](http://twitter.com/search?q=Babah) | N/A |
+| 32 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 33 | [papua pegunungan](http://twitter.com/search?q=papua+pegunungan) | N/A |
+| 34 | [HBD Win Metawin](http://twitter.com/search?q=HBD+Win+Metawin) | N/A |
+| 35 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
+| 36 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 37 | [Piper](http://twitter.com/search?q=Piper) | N/A |
+| 38 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
+| 39 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 40 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
+| 41 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
+| 42 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
+| 43 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
+| 44 | [#AcneFreeUniverse](http://twitter.com/search?q=%23AcneFreeUniverse) | N/A |
+| 45 | [#ATSD](http://twitter.com/search?q=%23ATSD) | N/A |
+| 46 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
+| 47 | [#AtinySelcaDay](http://twitter.com/search?q=%23AtinySelcaDay) | N/A |
+| 48 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
 
 
 
