@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-21 08:20:52 UTC`
+📆 Last Updated: `2023-02-21 09:19:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,41 +25,41 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 8 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 9 | [juan vicente torrealba](http://twitter.com/search?q=juan+vicente+torrealba) | N/A |
 | 10 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 11 | [Lulú](http://twitter.com/search?q=Lul%c3%ba) | N/A |
-| 12 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 13 | [roxana díaz](http://twitter.com/search?q=roxana+d%c3%adaz) | N/A |
-| 14 | [Los Próceres](http://twitter.com/search?q=Los+Pr%c3%b3ceres) | N/A |
-| 15 | [Dani Hernández](http://twitter.com/search?q=Dani+Hern%c3%a1ndez) | N/A |
+| 11 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 12 | [roxana díaz](http://twitter.com/search?q=roxana+d%c3%adaz) | N/A |
+| 13 | [Lulú](http://twitter.com/search?q=Lul%c3%ba) | N/A |
+| 14 | [Dani Hernández](http://twitter.com/search?q=Dani+Hern%c3%a1ndez) | N/A |
+| 15 | [Los Próceres](http://twitter.com/search?q=Los+Pr%c3%b3ceres) | N/A |
 | 16 | [Sofía Imber](http://twitter.com/search?q=Sof%c3%ada+Imber) | N/A |
-| 17 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 19 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 20 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 18 | [#yosoyfanb](http://twitter.com/search?q=%23yosoyfanb) | N/A |
+| 19 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 20 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 21 | [Morgan Freeman](http://twitter.com/search?q=Morgan+Freeman) | N/A |
 | 22 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
 | 23 | [Clark Kent](http://twitter.com/search?q=Clark+Kent) | N/A |
 | 24 | [Meteoro](http://twitter.com/search?q=Meteoro) | N/A |
 | 25 | [wilfredo peña](http://twitter.com/search?q=wilfredo+pe%c3%b1a) | N/A |
-| 26 | [alicia machado](http://twitter.com/search?q=alicia+machado) | N/A |
+| 26 | [Alicia Machado](http://twitter.com/search?q=Alicia+Machado) | N/A |
 | 27 | [Elvis Andrus](http://twitter.com/search?q=Elvis+Andrus) | N/A |
-| 28 | [guerra federal](http://twitter.com/search?q=guerra+federal) | N/A |
-| 29 | [poleo](http://twitter.com/search?q=poleo) | N/A |
-| 30 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
-| 31 | [El Callao](http://twitter.com/search?q=El+Callao) | N/A |
-| 32 | [Ninoska Vásquez](http://twitter.com/search?q=Ninoska+V%c3%a1squez) | N/A |
-| 33 | [slew prince](http://twitter.com/search?q=slew+prince) | N/A |
-| 34 | [Water Poet](http://twitter.com/search?q=Water+Poet) | N/A |
-| 35 | [Team Playa](http://twitter.com/search?q=Team+Playa) | N/A |
-| 36 | [Robert De Niro](http://twitter.com/search?q=Robert+De+Niro) | N/A |
-| 37 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
-| 38 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 39 | [Gustavo Rodríguez](http://twitter.com/search?q=Gustavo+Rodr%c3%adguez) | N/A |
-| 40 | [elisa soteldo](http://twitter.com/search?q=elisa+soteldo) | N/A |
-| 41 | [Complicado](http://twitter.com/search?q=Complicado) | N/A |
+| 28 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
+| 29 | [guerra federal](http://twitter.com/search?q=guerra+federal) | N/A |
+| 30 | [Ninoska Vásquez](http://twitter.com/search?q=Ninoska+V%c3%a1squez) | N/A |
+| 31 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
+| 32 | [el callao](http://twitter.com/search?q=el+callao) | N/A |
+| 33 | [Robert De Niro](http://twitter.com/search?q=Robert+De+Niro) | N/A |
+| 34 | [Team Playa](http://twitter.com/search?q=Team+Playa) | N/A |
+| 35 | [Hatay](http://twitter.com/search?q=Hatay) | N/A |
+| 36 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 37 | [slew prince](http://twitter.com/search?q=slew+prince) | N/A |
+| 38 | [gustavo rodríguez](http://twitter.com/search?q=gustavo+rodr%c3%adguez) | N/A |
+| 39 | [water poet](http://twitter.com/search?q=water+poet) | N/A |
+| 40 | [Complicado](http://twitter.com/search?q=Complicado) | N/A |
+| 41 | [elisa soteldo](http://twitter.com/search?q=elisa+soteldo) | N/A |
 | 42 | [philomena](http://twitter.com/search?q=philomena) | N/A |
-| 43 | [Elefante](http://twitter.com/search?q=Elefante) | N/A |
-| 44 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
-| 45 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 43 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
+| 44 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 45 | [Quieto](http://twitter.com/search?q=Quieto) | N/A |
 
 
 

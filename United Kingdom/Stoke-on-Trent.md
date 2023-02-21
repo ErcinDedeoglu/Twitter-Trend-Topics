@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stoke-on-Trent
 
-📆 Last Updated: `2023-02-21 08:20:45 UTC`
+📆 Last Updated: `2023-02-21 09:19:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 2 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
-| 3 | [#EastEnders](http://twitter.com/search?q=%23EastEnders) | #EastEnders is a British soap opera that has been running since 1985. It follows the lives of the residents of Albert Square in the East End of London. The show is known for its dramatic storylines and its exploration of social issues. |
-| 4 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 5 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 6 | [#LoveYourPetDay](http://twitter.com/search?q=%23LoveYourPetDay) | N/A |
-| 7 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 8 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 9 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 10 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 11 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 12 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 13 | [BAFTA](http://twitter.com/search?q=BAFTA) | BAFTA stands for the British Academy of Film and Television Arts. It is an independent charity that supports, develops and promotes the art forms of the moving image in the United Kingdom. BAFTA hosts an annual awards ceremony to recognize excellence in film, television, video games, and interactive media. |
-| 14 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
-| 15 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 16 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 17 | [Froch](http://twitter.com/search?q=Froch) | N/A |
-| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 19 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 20 | [world of sport](http://twitter.com/search?q=world+of+sport) | N/A |
-| 21 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
-| 22 | [Moyes](http://twitter.com/search?q=Moyes) | Moyes is a Scottish surname derived from the Old French word "moué," meaning "dark-haired." It is also a common given name in Scotland. |
-| 23 | [BBC News - UK](http://twitter.com/search?q=BBC+News+-+UK) | N/A |
-| 24 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 25 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
-| 26 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 27 | [jax jones](http://twitter.com/search?q=jax+jones) | N/A |
-| 28 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 29 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
-| 30 | [Kay Burley](http://twitter.com/search?q=Kay+Burley) | N/A |
-| 31 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 32 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 33 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 34 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
-| 35 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 36 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
-| 37 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 38 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 39 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 40 | [ULEZ](http://twitter.com/search?q=ULEZ) | N/A |
-| 41 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 42 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
-| 43 | [callum scott](http://twitter.com/search?q=callum+scott) | N/A |
-| 44 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 45 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 46 | [ALISON HAMMOND](http://twitter.com/search?q=ALISON+HAMMOND) | N/A |
-| 47 | [Maid Marian](http://twitter.com/search?q=Maid+Marian) | N/A |
-| 48 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 49 | [River Wyre](http://twitter.com/search?q=River+Wyre) | N/A |
-| 50 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
+| 1 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 2 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 3 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 4 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 5 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
+| 6 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 7 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 8 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 9 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
+| 10 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 11 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 12 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
+| 13 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 14 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 15 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 16 | [Christians](http://twitter.com/search?q=Christians) | N/A |
+| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 18 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
+| 19 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
+| 20 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
+| 21 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 22 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 23 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 24 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 25 | [#MHNursesDay](http://twitter.com/search?q=%23MHNursesDay) | N/A |
+| 26 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 27 | [#bereft](http://twitter.com/search?q=%23bereft) | N/A |
+| 28 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 29 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 30 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 31 | [#ToriesOut229](http://twitter.com/search?q=%23ToriesOut229) | N/A |
+| 32 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 33 | [#ScottishTop10](http://twitter.com/search?q=%23ScottishTop10) | N/A |
+| 34 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
+| 35 | [#BrexitBritain](http://twitter.com/search?q=%23BrexitBritain) | N/A |
+| 36 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 37 | [#SNPLeadership](http://twitter.com/search?q=%23SNPLeadership) | N/A |
+| 38 | [#ScumMedia](http://twitter.com/search?q=%23ScumMedia) | N/A |
 
 
 
