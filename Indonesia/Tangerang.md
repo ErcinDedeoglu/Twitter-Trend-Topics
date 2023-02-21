@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-21 09:19:44 UTC`
+📆 Last Updated: `2023-02-21 10:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 2 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 3 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 4 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
-| 5 | [lihat di dekade 08](http://twitter.com/search?q=lihat+di+dekade+08) | N/A |
-| 6 | [nyata mending prabowo](http://twitter.com/search?q=nyata+mending+prabowo) | N/A |
-| 7 | [prabowo kerja terbaik](http://twitter.com/search?q=prabowo+kerja+terbaik) | N/A |
-| 8 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 9 | [Semua DI Dekade 08](http://twitter.com/search?q=Semua+DI+Dekade+08) | N/A |
-| 10 | [Setuju Mending Prabowo](http://twitter.com/search?q=Setuju+Mending+Prabowo) | N/A |
-| 11 | [Prabowo Makin Dipilih](http://twitter.com/search?q=Prabowo+Makin+Dipilih) | Prabowo Makin Dipilih is an Indonesian phrase that translates to "Prabowo is getting elected". It is a slogan used by supporters of Prabowo Subianto, a former Indonesian military general and politician who ran for president in the 2019 Indonesian presidential election. |
-| 12 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 13 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 14 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 15 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
-| 16 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
+| 1 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 2 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 3 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
+| 4 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 5 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 6 | [semua di dekade 08](http://twitter.com/search?q=semua+di+dekade+08) | N/A |
+| 7 | [Setuju Mending Prabowo](http://twitter.com/search?q=Setuju+Mending+Prabowo) | N/A |
+| 8 | [Prabowo Makin Dipilih](http://twitter.com/search?q=Prabowo+Makin+Dipilih) | Prabowo Makin Dipilih is an Indonesian phrase that translates to "Prabowo is getting elected". It is a slogan used by supporters of Prabowo Subianto, a former Indonesian military general and politician who ran for president in the 2019 Indonesian presidential election. |
+| 9 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 10 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 11 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 12 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
+| 13 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 14 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 15 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
+| 16 | [Derry](http://twitter.com/search?q=Derry) | N/A |
 | 17 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
 | 18 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
 | 19 | [Christy](http://twitter.com/search?q=Christy) | N/A |
 | 20 | [EXO COMEBACK](http://twitter.com/search?q=EXO+COMEBACK) | EXO COMEBACK is a term used to refer to the return of the South Korean-Chinese boy band EXO. It is used to express excitement and anticipation for the group's return after a period of absence from the music scene. In English, it can be translated as "EXO is coming back!" |
-| 21 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 22 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
-| 23 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 24 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 21 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
+| 22 | [SN MARCH JAPAN DEBUT](http://twitter.com/search?q=SN+MARCH+JAPAN+DEBUT) | N/A |
+| 23 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 24 | [Papua Pegunungan](http://twitter.com/search?q=Papua+Pegunungan) | N/A |
 | 25 | [Jenis Kelamin](http://twitter.com/search?q=Jenis+Kelamin) | N/A |
 | 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 27 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 28 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 29 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
-| 30 | [UKK Bacaleg DPR RI PKB](http://twitter.com/search?q=UKK+Bacaleg+DPR+RI+PKB) | N/A |
-| 31 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 32 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 33 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
-| 34 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
-| 35 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
-| 36 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 37 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
-| 38 | [Ocil](http://twitter.com/search?q=Ocil) | N/A |
+| 28 | [HUANG RENJUN THANK YOU](http://twitter.com/search?q=HUANG+RENJUN+THANK+YOU) | N/A |
+| 29 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
+| 30 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 31 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
+| 32 | [Persis Solo](http://twitter.com/search?q=Persis+Solo) | N/A |
+| 33 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 34 | [PJM1 IN MARCH](http://twitter.com/search?q=PJM1+IN+MARCH) | N/A |
+| 35 | [Ada ZeeShel Coy](http://twitter.com/search?q=Ada+ZeeShel+Coy) | N/A |
+| 36 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
+| 37 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
+| 38 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 39 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 40 | [Nanam](http://twitter.com/search?q=Nanam) | N/A |
-| 41 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
-| 42 | [Benda Favorite](http://twitter.com/search?q=Benda+Favorite) | N/A |
-| 43 | [pagar](http://twitter.com/search?q=pagar) | N/A |
-| 44 | [BIU FIGHTING](http://twitter.com/search?q=BIU+FIGHTING) | N/A |
+| 40 | [UKK Bacaleg DPR RI PKB](http://twitter.com/search?q=UKK+Bacaleg+DPR+RI+PKB) | N/A |
+| 41 | [CLOSER MV](http://twitter.com/search?q=CLOSER+MV) | N/A |
+| 42 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
+| 43 | [Inex](http://twitter.com/search?q=Inex) | N/A |
+| 44 | [PAKET AKRAB](http://twitter.com/search?q=PAKET+AKRAB) | N/A |
 | 45 | [Cikini](http://twitter.com/search?q=Cikini) | N/A |
-| 46 | [Lamaran](http://twitter.com/search?q=Lamaran) | N/A |
-| 47 | [WORLD TOUR](http://twitter.com/search?q=WORLD+TOUR) | N/A |
+| 46 | [Benda Favorite](http://twitter.com/search?q=Benda+Favorite) | N/A |
+| 47 | [pagar](http://twitter.com/search?q=pagar) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-21 09:19:29 UTC`
+📆 Last Updated: `2023-02-21 10:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,40 +17,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
 | 2 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
-| 3 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 4 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 5 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 6 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 7 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 8 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
-| 9 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 10 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 11 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 12 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 13 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 14 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 15 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 17 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
-| 18 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 19 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
-| 20 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 21 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 22 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 23 | [#MHNursesDay](http://twitter.com/search?q=%23MHNursesDay) | N/A |
-| 24 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 25 | [#bereft](http://twitter.com/search?q=%23bereft) | N/A |
-| 26 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 27 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 28 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
-| 29 | [#ToriesOut229](http://twitter.com/search?q=%23ToriesOut229) | N/A |
-| 30 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 31 | [#ScottishTop10](http://twitter.com/search?q=%23ScottishTop10) | N/A |
-| 32 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
-| 33 | [#BrexitBritain](http://twitter.com/search?q=%23BrexitBritain) | N/A |
-| 34 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 35 | [#SNPLeadership](http://twitter.com/search?q=%23SNPLeadership) | N/A |
-| 36 | [#ScumMedia](http://twitter.com/search?q=%23ScumMedia) | N/A |
+| 3 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
+| 4 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 5 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 6 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 7 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 8 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 9 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 10 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
+| 11 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 12 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 13 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 14 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
+| 15 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 16 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 17 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 18 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 19 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 20 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 21 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
+| 22 | [Bulley](http://twitter.com/search?q=Bulley) | N/A |
+| 23 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 24 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
+| 25 | [Yousaf](http://twitter.com/search?q=Yousaf) | N/A |
+| 26 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 27 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 28 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
+| 29 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 30 | [#MHNursesDay](http://twitter.com/search?q=%23MHNursesDay) | N/A |
+| 31 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 32 | [#ToriesOut229](http://twitter.com/search?q=%23ToriesOut229) | N/A |
+| 33 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 34 | [#MentalHealthNursesDay](http://twitter.com/search?q=%23MentalHealthNursesDay) | N/A |
+| 35 | [#4DayWeek](http://twitter.com/search?q=%234DayWeek) | N/A |
+| 36 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 37 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 38 | [#bereft](http://twitter.com/search?q=%23bereft) | N/A |
+| 39 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 40 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 41 | [#delicious](http://twitter.com/search?q=%23delicious) | N/A |
+| 42 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 43 | [#Wordle612](http://twitter.com/search?q=%23Wordle612) | N/A |
+| 44 | [#SNPLeadership](http://twitter.com/search?q=%23SNPLeadership) | N/A |
+| 45 | [#ScottishTop10](http://twitter.com/search?q=%23ScottishTop10) | N/A |
+| 46 | [#BrexitBritain](http://twitter.com/search?q=%23BrexitBritain) | N/A |
+| 47 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 48 | [#ScumMedia](http://twitter.com/search?q=%23ScumMedia) | N/A |
 
 
 

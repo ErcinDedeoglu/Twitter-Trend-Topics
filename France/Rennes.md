@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rennes
 
-📆 Last Updated: `2023-02-21 09:19:38 UTC`
+📆 Last Updated: `2023-02-21 10:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,51 +16,51 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Rungis](http://twitter.com/search?q=Rungis) | N/A |
-| 2 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
-| 3 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
+| 2 | [#PSGLOSC](http://twitter.com/search?q=%23PSGLOSC) | N/A |
+| 3 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
 | 4 | [Chap](http://twitter.com/search?q=Chap) | N/A |
 | 5 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
 | 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 7 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
-| 8 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
-| 9 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 8 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 9 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
 | 10 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 11 | [LICRA](http://twitter.com/search?q=LICRA) | N/A |
-| 12 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 13 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 14 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 15 | [Macron](http://twitter.com/search?q=Macron) | N/A |
-| 16 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 17 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 18 | [Michel Deville](http://twitter.com/search?q=Michel+Deville) | N/A |
-| 19 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
-| 20 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
-| 21 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
-| 22 | [Uncharted 4](http://twitter.com/search?q=Uncharted+4) | N/A |
-| 23 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 24 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 25 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 26 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
-| 27 | [Samy](http://twitter.com/search?q=Samy) | N/A |
-| 28 | [Le 21](http://twitter.com/search?q=Le+21) | N/A |
-| 29 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 30 | [Tatoos](http://twitter.com/search?q=Tatoos) | N/A |
-| 31 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
-| 32 | [Mont-Valérien](http://twitter.com/search?q=Mont-Val%c3%a9rien) | N/A |
-| 33 | [Bonjour Twitter](http://twitter.com/search?q=Bonjour+Twitter) | N/A |
-| 34 | [Berger](http://twitter.com/search?q=Berger) | N/A |
-| 35 | [Ferran Torres](http://twitter.com/search?q=Ferran+Torres) | N/A |
-| 36 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
-| 37 | [Solary](http://twitter.com/search?q=Solary) | N/A |
-| 38 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
-| 39 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
-| 40 | [Galaxy Express 999](http://twitter.com/search?q=Galaxy+Express+999) | N/A |
-| 41 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
-| 42 | [Olga Bancic](http://twitter.com/search?q=Olga+Bancic) | N/A |
-| 43 | [André gomes](http://twitter.com/search?q=Andr%c3%a9+gomes) | N/A |
+| 11 | [Licra](http://twitter.com/search?q=Licra) | N/A |
+| 12 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
+| 13 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 14 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 15 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 16 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 17 | [Michel Deville](http://twitter.com/search?q=Michel+Deville) | N/A |
+| 18 | [Emmanuel Macron](http://twitter.com/search?q=Emmanuel+Macron) | N/A |
+| 19 | [Tatoos](http://twitter.com/search?q=Tatoos) | N/A |
+| 20 | [Le 21](http://twitter.com/search?q=Le+21) | N/A |
+| 21 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 22 | [Samy](http://twitter.com/search?q=Samy) | N/A |
+| 23 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
+| 24 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
+| 25 | [Mbappé](http://twitter.com/search?q=Mbapp%c3%a9) | N/A |
+| 26 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 27 | [Solary](http://twitter.com/search?q=Solary) | N/A |
+| 28 | [Ibrahim Ali](http://twitter.com/search?q=Ibrahim+Ali) | N/A |
+| 29 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
+| 30 | [Ferran Torres](http://twitter.com/search?q=Ferran+Torres) | N/A |
+| 31 | [Wadji](http://twitter.com/search?q=Wadji) | N/A |
+| 32 | [Berger](http://twitter.com/search?q=Berger) | N/A |
+| 33 | [Guyana](http://twitter.com/search?q=Guyana) | N/A |
+| 34 | [Bac S](http://twitter.com/search?q=Bac+S) | N/A |
+| 35 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 36 | [Bielsa](http://twitter.com/search?q=Bielsa) | Bielsa is a city in the Spanish province of Huesca, located in the Pyrenees mountains. It is known for its ski resorts and its beautiful scenery. The name Bielsa comes from the Basque language and means "high place". |
+| 37 | [Frappart](http://twitter.com/search?q=Frappart) | Frappart is a French term meaning "to make something better or more perfect." It is often used in the context of improving a product or service. |
+| 38 | [Olga Bancic](http://twitter.com/search?q=Olga+Bancic) | N/A |
+| 39 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 40 | [Kamel](http://twitter.com/search?q=Kamel) | N/A |
+| 41 | [andré gomes](http://twitter.com/search?q=andr%c3%a9+gomes) | N/A |
+| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 43 | [Président](http://twitter.com/search?q=Pr%c3%a9sident) | N/A |
 | 44 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 45 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 46 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 45 | [Mont-Valérien](http://twitter.com/search?q=Mont-Val%c3%a9rien) | N/A |
+| 46 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 47 | [Gerets](http://twitter.com/search?q=Gerets) | N/A |
 | 48 | [Serpentard](http://twitter.com/search?q=Serpentard) | N/A |
 

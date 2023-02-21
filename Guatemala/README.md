@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-21 09:20:10 UTC`
+📆 Last Updated: `2023-02-21 10:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for Guatemala
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 2 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 3 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
+| 1 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
+| 2 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 3 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
 | 4 | [Cunoc](http://twitter.com/search?q=Cunoc) | N/A |
 | 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 6 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
@@ -38,7 +38,7 @@ This is top 50 for Guatemala
 | 21 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
 | 22 | [Zelaya](http://twitter.com/search?q=Zelaya) | N/A |
 | 23 | [Villa](http://twitter.com/search?q=Villa) | Villa is a type of large, luxurious house or estate. It is usually located in a rural or semi-rural area and is often surrounded by gardens and grounds. The term comes from the Latin word villa, which means "country house." |
-| 24 | [Achuapa](http://twitter.com/search?q=Achuapa) | N/A |
+| 24 | [achuapa](http://twitter.com/search?q=achuapa) | N/A |
 | 25 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 26 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
 | 27 | [Congreso de la República](http://twitter.com/search?q=Congreso+de+la+Rep%c3%bablica) | N/A |
@@ -58,8 +58,8 @@ This is top 50 for Guatemala
 | 41 | [Pablo Torre](http://twitter.com/search?q=Pablo+Torre) | Pablo Torre is a sports journalist and television personality who works for ESPN. He is known for his coverage of the NBA, NFL, and college basketball. The name "Pablo Torre" is derived from the Spanish words "pablo" (meaning "small") and "torre" (meaning "tower"). |
 | 42 | [Pasen](http://twitter.com/search?q=Pasen) | N/A |
 | 43 | [guastatoya](http://twitter.com/search?q=guastatoya) | N/A |
-| 44 | [USAC](http://twitter.com/search?q=USAC) | N/A |
-| 45 | [Quiñónez](http://twitter.com/search?q=Qui%c3%b1%c3%b3nez) | N/A |
+| 44 | [usac](http://twitter.com/search?q=usac) | N/A |
+| 45 | [quiñónez](http://twitter.com/search?q=qui%c3%b1%c3%b3nez) | N/A |
 | 46 | [Miraflores](http://twitter.com/search?q=Miraflores) | N/A |
 | 47 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
 | 48 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |

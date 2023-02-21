@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-21 09:20:14 UTC`
+📆 Last Updated: `2023-02-21 10:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 2 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 3 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 4 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 5 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
+| 3 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 4 | [#poupettekenza](http://twitter.com/search?q=%23poupettekenza) | #PoupetteKenza is a hashtag used to promote the French fashion brand Poupette Kenza. The hashtag is used to share photos of people wearing the brand's clothing and accessories, as well as to share news and updates about the brand. In English, it translates to "Poupette Kenza". |
+| 5 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
 | 6 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
 | 7 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
 | 8 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
-| 9 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
-| 10 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 11 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 9 | [#HumanRights](http://twitter.com/search?q=%23HumanRights) | N/A |
+| 10 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 11 | [Switch](http://twitter.com/search?q=Switch) | N/A |
 | 12 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 13 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
-| 14 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 15 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
-| 16 | [Pologne](http://twitter.com/search?q=Pologne) | N/A |
-| 17 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 18 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
-| 19 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
-| 20 | [Krieg mit Russland](http://twitter.com/search?q=Krieg+mit+Russland) | N/A |
-| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 22 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
-| 23 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 13 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 14 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 15 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
+| 16 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 17 | [Pologne](http://twitter.com/search?q=Pologne) | N/A |
+| 18 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 19 | [Chaoten](http://twitter.com/search?q=Chaoten) | N/A |
+| 20 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 21 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
+| 22 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 23 | [München](http://twitter.com/search?q=M%c3%bcnchen) | N/A |
 | 24 | [Kommunikation](http://twitter.com/search?q=Kommunikation) | N/A |
 | 25 | [Juso](http://twitter.com/search?q=Juso) | N/A |
-| 26 | [Kapitalismus](http://twitter.com/search?q=Kapitalismus) | N/A |
+| 26 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
 | 27 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
-| 28 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
-| 29 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
-| 30 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 28 | [Auftrag](http://twitter.com/search?q=Auftrag) | N/A |
+| 29 | [Anto](http://twitter.com/search?q=Anto) | Anto is a shortened form of the name Antonio, which is a male given name of Italian origin. It is derived from the Latin Antonius, which is ultimately derived from the Greek name Antonios. In English, it means "beyond praise" or "priceless". |
+| 30 | [Westen](http://twitter.com/search?q=Westen) | N/A |
 | 31 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 32 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 33 | [Armen](http://twitter.com/search?q=Armen) | N/A |
-| 34 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 35 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
-| 36 | [Japon](http://twitter.com/search?q=Japon) | N/A |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
-| 39 | [Verteidiger](http://twitter.com/search?q=Verteidiger) | N/A |
-| 40 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 41 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
-| 42 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
-| 43 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 44 | [Thematik](http://twitter.com/search?q=Thematik) | N/A |
-| 45 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 46 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 47 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 48 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 49 | [Produkt](http://twitter.com/search?q=Produkt) | N/A |
-| 50 | [Wand](http://twitter.com/search?q=Wand) | N/A |
+| 32 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 33 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 34 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 35 | [Armen](http://twitter.com/search?q=Armen) | N/A |
+| 36 | [Klaus](http://twitter.com/search?q=Klaus) | N/A |
+| 37 | [Widerstand](http://twitter.com/search?q=Widerstand) | N/A |
+| 38 | [Pandemie](http://twitter.com/search?q=Pandemie) | N/A |
+| 39 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
+| 40 | [Verteidiger](http://twitter.com/search?q=Verteidiger) | N/A |
+| 41 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 42 | [Preise](http://twitter.com/search?q=Preise) | N/A |
+| 43 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
+| 44 | [Zimmer](http://twitter.com/search?q=Zimmer) | N/A |
+| 45 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
+| 46 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 47 | [Trans](http://twitter.com/search?q=Trans) | N/A |
+| 48 | [Diktatur](http://twitter.com/search?q=Diktatur) | N/A |
+| 49 | [Krieg mit Russland](http://twitter.com/search?q=Krieg+mit+Russland) | N/A |
+| 50 | [Studium](http://twitter.com/search?q=Studium) | N/A |
 
 
 

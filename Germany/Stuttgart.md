@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stuttgart
 
-📆 Last Updated: `2023-02-21 09:19:40 UTC`
+📆 Last Updated: `2023-02-21 10:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
-| 2 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 3 | [#WSMDS](http://twitter.com/search?q=%23WSMDS) | N/A |
-| 4 | [#FirstDatesHotel](http://twitter.com/search?q=%23FirstDatesHotel) | N/A |
-| 5 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 1 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
+| 2 | [#Rosenmontag](http://twitter.com/search?q=%23Rosenmontag) | N/A |
+| 3 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 4 | [#100AufDerAutobahn](http://twitter.com/search?q=%23100AufDerAutobahn) | N/A |
+| 5 | [#FirstDatesHotel](http://twitter.com/search?q=%23FirstDatesHotel) | N/A |
+| 6 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
 | 7 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
 | 8 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
 | 9 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
-| 10 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 11 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 14 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 15 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
-| 16 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 17 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 18 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 19 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 20 | [Guten Morgen Claudia](http://twitter.com/search?q=Guten+Morgen+Claudia) | N/A |
-| 21 | [Volksentscheid](http://twitter.com/search?q=Volksentscheid) | N/A |
-| 22 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 23 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 24 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 25 | [James Rizzi](http://twitter.com/search?q=James+Rizzi) | N/A |
-| 26 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 27 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
-| 28 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
-| 29 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 30 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 31 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 32 | [Schönen Tag](http://twitter.com/search?q=Sch%c3%b6nen+Tag) | N/A |
-| 33 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
-| 34 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 35 | [Guten Morgen Karin](http://twitter.com/search?q=Guten+Morgen+Karin) | N/A |
-| 36 | [Guten Morgen Karin](http://twitter.com/search?q=Guten+Morgen+Karin) | N/A |
-| 37 | [Guten Morgen Dietmar](http://twitter.com/search?q=Guten+Morgen+Dietmar) | N/A |
-| 38 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 39 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 40 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
-| 41 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 42 | [Nahles](http://twitter.com/search?q=Nahles) | N/A |
-| 43 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 44 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 45 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 46 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 47 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 48 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 49 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 10 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 12 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 13 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 14 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 15 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 16 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 17 | [Volksentscheid](http://twitter.com/search?q=Volksentscheid) | N/A |
+| 18 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 19 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 20 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 21 | [Schönen Dienstag](http://twitter.com/search?q=Sch%c3%b6nen+Dienstag) | N/A |
+| 22 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 23 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 24 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 25 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 26 | [Sebastian](http://twitter.com/search?q=Sebastian) | N/A |
+| 27 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 28 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 29 | [Veilchendienstag](http://twitter.com/search?q=Veilchendienstag) | N/A |
+| 30 | [Büro](http://twitter.com/search?q=B%c3%bcro) | N/A |
+| 31 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 32 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
+| 33 | [Nahles](http://twitter.com/search?q=Nahles) | N/A |
+| 34 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 35 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 36 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 37 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 38 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 39 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
+| 40 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 41 | [Ehen](http://twitter.com/search?q=Ehen) | N/A |
+| 42 | [Unterschiede](http://twitter.com/search?q=Unterschiede) | N/A |
+| 43 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 44 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 45 | [Abriss](http://twitter.com/search?q=Abriss) | N/A |
+| 46 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 47 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 48 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 49 | [winnetou](http://twitter.com/search?q=winnetou) | N/A |
 
 
 

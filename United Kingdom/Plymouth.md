@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Plymouth
 
-📆 Last Updated: `2023-02-21 09:19:28 UTC`
+📆 Last Updated: `2023-02-21 10:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,42 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
 | 2 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 3 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 4 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 5 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 6 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
-| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 8 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 3 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 4 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 5 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 6 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 7 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 8 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
 | 9 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
 | 10 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 11 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
+| 11 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
 | 12 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 13 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 14 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
-| 15 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 16 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 17 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 19 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
-| 20 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 21 | [NI Protocol](http://twitter.com/search?q=NI+Protocol) | N/A |
-| 22 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
-| 23 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 24 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
-| 25 | [#MHNursesDay](http://twitter.com/search?q=%23MHNursesDay) | N/A |
-| 26 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 27 | [#bereft](http://twitter.com/search?q=%23bereft) | N/A |
-| 28 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
-| 29 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
-| 30 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
-| 31 | [#ToriesOut229](http://twitter.com/search?q=%23ToriesOut229) | N/A |
-| 32 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 33 | [#ScottishTop10](http://twitter.com/search?q=%23ScottishTop10) | N/A |
-| 34 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
-| 35 | [#BrexitBritain](http://twitter.com/search?q=%23BrexitBritain) | N/A |
-| 36 | [#SNPLeadership](http://twitter.com/search?q=%23SNPLeadership) | N/A |
-| 37 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 38 | [#ScumMedia](http://twitter.com/search?q=%23ScumMedia) | N/A |
+| 13 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 14 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
+| 15 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 16 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 17 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 18 | [Susanna](http://twitter.com/search?q=Susanna) | N/A |
+| 19 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 20 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 21 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 22 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 23 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 24 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 25 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
+| 26 | [Bulley](http://twitter.com/search?q=Bulley) | N/A |
+| 27 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 28 | [Sky News](http://twitter.com/search?q=Sky+News) | N/A |
+| 29 | [Yousaf](http://twitter.com/search?q=Yousaf) | N/A |
+| 30 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 31 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 32 | [Sadiq Khan](http://twitter.com/search?q=Sadiq+Khan) | N/A |
+| 33 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
+| 34 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 35 | [#MHNursesDay](http://twitter.com/search?q=%23MHNursesDay) | N/A |
+| 36 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 37 | [#ToriesOut229](http://twitter.com/search?q=%23ToriesOut229) | N/A |
+| 38 | [#TongueOutTuesday](http://twitter.com/search?q=%23TongueOutTuesday) | N/A |
+| 39 | [#MentalHealthNursesDay](http://twitter.com/search?q=%23MentalHealthNursesDay) | N/A |
+| 40 | [#4DayWeek](http://twitter.com/search?q=%234DayWeek) | N/A |
+| 41 | [#TuesdayMotivaton](http://twitter.com/search?q=%23TuesdayMotivaton) | N/A |
+| 42 | [#TinyVoiceTalks](http://twitter.com/search?q=%23TinyVoiceTalks) | N/A |
+| 43 | [#bereft](http://twitter.com/search?q=%23bereft) | N/A |
+| 44 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 45 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 46 | [#delicious](http://twitter.com/search?q=%23delicious) | N/A |
+| 47 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 48 | [#Wordle612](http://twitter.com/search?q=%23Wordle612) | N/A |
+| 49 | [#SNPLeadership](http://twitter.com/search?q=%23SNPLeadership) | N/A |
 
 
 
