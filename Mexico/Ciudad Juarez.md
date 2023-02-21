@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ciudad Juarez
 
-📆 Last Updated: `2023-02-21 19:16:32 UTC`
+📆 Last Updated: `2023-02-21 20:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#HogaresMexiquenses](http://twitter.com/search?q=%23HogaresMexiquenses) | N/A |
-| 2 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 3 | [CHICHARITO](http://twitter.com/search?q=CHICHARITO) | N/A |
-| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 5 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 6 | [Conscripto](http://twitter.com/search?q=Conscripto) | N/A |
-| 7 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 8 | [América Rangel](http://twitter.com/search?q=Am%c3%a9rica+Rangel) | N/A |
-| 9 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
-| 10 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 11 | [Lord Molécula](http://twitter.com/search?q=Lord+Mol%c3%a9cula) | N/A |
-| 12 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [Congreso de la CDMX](http://twitter.com/search?q=Congreso+de+la+CDMX) | N/A |
-| 15 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 2 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 3 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 4 | [CHICHARITO](http://twitter.com/search?q=CHICHARITO) | N/A |
+| 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 6 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 9 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 10 | [Conscripto](http://twitter.com/search?q=Conscripto) | N/A |
+| 11 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 12 | [CULPABLE](http://twitter.com/search?q=CULPABLE) | N/A |
+| 13 | [América Rangel](http://twitter.com/search?q=Am%c3%a9rica+Rangel) | N/A |
+| 14 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 15 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
 | 16 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
-| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 18 | [Lavadora](http://twitter.com/search?q=Lavadora) | N/A |
-| 19 | [JIMIN SOLO ALBUM](http://twitter.com/search?q=JIMIN+SOLO+ALBUM) | N/A |
-| 20 | [JIMIN FACE FIRST SOLO ALBUM](http://twitter.com/search?q=JIMIN+FACE+FIRST+SOLO+ALBUM) | N/A |
-| 21 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
-| 22 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
-| 23 | [Tecatito](http://twitter.com/search?q=Tecatito) | N/A |
-| 24 | [Hoy 21](http://twitter.com/search?q=Hoy+21) | N/A |
-| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 26 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 27 | [Foals](http://twitter.com/search?q=Foals) | N/A |
-| 28 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 29 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
-| 30 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
-| 31 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 32 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 33 | [El 21](http://twitter.com/search?q=El+21) | N/A |
-| 34 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 35 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
-| 36 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 37 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 38 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 39 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 40 | [Dos Bocas](http://twitter.com/search?q=Dos+Bocas) | N/A |
-| 41 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 42 | [Iglesia](http://twitter.com/search?q=Iglesia) | N/A |
-| 43 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
-| 44 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 45 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 46 | [Colima](http://twitter.com/search?q=Colima) | N/A |
-| 47 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 48 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 17 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 18 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 19 | [Congreso de la CDMX](http://twitter.com/search?q=Congreso+de+la+CDMX) | N/A |
+| 20 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 21 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
+| 22 | [Sesión Solemne](http://twitter.com/search?q=Sesi%c3%b3n+Solemne) | N/A |
+| 23 | [Lord Molécula](http://twitter.com/search?q=Lord+Mol%c3%a9cula) | N/A |
+| 24 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 25 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 26 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 28 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 29 | [Lavadora](http://twitter.com/search?q=Lavadora) | N/A |
+| 30 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 31 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 32 | [Foals](http://twitter.com/search?q=Foals) | N/A |
+| 33 | [Vegetta](http://twitter.com/search?q=Vegetta) | Vegetta is a Spanish YouTube channel created by Alejandro García, better known as Vegetta777. The channel focuses on gaming videos, primarily featuring the video game Minecraft. The name Vegetta is derived from the Spanish word "vegetal," which means "vegetable." |
+| 34 | [JIMIN FACE FIRST SOLO ALBUM](http://twitter.com/search?q=JIMIN+FACE+FIRST+SOLO+ALBUM) | N/A |
+| 35 | [JIMIN SOLO ALBUM](http://twitter.com/search?q=JIMIN+SOLO+ALBUM) | N/A |
+| 36 | [Tecatito](http://twitter.com/search?q=Tecatito) | N/A |
+| 37 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 38 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
+| 39 | [Día Internacional](http://twitter.com/search?q=D%c3%ada+Internacional) | N/A |
+| 40 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 41 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 42 | [El 21](http://twitter.com/search?q=El+21) | N/A |
+| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 44 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 45 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
+| 46 | [Segalmex](http://twitter.com/search?q=Segalmex) | N/A |
+| 47 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 48 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
 
 
 

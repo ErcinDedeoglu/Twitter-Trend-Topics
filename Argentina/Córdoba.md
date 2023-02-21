@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-02-21 19:16:40 UTC`
+📆 Last Updated: `2023-02-21 20:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,53 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Boletos](http://twitter.com/search?q=Boletos) | N/A |
-| 2 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 3 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 4 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
-| 7 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 8 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 9 | [#スキズ_THESOUND発売](http://twitter.com/search?q=%23%e3%82%b9%e3%82%ad%e3%82%ba_THESOUND%e7%99%ba%e5%a3%b2) | N/A |
-| 10 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
-| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 12 | [yolanda hadid](http://twitter.com/search?q=yolanda+hadid) | N/A |
-| 13 | [Firmenich](http://twitter.com/search?q=Firmenich) | N/A |
-| 14 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
-| 15 | [GORDA](http://twitter.com/search?q=GORDA) | N/A |
-| 16 | [haedo](http://twitter.com/search?q=haedo) | N/A |
-| 17 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
-| 18 | [#EspnF90](http://twitter.com/search?q=%23EspnF90) | N/A |
-| 19 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
-| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 21 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 22 | [Mulet](http://twitter.com/search?q=Mulet) | N/A |
-| 23 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 24 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 25 | [#BuenMartes](http://twitter.com/search?q=%23BuenMartes) | N/A |
-| 26 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
-| 27 | [Ortega](http://twitter.com/search?q=Ortega) | Ortega is a Spanish surname derived from the Latin name "Hortensius," meaning "garden." It is most commonly associated with the Nicaraguan president, Daniel Ortega. |
-| 28 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 29 | [Marra](http://twitter.com/search?q=Marra) | N/A |
-| 30 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 31 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
-| 32 | [Salle](http://twitter.com/search?q=Salle) | N/A |
-| 33 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 34 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 35 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
-| 36 | [López Murphy](http://twitter.com/search?q=L%c3%b3pez+Murphy) | N/A |
-| 37 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 38 | [Clarín](http://twitter.com/search?q=Clar%c3%adn) | N/A |
-| 39 | [Calafate](http://twitter.com/search?q=Calafate) | N/A |
-| 40 | [Caramelo](http://twitter.com/search?q=Caramelo) | N/A |
-| 41 | [Insua](http://twitter.com/search?q=Insua) | N/A |
-| 42 | [Durax](http://twitter.com/search?q=Durax) | N/A |
-| 43 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 44 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 45 | [#Turismo](http://twitter.com/search?q=%23Turismo) | N/A |
+| 1 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [ANGIE](http://twitter.com/search?q=ANGIE) | N/A |
+| 4 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 5 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 6 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 9 | [Boletos](http://twitter.com/search?q=Boletos) | N/A |
+| 10 | [CARRE](http://twitter.com/search?q=CARRE) | CARRE is a French word meaning "square". It is used to describe a shape that has four equal sides and four right angles. |
+| 11 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 12 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 13 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 14 | [KUN AGUERO](http://twitter.com/search?q=KUN+AGUERO) | N/A |
+| 15 | [Wilbur](http://twitter.com/search?q=Wilbur) | N/A |
+| 16 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 17 | [#BienvenidosABordo](http://twitter.com/search?q=%23BienvenidosABordo) | N/A |
+| 18 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 19 | [HANNAH](http://twitter.com/search?q=HANNAH) | N/A |
+| 20 | [Firmenich](http://twitter.com/search?q=Firmenich) | N/A |
+| 21 | [yolanda hadid](http://twitter.com/search?q=yolanda+hadid) | N/A |
+| 22 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 23 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
+| 24 | [Nadal](http://twitter.com/search?q=Nadal) | Nadal is a Spanish surname derived from the Latin word for "Christmas". It is also the surname of the famous tennis player Rafael Nadal. |
+| 25 | [Pity](http://twitter.com/search?q=Pity) | Pity is an emotion of sympathy and sorrow for the suffering or misfortune of others. It is often accompanied by a desire to help those in need. |
+| 26 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 27 | [#SKZ_THESOUND_RELEASED](http://twitter.com/search?q=%23SKZ_THESOUND_RELEASED) | N/A |
+| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 29 | [GORDA](http://twitter.com/search?q=GORDA) | N/A |
+| 30 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
+| 31 | [Daniel Ortega](http://twitter.com/search?q=Daniel+Ortega) | N/A |
+| 32 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 33 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
+| 34 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 35 | [Cuba](http://twitter.com/search?q=Cuba) | N/A |
+| 36 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 37 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 38 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 39 | [Marcone](http://twitter.com/search?q=Marcone) | Marcone is a Portuguese surname derived from the Latin name Marcus. It is a common surname in Portugal, Brazil, and other countries with Portuguese heritage. In English, it can be translated to mean "son of Marcus". |
+| 40 | [Cazares](http://twitter.com/search?q=Cazares) | N/A |
+| 41 | [Calafate](http://twitter.com/search?q=Calafate) | N/A |
+| 42 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
+| 43 | [Clarín](http://twitter.com/search?q=Clar%c3%adn) | N/A |
+| 44 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
+| 45 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 46 | [Barcia](http://twitter.com/search?q=Barcia) | N/A |
+| 47 | [Insua](http://twitter.com/search?q=Insua) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-02-21 19:16:28 UTC`
+📆 Last Updated: `2023-02-21 20:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 2 | [#EYFS](http://twitter.com/search?q=%23EYFS) | N/A |
-| 3 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 4 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 5 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 6 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
-| 7 | [#BeatlesBiscuits](http://twitter.com/search?q=%23BeatlesBiscuits) | N/A |
-| 8 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 9 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 10 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 11 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 12 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
-| 13 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 14 | [#ColU](http://twitter.com/search?q=%23ColU) | N/A |
-| 15 | [Gareth Ainsworth](http://twitter.com/search?q=Gareth+Ainsworth) | N/A |
-| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 17 | [Dobbo](http://twitter.com/search?q=Dobbo) | N/A |
-| 18 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 19 | [TNT Sports](http://twitter.com/search?q=TNT+Sports) | N/A |
-| 20 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 21 | [Matt Bloomfield](http://twitter.com/search?q=Matt+Bloomfield) | N/A |
-| 22 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 23 | [Rest in Peace Ron](http://twitter.com/search?q=Rest+in+Peace+Ron) | N/A |
-| 24 | [Blooms](http://twitter.com/search?q=Blooms) | N/A |
-| 25 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 26 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 27 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 28 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 29 | [UP THE REDS](http://twitter.com/search?q=UP+THE+REDS) | N/A |
-| 30 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
-| 31 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 32 | [Wild Thing](http://twitter.com/search?q=Wild+Thing) | N/A |
-| 33 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 34 | [Lewisham](http://twitter.com/search?q=Lewisham) | N/A |
-| 35 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 36 | [Leviticus](http://twitter.com/search?q=Leviticus) | N/A |
-| 37 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 38 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 39 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
-| 40 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
-| 41 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 42 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 43 | [Helmets](http://twitter.com/search?q=Helmets) | N/A |
-| 44 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
-| 45 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
-| 46 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 47 | [President Putin](http://twitter.com/search?q=President+Putin) | N/A |
-| 48 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 49 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 1 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 2 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
+| 3 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 5 | [#GamblingFilmsOrSongs](http://twitter.com/search?q=%23GamblingFilmsOrSongs) | N/A |
+| 6 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
+| 7 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 8 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
+| 9 | [#Chairboys](http://twitter.com/search?q=%23Chairboys) | N/A |
+| 10 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 11 | [#EYFS](http://twitter.com/search?q=%23EYFS) | N/A |
+| 12 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 13 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 14 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 15 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
+| 16 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 18 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
+| 19 | [BT Sport](http://twitter.com/search?q=BT+Sport) | N/A |
+| 20 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 21 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [Redmen](http://twitter.com/search?q=Redmen) | N/A |
+| 24 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
+| 25 | [UP THE REDS](http://twitter.com/search?q=UP+THE+REDS) | N/A |
+| 26 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
+| 27 | [Jake Humphrey](http://twitter.com/search?q=Jake+Humphrey) | N/A |
+| 28 | [TNT Sports](http://twitter.com/search?q=TNT+Sports) | N/A |
+| 29 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 30 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 31 | [Whittaker](http://twitter.com/search?q=Whittaker) | N/A |
+| 32 | [Gareth Ainsworth](http://twitter.com/search?q=Gareth+Ainsworth) | N/A |
+| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 34 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
+| 35 | [Dobbo](http://twitter.com/search?q=Dobbo) | N/A |
+| 36 | [Matt Bloomfield](http://twitter.com/search?q=Matt+Bloomfield) | N/A |
+| 37 | [Michael Owen](http://twitter.com/search?q=Michael+Owen) | N/A |
+| 38 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 39 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 40 | [Rest in Peace Ron](http://twitter.com/search?q=Rest+in+Peace+Ron) | N/A |
+| 41 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 42 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 43 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 44 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
+| 45 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 46 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
+| 47 | [Blooms](http://twitter.com/search?q=Blooms) | N/A |
+| 48 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 49 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 
 
 

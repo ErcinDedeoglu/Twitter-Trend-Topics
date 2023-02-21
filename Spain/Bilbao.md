@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-21 19:16:47 UTC`
+📆 Last Updated: `2023-02-21 20:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 2 | [Comprimidos](http://twitter.com/search?q=Comprimidos) | N/A |
-| 3 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
-| 6 | [#LaúltimamelodíadeChopin](http://twitter.com/search?q=%23La%c3%baltimamelod%c3%adadeChopin) | N/A |
-| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 8 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 9 | [Junts](http://twitter.com/search?q=Junts) | N/A |
-| 10 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
-| 11 | [#TierraAmarga21Feb](http://twitter.com/search?q=%23TierraAmarga21Feb) | N/A |
-| 12 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
-| 13 | [Miriam Nogueras](http://twitter.com/search?q=Miriam+Nogueras) | N/A |
-| 14 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 15 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 16 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 19 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 20 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 21 | [Española](http://twitter.com/search?q=Espa%c3%b1ola) | N/A |
-| 22 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
-| 23 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 24 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 25 | [Enantyum](http://twitter.com/search?q=Enantyum) | N/A |
-| 26 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 27 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 28 | [Españoles](http://twitter.com/search?q=Espa%c3%b1oles) | N/A |
-| 29 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
-| 30 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 31 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 32 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 33 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
-| 34 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
-| 35 | [El Escorial](http://twitter.com/search?q=El+Escorial) | N/A |
-| 36 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
-| 37 | [Estado Español](http://twitter.com/search?q=Estado+Espa%c3%b1ol) | N/A |
-| 38 | [Expertos](http://twitter.com/search?q=Expertos) | N/A |
-| 39 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 40 | [VOSE](http://twitter.com/search?q=VOSE) | N/A |
-| 41 | [Mistos](http://twitter.com/search?q=Mistos) | N/A |
-| 42 | [Jon Favreau](http://twitter.com/search?q=Jon+Favreau) | N/A |
-| 43 | [La ONU](http://twitter.com/search?q=La+ONU) | N/A |
-| 44 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 45 | [Like a Dragon](http://twitter.com/search?q=Like+a+Dragon) | N/A |
-| 46 | [El Cordobés](http://twitter.com/search?q=El+Cordob%c3%a9s) | N/A |
-| 47 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 48 | [Florentino Pérez](http://twitter.com/search?q=Florentino+P%c3%a9rez) | N/A |
-| 49 | [Chainsaw Man](http://twitter.com/search?q=Chainsaw+Man) | Chainsaw Man is a Japanese manga series written and illustrated by Tatsuki Fujimoto. It follows the story of Denji, a young man who is transformed into a chainsaw-wielding demon in order to save his life. The series follows Denji as he struggles to survive in a world filled with monsters and demons while trying to make ends meet. The title of the series is derived from Denji's transformation, as he wields a chainsaw as his primary weapon. In English, the phrase "Chainsaw Man" refers to someone who is powerful and dangerous, but also has a kind heart. |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 3 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 4 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 5 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 6 | [#Pasapalabra709](http://twitter.com/search?q=%23Pasapalabra709) | N/A |
+| 7 | [Comprimidos](http://twitter.com/search?q=Comprimidos) | N/A |
+| 8 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
+| 9 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 10 | [#ElCazador665](http://twitter.com/search?q=%23ElCazador665) | N/A |
+| 11 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 12 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 13 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 14 | [KARL](http://twitter.com/search?q=KARL) | N/A |
+| 15 | [Sobres](http://twitter.com/search?q=Sobres) | N/A |
+| 16 | [TINA](http://twitter.com/search?q=TINA) | N/A |
+| 17 | [VAMOS REAL](http://twitter.com/search?q=VAMOS+REAL) | N/A |
+| 18 | [Junts](http://twitter.com/search?q=Junts) | N/A |
+| 19 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
+| 20 | [Rubius](http://twitter.com/search?q=Rubius) | Rubius is a Latin word meaning "red". It is often used to describe the color of hair, eyes, or skin. |
+| 21 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 22 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 23 | [Miriam Nogueras](http://twitter.com/search?q=Miriam+Nogueras) | N/A |
+| 24 | [Chollometro](http://twitter.com/search?q=Chollometro) | N/A |
+| 25 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 26 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 27 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 28 | [Rey de Europa](http://twitter.com/search?q=Rey+de+Europa) | N/A |
+| 29 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 30 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 31 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 32 | [Española](http://twitter.com/search?q=Espa%c3%b1ola) | N/A |
+| 33 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 34 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 35 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 36 | [Españoles](http://twitter.com/search?q=Espa%c3%b1oles) | N/A |
+| 37 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 38 | [Enantyum](http://twitter.com/search?q=Enantyum) | N/A |
+| 39 | [Viva España](http://twitter.com/search?q=Viva+Espa%c3%b1a) | N/A |
+| 40 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
+| 41 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 42 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 43 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
+| 44 | [Estado Español](http://twitter.com/search?q=Estado+Espa%c3%b1ol) | N/A |
+| 45 | [Copa de Europa](http://twitter.com/search?q=Copa+de+Europa) | N/A |
+| 46 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
+| 47 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
+| 48 | [El Escorial](http://twitter.com/search?q=El+Escorial) | N/A |
+| 49 | [Activision](http://twitter.com/search?q=Activision) | N/A |
 
 
 

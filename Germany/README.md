@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-21 19:17:26 UTC`
+📆 Last Updated: `2023-02-21 20:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
-| 2 | [#GERSWE](http://twitter.com/search?q=%23GERSWE) | N/A |
-| 3 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
-| 4 | [#100AufDerAutobahn](http://twitter.com/search?q=%23100AufDerAutobahn) | N/A |
-| 5 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 1 | [#SGESSC](http://twitter.com/search?q=%23SGESSC) | N/A |
+| 2 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 3 | [#SGENapoli](http://twitter.com/search?q=%23SGENapoli) | N/A |
+| 4 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 5 | [#herzanbord](http://twitter.com/search?q=%23herzanbord) | N/A |
 | 6 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 7 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 7 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 8 | [Baum](http://twitter.com/search?q=Baum) | N/A |
-| 9 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 10 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 11 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 12 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 13 | [Rouladen](http://twitter.com/search?q=Rouladen) | N/A |
-| 14 | [Mandy](http://twitter.com/search?q=Mandy) | N/A |
-| 15 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 16 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 17 | [Rede zur Lage der Nation](http://twitter.com/search?q=Rede+zur+Lage+der+Nation) | N/A |
-| 18 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 9 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 10 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 11 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 12 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 13 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 14 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 16 | [Rouladen](http://twitter.com/search?q=Rouladen) | N/A |
+| 17 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 18 | [Rede zur Lage der Nation](http://twitter.com/search?q=Rede+zur+Lage+der+Nation) | N/A |
 | 19 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
-| 20 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 21 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 22 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 23 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 24 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 25 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 26 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 27 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 28 | [Amtsanmaßung](http://twitter.com/search?q=Amtsanma%c3%9fung) | N/A |
-| 29 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 30 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 31 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 32 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 20 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 21 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 22 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 23 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 24 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 25 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 26 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 27 | [Amtsanmaßung](http://twitter.com/search?q=Amtsanma%c3%9fung) | N/A |
+| 28 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 29 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 30 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 31 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 32 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
 | 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 34 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 35 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
-| 36 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 37 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
-| 38 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 39 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 40 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 41 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 42 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 43 | [Ketchup](http://twitter.com/search?q=Ketchup) | N/A |
-| 44 | [Adorno](http://twitter.com/search?q=Adorno) | N/A |
-| 45 | [Kurzarbeit](http://twitter.com/search?q=Kurzarbeit) | N/A |
-| 46 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
-| 47 | [Minima Moralia](http://twitter.com/search?q=Minima+Moralia) | N/A |
-| 48 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 49 | [Nenne](http://twitter.com/search?q=Nenne) | N/A |
-| 50 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 34 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 35 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
+| 36 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 37 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 38 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 39 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
+| 40 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 41 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 42 | [Kurzarbeit](http://twitter.com/search?q=Kurzarbeit) | N/A |
+| 43 | [Adorno](http://twitter.com/search?q=Adorno) | N/A |
+| 44 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
+| 45 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
+| 46 | [Minima Moralia](http://twitter.com/search?q=Minima+Moralia) | N/A |
+| 47 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 48 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 49 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 50 | [Teheran](http://twitter.com/search?q=Teheran) | N/A |
 
 
 

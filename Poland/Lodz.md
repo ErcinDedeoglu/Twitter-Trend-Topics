@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-21 19:16:41 UTC`
+📆 Last Updated: `2023-02-21 20:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,32 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bidena](http://twitter.com/search?q=Bidena) | N/A |
-| 2 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
+| 1 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
+| 2 | [Kaczyńskim](http://twitter.com/search?q=Kaczy%c5%84skim) | N/A |
 | 3 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
-| 4 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 4 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
 | 5 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
-| 6 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
-| 7 | [Kaczyńskim](http://twitter.com/search?q=Kaczy%c5%84skim) | N/A |
-| 8 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
-| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 10 | [#POTUS](http://twitter.com/search?q=%23POTUS) | N/A |
-| 11 | [Dziękuję Polsko](http://twitter.com/search?q=Dzi%c4%99kuj%c4%99+Polsko) | N/A |
-| 12 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 13 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 14 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 15 | [Grodzkim](http://twitter.com/search?q=Grodzkim) | N/A |
-| 16 | [Arkadach Kubickiego](http://twitter.com/search?q=Arkadach+Kubickiego) | N/A |
+| 6 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 7 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 8 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
+| 9 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 10 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 11 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
+| 12 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
+| 13 | [#POTUS](http://twitter.com/search?q=%23POTUS) | N/A |
+| 14 | [Arkadach Kubickiego](http://twitter.com/search?q=Arkadach+Kubickiego) | N/A |
+| 15 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
+| 16 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
 | 17 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 18 | [Żulczyk](http://twitter.com/search?q=%c5%bbulczyk) | N/A |
-| 19 | [Konkrety](http://twitter.com/search?q=Konkrety) | N/A |
-| 20 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
-| 21 | [#Warsaw](http://twitter.com/search?q=%23Warsaw) | N/A |
-| 22 | [Łacina](http://twitter.com/search?q=%c5%81acina) | N/A |
-| 23 | [Freudowska](http://twitter.com/search?q=Freudowska) | N/A |
-| 24 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 25 | [Witaj Polsko](http://twitter.com/search?q=Witaj+Polsko) | N/A |
-| 26 | [Prestiżowa](http://twitter.com/search?q=Presti%c5%bcowa) | N/A |
-| 27 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 28 | [Zamek Królewski](http://twitter.com/search?q=Zamek+Kr%c3%b3lewski) | N/A |
-| 29 | [Nawalny](http://twitter.com/search?q=Nawalny) | N/A |
-| 30 | [Jarkiem](http://twitter.com/search?q=Jarkiem) | N/A |
-| 31 | [Piotrowicza](http://twitter.com/search?q=Piotrowicza) | N/A |
-| 32 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 33 | [Niebieska](http://twitter.com/search?q=Niebieska) | N/A |
-| 34 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Wyrazy](http://twitter.com/search?q=Wyrazy) | N/A |
-| 37 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 38 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 39 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
-| 40 | [Duce](http://twitter.com/search?q=Duce) | N/A |
-| 41 | [Libicki](http://twitter.com/search?q=Libicki) | N/A |
-| 42 | [Ukropolin](http://twitter.com/search?q=Ukropolin) | N/A |
-| 43 | [Kremlu](http://twitter.com/search?q=Kremlu) | N/A |
-| 44 | [Czerwona](http://twitter.com/search?q=Czerwona) | N/A |
-| 45 | [Pałacu Prezydenckiego](http://twitter.com/search?q=Pa%c5%82acu+Prezydenckiego) | N/A |
-| 46 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 47 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 48 | [CBOS](http://twitter.com/search?q=CBOS) | N/A |
+| 18 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 20 | [Jarek](http://twitter.com/search?q=Jarek) | N/A |
+| 21 | [Morawieckim](http://twitter.com/search?q=Morawieckim) | N/A |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 24 | [#Warszawa](http://twitter.com/search?q=%23Warszawa) | N/A |
+| 25 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 26 | [#GOATsoe](http://twitter.com/search?q=%23GOATsoe) | N/A |
 
 
 

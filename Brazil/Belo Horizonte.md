@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-21 19:16:38 UTC`
+📆 Last Updated: `2023-02-21 20:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Carnaval de BH](http://twitter.com/search?q=Carnaval+de+BH) | N/A |
+| 1 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
 | 2 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
 | 3 | [Janja](http://twitter.com/search?q=Janja) | Janja is a Swahili word that means "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
-| 4 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 7 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 8 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 10 | [O B DE LGBT](http://twitter.com/search?q=O+B+DE+LGBT) | N/A |
-| 11 | [#ApuracaoSP](http://twitter.com/search?q=%23ApuracaoSP) | N/A |
-| 12 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 13 | [Japão](http://twitter.com/search?q=Jap%c3%a3o) | N/A |
-| 14 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
+| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 5 | [#ApuracaoSP](http://twitter.com/search?q=%23ApuracaoSP) | N/A |
+| 6 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
+| 7 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 8 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
+| 9 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 10 | [Sara Rangel](http://twitter.com/search?q=Sara+Rangel) | N/A |
+| 11 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 12 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
+| 13 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 14 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
 | 15 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 16 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 17 | [Goku](http://twitter.com/search?q=Goku) | N/A |
-| 18 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 19 | [LEQUE](http://twitter.com/search?q=LEQUE) | N/A |
-| 20 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 21 | [#SKZ_THESOUND_RELEASED](http://twitter.com/search?q=%23SKZ_THESOUND_RELEASED) | N/A |
-| 22 | [Anderson Barros](http://twitter.com/search?q=Anderson+Barros) | N/A |
-| 23 | [Dona Iris](http://twitter.com/search?q=Dona+Iris) | N/A |
-| 24 | [Paulo Baier](http://twitter.com/search?q=Paulo+Baier) | N/A |
-| 25 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
-| 26 | [#MelhorDaTarde](http://twitter.com/search?q=%23MelhorDaTarde) | N/A |
-| 27 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 28 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 29 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 30 | [Riven](http://twitter.com/search?q=Riven) | N/A |
-| 31 | [Esfera](http://twitter.com/search?q=Esfera) | N/A |
-| 32 | [Saulo](http://twitter.com/search?q=Saulo) | Saulo is a Portuguese name derived from the Hebrew name Saul, which means "asked for". In English, it can be translated to mean "prayed for". |
-| 33 | [Vegeta](http://twitter.com/search?q=Vegeta) | N/A |
-| 34 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
-| 35 | [Xayah](http://twitter.com/search?q=Xayah) | N/A |
-| 36 | [Macris](http://twitter.com/search?q=Macris) | N/A |
-| 37 | [Fener](http://twitter.com/search?q=Fener) | N/A |
-| 38 | [Rakan](http://twitter.com/search?q=Rakan) | N/A |
-| 39 | [URSS](http://twitter.com/search?q=URSS) | N/A |
-| 40 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 41 | [Wylan](http://twitter.com/search?q=Wylan) | N/A |
-| 42 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 43 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
-| 44 | [Cartoonizando](http://twitter.com/search?q=Cartoonizando) | N/A |
-| 45 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 46 | [daniel caesar](http://twitter.com/search?q=daniel+caesar) | N/A |
-| 47 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 48 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 49 | [Vlad](http://twitter.com/search?q=Vlad) | N/A |
-| 50 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
+| 16 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 17 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 18 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 19 | [O B DE LGBT](http://twitter.com/search?q=O+B+DE+LGBT) | N/A |
+| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 21 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 22 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 23 | [Carnaval de SP](http://twitter.com/search?q=Carnaval+de+SP) | N/A |
+| 24 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
+| 25 | [Kuri](http://twitter.com/search?q=Kuri) | N/A |
+| 26 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 27 | [Japão](http://twitter.com/search?q=Jap%c3%a3o) | N/A |
+| 28 | [bella hadid](http://twitter.com/search?q=bella+hadid) | N/A |
+| 29 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 30 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
+| 31 | [#bahiafolia](http://twitter.com/search?q=%23bahiafolia) | N/A |
+| 32 | [Goku](http://twitter.com/search?q=Goku) | N/A |
+| 33 | [Tucuruvi](http://twitter.com/search?q=Tucuruvi) | N/A |
+| 34 | [Dragões](http://twitter.com/search?q=Drag%c3%b5es) | N/A |
+| 35 | [Alegoria](http://twitter.com/search?q=Alegoria) | N/A |
+| 36 | [Levaram](http://twitter.com/search?q=Levaram) | N/A |
+| 37 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 38 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 39 | [Saulo](http://twitter.com/search?q=Saulo) | Saulo is a Portuguese name derived from the Hebrew name Saul, which means "asked for". In English, it can be translated to mean "prayed for". |
+| 40 | [Anderson Barros](http://twitter.com/search?q=Anderson+Barros) | N/A |
+| 41 | [LEQUE](http://twitter.com/search?q=LEQUE) | N/A |
+| 42 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
+| 43 | [Vegeta](http://twitter.com/search?q=Vegeta) | N/A |
+| 44 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 45 | [daniel caesar](http://twitter.com/search?q=daniel+caesar) | N/A |
+| 46 | [Dona Iris](http://twitter.com/search?q=Dona+Iris) | N/A |
+| 47 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 48 | [Riven](http://twitter.com/search?q=Riven) | N/A |
+| 49 | [Macris](http://twitter.com/search?q=Macris) | N/A |
+| 50 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
 
 
 

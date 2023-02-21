@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For El Paso
 
-📆 Last Updated: `2023-02-21 19:17:16 UTC`
+📆 Last Updated: `2023-02-21 20:17:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,51 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
 | 2 | [#tspra23](http://twitter.com/search?q=%23tspra23) | N/A |
-| 3 | [UTSA](http://twitter.com/search?q=UTSA) | N/A |
-| 4 | [NOLA](http://twitter.com/search?q=NOLA) | N/A |
-| 5 | [#BuschArmy](http://twitter.com/search?q=%23BuschArmy) | N/A |
-| 6 | [Da Brat](http://twitter.com/search?q=Da+Brat) | N/A |
-| 7 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 8 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 9 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
-| 10 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 11 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 12 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 13 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 14 | [Will Barton](http://twitter.com/search?q=Will+Barton) | N/A |
-| 15 | [Chainz](http://twitter.com/search?q=Chainz) | N/A |
-| 16 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 3 | [NOLA](http://twitter.com/search?q=NOLA) | N/A |
+| 4 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 7 | [#BuschArmy](http://twitter.com/search?q=%23BuschArmy) | N/A |
+| 8 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 9 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 10 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 11 | [Da Brat](http://twitter.com/search?q=Da+Brat) | N/A |
+| 12 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 13 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 14 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
+| 15 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 16 | [Barton](http://twitter.com/search?q=Barton) | N/A |
 | 17 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 18 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 19 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 20 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 21 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 22 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 23 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 24 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
-| 27 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 28 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
-| 29 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
-| 30 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
-| 31 | [METLIFE](http://twitter.com/search?q=METLIFE) | N/A |
-| 32 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
-| 33 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 34 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 35 | [Best of 3](http://twitter.com/search?q=Best+of+3) | N/A |
-| 36 | [Commander Masters](http://twitter.com/search?q=Commander+Masters) | N/A |
-| 37 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 38 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 39 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 18 | [Chainz](http://twitter.com/search?q=Chainz) | N/A |
+| 19 | [Darius Miles](http://twitter.com/search?q=Darius+Miles) | N/A |
+| 20 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 21 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 24 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 25 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
+| 26 | [Tuscaloosa](http://twitter.com/search?q=Tuscaloosa) | N/A |
+| 27 | [USFL](http://twitter.com/search?q=USFL) | N/A |
+| 28 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 29 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 30 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 31 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 32 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 33 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
+| 34 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
+| 35 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
+| 36 | [Polish](http://twitter.com/search?q=Polish) | N/A |
+| 37 | [Commander Masters](http://twitter.com/search?q=Commander+Masters) | N/A |
+| 38 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 39 | [Poland](http://twitter.com/search?q=Poland) | N/A |
 | 40 | [GeForce Now](http://twitter.com/search?q=GeForce+Now) | N/A |
-| 41 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 42 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 43 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
-| 44 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 45 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
-| 46 | [Malcolm X](http://twitter.com/search?q=Malcolm+X) | N/A |
-| 47 | [Ensign Peak](http://twitter.com/search?q=Ensign+Peak) | N/A |
+| 41 | [UP THE REDS](http://twitter.com/search?q=UP+THE+REDS) | N/A |
+| 42 | [Kris Dunn](http://twitter.com/search?q=Kris+Dunn) | N/A |
+| 43 | [Best of 3](http://twitter.com/search?q=Best+of+3) | N/A |
+| 44 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
+| 45 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 46 | [Activision](http://twitter.com/search?q=Activision) | N/A |
+| 47 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
 
 
 
