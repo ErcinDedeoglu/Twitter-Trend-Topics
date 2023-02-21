@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tampa
 
-📆 Last Updated: `2023-02-20 23:17:30 UTC`
+📆 Last Updated: `2023-02-21 00:30:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 2 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
-| 3 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
-| 4 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 6 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
-| 7 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 8 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
-| 9 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
-| 10 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
-| 11 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 12 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 13 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 14 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
-| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 16 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
-| 17 | [Osteen](http://twitter.com/search?q=Osteen) | N/A |
-| 18 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 19 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
-| 20 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 21 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 22 | [#Sprina](http://twitter.com/search?q=%23Sprina) | N/A |
-| 23 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
-| 24 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 25 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
-| 26 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
-| 27 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
-| 28 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
-| 29 | [Cheese](http://twitter.com/search?q=Cheese) | N/A |
-| 30 | [Trolls 3](http://twitter.com/search?q=Trolls+3) | N/A |
-| 31 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
-| 32 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 33 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
-| 34 | [Jason Kipnis](http://twitter.com/search?q=Jason+Kipnis) | N/A |
-| 35 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 36 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
-| 37 | [George Washington](http://twitter.com/search?q=George+Washington) | N/A |
-| 38 | [Iron Man](http://twitter.com/search?q=Iron+Man) | N/A |
-| 39 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
-| 40 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 41 | [Club Renaissance](http://twitter.com/search?q=Club+Renaissance) | N/A |
-| 42 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 43 | [Sedition](http://twitter.com/search?q=Sedition) | N/A |
-| 44 | [Jim Bob](http://twitter.com/search?q=Jim+Bob) | N/A |
-| 45 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
-| 46 | [Aljo](http://twitter.com/search?q=Aljo) | N/A |
-| 47 | [Lettuce](http://twitter.com/search?q=Lettuce) | N/A |
-| 48 | [Bergeron](http://twitter.com/search?q=Bergeron) | N/A |
-| 49 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 1 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
+| 2 | [Giants](http://twitter.com/search?q=Giants) | Giants is a term used to refer to people or things that are much larger than average. It can be used to describe a person who is unusually tall, or an object that is unusually large. It can also be used figuratively to refer to something that is very powerful or influential. |
+| 3 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 5 | [#NationalLoveYourPetDay](http://twitter.com/search?q=%23NationalLoveYourPetDay) | N/A |
+| 6 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 7 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
+| 8 | [El Ellis](http://twitter.com/search?q=El+Ellis) | N/A |
+| 9 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 10 | [#PresidentsDay](http://twitter.com/search?q=%23PresidentsDay) | N/A |
+| 11 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
+| 12 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 13 | [Patrick Beverley](http://twitter.com/search?q=Patrick+Beverley) | N/A |
+| 14 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
+| 15 | [Osteen](http://twitter.com/search?q=Osteen) | N/A |
+| 16 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
+| 17 | [Ken Burns](http://twitter.com/search?q=Ken+Burns) | N/A |
+| 18 | [Dr. Heiser](http://twitter.com/search?q=Dr.+Heiser) | N/A |
+| 19 | [Marge](http://twitter.com/search?q=Marge) | N/A |
+| 20 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 21 | [Alec Baldwin](http://twitter.com/search?q=Alec+Baldwin) | Alec Baldwin is an American actor, writer, producer, and comedian. He is best known for his roles in films such as Beetlejuice, Glengarry Glen Ross, The Departed, and the popular NBC sitcom 30 Rock. He has won three Emmy Awards and two Golden Globe Awards for his work in television. |
+| 22 | [#IKnewIWasRightAbout](http://twitter.com/search?q=%23IKnewIWasRightAbout) | N/A |
+| 23 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
+| 24 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 25 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 26 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 27 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 28 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 29 | [Daniel Jones](http://twitter.com/search?q=Daniel+Jones) | Daniel Jones is a common English surname. It is derived from the Hebrew name Daniel, which means "God is my judge". The name is often used as a given name in English-speaking countries. |
+| 30 | [Red States](http://twitter.com/search?q=Red+States) | N/A |
+| 31 | [Ersson](http://twitter.com/search?q=Ersson) | N/A |
+| 32 | [Red McCombs](http://twitter.com/search?q=Red+McCombs) | N/A |
+| 33 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
+| 34 | [Trolls 3](http://twitter.com/search?q=Trolls+3) | N/A |
+| 35 | [Iron Man](http://twitter.com/search?q=Iron+Man) | N/A |
+| 36 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 37 | [Blue States](http://twitter.com/search?q=Blue+States) | N/A |
+| 38 | [United States of America](http://twitter.com/search?q=United+States+of+America) | N/A |
+| 39 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
+| 40 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 41 | [Stanton](http://twitter.com/search?q=Stanton) | N/A |
+| 42 | [Dolph](http://twitter.com/search?q=Dolph) | N/A |
+| 43 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 44 | [Jason Kipnis](http://twitter.com/search?q=Jason+Kipnis) | N/A |
+| 45 | [Ariana DeBose](http://twitter.com/search?q=Ariana+DeBose) | N/A |
+| 46 | [Cheese](http://twitter.com/search?q=Cheese) | N/A |
+| 47 | [Mazz](http://twitter.com/search?q=Mazz) | N/A |
+| 48 | [Secession](http://twitter.com/search?q=Secession) | N/A |
+| 49 | [Butter](http://twitter.com/search?q=Butter) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-02-20 23:16:32 UTC`
+📆 Last Updated: `2023-02-21 00:29:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Indiyah](http://twitter.com/search?q=Indiyah) | N/A |
-| 2 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 3 | [Chris Moyles](http://twitter.com/search?q=Chris+Moyles) | N/A |
+| 1 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 2 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
+| 3 | [#JLPets](http://twitter.com/search?q=%23JLPets) | N/A |
 | 4 | [John Henry](http://twitter.com/search?q=John+Henry) | N/A |
-| 5 | [Captain America](http://twitter.com/search?q=Captain+America) | N/A |
-| 6 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 7 | [#RHOP](http://twitter.com/search?q=%23RHOP) | #RHOP stands for The Real Housewives of Potomac, which is a reality television series that airs on the Bravo network. It follows the lives of six women living in Potomac, Maryland, as they navigate their personal and professional lives. |
-| 8 | [#payrestoration](http://twitter.com/search?q=%23payrestoration) | N/A |
-| 9 | [#BMADoctorsVoteYes](http://twitter.com/search?q=%23BMADoctorsVoteYes) | N/A |
-| 10 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 11 | [#FSGOUT](http://twitter.com/search?q=%23FSGOUT) | N/A |
-| 12 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
-| 13 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
-| 14 | [Patriotic Alternative](http://twitter.com/search?q=Patriotic+Alternative) | N/A |
-| 15 | [Calzaghe](http://twitter.com/search?q=Calzaghe) | N/A |
-| 16 | [Bernard Cribbins](http://twitter.com/search?q=Bernard+Cribbins) | N/A |
-| 17 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
-| 18 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 19 | [Cheese](http://twitter.com/search?q=Cheese) | N/A |
-| 20 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 21 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 22 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 23 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 24 | [Jax Jones](http://twitter.com/search?q=Jax+Jones) | N/A |
-| 25 | [Callum Scott](http://twitter.com/search?q=Callum+Scott) | N/A |
-| 26 | [Poor Martin](http://twitter.com/search?q=Poor+Martin) | N/A |
-| 27 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 28 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
-| 29 | [Craig David](http://twitter.com/search?q=Craig+David) | N/A |
-| 30 | [Nish](http://twitter.com/search?q=Nish) | N/A |
-| 31 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
-| 32 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
-| 33 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 34 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
-| 35 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
-| 36 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
-| 37 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 38 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
-| 39 | [Dike](http://twitter.com/search?q=Dike) | N/A |
-| 40 | [Shola](http://twitter.com/search?q=Shola) | N/A |
-| 41 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
-| 42 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
-| 43 | [Townsend](http://twitter.com/search?q=Townsend) | N/A |
-| 44 | [Sema](http://twitter.com/search?q=Sema) | N/A |
-| 45 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 46 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 47 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 48 | [Yes Kai](http://twitter.com/search?q=Yes+Kai) | N/A |
-| 49 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
-| 50 | [Pieters](http://twitter.com/search?q=Pieters) | N/A |
+| 5 | [#payrestoration](http://twitter.com/search?q=%23payrestoration) | N/A |
+| 6 | [#BMADoctorsVoteYes](http://twitter.com/search?q=%23BMADoctorsVoteYes) | N/A |
+| 7 | [#FSGOUT](http://twitter.com/search?q=%23FSGOUT) | N/A |
+| 8 | [Ainsworth](http://twitter.com/search?q=Ainsworth) | N/A |
+| 9 | [Benitez](http://twitter.com/search?q=Benitez) | N/A |
+| 10 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 11 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 12 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 13 | [Jax Jones](http://twitter.com/search?q=Jax+Jones) | N/A |
+| 14 | [Poor Martin](http://twitter.com/search?q=Poor+Martin) | N/A |
+| 15 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 16 | [Callum Scott](http://twitter.com/search?q=Callum+Scott) | N/A |
+| 17 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 18 | [Nish](http://twitter.com/search?q=Nish) | N/A |
+| 19 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 20 | [Sharon](http://twitter.com/search?q=Sharon) | N/A |
+| 21 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 22 | [Albrighton](http://twitter.com/search?q=Albrighton) | Albrighton is a village and civil parish in Shropshire, England. It is located near the town of Wolverhampton and has a population of around 8,000 people. The name Albrighton is derived from the Old English words 'eala' (swan) and 'brictun' (enclosure or settlement). |
+| 23 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 24 | [Molumby](http://twitter.com/search?q=Molumby) | N/A |
+| 25 | [Christmas 2023](http://twitter.com/search?q=Christmas+2023) | N/A |
+| 26 | [Wallace](http://twitter.com/search?q=Wallace) | Wallace is a Scottish and Irish surname derived from the Old English name Waleis, meaning "foreigner" or "stranger". It is also a given name, derived from the same origin. |
+| 27 | [West Brom](http://twitter.com/search?q=West+Brom) | N/A |
+| 28 | [Craig David](http://twitter.com/search?q=Craig+David) | N/A |
+| 29 | [Dike](http://twitter.com/search?q=Dike) | N/A |
+| 30 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
+| 31 | [Chalobah](http://twitter.com/search?q=Chalobah) | Chalobah is a surname of African origin. It is derived from the Yoruba language and means "God has given". |
+| 32 | [Shola](http://twitter.com/search?q=Shola) | N/A |
+| 33 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 34 | [Sema](http://twitter.com/search?q=Sema) | N/A |
+| 35 | [Townsend](http://twitter.com/search?q=Townsend) | N/A |
+| 36 | [Keanu](http://twitter.com/search?q=Keanu) | N/A |
+| 37 | [Yes Kai](http://twitter.com/search?q=Yes+Kai) | N/A |
+| 38 | [Froch](http://twitter.com/search?q=Froch) | N/A |
+| 39 | [Nicola Bulley](http://twitter.com/search?q=Nicola+Bulley) | N/A |
+| 40 | [Pieters](http://twitter.com/search?q=Pieters) | N/A |
+| 41 | [Furlong](http://twitter.com/search?q=Furlong) | N/A |
+| 42 | [Griffiths](http://twitter.com/search?q=Griffiths) | N/A |
+| 43 | [Swift](http://twitter.com/search?q=Swift) | Swift is a programming language created by Apple for developing apps for iOS, macOS, watchOS, and tvOS. It is designed to be easy to use and powerful enough to create complex applications. The name "Swift" comes from the goal of creating a language that is fast and efficient. |
+| 44 | [Bachmann](http://twitter.com/search?q=Bachmann) | N/A |
+| 45 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 46 | [Sky and ITV](http://twitter.com/search?q=Sky+and+ITV) | N/A |
+| 47 | [Kone](http://twitter.com/search?q=Kone) | N/A |
+| 48 | [Stacey](http://twitter.com/search?q=Stacey) | N/A |
+| 49 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 50 | [Suki](http://twitter.com/search?q=Suki) | N/A |
 
 
 

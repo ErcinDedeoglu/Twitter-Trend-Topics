@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-02-20 23:16:43 UTC`
+📆 Last Updated: `2023-02-21 00:29:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 2 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
+| 2 | [Yago Felipe](http://twitter.com/search?q=Yago+Felipe) | Yago Felipe is a Portuguese name. It is composed of two parts: Yago, which is a variation of the Hebrew name Jacob, and Felipe, which is the Spanish form of the name Philip. In English, it would be translated as Jacob Philip. |
 | 3 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
 | 4 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 5 | [Steam](http://twitter.com/search?q=Steam) | N/A |
-| 6 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
-| 7 | [#RioOpenNoSportv](http://twitter.com/search?q=%23RioOpenNoSportv) | N/A |
-| 8 | [Josias](http://twitter.com/search?q=Josias) | N/A |
-| 9 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
-| 10 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 11 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 12 | [#TresVezesAna016](http://twitter.com/search?q=%23TresVezesAna016) | N/A |
-| 13 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
-| 14 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 15 | [Daniel Ricciardo](http://twitter.com/search?q=Daniel+Ricciardo) | N/A |
-| 16 | [Thiago Monteiro](http://twitter.com/search?q=Thiago+Monteiro) | N/A |
-| 17 | [Zé Eduardo](http://twitter.com/search?q=Z%c3%a9+Eduardo) | N/A |
-| 18 | [Torino](http://twitter.com/search?q=Torino) | N/A |
-| 19 | [#ESPNFCBR](http://twitter.com/search?q=%23ESPNFCBR) | N/A |
-| 20 | [#PortuguesNaESPN](http://twitter.com/search?q=%23PortuguesNaESPN) | N/A |
-| 21 | [Zé Ricardo](http://twitter.com/search?q=Z%c3%a9+Ricardo) | N/A |
-| 22 | [Enner](http://twitter.com/search?q=Enner) | N/A |
-| 23 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 24 | [Silvan Alves](http://twitter.com/search?q=Silvan+Alves) | N/A |
-| 25 | [2 Milhões](http://twitter.com/search?q=2+Milh%c3%b5es) | N/A |
-| 26 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 27 | [Luva](http://twitter.com/search?q=Luva) | N/A |
-| 28 | [Zé Neto](http://twitter.com/search?q=Z%c3%a9+Neto) | N/A |
-| 29 | [Intolerância](http://twitter.com/search?q=Intoler%c3%a2ncia) | N/A |
-| 30 | [Profanação](http://twitter.com/search?q=Profana%c3%a7%c3%a3o) | N/A |
-| 31 | [Os Incríveis](http://twitter.com/search?q=Os+Incr%c3%adveis) | N/A |
-| 32 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
-| 33 | [JULIETTE NO BLOCO FORROZIN](http://twitter.com/search?q=JULIETTE+NO+BLOCO+FORROZIN) | N/A |
-| 34 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 35 | [Estadista](http://twitter.com/search?q=Estadista) | N/A |
-| 36 | [Guerra Infinita](http://twitter.com/search?q=Guerra+Infinita) | N/A |
-| 37 | [Cuellar](http://twitter.com/search?q=Cuellar) | N/A |
-| 38 | [Aparecida](http://twitter.com/search?q=Aparecida) | N/A |
-| 39 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 40 | [Crente](http://twitter.com/search?q=Crente) | N/A |
-| 41 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
-| 42 | [Kannario](http://twitter.com/search?q=Kannario) | N/A |
-| 43 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 44 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 45 | [Rio-Santos](http://twitter.com/search?q=Rio-Santos) | N/A |
-| 46 | [CONGRATULATIONS J-HOPE](http://twitter.com/search?q=CONGRATULATIONS+J-HOPE) | N/A |
-| 47 | [Mocidade](http://twitter.com/search?q=Mocidade) | N/A |
-| 48 | [Motorola](http://twitter.com/search?q=Motorola) | N/A |
-| 49 | [Zema](http://twitter.com/search?q=Zema) | Zema is a Hebrew word meaning “song” or “melody.” It is often used to refer to a type of Jewish liturgical music that is sung during religious services. |
-| 50 | [Diabo](http://twitter.com/search?q=Diabo) | N/A |
+| 5 | [CONEXAO BRISOTO](http://twitter.com/search?q=CONEXAO+BRISOTO) | N/A |
+| 6 | [Josias](http://twitter.com/search?q=Josias) | N/A |
+| 7 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
+| 8 | [Steam](http://twitter.com/search?q=Steam) | N/A |
+| 9 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 10 | [#RioOpenNoSportv](http://twitter.com/search?q=%23RioOpenNoSportv) | N/A |
+| 11 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
+| 12 | [#askjjk](http://twitter.com/search?q=%23askjjk) | N/A |
+| 13 | [Benfica](http://twitter.com/search?q=Benfica) | Benfica is a Portuguese sports club based in Lisbon. It is best known for its football team, which has won the Primeira Liga (Portuguese League) a record 37 times. The club also has teams in other sports such as basketball, futsal, handball, roller hockey, and volleyball. The English translation of Benfica is "Eagles". |
+| 14 | [#BlocoDaPabllo](http://twitter.com/search?q=%23BlocoDaPabllo) | N/A |
+| 15 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
+| 16 | [#TresVezesAna016](http://twitter.com/search?q=%23TresVezesAna016) | N/A |
+| 17 | [Paulo Henrique](http://twitter.com/search?q=Paulo+Henrique) | N/A |
+| 18 | [Luva](http://twitter.com/search?q=Luva) | N/A |
+| 19 | [Lei Rouanet](http://twitter.com/search?q=Lei+Rouanet) | N/A |
+| 20 | [beto carrero](http://twitter.com/search?q=beto+carrero) | N/A |
+| 21 | [Daniel Ricciardo](http://twitter.com/search?q=Daniel+Ricciardo) | N/A |
+| 22 | [Thiem](http://twitter.com/search?q=Thiem) | Thiem is a surname of German origin. It is derived from the Old German word "diem" meaning "people". The name is most commonly found in Germany, Austria, and Switzerland. |
+| 23 | [Guiga](http://twitter.com/search?q=Guiga) | N/A |
+| 24 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 25 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 26 | [Thiago Monteiro](http://twitter.com/search?q=Thiago+Monteiro) | N/A |
+| 27 | [Dybala](http://twitter.com/search?q=Dybala) | N/A |
+| 28 | [2 Milhões](http://twitter.com/search?q=2+Milh%c3%b5es) | N/A |
+| 29 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 30 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
+| 31 | [Galã](http://twitter.com/search?q=Gal%c3%a3) | N/A |
+| 32 | [Jet Ski](http://twitter.com/search?q=Jet+Ski) | N/A |
+| 33 | [Silvan Alves](http://twitter.com/search?q=Silvan+Alves) | N/A |
+| 34 | [Zé Eduardo](http://twitter.com/search?q=Z%c3%a9+Eduardo) | N/A |
+| 35 | [Thor](http://twitter.com/search?q=Thor) | N/A |
+| 36 | [Jabuticaba](http://twitter.com/search?q=Jabuticaba) | N/A |
+| 37 | [Ultimato](http://twitter.com/search?q=Ultimato) | N/A |
+| 38 | [Zé Ricardo](http://twitter.com/search?q=Z%c3%a9+Ricardo) | N/A |
+| 39 | [Zé Neto](http://twitter.com/search?q=Z%c3%a9+Neto) | N/A |
+| 40 | [Calegari](http://twitter.com/search?q=Calegari) | Calegari is an Italian surname derived from the Latin word caligarius, meaning "soldier in boots". It is most commonly found in northern Italy, particularly in the regions of Lombardy and Piedmont. In English, the name can be translated to mean "booted soldier". |
+| 41 | [Profanação](http://twitter.com/search?q=Profana%c3%a7%c3%a3o) | N/A |
+| 42 | [Torino](http://twitter.com/search?q=Torino) | N/A |
+| 43 | [Guerra Infinita](http://twitter.com/search?q=Guerra+Infinita) | N/A |
+| 44 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
+| 45 | [Bananinha](http://twitter.com/search?q=Bananinha) | N/A |
+| 46 | [Tristan](http://twitter.com/search?q=Tristan) | N/A |
+| 47 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 48 | [Intolerância](http://twitter.com/search?q=Intoler%c3%a2ncia) | N/A |
+| 49 | [Crente](http://twitter.com/search?q=Crente) | N/A |
+| 50 | [Estadista](http://twitter.com/search?q=Estadista) | N/A |
 
 
 

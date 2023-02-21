@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-20 23:16:40 UTC`
+📆 Last Updated: `2023-02-21 00:29:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,51 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 2 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 3 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 4 | [#CristinaCumple](http://twitter.com/search?q=%23CristinaCumple) | N/A |
-| 5 | [Palermo](http://twitter.com/search?q=Palermo) | Palermo is a city in Sicily, Italy. It is the capital of the autonomous region of Sicily and the province of Palermo. The city has a population of around 1 million people and is known for its rich history, culture, art, architecture, and cuisine. In English, Palermo means "shining sea". |
+| 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 2 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
+| 3 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
+| 4 | [Bareiro](http://twitter.com/search?q=Bareiro) | N/A |
+| 5 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
 | 6 | [Cerutti](http://twitter.com/search?q=Cerutti) | N/A |
-| 7 | [Romina y Julieta](http://twitter.com/search?q=Romina+y+Julieta) | N/A |
-| 8 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 9 | [#BuenLunes](http://twitter.com/search?q=%23BuenLunes) | N/A |
-| 10 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
-| 11 | [Briasco](http://twitter.com/search?q=Briasco) | N/A |
-| 12 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
-| 13 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
-| 14 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 15 | [Durax](http://twitter.com/search?q=Durax) | N/A |
-| 16 | [Presa](http://twitter.com/search?q=Presa) | N/A |
-| 17 | [Cosquín](http://twitter.com/search?q=Cosqu%c3%adn) | N/A |
-| 18 | [Bareiro](http://twitter.com/search?q=Bareiro) | N/A |
-| 19 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
-| 20 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 21 | [#AmorDeFamilia](http://twitter.com/search?q=%23AmorDeFamilia) | N/A |
-| 22 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 23 | [Figal](http://twitter.com/search?q=Figal) | N/A |
-| 24 | [SELIM EN SU SALSA](http://twitter.com/search?q=SELIM+EN+SU+SALSA) | N/A |
-| 25 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 26 | [Pestañela](http://twitter.com/search?q=Pesta%c3%b1ela) | N/A |
-| 27 | [Pichetto](http://twitter.com/search?q=Pichetto) | N/A |
-| 28 | [Platense](http://twitter.com/search?q=Platense) | N/A |
-| 29 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 30 | [Independiente](http://twitter.com/search?q=Independiente) | Independiente is a term used to refer to someone or something that is independent, autonomous, and self-governing. In English, it can be translated as "independent" or "self-reliant". |
-| 31 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 32 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
-| 33 | [Wanchope](http://twitter.com/search?q=Wanchope) | N/A |
-| 34 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 35 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
-| 36 | [Salle](http://twitter.com/search?q=Salle) | N/A |
-| 37 | [Marcelo Saralegui](http://twitter.com/search?q=Marcelo+Saralegui) | N/A |
-| 38 | [UNO LOS DOS](http://twitter.com/search?q=UNO+LOS+DOS) | N/A |
-| 39 | [Norby](http://twitter.com/search?q=Norby) | N/A |
-| 40 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 41 | [Pizzini](http://twitter.com/search?q=Pizzini) | N/A |
-| 42 | [revivio gh](http://twitter.com/search?q=revivio+gh) | N/A |
-| 43 | [Merentiel](http://twitter.com/search?q=Merentiel) | N/A |
-| 44 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 45 | [Cauteruccio](http://twitter.com/search?q=Cauteruccio) | N/A |
-| 46 | [Buen Domingo](http://twitter.com/search?q=Buen+Domingo) | N/A |
-| 47 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 48 | [Milito](http://twitter.com/search?q=Milito) | N/A |
-| 49 | [Pobre Marcos](http://twitter.com/search?q=Pobre+Marcos) | N/A |
-| 50 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 7 | [#SerasDinosaurio](http://twitter.com/search?q=%23SerasDinosaurio) | N/A |
+| 8 | [Leguizamon](http://twitter.com/search?q=Leguizamon) | N/A |
+| 9 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
+| 10 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 11 | [Ciclón](http://twitter.com/search?q=Cicl%c3%b3n) | N/A |
+| 12 | [Irala](http://twitter.com/search?q=Irala) | N/A |
+| 13 | [Sarmiento](http://twitter.com/search?q=Sarmiento) | Sarmiento is a Spanish surname derived from the Latin name Sarmientus, which means “one who sows” or “one who plants”. It is also the name of a city in Argentina, named after Domingo Faustino Sarmiento, an Argentine statesman, writer, and educator. |
+| 14 | [Vombergar](http://twitter.com/search?q=Vombergar) | N/A |
+| 15 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 16 | [Durax](http://twitter.com/search?q=Durax) | N/A |
+| 17 | [Martegani](http://twitter.com/search?q=Martegani) | N/A |
+| 18 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 19 | [Batalla](http://twitter.com/search?q=Batalla) | N/A |
+| 20 | [Braida](http://twitter.com/search?q=Braida) | N/A |
+| 21 | [Barrios](http://twitter.com/search?q=Barrios) | N/A |
+| 22 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
+| 23 | [Insua](http://twitter.com/search?q=Insua) | N/A |
+| 24 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 25 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
+| 26 | [Lujan](http://twitter.com/search?q=Lujan) | N/A |
+| 27 | [Junín](http://twitter.com/search?q=Jun%c3%adn) | N/A |
+| 28 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
+| 29 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 30 | [#DiaInternacionalDelGato](http://twitter.com/search?q=%23DiaInternacionalDelGato) | N/A |
+| 31 | [Gorosito](http://twitter.com/search?q=Gorosito) | N/A |
+| 32 | [Peñarol](http://twitter.com/search?q=Pe%c3%b1arol) | Peñarol is a Uruguayan sports club based in Montevideo. It is best known for its football team, which plays in the Uruguayan Primera División and is one of the most successful clubs in South America. The name Peñarol comes from the Peñarol neighborhood of Montevideo, where the club was founded in 1891. In English, it translates to "Rock Hill". |
+| 33 | [Cositorto](http://twitter.com/search?q=Cositorto) | N/A |
+| 34 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 35 | [Aníbal](http://twitter.com/search?q=An%c3%adbal) | N/A |
+| 36 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 37 | [Atlético Tucumán](http://twitter.com/search?q=Atl%c3%a9tico+Tucum%c3%a1n) | N/A |
+| 38 | [gotze](http://twitter.com/search?q=gotze) | N/A |
+| 39 | [Milito](http://twitter.com/search?q=Milito) | N/A |
+| 40 | [Madeleine](http://twitter.com/search?q=Madeleine) | N/A |
+| 41 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 42 | [Marcelo Saralegui](http://twitter.com/search?q=Marcelo+Saralegui) | N/A |
+| 43 | [Logrado](http://twitter.com/search?q=Logrado) | N/A |
+| 44 | [Milton](http://twitter.com/search?q=Milton) | N/A |
+| 45 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-02-20 23:16:58 UTC`
+📆 Last Updated: `2023-02-21 00:29:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [#QandA](http://twitter.com/search?q=%23QandA) | N/A |
 | 2 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
-| 3 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 4 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 5 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
-| 6 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
-| 7 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 8 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 9 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 10 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 3 | [Noel Pearson](http://twitter.com/search?q=Noel+Pearson) | N/A |
+| 4 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 5 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 7 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
+| 8 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
+| 9 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
+| 10 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 | 11 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 12 | [Shonee](http://twitter.com/search?q=Shonee) | N/A |
-| 13 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
-| 14 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 15 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 16 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 17 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 18 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
-| 19 | [#Superannuation](http://twitter.com/search?q=%23Superannuation) | N/A |
-| 20 | [#MAFSAustralia](http://twitter.com/search?q=%23MAFSAustralia) | N/A |
-| 21 | [Roosters](http://twitter.com/search?q=Roosters) | N/A |
-| 22 | [Perth](http://twitter.com/search?q=Perth) | N/A |
-| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 24 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 25 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 26 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 27 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
-| 28 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 29 | [Knights](http://twitter.com/search?q=Knights) | N/A |
-| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 31 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
-| 32 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 33 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
-| 34 | [Fordham](http://twitter.com/search?q=Fordham) | N/A |
-| 35 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 36 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 37 | [Langer](http://twitter.com/search?q=Langer) | N/A |
-| 38 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
-| 39 | [charles wann](http://twitter.com/search?q=charles+wann) | N/A |
-| 40 | [Daryl Braithwaite](http://twitter.com/search?q=Daryl+Braithwaite) | N/A |
-| 41 | [Socceroos](http://twitter.com/search?q=Socceroos) | N/A |
-| 42 | [Marge](http://twitter.com/search?q=Marge) | N/A |
-| 43 | [Kamahl](http://twitter.com/search?q=Kamahl) | N/A |
-| 44 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
-| 45 | [SMSF](http://twitter.com/search?q=SMSF) | N/A |
-| 46 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 47 | [Narty](http://twitter.com/search?q=Narty) | N/A |
-| 48 | [David Coleman](http://twitter.com/search?q=David+Coleman) | N/A |
-| 49 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 50 | [Wembley](http://twitter.com/search?q=Wembley) | Wembley is a stadium in London, England. It is the home of the English national football team and has hosted many major sporting events, including the FA Cup Final, the League Cup Final, and the Champions League Final. The name Wembley is derived from the Old English words "wealh" (foreigner) and "lea" (meadow). |
+| 12 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 13 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 14 | [#evokeAG](http://twitter.com/search?q=%23evokeAG) | N/A |
+| 15 | [Brittany](http://twitter.com/search?q=Brittany) | N/A |
+| 16 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 17 | [Jordie](http://twitter.com/search?q=Jordie) | N/A |
+| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 19 | [#MAFSAustralia](http://twitter.com/search?q=%23MAFSAustralia) | N/A |
+| 20 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 21 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 22 | [Reynolds](http://twitter.com/search?q=Reynolds) | Reynolds is a surname of English origin. It is derived from the Old French personal name "Reinald", which is composed of the elements "rei" (king) and "wald" (rule). The name was popularized by Sir Joshua Reynolds, an 18th century English painter. |
+| 23 | [Roosters](http://twitter.com/search?q=Roosters) | N/A |
+| 24 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 25 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 26 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 27 | [Socceroos](http://twitter.com/search?q=Socceroos) | N/A |
+| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 29 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 30 | [Richard Belzer](http://twitter.com/search?q=Richard+Belzer) | N/A |
+| 31 | [Rupert](http://twitter.com/search?q=Rupert) | N/A |
+| 32 | [Knights](http://twitter.com/search?q=Knights) | N/A |
+| 33 | [Daryl Braithwaite](http://twitter.com/search?q=Daryl+Braithwaite) | N/A |
+| 34 | [Ben Fordham](http://twitter.com/search?q=Ben+Fordham) | N/A |
+| 35 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 36 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 37 | [Stevie](http://twitter.com/search?q=Stevie) | Stevie is a nickname for the name Steven or Stephen. It is derived from the Greek name Stephanos, which means "crown" or "garland". |
+| 38 | [charles wann](http://twitter.com/search?q=charles+wann) | N/A |
+| 39 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 40 | [Kamahl](http://twitter.com/search?q=Kamahl) | N/A |
+| 41 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
+| 42 | [SMSF](http://twitter.com/search?q=SMSF) | N/A |
+| 43 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 44 | [The Horses](http://twitter.com/search?q=The+Horses) | N/A |
+| 45 | [Türkiye](http://twitter.com/search?q=T%c3%bcrkiye) | N/A |
+| 46 | [David Coleman](http://twitter.com/search?q=David+Coleman) | N/A |
+| 47 | [Carla Zampatti](http://twitter.com/search?q=Carla+Zampatti) | N/A |
+| 48 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 49 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 50 | [Zelenskyy](http://twitter.com/search?q=Zelenskyy) | N/A |
 
 
 

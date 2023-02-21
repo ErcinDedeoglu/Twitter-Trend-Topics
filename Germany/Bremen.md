@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-20 23:16:49 UTC`
+📆 Last Updated: `2023-02-21 00:29:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#firstdateshotel](http://twitter.com/search?q=%23firstdateshotel) | N/A |
-| 2 | [#Rosenmontag](http://twitter.com/search?q=%23Rosenmontag) | N/A |
+| 1 | [#Rosenmontag](http://twitter.com/search?q=%23Rosenmontag) | N/A |
+| 2 | [#Biden](http://twitter.com/search?q=%23Biden) | N/A |
 | 3 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 4 | [Wochenstart](http://twitter.com/search?q=Wochenstart) | Wochenstart is a German word meaning "start of the week". It is used to refer to the beginning of a new week, usually Monday. |
-| 5 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
-| 6 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
-| 7 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 8 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 9 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 10 | [Lucas](http://twitter.com/search?q=Lucas) | Lucas is a masculine given name of Latin origin, derived from the Latin name Lucius. It means "light" or "illumination". |
-| 11 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 12 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 13 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 14 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 15 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 16 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 17 | [Lörrach](http://twitter.com/search?q=L%c3%b6rrach) | N/A |
-| 18 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 19 | [Carlo](http://twitter.com/search?q=Carlo) | N/A |
-| 20 | [Beben](http://twitter.com/search?q=Beben) | N/A |
-| 21 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 22 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 23 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 24 | [Weinzierl](http://twitter.com/search?q=Weinzierl) | N/A |
-| 25 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
-| 26 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
-| 27 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 28 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
-| 29 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 30 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 31 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 32 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 33 | [Munster](http://twitter.com/search?q=Munster) | N/A |
-| 34 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
-| 35 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 36 | [Nahles](http://twitter.com/search?q=Nahles) | N/A |
-| 37 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
-| 38 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
-| 39 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
-| 40 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
-| 41 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
-| 42 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 43 | [Wagen](http://twitter.com/search?q=Wagen) | N/A |
-| 44 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 45 | [Le Fee](http://twitter.com/search?q=Le+Fee) | N/A |
-| 46 | [Strommix](http://twitter.com/search?q=Strommix) | N/A |
-| 47 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 48 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
+| 4 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 5 | [Start in die Woche](http://twitter.com/search?q=Start+in+die+Woche) | Start in die Woche is a German phrase that translates to "start of the week" in English. It is used to refer to the beginning of a new week, usually on Monday. |
+| 6 | [Versprecher](http://twitter.com/search?q=Versprecher) | N/A |
+| 7 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 8 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 9 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 10 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 11 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 12 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
+| 13 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 14 | [Lörrach](http://twitter.com/search?q=L%c3%b6rrach) | N/A |
+| 15 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 16 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
+| 17 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 18 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
+| 19 | [weinzierl](http://twitter.com/search?q=weinzierl) | N/A |
+| 20 | [Winnetou](http://twitter.com/search?q=Winnetou) | N/A |
+| 21 | [Sirenen](http://twitter.com/search?q=Sirenen) | N/A |
+| 22 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 23 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 24 | [Außenministerin](http://twitter.com/search?q=Au%c3%9fenministerin) | N/A |
+| 25 | [Munster](http://twitter.com/search?q=Munster) | N/A |
+| 26 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 27 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
+| 28 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 29 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 30 | [Ladendetektiv](http://twitter.com/search?q=Ladendetektiv) | N/A |
+| 31 | [moin tom](http://twitter.com/search?q=moin+tom) | N/A |
+| 32 | [Secret Service](http://twitter.com/search?q=Secret+Service) | N/A |
+| 33 | [Zoch](http://twitter.com/search?q=Zoch) | N/A |
+| 34 | [Dahoud](http://twitter.com/search?q=Dahoud) | N/A |
+| 35 | [Wagen](http://twitter.com/search?q=Wagen) | N/A |
+| 36 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 37 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 38 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 39 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 40 | [Strommix](http://twitter.com/search?q=Strommix) | N/A |
+| 41 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 42 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
+| 43 | [Indianer](http://twitter.com/search?q=Indianer) | N/A |
+| 44 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 45 | [Weltkrieg](http://twitter.com/search?q=Weltkrieg) | N/A |
+| 46 | [Omar](http://twitter.com/search?q=Omar) | Omar is a male given name of Arabic origin, meaning "speaker". It is also used as a surname. |
+| 47 | [MySpace](http://twitter.com/search?q=MySpace) | N/A |
+| 48 | [Sleepy Joe](http://twitter.com/search?q=Sleepy+Joe) | N/A |
 
 
 

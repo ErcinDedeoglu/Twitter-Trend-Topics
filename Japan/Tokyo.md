@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-20 23:17:01 UTC`
+📆 Last Updated: `2023-02-21 00:29:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#cozy1242](http://twitter.com/search?q=%23cozy1242) | N/A |
-| 2 | [グラブルメンテ](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%96%e3%83%ab%e3%83%a1%e3%83%b3%e3%83%86) | グラブルメンテ (Granblue Maintenance) is a term used to refer to the maintenance and upkeep of the popular mobile game Granblue Fantasy. This includes bug fixes, updates, and other changes that are made to the game in order to keep it running smoothly. In English, it can be translated as "Granblue Maintenance". |
-| 3 | [#HappyLEESEOday](http://twitter.com/search?q=%23HappyLEESEOday) | N/A |
-| 4 | [大雪警報](http://twitter.com/search?q=%e5%a4%a7%e9%9b%aa%e8%ad%a6%e5%a0%b1) | 大雪警報 (Daiyukkei Kōhō) is a Japanese term for a heavy snow warning. It is issued when the amount of snowfall is expected to exceed 10 cm in 24 hours or 20 cm in 48 hours. In English, it translates to "Heavy Snow Warning". |
-| 5 | [FF15](http://twitter.com/search?q=FF15) | N/A |
-| 6 | [#ijuin](http://twitter.com/search?q=%23ijuin) | N/A |
-| 7 | [マン凸待ち](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e5%87%b8%e5%be%85%e3%81%a1) | N/A |
-| 8 | [カビュウ](http://twitter.com/search?q=%e3%82%ab%e3%83%93%e3%83%a5%e3%82%a6) | N/A |
-| 9 | [新オカシラ](http://twitter.com/search?q=%e6%96%b0%e3%82%aa%e3%82%ab%e3%82%b7%e3%83%a9) | N/A |
-| 10 | [ガンダムコラボ](http://twitter.com/search?q=%e3%82%ac%e3%83%b3%e3%83%80%e3%83%a0%e3%82%b3%e3%83%a9%e3%83%9c) | ガンダムコラボ (Gundam Collaboration) is a series of collaborations between the popular Japanese anime franchise Gundam and various other companies. These collaborations involve the production of special merchandise, such as apparel, toys, and video games. The purpose of these collaborations is to promote the Gundam franchise and its products. In English, it can be translated as "Gundam Collaboration". |
-| 11 | [#cnann](http://twitter.com/search?q=%23cnann) | #cnann is an acronym for "Ceann Comhairle" which is a title given to the presiding officer of the Irish Dáil (lower house of parliament). In English, it translates to "Chairman of the House". |
-| 12 | [パズドラ](http://twitter.com/search?q=%e3%83%91%e3%82%ba%e3%83%89%e3%83%a9) | パズドラ (Pazudora) is a popular Japanese puzzle game developed by GungHo Online Entertainment. It is a match-three puzzle game where players must match three or more of the same colored orbs to clear them from the board. The goal of the game is to clear all of the orbs from the board before time runs out. The English translation of パズドラ is "Puzzle Dragons". |
-| 13 | [清純スケベ系サキュバスお嬢様](http://twitter.com/search?q=%e6%b8%85%e7%b4%94%e3%82%b9%e3%82%b1%e3%83%99%e7%b3%bb%e3%82%b5%e3%82%ad%e3%83%a5%e3%83%90%e3%82%b9%e3%81%8a%e5%ac%a2%e6%a7%98) | N/A |
-| 14 | [電撃訪問](http://twitter.com/search?q=%e9%9b%bb%e6%92%83%e8%a8%aa%e5%95%8f) | N/A |
-| 15 | [#罠の戦争](http://twitter.com/search?q=%23%e7%bd%a0%e3%81%ae%e6%88%a6%e4%ba%89) | #罠の戦争 is a Japanese phrase that translates to "War of Traps". It is used to describe a situation in which two parties are engaged in a battle of wits, trying to outsmart each other by setting traps and counter-traps. |
-| 16 | [ハイブラ](http://twitter.com/search?q=%e3%83%8f%e3%82%a4%e3%83%96%e3%83%a9) | N/A |
-| 17 | [バイデン](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%83%87%e3%83%b3) | N/A |
-| 18 | [キョジオーン](http://twitter.com/search?q=%e3%82%ad%e3%83%a7%e3%82%b8%e3%82%aa%e3%83%bc%e3%83%b3) | N/A |
-| 19 | [世論調査](http://twitter.com/search?q=%e4%b8%96%e8%ab%96%e8%aa%bf%e6%9f%bb) | N/A |
-| 20 | [連絡大丈夫](http://twitter.com/search?q=%e9%80%a3%e7%b5%a1%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
-| 21 | [バランスボール](http://twitter.com/search?q=%e3%83%90%e3%83%a9%e3%83%b3%e3%82%b9%e3%83%9c%e3%83%bc%e3%83%ab) | N/A |
-| 22 | [ウルトナ](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%8a) | N/A |
-| 23 | [夜ふかし](http://twitter.com/search?q=%e5%a4%9c%e3%81%b5%e3%81%8b%e3%81%97) | N/A |
-| 24 | [アレグラ](http://twitter.com/search?q=%e3%82%a2%e3%83%ac%e3%82%b0%e3%83%a9) | N/A |
-| 25 | [carat棒](http://twitter.com/search?q=carat%e6%a3%92) | N/A |
-| 26 | [赤い霊柩車](http://twitter.com/search?q=%e8%b5%a4%e3%81%84%e9%9c%8a%e6%9f%a9%e8%bb%8a) | N/A |
+| 1 | [#TBSスタンバイ](http://twitter.com/search?q=%23TBS%e3%82%b9%e3%82%bf%e3%83%b3%e3%83%90%e3%82%a4) | N/A |
+| 2 | [上野東京](http://twitter.com/search?q=%e4%b8%8a%e9%87%8e%e6%9d%b1%e4%ba%ac) | N/A |
+| 3 | [#ZIP](http://twitter.com/search?q=%23ZIP) | N/A |
+| 4 | [ジャッジリプレイ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%83%e3%82%b8%e3%83%aa%e3%83%97%e3%83%ac%e3%82%a4) | N/A |
+| 5 | [#cozy1242](http://twitter.com/search?q=%23cozy1242) | N/A |
+| 6 | [はくまー](http://twitter.com/search?q=%e3%81%af%e3%81%8f%e3%81%be%e3%83%bc) | N/A |
+| 7 | [めちゃ雪](http://twitter.com/search?q=%e3%82%81%e3%81%a1%e3%82%83%e9%9b%aa) | めちゃ雪 is an expression used to describe a heavy snowfall. It literally translates to "crazy snow". |
+| 8 | [#ぼっち・ざ・ろっく](http://twitter.com/search?q=%23%e3%81%bc%e3%81%a3%e3%81%a1%e3%83%bb%e3%81%96%e3%83%bb%e3%82%8d%e3%81%a3%e3%81%8f) | #ぼっち・ざ・ろっく is a Japanese hashtag that translates to "Lonely Stock". It is used to describe the feeling of being alone and isolated, or to express a sense of loneliness. |
+| 9 | [清純スケベ系サキュバスお嬢様](http://twitter.com/search?q=%e6%b8%85%e7%b4%94%e3%82%b9%e3%82%b1%e3%83%99%e7%b3%bb%e3%82%b5%e3%82%ad%e3%83%a5%e3%83%90%e3%82%b9%e3%81%8a%e5%ac%a2%e6%a7%98) | N/A |
+| 10 | [ダンダダン](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%80%e3%83%80%e3%83%b3) | N/A |
+| 11 | [真冬の寒さ](http://twitter.com/search?q=%e7%9c%9f%e5%86%ac%e3%81%ae%e5%af%92%e3%81%95) | N/A |
+| 12 | [#noah_ghc](http://twitter.com/search?q=%23noah_ghc) | #noah_ghc is a hashtag used on Twitter to refer to the Noah GHC project, which is an open source project for creating a Haskell compiler. The hashtag is used to share news and updates about the project, as well as to discuss related topics. |
+| 13 | [FF15](http://twitter.com/search?q=FF15) | N/A |
+| 14 | [京都市内](http://twitter.com/search?q=%e4%ba%ac%e9%83%bd%e5%b8%82%e5%86%85) | 京都市内 is a Japanese phrase meaning "within the city of Kyoto". Kyoto is a major city in Japan, and this phrase is used to refer to locations within the city limits. |
+| 15 | [ウクライナ](http://twitter.com/search?q=%e3%82%a6%e3%82%af%e3%83%a9%e3%82%a4%e3%83%8a) | ウクライナ (Ukraina) is the Japanese name for Ukraine, a country located in Eastern Europe. In English, it is simply referred to as Ukraine. |
+| 16 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 17 | [Wordle 612](http://twitter.com/search?q=Wordle+612) | N/A |
+| 18 | [充電期間](http://twitter.com/search?q=%e5%85%85%e9%9b%bb%e6%9c%9f%e9%96%93) | N/A |
+| 19 | [大雪警報](http://twitter.com/search?q=%e5%a4%a7%e9%9b%aa%e8%ad%a6%e5%a0%b1) | 大雪警報 (Daiyukkei Kōhō) is a Japanese term for a heavy snow warning. It is issued when the amount of snowfall is expected to exceed 10 cm in 24 hours or 20 cm in 48 hours. In English, it translates to "Heavy Snow Warning". |
+| 20 | [世界さん](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e3%81%95%e3%82%93) | N/A |
+| 21 | [岡ちゃん](http://twitter.com/search?q=%e5%b2%a1%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 22 | [威神ペンミ](http://twitter.com/search?q=%e5%a8%81%e7%a5%9e%e3%83%9a%e3%83%b3%e3%83%9f) | N/A |
+| 23 | [伝統継承の日](http://twitter.com/search?q=%e4%bc%9d%e7%b5%b1%e7%b6%99%e6%89%bf%e3%81%ae%e6%97%a5) | N/A |
+| 24 | [カビュウ](http://twitter.com/search?q=%e3%82%ab%e3%83%93%e3%83%a5%e3%82%a6) | N/A |
+| 25 | [成人の日](http://twitter.com/search?q=%e6%88%90%e4%ba%ba%e3%81%ae%e6%97%a5) | 成人の日 (Seijin no Hi) is a Japanese holiday celebrated on the second Monday of January each year. It is a day to celebrate those who have reached the age of majority (20 years old) and to recognize their transition into adulthood. The holiday is marked by ceremonies and parties, and it is customary for those who have recently turned 20 to receive gifts from their families. In English, it is known as Coming of Age Day. |
+| 26 | [冬馬くん](http://twitter.com/search?q=%e5%86%ac%e9%a6%ac%e3%81%8f%e3%82%93) | N/A |
 | 27 | [まっすー](http://twitter.com/search?q=%e3%81%be%e3%81%a3%e3%81%99%e3%83%bc) | まっすー is an abbreviation of the Japanese phrase "まずはすべて" which means "first of all". It is often used as a way to introduce a topic or idea. |
-| 28 | [アンメルツヨコヨコ](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%a1%e3%83%ab%e3%83%84%e3%83%a8%e3%82%b3%e3%83%a8%e3%82%b3) | N/A |
-| 29 | [霊柩車シリーズ](http://twitter.com/search?q=%e9%9c%8a%e6%9f%a9%e8%bb%8a%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
-| 30 | [片平なぎさ](http://twitter.com/search?q=%e7%89%87%e5%b9%b3%e3%81%aa%e3%81%8e%e3%81%95) | N/A |
-| 31 | [笠巻さん](http://twitter.com/search?q=%e7%ac%a0%e5%b7%bb%e3%81%95%e3%82%93) | N/A |
-| 32 | [シリーズ30年](http://twitter.com/search?q=%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba30%e5%b9%b4) | N/A |
-| 33 | [宇都宮線](http://twitter.com/search?q=%e5%ae%87%e9%83%bd%e5%ae%ae%e7%b7%9a) | N/A |
-| 34 | [都立高校](http://twitter.com/search?q=%e9%83%bd%e7%ab%8b%e9%ab%98%e6%a0%a1) | 都立高校 (Tōritsu Kōkō) is a Japanese term meaning "Metropolitan High School". It refers to a high school that is run by the metropolitan government of a major city, such as Tokyo or Osaka. These schools are typically highly competitive and offer students an excellent education. |
-| 35 | [ギャラクシー賞](http://twitter.com/search?q=%e3%82%ae%e3%83%a3%e3%83%a9%e3%82%af%e3%82%b7%e3%83%bc%e8%b3%9e) | N/A |
-| 36 | [シリーズ終了](http://twitter.com/search?q=%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba%e7%b5%82%e4%ba%86) | N/A |
-| 37 | [ぼっちちゃん](http://twitter.com/search?q=%e3%81%bc%e3%81%a3%e3%81%a1%e3%81%a1%e3%82%83%e3%82%93) | ぼっちちゃん is a Japanese slang term used to describe someone who is alone or lonely. It can also be used to describe someone who is feeling down or depressed. In English, it could be translated as "lonely person" or "sad person". |
-| 38 | [健ちゃん](http://twitter.com/search?q=%e5%81%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 39 | [第396回](http://twitter.com/search?q=%e7%ac%ac396%e5%9b%9e) | N/A |
-| 40 | [三宅くん](http://twitter.com/search?q=%e4%b8%89%e5%ae%85%e3%81%8f%e3%82%93) | N/A |
-| 41 | [トラックの写真](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%83%e3%82%af%e3%81%ae%e5%86%99%e7%9c%9f) | N/A |
-| 42 | [春彦さん](http://twitter.com/search?q=%e6%98%a5%e5%bd%a6%e3%81%95%e3%82%93) | N/A |
-| 43 | [波よ聞いてくれ](http://twitter.com/search?q=%e6%b3%a2%e3%82%88%e8%81%9e%e3%81%84%e3%81%a6%e3%81%8f%e3%82%8c) | N/A |
-| 44 | [上野動物園](http://twitter.com/search?q=%e4%b8%8a%e9%87%8e%e5%8b%95%e7%89%a9%e5%9c%92) | N/A |
-| 45 | [阪急阪神エクスプレス](http://twitter.com/search?q=%e9%98%aa%e6%80%a5%e9%98%aa%e7%a5%9e%e3%82%a8%e3%82%af%e3%82%b9%e3%83%97%e3%83%ac%e3%82%b9) | N/A |
-| 46 | [アニマルパラダイス](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%9e%e3%83%ab%e3%83%91%e3%83%a9%e3%83%80%e3%82%a4%e3%82%b9) | N/A |
-| 47 | [ビッグラン](http://twitter.com/search?q=%e3%83%93%e3%83%83%e3%82%b0%e3%83%a9%e3%83%b3) | ビッグラン is a Japanese phrase that literally translates to "big run". It is used to describe a situation where someone has achieved a great success or accomplishment. |
-| 48 | [裕翔くん](http://twitter.com/search?q=%e8%a3%95%e7%bf%94%e3%81%8f%e3%82%93) | 裕翔くん is a character from the Japanese manga series, Chibi Maruko-chan. He is a young boy who is Maruko's classmate and best friend. His name literally translates to "Yutaro-kun" in English. |
+| 28 | [赤い霊柩車](http://twitter.com/search?q=%e8%b5%a4%e3%81%84%e9%9c%8a%e6%9f%a9%e8%bb%8a) | N/A |
+| 29 | [デラシネの日々](http://twitter.com/search?q=%e3%83%87%e3%83%a9%e3%82%b7%e3%83%8d%e3%81%ae%e6%97%a5%e3%80%85) | N/A |
+| 30 | [霊柩車シリーズ](http://twitter.com/search?q=%e9%9c%8a%e6%9f%a9%e8%bb%8a%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
+| 31 | [アンメルツヨコヨコ](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%a1%e3%83%ab%e3%83%84%e3%83%a8%e3%82%b3%e3%83%a8%e3%82%b3) | N/A |
+| 32 | [田村アナ](http://twitter.com/search?q=%e7%94%b0%e6%9d%91%e3%82%a2%e3%83%8a) | N/A |
+| 33 | [オープンファクトリー](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%83%95%e3%82%a1%e3%82%af%e3%83%88%e3%83%aa%e3%83%bc) | N/A |
+| 34 | [笠巻さん](http://twitter.com/search?q=%e7%ac%a0%e5%b7%bb%e3%81%95%e3%82%93) | N/A |
+| 35 | [ジョン増太郎](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e5%a2%97%e5%a4%aa%e9%83%8e) | N/A |
+| 36 | [フューチャーフィッシャー](http://twitter.com/search?q=%e3%83%95%e3%83%a5%e3%83%bc%e3%83%81%e3%83%a3%e3%83%bc%e3%83%95%e3%82%a3%e3%83%83%e3%82%b7%e3%83%a3%e3%83%bc) | N/A |
+| 37 | [都立高校](http://twitter.com/search?q=%e9%83%bd%e7%ab%8b%e9%ab%98%e6%a0%a1) | 都立高校 (Tōritsu Kōkō) is a Japanese term meaning "Metropolitan High School". It refers to a high school that is run by the metropolitan government of a major city, such as Tokyo or Osaka. These schools are typically highly competitive and offer students an excellent education. |
+| 38 | [片平なぎさ](http://twitter.com/search?q=%e7%89%87%e5%b9%b3%e3%81%aa%e3%81%8e%e3%81%95) | N/A |
+| 39 | [宇都宮線](http://twitter.com/search?q=%e5%ae%87%e9%83%bd%e5%ae%ae%e7%b7%9a) | N/A |
+| 40 | [玉川さん](http://twitter.com/search?q=%e7%8e%89%e5%b7%9d%e3%81%95%e3%82%93) | 玉川さん is a Japanese honorific title used to refer to someone who is respected or admired. It can be translated into English as "Mr. Tamagawa" or "Ms. Tamagawa". |
+| 41 | [シリーズ30年](http://twitter.com/search?q=%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba30%e5%b9%b4) | N/A |
+| 42 | [ぼっちちゃん](http://twitter.com/search?q=%e3%81%bc%e3%81%a3%e3%81%a1%e3%81%a1%e3%82%83%e3%82%93) | ぼっちちゃん is a Japanese slang term used to describe someone who is alone or lonely. It can also be used to describe someone who is feeling down or depressed. In English, it could be translated as "lonely person" or "sad person". |
+| 43 | [ドラマ化](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e5%8c%96) | ドラマ化 is a Japanese term that literally translates to "drama-ization". It refers to the process of adapting a story or novel into a television drama or movie. |
+| 44 | [小芝風花](http://twitter.com/search?q=%e5%b0%8f%e8%8a%9d%e9%a2%a8%e8%8a%b1) | N/A |
+| 45 | [Snow Dance](http://twitter.com/search?q=Snow+Dance) | N/A |
+| 46 | [春彦さん](http://twitter.com/search?q=%e6%98%a5%e5%bd%a6%e3%81%95%e3%82%93) | N/A |
+| 47 | [健ちゃん](http://twitter.com/search?q=%e5%81%a5%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [第396回](http://twitter.com/search?q=%e7%ac%ac396%e5%9b%9e) | N/A |
 
 
 

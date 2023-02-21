@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-20 23:16:36 UTC`
+📆 Last Updated: `2023-02-21 00:29:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 1 | [Cristo Rey](http://twitter.com/search?q=Cristo+Rey) | N/A |
 | 2 | [Mapache](http://twitter.com/search?q=Mapache) | N/A |
 | 3 | [John Kelly Martínez](http://twitter.com/search?q=John+Kelly+Mart%c3%adnez) | N/A |
-| 4 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 5 | [#todosconmena](http://twitter.com/search?q=%23todosconmena) | N/A |
-| 6 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 7 | [#LosRielesCambiaConCAASD](http://twitter.com/search?q=%23LosRielesCambiaConCAASD) | N/A |
-| 8 | [Los Corruptos](http://twitter.com/search?q=Los+Corruptos) | N/A |
-| 9 | [#jornadaverdefp](http://twitter.com/search?q=%23jornadaverdefp) | N/A |
-| 10 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 11 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 12 | [Monte Grande](http://twitter.com/search?q=Monte+Grande) | N/A |
-| 13 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 14 | [Guaricanos](http://twitter.com/search?q=Guaricanos) | N/A |
-| 15 | [#seguimoscreciendo](http://twitter.com/search?q=%23seguimoscreciendo) | N/A |
-| 16 | [Lino Rivera](http://twitter.com/search?q=Lino+Rivera) | N/A |
-| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 18 | [Jokic](http://twitter.com/search?q=Jokic) | Jokic is a surname of Slavic origin. It is derived from the given name Jok, which is a diminutive form of the name Joakim. The meaning of the name is "God will establish". |
-| 19 | [Turquía](http://twitter.com/search?q=Turqu%c3%ada) | Turquía is the Spanish name for Turkey, a country located in the Middle East and southeastern Europe. In English, it is simply referred to as Turkey. |
-| 20 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 4 | [#todosconmena](http://twitter.com/search?q=%23todosconmena) | N/A |
+| 5 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 6 | [Los Rieles](http://twitter.com/search?q=Los+Rieles) | N/A |
+| 7 | [Pantoja](http://twitter.com/search?q=Pantoja) | N/A |
+| 8 | [#jornadaverdefp](http://twitter.com/search?q=%23jornadaverdefp) | N/A |
+| 9 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 10 | [Los Corruptos](http://twitter.com/search?q=Los+Corruptos) | N/A |
+| 11 | [guaricanos](http://twitter.com/search?q=guaricanos) | N/A |
+| 12 | [#SeguimosCreciendo](http://twitter.com/search?q=%23SeguimosCreciendo) | N/A |
+| 13 | [Monte Grande](http://twitter.com/search?q=Monte+Grande) | N/A |
+| 14 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 16 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 17 | [Lino Rivera](http://twitter.com/search?q=Lino+Rivera) | N/A |
+| 18 | [#NBAAllStar](http://twitter.com/search?q=%23NBAAllStar) | N/A |
+| 19 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
+| 20 | [La Vega](http://twitter.com/search?q=La+Vega) | La Vega is a city in the Dominican Republic. It is the capital of the La Vega Province and is located in the Cibao region of the country. The name La Vega translates to "the meadow" in English. |
 | 21 | [Rauw Alejandro](http://twitter.com/search?q=Rauw+Alejandro) | N/A |
-| 22 | [Cristina Aguiar](http://twitter.com/search?q=Cristina+Aguiar) | N/A |
-| 23 | [Luka](http://twitter.com/search?q=Luka) | Luka is a name of Slavic origin, derived from the element luky meaning "fortunate, lucky". In English, it can be translated to mean "lucky one". |
-| 24 | [Domingo 19](http://twitter.com/search?q=Domingo+19) | N/A |
-| 25 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
-| 26 | [Palacio](http://twitter.com/search?q=Palacio) | N/A |
-| 27 | [Zoológico Nacional](http://twitter.com/search?q=Zool%c3%b3gico+Nacional) | N/A |
-| 28 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
-| 29 | [Anderson Comas](http://twitter.com/search?q=Anderson+Comas) | N/A |
+| 22 | [cristina aguiar](http://twitter.com/search?q=cristina+aguiar) | N/A |
+| 23 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
+| 24 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
+| 25 | [UNICEF](http://twitter.com/search?q=UNICEF) | N/A |
+| 26 | [feliz domingo](http://twitter.com/search?q=feliz+domingo) | N/A |
+| 27 | [Nuria](http://twitter.com/search?q=Nuria) | N/A |
+| 28 | [Palacio](http://twitter.com/search?q=Palacio) | N/A |
+| 29 | [Zoológico Nacional](http://twitter.com/search?q=Zool%c3%b3gico+Nacional) | N/A |
 | 30 | [Juan Dolio](http://twitter.com/search?q=Juan+Dolio) | N/A |
-| 31 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 32 | [Álvarez](http://twitter.com/search?q=%c3%81lvarez) | N/A |
-| 33 | [operación frontera](http://twitter.com/search?q=operaci%c3%b3n+frontera) | N/A |
-| 34 | [Jayson Tatum](http://twitter.com/search?q=Jayson+Tatum) | Jayson Tatum is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). He was selected third overall in the 2017 NBA draft. He is known for his athleticism, shooting ability, and defensive prowess. |
-| 35 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
-| 36 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [María Trinidad Sánchez](http://twitter.com/search?q=Mar%c3%ada+Trinidad+S%c3%a1nchez) | N/A |
-| 39 | [Félix Bautista](http://twitter.com/search?q=F%c3%a9lix+Bautista) | N/A |
+| 31 | [Anderson Comas](http://twitter.com/search?q=Anderson+Comas) | N/A |
+| 32 | [operación frontera](http://twitter.com/search?q=operaci%c3%b3n+frontera) | N/A |
+| 33 | [Hipólito](http://twitter.com/search?q=Hip%c3%b3lito) | N/A |
+| 34 | [Ejército](http://twitter.com/search?q=Ej%c3%a9rcito) | N/A |
+| 35 | [Álvarez](http://twitter.com/search?q=%c3%81lvarez) | N/A |
+| 36 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 37 | [María Trinidad Sánchez](http://twitter.com/search?q=Mar%c3%ada+Trinidad+S%c3%a1nchez) | N/A |
+| 38 | [Félix Bautista](http://twitter.com/search?q=F%c3%a9lix+Bautista) | N/A |
+| 39 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
 | 40 | [Justicia Social](http://twitter.com/search?q=Justicia+Social) | N/A |
 | 41 | [PRSC](http://twitter.com/search?q=PRSC) | N/A |
-| 42 | [El Presidente](http://twitter.com/search?q=El+Presidente) | N/A |
-| 43 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
-| 44 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
-| 45 | [INACIF](http://twitter.com/search?q=INACIF) | N/A |
-| 46 | [Barahona](http://twitter.com/search?q=Barahona) | N/A |
-| 47 | [Alofoke](http://twitter.com/search?q=Alofoke) | N/A |
-| 48 | [Bosch](http://twitter.com/search?q=Bosch) | N/A |
-| 49 | [Saturno](http://twitter.com/search?q=Saturno) | N/A |
-| 50 | [Santo Domingo Norte](http://twitter.com/search?q=Santo+Domingo+Norte) | N/A |
+| 42 | [Corea del Norte](http://twitter.com/search?q=Corea+del+Norte) | N/A |
+| 43 | [Jayson Tatum](http://twitter.com/search?q=Jayson+Tatum) | Jayson Tatum is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). He was selected third overall in the 2017 NBA draft. He is known for his athleticism, shooting ability, and defensive prowess. |
+| 44 | [Alofoke](http://twitter.com/search?q=Alofoke) | N/A |
+| 45 | [Rocket](http://twitter.com/search?q=Rocket) | N/A |
+| 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 47 | [INACIF](http://twitter.com/search?q=INACIF) | N/A |
+| 48 | [Carlos Peña](http://twitter.com/search?q=Carlos+Pe%c3%b1a) | N/A |
+| 49 | [Caramba](http://twitter.com/search?q=Caramba) | N/A |
+| 50 | [Boca Chica](http://twitter.com/search?q=Boca+Chica) | N/A |
 
 
 

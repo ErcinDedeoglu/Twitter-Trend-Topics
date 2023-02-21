@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-20 23:16:31 UTC`
+📆 Last Updated: `2023-02-21 00:29:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,53 +22,53 @@ This is top 50
 | ------- | ------------ | ------------ |
 | 1 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 3 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 3 | [#ラヴィット](http://twitter.com/search?q=%23%e3%83%a9%e3%83%b4%e3%82%a3%e3%83%83%e3%83%88) | #ラヴィット is a hashtag used on social media in Japan. It is a combination of the words "love" and "it", and it is used to express appreciation for something or someone. In English, it could be translated as "Love It!" |
 | 4 | [#LaIslaDeLasTentaciones5](http://twitter.com/search?q=%23LaIslaDeLasTentaciones5) | N/A |
-| 5 | [#Hatay](http://twitter.com/search?q=%23Hatay) | #Hatay is a province in southern Turkey, located on the Mediterranean coast. The name Hatay is derived from the ancient Hittite Empire, and it means "the land of the Hittites". In English, Hatay translates to "land of the Hittites". |
-| 6 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 7 | [#الهلال_شباب_اهلي_دبي](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%87%d9%84%d9%8a_%d8%af%d8%a8%d9%8a) | N/A |
-| 8 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
-| 9 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 10 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 12 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 13 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
-| 14 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
-| 15 | [赤い霊柩車](http://twitter.com/search?q=%e8%b5%a4%e3%81%84%e9%9c%8a%e6%9f%a9%e8%bb%8a) | N/A |
-| 16 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
-| 17 | [Geçmiş](http://twitter.com/search?q=Ge%c3%a7mi%c5%9f) | Geçmiş is a Turkish word that means "past" or "history". It is used to refer to the events, people, and experiences of the past. |
-| 18 | [Rubén Castro](http://twitter.com/search?q=Rub%c3%a9n+Castro) | N/A |
-| 19 | [المعيوف](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%8a%d9%88%d9%81) | المعيوف is an Arabic word that means "obligatory" or "required". It is used to describe something that must be done or fulfilled. |
-| 20 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
-| 21 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 22 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
-| 23 | [شهر شعبان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 24 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 25 | [Boavista](http://twitter.com/search?q=Boavista) | N/A |
-| 26 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 27 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 28 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 29 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 30 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
-| 31 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 32 | [سلمان](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86) | سلمان is an Arabic name that means "peaceful". In English, it can be translated to "Solomon". |
-| 33 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 34 | [Maraisa](http://twitter.com/search?q=Maraisa) | Maraisa is a Portuguese female name derived from the Latin word "mara" meaning "bitter". It is also a combination of the names Maria and Isa, which are both popular names in Portugal. In English, Maraisa can be translated to mean "bitterly beautiful". |
-| 35 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 36 | [霊柩車シリーズ](http://twitter.com/search?q=%e9%9c%8a%e6%9f%a9%e8%bb%8a%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
-| 37 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 38 | [アンメルツヨコヨコ](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%a1%e3%83%ab%e3%83%84%e3%83%a8%e3%82%b3%e3%83%a8%e3%82%b3) | N/A |
-| 39 | [Civil War](http://twitter.com/search?q=Civil+War) | N/A |
-| 40 | [Marjorie Taylor Greene](http://twitter.com/search?q=Marjorie+Taylor+Greene) | N/A |
-| 41 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 42 | [Málaga](http://twitter.com/search?q=M%c3%a1laga) | N/A |
-| 43 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 44 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
-| 45 | [Bedford](http://twitter.com/search?q=Bedford) | N/A |
-| 46 | [Attilio](http://twitter.com/search?q=Attilio) | Attilio is an Italian name derived from the Germanic name Attila, which means "little father". It is also a variant of the Latin name Attilius, which means "from Attilus". |
-| 47 | [خالد ومعاذ](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d9%88%d9%85%d8%b9%d8%a7%d8%b0) | N/A |
-| 48 | [片平なぎさ](http://twitter.com/search?q=%e7%89%87%e5%b9%b3%e3%81%aa%e3%81%8e%e3%81%95) | N/A |
-| 49 | [João Mário](http://twitter.com/search?q=Jo%c3%a3o+M%c3%a1rio) | João Mário is a Portuguese name, derived from the Latin name Iohannes and the Latin word for "warrior," marius. In English, it translates to "John the Warrior." |
+| 5 | [#ShowMinorSavage](http://twitter.com/search?q=%23ShowMinorSavage) | N/A |
+| 6 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 7 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 8 | [まっすー](http://twitter.com/search?q=%e3%81%be%e3%81%a3%e3%81%99%e3%83%bc) | まっすー is an abbreviation of the Japanese phrase "まずはすべて" which means "first of all". It is often used as a way to introduce a topic or idea. |
+| 9 | [James O'Keefe](http://twitter.com/search?q=James+O%27Keefe) | N/A |
+| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 11 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 12 | [赤い霊柩車](http://twitter.com/search?q=%e8%b5%a4%e3%81%84%e9%9c%8a%e6%9f%a9%e8%bb%8a) | N/A |
+| 13 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 14 | [Elena](http://twitter.com/search?q=Elena) | Elena is a female given name of Greek origin, meaning "bright, shining light". It is a variant of the name Helen. |
+| 15 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 16 | [田村アナ](http://twitter.com/search?q=%e7%94%b0%e6%9d%91%e3%82%a2%e3%83%8a) | N/A |
+| 17 | [デラシネの日々](http://twitter.com/search?q=%e3%83%87%e3%83%a9%e3%82%b7%e3%83%8d%e3%81%ae%e6%97%a5%e3%80%85) | N/A |
+| 18 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 19 | [Tucker](http://twitter.com/search?q=Tucker) | N/A |
+| 20 | [Adrián](http://twitter.com/search?q=Adri%c3%a1n) | Adrián is a Spanish name derived from the Latin Hadrianus, meaning “from Hadria”. It is a masculine given name, usually used in Spanish-speaking countries. In English, it is usually translated as Adrian. |
+| 21 | [霊柩車シリーズ](http://twitter.com/search?q=%e9%9c%8a%e6%9f%a9%e8%bb%8a%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba) | N/A |
+| 22 | [Yago Felipe](http://twitter.com/search?q=Yago+Felipe) | Yago Felipe is a Portuguese name. It is composed of two parts: Yago, which is a variation of the Hebrew name Jacob, and Felipe, which is the Spanish form of the name Philip. In English, it would be translated as Jacob Philip. |
+| 23 | [Boavista](http://twitter.com/search?q=Boavista) | N/A |
+| 24 | [アンメルツヨコヨコ](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%a1%e3%83%ab%e3%83%84%e3%83%a8%e3%82%b3%e3%83%a8%e3%82%b3) | N/A |
+| 25 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 26 | [ジョン増太郎](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e5%a2%97%e5%a4%aa%e9%83%8e) | N/A |
+| 27 | [オープンファクトリー](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e3%83%95%e3%82%a1%e3%82%af%e3%83%88%e3%83%aa%e3%83%bc) | N/A |
+| 28 | [笠巻さん](http://twitter.com/search?q=%e7%ac%a0%e5%b7%bb%e3%81%95%e3%82%93) | N/A |
+| 29 | [Gattoni](http://twitter.com/search?q=Gattoni) | N/A |
+| 30 | [フューチャーフィッシャー](http://twitter.com/search?q=%e3%83%95%e3%83%a5%e3%83%bc%e3%83%81%e3%83%a3%e3%83%bc%e3%83%95%e3%82%a3%e3%83%83%e3%82%b7%e3%83%a3%e3%83%bc) | N/A |
+| 31 | [Sanam](http://twitter.com/search?q=Sanam) | N/A |
+| 32 | [Rubén Castro](http://twitter.com/search?q=Rub%c3%a9n+Castro) | N/A |
+| 33 | [都立高校](http://twitter.com/search?q=%e9%83%bd%e7%ab%8b%e9%ab%98%e6%a0%a1) | 都立高校 (Tōritsu Kōkō) is a Japanese term meaning "Metropolitan High School". It refers to a high school that is run by the metropolitan government of a major city, such as Tokyo or Osaka. These schools are typically highly competitive and offer students an excellent education. |
+| 34 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 35 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
+| 36 | [McCarthy](http://twitter.com/search?q=McCarthy) | McCarthyism is a term used to describe the practice of making accusations of subversion or treason without proper regard for evidence. It is named after Senator Joseph McCarthy, who was an American politician who served as a Republican U.S. Senator from the state of Wisconsin from 1947 until his death in 1957. McCarthy became known for his aggressive anti-communist stance and for making unsubstantiated claims that there were large numbers of communists and Soviet spies and sympathizers inside the United States federal government and elsewhere. |
+| 37 | [宇都宮線](http://twitter.com/search?q=%e5%ae%87%e9%83%bd%e5%ae%ae%e7%b7%9a) | N/A |
+| 38 | [شهر شعبان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 39 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 40 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
+| 41 | [片平なぎさ](http://twitter.com/search?q=%e7%89%87%e5%b9%b3%e3%81%aa%e3%81%8e%e3%81%95) | N/A |
+| 42 | [Getafe](http://twitter.com/search?q=Getafe) | Getafe is a city in the Madrid metropolitan area of Spain. It is located south of the capital and has a population of around 200,000 people. The name Getafe comes from the Arabic word for "hill" or "mountain". In English, Getafe means "hill town". |
+| 43 | [Gonçalo Ramos](http://twitter.com/search?q=Gon%c3%a7alo+Ramos) | N/A |
+| 44 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 45 | [San Lorenzo](http://twitter.com/search?q=San+Lorenzo) | N/A |
+| 46 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 47 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
+| 48 | [João Mário](http://twitter.com/search?q=Jo%c3%a3o+M%c3%a1rio) | João Mário is a Portuguese name, derived from the Latin name Iohannes and the Latin word for "warrior," marius. In English, it translates to "John the Warrior." |
+| 49 | [Blandi](http://twitter.com/search?q=Blandi) | N/A |
 | 50 | [シリーズ30年](http://twitter.com/search?q=%e3%82%b7%e3%83%aa%e3%83%bc%e3%82%ba30%e5%b9%b4) | N/A |
 
 
