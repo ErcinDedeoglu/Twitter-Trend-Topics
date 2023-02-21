@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-02-21 15:17:13 UTC`
+📆 Last Updated: `2023-02-21 16:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 2 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
-| 3 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 4 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 5 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
-| 6 | [#HelloAgainCello](http://twitter.com/search?q=%23HelloAgainCello) | N/A |
-| 7 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 8 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 9 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 10 | [Bryan Domani](http://twitter.com/search?q=Bryan+Domani) | N/A |
-| 11 | [JIMIN FACE](http://twitter.com/search?q=JIMIN+FACE) | N/A |
-| 12 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 2 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 3 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 4 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 5 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
+| 6 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 7 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
+| 8 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 9 | [Bryan Domani](http://twitter.com/search?q=Bryan+Domani) | N/A |
+| 10 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
+| 11 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 12 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
 | 13 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
 | 14 | [O SECOND CONCEPT PHOTO](http://twitter.com/search?q=O+SECOND+CONCEPT+PHOTO) | N/A |
-| 15 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
-| 16 | [WELCOME GULF KANAWUT](http://twitter.com/search?q=WELCOME+GULF+KANAWUT) | N/A |
-| 17 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
+| 15 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 16 | [Davin](http://twitter.com/search?q=Davin) | N/A |
+| 17 | [DLMLU](http://twitter.com/search?q=DLMLU) | N/A |
 | 18 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 19 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 20 | [WEEKENDER](http://twitter.com/search?q=WEEKENDER) | N/A |
-| 21 | [Kusuka](http://twitter.com/search?q=Kusuka) | N/A |
-| 22 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
+| 19 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 20 | [WELCOME GULF KANAWUT](http://twitter.com/search?q=WELCOME+GULF+KANAWUT) | N/A |
+| 21 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 22 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
 | 23 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
-| 24 | [Matiin](http://twitter.com/search?q=Matiin) | N/A |
-| 25 | [Raffi](http://twitter.com/search?q=Raffi) | N/A |
-| 26 | [SN MARCH JAPAN DEBUT](http://twitter.com/search?q=SN+MARCH+JAPAN+DEBUT) | N/A |
-| 27 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [Bima](http://twitter.com/search?q=Bima) | N/A |
-| 30 | [Cabut](http://twitter.com/search?q=Cabut) | N/A |
-| 31 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 32 | [papua pegunungan](http://twitter.com/search?q=papua+pegunungan) | N/A |
-| 33 | [HBD Win Metawin](http://twitter.com/search?q=HBD+Win+Metawin) | N/A |
+| 24 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 25 | [WEEKENDER](http://twitter.com/search?q=WEEKENDER) | N/A |
+| 26 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
+| 27 | [Raffi](http://twitter.com/search?q=Raffi) | N/A |
+| 28 | [Matiin](http://twitter.com/search?q=Matiin) | N/A |
+| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 30 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 31 | [HBD Win Metawin](http://twitter.com/search?q=HBD+Win+Metawin) | N/A |
+| 32 | [Bima](http://twitter.com/search?q=Bima) | N/A |
+| 33 | [Cabut](http://twitter.com/search?q=Cabut) | N/A |
 | 34 | [Ayato](http://twitter.com/search?q=Ayato) | N/A |
-| 35 | [Selasa](http://twitter.com/search?q=Selasa) | N/A |
+| 35 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 36 | [Babah](http://twitter.com/search?q=Babah) | N/A |
-| 37 | [Piper](http://twitter.com/search?q=Piper) | N/A |
-| 38 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 39 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
-| 40 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
-| 41 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
-| 42 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
-| 43 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
-| 44 | [#AcneFreeUniverse](http://twitter.com/search?q=%23AcneFreeUniverse) | N/A |
-| 45 | [#ATSD](http://twitter.com/search?q=%23ATSD) | N/A |
-| 46 | [#AtinySelcaDay](http://twitter.com/search?q=%23AtinySelcaDay) | N/A |
+| 37 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
+| 38 | [Piper](http://twitter.com/search?q=Piper) | N/A |
+| 39 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
+| 40 | [Ningning](http://twitter.com/search?q=Ningning) | Ningning is a Chinese term of endearment, similar to "honey" or "sweetheart" in English. It is used to express affection and fondness for someone. |
+| 41 | [#HelloAgainCello](http://twitter.com/search?q=%23HelloAgainCello) | N/A |
+| 42 | [#ATSD](http://twitter.com/search?q=%23ATSD) | N/A |
+| 43 | [#AtinySelcaDay](http://twitter.com/search?q=%23AtinySelcaDay) | N/A |
+| 44 | [#Happy_ANM1XXVERSARY](http://twitter.com/search?q=%23Happy_ANM1XXVERSARY) | N/A |
+| 45 | [#AcneFreeUniverse](http://twitter.com/search?q=%23AcneFreeUniverse) | N/A |
+| 46 | [#SKZ_THESOUND_RELEASED](http://twitter.com/search?q=%23SKZ_THESOUND_RELEASED) | N/A |
 | 47 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
-| 48 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
+| 48 | [#スキズ_THESOUND発売](http://twitter.com/search?q=%23%e3%82%b9%e3%82%ad%e3%82%ba_THESOUND%e7%99%ba%e5%a3%b2) | N/A |
 
 
 

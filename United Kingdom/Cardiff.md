@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-21 15:16:53 UTC`
+📆 Last Updated: `2023-02-21 16:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
 | 2 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 3 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
-| 4 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 5 | [#NFU23](http://twitter.com/search?q=%23NFU23) | N/A |
-| 6 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
-| 7 | [#ENGvPAK](http://twitter.com/search?q=%23ENGvPAK) | N/A |
+| 3 | [#GamblingFilmsOrSongs](http://twitter.com/search?q=%23GamblingFilmsOrSongs) | N/A |
+| 4 | [#ShroveTuesday](http://twitter.com/search?q=%23ShroveTuesday) | N/A |
+| 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 6 | [Javi Gracia](http://twitter.com/search?q=Javi+Gracia) | N/A |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 8 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 9 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 10 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 11 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
-| 12 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 13 | [#MHNursesDay](http://twitter.com/search?q=%23MHNursesDay) | N/A |
-| 14 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 15 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 16 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 17 | [Warren Gatland](http://twitter.com/search?q=Warren+Gatland) | N/A |
-| 18 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 19 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
-| 20 | [West Cork](http://twitter.com/search?q=West+Cork) | N/A |
-| 21 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 22 | [ken sema](http://twitter.com/search?q=ken+sema) | N/A |
-| 23 | [james o'brien](http://twitter.com/search?q=james+o%27brien) | N/A |
-| 24 | [Natural History Museum](http://twitter.com/search?q=Natural+History+Museum) | N/A |
-| 25 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 26 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 27 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 28 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
-| 29 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 9 | [#NFU23](http://twitter.com/search?q=%23NFU23) | N/A |
+| 10 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 11 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 12 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 13 | [Nat Sciver](http://twitter.com/search?q=Nat+Sciver) | N/A |
+| 14 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 15 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 16 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 18 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 19 | [Leviticus](http://twitter.com/search?q=Leviticus) | N/A |
+| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 21 | [Grand National](http://twitter.com/search?q=Grand+National) | N/A |
+| 22 | [Warren Gatland](http://twitter.com/search?q=Warren+Gatland) | N/A |
+| 23 | [BSHL](http://twitter.com/search?q=BSHL) | N/A |
+| 24 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
+| 25 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 26 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
+| 27 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 28 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
+| 29 | [Natural History Museum](http://twitter.com/search?q=Natural+History+Museum) | N/A |
 | 30 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
-| 31 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 31 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
 | 32 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 34 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 35 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 36 | [Dunstable](http://twitter.com/search?q=Dunstable) | N/A |
-| 37 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
-| 38 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 39 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 40 | [the west](http://twitter.com/search?q=the+west) | N/A |
-| 41 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 42 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 43 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
-| 44 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 45 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
-| 46 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 33 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 34 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 35 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 36 | [Maple](http://twitter.com/search?q=Maple) | N/A |
+| 37 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 38 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 39 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 40 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 41 | [Jacob Rees](http://twitter.com/search?q=Jacob+Rees) | N/A |
+| 42 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
+| 43 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 44 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 45 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
+| 46 | [#ENGvPAK](http://twitter.com/search?q=%23ENGvPAK) | N/A |
 | 47 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 48 | [#swanalexakettle](http://twitter.com/search?q=%23swanalexakettle) | N/A |
-| 49 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 48 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 49 | [#MotherLanguageDay](http://twitter.com/search?q=%23MotherLanguageDay) | N/A |
 
 
 

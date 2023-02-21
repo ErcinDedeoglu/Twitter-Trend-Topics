@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-02-21 15:17:45 UTC`
+📆 Last Updated: `2023-02-21 16:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Malaysia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 2 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
-| 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 4 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 5 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 3 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
+| 4 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 5 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
 | 6 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
-| 7 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 7 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 | 8 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
 | 9 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
 | 10 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 11 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
-| 12 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 13 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 14 | [O SECOND CONCEPT PHOTO](http://twitter.com/search?q=O+SECOND+CONCEPT+PHOTO) | N/A |
-| 15 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 11 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 12 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
+| 13 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
+| 14 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 15 | [O SECOND CONCEPT PHOTO](http://twitter.com/search?q=O+SECOND+CONCEPT+PHOTO) | N/A |
 | 16 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 17 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 18 | [Wan Saiful](http://twitter.com/search?q=Wan+Saiful) | N/A |
-| 19 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 17 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
+| 18 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 19 | [Wan Saiful](http://twitter.com/search?q=Wan+Saiful) | N/A |
 | 20 | [The 1975](http://twitter.com/search?q=The+1975) | The 1975 is an English rock band from Manchester, England. The band's name is derived from a Jack Kerouac beat poetry book titled "On the Road" which was published in the year 1975. The band has released four studio albums and has achieved international success with their singles "Chocolate", "Somebody Else", and "Love It If We Made It". |
-| 21 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 21 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
 | 22 | [Julia](http://twitter.com/search?q=Julia) | N/A |
 | 23 | [Bersatu](http://twitter.com/search?q=Bersatu) | N/A |
 | 24 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 25 | [MINHYUK](http://twitter.com/search?q=MINHYUK) | N/A |
-| 26 | [Kayman](http://twitter.com/search?q=Kayman) | N/A |
-| 27 | [Jana Wibawa](http://twitter.com/search?q=Jana+Wibawa) | N/A |
-| 28 | [safe flight kanawut](http://twitter.com/search?q=safe+flight+kanawut) | N/A |
-| 29 | [Good Vibes](http://twitter.com/search?q=Good+Vibes) | N/A |
-| 30 | [Enna](http://twitter.com/search?q=Enna) | Enna is a city in Sicily, Italy. In English, it means "here". |
-| 31 | [HAPPY BIRTHDAY MEWMEW](http://twitter.com/search?q=HAPPY+BIRTHDAY+MEWMEW) | N/A |
-| 32 | [Safee Sali](http://twitter.com/search?q=Safee+Sali) | N/A |
-| 33 | [Sabrina Carpenter](http://twitter.com/search?q=Sabrina+Carpenter) | N/A |
-| 34 | [o first concept photo](http://twitter.com/search?q=o+first+concept+photo) | N/A |
-| 35 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 36 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 37 | [Dhruv](http://twitter.com/search?q=Dhruv) | N/A |
-| 38 | [Decision to Leave](http://twitter.com/search?q=Decision+to+Leave) | Decision to Leave is a phrase used to describe the act of making a conscious choice to end a relationship, job, or other situation. It is often used in the context of someone deciding to leave a job or relationship due to dissatisfaction or unhappiness. |
-| 39 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
-| 40 | [Anderson Paak](http://twitter.com/search?q=Anderson+Paak) | N/A |
-| 41 | [Eric](http://twitter.com/search?q=Eric) | Eric is a masculine given name of Old Norse origin, derived from the Old Norse name Eiríkr. It is related to the Latin name Ericus, which is derived from the Latin word for "ever-ruler". In English, Eric means "eternal ruler" or "ever-powerful". |
-| 42 | [THEY NEED TO APOLOGIZE](http://twitter.com/search?q=THEY+NEED+TO+APOLOGIZE) | N/A |
-| 43 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 45 | [RINI](http://twitter.com/search?q=RINI) | N/A |
-| 46 | [Muse](http://twitter.com/search?q=Muse) | N/A |
-| 47 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
+| 25 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
+| 26 | [yeonjun](http://twitter.com/search?q=yeonjun) | Yeonjun is a Korean given name for boys. It is composed of two characters, "yeon" meaning "lotus" and "jun" meaning "talented". In English, it can be translated to mean "talented lotus". |
+| 27 | [Minhyuk](http://twitter.com/search?q=Minhyuk) | N/A |
+| 28 | [Jana Wibawa](http://twitter.com/search?q=Jana+Wibawa) | N/A |
+| 29 | [safe flight kanawut](http://twitter.com/search?q=safe+flight+kanawut) | N/A |
+| 30 | [Good Vibes](http://twitter.com/search?q=Good+Vibes) | N/A |
+| 31 | [Enna](http://twitter.com/search?q=Enna) | Enna is a city in Sicily, Italy. In English, it means "here". |
+| 32 | [HAPPY BIRTHDAY MEWMEW](http://twitter.com/search?q=HAPPY+BIRTHDAY+MEWMEW) | N/A |
+| 33 | [Safee Sali](http://twitter.com/search?q=Safee+Sali) | N/A |
+| 34 | [sabrina carpenter](http://twitter.com/search?q=sabrina+carpenter) | N/A |
+| 35 | [Kayman](http://twitter.com/search?q=Kayman) | N/A |
+| 36 | [o first concept photo](http://twitter.com/search?q=o+first+concept+photo) | N/A |
+| 37 | [About Me ARMY Edition](http://twitter.com/search?q=About+Me+ARMY+Edition) | N/A |
+| 38 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 39 | [Dhruv](http://twitter.com/search?q=Dhruv) | N/A |
+| 40 | [Decision to Leave](http://twitter.com/search?q=Decision+to+Leave) | Decision to Leave is a phrase used to describe the act of making a conscious choice to end a relationship, job, or other situation. It is often used in the context of someone deciding to leave a job or relationship due to dissatisfaction or unhappiness. |
+| 41 | [Centerpoint](http://twitter.com/search?q=Centerpoint) | N/A |
+| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 43 | [Anderson Paak](http://twitter.com/search?q=Anderson+Paak) | N/A |
+| 44 | [THEY NEED TO APOLOGIZE](http://twitter.com/search?q=THEY+NEED+TO+APOLOGIZE) | N/A |
+| 45 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 46 | [RINI](http://twitter.com/search?q=RINI) | N/A |
+| 47 | [Muse](http://twitter.com/search?q=Muse) | N/A |
 | 48 | [Hong Kong](http://twitter.com/search?q=Hong+Kong) | N/A |
-| 49 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 50 | [Porter Robinson](http://twitter.com/search?q=Porter+Robinson) | N/A |
+| 49 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 50 | [ricky](http://twitter.com/search?q=ricky) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-21 15:17:06 UTC`
+📆 Last Updated: `2023-02-21 16:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [France](</France>)
 | 1 | [Rungis](http://twitter.com/search?q=Rungis) | N/A |
 | 2 | [Chap](http://twitter.com/search?q=Chap) | N/A |
 | 3 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 4 | [#ATSD](http://twitter.com/search?q=%23ATSD) | N/A |
-| 5 | [#AtinySelcaDay](http://twitter.com/search?q=%23AtinySelcaDay) | N/A |
-| 6 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
-| 7 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 8 | [#NaynayFM](http://twitter.com/search?q=%23NaynayFM) | N/A |
+| 4 | [#AtinySelcaDay](http://twitter.com/search?q=%23AtinySelcaDay) | N/A |
+| 5 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 6 | [#ATSD](http://twitter.com/search?q=%23ATSD) | N/A |
+| 7 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
+| 8 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 9 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 10 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
-| 11 | [Tatoos](http://twitter.com/search?q=Tatoos) | N/A |
+| 10 | [Tatoos](http://twitter.com/search?q=Tatoos) | N/A |
+| 11 | [Russie](http://twitter.com/search?q=Russie) | N/A |
 | 12 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 13 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 14 | [Russie](http://twitter.com/search?q=Russie) | N/A |
-| 15 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 16 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 13 | [Leiji Matsumoto](http://twitter.com/search?q=Leiji+Matsumoto) | N/A |
+| 14 | [TOTK](http://twitter.com/search?q=TOTK) | N/A |
+| 15 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 17 | [LICRA](http://twitter.com/search?q=LICRA) | N/A |
-| 18 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 21 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 22 | [Koh Lanta](http://twitter.com/search?q=Koh+Lanta) | N/A |
-| 23 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
-| 24 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 25 | [Soul Hackers 2](http://twitter.com/search?q=Soul+Hackers+2) | N/A |
-| 26 | [Michel Deville](http://twitter.com/search?q=Michel+Deville) | N/A |
-| 27 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 28 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
-| 29 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 30 | [Albator](http://twitter.com/search?q=Albator) | N/A |
-| 31 | [Solary](http://twitter.com/search?q=Solary) | N/A |
-| 32 | [Wilfried Bony](http://twitter.com/search?q=Wilfried+Bony) | N/A |
-| 33 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 34 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 35 | [Felipe Drugovich](http://twitter.com/search?q=Felipe+Drugovich) | N/A |
-| 36 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 37 | [Samy](http://twitter.com/search?q=Samy) | N/A |
-| 38 | [Le 21](http://twitter.com/search?q=Le+21) | N/A |
-| 39 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 40 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 41 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
-| 42 | [wadji](http://twitter.com/search?q=wadji) | N/A |
-| 43 | [The Legend of Zelda](http://twitter.com/search?q=The+Legend+of+Zelda) | N/A |
+| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 19 | [Églantine](http://twitter.com/search?q=%c3%89glantine) | N/A |
+| 20 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
+| 21 | [Koh Lanta](http://twitter.com/search?q=Koh+Lanta) | N/A |
+| 22 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 23 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 24 | [Sincères](http://twitter.com/search?q=Sinc%c3%a8res) | N/A |
+| 25 | [Auvergne-Rhône-Alpes](http://twitter.com/search?q=Auvergne-Rh%c3%b4ne-Alpes) | N/A |
+| 26 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
+| 27 | [Laurent Wauquiez](http://twitter.com/search?q=Laurent+Wauquiez) | N/A |
+| 28 | [Solary](http://twitter.com/search?q=Solary) | N/A |
+| 29 | [Wilfried Bony](http://twitter.com/search?q=Wilfried+Bony) | N/A |
+| 30 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 31 | [Palmade](http://twitter.com/search?q=Palmade) | N/A |
+| 32 | [Soul Hackers 2](http://twitter.com/search?q=Soul+Hackers+2) | N/A |
+| 33 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 34 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 35 | [Michel Deville](http://twitter.com/search?q=Michel+Deville) | N/A |
+| 36 | [Samy](http://twitter.com/search?q=Samy) | N/A |
+| 37 | [Albator](http://twitter.com/search?q=Albator) | N/A |
+| 38 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 39 | [Le 21](http://twitter.com/search?q=Le+21) | N/A |
+| 40 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 41 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 42 | [Maginot](http://twitter.com/search?q=Maginot) | N/A |
+| 43 | [Mohammed](http://twitter.com/search?q=Mohammed) | N/A |
 | 44 | [Ibrahim Ali](http://twitter.com/search?q=Ibrahim+Ali) | N/A |
-| 45 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 46 | [Maginot](http://twitter.com/search?q=Maginot) | N/A |
-| 47 | [Bac S](http://twitter.com/search?q=Bac+S) | N/A |
-| 48 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
-| 49 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 45 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 46 | [Bac S](http://twitter.com/search?q=Bac+S) | N/A |
+| 47 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
+| 48 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
+| 49 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
 
 
 

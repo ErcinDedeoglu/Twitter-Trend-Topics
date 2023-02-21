@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-21 15:16:59 UTC`
+📆 Last Updated: `2023-02-21 16:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
+| 1 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
 | 2 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
 | 3 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 4 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 5 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
-| 6 | [Pamela Leiva](http://twitter.com/search?q=Pamela+Leiva) | N/A |
-| 7 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 8 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 9 | [#UnSigloSinTi](http://twitter.com/search?q=%23UnSigloSinTi) | N/A |
-| 10 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 11 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 12 | [#AutopiZtaPOP](http://twitter.com/search?q=%23AutopiZtaPOP) | N/A |
-| 13 | [violetta](http://twitter.com/search?q=violetta) | N/A |
-| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 4 | [Gonzalo Barrera](http://twitter.com/search?q=Gonzalo+Barrera) | N/A |
+| 5 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 6 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 7 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 8 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 9 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
+| 10 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 11 | [Pamela Leiva](http://twitter.com/search?q=Pamela+Leiva) | N/A |
+| 12 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 13 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
+| 14 | [Violetta](http://twitter.com/search?q=Violetta) | N/A |
 | 15 | [Dieguito](http://twitter.com/search?q=Dieguito) | N/A |
-| 16 | [Paloma Mami](http://twitter.com/search?q=Paloma+Mami) | N/A |
-| 17 | [TPP-11](http://twitter.com/search?q=TPP-11) | N/A |
-| 18 | [Yerko](http://twitter.com/search?q=Yerko) | N/A |
-| 19 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
-| 20 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 21 | [Triple T](http://twitter.com/search?q=Triple+T) | N/A |
-| 22 | [Piero Maza](http://twitter.com/search?q=Piero+Maza) | Piero Maza is a Spanish phrase that translates to "Peter's Blessing" in English. It is a phrase used to express good luck or fortune. |
-| 23 | [cris mj](http://twitter.com/search?q=cris+mj) | N/A |
-| 24 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 25 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
-| 26 | [vamos diego](http://twitter.com/search?q=vamos+diego) | N/A |
-| 27 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
-| 28 | [tusa](http://twitter.com/search?q=tusa) | N/A |
-| 29 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 30 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 31 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
-| 32 | [Yorka](http://twitter.com/search?q=Yorka) | N/A |
-| 33 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
-| 34 | [Nicolás Zepeda](http://twitter.com/search?q=Nicol%c3%a1s+Zepeda) | N/A |
-| 35 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
-| 36 | [Duki](http://twitter.com/search?q=Duki) | N/A |
-| 37 | [Víctor Jara](http://twitter.com/search?q=V%c3%adctor+Jara) | N/A |
-| 38 | [Rechazo](http://twitter.com/search?q=Rechazo) | N/A |
-| 39 | [bichota](http://twitter.com/search?q=bichota) | N/A |
-| 40 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 41 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 17 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
+| 18 | [TPP-11](http://twitter.com/search?q=TPP-11) | N/A |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [Paloma Mami](http://twitter.com/search?q=Paloma+Mami) | N/A |
+| 21 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 22 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
+| 23 | [Yerko](http://twitter.com/search?q=Yerko) | N/A |
+| 24 | [Nicolás Zepeda](http://twitter.com/search?q=Nicol%c3%a1s+Zepeda) | N/A |
+| 25 | [Bloomberg](http://twitter.com/search?q=Bloomberg) | N/A |
+| 26 | [Triple T](http://twitter.com/search?q=Triple+T) | N/A |
+| 27 | [Piero Maza](http://twitter.com/search?q=Piero+Maza) | Piero Maza is a Spanish phrase that translates to "Peter's Blessing" in English. It is a phrase used to express good luck or fortune. |
+| 28 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 29 | [Miriam](http://twitter.com/search?q=Miriam) | N/A |
+| 30 | [vamos diego](http://twitter.com/search?q=vamos+diego) | N/A |
+| 31 | [TUSA](http://twitter.com/search?q=TUSA) | N/A |
+| 32 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 33 | [Vlado](http://twitter.com/search?q=Vlado) | N/A |
+| 34 | [Yorka](http://twitter.com/search?q=Yorka) | N/A |
+| 35 | [Ingeniero Comercial](http://twitter.com/search?q=Ingeniero+Comercial) | N/A |
+| 36 | [Thiago](http://twitter.com/search?q=Thiago) | Thiago is a Portuguese and Spanish name derived from the Latin name Thiagus, which means "beloved". It is also a common nickname for the name Santiago. |
+| 37 | [Rechazo](http://twitter.com/search?q=Rechazo) | N/A |
+| 38 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 39 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 40 | [Víctor Jara](http://twitter.com/search?q=V%c3%adctor+Jara) | N/A |
+| 41 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
 | 42 | [Pinilla](http://twitter.com/search?q=Pinilla) | N/A |
-| 43 | [Jeyson](http://twitter.com/search?q=Jeyson) | N/A |
-| 44 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
-| 45 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
-| 46 | [Ahumada](http://twitter.com/search?q=Ahumada) | N/A |
-| 47 | [Oroz](http://twitter.com/search?q=Oroz) | Oroz is a Basque word meaning "dawn" or "daybreak". |
-| 48 | [Fabricio](http://twitter.com/search?q=Fabricio) | N/A |
-| 49 | [Montes](http://twitter.com/search?q=Montes) | N/A |
+| 43 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 44 | [Ahumada](http://twitter.com/search?q=Ahumada) | N/A |
+| 45 | [Narumi](http://twitter.com/search?q=Narumi) | N/A |
+| 46 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 47 | [Falcón](http://twitter.com/search?q=Falc%c3%b3n) | N/A |
+| 48 | [cris mj](http://twitter.com/search?q=cris+mj) | N/A |
+| 49 | [Fabricio](http://twitter.com/search?q=Fabricio) | N/A |
 | 50 | [El Diego](http://twitter.com/search?q=El+Diego) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-21 15:17:11 UTC`
+📆 Last Updated: `2023-02-21 16:17:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,48 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 2 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
 | 3 | [#MotherLanguageDay](http://twitter.com/search?q=%23MotherLanguageDay) | N/A |
 | 4 | [Roger Köppel](http://twitter.com/search?q=Roger+K%c3%b6ppel) | N/A |
-| 5 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 6 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 5 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 6 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
 | 7 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 8 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 9 | [J'aime](http://twitter.com/search?q=J%27aime) | N/A |
-| 10 | [Verzicht](http://twitter.com/search?q=Verzicht) | N/A |
-| 11 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
-| 12 | [Katze](http://twitter.com/search?q=Katze) | N/A |
-| 13 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 14 | [Twint](http://twitter.com/search?q=Twint) | N/A |
-| 15 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 16 | [JuSo](http://twitter.com/search?q=JuSo) | N/A |
-| 17 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 18 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 19 | [Anto](http://twitter.com/search?q=Anto) | Anto is a shortened form of the name Antonio, which is a male given name of Italian origin. It is derived from the Latin Antonius, which is ultimately derived from the Greek name Antonios. In English, it means "beyond praise" or "priceless". |
-| 20 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
-| 21 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
-| 22 | [auswirkungen](http://twitter.com/search?q=auswirkungen) | N/A |
-| 23 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 24 | [Feuer](http://twitter.com/search?q=Feuer) | N/A |
+| 8 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 9 | [Verzicht](http://twitter.com/search?q=Verzicht) | N/A |
+| 10 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
+| 11 | [Katze](http://twitter.com/search?q=Katze) | N/A |
+| 12 | [Twint](http://twitter.com/search?q=Twint) | N/A |
+| 13 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 14 | [juso](http://twitter.com/search?q=juso) | N/A |
+| 15 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
+| 16 | [Anto](http://twitter.com/search?q=Anto) | Anto is a shortened form of the name Antonio, which is a male given name of Italian origin. It is derived from the Latin Antonius, which is ultimately derived from the Greek name Antonios. In English, it means "beyond praise" or "priceless". |
+| 17 | [Gefühle](http://twitter.com/search?q=Gef%c3%bchle) | N/A |
+| 18 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
+| 19 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 20 | [Auswirkungen](http://twitter.com/search?q=Auswirkungen) | N/A |
+| 21 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 22 | [Feuer](http://twitter.com/search?q=Feuer) | N/A |
+| 23 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 24 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
 | 25 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
-| 26 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 27 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 28 | [Pologne](http://twitter.com/search?q=Pologne) | N/A |
-| 29 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
-| 30 | [Messer](http://twitter.com/search?q=Messer) | N/A |
-| 31 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 32 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 33 | [Armen](http://twitter.com/search?q=Armen) | N/A |
-| 34 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 35 | [Japon](http://twitter.com/search?q=Japon) | N/A |
-| 36 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
-| 37 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
-| 38 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
-| 39 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 40 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
-| 41 | [Taten](http://twitter.com/search?q=Taten) | N/A |
-| 42 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
+| 26 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 27 | [Pologne](http://twitter.com/search?q=Pologne) | N/A |
+| 28 | [Chaos](http://twitter.com/search?q=Chaos) | N/A |
+| 29 | [Messer](http://twitter.com/search?q=Messer) | N/A |
+| 30 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 31 | [Armen](http://twitter.com/search?q=Armen) | N/A |
+| 32 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 33 | [Exact](http://twitter.com/search?q=Exact) | N/A |
+| 34 | [Japon](http://twitter.com/search?q=Japon) | N/A |
+| 35 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
+| 36 | [Lehre](http://twitter.com/search?q=Lehre) | N/A |
+| 37 | [Arroganz](http://twitter.com/search?q=Arroganz) | N/A |
+| 38 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 39 | [Spiele](http://twitter.com/search?q=Spiele) | N/A |
+| 40 | [Taten](http://twitter.com/search?q=Taten) | N/A |
+| 41 | [Fussball](http://twitter.com/search?q=Fussball) | N/A |
+| 42 | [Genève](http://twitter.com/search?q=Gen%c3%a8ve) | N/A |
 | 43 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
 | 44 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
 | 45 | [Studium](http://twitter.com/search?q=Studium) | N/A |
-| 46 | [Wand](http://twitter.com/search?q=Wand) | N/A |
+| 46 | [Tiere](http://twitter.com/search?q=Tiere) | N/A |
 
 
 

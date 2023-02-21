@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-21 15:17:34 UTC`
+📆 Last Updated: `2023-02-21 16:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 2 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
 | 3 | [JIMINS](http://twitter.com/search?q=JIMINS) | JIMINS is the stage name of South Korean singer and dancer Park Ji-min, a member of the K-pop boy band BTS. |
-| 4 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 5 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 7 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 8 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
-| 9 | [METLIFE](http://twitter.com/search?q=METLIFE) | N/A |
-| 10 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 11 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 4 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 5 | [METLIFE](http://twitter.com/search?q=METLIFE) | N/A |
+| 6 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 7 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
+| 8 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 9 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 10 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 12 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 13 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 14 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 15 | [Buster Murdaugh](http://twitter.com/search?q=Buster+Murdaugh) | N/A |
-| 16 | [Priefer](http://twitter.com/search?q=Priefer) | N/A |
-| 17 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
-| 18 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 19 | [Bubba Ventrone](http://twitter.com/search?q=Bubba+Ventrone) | N/A |
-| 20 | [Tony Bradley](http://twitter.com/search?q=Tony+Bradley) | N/A |
-| 21 | [Soul Hackers 2](http://twitter.com/search?q=Soul+Hackers+2) | N/A |
-| 22 | [Wordle 612 X](http://twitter.com/search?q=Wordle+612+X) | N/A |
-| 23 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 24 | [SOFI](http://twitter.com/search?q=SOFI) | N/A |
+| 13 | [Da Brat](http://twitter.com/search?q=Da+Brat) | N/A |
+| 14 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 15 | [Lonzo](http://twitter.com/search?q=Lonzo) | N/A |
+| 16 | [#AtinySelcaDay](http://twitter.com/search?q=%23AtinySelcaDay) | N/A |
+| 17 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 18 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
+| 19 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 20 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 21 | [Tony Bradley](http://twitter.com/search?q=Tony+Bradley) | N/A |
+| 22 | [Section 230](http://twitter.com/search?q=Section+230) | N/A |
+| 23 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 24 | [Jacque Vaughn](http://twitter.com/search?q=Jacque+Vaughn) | N/A |
 | 25 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
-| 26 | [Section 230](http://twitter.com/search?q=Section+230) | N/A |
-| 27 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 28 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 29 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 30 | [Luke Voit](http://twitter.com/search?q=Luke+Voit) | N/A |
-| 31 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
-| 32 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 33 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 34 | [King Cake](http://twitter.com/search?q=King+Cake) | N/A |
-| 35 | [Gonzalez](http://twitter.com/search?q=Gonzalez) | N/A |
-| 36 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 37 | [Malcolm X](http://twitter.com/search?q=Malcolm+X) | N/A |
-| 38 | [Avian Flu](http://twitter.com/search?q=Avian+Flu) | N/A |
-| 39 | [Guns N](http://twitter.com/search?q=Guns+N) | N/A |
-| 40 | [Terrific Tuesday](http://twitter.com/search?q=Terrific+Tuesday) | N/A |
-| 41 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
-| 42 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 43 | [Mystery Dungeon](http://twitter.com/search?q=Mystery+Dungeon) | N/A |
-| 44 | [McCoy](http://twitter.com/search?q=McCoy) | N/A |
-| 45 | [bighit](http://twitter.com/search?q=bighit) | N/A |
-| 46 | [Stefanski](http://twitter.com/search?q=Stefanski) | Stefanski is a Polish surname derived from the given name Stefan. It is an occupational surname, referring to someone who was related to or worked with a person named Stefan. The English translation of Stefanski is "son of Stefan". |
-| 47 | [Dragic](http://twitter.com/search?q=Dragic) | N/A |
-| 48 | [Kazuya](http://twitter.com/search?q=Kazuya) | N/A |
-| 49 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
-| 50 | [SV DLC](http://twitter.com/search?q=SV+DLC) | N/A |
+| 26 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
+| 27 | [Judge Newman](http://twitter.com/search?q=Judge+Newman) | N/A |
+| 28 | [Madden](http://twitter.com/search?q=Madden) | N/A |
+| 29 | [Priefer](http://twitter.com/search?q=Priefer) | N/A |
+| 30 | [Jeremy Strong](http://twitter.com/search?q=Jeremy+Strong) | N/A |
+| 31 | [Finally 18](http://twitter.com/search?q=Finally+18) | N/A |
+| 32 | [JIMIN ALBUM](http://twitter.com/search?q=JIMIN+ALBUM) | N/A |
+| 33 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 34 | [Bubba Ventrone](http://twitter.com/search?q=Bubba+Ventrone) | N/A |
+| 35 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 36 | [Wordle 612 X](http://twitter.com/search?q=Wordle+612+X) | N/A |
+| 37 | [Brandon Roy](http://twitter.com/search?q=Brandon+Roy) | N/A |
+| 38 | [GOTG](http://twitter.com/search?q=GOTG) | N/A |
+| 39 | [Jim Griffin](http://twitter.com/search?q=Jim+Griffin) | N/A |
+| 40 | [David Cicilline](http://twitter.com/search?q=David+Cicilline) | N/A |
+| 41 | [Avian Flu](http://twitter.com/search?q=Avian+Flu) | N/A |
+| 42 | [Kagan](http://twitter.com/search?q=Kagan) | N/A |
+| 43 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 44 | [Schiff](http://twitter.com/search?q=Schiff) | Schiff is a German word meaning "ship" or "vessel". It is also used as a surname in some countries. |
+| 45 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 46 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 47 | [King Cake](http://twitter.com/search?q=King+Cake) | N/A |
+| 48 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 49 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
+| 50 | [Rhode Island Foundation](http://twitter.com/search?q=Rhode+Island+Foundation) | N/A |
 
 
 

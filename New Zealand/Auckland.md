@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-21 15:17:32 UTC`
+📆 Last Updated: `2023-02-21 16:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,16 +16,16 @@ This is top 50 for [New Zealand](</New Zealand>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Maureen Pugh](http://twitter.com/search?q=Maureen+Pugh) | N/A |
-| 2 | [Simon Bridges](http://twitter.com/search?q=Simon+Bridges) | N/A |
+| 2 | [simon bridges](http://twitter.com/search?q=simon+bridges) | N/A |
 | 3 | [#mafsaunz](http://twitter.com/search?q=%23mafsaunz) | N/A |
 | 4 | [Te Matatini](http://twitter.com/search?q=Te+Matatini) | N/A |
 | 5 | [nicola willis](http://twitter.com/search?q=nicola+willis) | N/A |
 | 6 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 7 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
-| 8 | [#GameDevFashion](http://twitter.com/search?q=%23GameDevFashion) | N/A |
-| 9 | [Coster](http://twitter.com/search?q=Coster) | N/A |
+| 7 | [#GameDevFashion](http://twitter.com/search?q=%23GameDevFashion) | N/A |
+| 8 | [Coster](http://twitter.com/search?q=Coster) | N/A |
+| 9 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
 | 10 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 11 | [james shaw](http://twitter.com/search?q=james+shaw) | N/A |
+| 11 | [James Shaw](http://twitter.com/search?q=James+Shaw) | N/A |
 | 12 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
 | 13 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
 | 14 | [West Coast](http://twitter.com/search?q=West+Coast) | West Coast is a term used to refer to the western region of the United States, including California, Oregon, and Washington. It is also sometimes used to refer to the entire western coast of North America, including Canada and Mexico. The term is often used to describe a particular lifestyle or culture associated with the region, such as its relaxed attitude and laid-back atmosphere. |
@@ -33,7 +33,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 16 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 17 | [Susie](http://twitter.com/search?q=Susie) | N/A |
 | 18 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 19 | [hooton](http://twitter.com/search?q=hooton) | N/A |
+| 19 | [Hooton](http://twitter.com/search?q=Hooton) | N/A |
 | 20 | [air new zealand](http://twitter.com/search?q=air+new+zealand) | N/A |
 | 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 22 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 44 | [Black Widow](http://twitter.com/search?q=Black+Widow) | N/A |
 | 45 | [Parliament](http://twitter.com/search?q=Parliament) | N/A |
 | 46 | [Liebour](http://twitter.com/search?q=Liebour) | N/A |
-| 47 | [Football Ferns](http://twitter.com/search?q=Football+Ferns) | N/A |
+| 47 | [football ferns](http://twitter.com/search?q=football+ferns) | N/A |
 | 48 | [Joe Biden](http://twitter.com/search?q=Joe+Biden) | N/A |
 | 49 | [iPad](http://twitter.com/search?q=iPad) | N/A |
 
