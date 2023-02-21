@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-02-21 22:16:24 UTC`
+📆 Last Updated: `2023-02-21 23:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,50 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 2 | [Green](http://twitter.com/search?q=Green) | N/A |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 6 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 7 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 1 | [Green](http://twitter.com/search?q=Green) | N/A |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 5 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 6 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 7 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 9 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 10 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 11 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 12 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 13 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 14 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 15 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 16 | [ARIANA](http://twitter.com/search?q=ARIANA) | N/A |
+| 10 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 11 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 12 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 13 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
+| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 15 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 16 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
 | 17 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 18 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
+| 18 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
 | 19 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 20 | [Parayko](http://twitter.com/search?q=Parayko) | N/A |
-| 21 | [Luke Schenn](http://twitter.com/search?q=Luke+Schenn) | N/A |
-| 22 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Pink Shirt Day](http://twitter.com/search?q=Pink+Shirt+Day) | N/A |
-| 25 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 26 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 27 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 28 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
-| 29 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 30 | [Marchand](http://twitter.com/search?q=Marchand) | N/A |
+| 20 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 21 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 22 | [Pink Shirt Day](http://twitter.com/search?q=Pink+Shirt+Day) | N/A |
+| 23 | [Parayko](http://twitter.com/search?q=Parayko) | N/A |
+| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 25 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
+| 26 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 27 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 28 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 29 | [Pancake Tuesday](http://twitter.com/search?q=Pancake+Tuesday) | N/A |
+| 30 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
 | 31 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 32 | [Pancake Tuesday](http://twitter.com/search?q=Pancake+Tuesday) | N/A |
-| 33 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 34 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
-| 35 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 36 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 37 | [Air Canada](http://twitter.com/search?q=Air+Canada) | N/A |
-| 38 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 39 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 40 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 41 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 42 | [Queen's Park](http://twitter.com/search?q=Queen%27s+Park) | N/A |
-| 43 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
+| 32 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 33 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 34 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 35 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 36 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 37 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 38 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
+| 39 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
+| 40 | [Air Canada](http://twitter.com/search?q=Air+Canada) | N/A |
+| 41 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 42 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 43 | [Queen's Park](http://twitter.com/search?q=Queen%27s+Park) | N/A |
 | 44 | [Jamie Sale](http://twitter.com/search?q=Jamie+Sale) | N/A |
-| 45 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 
 
 

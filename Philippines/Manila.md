@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-21 22:16:58 UTC`
+📆 Last Updated: `2023-02-21 23:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
 | 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 3 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 4 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 5 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 6 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 7 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 8 | [#OurDazzlingPrideSolar](http://twitter.com/search?q=%23OurDazzlingPrideSolar) | N/A |
-| 9 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 10 | [wild tonight](http://twitter.com/search?q=wild+tonight) | N/A |
-| 11 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
-| 12 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 13 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
-| 14 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 3 | [#MyCoreMemories](http://twitter.com/search?q=%23MyCoreMemories) | N/A |
+| 4 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 5 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 6 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 7 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 8 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 9 | [#TheMorningRush](http://twitter.com/search?q=%23TheMorningRush) | N/A |
+| 10 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 11 | [wild tonight](http://twitter.com/search?q=wild+tonight) | N/A |
+| 12 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
+| 13 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 14 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
 | 15 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
 | 16 | [ready to be amazed](http://twitter.com/search?q=ready+to+be+amazed) | N/A |
-| 17 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 18 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 18 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 19 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
 | 20 | [BGYO AT PLDT SMART NATCON 2023](http://twitter.com/search?q=BGYO+AT+PLDT+SMART+NATCON+2023) | N/A |
 | 21 | [vivoree matapang this fri](http://twitter.com/search?q=vivoree+matapang+this+fri) | N/A |
-| 22 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
-| 23 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 22 | [Lenten Season](http://twitter.com/search?q=Lenten+Season) | N/A |
+| 23 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
 | 24 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 25 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
-| 26 | [Shout Out](http://twitter.com/search?q=Shout+Out) | N/A |
+| 25 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 26 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 | 27 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
-| 28 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 29 | [gq korea x jeongyeon](http://twitter.com/search?q=gq+korea+x+jeongyeon) | N/A |
-| 30 | [FILO ENGENES](http://twitter.com/search?q=FILO+ENGENES) | N/A |
-| 31 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 32 | [Chery](http://twitter.com/search?q=Chery) | N/A |
-| 33 | [Closer MV](http://twitter.com/search?q=Closer+MV) | N/A |
-| 34 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
-| 35 | [arado](http://twitter.com/search?q=arado) | N/A |
-| 36 | [Crisostomo Ibarra](http://twitter.com/search?q=Crisostomo+Ibarra) | N/A |
-| 37 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 38 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
-| 39 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 40 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 41 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
-| 42 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
-| 43 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
-| 44 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
-| 45 | [RCEP](http://twitter.com/search?q=RCEP) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
+| 30 | [Shout Out](http://twitter.com/search?q=Shout+Out) | N/A |
+| 31 | [gq korea x jeongyeon](http://twitter.com/search?q=gq+korea+x+jeongyeon) | N/A |
+| 32 | [Closer MV](http://twitter.com/search?q=Closer+MV) | N/A |
+| 33 | [chery](http://twitter.com/search?q=chery) | N/A |
+| 34 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
+| 35 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
+| 36 | [arado](http://twitter.com/search?q=arado) | N/A |
+| 37 | [Crisostomo Ibarra](http://twitter.com/search?q=Crisostomo+Ibarra) | N/A |
+| 38 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 39 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
+| 40 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 41 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 42 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
+| 43 | [RCEP](http://twitter.com/search?q=RCEP) | N/A |
+| 44 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
+| 45 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
 | 46 | [Coffee Project](http://twitter.com/search?q=Coffee+Project) | N/A |
-| 47 | [FROM EARTH TO MOON](http://twitter.com/search?q=FROM+EARTH+TO+MOON) | N/A |
-| 48 | [Dennis Trillo](http://twitter.com/search?q=Dennis+Trillo) | N/A |
-| 49 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
-| 50 | [josh l pienomenal vocal](http://twitter.com/search?q=josh+l+pienomenal+vocal) | N/A |
+| 47 | [Dennis Trillo](http://twitter.com/search?q=Dennis+Trillo) | N/A |
+| 48 | [josh l pienomenal vocal](http://twitter.com/search?q=josh+l+pienomenal+vocal) | N/A |
+| 49 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
+| 50 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
 
 
 

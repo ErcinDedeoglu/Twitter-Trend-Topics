@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-21 22:16:33 UTC`
+📆 Last Updated: `2023-02-21 23:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,42 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 2 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 3 | [Narumi](http://twitter.com/search?q=Narumi) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 8 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
-| 9 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 10 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 11 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 12 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 14 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 15 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 16 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 3 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 5 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
+| 6 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 7 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 8 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 9 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 10 | [#EchaleLaCulpaAViña](http://twitter.com/search?q=%23EchaleLaCulpaAVi%c3%b1a) | N/A |
+| 11 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 12 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 13 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 14 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 15 | [Gonzalo Barrera](http://twitter.com/search?q=Gonzalo+Barrera) | N/A |
+| 16 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 17 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 18 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
-| 19 | [Gonzalo Barrera](http://twitter.com/search?q=Gonzalo+Barrera) | N/A |
-| 20 | [ARIANA](http://twitter.com/search?q=ARIANA) | N/A |
-| 21 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
-| 22 | [Ingeniero Comercial](http://twitter.com/search?q=Ingeniero+Comercial) | N/A |
+| 18 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 19 | [Ingeniero Comercial](http://twitter.com/search?q=Ingeniero+Comercial) | N/A |
+| 20 | [Mauricio Israel](http://twitter.com/search?q=Mauricio+Israel) | N/A |
+| 21 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 22 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
 | 23 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
 | 24 | [Dylan](http://twitter.com/search?q=Dylan) | N/A |
-| 25 | [Angie](http://twitter.com/search?q=Angie) | N/A |
+| 25 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
 | 26 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
 | 27 | [Zepeda](http://twitter.com/search?q=Zepeda) | N/A |
 | 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 29 | [Ahumada](http://twitter.com/search?q=Ahumada) | N/A |
 | 30 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 31 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 32 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
-| 33 | [#TPP11](http://twitter.com/search?q=%23TPP11) | N/A |
-| 34 | [#ContigoEnDirecto](http://twitter.com/search?q=%23ContigoEnDirecto) | N/A |
-| 35 | [#UnSigloSinTi](http://twitter.com/search?q=%23UnSigloSinTi) | N/A |
+| 31 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
+| 32 | [Narumi](http://twitter.com/search?q=Narumi) | N/A |
+| 33 | [#UnSigloSinTi](http://twitter.com/search?q=%23UnSigloSinTi) | N/A |
+| 34 | [#TPP11](http://twitter.com/search?q=%23TPP11) | N/A |
+| 35 | [#FcChayanneUnConquistadorChile](http://twitter.com/search?q=%23FcChayanneUnConquistadorChile) | N/A |
+| 36 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 
 
 
