@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-21 20:16:48 UTC`
+📆 Last Updated: `2023-02-21 21:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 2 | [semua di dekade 08](http://twitter.com/search?q=semua+di+dekade+08) | N/A |
-| 3 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 4 | [setuju mending prabowo](http://twitter.com/search?q=setuju+mending+prabowo) | N/A |
-| 5 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
-| 6 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
-| 7 | [prabowo makin dipilih](http://twitter.com/search?q=prabowo+makin+dipilih) | N/A |
-| 8 | [#GusMuhaiminIskandar](http://twitter.com/search?q=%23GusMuhaiminIskandar) | N/A |
-| 9 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 10 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 11 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 12 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 13 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 14 | [bryan domani](http://twitter.com/search?q=bryan+domani) | N/A |
-| 15 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
-| 16 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 17 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 18 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 19 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
-| 20 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 21 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [Davin](http://twitter.com/search?q=Davin) | N/A |
-| 24 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
-| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 26 | [EXO COMEBACK](http://twitter.com/search?q=EXO+COMEBACK) | EXO COMEBACK is a term used to refer to the return of the South Korean-Chinese boy band EXO. It is used to express excitement and anticipation for the group's return after a period of absence from the music scene. In English, it can be translated as "EXO is coming back!" |
-| 27 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
-| 28 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 29 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 30 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 31 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 32 | [dita disney princess](http://twitter.com/search?q=dita+disney+princess) | N/A |
-| 33 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
-| 34 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
-| 35 | [Hari Peduli Sampah Nasional](http://twitter.com/search?q=Hari+Peduli+Sampah+Nasional) | N/A |
-| 36 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
-| 37 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
-| 38 | [Jenis Kelamin](http://twitter.com/search?q=Jenis+Kelamin) | N/A |
-| 39 | [Melankolia](http://twitter.com/search?q=Melankolia) | N/A |
-| 40 | [Tidur](http://twitter.com/search?q=Tidur) | N/A |
-| 41 | [DLMLU](http://twitter.com/search?q=DLMLU) | N/A |
-| 42 | [Christy](http://twitter.com/search?q=Christy) | N/A |
-| 43 | [UKK Bacaleg DPR RI PKB](http://twitter.com/search?q=UKK+Bacaleg+DPR+RI+PKB) | N/A |
-| 44 | [sn march japan debut](http://twitter.com/search?q=sn+march+japan+debut) | N/A |
-| 45 | [huang renjun thank you](http://twitter.com/search?q=huang+renjun+thank+you) | N/A |
-| 46 | [O SECOND CONCEPT PHOTO](http://twitter.com/search?q=O+SECOND+CONCEPT+PHOTO) | N/A |
-| 47 | [LOVE YOU MAN](http://twitter.com/search?q=LOVE+YOU+MAN) | N/A |
-| 48 | [benda favorite](http://twitter.com/search?q=benda+favorite) | N/A |
-| 49 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
-| 50 | [Kapolda Jambi](http://twitter.com/search?q=Kapolda+Jambi) | N/A |
+| 1 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 2 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 3 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 4 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 5 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 7 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 8 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 9 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 10 | [semua di dekade 08](http://twitter.com/search?q=semua+di+dekade+08) | N/A |
+| 11 | [setuju mending prabowo](http://twitter.com/search?q=setuju+mending+prabowo) | N/A |
+| 12 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 13 | [prabowo makin dipilih](http://twitter.com/search?q=prabowo+makin+dipilih) | N/A |
+| 14 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
+| 15 | [#ShareTheEpicwithRaisa](http://twitter.com/search?q=%23ShareTheEpicwithRaisa) | N/A |
+| 16 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 17 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 18 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 19 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 20 | [Match](http://twitter.com/search?q=Match) | N/A |
+| 21 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 22 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 23 | [bryan domani](http://twitter.com/search?q=bryan+domani) | N/A |
+| 24 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 25 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 26 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 27 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 28 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
+| 29 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 30 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
+| 31 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
+| 32 | [Kiper](http://twitter.com/search?q=Kiper) | N/A |
+| 33 | [EXO COMEBACK](http://twitter.com/search?q=EXO+COMEBACK) | EXO COMEBACK is a term used to refer to the return of the South Korean-Chinese boy band EXO. It is used to express excitement and anticipation for the group's return after a period of absence from the music scene. In English, it can be translated as "EXO is coming back!" |
+| 34 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
+| 35 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 36 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 37 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 38 | [Kortoa](http://twitter.com/search?q=Kortoa) | N/A |
+| 39 | [Davin](http://twitter.com/search?q=Davin) | N/A |
+| 40 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 41 | [dita disney princess](http://twitter.com/search?q=dita+disney+princess) | N/A |
+| 42 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 43 | [hari peduli sampah nasional](http://twitter.com/search?q=hari+peduli+sampah+nasional) | N/A |
+| 44 | [Esemka](http://twitter.com/search?q=Esemka) | N/A |
+| 45 | [DPP PKB](http://twitter.com/search?q=DPP+PKB) | N/A |
+| 46 | [The Strokes](http://twitter.com/search?q=The+Strokes) | N/A |
+| 47 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
+| 48 | [Jenis Kelamin](http://twitter.com/search?q=Jenis+Kelamin) | N/A |
+| 49 | [Melankolia](http://twitter.com/search?q=Melankolia) | N/A |
+| 50 | [Christy](http://twitter.com/search?q=Christy) | N/A |
 
 
 

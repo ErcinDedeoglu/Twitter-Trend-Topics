@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-21 20:17:21 UTC`
+📆 Last Updated: `2023-02-21 21:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,36 +15,49 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
-| 2 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 3 | [Kaczyńskim](http://twitter.com/search?q=Kaczy%c5%84skim) | N/A |
-| 4 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
-| 5 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
-| 6 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
-| 7 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 8 | [Duda](http://twitter.com/search?q=Duda) | N/A |
-| 9 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 10 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 11 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 12 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
-| 13 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
-| 14 | [#POTUS](http://twitter.com/search?q=%23POTUS) | N/A |
-| 15 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
-| 16 | [Arkadach Kubickiego](http://twitter.com/search?q=Arkadach+Kubickiego) | N/A |
-| 17 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
-| 18 | [Donek](http://twitter.com/search?q=Donek) | N/A |
-| 19 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 20 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 21 | [Realu](http://twitter.com/search?q=Realu) | N/A |
-| 22 | [Liverpoolu](http://twitter.com/search?q=Liverpoolu) | N/A |
-| 23 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 24 | [#Poland](http://twitter.com/search?q=%23Poland) | N/A |
-| 25 | [Morawieckim](http://twitter.com/search?q=Morawieckim) | N/A |
-| 26 | [Jarek](http://twitter.com/search?q=Jarek) | N/A |
-| 27 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
-| 28 | [#Warszawa](http://twitter.com/search?q=%23Warszawa) | N/A |
-| 29 | [#GOATsoe](http://twitter.com/search?q=%23GOATsoe) | N/A |
-| 30 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 1 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 2 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
+| 3 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 4 | [Kaczyńskim](http://twitter.com/search?q=Kaczy%c5%84skim) | N/A |
+| 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 6 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
+| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 9 | [Kariusa](http://twitter.com/search?q=Kariusa) | N/A |
+| 10 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
+| 11 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 12 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 13 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 14 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
+| 15 | [Realu](http://twitter.com/search?q=Realu) | N/A |
+| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 17 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
+| 18 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 20 | [Grodzki](http://twitter.com/search?q=Grodzki) | N/A |
+| 21 | [Realem](http://twitter.com/search?q=Realem) | N/A |
+| 22 | [Real Madryt](http://twitter.com/search?q=Real+Madryt) | N/A |
+| 23 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 24 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
+| 25 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
+| 26 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
+| 27 | [Donek](http://twitter.com/search?q=Donek) | N/A |
+| 28 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
+| 29 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 30 | [Morawieckim](http://twitter.com/search?q=Morawieckim) | N/A |
+| 31 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
+| 32 | [Jarek](http://twitter.com/search?q=Jarek) | N/A |
+| 33 | [Arkadach Kubickiego](http://twitter.com/search?q=Arkadach+Kubickiego) | N/A |
+| 34 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 35 | [#Poland](http://twitter.com/search?q=%23Poland) | N/A |
+| 36 | [Prezes](http://twitter.com/search?q=Prezes) | N/A |
+| 37 | [#GOATsoe](http://twitter.com/search?q=%23GOATsoe) | N/A |
+| 38 | [Trumpem](http://twitter.com/search?q=Trumpem) | N/A |
+| 39 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
+| 40 | [Boli](http://twitter.com/search?q=Boli) | N/A |
+| 41 | [#NATO](http://twitter.com/search?q=%23NATO) | N/A |
+| 42 | [#Warszawa](http://twitter.com/search?q=%23Warszawa) | N/A |
+| 43 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
 
 
 

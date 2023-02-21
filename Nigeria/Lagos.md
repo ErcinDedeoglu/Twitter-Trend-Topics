@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-02-21 20:16:57 UTC`
+📆 Last Updated: `2023-02-21 21:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 4 | [Jamopyper Runtown](http://twitter.com/search?q=Jamopyper+Runtown) | N/A |
-| 5 | [#TinubuInLagos](http://twitter.com/search?q=%23TinubuInLagos) | N/A |
-| 6 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 7 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 8 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 9 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 10 | [#SportsbetioXChampsLeague](http://twitter.com/search?q=%23SportsbetioXChampsLeague) | N/A |
-| 11 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 12 | [Pastor Paul](http://twitter.com/search?q=Pastor+Paul) | N/A |
-| 13 | [Aisha Buhari](http://twitter.com/search?q=Aisha+Buhari) | N/A |
-| 14 | [#AtikuOnceSaid](http://twitter.com/search?q=%23AtikuOnceSaid) | N/A |
-| 15 | [Naira Marley](http://twitter.com/search?q=Naira+Marley) | N/A |
-| 16 | [Teslim Balogun Stadium](http://twitter.com/search?q=Teslim+Balogun+Stadium) | N/A |
-| 17 | [Copy and Paste](http://twitter.com/search?q=Copy+and+Paste) | N/A |
-| 18 | [Pst Paul](http://twitter.com/search?q=Pst+Paul) | N/A |
-| 19 | [Portable](http://twitter.com/search?q=Portable) | N/A |
-| 20 | [Acant](http://twitter.com/search?q=Acant) | N/A |
-| 21 | [Daddy GO](http://twitter.com/search?q=Daddy+GO) | N/A |
-| 22 | [Yemi](http://twitter.com/search?q=Yemi) | Yemi is a Yoruba name of Nigerian origin. It is derived from the Yoruba phrase "Oluwa yemi," which means "My God has heard me." In English, it can be translated to mean "God has answered me." |
-| 23 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
-| 24 | [iconic phyna](http://twitter.com/search?q=iconic+phyna) | N/A |
-| 25 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
-| 26 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 27 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 29 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 30 | [King of Boys](http://twitter.com/search?q=King+of+Boys) | N/A |
-| 31 | [Sagamu](http://twitter.com/search?q=Sagamu) | N/A |
-| 32 | [Muslim Muslim](http://twitter.com/search?q=Muslim+Muslim) | N/A |
-| 33 | [Osibanjo](http://twitter.com/search?q=Osibanjo) | N/A |
-| 34 | [Awka](http://twitter.com/search?q=Awka) | N/A |
-| 35 | [Men of God](http://twitter.com/search?q=Men+of+God) | N/A |
-| 36 | [Corn](http://twitter.com/search?q=Corn) | N/A |
-| 37 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 38 | [Nana](http://twitter.com/search?q=Nana) | Nana is a Japanese term of endearment for grandmother. It is also used as a nickname for someone who is older and wiser. In English, it can be translated to mean "Grandma" or "Granny". |
-| 39 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 40 | [NNPP](http://twitter.com/search?q=NNPP) | N/A |
-| 41 | [Opay](http://twitter.com/search?q=Opay) | N/A |
-| 42 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 43 | [KANAGA JNR MAN OF THE SEASON](http://twitter.com/search?q=KANAGA+JNR+MAN+OF+THE+SEASON) | N/A |
-| 44 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 45 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
-| 46 | [BE LIKE KANAGA JNR](http://twitter.com/search?q=BE+LIKE+KANAGA+JNR) | N/A |
-| 47 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 48 | [Egusi Ijebu](http://twitter.com/search?q=Egusi+Ijebu) | N/A |
-| 49 | [PDP - 176,588](http://twitter.com/search?q=PDP+-+176%2c588) | N/A |
-| 50 | [Rochas Okorocha](http://twitter.com/search?q=Rochas+Okorocha) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 3 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 4 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 5 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 6 | [Victor Osimhen](http://twitter.com/search?q=Victor+Osimhen) | Victor Osimhen is a Nigerian professional footballer who plays as a forward for Lille in the French Ligue 1. His name is derived from the Yoruba language, with "Osimhen" meaning "God has done it". |
+| 7 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 8 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 9 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 11 | [#LIVMAD](http://twitter.com/search?q=%23LIVMAD) | N/A |
+| 12 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 13 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 14 | [#SportsbetioXChampsLeague](http://twitter.com/search?q=%23SportsbetioXChampsLeague) | N/A |
+| 15 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 16 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 17 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 18 | [#SexForWork](http://twitter.com/search?q=%23SexForWork) | N/A |
+| 19 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 20 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 21 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 22 | [Oshimen](http://twitter.com/search?q=Oshimen) | Oshimen is a Japanese term used to describe a person's favorite member of an idol group. It is derived from the words "oshi" (推し) meaning "push" or "support", and "men" (面) meaning "face". In English, it can be translated as "favorite idol". |
+| 23 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 24 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 25 | [Portable](http://twitter.com/search?q=Portable) | N/A |
+| 26 | [#PeterObi2023](http://twitter.com/search?q=%23PeterObi2023) | N/A |
+| 27 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 28 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 29 | [Harvard](http://twitter.com/search?q=Harvard) | N/A |
+| 30 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 31 | [Mendy](http://twitter.com/search?q=Mendy) | Mendy is a diminutive form of the name Mendel, which is a Hebrew name meaning "little man". It can also be used as a nickname for someone named Mendel or as an independent given name. |
+| 32 | [Rochas](http://twitter.com/search?q=Rochas) | N/A |
+| 33 | [Egusi](http://twitter.com/search?q=Egusi) | N/A |
+| 34 | [Naira Marley](http://twitter.com/search?q=Naira+Marley) | N/A |
+| 35 | [Teslim Balogun Stadium](http://twitter.com/search?q=Teslim+Balogun+Stadium) | N/A |
+| 36 | [Ijebu](http://twitter.com/search?q=Ijebu) | N/A |
+| 37 | [Access Bank](http://twitter.com/search?q=Access+Bank) | N/A |
+| 38 | [YEMI CREGX IS ALWAYS RIGHT](http://twitter.com/search?q=YEMI+CREGX+IS+ALWAYS+RIGHT) | N/A |
+| 39 | [God is Good](http://twitter.com/search?q=God+is+Good) | N/A |
+| 40 | [King of Boys](http://twitter.com/search?q=King+of+Boys) | N/A |
+| 41 | [Acant](http://twitter.com/search?q=Acant) | N/A |
+| 42 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 43 | [#AMCovenant](http://twitter.com/search?q=%23AMCovenant) | N/A |
+| 44 | [#TinubuInLagos](http://twitter.com/search?q=%23TinubuInLagos) | N/A |
+| 45 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 46 | [#VotePeterObiForPresident2023](http://twitter.com/search?q=%23VotePeterObiForPresident2023) | N/A |
+| 47 | [#Elections2023](http://twitter.com/search?q=%23Elections2023) | N/A |
+| 48 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
+| 49 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 50 | [#TrackYourVoteNaija](http://twitter.com/search?q=%23TrackYourVoteNaija) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-02-21 20:16:31 UTC`
+📆 Last Updated: `2023-02-21 21:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
-| 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 3 | [#GamblingFilmsOrSongs](http://twitter.com/search?q=%23GamblingFilmsOrSongs) | N/A |
-| 4 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
-| 5 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
-| 6 | [#Chairboys](http://twitter.com/search?q=%23Chairboys) | N/A |
-| 7 | [#EYFS](http://twitter.com/search?q=%23EYFS) | N/A |
-| 8 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 9 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 10 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 11 | [Vladimir Putin](http://twitter.com/search?q=Vladimir+Putin) | N/A |
-| 12 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 13 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 14 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 15 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 17 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
-| 18 | [BT Sport](http://twitter.com/search?q=BT+Sport) | N/A |
-| 19 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 20 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 22 | [Redmen](http://twitter.com/search?q=Redmen) | N/A |
-| 23 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
-| 24 | [UP THE REDS](http://twitter.com/search?q=UP+THE+REDS) | N/A |
-| 25 | [Wycombe](http://twitter.com/search?q=Wycombe) | N/A |
-| 26 | [Jake Humphrey](http://twitter.com/search?q=Jake+Humphrey) | N/A |
-| 27 | [TNT Sports](http://twitter.com/search?q=TNT+Sports) | N/A |
-| 28 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 29 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 30 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 31 | [Whittaker](http://twitter.com/search?q=Whittaker) | N/A |
-| 32 | [Gareth Ainsworth](http://twitter.com/search?q=Gareth+Ainsworth) | N/A |
-| 33 | [Ben Yedder](http://twitter.com/search?q=Ben+Yedder) | N/A |
-| 34 | [Steve McManaman](http://twitter.com/search?q=Steve+McManaman) | N/A |
-| 35 | [Dobbo](http://twitter.com/search?q=Dobbo) | N/A |
-| 36 | [Matt Bloomfield](http://twitter.com/search?q=Matt+Bloomfield) | N/A |
-| 37 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 38 | [Michael Owen](http://twitter.com/search?q=Michael+Owen) | N/A |
-| 39 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 40 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 41 | [Rest in Peace Ron](http://twitter.com/search?q=Rest+in+Peace+Ron) | N/A |
-| 42 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
-| 43 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
-| 44 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 45 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
-| 46 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 48 | [Cafu](http://twitter.com/search?q=Cafu) | N/A |
-| 49 | [Blooms](http://twitter.com/search?q=Blooms) | N/A |
+| 1 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
+| 2 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 3 | [Matt Bloomfield](http://twitter.com/search?q=Matt+Bloomfield) | N/A |
+| 4 | [Rochdale](http://twitter.com/search?q=Rochdale) | N/A |
+| 5 | [Martins](http://twitter.com/search?q=Martins) | N/A |
+| 6 | [#C4News](http://twitter.com/search?q=%23C4News) | N/A |
+| 7 | [Dobbo](http://twitter.com/search?q=Dobbo) | N/A |
+| 8 | [Gareth Ainsworth](http://twitter.com/search?q=Gareth+Ainsworth) | N/A |
+| 9 | [#ColU](http://twitter.com/search?q=%23ColU) | N/A |
+| 10 | [#BrexitBenefits](http://twitter.com/search?q=%23BrexitBenefits) | N/A |
+| 11 | [Cathy](http://twitter.com/search?q=Cathy) | N/A |
+| 12 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
+| 13 | [#Goalscorer365](http://twitter.com/search?q=%23Goalscorer365) | N/A |
+| 14 | [Cheltenham](http://twitter.com/search?q=Cheltenham) | N/A |
+| 15 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 16 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 18 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 20 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 21 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 22 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 23 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 24 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 26 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 27 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 28 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 29 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 30 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 31 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 32 | [McManaman](http://twitter.com/search?q=McManaman) | N/A |
+| 33 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 34 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 35 | [BT Sport](http://twitter.com/search?q=BT+Sport) | N/A |
+| 36 | [Dan Neil](http://twitter.com/search?q=Dan+Neil) | N/A |
+| 37 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 38 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 39 | [RIP Ron](http://twitter.com/search?q=RIP+Ron) | N/A |
+| 40 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 41 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 42 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 43 | [Andy Robertson](http://twitter.com/search?q=Andy+Robertson) | N/A |
+| 44 | [Redmen](http://twitter.com/search?q=Redmen) | N/A |
+| 45 | [Rotherham](http://twitter.com/search?q=Rotherham) | N/A |
+| 46 | [WHAT A GOAL](http://twitter.com/search?q=WHAT+A+GOAL) | "WHAT A GOAL" is an expression used to show admiration or excitement for a goal that has been scored in a sporting event. It is usually shouted by spectators or commentators when a particularly impressive goal has been scored. |
+| 47 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 48 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 49 | [Jake Humphrey](http://twitter.com/search?q=Jake+Humphrey) | N/A |
 
 
 

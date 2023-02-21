@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-21 20:16:55 UTC`
+📆 Last Updated: `2023-02-21 21:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,44 +26,44 @@ This is top 50 for [Philippines](</Philippines>)
 | 9 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
 | 10 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
 | 11 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 12 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
-| 13 | [ready to be amazed](http://twitter.com/search?q=ready+to+be+amazed) | N/A |
-| 14 | [BGYO AT PLDT SMART NATCON 2023](http://twitter.com/search?q=BGYO+AT+PLDT+SMART+NATCON+2023) | N/A |
-| 15 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
-| 16 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
-| 17 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 18 | [VIVOREE MATAPANG THIS FRI](http://twitter.com/search?q=VIVOREE+MATAPANG+THIS+FRI) | N/A |
-| 19 | [Westlife](http://twitter.com/search?q=Westlife) | N/A |
+| 12 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
+| 13 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 14 | [ready to be amazed](http://twitter.com/search?q=ready+to+be+amazed) | N/A |
+| 15 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 16 | [THE BOYZ ROAR-ING COMEBACK](http://twitter.com/search?q=THE+BOYZ+ROAR-ING+COMEBACK) | N/A |
+| 17 | [BGYO AT PLDT SMART NATCON 2023](http://twitter.com/search?q=BGYO+AT+PLDT+SMART+NATCON+2023) | N/A |
+| 18 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
+| 19 | [VIVOREE MATAPANG THIS FRI](http://twitter.com/search?q=VIVOREE+MATAPANG+THIS+FRI) | N/A |
 | 20 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
 | 21 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
 | 22 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
 | 23 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
 | 24 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 25 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
-| 26 | [gq korea x jeongyeon](http://twitter.com/search?q=gq+korea+x+jeongyeon) | N/A |
-| 27 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
+| 25 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 26 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
+| 27 | [gq korea x jeongyeon](http://twitter.com/search?q=gq+korea+x+jeongyeon) | N/A |
 | 28 | [CLOSER MV](http://twitter.com/search?q=CLOSER+MV) | N/A |
 | 29 | [Chery](http://twitter.com/search?q=Chery) | N/A |
-| 30 | [arado](http://twitter.com/search?q=arado) | N/A |
-| 31 | [Crisostomo Ibarra](http://twitter.com/search?q=Crisostomo+Ibarra) | N/A |
-| 32 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 33 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
+| 30 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
+| 31 | [arado](http://twitter.com/search?q=arado) | N/A |
+| 32 | [Crisostomo Ibarra](http://twitter.com/search?q=Crisostomo+Ibarra) | N/A |
+| 33 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
 | 34 | [SIXTEEN WISHES FOR LEESEO](http://twitter.com/search?q=SIXTEEN+WISHES+FOR+LEESEO) | N/A |
 | 35 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
 | 36 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 37 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
-| 38 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
+| 37 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
+| 38 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
 | 39 | [RCEP](http://twitter.com/search?q=RCEP) | N/A |
 | 40 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
 | 41 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
-| 42 | [Dennis Trillo](http://twitter.com/search?q=Dennis+Trillo) | N/A |
-| 43 | [Coffee Project](http://twitter.com/search?q=Coffee+Project) | N/A |
-| 44 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
-| 45 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
-| 46 | [JOSH L PIEnomenal VOCAL](http://twitter.com/search?q=JOSH+L+PIEnomenal+VOCAL) | N/A |
-| 47 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 48 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
-| 49 | [METLIFE](http://twitter.com/search?q=METLIFE) | N/A |
+| 42 | [Coffee Project](http://twitter.com/search?q=Coffee+Project) | N/A |
+| 43 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 45 | [Dennis Trillo](http://twitter.com/search?q=Dennis+Trillo) | N/A |
+| 46 | [Lost Me](http://twitter.com/search?q=Lost+Me) | N/A |
+| 47 | [josh l pienomenal vocal](http://twitter.com/search?q=josh+l+pienomenal+vocal) | N/A |
+| 48 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
+| 49 | [Chiara](http://twitter.com/search?q=Chiara) | N/A |
 
 
 

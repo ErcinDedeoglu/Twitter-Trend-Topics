@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-21 20:17:07 UTC`
+📆 Last Updated: `2023-02-21 21:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Recep Tayyip Erdoğan](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan) | N/A |
-| 2 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
-| 3 | [Allah Allah](http://twitter.com/search?q=Allah+Allah) | N/A |
-| 4 | [#İstifaEt](http://twitter.com/search?q=%23%c4%b0stifaEt) | N/A |
-| 5 | [Ekşi Nihayet Kapatıldı](http://twitter.com/search?q=Ek%c5%9fi+Nihayet+Kapat%c4%b1ld%c4%b1) | N/A |
-| 6 | [Polatla Antepteyiz](http://twitter.com/search?q=Polatla+Antepteyiz) | N/A |
-| 7 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
-| 8 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 9 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
+| 1 | [Allah Allah](http://twitter.com/search?q=Allah+Allah) | N/A |
+| 2 | [Recep Tayyip Erdoğan](http://twitter.com/search?q=Recep+Tayyip+Erdo%c4%9fan) | N/A |
+| 3 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
+| 4 | [#GeceyeNotum](http://twitter.com/search?q=%23GeceyeNotum) | N/A |
+| 5 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 6 | [#İstifaEt](http://twitter.com/search?q=%23%c4%b0stifaEt) | N/A |
+| 7 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 8 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 9 | [Ekşi Nihayet Kapatıldı](http://twitter.com/search?q=Ek%c5%9fi+Nihayet+Kapat%c4%b1ld%c4%b1) | N/A |
 | 10 | [#DiyanetEngisizyonunaHayır](http://twitter.com/search?q=%23DiyanetEngisizyonunaHay%c4%b1r) | N/A |
-| 11 | [#KitaplarYasaklanamaz](http://twitter.com/search?q=%23KitaplarYasaklanamaz) | N/A |
-| 12 | [Hacer Çınar](http://twitter.com/search?q=Hacer+%c3%87%c4%b1nar) | N/A |
-| 13 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 14 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 15 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 16 | [Farah Zeynep Abdullah](http://twitter.com/search?q=Farah+Zeynep+Abdullah) | N/A |
-| 17 | [SesimiDuyan VarMı](http://twitter.com/search?q=SesimiDuyan+VarM%c4%b1) | N/A |
-| 18 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
-| 19 | [Mustafa Erdik](http://twitter.com/search?q=Mustafa+Erdik) | N/A |
-| 20 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
-| 21 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
-| 22 | [KÖR VE NANKÖRSÜNÜZ](http://twitter.com/search?q=K%c3%96R+VE+NANK%c3%96RS%c3%9cN%c3%9cZ) | N/A |
-| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 24 | [Cesaret](http://twitter.com/search?q=Cesaret) | N/A |
-| 25 | [Bolu](http://twitter.com/search?q=Bolu) | N/A |
-| 26 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 27 | [Bu Vebal Sizin](http://twitter.com/search?q=Bu+Vebal+Sizin) | N/A |
-| 28 | [Şili](http://twitter.com/search?q=%c5%9eili) | N/A |
-| 29 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 30 | [Primci FerideÖzdinç](http://twitter.com/search?q=Primci+Feride%c3%96zdin%c3%a7) | N/A |
-| 31 | [Temizlik](http://twitter.com/search?q=Temizlik) | N/A |
-| 32 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
-| 33 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 34 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
-| 35 | [Yürü Bay Kemal](http://twitter.com/search?q=Y%c3%bcr%c3%bc+Bay+Kemal) | N/A |
-| 36 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 37 | [Altını](http://twitter.com/search?q=Alt%c4%b1n%c4%b1) | N/A |
-| 38 | [Prof. Dr. Celal Şengör](http://twitter.com/search?q=Prof.+Dr.+Celal+%c5%9eeng%c3%b6r) | N/A |
-| 39 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
-| 40 | [Hakedene](http://twitter.com/search?q=Hakedene) | N/A |
-| 41 | [Hakaret](http://twitter.com/search?q=Hakaret) | N/A |
-| 42 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 43 | [Prompter](http://twitter.com/search?q=Prompter) | N/A |
-| 44 | [Arzu](http://twitter.com/search?q=Arzu) | N/A |
-| 45 | [Malcolm X](http://twitter.com/search?q=Malcolm+X) | N/A |
-| 46 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
-| 47 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 48 | [Seviye](http://twitter.com/search?q=Seviye) | N/A |
-| 49 | [Sürtük](http://twitter.com/search?q=S%c3%bcrt%c3%bck) | N/A |
-| 50 | [Cumhurbaşkanına](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1na) | N/A |
+| 11 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 12 | [#KitaplarYasaklanamaz](http://twitter.com/search?q=%23KitaplarYasaklanamaz) | N/A |
+| 13 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 14 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 15 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 16 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 17 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 18 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 19 | [Yürü Bay Kemal](http://twitter.com/search?q=Y%c3%bcr%c3%bc+Bay+Kemal) | N/A |
+| 20 | [Hacer Çınar](http://twitter.com/search?q=Hacer+%c3%87%c4%b1nar) | N/A |
+| 21 | [Farah Zeynep Abdullah](http://twitter.com/search?q=Farah+Zeynep+Abdullah) | N/A |
+| 22 | [SesimiDuyan VarMı](http://twitter.com/search?q=SesimiDuyan+VarM%c4%b1) | N/A |
+| 23 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 24 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
+| 25 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
+| 26 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
+| 27 | [Mustafa Erdik](http://twitter.com/search?q=Mustafa+Erdik) | N/A |
+| 28 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 29 | [KÖR VE NANKÖRSÜNÜZ](http://twitter.com/search?q=K%c3%96R+VE+NANK%c3%96RS%c3%9cN%c3%9cZ) | N/A |
+| 30 | [Şili](http://twitter.com/search?q=%c5%9eili) | N/A |
+| 31 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
+| 32 | [Cesaret](http://twitter.com/search?q=Cesaret) | N/A |
+| 33 | [Prof. Dr. Celal Şengör](http://twitter.com/search?q=Prof.+Dr.+Celal+%c5%9eeng%c3%b6r) | N/A |
+| 34 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 35 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 36 | [Temizlik](http://twitter.com/search?q=Temizlik) | N/A |
+| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 38 | [Primci FerideÖzdinç](http://twitter.com/search?q=Primci+Feride%c3%96zdin%c3%a7) | N/A |
+| 39 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 40 | [Şampiyonlar Ligi](http://twitter.com/search?q=%c5%9eampiyonlar+Ligi) | N/A |
+| 41 | [Fransa](http://twitter.com/search?q=Fransa) | N/A |
+| 42 | [Altını](http://twitter.com/search?q=Alt%c4%b1n%c4%b1) | N/A |
+| 43 | [Hakaret](http://twitter.com/search?q=Hakaret) | N/A |
+| 44 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
+| 45 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
+| 46 | [Arzu](http://twitter.com/search?q=Arzu) | N/A |
+| 47 | [Prompter](http://twitter.com/search?q=Prompter) | N/A |
+| 48 | [Hakedene](http://twitter.com/search?q=Hakedene) | N/A |
+| 49 | [Vargas](http://twitter.com/search?q=Vargas) | Vargas is a Spanish surname derived from the Latin word "varga," which means "wolf." It is also a common given name in Spanish-speaking countries. In English, Vargas can be translated to mean "wolf." |
+| 50 | [Zeyd](http://twitter.com/search?q=Zeyd) | N/A |
 
 
 

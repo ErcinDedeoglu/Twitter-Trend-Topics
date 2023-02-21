@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-21 20:16:43 UTC`
+📆 Last Updated: `2023-02-21 21:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SGESSC](http://twitter.com/search?q=%23SGESSC) | N/A |
-| 2 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
+| 1 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 2 | [#SGESSC](http://twitter.com/search?q=%23SGESSC) | N/A |
 | 3 | [#SGENapoli](http://twitter.com/search?q=%23SGENapoli) | N/A |
-| 4 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 5 | [Baum](http://twitter.com/search?q=Baum) | N/A |
-| 6 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 7 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 8 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
-| 9 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 10 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 11 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 12 | [Rouladen](http://twitter.com/search?q=Rouladen) | N/A |
-| 13 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 14 | [Rede zur Lage der Nation](http://twitter.com/search?q=Rede+zur+Lage+der+Nation) | N/A |
-| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
-| 17 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 18 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 19 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 20 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 21 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 22 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 23 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 24 | [Amtsanmaßung](http://twitter.com/search?q=Amtsanma%c3%9fung) | N/A |
-| 25 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 26 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 27 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
-| 28 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 29 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 31 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 32 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 33 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
-| 34 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
-| 35 | [Rettungsgasse](http://twitter.com/search?q=Rettungsgasse) | N/A |
-| 36 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
-| 37 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
-| 38 | [Kennedy](http://twitter.com/search?q=Kennedy) | N/A |
-| 39 | [Kurzarbeit](http://twitter.com/search?q=Kurzarbeit) | N/A |
-| 40 | [Adorno](http://twitter.com/search?q=Adorno) | N/A |
-| 41 | [Minima Moralia](http://twitter.com/search?q=Minima+Moralia) | N/A |
-| 42 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
-| 43 | [Morddrohungen](http://twitter.com/search?q=Morddrohungen) | N/A |
-| 44 | [Luftalarm](http://twitter.com/search?q=Luftalarm) | N/A |
-| 45 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
-| 46 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 47 | [Bourdieu](http://twitter.com/search?q=Bourdieu) | N/A |
-| 48 | [Teheran](http://twitter.com/search?q=Teheran) | N/A |
+| 4 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Trapp](http://twitter.com/search?q=Trapp) | N/A |
+| 7 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 8 | [Baum](http://twitter.com/search?q=Baum) | N/A |
+| 9 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 10 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 11 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 12 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 13 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 14 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 15 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 16 | [Elvis](http://twitter.com/search?q=Elvis) | Elvis is a nickname for Elvis Presley, an American singer and actor who rose to fame in the 1950s and 1960s. He is widely regarded as one of the most influential musicians of the 20th century and is often referred to as "The King of Rock and Roll" or simply "The King". |
+| 17 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 18 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 19 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 20 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 21 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 22 | [Rouladen](http://twitter.com/search?q=Rouladen) | N/A |
+| 23 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 24 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 25 | [Rede zur Lage der Nation](http://twitter.com/search?q=Rede+zur+Lage+der+Nation) | N/A |
+| 26 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
+| 27 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 28 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 29 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 30 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 31 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 32 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 33 | [Amtsanmaßung](http://twitter.com/search?q=Amtsanma%c3%9fung) | N/A |
+| 34 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 35 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 36 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 37 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 38 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
+| 39 | [Außenpolitik](http://twitter.com/search?q=Au%c3%9fenpolitik) | N/A |
+| 40 | [Kommunismus](http://twitter.com/search?q=Kommunismus) | N/A |
+| 41 | [Niederrhein](http://twitter.com/search?q=Niederrhein) | N/A |
+| 42 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 43 | [start in die woche](http://twitter.com/search?q=start+in+die+woche) | N/A |
+| 44 | [Sendung mit der Maus](http://twitter.com/search?q=Sendung+mit+der+Maus) | N/A |
+| 45 | [Steuererhöhungen](http://twitter.com/search?q=Steuererh%c3%b6hungen) | N/A |
+| 46 | [Lukaschenko](http://twitter.com/search?q=Lukaschenko) | N/A |
+| 47 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 48 | [Kurzarbeit](http://twitter.com/search?q=Kurzarbeit) | N/A |
 
 
 

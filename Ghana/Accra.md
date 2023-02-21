@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Accra
 
-📆 Last Updated: `2023-02-21 20:16:57 UTC`
+📆 Last Updated: `2023-02-21 21:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Ghana](</Ghana>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [#PizzamanTwaNaDi](http://twitter.com/search?q=%23PizzamanTwaNaDi) | N/A |
-| 3 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 4 | [Esther Smith](http://twitter.com/search?q=Esther+Smith) | N/A |
-| 5 | [Gyan](http://twitter.com/search?q=Gyan) | N/A |
-| 6 | [Bongo](http://twitter.com/search?q=Bongo) | N/A |
-| 7 | [#puredrive](http://twitter.com/search?q=%23puredrive) | N/A |
-| 8 | [Ei Ato](http://twitter.com/search?q=Ei+Ato) | N/A |
-| 9 | [Ghana Police](http://twitter.com/search?q=Ghana+Police) | N/A |
-| 10 | [Cindy Thompson](http://twitter.com/search?q=Cindy+Thompson) | N/A |
-| 11 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
-| 12 | [KT Hammond](http://twitter.com/search?q=KT+Hammond) | N/A |
-| 13 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
-| 14 | [sellas tetteh](http://twitter.com/search?q=sellas+tetteh) | N/A |
-| 15 | [#OwletForBusiness](http://twitter.com/search?q=%23OwletForBusiness) | N/A |
-| 16 | [Case 5](http://twitter.com/search?q=Case+5) | N/A |
-| 17 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 18 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 19 | [Sulley Muntari](http://twitter.com/search?q=Sulley+Muntari) | N/A |
-| 20 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 21 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 22 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
-| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 24 | [Diana Hamilton](http://twitter.com/search?q=Diana+Hamilton) | N/A |
-| 25 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
-| 26 | [John Paintsil](http://twitter.com/search?q=John+Paintsil) | N/A |
-| 27 | [Ato Forson](http://twitter.com/search?q=Ato+Forson) | N/A |
-| 28 | [Layla](http://twitter.com/search?q=Layla) | N/A |
-| 29 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 30 | [YEMI CREGX IS ALWAYS RIGHT](http://twitter.com/search?q=YEMI+CREGX+IS+ALWAYS+RIGHT) | N/A |
-| 31 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
-| 32 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 33 | [Giannis](http://twitter.com/search?q=Giannis) | Giannis is a Greek name, derived from the name Ioannis. It is the diminutive form of Ioannis and is often used as a nickname for people named Ioannis or John. In English, Giannis is typically translated to John or Johnny. |
-| 34 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 35 | [Salt](http://twitter.com/search?q=Salt) | N/A |
-| 36 | [Obaapa Christy](http://twitter.com/search?q=Obaapa+Christy) | N/A |
-| 37 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 38 | [Sabinus](http://twitter.com/search?q=Sabinus) | N/A |
-| 39 | [Kusi Boateng](http://twitter.com/search?q=Kusi+Boateng) | N/A |
-| 40 | [black satellites](http://twitter.com/search?q=black+satellites) | N/A |
-| 41 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 42 | [Obuasi](http://twitter.com/search?q=Obuasi) | N/A |
-| 43 | [BE LIKE KANAGA JNR](http://twitter.com/search?q=BE+LIKE+KANAGA+JNR) | N/A |
-| 44 | [GOLDEN BOY THABANG](http://twitter.com/search?q=GOLDEN+BOY+THABANG) | N/A |
-| 45 | [KANAGA JNR MAN OF THE SEASON](http://twitter.com/search?q=KANAGA+JNR+MAN+OF+THE+SEASON) | N/A |
-| 46 | [Darkseid](http://twitter.com/search?q=Darkseid) | N/A |
-| 47 | [Juicy Jay](http://twitter.com/search?q=Juicy+Jay) | Juicy Jay is a brand of flavored rolling papers. The papers are made from hemp and come in a variety of flavors, such as strawberry, blueberry, watermelon, and more. The name "Juicy Jay" is derived from the fact that the papers are extra-long and extra-thick, making them juicy and flavorful when smoked. |
-| 48 | [Yaa Pono](http://twitter.com/search?q=Yaa+Pono) | N/A |
-| 49 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
-| 50 | [Ghanaian](http://twitter.com/search?q=Ghanaian) | N/A |
+| 2 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 3 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 4 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 5 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 6 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 7 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 8 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 9 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 10 | [#PizzamanTwaNaDi](http://twitter.com/search?q=%23PizzamanTwaNaDi) | N/A |
+| 11 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 12 | [Esther Smith](http://twitter.com/search?q=Esther+Smith) | N/A |
+| 13 | [Victor Osimhen](http://twitter.com/search?q=Victor+Osimhen) | Victor Osimhen is a Nigerian professional footballer who plays as a forward for Lille in the French Ligue 1. His name is derived from the Yoruba language, with "Osimhen" meaning "God has done it". |
+| 14 | [Asamoah Gyan](http://twitter.com/search?q=Asamoah+Gyan) | N/A |
+| 15 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 16 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 17 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 18 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 19 | [Ei Ato](http://twitter.com/search?q=Ei+Ato) | N/A |
+| 20 | [Bongo](http://twitter.com/search?q=Bongo) | N/A |
+| 21 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 22 | [#MondayMotivation](http://twitter.com/search?q=%23MondayMotivation) | #MondayMotivation is a hashtag used on social media to encourage people to stay motivated and inspired on Mondays. It is often used to share inspirational quotes, stories, and images that can help people start their week off with a positive attitude. |
+| 23 | [#puredrive](http://twitter.com/search?q=%23puredrive) | N/A |
+| 24 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 25 | [Cindy Thompson](http://twitter.com/search?q=Cindy+Thompson) | N/A |
+| 26 | [Yelisa](http://twitter.com/search?q=Yelisa) | Yelisa is a Spanish name derived from the Hebrew name Elisheva, which means “God is my oath”. In English, it can be translated to mean “God is my promise”. |
+| 27 | [sellas tetteh](http://twitter.com/search?q=sellas+tetteh) | N/A |
+| 28 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 29 | [KT Hammond](http://twitter.com/search?q=KT+Hammond) | N/A |
+| 30 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 31 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 32 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 33 | [Case 5](http://twitter.com/search?q=Case+5) | N/A |
+| 34 | [Sulley Muntari](http://twitter.com/search?q=Sulley+Muntari) | N/A |
+| 35 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 36 | [Ato Forson](http://twitter.com/search?q=Ato+Forson) | N/A |
+| 37 | [Christian Atsu](http://twitter.com/search?q=Christian+Atsu) | Christian Atsu is a Ghanaian professional footballer who plays as a winger for Premier League club Newcastle United and the Ghana national team. The name Atsu is derived from the Akan language of Ghana and means "born on a Friday". |
+| 38 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 39 | [John Paintsil](http://twitter.com/search?q=John+Paintsil) | N/A |
+| 40 | [Diana Hamilton](http://twitter.com/search?q=Diana+Hamilton) | N/A |
+| 41 | [Layla](http://twitter.com/search?q=Layla) | N/A |
+| 42 | [YEMI CREGX IS ALWAYS RIGHT](http://twitter.com/search?q=YEMI+CREGX+IS+ALWAYS+RIGHT) | N/A |
+| 43 | [Bryan Acheampong](http://twitter.com/search?q=Bryan+Acheampong) | N/A |
+| 44 | [Sheldon](http://twitter.com/search?q=Sheldon) | N/A |
+| 45 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 46 | [Obaapa Christy](http://twitter.com/search?q=Obaapa+Christy) | N/A |
+| 47 | [Salt](http://twitter.com/search?q=Salt) | N/A |
+| 48 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 49 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
+| 50 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-02-21 20:17:11 UTC`
+📆 Last Updated: `2023-02-21 21:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [#BuschArmy](http://twitter.com/search?q=%23BuschArmy) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 3 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 4 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 5 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 6 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 7 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 8 | [Da Brat](http://twitter.com/search?q=Da+Brat) | N/A |
-| 9 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 10 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 11 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
-| 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 13 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 14 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 15 | [Chainz](http://twitter.com/search?q=Chainz) | N/A |
-| 16 | [Darius Miles](http://twitter.com/search?q=Darius+Miles) | N/A |
-| 17 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 18 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 20 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
-| 21 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 22 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
-| 23 | [Tuscaloosa](http://twitter.com/search?q=Tuscaloosa) | N/A |
-| 24 | [USFL](http://twitter.com/search?q=USFL) | N/A |
-| 25 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 26 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 27 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
-| 28 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 29 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 30 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
-| 31 | [Todd McShay](http://twitter.com/search?q=Todd+McShay) | N/A |
-| 32 | [JUST ANNOUNCED](http://twitter.com/search?q=JUST+ANNOUNCED) | "JUST ANNOUNCED" is a phrase used to indicate that something has recently been made public. It is often used in headlines to draw attention to news or other information that has just been released. |
-| 33 | [Polish](http://twitter.com/search?q=Polish) | N/A |
-| 34 | [Commander Masters](http://twitter.com/search?q=Commander+Masters) | N/A |
-| 35 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 36 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 37 | [GeForce Now](http://twitter.com/search?q=GeForce+Now) | N/A |
-| 38 | [UP THE REDS](http://twitter.com/search?q=UP+THE+REDS) | N/A |
-| 39 | [Kris Dunn](http://twitter.com/search?q=Kris+Dunn) | N/A |
-| 40 | [Best of 3](http://twitter.com/search?q=Best+of+3) | N/A |
-| 41 | [Barbara Lee](http://twitter.com/search?q=Barbara+Lee) | N/A |
-| 42 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 43 | [Activision](http://twitter.com/search?q=Activision) | N/A |
-| 44 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 45 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 46 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
-| 47 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 6 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 7 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 8 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 9 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 11 | [#BuschArmy](http://twitter.com/search?q=%23BuschArmy) | N/A |
+| 12 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 13 | [Da Brat](http://twitter.com/search?q=Da+Brat) | N/A |
+| 14 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 15 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 16 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 17 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
+| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 19 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 20 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 21 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 22 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 23 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 24 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 25 | [Genaro García Luna](http://twitter.com/search?q=Genaro+Garc%c3%ada+Luna) | N/A |
+| 26 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 27 | [Todd Monken](http://twitter.com/search?q=Todd+Monken) | Todd Monken is an American football coach and former player. He is currently the offensive coordinator for the Cleveland Browns of the National Football League (NFL). Monken has previously served as head coach of Southern Miss, offensive coordinator for Oklahoma State, and wide receivers coach for the Jacksonville Jaguars. |
+| 28 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 29 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 30 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
+| 31 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 32 | [Tuscaloosa](http://twitter.com/search?q=Tuscaloosa) | N/A |
+| 33 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 34 | [Chainz](http://twitter.com/search?q=Chainz) | N/A |
+| 35 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 36 | [RJ Hampton](http://twitter.com/search?q=RJ+Hampton) | N/A |
+| 37 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 38 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 39 | [USFL](http://twitter.com/search?q=USFL) | N/A |
+| 40 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 41 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 42 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 43 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 44 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 45 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
+| 46 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 47 | [Ray Lewis](http://twitter.com/search?q=Ray+Lewis) | N/A |
 
 
 

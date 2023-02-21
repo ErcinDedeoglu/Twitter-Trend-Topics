@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-02-21 20:16:38 UTC`
+📆 Last Updated: `2023-02-21 21:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,46 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [#ApuracaoSP](http://twitter.com/search?q=%23ApuracaoSP) | N/A |
+| 1 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 2 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 4 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
-| 5 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
-| 6 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
-| 7 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
-| 8 | [Sara Rangel](http://twitter.com/search?q=Sara+Rangel) | N/A |
-| 9 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 10 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 5 | [#ApuracaoSP](http://twitter.com/search?q=%23ApuracaoSP) | N/A |
+| 6 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 8 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
+| 9 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 10 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 11 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 12 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 13 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 14 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 15 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 16 | [Leila](http://twitter.com/search?q=Leila) | N/A |
-| 17 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 18 | [O B DE LGBT](http://twitter.com/search?q=O+B+DE+LGBT) | N/A |
-| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 20 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 21 | [#ChampionsNoSBT](http://twitter.com/search?q=%23ChampionsNoSBT) | N/A |
-| 22 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 23 | [Carnaval de SP](http://twitter.com/search?q=Carnaval+de+SP) | N/A |
-| 24 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
-| 25 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 26 | [Kuri](http://twitter.com/search?q=Kuri) | N/A |
-| 27 | [Japão](http://twitter.com/search?q=Jap%c3%a3o) | N/A |
-| 28 | [bella hadid](http://twitter.com/search?q=bella+hadid) | N/A |
-| 29 | [Rosas de Ouro](http://twitter.com/search?q=Rosas+de+Ouro) | N/A |
-| 30 | [Goku](http://twitter.com/search?q=Goku) | N/A |
-| 31 | [Tucuruvi](http://twitter.com/search?q=Tucuruvi) | N/A |
-| 32 | [Dragões](http://twitter.com/search?q=Drag%c3%b5es) | N/A |
-| 33 | [Alegoria](http://twitter.com/search?q=Alegoria) | N/A |
-| 34 | [Levaram](http://twitter.com/search?q=Levaram) | N/A |
-| 35 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 36 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 37 | [Saulo](http://twitter.com/search?q=Saulo) | Saulo is a Portuguese name derived from the Hebrew name Saul, which means "asked for". In English, it can be translated to mean "prayed for". |
-| 38 | [Anderson Barros](http://twitter.com/search?q=Anderson+Barros) | N/A |
-| 39 | [LEQUE](http://twitter.com/search?q=LEQUE) | N/A |
-| 40 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
-| 41 | [Vegeta](http://twitter.com/search?q=Vegeta) | N/A |
-| 42 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 43 | [daniel caesar](http://twitter.com/search?q=daniel+caesar) | N/A |
-| 44 | [Dona Iris](http://twitter.com/search?q=Dona+Iris) | N/A |
-| 45 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
-| 46 | [Riven](http://twitter.com/search?q=Riven) | N/A |
-| 47 | [Macris](http://twitter.com/search?q=Macris) | N/A |
-| 48 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 49 | [bianka](http://twitter.com/search?q=bianka) | N/A |
+| 12 | [Mocidade Alegre](http://twitter.com/search?q=Mocidade+Alegre) | N/A |
+| 13 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 14 | [You'll Never Walk Alone](http://twitter.com/search?q=You%27ll+Never+Walk+Alone) | N/A |
+| 15 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 16 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 17 | [Sara Rangel](http://twitter.com/search?q=Sara+Rangel) | N/A |
+| 18 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 19 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 20 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 21 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 22 | [QUE GOLAÇO](http://twitter.com/search?q=QUE+GOLA%c3%87O) | QUE GOLAÇO is an expression used in Portuguese to express admiration or excitement for a particularly impressive feat. It literally translates to "what a goal!" and is often used in soccer contexts. |
+| 23 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 24 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 25 | [Kuri](http://twitter.com/search?q=Kuri) | N/A |
+| 26 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
+| 27 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
+| 28 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 29 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 30 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 31 | [#JuliettenaTVE](http://twitter.com/search?q=%23JuliettenaTVE) | N/A |
+| 32 | [Carnaval de SP](http://twitter.com/search?q=Carnaval+de+SP) | N/A |
+| 33 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 34 | [Leila](http://twitter.com/search?q=Leila) | N/A |
+| 35 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 36 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 37 | [QUE JOGO](http://twitter.com/search?q=QUE+JOGO) | N/A |
+| 38 | [Contra o Brasil](http://twitter.com/search?q=Contra+o+Brasil) | N/A |
+| 39 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 40 | [Crefisa](http://twitter.com/search?q=Crefisa) | N/A |
 
 
 

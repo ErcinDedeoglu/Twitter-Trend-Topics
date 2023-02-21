@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-21 20:16:36 UTC`
+📆 Last Updated: `2023-02-21 21:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,40 @@ This is top 50 for [Colombia](</Colombia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#UnIrrespetoEs](http://twitter.com/search?q=%23UnIrrespetoEs) | N/A |
-| 2 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [#QuinteroLadrón](http://twitter.com/search?q=%23QuinteroLadr%c3%b3n) | N/A |
-| 5 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 6 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 7 | [#AyudarEs](http://twitter.com/search?q=%23AyudarEs) | N/A |
-| 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 9 | [#felizlunes](http://twitter.com/search?q=%23felizlunes) | N/A |
-| 10 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
-| 11 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 12 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 13 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 14 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 15 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 16 | [KARL](http://twitter.com/search?q=KARL) | N/A |
-| 17 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
-| 18 | [Séptima](http://twitter.com/search?q=S%c3%a9ptima) | N/A |
-| 19 | [Guigo Mafla](http://twitter.com/search?q=Guigo+Mafla) | N/A |
-| 20 | [Carlos Rendón](http://twitter.com/search?q=Carlos+Rend%c3%b3n) | N/A |
-| 21 | [Arroyo](http://twitter.com/search?q=Arroyo) | N/A |
-| 22 | [Danilo Rueda](http://twitter.com/search?q=Danilo+Rueda) | N/A |
-| 23 | [Joselito](http://twitter.com/search?q=Joselito) | N/A |
-| 24 | [Alexandra Agudelo](http://twitter.com/search?q=Alexandra+Agudelo) | N/A |
-| 25 | [TINA](http://twitter.com/search?q=TINA) | N/A |
-| 26 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 27 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 28 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
-| 29 | [Transmilenio](http://twitter.com/search?q=Transmilenio) | N/A |
-| 30 | [Corredor Verde](http://twitter.com/search?q=Corredor+Verde) | N/A |
-| 31 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
-| 32 | [Viña](http://twitter.com/search?q=Vi%c3%b1a) | Viña is a Spanish word that means vineyard. It is used to refer to a place where grapes are grown and wine is produced. In English, it can also be used to refer to a winery or wine estate. |
-| 33 | [Claudia López](http://twitter.com/search?q=Claudia+L%c3%b3pez) | N/A |
-| 34 | [Accidente](http://twitter.com/search?q=Accidente) | N/A |
-| 35 | [Arnulfo Valentierra](http://twitter.com/search?q=Arnulfo+Valentierra) | N/A |
-| 36 | [Educación de Medellín](http://twitter.com/search?q=Educaci%c3%b3n+de+Medell%c3%adn) | N/A |
-| 37 | [y bogotá](http://twitter.com/search?q=y+bogot%c3%a1) | N/A |
-| 38 | [ORCID](http://twitter.com/search?q=ORCID) | N/A |
-| 39 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 40 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
-| 41 | [Buen Comienzo](http://twitter.com/search?q=Buen+Comienzo) | N/A |
-| 42 | [Jacarandas](http://twitter.com/search?q=Jacarandas) | N/A |
-| 43 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 45 | [Iván Mordisco](http://twitter.com/search?q=Iv%c3%a1n+Mordisco) | N/A |
-| 46 | [Oficinista 2](http://twitter.com/search?q=Oficinista+2) | N/A |
-| 47 | [Multiplaza](http://twitter.com/search?q=Multiplaza) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 3 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 4 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 6 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 7 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 8 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 9 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 10 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 11 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 12 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 13 | [Sena](http://twitter.com/search?q=Sena) | N/A |
+| 14 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
+| 15 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 16 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 17 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 18 | [Joselito](http://twitter.com/search?q=Joselito) | N/A |
+| 19 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
+| 20 | [#TeamArizabaleta](http://twitter.com/search?q=%23TeamArizabaleta) | N/A |
+| 21 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 22 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 23 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 25 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 26 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 27 | [Dapa](http://twitter.com/search?q=Dapa) | N/A |
+| 28 | [Claudia López](http://twitter.com/search?q=Claudia+L%c3%b3pez) | N/A |
+| 29 | [Pinto](http://twitter.com/search?q=Pinto) | N/A |
+| 30 | [Séptima](http://twitter.com/search?q=S%c3%a9ptima) | N/A |
+| 31 | [#PelaezdeFranciscoenLaW](http://twitter.com/search?q=%23PelaezdeFranciscoenLaW) | N/A |
+| 32 | [#UnIrrespetoEs](http://twitter.com/search?q=%23UnIrrespetoEs) | N/A |
+| 33 | [#NadaQueCelebrar](http://twitter.com/search?q=%23NadaQueCelebrar) | N/A |
+| 34 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 
 
 
