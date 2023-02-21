@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-21 13:21:06 UTC`
+📆 Last Updated: `2023-02-21 14:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 2 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 3 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
-| 4 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 3 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 4 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
 | 5 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 6 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
 | 7 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 8 | [#NFU23](http://twitter.com/search?q=%23NFU23) | N/A |
+| 8 | [Lent](http://twitter.com/search?q=Lent) | N/A |
 | 9 | [#MHNursesDay](http://twitter.com/search?q=%23MHNursesDay) | N/A |
-| 10 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 11 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 12 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 13 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 14 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 15 | [West Cork](http://twitter.com/search?q=West+Cork) | N/A |
-| 16 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
-| 17 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
-| 18 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 19 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 20 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 21 | [Natural History Museum](http://twitter.com/search?q=Natural+History+Museum) | N/A |
-| 22 | [Crete](http://twitter.com/search?q=Crete) | N/A |
-| 23 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 24 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 25 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 26 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 27 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 28 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 29 | [The West](http://twitter.com/search?q=The+West) | N/A |
-| 30 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 31 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 32 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 33 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 34 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 35 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 36 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 37 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 38 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 39 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 40 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 41 | [Bulley](http://twitter.com/search?q=Bulley) | N/A |
-| 42 | [#swanalexakettle](http://twitter.com/search?q=%23swanalexakettle) | N/A |
-| 43 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 44 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 45 | [#MotherLanguageDay](http://twitter.com/search?q=%23MotherLanguageDay) | N/A |
-| 46 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 47 | [#LunchPun](http://twitter.com/search?q=%23LunchPun) | N/A |
-| 48 | [#ABIConf23](http://twitter.com/search?q=%23ABIConf23) | N/A |
-| 49 | [#4DayWeek](http://twitter.com/search?q=%234DayWeek) | N/A |
-| 50 | [#CharityTuesday](http://twitter.com/search?q=%23CharityTuesday) | N/A |
+| 10 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 11 | [#loosewomen](http://twitter.com/search?q=%23loosewomen) | N/A |
+| 12 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 13 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 14 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 15 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 16 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 17 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
+| 18 | [West Cork](http://twitter.com/search?q=West+Cork) | N/A |
+| 19 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
+| 20 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
+| 21 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 22 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 23 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 24 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
+| 25 | [Crete](http://twitter.com/search?q=Crete) | N/A |
+| 26 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 27 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 28 | [Natural History Museum](http://twitter.com/search?q=Natural+History+Museum) | N/A |
+| 29 | [Religion](http://twitter.com/search?q=Religion) | N/A |
+| 30 | [Dunstable](http://twitter.com/search?q=Dunstable) | N/A |
+| 31 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 32 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 33 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 34 | [The West](http://twitter.com/search?q=The+West) | N/A |
+| 35 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 36 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 37 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 38 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 39 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 40 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 41 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 42 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 43 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 44 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 45 | [#NFU23](http://twitter.com/search?q=%23NFU23) | N/A |
+| 46 | [#SwanAlexaKettle](http://twitter.com/search?q=%23SwanAlexaKettle) | N/A |
+| 47 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 48 | [#MotherLanguageDay](http://twitter.com/search?q=%23MotherLanguageDay) | N/A |
+| 49 | [#wato](http://twitter.com/search?q=%23wato) | N/A |
+| 50 | [#MentalHealthNurseDay](http://twitter.com/search?q=%23MentalHealthNurseDay) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-21 13:21:48 UTC`
+📆 Last Updated: `2023-02-21 14:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheBachelor](http://twitter.com/search?q=%23TheBachelor) | #TheBachelor is a popular American reality television dating game show that airs on ABC. The show follows a single bachelor as he dates multiple women in the hopes of finding his soulmate and ultimately proposing marriage. The show has been running since 2002 and has spawned several spin-off series, including The Bachelorette, Bachelor in Paradise, and Bachelor Pad. |
-| 2 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 3 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
-| 4 | [Elmhurst](http://twitter.com/search?q=Elmhurst) | N/A |
-| 5 | [#FatTuesday](http://twitter.com/search?q=%23FatTuesday) | N/A |
+| 1 | [#WWERaw](http://twitter.com/search?q=%23WWERaw) | #WWERaw is a hashtag used on social media to refer to the professional wrestling show Monday Night Raw, which is broadcast on the USA Network. The show features professional wrestlers from the WWE (World Wrestling Entertainment) organization. |
+| 2 | [#thebachelor](http://twitter.com/search?q=%23thebachelor) | N/A |
+| 3 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 4 | [#FatTuesday](http://twitter.com/search?q=%23FatTuesday) | N/A |
+| 5 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
 | 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 7 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 8 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 9 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
-| 10 | [#paczkiday](http://twitter.com/search?q=%23paczkiday) | N/A |
-| 11 | [Wordle 612 X](http://twitter.com/search?q=Wordle+612+X) | N/A |
-| 12 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 13 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 14 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
-| 15 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
-| 16 | [Kazuya](http://twitter.com/search?q=Kazuya) | N/A |
-| 17 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 7 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 8 | [#MardiGras2023](http://twitter.com/search?q=%23MardiGras2023) | N/A |
+| 9 | [Ben Stein](http://twitter.com/search?q=Ben+Stein) | N/A |
+| 10 | [Good Tuesday](http://twitter.com/search?q=Good+Tuesday) | N/A |
+| 11 | [Priefer](http://twitter.com/search?q=Priefer) | N/A |
+| 12 | [Wordle 612 X](http://twitter.com/search?q=Wordle+612+X) | N/A |
+| 13 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
+| 14 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
+| 15 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 16 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 17 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
 | 18 | [Nina Simone](http://twitter.com/search?q=Nina+Simone) | N/A |
 | 19 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 20 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 20 | [Kazuya](http://twitter.com/search?q=Kazuya) | N/A |
 | 21 | [Zulu](http://twitter.com/search?q=Zulu) | N/A |
-| 22 | [King Cake](http://twitter.com/search?q=King+Cake) | N/A |
-| 23 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 24 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 25 | [McCoy](http://twitter.com/search?q=McCoy) | N/A |
-| 26 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
-| 27 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 28 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 29 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 30 | [Section 230](http://twitter.com/search?q=Section+230) | N/A |
-| 31 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
-| 32 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
-| 33 | [Osteen](http://twitter.com/search?q=Osteen) | N/A |
-| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 35 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
-| 36 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
-| 37 | [lita](http://twitter.com/search?q=lita) | N/A |
-| 38 | [O’Keefe](http://twitter.com/search?q=O%e2%80%99Keefe) | N/A |
-| 39 | [Treasonous](http://twitter.com/search?q=Treasonous) | N/A |
-| 40 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 41 | [dominic fike](http://twitter.com/search?q=dominic+fike) | N/A |
-| 42 | [Omos](http://twitter.com/search?q=Omos) | N/A |
-| 43 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 44 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
-| 45 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 46 | [#tuesdaymotivations](http://twitter.com/search?q=%23tuesdaymotivations) | N/A |
-| 47 | [#TacoTuesday](http://twitter.com/search?q=%23TacoTuesday) | N/A |
-| 48 | [#TuesdayThoughts](http://twitter.com/search?q=%23TuesdayThoughts) | N/A |
-| 49 | [#MardiGras2023](http://twitter.com/search?q=%23MardiGras2023) | N/A |
-| 50 | [#TuesdayFeeling](http://twitter.com/search?q=%23TuesdayFeeling) | N/A |
+| 22 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
+| 23 | [Cataño](http://twitter.com/search?q=Cata%c3%b1o) | N/A |
+| 24 | [Ponce](http://twitter.com/search?q=Ponce) | N/A |
+| 25 | [King Cake](http://twitter.com/search?q=King+Cake) | N/A |
+| 26 | [Section 230](http://twitter.com/search?q=Section+230) | N/A |
+| 27 | [McCoy](http://twitter.com/search?q=McCoy) | N/A |
+| 28 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 29 | [Geraldo](http://twitter.com/search?q=Geraldo) | Geraldo is a Spanish name, derived from the Germanic name Gerald. It is a masculine given name, and it means "ruler of the spear". |
+| 30 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 31 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 32 | [Shifty](http://twitter.com/search?q=Shifty) | N/A |
+| 33 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 34 | [China and Russia](http://twitter.com/search?q=China+and+Russia) | N/A |
+| 35 | [Veritas](http://twitter.com/search?q=Veritas) | N/A |
+| 36 | [Osteen](http://twitter.com/search?q=Osteen) | N/A |
+| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 38 | [Gosar](http://twitter.com/search?q=Gosar) | Gosar is a term used in the Indian language of Gujarati, and it means "son". |
+| 39 | [Okada](http://twitter.com/search?q=Okada) | Okada is a Japanese word meaning "courier" or "delivery person". It is commonly used to refer to delivery workers who use motorcycles or bicycles to deliver goods. |
+| 40 | [Goff](http://twitter.com/search?q=Goff) | Goff is a slang term used to describe someone who is socially awkward or clumsy. It is derived from the acronym "GOFF," which stands for "geeky, odd, funny, and/or freaky." |
+| 41 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
+| 42 | [Meghan Markle](http://twitter.com/search?q=Meghan+Markle) | N/A |
+| 43 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 44 | [O’Keefe](http://twitter.com/search?q=O%e2%80%99Keefe) | N/A |
+| 45 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 46 | [Ray Epps](http://twitter.com/search?q=Ray+Epps) | Ray Epps is a slang term used to describe someone who is overly confident and cocky. It is derived from the character Ray Epps, played by Chris Tucker in the 1995 movie Friday. |
+| 47 | [Treasonous](http://twitter.com/search?q=Treasonous) | N/A |
+| 48 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
+| 49 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 50 | [#paczkiday](http://twitter.com/search?q=%23paczkiday) | N/A |
 
 
 

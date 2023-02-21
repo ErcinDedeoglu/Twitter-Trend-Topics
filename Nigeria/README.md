@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-02-21 13:22:01 UTC`
+📆 Last Updated: `2023-02-21 14:18:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,48 @@ This is top 50 for Nigeria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Road2Victory](http://twitter.com/search?q=%23Road2Victory) | N/A |
-| 2 | [#TinubuInLagos](http://twitter.com/search?q=%23TinubuInLagos) | N/A |
-| 3 | [Aisha Buhari](http://twitter.com/search?q=Aisha+Buhari) | N/A |
-| 4 | [#AtikuOnceSaid](http://twitter.com/search?q=%23AtikuOnceSaid) | N/A |
-| 5 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 6 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 7 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 8 | [Naira Marley](http://twitter.com/search?q=Naira+Marley) | N/A |
-| 9 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 10 | [Acant](http://twitter.com/search?q=Acant) | N/A |
-| 11 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
-| 12 | [KANAGA JNR MAN OF THE SEASON](http://twitter.com/search?q=KANAGA+JNR+MAN+OF+THE+SEASON) | N/A |
-| 13 | [BE LIKE KANAGA JNR](http://twitter.com/search?q=BE+LIKE+KANAGA+JNR) | N/A |
-| 14 | [Daddy GO](http://twitter.com/search?q=Daddy+GO) | N/A |
-| 15 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 16 | [Adeleke Goliath](http://twitter.com/search?q=Adeleke+Goliath) | N/A |
-| 17 | [Rochas Okorocha](http://twitter.com/search?q=Rochas+Okorocha) | N/A |
-| 18 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 19 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 20 | [YEMI CREGX IS ALWAYS RIGHT](http://twitter.com/search?q=YEMI+CREGX+IS+ALWAYS+RIGHT) | N/A |
-| 21 | [Pst Paul](http://twitter.com/search?q=Pst+Paul) | N/A |
-| 22 | [Afrobeats](http://twitter.com/search?q=Afrobeats) | N/A |
-| 23 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
-| 24 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
-| 25 | [Adeboye](http://twitter.com/search?q=Adeboye) | N/A |
-| 26 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 27 | [Molly](http://twitter.com/search?q=Molly) | N/A |
-| 28 | [Pastor Paul](http://twitter.com/search?q=Pastor+Paul) | N/A |
-| 29 | [Awka](http://twitter.com/search?q=Awka) | N/A |
-| 30 | [Sega](http://twitter.com/search?q=Sega) | N/A |
-| 31 | [Osibanjo](http://twitter.com/search?q=Osibanjo) | N/A |
-| 32 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
-| 33 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 34 | [Israelites](http://twitter.com/search?q=Israelites) | N/A |
-| 35 | [pdp - 176,588](http://twitter.com/search?q=pdp+-+176%2c588) | N/A |
-| 36 | [Men of God](http://twitter.com/search?q=Men+of+God) | N/A |
-| 37 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
-| 38 | [#TinubuIsComing](http://twitter.com/search?q=%23TinubuIsComing) | N/A |
-| 39 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
-| 40 | [#Obidatti23](http://twitter.com/search?q=%23Obidatti23) | N/A |
+| 1 | [#TrackYourVoteNaija](http://twitter.com/search?q=%23TrackYourVoteNaija) | N/A |
+| 2 | [#AtikuOnceSaid](http://twitter.com/search?q=%23AtikuOnceSaid) | N/A |
+| 3 | [#TinubuInLagos](http://twitter.com/search?q=%23TinubuInLagos) | N/A |
+| 4 | [#Road2Victory](http://twitter.com/search?q=%23Road2Victory) | N/A |
+| 5 | [Naira Marley](http://twitter.com/search?q=Naira+Marley) | N/A |
+| 6 | [Aisha Buhari](http://twitter.com/search?q=Aisha+Buhari) | N/A |
+| 7 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 8 | [#nationalshutdown](http://twitter.com/search?q=%23nationalshutdown) | N/A |
+| 9 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 10 | [Teslim Balogun Stadium](http://twitter.com/search?q=Teslim+Balogun+Stadium) | N/A |
+| 11 | [congratulations mo](http://twitter.com/search?q=congratulations+mo) | N/A |
+| 12 | [Acant](http://twitter.com/search?q=Acant) | N/A |
+| 13 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 14 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 15 | [Awka](http://twitter.com/search?q=Awka) | N/A |
+| 16 | [BE LIKE KANAGA JNR](http://twitter.com/search?q=BE+LIKE+KANAGA+JNR) | N/A |
+| 17 | [KANAGA JNR MAN OF THE SEASON](http://twitter.com/search?q=KANAGA+JNR+MAN+OF+THE+SEASON) | N/A |
+| 18 | [Adeleke Goliath](http://twitter.com/search?q=Adeleke+Goliath) | N/A |
+| 19 | [Daddy GO](http://twitter.com/search?q=Daddy+GO) | N/A |
+| 20 | [PCOS](http://twitter.com/search?q=PCOS) | N/A |
+| 21 | [Rochas Okorocha](http://twitter.com/search?q=Rochas+Okorocha) | N/A |
+| 22 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 23 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 24 | [Pst Paul](http://twitter.com/search?q=Pst+Paul) | N/A |
+| 25 | [Afrobeats](http://twitter.com/search?q=Afrobeats) | N/A |
+| 26 | [Mr Bayo](http://twitter.com/search?q=Mr+Bayo) | N/A |
+| 27 | [CORNfused](http://twitter.com/search?q=CORNfused) | N/A |
+| 28 | [Osinbajo](http://twitter.com/search?q=Osinbajo) | N/A |
+| 29 | [Adeboye](http://twitter.com/search?q=Adeboye) | N/A |
+| 30 | [Molly](http://twitter.com/search?q=Molly) | N/A |
+| 31 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 32 | [Pastor Adefarasin](http://twitter.com/search?q=Pastor+Adefarasin) | N/A |
+| 33 | [SEGA](http://twitter.com/search?q=SEGA) | N/A |
+| 34 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
+| 35 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
+| 36 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
+| 37 | [#Obidatti23](http://twitter.com/search?q=%23Obidatti23) | N/A |
+| 38 | [#Russia](http://twitter.com/search?q=%23Russia) | N/A |
+| 39 | [#TinubuIsComing](http://twitter.com/search?q=%23TinubuIsComing) | N/A |
+| 40 | [#BAT2023](http://twitter.com/search?q=%23BAT2023) | N/A |
 | 41 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
 | 42 | [#election2023](http://twitter.com/search?q=%23election2023) | N/A |
-| 43 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 44 | [#INEC](http://twitter.com/search?q=%23INEC) | N/A |
 
 
 

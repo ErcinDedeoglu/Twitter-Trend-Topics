@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naucalpan de Juárez
 
-📆 Last Updated: `2023-02-21 13:21:11 UTC`
+📆 Last Updated: `2023-02-21 14:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
-| 2 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 3 | [#FelizLunes](http://twitter.com/search?q=%23FelizLunes) | #FelizLunes is a Spanish hashtag that translates to "Happy Monday" in English. It is used to express enthusiasm for the start of a new week. |
-| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 2 | [#KornoDespabilado](http://twitter.com/search?q=%23KornoDespabilado) | N/A |
+| 3 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 4 | [#TimoMañanero](http://twitter.com/search?q=%23TimoMa%c3%b1anero) | N/A |
 | 5 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
 | 6 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
-| 7 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
-| 8 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 7 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 8 | [Tamaulipas](http://twitter.com/search?q=Tamaulipas) | N/A |
 | 9 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 10 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
-| 11 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 15 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
-| 16 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 17 | [AICM](http://twitter.com/search?q=AICM) | N/A |
-| 18 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 19 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 20 | [Chef Betty](http://twitter.com/search?q=Chef+Betty) | N/A |
-| 21 | [Cruz Roja Mexicana](http://twitter.com/search?q=Cruz+Roja+Mexicana) | N/A |
+| 10 | [Excelente Martes](http://twitter.com/search?q=Excelente+Martes) | N/A |
+| 11 | [Adrián Marcelo](http://twitter.com/search?q=Adri%c3%a1n+Marcelo) | N/A |
+| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 13 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 14 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 16 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 17 | [Cruz Roja Mexicana](http://twitter.com/search?q=Cruz+Roja+Mexicana) | N/A |
+| 18 | [AICM](http://twitter.com/search?q=AICM) | N/A |
+| 19 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 20 | [Cuauhtémoc](http://twitter.com/search?q=Cuauht%c3%a9moc) | Cuauhtémoc is a Nahuatl name meaning "Descending Eagle". It is the name of the last Aztec emperor, who ruled from 1520 to 1521. |
+| 21 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
 | 22 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 23 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 23 | [Chef Betty](http://twitter.com/search?q=Chef+Betty) | N/A |
 | 24 | [Kurt Cobain](http://twitter.com/search?q=Kurt+Cobain) | N/A |
-| 25 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
-| 26 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 27 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 28 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 29 | [Andrea Bocelli](http://twitter.com/search?q=Andrea+Bocelli) | N/A |
-| 30 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 31 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
-| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 33 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
-| 34 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
-| 35 | [pantera dorada](http://twitter.com/search?q=pantera+dorada) | N/A |
-| 36 | [hoy 20](http://twitter.com/search?q=hoy+20) | N/A |
-| 37 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 38 | [Catalina Creel](http://twitter.com/search?q=Catalina+Creel) | N/A |
-| 39 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
-| 40 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 41 | [josé ramón gómez leal](http://twitter.com/search?q=jos%c3%a9+ram%c3%b3n+g%c3%b3mez+leal) | N/A |
-| 42 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 43 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
-| 44 | [Karely Ruiz](http://twitter.com/search?q=Karely+Ruiz) | N/A |
-| 45 | [FAN ID](http://twitter.com/search?q=FAN+ID) | N/A |
-| 46 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 47 | [The Mars Volta](http://twitter.com/search?q=The+Mars+Volta) | N/A |
-| 48 | [Crocs](http://twitter.com/search?q=Crocs) | N/A |
+| 25 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
+| 26 | [Ovidio Guzmán](http://twitter.com/search?q=Ovidio+Guzm%c3%a1n) | N/A |
+| 27 | [La Suprema Corte](http://twitter.com/search?q=La+Suprema+Corte) | N/A |
+| 28 | [Santa María la Ribera](http://twitter.com/search?q=Santa+Mar%c3%ada+la+Ribera) | N/A |
+| 29 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 30 | [Cabeza de Vaca](http://twitter.com/search?q=Cabeza+de+Vaca) | N/A |
+| 31 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 32 | [Martes 21](http://twitter.com/search?q=Martes+21) | N/A |
+| 33 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 35 | [Dos Bocas](http://twitter.com/search?q=Dos+Bocas) | N/A |
+| 36 | [Madeleine McCann](http://twitter.com/search?q=Madeleine+McCann) | N/A |
+| 37 | [Vendido](http://twitter.com/search?q=Vendido) | N/A |
+| 38 | [Joel](http://twitter.com/search?q=Joel) | Joel is a masculine given name of Hebrew origin, meaning "Yahweh is God". It is one of the most popular names in the United States, ranking in the top 100 names for boys since the Social Security Administration began tracking naming trends in 1880. |
+| 39 | [hoy 20](http://twitter.com/search?q=hoy+20) | N/A |
+| 40 | [pantera dorada](http://twitter.com/search?q=pantera+dorada) | N/A |
+| 41 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 42 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
+| 43 | [josé ramón gómez leal](http://twitter.com/search?q=jos%c3%a9+ram%c3%b3n+g%c3%b3mez+leal) | N/A |
+| 44 | [Catalina Creel](http://twitter.com/search?q=Catalina+Creel) | N/A |
+| 45 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 46 | [Zócalo](http://twitter.com/search?q=Z%c3%b3calo) | N/A |
+| 47 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 48 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 
 
 

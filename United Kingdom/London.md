@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For London
 
-📆 Last Updated: `2023-02-21 13:21:08 UTC`
+📆 Last Updated: `2023-02-21 14:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 2 | [#CharityTuesday](http://twitter.com/search?q=%23CharityTuesday) | N/A |
-| 3 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 4 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
-| 5 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 6 | [The West](http://twitter.com/search?q=The+West) | N/A |
-| 7 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
-| 8 | [Gareth](http://twitter.com/search?q=Gareth) | N/A |
-| 9 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 10 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 11 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
-| 12 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 15 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
-| 16 | [#NFU23](http://twitter.com/search?q=%23NFU23) | N/A |
-| 17 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 18 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 19 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 20 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
-| 21 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
-| 22 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 23 | [West Cork](http://twitter.com/search?q=West+Cork) | N/A |
-| 24 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
-| 25 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 26 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 27 | [Natural History Museum](http://twitter.com/search?q=Natural+History+Museum) | N/A |
-| 28 | [Crete](http://twitter.com/search?q=Crete) | N/A |
+| 1 | [#thicktrunktuesday](http://twitter.com/search?q=%23thicktrunktuesday) | N/A |
+| 2 | [Northern Ireland](http://twitter.com/search?q=Northern+Ireland) | N/A |
+| 3 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 4 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
+| 5 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 6 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 7 | [#shrovetuesday](http://twitter.com/search?q=%23shrovetuesday) | N/A |
+| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 9 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 10 | [Elneny](http://twitter.com/search?q=Elneny) | Elneny is a surname of Egyptian origin. It is derived from the Arabic word "Al-Nun", which means "the pious one". In English, it can be translated to mean "the devout one". |
+| 11 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 12 | [#MHNursesDay](http://twitter.com/search?q=%23MHNursesDay) | N/A |
+| 13 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 14 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 15 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 17 | [Lemon](http://twitter.com/search?q=Lemon) | N/A |
+| 18 | [Humza](http://twitter.com/search?q=Humza) | N/A |
+| 19 | [Ken Sema](http://twitter.com/search?q=Ken+Sema) | N/A |
+| 20 | [West Cork](http://twitter.com/search?q=West+Cork) | N/A |
+| 21 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
+| 22 | [Suella Braverman](http://twitter.com/search?q=Suella+Braverman) | N/A |
+| 23 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 24 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 25 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 26 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
+| 27 | [Crete](http://twitter.com/search?q=Crete) | N/A |
+| 28 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
 | 29 | [Daily Quordle 393](http://twitter.com/search?q=Daily+Quordle+393) | N/A |
-| 30 | [Watford](http://twitter.com/search?q=Watford) | N/A |
-| 31 | [Call of Duty](http://twitter.com/search?q=Call+of+Duty) | N/A |
-| 32 | [Tim Farron](http://twitter.com/search?q=Tim+Farron) | N/A |
-| 33 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
-| 34 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 35 | [Religion](http://twitter.com/search?q=Religion) | N/A |
-| 36 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 30 | [Natural History Museum](http://twitter.com/search?q=Natural+History+Museum) | N/A |
+| 31 | [religion](http://twitter.com/search?q=religion) | N/A |
+| 32 | [Dunstable](http://twitter.com/search?q=Dunstable) | N/A |
+| 33 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 34 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
+| 35 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 36 | [The West](http://twitter.com/search?q=The+West) | N/A |
 | 37 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 38 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 39 | [Sugar](http://twitter.com/search?q=Sugar) | N/A |
-| 40 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 41 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
-| 42 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 38 | [Beckham](http://twitter.com/search?q=Beckham) | N/A |
+| 39 | [Saul](http://twitter.com/search?q=Saul) | N/A |
+| 40 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 41 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 42 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
 | 43 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 44 | [Junior](http://twitter.com/search?q=Junior) | Junior is a title used to distinguish a son with the same name as his father. It is commonly abbreviated as Jr. or II (for "the second"). |
-| 45 | [Bulley](http://twitter.com/search?q=Bulley) | N/A |
-| 46 | [#MHNursesDay](http://twitter.com/search?q=%23MHNursesDay) | N/A |
-| 47 | [#swanalexakettle](http://twitter.com/search?q=%23swanalexakettle) | N/A |
-| 48 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 49 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
-| 50 | [#MotherLanguageDay](http://twitter.com/search?q=%23MotherLanguageDay) | N/A |
+| 44 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 45 | [The ERG](http://twitter.com/search?q=The+ERG) | N/A |
+| 46 | [#loosewomen](http://twitter.com/search?q=%23loosewomen) | N/A |
+| 47 | [#tuesdayvibe](http://twitter.com/search?q=%23tuesdayvibe) | N/A |
+| 48 | [#NFU23](http://twitter.com/search?q=%23NFU23) | N/A |
+| 49 | [#SwanAlexaKettle](http://twitter.com/search?q=%23SwanAlexaKettle) | N/A |
 
 
 

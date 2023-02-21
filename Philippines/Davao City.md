@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-21 13:21:33 UTC`
+📆 Last Updated: `2023-02-21 14:17:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,43 +17,51 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
 | 2 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 3 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 4 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
-| 5 | [#FelipOnSoundtrip_DrinkSmoke](http://twitter.com/search?q=%23FelipOnSoundtrip_DrinkSmoke) | N/A |
+| 3 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 4 | [#DLNextTarget](http://twitter.com/search?q=%23DLNextTarget) | N/A |
+| 5 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
 | 6 | [#MOASelcaDay](http://twitter.com/search?q=%23MOASelcaDay) | N/A |
-| 7 | [#MariaClaraAtIbarra](http://twitter.com/search?q=%23MariaClaraAtIbarra) | N/A |
-| 8 | [VIVOREE MATAPANG THIS FRI](http://twitter.com/search?q=VIVOREE+MATAPANG+THIS+FRI) | N/A |
-| 9 | [Chery](http://twitter.com/search?q=Chery) | N/A |
-| 10 | [Arado](http://twitter.com/search?q=Arado) | N/A |
-| 11 | [mendrez](http://twitter.com/search?q=mendrez) | N/A |
-| 12 | [GQ KOREA X JEONGYEON](http://twitter.com/search?q=GQ+KOREA+X+JEONGYEON) | N/A |
-| 13 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
-| 14 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
-| 15 | [Crisostomo](http://twitter.com/search?q=Crisostomo) | N/A |
-| 16 | [CLOSER MV](http://twitter.com/search?q=CLOSER+MV) | N/A |
-| 17 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
-| 18 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 19 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 20 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 21 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 22 | [Akari](http://twitter.com/search?q=Akari) | N/A |
-| 23 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
-| 24 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 25 | [Kathryn](http://twitter.com/search?q=Kathryn) | N/A |
-| 26 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
-| 27 | [#FPJBQSupremo](http://twitter.com/search?q=%23FPJBQSupremo) | N/A |
-| 28 | [#DreamChasersTuesDate](http://twitter.com/search?q=%23DreamChasersTuesDate) | N/A |
-| 29 | [#MCGIFaithHopeLove](http://twitter.com/search?q=%23MCGIFaithHopeLove) | N/A |
-| 30 | [#DLNextTarget](http://twitter.com/search?q=%23DLNextTarget) | N/A |
-| 31 | [#askBarbie](http://twitter.com/search?q=%23askBarbie) | N/A |
-| 32 | [#physical100](http://twitter.com/search?q=%23physical100) | N/A |
-| 33 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
-| 34 | [#TeddyBear1stWin](http://twitter.com/search?q=%23TeddyBear1stWin) | N/A |
-| 35 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 36 | [#2gether3years](http://twitter.com/search?q=%232gether3years) | N/A |
-| 37 | [#JAHiking](http://twitter.com/search?q=%23JAHiking) | N/A |
-| 38 | [#BOYCOTT_CARATBONGV3](http://twitter.com/search?q=%23BOYCOTT_CARATBONGV3) | N/A |
-| 39 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
+| 7 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 8 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
+| 9 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
+| 10 | [#IgniteOurFight](http://twitter.com/search?q=%23IgniteOurFight) | N/A |
+| 11 | [woozi](http://twitter.com/search?q=woozi) | N/A |
+| 12 | [VIVOREE MATAPANG THIS FRI](http://twitter.com/search?q=VIVOREE+MATAPANG+THIS+FRI) | N/A |
+| 13 | [Chery](http://twitter.com/search?q=Chery) | N/A |
+| 14 | [Arado](http://twitter.com/search?q=Arado) | N/A |
+| 15 | [GQ KOREA X JEONGYEON](http://twitter.com/search?q=GQ+KOREA+X+JEONGYEON) | N/A |
+| 16 | [Dennis Trillo](http://twitter.com/search?q=Dennis+Trillo) | N/A |
+| 17 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
+| 18 | [JOSH L PIEnomenal VOCAL](http://twitter.com/search?q=JOSH+L+PIEnomenal+VOCAL) | N/A |
+| 19 | [Simoun](http://twitter.com/search?q=Simoun) | N/A |
+| 20 | [wooyoung](http://twitter.com/search?q=wooyoung) | Wooyoung is a Korean given name, derived from the Chinese characters for “protection” and “eternal”. It is usually given to boys and can also be written as Wu-Young or Woo-Young. The English meaning of Wooyoung is “eternal protection”. |
+| 21 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 22 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 23 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 24 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 25 | [Akari](http://twitter.com/search?q=Akari) | N/A |
+| 26 | [RCEP](http://twitter.com/search?q=RCEP) | N/A |
+| 27 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 28 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
+| 29 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 30 | [KATH](http://twitter.com/search?q=KATH) | N/A |
+| 31 | [#MariaClaraAtIbarra](http://twitter.com/search?q=%23MariaClaraAtIbarra) | N/A |
+| 32 | [#MOASD](http://twitter.com/search?q=%23MOASD) | N/A |
+| 33 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
+| 34 | [#FelipOnSoundtrip_DrinkSmoke](http://twitter.com/search?q=%23FelipOnSoundtrip_DrinkSmoke) | N/A |
+| 35 | [#DreamChasersTuesDate](http://twitter.com/search?q=%23DreamChasersTuesDate) | N/A |
+| 36 | [#FPJBQSupremo](http://twitter.com/search?q=%23FPJBQSupremo) | N/A |
+| 37 | [#LuvIsHome](http://twitter.com/search?q=%23LuvIsHome) | N/A |
+| 38 | [#MCGIFaithHopeLove](http://twitter.com/search?q=%23MCGIFaithHopeLove) | N/A |
+| 39 | [#physical100](http://twitter.com/search?q=%23physical100) | N/A |
+| 40 | [#SOOBIN](http://twitter.com/search?q=%23SOOBIN) | N/A |
+| 41 | [#DreamMaker_JoshL](http://twitter.com/search?q=%23DreamMaker_JoshL) | N/A |
+| 42 | [#askBarbie](http://twitter.com/search?q=%23askBarbie) | N/A |
+| 43 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 44 | [#TeddyBear1stWin](http://twitter.com/search?q=%23TeddyBear1stWin) | N/A |
+| 45 | [#2gether3years](http://twitter.com/search?q=%232gether3years) | N/A |
+| 46 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 47 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
 
 
 

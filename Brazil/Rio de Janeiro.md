@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-21 13:21:15 UTC`
+📆 Last Updated: `2023-02-21 14:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 2 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
-| 3 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 4 | [Estandarte de Ouro](http://twitter.com/search?q=Estandarte+de+Ouro) | N/A |
-| 5 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 6 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
-| 7 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
-| 8 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
+| 2 | [#FlakesNoFortnite](http://twitter.com/search?q=%23FlakesNoFortnite) | N/A |
+| 3 | [O B DE LGBT](http://twitter.com/search?q=O+B+DE+LGBT) | N/A |
+| 4 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 5 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
+| 6 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
 | 9 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 10 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 11 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
-| 12 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
-| 13 | [Fervo da Lud](http://twitter.com/search?q=Fervo+da+Lud) | N/A |
-| 14 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 15 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 10 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 11 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
+| 12 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 13 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 14 | [Estandarte de Ouro](http://twitter.com/search?q=Estandarte+de+Ouro) | N/A |
+| 15 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
 | 16 | [Zé Felipe](http://twitter.com/search?q=Z%c3%a9+Felipe) | N/A |
-| 17 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 18 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
-| 19 | [Ocidente](http://twitter.com/search?q=Ocidente) | N/A |
-| 20 | [Liverpool x Real Madrid](http://twitter.com/search?q=Liverpool+x+Real+Madrid) | N/A |
-| 21 | [Paulo Barros](http://twitter.com/search?q=Paulo+Barros) | N/A |
-| 22 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
-| 23 | [Rouanet](http://twitter.com/search?q=Rouanet) | N/A |
-| 24 | [beto carrero](http://twitter.com/search?q=beto+carrero) | N/A |
-| 25 | [#BuildJakapan](http://twitter.com/search?q=%23BuildJakapan) | N/A |
-| 26 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 27 | [Parintins](http://twitter.com/search?q=Parintins) | N/A |
-| 28 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
-| 29 | [Leandro Vieira](http://twitter.com/search?q=Leandro+Vieira) | N/A |
-| 30 | [Nintendo Switch](http://twitter.com/search?q=Nintendo+Switch) | N/A |
-| 31 | [litoral paulista](http://twitter.com/search?q=litoral+paulista) | N/A |
-| 32 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 33 | [São Jorge](http://twitter.com/search?q=S%c3%a3o+Jorge) | N/A |
-| 34 | [mIRC](http://twitter.com/search?q=mIRC) | N/A |
-| 35 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 36 | [Neguinho](http://twitter.com/search?q=Neguinho) | N/A |
-| 37 | [Emicida](http://twitter.com/search?q=Emicida) | N/A |
-| 38 | [Kaká](http://twitter.com/search?q=Kak%c3%a1) | Kaká is a nickname for the Brazilian soccer player Ricardo Izecson dos Santos Leite, who is commonly known as Kaká. The name is derived from the Portuguese pronunciation of Ricardo, which is "ka-ka-shu". In English, it can be translated to mean "Ricardo". |
-| 39 | [Josias](http://twitter.com/search?q=Josias) | N/A |
-| 40 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
-| 41 | [Flay](http://twitter.com/search?q=Flay) | N/A |
-| 42 | [Maiara e Maraisa](http://twitter.com/search?q=Maiara+e+Maraisa) | N/A |
-| 43 | [Sabrina Sato](http://twitter.com/search?q=Sabrina+Sato) | N/A |
-| 44 | [Campeã](http://twitter.com/search?q=Campe%c3%a3) | N/A |
-| 45 | [Lúcifer](http://twitter.com/search?q=L%c3%bacifer) | N/A |
-| 46 | [Mocidade](http://twitter.com/search?q=Mocidade) | N/A |
-| 47 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 48 | [Demônio](http://twitter.com/search?q=Dem%c3%b4nio) | N/A |
-| 49 | [Impecável](http://twitter.com/search?q=Impec%c3%a1vel) | N/A |
+| 17 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
+| 18 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 19 | [Mindhunter](http://twitter.com/search?q=Mindhunter) | N/A |
+| 20 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
+| 21 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
+| 22 | [Ocidente](http://twitter.com/search?q=Ocidente) | N/A |
+| 23 | [Fervo da Lud](http://twitter.com/search?q=Fervo+da+Lud) | N/A |
+| 24 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
+| 25 | [Daniel Alves](http://twitter.com/search?q=Daniel+Alves) | Daniel Alves is a Brazilian professional footballer who plays as a right-back for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous awards and accolades throughout his career. |
+| 26 | [Ludmilla](http://twitter.com/search?q=Ludmilla) | Ludmilla is a female given name of Slavic origin. It is derived from the Old Slavic name Ludmila, which means "favored by the people". |
+| 27 | [Rouanet](http://twitter.com/search?q=Rouanet) | N/A |
+| 28 | [Paulo Barros](http://twitter.com/search?q=Paulo+Barros) | N/A |
+| 29 | [HOJE TEM FLAMENGO](http://twitter.com/search?q=HOJE+TEM+FLAMENGO) | "HOJE TEM FLAMENGO" is a phrase in Portuguese that translates to "Flamengo plays today" in English. It is used to express excitement and enthusiasm for a soccer match involving the Brazilian team Flamengo. |
+| 30 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 31 | [beto carrero](http://twitter.com/search?q=beto+carrero) | N/A |
+| 32 | [Flay](http://twitter.com/search?q=Flay) | N/A |
+| 33 | [Parintins](http://twitter.com/search?q=Parintins) | N/A |
+| 34 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 35 | [Maiara e Maraisa](http://twitter.com/search?q=Maiara+e+Maraisa) | N/A |
+| 36 | [Zé Vaqueiro](http://twitter.com/search?q=Z%c3%a9+Vaqueiro) | N/A |
+| 37 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 38 | [lito](http://twitter.com/search?q=lito) | N/A |
+| 39 | [Beira Mar](http://twitter.com/search?q=Beira+Mar) | N/A |
+| 40 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
+| 41 | [Josias](http://twitter.com/search?q=Josias) | N/A |
+| 42 | [Neguinho](http://twitter.com/search?q=Neguinho) | N/A |
+| 43 | [Kaká](http://twitter.com/search?q=Kak%c3%a1) | Kaká is a nickname for the Brazilian soccer player Ricardo Izecson dos Santos Leite, who is commonly known as Kaká. The name is derived from the Portuguese pronunciation of Ricardo, which is "ka-ka-shu". In English, it can be translated to mean "Ricardo". |
+| 44 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 45 | [mIRC](http://twitter.com/search?q=mIRC) | N/A |
+| 46 | [Lúcifer](http://twitter.com/search?q=L%c3%bacifer) | N/A |
+| 47 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 48 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 49 | [Nintendo Switch](http://twitter.com/search?q=Nintendo+Switch) | N/A |
+| 50 | [Cristão](http://twitter.com/search?q=Crist%c3%a3o) | N/A |
 
 
 

@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-21 13:21:03 UTC`
+📆 Last Updated: `2023-02-21 14:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#星降る夜に](http://twitter.com/search?q=%23%e6%98%9f%e9%99%8d%e3%82%8b%e5%a4%9c%e3%81%ab) | "#星降る夜に" is a hashtag in Japanese that translates to "On a night when stars fall". It is often used to describe a romantic or magical evening. |
-| 2 | [#宮田ニキ生](http://twitter.com/search?q=%23%e5%ae%ae%e7%94%b0%e3%83%8b%e3%82%ad%e7%94%9f) | N/A |
-| 3 | [#MutoFinal](http://twitter.com/search?q=%23MutoFinal) | N/A |
-| 4 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 5 | [武藤敬司](http://twitter.com/search?q=%e6%ad%a6%e8%97%a4%e6%95%ac%e5%8f%b8) | 武藤敬司 is a Japanese name. It is composed of two characters: 武 (Take) and 藤 (Fuji). The meaning of the name is "respectful and noble". |
-| 6 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
-| 7 | [宮田くん](http://twitter.com/search?q=%e5%ae%ae%e7%94%b0%e3%81%8f%e3%82%93) | 宮田くん is a Japanese nickname for someone whose family name is Miyata. It is a term of endearment, similar to calling someone "Miyata-kun" in English. |
-| 8 | [タリョラ](http://twitter.com/search?q=%e3%82%bf%e3%83%aa%e3%83%a7%e3%83%a9) | タリョラ is a Japanese word that means "a lot of trouble". It is often used to describe a situation that is difficult or complicated. |
-| 9 | [武藤さん](http://twitter.com/search?q=%e6%ad%a6%e8%97%a4%e3%81%95%e3%82%93) | N/A |
-| 10 | [ムロツヨシ](http://twitter.com/search?q=%e3%83%a0%e3%83%ad%e3%83%84%e3%83%a8%e3%82%b7) | ムロツヨシ is a Japanese name. It is composed of two kanji characters: "守" (mamoru) meaning "protect" and "良" (yoshi) meaning "good". In English, the name can be translated to mean "Protector of Good". |
+| 1 | [#夕暮れに手をつなぐ](http://twitter.com/search?q=%23%e5%a4%95%e6%9a%ae%e3%82%8c%e3%81%ab%e6%89%8b%e3%82%92%e3%81%a4%e3%81%aa%e3%81%90) | "#夕暮れに手をつなぐ" is a Japanese hashtag that translates to "Holding Hands at Sunset". It is often used to describe a romantic moment shared between two people. |
+| 2 | [#大奥リアタイ](http://twitter.com/search?q=%23%e5%a4%a7%e5%a5%a5%e3%83%aa%e3%82%a2%e3%82%bf%e3%82%a4) | #大奥リアタイ is a hashtag used on social media in Japan to refer to the popular period drama series, “Ooku: The Inner Chambers”. The hashtag translates to “Ooku Re-take”, referring to the show's re-airing on television. |
+| 3 | [#แมวน่ารักจนใจเจบ](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%a1%e0%b8%a7%e0%b8%99%e0%b9%88%e0%b8%b2%e0%b8%a3%e0%b8%b1%e0%b8%81%e0%b8%88%e0%b8%99%e0%b9%83%e0%b8%88%e0%b9%80%e0%b8%88%e0%b8%9a) | N/A |
+| 4 | [#星降る夜に](http://twitter.com/search?q=%23%e6%98%9f%e9%99%8d%e3%82%8b%e5%a4%9c%e3%81%ab) | "#星降る夜に" is a hashtag in Japanese that translates to "On a night when stars fall". It is often used to describe a romantic or magical evening. |
+| 5 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
+| 6 | [宮田くん](http://twitter.com/search?q=%e5%ae%ae%e7%94%b0%e3%81%8f%e3%82%93) | 宮田くん is a Japanese nickname for someone whose family name is Miyata. It is a term of endearment, similar to calling someone "Miyata-kun" in English. |
+| 7 | [タリョラ](http://twitter.com/search?q=%e3%82%bf%e3%83%aa%e3%83%a7%e3%83%a9) | タリョラ is a Japanese word that means "a lot of trouble". It is often used to describe a situation that is difficult or complicated. |
+| 8 | [武藤敬司](http://twitter.com/search?q=%e6%ad%a6%e8%97%a4%e6%95%ac%e5%8f%b8) | 武藤敬司 is a Japanese name. It is composed of two characters: 武 (Take) and 藤 (Fuji). The meaning of the name is "respectful and noble". |
+| 9 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
+| 10 | [حسين الشحات](http://twitter.com/search?q=%d8%ad%d8%b3%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%ad%d8%a7%d8%aa) | حسين الشحات is an Arabic phrase that translates to "Hussein of the Lions". It is a proverb that is used to refer to someone who is brave and courageous. |
 | 11 | [プロレス](http://twitter.com/search?q=%e3%83%97%e3%83%ad%e3%83%ac%e3%82%b9) | プロレス (pronounced "puroresu") is a Japanese term for professional wrestling. It is a form of entertainment that combines athletics and theatrical performance. It is often characterized by colorful characters, over-the-top storylines, and physical stunts. |
-| 12 | [ムロさん](http://twitter.com/search?q=%e3%83%a0%e3%83%ad%e3%81%95%e3%82%93) | N/A |
-| 13 | [蝶野さん](http://twitter.com/search?q=%e8%9d%b6%e9%87%8e%e3%81%95%e3%82%93) | N/A |
-| 14 | [からくり時計](http://twitter.com/search?q=%e3%81%8b%e3%82%89%e3%81%8f%e3%82%8a%e6%99%82%e8%a8%88) | N/A |
-| 15 | [シャワーヘッド](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%af%e3%83%bc%e3%83%98%e3%83%83%e3%83%89) | N/A |
-| 16 | [エクシーズフェス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
-| 17 | [デート代](http://twitter.com/search?q=%e3%83%87%e3%83%bc%e3%83%88%e4%bb%a3) | N/A |
-| 18 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 19 | [タイガー服部](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc%e6%9c%8d%e9%83%a8) | N/A |
-| 20 | [武藤選手](http://twitter.com/search?q=%e6%ad%a6%e8%97%a4%e9%81%b8%e6%89%8b) | N/A |
-| 21 | [同人誌の値段](http://twitter.com/search?q=%e5%90%8c%e4%ba%ba%e8%aa%8c%e3%81%ae%e5%80%a4%e6%ae%b5) | N/A |
-| 22 | [数珠丸さん](http://twitter.com/search?q=%e6%95%b0%e7%8f%a0%e4%b8%b8%e3%81%95%e3%82%93) | N/A |
-| 23 | [音也くん](http://twitter.com/search?q=%e9%9f%b3%e4%b9%9f%e3%81%8f%e3%82%93) | N/A |
-| 24 | [闘魂三銃士](http://twitter.com/search?q=%e9%97%98%e9%ad%82%e4%b8%89%e9%8a%83%e5%a3%ab) | N/A |
-| 25 | [蝶野正洋](http://twitter.com/search?q=%e8%9d%b6%e9%87%8e%e6%ad%a3%e6%b4%8b) | N/A |
-| 26 | [WELCOME GULF KANAWUT](http://twitter.com/search?q=WELCOME+GULF+KANAWUT) | N/A |
-| 27 | [ジェッパ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%83%91) | N/A |
-| 28 | [レコーディング](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
-| 29 | [武藤対蝶野](http://twitter.com/search?q=%e6%ad%a6%e8%97%a4%e5%af%be%e8%9d%b6%e9%87%8e) | N/A |
-| 30 | [シャニロマ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%8b%e3%83%ad%e3%83%9e) | N/A |
-| 31 | [上野千鶴子](http://twitter.com/search?q=%e4%b8%8a%e9%87%8e%e5%8d%83%e9%b6%b4%e5%ad%90) | N/A |
-| 32 | [ダイキュリーアイス](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%bc%e3%82%a2%e3%82%a4%e3%82%b9) | N/A |
-| 33 | [Aisha Buhari](http://twitter.com/search?q=Aisha+Buhari) | N/A |
-| 34 | [AtoZ](http://twitter.com/search?q=AtoZ) | N/A |
-| 35 | [扇風機おばさん](http://twitter.com/search?q=%e6%89%87%e9%a2%a8%e6%a9%9f%e3%81%8a%e3%81%b0%e3%81%95%e3%82%93) | N/A |
-| 36 | [スタアワ](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%82%a2%e3%83%af) | N/A |
-| 37 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 38 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 39 | [宮田さん](http://twitter.com/search?q=%e5%ae%ae%e7%94%b0%e3%81%95%e3%82%93) | N/A |
-| 40 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 41 | [キスマイの曲](http://twitter.com/search?q=%e3%82%ad%e3%82%b9%e3%83%9e%e3%82%a4%e3%81%ae%e6%9b%b2) | N/A |
-| 42 | [タルバン](http://twitter.com/search?q=%e3%82%bf%e3%83%ab%e3%83%90%e3%83%b3) | N/A |
-| 43 | [Luv Bias](http://twitter.com/search?q=Luv+Bias) | N/A |
-| 44 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 45 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 46 | [音也とコラボ](http://twitter.com/search?q=%e9%9f%b3%e4%b9%9f%e3%81%a8%e3%82%b3%e3%83%a9%e3%83%9c) | N/A |
-| 47 | [てらしー](http://twitter.com/search?q=%e3%81%a6%e3%82%89%e3%81%97%e3%83%bc) | N/A |
-| 48 | [絶望パスタ](http://twitter.com/search?q=%e7%b5%b6%e6%9c%9b%e3%83%91%e3%82%b9%e3%82%bf) | N/A |
-| 49 | [トシヤとオトヤ](http://twitter.com/search?q=%e3%83%88%e3%82%b7%e3%83%a4%e3%81%a8%e3%82%aa%e3%83%88%e3%83%a4) | N/A |
-| 50 | [トーピード](http://twitter.com/search?q=%e3%83%88%e3%83%bc%e3%83%94%e3%83%bc%e3%83%89) | N/A |
+| 12 | [武藤さん](http://twitter.com/search?q=%e6%ad%a6%e8%97%a4%e3%81%95%e3%82%93) | N/A |
+| 13 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
+| 14 | [デート代](http://twitter.com/search?q=%e3%83%87%e3%83%bc%e3%83%88%e4%bb%a3) | N/A |
+| 15 | [音也くん](http://twitter.com/search?q=%e9%9f%b3%e4%b9%9f%e3%81%8f%e3%82%93) | N/A |
+| 16 | [右衛門佐](http://twitter.com/search?q=%e5%8f%b3%e8%a1%9b%e9%96%80%e4%bd%90) | N/A |
+| 17 | [ムロさん](http://twitter.com/search?q=%e3%83%a0%e3%83%ad%e3%81%95%e3%82%93) | N/A |
+| 18 | [Bryan Domani](http://twitter.com/search?q=Bryan+Domani) | N/A |
+| 19 | [ムロツヨシ](http://twitter.com/search?q=%e3%83%a0%e3%83%ad%e3%83%84%e3%83%a8%e3%82%b7) | ムロツヨシ is a Japanese name. It is composed of two kanji characters: "守" (mamoru) meaning "protect" and "良" (yoshi) meaning "good". In English, the name can be translated to mean "Protector of Good". |
+| 20 | [マンボウ](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%83%9c%e3%82%a6) | マンボウ (manbou) is a type of fish found in Japan. It is a species of sea bass and is commonly used in Japanese cuisine. In English, it is known as the Japanese Seabass. |
+| 21 | [キスマイ](http://twitter.com/search?q=%e3%82%ad%e3%82%b9%e3%83%9e%e3%82%a4) | キスマイ (Kisumai) is a Japanese idol group formed in 2011. The group consists of six members and is managed by Johnny & Associates. The name of the group is a combination of the words "Kiss" and "My". In English, it can be translated to mean "My Kiss". |
+| 22 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
+| 23 | [蝶野さん](http://twitter.com/search?q=%e8%9d%b6%e9%87%8e%e3%81%95%e3%82%93) | N/A |
+| 24 | [チームテキーラ](http://twitter.com/search?q=%e3%83%81%e3%83%bc%e3%83%a0%e3%83%86%e3%82%ad%e3%83%bc%e3%83%a9) | N/A |
+| 25 | [エクシーズフェス](http://twitter.com/search?q=%e3%82%a8%e3%82%af%e3%82%b7%e3%83%bc%e3%82%ba%e3%83%95%e3%82%a7%e3%82%b9) | N/A |
+| 26 | [引退試合](http://twitter.com/search?q=%e5%bc%95%e9%80%80%e8%a9%a6%e5%90%88) | N/A |
+| 27 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 28 | [ダイキュリーアイス](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%82%ad%e3%83%a5%e3%83%aa%e3%83%bc%e3%82%a2%e3%82%a4%e3%82%b9) | N/A |
+| 29 | [シャニロマ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%8b%e3%83%ad%e3%83%9e) | N/A |
+| 30 | [チッケム](http://twitter.com/search?q=%e3%83%81%e3%83%83%e3%82%b1%e3%83%a0) | N/A |
+| 31 | [仲里依紗](http://twitter.com/search?q=%e4%bb%b2%e9%87%8c%e4%be%9d%e7%b4%97) | N/A |
+| 32 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 33 | [からくり時計](http://twitter.com/search?q=%e3%81%8b%e3%82%89%e3%81%8f%e3%82%8a%e6%99%82%e8%a8%88) | N/A |
+| 34 | [きあらちゃん](http://twitter.com/search?q=%e3%81%8d%e3%81%82%e3%82%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 35 | [闘魂三銃士](http://twitter.com/search?q=%e9%97%98%e9%ad%82%e4%b8%89%e9%8a%83%e5%a3%ab) | N/A |
+| 36 | [さんま御殿](http://twitter.com/search?q=%e3%81%95%e3%82%93%e3%81%be%e5%be%a1%e6%ae%bf) | N/A |
+| 37 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
+| 38 | [Luv Bias](http://twitter.com/search?q=Luv+Bias) | N/A |
+| 39 | [タイガー服部](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%82%ac%e3%83%bc%e6%9c%8d%e9%83%a8) | N/A |
+| 40 | [デイリーダブル](http://twitter.com/search?q=%e3%83%87%e3%82%a4%e3%83%aa%e3%83%bc%e3%83%80%e3%83%96%e3%83%ab) | N/A |
+| 41 | [レコーディング](http://twitter.com/search?q=%e3%83%ac%e3%82%b3%e3%83%bc%e3%83%87%e3%82%a3%e3%83%b3%e3%82%b0) | N/A |
+| 42 | [武藤選手](http://twitter.com/search?q=%e6%ad%a6%e8%97%a4%e9%81%b8%e6%89%8b) | N/A |
+| 43 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 44 | [ニャニャ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%8b%e3%83%a3) | N/A |
+| 45 | [シャワーヘッド](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%af%e3%83%bc%e3%83%98%e3%83%83%e3%83%89) | N/A |
+| 46 | [蝶野正洋](http://twitter.com/search?q=%e8%9d%b6%e9%87%8e%e6%ad%a3%e6%b4%8b) | N/A |
+| 47 | [上野千鶴子](http://twitter.com/search?q=%e4%b8%8a%e9%87%8e%e5%8d%83%e9%b6%b4%e5%ad%90) | N/A |
+| 48 | [里依紗さん](http://twitter.com/search?q=%e9%87%8c%e4%be%9d%e7%b4%97%e3%81%95%e3%82%93) | N/A |
+| 49 | [ファンタちゃん](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%b3%e3%82%bf%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 50 | [同人誌の値段](http://twitter.com/search?q=%e5%90%8c%e4%ba%ba%e8%aa%8c%e3%81%ae%e5%80%a4%e6%ae%b5) | N/A |
 
 
 

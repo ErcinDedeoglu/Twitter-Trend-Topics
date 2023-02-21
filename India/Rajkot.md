@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-02-21 13:21:43 UTC`
+📆 Last Updated: `2023-02-21 14:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#News18PunjabBiznext](http://twitter.com/search?q=%23News18PunjabBiznext) | N/A |
 | 2 | [#MinorityConclave](http://twitter.com/search?q=%23MinorityConclave) | N/A |
-| 3 | [#HeraPheri3](http://twitter.com/search?q=%23HeraPheri3) | N/A |
-| 4 | [#Pathaan1000crWorldWide](http://twitter.com/search?q=%23Pathaan1000crWorldWide) | N/A |
-| 5 | [IFSC At IVCA2023](http://twitter.com/search?q=IFSC+At+IVCA2023) | N/A |
-| 6 | [Abhishek Agarwal](http://twitter.com/search?q=Abhishek+Agarwal) | N/A |
-| 7 | [जावेद अख्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%b5%e0%a5%87%e0%a4%a6+%e0%a4%85%e0%a4%96%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
-| 8 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 9 | [2YRS ELOQUENT WINNER RUBINA](http://twitter.com/search?q=2YRS+ELOQUENT+WINNER+RUBINA) | N/A |
-| 10 | [PATHAAN 1000 CRORES](http://twitter.com/search?q=PATHAAN+1000+CRORES) | N/A |
-| 11 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
-| 12 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 13 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 14 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 15 | [Aakash Chopra](http://twitter.com/search?q=Aakash+Chopra) | N/A |
-| 16 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 17 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 18 | [Himachal Pradesh](http://twitter.com/search?q=Himachal+Pradesh) | N/A |
-| 19 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
-| 20 | [West Bengal](http://twitter.com/search?q=West+Bengal) | N/A |
-| 21 | [मासूम बच्चे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b8%e0%a5%82%e0%a4%ae+%e0%a4%ac%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a5%87) | N/A |
-| 22 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 23 | [Venky](http://twitter.com/search?q=Venky) | N/A |
-| 24 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
-| 25 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 26 | [Street](http://twitter.com/search?q=Street) | N/A |
-| 27 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 28 | [दहेज मुक्त भारत](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 29 | [Propoganda Abound In SSRCase](http://twitter.com/search?q=Propoganda+Abound+In+SSRCase) | N/A |
-| 30 | [Wipro](http://twitter.com/search?q=Wipro) | N/A |
+| 3 | [#ETFertilityAwards](http://twitter.com/search?q=%23ETFertilityAwards) | N/A |
+| 4 | [#HeraPheri3](http://twitter.com/search?q=%23HeraPheri3) | N/A |
+| 5 | [#VivekAgnihotri](http://twitter.com/search?q=%23VivekAgnihotri) | N/A |
+| 6 | [IFSC At IVCA2023](http://twitter.com/search?q=IFSC+At+IVCA2023) | N/A |
+| 7 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 8 | [ELEGANT WINNER RUBINA](http://twitter.com/search?q=ELEGANT+WINNER+RUBINA) | N/A |
+| 9 | [जावेद अख्तर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%be%e0%a4%b5%e0%a5%87%e0%a4%a6+%e0%a4%85%e0%a4%96%e0%a5%8d%e0%a4%a4%e0%a4%b0) | N/A |
+| 10 | [Aakash Chopra](http://twitter.com/search?q=Aakash+Chopra) | N/A |
+| 11 | [Abhishek Agarwal](http://twitter.com/search?q=Abhishek+Agarwal) | N/A |
+| 12 | [2YRS ELOQUENT WINNER RUBINA](http://twitter.com/search?q=2YRS+ELOQUENT+WINNER+RUBINA) | N/A |
+| 13 | [Venky](http://twitter.com/search?q=Venky) | N/A |
+| 14 | [CCTV](http://twitter.com/search?q=CCTV) | N/A |
+| 15 | [PATHAAN 1000 CRORES](http://twitter.com/search?q=PATHAAN+1000+CRORES) | N/A |
+| 16 | [Venkatesh Prasad](http://twitter.com/search?q=Venkatesh+Prasad) | N/A |
+| 17 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
+| 18 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 19 | [भगवान परशुराम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a4%b0%e0%a4%b6%e0%a5%81%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 20 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 21 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 22 | [The Kashmir Files](http://twitter.com/search?q=The+Kashmir+Files) | N/A |
+| 23 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 24 | [Himachal Pradesh](http://twitter.com/search?q=Himachal+Pradesh) | N/A |
+| 25 | [मासूम बच्चे](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b8%e0%a5%82%e0%a4%ae+%e0%a4%ac%e0%a4%9a%e0%a5%8d%e0%a4%9a%e0%a5%87) | N/A |
+| 26 | [West Bengal](http://twitter.com/search?q=West+Bengal) | N/A |
+| 27 | [दहेज मुक्त भारत](http://twitter.com/search?q=%e0%a4%a6%e0%a4%b9%e0%a5%87%e0%a4%9c+%e0%a4%ae%e0%a5%81%e0%a4%95%e0%a5%8d%e0%a4%a4+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 28 | [Street](http://twitter.com/search?q=Street) | N/A |
+| 29 | [Madhya Pradesh](http://twitter.com/search?q=Madhya+Pradesh) | N/A |
+| 30 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
 | 31 | [Horrible](http://twitter.com/search?q=Horrible) | N/A |
-| 32 | [भाषा उन्नति](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b7%e0%a4%be+%e0%a4%89%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a4%a4%e0%a4%bf) | N/A |
-| 33 | [सूर्यकांत त्रिपाठी निराला](http://twitter.com/search?q=%e0%a4%b8%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%af%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%a4+%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%aa%e0%a4%be%e0%a4%a0%e0%a5%80+%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%be) | N/A |
-| 34 | [#ShowMeTheThumkaSongOutNow](http://twitter.com/search?q=%23ShowMeTheThumkaSongOutNow) | N/A |
-| 35 | [#javedakhtar](http://twitter.com/search?q=%23javedakhtar) | N/A |
-| 36 | [#POCOC55onFlipkart](http://twitter.com/search?q=%23POCOC55onFlipkart) | N/A |
-| 37 | [#BikeTaxi](http://twitter.com/search?q=%23BikeTaxi) | N/A |
+| 32 | [#javedakhtar](http://twitter.com/search?q=%23javedakhtar) | N/A |
+| 33 | [#AngelOneForAll](http://twitter.com/search?q=%23AngelOneForAll) | N/A |
+| 34 | [#Pathaan1000crWorldWide](http://twitter.com/search?q=%23Pathaan1000crWorldWide) | N/A |
+| 35 | [#ShowMeTheThumkaSongOutNow](http://twitter.com/search?q=%23ShowMeTheThumkaSongOutNow) | N/A |
+| 36 | [#KingOfKotha](http://twitter.com/search?q=%23KingOfKotha) | N/A |
+| 37 | [#straydogs](http://twitter.com/search?q=%23straydogs) | N/A |
 | 38 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
-| 39 | [#straydogs](http://twitter.com/search?q=%23straydogs) | N/A |
-| 40 | [#ChillaChilla](http://twitter.com/search?q=%23ChillaChilla) | N/A |
-| 41 | [#PareshRawal](http://twitter.com/search?q=%23PareshRawal) | N/A |
-| 42 | [#ShraddhaKapoor](http://twitter.com/search?q=%23ShraddhaKapoor) | N/A |
-| 43 | [#जाट_महाकुंभ_मच_गई_धूम](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%be%e0%a4%9f_%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%95%e0%a5%81%e0%a4%82%e0%a4%ad_%e0%a4%ae%e0%a4%9a_%e0%a4%97%e0%a4%88_%e0%a4%a7%e0%a5%82%e0%a4%ae) | N/A |
-| 44 | [#Hyderabad](http://twitter.com/search?q=%23Hyderabad) | N/A |
-| 45 | [#SunielShetty](http://twitter.com/search?q=%23SunielShetty) | N/A |
-| 46 | [#महिला_विरोधी_सपा](http://twitter.com/search?q=%23%e0%a4%ae%e0%a4%b9%e0%a4%bf%e0%a4%b2%e0%a4%be_%e0%a4%b5%e0%a4%bf%e0%a4%b0%e0%a5%8b%e0%a4%a7%e0%a5%80_%e0%a4%b8%e0%a4%aa%e0%a4%be) | N/A |
-| 47 | [#TuJhoothiMainMakkaar](http://twitter.com/search?q=%23TuJhoothiMainMakkaar) | N/A |
-| 48 | [#SJaishankar](http://twitter.com/search?q=%23SJaishankar) | N/A |
+| 39 | [#POCOC55onFlipkart](http://twitter.com/search?q=%23POCOC55onFlipkart) | N/A |
+| 40 | [#AgentFirstSingle](http://twitter.com/search?q=%23AgentFirstSingle) | N/A |
+| 41 | [#BikeTaxi](http://twitter.com/search?q=%23BikeTaxi) | N/A |
+| 42 | [#Hyderabad](http://twitter.com/search?q=%23Hyderabad) | N/A |
+| 43 | [#TuJhoothiMainMakkaar](http://twitter.com/search?q=%23TuJhoothiMainMakkaar) | N/A |
+| 44 | [#SJaishankar](http://twitter.com/search?q=%23SJaishankar) | N/A |
+| 45 | [#ShraddhaKapoor](http://twitter.com/search?q=%23ShraddhaKapoor) | N/A |
+| 46 | [#ChillaChilla](http://twitter.com/search?q=%23ChillaChilla) | N/A |
+| 47 | [#RanbirKapoor](http://twitter.com/search?q=%23RanbirKapoor) | N/A |
+| 48 | [#PareshRawal](http://twitter.com/search?q=%23PareshRawal) | N/A |
 | 49 | [#NothingPhone1](http://twitter.com/search?q=%23NothingPhone1) | N/A |
+| 50 | [#GlobalStarRamCharan](http://twitter.com/search?q=%23GlobalStarRamCharan) | N/A |
 
 
 

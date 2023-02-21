@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gaziantep
 
-📆 Last Updated: `2023-02-21 13:21:45 UTC`
+📆 Last Updated: `2023-02-21 14:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,50 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
-| 2 | [Devlet Millet El Ele](http://twitter.com/search?q=Devlet+Millet+El+Ele) | N/A |
-| 3 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 4 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
-| 5 | [Geçmişin İlacıAf](http://twitter.com/search?q=Ge%c3%a7mi%c5%9fin+%c4%b0lac%c4%b1Af) | N/A |
-| 6 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
-| 7 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
+| 2 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
+| 3 | [Geçmişin İlacıAf](http://twitter.com/search?q=Ge%c3%a7mi%c5%9fin+%c4%b0lac%c4%b1Af) | N/A |
+| 4 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
+| 5 | [yardımparalarıderede](http://twitter.com/search?q=yard%c4%b1mparalar%c4%b1derede) | N/A |
+| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 7 | [Devlet Millet El Ele](http://twitter.com/search?q=Devlet+Millet+El+Ele) | N/A |
 | 8 | [Arap Levhası](http://twitter.com/search?q=Arap+Levhas%c4%b1) | N/A |
 | 9 | [Üsluba](http://twitter.com/search?q=%c3%9csluba) | N/A |
-| 10 | [Değildir](http://twitter.com/search?q=De%c4%9fildir) | N/A |
-| 11 | [Taner Savut](http://twitter.com/search?q=Taner+Savut) | N/A |
-| 12 | [Malcolm](http://twitter.com/search?q=Malcolm) | N/A |
-| 13 | [Melik](http://twitter.com/search?q=Melik) | N/A |
-| 14 | [Rusya](http://twitter.com/search?q=Rusya) | N/A |
-| 15 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
-| 16 | [Metafazik](http://twitter.com/search?q=Metafazik) | N/A |
-| 17 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
-| 18 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 19 | [Beyaz TV](http://twitter.com/search?q=Beyaz+TV) | N/A |
-| 20 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 21 | [Japonlar](http://twitter.com/search?q=Japonlar) | N/A |
-| 22 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 23 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
-| 24 | [Danla](http://twitter.com/search?q=Danla) | N/A |
-| 25 | [ukrayna](http://twitter.com/search?q=ukrayna) | N/A |
-| 26 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 27 | [Kalyon](http://twitter.com/search?q=Kalyon) | N/A |
-| 28 | [Avukat](http://twitter.com/search?q=Avukat) | N/A |
-| 29 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 30 | [Memur](http://twitter.com/search?q=Memur) | N/A |
-| 31 | [#galeriakurtarılmayıbekliyor](http://twitter.com/search?q=%23galeriakurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
-| 32 | [#KılıçdaroğluNeSöyledi](http://twitter.com/search?q=%23K%c4%b1l%c4%b1%c3%a7daro%c4%9fluNeS%c3%b6yledi) | N/A |
-| 33 | [#kiralaraDURdeyin](http://twitter.com/search?q=%23kiralaraDURdeyin) | N/A |
+| 10 | [Giannis Konstantelias](http://twitter.com/search?q=Giannis+Konstantelias) | N/A |
+| 11 | [Fox Tv](http://twitter.com/search?q=Fox+Tv) | N/A |
+| 12 | [Değildir](http://twitter.com/search?q=De%c4%9fildir) | N/A |
+| 13 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
+| 14 | [Üslup](http://twitter.com/search?q=%c3%9cslup) | N/A |
+| 15 | [İzmir Marşı](http://twitter.com/search?q=%c4%b0zmir+Mar%c5%9f%c4%b1) | N/A |
+| 16 | [Cumhurbaşkanı Erdoğan](http://twitter.com/search?q=Cumhurba%c5%9fkan%c4%b1+Erdo%c4%9fan) | Cumhurbaşkanı Erdoğan is the title of the current President of Turkey, Recep Tayyip Erdoğan. In English, it translates to "President Erdogan". |
+| 17 | [Serkan](http://twitter.com/search?q=Serkan) | N/A |
+| 18 | [Taner Savut](http://twitter.com/search?q=Taner+Savut) | N/A |
+| 19 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 20 | [Melik](http://twitter.com/search?q=Melik) | N/A |
+| 21 | [Zakharyan](http://twitter.com/search?q=Zakharyan) | N/A |
+| 22 | [Rusya](http://twitter.com/search?q=Rusya) | N/A |
+| 23 | [22 Şubat Çarşamba](http://twitter.com/search?q=22+%c5%9eubat+%c3%87ar%c5%9famba) | N/A |
+| 24 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 25 | [Beyaz TV](http://twitter.com/search?q=Beyaz+TV) | N/A |
+| 26 | [Armağan](http://twitter.com/search?q=Arma%c4%9fan) | N/A |
+| 27 | [Danla](http://twitter.com/search?q=Danla) | N/A |
+| 28 | [Japonlar](http://twitter.com/search?q=Japonlar) | N/A |
+| 29 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
+| 30 | [Burç](http://twitter.com/search?q=Bur%c3%a7) | N/A |
+| 31 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 32 | [Avukat](http://twitter.com/search?q=Avukat) | N/A |
+| 33 | [#galeriakurtarılmayıbekliyor](http://twitter.com/search?q=%23galeriakurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
 | 34 | [#yanlıskarar](http://twitter.com/search?q=%23yanl%c4%b1skarar) | N/A |
-| 35 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
-| 36 | [#smrtg](http://twitter.com/search?q=%23smrtg) | N/A |
-| 37 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
-| 38 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
-| 39 | [#samandag](http://twitter.com/search?q=%23samandag) | N/A |
-| 40 | [#hataydefne](http://twitter.com/search?q=%23hataydefne) | N/A |
-| 41 | [#salı](http://twitter.com/search?q=%23sal%c4%b1) | #Salı is a Turkish hashtag that translates to "Tuesday" in English. It is used to tag posts related to Tuesday on social media platforms such as Twitter and Instagram. |
-| 42 | [#VekilerTBMMne](http://twitter.com/search?q=%23VekilerTBMMne) | N/A |
-| 43 | [#زلزال](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84) | #زلزال is an Arabic word meaning "earthquake". |
-| 44 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
-| 45 | [#CadırlarNerede](http://twitter.com/search?q=%23Cad%c4%b1rlarNerede) | N/A |
+| 35 | [#korku](http://twitter.com/search?q=%23korku) | N/A |
+| 36 | [#kılıçdaroğlunesöyledi](http://twitter.com/search?q=%23k%c4%b1l%c4%b1%c3%a7daro%c4%9flunes%c3%b6yledi) | N/A |
+| 37 | [#kiralaraDURdeyin](http://twitter.com/search?q=%23kiralaraDURdeyin) | N/A |
+| 38 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
+| 39 | [#MalcolmX](http://twitter.com/search?q=%23MalcolmX) | N/A |
+| 40 | [#smrtg](http://twitter.com/search?q=%23smrtg) | N/A |
+| 41 | [#StajSskBaşlangıcıOlsun](http://twitter.com/search?q=%23StajSskBa%c5%9flang%c4%b1c%c4%b1Olsun) | N/A |
+| 42 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
+| 43 | [#VekilerTBMMne](http://twitter.com/search?q=%23VekilerTBMMne) | N/A |
+| 44 | [#samandag](http://twitter.com/search?q=%23samandag) | N/A |
+| 45 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
 
 
 
