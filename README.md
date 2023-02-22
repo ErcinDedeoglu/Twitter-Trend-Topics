@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-22 19:16:21 UTC`
+📆 Last Updated: `2023-02-22 20:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BirKiraBirYuva](http://twitter.com/search?q=%23BirKiraBirYuva) | N/A |
-| 2 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 3 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
-| 4 | [#بيوم_تاسيسنا_نفخر_بولي_عهدنا](http://twitter.com/search?q=%23%d8%a8%d9%8a%d9%88%d9%85_%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3%d9%86%d8%a7_%d9%86%d9%81%d8%ae%d8%b1_%d8%a8%d9%88%d9%84%d9%8a_%d8%b9%d9%87%d8%af%d9%86%d8%a7) | N/A |
-| 5 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 6 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 7 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
-| 8 | [Team Secret](http://twitter.com/search?q=Team+Secret) | N/A |
-| 9 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
-| 10 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 11 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 12 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
-| 13 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 14 | [Taylor Lewan](http://twitter.com/search?q=Taylor+Lewan) | N/A |
-| 15 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 16 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 17 | [Team Liquid](http://twitter.com/search?q=Team+Liquid) | N/A |
-| 18 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
-| 19 | [Warung](http://twitter.com/search?q=Warung) | N/A |
-| 20 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 21 | [nAts](http://twitter.com/search?q=nAts) | N/A |
-| 22 | [Çadır Acil](http://twitter.com/search?q=%c3%87ad%c4%b1r+Acil) | N/A |
-| 23 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 24 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 25 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 26 | [ネオユニヴァース](http://twitter.com/search?q=%e3%83%8d%e3%82%aa%e3%83%a6%e3%83%8b%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%b9) | N/A |
-| 27 | [bjork](http://twitter.com/search?q=bjork) | N/A |
-| 28 | [Punta Peuco](http://twitter.com/search?q=Punta+Peuco) | N/A |
-| 29 | [Samie Stunt](http://twitter.com/search?q=Samie+Stunt) | N/A |
-| 30 | [Hickman](http://twitter.com/search?q=Hickman) | N/A |
-| 31 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 32 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 33 | [İnsaniYardıma Operasyon](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon) | N/A |
-| 34 | [Team Fashion](http://twitter.com/search?q=Team+Fashion) | N/A |
-| 35 | [BTS ALL TIME LEGENDS](http://twitter.com/search?q=BTS+ALL+TIME+LEGENDS) | N/A |
-| 36 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 37 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 38 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 39 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 40 | [AIL NOW ON NETFLIX](http://twitter.com/search?q=AIL+NOW+ON+NETFLIX) | N/A |
-| 41 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
-| 42 | [ZETA戦](http://twitter.com/search?q=ZETA%e6%88%a6) | N/A |
-| 43 | [EMEA](http://twitter.com/search?q=EMEA) | N/A |
-| 44 | [キタサト](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%b5%e3%83%88) | N/A |
-| 45 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
-| 46 | [子ども予算倍増](http://twitter.com/search?q=%e5%ad%90%e3%81%a9%e3%82%82%e4%ba%88%e7%ae%97%e5%80%8d%e5%a2%97) | N/A |
-| 47 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
-| 48 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
-| 49 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
-| 50 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
+| 1 | [#ApuracaoRJ](http://twitter.com/search?q=%23ApuracaoRJ) | N/A |
+| 2 | [#BirKiraBirYuva](http://twitter.com/search?q=%23BirKiraBirYuva) | N/A |
+| 3 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 4 | [serrano](http://twitter.com/search?q=serrano) | N/A |
+| 5 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
+| 6 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
+| 7 | [#بيوم_تاسيسنا_نفخر_بولي_عهدنا](http://twitter.com/search?q=%23%d8%a8%d9%8a%d9%88%d9%85_%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3%d9%86%d8%a7_%d9%86%d9%81%d8%ae%d8%b1_%d8%a8%d9%88%d9%84%d9%8a_%d8%b9%d9%87%d8%af%d9%86%d8%a7) | N/A |
+| 8 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 9 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
+| 10 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
+| 11 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
+| 12 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
+| 13 | [Milton Cunha](http://twitter.com/search?q=Milton+Cunha) | N/A |
+| 14 | [Grande Rio](http://twitter.com/search?q=Grande+Rio) | N/A |
+| 15 | [Mocidade](http://twitter.com/search?q=Mocidade) | N/A |
+| 16 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 17 | [Tijuca](http://twitter.com/search?q=Tijuca) | N/A |
+| 18 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
+| 19 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
+| 20 | [MILAN FASHION WEEK KANAWUT](http://twitter.com/search?q=MILAN+FASHION+WEEK+KANAWUT) | N/A |
+| 21 | [Fernando Lima](http://twitter.com/search?q=Fernando+Lima) | N/A |
+| 22 | [Enredo](http://twitter.com/search?q=Enredo) | N/A |
+| 23 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 24 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 25 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
+| 26 | [Team Secret](http://twitter.com/search?q=Team+Secret) | N/A |
+| 27 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
+| 28 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 29 | [Madson](http://twitter.com/search?q=Madson) | N/A |
+| 30 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 31 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 32 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
+| 33 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 34 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
+| 35 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 36 | [Ciça](http://twitter.com/search?q=Ci%c3%a7a) | N/A |
+| 37 | [Punta Peuco](http://twitter.com/search?q=Punta+Peuco) | N/A |
+| 38 | [Alegorias e Adereços](http://twitter.com/search?q=Alegorias+e+Adere%c3%a7os) | N/A |
+| 39 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
+| 40 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 41 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 42 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
+| 43 | [Bruno Marques](http://twitter.com/search?q=Bruno+Marques) | N/A |
+| 44 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 45 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 46 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 47 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
+| 48 | [nAts](http://twitter.com/search?q=nAts) | N/A |
+| 49 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 50 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
 
 
 

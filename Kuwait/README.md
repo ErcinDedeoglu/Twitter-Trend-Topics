@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-02-22 19:17:13 UTC`
+📆 Last Updated: `2023-02-22 20:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Kuwait
 | ------- | ------------ | ------------ |
 | 1 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
 | 2 | [#حمد_مسلط_الهاجري](http://twitter.com/search?q=%23%d8%ad%d9%85%d8%af_%d9%85%d8%b3%d9%84%d8%b7_%d8%a7%d9%84%d9%87%d8%a7%d8%ac%d8%b1%d9%8a) | N/A |
-| 3 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 4 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 5 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 6 | [#اصاله_في_aum](http://twitter.com/search?q=%23%d8%a7%d8%b5%d8%a7%d9%84%d9%87_%d9%81%d9%8a_aum) | N/A |
-| 7 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 8 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
+| 3 | [#عطر_تحبه](http://twitter.com/search?q=%23%d8%b9%d8%b7%d8%b1_%d8%aa%d8%ad%d8%a8%d9%87) | N/A |
+| 4 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 5 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 6 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 7 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
+| 8 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
 | 9 | [#صباح_الخير_والسعاده_للجميع](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87_%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
 | 10 | [الاعياد الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b9%d9%8a%d8%a7%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 11 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
-| 12 | [دكتور حمد](http://twitter.com/search?q=%d8%af%d9%83%d8%aa%d9%88%d8%b1+%d8%ad%d9%85%d8%af) | N/A |
-| 13 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 14 | [مرزوق](http://twitter.com/search?q=%d9%85%d8%b1%d8%b2%d9%88%d9%82) | N/A |
-| 15 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 16 | [assala](http://twitter.com/search?q=assala) | N/A |
-| 17 | [العصا السحريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b5%d8%a7+%d8%a7%d9%84%d8%b3%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
-| 18 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 19 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 20 | [الادب العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 21 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 22 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 23 | [القضيه الاسكانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%83%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 24 | [احمد السعدون](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d9%88%d9%86) | N/A |
-| 25 | [محمد المطير](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%85%d8%b7%d9%8a%d8%b1) | N/A |
-| 26 | [بدر الداهوم](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d9%87%d9%88%d9%85) | N/A |
-| 27 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 28 | [العيد الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 29 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
-| 30 | [رييس مجلس الامه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%87) | N/A |
-| 31 | [الشعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 32 | [يابو غصن](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ba%d8%b5%d9%86) | N/A |
-| 33 | [رجل دوله](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 11 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
+| 12 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 13 | [دكتور حمد](http://twitter.com/search?q=%d8%af%d9%83%d8%aa%d9%88%d8%b1+%d8%ad%d9%85%d8%af) | N/A |
+| 14 | [العصا السحريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b5%d8%a7+%d8%a7%d9%84%d8%b3%d8%ad%d8%b1%d9%8a%d9%87) | N/A |
+| 15 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 16 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 17 | [صبيح المخيزيم](http://twitter.com/search?q=%d8%b5%d8%a8%d9%8a%d8%ad+%d8%a7%d9%84%d9%85%d8%ae%d9%8a%d8%b2%d9%8a%d9%85) | N/A |
+| 18 | [assala](http://twitter.com/search?q=assala) | N/A |
+| 19 | [مرزوق](http://twitter.com/search?q=%d9%85%d8%b1%d8%b2%d9%88%d9%82) | N/A |
+| 20 | [الفردوس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%af%d9%88%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 21 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
+| 22 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 23 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 24 | [العيد الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 25 | [احمد السعدون](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d8%af%d9%88%d9%86) | N/A |
+| 26 | [محمد المطير](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%85%d8%b7%d9%8a%d8%b1) | N/A |
+| 27 | [الادب العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a8+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 28 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 29 | [بدر الداهوم](http://twitter.com/search?q=%d8%a8%d8%af%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d9%87%d9%88%d9%85) | N/A |
+| 30 | [الشعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 31 | [يابو غصن](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ba%d8%b5%d9%86) | N/A |
+| 32 | [ساره الودعاني](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%88%d8%af%d8%b9%d8%a7%d9%86%d9%8a) | N/A |
+| 33 | [رييس مجلس الامه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d9%85%d9%87) | N/A |
 | 34 | [كاريوس](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%8a%d9%88%d8%b3) | N/A |
-| 35 | [ساره الودعاني](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%88%d8%af%d8%b9%d8%a7%d9%86%d9%8a) | N/A |
+| 35 | [لطيف المبسم](http://twitter.com/search?q=%d9%84%d8%b7%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%a8%d8%b3%d9%85) | N/A |
 | 36 | [يابو مسلم](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d9%85%d8%b3%d9%84%d9%85) | N/A |
-| 37 | [لطيف المبسم](http://twitter.com/search?q=%d9%84%d8%b7%d9%8a%d9%81+%d8%a7%d9%84%d9%85%d8%a8%d8%b3%d9%85) | N/A |
-| 38 | [حمد الهاجري](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%87%d8%a7%d8%ac%d8%b1%d9%8a) | N/A |
-| 39 | [صاحب الخلق الرفيع](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%ae%d9%84%d9%82+%d8%a7%d9%84%d8%b1%d9%81%d9%8a%d8%b9) | N/A |
-| 40 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 41 | [كريستيانو رونالدو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88+%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | N/A |
-| 42 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 43 | [الهدف الخامس](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d9%81+%d8%a7%d9%84%d8%ae%d8%a7%d9%85%d8%b3) | N/A |
-| 44 | [لينا كريما](http://twitter.com/search?q=%d9%84%d9%8a%d9%86%d8%a7+%d9%83%d8%b1%d9%8a%d9%85%d8%a7) | N/A |
-| 45 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 46 | [الجنسيه الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
-| 47 | [السيره الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
-| 48 | [عزيز قوم](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2+%d9%82%d9%88%d9%85) | N/A |
-| 49 | [الشرايع السماويه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b1%d8%a7%d9%8a%d8%b9+%d8%a7%d9%84%d8%b3%d9%85%d8%a7%d9%88%d9%8a%d9%87) | N/A |
-| 50 | [حمدان العازمي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%b2%d9%85%d9%8a) | N/A |
+| 37 | [حمد الهاجري](http://twitter.com/search?q=%d8%ad%d9%85%d8%af+%d8%a7%d9%84%d9%87%d8%a7%d8%ac%d8%b1%d9%8a) | N/A |
+| 38 | [صاحب الخلق الرفيع](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d8%ae%d9%84%d9%82+%d8%a7%d9%84%d8%b1%d9%81%d9%8a%d8%b9) | N/A |
+| 39 | [اردوغان](http://twitter.com/search?q=%d8%a7%d8%b1%d8%af%d9%88%d8%ba%d8%a7%d9%86) | N/A |
+| 40 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
+| 41 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
+| 42 | [لينا كريما](http://twitter.com/search?q=%d9%84%d9%8a%d9%86%d8%a7+%d9%83%d8%b1%d9%8a%d9%85%d8%a7) | N/A |
+| 43 | [السيره الطيبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b7%d9%8a%d8%a8%d9%87) | N/A |
+| 44 | [عزيز قوم](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2+%d9%82%d9%88%d9%85) | N/A |
+| 45 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
+| 46 | [رجل دوله](http://twitter.com/search?q=%d8%b1%d8%ac%d9%84+%d8%af%d9%88%d9%84%d9%87) | N/A |
+| 47 | [الجنسيه الامريكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%86%d8%b3%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d8%b1%d9%8a%d9%83%d9%8a%d9%87) | N/A |
+| 48 | [حمدان العازمي](http://twitter.com/search?q=%d8%ad%d9%85%d8%af%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d8%a7%d8%b2%d9%85%d9%8a) | N/A |
+| 49 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 50 | [جابر المبارك](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8%d8%b1+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 
 
 

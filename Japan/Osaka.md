@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Osaka
 
-📆 Last Updated: `2023-02-22 19:17:09 UTC`
+📆 Last Updated: `2023-02-22 20:17:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [大阪環状線](http://twitter.com/search?q=%e5%a4%a7%e9%98%aa%e7%92%b0%e7%8a%b6%e7%b7%9a) | N/A |
-| 2 | [ちゅーる](http://twitter.com/search?q=%e3%81%a1%e3%82%85%e3%83%bc%e3%82%8b) | N/A |
-| 3 | [情報過多](http://twitter.com/search?q=%e6%83%85%e5%a0%b1%e9%81%8e%e5%a4%9a) | N/A |
+| 1 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
+| 2 | [#ロマサガRS](http://twitter.com/search?q=%23%e3%83%ad%e3%83%9e%e3%82%b5%e3%82%acRS) | N/A |
+| 3 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
 | 4 | [#乃木坂46ANN](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8246ANN) | #乃木坂46ANN is the official hashtag for the Japanese idol group Nogizaka46. It stands for Nogizaka46 Announcement, and is used to share news and updates about the group. |
 | 5 | [#亀梨和也誕生祭2023](http://twitter.com/search?q=%23%e4%ba%80%e6%a2%a8%e5%92%8c%e4%b9%9f%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
-| 6 | [ネオユニヴァース](http://twitter.com/search?q=%e3%83%8d%e3%82%aa%e3%83%a6%e3%83%8b%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%b9) | N/A |
-| 7 | [#JO1ANNX](http://twitter.com/search?q=%23JO1ANNX) | #JO1ANNX is a hashtag used by Japanese singer and actor Jo1. It stands for "Jo1 All Night eXtreme", which is a special event held by the singer. |
-| 8 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 9 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
-| 10 | [nAts](http://twitter.com/search?q=nAts) | N/A |
-| 11 | [ZETA戦](http://twitter.com/search?q=ZETA%e6%88%a6) | N/A |
-| 12 | [キタサト](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%b5%e3%83%88) | N/A |
+| 6 | [cNed](http://twitter.com/search?q=cNed) | N/A |
+| 7 | [ZETA戦](http://twitter.com/search?q=ZETA%e6%88%a6) | N/A |
+| 8 | [ネオユニヴァース](http://twitter.com/search?q=%e3%83%8d%e3%82%aa%e3%83%a6%e3%83%8b%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%b9) | N/A |
+| 9 | [#JO1ANNX](http://twitter.com/search?q=%23JO1ANNX) | #JO1ANNX is a hashtag used by Japanese singer and actor Jo1. It stands for "Jo1 All Night eXtreme", which is a special event held by the singer. |
+| 10 | [#それってパクリじゃないですか](http://twitter.com/search?q=%23%e3%81%9d%e3%82%8c%e3%81%a3%e3%81%a6%e3%83%91%e3%82%af%e3%83%aa%e3%81%98%e3%82%83%e3%81%aa%e3%81%84%e3%81%a7%e3%81%99%e3%81%8b) | N/A |
+| 11 | [nAts](http://twitter.com/search?q=nAts) | N/A |
+| 12 | [ANGE1](http://twitter.com/search?q=ANGE1) | N/A |
 | 13 | [子ども予算倍増](http://twitter.com/search?q=%e5%ad%90%e3%81%a9%e3%82%82%e4%ba%88%e7%ae%97%e5%80%8d%e5%a2%97) | N/A |
 | 14 | [木原官房副長官](http://twitter.com/search?q=%e6%9c%a8%e5%8e%9f%e5%ae%98%e6%88%bf%e5%89%af%e9%95%b7%e5%ae%98) | N/A |
-| 15 | [ウマ娘3期](http://twitter.com/search?q=%e3%82%a6%e3%83%9e%e5%a8%983%e6%9c%9f) | N/A |
-| 16 | [社台解禁](http://twitter.com/search?q=%e7%a4%be%e5%8f%b0%e8%a7%a3%e7%a6%81) | N/A |
-| 17 | [第398回](http://twitter.com/search?q=%e7%ac%ac398%e5%9b%9e) | N/A |
-| 18 | [つべらおつこれ](http://twitter.com/search?q=%e3%81%a4%e3%81%b9%e3%82%89%e3%81%8a%e3%81%a4%e3%81%93%e3%82%8c) | N/A |
-| 19 | [ドゥラメンテ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
-| 20 | [ヒシミラクル](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab) | N/A |
-| 21 | [亀梨くん](http://twitter.com/search?q=%e4%ba%80%e6%a2%a8%e3%81%8f%e3%82%93) | 亀梨くん is a nickname given to the Japanese actor and singer, Eita. It is derived from his real name, Eita Kamei. The English translation of 亀梨くん would be "Kamei-kun". |
-| 22 | [ツインターボ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9c) | N/A |
-| 23 | [シービー](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%93%e3%83%bc) | シービー (shībī) is a Japanese onomatopoeia that is used to describe the sound of a wave crashing against the shore. In English, it can be translated as "splash" or "crash". |
-| 24 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
-| 25 | [タップダンスシチー](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%97%e3%83%80%e3%83%b3%e3%82%b9%e3%82%b7%e3%83%81%e3%83%bc) | N/A |
-| 26 | [亀ちゃん](http://twitter.com/search?q=%e4%ba%80%e3%81%a1%e3%82%83%e3%82%93) | 亀ちゃん is a nickname for the Japanese character Kame-san, who is a turtle. It is often used as an affectionate term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
-| 27 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
-| 28 | [カツラギエース](http://twitter.com/search?q=%e3%82%ab%e3%83%84%e3%83%a9%e3%82%ae%e3%82%a8%e3%83%bc%e3%82%b9) | N/A |
-| 29 | [ジャンポケ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9d%e3%82%b1) | ジャンポケ is a Japanese card game that is similar to the popular game Uno. The name comes from the Japanese words for "janken" (rock-paper-scissors) and "poker." The goal of the game is to be the first player to get rid of all their cards by matching them with cards in the center pile. |
-| 30 | [天皇陛下](http://twitter.com/search?q=%e5%a4%a9%e7%9a%87%e9%99%9b%e4%b8%8b) | N/A |
-| 31 | [デッカー最終章](http://twitter.com/search?q=%e3%83%87%e3%83%83%e3%82%ab%e3%83%bc%e6%9c%80%e7%b5%82%e7%ab%a0) | N/A |
-| 32 | [ジャングルポケット](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%b0%e3%83%ab%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88) | ジャングルポケット (Janguru Poketto) is a Japanese manga series written and illustrated by Takashi Murakami. It follows the adventures of a group of animals living in a jungle pocket, which is a small pocket of land surrounded by a large jungle. The English translation of the title is "Jungle Pocket". |
-| 33 | [ソルカス](http://twitter.com/search?q=%e3%82%bd%e3%83%ab%e3%82%ab%e3%82%b9) | N/A |
-| 34 | [ステイゴールド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a4%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 35 | [アニメ3期](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a13%e6%9c%9f) | N/A |
+| 15 | [キタサト](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%b5%e3%83%88) | N/A |
+| 16 | [第398回](http://twitter.com/search?q=%e7%ac%ac398%e5%9b%9e) | N/A |
+| 17 | [亀梨くん](http://twitter.com/search?q=%e4%ba%80%e6%a2%a8%e3%81%8f%e3%82%93) | 亀梨くん is a nickname given to the Japanese actor and singer, Eita. It is derived from his real name, Eita Kamei. The English translation of 亀梨くん would be "Kamei-kun". |
+| 18 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
+| 19 | [ウマ娘3期](http://twitter.com/search?q=%e3%82%a6%e3%83%9e%e5%a8%983%e6%9c%9f) | N/A |
+| 20 | [社台解禁](http://twitter.com/search?q=%e7%a4%be%e5%8f%b0%e8%a7%a3%e7%a6%81) | N/A |
+| 21 | [つべらおつこれ](http://twitter.com/search?q=%e3%81%a4%e3%81%b9%e3%82%89%e3%81%8a%e3%81%a4%e3%81%93%e3%82%8c) | N/A |
+| 22 | [天皇陛下](http://twitter.com/search?q=%e5%a4%a9%e7%9a%87%e9%99%9b%e4%b8%8b) | N/A |
+| 23 | [ツインターボ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9c) | N/A |
+| 24 | [げちゃんドラマ](http://twitter.com/search?q=%e3%81%92%e3%81%a1%e3%82%83%e3%82%93%e3%83%89%e3%83%a9%e3%83%9e) | N/A |
+| 25 | [ヒシミラクル](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab) | N/A |
+| 26 | [suygetsu](http://twitter.com/search?q=suygetsu) | N/A |
+| 27 | [ドゥラメンテ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
+| 28 | [亀ちゃん](http://twitter.com/search?q=%e4%ba%80%e3%81%a1%e3%82%83%e3%82%93) | 亀ちゃん is a nickname for the Japanese character Kame-san, who is a turtle. It is often used as an affectionate term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 29 | [ライプツィヒ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%83%97%e3%83%84%e3%82%a3%e3%83%92) | N/A |
+| 30 | [シービー](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%93%e3%83%bc) | シービー (shībī) is a Japanese onomatopoeia that is used to describe the sound of a wave crashing against the shore. In English, it can be translated as "splash" or "crash". |
+| 31 | [天皇誕生日](http://twitter.com/search?q=%e5%a4%a9%e7%9a%87%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 32 | [タップダンスシチー](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%97%e3%83%80%e3%83%b3%e3%82%b9%e3%82%b7%e3%83%81%e3%83%bc) | N/A |
+| 33 | [デッカー最終章](http://twitter.com/search?q=%e3%83%87%e3%83%83%e3%82%ab%e3%83%bc%e6%9c%80%e7%b5%82%e7%ab%a0) | N/A |
+| 34 | [ジャンポケ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9d%e3%82%b1) | ジャンポケ is a Japanese card game that is similar to the popular game Uno. The name comes from the Japanese words for "janken" (rock-paper-scissors) and "poker." The goal of the game is to be the first player to get rid of all their cards by matching them with cards in the center pile. |
+| 35 | [カツラギエース](http://twitter.com/search?q=%e3%82%ab%e3%83%84%e3%83%a9%e3%82%ae%e3%82%a8%e3%83%bc%e3%82%b9) | N/A |
 | 36 | [エリート上司](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%bc%e3%83%88%e4%b8%8a%e5%8f%b8) | N/A |
-| 37 | [最終編3章](http://twitter.com/search?q=%e6%9c%80%e7%b5%82%e7%b7%a83%e7%ab%a0) | N/A |
-| 38 | [ザシアン](http://twitter.com/search?q=%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
-| 39 | [天皇誕生日](http://twitter.com/search?q=%e5%a4%a9%e7%9a%87%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
-| 40 | [ラモーヌ](http://twitter.com/search?q=%e3%83%a9%e3%83%a2%e3%83%bc%e3%83%8c) | N/A |
-| 41 | [ターボ師匠](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%9c%e5%b8%ab%e5%8c%a0) | N/A |
-| 42 | [風雅くん](http://twitter.com/search?q=%e9%a2%a8%e9%9b%85%e3%81%8f%e3%82%93) | 風雅くん (Fuga-kun) is a Japanese term used to refer to someone who is well-mannered, polite, and has good manners. In English, it could be translated as "Gentlemanly". |
-| 43 | [国民負担率47.5](http://twitter.com/search?q=%e5%9b%bd%e6%b0%91%e8%b2%a0%e6%8b%85%e7%8e%8747.5) | N/A |
-| 44 | [江戸時代とどっち](http://twitter.com/search?q=%e6%b1%9f%e6%88%b8%e6%99%82%e4%bb%a3%e3%81%a8%e3%81%a9%e3%81%a3%e3%81%a1) | N/A |
-| 45 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
+| 37 | [ジャングルポケット](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%b0%e3%83%ab%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88) | ジャングルポケット (Janguru Poketto) is a Japanese manga series written and illustrated by Takashi Murakami. It follows the adventures of a group of animals living in a jungle pocket, which is a small pocket of land surrounded by a large jungle. The English translation of the title is "Jungle Pocket". |
+| 38 | [最終編3章](http://twitter.com/search?q=%e6%9c%80%e7%b5%82%e7%b7%a83%e7%ab%a0) | N/A |
+| 39 | [ソルカス](http://twitter.com/search?q=%e3%82%bd%e3%83%ab%e3%82%ab%e3%82%b9) | N/A |
+| 40 | [国民負担率47.5](http://twitter.com/search?q=%e5%9b%bd%e6%b0%91%e8%b2%a0%e6%8b%85%e7%8e%8747.5) | N/A |
+| 41 | [ザシアン](http://twitter.com/search?q=%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
+| 42 | [江戸時代とどっち](http://twitter.com/search?q=%e6%b1%9f%e6%88%b8%e6%99%82%e4%bb%a3%e3%81%a8%e3%81%a9%e3%81%a3%e3%81%a1) | N/A |
+| 43 | [アニメ3期](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%83%a13%e6%9c%9f) | N/A |
+| 44 | [ステイゴールド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a4%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 45 | [重岡さん](http://twitter.com/search?q=%e9%87%8d%e5%b2%a1%e3%81%95%e3%82%93) | N/A |
 | 46 | [EMEA](http://twitter.com/search?q=EMEA) | N/A |
-| 47 | [空耳アワー](http://twitter.com/search?q=%e7%a9%ba%e8%80%b3%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
-| 48 | [新シナリオ](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%8a%e3%83%aa%e3%82%aa) | 新シナリオ (Shin Scenario) is a Japanese term that refers to a new story or plotline. It is often used in the context of video games, movies, and other forms of entertainment. In English, it can be translated as "new scenario" or "new plotline". |
-| 49 | [ジャスタウェイ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%b9%e3%82%bf%e3%82%a6%e3%82%a7%e3%82%a4) | N/A |
+| 47 | [統一教会マネー4500億円](http://twitter.com/search?q=%e7%b5%b1%e4%b8%80%e6%95%99%e4%bc%9a%e3%83%9e%e3%83%8d%e3%83%bc4500%e5%84%84%e5%86%86) | N/A |
+| 48 | [ペンタゴン文書入手](http://twitter.com/search?q=%e3%83%9a%e3%83%b3%e3%82%bf%e3%82%b4%e3%83%b3%e6%96%87%e6%9b%b8%e5%85%a5%e6%89%8b) | N/A |
+| 49 | [ラモーヌ](http://twitter.com/search?q=%e3%83%a9%e3%83%a2%e3%83%bc%e3%83%8c) | N/A |
 
 
 
