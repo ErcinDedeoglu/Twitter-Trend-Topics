@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-22 12:18:49 UTC`
+📆 Last Updated: `2023-02-22 13:21:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [LIP DUO](http://twitter.com/search?q=LIP+DUO) | N/A |
-| 2 | [Implora](http://twitter.com/search?q=Implora) | N/A |
-| 3 | [Lip Moist Serum](http://twitter.com/search?q=Lip+Moist+Serum) | N/A |
-| 4 | [Lip Moist Essence](http://twitter.com/search?q=Lip+Moist+Essence) | N/A |
-| 5 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
-| 6 | [#GoodbyeNow](http://twitter.com/search?q=%23GoodbyeNow) | N/A |
-| 7 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 8 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
-| 9 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
-| 10 | [#TiffanyLockxWin](http://twitter.com/search?q=%23TiffanyLockxWin) | N/A |
-| 11 | [Hoki](http://twitter.com/search?q=Hoki) | N/A |
-| 12 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 13 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
-| 14 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 15 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 16 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 17 | [Barito](http://twitter.com/search?q=Barito) | N/A |
-| 18 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 19 | [REI BLONDE](http://twitter.com/search?q=REI+BLONDE) | N/A |
-| 20 | [David](http://twitter.com/search?q=David) | N/A |
-| 21 | [Gayus](http://twitter.com/search?q=Gayus) | N/A |
-| 22 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 23 | [Eselon III](http://twitter.com/search?q=Eselon+III) | N/A |
-| 24 | [ahy s14p](http://twitter.com/search?q=ahy+s14p) | N/A |
-| 25 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 26 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 27 | [H-10](http://twitter.com/search?q=H-10) | N/A |
-| 28 | [Kerupuk](http://twitter.com/search?q=Kerupuk) | N/A |
-| 29 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 30 | [Surya Paloh](http://twitter.com/search?q=Surya+Paloh) | N/A |
-| 31 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 32 | [Harley](http://twitter.com/search?q=Harley) | N/A |
-| 33 | [Bu Risma](http://twitter.com/search?q=Bu+Risma) | N/A |
-| 34 | [Anak Belum Siap](http://twitter.com/search?q=Anak+Belum+Siap) | N/A |
-| 35 | [SLAM DUNK](http://twitter.com/search?q=SLAM+DUNK) | N/A |
-| 36 | [Pelakor](http://twitter.com/search?q=Pelakor) | N/A |
-| 37 | [Sujud](http://twitter.com/search?q=Sujud) | N/A |
-| 38 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
-| 39 | [Pejabat](http://twitter.com/search?q=Pejabat) | N/A |
-| 40 | [LIKE IT LIKE IT PHOTO TEASER](http://twitter.com/search?q=LIKE+IT+LIKE+IT+PHOTO+TEASER) | N/A |
-| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 42 | [Kasus](http://twitter.com/search?q=Kasus) | N/A |
-| 43 | [#LISTEN_TO_YOUR_FANS](http://twitter.com/search?q=%23LISTEN_TO_YOUR_FANS) | N/A |
-| 44 | [#Woodz](http://twitter.com/search?q=%23Woodz) | N/A |
-| 45 | [#ABYSS](http://twitter.com/search?q=%23ABYSS) | N/A |
-| 46 | [#PLEASE_LISTEN_TO_US](http://twitter.com/search?q=%23PLEASE_LISTEN_TO_US) | N/A |
-| 47 | [#redminote11darishopee](http://twitter.com/search?q=%23redminote11darishopee) | N/A |
-| 48 | [#ThailandSocialAwards11](http://twitter.com/search?q=%23ThailandSocialAwards11) | N/A |
-| 49 | [#DemokratPimpinPerubahan](http://twitter.com/search?q=%23DemokratPimpinPerubahan) | N/A |
-| 50 | [#BLACKPINK_BORNPINK](http://twitter.com/search?q=%23BLACKPINK_BORNPINK) | N/A |
+| 1 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
+| 2 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
+| 3 | [LIP DUO](http://twitter.com/search?q=LIP+DUO) | N/A |
+| 4 | [Implora](http://twitter.com/search?q=Implora) | N/A |
+| 5 | [lip moist essence](http://twitter.com/search?q=lip+moist+essence) | N/A |
+| 6 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
+| 7 | [Lip Moist Serum](http://twitter.com/search?q=Lip+Moist+Serum) | N/A |
+| 8 | [#PerindoRaihAmanahRakyat](http://twitter.com/search?q=%23PerindoRaihAmanahRakyat) | N/A |
+| 9 | [Angela Tanoesoedibjo](http://twitter.com/search?q=Angela+Tanoesoedibjo) | N/A |
+| 10 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
+| 11 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 12 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 13 | [Pesan Kampus](http://twitter.com/search?q=Pesan+Kampus) | N/A |
+| 14 | [Mandat Seniman](http://twitter.com/search?q=Mandat+Seniman) | N/A |
+| 15 | [#GoodbyeNow](http://twitter.com/search?q=%23GoodbyeNow) | N/A |
+| 16 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
+| 17 | [Hoki](http://twitter.com/search?q=Hoki) | N/A |
+| 18 | [Hotman Paris](http://twitter.com/search?q=Hotman+Paris) | N/A |
+| 19 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 20 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 21 | [Alan](http://twitter.com/search?q=Alan) | N/A |
+| 22 | [Gayus](http://twitter.com/search?q=Gayus) | N/A |
+| 23 | [H-10](http://twitter.com/search?q=H-10) | N/A |
+| 24 | [SKCK](http://twitter.com/search?q=SKCK) | N/A |
+| 25 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 26 | [artist and staff](http://twitter.com/search?q=artist+and+staff) | N/A |
+| 27 | [Suju](http://twitter.com/search?q=Suju) | N/A |
+| 28 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 29 | [Bu Risma](http://twitter.com/search?q=Bu+Risma) | N/A |
+| 30 | [David](http://twitter.com/search?q=David) | N/A |
+| 31 | [AHY S14P](http://twitter.com/search?q=AHY+S14P) | N/A |
+| 32 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 33 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
+| 34 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
+| 35 | [Kerupuk](http://twitter.com/search?q=Kerupuk) | N/A |
+| 36 | [SLAM DUNK](http://twitter.com/search?q=SLAM+DUNK) | N/A |
+| 37 | [Rabu Abu](http://twitter.com/search?q=Rabu+Abu) | N/A |
+| 38 | [Harley](http://twitter.com/search?q=Harley) | N/A |
+| 39 | [Anak Belum Siap](http://twitter.com/search?q=Anak+Belum+Siap) | N/A |
+| 40 | [Pejabat](http://twitter.com/search?q=Pejabat) | N/A |
+| 41 | [LIKE IT LIKE IT PHOTO TEASER](http://twitter.com/search?q=LIKE+IT+LIKE+IT+PHOTO+TEASER) | N/A |
+| 42 | [#TiffanyLockxWin](http://twitter.com/search?q=%23TiffanyLockxWin) | N/A |
+| 43 | [#musikalisasisca](http://twitter.com/search?q=%23musikalisasisca) | N/A |
+| 44 | [#TeddyBear2ndWin](http://twitter.com/search?q=%23TeddyBear2ndWin) | N/A |
+| 45 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 46 | [#PersijaDay](http://twitter.com/search?q=%23PersijaDay) | N/A |
+| 47 | [#listen_to_your_fans](http://twitter.com/search?q=%23listen_to_your_fans) | N/A |
+| 48 | [#ABYSS](http://twitter.com/search?q=%23ABYSS) | N/A |
+| 49 | [#PLEASE_LISTEN_TO_US](http://twitter.com/search?q=%23PLEASE_LISTEN_TO_US) | N/A |
+| 50 | [#RedmiNote11dariShopee](http://twitter.com/search?q=%23RedmiNote11dariShopee) | N/A |
 
 
 

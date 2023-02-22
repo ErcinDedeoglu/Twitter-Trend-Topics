@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Niigata
 
-📆 Last Updated: `2023-02-22 12:18:52 UTC`
+📆 Last Updated: `2023-02-22 13:21:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JRS775](http://twitter.com/search?q=%23JRS775) | N/A |
-| 2 | [#猫の日](http://twitter.com/search?q=%23%e7%8c%ab%e3%81%ae%e6%97%a5) | N/A |
-| 3 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
-| 4 | [#ぱかライブTV](http://twitter.com/search?q=%23%e3%81%b1%e3%81%8b%e3%83%a9%e3%82%a4%e3%83%96TV) | #ぱかライブTV is a Japanese streaming service that allows users to watch live TV and movies on their mobile devices. The name is a combination of the words "paka" (パカ) which means "to watch" and "live TV". In English, it translates to "Watch Live TV". |
-| 5 | [#猫又おかゆ2023生誕祭Live](http://twitter.com/search?q=%23%e7%8c%ab%e5%8f%88%e3%81%8a%e3%81%8b%e3%82%862023%e7%94%9f%e8%aa%95%e7%a5%adLive) | N/A |
-| 6 | [空耳アワー](http://twitter.com/search?q=%e7%a9%ba%e8%80%b3%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
-| 7 | [#シャニマス生配信](http://twitter.com/search?q=%23%e3%82%b7%e3%83%a3%e3%83%8b%e3%83%9e%e3%82%b9%e7%94%9f%e9%85%8d%e4%bf%a1) | #シャニマス生配信 is a hashtag used on Twitter to refer to live streaming broadcasts of the popular Japanese rhythm game, "Idolmaster Cinderella Girls Starlight Stage". The English translation of this hashtag would be "Idolmaster Cinderella Girls Starlight Stage Live Stream". |
-| 8 | [進化スキル](http://twitter.com/search?q=%e9%80%b2%e5%8c%96%e3%82%b9%e3%82%ad%e3%83%ab) | N/A |
-| 9 | [ねこの日](http://twitter.com/search?q=%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
-| 10 | [ジェッカス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%82%ab%e3%82%b9) | N/A |
-| 11 | [因子強化](http://twitter.com/search?q=%e5%9b%a0%e5%ad%90%e5%bc%b7%e5%8c%96) | N/A |
-| 12 | [シャプマ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%97%e3%83%9e) | シャプマ is a type of Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. In English, it is sometimes referred to as a "shamisen song". |
-| 13 | [春川さん](http://twitter.com/search?q=%e6%98%a5%e5%b7%9d%e3%81%95%e3%82%93) | 春川さん is a Japanese honorific title used to refer to someone who is respected or admired. In English, it can be translated as "Mr. Harukawa" or "Ms. Harukawa". |
-| 14 | [キービジュアル](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%93%e3%82%b8%e3%83%a5%e3%82%a2%e3%83%ab) | N/A |
-| 15 | [アラバキ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%90%e3%82%ad) | アラバキ is a Japanese slang term that means "foolish" or "stupid". It is often used to describe someone who has done something foolish or made a mistake. |
-| 16 | [生粋の猫](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e7%8c%ab) | N/A |
-| 17 | [猫度80](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a680) | N/A |
-| 18 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 19 | [猫っぷり](http://twitter.com/search?q=%e7%8c%ab%e3%81%a3%e3%81%b7%e3%82%8a) | N/A |
-| 20 | [マチュピチュ](http://twitter.com/search?q=%e3%83%9e%e3%83%81%e3%83%a5%e3%83%94%e3%83%81%e3%83%a5) | N/A |
-| 21 | [ウマ娘3](http://twitter.com/search?q=%e3%82%a6%e3%83%9e%e5%a8%983) | N/A |
-| 22 | [放送40年](http://twitter.com/search?q=%e6%94%be%e9%80%8140%e5%b9%b4) | N/A |
-| 23 | [マニアック企画](http://twitter.com/search?q=%e3%83%9e%e3%83%8b%e3%82%a2%e3%83%83%e3%82%af%e4%bc%81%e7%94%bb) | N/A |
-| 24 | [ナギサ様](http://twitter.com/search?q=%e3%83%8a%e3%82%ae%e3%82%b5%e6%a7%98) | N/A |
-| 25 | [本物のネコちゃん](http://twitter.com/search?q=%e6%9c%ac%e7%89%a9%e3%81%ae%e3%83%8d%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 26 | [猫度100](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a6100) | N/A |
-| 27 | [ベイブレード](http://twitter.com/search?q=%e3%83%99%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%83%89) | N/A |
-| 28 | [ネコの日](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%81%ae%e6%97%a5) | N/A |
-| 29 | [タモさん](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%81%95%e3%82%93) | タモさん is a nickname for the Japanese cartoon character Tamogotchi. It is derived from the combination of the words "tamago" (egg) and "gotchi" (a portmanteau of "virtual pet"). In English, it can be translated to mean "Mr. Tamogotchi". |
-| 30 | [大腿骨骨折](http://twitter.com/search?q=%e5%a4%a7%e8%85%bf%e9%aa%a8%e9%aa%a8%e6%8a%98) | N/A |
-| 31 | [シービー](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%93%e3%83%bc) | シービー (shībī) is a Japanese onomatopoeia that is used to describe the sound of a wave crashing against the shore. In English, it can be translated as "splash" or "crash". |
-| 32 | [猫系男子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e7%94%b7%e5%ad%90) | N/A |
-| 33 | [猫系女子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e5%a5%b3%e5%ad%90) | N/A |
-| 34 | [猫度50](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a650) | N/A |
-| 35 | [AinoArika](http://twitter.com/search?q=AinoArika) | N/A |
-| 36 | [子ども予算倍増](http://twitter.com/search?q=%e5%ad%90%e3%81%a9%e3%82%82%e4%ba%88%e7%ae%97%e5%80%8d%e5%a2%97) | N/A |
-| 37 | [みくにゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%8f%e3%81%ab%e3%82%83%e3%82%93) | N/A |
-| 38 | [猫の風上](http://twitter.com/search?q=%e7%8c%ab%e3%81%ae%e9%a2%a8%e4%b8%8a) | N/A |
-| 39 | [ダンプラ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%97%e3%83%a9) | N/A |
-| 40 | [ファッション猫](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3%e7%8c%ab) | N/A |
-| 41 | [月と金星と木星](http://twitter.com/search?q=%e6%9c%88%e3%81%a8%e9%87%91%e6%98%9f%e3%81%a8%e6%9c%a8%e6%98%9f) | N/A |
-| 42 | [陰実2期](http://twitter.com/search?q=%e9%99%b0%e5%ae%9f2%e6%9c%9f) | N/A |
-| 43 | [猫度20](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a620) | N/A |
-| 44 | [シャーカー](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
-| 45 | [スキル進化](http://twitter.com/search?q=%e3%82%b9%e3%82%ad%e3%83%ab%e9%80%b2%e5%8c%96) | N/A |
-| 46 | [つくばエクスプレス](http://twitter.com/search?q=%e3%81%a4%e3%81%8f%e3%81%b0%e3%82%a8%e3%82%af%e3%82%b9%e3%83%97%e3%83%ac%e3%82%b9) | N/A |
-| 47 | [木原官房副長官](http://twitter.com/search?q=%e6%9c%a8%e5%8e%9f%e5%ae%98%e6%88%bf%e5%89%af%e9%95%b7%e5%ae%98) | N/A |
-| 48 | [スシコラ](http://twitter.com/search?q=%e3%82%b9%e3%82%b7%e3%82%b3%e3%83%a9) | N/A |
-| 49 | [水着スカディ](http://twitter.com/search?q=%e6%b0%b4%e7%9d%80%e3%82%b9%e3%82%ab%e3%83%87%e3%82%a3) | 水着スカディ is a type of swimsuit that originated in Japan. It is a one-piece swimsuit with a skirt attached to the bottom, giving it a unique look. The name comes from the Japanese words for "swimsuit" (水着) and "skirt" (スカート). In English, it can be translated as "skirted swimsuit". |
-| 50 | [ナギちゃん](http://twitter.com/search?q=%e3%83%8a%e3%82%ae%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 1 | [#無造作レディオ](http://twitter.com/search?q=%23%e7%84%a1%e9%80%a0%e4%bd%9c%e3%83%ac%e3%83%87%e3%82%a3%e3%82%aa) | N/A |
+| 2 | [#JRS775](http://twitter.com/search?q=%23JRS775) | N/A |
+| 3 | [#にゃんにゃんにゃんの日](http://twitter.com/search?q=%23%e3%81%ab%e3%82%83%e3%82%93%e3%81%ab%e3%82%83%e3%82%93%e3%81%ab%e3%82%83%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
+| 4 | [カツラギエース](http://twitter.com/search?q=%e3%82%ab%e3%83%84%e3%83%a9%e3%82%ae%e3%82%a8%e3%83%bc%e3%82%b9) | N/A |
+| 5 | [シービー](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%93%e3%83%bc) | シービー (shībī) is a Japanese onomatopoeia that is used to describe the sound of a wave crashing against the shore. In English, it can be translated as "splash" or "crash". |
+| 6 | [ネオユニヴァース](http://twitter.com/search?q=%e3%83%8d%e3%82%aa%e3%83%a6%e3%83%8b%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%b9) | N/A |
+| 7 | [#猫の日](http://twitter.com/search?q=%23%e7%8c%ab%e3%81%ae%e6%97%a5) | N/A |
+| 8 | [#ぱかライブTV](http://twitter.com/search?q=%23%e3%81%b1%e3%81%8b%e3%83%a9%e3%82%a4%e3%83%96TV) | #ぱかライブTV is a Japanese streaming service that allows users to watch live TV and movies on their mobile devices. The name is a combination of the words "paka" (パカ) which means "to watch" and "live TV". In English, it translates to "Watch Live TV". |
+| 9 | [ジャンポケ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9d%e3%82%b1) | ジャンポケ is a Japanese card game that is similar to the popular game Uno. The name comes from the Japanese words for "janken" (rock-paper-scissors) and "poker." The goal of the game is to be the first player to get rid of all their cards by matching them with cards in the center pile. |
+| 10 | [ツインターボ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9c) | N/A |
+| 11 | [ヒシミラクル](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab) | N/A |
+| 12 | [ジャングルポケット](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%b0%e3%83%ab%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88) | ジャングルポケット (Janguru Poketto) is a Japanese manga series written and illustrated by Takashi Murakami. It follows the adventures of a group of animals living in a jungle pocket, which is a small pocket of land surrounded by a large jungle. The English translation of the title is "Jungle Pocket". |
+| 13 | [タップダンスシチー](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%97%e3%83%80%e3%83%b3%e3%82%b9%e3%82%b7%e3%83%81%e3%83%bc) | N/A |
+| 14 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
+| 15 | [ラモーヌ](http://twitter.com/search?q=%e3%83%a9%e3%83%a2%e3%83%bc%e3%83%8c) | N/A |
+| 16 | [進化スキル](http://twitter.com/search?q=%e9%80%b2%e5%8c%96%e3%82%b9%e3%82%ad%e3%83%ab) | N/A |
+| 17 | [空耳アワー](http://twitter.com/search?q=%e7%a9%ba%e8%80%b3%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
+| 18 | [新シナリオ](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%8a%e3%83%aa%e3%82%aa) | 新シナリオ (Shin Scenario) is a Japanese term that refers to a new story or plotline. It is often used in the context of video games, movies, and other forms of entertainment. In English, it can be translated as "new scenario" or "new plotline". |
+| 19 | [杉本さん](http://twitter.com/search?q=%e6%9d%89%e6%9c%ac%e3%81%95%e3%82%93) | N/A |
+| 20 | [社台解禁](http://twitter.com/search?q=%e7%a4%be%e5%8f%b0%e8%a7%a3%e7%a6%81) | N/A |
+| 21 | [タキオン](http://twitter.com/search?q=%e3%82%bf%e3%82%ad%e3%82%aa%e3%83%b3) | N/A |
+| 22 | [ねこの日](http://twitter.com/search?q=%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
+| 23 | [三大始祖](http://twitter.com/search?q=%e4%b8%89%e5%a4%a7%e5%a7%8b%e7%a5%96) | 三大始祖 (Sān Dà Shǐ Zǔ) is a term used to refer to the three founders of Chinese philosophy: Confucius, Laozi, and Zhuangzi. In English, it translates to "The Three Sages". |
+| 24 | [東山奈央](http://twitter.com/search?q=%e6%9d%b1%e5%b1%b1%e5%a5%88%e5%a4%ae) | 東山奈央 (Touyama Nao) is a Japanese voice actress and singer. Her name can be translated to mean "East Mountain Nao". |
+| 25 | [斎賀みつき](http://twitter.com/search?q=%e6%96%8e%e8%b3%80%e3%81%bf%e3%81%a4%e3%81%8d) | N/A |
+| 26 | [斎賀さん](http://twitter.com/search?q=%e6%96%8e%e8%b3%80%e3%81%95%e3%82%93) | N/A |
+| 27 | [子ども予算倍増](http://twitter.com/search?q=%e5%ad%90%e3%81%a9%e3%82%82%e4%ba%88%e7%ae%97%e5%80%8d%e5%a2%97) | N/A |
+| 28 | [バイアリーターク](http://twitter.com/search?q=%e3%83%90%e3%82%a4%e3%82%a2%e3%83%aa%e3%83%bc%e3%82%bf%e3%83%bc%e3%82%af) | バイアリーターク (Biary Talk) is a Japanese term used to describe a conversation between two people that is characterized by an open and honest exchange of thoughts and feelings. It is often used in the context of romantic relationships, but can also be applied to any kind of interpersonal communication. The goal of biary talk is to create a safe space for both parties to express themselves without fear of judgement or criticism. |
+| 29 | [ステイゴールド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a4%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 30 | [シュヴァルグラン](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%b4%e3%82%a1%e3%83%ab%e3%82%b0%e3%83%a9%e3%83%b3) | N/A |
+| 31 | [木原官房副長官](http://twitter.com/search?q=%e6%9c%a8%e5%8e%9f%e5%ae%98%e6%88%bf%e5%89%af%e9%95%b7%e5%ae%98) | N/A |
+| 32 | [ダーレーアラビアン](http://twitter.com/search?q=%e3%83%80%e3%83%bc%e3%83%ac%e3%83%bc%e3%82%a2%e3%83%a9%e3%83%93%e3%82%a2%e3%83%b3) | ダーレーアラビアン is a type of Arabian horse. It is a breed that originated in the United Arab Emirates and is known for its beauty, strength, and agility. In English, it translates to "Daree Arabian". |
+| 33 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 34 | [ドンジャラ](http://twitter.com/search?q=%e3%83%89%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%a9) | N/A |
+| 35 | [因子強化](http://twitter.com/search?q=%e5%9b%a0%e5%ad%90%e5%bc%b7%e5%8c%96) | N/A |
+| 36 | [ゴドルフィンバルブ](http://twitter.com/search?q=%e3%82%b4%e3%83%89%e3%83%ab%e3%83%95%e3%82%a3%e3%83%b3%e3%83%90%e3%83%ab%e3%83%96) | N/A |
+| 37 | [サトノクラウン](http://twitter.com/search?q=%e3%82%b5%e3%83%88%e3%83%8e%e3%82%af%e3%83%a9%e3%82%a6%e3%83%b3) | N/A |
+| 38 | [ダブルジェット師匠](http://twitter.com/search?q=%e3%83%80%e3%83%96%e3%83%ab%e3%82%b8%e3%82%a7%e3%83%83%e3%83%88%e5%b8%ab%e5%8c%a0) | N/A |
+| 39 | [春川さん](http://twitter.com/search?q=%e6%98%a5%e5%b7%9d%e3%81%95%e3%82%93) | 春川さん is a Japanese honorific title used to refer to someone who is respected or admired. In English, it can be translated as "Mr. Harukawa" or "Ms. Harukawa". |
+| 40 | [アラバキ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%90%e3%82%ad) | アラバキ is a Japanese slang term that means "foolish" or "stupid". It is often used to describe someone who has done something foolish or made a mistake. |
+| 41 | [右京さん](http://twitter.com/search?q=%e5%8f%b3%e4%ba%ac%e3%81%95%e3%82%93) | 右京さん is a nickname for the Japanese Prime Minister, Yoshihide Suga. It is a play on words, as the characters for "右" (migi) and "京" (kyo) can be combined to form the word "Suga". In English, it could be translated as "Mr. Suga". |
+| 42 | [ネコの日](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%81%ae%e6%97%a5) | N/A |
+| 43 | [ジュエル](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%82%a8%e3%83%ab) | ジュエル (jueru) is a Japanese word meaning "jewel". It is used to refer to a precious gem or stone, such as a diamond or ruby. |
+| 44 | [イクノディクタス](http://twitter.com/search?q=%e3%82%a4%e3%82%af%e3%83%8e%e3%83%87%e3%82%a3%e3%82%af%e3%82%bf%e3%82%b9) | N/A |
+| 45 | [ナギサ様](http://twitter.com/search?q=%e3%83%8a%e3%82%ae%e3%82%b5%e6%a7%98) | N/A |
+| 46 | [キービジュアル](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%93%e3%82%b8%e3%83%a5%e3%82%a2%e3%83%ab) | N/A |
+| 47 | [生粋の猫](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e7%8c%ab) | N/A |
+| 48 | [猫度80](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a680) | N/A |
+| 49 | [猫っぷり](http://twitter.com/search?q=%e7%8c%ab%e3%81%a3%e3%81%b7%e3%82%8a) | N/A |
+| 50 | [ジェッカス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%82%ab%e3%82%b9) | N/A |
 
 
 

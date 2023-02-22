@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-22 12:19:21 UTC`
+📆 Last Updated: `2023-02-22 13:22:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,8 +23,8 @@ This is top 50 for New Zealand
 | 6 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
 | 7 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
 | 8 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
-| 9 | [Simon Bridges](http://twitter.com/search?q=Simon+Bridges) | N/A |
-| 10 | [Simon Bridges](http://twitter.com/search?q=Simon+Bridges) | N/A |
+| 9 | [simon bridges](http://twitter.com/search?q=simon+bridges) | N/A |
+| 10 | [simon bridges](http://twitter.com/search?q=simon+bridges) | N/A |
 | 11 | [Climate-Safe Future](http://twitter.com/search?q=Climate-Safe+Future) | N/A |
 | 12 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 13 | [#NZGreens](http://twitter.com/search?q=%23NZGreens) | N/A |
@@ -32,17 +32,17 @@ This is top 50 for New Zealand
 | 15 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
 | 16 | [lorde](http://twitter.com/search?q=lorde) | N/A |
 | 17 | [#proudtobemāori](http://twitter.com/search?q=%23proudtobem%c4%81ori) | N/A |
-| 18 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 19 | [michael wood](http://twitter.com/search?q=michael+wood) | N/A |
-| 20 | [Foster](http://twitter.com/search?q=Foster) | N/A |
-| 21 | [Reserve Bank](http://twitter.com/search?q=Reserve+Bank) | N/A |
-| 22 | [Guyon](http://twitter.com/search?q=Guyon) | N/A |
-| 23 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 18 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 19 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 20 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
+| 21 | [Foster](http://twitter.com/search?q=Foster) | N/A |
+| 22 | [Reserve Bank](http://twitter.com/search?q=Reserve+Bank) | N/A |
+| 23 | [guyon](http://twitter.com/search?q=guyon) | N/A |
 | 24 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
 | 25 | [adrian orr](http://twitter.com/search?q=adrian+orr) | N/A |
 | 26 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
-| 27 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 28 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 27 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 28 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 30 | [Judith](http://twitter.com/search?q=Judith) | N/A |
 | 31 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
@@ -53,18 +53,18 @@ This is top 50 for New Zealand
 | 36 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 37 | [national mp](http://twitter.com/search?q=national+mp) | N/A |
 | 38 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 39 | [Norway](http://twitter.com/search?q=Norway) | N/A |
-| 40 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 41 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 42 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 43 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 44 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 45 | [Robertson](http://twitter.com/search?q=Robertson) | Robertson is a Scottish surname derived from the personal name Robert, which means "bright fame". It is also a common given name in English-speaking countries. |
-| 46 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 47 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
+| 39 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 40 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 42 | [Norway](http://twitter.com/search?q=Norway) | N/A |
+| 43 | [Switch](http://twitter.com/search?q=Switch) | N/A |
+| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 45 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
+| 46 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 47 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 48 | [Translation](http://twitter.com/search?q=Translation) | N/A |
-| 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 50 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 49 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |
+| 50 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
 
 
 

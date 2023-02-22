@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United States
 
-📆 Last Updated: `2023-02-22 12:19:23 UTC`
+📆 Last Updated: `2023-02-22 13:22:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,56 @@ This is top 50 for United States
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
-| 2 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 3 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 4 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 1 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 2 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
 | 5 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
 | 6 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 7 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 8 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 9 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 10 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 11 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 12 | [THEY THREW BEANS ON HIM](http://twitter.com/search?q=THEY+THREW+BEANS+ON+HIM) | N/A |
-| 13 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 14 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 15 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
-| 16 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 17 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
-| 18 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 19 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 20 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
-| 21 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
-| 22 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
-| 23 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 24 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
-| 25 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 26 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
-| 27 | [Distress](http://twitter.com/search?q=Distress) | N/A |
-| 28 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 29 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 30 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
-| 31 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 32 | [The Incredibles](http://twitter.com/search?q=The+Incredibles) | N/A |
-| 33 | [Ines](http://twitter.com/search?q=Ines) | N/A |
-| 34 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 35 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 36 | [Physical 100](http://twitter.com/search?q=Physical+100) | N/A |
-| 37 | [Kevin Gates](http://twitter.com/search?q=Kevin+Gates) | N/A |
-| 38 | [#tangent](http://twitter.com/search?q=%23tangent) | N/A |
-| 39 | [#UkraineRussianWar](http://twitter.com/search?q=%23UkraineRussianWar) | N/A |
-| 40 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
-| 41 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
-| 42 | [#PerfectMatchNetflix](http://twitter.com/search?q=%23PerfectMatchNetflix) | N/A |
-| 43 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
-| 44 | [#StyleOfThieves](http://twitter.com/search?q=%23StyleOfThieves) | N/A |
+| 7 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 8 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 9 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 10 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 11 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 12 | [Party Gear](http://twitter.com/search?q=Party+Gear) | N/A |
+| 13 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
+| 14 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 15 | [Return to the Lord](http://twitter.com/search?q=Return+to+the+Lord) | N/A |
+| 16 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 17 | [Splash](http://twitter.com/search?q=Splash) | N/A |
+| 18 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
+| 19 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 20 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 21 | [THEY THREW BEANS ON HIM](http://twitter.com/search?q=THEY+THREW+BEANS+ON+HIM) | N/A |
+| 22 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 23 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
+| 24 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 25 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 26 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 27 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
+| 28 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
+| 29 | [Little Marco](http://twitter.com/search?q=Little+Marco) | N/A |
+| 30 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 31 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 32 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 33 | [Distress](http://twitter.com/search?q=Distress) | N/A |
+| 34 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
+| 35 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 36 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
+| 37 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 38 | [wisconsin supreme court](http://twitter.com/search?q=wisconsin+supreme+court) | N/A |
+| 39 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 40 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
+| 41 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 42 | [The Incredibles](http://twitter.com/search?q=The+Incredibles) | N/A |
+| 43 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 44 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 45 | [#UkraineRussianWar](http://twitter.com/search?q=%23UkraineRussianWar) | N/A |
+| 46 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 47 | [#waffle397](http://twitter.com/search?q=%23waffle397) | N/A |
+| 48 | [#tangent](http://twitter.com/search?q=%23tangent) | N/A |
+| 49 | [#StyleOfThieves](http://twitter.com/search?q=%23StyleOfThieves) | N/A |
+| 50 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Blackpool
 
-📆 Last Updated: `2023-02-22 12:18:30 UTC`
+📆 Last Updated: `2023-02-22 13:21:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 2 | [#ToryBrexitDisaster](http://twitter.com/search?q=%23ToryBrexitDisaster) | N/A |
-| 3 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 4 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
-| 5 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 6 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 7 | [#AshWednesday](http://twitter.com/search?q=%23AshWednesday) | N/A |
-| 8 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 1 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
+| 2 | [South West Norfolk](http://twitter.com/search?q=South+West+Norfolk) | N/A |
+| 3 | [Protocol](http://twitter.com/search?q=Protocol) | N/A |
+| 4 | [#ToryBrexitDisaster](http://twitter.com/search?q=%23ToryBrexitDisaster) | N/A |
+| 5 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 6 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
+| 7 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 8 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
 | 9 | [Bangladeshi](http://twitter.com/search?q=Bangladeshi) | N/A |
-| 10 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
-| 11 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 12 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
-| 13 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 14 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 15 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 16 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
-| 17 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 18 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
-| 19 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 20 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
+| 10 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
+| 11 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 12 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 13 | [She's British](http://twitter.com/search?q=She%27s+British) | N/A |
+| 14 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
+| 15 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
+| 16 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
+| 17 | [Money in the Bank](http://twitter.com/search?q=Money+in+the+Bank) | N/A |
+| 18 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 19 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 20 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
 | 21 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
-| 22 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
-| 23 | [Islamic State](http://twitter.com/search?q=Islamic+State) | N/A |
-| 24 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 25 | [World Thinking Day](http://twitter.com/search?q=World+Thinking+Day) | N/A |
-| 26 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
-| 27 | [South West Norfolk](http://twitter.com/search?q=South+West+Norfolk) | N/A |
-| 28 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 29 | [Zoe Ball](http://twitter.com/search?q=Zoe+Ball) | N/A |
-| 30 | [Das Kapital](http://twitter.com/search?q=Das+Kapital) | N/A |
-| 31 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
-| 32 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 33 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
-| 34 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 35 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 36 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 37 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 38 | [Brexit Britain](http://twitter.com/search?q=Brexit+Britain) | N/A |
-| 39 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 40 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
-| 41 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 42 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 43 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
-| 44 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 45 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 46 | [#WellbeingWednesday](http://twitter.com/search?q=%23WellbeingWednesday) | N/A |
-| 47 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
-| 48 | [#happybirthdaychrismoyles](http://twitter.com/search?q=%23happybirthdaychrismoyles) | N/A |
-| 49 | [#WorldEncephalitisDay](http://twitter.com/search?q=%23WorldEncephalitisDay) | N/A |
-| 50 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 22 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 23 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 24 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 25 | [British Citizenship](http://twitter.com/search?q=British+Citizenship) | N/A |
+| 26 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 27 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
+| 28 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
+| 29 | [Mel Giedroyc](http://twitter.com/search?q=Mel+Giedroyc) | N/A |
+| 30 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 31 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 32 | [Islamic State](http://twitter.com/search?q=Islamic+State) | N/A |
+| 33 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
+| 34 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
+| 35 | [Das Kapital](http://twitter.com/search?q=Das+Kapital) | N/A |
+| 36 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
+| 37 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 38 | [daily quordle 394](http://twitter.com/search?q=daily+quordle+394) | N/A |
+| 39 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 40 | [Religious](http://twitter.com/search?q=Religious) | N/A |
+| 41 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
+| 42 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 43 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 44 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 45 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 46 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 47 | [Brexit Britain](http://twitter.com/search?q=Brexit+Britain) | N/A |
+| 48 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
+| 49 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 50 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
 
 
 

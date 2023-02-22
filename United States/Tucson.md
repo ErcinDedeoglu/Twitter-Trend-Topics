@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-02-22 12:19:15 UTC`
+📆 Last Updated: `2023-02-22 13:22:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,52 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 3 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
-| 4 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 7 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 8 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 9 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 11 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 12 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 13 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 14 | [THEY THREW BEANS ON HIM](http://twitter.com/search?q=THEY+THREW+BEANS+ON+HIM) | N/A |
-| 15 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 16 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 17 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
-| 18 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
-| 19 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 20 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 21 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 22 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
-| 23 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
-| 24 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 25 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 26 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
-| 27 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 1 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 2 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 5 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 6 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 7 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 8 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 9 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 10 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 11 | [Party Gear](http://twitter.com/search?q=Party+Gear) | N/A |
+| 12 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 13 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
+| 14 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 15 | [Return to the Lord](http://twitter.com/search?q=Return+to+the+Lord) | N/A |
+| 16 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 17 | [Splash](http://twitter.com/search?q=Splash) | N/A |
+| 18 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
+| 19 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 20 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
+| 21 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 22 | [THEY THREW BEANS ON HIM](http://twitter.com/search?q=THEY+THREW+BEANS+ON+HIM) | N/A |
+| 23 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 24 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 25 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 26 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 27 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
 | 28 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
-| 29 | [Distress](http://twitter.com/search?q=Distress) | N/A |
-| 30 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 31 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 32 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 33 | [The Incredibles](http://twitter.com/search?q=The+Incredibles) | N/A |
-| 34 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
-| 35 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 36 | [Ines](http://twitter.com/search?q=Ines) | N/A |
-| 37 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 38 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
-| 39 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 40 | [Physical 100](http://twitter.com/search?q=Physical+100) | N/A |
-| 41 | [Kevin Gates](http://twitter.com/search?q=Kevin+Gates) | N/A |
-| 42 | [#tangent](http://twitter.com/search?q=%23tangent) | N/A |
-| 43 | [#UkraineRussianWar](http://twitter.com/search?q=%23UkraineRussianWar) | N/A |
-| 44 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
-| 45 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
-| 46 | [#PerfectMatchNetflix](http://twitter.com/search?q=%23PerfectMatchNetflix) | N/A |
-| 47 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
-| 48 | [#StyleOfThieves](http://twitter.com/search?q=%23StyleOfThieves) | N/A |
+| 29 | [Little Marco](http://twitter.com/search?q=Little+Marco) | N/A |
+| 30 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 31 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 32 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 33 | [Distress](http://twitter.com/search?q=Distress) | N/A |
+| 34 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
+| 35 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
+| 36 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 37 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
+| 38 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
+| 39 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 40 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 41 | [The Incredibles](http://twitter.com/search?q=The+Incredibles) | N/A |
+| 42 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 43 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 44 | [#UkraineRussianWar](http://twitter.com/search?q=%23UkraineRussianWar) | N/A |
+| 45 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 46 | [#waffle397](http://twitter.com/search?q=%23waffle397) | N/A |
 
 
 

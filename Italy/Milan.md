@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-22 12:18:45 UTC`
+📆 Last Updated: `2023-02-22 13:21:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,48 +21,48 @@ This is top 50 for [Italy](</Italy>)
 | 4 | [#LaRussa](http://twitter.com/search?q=%23LaRussa) | N/A |
 | 5 | [#LiverpoolRealMadrid](http://twitter.com/search?q=%23LiverpoolRealMadrid) | N/A |
 | 6 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 7 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 8 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 9 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 7 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 8 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 10 | [Francoforte](http://twitter.com/search?q=Francoforte) | N/A |
 | 11 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
 | 12 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 13 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
+| 13 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
 | 14 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 15 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
-| 16 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 17 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
+| 16 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
+| 17 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
 | 18 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
 | 19 | [Risorgimento](http://twitter.com/search?q=Risorgimento) | N/A |
-| 20 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 20 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
 | 21 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 22 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
-| 23 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 24 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
-| 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 26 | [Annalisa Savino](http://twitter.com/search?q=Annalisa+Savino) | N/A |
-| 27 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
-| 28 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
-| 29 | [azzurra](http://twitter.com/search?q=azzurra) | N/A |
-| 30 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 31 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 32 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
-| 33 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
-| 34 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 35 | [Wanda Nara](http://twitter.com/search?q=Wanda+Nara) | N/A |
-| 36 | [Il Real](http://twitter.com/search?q=Il+Real) | N/A |
-| 37 | [Lucia Zagaria](http://twitter.com/search?q=Lucia+Zagaria) | N/A |
-| 38 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 39 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
-| 40 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 41 | [CasaPound](http://twitter.com/search?q=CasaPound) | N/A |
-| 42 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 43 | [Mustapha Milambo](http://twitter.com/search?q=Mustapha+Milambo) | N/A |
-| 44 | [Lobotka](http://twitter.com/search?q=Lobotka) | N/A |
-| 45 | [schlein](http://twitter.com/search?q=schlein) | N/A |
-| 46 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 22 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
+| 23 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 24 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
+| 25 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
+| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 27 | [azzurra](http://twitter.com/search?q=azzurra) | N/A |
+| 28 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
+| 29 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
+| 30 | [anguissa](http://twitter.com/search?q=anguissa) | N/A |
+| 31 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
+| 32 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 33 | [Wanda Nara](http://twitter.com/search?q=Wanda+Nara) | N/A |
+| 34 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 35 | [Il Real](http://twitter.com/search?q=Il+Real) | N/A |
+| 36 | [Annalisa Savino](http://twitter.com/search?q=Annalisa+Savino) | N/A |
+| 37 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
+| 38 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 39 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 40 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 41 | [Schlein](http://twitter.com/search?q=Schlein) | N/A |
+| 42 | [Lobotka](http://twitter.com/search?q=Lobotka) | N/A |
+| 43 | [Sallusti](http://twitter.com/search?q=Sallusti) | N/A |
+| 44 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 45 | [Ermal](http://twitter.com/search?q=Ermal) | N/A |
+| 46 | [casapound](http://twitter.com/search?q=casapound) | N/A |
 | 47 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 48 | [Luca Attanasio](http://twitter.com/search?q=Luca+Attanasio) | N/A |
+| 48 | [Canfora](http://twitter.com/search?q=Canfora) | N/A |
 | 49 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 50 | [nastro](http://twitter.com/search?q=nastro) | N/A |
 
