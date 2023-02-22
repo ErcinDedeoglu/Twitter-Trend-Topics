@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-02-22 21:17:20 UTC`
+📆 Last Updated: `2023-02-22 22:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,45 +25,45 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 9 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 11 | [#somosinteligenciasocial](http://twitter.com/search?q=%23somosinteligenciasocial) | N/A |
+| 11 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 12 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
 | 13 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 14 | [Rómulo Betancourt](http://twitter.com/search?q=R%c3%b3mulo+Betancourt) | N/A |
-| 15 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 16 | [Chuchin](http://twitter.com/search?q=Chuchin) | N/A |
-| 17 | [Ramón Borrego](http://twitter.com/search?q=Ram%c3%b3n+Borrego) | N/A |
+| 15 | [Chuchin](http://twitter.com/search?q=Chuchin) | N/A |
+| 16 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 17 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 18 | [Roberto Lamarca](http://twitter.com/search?q=Roberto+Lamarca) | N/A |
-| 19 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 19 | [Ramón Borrego](http://twitter.com/search?q=Ram%c3%b3n+Borrego) | N/A |
 | 20 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 21 | [feliz martes](http://twitter.com/search?q=feliz+martes) | N/A |
-| 22 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 23 | [Hospital Villa Hermosa](http://twitter.com/search?q=Hospital+Villa+Hermosa) | N/A |
-| 24 | [Alfredo Sánchez Luna](http://twitter.com/search?q=Alfredo+S%c3%a1nchez+Luna) | N/A |
-| 25 | [César Romero](http://twitter.com/search?q=C%c3%a9sar+Romero) | N/A |
-| 26 | [Lustrillo](http://twitter.com/search?q=Lustrillo) | N/A |
-| 27 | [Carlota Sosa](http://twitter.com/search?q=Carlota+Sosa) | N/A |
-| 28 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 29 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 30 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
-| 31 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
-| 32 | [La Dolorita](http://twitter.com/search?q=La+Dolorita) | N/A |
-| 33 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
-| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 35 | [Caracas-La Guaira](http://twitter.com/search?q=Caracas-La+Guaira) | N/A |
-| 36 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 37 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 38 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
-| 39 | [Ismael Quintana](http://twitter.com/search?q=Ismael+Quintana) | N/A |
-| 40 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
-| 41 | [Rey de Europa](http://twitter.com/search?q=Rey+de+Europa) | N/A |
-| 42 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 43 | [Sandra Bullock](http://twitter.com/search?q=Sandra+Bullock) | N/A |
-| 44 | [Caribes de Anzoátegui](http://twitter.com/search?q=Caribes+de+Anzo%c3%a1tegui) | N/A |
-| 45 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 46 | [Soy Salud](http://twitter.com/search?q=Soy+Salud) | N/A |
-| 47 | [Padre de la Democracia](http://twitter.com/search?q=Padre+de+la+Democracia) | N/A |
-| 48 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
-| 49 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 21 | [#SomosInteligenciaSocial](http://twitter.com/search?q=%23SomosInteligenciaSocial) | N/A |
+| 22 | [Hospital Villa Hermosa](http://twitter.com/search?q=Hospital+Villa+Hermosa) | N/A |
+| 23 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 24 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 25 | [Caracas FC](http://twitter.com/search?q=Caracas+FC) | N/A |
+| 26 | [César Romero](http://twitter.com/search?q=C%c3%a9sar+Romero) | N/A |
+| 27 | [Lustrillo](http://twitter.com/search?q=Lustrillo) | N/A |
+| 28 | [Carlota Sosa](http://twitter.com/search?q=Carlota+Sosa) | N/A |
+| 29 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 30 | [La Dolorita](http://twitter.com/search?q=La+Dolorita) | N/A |
+| 31 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
+| 32 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 33 | [Manuel Alfredo Sánchez Luna](http://twitter.com/search?q=Manuel+Alfredo+S%c3%a1nchez+Luna) | N/A |
+| 34 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
+| 35 | [Tren de Aragua](http://twitter.com/search?q=Tren+de+Aragua) | N/A |
+| 36 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 37 | [Ismael Quintana](http://twitter.com/search?q=Ismael+Quintana) | N/A |
+| 38 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
+| 39 | [Rey de Europa](http://twitter.com/search?q=Rey+de+Europa) | N/A |
+| 40 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 41 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 42 | [Padre de la Democracia](http://twitter.com/search?q=Padre+de+la+Democracia) | N/A |
+| 43 | [Caribes de Anzoátegui](http://twitter.com/search?q=Caribes+de+Anzo%c3%a1tegui) | N/A |
+| 44 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 45 | [Sandra Bullock](http://twitter.com/search?q=Sandra+Bullock) | N/A |
+| 46 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
+| 47 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 48 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 49 | [Poleo](http://twitter.com/search?q=Poleo) | N/A |
 
 
 

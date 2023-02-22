@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Jose
 
-📆 Last Updated: `2023-02-22 21:18:06 UTC`
+📆 Last Updated: `2023-02-22 22:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 2 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 1 | [Pasadena](http://twitter.com/search?q=Pasadena) | N/A |
+| 2 | [#CALeg](http://twitter.com/search?q=%23CALeg) | N/A |
 | 3 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
-| 4 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 5 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
-| 6 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 7 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 8 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 9 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 10 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 11 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
-| 12 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
-| 13 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 14 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
-| 15 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 16 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 17 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 18 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 4 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 5 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 6 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 7 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
+| 8 | [SoCal](http://twitter.com/search?q=SoCal) | N/A |
+| 9 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 10 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 11 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 12 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 13 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 14 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 15 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 16 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 17 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
+| 18 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
 | 19 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
-| 20 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 21 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
-| 22 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 23 | [Noah Song](http://twitter.com/search?q=Noah+Song) | N/A |
-| 24 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
-| 25 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
-| 26 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 27 | [Our Division](http://twitter.com/search?q=Our+Division) | N/A |
-| 28 | [Zach Cunningham](http://twitter.com/search?q=Zach+Cunningham) | N/A |
-| 29 | [Our Day](http://twitter.com/search?q=Our+Day) | N/A |
-| 30 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
-| 31 | [Hickman](http://twitter.com/search?q=Hickman) | N/A |
-| 32 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 33 | [Dom Capers](http://twitter.com/search?q=Dom+Capers) | N/A |
-| 34 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 35 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 36 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
-| 37 | [Oak Ridge](http://twitter.com/search?q=Oak+Ridge) | N/A |
-| 38 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 39 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 40 | [Blaydes](http://twitter.com/search?q=Blaydes) | N/A |
-| 41 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 42 | [Our Team](http://twitter.com/search?q=Our+Team) | N/A |
-| 43 | [Dupree](http://twitter.com/search?q=Dupree) | N/A |
-| 44 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 45 | [Ultimate Universe](http://twitter.com/search?q=Ultimate+Universe) | N/A |
+| 20 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 21 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 22 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
+| 23 | [Apprehended](http://twitter.com/search?q=Apprehended) | N/A |
+| 24 | [Ivanka Trump](http://twitter.com/search?q=Ivanka+Trump) | N/A |
+| 25 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
+| 26 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 27 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
+| 28 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 29 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 30 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 31 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 32 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
+| 33 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 34 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 35 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
+| 36 | [RIP NIP](http://twitter.com/search?q=RIP+NIP) | N/A |
+| 37 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 38 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
+| 39 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 40 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 41 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
+| 42 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 43 | [EF-2](http://twitter.com/search?q=EF-2) | N/A |
+| 44 | [Special Counsel Jack Smith](http://twitter.com/search?q=Special+Counsel+Jack+Smith) | N/A |
+| 45 | [The People's President](http://twitter.com/search?q=The+People%27s+President) | N/A |
 | 46 | [Real President](http://twitter.com/search?q=Real+President) | N/A |
-| 47 | [Rule 5](http://twitter.com/search?q=Rule+5) | N/A |
-| 48 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 49 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 47 | [Ray Hudson](http://twitter.com/search?q=Ray+Hudson) | N/A |
+| 48 | [Ivanka and Jared](http://twitter.com/search?q=Ivanka+and+Jared) | N/A |
+| 49 | [Oak Ridge](http://twitter.com/search?q=Oak+Ridge) | N/A |
 
 
 

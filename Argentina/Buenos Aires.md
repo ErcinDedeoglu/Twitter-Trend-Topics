@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-02-22 21:17:23 UTC`
+📆 Last Updated: `2023-02-22 22:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
-| 2 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
+| 1 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
+| 2 | [DDHH](http://twitter.com/search?q=DDHH) | N/A |
 | 3 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 4 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 5 | [#cadenanacional](http://twitter.com/search?q=%23cadenanacional) | N/A |
-| 6 | [DOS MILLONES PARA COTY](http://twitter.com/search?q=DOS+MILLONES+PARA+COTY) | N/A |
-| 7 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 8 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
-| 9 | [Ponzio](http://twitter.com/search?q=Ponzio) | N/A |
-| 10 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 11 | [#DiaLollapaloozaEnLOS40](http://twitter.com/search?q=%23DiaLollapaloozaEnLOS40) | N/A |
-| 12 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
-| 13 | [Base Marambio](http://twitter.com/search?q=Base+Marambio) | N/A |
-| 14 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
-| 15 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 16 | [#Excursionistas](http://twitter.com/search?q=%23Excursionistas) | N/A |
-| 17 | [Telam](http://twitter.com/search?q=Telam) | N/A |
-| 18 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 19 | [Roca](http://twitter.com/search?q=Roca) | N/A |
-| 20 | [#CopaArgentina](http://twitter.com/search?q=%23CopaArgentina) | N/A |
-| 21 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
-| 22 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 23 | [Mapuches](http://twitter.com/search?q=Mapuches) | N/A |
-| 24 | [Estela](http://twitter.com/search?q=Estela) | N/A |
-| 25 | [Tehuelches](http://twitter.com/search?q=Tehuelches) | N/A |
-| 26 | [Iron Mountain](http://twitter.com/search?q=Iron+Mountain) | N/A |
-| 27 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 28 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 29 | [Ara San Juan](http://twitter.com/search?q=Ara+San+Juan) | N/A |
-| 30 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
-| 31 | [all of those voices](http://twitter.com/search?q=all+of+those+voices) | N/A |
-| 32 | [San Nicolás](http://twitter.com/search?q=San+Nicol%c3%a1s) | N/A |
-| 33 | [hoyts](http://twitter.com/search?q=hoyts) | N/A |
-| 34 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 35 | [Navarro](http://twitter.com/search?q=Navarro) | Navarro is a Spanish surname derived from the Latin word "navalis," meaning "of the ship." It is also a place name in Spain, referring to the region of Navarre. In English, it can refer to someone from Navarre or someone with the surname Navarro. |
-| 36 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
-| 37 | [Pipo](http://twitter.com/search?q=Pipo) | N/A |
-| 38 | [López Murphy](http://twitter.com/search?q=L%c3%b3pez+Murphy) | N/A |
-| 39 | [Tierra del Fuego](http://twitter.com/search?q=Tierra+del+Fuego) | N/A |
-| 40 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 41 | [Sube](http://twitter.com/search?q=Sube) | N/A |
-| 42 | [Tombolini](http://twitter.com/search?q=Tombolini) | N/A |
-| 43 | [La Cámpora](http://twitter.com/search?q=La+C%c3%a1mpora) | N/A |
-| 44 | [Vecchio](http://twitter.com/search?q=Vecchio) | N/A |
-| 45 | [#TragediaDeOnce](http://twitter.com/search?q=%23TragediaDeOnce) | N/A |
-| 46 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 47 | [#NoFueron30000](http://twitter.com/search?q=%23NoFueron30000) | N/A |
-| 48 | [#Miercoles](http://twitter.com/search?q=%23Miercoles) | N/A |
-| 49 | [#NoVasASerPresidente](http://twitter.com/search?q=%23NoVasASerPresidente) | N/A |
+| 4 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
+| 5 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
+| 6 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 7 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 8 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 9 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 10 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 11 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 12 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 13 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 14 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
+| 15 | [#integracionswiftie](http://twitter.com/search?q=%23integracionswiftie) | N/A |
+| 16 | [DOS MILLONES PARA COTY](http://twitter.com/search?q=DOS+MILLONES+PARA+COTY) | N/A |
+| 17 | [Excursionistas](http://twitter.com/search?q=Excursionistas) | N/A |
+| 18 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 19 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 20 | [Copa Argentina](http://twitter.com/search?q=Copa+Argentina) | N/A |
+| 21 | [#cadenanacional](http://twitter.com/search?q=%23cadenanacional) | N/A |
+| 22 | [Unidad Federal](http://twitter.com/search?q=Unidad+Federal) | N/A |
+| 23 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 24 | [Ponzio](http://twitter.com/search?q=Ponzio) | N/A |
+| 25 | [El City](http://twitter.com/search?q=El+City) | N/A |
+| 26 | [Gimnasia](http://twitter.com/search?q=Gimnasia) | N/A |
+| 27 | [Alejandra Vigo](http://twitter.com/search?q=Alejandra+Vigo) | N/A |
+| 28 | [Enzo](http://twitter.com/search?q=Enzo) | Enzo is an Italian name derived from the Germanic name Heinz, which means "ruler of the home". It is also a popular given name in Spanish-speaking countries. |
+| 29 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 30 | [Maidana](http://twitter.com/search?q=Maidana) | Maidana is a Spanish surname derived from the Latin word "magdana", meaning "woman of Magdala". It is also a place name in Argentina, where it is derived from the indigenous language of the region. In English, Maidana can be translated to mean "woman of Magdala". |
+| 31 | [Perrone](http://twitter.com/search?q=Perrone) | Perrone is an Italian surname. It is derived from the Latin word perronus, which means "rocky". In English, it can be translated to mean "of the rocky place". |
+| 32 | [Base Marambio](http://twitter.com/search?q=Base+Marambio) | N/A |
+| 33 | [Alberto Fernández](http://twitter.com/search?q=Alberto+Fern%c3%a1ndez) | Alberto Fernández is the current President of Argentina. He was elected in October 2019 and took office in December of that year. His name is Spanish and it translates to English as "Albert Fernandez". |
+| 34 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 35 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 36 | [Espinoza](http://twitter.com/search?q=Espinoza) | N/A |
+| 37 | [Telam](http://twitter.com/search?q=Telam) | N/A |
+| 38 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 39 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 40 | [#DiaLollapaloozaEnLOS40](http://twitter.com/search?q=%23DiaLollapaloozaEnLOS40) | N/A |
+| 41 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 42 | [TyC Sports](http://twitter.com/search?q=TyC+Sports) | N/A |
+| 43 | [Mapuches](http://twitter.com/search?q=Mapuches) | N/A |
+| 44 | [Malvinas](http://twitter.com/search?q=Malvinas) | N/A |
+| 45 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
+| 46 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 47 | [San Nicolás](http://twitter.com/search?q=San+Nicol%c3%a1s) | N/A |
+| 48 | [Iron Mountain](http://twitter.com/search?q=Iron+Mountain) | N/A |
+| 49 | [Estela](http://twitter.com/search?q=Estela) | N/A |
+| 50 | [ARA San Juan](http://twitter.com/search?q=ARA+San+Juan) | N/A |
 
 
 

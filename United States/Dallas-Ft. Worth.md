@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-22 21:17:59 UTC`
+📆 Last Updated: `2023-02-22 22:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
-| 2 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 1 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 2 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 3 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
 | 4 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 5 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 6 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
-| 7 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
-| 8 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 9 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
-| 10 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 11 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
-| 12 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 13 | [#FireLadyFiszi](http://twitter.com/search?q=%23FireLadyFiszi) | N/A |
-| 14 | [#D2Day](http://twitter.com/search?q=%23D2Day) | N/A |
+| 5 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 6 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 7 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 8 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 9 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 10 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
+| 11 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
+| 12 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
+| 13 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
+| 14 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
 | 15 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 16 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 17 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
-| 18 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 19 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
-| 20 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 21 | [Noah Song](http://twitter.com/search?q=Noah+Song) | N/A |
-| 22 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
-| 23 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
-| 24 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 25 | [Our Division](http://twitter.com/search?q=Our+Division) | N/A |
-| 26 | [Zach Cunningham](http://twitter.com/search?q=Zach+Cunningham) | N/A |
-| 27 | [Our Day](http://twitter.com/search?q=Our+Day) | N/A |
-| 28 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
-| 29 | [Hickman](http://twitter.com/search?q=Hickman) | N/A |
-| 30 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 31 | [Dom Capers](http://twitter.com/search?q=Dom+Capers) | N/A |
-| 32 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 33 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 34 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
-| 35 | [Oak Ridge](http://twitter.com/search?q=Oak+Ridge) | N/A |
-| 36 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 37 | [Blaydes](http://twitter.com/search?q=Blaydes) | N/A |
-| 38 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 39 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 40 | [Our Team](http://twitter.com/search?q=Our+Team) | N/A |
-| 41 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 42 | [Ultimate Universe](http://twitter.com/search?q=Ultimate+Universe) | N/A |
-| 43 | [Real President](http://twitter.com/search?q=Real+President) | N/A |
-| 44 | [Rule 5](http://twitter.com/search?q=Rule+5) | N/A |
-| 45 | [Dupree](http://twitter.com/search?q=Dupree) | N/A |
-| 46 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 47 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 48 | [Y-12](http://twitter.com/search?q=Y-12) | N/A |
-| 49 | [The People's President](http://twitter.com/search?q=The+People%27s+President) | N/A |
+| 16 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 17 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
+| 18 | [Apprehended](http://twitter.com/search?q=Apprehended) | N/A |
+| 19 | [#FireLadyFiszi](http://twitter.com/search?q=%23FireLadyFiszi) | N/A |
+| 20 | [Ivanka Trump](http://twitter.com/search?q=Ivanka+Trump) | N/A |
+| 21 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
+| 22 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
+| 23 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 24 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 25 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
+| 26 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 27 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 28 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 29 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
+| 30 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 31 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
+| 32 | [RIP NIP](http://twitter.com/search?q=RIP+NIP) | N/A |
+| 33 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 34 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 35 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
+| 36 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 37 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 38 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
+| 39 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 40 | [EF-2](http://twitter.com/search?q=EF-2) | N/A |
+| 41 | [Special Counsel Jack Smith](http://twitter.com/search?q=Special+Counsel+Jack+Smith) | N/A |
+| 42 | [Real President](http://twitter.com/search?q=Real+President) | N/A |
+| 43 | [Ray Hudson](http://twitter.com/search?q=Ray+Hudson) | N/A |
+| 44 | [The People's President](http://twitter.com/search?q=The+People%27s+President) | N/A |
+| 45 | [Ivanka and Jared](http://twitter.com/search?q=Ivanka+and+Jared) | N/A |
+| 46 | [Oak Ridge](http://twitter.com/search?q=Oak+Ridge) | N/A |
+| 47 | [Jared and Ivanka](http://twitter.com/search?q=Jared+and+Ivanka) | N/A |
+| 48 | [Noah Song](http://twitter.com/search?q=Noah+Song) | N/A |
+| 49 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
+| 50 | [Hickman](http://twitter.com/search?q=Hickman) | N/A |
 
 
 

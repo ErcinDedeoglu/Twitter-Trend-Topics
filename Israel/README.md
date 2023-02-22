@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-22 21:18:11 UTC`
+📆 Last Updated: `2023-02-22 22:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Israel
 | 3 | [בנק ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
 | 4 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
 | 5 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
-| 6 | [עוד צער](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a6%d7%a2%d7%a8) | N/A |
+| 6 | [ארי שמאי](http://twitter.com/search?q=%d7%90%d7%a8%d7%99+%d7%a9%d7%9e%d7%90%d7%99) | N/A |
 | 7 | [של סטטיק](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%98%d7%98%d7%99%d7%a7) | N/A |
-| 8 | [חוק דרעי](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
-| 9 | [ארי שמאי](http://twitter.com/search?q=%d7%90%d7%a8%d7%99+%d7%a9%d7%9e%d7%90%d7%99) | N/A |
+| 8 | [עוד צער](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a6%d7%a2%d7%a8) | N/A |
+| 9 | [חוק דרעי](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
 | 10 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
 | 11 | [חודש טוב](http://twitter.com/search?q=%d7%97%d7%95%d7%93%d7%a9+%d7%98%d7%95%d7%91) | N/A |
 | 12 | [גוב האריות](http://twitter.com/search?q=%d7%92%d7%95%d7%91+%d7%94%d7%90%d7%a8%d7%99%d7%95%d7%aa) | N/A |
-| 13 | [אלעזר שטרן](http://twitter.com/search?q=%d7%90%d7%9c%d7%a2%d7%96%d7%a8+%d7%a9%d7%98%d7%a8%d7%9f) | N/A |
-| 14 | [יום המשפחה שמח](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%9e%d7%a9%d7%a4%d7%97%d7%94+%d7%a9%d7%9e%d7%97) | N/A |
-| 15 | [ספר תורה](http://twitter.com/search?q=%d7%a1%d7%a4%d7%a8+%d7%aa%d7%95%d7%a8%d7%94) | N/A |
-| 16 | [של ליברפול](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%99%d7%91%d7%a8%d7%a4%d7%95%d7%9c) | N/A |
-| 17 | [בר גפן](http://twitter.com/search?q=%d7%91%d7%a8+%d7%92%d7%a4%d7%9f) | N/A |
-| 18 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 19 | [יתד נאמן](http://twitter.com/search?q=%d7%99%d7%aa%d7%93+%d7%a0%d7%90%d7%9e%d7%9f) | N/A |
-| 20 | [שרון גל](http://twitter.com/search?q=%d7%a9%d7%a8%d7%95%d7%9f+%d7%92%d7%9c) | N/A |
+| 13 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 14 | [אלעזר שטרן](http://twitter.com/search?q=%d7%90%d7%9c%d7%a2%d7%96%d7%a8+%d7%a9%d7%98%d7%a8%d7%9f) | N/A |
+| 15 | [יום המשפחה שמח](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%9e%d7%a9%d7%a4%d7%97%d7%94+%d7%a9%d7%9e%d7%97) | N/A |
+| 16 | [ספר תורה](http://twitter.com/search?q=%d7%a1%d7%a4%d7%a8+%d7%aa%d7%95%d7%a8%d7%94) | N/A |
+| 17 | [של ליברפול](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%99%d7%91%d7%a8%d7%a4%d7%95%d7%9c) | N/A |
+| 18 | [בר גפן](http://twitter.com/search?q=%d7%91%d7%a8+%d7%92%d7%a4%d7%9f) | N/A |
+| 19 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 20 | [יתד נאמן](http://twitter.com/search?q=%d7%99%d7%aa%d7%93+%d7%a0%d7%90%d7%9e%d7%9f) | N/A |
 | 21 | [של ריאל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%99%d7%90%d7%9c) | N/A |
 | 22 | [אסף חפץ](http://twitter.com/search?q=%d7%90%d7%a1%d7%a3+%d7%97%d7%a4%d7%a5) | N/A |
-| 23 | [שי ניצן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%a0%d7%99%d7%a6%d7%9f) | N/A |
-| 24 | [מנהל בית](http://twitter.com/search?q=%d7%9e%d7%a0%d7%94%d7%9c+%d7%91%d7%99%d7%aa) | N/A |
+| 23 | [מנהל בית](http://twitter.com/search?q=%d7%9e%d7%a0%d7%94%d7%9c+%d7%91%d7%99%d7%aa) | N/A |
+| 24 | [של קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
 | 25 | [של שכם](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%9b%d7%9d) | N/A |
 | 26 | [משרד החינוך](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a8%d7%93+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
-| 27 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 28 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
-| 29 | [של קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
-| 30 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
-| 31 | [בוקר קשה](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%a7%d7%a9%d7%94) | N/A |
-| 32 | [חוק מח](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%9e%d7%97) | N/A |
-| 33 | [תקציב המדינה](http://twitter.com/search?q=%d7%aa%d7%a7%d7%a6%d7%99%d7%91+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 34 | [בן אל](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%9c) | N/A |
-| 35 | [צאי לנו](http://twitter.com/search?q=%d7%a6%d7%90%d7%99+%d7%9c%d7%a0%d7%95) | N/A |
-| 36 | [עונש מוות](http://twitter.com/search?q=%d7%a2%d7%95%d7%a0%d7%a9+%d7%9e%d7%95%d7%95%d7%aa) | N/A |
-| 37 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 27 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
+| 28 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 29 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
+| 30 | [בוקר קשה](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%a7%d7%a9%d7%94) | N/A |
+| 31 | [חוק מח](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%9e%d7%97) | N/A |
+| 32 | [תקציב המדינה](http://twitter.com/search?q=%d7%aa%d7%a7%d7%a6%d7%99%d7%91+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 33 | [בן אל](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%9c) | N/A |
+| 34 | [צאי לנו](http://twitter.com/search?q=%d7%a6%d7%90%d7%99+%d7%9c%d7%a0%d7%95) | N/A |
+| 35 | [עונש מוות](http://twitter.com/search?q=%d7%a2%d7%95%d7%a0%d7%a9+%d7%9e%d7%95%d7%95%d7%aa) | N/A |
+| 36 | [שי ניצן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%a0%d7%99%d7%a6%d7%9f) | N/A |
+| 37 | [#ILANIT2023](http://twitter.com/search?q=%23ILANIT2023) | N/A |
 | 38 | [הלוואי עלינו](http://twitter.com/search?q=%d7%94%d7%9c%d7%95%d7%95%d7%90%d7%99+%d7%a2%d7%9c%d7%99%d7%a0%d7%95) | N/A |
-| 39 | [#ILANIT2023](http://twitter.com/search?q=%23ILANIT2023) | N/A |
-| 40 | [מחר שביתה](http://twitter.com/search?q=%d7%9e%d7%97%d7%a8+%d7%a9%d7%91%d7%99%d7%aa%d7%94) | N/A |
-| 41 | [ראש חודש אדר](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%97%d7%95%d7%93%d7%a9+%d7%90%d7%93%d7%a8) | N/A |
-| 42 | [בין מין](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%9e%d7%99%d7%9f) | N/A |
-| 43 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
-| 44 | [הספר של מתן](http://twitter.com/search?q=%d7%94%d7%a1%d7%a4%d7%a8+%d7%a9%d7%9c+%d7%9e%d7%aa%d7%9f) | N/A |
-| 45 | [מעון ראש הממשלה](http://twitter.com/search?q=%d7%9e%d7%a2%d7%95%d7%9f+%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 46 | [אחים שלך](http://twitter.com/search?q=%d7%90%d7%97%d7%99%d7%9d+%d7%a9%d7%9c%d7%9a) | N/A |
-| 47 | [אורן חזן](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%9f+%d7%97%d7%96%d7%9f) | N/A |
-| 48 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 49 | [עופר כסיף](http://twitter.com/search?q=%d7%a2%d7%95%d7%a4%d7%a8+%d7%9b%d7%a1%d7%99%d7%a3) | N/A |
-| 50 | [البلده القديمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%85%d9%87) | N/A |
+| 39 | [בין מין](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%9e%d7%99%d7%9f) | N/A |
+| 40 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
+| 41 | [מחר שביתה](http://twitter.com/search?q=%d7%9e%d7%97%d7%a8+%d7%a9%d7%91%d7%99%d7%aa%d7%94) | N/A |
+| 42 | [הספר של מתן](http://twitter.com/search?q=%d7%94%d7%a1%d7%a4%d7%a8+%d7%a9%d7%9c+%d7%9e%d7%aa%d7%9f) | N/A |
+| 43 | [מעון ראש הממשלה](http://twitter.com/search?q=%d7%9e%d7%a2%d7%95%d7%9f+%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 44 | [אחים שלך](http://twitter.com/search?q=%d7%90%d7%97%d7%99%d7%9d+%d7%a9%d7%9c%d7%9a) | N/A |
+| 45 | [אורן חזן](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%9f+%d7%97%d7%96%d7%9f) | N/A |
+| 46 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 47 | [עופר כסיף](http://twitter.com/search?q=%d7%a2%d7%95%d7%a4%d7%a8+%d7%9b%d7%a1%d7%99%d7%a3) | N/A |
+| 48 | [البلده القديمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%af%d9%87+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d9%85%d9%87) | N/A |
+| 49 | [מיליון ש](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f+%d7%a9) | N/A |
+| 50 | [נהג מונית](http://twitter.com/search?q=%d7%a0%d7%94%d7%92+%d7%9e%d7%95%d7%a0%d7%99%d7%aa) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-22 21:18:16 UTC`
+📆 Last Updated: `2023-02-22 22:17:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Turkey
 | 2 | [#99ÖncesiHaklarlaEYT](http://twitter.com/search?q=%2399%c3%96ncesiHaklarlaEYT) | N/A |
 | 3 | [#HalkTV](http://twitter.com/search?q=%23HalkTV) | N/A |
 | 4 | [Lacoste Necmi](http://twitter.com/search?q=Lacoste+Necmi) | N/A |
-| 5 | [#UmutveSabırla](http://twitter.com/search?q=%23UmutveSab%c4%b1rla) | N/A |
-| 6 | [#sasagerialımyap](http://twitter.com/search?q=%23sasagerial%c4%b1myap) | N/A |
-| 7 | [Metin Akpınar](http://twitter.com/search?q=Metin+Akp%c4%b1nar) | N/A |
-| 8 | [Savaş Ateş](http://twitter.com/search?q=Sava%c5%9f+Ate%c5%9f) | N/A |
-| 9 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
+| 5 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 6 | [#aytol](http://twitter.com/search?q=%23aytol) | N/A |
+| 7 | [Savaş Ateş](http://twitter.com/search?q=Sava%c5%9f+Ate%c5%9f) | N/A |
+| 8 | [#TELE1susturulamaz](http://twitter.com/search?q=%23TELE1susturulamaz) | N/A |
+| 9 | [Metin Akpınar](http://twitter.com/search?q=Metin+Akp%c4%b1nar) | N/A |
 | 10 | [Yıldız Tilbe](http://twitter.com/search?q=Y%c4%b1ld%c4%b1z+Tilbe) | N/A |
-| 11 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 12 | [İnsaniYardıma Operasyon](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon) | N/A |
-| 13 | [DERDİNİZ İMAM DEĞİL İSLAMLA](http://twitter.com/search?q=DERD%c4%b0N%c4%b0Z+%c4%b0MAM+DE%c4%9e%c4%b0L+%c4%b0SLAMLA) | N/A |
-| 14 | [Fight Club](http://twitter.com/search?q=Fight+Club) | N/A |
-| 15 | [Bob Geldof](http://twitter.com/search?q=Bob+Geldof) | N/A |
-| 16 | [Çadır Acil](http://twitter.com/search?q=%c3%87ad%c4%b1r+Acil) | N/A |
-| 17 | [Venüs](http://twitter.com/search?q=Ven%c3%bcs) | N/A |
+| 11 | [Tunç Soyer](http://twitter.com/search?q=Tun%c3%a7+Soyer) | N/A |
+| 12 | [Baturina](http://twitter.com/search?q=Baturina) | N/A |
+| 13 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
+| 14 | [DERDİNİZ İMAM DEĞİL İSLAMLA](http://twitter.com/search?q=DERD%c4%b0N%c4%b0Z+%c4%b0MAM+DE%c4%9e%c4%b0L+%c4%b0SLAMLA) | N/A |
+| 15 | [İnsaniYardıma Operasyon](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon) | N/A |
+| 16 | [Lina](http://twitter.com/search?q=Lina) | N/A |
+| 17 | [Fight Club](http://twitter.com/search?q=Fight+Club) | N/A |
 | 18 | [Truman Show](http://twitter.com/search?q=Truman+Show) | N/A |
-| 19 | [Lise 3](http://twitter.com/search?q=Lise+3) | N/A |
-| 20 | [Tunç Soyer](http://twitter.com/search?q=Tun%c3%a7+Soyer) | N/A |
-| 21 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
-| 22 | [Koğuştaki Mucize](http://twitter.com/search?q=Ko%c4%9fu%c5%9ftaki+Mucize) | N/A |
-| 23 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
-| 24 | [Deniz Gezmiş](http://twitter.com/search?q=Deniz+Gezmi%c5%9f) | N/A |
-| 25 | [Cem Adrian](http://twitter.com/search?q=Cem+Adrian) | N/A |
-| 26 | [Fox TV'ye](http://twitter.com/search?q=Fox+TV%27ye) | N/A |
-| 27 | [Dayanışma Yaşatır](http://twitter.com/search?q=Dayan%c4%b1%c5%9fma+Ya%c5%9fat%c4%b1r) | N/A |
-| 28 | [Come to Fenerbahçe](http://twitter.com/search?q=Come+to+Fenerbah%c3%a7e) | N/A |
-| 29 | [Akkuyu Nükleer Santral](http://twitter.com/search?q=Akkuyu+N%c3%bckleer+Santral) | N/A |
-| 30 | [Aldatıldığım](http://twitter.com/search?q=Aldat%c4%b1ld%c4%b1%c4%9f%c4%b1m) | N/A |
-| 31 | [ErtelenenDUS NeZaman](http://twitter.com/search?q=ErtelenenDUS+NeZaman) | N/A |
-| 32 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 33 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
-| 34 | [Gebze](http://twitter.com/search?q=Gebze) | N/A |
-| 35 | [Ebubekir](http://twitter.com/search?q=Ebubekir) | N/A |
-| 36 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
-| 37 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 38 | [Meral](http://twitter.com/search?q=Meral) | N/A |
-| 39 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
-| 40 | [Sarı](http://twitter.com/search?q=Sar%c4%b1) | N/A |
-| 41 | [Halkına](http://twitter.com/search?q=Halk%c4%b1na) | N/A |
-| 42 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
-| 43 | [Devran](http://twitter.com/search?q=Devran) | N/A |
-| 44 | [Umut Kervanı](http://twitter.com/search?q=Umut+Kervan%c4%b1) | N/A |
-| 45 | [Hizmet](http://twitter.com/search?q=Hizmet) | N/A |
-| 46 | [Moura](http://twitter.com/search?q=Moura) | N/A |
-| 47 | [Edip](http://twitter.com/search?q=Edip) | N/A |
-| 48 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 49 | [Engin Ardıç](http://twitter.com/search?q=Engin+Ard%c4%b1%c3%a7) | N/A |
-| 50 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 19 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 20 | [Bob Geldof](http://twitter.com/search?q=Bob+Geldof) | N/A |
+| 21 | [Deniz Gezmiş](http://twitter.com/search?q=Deniz+Gezmi%c5%9f) | N/A |
+| 22 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 23 | [Lise 3](http://twitter.com/search?q=Lise+3) | N/A |
+| 24 | [Nobel](http://twitter.com/search?q=Nobel) | N/A |
+| 25 | [Monesy](http://twitter.com/search?q=Monesy) | N/A |
+| 26 | [Venüs](http://twitter.com/search?q=Ven%c3%bcs) | N/A |
+| 27 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
+| 28 | [Çadır Acil](http://twitter.com/search?q=%c3%87ad%c4%b1r+Acil) | N/A |
+| 29 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
+| 30 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 31 | [Fox TV'ye](http://twitter.com/search?q=Fox+TV%27ye) | N/A |
+| 32 | [Cem Adrian](http://twitter.com/search?q=Cem+Adrian) | N/A |
+| 33 | [Come to Fenerbahçe](http://twitter.com/search?q=Come+to+Fenerbah%c3%a7e) | N/A |
+| 34 | [Akkuyu Nükleer Santral](http://twitter.com/search?q=Akkuyu+N%c3%bckleer+Santral) | N/A |
+| 35 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 36 | [Aldatıldığım](http://twitter.com/search?q=Aldat%c4%b1ld%c4%b1%c4%9f%c4%b1m) | N/A |
+| 37 | [Gebze](http://twitter.com/search?q=Gebze) | N/A |
+| 38 | [Halkına](http://twitter.com/search?q=Halk%c4%b1na) | N/A |
+| 39 | [Ebubekir](http://twitter.com/search?q=Ebubekir) | N/A |
+| 40 | [Edip](http://twitter.com/search?q=Edip) | N/A |
+| 41 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
+| 42 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 43 | [Meral](http://twitter.com/search?q=Meral) | N/A |
+| 44 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 45 | [Sarı](http://twitter.com/search?q=Sar%c4%b1) | N/A |
+| 46 | [Devran](http://twitter.com/search?q=Devran) | N/A |
+| 47 | [Hizmet](http://twitter.com/search?q=Hizmet) | N/A |
+| 48 | [Ömür](http://twitter.com/search?q=%c3%96m%c3%bcr) | N/A |
+| 49 | [Altını](http://twitter.com/search?q=Alt%c4%b1n%c4%b1) | N/A |
+| 50 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
 
 
 

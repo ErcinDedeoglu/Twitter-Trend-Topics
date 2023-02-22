@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-22 21:17:28 UTC`
+📆 Last Updated: `2023-02-22 22:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
 | 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 3 | [#Marefuori3](http://twitter.com/search?q=%23Marefuori3) | N/A |
-| 4 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
-| 5 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 6 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 3 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
+| 4 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
+| 5 | [ROSA RICCI](http://twitter.com/search?q=ROSA+RICCI) | N/A |
+| 6 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
 | 7 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
-| 8 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 9 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 11 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
-| 12 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
-| 13 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 14 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 15 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 16 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 17 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 18 | [Danish](http://twitter.com/search?q=Danish) | N/A |
-| 19 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 20 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 21 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 23 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
-| 24 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
-| 25 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 26 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 27 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 28 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 29 | [Seedorf](http://twitter.com/search?q=Seedorf) | N/A |
-| 30 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 31 | [Francoforte](http://twitter.com/search?q=Francoforte) | N/A |
-| 32 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
-| 33 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 34 | [Sasà](http://twitter.com/search?q=Sas%c3%a0) | N/A |
-| 35 | [Castrese](http://twitter.com/search?q=Castrese) | N/A |
-| 36 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
-| 37 | [Kubra](http://twitter.com/search?q=Kubra) | N/A |
-| 38 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 39 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 40 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
-| 41 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
-| 42 | [Risorgimento](http://twitter.com/search?q=Risorgimento) | N/A |
-| 43 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 44 | [Piccinini](http://twitter.com/search?q=Piccinini) | N/A |
-| 45 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
-| 46 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
-| 47 | [Ambrosini](http://twitter.com/search?q=Ambrosini) | N/A |
-| 48 | [Tim Burton](http://twitter.com/search?q=Tim+Burton) | N/A |
-| 49 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
+| 8 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 9 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 10 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
+| 11 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 12 | [Big Rom](http://twitter.com/search?q=Big+Rom) | N/A |
+| 13 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 14 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 15 | [Brozo](http://twitter.com/search?q=Brozo) | N/A |
+| 16 | [LA SCENA](http://twitter.com/search?q=LA+SCENA) | N/A |
+| 17 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 18 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 19 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
+| 20 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 21 | [Ermal](http://twitter.com/search?q=Ermal) | N/A |
+| 22 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
+| 23 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 24 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 25 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 26 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 27 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
+| 28 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 29 | [Giove](http://twitter.com/search?q=Giove) | N/A |
+| 30 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 31 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 32 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 33 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 34 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 35 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 36 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 37 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
+| 38 | [#PiccoleDonne](http://twitter.com/search?q=%23PiccoleDonne) | N/A |
+| 39 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 40 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
+| 41 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
+| 42 | [#amala](http://twitter.com/search?q=%23amala) | N/A |
+| 43 | [#LeConosco](http://twitter.com/search?q=%23LeConosco) | N/A |
+| 44 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 45 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 46 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
+| 47 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 48 | [#CoreadelSudItalia](http://twitter.com/search?q=%23CoreadelSudItalia) | N/A |
+| 49 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
 
 
 

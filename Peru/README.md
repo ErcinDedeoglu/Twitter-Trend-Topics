@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Peru
 
-📆 Last Updated: `2023-02-22 21:18:14 UTC`
+📆 Last Updated: `2023-02-22 22:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Peru
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 2 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 3 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 4 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
+| 2 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
+| 3 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
+| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 5 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
+| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 7 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 8 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
 | 9 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
 | 10 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 11 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 12 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 13 | [Minedu](http://twitter.com/search?q=Minedu) | N/A |
+| 12 | [MINEDU](http://twitter.com/search?q=MINEDU) | N/A |
+| 13 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 14 | [La Resistencia](http://twitter.com/search?q=La+Resistencia) | N/A |
 | 15 | [Gorriti](http://twitter.com/search?q=Gorriti) | N/A |
-| 16 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 17 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 18 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 16 | [Yordy Reyna](http://twitter.com/search?q=Yordy+Reyna) | N/A |
+| 17 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 18 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
 | 19 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 20 | [JISOO for Vogue France](http://twitter.com/search?q=JISOO+for+Vogue+France) | N/A |
-| 21 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
+| 20 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
+| 21 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
 | 22 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 23 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 24 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 24 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
 | 25 | [DARWIN NÚÑEZ](http://twitter.com/search?q=DARWIN+N%c3%9a%c3%91EZ) | N/A |
 | 26 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
 | 27 | [Marquesitas](http://twitter.com/search?q=Marquesitas) | N/A |
-| 28 | [Bejar](http://twitter.com/search?q=Bejar) | N/A |
-| 29 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
-| 30 | [Hohberg](http://twitter.com/search?q=Hohberg) | N/A |
-| 31 | [Esdras 2](http://twitter.com/search?q=Esdras+2) | N/A |
-| 32 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 33 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 34 | [SO PROUD OF YOU BTS](http://twitter.com/search?q=SO+PROUD+OF+YOU+BTS) | N/A |
-| 35 | [Alexandra Ames](http://twitter.com/search?q=Alexandra+Ames) | N/A |
-| 36 | [Aníbal Torres](http://twitter.com/search?q=An%c3%adbal+Torres) | N/A |
+| 28 | [Hohberg](http://twitter.com/search?q=Hohberg) | N/A |
+| 29 | [Esdras 2](http://twitter.com/search?q=Esdras+2) | N/A |
+| 30 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 31 | [Bejar](http://twitter.com/search?q=Bejar) | N/A |
+| 32 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 33 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
+| 34 | [Alexandra Ames](http://twitter.com/search?q=Alexandra+Ames) | N/A |
+| 35 | [SO PROUD OF YOU BTS](http://twitter.com/search?q=SO+PROUD+OF+YOU+BTS) | N/A |
+| 36 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 37 | [Inti y Bryan](http://twitter.com/search?q=Inti+y+Bryan) | N/A |
-| 38 | [Juliana](http://twitter.com/search?q=Juliana) | Juliana is a female given name of Latin origin, derived from the name Julius. It means "youthful" or "downy-bearded". |
+| 38 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
 | 39 | [la fiscalía de la nación](http://twitter.com/search?q=la+fiscal%c3%ada+de+la+naci%c3%b3n) | N/A |
-| 40 | [Corozo](http://twitter.com/search?q=Corozo) | N/A |
+| 40 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 41 | [Alfalfa](http://twitter.com/search?q=Alfalfa) | N/A |
-| 42 | [Duberli](http://twitter.com/search?q=Duberli) | N/A |
+| 42 | [Aníbal Torres](http://twitter.com/search?q=An%c3%adbal+Torres) | N/A |
 | 43 | [Lora](http://twitter.com/search?q=Lora) | N/A |
-| 44 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 45 | [Hurtado](http://twitter.com/search?q=Hurtado) | N/A |
+| 44 | [Duberli](http://twitter.com/search?q=Duberli) | N/A |
+| 45 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
 | 46 | [Ascues](http://twitter.com/search?q=Ascues) | N/A |
-| 47 | [Succar](http://twitter.com/search?q=Succar) | N/A |
-| 48 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 49 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 50 | [Soda](http://twitter.com/search?q=Soda) | N/A |
+| 47 | [Corozo](http://twitter.com/search?q=Corozo) | N/A |
+| 48 | [Doré](http://twitter.com/search?q=Dor%c3%a9) | N/A |
+| 49 | [Rafael Santos](http://twitter.com/search?q=Rafael+Santos) | N/A |
+| 50 | [Succar](http://twitter.com/search?q=Succar) | N/A |
 
 
 
