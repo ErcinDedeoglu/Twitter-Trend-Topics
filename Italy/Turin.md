@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-22 20:16:54 UTC`
+📆 Last Updated: `2023-02-22 21:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
-| 2 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
-| 3 | [#22febbraio](http://twitter.com/search?q=%2322febbraio) | N/A |
-| 4 | [#EintrachtNapoli](http://twitter.com/search?q=%23EintrachtNapoli) | N/A |
-| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 6 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 9 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 10 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 12 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 13 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 14 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
-| 15 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 16 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
-| 17 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 18 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 19 | [Francoforte](http://twitter.com/search?q=Francoforte) | N/A |
-| 20 | [Forza Inter](http://twitter.com/search?q=Forza+Inter) | N/A |
-| 21 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 22 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 23 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
-| 24 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
-| 25 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 26 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
-| 27 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
-| 28 | [Risorgimento](http://twitter.com/search?q=Risorgimento) | N/A |
-| 29 | [azzurra](http://twitter.com/search?q=azzurra) | N/A |
-| 30 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 31 | [Giove](http://twitter.com/search?q=Giove) | N/A |
-| 32 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
-| 33 | [Tim Burton](http://twitter.com/search?q=Tim+Burton) | N/A |
-| 34 | [Torsello](http://twitter.com/search?q=Torsello) | N/A |
-| 35 | [Sasà](http://twitter.com/search?q=Sas%c3%a0) | N/A |
-| 36 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 37 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
-| 38 | [Monica Bellucci](http://twitter.com/search?q=Monica+Bellucci) | N/A |
-| 39 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 40 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 41 | [Canfora](http://twitter.com/search?q=Canfora) | N/A |
-| 42 | [Rummenigge](http://twitter.com/search?q=Rummenigge) | N/A |
-| 43 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 44 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 45 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 46 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 47 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 48 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 49 | [Wanda Nara](http://twitter.com/search?q=Wanda+Nara) | N/A |
-| 50 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 3 | [#Marefuori3](http://twitter.com/search?q=%23Marefuori3) | N/A |
+| 4 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
+| 5 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
+| 6 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 7 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 8 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
+| 9 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 10 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 12 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 13 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
+| 14 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 15 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 16 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 17 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 18 | [Danish](http://twitter.com/search?q=Danish) | N/A |
+| 19 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 20 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 21 | [Artem](http://twitter.com/search?q=Artem) | N/A |
+| 22 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 24 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
+| 25 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
+| 26 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 27 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
+| 28 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 29 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 30 | [Seedorf](http://twitter.com/search?q=Seedorf) | N/A |
+| 31 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 32 | [Francoforte](http://twitter.com/search?q=Francoforte) | N/A |
+| 33 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
+| 34 | [Lautaro](http://twitter.com/search?q=Lautaro) | Lautaro is a male given name of Mapuche origin, meaning "hawk". It is also the name of a legendary Mapuche warrior who fought against the Spanish conquistadors in the 16th century. |
+| 35 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 36 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 37 | [Sasà](http://twitter.com/search?q=Sas%c3%a0) | N/A |
+| 38 | [Castrese](http://twitter.com/search?q=Castrese) | N/A |
+| 39 | [Kubra](http://twitter.com/search?q=Kubra) | N/A |
+| 40 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 41 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
+| 42 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
+| 43 | [Risorgimento](http://twitter.com/search?q=Risorgimento) | N/A |
+| 44 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 45 | [Piccinini](http://twitter.com/search?q=Piccinini) | N/A |
+| 46 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
+| 47 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
+| 48 | [Ambrosini](http://twitter.com/search?q=Ambrosini) | N/A |
+| 49 | [Tim Burton](http://twitter.com/search?q=Tim+Burton) | N/A |
+| 50 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
 
 
 

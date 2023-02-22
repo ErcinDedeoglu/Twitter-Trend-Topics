@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-22 20:17:30 UTC`
+📆 Last Updated: `2023-02-22 21:18:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 2 | [#jehuisoporde](http://twitter.com/search?q=%23jehuisoporde) | N/A |
-| 3 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 1 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
+| 2 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 3 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
 | 4 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 5 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
-| 6 | [#lldl](http://twitter.com/search?q=%23lldl) | N/A |
-| 7 | [Rishon](http://twitter.com/search?q=Rishon) | N/A |
-| 8 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 9 | [Cora](http://twitter.com/search?q=Cora) | N/A |
+| 5 | [#jehuisoporde](http://twitter.com/search?q=%23jehuisoporde) | N/A |
+| 6 | [#INTPOR](http://twitter.com/search?q=%23INTPOR) | N/A |
+| 7 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 8 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
+| 9 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
 | 10 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 11 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 12 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 13 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 11 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 12 | [Cora](http://twitter.com/search?q=Cora) | N/A |
+| 13 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
 | 14 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
 | 15 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 16 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
-| 17 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 19 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
-| 20 | [Venetië](http://twitter.com/search?q=Veneti%c3%ab) | N/A |
-| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 22 | [Johan Remkes](http://twitter.com/search?q=Johan+Remkes) | N/A |
-| 23 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
-| 24 | [Dag 22](http://twitter.com/search?q=Dag+22) | N/A |
-| 25 | [netbeheerders](http://twitter.com/search?q=netbeheerders) | N/A |
-| 26 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
-| 27 | [GL-Kamerlid Kröger](http://twitter.com/search?q=GL-Kamerlid+Kr%c3%b6ger) | N/A |
-| 28 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 29 | [Shula Rijxman](http://twitter.com/search?q=Shula+Rijxman) | N/A |
-| 30 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 31 | [machiavelliprijs](http://twitter.com/search?q=machiavelliprijs) | N/A |
-| 32 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
-| 33 | [Geel](http://twitter.com/search?q=Geel) | N/A |
-| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 35 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 36 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 37 | [Loes](http://twitter.com/search?q=Loes) | N/A |
-| 38 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 39 | [Zuid-Europa](http://twitter.com/search?q=Zuid-Europa) | N/A |
-| 40 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 41 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 42 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 43 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
-| 44 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 45 | [tochtkorting](http://twitter.com/search?q=tochtkorting) | N/A |
-| 46 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
-| 47 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 48 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
-| 49 | [Stoffer](http://twitter.com/search?q=Stoffer) | N/A |
-| 50 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 17 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
+| 18 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
+| 19 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [Venetië](http://twitter.com/search?q=Veneti%c3%ab) | N/A |
+| 22 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 23 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
+| 24 | [Loes](http://twitter.com/search?q=Loes) | N/A |
+| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 26 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
+| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 28 | [netbeheerders](http://twitter.com/search?q=netbeheerders) | N/A |
+| 29 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
+| 30 | [GL-Kamerlid Kröger](http://twitter.com/search?q=GL-Kamerlid+Kr%c3%b6ger) | N/A |
+| 31 | [Johan Remkes](http://twitter.com/search?q=Johan+Remkes) | N/A |
+| 32 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 33 | [Dag 22](http://twitter.com/search?q=Dag+22) | N/A |
+| 34 | [Shula Rijxman](http://twitter.com/search?q=Shula+Rijxman) | N/A |
+| 35 | [machiavelliprijs](http://twitter.com/search?q=machiavelliprijs) | N/A |
+| 36 | [Rishon](http://twitter.com/search?q=Rishon) | N/A |
+| 37 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
+| 38 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 39 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 40 | [Geel](http://twitter.com/search?q=Geel) | N/A |
+| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 42 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 43 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 44 | [Zuid-Europa](http://twitter.com/search?q=Zuid-Europa) | N/A |
+| 45 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
+| 46 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 47 | [Maarten](http://twitter.com/search?q=Maarten) | N/A |
+| 48 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 49 | [Michael Jackson](http://twitter.com/search?q=Michael+Jackson) | N/A |
+| 50 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
 
 
 

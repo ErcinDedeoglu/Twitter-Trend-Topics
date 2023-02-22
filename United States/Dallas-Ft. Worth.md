@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-22 20:17:19 UTC`
+📆 Last Updated: `2023-02-22 21:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 2 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 3 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
-| 4 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
-| 5 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
-| 6 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
-| 7 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 8 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 9 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
-| 10 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 11 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 12 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 13 | [#D2Day](http://twitter.com/search?q=%23D2Day) | N/A |
-| 14 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 15 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 16 | [Noah Song](http://twitter.com/search?q=Noah+Song) | N/A |
-| 17 | [#StreamHeaven](http://twitter.com/search?q=%23StreamHeaven) | N/A |
-| 18 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
-| 19 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 20 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 21 | [Hickman](http://twitter.com/search?q=Hickman) | N/A |
-| 22 | [Dom Capers](http://twitter.com/search?q=Dom+Capers) | N/A |
-| 23 | [Blaydes](http://twitter.com/search?q=Blaydes) | N/A |
-| 24 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 1 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 2 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 4 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 5 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 6 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
+| 7 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
+| 8 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
+| 9 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
+| 10 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 11 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
+| 12 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 13 | [#FireLadyFiszi](http://twitter.com/search?q=%23FireLadyFiszi) | N/A |
+| 14 | [#D2Day](http://twitter.com/search?q=%23D2Day) | N/A |
+| 15 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 16 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 17 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
+| 18 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 19 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
+| 20 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 21 | [Noah Song](http://twitter.com/search?q=Noah+Song) | N/A |
+| 22 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
+| 23 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
+| 24 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
 | 25 | [Our Division](http://twitter.com/search?q=Our+Division) | N/A |
-| 26 | [Ultimate Universe](http://twitter.com/search?q=Ultimate+Universe) | N/A |
+| 26 | [Zach Cunningham](http://twitter.com/search?q=Zach+Cunningham) | N/A |
 | 27 | [Our Day](http://twitter.com/search?q=Our+Day) | N/A |
-| 28 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 29 | [Fat Randy](http://twitter.com/search?q=Fat+Randy) | N/A |
-| 30 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 31 | [Bret Stephens](http://twitter.com/search?q=Bret+Stephens) | N/A |
-| 32 | [Y-12](http://twitter.com/search?q=Y-12) | N/A |
-| 33 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 34 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 35 | [Rule 5](http://twitter.com/search?q=Rule+5) | N/A |
-| 36 | [Oak Ridge](http://twitter.com/search?q=Oak+Ridge) | N/A |
-| 37 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 38 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 39 | [Fed Minutes](http://twitter.com/search?q=Fed+Minutes) | N/A |
-| 40 | [Brnovich](http://twitter.com/search?q=Brnovich) | N/A |
-| 41 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 42 | [Our Team](http://twitter.com/search?q=Our+Team) | N/A |
-| 43 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 44 | [Tyra](http://twitter.com/search?q=Tyra) | N/A |
-| 45 | [Former President Donald Trump](http://twitter.com/search?q=Former+President+Donald+Trump) | N/A |
-| 46 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 47 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 48 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
-| 49 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
+| 28 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
+| 29 | [Hickman](http://twitter.com/search?q=Hickman) | N/A |
+| 30 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 31 | [Dom Capers](http://twitter.com/search?q=Dom+Capers) | N/A |
+| 32 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 33 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 34 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
+| 35 | [Oak Ridge](http://twitter.com/search?q=Oak+Ridge) | N/A |
+| 36 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 37 | [Blaydes](http://twitter.com/search?q=Blaydes) | N/A |
+| 38 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 39 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
+| 40 | [Our Team](http://twitter.com/search?q=Our+Team) | N/A |
+| 41 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 42 | [Ultimate Universe](http://twitter.com/search?q=Ultimate+Universe) | N/A |
+| 43 | [Real President](http://twitter.com/search?q=Real+President) | N/A |
+| 44 | [Rule 5](http://twitter.com/search?q=Rule+5) | N/A |
+| 45 | [Dupree](http://twitter.com/search?q=Dupree) | N/A |
+| 46 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
+| 47 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 48 | [Y-12](http://twitter.com/search?q=Y-12) | N/A |
+| 49 | [The People's President](http://twitter.com/search?q=The+People%27s+President) | N/A |
 
 
 

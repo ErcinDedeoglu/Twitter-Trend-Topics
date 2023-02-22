@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-22 20:16:39 UTC`
+📆 Last Updated: `2023-02-22 21:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,49 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 2 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 1 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
+| 2 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
 | 3 | [Lauren James](http://twitter.com/search?q=Lauren+James) | Lauren James is a clothing and lifestyle brand based in the United States. The company was founded in 2012 and specializes in creating classic, timeless apparel for women. The name Lauren James is derived from the combination of the founder's first name, Lauren, and her middle name, James. The brand is known for its quality fabrics, attention to detail, and modern designs. |
-| 4 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 5 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 6 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
-| 7 | [#ENGBEL](http://twitter.com/search?q=%23ENGBEL) | N/A |
-| 8 | [Begum](http://twitter.com/search?q=Begum) | N/A |
-| 9 | [#ArnoldClarkCup](http://twitter.com/search?q=%23ArnoldClarkCup) | N/A |
-| 10 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
-| 11 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
-| 12 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 13 | [Bernice](http://twitter.com/search?q=Bernice) | N/A |
-| 14 | [Denise](http://twitter.com/search?q=Denise) | N/A |
-| 15 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
-| 16 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 17 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 18 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 19 | [Gaviscon](http://twitter.com/search?q=Gaviscon) | N/A |
-| 20 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
-| 21 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 22 | [BBBoC](http://twitter.com/search?q=BBBoC) | N/A |
-| 23 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 24 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 25 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
-| 26 | [At 15](http://twitter.com/search?q=At+15) | N/A |
-| 27 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
-| 28 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 29 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 30 | [Tesco and Aldi](http://twitter.com/search?q=Tesco+and+Aldi) | N/A |
-| 31 | [VADA](http://twitter.com/search?q=VADA) | N/A |
-| 32 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 33 | [Groomed](http://twitter.com/search?q=Groomed) | N/A |
-| 34 | [Connie](http://twitter.com/search?q=Connie) | N/A |
-| 35 | [Canelo](http://twitter.com/search?q=Canelo) | N/A |
-| 36 | [Simon Thompson](http://twitter.com/search?q=Simon+Thompson) | N/A |
-| 37 | [Wales v England](http://twitter.com/search?q=Wales+v+England) | N/A |
-| 38 | [Manchester Arena](http://twitter.com/search?q=Manchester+Arena) | N/A |
-| 39 | [She is British](http://twitter.com/search?q=She+is+British) | N/A |
-| 40 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
-| 41 | [Accrington Stanley](http://twitter.com/search?q=Accrington+Stanley) | N/A |
-| 42 | [lorde](http://twitter.com/search?q=lorde) | N/A |
-| 43 | [Islamic](http://twitter.com/search?q=Islamic) | N/A |
+| 4 | [#Lionesses](http://twitter.com/search?q=%23Lionesses) | N/A |
+| 5 | [Chloe Kelly](http://twitter.com/search?q=Chloe+Kelly) | N/A |
+| 6 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 7 | [#GreatBritishMenu](http://twitter.com/search?q=%23GreatBritishMenu) | N/A |
+| 8 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 9 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 10 | [Leah](http://twitter.com/search?q=Leah) | N/A |
+| 11 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 12 | [Begum](http://twitter.com/search?q=Begum) | N/A |
+| 13 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 14 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 15 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 16 | [Zverev](http://twitter.com/search?q=Zverev) | Zverev is a Russian surname derived from the word zver, which means "beast" or "animal". In English, it can be translated to mean "beastly" or "ferocious". |
+| 17 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
+| 18 | [Riyad Mahrez](http://twitter.com/search?q=Riyad+Mahrez) | N/A |
+| 19 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 20 | [Gaviscon](http://twitter.com/search?q=Gaviscon) | N/A |
+| 21 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 22 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 23 | [Martin Keown](http://twitter.com/search?q=Martin+Keown) | N/A |
+| 24 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 25 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 26 | [Werner](http://twitter.com/search?q=Werner) | N/A |
+| 27 | [Bernice](http://twitter.com/search?q=Bernice) | N/A |
+| 28 | [Ashton Gate](http://twitter.com/search?q=Ashton+Gate) | N/A |
+| 29 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
+| 30 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 31 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 32 | [UKAD](http://twitter.com/search?q=UKAD) | N/A |
+| 33 | [BBBoC](http://twitter.com/search?q=BBBoC) | N/A |
+| 34 | [At 15](http://twitter.com/search?q=At+15) | N/A |
+| 35 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 36 | [Connie](http://twitter.com/search?q=Connie) | N/A |
+| 37 | [Accrington Stanley](http://twitter.com/search?q=Accrington+Stanley) | N/A |
+| 38 | [Movie Night](http://twitter.com/search?q=Movie+Night) | N/A |
+| 39 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 40 | [Ravi](http://twitter.com/search?q=Ravi) | N/A |
+| 41 | [VADA](http://twitter.com/search?q=VADA) | N/A |
+| 42 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 43 | [Suella](http://twitter.com/search?q=Suella) | N/A |
 
 
 

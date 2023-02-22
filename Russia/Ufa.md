@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ufa
 
-📆 Last Updated: `2023-02-22 20:17:12 UTC`
+📆 Last Updated: `2023-02-22 21:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,8 +20,8 @@ This is top 50 for [Russia](</Russia>)
 | 3 | [#импровизаторыиниктобольше](http://twitter.com/search?q=%23%d0%b8%d0%bc%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%b7%d0%b0%d1%82%d0%be%d1%80%d1%8b%d0%b8%d0%bd%d0%b8%d0%ba%d1%82%d0%be%d0%b1%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
 | 4 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
 | 5 | [ДСНВ](http://twitter.com/search?q=%d0%94%d0%a1%d0%9d%d0%92) | N/A |
-| 6 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 7 | [Боты](http://twitter.com/search?q=%d0%91%d0%be%d1%82%d1%8b) | N/A |
+| 6 | [Боты](http://twitter.com/search?q=%d0%91%d0%be%d1%82%d1%8b) | N/A |
+| 7 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 8 | [В Москве](http://twitter.com/search?q=%d0%92+%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 | 9 | [#SKZ_THESOUND](http://twitter.com/search?q=%23SKZ_THESOUND) | N/A |
 | 10 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
@@ -31,40 +31,40 @@ This is top 50 for [Russia](</Russia>)
 | 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 15 | [Совершенно](http://twitter.com/search?q=%d0%a1%d0%be%d0%b2%d0%b5%d1%80%d1%88%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
 | 16 | [Путиным](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d1%8b%d0%bc) | N/A |
-| 17 | [#NFTCommunity](http://twitter.com/search?q=%23NFTCommunity) | N/A |
-| 18 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
-| 19 | [огайо](http://twitter.com/search?q=%d0%be%d0%b3%d0%b0%d0%b9%d0%be) | N/A |
+| 17 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
+| 18 | [#iPhone](http://twitter.com/search?q=%23iPhone) | N/A |
+| 19 | [Божечки](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5%d1%87%d0%ba%d0%b8) | N/A |
 | 20 | [Атомик Харт](http://twitter.com/search?q=%d0%90%d1%82%d0%be%d0%bc%d0%b8%d0%ba+%d0%a5%d0%b0%d1%80%d1%82) | N/A |
 | 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 22 | [Хочется](http://twitter.com/search?q=%d0%a5%d0%be%d1%87%d0%b5%d1%82%d1%81%d1%8f) | N/A |
 | 23 | [Смотри](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d0%b8) | N/A |
-| 24 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
-| 25 | [Скажи](http://twitter.com/search?q=%d0%a1%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
-| 26 | [Минхо](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%85%d0%be) | N/A |
-| 27 | [Игра Wordle](http://twitter.com/search?q=%d0%98%d0%b3%d1%80%d0%b0+Wordle) | N/A |
-| 28 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
-| 29 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
-| 30 | [Ютубе](http://twitter.com/search?q=%d0%ae%d1%82%d1%83%d0%b1%d0%b5) | N/A |
-| 31 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 32 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 33 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 34 | [австралии](http://twitter.com/search?q=%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d0%b8) | N/A |
-| 35 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
-| 36 | [Слава](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0) | N/A |
-| 37 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 38 | [Дудя](http://twitter.com/search?q=%d0%94%d1%83%d0%b4%d1%8f) | N/A |
-| 39 | [Брат](http://twitter.com/search?q=%d0%91%d1%80%d0%b0%d1%82) | N/A |
-| 40 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
-| 41 | [Сирии](http://twitter.com/search?q=%d0%a1%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
-| 42 | [Держись](http://twitter.com/search?q=%d0%94%d0%b5%d1%80%d0%b6%d0%b8%d1%81%d1%8c) | N/A |
-| 43 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 44 | [Дубае](http://twitter.com/search?q=%d0%94%d1%83%d0%b1%d0%b0%d0%b5) | N/A |
-| 45 | [Хотелось](http://twitter.com/search?q=%d0%a5%d0%be%d1%82%d0%b5%d0%bb%d0%be%d1%81%d1%8c) | N/A |
-| 46 | [Однозначно](http://twitter.com/search?q=%d0%9e%d0%b4%d0%bd%d0%be%d0%b7%d0%bd%d0%b0%d1%87%d0%bd%d0%be) | N/A |
-| 47 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 48 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 49 | [Испании](http://twitter.com/search?q=%d0%98%d1%81%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
-| 50 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 24 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 25 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
+| 26 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
+| 27 | [Скажи](http://twitter.com/search?q=%d0%a1%d0%ba%d0%b0%d0%b6%d0%b8) | N/A |
+| 28 | [Минхо](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%85%d0%be) | N/A |
+| 29 | [Маск](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba) | N/A |
+| 30 | [Огайо](http://twitter.com/search?q=%d0%9e%d0%b3%d0%b0%d0%b9%d0%be) | N/A |
+| 31 | [игра wordle](http://twitter.com/search?q=%d0%b8%d0%b3%d1%80%d0%b0+wordle) | N/A |
+| 32 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 33 | [Отлично](http://twitter.com/search?q=%d0%9e%d1%82%d0%bb%d0%b8%d1%87%d0%bd%d0%be) | N/A |
+| 34 | [Ютубе](http://twitter.com/search?q=%d0%ae%d1%82%d1%83%d0%b1%d0%b5) | N/A |
+| 35 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 37 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 38 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 39 | [австралии](http://twitter.com/search?q=%d0%b0%d0%b2%d1%81%d1%82%d1%80%d0%b0%d0%bb%d0%b8%d0%b8) | N/A |
+| 40 | [Слава](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0) | N/A |
+| 41 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
+| 42 | [Дудя](http://twitter.com/search?q=%d0%94%d1%83%d0%b4%d1%8f) | N/A |
+| 43 | [Брат](http://twitter.com/search?q=%d0%91%d1%80%d0%b0%d1%82) | N/A |
+| 44 | [Крыма](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc%d0%b0) | N/A |
+| 45 | [сирии](http://twitter.com/search?q=%d1%81%d0%b8%d1%80%d0%b8%d0%b8) | N/A |
+| 46 | [Держись](http://twitter.com/search?q=%d0%94%d0%b5%d1%80%d0%b6%d0%b8%d1%81%d1%8c) | N/A |
+| 47 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 48 | [Дубае](http://twitter.com/search?q=%d0%94%d1%83%d0%b1%d0%b0%d0%b5) | N/A |
+| 49 | [Хотелось](http://twitter.com/search?q=%d0%a5%d0%be%d1%82%d0%b5%d0%bb%d0%be%d1%81%d1%8c) | N/A |
+| 50 | [Однозначно](http://twitter.com/search?q=%d0%9e%d0%b4%d0%bd%d0%be%d0%b7%d0%bd%d0%b0%d1%87%d0%bd%d0%be) | N/A |
 
 
 

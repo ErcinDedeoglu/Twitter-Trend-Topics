@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-22 20:17:26 UTC`
+📆 Last Updated: `2023-02-22 21:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Brazil
 | 1 | [#ApuracaoRJ](http://twitter.com/search?q=%23ApuracaoRJ) | N/A |
 | 2 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
 | 3 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
-| 4 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
-| 5 | [serrano](http://twitter.com/search?q=serrano) | N/A |
-| 6 | [Milton Cunha](http://twitter.com/search?q=Milton+Cunha) | N/A |
-| 7 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
-| 8 | [Mocidade](http://twitter.com/search?q=Mocidade) | N/A |
-| 9 | [Tijuca](http://twitter.com/search?q=Tijuca) | N/A |
-| 10 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 11 | [Grande Rio](http://twitter.com/search?q=Grande+Rio) | N/A |
-| 12 | [Carolina](http://twitter.com/search?q=Carolina) | N/A |
-| 13 | [Fernando Lima](http://twitter.com/search?q=Fernando+Lima) | N/A |
-| 14 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
-| 15 | [Enredo](http://twitter.com/search?q=Enredo) | N/A |
-| 16 | [Madson](http://twitter.com/search?q=Madson) | N/A |
-| 17 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 18 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 19 | [Ciça](http://twitter.com/search?q=Ci%c3%a7a) | N/A |
-| 20 | [Bruno Marques](http://twitter.com/search?q=Bruno+Marques) | N/A |
-| 21 | [Alegorias e Adereços](http://twitter.com/search?q=Alegorias+e+Adere%c3%a7os) | N/A |
-| 22 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
-| 23 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
-| 24 | [Padre Miguel](http://twitter.com/search?q=Padre+Miguel) | N/A |
-| 25 | [Harmonia](http://twitter.com/search?q=Harmonia) | N/A |
-| 26 | [Mila Schiavo](http://twitter.com/search?q=Mila+Schiavo) | N/A |
-| 27 | [Leandro Vieira](http://twitter.com/search?q=Leandro+Vieira) | N/A |
-| 28 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 29 | [MODESTIA NO FLUXO](http://twitter.com/search?q=MODESTIA+NO+FLUXO) | N/A |
-| 30 | [Warung](http://twitter.com/search?q=Warung) | N/A |
-| 31 | [SHEA](http://twitter.com/search?q=SHEA) | N/A |
-| 32 | [CACs](http://twitter.com/search?q=CACs) | N/A |
-| 33 | [Adriano](http://twitter.com/search?q=Adriano) | N/A |
-| 34 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 35 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 36 | [Jorge Perlingeiro](http://twitter.com/search?q=Jorge+Perlingeiro) | N/A |
-| 37 | [bjork](http://twitter.com/search?q=bjork) | N/A |
-| 38 | [Liesa](http://twitter.com/search?q=Liesa) | N/A |
-| 39 | [Bateria](http://twitter.com/search?q=Bateria) | N/A |
-| 40 | [SAVANNAH CLARKE](http://twitter.com/search?q=SAVANNAH+CLARKE) | N/A |
-| 41 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
-| 42 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
-| 43 | [Vagner Glock](http://twitter.com/search?q=Vagner+Glock) | N/A |
-| 44 | [Nilópolis](http://twitter.com/search?q=Nil%c3%b3polis) | N/A |
-| 45 | [Mirandela](http://twitter.com/search?q=Mirandela) | N/A |
-| 46 | [EMEA](http://twitter.com/search?q=EMEA) | N/A |
-| 47 | [Jessi](http://twitter.com/search?q=Jessi) | N/A |
-| 48 | [Lattes](http://twitter.com/search?q=Lattes) | N/A |
-| 49 | [Mato Grosso](http://twitter.com/search?q=Mato+Grosso) | N/A |
-| 50 | [Liquid](http://twitter.com/search?q=Liquid) | N/A |
+| 4 | [Império Serrano](http://twitter.com/search?q=Imp%c3%a9rio+Serrano) | N/A |
+| 5 | [Leandro Vieira](http://twitter.com/search?q=Leandro+Vieira) | N/A |
+| 6 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 7 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 8 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
+| 9 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
+| 10 | [MODESTIA NO FLUXO](http://twitter.com/search?q=MODESTIA+NO+FLUXO) | N/A |
+| 11 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
+| 12 | [Lampião](http://twitter.com/search?q=Lampi%c3%a3o) | N/A |
+| 13 | [Milton Cunha](http://twitter.com/search?q=Milton+Cunha) | N/A |
+| 14 | [Grande Rio](http://twitter.com/search?q=Grande+Rio) | N/A |
+| 15 | [Tijuca](http://twitter.com/search?q=Tijuca) | N/A |
+| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 17 | [Fernando Lima](http://twitter.com/search?q=Fernando+Lima) | N/A |
+| 18 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 19 | [Madson](http://twitter.com/search?q=Madson) | N/A |
+| 20 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 21 | [Tuiuti](http://twitter.com/search?q=Tuiuti) | N/A |
+| 22 | [Enredo](http://twitter.com/search?q=Enredo) | N/A |
+| 23 | [Depois de 22](http://twitter.com/search?q=Depois+de+22) | N/A |
+| 24 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 25 | [Bruno Marques](http://twitter.com/search?q=Bruno+Marques) | N/A |
+| 26 | [Liesa](http://twitter.com/search?q=Liesa) | N/A |
+| 27 | [Ciça](http://twitter.com/search?q=Ci%c3%a7a) | N/A |
+| 28 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 29 | [Carolina Vieira](http://twitter.com/search?q=Carolina+Vieira) | N/A |
+| 30 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
+| 31 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
+| 32 | [Antônia Fontenelle](http://twitter.com/search?q=Ant%c3%b4nia+Fontenelle) | N/A |
+| 33 | [Alemão](http://twitter.com/search?q=Alem%c3%a3o) | N/A |
+| 34 | [Mila Schiavo](http://twitter.com/search?q=Mila+Schiavo) | N/A |
+| 35 | [Padre Miguel](http://twitter.com/search?q=Padre+Miguel) | N/A |
+| 36 | [Bateria](http://twitter.com/search?q=Bateria) | N/A |
+| 37 | [Alegorias e Adereços](http://twitter.com/search?q=Alegorias+e+Adere%c3%a7os) | N/A |
+| 38 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 39 | [SAVANNAH CLARKE](http://twitter.com/search?q=SAVANNAH+CLARKE) | N/A |
+| 40 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 41 | [Claudinho](http://twitter.com/search?q=Claudinho) | N/A |
+| 42 | [#ONEPIECE1076](http://twitter.com/search?q=%23ONEPIECE1076) | N/A |
+| 43 | [Carnaval do Rio de Janeiro](http://twitter.com/search?q=Carnaval+do+Rio+de+Janeiro) | N/A |
+| 44 | [CACs](http://twitter.com/search?q=CACs) | N/A |
+| 45 | [Evolução](http://twitter.com/search?q=Evolu%c3%a7%c3%a3o) | N/A |
+| 46 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 47 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 48 | [Harmonia](http://twitter.com/search?q=Harmonia) | N/A |
+| 49 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 50 | [#CarnavalRJ](http://twitter.com/search?q=%23CarnavalRJ) | N/A |
 
 
 

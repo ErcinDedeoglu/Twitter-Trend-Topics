@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ho Chi Minh City
 
-📆 Last Updated: `2023-02-22 20:17:06 UTC`
+📆 Last Updated: `2023-02-22 21:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,15 +15,15 @@ This is top 50 for [Vietnam](</Vietnam>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#JISOOxVogueFrance](http://twitter.com/search?q=%23JISOOxVogueFrance) | N/A |
-| 2 | [#TodsFW23](http://twitter.com/search?q=%23TodsFW23) | N/A |
-| 3 | [#ThailandSocialAwards11](http://twitter.com/search?q=%23ThailandSocialAwards11) | N/A |
-| 4 | [11th SOCIAL AWARDS with BIBLE](http://twitter.com/search?q=11th+SOCIAL+AWARDS+with+BIBLE) | N/A |
+| 1 | [#TodsFW23](http://twitter.com/search?q=%23TodsFW23) | N/A |
+| 2 | [#ThailandSocialAwards11](http://twitter.com/search?q=%23ThailandSocialAwards11) | N/A |
+| 3 | [11th social awards with bible](http://twitter.com/search?q=11th+social+awards+with+bible) | N/A |
+| 4 | [#JISOOxVogueFrance](http://twitter.com/search?q=%23JISOOxVogueFrance) | N/A |
 | 5 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
 | 6 | [#BabyDogeTop100](http://twitter.com/search?q=%23BabyDogeTop100) | N/A |
-| 7 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
-| 8 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 9 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
+| 7 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 8 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
+| 9 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
 | 10 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 11 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 | 12 | [út vàng nhà bangtan](http://twitter.com/search?q=%c3%bat+v%c3%a0ng+nh%c3%a0+bangtan) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 26 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
 | 27 | [ethw](http://twitter.com/search?q=ethw) | N/A |
 | 28 | [Asia Pacific](http://twitter.com/search?q=Asia+Pacific) | N/A |
-| 29 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 29 | [vinh](http://twitter.com/search?q=vinh) | N/A |
 | 30 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
 | 31 | [Becky](http://twitter.com/search?q=Becky) | N/A |
 | 32 | [Burberry Bright](http://twitter.com/search?q=Burberry+Bright) | N/A |
-| 33 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 34 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 36 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 37 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
-| 38 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
-| 39 | [Viet](http://twitter.com/search?q=Viet) | N/A |
-| 40 | [Zalo](http://twitter.com/search?q=Zalo) | N/A |
-| 41 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
-| 42 | [căng](http://twitter.com/search?q=c%c4%83ng) | N/A |
-| 43 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 44 | [Western](http://twitter.com/search?q=Western) | N/A |
-| 45 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
-| 46 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 48 | [Giống](http://twitter.com/search?q=Gi%e1%bb%91ng) | N/A |
-| 49 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
-| 50 | [chời](http://twitter.com/search?q=ch%e1%bb%9di) | N/A |
+| 33 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 34 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 35 | [Zalo](http://twitter.com/search?q=Zalo) | N/A |
+| 36 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
+| 37 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 39 | [Pháp](http://twitter.com/search?q=Ph%c3%a1p) | N/A |
+| 40 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
+| 41 | [Viet](http://twitter.com/search?q=Viet) | N/A |
+| 42 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 43 | [căng](http://twitter.com/search?q=c%c4%83ng) | N/A |
+| 44 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 45 | [Western](http://twitter.com/search?q=Western) | N/A |
+| 46 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
+| 47 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 49 | [Giống](http://twitter.com/search?q=Gi%e1%bb%91ng) | N/A |
+| 50 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
 
 
 

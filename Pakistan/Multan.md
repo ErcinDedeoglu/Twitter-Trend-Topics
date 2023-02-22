@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-22 20:17:12 UTC`
+📆 Last Updated: `2023-02-22 21:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 6 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
 | 7 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
 | 8 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 9 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 10 | [Javed Akhtar](http://twitter.com/search?q=Javed+Akhtar) | N/A |
-| 11 | [What a Match](http://twitter.com/search?q=What+a+Match) | N/A |
-| 12 | [Abbas](http://twitter.com/search?q=Abbas) | N/A |
-| 13 | [Malik](http://twitter.com/search?q=Malik) | N/A |
-| 14 | [What a Game](http://twitter.com/search?q=What+a+Game) | N/A |
-| 15 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
-| 16 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 17 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
-| 18 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 19 | [PM Shahbaz Sharif](http://twitter.com/search?q=PM+Shahbaz+Sharif) | N/A |
-| 20 | [Ilyas](http://twitter.com/search?q=Ilyas) | N/A |
-| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 22 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 23 | [Cutting](http://twitter.com/search?q=Cutting) | N/A |
-| 24 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 26 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
-| 27 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
-| 28 | [welcome to pti](http://twitter.com/search?q=welcome+to+pti) | N/A |
-| 29 | [Ameer e Azeemat Haq Nawaz](http://twitter.com/search?q=Ameer+e+Azeemat+Haq+Nawaz) | N/A |
-| 30 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 31 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
-| 32 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
-| 33 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
-| 34 | [Alhamra](http://twitter.com/search?q=Alhamra) | N/A |
-| 35 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
-| 36 | [Chief Justice of Pakistan](http://twitter.com/search?q=Chief+Justice+of+Pakistan) | N/A |
-| 37 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 38 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 39 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 40 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
-| 41 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
-| 42 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 43 | [Salman Iqbal](http://twitter.com/search?q=Salman+Iqbal) | N/A |
-| 44 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 45 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 46 | [Granaz](http://twitter.com/search?q=Granaz) | N/A |
-| 47 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 48 | [PM of Pakistan](http://twitter.com/search?q=PM+of+Pakistan) | N/A |
-| 49 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 50 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 9 | [Javed Akhtar](http://twitter.com/search?q=Javed+Akhtar) | N/A |
+| 10 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 11 | [Abbas](http://twitter.com/search?q=Abbas) | N/A |
+| 12 | [Malik](http://twitter.com/search?q=Malik) | N/A |
+| 13 | [What a Match](http://twitter.com/search?q=What+a+Match) | N/A |
+| 14 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 15 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
+| 16 | [What a Game](http://twitter.com/search?q=What+a+Game) | N/A |
+| 17 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 18 | [Ilyas](http://twitter.com/search?q=Ilyas) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 21 | [Cutting](http://twitter.com/search?q=Cutting) | N/A |
+| 22 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 23 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
+| 24 | [welcome to pti](http://twitter.com/search?q=welcome+to+pti) | N/A |
+| 25 | [Ameer e Azeemat Haq Nawaz](http://twitter.com/search?q=Ameer+e+Azeemat+Haq+Nawaz) | N/A |
+| 26 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
+| 27 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 28 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
+| 29 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
+| 30 | [Alhamra](http://twitter.com/search?q=Alhamra) | N/A |
+| 31 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
+| 32 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
+| 33 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 34 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 35 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 36 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
+| 37 | [Maddy](http://twitter.com/search?q=Maddy) | Maddy is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 38 | [Granaz](http://twitter.com/search?q=Granaz) | N/A |
+| 39 | [PM of Pakistan](http://twitter.com/search?q=PM+of+Pakistan) | N/A |
+| 40 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
+| 41 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 42 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 43 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 44 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
+| 45 | [Wade](http://twitter.com/search?q=Wade) | N/A |
+| 46 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
+| 47 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 48 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
+| 49 | [Sooo](http://twitter.com/search?q=Sooo) | N/A |
+| 50 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
 
 
 

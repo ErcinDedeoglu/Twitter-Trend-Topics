@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-22 20:17:18 UTC`
+📆 Last Updated: `2023-02-22 21:17:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ilwx](http://twitter.com/search?q=%23ilwx) | N/A |
-| 2 | [Capitol](http://twitter.com/search?q=Capitol) | Capitol is a term used to refer to a building or complex that houses the government of a country, state, or region. It is typically the seat of the legislature and other government offices. The word is derived from the Latin word Capitolium, which refers to the temple of Jupiter on Capitoline Hill in Rome. |
+| 2 | [Paul Vallas](http://twitter.com/search?q=Paul+Vallas) | N/A |
 | 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 4 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
-| 5 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
-| 6 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
-| 7 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
+| 4 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 5 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 6 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
+| 7 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
 | 8 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 9 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 10 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
-| 11 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 12 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 13 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 14 | [#D2Day](http://twitter.com/search?q=%23D2Day) | N/A |
-| 15 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 16 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 17 | [Noah Song](http://twitter.com/search?q=Noah+Song) | N/A |
-| 18 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
-| 19 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 20 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 21 | [Hickman](http://twitter.com/search?q=Hickman) | N/A |
-| 22 | [Dom Capers](http://twitter.com/search?q=Dom+Capers) | N/A |
-| 23 | [Blaydes](http://twitter.com/search?q=Blaydes) | N/A |
-| 24 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 25 | [Our Division](http://twitter.com/search?q=Our+Division) | N/A |
-| 26 | [Ultimate Universe](http://twitter.com/search?q=Ultimate+Universe) | N/A |
-| 27 | [Our Day](http://twitter.com/search?q=Our+Day) | N/A |
-| 28 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 29 | [Fat Randy](http://twitter.com/search?q=Fat+Randy) | N/A |
-| 30 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 31 | [Bret Stephens](http://twitter.com/search?q=Bret+Stephens) | N/A |
-| 32 | [Y-12](http://twitter.com/search?q=Y-12) | N/A |
-| 33 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 34 | [Rule 5](http://twitter.com/search?q=Rule+5) | N/A |
-| 35 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 36 | [Oak Ridge](http://twitter.com/search?q=Oak+Ridge) | N/A |
-| 37 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
-| 38 | [Acuna](http://twitter.com/search?q=Acuna) | N/A |
-| 39 | [Fed Minutes](http://twitter.com/search?q=Fed+Minutes) | N/A |
-| 40 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 41 | [Our Team](http://twitter.com/search?q=Our+Team) | N/A |
-| 42 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 43 | [Brnovich](http://twitter.com/search?q=Brnovich) | N/A |
-| 44 | [Tyra](http://twitter.com/search?q=Tyra) | N/A |
-| 45 | [Former President Donald Trump](http://twitter.com/search?q=Former+President+Donald+Trump) | N/A |
-| 46 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 47 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 48 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
+| 9 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
+| 10 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 11 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
+| 12 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 13 | [#FireLadyFiszi](http://twitter.com/search?q=%23FireLadyFiszi) | N/A |
+| 14 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 15 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 16 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
+| 17 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 18 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
+| 19 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 20 | [Noah Song](http://twitter.com/search?q=Noah+Song) | N/A |
+| 21 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
+| 22 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
+| 23 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
+| 24 | [Our Division](http://twitter.com/search?q=Our+Division) | N/A |
+| 25 | [Zach Cunningham](http://twitter.com/search?q=Zach+Cunningham) | N/A |
+| 26 | [Our Day](http://twitter.com/search?q=Our+Day) | N/A |
+| 27 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
+| 28 | [Hickman](http://twitter.com/search?q=Hickman) | N/A |
+| 29 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 30 | [Dom Capers](http://twitter.com/search?q=Dom+Capers) | N/A |
+| 31 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 32 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 33 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
+| 34 | [Oak Ridge](http://twitter.com/search?q=Oak+Ridge) | N/A |
+| 35 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 36 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
+| 37 | [Blaydes](http://twitter.com/search?q=Blaydes) | N/A |
+| 38 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 39 | [Our Team](http://twitter.com/search?q=Our+Team) | N/A |
+| 40 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 41 | [Ultimate Universe](http://twitter.com/search?q=Ultimate+Universe) | N/A |
+| 42 | [Real President](http://twitter.com/search?q=Real+President) | N/A |
+| 43 | [Rule 5](http://twitter.com/search?q=Rule+5) | N/A |
+| 44 | [Dupree](http://twitter.com/search?q=Dupree) | N/A |
+| 45 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
+| 46 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 47 | [Y-12](http://twitter.com/search?q=Y-12) | N/A |
+| 48 | [The People's President](http://twitter.com/search?q=The+People%27s+President) | N/A |
 | 49 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
-| 50 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 50 | [Bret Stephens](http://twitter.com/search?q=Bret+Stephens) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-22 20:17:29 UTC`
+📆 Last Updated: `2023-02-22 21:18:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,47 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
-| 2 | [#Belve](http://twitter.com/search?q=%23Belve) | N/A |
-| 3 | [#22febbraio](http://twitter.com/search?q=%2322febbraio) | N/A |
-| 4 | [#EintrachtNapoli](http://twitter.com/search?q=%23EintrachtNapoli) | N/A |
-| 5 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 6 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 9 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 10 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 11 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 12 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 13 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 14 | [Artem](http://twitter.com/search?q=Artem) | N/A |
-| 15 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
-| 16 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
-| 17 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 18 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 19 | [Francoforte](http://twitter.com/search?q=Francoforte) | N/A |
-| 20 | [Forza Inter](http://twitter.com/search?q=Forza+Inter) | N/A |
-| 21 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 22 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
-| 23 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
-| 24 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 25 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 26 | [Risorgimento](http://twitter.com/search?q=Risorgimento) | N/A |
-| 27 | [Spalletti](http://twitter.com/search?q=Spalletti) | Spalletti is an Italian surname. It is derived from the word spalla, which means shoulder in Italian. The name is thought to have originated as a nickname for someone with broad shoulders or who was strong enough to carry heavy loads on their shoulders. In English, the meaning of Spalletti is "one with broad shoulders". |
-| 28 | [Giove](http://twitter.com/search?q=Giove) | N/A |
-| 29 | [Sentite](http://twitter.com/search?q=Sentite) | N/A |
-| 30 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 31 | [suor teresa](http://twitter.com/search?q=suor+teresa) | N/A |
-| 32 | [Tim Burton](http://twitter.com/search?q=Tim+Burton) | N/A |
-| 33 | [Orsini](http://twitter.com/search?q=Orsini) | Orsini is an Italian surname derived from the Latin name Ursinus, meaning "bear-like". It is most commonly associated with the powerful Orsini family of Rome, who were influential in Italian politics during the Middle Ages and Renaissance. |
-| 34 | [Torsello](http://twitter.com/search?q=Torsello) | N/A |
-| 35 | [Sasà](http://twitter.com/search?q=Sas%c3%a0) | N/A |
-| 36 | [Di Lorenzo](http://twitter.com/search?q=Di+Lorenzo) | Di Lorenzo is an Italian surname. It is derived from the Latin name Laurentius, which means "from Laurentum" (a town in ancient Italy). In English, the meaning of Di Lorenzo is "of Laurentum". |
-| 37 | [Monica Bellucci](http://twitter.com/search?q=Monica+Bellucci) | N/A |
-| 38 | [Presidente del Senato](http://twitter.com/search?q=Presidente+del+Senato) | N/A |
-| 39 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 40 | [Canfora](http://twitter.com/search?q=Canfora) | N/A |
-| 41 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 42 | [Rummenigge](http://twitter.com/search?q=Rummenigge) | N/A |
-| 43 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 44 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 45 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 46 | [Bocchino](http://twitter.com/search?q=Bocchino) | N/A |
-| 47 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 48 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 49 | [Wanda Nara](http://twitter.com/search?q=Wanda+Nara) | N/A |
-| 50 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 2 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 3 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
+| 4 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
+| 5 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 6 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 7 | [#PiccoleDonne](http://twitter.com/search?q=%23PiccoleDonne) | N/A |
+| 8 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 9 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
+| 10 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 11 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 12 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 13 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
+| 14 | [Giove](http://twitter.com/search?q=Giove) | N/A |
+| 15 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 16 | [Forza Inter](http://twitter.com/search?q=Forza+Inter) | N/A |
+| 17 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 18 | [Tim Burton](http://twitter.com/search?q=Tim+Burton) | N/A |
+| 19 | [Lara](http://twitter.com/search?q=Lara) | N/A |
+| 20 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 21 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 22 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 23 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 24 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
+| 25 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 26 | [#LeConosco](http://twitter.com/search?q=%23LeConosco) | N/A |
+| 27 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 28 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
+| 29 | [#blob](http://twitter.com/search?q=%23blob) | N/A |
+| 30 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
+| 31 | [#ErmalMeta](http://twitter.com/search?q=%23ErmalMeta) | N/A |
+| 32 | [#CoreadelSudItalia](http://twitter.com/search?q=%23CoreadelSudItalia) | N/A |
+| 33 | [#RomaSalisburgo](http://twitter.com/search?q=%23RomaSalisburgo) | N/A |
+| 34 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 35 | [#DontForgetTheLyrics](http://twitter.com/search?q=%23DontForgetTheLyrics) | N/A |
+| 36 | [#NantesJuve](http://twitter.com/search?q=%23NantesJuve) | N/A |
+| 37 | [#Abraham](http://twitter.com/search?q=%23Abraham) | N/A |
+| 38 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
+| 39 | [#LouisTomlinson](http://twitter.com/search?q=%23LouisTomlinson) | N/A |
+| 40 | [#Pogba](http://twitter.com/search?q=%23Pogba) | N/A |
+| 41 | [#Chiesa](http://twitter.com/search?q=%23Chiesa) | N/A |
+| 42 | [#sp0ra](http://twitter.com/search?q=%23sp0ra) | N/A |
 
 
 

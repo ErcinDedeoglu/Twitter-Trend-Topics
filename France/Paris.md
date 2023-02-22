@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-22 20:16:51 UTC`
+📆 Last Updated: `2023-02-22 21:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#KCORPWIN](http://twitter.com/search?q=%23KCORPWIN) | #KCORPWIN is a hashtag used by the Korean company KCorp to promote their products and services. It stands for "KCorp Wins" and is used to show support for the company and its successes. |
 | 2 | [The Fabelmans](http://twitter.com/search?q=The+Fabelmans) | The Fabelmans is a Dutch-based band that plays a mix of traditional folk music and modern pop. The name is derived from the Dutch word for "fable," which is used to describe stories with moral lessons. In English, The Fabelmans could be translated as "The Storytellers." |
-| 3 | [Steven Spielberg](http://twitter.com/search?q=Steven+Spielberg) | Steven Spielberg is an American film director, producer, and screenwriter. He is one of the most successful filmmakers in history, with his films having grossed more than $9 billion worldwide. He is best known for directing classic films such as Jaws, E.T. the Extra-Terrestrial, Jurassic Park, Schindler's List, Saving Private Ryan, and the Indiana Jones series. |
-| 4 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
-| 5 | [#saintjeandeluz](http://twitter.com/search?q=%23saintjeandeluz) | N/A |
-| 6 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
-| 7 | [#OnPeutGagner](http://twitter.com/search?q=%23OnPeutGagner) | N/A |
-| 8 | [Elisabeth Lévy](http://twitter.com/search?q=Elisabeth+L%c3%a9vy) | N/A |
-| 9 | [Melonik](http://twitter.com/search?q=Melonik) | N/A |
-| 10 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 11 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 12 | [Décès](http://twitter.com/search?q=D%c3%a9c%c3%a8s) | N/A |
-| 13 | [Pepsi](http://twitter.com/search?q=Pepsi) | N/A |
-| 14 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 15 | [Assassinat](http://twitter.com/search?q=Assassinat) | N/A |
-| 16 | [Lider](http://twitter.com/search?q=Lider) | N/A |
-| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
-| 19 | [Naplouse](http://twitter.com/search?q=Naplouse) | N/A |
-| 20 | [Bastien](http://twitter.com/search?q=Bastien) | N/A |
-| 21 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 22 | [Daft Punk](http://twitter.com/search?q=Daft+Punk) | N/A |
-| 23 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 24 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 25 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 26 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 27 | [Aquin](http://twitter.com/search?q=Aquin) | N/A |
-| 28 | [Karl Zéro](http://twitter.com/search?q=Karl+Z%c3%a9ro) | N/A |
-| 29 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 30 | [St Jean de Luz](http://twitter.com/search?q=St+Jean+de+Luz) | N/A |
-| 31 | [Jena Lee](http://twitter.com/search?q=Jena+Lee) | N/A |
-| 32 | [Fabien Roussel](http://twitter.com/search?q=Fabien+Roussel) | N/A |
-| 33 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 34 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
-| 35 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
-| 36 | [#KARMINE](http://twitter.com/search?q=%23KARMINE) | N/A |
-| 37 | [#CatchRAW](http://twitter.com/search?q=%23CatchRAW) | N/A |
-| 38 | [#NOPLP](http://twitter.com/search?q=%23NOPLP) | N/A |
-| 39 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
-| 40 | [#LeCadeauZEbet](http://twitter.com/search?q=%23LeCadeauZEbet) | N/A |
-| 41 | [#pasdevagues](http://twitter.com/search?q=%23pasdevagues) | N/A |
-| 42 | [#PapNdiaye](http://twitter.com/search?q=%23PapNdiaye) | N/A |
-| 43 | [#enseignants](http://twitter.com/search?q=%23enseignants) | N/A |
-| 44 | [#ONEPIECE1076](http://twitter.com/search?q=%23ONEPIECE1076) | N/A |
-| 45 | [#amidicestmehdi](http://twitter.com/search?q=%23amidicestmehdi) | N/A |
-| 46 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
-| 47 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 3 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
+| 4 | [#NouvelleStar20ans](http://twitter.com/search?q=%23NouvelleStar20ans) | N/A |
+| 5 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 7 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
+| 8 | [#CatchRAW](http://twitter.com/search?q=%23CatchRAW) | N/A |
+| 9 | [Bernardo Silva](http://twitter.com/search?q=Bernardo+Silva) | Bernardo Silva is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester City and the Portugal national team. His name translates to "brave warrior" in English. |
+| 10 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
+| 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 12 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
+| 13 | [Amel Bent](http://twitter.com/search?q=Amel+Bent) | N/A |
+| 14 | [Summit](http://twitter.com/search?q=Summit) | N/A |
+| 15 | [Elisabeth Lévy](http://twitter.com/search?q=Elisabeth+L%c3%a9vy) | N/A |
+| 16 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 17 | [Melonik](http://twitter.com/search?q=Melonik) | N/A |
+| 18 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 19 | [Gane](http://twitter.com/search?q=Gane) | N/A |
+| 20 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 21 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 22 | [Décès](http://twitter.com/search?q=D%c3%a9c%c3%a8s) | N/A |
+| 23 | [Assassinat](http://twitter.com/search?q=Assassinat) | N/A |
+| 24 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
+| 25 | [Naplouse](http://twitter.com/search?q=Naplouse) | N/A |
+| 26 | [Bastien](http://twitter.com/search?q=Bastien) | N/A |
+| 27 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 28 | [Daft Punk](http://twitter.com/search?q=Daft+Punk) | N/A |
+| 29 | [MEURTRE](http://twitter.com/search?q=MEURTRE) | N/A |
+| 30 | [Orelsan](http://twitter.com/search?q=Orelsan) | N/A |
+| 31 | [Karl Zéro](http://twitter.com/search?q=Karl+Z%c3%a9ro) | N/A |
+| 32 | [Jones](http://twitter.com/search?q=Jones) | N/A |
+| 33 | [Jena Lee](http://twitter.com/search?q=Jena+Lee) | N/A |
+| 34 | [Pap Ndiaye](http://twitter.com/search?q=Pap+Ndiaye) | N/A |
+| 35 | [Aquin](http://twitter.com/search?q=Aquin) | N/A |
+| 36 | [Fabien Roussel](http://twitter.com/search?q=Fabien+Roussel) | N/A |
+| 37 | [#OnPeutGagner](http://twitter.com/search?q=%23OnPeutGagner) | N/A |
+| 38 | [#FreebetParionsSport](http://twitter.com/search?q=%23FreebetParionsSport) | N/A |
+| 39 | [#saintjeandeluz](http://twitter.com/search?q=%23saintjeandeluz) | N/A |
+| 40 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
+| 41 | [#KARMINE](http://twitter.com/search?q=%23KARMINE) | N/A |
+| 42 | [#TotalEnergies](http://twitter.com/search?q=%23TotalEnergies) | N/A |
+| 43 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
+| 44 | [#LeCadeauZEbet](http://twitter.com/search?q=%23LeCadeauZEbet) | N/A |
+| 45 | [#pasdevagues](http://twitter.com/search?q=%23pasdevagues) | N/A |
+| 46 | [#ONEPIECE1076](http://twitter.com/search?q=%23ONEPIECE1076) | N/A |
+| 47 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
 | 48 | [#FCNJUV](http://twitter.com/search?q=%23FCNJUV) | N/A |
-| 49 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
-| 50 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
+| 49 | [#stjeandeluz](http://twitter.com/search?q=%23stjeandeluz) | N/A |
+| 50 | [#enseignants](http://twitter.com/search?q=%23enseignants) | N/A |
 
 
 
