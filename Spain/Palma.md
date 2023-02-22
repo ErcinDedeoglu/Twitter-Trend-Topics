@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-02-22 08:17:27 UTC`
+📆 Last Updated: `2023-02-22 09:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Spain](</Spain>)
 | 2 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 3 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
 | 4 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 5 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 6 | [#Cuaresma2023](http://twitter.com/search?q=%23Cuaresma2023) | N/A |
-| 7 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
-| 8 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 9 | [#TentacionesDBT5](http://twitter.com/search?q=%23TentacionesDBT5) | N/A |
-| 10 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 5 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 6 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 7 | [#IgualdadSalarial](http://twitter.com/search?q=%23IgualdadSalarial) | N/A |
+| 8 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
+| 9 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 10 | [#TentacionesDBT5](http://twitter.com/search?q=%23TentacionesDBT5) | N/A |
 | 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 12 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 13 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 14 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 15 | [Antonio Machado](http://twitter.com/search?q=Antonio+Machado) | N/A |
-| 16 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
-| 19 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 20 | [Evangelio](http://twitter.com/search?q=Evangelio) | N/A |
-| 21 | [#IgualdadSalarial](http://twitter.com/search?q=%23IgualdadSalarial) | N/A |
-| 22 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 23 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 24 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 25 | [412 X](http://twitter.com/search?q=412+X) | N/A |
-| 26 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 27 | [Mt 6](http://twitter.com/search?q=Mt+6) | N/A |
-| 28 | [Comprimidos](http://twitter.com/search?q=Comprimidos) | N/A |
-| 29 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
+| 12 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 13 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 14 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 15 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 16 | [#MenosFalconMásCercanías](http://twitter.com/search?q=%23MenosFalconM%c3%a1sCercan%c3%adas) | N/A |
+| 17 | [Antonio Machado](http://twitter.com/search?q=Antonio+Machado) | N/A |
+| 18 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 20 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 21 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
+| 22 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 23 | [#BrechaSalarial](http://twitter.com/search?q=%23BrechaSalarial) | N/A |
+| 24 | [Evangelio](http://twitter.com/search?q=Evangelio) | N/A |
+| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 26 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 27 | [Comprimidos](http://twitter.com/search?q=Comprimidos) | N/A |
+| 28 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 29 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
 | 30 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 31 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 32 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 31 | [Mt 6](http://twitter.com/search?q=Mt+6) | N/A |
+| 32 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
 | 33 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 34 | [Tu Padre](http://twitter.com/search?q=Tu+Padre) | N/A |
-| 35 | [Miriam Nogueras](http://twitter.com/search?q=Miriam+Nogueras) | N/A |
-| 36 | [Dross](http://twitter.com/search?q=Dross) | N/A |
-| 37 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 38 | [Junts](http://twitter.com/search?q=Junts) | N/A |
-| 39 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 40 | [Reyes de Europa](http://twitter.com/search?q=Reyes+de+Europa) | N/A |
-| 41 | [Pasión](http://twitter.com/search?q=Pasi%c3%b3n) | N/A |
-| 42 | [HOY 22](http://twitter.com/search?q=HOY+22) | N/A |
-| 43 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 34 | [Miriam Nogueras](http://twitter.com/search?q=Miriam+Nogueras) | N/A |
+| 35 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 36 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
+| 37 | [Yoyas](http://twitter.com/search?q=Yoyas) | N/A |
+| 38 | [Pasión](http://twitter.com/search?q=Pasi%c3%b3n) | N/A |
+| 39 | [Junts](http://twitter.com/search?q=Junts) | N/A |
+| 40 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
+| 41 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 42 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
+| 43 | [REYES DE EUROPA](http://twitter.com/search?q=REYES+DE+EUROPA) | N/A |
 | 44 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 45 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 46 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 47 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
-| 48 | [Egun](http://twitter.com/search?q=Egun) | N/A |
-| 49 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 50 | [Keyla](http://twitter.com/search?q=Keyla) | N/A |
+| 45 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 46 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 47 | [412 X](http://twitter.com/search?q=412+X) | N/A |
+| 48 | [Dross](http://twitter.com/search?q=Dross) | N/A |
+| 49 | [Colliure](http://twitter.com/search?q=Colliure) | N/A |
+| 50 | [Naomi](http://twitter.com/search?q=Naomi) | Naomi is a Hebrew name meaning "pleasantness" or "my delight." It is also a Japanese name meaning "beautiful truth." |
 
 
 

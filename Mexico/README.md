@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-22 08:17:59 UTC`
+📆 Last Updated: `2023-02-22 09:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 2 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
-| 3 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 4 | [#HogaresMexiquenses](http://twitter.com/search?q=%23HogaresMexiquenses) | N/A |
-| 5 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 6 | [#CarniceroDeMichoacan](http://twitter.com/search?q=%23CarniceroDeMichoacan) | N/A |
-| 7 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
-| 8 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
-| 9 | [#MartesDeEnigmas](http://twitter.com/search?q=%23MartesDeEnigmas) | N/A |
-| 10 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
-| 11 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 12 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 13 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
-| 14 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 15 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
-| 16 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 17 | [Badiraguato](http://twitter.com/search?q=Badiraguato) | Badiraguato is a municipality in the Mexican state of Sinaloa. It is located in the foothills of the Sierra Madre Occidental mountain range. The name Badiraguato comes from the Nahuatl language and means "place of many caves". |
-| 18 | [El PAN](http://twitter.com/search?q=El+PAN) | N/A |
-| 19 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 20 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 21 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 22 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 23 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 24 | [Cínico](http://twitter.com/search?q=C%c3%adnico) | N/A |
-| 25 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
-| 26 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
-| 27 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
-| 28 | [all of those voices](http://twitter.com/search?q=all+of+those+voices) | N/A |
-| 29 | [Gertz](http://twitter.com/search?q=Gertz) | N/A |
-| 30 | [Majo](http://twitter.com/search?q=Majo) | N/A |
-| 31 | [Mario Delgado](http://twitter.com/search?q=Mario+Delgado) | N/A |
-| 32 | [Judicial](http://twitter.com/search?q=Judicial) | N/A |
-| 33 | [Memo Vázquez](http://twitter.com/search?q=Memo+V%c3%a1zquez) | N/A |
-| 34 | [Trans](http://twitter.com/search?q=Trans) | N/A |
-| 35 | [Cartel de Sinaloa](http://twitter.com/search?q=Cartel+de+Sinaloa) | N/A |
-| 36 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
-| 37 | [Secretario de Seguridad](http://twitter.com/search?q=Secretario+de+Seguridad) | N/A |
-| 38 | [Gael](http://twitter.com/search?q=Gael) | N/A |
-| 39 | [Bejarano](http://twitter.com/search?q=Bejarano) | N/A |
-| 40 | [#SacoDePus](http://twitter.com/search?q=%23SacoDePus) | N/A |
-| 41 | [#ConLosNinosNo](http://twitter.com/search?q=%23ConLosNinosNo) | N/A |
-| 42 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
-| 43 | [#FACEBYJIMIN](http://twitter.com/search?q=%23FACEBYJIMIN) | N/A |
+| 1 | [#HogaresMexiquenses](http://twitter.com/search?q=%23HogaresMexiquenses) | N/A |
+| 2 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 3 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 4 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 6 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 7 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 8 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 9 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
+| 10 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 11 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 12 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 13 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
+| 14 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 16 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 17 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 19 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 20 | [#SacoDePus](http://twitter.com/search?q=%23SacoDePus) | N/A |
+| 21 | [DARWIN NUÑEZ](http://twitter.com/search?q=DARWIN+NU%c3%91EZ) | N/A |
+| 22 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 25 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
+| 26 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 27 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 28 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 29 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 30 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 31 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 32 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 33 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 34 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 35 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
+| 36 | [Conscripto](http://twitter.com/search?q=Conscripto) | N/A |
+| 37 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 38 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 39 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 40 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 41 | [JIMIN SOLO ALBUM](http://twitter.com/search?q=JIMIN+SOLO+ALBUM) | N/A |
+| 42 | [América Rangel](http://twitter.com/search?q=Am%c3%a9rica+Rangel) | N/A |
+| 43 | [Panistas](http://twitter.com/search?q=Panistas) | N/A |
+| 44 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
+| 45 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 46 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
+| 47 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 48 | [Dross](http://twitter.com/search?q=Dross) | N/A |
+| 49 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 50 | [Odalys](http://twitter.com/search?q=Odalys) | N/A |
 
 
 

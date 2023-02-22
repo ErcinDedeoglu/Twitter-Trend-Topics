@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-22 08:18:00 UTC`
+📆 Last Updated: `2023-02-22 09:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -41,15 +41,15 @@ This is top 50 for Panama
 | 24 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 25 | [#vamosaganar](http://twitter.com/search?q=%23vamosaganar) | N/A |
 | 26 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 27 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 28 | [danger man](http://twitter.com/search?q=danger+man) | N/A |
-| 29 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 27 | [danger man](http://twitter.com/search?q=danger+man) | N/A |
+| 28 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 29 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 30 | [#inversióndevías](http://twitter.com/search?q=%23inversi%c3%b3ndev%c3%adas) | N/A |
-| 31 | [Las Tablas](http://twitter.com/search?q=Las+Tablas) | N/A |
-| 32 | [el gurú](http://twitter.com/search?q=el+gur%c3%ba) | N/A |
-| 33 | [Barsa](http://twitter.com/search?q=Barsa) | N/A |
-| 34 | [cerro patacón](http://twitter.com/search?q=cerro+patac%c3%b3n) | N/A |
-| 35 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 31 | [el gurú](http://twitter.com/search?q=el+gur%c3%ba) | N/A |
+| 32 | [Barsa](http://twitter.com/search?q=Barsa) | N/A |
+| 33 | [cerro patacón](http://twitter.com/search?q=cerro+patac%c3%b3n) | N/A |
+| 34 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 35 | [Las Tablas](http://twitter.com/search?q=Las+Tablas) | N/A |
 | 36 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 | 37 | [Cavill](http://twitter.com/search?q=Cavill) | Cavill is a surname of English origin. It is derived from the Old French word "cavil," which means "to cavil or quibble." The name is thought to have been given to someone who was known for being argumentative or nit-picking. |
 | 38 | [Sony](http://twitter.com/search?q=Sony) | N/A |

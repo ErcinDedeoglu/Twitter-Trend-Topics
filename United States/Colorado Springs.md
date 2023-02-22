@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-02-22 08:17:49 UTC`
+📆 Last Updated: `2023-02-22 09:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for [United States](</United States>)
 | 4 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
 | 5 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
 | 6 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
-| 7 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 8 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
-| 9 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 10 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
-| 11 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 12 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 13 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 7 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
+| 8 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 9 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 10 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 11 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
+| 12 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 13 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
 | 14 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 15 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 16 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 17 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 18 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 19 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 20 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 21 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
-| 22 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 23 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 24 | [Ghost in the Machine](http://twitter.com/search?q=Ghost+in+the+Machine) | N/A |
-| 25 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 26 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 27 | [Ines](http://twitter.com/search?q=Ines) | N/A |
-| 28 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 29 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 15 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 16 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 17 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 18 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 19 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 20 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 21 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 22 | [THEY THREW BEANS ON HIM](http://twitter.com/search?q=THEY+THREW+BEANS+ON+HIM) | N/A |
+| 23 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 24 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 25 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 26 | [GHOST IN THE MACHINE](http://twitter.com/search?q=GHOST+IN+THE+MACHINE) | N/A |
+| 27 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
+| 28 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 29 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
 | 30 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
 | 31 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
-| 32 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 33 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
-| 34 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 35 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
-| 36 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 37 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 38 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
-| 39 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
-| 40 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 41 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 32 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 33 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
+| 34 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
+| 35 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 36 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
+| 37 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 38 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 39 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 40 | [The Parkers](http://twitter.com/search?q=The+Parkers) | N/A |
+| 41 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
 | 42 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
 | 43 | [Princess and the Frog](http://twitter.com/search?q=Princess+and+the+Frog) | N/A |
-| 44 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
-| 45 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
-| 46 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 47 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 48 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
-| 49 | [Kariselle](http://twitter.com/search?q=Kariselle) | N/A |
-| 50 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
+| 44 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
+| 45 | [Physical 100](http://twitter.com/search?q=Physical+100) | N/A |
+| 46 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 47 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 48 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 49 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 50 | [Bartise](http://twitter.com/search?q=Bartise) | N/A |
 
 
 

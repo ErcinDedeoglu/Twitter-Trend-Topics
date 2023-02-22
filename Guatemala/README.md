@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-22 08:17:58 UTC`
+📆 Last Updated: `2023-02-22 09:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,19 +26,19 @@ This is top 50 for Guatemala
 | 9 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 10 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
 | 11 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 12 | [Vamos Guate](http://twitter.com/search?q=Vamos+Guate) | N/A |
+| 12 | [vamos guate](http://twitter.com/search?q=vamos+guate) | N/A |
 | 13 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
 | 14 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 15 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
 | 16 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
 | 17 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 18 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 19 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 20 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 21 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 22 | [#bloqueosgt](http://twitter.com/search?q=%23bloqueosgt) | N/A |
-| 23 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 24 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 18 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 19 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 20 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 21 | [#bloqueosgt](http://twitter.com/search?q=%23bloqueosgt) | N/A |
+| 22 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 23 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 24 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
 | 25 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 27 | [#Sub17](http://twitter.com/search?q=%23Sub17) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for Guatemala
 | 47 | [Labello](http://twitter.com/search?q=Labello) | N/A |
 | 48 | [CUNOC](http://twitter.com/search?q=CUNOC) | N/A |
 | 49 | [José Rubén Zamora](http://twitter.com/search?q=Jos%c3%a9+Rub%c3%a9n+Zamora) | N/A |
-| 50 | [MINEDUC](http://twitter.com/search?q=MINEDUC) | N/A |
+| 50 | [mineduc](http://twitter.com/search?q=mineduc) | N/A |
 
 
 

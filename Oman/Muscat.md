@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Muscat
 
-📆 Last Updated: `2023-02-22 08:17:43 UTC`
+📆 Last Updated: `2023-02-22 09:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Oman](</Oman>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 2 | [#تسريح_عمال_حديد_القمر](http://twitter.com/search?q=%23%d8%aa%d8%b3%d8%b1%d9%8a%d8%ad_%d8%b9%d9%85%d8%a7%d9%84_%d8%ad%d8%af%d9%8a%d8%af_%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
-| 3 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 2 | [سناب جمال الكمشكي](http://twitter.com/search?q=%d8%b3%d9%86%d8%a7%d8%a8+%d8%ac%d9%85%d8%a7%d9%84+%d8%a7%d9%84%d9%83%d9%85%d8%b4%d9%83%d9%8a) | N/A |
+| 3 | [#تغطيه_الكمشكي_لمد_جزر](http://twitter.com/search?q=%23%d8%aa%d8%ba%d8%b7%d9%8a%d9%87_%d8%a7%d9%84%d9%83%d9%85%d8%b4%d9%83%d9%8a_%d9%84%d9%85%d8%af_%d8%ac%d8%b2%d8%b1) | N/A |
 | 4 | [#مدارسنا_مستقبل_واعد](http://twitter.com/search?q=%23%d9%85%d8%af%d8%a7%d8%b1%d8%b3%d9%86%d8%a7_%d9%85%d8%b3%d8%aa%d9%82%d8%a8%d9%84_%d9%88%d8%a7%d8%b9%d8%af) | N/A |
-| 5 | [#احلي_كدبه](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%84%d9%8a_%d9%83%d8%af%d8%a8%d9%87) | N/A |
-| 6 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 7 | [#البزنس77](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b377) | N/A |
-| 8 | [#دوري_ابطال_اوروبا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
-| 9 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 10 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
-| 11 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 12 | [المخرجات التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ae%d8%b1%d8%ac%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
-| 13 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
-| 14 | [يوسف المزروعي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%85%d8%b2%d8%b1%d9%88%d8%b9%d9%8a) | N/A |
-| 15 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 16 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 17 | [الرقايق الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 18 | [الفصل الدراسي الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 5 | [#تسريح_عمال_حديد_القمر](http://twitter.com/search?q=%23%d8%aa%d8%b3%d8%b1%d9%8a%d8%ad_%d8%b9%d9%85%d8%a7%d9%84_%d8%ad%d8%af%d9%8a%d8%af_%d8%a7%d9%84%d9%82%d9%85%d8%b1) | N/A |
+| 6 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 7 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 8 | [#البزنس77](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b377) | N/A |
+| 9 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 10 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 11 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 12 | [التعليم العالي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%8a) | N/A |
+| 13 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
+| 14 | [المخرجات التعليميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ae%d8%b1%d8%ac%d8%a7%d8%aa+%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85%d9%8a%d9%87) | N/A |
+| 15 | [حفيظ](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8) | N/A |
+| 16 | [الفصل الدراسي الاول](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b5%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 17 | [يوسف المزروعي](http://twitter.com/search?q=%d9%8a%d9%88%d8%b3%d9%81+%d8%a7%d9%84%d9%85%d8%b2%d8%b1%d9%88%d8%b9%d9%8a) | N/A |
+| 18 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
 | 19 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
 | 20 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
 | 21 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 22 | [القمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
-| 23 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
-| 24 | [الاخصاييه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
-| 25 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
-| 26 | [وزارة التربية والتعليم](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9+%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
-| 27 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 28 | [المستوي التحصيلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%88%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84%d9%8a) | N/A |
-| 29 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 22 | [سوق العمل](http://twitter.com/search?q=%d8%b3%d9%88%d9%82+%d8%a7%d9%84%d8%b9%d9%85%d9%84) | N/A |
+| 23 | [الرقايق الالكترونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%82%d8%a7%d9%8a%d9%82+%d8%a7%d9%84%d8%a7%d9%84%d9%83%d8%aa%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 24 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 25 | [القمه العالميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85%d9%8a%d9%87) | N/A |
+| 26 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 27 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 28 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 29 | [التوجيه المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
 | 30 | [محمد بن سعود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 31 | [لوكا](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7) | N/A |
-| 32 | [الشاب العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d8%a8+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
-| 33 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
-| 34 | [التوجيه المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d9%88%d8%ac%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
-| 35 | [التحصيل الدراسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84+%d8%a7%d9%84%d8%af%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 36 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 37 | [جنوب الباطنه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86%d9%87) | N/A |
+| 31 | [الشباب العماني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%86%d9%8a) | N/A |
+| 32 | [المستوي التحصيلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%88%d9%8a+%d8%a7%d9%84%d8%aa%d8%ad%d8%b5%d9%8a%d9%84%d9%8a) | N/A |
+| 33 | [وزارة التربية والتعليم](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d8%a9+%d9%88%d8%a7%d9%84%d8%aa%d8%b9%d9%84%d9%8a%d9%85) | N/A |
+| 34 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 35 | [لوكا](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7) | N/A |
+| 36 | [جنوب الباطنه](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d8%a7%d9%84%d8%a8%d8%a7%d8%b7%d9%86%d9%87) | N/A |
+| 37 | [المعلمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
 | 38 | [معرض الكتاب](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8) | N/A |
-| 39 | [المديريه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d9%8a%d8%b1%d9%8a%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 40 | [المعلمه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
-| 41 | [الرييس الدكتور](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1) | N/A |
-| 42 | [علي المواطن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86) | N/A |
-| 43 | [الرييس السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
-| 44 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 45 | [الطيران المدني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b7%d9%8a%d8%b1%d8%a7%d9%86+%d8%a7%d9%84%d9%85%d8%af%d9%86%d9%8a) | N/A |
-| 46 | [الشوون الدينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d9%88%d9%86+%d8%a7%d9%84%d8%af%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 47 | [العلاقات الثناييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 48 | [الصحه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
-| 49 | [الموارد البشريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b1%d8%af+%d8%a7%d9%84%d8%a8%d8%b4%d8%b1%d9%8a%d9%87) | N/A |
-| 50 | [الصحه المدرسيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%b3%d9%8a%d9%87) | N/A |
+| 39 | [التربيه الاسلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 40 | [الاخصاييه الاجتماعيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ae%d8%b5%d8%a7%d9%8a%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d8%ac%d8%aa%d9%85%d8%a7%d8%b9%d9%8a%d9%87) | N/A |
+| 41 | [علي المواطن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b7%d9%86) | N/A |
+| 42 | [الرييس السوري](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a) | N/A |
+| 43 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
+| 44 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
+| 45 | [العلاقات الثناييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d8%a7%d9%82%d8%a7%d8%aa+%d8%a7%d9%84%d8%ab%d9%86%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 46 | [الصحه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 47 | [معرض مسقط الدولي](http://twitter.com/search?q=%d9%85%d8%b9%d8%b1%d8%b6+%d9%85%d8%b3%d9%82%d8%b7+%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%8a) | N/A |
+| 48 | [القطاع الخاص](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d8%a7%d8%b9+%d8%a7%d9%84%d8%ae%d8%a7%d8%b5) | N/A |
+| 49 | [الانماء المهني](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d9%85%d8%a7%d8%a1+%d8%a7%d9%84%d9%85%d9%87%d9%86%d9%8a) | N/A |
+| 50 | [الموارد البشريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%88%d8%a7%d8%b1%d8%af+%d8%a7%d9%84%d8%a8%d8%b4%d8%b1%d9%8a%d9%87) | N/A |
 
 
 

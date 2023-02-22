@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-02-22 08:17:19 UTC`
+📆 Last Updated: `2023-02-22 09:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,46 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 2 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 3 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 4 | [SIMONE TEBET](http://twitter.com/search?q=SIMONE+TEBET) | N/A |
-| 5 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 6 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
-| 7 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 8 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 9 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
-| 10 | [Stone](http://twitter.com/search?q=Stone) | Stone is a natural material that is composed of minerals and is found in the earth's crust. It is often used for building, decoration, and other purposes. In English, stone can refer to a large rock or boulder, or it can be used as a metaphor for something that is hard and unyielding. |
-| 11 | [Guskey](http://twitter.com/search?q=Guskey) | N/A |
-| 12 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
-| 13 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 14 | [#EliminacaoBBB](http://twitter.com/search?q=%23EliminacaoBBB) | N/A |
-| 15 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
-| 16 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
-| 17 | [Marcos Braz](http://twitter.com/search?q=Marcos+Braz) | N/A |
-| 18 | [Alceu](http://twitter.com/search?q=Alceu) | N/A |
-| 19 | [joao gomes](http://twitter.com/search?q=joao+gomes) | N/A |
-| 20 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
-| 21 | [#ficavp](http://twitter.com/search?q=%23ficavp) | N/A |
-| 22 | [R$500](http://twitter.com/search?q=R%24500) | N/A |
-| 23 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 24 | [Recopa](http://twitter.com/search?q=Recopa) | N/A |
-| 25 | [Fernanda Montenegro](http://twitter.com/search?q=Fernanda+Montenegro) | N/A |
-| 26 | [Marco Zero](http://twitter.com/search?q=Marco+Zero) | N/A |
-| 27 | [Vivian](http://twitter.com/search?q=Vivian) | N/A |
-| 28 | [Landim](http://twitter.com/search?q=Landim) | N/A |
-| 29 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 30 | [Fabrício Bruno](http://twitter.com/search?q=Fabr%c3%adcio+Bruno) | Fabrício Bruno is a Portuguese name, derived from the Latin name Fabricius. It means "craftsman" or "artisan". |
-| 31 | [O Guime](http://twitter.com/search?q=O+Guime) | N/A |
-| 32 | [Seu Jorge](http://twitter.com/search?q=Seu+Jorge) | N/A |
-| 33 | [Facinho](http://twitter.com/search?q=Facinho) | N/A |
-| 34 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 35 | [eMule](http://twitter.com/search?q=eMule) | N/A |
-| 36 | [#chuvarj](http://twitter.com/search?q=%23chuvarj) | N/A |
-| 37 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
-| 38 | [Kwai](http://twitter.com/search?q=Kwai) | N/A |
-| 39 | [Fiuk](http://twitter.com/search?q=Fiuk) | N/A |
-| 40 | [Espanhola](http://twitter.com/search?q=Espanhola) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 3 | [VINI JR](http://twitter.com/search?q=VINI+JR) | N/A |
+| 4 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 5 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 6 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 7 | [#casadachampions](http://twitter.com/search?q=%23casadachampions) | N/A |
+| 8 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 9 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 10 | [Portela](http://twitter.com/search?q=Portela) | N/A |
+| 11 | [#recopanaespn](http://twitter.com/search?q=%23recopanaespn) | N/A |
+| 12 | [#apuracaosp](http://twitter.com/search?q=%23apuracaosp) | N/A |
+| 13 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
+| 14 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 15 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 16 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 18 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
+| 19 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 20 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 21 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [JULIETTE COM BRAHMA](http://twitter.com/search?q=JULIETTE+COM+BRAHMA) | N/A |
+| 25 | [juliette no bloco uau chá](http://twitter.com/search?q=juliette+no+bloco+uau+ch%c3%a1) | N/A |
+| 26 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 27 | [#globelezabeijaflor](http://twitter.com/search?q=%23globelezabeijaflor) | N/A |
+| 28 | [PARABÉNS SIMONE TEBET](http://twitter.com/search?q=PARAB%c3%89NS+SIMONE+TEBET) | N/A |
+| 29 | [#BatePapoBBB](http://twitter.com/search?q=%23BatePapoBBB) | N/A |
+| 30 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 31 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
+| 32 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 33 | [Paulo Barros](http://twitter.com/search?q=Paulo+Barros) | N/A |
+| 34 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 35 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 36 | [MILITÃO](http://twitter.com/search?q=MILIT%c3%83O) | N/A |
+| 37 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 38 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 39 | [juliette no bloco forrozin](http://twitter.com/search?q=juliette+no+bloco+forrozin) | N/A |
+| 40 | [O B DE LGBT](http://twitter.com/search?q=O+B+DE+LGBT) | N/A |
+| 41 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
+| 42 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 43 | [Alface](http://twitter.com/search?q=Alface) | Alface is a Portuguese word for lettuce. In English, it can be translated to mean lettuce. |
+| 44 | [Sapucaí](http://twitter.com/search?q=Sapuca%c3%ad) | N/A |
+| 45 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 46 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 47 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 48 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
+| 49 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 50 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
 
 
 
