@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-22 10:16:46 UTC`
+📆 Last Updated: `2023-02-22 11:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,16 +35,16 @@ This is top 50 for Guatemala
 | 18 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 19 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
 | 20 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 21 | [#bloqueosgt](http://twitter.com/search?q=%23bloqueosgt) | N/A |
-| 22 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 23 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 24 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 25 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 27 | [#Sub17](http://twitter.com/search?q=%23Sub17) | N/A |
-| 28 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 29 | [tecún umán](http://twitter.com/search?q=tec%c3%ban+um%c3%a1n) | N/A |
-| 30 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 21 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 22 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 23 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 24 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 25 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 26 | [#sub17](http://twitter.com/search?q=%23sub17) | N/A |
+| 27 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 28 | [tecún umán](http://twitter.com/search?q=tec%c3%ban+um%c3%a1n) | N/A |
+| 29 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 30 | [#zelayacontigo](http://twitter.com/search?q=%23zelayacontigo) | N/A |
 | 31 | [jorge solórzano](http://twitter.com/search?q=jorge+sol%c3%b3rzano) | N/A |
 | 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 33 | [colonia el esfuerzo](http://twitter.com/search?q=colonia+el+esfuerzo) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Guatemala
 | 37 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
 | 38 | [Rey de Europa](http://twitter.com/search?q=Rey+de+Europa) | N/A |
 | 39 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
-| 40 | [san lucas](http://twitter.com/search?q=san+lucas) | N/A |
+| 40 | [San Lucas](http://twitter.com/search?q=San+Lucas) | N/A |
 | 41 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
 | 42 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
 | 43 | [mario castañeda](http://twitter.com/search?q=mario+casta%c3%b1eda) | N/A |

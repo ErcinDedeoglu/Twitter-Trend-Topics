@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Faisalabad
 
-📆 Last Updated: `2023-02-22 10:16:31 UTC`
+📆 Last Updated: `2023-02-22 11:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 8 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
 | 9 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 10 | [Welcome to PTI](http://twitter.com/search?q=Welcome+to+PTI) | N/A |
-| 11 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 11 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
 | 12 | [Shaheen Shah Afridi](http://twitter.com/search?q=Shaheen+Shah+Afridi) | N/A |
-| 13 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 14 | [another 6.4](http://twitter.com/search?q=another+6.4) | N/A |
+| 13 | [another 6.4](http://twitter.com/search?q=another+6.4) | N/A |
+| 14 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 15 | [Sardar](http://twitter.com/search?q=Sardar) | N/A |
-| 16 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 17 | [odean smith](http://twitter.com/search?q=odean+smith) | N/A |
-| 18 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 19 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 20 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
-| 21 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
-| 22 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 23 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
-| 24 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
-| 25 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 26 | [Founder Of Sipah E Sahaba](http://twitter.com/search?q=Founder+Of+Sipah+E+Sahaba) | N/A |
-| 27 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
-| 28 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 29 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 30 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 31 | [Chairman NAB](http://twitter.com/search?q=Chairman+NAB) | N/A |
+| 16 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
+| 17 | [Arts](http://twitter.com/search?q=Arts) | N/A |
+| 18 | [China Development Bank](http://twitter.com/search?q=China+Development+Bank) | N/A |
+| 19 | [odean smith](http://twitter.com/search?q=odean+smith) | N/A |
+| 20 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 21 | [Alhamra](http://twitter.com/search?q=Alhamra) | N/A |
+| 22 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
+| 23 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
+| 24 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
+| 25 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 26 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
+| 27 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 28 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
+| 29 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 30 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 31 | [chairman nab](http://twitter.com/search?q=chairman+nab) | N/A |
 | 32 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 33 | [Pervaiz Elahi](http://twitter.com/search?q=Pervaiz+Elahi) | N/A |
-| 34 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 35 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 36 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 37 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 33 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 34 | [pervaiz elahi](http://twitter.com/search?q=pervaiz+elahi) | N/A |
+| 35 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 36 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 37 | [Mark](http://twitter.com/search?q=Mark) | N/A |
 | 38 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 39 | [Salman](http://twitter.com/search?q=Salman) | N/A |
+| 39 | [Modi](http://twitter.com/search?q=Modi) | N/A |
 | 40 | [Ali Zafar](http://twitter.com/search?q=Ali+Zafar) | N/A |
-| 41 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
-| 42 | [MPAs](http://twitter.com/search?q=MPAs) | N/A |
-| 43 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 44 | [Afghan Taliban](http://twitter.com/search?q=Afghan+Taliban) | N/A |
-| 45 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
-| 46 | [Smoke - No](http://twitter.com/search?q=Smoke+-+No) | N/A |
-| 47 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
-| 48 | [Hero](http://twitter.com/search?q=Hero) | N/A |
-| 49 | [Fawad Chaudhry](http://twitter.com/search?q=Fawad+Chaudhry) | N/A |
-| 50 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
+| 41 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 42 | [Salman](http://twitter.com/search?q=Salman) | N/A |
+| 43 | [Gujrat](http://twitter.com/search?q=Gujrat) | N/A |
+| 44 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
+| 45 | [Smoke - No](http://twitter.com/search?q=Smoke+-+No) | N/A |
+| 46 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 47 | [Fawad Chaudhry](http://twitter.com/search?q=Fawad+Chaudhry) | N/A |
+| 48 | [Lata](http://twitter.com/search?q=Lata) | N/A |
+| 49 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 50 | [Fifa](http://twitter.com/search?q=Fifa) | N/A |
 
 
 

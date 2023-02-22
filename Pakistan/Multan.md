@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-22 10:16:31 UTC`
+📆 Last Updated: `2023-02-22 11:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 7 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
 | 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 9 | [Welcome to PTI](http://twitter.com/search?q=Welcome+to+PTI) | N/A |
-| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 10 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
 | 11 | [Shaheen Shah Afridi](http://twitter.com/search?q=Shaheen+Shah+Afridi) | N/A |
-| 12 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 13 | [another 6.4](http://twitter.com/search?q=another+6.4) | N/A |
+| 12 | [another 6.4](http://twitter.com/search?q=another+6.4) | N/A |
+| 13 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 14 | [Sardar](http://twitter.com/search?q=Sardar) | N/A |
-| 15 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 16 | [odean smith](http://twitter.com/search?q=odean+smith) | N/A |
-| 17 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 18 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 19 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
-| 20 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
-| 21 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
-| 22 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 23 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
-| 24 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 25 | [Founder Of Sipah E Sahaba](http://twitter.com/search?q=Founder+Of+Sipah+E+Sahaba) | N/A |
-| 26 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
-| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 28 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 29 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 30 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 31 | [Pervaiz Elahi](http://twitter.com/search?q=Pervaiz+Elahi) | N/A |
-| 32 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 33 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 34 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 35 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 36 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
-| 37 | [Salman](http://twitter.com/search?q=Salman) | N/A |
-| 38 | [Ali Zafar](http://twitter.com/search?q=Ali+Zafar) | N/A |
-| 39 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
-| 40 | [MPAs](http://twitter.com/search?q=MPAs) | N/A |
-| 41 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 42 | [Afghan Taliban](http://twitter.com/search?q=Afghan+Taliban) | N/A |
-| 43 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 15 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
+| 16 | [Arts](http://twitter.com/search?q=Arts) | N/A |
+| 17 | [China Development Bank](http://twitter.com/search?q=China+Development+Bank) | N/A |
+| 18 | [odean smith](http://twitter.com/search?q=odean+smith) | N/A |
+| 19 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 20 | [Alhamra](http://twitter.com/search?q=Alhamra) | N/A |
+| 21 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
+| 22 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
+| 23 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
+| 24 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 25 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
+| 26 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 27 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
+| 28 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 29 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 30 | [chairman nab](http://twitter.com/search?q=chairman+nab) | N/A |
+| 31 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 32 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 33 | [pervaiz elahi](http://twitter.com/search?q=pervaiz+elahi) | N/A |
+| 34 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 35 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 36 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 37 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 38 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 39 | [Ali Zafar](http://twitter.com/search?q=Ali+Zafar) | N/A |
+| 40 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 41 | [Salman](http://twitter.com/search?q=Salman) | N/A |
+| 42 | [Gujrat](http://twitter.com/search?q=Gujrat) | N/A |
+| 43 | [Taliban](http://twitter.com/search?q=Taliban) | Taliban is a militant Islamic fundamentalist group that ruled Afghanistan from 1996 to 2001. The word Taliban is derived from the Arabic word "talib," which means "student." The group's primary goal was to establish a strict interpretation of Islamic law in Afghanistan. |
 | 44 | [Smoke - No](http://twitter.com/search?q=Smoke+-+No) | N/A |
 | 45 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
-| 46 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
-| 47 | [Hero](http://twitter.com/search?q=Hero) | N/A |
-| 48 | [Fawad Chaudhry](http://twitter.com/search?q=Fawad+Chaudhry) | N/A |
-| 49 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
+| 46 | [Fawad Chaudhry](http://twitter.com/search?q=Fawad+Chaudhry) | N/A |
+| 47 | [Lata](http://twitter.com/search?q=Lata) | N/A |
+| 48 | [Smart](http://twitter.com/search?q=Smart) | N/A |
+| 49 | [Fifa](http://twitter.com/search?q=Fifa) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-02-22 10:16:28 UTC`
+📆 Last Updated: `2023-02-22 11:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#تعليم_القصيم](http://twitter.com/search?q=%23%d8%aa%d8%b9%d9%84%d9%8a%d9%85_%d8%a7%d9%84%d9%82%d8%b5%d9%8a%d9%85) | N/A |
-| 2 | [علي البليهي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | N/A |
-| 3 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 4 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
-| 5 | [#نطالب_بمعاقبه_البليهي](http://twitter.com/search?q=%23%d9%86%d8%b7%d8%a7%d9%84%d8%a8_%d8%a8%d9%85%d8%b9%d8%a7%d9%82%d8%a8%d9%87_%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | N/A |
-| 6 | [#قبه_تالي](http://twitter.com/search?q=%23%d9%82%d8%a8%d9%87_%d8%aa%d8%a7%d9%84%d9%8a) | N/A |
-| 7 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 1 | [العلي القدير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%af%d9%8a%d8%b1) | N/A |
+| 2 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 3 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
+| 4 | [#نطالب_بمعاقبه_البليهي](http://twitter.com/search?q=%23%d9%86%d8%b7%d8%a7%d9%84%d8%a8_%d8%a8%d9%85%d8%b9%d8%a7%d9%82%d8%a8%d9%87_%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | N/A |
+| 5 | [#برنامج_الاجاويد517](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d9%88%d9%8a%d8%af517) | N/A |
+| 6 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 7 | [#ثلاثه_قرون_من_العز_والفخر](http://twitter.com/search?q=%23%d8%ab%d9%84%d8%a7%d8%ab%d9%87_%d9%82%d8%b1%d9%88%d9%86_%d9%85%d9%86_%d8%a7%d9%84%d8%b9%d8%b2_%d9%88%d8%a7%d9%84%d9%81%d8%ae%d8%b1) | N/A |
 | 8 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
 | 9 | [محمد بن سعود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 10 | [الدوله السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 11 | [٢٢ فبراير](http://twitter.com/search?q=%d9%a2%d9%a2+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 12 | [خادم الحرمين الشريفين](http://twitter.com/search?q=%d8%ae%d8%a7%d8%af%d9%85+%d8%a7%d9%84%d8%ad%d8%b1%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81%d9%8a%d9%86) | N/A |
-| 13 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 14 | [الشعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 15 | [تركي الزهراني](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a+%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
-| 16 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 17 | [ادم علي](http://twitter.com/search?q=%d8%a7%d8%af%d9%85+%d8%b9%d9%84%d9%8a) | N/A |
-| 18 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 19 | [وطني الحبيب](http://twitter.com/search?q=%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 20 | [تاريخ مجيد](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
-| 21 | [الدوله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 22 | [العمق التاريخي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%82+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
-| 23 | [الوطن الغالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
-| 24 | [الجذور الراسخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b0%d9%88%d8%b1+%d8%a7%d9%84%d8%b1%d8%a7%d8%b3%d8%ae%d9%87) | N/A |
-| 25 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 26 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
-| 27 | [بلاد الحرمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d9%85%d9%8a%d9%86) | N/A |
-| 28 | [الوطن المعطاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d9%85%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
-| 29 | [الامين الامير](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1) | N/A |
-| 30 | [الوطن العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 31 | [سلمان وولي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d9%88%d9%88%d9%84%d9%8a) | N/A |
-| 32 | [الدرعية](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%b9%d9%8a%d8%a9) | N/A |
-| 33 | [البلاد المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 34 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
-| 35 | [اليوم العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 36 | [الدوله العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
-| 37 | [عهد الامام](http://twitter.com/search?q=%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
-| 38 | [هام السحب](http://twitter.com/search?q=%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8) | N/A |
-| 39 | [والسعودية](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
-| 40 | [حجر الاساس](http://twitter.com/search?q=%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3) | N/A |
-| 41 | [محمد بن عبدالوهاب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8) | N/A |
-| 42 | [الجزيره العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 43 | [علي مدي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%af%d9%8a) | N/A |
-| 44 | [الاهلي السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 45 | [الكيان العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%8a%d8%a7%d9%86+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 46 | [سيدي ولي العهد](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
-| 47 | [Saudi Arabia](http://twitter.com/search?q=Saudi+Arabia) | Saudi Arabia is a country located in the Middle East. It is bordered by Jordan, Iraq, Kuwait, Qatar, Bahrain, the United Arab Emirates, Oman and Yemen. It is the largest country in the region and has an area of over 2 million square kilometers. The official language of Saudi Arabia is Arabic and its currency is the Saudi Riyal. The population of Saudi Arabia is estimated to be around 33 million people. The capital city of Saudi Arabia is Riyadh. |
+| 10 | [الدوله السعوديه الاولي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a) | N/A |
+| 11 | [خادم الحرمين الشريفين](http://twitter.com/search?q=%d8%ae%d8%a7%d8%af%d9%85+%d8%a7%d9%84%d8%ad%d8%b1%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81%d9%8a%d9%86) | N/A |
+| 12 | [الشعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 13 | [السوال الثالث](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab) | N/A |
+| 14 | [تركي الزهراني](http://twitter.com/search?q=%d8%aa%d8%b1%d9%83%d9%8a+%d8%a7%d9%84%d8%b2%d9%87%d8%b1%d8%a7%d9%86%d9%8a) | N/A |
+| 15 | [السوال الاول](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d8%a7%d9%84+%d8%a7%d9%84%d8%a7%d9%88%d9%84) | N/A |
+| 16 | [ساره الودعاني](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%88%d8%af%d8%b9%d8%a7%d9%86%d9%8a) | N/A |
+| 17 | [٢٢ فبراير](http://twitter.com/search?q=%d9%a2%d9%a2+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 18 | [ادم علي](http://twitter.com/search?q=%d8%a7%d8%af%d9%85+%d8%b9%d9%84%d9%8a) | N/A |
+| 19 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
+| 20 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
+| 21 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
+| 22 | [الدوله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 23 | [بلاد الحرمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d9%85%d9%8a%d9%86) | N/A |
+| 24 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 25 | [العمق التاريخي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%85%d9%82+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
+| 26 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 27 | [تاريخ مجيد](http://twitter.com/search?q=%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae+%d9%85%d8%ac%d9%8a%d8%af) | N/A |
+| 28 | [الجذور الراسخه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b0%d9%88%d8%b1+%d8%a7%d9%84%d8%b1%d8%a7%d8%b3%d8%ae%d9%87) | N/A |
+| 29 | [الوطن العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 30 | [وطني الحبيب](http://twitter.com/search?q=%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 31 | [اليوم العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 32 | [الجزيره العربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%b2%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 33 | [الامين الامير](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1) | N/A |
+| 34 | [سلمان وولي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d9%88%d9%88%d9%84%d9%8a) | N/A |
+| 35 | [الوطن الغالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
+| 36 | [والسعودية](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
+| 37 | [الدوله العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
+| 38 | [محمد بن عبدالوهاب](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8) | N/A |
+| 39 | [اليوم الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 40 | [رييس مجلس الوزراء](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d9%88%d8%b2%d8%b1%d8%a7%d8%a1) | N/A |
+| 41 | [كفاح الاجداد](http://twitter.com/search?q=%d9%83%d9%81%d8%a7%d8%ad+%d8%a7%d9%84%d8%a7%d8%ac%d8%af%d8%a7%d8%af) | N/A |
+| 42 | [الوطن المعطاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d9%85%d8%b9%d8%b7%d8%a7%d8%a1) | N/A |
+| 43 | [الدرعية](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%b9%d9%8a%d8%a9) | N/A |
+| 44 | [فخر المسلمين](http://twitter.com/search?q=%d9%81%d8%ae%d8%b1+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 45 | [البلاد المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 46 | [سما جاد](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7+%d8%ac%d8%a7%d8%af) | N/A |
+| 47 | [سيدي ولي العهد](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
 | 48 | [الاجداد الذين](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ac%d8%af%d8%a7%d8%af+%d8%a7%d9%84%d8%b0%d9%8a%d9%86) | N/A |
-| 49 | [سما جاد](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7+%d8%ac%d8%a7%d8%af) | N/A |
-| 50 | [#صباح_الخير_والسعاده_للجميع](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87_%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 49 | [علي نعمه السعوديه](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 50 | [هام السحب](http://twitter.com/search?q=%d9%87%d8%a7%d9%85+%d8%a7%d9%84%d8%b3%d8%ad%d8%a8) | N/A |
 
 
 

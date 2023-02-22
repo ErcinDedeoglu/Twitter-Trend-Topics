@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kenya
 
-📆 Last Updated: `2023-02-22 10:16:46 UTC`
+📆 Last Updated: `2023-02-22 11:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Kenya
 | 4 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 5 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
 | 6 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 7 | [#AndrewKibe](http://twitter.com/search?q=%23AndrewKibe) | N/A |
-| 8 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 9 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 11 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
-| 12 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 13 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 7 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 8 | [#AndrewKibe](http://twitter.com/search?q=%23AndrewKibe) | N/A |
+| 9 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 10 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 11 | [Raila Odinga](http://twitter.com/search?q=Raila+Odinga) | Raila Odinga is a Kenyan politician who served as the Prime Minister of Kenya from 2008 to 2013. His name is derived from the Luo language and means "the one who has been liberated". |
+| 12 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
+| 13 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
 | 14 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 15 | [NUNEZ](http://twitter.com/search?q=NUNEZ) | N/A |
-| 16 | [Ababu](http://twitter.com/search?q=Ababu) | N/A |
-| 17 | [wowzi](http://twitter.com/search?q=wowzi) | N/A |
-| 18 | [gloria orwoba](http://twitter.com/search?q=gloria+orwoba) | N/A |
-| 19 | [Azziad](http://twitter.com/search?q=Azziad) | N/A |
-| 20 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 21 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 22 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
-| 23 | [Catholics](http://twitter.com/search?q=Catholics) | N/A |
+| 15 | [Ababu](http://twitter.com/search?q=Ababu) | N/A |
+| 16 | [NUNEZ](http://twitter.com/search?q=NUNEZ) | N/A |
+| 17 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 18 | [wowzi](http://twitter.com/search?q=wowzi) | N/A |
+| 19 | [heavens](http://twitter.com/search?q=heavens) | N/A |
+| 20 | [gloria orwoba](http://twitter.com/search?q=gloria+orwoba) | N/A |
+| 21 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 23 | [Azziad](http://twitter.com/search?q=Azziad) | N/A |
 | 24 | [chief administrative secretary](http://twitter.com/search?q=chief+administrative+secretary) | N/A |
-| 25 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
-| 26 | [Dennis Itumbi](http://twitter.com/search?q=Dennis+Itumbi) | N/A |
-| 27 | [Terminal 2](http://twitter.com/search?q=Terminal+2) | N/A |
-| 28 | [Robisearch ICT](http://twitter.com/search?q=Robisearch+ICT) | N/A |
-| 29 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 30 | [254Realty Homes Expo](http://twitter.com/search?q=254Realty+Homes+Expo) | N/A |
-| 31 | [Nairobi CBD](http://twitter.com/search?q=Nairobi+CBD) | N/A |
-| 32 | [KARIUS](http://twitter.com/search?q=KARIUS) | N/A |
-| 33 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 34 | [Tirries Tuesday](http://twitter.com/search?q=Tirries+Tuesday) | N/A |
-| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 36 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 37 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 38 | [Heavens](http://twitter.com/search?q=Heavens) | N/A |
-| 39 | [Unga](http://twitter.com/search?q=Unga) | N/A |
+| 25 | [robisearch ict](http://twitter.com/search?q=robisearch+ict) | N/A |
+| 26 | [Lake Victoria](http://twitter.com/search?q=Lake+Victoria) | N/A |
+| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 28 | [254Realty Homes Expo](http://twitter.com/search?q=254Realty+Homes+Expo) | N/A |
+| 29 | [KARIUS](http://twitter.com/search?q=KARIUS) | N/A |
+| 30 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 32 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 34 | [Unga](http://twitter.com/search?q=Unga) | N/A |
+| 35 | [Terminal 2](http://twitter.com/search?q=Terminal+2) | N/A |
+| 36 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
+| 37 | [Tirries Tuesday](http://twitter.com/search?q=Tirries+Tuesday) | N/A |
+| 38 | [Messiah](http://twitter.com/search?q=Messiah) | N/A |
+| 39 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
 | 40 | [Kidero](http://twitter.com/search?q=Kidero) | N/A |
-| 41 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
+| 41 | [Danstan Omari](http://twitter.com/search?q=Danstan+Omari) | N/A |
 | 42 | [Lil Maina](http://twitter.com/search?q=Lil+Maina) | N/A |
-| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 43 | [JP Morgan](http://twitter.com/search?q=JP+Morgan) | N/A |
 | 44 | [Finlay](http://twitter.com/search?q=Finlay) | N/A |
 | 45 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 46 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 47 | [charles kanjama](http://twitter.com/search?q=charles+kanjama) | N/A |
-| 48 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 49 | [Ahab](http://twitter.com/search?q=Ahab) | N/A |
-| 50 | [end period poverty](http://twitter.com/search?q=end+period+poverty) | N/A |
+| 46 | [JKIA](http://twitter.com/search?q=JKIA) | N/A |
+| 47 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 48 | [The Lord](http://twitter.com/search?q=The+Lord) | N/A |
+| 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 50 | [charles kanjama](http://twitter.com/search?q=charles+kanjama) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portsmouth
 
-📆 Last Updated: `2023-02-22 10:16:02 UTC`
+📆 Last Updated: `2023-02-22 11:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 2 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 3 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
-| 4 | [#AshWednesday](http://twitter.com/search?q=%23AshWednesday) | N/A |
-| 5 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
-| 6 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 7 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
-| 8 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 9 | [#happybirthdaychrismoyles](http://twitter.com/search?q=%23happybirthdaychrismoyles) | N/A |
-| 10 | [#ASongOrMovieForThinking](http://twitter.com/search?q=%23ASongOrMovieForThinking) | N/A |
-| 11 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
-| 12 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 13 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
-| 14 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
-| 15 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
-| 16 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
-| 17 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 18 | [Zoe Ball](http://twitter.com/search?q=Zoe+Ball) | N/A |
+| 1 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 2 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 3 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
+| 4 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 5 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
+| 6 | [#AshWednesday](http://twitter.com/search?q=%23AshWednesday) | N/A |
+| 7 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 8 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 9 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
+| 10 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
+| 11 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 12 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
+| 13 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 14 | [Bangladeshi](http://twitter.com/search?q=Bangladeshi) | N/A |
+| 15 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 16 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
+| 17 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
+| 18 | [Diane](http://twitter.com/search?q=Diane) | N/A |
 | 19 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 20 | [South West Norfolk](http://twitter.com/search?q=South+West+Norfolk) | N/A |
-| 21 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
-| 22 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 23 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 24 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 25 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
-| 26 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 27 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 28 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
-| 29 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 30 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 31 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 32 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
-| 33 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 34 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
-| 35 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 36 | [#ToriesOut230](http://twitter.com/search?q=%23ToriesOut230) | N/A |
-| 37 | [#TomatoShortages](http://twitter.com/search?q=%23TomatoShortages) | N/A |
-| 38 | [#tangent](http://twitter.com/search?q=%23tangent) | N/A |
-| 39 | [#gmsf](http://twitter.com/search?q=%23gmsf) | N/A |
-| 40 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 41 | [#WhiskersWednesday](http://twitter.com/search?q=%23WhiskersWednesday) | N/A |
-| 42 | [#lorraine](http://twitter.com/search?q=%23lorraine) | N/A |
-| 43 | [#WorldEncephalitisDay](http://twitter.com/search?q=%23WorldEncephalitisDay) | N/A |
-| 44 | [#WTD2023](http://twitter.com/search?q=%23WTD2023) | N/A |
-| 45 | [#FFBWednesday](http://twitter.com/search?q=%23FFBWednesday) | N/A |
-| 46 | [#ATEEZinLondon](http://twitter.com/search?q=%23ATEEZinLondon) | N/A |
-| 47 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 48 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
-| 49 | [#ScottishTop10](http://twitter.com/search?q=%23ScottishTop10) | N/A |
+| 20 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
+| 21 | [mel giedroyc](http://twitter.com/search?q=mel+giedroyc) | N/A |
+| 22 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
+| 23 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
+| 24 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 25 | [World Thinking Day](http://twitter.com/search?q=World+Thinking+Day) | N/A |
+| 26 | [South West Norfolk](http://twitter.com/search?q=South+West+Norfolk) | N/A |
+| 27 | [Zoe Ball](http://twitter.com/search?q=Zoe+Ball) | N/A |
+| 28 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 29 | [Das Kapital](http://twitter.com/search?q=Das+Kapital) | N/A |
+| 30 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
+| 31 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 32 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
+| 33 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 34 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 35 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 36 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 37 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
+| 38 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
+| 39 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 40 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 41 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 42 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 43 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 44 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 45 | [#ASongOrMovieForThinking](http://twitter.com/search?q=%23ASongOrMovieForThinking) | N/A |
+| 46 | [#happybirthdaychrismoyles](http://twitter.com/search?q=%23happybirthdaychrismoyles) | N/A |
+| 47 | [#WellbeingWednesday](http://twitter.com/search?q=%23WellbeingWednesday) | N/A |
+| 48 | [#ATEEZinLondon](http://twitter.com/search?q=%23ATEEZinLondon) | N/A |
+| 49 | [#RoseWednesday](http://twitter.com/search?q=%23RoseWednesday) | N/A |
 
 
 

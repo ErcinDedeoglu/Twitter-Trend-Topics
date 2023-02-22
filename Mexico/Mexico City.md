@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-22 10:16:04 UTC`
+📆 Last Updated: `2023-02-22 11:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,8 +24,8 @@ This is top 50 for [Mexico](</Mexico>)
 | 7 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
 | 8 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
 | 9 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
-| 10 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
-| 11 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 10 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 11 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
 | 12 | [Mora](http://twitter.com/search?q=Mora) | N/A |
 | 13 | [#FelizMartes](http://twitter.com/search?q=%23FelizMartes) | #FelizMartes is a Spanish hashtag that translates to "Happy Tuesday" in English. It is used to express good wishes for the day on social media. |
 | 14 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Mexico](</Mexico>)
 | 21 | [DARWIN NUÑEZ](http://twitter.com/search?q=DARWIN+NU%c3%91EZ) | N/A |
 | 22 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
-| 26 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
-| 27 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 24 | [El PAN](http://twitter.com/search?q=El+PAN) | N/A |
+| 25 | [Morena](http://twitter.com/search?q=Morena) | N/A |
+| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 27 | [FeCal](http://twitter.com/search?q=FeCal) | N/A |
 | 28 | [KARIUS](http://twitter.com/search?q=KARIUS) | N/A |
-| 29 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 30 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 31 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 32 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 33 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 34 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
-| 35 | [Conscripto](http://twitter.com/search?q=Conscripto) | N/A |
-| 36 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 37 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 38 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 39 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 40 | [América Rangel](http://twitter.com/search?q=Am%c3%a9rica+Rangel) | N/A |
-| 41 | [JIMIN SOLO ALBUM](http://twitter.com/search?q=JIMIN+SOLO+ALBUM) | N/A |
-| 42 | [AIFA](http://twitter.com/search?q=AIFA) | AIFA stands for the Association of International Financial Advisers. It is a professional association that provides support and resources to financial advisers who work with clients in international markets. The organization works to promote ethical standards, provide education and training, and advocate for the interests of its members. |
-| 43 | [Dross](http://twitter.com/search?q=Dross) | N/A |
+| 29 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 30 | [Sandra Cuevas](http://twitter.com/search?q=Sandra+Cuevas) | Sandra Cuevas is a Spanish name. It is composed of two parts: Sandra, which is a female given name derived from the Greek name Alexander, meaning "defender of men"; and Cuevas, which is a Spanish surname meaning "caves". |
+| 31 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 32 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 33 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 34 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 35 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 36 | [Conscripto](http://twitter.com/search?q=Conscripto) | N/A |
+| 37 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 38 | [Chicharito](http://twitter.com/search?q=Chicharito) | N/A |
+| 39 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 40 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 41 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 42 | [América Rangel](http://twitter.com/search?q=Am%c3%a9rica+Rangel) | N/A |
+| 43 | [JIMIN SOLO ALBUM](http://twitter.com/search?q=JIMIN+SOLO+ALBUM) | N/A |
 | 44 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
-| 45 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 46 | [Odalys](http://twitter.com/search?q=Odalys) | N/A |
-| 47 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 48 | [Venus y Júpiter](http://twitter.com/search?q=Venus+y+J%c3%bapiter) | N/A |
-| 49 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 50 | [Nodal](http://twitter.com/search?q=Nodal) | N/A |
+| 45 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 46 | [venus y júpiter](http://twitter.com/search?q=venus+y+j%c3%bapiter) | N/A |
+| 47 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 48 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 49 | [Def Leppard](http://twitter.com/search?q=Def+Leppard) | N/A |
+| 50 | [Alejandro Sanz](http://twitter.com/search?q=Alejandro+Sanz) | N/A |
 
 
 

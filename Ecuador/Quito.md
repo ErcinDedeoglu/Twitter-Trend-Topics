@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quito
 
-📆 Last Updated: `2023-02-22 10:16:07 UTC`
+📆 Last Updated: `2023-02-22 11:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,9 +31,9 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 14 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 15 | [DARWIN NÚÑEZ](http://twitter.com/search?q=DARWIN+N%c3%9a%c3%91EZ) | N/A |
 | 16 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 17 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
-| 18 | [Mateo Carabajal](http://twitter.com/search?q=Mateo+Carabajal) | N/A |
-| 19 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 17 | [Mateo Carabajal](http://twitter.com/search?q=Mateo+Carabajal) | N/A |
+| 18 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 19 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
 | 20 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
 | 21 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 | 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
@@ -46,23 +46,23 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 29 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
 | 30 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 31 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 32 | [hoyos](http://twitter.com/search?q=hoyos) | N/A |
+| 32 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
 | 33 | [día del médico ecuatoriano](http://twitter.com/search?q=d%c3%ada+del+m%c3%a9dico+ecuatoriano) | N/A |
 | 34 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
 | 35 | [joao ortiz](http://twitter.com/search?q=joao+ortiz) | N/A |
-| 36 | [Santa Elena](http://twitter.com/search?q=Santa+Elena) | N/A |
-| 37 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 38 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
-| 39 | [montañita](http://twitter.com/search?q=monta%c3%b1ita) | N/A |
-| 40 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
-| 41 | [Taxo](http://twitter.com/search?q=Taxo) | N/A |
-| 42 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 43 | [pallatanga](http://twitter.com/search?q=pallatanga) | N/A |
-| 44 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 37 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
+| 38 | [montañita](http://twitter.com/search?q=monta%c3%b1ita) | N/A |
+| 39 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
+| 40 | [taxo](http://twitter.com/search?q=taxo) | N/A |
+| 41 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 42 | [pallatanga](http://twitter.com/search?q=pallatanga) | N/A |
+| 43 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 44 | [Santa Elena](http://twitter.com/search?q=Santa+Elena) | N/A |
 | 45 | [Rayados](http://twitter.com/search?q=Rayados) | Rayados is the nickname of the Mexican soccer team Club de Fútbol Monterrey, which is based in Monterrey, Mexico. The name Rayados translates to "Striped Ones" in English, referring to the team's striped jerseys. |
 | 46 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
 | 47 | [Estudia](http://twitter.com/search?q=Estudia) | N/A |
-| 48 | [otto](http://twitter.com/search?q=otto) | N/A |
+| 48 | [Otto](http://twitter.com/search?q=Otto) | N/A |
 | 49 | [sornoza](http://twitter.com/search?q=sornoza) | N/A |
 | 50 | [Playas](http://twitter.com/search?q=Playas) | N/A |
 

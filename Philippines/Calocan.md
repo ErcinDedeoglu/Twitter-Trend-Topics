@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-02-22 10:16:23 UTC`
+📆 Last Updated: `2023-02-22 11:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoodbyeNow](http://twitter.com/search?q=%23GoodbyeNow) | N/A |
-| 2 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 3 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
+| 1 | [#Presave_Wild_Tonight_NOW](http://twitter.com/search?q=%23Presave_Wild_Tonight_NOW) | N/A |
+| 2 | [WILD TONIGHT MV TEASER2](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER2) | N/A |
+| 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
 | 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 5 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 6 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
-| 7 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 8 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 5 | [#GoodbyeNow](http://twitter.com/search?q=%23GoodbyeNow) | N/A |
+| 6 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
+| 7 | [#mcipasabog](http://twitter.com/search?q=%23mcipasabog) | N/A |
+| 8 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 | 9 | [LUCKYBEAUTY SHORT FILM](http://twitter.com/search?q=LUCKYBEAUTY+SHORT+FILM) | N/A |
-| 10 | [#AnInconvenientLoveonNetflix](http://twitter.com/search?q=%23AnInconvenientLoveonNetflix) | N/A |
-| 11 | [AILonNETFLIX BUKAS NA](http://twitter.com/search?q=AILonNETFLIX+BUKAS+NA) | N/A |
-| 12 | [Jeopardy](http://twitter.com/search?q=Jeopardy) | N/A |
-| 13 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
-| 14 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 15 | [KIM MINGYU](http://twitter.com/search?q=KIM+MINGYU) | N/A |
-| 16 | [KAPAMILYA CHAT WITH ANDIABAYA](http://twitter.com/search?q=KAPAMILYA+CHAT+WITH+ANDIABAYA) | N/A |
-| 17 | [TheALDEN RichardsStory](http://twitter.com/search?q=TheALDEN+RichardsStory) | N/A |
-| 18 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 19 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 20 | [bgyo at pldt smart natcon 2023](http://twitter.com/search?q=bgyo+at+pldt+smart+natcon+2023) | N/A |
-| 21 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 22 | [Ferdinand Magellan Jr.](http://twitter.com/search?q=Ferdinand+Magellan+Jr.) | N/A |
-| 23 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
-| 24 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
+| 10 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 11 | [#AnInconvenientLoveonNetflix](http://twitter.com/search?q=%23AnInconvenientLoveonNetflix) | N/A |
+| 12 | [AILonNETFLIX BUKAS NA](http://twitter.com/search?q=AILonNETFLIX+BUKAS+NA) | N/A |
+| 13 | [VivoreeMatapang 2DaysToGo](http://twitter.com/search?q=VivoreeMatapang+2DaysToGo) | N/A |
+| 14 | [JulieBEE BidaAngSaya](http://twitter.com/search?q=JulieBEE+BidaAngSaya) | N/A |
+| 15 | [Jeopardy](http://twitter.com/search?q=Jeopardy) | N/A |
+| 16 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 17 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 18 | [KIM MINGYU](http://twitter.com/search?q=KIM+MINGYU) | N/A |
+| 19 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 20 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 21 | [TheALDEN RichardsStory](http://twitter.com/search?q=TheALDEN+RichardsStory) | N/A |
+| 22 | [bgyo at pldt smart natcon 2023](http://twitter.com/search?q=bgyo+at+pldt+smart+natcon+2023) | N/A |
+| 23 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
+| 24 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
 | 25 | [lee chan](http://twitter.com/search?q=lee+chan) | N/A |
-| 26 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
-| 27 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 28 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 29 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 30 | [Jollibee](http://twitter.com/search?q=Jollibee) | N/A |
-| 31 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 32 | [Apink](http://twitter.com/search?q=Apink) | N/A |
-| 33 | [closer mv](http://twitter.com/search?q=closer+mv) | N/A |
-| 34 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 35 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
-| 36 | [JIMIN SOLO ALBUM](http://twitter.com/search?q=JIMIN+SOLO+ALBUM) | N/A |
-| 37 | [AND MORE](http://twitter.com/search?q=AND+MORE) | N/A |
-| 38 | [Shout Out](http://twitter.com/search?q=Shout+Out) | N/A |
-| 39 | [RCEP](http://twitter.com/search?q=RCEP) | N/A |
-| 40 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 41 | [kopiko 78](http://twitter.com/search?q=kopiko+78) | N/A |
-| 42 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 43 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
-| 44 | [Westlife](http://twitter.com/search?q=Westlife) | N/A |
-| 45 | [Philippines](http://twitter.com/search?q=Philippines) | Philippines is a country located in Southeast Asia. It is an archipelago of over 7,000 islands and is the world's 12th most populous country. The official language of the Philippines is Filipino, which is based on Tagalog. The meaning of Philippines in English is "the islands of the Philippines". |
-| 46 | [Ateneo de Manila University](http://twitter.com/search?q=Ateneo+de+Manila+University) | N/A |
-| 47 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 48 | [Weverse Album](http://twitter.com/search?q=Weverse+Album) | N/A |
-| 49 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
-| 50 | [Weverse Ver](http://twitter.com/search?q=Weverse+Ver) | N/A |
+| 26 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
+| 27 | [KAPAMILYA CHAT WITH ANDIABAYA](http://twitter.com/search?q=KAPAMILYA+CHAT+WITH+ANDIABAYA) | N/A |
+| 28 | [TEDDY BEAR SECOND WIN](http://twitter.com/search?q=TEDDY+BEAR+SECOND+WIN) | N/A |
+| 29 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
+| 30 | [Ferdinand Magellan Jr.](http://twitter.com/search?q=Ferdinand+Magellan+Jr.) | N/A |
+| 31 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
+| 32 | [congrats pldt](http://twitter.com/search?q=congrats+pldt) | N/A |
+| 33 | [taehyung on the game caterers](http://twitter.com/search?q=taehyung+on+the+game+caterers) | N/A |
+| 34 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 35 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 36 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 37 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 38 | [Apink](http://twitter.com/search?q=Apink) | N/A |
+| 39 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 40 | [closer mv](http://twitter.com/search?q=closer+mv) | N/A |
+| 41 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 42 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
+| 43 | [JIMIN SOLO ALBUM](http://twitter.com/search?q=JIMIN+SOLO+ALBUM) | N/A |
+| 44 | [AND MORE](http://twitter.com/search?q=AND+MORE) | N/A |
+| 45 | [RCEP](http://twitter.com/search?q=RCEP) | N/A |
+| 46 | [kopiko 78](http://twitter.com/search?q=kopiko+78) | N/A |
+| 47 | [Terrafirma](http://twitter.com/search?q=Terrafirma) | N/A |
+| 48 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 49 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
+| 50 | [ateneo de manila university](http://twitter.com/search?q=ateneo+de+manila+university) | N/A |
 
 
 

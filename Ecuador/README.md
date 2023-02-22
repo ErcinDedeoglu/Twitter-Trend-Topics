@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-22 10:16:45 UTC`
+📆 Last Updated: `2023-02-22 11:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,24 +16,24 @@ This is top 50 for Ecuador
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Salinas](http://twitter.com/search?q=Salinas) | N/A |
-| 2 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 3 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 4 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
 | 5 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 7 | [#RecopaSudamericana](http://twitter.com/search?q=%23RecopaSudamericana) | N/A |
 | 8 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
-| 9 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 10 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 11 | [Sodoma y Gomorra](http://twitter.com/search?q=Sodoma+y+Gomorra) | N/A |
-| 12 | [kevin rodríguez](http://twitter.com/search?q=kevin+rodr%c3%adguez) | N/A |
+| 9 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 10 | [Sodoma y Gomorra](http://twitter.com/search?q=Sodoma+y+Gomorra) | N/A |
+| 11 | [kevin rodríguez](http://twitter.com/search?q=kevin+rodr%c3%adguez) | N/A |
+| 12 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
 | 13 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
 | 14 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 15 | [DARWIN NÚÑEZ](http://twitter.com/search?q=DARWIN+N%c3%9a%c3%91EZ) | N/A |
 | 16 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 17 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
-| 18 | [Mateo Carabajal](http://twitter.com/search?q=Mateo+Carabajal) | N/A |
-| 19 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 17 | [Mateo Carabajal](http://twitter.com/search?q=Mateo+Carabajal) | N/A |
+| 18 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 19 | [#Carnaval2023](http://twitter.com/search?q=%23Carnaval2023) | N/A |
 | 20 | [Ramírez](http://twitter.com/search?q=Ram%c3%adrez) | N/A |
 | 21 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 | 22 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
@@ -46,7 +46,7 @@ This is top 50 for Ecuador
 | 29 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
 | 30 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 31 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 32 | [hoyos](http://twitter.com/search?q=hoyos) | N/A |
+| 32 | [Hoyos](http://twitter.com/search?q=Hoyos) | Hoyos is a Spanish word meaning "holes". It can refer to physical holes in the ground or figuratively to a situation that is difficult to get out of. |
 | 33 | [día del médico ecuatoriano](http://twitter.com/search?q=d%c3%ada+del+m%c3%a9dico+ecuatoriano) | N/A |
 | 34 | [Jamil](http://twitter.com/search?q=Jamil) | N/A |
 | 35 | [joao ortiz](http://twitter.com/search?q=joao+ortiz) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Ecuador
 | 37 | [Arturo Vidal](http://twitter.com/search?q=Arturo+Vidal) | N/A |
 | 38 | [montañita](http://twitter.com/search?q=monta%c3%b1ita) | N/A |
 | 39 | [Venecia](http://twitter.com/search?q=Venecia) | N/A |
-| 40 | [Taxo](http://twitter.com/search?q=Taxo) | N/A |
+| 40 | [taxo](http://twitter.com/search?q=taxo) | N/A |
 | 41 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
 | 42 | [pallatanga](http://twitter.com/search?q=pallatanga) | N/A |
 | 43 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-22 10:16:11 UTC`
+📆 Last Updated: `2023-02-22 11:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#villacherfasching](http://twitter.com/search?q=%23villacherfasching) | N/A |
-| 2 | [#ZeroCon23](http://twitter.com/search?q=%23ZeroCon23) | N/A |
+| 1 | [#ZeroCon23](http://twitter.com/search?q=%23ZeroCon23) | N/A |
+| 2 | [#villacherfasching](http://twitter.com/search?q=%23villacherfasching) | N/A |
 | 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 4 | [Orchester](http://twitter.com/search?q=Orchester) | N/A |
 | 5 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 6 | [#Aschermittwoch](http://twitter.com/search?q=%23Aschermittwoch) | N/A |
-| 7 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 6 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 7 | [Aschermittwoch](http://twitter.com/search?q=Aschermittwoch) | N/A |
 | 8 | [Bildungsauftrag](http://twitter.com/search?q=Bildungsauftrag) | N/A |
 | 9 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
 | 10 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 11 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 11 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
 | 12 | [Kulturszene](http://twitter.com/search?q=Kulturszene) | N/A |
-| 13 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 14 | [Sparpläne](http://twitter.com/search?q=Sparpl%c3%a4ne) | N/A |
-| 15 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 17 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 18 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 19 | [Masern](http://twitter.com/search?q=Masern) | N/A |
-| 20 | [Erwachsene](http://twitter.com/search?q=Erwachsene) | N/A |
-| 21 | [Formel 1](http://twitter.com/search?q=Formel+1) | N/A |
-| 22 | [Klimaschutzgesetz](http://twitter.com/search?q=Klimaschutzgesetz) | N/A |
-| 23 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
-| 24 | [Physik](http://twitter.com/search?q=Physik) | N/A |
-| 25 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 26 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 27 | [Tempo 100](http://twitter.com/search?q=Tempo+100) | N/A |
-| 28 | [Diktator](http://twitter.com/search?q=Diktator) | N/A |
-| 29 | [Garten](http://twitter.com/search?q=Garten) | N/A |
-| 30 | [Kolleg](http://twitter.com/search?q=Kolleg) | N/A |
-| 31 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 32 | [Feuerwehr](http://twitter.com/search?q=Feuerwehr) | N/A |
-| 33 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 34 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 35 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 36 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 37 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
-| 38 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
-| 39 | [Vorbild](http://twitter.com/search?q=Vorbild) | N/A |
-| 40 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 13 | [Sparpläne](http://twitter.com/search?q=Sparpl%c3%a4ne) | N/A |
+| 14 | [#klimaklage](http://twitter.com/search?q=%23klimaklage) | N/A |
+| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 16 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 17 | [Herzlichen Glückwunsch](http://twitter.com/search?q=Herzlichen+Gl%c3%bcckwunsch) | N/A |
+| 18 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 19 | [Feuerwehr](http://twitter.com/search?q=Feuerwehr) | N/A |
+| 20 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 22 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
+| 23 | [Erwachsene](http://twitter.com/search?q=Erwachsene) | N/A |
+| 24 | [Formel 1](http://twitter.com/search?q=Formel+1) | N/A |
+| 25 | [Tempo 100](http://twitter.com/search?q=Tempo+100) | N/A |
+| 26 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 27 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 28 | [Physik](http://twitter.com/search?q=Physik) | N/A |
+| 29 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 30 | [Gefährdung](http://twitter.com/search?q=Gef%c3%a4hrdung) | N/A |
+| 31 | [Vorbild](http://twitter.com/search?q=Vorbild) | N/A |
+| 32 | [Diktator](http://twitter.com/search?q=Diktator) | N/A |
+| 33 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 34 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 35 | [Kolleg](http://twitter.com/search?q=Kolleg) | N/A |
+| 36 | [Masern](http://twitter.com/search?q=Masern) | N/A |
+| 37 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 38 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 39 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 40 | [Russland](http://twitter.com/search?q=Russland) | N/A |
 | 41 | [Mastodon](http://twitter.com/search?q=Mastodon) | N/A |
 | 42 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 43 | [Lei Lei](http://twitter.com/search?q=Lei+Lei) | N/A |
+| 43 | [lei lei](http://twitter.com/search?q=lei+lei) | N/A |
 | 44 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 45 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
-| 46 | [Straßenbahn](http://twitter.com/search?q=Stra%c3%9fenbahn) | N/A |
-| 47 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 48 | [Theater](http://twitter.com/search?q=Theater) | N/A |
-| 49 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 50 | [Kinder und Jugendliche](http://twitter.com/search?q=Kinder+und+Jugendliche) | N/A |
+| 45 | [Straßenbahn](http://twitter.com/search?q=Stra%c3%9fenbahn) | N/A |
+| 46 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 47 | [Theater](http://twitter.com/search?q=Theater) | N/A |
+| 48 | [Sprachen](http://twitter.com/search?q=Sprachen) | N/A |
+| 49 | [Kinder und Jugendliche](http://twitter.com/search?q=Kinder+und+Jugendliche) | N/A |
+| 50 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
 
 
 
