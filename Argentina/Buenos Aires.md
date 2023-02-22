@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Buenos Aires
 
-📆 Last Updated: `2023-02-22 16:17:17 UTC`
+📆 Last Updated: `2023-02-22 17:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,48 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 3 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 4 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 5 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 6 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 7 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
-| 8 | [#TragediadeOnce](http://twitter.com/search?q=%23TragediadeOnce) | N/A |
-| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 10 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
-| 11 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
-| 12 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 13 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 14 | [Boletos](http://twitter.com/search?q=Boletos) | N/A |
-| 15 | [CHRISTMAS](http://twitter.com/search?q=CHRISTMAS) | N/A |
-| 16 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 17 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
-| 18 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 19 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 20 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
-| 21 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 22 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 23 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 24 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 25 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 26 | [Estela](http://twitter.com/search?q=Estela) | N/A |
-| 27 | [División Palermo](http://twitter.com/search?q=Divisi%c3%b3n+Palermo) | N/A |
-| 28 | [Tombolini](http://twitter.com/search?q=Tombolini) | N/A |
-| 29 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 30 | [Fecha 7](http://twitter.com/search?q=Fecha+7) | N/A |
-| 31 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 32 | [Iron Mountain](http://twitter.com/search?q=Iron+Mountain) | N/A |
-| 33 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 34 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 35 | [casi ángeles](http://twitter.com/search?q=casi+%c3%a1ngeles) | N/A |
-| 36 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 39 | [hoyts](http://twitter.com/search?q=hoyts) | N/A |
-| 40 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 41 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 42 | [TE AMO LOUIS](http://twitter.com/search?q=TE+AMO+LOUIS) | N/A |
-| 43 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 44 | [Firmenich](http://twitter.com/search?q=Firmenich) | N/A |
-| 45 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 46 | [Rodo](http://twitter.com/search?q=Rodo) | N/A |
-| 47 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 48 | [Vuelvo a Casa](http://twitter.com/search?q=Vuelvo+a+Casa) | N/A |
-| 49 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
-| 50 | [base marambio](http://twitter.com/search?q=base+marambio) | N/A |
+| 1 | [Roca](http://twitter.com/search?q=Roca) | N/A |
+| 2 | [#DiaLollapaloozaEnLOS40](http://twitter.com/search?q=%23DiaLollapaloozaEnLOS40) | N/A |
+| 3 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 4 | [#TragediaDeOnce](http://twitter.com/search?q=%23TragediaDeOnce) | N/A |
+| 5 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
+| 6 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 7 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
+| 8 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 9 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
+| 10 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 11 | [Iron Mountain](http://twitter.com/search?q=Iron+Mountain) | N/A |
+| 12 | [Estela](http://twitter.com/search?q=Estela) | N/A |
+| 13 | [#nadiedicenada](http://twitter.com/search?q=%23nadiedicenada) | N/A |
+| 14 | [Fecha 8](http://twitter.com/search?q=Fecha+8) | N/A |
+| 15 | [hoyts](http://twitter.com/search?q=hoyts) | N/A |
+| 16 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 17 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 18 | [Cinemark](http://twitter.com/search?q=Cinemark) | N/A |
+| 19 | [Observatorio Meteorológico](http://twitter.com/search?q=Observatorio+Meteorol%c3%b3gico) | N/A |
+| 20 | [Isla Laurie](http://twitter.com/search?q=Isla+Laurie) | N/A |
+| 21 | [Copa Argentina](http://twitter.com/search?q=Copa+Argentina) | N/A |
+| 22 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 23 | [Orcadas del Sur](http://twitter.com/search?q=Orcadas+del+Sur) | N/A |
+| 24 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 25 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 26 | [Lopez Murphy](http://twitter.com/search?q=Lopez+Murphy) | N/A |
+| 27 | [Base Marambio](http://twitter.com/search?q=Base+Marambio) | N/A |
+| 28 | [minho](http://twitter.com/search?q=minho) | N/A |
+| 29 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 30 | [Enzo Pérez](http://twitter.com/search?q=Enzo+P%c3%a9rez) | N/A |
+| 31 | [El 22](http://twitter.com/search?q=El+22) | N/A |
+| 32 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 33 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 34 | [Tombolini](http://twitter.com/search?q=Tombolini) | N/A |
+| 35 | [Tierra del Fuego](http://twitter.com/search?q=Tierra+del+Fuego) | N/A |
+| 36 | [Precios Justos](http://twitter.com/search?q=Precios+Justos) | N/A |
+| 37 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
+| 38 | [#LaCorrupcionMata](http://twitter.com/search?q=%23LaCorrupcionMata) | N/A |
+| 39 | [#NoFueron30000](http://twitter.com/search?q=%23NoFueron30000) | N/A |
+| 40 | [#BuenMiercoles](http://twitter.com/search?q=%23BuenMiercoles) | N/A |
+| 41 | [#ALaBarbarossa](http://twitter.com/search?q=%23ALaBarbarossa) | N/A |
+| 42 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 
 
 

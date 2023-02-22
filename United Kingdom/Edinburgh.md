@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Edinburgh
 
-📆 Last Updated: `2023-02-22 16:17:08 UTC`
+📆 Last Updated: `2023-02-22 17:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
 | 2 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
-| 3 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 4 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 3 | [#tippingpoint](http://twitter.com/search?q=%23tippingpoint) | N/A |
+| 4 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
 | 5 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
-| 6 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
-| 7 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 8 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
-| 9 | [#ATEEZinLondon](http://twitter.com/search?q=%23ATEEZinLondon) | N/A |
-| 10 | [#MaterialsInHistoricalEvents](http://twitter.com/search?q=%23MaterialsInHistoricalEvents) | N/A |
-| 11 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 12 | [At 15](http://twitter.com/search?q=At+15) | N/A |
-| 13 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 14 | [She's British](http://twitter.com/search?q=She%27s+British) | N/A |
-| 15 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
-| 16 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
-| 17 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 18 | [Queens Brook](http://twitter.com/search?q=Queens+Brook) | N/A |
-| 19 | [Temple of Treasure Megaways](http://twitter.com/search?q=Temple+of+Treasure+Megaways) | N/A |
-| 20 | [Groomed](http://twitter.com/search?q=Groomed) | N/A |
-| 21 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 22 | [Accrington Stanley](http://twitter.com/search?q=Accrington+Stanley) | N/A |
-| 23 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 24 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 25 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 26 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 27 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 28 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
-| 29 | [British Citizen](http://twitter.com/search?q=British+Citizen) | N/A |
-| 30 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 31 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 32 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
-| 33 | [Smackdown](http://twitter.com/search?q=Smackdown) | N/A |
-| 34 | [London Underground](http://twitter.com/search?q=London+Underground) | N/A |
-| 35 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 36 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 37 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
-| 38 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 39 | [Asda](http://twitter.com/search?q=Asda) | N/A |
-| 40 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
-| 41 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 42 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
-| 43 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 44 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
-| 45 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 46 | [#NHSinnovationshowcase](http://twitter.com/search?q=%23NHSinnovationshowcase) | N/A |
-| 47 | [#MoneyInTheBank](http://twitter.com/search?q=%23MoneyInTheBank) | N/A |
-| 48 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
-| 49 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 6 | [#ATEEZinLondon](http://twitter.com/search?q=%23ATEEZinLondon) | N/A |
+| 7 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 8 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 9 | [Tesco and Aldi](http://twitter.com/search?q=Tesco+and+Aldi) | N/A |
+| 10 | [VADA](http://twitter.com/search?q=VADA) | N/A |
+| 11 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 12 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 13 | [#MSvsKK](http://twitter.com/search?q=%23MSvsKK) | N/A |
+| 14 | [At 15](http://twitter.com/search?q=At+15) | N/A |
+| 15 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 16 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 17 | [Blair](http://twitter.com/search?q=Blair) | N/A |
+| 18 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
+| 19 | [She is British](http://twitter.com/search?q=She+is+British) | N/A |
+| 20 | [Accrington Stanley](http://twitter.com/search?q=Accrington+Stanley) | N/A |
+| 21 | [Eubank](http://twitter.com/search?q=Eubank) | Eubank is a surname of English origin. It is derived from the Old English words ea (river) and banke (bank or slope). The name refers to someone who lived near a riverbank. |
+| 22 | [Groomed](http://twitter.com/search?q=Groomed) | N/A |
+| 23 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 24 | [Temple of Treasure Megaways](http://twitter.com/search?q=Temple+of+Treasure+Megaways) | N/A |
+| 25 | [Queens Brook](http://twitter.com/search?q=Queens+Brook) | N/A |
+| 26 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 27 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 28 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 29 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
+| 30 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 31 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
+| 32 | [melanie martinez](http://twitter.com/search?q=melanie+martinez) | N/A |
+| 33 | [World Thinking Day](http://twitter.com/search?q=World+Thinking+Day) | N/A |
+| 34 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 35 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 36 | [Asda](http://twitter.com/search?q=Asda) | N/A |
+| 37 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 38 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 39 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
+| 40 | [Lenten](http://twitter.com/search?q=Lenten) | N/A |
+| 41 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 42 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
+| 43 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 44 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 45 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 46 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
+| 47 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
+| 48 | [#PSL2023](http://twitter.com/search?q=%23PSL2023) | N/A |
+| 49 | [#MaterialsInHistoricalEvents](http://twitter.com/search?q=%23MaterialsInHistoricalEvents) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-22 16:17:15 UTC`
+📆 Last Updated: `2023-02-22 17:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,42 +25,42 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 9 | [Ramón Borrego](http://twitter.com/search?q=Ram%c3%b3n+Borrego) | N/A |
 | 10 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
-| 11 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 12 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 13 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 14 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
-| 15 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 16 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
-| 17 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 18 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
-| 19 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 20 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 21 | [Hospital Villa Hermosa](http://twitter.com/search?q=Hospital+Villa+Hermosa) | N/A |
-| 22 | [César Romero](http://twitter.com/search?q=C%c3%a9sar+Romero) | N/A |
-| 23 | [Rómulo Betancourt](http://twitter.com/search?q=R%c3%b3mulo+Betancourt) | N/A |
-| 24 | [Carlota Sosa](http://twitter.com/search?q=Carlota+Sosa) | N/A |
+| 11 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
+| 12 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 13 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
+| 14 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 15 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
+| 16 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 17 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 18 | [Rómulo Betancourt](http://twitter.com/search?q=R%c3%b3mulo+Betancourt) | N/A |
+| 19 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 20 | [Roberto Lamarca](http://twitter.com/search?q=Roberto+Lamarca) | N/A |
+| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 22 | [hospital villa hermosa](http://twitter.com/search?q=hospital+villa+hermosa) | N/A |
+| 23 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 24 | [César Romero](http://twitter.com/search?q=C%c3%a9sar+Romero) | N/A |
 | 25 | [Padre de la Democracia](http://twitter.com/search?q=Padre+de+la+Democracia) | N/A |
-| 26 | [Cocoliso](http://twitter.com/search?q=Cocoliso) | N/A |
-| 27 | [Roberto Lamarca](http://twitter.com/search?q=Roberto+Lamarca) | N/A |
-| 28 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 29 | [DARWIN NUÑEZ](http://twitter.com/search?q=DARWIN+NU%c3%91EZ) | N/A |
-| 30 | [Sandra Bullock](http://twitter.com/search?q=Sandra+Bullock) | N/A |
-| 31 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 32 | [lustrillo](http://twitter.com/search?q=lustrillo) | N/A |
-| 33 | [Los Próceres](http://twitter.com/search?q=Los+Pr%c3%b3ceres) | N/A |
-| 34 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 26 | [Carlota Sosa](http://twitter.com/search?q=Carlota+Sosa) | N/A |
+| 27 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 28 | [Darwin Nuñez](http://twitter.com/search?q=Darwin+Nu%c3%b1ez) | N/A |
+| 29 | [sandra bullock](http://twitter.com/search?q=sandra+bullock) | N/A |
+| 30 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 31 | [Lustrillo](http://twitter.com/search?q=Lustrillo) | N/A |
+| 32 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
+| 33 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 34 | [Cocoliso](http://twitter.com/search?q=Cocoliso) | N/A |
 | 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 36 | [Esperanza](http://twitter.com/search?q=Esperanza) | N/A |
-| 37 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
+| 36 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
+| 37 | [Iguana](http://twitter.com/search?q=Iguana) | N/A |
 | 38 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 39 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
-| 40 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
-| 41 | [Lavadora](http://twitter.com/search?q=Lavadora) | N/A |
-| 42 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 43 | [Caracas-La Guaira](http://twitter.com/search?q=Caracas-La+Guaira) | N/A |
-| 44 | [Merey](http://twitter.com/search?q=Merey) | N/A |
-| 45 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 46 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 39 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 40 | [Caracas-La Guaira](http://twitter.com/search?q=Caracas-La+Guaira) | N/A |
+| 41 | [merey](http://twitter.com/search?q=merey) | N/A |
+| 42 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 43 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 44 | [Por María Corina Machado](http://twitter.com/search?q=Por+Mar%c3%ada+Corina+Machado) | N/A |
+| 45 | [Lavadora](http://twitter.com/search?q=Lavadora) | N/A |
+| 46 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 
 
 

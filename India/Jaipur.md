@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-02-22 16:17:42 UTC`
+📆 Last Updated: `2023-02-22 17:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [खाटू श्याम](http://twitter.com/search?q=%e0%a4%96%e0%a4%be%e0%a4%9f%e0%a5%82+%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae) | N/A |
-| 2 | [#KhatuShyamJi](http://twitter.com/search?q=%23KhatuShyamJi) | N/A |
-| 3 | [#बचत_राहत_बढ़त](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%9a%e0%a4%a4_%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a4%a4_%e0%a4%ac%e0%a4%a2%e0%a4%bc%e0%a4%a4) | N/A |
-| 4 | [श्री श्याम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae) | N/A |
+| 2 | [#बचत_राहत_बढ़त](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%9a%e0%a4%a4_%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a4%a4_%e0%a4%ac%e0%a4%a2%e0%a4%bc%e0%a4%a4) | N/A |
+| 3 | [श्री श्याम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae) | N/A |
+| 4 | [#khatushyamji](http://twitter.com/search?q=%23khatushyamji) | N/A |
 | 5 | [#HeraPheri3](http://twitter.com/search?q=%23HeraPheri3) | N/A |
-| 6 | [CHRISTMAS](http://twitter.com/search?q=CHRISTMAS) | N/A |
-| 7 | [#நாதகவிடம்_பயந்த_திமுக](http://twitter.com/search?q=%23%e0%ae%a8%e0%ae%be%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%bf%e0%ae%9f%e0%ae%ae%e0%af%8d_%e0%ae%aa%e0%ae%af%e0%ae%a8%e0%af%8d%e0%ae%a4_%e0%ae%a4%e0%ae%bf%e0%ae%ae%e0%af%81%e0%ae%95) | N/A |
-| 8 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 9 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
-| 10 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 11 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 12 | [TenYrs Of Sushant In Kaipoche](http://twitter.com/search?q=TenYrs+Of+Sushant+In+Kaipoche) | N/A |
-| 13 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
-| 14 | [WE LOVE ABHIRA ONLY](http://twitter.com/search?q=WE+LOVE+ABHIRA+ONLY) | N/A |
-| 15 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 16 | [विदेश मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 17 | [Game - Cricket](http://twitter.com/search?q=Game+-+Cricket) | N/A |
-| 18 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
-| 19 | [Markram](http://twitter.com/search?q=Markram) | N/A |
-| 20 | [दिल्ली नगर निगम](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%a8%e0%a4%97%e0%a4%b0+%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae) | N/A |
-| 21 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
-| 22 | [ARIJIT](http://twitter.com/search?q=ARIJIT) | N/A |
-| 23 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 24 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
-| 25 | [Baghpat](http://twitter.com/search?q=Baghpat) | N/A |
-| 26 | [INTERNATIONAL YEAR OF MILLETS](http://twitter.com/search?q=INTERNATIONAL+YEAR+OF+MILLETS) | N/A |
-| 27 | [$SNFTS](http://twitter.com/search?q=%24SNFTS) | N/A |
-| 28 | [Ranbir Kapoor](http://twitter.com/search?q=Ranbir+Kapoor) | N/A |
-| 29 | [शैली ओबेरॉय](http://twitter.com/search?q=%e0%a4%b6%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%93%e0%a4%ac%e0%a5%87%e0%a4%b0%e0%a5%89%e0%a4%af) | N/A |
-| 30 | [मेयर चुनाव](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%af%e0%a4%b0+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 31 | [Akshay Kumar](http://twitter.com/search?q=Akshay+Kumar) | N/A |
-| 32 | [Mayank](http://twitter.com/search?q=Mayank) | Mayank is a Hindu name of Indian origin. It is derived from the Sanskrit word 'Maya', which means "illusion". The name is often used to refer to Lord Vishnu, who is believed to be the creator of the universe and its illusions. In English, Mayank can be translated to mean "illusionist". |
-| 33 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 34 | [रेखा गुप्ता](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%96%e0%a4%be+%e0%a4%97%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%a4%e0%a4%be) | N/A |
-| 35 | [#AnnouncePrabhasMaruthiFilm](http://twitter.com/search?q=%23AnnouncePrabhasMaruthiFilm) | N/A |
-| 36 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 37 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
-| 38 | [#16YearsofKarthiism](http://twitter.com/search?q=%2316YearsofKarthiism) | N/A |
-| 39 | [#संघ_मतलब_हिंदू_नहीं](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%82%e0%a4%98_%e0%a4%ae%e0%a4%a4%e0%a4%b2%e0%a4%ac_%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b9%e0%a5%80%e0%a4%82) | N/A |
-| 40 | [#Shame_On_Kumarvishwas](http://twitter.com/search?q=%23Shame_On_Kumarvishwas) | N/A |
-| 41 | [#stockmarketcrash](http://twitter.com/search?q=%23stockmarketcrash) | N/A |
-| 42 | [#Jupiter](http://twitter.com/search?q=%23Jupiter) | N/A |
-| 43 | [#Selfiee](http://twitter.com/search?q=%23Selfiee) | N/A |
-| 44 | [#ISupportSunilTiwari](http://twitter.com/search?q=%23ISupportSunilTiwari) | N/A |
-| 45 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
-| 46 | [#Venus](http://twitter.com/search?q=%23Venus) | N/A |
-| 47 | [#DemocracyKilledAtGannavaram](http://twitter.com/search?q=%23DemocracyKilledAtGannavaram) | N/A |
-| 48 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 49 | [#51stBudgetSpeech](http://twitter.com/search?q=%2351stBudgetSpeech) | N/A |
-| 50 | [#LGShameShame](http://twitter.com/search?q=%23LGShameShame) | N/A |
+| 6 | [#நாதகவிடம்_பயந்த_திமுக](http://twitter.com/search?q=%23%e0%ae%a8%e0%ae%be%e0%ae%a4%e0%ae%95%e0%ae%b5%e0%ae%bf%e0%ae%9f%e0%ae%ae%e0%af%8d_%e0%ae%aa%e0%ae%af%e0%ae%a8%e0%af%8d%e0%ae%a4_%e0%ae%a4%e0%ae%bf%e0%ae%ae%e0%af%81%e0%ae%95) | N/A |
+| 7 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 8 | [#AngelOneForAll](http://twitter.com/search?q=%23AngelOneForAll) | N/A |
+| 9 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 10 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
+| 11 | [TenYrs Of Sushant In Kaipoche](http://twitter.com/search?q=TenYrs+Of+Sushant+In+Kaipoche) | N/A |
+| 12 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 13 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 14 | [LOKMAT VIJETA MUNAWAR](http://twitter.com/search?q=LOKMAT+VIJETA+MUNAWAR) | N/A |
+| 15 | [The OG](http://twitter.com/search?q=The+OG) | N/A |
+| 16 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 17 | [विदेश मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 18 | [Puncture](http://twitter.com/search?q=Puncture) | N/A |
+| 19 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
+| 20 | [WE LOVE ABHIRA ONLY](http://twitter.com/search?q=WE+LOVE+ABHIRA+ONLY) | N/A |
+| 21 | [Game - Cricket](http://twitter.com/search?q=Game+-+Cricket) | N/A |
+| 22 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
+| 23 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 24 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
+| 25 | [Oscar](http://twitter.com/search?q=Oscar) | Oscar is a given name in English, derived from the Irish Gaelic name "Osgar" or "Oscar". It is of Old Norse origin, meaning "God's spear". |
+| 26 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 27 | [दिल्ली नगर निगम](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%a8%e0%a4%97%e0%a4%b0+%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae) | N/A |
+| 28 | [Baghpat](http://twitter.com/search?q=Baghpat) | N/A |
+| 29 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 30 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
+| 31 | [Mayank](http://twitter.com/search?q=Mayank) | Mayank is a Hindu name of Indian origin. It is derived from the Sanskrit word 'Maya', which means "illusion". The name is often used to refer to Lord Vishnu, who is believed to be the creator of the universe and its illusions. In English, Mayank can be translated to mean "illusionist". |
+| 32 | [Ranbir Kapoor](http://twitter.com/search?q=Ranbir+Kapoor) | N/A |
+| 33 | [$SNFTS](http://twitter.com/search?q=%24SNFTS) | N/A |
+| 34 | [शैली ओबेरॉय](http://twitter.com/search?q=%e0%a4%b6%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%93%e0%a4%ac%e0%a5%87%e0%a4%b0%e0%a5%89%e0%a4%af) | N/A |
+| 35 | [मेयर चुनाव](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%af%e0%a4%b0+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 36 | [Akshay Kumar](http://twitter.com/search?q=Akshay+Kumar) | N/A |
+| 37 | [#MSvsKK](http://twitter.com/search?q=%23MSvsKK) | N/A |
+| 38 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
+| 39 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
+| 40 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
+| 41 | [#AnnouncePrabhasMaruthiFilm](http://twitter.com/search?q=%23AnnouncePrabhasMaruthiFilm) | N/A |
+| 42 | [#stockmarketcrash](http://twitter.com/search?q=%23stockmarketcrash) | N/A |
+| 43 | [#संघ_मतलब_हिंदू_नहीं](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%82%e0%a4%98_%e0%a4%ae%e0%a4%a4%e0%a4%b2%e0%a4%ac_%e0%a4%b9%e0%a4%bf%e0%a4%82%e0%a4%a6%e0%a5%82_%e0%a4%a8%e0%a4%b9%e0%a5%80%e0%a4%82) | N/A |
+| 44 | [#Shame_On_Kumarvishwas](http://twitter.com/search?q=%23Shame_On_Kumarvishwas) | N/A |
+| 45 | [#ManOfMassesRamCharan](http://twitter.com/search?q=%23ManOfMassesRamCharan) | N/A |
+| 46 | [#Jupiter](http://twitter.com/search?q=%23Jupiter) | N/A |
+| 47 | [#Venus](http://twitter.com/search?q=%23Venus) | N/A |
+| 48 | [#16YearsofKarthiism](http://twitter.com/search?q=%2316YearsofKarthiism) | N/A |
+| 49 | [#DemocracyKilledAtGannavaram](http://twitter.com/search?q=%23DemocracyKilledAtGannavaram) | N/A |
+| 50 | [#ISupportSunilTiwari](http://twitter.com/search?q=%23ISupportSunilTiwari) | N/A |
 
 
 

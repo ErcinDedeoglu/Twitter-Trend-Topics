@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-22 16:17:45 UTC`
+📆 Last Updated: `2023-02-22 17:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 2 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 3 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
-| 4 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 5 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 6 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 7 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 8 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 9 | [#D2Day](http://twitter.com/search?q=%23D2Day) | N/A |
-| 10 | [#GlobalArtistChart](http://twitter.com/search?q=%23GlobalArtistChart) | N/A |
+| 2 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
+| 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 4 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 5 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 7 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
+| 8 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 9 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 10 | [#D2Day](http://twitter.com/search?q=%23D2Day) | N/A |
 | 11 | [Mark Ball](http://twitter.com/search?q=Mark+Ball) | N/A |
-| 12 | [PROMISE OFFICIAL RELEASE](http://twitter.com/search?q=PROMISE+OFFICIAL+RELEASE) | N/A |
-| 13 | [Christmas Love and Promise](http://twitter.com/search?q=Christmas+Love+and+Promise) | N/A |
+| 12 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 13 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
 | 14 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 15 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 16 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 17 | [Bret Stephens](http://twitter.com/search?q=Bret+Stephens) | N/A |
-| 18 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 19 | [PROMISE ON SPOTIFY](http://twitter.com/search?q=PROMISE+ON+SPOTIFY) | N/A |
-| 20 | [The Mask Mandates Did Nothing](http://twitter.com/search?q=The+Mask+Mandates+Did+Nothing) | N/A |
-| 21 | [Jon Tester](http://twitter.com/search?q=Jon+Tester) | N/A |
-| 22 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 23 | [$INTC](http://twitter.com/search?q=%24INTC) | N/A |
-| 24 | [Al Michaels](http://twitter.com/search?q=Al+Michaels) | Al Michaels is an American sportscaster who is best known for his work on NBC's Sunday Night Football. He has been the play-by-play announcer for the NFL's primetime package since 2006. He is also known for his famous catchphrase, "Do you believe in miracles?" which he famously uttered during the 1980 Winter Olympics when the United States hockey team defeated the Soviet Union. |
-| 25 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 26 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 27 | [One Medical](http://twitter.com/search?q=One+Medical) | N/A |
-| 28 | [Austin Armstrong](http://twitter.com/search?q=Austin+Armstrong) | N/A |
-| 29 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 30 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 31 | [Tom Lee](http://twitter.com/search?q=Tom+Lee) | N/A |
-| 32 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 33 | [Article 5](http://twitter.com/search?q=Article+5) | N/A |
-| 34 | [Return to the Lord](http://twitter.com/search?q=Return+to+the+Lord) | N/A |
-| 35 | [Past Lives](http://twitter.com/search?q=Past+Lives) | N/A |
-| 36 | [Wonderful Wednesday](http://twitter.com/search?q=Wonderful+Wednesday) | N/A |
-| 37 | [Splash](http://twitter.com/search?q=Splash) | N/A |
-| 38 | [Foreperson](http://twitter.com/search?q=Foreperson) | N/A |
-| 39 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
-| 40 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
-| 41 | [Portals](http://twitter.com/search?q=Portals) | N/A |
-| 42 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
-| 43 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
-| 44 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
-| 45 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 46 | [Mercer County](http://twitter.com/search?q=Mercer+County) | N/A |
-| 47 | [Derwin](http://twitter.com/search?q=Derwin) | N/A |
-| 48 | [Party Gear](http://twitter.com/search?q=Party+Gear) | N/A |
-| 49 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 15 | [Bret Stephens](http://twitter.com/search?q=Bret+Stephens) | N/A |
+| 16 | [PROMISE OFFICIAL RELEASE](http://twitter.com/search?q=PROMISE+OFFICIAL+RELEASE) | N/A |
+| 17 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 18 | [The Mask Mandates Did Nothing](http://twitter.com/search?q=The+Mask+Mandates+Did+Nothing) | N/A |
+| 19 | [Christmas Love and Promise](http://twitter.com/search?q=Christmas+Love+and+Promise) | N/A |
+| 20 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 21 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 22 | [Article 5](http://twitter.com/search?q=Article+5) | N/A |
+| 23 | [10 Palestinians](http://twitter.com/search?q=10+Palestinians) | N/A |
+| 24 | [Austin Armstrong](http://twitter.com/search?q=Austin+Armstrong) | N/A |
+| 25 | [Patrick Toney](http://twitter.com/search?q=Patrick+Toney) | N/A |
+| 26 | [Al Michaels](http://twitter.com/search?q=Al+Michaels) | Al Michaels is an American sportscaster who is best known for his work on NBC's Sunday Night Football. He has been the play-by-play announcer for the NFL's primetime package since 2006. He is also known for his famous catchphrase, "Do you believe in miracles?" which he famously uttered during the 1980 Winter Olympics when the United States hockey team defeated the Soviet Union. |
+| 27 | [Jon Tester](http://twitter.com/search?q=Jon+Tester) | N/A |
+| 28 | [One Medical](http://twitter.com/search?q=One+Medical) | N/A |
+| 29 | [PROMISE ON SPOTIFY](http://twitter.com/search?q=PROMISE+ON+SPOTIFY) | N/A |
+| 30 | [Past Lives](http://twitter.com/search?q=Past+Lives) | N/A |
+| 31 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
+| 32 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 33 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 34 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 35 | [$INTC](http://twitter.com/search?q=%24INTC) | N/A |
+| 36 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 37 | [IFPI](http://twitter.com/search?q=IFPI) | N/A |
+| 38 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 39 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
+| 40 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 41 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
+| 42 | [American Girl](http://twitter.com/search?q=American+Girl) | N/A |
+| 43 | [Ttek](http://twitter.com/search?q=Ttek) | N/A |
+| 44 | [Tom Lee](http://twitter.com/search?q=Tom+Lee) | N/A |
+| 45 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
+| 46 | [Wonderful Wednesday](http://twitter.com/search?q=Wonderful+Wednesday) | N/A |
+| 47 | [Splash](http://twitter.com/search?q=Splash) | N/A |
+| 48 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
+| 49 | [Derwin](http://twitter.com/search?q=Derwin) | N/A |
 
 
 
