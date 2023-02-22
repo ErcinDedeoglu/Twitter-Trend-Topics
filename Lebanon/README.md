@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-22 09:17:22 UTC`
+📆 Last Updated: `2023-02-22 10:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Lebanon
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [الساحل الجنوبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d9%84+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a) | N/A |
-| 2 | [#سيرين_عبد_النور](http://twitter.com/search?q=%23%d8%b3%d9%8a%d8%b1%d9%8a%d9%86_%d8%b9%d8%a8%d8%af_%d8%a7%d9%84%d9%86%d9%88%d8%b1) | N/A |
-| 3 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
+| 1 | [#اكثر_شي_تسويه_بالشتاء](http://twitter.com/search?q=%23%d8%a7%d9%83%d8%ab%d8%b1_%d8%b4%d9%8a_%d8%aa%d8%b3%d9%88%d9%8a%d9%87_%d8%a8%d8%a7%d9%84%d8%b4%d8%aa%d8%a7%d8%a1) | N/A |
+| 2 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
+| 3 | [#سيرين_عبد_النور](http://twitter.com/search?q=%23%d8%b3%d9%8a%d8%b1%d9%8a%d9%86_%d8%b9%d8%a8%d8%af_%d8%a7%d9%84%d9%86%d9%88%d8%b1) | N/A |
 | 4 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 5 | [المرصد الاوروبي المتوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
+| 5 | [#هزه_ارضيه](http://twitter.com/search?q=%23%d9%87%d8%b2%d9%87_%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | #هزه_ارضيه is an Arabic hashtag that translates to "shake the ground". It is often used to express excitement or enthusiasm. |
 | 6 | [ريال مدريد](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d9%85%d8%af%d8%b1%d9%8a%d8%af) | ريال مدريد (Riyal Madrid) is a Spanish professional football club based in Madrid, Spain. The club's full name is Real Madrid Club de Fútbol. In English, the phrase translates to "Real Madrid Football Club". |
-| 7 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
-| 8 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [#صباح_الخير](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | #صباح_الخير is an Arabic phrase meaning "Good Morning". It is commonly used as a greeting on social media. |
-| 11 | [شهر شعبان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
-| 12 | [صيدا](http://twitter.com/search?q=%d8%b5%d9%8a%d8%af%d8%a7) | N/A |
-| 13 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 14 | [مصطفى](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%89) | N/A |
-| 15 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 16 | [القرض الحسن](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
-| 17 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 18 | [البحر المتوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7) | N/A |
-| 19 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 20 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 21 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 22 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 23 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
-| 24 | [الهزه الارضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
-| 25 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 8 | [شهر شعبان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 9 | [الساحل الجنوبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d9%84+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a) | N/A |
+| 10 | [القرض الحسن](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
+| 11 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
+| 12 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 13 | [المرصد الاوروبي المتوسطي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%b5%d8%af+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7%d9%8a) | N/A |
+| 14 | [البحر المتوسط](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d8%b1+%d8%a7%d9%84%d9%85%d8%aa%d9%88%d8%b3%d8%b7) | N/A |
+| 15 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
+| 16 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
+| 17 | [وزير التربيه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%aa%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 18 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 19 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 20 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 21 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 22 | [الاتحاد الأوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 23 | [غادة عون](http://twitter.com/search?q=%d8%ba%d8%a7%d8%af%d8%a9+%d8%b9%d9%88%d9%86) | N/A |
+| 24 | [دوري الابطال](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d8%a8%d8%b7%d8%a7%d9%84) | N/A |
+| 25 | [الهزه الارضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d9%87+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
 | 26 | [مياه البحر](http://twitter.com/search?q=%d9%85%d9%8a%d8%a7%d9%87+%d8%a7%d9%84%d8%a8%d8%ad%d8%b1) | N/A |
-| 27 | [غادة عون](http://twitter.com/search?q=%d8%ba%d8%a7%d8%af%d8%a9+%d8%b9%d9%88%d9%86) | N/A |
-| 28 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 29 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 30 | [جنوب لبنان](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
-| 31 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 32 | [الاتحاد الأوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%a3%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 33 | [رامي](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%8a) | N/A |
-| 34 | [الوكاله الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 35 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
-| 36 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 37 | [حريق كبير](http://twitter.com/search?q=%d8%ad%d8%b1%d9%8a%d9%82+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
-| 38 | [المدارس الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
+| 27 | [بايدن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%af%d9%86) | N/A |
+| 28 | [مصطفى](http://twitter.com/search?q=%d9%85%d8%b5%d8%b7%d9%81%d9%89) | N/A |
+| 29 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
+| 30 | [الهزات الارتداديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%aa%d8%af%d8%a7%d8%af%d9%8a%d9%87) | N/A |
+| 31 | [بريطانيا](http://twitter.com/search?q=%d8%a8%d8%b1%d9%8a%d8%b7%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 32 | [علي مقياس ريختر](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d9%82%d9%8a%d8%a7%d8%b3+%d8%b1%d9%8a%d8%ae%d8%aa%d8%b1) | N/A |
+| 33 | [جنوب لبنان](http://twitter.com/search?q=%d8%ac%d9%86%d9%88%d8%a8+%d9%84%d8%a8%d9%86%d8%a7%d9%86) | N/A |
+| 34 | [صيدا](http://twitter.com/search?q=%d8%b5%d9%8a%d8%af%d8%a7) | N/A |
+| 35 | [الوكاله الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%83%d8%a7%d9%84%d9%87+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 36 | [حريق كبير](http://twitter.com/search?q=%d8%ad%d8%b1%d9%8a%d9%82+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
+| 37 | [المدارس الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%af%d8%a7%d8%b1%d8%b3+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
+| 38 | [بن ابي سفيان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
 | 39 | [sgbl](http://twitter.com/search?q=sgbl) | N/A |
 | 40 | [صيام مبارك](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
 | 41 | [الفزع الاكبر](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b2%d8%b9+%d8%a7%d9%84%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
-| 42 | [بن ابي سفيان](http://twitter.com/search?q=%d8%a8%d9%86+%d8%a7%d8%a8%d9%8a+%d8%b3%d9%81%d9%8a%d8%a7%d9%86) | N/A |
-| 43 | [النازحين السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 44 | [عمان](http://twitter.com/search?q=%d8%b9%d9%85%d8%a7%d9%86) | عمان is the Arabic name for the country of Oman. In English, it means "The Abode of Peace". |
-| 45 | [21 شباط 2023](http://twitter.com/search?q=21+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
-| 46 | [كييف](http://twitter.com/search?q=%d9%83%d9%8a%d9%8a%d9%81) | N/A |
-| 47 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 48 | [ماغي فرح](http://twitter.com/search?q=%d9%85%d8%a7%d8%ba%d9%8a+%d9%81%d8%b1%d8%ad) | N/A |
-| 49 | [العالم الهولندي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d9%87%d9%88%d9%84%d9%86%d8%af%d9%8a) | N/A |
-| 50 | [الجامعات الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d8%a7%d9%85%d8%b9%d8%a7%d8%aa+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
+| 42 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
+| 43 | [إبراهيم](http://twitter.com/search?q=%d8%a5%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
+| 44 | [الشمع الاحمر](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%85%d8%b9+%d8%a7%d9%84%d8%a7%d8%ad%d9%85%d8%b1) | N/A |
+| 45 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 46 | [21 شباط 2023](http://twitter.com/search?q=21+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
+| 47 | [رامي](http://twitter.com/search?q=%d8%b1%d8%a7%d9%85%d9%8a) | N/A |
+| 48 | [كييف](http://twitter.com/search?q=%d9%83%d9%8a%d9%8a%d9%81) | N/A |
+| 49 | [ماغي فرح](http://twitter.com/search?q=%d9%85%d8%a7%d8%ba%d9%8a+%d9%81%d8%b1%d8%ad) | N/A |
+| 50 | [العالم الهولندي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a7%d9%84%d9%85+%d8%a7%d9%84%d9%87%d9%88%d9%84%d9%86%d8%af%d9%8a) | N/A |
 
 
 

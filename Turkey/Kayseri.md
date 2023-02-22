@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-22 09:17:10 UTC`
+📆 Last Updated: `2023-02-22 10:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Unutmayacağız](http://twitter.com/search?q=%23Unutmayaca%c4%9f%c4%b1z) | N/A |
-| 2 | [#cokusdonemi](http://twitter.com/search?q=%23cokusdonemi) | N/A |
-| 3 | [#galeriakurtarılmayıbekliyor](http://twitter.com/search?q=%23galeriakurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
-| 4 | [Engin Ardıç](http://twitter.com/search?q=Engin+Ard%c4%b1%c3%a7) | N/A |
-| 5 | [Etmiyorsun](http://twitter.com/search?q=Etmiyorsun) | N/A |
-| 6 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 7 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
-| 8 | [Dünya Savaşı](http://twitter.com/search?q=D%c3%bcnya+Sava%c5%9f%c4%b1) | N/A |
-| 9 | [FurkanÇolak Osurdu](http://twitter.com/search?q=Furkan%c3%87olak+Osurdu) | N/A |
-| 10 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 11 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 12 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
-| 13 | [Bingöl](http://twitter.com/search?q=Bing%c3%b6l) | N/A |
-| 14 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 15 | [Sayın Erdoğan](http://twitter.com/search?q=Say%c4%b1n+Erdo%c4%9fan) | N/A |
-| 16 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
-| 17 | [Temizlik](http://twitter.com/search?q=Temizlik) | N/A |
-| 18 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 19 | [22 Şubat](http://twitter.com/search?q=22+%c5%9eubat) | N/A |
-| 20 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
-| 21 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 22 | [Halka](http://twitter.com/search?q=Halka) | N/A |
-| 23 | [Lağım](http://twitter.com/search?q=La%c4%9f%c4%b1m) | N/A |
-| 24 | [Namussuz](http://twitter.com/search?q=Namussuz) | N/A |
-| 25 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
-| 26 | [Hakaret](http://twitter.com/search?q=Hakaret) | N/A |
-| 27 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 28 | [#EYTyeVerdiginizSözüTutun](http://twitter.com/search?q=%23EYTyeVerdiginizS%c3%b6z%c3%bcTutun) | N/A |
-| 29 | [#StajaAdaletZamanı](http://twitter.com/search?q=%23StajaAdaletZaman%c4%b1) | N/A |
-| 30 | [#Dayanışmaİle](http://twitter.com/search?q=%23Dayan%c4%b1%c5%9fma%c4%b0le) | N/A |
-| 31 | [#küfür](http://twitter.com/search?q=%23k%c3%bcf%c3%bcr) | N/A |
-| 32 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
-| 33 | [#oyakc](http://twitter.com/search?q=%23oyakc) | N/A |
-| 34 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
-| 35 | [#afyon](http://twitter.com/search?q=%23afyon) | N/A |
-| 36 | [#galeriamezarolmasın](http://twitter.com/search?q=%23galeriamezarolmas%c4%b1n) | N/A |
-| 37 | [#nuhcm](http://twitter.com/search?q=%23nuhcm) | N/A |
+| 1 | [#galeriakurtarılmayıbekliyor](http://twitter.com/search?q=%23galeriakurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
+| 2 | [#Unutmayacağız](http://twitter.com/search?q=%23Unutmayaca%c4%9f%c4%b1z) | N/A |
+| 3 | [Örgütlü Suç Çetesi Ekşi](http://twitter.com/search?q=%c3%96rg%c3%bctl%c3%bc+Su%c3%a7+%c3%87etesi+Ek%c5%9fi) | N/A |
+| 4 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
+| 5 | [Engin Ardıç](http://twitter.com/search?q=Engin+Ard%c4%b1%c3%a7) | N/A |
+| 6 | [Etmiyorsun](http://twitter.com/search?q=Etmiyorsun) | N/A |
+| 7 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 8 | [Bingöl'ün Genç](http://twitter.com/search?q=Bing%c3%b6l%27%c3%bcn+Gen%c3%a7) | N/A |
+| 9 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 10 | [FurkanÇolak Osurdu](http://twitter.com/search?q=Furkan%c3%87olak+Osurdu) | N/A |
+| 11 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 12 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 13 | [Halka](http://twitter.com/search?q=Halka) | N/A |
+| 14 | [Dünya Savaşı](http://twitter.com/search?q=D%c3%bcnya+Sava%c5%9f%c4%b1) | N/A |
+| 15 | [Yarası](http://twitter.com/search?q=Yaras%c4%b1) | N/A |
+| 16 | [Sayın Erdoğan](http://twitter.com/search?q=Say%c4%b1n+Erdo%c4%9fan) | N/A |
+| 17 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
+| 18 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
+| 19 | [Temizlik](http://twitter.com/search?q=Temizlik) | N/A |
+| 20 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 21 | [Üstüne](http://twitter.com/search?q=%c3%9cst%c3%bcne) | N/A |
+| 22 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 23 | [22 Şubat](http://twitter.com/search?q=22+%c5%9eubat) | N/A |
+| 24 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
+| 25 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
+| 26 | [Hakedene](http://twitter.com/search?q=Hakedene) | N/A |
+| 27 | [Namussuz](http://twitter.com/search?q=Namussuz) | N/A |
+| 28 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 29 | [Üzerine](http://twitter.com/search?q=%c3%9czerine) | N/A |
+| 30 | [Lağım](http://twitter.com/search?q=La%c4%9f%c4%b1m) | N/A |
+| 31 | [#cokusdonemi](http://twitter.com/search?q=%23cokusdonemi) | N/A |
+| 32 | [#küfür](http://twitter.com/search?q=%23k%c3%bcf%c3%bcr) | N/A |
+| 33 | [#EYTyeVerdiginizSözüTutun](http://twitter.com/search?q=%23EYTyeVerdiginizS%c3%b6z%c3%bcTutun) | N/A |
+| 34 | [#StajaAdaletZamanı](http://twitter.com/search?q=%23StajaAdaletZaman%c4%b1) | N/A |
+| 35 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
+| 36 | [#oyakc](http://twitter.com/search?q=%23oyakc) | N/A |
+| 37 | [#AfraSaraçoğlu](http://twitter.com/search?q=%23AfraSara%c3%a7o%c4%9flu) | N/A |
 | 38 | [#cimsa](http://twitter.com/search?q=%23cimsa) | N/A |
-| 39 | [#beylikdüzü](http://twitter.com/search?q=%23beylikd%c3%bcz%c3%bc) | N/A |
-| 40 | [#PNLSN](http://twitter.com/search?q=%23PNLSN) | N/A |
-| 41 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
-| 42 | [#GWIND](http://twitter.com/search?q=%23GWIND) | N/A |
-| 43 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
-| 44 | [#DiyanetEngisizyonunaHayır](http://twitter.com/search?q=%23DiyanetEngisizyonunaHay%c4%b1r) | N/A |
-| 45 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
-| 46 | [#KitaplaraÖzgürlük](http://twitter.com/search?q=%23Kitaplara%c3%96zg%c3%bcrl%c3%bck) | N/A |
-| 47 | [#KitaplarYasaklanamaz](http://twitter.com/search?q=%23KitaplarYasaklanamaz) | N/A |
-| 48 | [#viop](http://twitter.com/search?q=%23viop) | N/A |
+| 39 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
+| 40 | [#BirKiraBirYuva](http://twitter.com/search?q=%23BirKiraBirYuva) | N/A |
+| 41 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 42 | [#xu100](http://twitter.com/search?q=%23xu100) | N/A |
+| 43 | [#afyon](http://twitter.com/search?q=%23afyon) | N/A |
+| 44 | [#beylikdüzü](http://twitter.com/search?q=%23beylikd%c3%bcz%c3%bc) | N/A |
+| 45 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
+| 46 | [#GWIND](http://twitter.com/search?q=%23GWIND) | N/A |
+| 47 | [#DiyanetEngisizyonunaHayır](http://twitter.com/search?q=%23DiyanetEngisizyonunaHay%c4%b1r) | N/A |
 
 
 

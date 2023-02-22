@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-22 09:17:23 UTC`
+📆 Last Updated: `2023-02-22 10:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for Pakistan
 | 5 | [#ضمانت_پارک](http://twitter.com/search?q=%23%d8%b6%d9%85%d8%a7%d9%86%d8%aa_%d9%be%d8%a7%d8%b1%da%a9) | N/A |
 | 6 | [Javed Akhtar](http://twitter.com/search?q=Javed+Akhtar) | N/A |
 | 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [daraz](http://twitter.com/search?q=daraz) | N/A |
-| 9 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
-| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 11 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 12 | [Welcome to PTI](http://twitter.com/search?q=Welcome+to+PTI) | N/A |
-| 13 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
-| 14 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 15 | [another 6.4](http://twitter.com/search?q=another+6.4) | N/A |
-| 16 | [Sardar](http://twitter.com/search?q=Sardar) | N/A |
-| 17 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 18 | [odean smith](http://twitter.com/search?q=odean+smith) | N/A |
-| 19 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 20 | [wiese](http://twitter.com/search?q=wiese) | N/A |
-| 21 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
-| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 23 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 24 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
-| 25 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
-| 26 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 27 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
-| 28 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
-| 29 | [Founder Of Sipah E Sahaba](http://twitter.com/search?q=Founder+Of+Sipah+E+Sahaba) | N/A |
-| 30 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 32 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
-| 33 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
-| 34 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 35 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 36 | [Pervaiz Elahi](http://twitter.com/search?q=Pervaiz+Elahi) | N/A |
-| 37 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 38 | [Infidel](http://twitter.com/search?q=Infidel) | N/A |
-| 39 | [Smoke - No](http://twitter.com/search?q=Smoke+-+No) | N/A |
-| 40 | [Modi](http://twitter.com/search?q=Modi) | N/A |
-| 41 | [Salman](http://twitter.com/search?q=Salman) | N/A |
-| 42 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
-| 43 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 44 | [MPAs](http://twitter.com/search?q=MPAs) | N/A |
-| 45 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
-| 46 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 48 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 49 | [Mafia](http://twitter.com/search?q=Mafia) | N/A |
-| 50 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
+| 8 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
+| 9 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 10 | [Welcome to PTI](http://twitter.com/search?q=Welcome+to+PTI) | N/A |
+| 11 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 12 | [Shaheen Shah Afridi](http://twitter.com/search?q=Shaheen+Shah+Afridi) | N/A |
+| 13 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 14 | [another 6.4](http://twitter.com/search?q=another+6.4) | N/A |
+| 15 | [Sardar](http://twitter.com/search?q=Sardar) | N/A |
+| 16 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 17 | [odean smith](http://twitter.com/search?q=odean+smith) | N/A |
+| 18 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 19 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 20 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
+| 21 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
+| 22 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 23 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
+| 24 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
+| 25 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
+| 26 | [Founder Of Sipah E Sahaba](http://twitter.com/search?q=Founder+Of+Sipah+E+Sahaba) | N/A |
+| 27 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
+| 28 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 29 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 30 | [Chairman NAB](http://twitter.com/search?q=Chairman+NAB) | N/A |
+| 31 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 32 | [Pervaiz Elahi](http://twitter.com/search?q=Pervaiz+Elahi) | N/A |
+| 33 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 34 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 35 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 36 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 37 | [Happy Birthday Sir](http://twitter.com/search?q=Happy+Birthday+Sir) | N/A |
+| 38 | [Salman](http://twitter.com/search?q=Salman) | N/A |
+| 39 | [Ali Zafar](http://twitter.com/search?q=Ali+Zafar) | N/A |
+| 40 | [Asad Umar](http://twitter.com/search?q=Asad+Umar) | N/A |
+| 41 | [MPAs](http://twitter.com/search?q=MPAs) | N/A |
+| 42 | [Afghan Taliban](http://twitter.com/search?q=Afghan+Taliban) | N/A |
+| 43 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 44 | [Lanat](http://twitter.com/search?q=Lanat) | N/A |
+| 45 | [Smoke - No](http://twitter.com/search?q=Smoke+-+No) | N/A |
+| 46 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 47 | [Bushra Bibi](http://twitter.com/search?q=Bushra+Bibi) | N/A |
+| 48 | [Hero](http://twitter.com/search?q=Hero) | N/A |
+| 49 | [Fawad Chaudhry](http://twitter.com/search?q=Fawad+Chaudhry) | N/A |
+| 50 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
 
 
 

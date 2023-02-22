@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-22 09:17:24 UTC`
+📆 Last Updated: `2023-02-22 10:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Poland
 | 6 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
 | 7 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
 | 8 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 11 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
-| 12 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 9 | [Klich](http://twitter.com/search?q=Klich) | Klich is a Yiddish word that means gossip or rumor. It is often used to describe idle chatter or gossiping about someone or something. |
+| 10 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 11 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 13 | [Duda](http://twitter.com/search?q=Duda) | N/A |
 | 14 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
 | 15 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 16 | [#ŚrodaPopielcowa](http://twitter.com/search?q=%23%c5%9arodaPopielcowa) | N/A |
-| 17 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 18 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 19 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 16 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 17 | [#ŚrodaPopielcowa](http://twitter.com/search?q=%23%c5%9arodaPopielcowa) | N/A |
+| 18 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
+| 19 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 20 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 21 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 22 | [#WielkiPost](http://twitter.com/search?q=%23WielkiPost) | N/A |
-| 23 | [Wielkiego Postu](http://twitter.com/search?q=Wielkiego+Postu) | N/A |
-| 24 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
-| 25 | [Realu](http://twitter.com/search?q=Realu) | N/A |
-| 26 | [Real Madryt](http://twitter.com/search?q=Real+Madryt) | N/A |
+| 21 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
+| 22 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
+| 23 | [Grodzki](http://twitter.com/search?q=Grodzki) | N/A |
+| 24 | [#WielkiPost](http://twitter.com/search?q=%23WielkiPost) | N/A |
+| 25 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 26 | [Realu](http://twitter.com/search?q=Realu) | N/A |
 | 27 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 28 | [Grodzkim](http://twitter.com/search?q=Grodzkim) | N/A |
-| 29 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 31 | [kraśko](http://twitter.com/search?q=kra%c5%9bko) | N/A |
-| 32 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
+| 28 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 29 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
+| 30 | [Real Madryt](http://twitter.com/search?q=Real+Madryt) | N/A |
+| 31 | [Wielkiego Postu](http://twitter.com/search?q=Wielkiego+Postu) | N/A |
+| 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 33 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 34 | [Informacyjnie](http://twitter.com/search?q=Informacyjnie) | N/A |
-| 35 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 36 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 37 | [Arkadach Kubickiego](http://twitter.com/search?q=Arkadach+Kubickiego) | N/A |
-| 38 | [kariusa](http://twitter.com/search?q=kariusa) | N/A |
-| 39 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 40 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 41 | [Mt 6](http://twitter.com/search?q=Mt+6) | N/A |
-| 42 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 43 | [Ewangelię](http://twitter.com/search?q=Ewangeli%c4%99) | N/A |
-| 44 | [Realem](http://twitter.com/search?q=Realem) | N/A |
-| 45 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 46 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
-| 47 | [Spotkał](http://twitter.com/search?q=Spotka%c5%82) | N/A |
-| 48 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 49 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 50 | [Jarek](http://twitter.com/search?q=Jarek) | N/A |
+| 34 | [kleczek](http://twitter.com/search?q=kleczek) | N/A |
+| 35 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 36 | [kariusa](http://twitter.com/search?q=kariusa) | N/A |
+| 37 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 38 | [Arkadach Kubickiego](http://twitter.com/search?q=Arkadach+Kubickiego) | N/A |
+| 39 | [Mt 6](http://twitter.com/search?q=Mt+6) | N/A |
+| 40 | [Realem](http://twitter.com/search?q=Realem) | N/A |
+| 41 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 42 | [Spotkał](http://twitter.com/search?q=Spotka%c5%82) | N/A |
+| 43 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 44 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
+| 45 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 46 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 47 | [Jarek](http://twitter.com/search?q=Jarek) | N/A |
+| 48 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 49 | [Kraśko](http://twitter.com/search?q=Kra%c5%9bko) | N/A |
+| 50 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
 
 
 

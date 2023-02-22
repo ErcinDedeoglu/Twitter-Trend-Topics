@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Providence
 
-📆 Last Updated: `2023-02-22 09:17:16 UTC`
+📆 Last Updated: `2023-02-22 10:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [United States](</United States>)
 | 2 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
 | 3 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
 | 4 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 5 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 5 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
 | 6 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
-| 7 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 8 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 9 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 10 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 11 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 12 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 13 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 14 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 15 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 16 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 17 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 18 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 19 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 20 | [THEY THREW BEANS ON HIM](http://twitter.com/search?q=THEY+THREW+BEANS+ON+HIM) | N/A |
-| 21 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 22 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 23 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
-| 24 | [GHOST IN THE MACHINE](http://twitter.com/search?q=GHOST+IN+THE+MACHINE) | N/A |
-| 25 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
-| 26 | [Ines](http://twitter.com/search?q=Ines) | N/A |
-| 27 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 28 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 29 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
-| 30 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 31 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 32 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
-| 33 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 34 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
-| 35 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
-| 36 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 37 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 38 | [The Parkers](http://twitter.com/search?q=The+Parkers) | N/A |
-| 39 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 40 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 41 | [Princess and the Frog](http://twitter.com/search?q=Princess+and+the+Frog) | N/A |
-| 42 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
-| 43 | [Physical 100](http://twitter.com/search?q=Physical+100) | N/A |
-| 44 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 45 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 46 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 47 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 48 | [Bartise](http://twitter.com/search?q=Bartise) | N/A |
+| 7 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 8 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 9 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 10 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
+| 11 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 12 | [THEY THREW BEANS ON HIM](http://twitter.com/search?q=THEY+THREW+BEANS+ON+HIM) | N/A |
+| 13 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 14 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 15 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 16 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
+| 17 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 18 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 19 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 20 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 21 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 22 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 23 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 24 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 25 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 26 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 27 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 28 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 29 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 30 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
+| 31 | [The Incredibles](http://twitter.com/search?q=The+Incredibles) | N/A |
+| 32 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 33 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
+| 34 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 35 | [The Parkers](http://twitter.com/search?q=The+Parkers) | N/A |
+| 36 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 37 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 38 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 39 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 40 | [Physical 100](http://twitter.com/search?q=Physical+100) | N/A |
+| 41 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
+| 42 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
+| 43 | [Kariselle](http://twitter.com/search?q=Kariselle) | N/A |
+| 44 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 45 | [Bartise](http://twitter.com/search?q=Bartise) | N/A |
+| 46 | [Erection](http://twitter.com/search?q=Erection) | N/A |
+| 47 | [Monsters Inc](http://twitter.com/search?q=Monsters+Inc) | N/A |
+| 48 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
 
 
 

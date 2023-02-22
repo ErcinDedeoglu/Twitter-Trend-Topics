@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-02-22 09:16:50 UTC`
+📆 Last Updated: `2023-02-22 10:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,44 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 4 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
+| 1 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 2 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 5 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 6 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 7 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 6 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
+| 7 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
 | 8 | [#IgualdadSalarial](http://twitter.com/search?q=%23IgualdadSalarial) | N/A |
-| 9 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
-| 10 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 11 | [#TentacionesDBT5](http://twitter.com/search?q=%23TentacionesDBT5) | N/A |
-| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 13 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
-| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 15 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 16 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 17 | [Antonio Machado](http://twitter.com/search?q=Antonio+Machado) | N/A |
-| 18 | [#MenosFalconMásCercanías](http://twitter.com/search?q=%23MenosFalconM%c3%a1sCercan%c3%adas) | N/A |
-| 19 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 20 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 21 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 22 | [#HONORMagic5](http://twitter.com/search?q=%23HONORMagic5) | N/A |
-| 23 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 24 | [#BrechaSalarial](http://twitter.com/search?q=%23BrechaSalarial) | N/A |
-| 25 | [Evangelio](http://twitter.com/search?q=Evangelio) | N/A |
-| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 27 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 28 | [Comprimidos](http://twitter.com/search?q=Comprimidos) | N/A |
-| 29 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
-| 30 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 31 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 32 | [Mt 6](http://twitter.com/search?q=Mt+6) | N/A |
-| 33 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
-| 34 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 35 | [Miriam Nogueras](http://twitter.com/search?q=Miriam+Nogueras) | N/A |
-| 36 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 37 | [Hoy 22](http://twitter.com/search?q=Hoy+22) | N/A |
-| 38 | [Yoyas](http://twitter.com/search?q=Yoyas) | N/A |
-| 39 | [Pasión](http://twitter.com/search?q=Pasi%c3%b3n) | N/A |
-| 40 | [Junts](http://twitter.com/search?q=Junts) | N/A |
-| 41 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 42 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 43 | [Karim](http://twitter.com/search?q=Karim) | Karim is an Arabic name meaning "generous" or "noble". It is also used as a surname in some cultures. |
-| 44 | [REYES DE EUROPA](http://twitter.com/search?q=REYES+DE+EUROPA) | N/A |
-| 45 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 46 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 47 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 48 | [412 X](http://twitter.com/search?q=412+X) | N/A |
-| 49 | [Dross](http://twitter.com/search?q=Dross) | N/A |
-| 50 | [Colliure](http://twitter.com/search?q=Colliure) | N/A |
+| 9 | [Rita](http://twitter.com/search?q=Rita) | Rita is a female given name of Latin origin, derived from the Latin word "rita" meaning "right". It is also a diminutive form of the name Margarita, which means "pearl". |
+| 10 | [#BrechaSalarial](http://twitter.com/search?q=%23BrechaSalarial) | N/A |
+| 11 | [Antonio Machado](http://twitter.com/search?q=Antonio+Machado) | N/A |
+| 12 | [#MenosFalconMásCercanías](http://twitter.com/search?q=%23MenosFalconM%c3%a1sCercan%c3%adas) | N/A |
+| 13 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
+| 14 | [#APOYOROCIO22F](http://twitter.com/search?q=%23APOYOROCIO22F) | N/A |
+| 15 | [Evangelio](http://twitter.com/search?q=Evangelio) | N/A |
+| 16 | [#22Feb](http://twitter.com/search?q=%2322Feb) | N/A |
+| 17 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 18 | [Colliure](http://twitter.com/search?q=Colliure) | N/A |
+| 19 | [Iberdrola](http://twitter.com/search?q=Iberdrola) | N/A |
+| 20 | [Yoyas](http://twitter.com/search?q=Yoyas) | N/A |
+| 21 | [Pasión](http://twitter.com/search?q=Pasi%c3%b3n) | N/A |
+| 22 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
+| 23 | [Maracena](http://twitter.com/search?q=Maracena) | N/A |
+| 24 | [El 22](http://twitter.com/search?q=El+22) | N/A |
+| 25 | [Santa Misa](http://twitter.com/search?q=Santa+Misa) | N/A |
+| 26 | [Entierro de la Sardina](http://twitter.com/search?q=Entierro+de+la+Sardina) | N/A |
+| 27 | [Míriam Nogueras](http://twitter.com/search?q=M%c3%adriam+Nogueras) | N/A |
+| 28 | [Fayna](http://twitter.com/search?q=Fayna) | N/A |
+| 29 | [Senado](http://twitter.com/search?q=Senado) | Senado is the Spanish word for Senate. It is used to refer to a legislative body, usually in a government or other political organization, that is composed of members who are elected or appointed by the population. In English, it can be translated as "Senate". |
+| 30 | [Bandera](http://twitter.com/search?q=Bandera) | N/A |
+| 31 | [Maroto](http://twitter.com/search?q=Maroto) | N/A |
+| 32 | [Junts](http://twitter.com/search?q=Junts) | N/A |
+| 33 | [#gastromarketingday](http://twitter.com/search?q=%23gastromarketingday) | N/A |
+| 34 | [#Solos22F](http://twitter.com/search?q=%23Solos22F) | N/A |
+| 35 | [#YoMeRebelo22F](http://twitter.com/search?q=%23YoMeRebelo22F) | N/A |
+| 36 | [#CuidadosSinBrecha](http://twitter.com/search?q=%23CuidadosSinBrecha) | N/A |
+| 37 | [#GenteDeBien](http://twitter.com/search?q=%23GenteDeBien) | N/A |
+| 38 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
 
 
 

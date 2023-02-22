@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-22 09:17:21 UTC`
+📆 Last Updated: `2023-02-22 10:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,16 +18,16 @@ This is top 50 for Guatemala
 | 1 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
 | 2 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 3 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 4 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 4 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
 | 5 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 6 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 7 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 8 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 9 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 9 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
 | 10 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 11 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 12 | [vamos guate](http://twitter.com/search?q=vamos+guate) | N/A |
-| 13 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 11 | [vamos guate](http://twitter.com/search?q=vamos+guate) | N/A |
+| 12 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 13 | [KARIUS](http://twitter.com/search?q=KARIUS) | N/A |
 | 14 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 15 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
 | 16 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
@@ -44,8 +44,8 @@ This is top 50 for Guatemala
 | 27 | [#Sub17](http://twitter.com/search?q=%23Sub17) | N/A |
 | 28 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 29 | [tecún umán](http://twitter.com/search?q=tec%c3%ban+um%c3%a1n) | N/A |
-| 30 | [jorge solórzano](http://twitter.com/search?q=jorge+sol%c3%b3rzano) | N/A |
-| 31 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 30 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 31 | [jorge solórzano](http://twitter.com/search?q=jorge+sol%c3%b3rzano) | N/A |
 | 32 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 33 | [colonia el esfuerzo](http://twitter.com/search?q=colonia+el+esfuerzo) | N/A |
 | 34 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for Guatemala
 | 37 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
 | 38 | [Rey de Europa](http://twitter.com/search?q=Rey+de+Europa) | N/A |
 | 39 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
-| 40 | [San Lucas](http://twitter.com/search?q=San+Lucas) | N/A |
-| 41 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
-| 42 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
+| 40 | [san lucas](http://twitter.com/search?q=san+lucas) | N/A |
+| 41 | [Jerez](http://twitter.com/search?q=Jerez) | N/A |
+| 42 | [Pirulo](http://twitter.com/search?q=Pirulo) | N/A |
 | 43 | [mario castañeda](http://twitter.com/search?q=mario+casta%c3%b1eda) | N/A |
 | 44 | [Venus](http://twitter.com/search?q=Venus) | N/A |
 | 45 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 | 46 | [Lukita](http://twitter.com/search?q=Lukita) | N/A |
 | 47 | [Labello](http://twitter.com/search?q=Labello) | N/A |
-| 48 | [CUNOC](http://twitter.com/search?q=CUNOC) | N/A |
-| 49 | [José Rubén Zamora](http://twitter.com/search?q=Jos%c3%a9+Rub%c3%a9n+Zamora) | N/A |
-| 50 | [mineduc](http://twitter.com/search?q=mineduc) | N/A |
+| 48 | [Cunoc](http://twitter.com/search?q=Cunoc) | N/A |
+| 49 | [josé rubén zamora](http://twitter.com/search?q=jos%c3%a9+rub%c3%a9n+zamora) | N/A |
+| 50 | [Mineduc](http://twitter.com/search?q=Mineduc) | N/A |
 
 
 
