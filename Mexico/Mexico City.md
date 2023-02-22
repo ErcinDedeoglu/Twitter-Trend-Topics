@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-21 23:16:12 UTC`
+📆 Last Updated: `2023-02-22 00:27:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
 | 2 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 3 | [Conscripto](http://twitter.com/search?q=Conscripto) | N/A |
+| 3 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
 | 4 | [#URGENTE](http://twitter.com/search?q=%23URGENTE) | N/A |
-| 5 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 5 | [Conscripto](http://twitter.com/search?q=Conscripto) | N/A |
 | 6 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 7 | [#SacoDePus](http://twitter.com/search?q=%23SacoDePus) | N/A |
-| 8 | [#FamiliasMexiquenses](http://twitter.com/search?q=%23FamiliasMexiquenses) | N/A |
-| 9 | [América Rangel](http://twitter.com/search?q=Am%c3%a9rica+Rangel) | N/A |
-| 10 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 11 | [#Marcha26Febrero](http://twitter.com/search?q=%23Marcha26Febrero) | N/A |
-| 12 | [#LordMontajes](http://twitter.com/search?q=%23LordMontajes) | N/A |
-| 13 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 15 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 16 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 17 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 18 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 19 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 20 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 21 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 22 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 23 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 24 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
-| 25 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 26 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 27 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 29 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
-| 30 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 7 | [LGBT](http://twitter.com/search?q=LGBT) | N/A |
+| 8 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
+| 9 | [#ÚltimaHora](http://twitter.com/search?q=%23%c3%9altimaHora) | N/A |
+| 10 | [#Marcha26Febrero](http://twitter.com/search?q=%23Marcha26Febrero) | N/A |
+| 11 | [#LordMontajes](http://twitter.com/search?q=%23LordMontajes) | N/A |
+| 12 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 13 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 14 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 15 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 16 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 17 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
+| 18 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 20 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 22 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
+| 23 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 24 | [El PAN](http://twitter.com/search?q=El+PAN) | N/A |
+| 25 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 27 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 28 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 29 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
+| 30 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
 | 31 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 32 | [El PAN](http://twitter.com/search?q=El+PAN) | N/A |
-| 33 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 34 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 35 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 36 | [Reyes de Europa](http://twitter.com/search?q=Reyes+de+Europa) | N/A |
-| 37 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 38 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
-| 39 | [Seguridad Pública](http://twitter.com/search?q=Seguridad+P%c3%bablica) | N/A |
-| 40 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 41 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 42 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 43 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 44 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 45 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 46 | [CHICHARITO](http://twitter.com/search?q=CHICHARITO) | N/A |
-| 47 | [Felipillo](http://twitter.com/search?q=Felipillo) | N/A |
-| 48 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 49 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 50 | [Lukita](http://twitter.com/search?q=Lukita) | N/A |
+| 32 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 33 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 34 | [Felipillo](http://twitter.com/search?q=Felipillo) | N/A |
+| 35 | [Chucky](http://twitter.com/search?q=Chucky) | N/A |
+| 36 | [Hirving Lozano](http://twitter.com/search?q=Hirving+Lozano) | N/A |
+| 37 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 38 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 39 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 40 | [Seguridad Pública](http://twitter.com/search?q=Seguridad+P%c3%bablica) | N/A |
+| 41 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 42 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 43 | [América Rangel](http://twitter.com/search?q=Am%c3%a9rica+Rangel) | N/A |
+| 44 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 45 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 46 | [Bartlett](http://twitter.com/search?q=Bartlett) | N/A |
+| 47 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
+| 48 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 49 | [Rey de Europa](http://twitter.com/search?q=Rey+de+Europa) | N/A |
+| 50 | [Secretario de Seguridad](http://twitter.com/search?q=Secretario+de+Seguridad) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-21 23:16:29 UTC`
+📆 Last Updated: `2023-02-22 00:28:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 2 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 3 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 5 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 6 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 7 | [#PerbanyakAmalSholih](http://twitter.com/search?q=%23PerbanyakAmalSholih) | N/A |
+| 2 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 3 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 4 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 5 | [semua di dekade 08](http://twitter.com/search?q=semua+di+dekade+08) | N/A |
+| 6 | [setuju mending prabowo](http://twitter.com/search?q=setuju+mending+prabowo) | N/A |
+| 7 | [prabowo makin dipilih](http://twitter.com/search?q=prabowo+makin+dipilih) | N/A |
 | 8 | [Wajib Berislam Kaffah](http://twitter.com/search?q=Wajib+Berislam+Kaffah) | N/A |
-| 9 | [semua di dekade 08](http://twitter.com/search?q=semua+di+dekade+08) | N/A |
-| 10 | [setuju mending prabowo](http://twitter.com/search?q=setuju+mending+prabowo) | N/A |
-| 11 | [prabowo makin dipilih](http://twitter.com/search?q=prabowo+makin+dipilih) | N/A |
-| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 13 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 14 | [Demen Kajian Benci Kemaksiatan](http://twitter.com/search?q=Demen+Kajian+Benci+Kemaksiatan) | N/A |
-| 15 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 16 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
-| 17 | [Ipul](http://twitter.com/search?q=Ipul) | N/A |
-| 18 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 19 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 21 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 22 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 23 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 25 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 26 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
-| 27 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 28 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 29 | [Dari 2-0](http://twitter.com/search?q=Dari+2-0) | N/A |
-| 30 | [Serigala](http://twitter.com/search?q=Serigala) | N/A |
-| 31 | [Bryan Domani](http://twitter.com/search?q=Bryan+Domani) | N/A |
-| 32 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 34 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 35 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
-| 36 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 37 | [Match](http://twitter.com/search?q=Match) | N/A |
-| 38 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 39 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
-| 40 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
-| 41 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
-| 42 | [exo comeback](http://twitter.com/search?q=exo+comeback) | N/A |
-| 43 | [Davin](http://twitter.com/search?q=Davin) | N/A |
-| 44 | [Kiper](http://twitter.com/search?q=Kiper) | N/A |
-| 45 | [Wak Haji](http://twitter.com/search?q=Wak+Haji) | N/A |
-| 46 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
-| 47 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 9 | [Demen Kajian Benci Kemaksiatan](http://twitter.com/search?q=Demen+Kajian+Benci+Kemaksiatan) | N/A |
+| 10 | [#PerbanyakAmalSholih](http://twitter.com/search?q=%23PerbanyakAmalSholih) | N/A |
+| 11 | [#BacalegPKB](http://twitter.com/search?q=%23BacalegPKB) | N/A |
+| 12 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 13 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 14 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 15 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 16 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 17 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 18 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 20 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 21 | [Ipul](http://twitter.com/search?q=Ipul) | N/A |
+| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 23 | [Bryan Domani](http://twitter.com/search?q=Bryan+Domani) | N/A |
+| 24 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 25 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 26 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 27 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 28 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
+| 29 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 30 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
+| 31 | [Dari 2-0](http://twitter.com/search?q=Dari+2-0) | N/A |
+| 32 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 33 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 34 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 35 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 36 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
+| 37 | [Uji Kelayakan](http://twitter.com/search?q=Uji+Kelayakan) | N/A |
+| 38 | [Mo Salah](http://twitter.com/search?q=Mo+Salah) | Mo Salah is the nickname of Mohamed Salah, an Egyptian professional footballer who plays for Premier League club Liverpool and the Egypt national team. In English, Mo Salah means "Mohamed Salah". |
+| 39 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 40 | [Davin](http://twitter.com/search?q=Davin) | N/A |
+| 41 | [exo comeback](http://twitter.com/search?q=exo+comeback) | N/A |
+| 42 | [Serigala](http://twitter.com/search?q=Serigala) | N/A |
+| 43 | [Kepatutan](http://twitter.com/search?q=Kepatutan) | N/A |
+| 44 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
+| 45 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 46 | [Pencuri](http://twitter.com/search?q=Pencuri) | N/A |
+| 47 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
 
 
 

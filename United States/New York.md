@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-21 23:16:52 UTC`
+📆 Last Updated: `2023-02-22 00:28:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
-| 2 | [Malcolm X](http://twitter.com/search?q=Malcolm+X) | N/A |
-| 3 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 7 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 8 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 9 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 1 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 2 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 3 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
+| 4 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 7 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 8 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 9 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
 | 10 | [Nate McMillan](http://twitter.com/search?q=Nate+McMillan) | N/A |
-| 11 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 12 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 13 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 11 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 12 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
+| 13 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 14 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 15 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 17 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 18 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 19 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 20 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 21 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
-| 22 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 25 | [Kenny Atkinson](http://twitter.com/search?q=Kenny+Atkinson) | N/A |
-| 26 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 27 | [Joe Prunty](http://twitter.com/search?q=Joe+Prunty) | N/A |
-| 28 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 29 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 30 | [Atlanta Hawks](http://twitter.com/search?q=Atlanta+Hawks) | N/A |
-| 31 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 32 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 33 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 34 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 35 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
-| 36 | [#TrueToAtlanta](http://twitter.com/search?q=%23TrueToAtlanta) | N/A |
-| 37 | [DIE FOR YOU REMIX](http://twitter.com/search?q=DIE+FOR+YOU+REMIX) | N/A |
-| 38 | [RJ Hampton](http://twitter.com/search?q=RJ+Hampton) | N/A |
-| 39 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
-| 40 | [Tre Morgan](http://twitter.com/search?q=Tre+Morgan) | N/A |
-| 41 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 15 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 17 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 18 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 20 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
+| 21 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 23 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
+| 24 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 25 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 26 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 27 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 28 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 29 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
+| 30 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 31 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 32 | [Joe Prunty](http://twitter.com/search?q=Joe+Prunty) | N/A |
+| 33 | [Kenny Atkinson](http://twitter.com/search?q=Kenny+Atkinson) | N/A |
+| 34 | [The Hawks](http://twitter.com/search?q=The+Hawks) | N/A |
+| 35 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
+| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 37 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
+| 38 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 39 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 40 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 41 | [Svech](http://twitter.com/search?q=Svech) | N/A |
 | 42 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 43 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 44 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 45 | [Charles Lee](http://twitter.com/search?q=Charles+Lee) | N/A |
-| 46 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 47 | [Da Brat](http://twitter.com/search?q=Da+Brat) | N/A |
-| 48 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 49 | [Blake Burke](http://twitter.com/search?q=Blake+Burke) | N/A |
-| 50 | [Tuscaloosa](http://twitter.com/search?q=Tuscaloosa) | N/A |
+| 43 | [Tuscaloosa](http://twitter.com/search?q=Tuscaloosa) | N/A |
+| 44 | [Distress](http://twitter.com/search?q=Distress) | N/A |
+| 45 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 46 | [Pooh Shiesty](http://twitter.com/search?q=Pooh+Shiesty) | N/A |
+| 47 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 48 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 49 | [Barton](http://twitter.com/search?q=Barton) | N/A |
+| 50 | [Tre Morgan](http://twitter.com/search?q=Tre+Morgan) | N/A |
 
 
 

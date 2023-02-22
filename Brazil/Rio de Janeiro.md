@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-21 23:16:18 UTC`
+📆 Last Updated: `2023-02-22 00:28:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 2 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 3 | [carrasco](http://twitter.com/search?q=carrasco) | N/A |
-| 4 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
-| 5 | [#FervoDaLud](http://twitter.com/search?q=%23FervoDaLud) | N/A |
-| 6 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 7 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 8 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
-| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 10 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 11 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 12 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 13 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 14 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
-| 15 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 16 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 18 | [#ApuracaoSP](http://twitter.com/search?q=%23ApuracaoSP) | N/A |
-| 19 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
-| 20 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 21 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
-| 22 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 23 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 24 | [São Bento](http://twitter.com/search?q=S%c3%a3o+Bento) | São Bento is a Portuguese phrase meaning "Saint Benedict". It is the name of several places in Portugal, including a monastery in Lisbon and a railway station in Porto. The phrase is also used to refer to the Benedictine Order of monks, which was founded by Saint Benedict of Nursia in the 6th century. |
-| 25 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 26 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
-| 27 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
-| 28 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
-| 29 | [Kuri](http://twitter.com/search?q=Kuri) | N/A |
-| 30 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 31 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
-| 32 | [Mocidade Alegre](http://twitter.com/search?q=Mocidade+Alegre) | N/A |
-| 33 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 34 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 35 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 36 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 37 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 38 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 39 | [MAÑANA TRÍADA](http://twitter.com/search?q=MA%c3%91ANA+TR%c3%8dADA) | N/A |
-| 40 | [Pacto](http://twitter.com/search?q=Pacto) | N/A |
-| 41 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 42 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 43 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 44 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 45 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 46 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 47 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 48 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
-| 49 | [Inglaterra](http://twitter.com/search?q=Inglaterra) | N/A |
-| 50 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 1 | [Cacique Cobra Coral](http://twitter.com/search?q=Cacique+Cobra+Coral) | N/A |
+| 2 | [#chuvarj](http://twitter.com/search?q=%23chuvarj) | N/A |
+| 3 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 4 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
+| 5 | [Carrasco](http://twitter.com/search?q=Carrasco) | Carrasco is a Spanish surname derived from the Latin word carrascu, meaning "thorny bush". It is also a place name in Spain and Uruguay. In English, the name Carrasco can be translated to mean "thorny bush". |
+| 6 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 7 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 8 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 9 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 10 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
+| 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 12 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 13 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 14 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 15 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
+| 16 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 17 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 18 | [Caio Paulista](http://twitter.com/search?q=Caio+Paulista) | Caio Paulista is a Brazilian greeting, similar to "hello" or "good day". It is derived from the Latin phrase "caveat emptor", which means "let the buyer beware". In English, it can be translated as "hello from São Paulo". |
+| 19 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 20 | [Chapecoense](http://twitter.com/search?q=Chapecoense) | N/A |
+| 21 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 22 | [#horadovt](http://twitter.com/search?q=%23horadovt) | N/A |
+| 23 | [Cynthia Lee Fontaine](http://twitter.com/search?q=Cynthia+Lee+Fontaine) | N/A |
+| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 25 | [Marcílio Dias](http://twitter.com/search?q=Marc%c3%adlio+Dias) | N/A |
+| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 27 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 28 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 29 | [MAÑANA TRÍADA](http://twitter.com/search?q=MA%c3%91ANA+TR%c3%8dADA) | N/A |
+| 30 | [São Bento](http://twitter.com/search?q=S%c3%a3o+Bento) | São Bento is a Portuguese phrase meaning "Saint Benedict". It is the name of several places in Portugal, including a monastery in Lisbon and a railway station in Porto. The phrase is also used to refer to the Benedictine Order of monks, which was founded by Saint Benedict of Nursia in the 6th century. |
+| 31 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 32 | [Kuri](http://twitter.com/search?q=Kuri) | N/A |
+| 33 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 34 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
+| 35 | [Shrek](http://twitter.com/search?q=Shrek) | N/A |
+| 36 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 37 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
+| 38 | [Vai-Vai](http://twitter.com/search?q=Vai-Vai) | N/A |
+| 39 | [#ApuracaoSP](http://twitter.com/search?q=%23ApuracaoSP) | N/A |
+| 40 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 41 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 42 | [#askop](http://twitter.com/search?q=%23askop) | N/A |
+| 43 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
+| 44 | [Jorge Wagner](http://twitter.com/search?q=Jorge+Wagner) | N/A |
+| 45 | [Cucu](http://twitter.com/search?q=Cucu) | N/A |
+| 46 | [Arnold](http://twitter.com/search?q=Arnold) | Arnold is a masculine given name of Germanic origin, derived from the elements arn ("eagle") and wald ("rule"). It is most commonly associated with Arnold Schwarzenegger, an Austrian-American actor, filmmaker, businessman, investor, author, philanthropist, activist, politician and former professional bodybuilder. |
+| 47 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 48 | [gwyneth paltrow](http://twitter.com/search?q=gwyneth+paltrow) | N/A |
+| 49 | [Mocidade Alegre](http://twitter.com/search?q=Mocidade+Alegre) | N/A |
+| 50 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 
 
 
