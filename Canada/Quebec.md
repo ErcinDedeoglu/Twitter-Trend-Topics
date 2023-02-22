@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-22 02:40:50 UTC`
+📆 Last Updated: `2023-02-22 03:19:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
-| 2 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 3 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 4 | [Ryan O’Reilly](http://twitter.com/search?q=Ryan+O%e2%80%99Reilly) | N/A |
-| 5 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 6 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
-| 7 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 8 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 9 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 10 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
-| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 12 | [Suzuki](http://twitter.com/search?q=Suzuki) | N/A |
-| 13 | [#TheRookie](http://twitter.com/search?q=%23TheRookie) | N/A |
-| 14 | [#PinkShirtDay](http://twitter.com/search?q=%23PinkShirtDay) | N/A |
-| 15 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 16 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 18 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 19 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 20 | [#perfectmatchnetflix](http://twitter.com/search?q=%23perfectmatchnetflix) | N/A |
-| 21 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 22 | [Go Leafs Go](http://twitter.com/search?q=Go+Leafs+Go) | N/A |
-| 23 | [#BCStorm](http://twitter.com/search?q=%23BCStorm) | N/A |
-| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 25 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 26 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 27 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
-| 28 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 29 | [Pancake Tuesday](http://twitter.com/search?q=Pancake+Tuesday) | N/A |
-| 30 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 31 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 32 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 33 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 34 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 35 | [Surrey](http://twitter.com/search?q=Surrey) | N/A |
-| 36 | [Parayko](http://twitter.com/search?q=Parayko) | N/A |
-| 37 | [Air Canada](http://twitter.com/search?q=Air+Canada) | N/A |
-| 38 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 39 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 40 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 41 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 42 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 43 | [#AtomicHeart](http://twitter.com/search?q=%23AtomicHeart) | N/A |
+| 1 | [#LeafsForever](http://twitter.com/search?q=%23LeafsForever) | #LeafsForever is a hashtag used by Toronto Maple Leafs fans to show their support for the team. It is a rallying cry for the team and its fans, expressing their loyalty and dedication to the team. |
+| 2 | [Ryan O’Reilly](http://twitter.com/search?q=Ryan+O%e2%80%99Reilly) | N/A |
+| 3 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
+| 4 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 5 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 6 | [Myers](http://twitter.com/search?q=Myers) | N/A |
+| 7 | [Devils](http://twitter.com/search?q=Devils) | N/A |
+| 8 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 9 | [Montembeault](http://twitter.com/search?q=Montembeault) | N/A |
+| 10 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 11 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
+| 12 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 13 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 14 | [Monty](http://twitter.com/search?q=Monty) | N/A |
+| 15 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 16 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 17 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 18 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 19 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
+| 20 | [Suzuki](http://twitter.com/search?q=Suzuki) | N/A |
+| 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [#TheRookie](http://twitter.com/search?q=%23TheRookie) | N/A |
+| 23 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 24 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 25 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 26 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 27 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 29 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 30 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 31 | [Pancake Tuesday](http://twitter.com/search?q=Pancake+Tuesday) | N/A |
+| 32 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 34 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
+| 35 | [Parayko](http://twitter.com/search?q=Parayko) | N/A |
+| 36 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
+| 37 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 38 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 39 | [Air Canada](http://twitter.com/search?q=Air+Canada) | N/A |
+| 40 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 41 | [Surrey](http://twitter.com/search?q=Surrey) | N/A |
+| 42 | [#ShroveTuesday](http://twitter.com/search?q=%23ShroveTuesday) | N/A |
+| 43 | [#PinkShirtDay](http://twitter.com/search?q=%23PinkShirtDay) | N/A |
+| 44 | [#BCStorm](http://twitter.com/search?q=%23BCStorm) | N/A |
+| 45 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 46 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 47 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 48 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
+| 49 | [#AtomicHeart](http://twitter.com/search?q=%23AtomicHeart) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-22 02:41:06 UTC`
+📆 Last Updated: `2023-02-22 03:20:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,8 +24,8 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 7 | [Remco](http://twitter.com/search?q=Remco) | N/A |
 | 8 | [#warmtepomp](http://twitter.com/search?q=%23warmtepomp) | N/A |
 | 9 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 10 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 11 | [Shula Rijxman](http://twitter.com/search?q=Shula+Rijxman) | N/A |
+| 10 | [shula rijxman](http://twitter.com/search?q=shula+rijxman) | N/A |
+| 11 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
 | 12 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
 | 13 | [#firstdates](http://twitter.com/search?q=%23firstdates) | N/A |
 | 14 | [Diepenheim](http://twitter.com/search?q=Diepenheim) | N/A |
@@ -37,11 +37,11 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 20 | [jeroen pauw](http://twitter.com/search?q=jeroen+pauw) | N/A |
 | 21 | [Rina](http://twitter.com/search?q=Rina) | N/A |
 | 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 23 | [gl-kamerlid kröger](http://twitter.com/search?q=gl-kamerlid+kr%c3%b6ger) | N/A |
+| 23 | [GL-Kamerlid Kröger](http://twitter.com/search?q=GL-Kamerlid+Kr%c3%b6ger) | N/A |
 | 24 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 25 | [Westen](http://twitter.com/search?q=Westen) | N/A |
 | 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 27 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 27 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
 | 28 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
 | 29 | [Hans de Booij](http://twitter.com/search?q=Hans+de+Booij) | N/A |
 | 30 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
@@ -49,22 +49,22 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 32 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
 | 33 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 35 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 36 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 37 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 38 | [Luisteren](http://twitter.com/search?q=Luisteren) | N/A |
-| 39 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 40 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 35 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 36 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 37 | [Luisteren](http://twitter.com/search?q=Luisteren) | N/A |
+| 38 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 39 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
+| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 41 | [dag 21](http://twitter.com/search?q=dag+21) | N/A |
 | 42 | [Myrna](http://twitter.com/search?q=Myrna) | N/A |
-| 43 | [dag 21](http://twitter.com/search?q=dag+21) | N/A |
-| 44 | [Woedende Haagse](http://twitter.com/search?q=Woedende+Haagse) | N/A |
-| 45 | [Plasterk](http://twitter.com/search?q=Plasterk) | N/A |
-| 46 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 47 | [Farid](http://twitter.com/search?q=Farid) | N/A |
-| 48 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 49 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 50 | [aangifte](http://twitter.com/search?q=aangifte) | N/A |
+| 43 | [Woedende Haagse](http://twitter.com/search?q=Woedende+Haagse) | N/A |
+| 44 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 45 | [Farid](http://twitter.com/search?q=Farid) | N/A |
+| 46 | [plasterk](http://twitter.com/search?q=plasterk) | N/A |
+| 47 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 48 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 49 | [aangifte](http://twitter.com/search?q=aangifte) | N/A |
+| 50 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 
 
 

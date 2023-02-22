@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kyoto
 
-📆 Last Updated: `2023-02-22 02:41:37 UTC`
+📆 Last Updated: `2023-02-22 03:20:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Japan](</Japan>)
 | 2 | [#ねこの日](http://twitter.com/search?q=%23%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
 | 3 | [#にゃんにゃんにゃんの日](http://twitter.com/search?q=%23%e3%81%ab%e3%82%83%e3%82%93%e3%81%ab%e3%82%83%e3%82%93%e3%81%ab%e3%82%83%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
 | 4 | [ヨントン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%88%e3%83%b3) | ヨントン (Yonton) is a Japanese word that means "four-leaf clover". It is believed to bring good luck and fortune. |
-| 5 | [オンライン通話](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e9%80%9a%e8%a9%b1) | N/A |
-| 6 | [#サーティワンの春フレーバー](http://twitter.com/search?q=%23%e3%82%b5%e3%83%bc%e3%83%86%e3%82%a3%e3%83%af%e3%83%b3%e3%81%ae%e6%98%a5%e3%83%95%e3%83%ac%e3%83%bc%e3%83%90%e3%83%bc) | N/A |
+| 5 | [#ミリシタ](http://twitter.com/search?q=%23%e3%83%9f%e3%83%aa%e3%82%b7%e3%82%bf) | N/A |
+| 6 | [#周防桃子](http://twitter.com/search?q=%23%e5%91%a8%e9%98%b2%e6%a1%83%e5%ad%90) | N/A |
 | 7 | [ネコの日](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%81%ae%e6%97%a5) | N/A |
-| 8 | [マキマさん](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%95%e3%82%93) | マキマさん is a character from the Japanese manga series, Kochikame. The character's name is Makima, and she is a police officer who works in the Ryōgoku Police Station. In English, her name can be translated to "Officer Makima". |
-| 9 | [沙莉ちゃん](http://twitter.com/search?q=%e6%b2%99%e8%8e%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 10 | [#ずっとニャかよし](http://twitter.com/search?q=%23%e3%81%9a%e3%81%a3%e3%81%a8%e3%83%8b%e3%83%a3%e3%81%8b%e3%82%88%e3%81%97) | N/A |
-| 11 | [忍者の日](http://twitter.com/search?q=%e5%bf%8d%e8%80%85%e3%81%ae%e6%97%a5) | N/A |
-| 12 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 13 | [アルカプ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%ab%e3%83%97) | N/A |
-| 14 | [竹島の日](http://twitter.com/search?q=%e7%ab%b9%e5%b3%b6%e3%81%ae%e6%97%a5) | N/A |
-| 15 | [にゃんこの日](http://twitter.com/search?q=%e3%81%ab%e3%82%83%e3%82%93%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
-| 16 | [エンジェルダスト](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%82%a7%e3%83%ab%e3%83%80%e3%82%b9%e3%83%88) | N/A |
-| 17 | [マツケンサンバ](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3%e3%82%b5%e3%83%b3%e3%83%90) | マツケンサンバ is a popular Japanese song and dance created by Matsuken Samba-Roc, a Japanese band. The song is known for its catchy melody and upbeat rhythm. In English, the title translates to "Matsuken Samba". |
-| 18 | [参院本会議](http://twitter.com/search?q=%e5%8f%82%e9%99%a2%e6%9c%ac%e4%bc%9a%e8%ad%b0) | N/A |
+| 8 | [オンライン通話](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e9%80%9a%e8%a9%b1) | N/A |
+| 9 | [ニャンニャンッ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%83) | N/A |
+| 10 | [アルカプ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%ab%e3%83%97) | N/A |
+| 11 | [沙莉ちゃん](http://twitter.com/search?q=%e6%b2%99%e8%8e%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 12 | [ニャンコニャンコリ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%83%aa) | N/A |
+| 13 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 14 | [マキマさん](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%95%e3%82%93) | マキマさん is a character from the Japanese manga series, Kochikame. The character's name is Makima, and she is a police officer who works in the Ryōgoku Police Station. In English, her name can be translated to "Officer Makima". |
+| 15 | [忍者の日](http://twitter.com/search?q=%e5%bf%8d%e8%80%85%e3%81%ae%e6%97%a5) | N/A |
+| 16 | [PSVR2](http://twitter.com/search?q=PSVR2) | PSVR2 is an abbreviation for PlayStation Virtual Reality 2, which is the second generation of Sony's virtual reality headset for the PlayStation gaming console. It is designed to provide an immersive gaming experience with improved visuals, audio, and tracking technology. |
+| 17 | [竹島の日](http://twitter.com/search?q=%e7%ab%b9%e5%b3%b6%e3%81%ae%e6%97%a5) | N/A |
+| 18 | [ジミンペン](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%83%9a%e3%83%b3) | N/A |
 | 19 | [ダイパリメイク](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%91%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
-| 20 | [PSVR2](http://twitter.com/search?q=PSVR2) | PSVR2 is an abbreviation for PlayStation Virtual Reality 2, which is the second generation of Sony's virtual reality headset for the PlayStation gaming console. It is designed to provide an immersive gaming experience with improved visuals, audio, and tracking technology. |
-| 21 | [ニャンニャンニャンの日](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%81%ae%e6%97%a5) | N/A |
-| 22 | [ジミンペン](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%83%9a%e3%83%b3) | N/A |
-| 23 | [コットンキャンディパステル](http://twitter.com/search?q=%e3%82%b3%e3%83%83%e3%83%88%e3%83%b3%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%87%e3%82%a3%e3%83%91%e3%82%b9%e3%83%86%e3%83%ab) | N/A |
-| 24 | [朝ドラ主演](http://twitter.com/search?q=%e6%9c%9d%e3%83%89%e3%83%a9%e4%b8%bb%e6%bc%94) | N/A |
-| 25 | [JPFC](http://twitter.com/search?q=JPFC) | N/A |
-| 26 | [理由の懲罰](http://twitter.com/search?q=%e7%90%86%e7%94%b1%e3%81%ae%e6%87%b2%e7%bd%b0) | N/A |
-| 27 | [正式決定](http://twitter.com/search?q=%e6%ad%a3%e5%bc%8f%e6%b1%ba%e5%ae%9a) | 正式決定 is a Japanese phrase that means "formally decided" or "finalized". It is used to indicate that a decision has been made and is now set in stone. |
-| 28 | [BWリメイク](http://twitter.com/search?q=BW%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
-| 29 | [賛成多数](http://twitter.com/search?q=%e8%b3%9b%e6%88%90%e5%a4%9a%e6%95%b0) | N/A |
-| 30 | [騒音トラブル](http://twitter.com/search?q=%e9%a8%92%e9%9f%b3%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab) | N/A |
-| 31 | [マドリー](http://twitter.com/search?q=%e3%83%9e%e3%83%89%e3%83%aa%e3%83%bc) | マドリー is the name of a Spanish football club based in Madrid. The full name of the club is Real Madrid Club de Fútbol. In English, it translates to Royal Madrid Football Club. |
-| 32 | [AinoArika](http://twitter.com/search?q=AinoArika) | N/A |
-| 33 | [ネコチャン](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
+| 20 | [JPFC](http://twitter.com/search?q=JPFC) | N/A |
+| 21 | [にゃんこの日](http://twitter.com/search?q=%e3%81%ab%e3%82%83%e3%82%93%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
+| 22 | [エンジェルダスト](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%82%b8%e3%82%a7%e3%83%ab%e3%83%80%e3%82%b9%e3%83%88) | N/A |
+| 23 | [マツケンサンバ](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3%e3%82%b5%e3%83%b3%e3%83%90) | マツケンサンバ is a popular Japanese song and dance created by Matsuken Samba-Roc, a Japanese band. The song is known for its catchy melody and upbeat rhythm. In English, the title translates to "Matsuken Samba". |
+| 24 | [BWリメイク](http://twitter.com/search?q=BW%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
+| 25 | [朝ドラ主演](http://twitter.com/search?q=%e6%9c%9d%e3%83%89%e3%83%a9%e4%b8%bb%e6%bc%94) | N/A |
+| 26 | [ニャンニャンニャンの日](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%81%ae%e6%97%a5) | N/A |
+| 27 | [コットンキャンディパステル](http://twitter.com/search?q=%e3%82%b3%e3%83%83%e3%83%88%e3%83%b3%e3%82%ad%e3%83%a3%e3%83%b3%e3%83%87%e3%82%a3%e3%83%91%e3%82%b9%e3%83%86%e3%83%ab) | N/A |
+| 28 | [参院本会議](http://twitter.com/search?q=%e5%8f%82%e9%99%a2%e6%9c%ac%e4%bc%9a%e8%ad%b0) | N/A |
+| 29 | [ネコチャン](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
+| 30 | [理由の懲罰](http://twitter.com/search?q=%e7%90%86%e7%94%b1%e3%81%ae%e6%87%b2%e7%bd%b0) | N/A |
+| 31 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
+| 32 | [正式決定](http://twitter.com/search?q=%e6%ad%a3%e5%bc%8f%e6%b1%ba%e5%ae%9a) | 正式決定 is a Japanese phrase that means "formally decided" or "finalized". It is used to indicate that a decision has been made and is now set in stone. |
+| 33 | [賛成多数](http://twitter.com/search?q=%e8%b3%9b%e6%88%90%e5%a4%9a%e6%95%b0) | N/A |
 | 34 | [白桃ブランマンジェ](http://twitter.com/search?q=%e7%99%bd%e6%a1%83%e3%83%96%e3%83%a9%e3%83%b3%e3%83%9e%e3%83%b3%e3%82%b8%e3%82%a7) | N/A |
-| 35 | [ニャンコの日](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%81%ae%e6%97%a5) | N/A |
-| 36 | [ガーシー](http://twitter.com/search?q=%e3%82%ac%e3%83%bc%e3%82%b7%e3%83%bc) | N/A |
-| 37 | [朝ドラヒロイン](http://twitter.com/search?q=%e6%9c%9d%e3%83%89%e3%83%a9%e3%83%92%e3%83%ad%e3%82%a4%e3%83%b3) | N/A |
-| 38 | [猫の写真](http://twitter.com/search?q=%e7%8c%ab%e3%81%ae%e5%86%99%e7%9c%9f) | N/A |
-| 39 | [ビデオ通話ファンサイン会](http://twitter.com/search?q=%e3%83%93%e3%83%87%e3%82%aa%e9%80%9a%e8%a9%b1%e3%83%95%e3%82%a1%e3%83%b3%e3%82%b5%e3%82%a4%e3%83%b3%e4%bc%9a) | N/A |
-| 40 | [保護猫支援活動](http://twitter.com/search?q=%e4%bf%9d%e8%ad%b7%e7%8c%ab%e6%94%af%e6%8f%b4%e6%b4%bb%e5%8b%95) | N/A |
-| 41 | [豊田真由子](http://twitter.com/search?q=%e8%b1%8a%e7%94%b0%e7%9c%9f%e7%94%b1%e5%ad%90) | N/A |
-| 42 | [ROT関ジュ](http://twitter.com/search?q=ROT%e9%96%a2%e3%82%b8%e3%83%a5) | N/A |
-| 43 | [タレント議員](http://twitter.com/search?q=%e3%82%bf%e3%83%ac%e3%83%b3%e3%83%88%e8%ad%b0%e5%93%a1) | N/A |
-| 44 | [なにわバードマン](http://twitter.com/search?q=%e3%81%aa%e3%81%ab%e3%82%8f%e3%83%90%e3%83%bc%e3%83%89%e3%83%9e%e3%83%b3) | N/A |
-| 45 | [よしメイト](http://twitter.com/search?q=%e3%82%88%e3%81%97%e3%83%a1%e3%82%a4%e3%83%88) | N/A |
-| 46 | [ねこちゃん](http://twitter.com/search?q=%e3%81%ad%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 47 | [ビジネス左翼](http://twitter.com/search?q=%e3%83%93%e3%82%b8%e3%83%8d%e3%82%b9%e5%b7%a6%e7%bf%bc) | N/A |
-| 48 | [統率者マスターズ](http://twitter.com/search?q=%e7%b5%b1%e7%8e%87%e8%80%85%e3%83%9e%e3%82%b9%e3%82%bf%e3%83%bc%e3%82%ba) | N/A |
-| 49 | [ブルアカメンテ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
-| 50 | [アンフィールド](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%95%e3%82%a3%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 35 | [猫の写真](http://twitter.com/search?q=%e7%8c%ab%e3%81%ae%e5%86%99%e7%9c%9f) | N/A |
+| 36 | [タペストリーのダンプラ](http://twitter.com/search?q=%e3%82%bf%e3%83%9a%e3%82%b9%e3%83%88%e3%83%aa%e3%83%bc%e3%81%ae%e3%83%80%e3%83%b3%e3%83%97%e3%83%a9) | N/A |
+| 37 | [結婚記念日](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
+| 38 | [朝ドラヒロイン](http://twitter.com/search?q=%e6%9c%9d%e3%83%89%e3%83%a9%e3%83%92%e3%83%ad%e3%82%a4%e3%83%b3) | N/A |
+| 39 | [猫アレルギー](http://twitter.com/search?q=%e7%8c%ab%e3%82%a2%e3%83%ac%e3%83%ab%e3%82%ae%e3%83%bc) | N/A |
+| 40 | [騒音トラブル](http://twitter.com/search?q=%e9%a8%92%e9%9f%b3%e3%83%88%e3%83%a9%e3%83%96%e3%83%ab) | N/A |
+| 41 | [ニャンコの日](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%81%ae%e6%97%a5) | N/A |
+| 42 | [AinoArika](http://twitter.com/search?q=AinoArika) | N/A |
+| 43 | [ねこちゃん](http://twitter.com/search?q=%e3%81%ad%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [さいりちゃん](http://twitter.com/search?q=%e3%81%95%e3%81%84%e3%82%8a%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 45 | [サイン入りポスター](http://twitter.com/search?q=%e3%82%b5%e3%82%a4%e3%83%b3%e5%85%a5%e3%82%8a%e3%83%9d%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 46 | [かずりゅちぇ](http://twitter.com/search?q=%e3%81%8b%e3%81%9a%e3%82%8a%e3%82%85%e3%81%a1%e3%81%87) | N/A |
+| 47 | [ビデオ通話ファンサイン会](http://twitter.com/search?q=%e3%83%93%e3%83%87%e3%82%aa%e9%80%9a%e8%a9%b1%e3%83%95%e3%82%a1%e3%83%b3%e3%82%b5%e3%82%a4%e3%83%b3%e4%bc%9a) | N/A |
+| 48 | [ブルアカメンテ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%82%a2%e3%82%ab%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
+| 49 | [アスクビクターモア](http://twitter.com/search?q=%e3%82%a2%e3%82%b9%e3%82%af%e3%83%93%e3%82%af%e3%82%bf%e3%83%bc%e3%83%a2%e3%82%a2) | N/A |
+| 50 | [タレント議員](http://twitter.com/search?q=%e3%82%bf%e3%83%ac%e3%83%b3%e3%83%88%e8%ad%b0%e5%93%a1) | N/A |
 
 
 

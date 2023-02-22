@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-22 02:41:38 UTC`
+📆 Last Updated: `2023-02-22 03:20:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Denmark
 | 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 4 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 6 | [Claus Hjort](http://twitter.com/search?q=Claus+Hjort) | N/A |
+| 6 | [claus hjort](http://twitter.com/search?q=claus+hjort) | N/A |
 | 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 8 | [#vfffcm](http://twitter.com/search?q=%23vfffcm) | N/A |
 | 9 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
@@ -32,39 +32,39 @@ This is top 50 for Denmark
 | 15 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 16 | [nye borgerlige](http://twitter.com/search?q=nye+borgerlige) | N/A |
 | 17 | [isaksen](http://twitter.com/search?q=isaksen) | N/A |
-| 18 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 19 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
+| 18 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
+| 19 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 21 | [Onside](http://twitter.com/search?q=Onside) | N/A |
 | 22 | [villie](http://twitter.com/search?q=villie) | N/A |
 | 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [horsens](http://twitter.com/search?q=horsens) | N/A |
-| 25 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
+| 24 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
+| 25 | [horsens](http://twitter.com/search?q=horsens) | N/A |
 | 26 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
 | 27 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
 | 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 29 | [viasat](http://twitter.com/search?q=viasat) | N/A |
 | 30 | [Sending](http://twitter.com/search?q=Sending) | N/A |
 | 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 32 | [Parken](http://twitter.com/search?q=Parken) | N/A |
-| 33 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 32 | [parken](http://twitter.com/search?q=parken) | N/A |
+| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 34 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
 | 35 | [genialt](http://twitter.com/search?q=genialt) | N/A |
 | 36 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
 | 37 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 | 38 | [klimarådet](http://twitter.com/search?q=klimar%c3%a5det) | N/A |
 | 39 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
 | 40 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 42 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
-| 43 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 44 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 45 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 46 | [Emil](http://twitter.com/search?q=Emil) | N/A |
-| 47 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 48 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 49 | [England](http://twitter.com/search?q=England) | N/A |
-| 50 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 41 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
+| 42 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 43 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 44 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 45 | [Emil](http://twitter.com/search?q=Emil) | N/A |
+| 46 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 47 | [England](http://twitter.com/search?q=England) | N/A |
+| 48 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 49 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 50 | [Staten](http://twitter.com/search?q=Staten) | N/A |
 
 
 

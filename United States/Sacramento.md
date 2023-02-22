@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-02-22 02:41:35 UTC`
+📆 Last Updated: `2023-02-22 03:20:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [World War III](http://twitter.com/search?q=World+War+III) | N/A |
-| 2 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 3 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 5 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
+| 2 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 3 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
+| 4 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 6 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 7 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 8 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 10 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 11 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
-| 12 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
-| 13 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 14 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 15 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 16 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 17 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 18 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 19 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 20 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 21 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 7 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 9 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 10 | [Jets](http://twitter.com/search?q=Jets) | Jets is a term used to refer to jet aircraft, which are aircraft that use jet engines to generate thrust. Jet aircraft are typically used for commercial and military purposes, such as passenger and cargo transport, as well as for combat missions. |
+| 11 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
+| 12 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 13 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 14 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 15 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 16 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 17 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 18 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 19 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 20 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 21 | [Miller](http://twitter.com/search?q=Miller) | N/A |
 | 22 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 23 | [Nick Honor](http://twitter.com/search?q=Nick+Honor) | N/A |
-| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 25 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 26 | [Suter](http://twitter.com/search?q=Suter) | N/A |
-| 27 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 28 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 29 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 30 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 31 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 32 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 33 | [VIDEO CALL](http://twitter.com/search?q=VIDEO+CALL) | N/A |
-| 34 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 35 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
-| 36 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
-| 37 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 38 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 39 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 40 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 41 | [McClellan](http://twitter.com/search?q=McClellan) | N/A |
-| 42 | [UMvC3](http://twitter.com/search?q=UMvC3) | N/A |
-| 43 | [Mr. Tickles](http://twitter.com/search?q=Mr.+Tickles) | N/A |
-| 44 | [Svech](http://twitter.com/search?q=Svech) | N/A |
-| 45 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 46 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
-| 47 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 48 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 49 | [Distress](http://twitter.com/search?q=Distress) | N/A |
+| 23 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 24 | [Kohler](http://twitter.com/search?q=Kohler) | N/A |
+| 25 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 26 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 28 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
+| 29 | [Nick Honor](http://twitter.com/search?q=Nick+Honor) | N/A |
+| 30 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 31 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 32 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 33 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 34 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 35 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
+| 36 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 37 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
+| 38 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 39 | [Suter](http://twitter.com/search?q=Suter) | N/A |
+| 40 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 41 | [Svech](http://twitter.com/search?q=Svech) | N/A |
+| 42 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 43 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 44 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 45 | [UMvC3](http://twitter.com/search?q=UMvC3) | N/A |
+| 46 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
+| 47 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 48 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 49 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
 
 
 

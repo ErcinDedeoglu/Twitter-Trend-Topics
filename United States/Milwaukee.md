@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-02-22 02:41:33 UTC`
+📆 Last Updated: `2023-02-22 03:20:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BuschArmy](http://twitter.com/search?q=%23BuschArmy) | N/A |
-| 2 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 1 | [Kelly](http://twitter.com/search?q=Kelly) | N/A |
+| 2 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
 | 3 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 4 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 5 | [#Evo2023](http://twitter.com/search?q=%23Evo2023) | N/A |
-| 6 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
-| 7 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 8 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 9 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 10 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 11 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 12 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 4 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 5 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 6 | [#RexComus](http://twitter.com/search?q=%23RexComus) | N/A |
+| 7 | [#Evo2023](http://twitter.com/search?q=%23Evo2023) | N/A |
+| 8 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
+| 9 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 10 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 11 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 12 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
 | 13 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 14 | [Nick Honor](http://twitter.com/search?q=Nick+Honor) | N/A |
-| 15 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 18 | [Suter](http://twitter.com/search?q=Suter) | N/A |
-| 19 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 20 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 21 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 22 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 23 | [VIDEO CALL](http://twitter.com/search?q=VIDEO+CALL) | N/A |
-| 24 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 25 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 26 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
-| 27 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
-| 28 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 29 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 30 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 31 | [McClellan](http://twitter.com/search?q=McClellan) | N/A |
-| 32 | [UMvC3](http://twitter.com/search?q=UMvC3) | N/A |
-| 33 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 34 | [Svech](http://twitter.com/search?q=Svech) | N/A |
-| 35 | [Mr. Tickles](http://twitter.com/search?q=Mr.+Tickles) | N/A |
-| 36 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 37 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
-| 38 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
-| 39 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 40 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
-| 41 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
-| 42 | [Distress](http://twitter.com/search?q=Distress) | N/A |
-| 43 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 44 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 45 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 46 | [FANSIGN](http://twitter.com/search?q=FANSIGN) | N/A |
-| 47 | [Fishy](http://twitter.com/search?q=Fishy) | N/A |
-| 48 | [Gabriella](http://twitter.com/search?q=Gabriella) | N/A |
+| 14 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 15 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 16 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 17 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 18 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 19 | [Kohler](http://twitter.com/search?q=Kohler) | N/A |
+| 20 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 21 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [Nick Honor](http://twitter.com/search?q=Nick+Honor) | N/A |
+| 24 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
+| 25 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 26 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 27 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
+| 28 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 29 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 30 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
+| 31 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 32 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
+| 33 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 34 | [Suter](http://twitter.com/search?q=Suter) | N/A |
+| 35 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 36 | [Svech](http://twitter.com/search?q=Svech) | N/A |
+| 37 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 38 | [UMvC3](http://twitter.com/search?q=UMvC3) | N/A |
+| 39 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 40 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
+| 41 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 42 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 43 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 44 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 45 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 46 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
+| 47 | [VIDEO CALL](http://twitter.com/search?q=VIDEO+CALL) | N/A |
+| 48 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 49 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
 
 
 

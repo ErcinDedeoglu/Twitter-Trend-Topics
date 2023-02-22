@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Eskişehir
 
-📆 Last Updated: `2023-02-22 02:41:28 UTC`
+📆 Last Updated: `2023-02-22 03:20:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,17 +18,17 @@ This is top 50 for [Turkey](</Turkey>)
 | 1 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
 | 2 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
 | 3 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
-| 4 | [#İstifaEt](http://twitter.com/search?q=%23%c4%b0stifaEt) | N/A |
-| 5 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 6 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
-| 7 | [Ekşi Nihayet Kapatıldı](http://twitter.com/search?q=Ek%c5%9fi+Nihayet+Kapat%c4%b1ld%c4%b1) | N/A |
-| 8 | [polatla antepteyiz](http://twitter.com/search?q=polatla+antepteyiz) | N/A |
-| 9 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 10 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
-| 11 | [aslınınsıcak](http://twitter.com/search?q=asl%c4%b1n%c4%b1ns%c4%b1cak) | N/A |
-| 12 | [Hacer Çınar](http://twitter.com/search?q=Hacer+%c3%87%c4%b1nar) | N/A |
-| 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 14 | [devlet millet el ele](http://twitter.com/search?q=devlet+millet+el+ele) | N/A |
+| 4 | [Karma DerKi](http://twitter.com/search?q=Karma+DerKi) | N/A |
+| 5 | [#İstifaEt](http://twitter.com/search?q=%23%c4%b0stifaEt) | N/A |
+| 6 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 7 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
+| 8 | [Ekşi Nihayet Kapatıldı](http://twitter.com/search?q=Ek%c5%9fi+Nihayet+Kapat%c4%b1ld%c4%b1) | N/A |
+| 9 | [polatla antepteyiz](http://twitter.com/search?q=polatla+antepteyiz) | N/A |
+| 10 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 11 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
+| 12 | [aslınınsıcak](http://twitter.com/search?q=asl%c4%b1n%c4%b1ns%c4%b1cak) | N/A |
+| 13 | [Hacer Çınar](http://twitter.com/search?q=Hacer+%c3%87%c4%b1nar) | N/A |
+| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 15 | [Farah Zeynep Abdullah](http://twitter.com/search?q=Farah+Zeynep+Abdullah) | N/A |
 | 16 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
 | 17 | [geçmişin i̇lacıaf](http://twitter.com/search?q=ge%c3%a7mi%c5%9fin+i%cc%87lac%c4%b1af) | N/A |
@@ -42,9 +42,9 @@ This is top 50 for [Turkey](</Turkey>)
 | 25 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 26 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 27 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
-| 28 | [SesimiDuyan VarMı](http://twitter.com/search?q=SesimiDuyan+VarM%c4%b1) | N/A |
-| 29 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 30 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 28 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 29 | [Vali](http://twitter.com/search?q=Vali) | N/A |
+| 30 | [SesimiDuyan VarMı](http://twitter.com/search?q=SesimiDuyan+VarM%c4%b1) | N/A |
 | 31 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
 | 32 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
 | 33 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
@@ -60,11 +60,11 @@ This is top 50 for [Turkey](</Turkey>)
 | 43 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
 | 44 | [Taner Savut](http://twitter.com/search?q=Taner+Savut) | N/A |
 | 45 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
-| 46 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 47 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 48 | [Reis](http://twitter.com/search?q=Reis) | N/A |
-| 49 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
-| 50 | [ALLAH DEVLETİME ZEVAL VERMESİN](http://twitter.com/search?q=ALLAH+DEVLET%c4%b0ME+ZEVAL+VERMES%c4%b0N) | N/A |
+| 46 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 47 | [Reis](http://twitter.com/search?q=Reis) | N/A |
+| 48 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 49 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 50 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
 
 
 
