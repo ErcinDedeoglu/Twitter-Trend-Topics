@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canada
 
-📆 Last Updated: `2023-02-22 04:17:21 UTC`
+📆 Last Updated: `2023-02-22 05:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,42 @@ This is top 50 for Canada
 | 2 | [Myers](http://twitter.com/search?q=Myers) | N/A |
 | 3 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
 | 4 | [Ryan O’Reilly](http://twitter.com/search?q=Ryan+O%e2%80%99Reilly) | N/A |
-| 5 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 5 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
 | 6 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
-| 7 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 8 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
-| 9 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
-| 10 | [#teamtank](http://twitter.com/search?q=%23teamtank) | N/A |
-| 11 | [Hatty](http://twitter.com/search?q=Hatty) | N/A |
-| 12 | [#TORvsBUF](http://twitter.com/search?q=%23TORvsBUF) | N/A |
-| 13 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
-| 14 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 15 | [Montembeault](http://twitter.com/search?q=Montembeault) | N/A |
-| 16 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
-| 17 | [Monty](http://twitter.com/search?q=Monty) | N/A |
-| 18 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 7 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 8 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 9 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 10 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 11 | [Stillman](http://twitter.com/search?q=Stillman) | N/A |
+| 12 | [#teamtank](http://twitter.com/search?q=%23teamtank) | N/A |
+| 13 | [Hatty](http://twitter.com/search?q=Hatty) | N/A |
+| 14 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
+| 15 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 16 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
+| 17 | [Samsonov](http://twitter.com/search?q=Samsonov) | Samsonov is a Russian surname. It is derived from the given name Samson, which is derived from the Hebrew name Shimshon, meaning "sun". |
+| 18 | [Devils](http://twitter.com/search?q=Devils) | N/A |
 | 19 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 20 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
+| 20 | [Monty](http://twitter.com/search?q=Monty) | N/A |
 | 21 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 22 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
-| 23 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
-| 24 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 22 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 23 | [Tavares](http://twitter.com/search?q=Tavares) | Tavares is a Portuguese surname derived from the Latin word "tavar" meaning "stonecutter". It is also a common place name in Portugal, derived from the same root. In English, Tavares can be translated to mean "stonecutter". |
+| 24 | [Rielly](http://twitter.com/search?q=Rielly) | N/A |
+| 25 | [Nashville](http://twitter.com/search?q=Nashville) | N/A |
 | 26 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
 | 27 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
 | 28 | [Suzuki](http://twitter.com/search?q=Suzuki) | N/A |
-| 29 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 30 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 31 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 32 | [Barron](http://twitter.com/search?q=Barron) | N/A |
-| 33 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
-| 34 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 35 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
-| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 37 | [Parayko](http://twitter.com/search?q=Parayko) | N/A |
-| 38 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 39 | [Air Canada](http://twitter.com/search?q=Air+Canada) | N/A |
-| 40 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
-| 41 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 42 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 43 | [#BCStorm](http://twitter.com/search?q=%23BCStorm) | N/A |
-| 44 | [#PinkShirtDay](http://twitter.com/search?q=%23PinkShirtDay) | N/A |
-| 45 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 46 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 47 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
-| 48 | [#PancakeTuesday](http://twitter.com/search?q=%23PancakeTuesday) | N/A |
+| 29 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 30 | [Barron](http://twitter.com/search?q=Barron) | N/A |
+| 31 | [Acciari](http://twitter.com/search?q=Acciari) | N/A |
+| 32 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 33 | [Keefe](http://twitter.com/search?q=Keefe) | N/A |
+| 34 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 35 | [Air Canada](http://twitter.com/search?q=Air+Canada) | N/A |
+| 36 | [#BCStorm](http://twitter.com/search?q=%23BCStorm) | N/A |
+| 37 | [#PinkShirtDay](http://twitter.com/search?q=%23PinkShirtDay) | N/A |
+| 38 | [#ShroveTuesday](http://twitter.com/search?q=%23ShroveTuesday) | N/A |
+| 39 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 40 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
 
 
 

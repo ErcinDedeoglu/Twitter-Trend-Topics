@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barquisimeto
 
-📆 Last Updated: `2023-02-22 04:16:45 UTC`
+📆 Last Updated: `2023-02-22 05:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 6 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 9 | [#SomosInteligenciaSocial](http://twitter.com/search?q=%23SomosInteligenciaSocial) | N/A |
-| 10 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 9 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 10 | [#SomosInteligenciaSocial](http://twitter.com/search?q=%23SomosInteligenciaSocial) | N/A |
 | 11 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
 | 12 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 13 | [#DisfrazDeSalario](http://twitter.com/search?q=%23DisfrazDeSalario) | N/A |
-| 14 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 15 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 16 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 17 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 18 | [Carlota Sosa](http://twitter.com/search?q=Carlota+Sosa) | N/A |
-| 19 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 14 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 15 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 16 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 17 | [Carlota Sosa](http://twitter.com/search?q=Carlota+Sosa) | N/A |
+| 18 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 19 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
 | 20 | [Cocoliso](http://twitter.com/search?q=Cocoliso) | N/A |
-| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [Cesar Romero](http://twitter.com/search?q=Cesar+Romero) | N/A |
-| 24 | [Darwin Núñez](http://twitter.com/search?q=Darwin+N%c3%ba%c3%b1ez) | N/A |
-| 25 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
-| 26 | [hospital villa hermosa](http://twitter.com/search?q=hospital+villa+hermosa) | N/A |
-| 27 | [Merey](http://twitter.com/search?q=Merey) | N/A |
-| 28 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 29 | [Sandra Bullock](http://twitter.com/search?q=Sandra+Bullock) | N/A |
-| 30 | [Los Próceres](http://twitter.com/search?q=Los+Pr%c3%b3ceres) | N/A |
-| 31 | [Lustrillo](http://twitter.com/search?q=Lustrillo) | N/A |
-| 32 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 33 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 34 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
+| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 22 | [Darwin Núñez](http://twitter.com/search?q=Darwin+N%c3%ba%c3%b1ez) | N/A |
+| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 24 | [Alfred](http://twitter.com/search?q=Alfred) | Alfred is a masculine given name derived from the Old English name Ælfræd, which means "elf counsel". It is also a surname. Alfred is a popular name in many countries, including the United States, Canada, the United Kingdom, Germany, and Australia. |
+| 25 | [hospital villa hermosa](http://twitter.com/search?q=hospital+villa+hermosa) | N/A |
+| 26 | [Merey](http://twitter.com/search?q=Merey) | N/A |
+| 27 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 28 | [Lustrillo](http://twitter.com/search?q=Lustrillo) | N/A |
+| 29 | [Los Próceres](http://twitter.com/search?q=Los+Pr%c3%b3ceres) | N/A |
+| 30 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 31 | [Sandra Bullock](http://twitter.com/search?q=Sandra+Bullock) | N/A |
+| 32 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
+| 33 | [César Romero](http://twitter.com/search?q=C%c3%a9sar+Romero) | N/A |
+| 34 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 35 | [Esponjas](http://twitter.com/search?q=Esponjas) | N/A |
 | 36 | [Belmont](http://twitter.com/search?q=Belmont) | N/A |
-| 37 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 38 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 39 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
+| 37 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 38 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
+| 39 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
 | 40 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
-| 41 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 42 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 43 | [Rey de Europa](http://twitter.com/search?q=Rey+de+Europa) | N/A |
+| 41 | [Chuchin](http://twitter.com/search?q=Chuchin) | N/A |
+| 42 | [REY DE EUROPA](http://twitter.com/search?q=REY+DE+EUROPA) | N/A |
+| 43 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
 | 44 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 45 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 46 | [Chuchin](http://twitter.com/search?q=Chuchin) | N/A |
-| 47 | [Shrek 2](http://twitter.com/search?q=Shrek+2) | N/A |
+| 45 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 46 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 47 | [Chilindrina](http://twitter.com/search?q=Chilindrina) | N/A |
 | 48 | [Carlos Márquez](http://twitter.com/search?q=Carlos+M%c3%a1rquez) | N/A |
-| 49 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 50 | [Chilindrina](http://twitter.com/search?q=Chilindrina) | N/A |
+| 49 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
+| 50 | [Por María Corina Machado](http://twitter.com/search?q=Por+Mar%c3%ada+Corina+Machado) | N/A |
 
 
 

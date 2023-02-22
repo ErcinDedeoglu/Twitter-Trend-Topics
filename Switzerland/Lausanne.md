@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-22 04:16:52 UTC`
+📆 Last Updated: `2023-02-22 05:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 1 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 3 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 4 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 5 | [#Wagenknecht](http://twitter.com/search?q=%23Wagenknecht) | N/A |
@@ -41,12 +41,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 24 | [juso](http://twitter.com/search?q=juso) | N/A |
 | 25 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
 | 26 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 27 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 28 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
-| 29 | [Baum](http://twitter.com/search?q=Baum) | N/A |
-| 30 | [Feuer](http://twitter.com/search?q=Feuer) | N/A |
-| 31 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 32 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 27 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
+| 28 | [Baum](http://twitter.com/search?q=Baum) | N/A |
+| 29 | [Feuer](http://twitter.com/search?q=Feuer) | N/A |
+| 30 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 31 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 32 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 33 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 34 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
 | 35 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
@@ -56,12 +56,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 39 | [roger köppel](http://twitter.com/search?q=roger+k%c3%b6ppel) | N/A |
 | 40 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
 | 41 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 42 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 43 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
-| 44 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 46 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 47 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 42 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
+| 43 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 45 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 46 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 47 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
 
 
 

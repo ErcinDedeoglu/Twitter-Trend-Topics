@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-22 04:16:52 UTC`
+📆 Last Updated: `2023-02-22 05:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
-| 2 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
+| 2 | [ogres](http://twitter.com/search?q=ogres) | N/A |
 | 3 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
 | 4 | [baidens](http://twitter.com/search?q=baidens) | N/A |
 | 5 | [csdd](http://twitter.com/search?q=csdd) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Latvia](</Latvia>)
 | 21 | [Levita](http://twitter.com/search?q=Levita) | N/A |
 | 22 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 23 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 25 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 26 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
-| 27 | [rdzn](http://twitter.com/search?q=rdzn) | N/A |
-| 28 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
-| 29 | [talsu](http://twitter.com/search?q=talsu) | N/A |
-| 30 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 31 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 32 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
-| 33 | [puškina](http://twitter.com/search?q=pu%c5%a1kina) | N/A |
-| 34 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 35 | [Kurzemes](http://twitter.com/search?q=Kurzemes) | N/A |
-| 36 | [tavs](http://twitter.com/search?q=tavs) | N/A |
-| 37 | [labrīt](http://twitter.com/search?q=labr%c4%abt) | N/A |
-| 38 | [West](http://twitter.com/search?q=West) | N/A |
-| 39 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 40 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 41 | [jūrmalā](http://twitter.com/search?q=j%c5%abrmal%c4%81) | N/A |
-| 42 | [nesen](http://twitter.com/search?q=nesen) | N/A |
-| 43 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
-| 44 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
-| 45 | [neviens](http://twitter.com/search?q=neviens) | N/A |
-| 46 | [nemaz](http://twitter.com/search?q=nemaz) | N/A |
-| 47 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 48 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
-| 49 | [Riga](http://twitter.com/search?q=Riga) | N/A |
-| 50 | [USSR](http://twitter.com/search?q=USSR) | N/A |
+| 24 | [Latgalē](http://twitter.com/search?q=Latgal%c4%93) | N/A |
+| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 26 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 27 | [Tātad](http://twitter.com/search?q=T%c4%81tad) | N/A |
+| 28 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
+| 29 | [rdzn](http://twitter.com/search?q=rdzn) | N/A |
+| 30 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
+| 31 | [talsu](http://twitter.com/search?q=talsu) | N/A |
+| 32 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 33 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 34 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
+| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 36 | [puškina](http://twitter.com/search?q=pu%c5%a1kina) | N/A |
+| 37 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 38 | [Kurzemes](http://twitter.com/search?q=Kurzemes) | N/A |
+| 39 | [tavs](http://twitter.com/search?q=tavs) | N/A |
+| 40 | [Labrīt](http://twitter.com/search?q=Labr%c4%abt) | N/A |
+| 41 | [West](http://twitter.com/search?q=West) | N/A |
+| 42 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 43 | [jūrmalā](http://twitter.com/search?q=j%c5%abrmal%c4%81) | N/A |
+| 44 | [nesen](http://twitter.com/search?q=nesen) | N/A |
+| 45 | [Украине](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
+| 46 | [ko tu](http://twitter.com/search?q=ko+tu) | N/A |
+| 47 | [neviens](http://twitter.com/search?q=neviens) | N/A |
+| 48 | [nemaz](http://twitter.com/search?q=nemaz) | N/A |
+| 49 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 50 | [rīgu](http://twitter.com/search?q=r%c4%abgu) | N/A |
 
 
 

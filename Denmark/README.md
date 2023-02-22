@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-22 04:17:22 UTC`
+📆 Last Updated: `2023-02-22 05:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,37 +34,37 @@ This is top 50 for Denmark
 | 17 | [isaksen](http://twitter.com/search?q=isaksen) | N/A |
 | 18 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 19 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
-| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 21 | [Onside](http://twitter.com/search?q=Onside) | N/A |
-| 22 | [villie](http://twitter.com/search?q=villie) | N/A |
-| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [horsens](http://twitter.com/search?q=horsens) | N/A |
-| 25 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
-| 26 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 27 | [vallys](http://twitter.com/search?q=vallys) | N/A |
-| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 29 | [viasat](http://twitter.com/search?q=viasat) | N/A |
-| 30 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 32 | [parken](http://twitter.com/search?q=parken) | N/A |
+| 20 | [Onside](http://twitter.com/search?q=Onside) | N/A |
+| 21 | [villie](http://twitter.com/search?q=villie) | N/A |
+| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 23 | [horsens](http://twitter.com/search?q=horsens) | N/A |
+| 24 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
+| 25 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 26 | [vallys](http://twitter.com/search?q=vallys) | N/A |
+| 27 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 28 | [viasat](http://twitter.com/search?q=viasat) | N/A |
+| 29 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 30 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 31 | [parken](http://twitter.com/search?q=parken) | N/A |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 33 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 35 | [genialt](http://twitter.com/search?q=genialt) | N/A |
-| 36 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 37 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 38 | [klimarådet](http://twitter.com/search?q=klimar%c3%a5det) | N/A |
-| 39 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
-| 40 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 34 | [genialt](http://twitter.com/search?q=genialt) | N/A |
+| 35 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 36 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 37 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 38 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 39 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
+| 40 | [Klimarådet](http://twitter.com/search?q=Klimar%c3%a5det) | N/A |
 | 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 42 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
-| 43 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 44 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 45 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 46 | [Emil](http://twitter.com/search?q=Emil) | N/A |
-| 47 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 48 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 49 | [England](http://twitter.com/search?q=England) | N/A |
-| 50 | [Staten](http://twitter.com/search?q=Staten) | N/A |
+| 42 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 43 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 44 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 45 | [Emil](http://twitter.com/search?q=Emil) | N/A |
+| 46 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 47 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 48 | [staten](http://twitter.com/search?q=staten) | N/A |
+| 49 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 50 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 
 
 

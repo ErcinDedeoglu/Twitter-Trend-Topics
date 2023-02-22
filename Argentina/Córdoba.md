@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-02-22 04:16:45 UTC`
+📆 Last Updated: `2023-02-22 05:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 2 | [Casi Angeles](http://twitter.com/search?q=Casi+Angeles) | N/A |
-| 3 | [Florencia](http://twitter.com/search?q=Florencia) | N/A |
-| 4 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 5 | [#GranHermanoArgentina2023](http://twitter.com/search?q=%23GranHermanoArgentina2023) | #GranHermanoArgentina2023 is a hashtag used to promote the upcoming season of the Argentine version of the reality TV show Big Brother. In English, it translates to "Big Brother Argentina 2023". |
-| 6 | [#GranHermamo](http://twitter.com/search?q=%23GranHermamo) | N/A |
-| 7 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 1 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 2 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 3 | [Casi Angeles](http://twitter.com/search?q=Casi+Angeles) | N/A |
+| 4 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
+| 5 | [Florencia](http://twitter.com/search?q=Florencia) | N/A |
+| 6 | [#GranHermanoArgentina2023](http://twitter.com/search?q=%23GranHermanoArgentina2023) | #GranHermanoArgentina2023 is a hashtag used to promote the upcoming season of the Argentine version of the reality TV show Big Brother. In English, it translates to "Big Brother Argentina 2023". |
+| 7 | [#GranHermamo](http://twitter.com/search?q=%23GranHermamo) | N/A |
+| 8 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
 | 9 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 10 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
-| 11 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 12 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
-| 13 | [#TheChallengeArgentina](http://twitter.com/search?q=%23TheChallengeArgentina) | N/A |
-| 14 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 15 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
-| 16 | [VUELVO A CASA](http://twitter.com/search?q=VUELVO+A+CASA) | N/A |
-| 17 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 10 | [#TheChallengeArgentina](http://twitter.com/search?q=%23TheChallengeArgentina) | N/A |
+| 11 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 12 | [#ReDespiertos](http://twitter.com/search?q=%23ReDespiertos) | N/A |
+| 13 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 14 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
+| 15 | [VUELVO A CASA](http://twitter.com/search?q=VUELVO+A+CASA) | N/A |
+| 16 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
+| 17 | [Valen](http://twitter.com/search?q=Valen) | N/A |
 | 18 | [Rodo](http://twitter.com/search?q=Rodo) | N/A |
 | 19 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 20 | [Nachito](http://twitter.com/search?q=Nachito) | N/A |
-| 21 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 22 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 23 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 24 | [Feli](http://twitter.com/search?q=Feli) | N/A |
-| 25 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 20 | [Tombolini](http://twitter.com/search?q=Tombolini) | N/A |
+| 21 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 22 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 23 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 24 | [Nachito](http://twitter.com/search?q=Nachito) | N/A |
+| 25 | [Feli](http://twitter.com/search?q=Feli) | N/A |
 | 26 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
-| 27 | [Tombolini](http://twitter.com/search?q=Tombolini) | N/A |
-| 28 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
-| 29 | [Recopa](http://twitter.com/search?q=Recopa) | N/A |
-| 30 | [yolanda hadid](http://twitter.com/search?q=yolanda+hadid) | N/A |
-| 31 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 32 | [Tongolini](http://twitter.com/search?q=Tongolini) | N/A |
-| 33 | [Scioli](http://twitter.com/search?q=Scioli) | N/A |
-| 34 | [#Romina](http://twitter.com/search?q=%23Romina) | N/A |
-| 35 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 36 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 37 | [Cris Morena](http://twitter.com/search?q=Cris+Morena) | N/A |
-| 38 | [Estela](http://twitter.com/search?q=Estela) | N/A |
-| 39 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 40 | [GORDA](http://twitter.com/search?q=GORDA) | N/A |
-| 41 | [Morita](http://twitter.com/search?q=Morita) | N/A |
-| 42 | [Privada](http://twitter.com/search?q=Privada) | N/A |
-| 43 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 44 | [Brian Fernández](http://twitter.com/search?q=Brian+Fern%c3%a1ndez) | N/A |
-| 45 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
-| 46 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 47 | [Boletos](http://twitter.com/search?q=Boletos) | N/A |
-| 48 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 49 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 50 | [Lattanzio](http://twitter.com/search?q=Lattanzio) | N/A |
+| 27 | [Tongolini](http://twitter.com/search?q=Tongolini) | N/A |
+| 28 | [Estela](http://twitter.com/search?q=Estela) | N/A |
+| 29 | [yolanda hadid](http://twitter.com/search?q=yolanda+hadid) | N/A |
+| 30 | [Scioli](http://twitter.com/search?q=Scioli) | N/A |
+| 31 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 32 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 33 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
+| 34 | [Morita](http://twitter.com/search?q=Morita) | N/A |
+| 35 | [Cris Morena](http://twitter.com/search?q=Cris+Morena) | N/A |
+| 36 | [GORDA](http://twitter.com/search?q=GORDA) | N/A |
+| 37 | [Brian](http://twitter.com/search?q=Brian) | N/A |
+| 38 | [Privada](http://twitter.com/search?q=Privada) | N/A |
+| 39 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 40 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
+| 41 | [Firmenich](http://twitter.com/search?q=Firmenich) | N/A |
+| 42 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
+| 43 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 44 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 45 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
+| 46 | [#InviernoNuclear](http://twitter.com/search?q=%23InviernoNuclear) | N/A |
+| 47 | [#Romina](http://twitter.com/search?q=%23Romina) | N/A |
+| 48 | [#MasViviana](http://twitter.com/search?q=%23MasViviana) | N/A |
+| 49 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 50 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nashville
 
-📆 Last Updated: `2023-02-22 04:17:16 UTC`
+📆 Last Updated: `2023-02-22 05:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
-| 2 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 3 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 4 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 5 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
-| 6 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 7 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 8 | [#RexComus](http://twitter.com/search?q=%23RexComus) | N/A |
-| 9 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 10 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
-| 11 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 12 | [#Evo2023](http://twitter.com/search?q=%23Evo2023) | N/A |
-| 13 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 14 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 15 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
-| 16 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 17 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
-| 18 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 19 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 20 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 21 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 22 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 23 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 24 | [Mady](http://twitter.com/search?q=Mady) | N/A |
-| 25 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 26 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 27 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 28 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 29 | [Kohler](http://twitter.com/search?q=Kohler) | N/A |
-| 30 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 31 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 1 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 2 | [Phillips](http://twitter.com/search?q=Phillips) | Phillips is a surname of English origin. It is derived from the given name Philip, which is derived from the Greek name Philippos, meaning "friend of horses". |
+| 3 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 4 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
+| 5 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 6 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
+| 7 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 8 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 9 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 10 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
+| 11 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 12 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 13 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 14 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
+| 15 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 16 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 17 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 18 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 19 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 20 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
+| 21 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 22 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 23 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 24 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 25 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
+| 26 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
+| 27 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 28 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
+| 29 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 30 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
+| 31 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
 | 32 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 33 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 34 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 35 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 36 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 37 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 38 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 39 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 40 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
-| 41 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 42 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 43 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
-| 44 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 45 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 46 | [Nick Honor](http://twitter.com/search?q=Nick+Honor) | N/A |
-| 47 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 48 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
-| 49 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
+| 33 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 34 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 35 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 36 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 37 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
+| 38 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 39 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 40 | [Mady](http://twitter.com/search?q=Mady) | N/A |
+| 41 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 42 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 43 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
+| 44 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 45 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 46 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 47 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 48 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
+| 49 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
 
 
 

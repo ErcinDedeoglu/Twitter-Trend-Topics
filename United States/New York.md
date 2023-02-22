@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-22 04:17:17 UTC`
+📆 Last Updated: `2023-02-22 05:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 1 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
 | 2 | [Parade](http://twitter.com/search?q=Parade) | N/A |
-| 3 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 4 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 5 | [Devils](http://twitter.com/search?q=Devils) | N/A |
-| 6 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
-| 7 | [Alabama](http://twitter.com/search?q=Alabama) | N/A |
-| 8 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 9 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 10 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
-| 11 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 12 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 13 | [#RexComus](http://twitter.com/search?q=%23RexComus) | N/A |
-| 14 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 3 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 4 | [Danielle](http://twitter.com/search?q=Danielle) | N/A |
+| 5 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 6 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 7 | [Angela Bassett](http://twitter.com/search?q=Angela+Bassett) | Angela Bassett is an American actress, director, and producer. She is best known for her roles in films such as What's Love Got to Do with It, Waiting to Exhale, and Malcolm X. She has also won numerous awards for her work in television and film. |
+| 8 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 9 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
+| 10 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 11 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 12 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 13 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 14 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
 | 15 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
-| 16 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 17 | [#Evo2023](http://twitter.com/search?q=%23Evo2023) | N/A |
-| 18 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 19 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 20 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
-| 21 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 22 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
-| 23 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 24 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 25 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 16 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 17 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 18 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 19 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 20 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
+| 21 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 22 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 23 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 24 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 25 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
 | 26 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 27 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 28 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 29 | [Mady](http://twitter.com/search?q=Mady) | N/A |
-| 30 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 31 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 32 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 33 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 34 | [Kohler](http://twitter.com/search?q=Kohler) | N/A |
-| 35 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 36 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 37 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 38 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 39 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 41 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 42 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 43 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 44 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 45 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
-| 46 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 47 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
-| 48 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 49 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 50 | [Nick Honor](http://twitter.com/search?q=Nick+Honor) | N/A |
+| 27 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
+| 28 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 29 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
+| 30 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 31 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 32 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
+| 33 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 34 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 35 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 36 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 37 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 38 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 39 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
+| 40 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 41 | [Mady](http://twitter.com/search?q=Mady) | N/A |
+| 42 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 43 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 44 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
+| 45 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 46 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 47 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 48 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 49 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
+| 50 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
 
 
 

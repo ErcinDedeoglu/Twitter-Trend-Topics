@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-22 04:17:26 UTC`
+📆 Last Updated: `2023-02-22 05:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,36 +35,36 @@ This is top 50 for Panama
 | 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 19 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
 | 20 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
-| 21 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
-| 24 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 22 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
+| 23 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 24 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 25 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 | 26 | [#VamosaGanar](http://twitter.com/search?q=%23VamosaGanar) | N/A |
-| 27 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 28 | [Las Tablas](http://twitter.com/search?q=Las+Tablas) | N/A |
-| 29 | [Danger Man](http://twitter.com/search?q=Danger+Man) | N/A |
+| 27 | [Las Tablas](http://twitter.com/search?q=Las+Tablas) | N/A |
+| 28 | [Danger Man](http://twitter.com/search?q=Danger+Man) | N/A |
+| 29 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 30 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 31 | [#InversiónDeVías](http://twitter.com/search?q=%23Inversi%c3%b3nDeV%c3%adas) | N/A |
-| 32 | [Capira](http://twitter.com/search?q=Capira) | N/A |
-| 33 | [el gurú](http://twitter.com/search?q=el+gur%c3%ba) | N/A |
-| 34 | [Barsa](http://twitter.com/search?q=Barsa) | N/A |
-| 35 | [Cerro Patacón](http://twitter.com/search?q=Cerro+Patac%c3%b3n) | N/A |
-| 36 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 37 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 38 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 39 | [Cavill](http://twitter.com/search?q=Cavill) | Cavill is a surname of English origin. It is derived from the Old French word "cavil," which means "to cavil or quibble." The name is thought to have been given to someone who was known for being argumentative or nit-picking. |
-| 40 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 41 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
-| 42 | [Antón](http://twitter.com/search?q=Ant%c3%b3n) | N/A |
-| 43 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 44 | [Cinta Costera](http://twitter.com/search?q=Cinta+Costera) | N/A |
-| 45 | [vale digital](http://twitter.com/search?q=vale+digital) | N/A |
-| 46 | [Argos San José](http://twitter.com/search?q=Argos+San+Jos%c3%a9) | N/A |
-| 47 | [#OperaciónAlfa2023](http://twitter.com/search?q=%23Operaci%c3%b3nAlfa2023) | N/A |
-| 48 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
-| 49 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 50 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 32 | [el gurú](http://twitter.com/search?q=el+gur%c3%ba) | N/A |
+| 33 | [Barsa](http://twitter.com/search?q=Barsa) | N/A |
+| 34 | [Cerro Patacón](http://twitter.com/search?q=Cerro+Patac%c3%b3n) | N/A |
+| 35 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 36 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 37 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 38 | [Cavill](http://twitter.com/search?q=Cavill) | Cavill is a surname of English origin. It is derived from the Old French word "cavil," which means "to cavil or quibble." The name is thought to have been given to someone who was known for being argumentative or nit-picking. |
+| 39 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 40 | [Antón](http://twitter.com/search?q=Ant%c3%b3n) | N/A |
+| 41 | [Cinta Costera](http://twitter.com/search?q=Cinta+Costera) | N/A |
+| 42 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 43 | [#TheLastOfUs](http://twitter.com/search?q=%23TheLastOfUs) | The Last of Us is a critically acclaimed action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a post-apocalyptic world who must travel across the United States in order to survive. The game has been praised for its narrative, characters, and gameplay. The phrase "The Last of Us" is used to refer to the game itself as well as its themes of survival and hope in a bleak future. |
+| 44 | [vale digital](http://twitter.com/search?q=vale+digital) | N/A |
+| 45 | [Argos San José](http://twitter.com/search?q=Argos+San+Jos%c3%a9) | N/A |
+| 46 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
+| 47 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 48 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 49 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 50 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
 
 
 

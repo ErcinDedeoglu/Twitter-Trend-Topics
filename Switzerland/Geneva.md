@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-22 04:16:52 UTC`
+📆 Last Updated: `2023-02-22 05:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 1 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 3 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 4 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
 | 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
@@ -38,29 +38,29 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 21 | [juso](http://twitter.com/search?q=juso) | N/A |
 | 22 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
 | 23 | [Kriegsverbrecher](http://twitter.com/search?q=Kriegsverbrecher) | N/A |
-| 24 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 25 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
-| 26 | [Baum](http://twitter.com/search?q=Baum) | N/A |
-| 27 | [Feuer](http://twitter.com/search?q=Feuer) | N/A |
-| 28 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 29 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 24 | [Entwicklung](http://twitter.com/search?q=Entwicklung) | N/A |
+| 25 | [Baum](http://twitter.com/search?q=Baum) | N/A |
+| 26 | [Feuer](http://twitter.com/search?q=Feuer) | N/A |
+| 27 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 28 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 29 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
 | 30 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 31 | [Besuch](http://twitter.com/search?q=Besuch) | N/A |
 | 32 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
 | 33 | [Pakistan](http://twitter.com/search?q=Pakistan) | N/A |
-| 34 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 35 | [Twint](http://twitter.com/search?q=Twint) | N/A |
-| 36 | [roger köppel](http://twitter.com/search?q=roger+k%c3%b6ppel) | N/A |
-| 37 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 38 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 39 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 40 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
-| 41 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 42 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 43 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 44 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 45 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 46 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 34 | [Twint](http://twitter.com/search?q=Twint) | N/A |
+| 35 | [roger köppel](http://twitter.com/search?q=roger+k%c3%b6ppel) | N/A |
+| 36 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 37 | [Government](http://twitter.com/search?q=Government) | N/A |
+| 38 | [Gesetze](http://twitter.com/search?q=Gesetze) | N/A |
+| 39 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 40 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 41 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 42 | [Details](http://twitter.com/search?q=Details) | N/A |
+| 43 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 44 | [Anto](http://twitter.com/search?q=Anto) | Anto is a shortened form of the name Antonio, which is a male given name of Italian origin. It is derived from the Latin Antonius, which is ultimately derived from the Greek name Antonios. In English, it means "beyond praise" or "priceless". |
+| 45 | [Züge](http://twitter.com/search?q=Z%c3%bcge) | N/A |
+| 46 | [luzern](http://twitter.com/search?q=luzern) | N/A |
 
 
 
