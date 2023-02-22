@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-22 07:17:52 UTC`
+📆 Last Updated: `2023-02-22 08:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,38 +32,38 @@ This is top 50 for Panama
 | 15 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
 | 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 17 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 19 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 18 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
+| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 20 | [Florentino](http://twitter.com/search?q=Florentino) | N/A |
 | 21 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 22 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 23 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 22 | [Bernabéu](http://twitter.com/search?q=Bernab%c3%a9u) | Bernabéu is the name of the home stadium of Spanish football club Real Madrid. It is officially known as Estadio Santiago Bernabéu, named after the former club president Santiago Bernabéu. In English, it is referred to as the Santiago Bernabéu Stadium. |
+| 23 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 24 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
-| 25 | [#VamosaGanar](http://twitter.com/search?q=%23VamosaGanar) | N/A |
+| 25 | [#vamosaganar](http://twitter.com/search?q=%23vamosaganar) | N/A |
 | 26 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 | 27 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 28 | [danger man](http://twitter.com/search?q=danger+man) | N/A |
-| 29 | [#InversiónDeVías](http://twitter.com/search?q=%23Inversi%c3%b3nDeV%c3%adas) | N/A |
-| 30 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 29 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 30 | [#inversióndevías](http://twitter.com/search?q=%23inversi%c3%b3ndev%c3%adas) | N/A |
 | 31 | [Las Tablas](http://twitter.com/search?q=Las+Tablas) | N/A |
 | 32 | [el gurú](http://twitter.com/search?q=el+gur%c3%ba) | N/A |
 | 33 | [Barsa](http://twitter.com/search?q=Barsa) | N/A |
 | 34 | [cerro patacón](http://twitter.com/search?q=cerro+patac%c3%b3n) | N/A |
 | 35 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 36 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 37 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 38 | [Antón](http://twitter.com/search?q=Ant%c3%b3n) | N/A |
-| 39 | [#operaciónalfa2023](http://twitter.com/search?q=%23operaci%c3%b3nalfa2023) | N/A |
+| 37 | [Cavill](http://twitter.com/search?q=Cavill) | Cavill is a surname of English origin. It is derived from the Old French word "cavil," which means "to cavil or quibble." The name is thought to have been given to someone who was known for being argumentative or nit-picking. |
+| 38 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 39 | [Antón](http://twitter.com/search?q=Ant%c3%b3n) | N/A |
 | 40 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
 | 41 | [vale digital](http://twitter.com/search?q=vale+digital) | N/A |
-| 42 | [Argos San José](http://twitter.com/search?q=Argos+San+Jos%c3%a9) | N/A |
-| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 42 | [argos san josé](http://twitter.com/search?q=argos+san+jos%c3%a9) | N/A |
+| 43 | [#operaciónalfa2023](http://twitter.com/search?q=%23operaci%c3%b3nalfa2023) | N/A |
 | 44 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
-| 45 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
-| 46 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 47 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 48 | [Cavill](http://twitter.com/search?q=Cavill) | Cavill is a surname of English origin. It is derived from the Old French word "cavil," which means "to cavil or quibble." The name is thought to have been given to someone who was known for being argumentative or nit-picking. |
-| 49 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 45 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 46 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 47 | [Camacho](http://twitter.com/search?q=Camacho) | Camacho is a Spanish surname derived from the name of a Visigothic nobleman, Camacho, who lived in the 5th century. In English, it means "fighter" or "warrior". |
+| 48 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
+| 49 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
 | 50 | [Cinta Costera](http://twitter.com/search?q=Cinta+Costera) | N/A |
 
 

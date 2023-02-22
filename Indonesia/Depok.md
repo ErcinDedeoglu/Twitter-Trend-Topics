@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-02-22 07:17:11 UTC`
+📆 Last Updated: `2023-02-22 08:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,47 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Prabowo Pilihan Terbaik](http://twitter.com/search?q=Prabowo+Pilihan+Terbaik) | N/A |
+| 1 | [Iya Mending Prabowo](http://twitter.com/search?q=Iya+Mending+Prabowo) | N/A |
 | 2 | [Di Dekade 08 Infonya](http://twitter.com/search?q=Di+Dekade+08+Infonya) | N/A |
-| 3 | [Iya Mending Prabowo](http://twitter.com/search?q=Iya+Mending+Prabowo) | N/A |
+| 3 | [Prabowo Pilihan Terbaik](http://twitter.com/search?q=Prabowo+Pilihan+Terbaik) | N/A |
 | 4 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
-| 5 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
-| 6 | [#シークレットナンバー](http://twitter.com/search?q=%23%e3%82%b7%e3%83%bc%e3%82%af%e3%83%ac%e3%83%83%e3%83%88%e3%83%8a%e3%83%b3%e3%83%90%e3%83%bc) | N/A |
-| 7 | [David](http://twitter.com/search?q=David) | N/A |
-| 8 | [Kerupuk](http://twitter.com/search?q=Kerupuk) | N/A |
-| 9 | [#SECRET_NUMBER](http://twitter.com/search?q=%23SECRET_NUMBER) | N/A |
-| 10 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 11 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 12 | [#LISTEN_TO_YOUR_FANS](http://twitter.com/search?q=%23LISTEN_TO_YOUR_FANS) | N/A |
-| 13 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 14 | [H-10](http://twitter.com/search?q=H-10) | N/A |
-| 15 | [Rabu](http://twitter.com/search?q=Rabu) | N/A |
-| 16 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 17 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 18 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 19 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 20 | [Pelakor](http://twitter.com/search?q=Pelakor) | N/A |
-| 21 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
-| 22 | [Anak Belum Siap](http://twitter.com/search?q=Anak+Belum+Siap) | N/A |
-| 23 | [Harley](http://twitter.com/search?q=Harley) | N/A |
-| 24 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 25 | [Pencuri](http://twitter.com/search?q=Pencuri) | N/A |
-| 26 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
-| 27 | [Dari 2-0](http://twitter.com/search?q=Dari+2-0) | N/A |
-| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [Koruptor](http://twitter.com/search?q=Koruptor) | N/A |
-| 30 | [EFIN](http://twitter.com/search?q=EFIN) | N/A |
-| 31 | [Sujud](http://twitter.com/search?q=Sujud) | N/A |
-| 32 | [Kasus](http://twitter.com/search?q=Kasus) | N/A |
-| 33 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 34 | [Pejabat](http://twitter.com/search?q=Pejabat) | N/A |
-| 35 | [Bangtan](http://twitter.com/search?q=Bangtan) | Bangtan (방탄) is the Korean name for the South Korean boy band BTS. The name Bangtan is a combination of two words: "Bang" meaning bulletproof and "Tan" meaning to defend. The name is meant to represent the group's mission to block out stereotypes, criticisms, and expectations that are imposed on them by society. |
-| 36 | [#PLEASE_LISTEN_TO_US](http://twitter.com/search?q=%23PLEASE_LISTEN_TO_US) | N/A |
-| 37 | [#LUCAS](http://twitter.com/search?q=%23LUCAS) | #LUCAS is an acronym for the Latin phrase "Lux in Caelo Aperuit Scientiam" which translates to "Light in Heaven Opened Knowledge". It is often used as a hashtag on social media to refer to topics related to knowledge, enlightenment, and spiritual growth. |
-| 38 | [#sebuahinterview](http://twitter.com/search?q=%23sebuahinterview) | N/A |
-| 39 | [#TaehyungonJinnysKitchen](http://twitter.com/search?q=%23TaehyungonJinnysKitchen) | N/A |
-| 40 | [#TiffanyxWINReadyToSG](http://twitter.com/search?q=%23TiffanyxWINReadyToSG) | N/A |
-| 41 | [#NamJooHyuk](http://twitter.com/search?q=%23NamJooHyuk) | N/A |
+| 5 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 6 | [#LIKE_IT_LIKE_IT](http://twitter.com/search?q=%23LIKE_IT_LIKE_IT) | N/A |
+| 7 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 8 | [#beningsskincare](http://twitter.com/search?q=%23beningsskincare) | N/A |
+| 9 | [David](http://twitter.com/search?q=David) | N/A |
+| 10 | [#sharetheepicwithraisa](http://twitter.com/search?q=%23sharetheepicwithraisa) | N/A |
+| 11 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 12 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 13 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 14 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 15 | [Ultra 5G](http://twitter.com/search?q=Ultra+5G) | N/A |
+| 16 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 17 | [Kerupuk](http://twitter.com/search?q=Kerupuk) | N/A |
+| 18 | [Kerja Wamenhan M Herindra](http://twitter.com/search?q=Kerja+Wamenhan+M+Herindra) | N/A |
+| 19 | [Loyal - Beri Terbaik](http://twitter.com/search?q=Loyal+-+Beri+Terbaik) | N/A |
+| 20 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 21 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 22 | [Lanud Soewondo](http://twitter.com/search?q=Lanud+Soewondo) | N/A |
+| 23 | [11th SOCIAL AWARDS with BIBLE](http://twitter.com/search?q=11th+SOCIAL+AWARDS+with+BIBLE) | N/A |
+| 24 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 25 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 26 | [Emang Fakta](http://twitter.com/search?q=Emang+Fakta) | N/A |
+| 27 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 28 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 29 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 30 | [Rabu Abu](http://twitter.com/search?q=Rabu+Abu) | N/A |
+| 31 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 32 | [uji kelayakan](http://twitter.com/search?q=uji+kelayakan) | N/A |
+| 33 | [Tere Liye](http://twitter.com/search?q=Tere+Liye) | N/A |
+| 34 | [Bryan Domani](http://twitter.com/search?q=Bryan+Domani) | N/A |
+| 35 | [GOODBYE NOW TXT](http://twitter.com/search?q=GOODBYE+NOW+TXT) | N/A |
+| 36 | [AND MORE](http://twitter.com/search?q=AND+MORE) | N/A |
+| 37 | [REI BLONDE](http://twitter.com/search?q=REI+BLONDE) | N/A |
+| 38 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 39 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 40 | [AHY S14P](http://twitter.com/search?q=AHY+S14P) | N/A |
+| 41 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 42 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 43 | [Anak Belum Siap](http://twitter.com/search?q=Anak+Belum+Siap) | N/A |
+| 44 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
+| 45 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
+| 46 | [Dari 2-0](http://twitter.com/search?q=Dari+2-0) | N/A |
+| 47 | [Pelakor](http://twitter.com/search?q=Pelakor) | N/A |
+| 48 | [H-10](http://twitter.com/search?q=H-10) | N/A |
+| 49 | [wajib berislam kaffah](http://twitter.com/search?q=wajib+berislam+kaffah) | N/A |
 
 
 

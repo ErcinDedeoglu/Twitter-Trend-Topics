@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-22 07:17:52 UTC`
+📆 Last Updated: `2023-02-22 08:18:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Poland
 | 9 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 10 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
 | 11 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 12 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
-| 13 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 14 | [Duda](http://twitter.com/search?q=Duda) | N/A |
-| 15 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
-| 16 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 17 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 18 | [#ŚrodaPopielcowa](http://twitter.com/search?q=%23%c5%9arodaPopielcowa) | N/A |
-| 19 | [Realu](http://twitter.com/search?q=Realu) | N/A |
-| 20 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 21 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [#mjakmiłość](http://twitter.com/search?q=%23mjakmi%c5%82o%c5%9b%c4%87) | N/A |
-| 24 | [Real Madryt](http://twitter.com/search?q=Real+Madryt) | N/A |
-| 25 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
-| 26 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 27 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 28 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 29 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
-| 30 | [Informacyjnie](http://twitter.com/search?q=Informacyjnie) | N/A |
-| 31 | [kraśko](http://twitter.com/search?q=kra%c5%9bko) | N/A |
-| 32 | [Grodzkim](http://twitter.com/search?q=Grodzkim) | N/A |
-| 33 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
-| 34 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 35 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 36 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
-| 37 | [Arkadach Kubickiego](http://twitter.com/search?q=Arkadach+Kubickiego) | N/A |
-| 38 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
-| 39 | [kariusa](http://twitter.com/search?q=kariusa) | N/A |
-| 40 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 41 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
-| 42 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 12 | [Środa Popielcowa](http://twitter.com/search?q=%c5%9aroda+Popielcowa) | N/A |
+| 13 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
+| 14 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 15 | [#WielkiPost](http://twitter.com/search?q=%23WielkiPost) | N/A |
+| 16 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 17 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 18 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 19 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 20 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
+| 21 | [#Popielec](http://twitter.com/search?q=%23Popielec) | N/A |
+| 22 | [Realu](http://twitter.com/search?q=Realu) | N/A |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
+| 25 | [Real Madryt](http://twitter.com/search?q=Real+Madryt) | N/A |
+| 26 | [Ewangelię](http://twitter.com/search?q=Ewangeli%c4%99) | N/A |
+| 27 | [Wielkiego Postu](http://twitter.com/search?q=Wielkiego+Postu) | N/A |
+| 28 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
+| 29 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 30 | [Grodzkim](http://twitter.com/search?q=Grodzkim) | N/A |
+| 31 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 32 | [Luft](http://twitter.com/search?q=Luft) | N/A |
+| 33 | [kraśko](http://twitter.com/search?q=kra%c5%9bko) | N/A |
+| 34 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 35 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
+| 36 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 37 | [Informacyjnie](http://twitter.com/search?q=Informacyjnie) | N/A |
+| 38 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 39 | [Arkadach Kubickiego](http://twitter.com/search?q=Arkadach+Kubickiego) | N/A |
+| 40 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
+| 41 | [kariusa](http://twitter.com/search?q=kariusa) | N/A |
+| 42 | [Lidze Mistrzów](http://twitter.com/search?q=Lidze+Mistrz%c3%b3w) | N/A |
 | 43 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 44 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
-| 45 | [liga mistrzów](http://twitter.com/search?q=liga+mistrz%c3%b3w) | N/A |
+| 45 | [zamku królewskiego](http://twitter.com/search?q=zamku+kr%c3%b3lewskiego) | N/A |
 | 46 | [Realem](http://twitter.com/search?q=Realem) | N/A |
-| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 48 | [Jarek](http://twitter.com/search?q=Jarek) | N/A |
-| 49 | [zamku królewskiego](http://twitter.com/search?q=zamku+kr%c3%b3lewskiego) | N/A |
-| 50 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 47 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
+| 48 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 49 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 50 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 
 
 

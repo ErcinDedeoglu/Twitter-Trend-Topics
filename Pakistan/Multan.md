@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-22 07:17:29 UTC`
+📆 Last Updated: `2023-02-22 08:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Pakistan](</Pakistan>)
 | ------- | ------------ | ------------ |
 | 1 | [#قاتل_سردار_عبدالرحمن_کھیتران](http://twitter.com/search?q=%23%d9%82%d8%a7%d8%aa%d9%84_%d8%b3%d8%b1%d8%af%d8%a7%d8%b1_%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d9%86_%da%a9%da%be%db%8c%d8%aa%d8%b1%d8%a7%d9%86) | N/A |
 | 2 | [#قاتل_سردار_کوگرفتارکرو](http://twitter.com/search?q=%23%d9%82%d8%a7%d8%aa%d9%84_%d8%b3%d8%b1%d8%af%d8%a7%d8%b1_%da%a9%d9%88%da%af%d8%b1%d9%81%d8%aa%d8%a7%d8%b1%da%a9%d8%b1%d9%88) | N/A |
-| 3 | [#ضمانت_پارک](http://twitter.com/search?q=%23%d8%b6%d9%85%d8%a7%d9%86%d8%aa_%d9%be%d8%a7%d8%b1%da%a9) | N/A |
-| 4 | [#بلوچ_خاتون_کو_انصاف_دو](http://twitter.com/search?q=%23%d8%a8%d9%84%d9%88%da%86_%d8%ae%d8%a7%d8%aa%d9%88%d9%86_%da%a9%d9%88_%d8%a7%d9%86%d8%b5%d8%a7%d9%81_%d8%af%d9%88) | N/A |
+| 3 | [#بلوچ_خاتون_کو_انصاف_دو](http://twitter.com/search?q=%23%d8%a8%d9%84%d9%88%da%86_%d8%ae%d8%a7%d8%aa%d9%88%d9%86_%da%a9%d9%88_%d8%a7%d9%86%d8%b5%d8%a7%d9%81_%d8%af%d9%88) | N/A |
+| 4 | [#ضمانت_پارک](http://twitter.com/search?q=%23%d8%b6%d9%85%d8%a7%d9%86%d8%aa_%d9%be%d8%a7%d8%b1%da%a9) | N/A |
 | 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 6 | [daraz](http://twitter.com/search?q=daraz) | N/A |
 | 7 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
 | 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 9 | [Rashid](http://twitter.com/search?q=Rashid) | N/A |
-| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 11 | [Welcome to PTI](http://twitter.com/search?q=Welcome+to+PTI) | N/A |
-| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 13 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
-| 14 | [Sardar](http://twitter.com/search?q=Sardar) | N/A |
-| 15 | [another 6.4](http://twitter.com/search?q=another+6.4) | N/A |
-| 16 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 17 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
-| 18 | [Odean smith](http://twitter.com/search?q=Odean+smith) | N/A |
-| 19 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
-| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 21 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
-| 22 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 23 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
-| 24 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
-| 25 | [Bibi Zainab](http://twitter.com/search?q=Bibi+Zainab) | N/A |
-| 26 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 27 | [Founder Of Sipah E Sahaba](http://twitter.com/search?q=Founder+Of+Sipah+E+Sahaba) | N/A |
-| 28 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 29 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 30 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 31 | [Julie](http://twitter.com/search?q=Julie) | N/A |
-| 32 | [Mark](http://twitter.com/search?q=Mark) | N/A |
-| 33 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 34 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
-| 35 | [Infidel](http://twitter.com/search?q=Infidel) | N/A |
-| 36 | [Hero](http://twitter.com/search?q=Hero) | N/A |
-| 37 | [Ameeen](http://twitter.com/search?q=Ameeen) | N/A |
-| 38 | [Rule of Law](http://twitter.com/search?q=Rule+of+Law) | N/A |
-| 39 | [Jannat](http://twitter.com/search?q=Jannat) | N/A |
-| 40 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 41 | [Foreign Minister](http://twitter.com/search?q=Foreign+Minister) | N/A |
-| 42 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
-| 43 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
-| 44 | [Khyber Pakhtunkhwa](http://twitter.com/search?q=Khyber+Pakhtunkhwa) | N/A |
-| 45 | [Amin](http://twitter.com/search?q=Amin) | N/A |
-| 46 | [Nawaz Sharif](http://twitter.com/search?q=Nawaz+Sharif) | N/A |
-| 47 | [Fawad Chaudhry](http://twitter.com/search?q=Fawad+Chaudhry) | N/A |
-| 48 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
-| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 9 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 10 | [Welcome to PTI](http://twitter.com/search?q=Welcome+to+PTI) | N/A |
+| 11 | [Shaheen](http://twitter.com/search?q=Shaheen) | N/A |
+| 12 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 13 | [Sardar](http://twitter.com/search?q=Sardar) | N/A |
+| 14 | [another 6.4](http://twitter.com/search?q=another+6.4) | N/A |
+| 15 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 16 | [Hasnain](http://twitter.com/search?q=Hasnain) | Hasnain is an Arabic name meaning "two precious ones". It is also used as a surname. |
+| 17 | [Odean smith](http://twitter.com/search?q=Odean+smith) | N/A |
+| 18 | [Wiese](http://twitter.com/search?q=Wiese) | N/A |
+| 19 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 20 | [Shai](http://twitter.com/search?q=Shai) | Shai is a Hebrew name meaning “gift” or “present.” It is also used as a nickname for the name Shaiel, which means “God's gift.” |
+| 21 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 22 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 23 | [Rashid Khan](http://twitter.com/search?q=Rashid+Khan) | N/A |
+| 24 | [Tattoos - No](http://twitter.com/search?q=Tattoos+-+No) | N/A |
+| 25 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
+| 26 | [Founder Of Sipah E Sahaba](http://twitter.com/search?q=Founder+Of+Sipah+E+Sahaba) | N/A |
+| 27 | [Bibi Zainab](http://twitter.com/search?q=Bibi+Zainab) | N/A |
+| 28 | [Rauf](http://twitter.com/search?q=Rauf) | N/A |
+| 29 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 30 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
+| 31 | [Mark](http://twitter.com/search?q=Mark) | N/A |
+| 32 | [Julie](http://twitter.com/search?q=Julie) | N/A |
+| 33 | [Pervaiz Elahi](http://twitter.com/search?q=Pervaiz+Elahi) | N/A |
+| 34 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 35 | [Happy 50th](http://twitter.com/search?q=Happy+50th) | N/A |
+| 36 | [Infidel](http://twitter.com/search?q=Infidel) | N/A |
+| 37 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 38 | [Smoke - No](http://twitter.com/search?q=Smoke+-+No) | N/A |
+| 39 | [Foreign Minister](http://twitter.com/search?q=Foreign+Minister) | N/A |
+| 40 | [Modi](http://twitter.com/search?q=Modi) | N/A |
+| 41 | [CNIC](http://twitter.com/search?q=CNIC) | N/A |
+| 42 | [Ali Zafar](http://twitter.com/search?q=Ali+Zafar) | N/A |
+| 43 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 44 | [Hero](http://twitter.com/search?q=Hero) | N/A |
+| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 46 | [Snapchat](http://twitter.com/search?q=Snapchat) | N/A |
+| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 48 | [Amin](http://twitter.com/search?q=Amin) | N/A |
+| 49 | [Fawad Chaudhry](http://twitter.com/search?q=Fawad+Chaudhry) | N/A |
 
 
 

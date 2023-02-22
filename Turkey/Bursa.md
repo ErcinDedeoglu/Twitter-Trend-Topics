@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-02-22 07:17:34 UTC`
+📆 Last Updated: `2023-02-22 08:17:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
-| 2 | [#İstifaEt](http://twitter.com/search?q=%23%c4%b0stifaEt) | N/A |
-| 3 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 4 | [FurkanÇolak Osurdu](http://twitter.com/search?q=Furkan%c3%87olak+Osurdu) | N/A |
-| 5 | [#Çarşamba](http://twitter.com/search?q=%23%c3%87ar%c5%9famba) | N/A |
-| 6 | [#cokusdonemi](http://twitter.com/search?q=%23cokusdonemi) | N/A |
-| 7 | [ekşi nihayet kapatıldı](http://twitter.com/search?q=ek%c5%9fi+nihayet+kapat%c4%b1ld%c4%b1) | N/A |
-| 8 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
-| 9 | [Etmiyorsun](http://twitter.com/search?q=Etmiyorsun) | N/A |
-| 10 | [polatla antepteyiz](http://twitter.com/search?q=polatla+antepteyiz) | N/A |
-| 11 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
-| 12 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 13 | [aslınınsıcak](http://twitter.com/search?q=asl%c4%b1n%c4%b1ns%c4%b1cak) | N/A |
-| 14 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 15 | [Hacer Çınar](http://twitter.com/search?q=Hacer+%c3%87%c4%b1nar) | N/A |
-| 16 | [geçmişin i̇lacıaf](http://twitter.com/search?q=ge%c3%a7mi%c5%9fin+i%cc%87lac%c4%b1af) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [Farah Zeynep Abdullah](http://twitter.com/search?q=Farah+Zeynep+Abdullah) | N/A |
-| 19 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 20 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
-| 21 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 22 | [bu vebal sizin](http://twitter.com/search?q=bu+vebal+sizin) | N/A |
-| 23 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 24 | [Yürü Bay Kemal](http://twitter.com/search?q=Y%c3%bcr%c3%bc+Bay+Kemal) | N/A |
-| 25 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
-| 26 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 27 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 28 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 29 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
-| 30 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 31 | [Hayırlı](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1) | N/A |
-| 32 | [Dünya Savaşı](http://twitter.com/search?q=D%c3%bcnya+Sava%c5%9f%c4%b1) | N/A |
-| 33 | [Engin Ardıç](http://twitter.com/search?q=Engin+Ard%c4%b1%c3%a7) | N/A |
-| 34 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
-| 35 | [Cesaret](http://twitter.com/search?q=Cesaret) | N/A |
-| 36 | [SesimiDuyan VarMı](http://twitter.com/search?q=SesimiDuyan+VarM%c4%b1) | N/A |
-| 37 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
-| 38 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 39 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 40 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
-| 41 | [karma derki](http://twitter.com/search?q=karma+derki) | N/A |
-| 42 | [Değildir](http://twitter.com/search?q=De%c4%9fildir) | N/A |
-| 43 | [primci ferideözdinç](http://twitter.com/search?q=primci+feride%c3%b6zdin%c3%a7) | N/A |
-| 44 | [Reis](http://twitter.com/search?q=Reis) | N/A |
-| 45 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
-| 46 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 47 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
-| 48 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 49 | [KARIUS](http://twitter.com/search?q=KARIUS) | N/A |
-| 50 | [KÖR VE NANKÖRSÜNÜZ](http://twitter.com/search?q=K%c3%96R+VE+NANK%c3%96RS%c3%9cN%c3%9cZ) | N/A |
+| 1 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 2 | [#Unutmayacağız](http://twitter.com/search?q=%23Unutmayaca%c4%9f%c4%b1z) | N/A |
+| 3 | [#cokusdonemi](http://twitter.com/search?q=%23cokusdonemi) | N/A |
+| 4 | [Etmiyorsun](http://twitter.com/search?q=Etmiyorsun) | N/A |
+| 5 | [Engin Ardıç](http://twitter.com/search?q=Engin+Ard%c4%b1%c3%a7) | N/A |
+| 6 | [#Çarşamba](http://twitter.com/search?q=%23%c3%87ar%c5%9famba) | N/A |
+| 7 | [FurkanÇolak Osurdu](http://twitter.com/search?q=Furkan%c3%87olak+Osurdu) | N/A |
+| 8 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 9 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
+| 10 | [Dünya Savaşı](http://twitter.com/search?q=D%c3%bcnya+Sava%c5%9f%c4%b1) | N/A |
+| 11 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
+| 12 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 13 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 14 | [Temizlik](http://twitter.com/search?q=Temizlik) | N/A |
+| 15 | [Sayın Erdoğan](http://twitter.com/search?q=Say%c4%b1n+Erdo%c4%9fan) | N/A |
+| 16 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
+| 17 | [22 Şubat](http://twitter.com/search?q=22+%c5%9eubat) | N/A |
+| 18 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
+| 19 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 20 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
+| 21 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
+| 22 | [Halka](http://twitter.com/search?q=Halka) | N/A |
+| 23 | [Lağım](http://twitter.com/search?q=La%c4%9f%c4%b1m) | N/A |
+| 24 | [Hakaret](http://twitter.com/search?q=Hakaret) | N/A |
+| 25 | [Cesaret](http://twitter.com/search?q=Cesaret) | N/A |
+| 26 | [Değildir](http://twitter.com/search?q=De%c4%9fildir) | N/A |
+| 27 | [#EYTyeVerdiginizSözüTutun](http://twitter.com/search?q=%23EYTyeVerdiginizS%c3%b6z%c3%bcTutun) | N/A |
+| 28 | [#Dayanışmaİle](http://twitter.com/search?q=%23Dayan%c4%b1%c5%9fma%c4%b0le) | N/A |
+| 29 | [#StajaAdaletZamanı](http://twitter.com/search?q=%23StajaAdaletZaman%c4%b1) | N/A |
+| 30 | [#oyakc](http://twitter.com/search?q=%23oyakc) | N/A |
+| 31 | [#küfür](http://twitter.com/search?q=%23k%c3%bcf%c3%bcr) | N/A |
+| 32 | [#galeriakurtarılmayıbekliyor](http://twitter.com/search?q=%23galeriakurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
+| 33 | [#afyon](http://twitter.com/search?q=%23afyon) | N/A |
+| 34 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 35 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
+| 36 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
+| 37 | [#nuhcm](http://twitter.com/search?q=%23nuhcm) | N/A |
+| 38 | [#cimsa](http://twitter.com/search?q=%23cimsa) | N/A |
+| 39 | [#beylikdüzü](http://twitter.com/search?q=%23beylikd%c3%bcz%c3%bc) | N/A |
+| 40 | [#İstifaEt](http://twitter.com/search?q=%23%c4%b0stifaEt) | N/A |
+| 41 | [#GWIND](http://twitter.com/search?q=%23GWIND) | N/A |
+| 42 | [#AHaber](http://twitter.com/search?q=%23AHaber) | N/A |
+| 43 | [#ekgyo](http://twitter.com/search?q=%23ekgyo) | N/A |
+| 44 | [#DiyanetEngisizyonunaHayır](http://twitter.com/search?q=%23DiyanetEngisizyonunaHay%c4%b1r) | N/A |
+| 45 | [#ekonomi](http://twitter.com/search?q=%23ekonomi) | N/A |
+| 46 | [#KitaplarYasaklanamaz](http://twitter.com/search?q=%23KitaplarYasaklanamaz) | N/A |
 
 
 

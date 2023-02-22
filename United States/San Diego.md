@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Diego
 
-📆 Last Updated: `2023-02-22 07:17:44 UTC`
+📆 Last Updated: `2023-02-22 08:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 2 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
 | 3 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 5 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 4 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 5 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
 | 6 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
 | 7 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 8 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 9 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 8 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 9 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
 | 10 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
 | 11 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 12 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 13 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 14 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 12 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
+| 13 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 14 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
 | 15 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
 | 16 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 17 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 18 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 19 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 20 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 21 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 22 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 23 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
-| 24 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 25 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
-| 26 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 27 | [GHOST IN THE MACHINE](http://twitter.com/search?q=GHOST+IN+THE+MACHINE) | N/A |
-| 28 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 29 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 30 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 31 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 32 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 33 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 34 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 17 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 18 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 19 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 20 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 21 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 22 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 23 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 24 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 25 | [Ghost in the Machine](http://twitter.com/search?q=Ghost+in+the+Machine) | N/A |
+| 26 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 27 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 28 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 29 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 30 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 31 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 32 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 33 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
+| 34 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
 | 35 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 36 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
-| 37 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 38 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 39 | [Ines](http://twitter.com/search?q=Ines) | N/A |
-| 40 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 41 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
-| 42 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 43 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
-| 44 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 36 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 37 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
+| 38 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 39 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 40 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
+| 41 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 42 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 43 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 44 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
 | 45 | [Princess and the Frog](http://twitter.com/search?q=Princess+and+the+Frog) | N/A |
-| 46 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 46 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
 | 47 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
-| 48 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 49 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
-| 50 | [Bartise](http://twitter.com/search?q=Bartise) | N/A |
+| 48 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 49 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 50 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
 
 
 
