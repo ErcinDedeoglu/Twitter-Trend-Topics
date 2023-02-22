@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Port Harcourt
 
-📆 Last Updated: `2023-02-22 11:17:28 UTC`
+📆 Last Updated: `2023-02-22 12:18:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,50 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [#Vote4ClimateNG](http://twitter.com/search?q=%23Vote4ClimateNG) | N/A |
-| 3 | [#GoldenPennySpread](http://twitter.com/search?q=%23GoldenPennySpread) | N/A |
-| 4 | [#SeeSomethingDoNAlerts](http://twitter.com/search?q=%23SeeSomethingDoNAlerts) | N/A |
-| 5 | [#YMK2023](http://twitter.com/search?q=%23YMK2023) | N/A |
-| 6 | [Saul](http://twitter.com/search?q=Saul) | N/A |
-| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 1 | [#SeeSomethingDoNAlerts](http://twitter.com/search?q=%23SeeSomethingDoNAlerts) | N/A |
+| 2 | [#GoldenPennySpread](http://twitter.com/search?q=%23GoldenPennySpread) | N/A |
+| 3 | [#Vote4ClimateNG](http://twitter.com/search?q=%23Vote4ClimateNG) | N/A |
+| 4 | [#YMK2023](http://twitter.com/search?q=%23YMK2023) | N/A |
+| 5 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 6 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 7 | [PVCs](http://twitter.com/search?q=PVCs) | N/A |
 | 8 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 9 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
-| 10 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 11 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 12 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 13 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 14 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 15 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 16 | [PVCs](http://twitter.com/search?q=PVCs) | N/A |
-| 17 | [Christians](http://twitter.com/search?q=Christians) | N/A |
-| 18 | [nnewi north](http://twitter.com/search?q=nnewi+north) | N/A |
-| 19 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 20 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 21 | [jamopyper runtown](http://twitter.com/search?q=jamopyper+runtown) | N/A |
-| 22 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 23 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 24 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 25 | [Pastor Paul](http://twitter.com/search?q=Pastor+Paul) | N/A |
-| 26 | [Buba Galadima](http://twitter.com/search?q=Buba+Galadima) | N/A |
-| 27 | [Nigeria Labour Congress](http://twitter.com/search?q=Nigeria+Labour+Congress) | N/A |
-| 28 | [Aisha Buhari](http://twitter.com/search?q=Aisha+Buhari) | N/A |
-| 29 | [Apostle Selman](http://twitter.com/search?q=Apostle+Selman) | N/A |
-| 30 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 31 | [Naira Marley](http://twitter.com/search?q=Naira+Marley) | N/A |
-| 32 | [Apostle Joshua Selman](http://twitter.com/search?q=Apostle+Joshua+Selman) | N/A |
-| 33 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
-| 34 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 35 | [from 2-0](http://twitter.com/search?q=from+2-0) | N/A |
-| 36 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
-| 37 | [VERIFIED ADEKUNLE](http://twitter.com/search?q=VERIFIED+ADEKUNLE) | N/A |
-| 38 | [ned nwoko](http://twitter.com/search?q=ned+nwoko) | N/A |
-| 39 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 40 | [KHOSI THE SPIRITUALIST](http://twitter.com/search?q=KHOSI+THE+SPIRITUALIST) | N/A |
-| 41 | [HEAD OF HOUSE YEMI CREGX](http://twitter.com/search?q=HEAD+OF+HOUSE+YEMI+CREGX) | N/A |
-| 42 | [Congratulations Chizzy](http://twitter.com/search?q=Congratulations+Chizzy) | N/A |
-| 43 | [NUNEZ](http://twitter.com/search?q=NUNEZ) | N/A |
-| 44 | [DOWNLOAD CHIPPER APP](http://twitter.com/search?q=DOWNLOAD+CHIPPER+APP) | N/A |
-| 45 | [BIG BENZ](http://twitter.com/search?q=BIG+BENZ) | N/A |
-| 46 | [Ahmed Tinubu](http://twitter.com/search?q=Ahmed+Tinubu) | N/A |
-| 47 | [Victor Osimhen](http://twitter.com/search?q=Victor+Osimhen) | Victor Osimhen is a Nigerian professional footballer who plays as a forward for Lille in the French Ligue 1. His name is derived from the Yoruba language, with "Osimhen" meaning "God has done it". |
-| 48 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 49 | [Copy And Paste](http://twitter.com/search?q=Copy+And+Paste) | N/A |
+| 9 | [Buba Galadima](http://twitter.com/search?q=Buba+Galadima) | N/A |
+| 10 | [DOWNLOAD CHIPPER APP](http://twitter.com/search?q=DOWNLOAD+CHIPPER+APP) | N/A |
+| 11 | [CHIPPER X SHEGGZ](http://twitter.com/search?q=CHIPPER+X+SHEGGZ) | N/A |
+| 12 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
+| 13 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 14 | [HEAD OF HOUSE YEMI CREGX](http://twitter.com/search?q=HEAD+OF+HOUSE+YEMI+CREGX) | N/A |
+| 15 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
+| 16 | [VERIFIED ADEKUNLE](http://twitter.com/search?q=VERIFIED+ADEKUNLE) | N/A |
+| 17 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
+| 18 | [Ahmed Tinubu](http://twitter.com/search?q=Ahmed+Tinubu) | N/A |
+| 19 | [KHOSI THE SPIRITUALIST](http://twitter.com/search?q=KHOSI+THE+SPIRITUALIST) | N/A |
+| 20 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
+| 21 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
+| 22 | [Apostle Selman](http://twitter.com/search?q=Apostle+Selman) | N/A |
+| 23 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 24 | [Ned Nwoko](http://twitter.com/search?q=Ned+Nwoko) | N/A |
+| 25 | [Amaechi](http://twitter.com/search?q=Amaechi) | N/A |
+| 26 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 27 | [Karma](http://twitter.com/search?q=Karma) | N/A |
+| 28 | [Nigeria Labour Congress](http://twitter.com/search?q=Nigeria+Labour+Congress) | N/A |
+| 29 | [Apostle Joshua Selman](http://twitter.com/search?q=Apostle+Joshua+Selman) | N/A |
+| 30 | [#gtbank](http://twitter.com/search?q=%23gtbank) | N/A |
+| 31 | [#MoneyLounge](http://twitter.com/search?q=%23MoneyLounge) | N/A |
+| 32 | [#SimFubara](http://twitter.com/search?q=%23SimFubara) | N/A |
+| 33 | [#PeterObi2023](http://twitter.com/search?q=%23PeterObi2023) | N/A |
+| 34 | [#BVAS](http://twitter.com/search?q=%23BVAS) | N/A |
+| 35 | [#bankstrivia](http://twitter.com/search?q=%23bankstrivia) | N/A |
+| 36 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
+| 37 | [#YMKfor2023](http://twitter.com/search?q=%23YMKfor2023) | N/A |
+| 38 | [#VotePeterObiForPresident2023](http://twitter.com/search?q=%23VotePeterObiForPresident2023) | N/A |
+| 39 | [#accessbank](http://twitter.com/search?q=%23accessbank) | N/A |
+| 40 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
+| 41 | [#VoteLabourParty](http://twitter.com/search?q=%23VoteLabourParty) | N/A |
+| 42 | [#VotePeterObi4President](http://twitter.com/search?q=%23VotePeterObi4President) | N/A |
+| 43 | [#AdekunleOlopade](http://twitter.com/search?q=%23AdekunleOlopade) | N/A |
+| 44 | [#PancakeDay](http://twitter.com/search?q=%23PancakeDay) | N/A |
 
 
 

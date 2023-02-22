@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-22 11:16:57 UTC`
+📆 Last Updated: `2023-02-22 12:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 4 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
 | 5 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 6 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
+| 6 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
 | 7 | [#AshWednesday](http://twitter.com/search?q=%23AshWednesday) | N/A |
-| 8 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 9 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 10 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
-| 11 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
-| 12 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
-| 13 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
-| 14 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 15 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 16 | [Bangladeshi](http://twitter.com/search?q=Bangladeshi) | N/A |
-| 17 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 18 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
-| 19 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
-| 20 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 21 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
-| 22 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 23 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
-| 24 | [mel giedroyc](http://twitter.com/search?q=mel+giedroyc) | N/A |
+| 8 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 9 | [Bangladeshi](http://twitter.com/search?q=Bangladeshi) | N/A |
+| 10 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
+| 11 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 12 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 13 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
+| 14 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 15 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 16 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 17 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 18 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
+| 19 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
+| 20 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 21 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
+| 22 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 23 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
+| 24 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
 | 25 | [Islamic State](http://twitter.com/search?q=Islamic+State) | N/A |
-| 26 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
-| 27 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 28 | [World Thinking Day](http://twitter.com/search?q=World+Thinking+Day) | N/A |
+| 26 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 27 | [World Thinking Day](http://twitter.com/search?q=World+Thinking+Day) | N/A |
+| 28 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
 | 29 | [South West Norfolk](http://twitter.com/search?q=South+West+Norfolk) | N/A |
-| 30 | [Zoe Ball](http://twitter.com/search?q=Zoe+Ball) | N/A |
-| 31 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 30 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 31 | [Zoe Ball](http://twitter.com/search?q=Zoe+Ball) | N/A |
 | 32 | [Das Kapital](http://twitter.com/search?q=Das+Kapital) | N/A |
-| 33 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
-| 34 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
-| 35 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 36 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
+| 33 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
+| 34 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 35 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 36 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
 | 37 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
 | 38 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 39 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 40 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
-| 41 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 42 | [Brexit Britain](http://twitter.com/search?q=Brexit+Britain) | N/A |
-| 43 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 44 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 45 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 46 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 47 | [#ASongOrMovieForThinking](http://twitter.com/search?q=%23ASongOrMovieForThinking) | N/A |
-| 48 | [#happybirthdaychrismoyles](http://twitter.com/search?q=%23happybirthdaychrismoyles) | N/A |
-| 49 | [#WellbeingWednesday](http://twitter.com/search?q=%23WellbeingWednesday) | N/A |
-| 50 | [#ATEEZinLondon](http://twitter.com/search?q=%23ATEEZinLondon) | N/A |
+| 39 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 40 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 41 | [Brexit Britain](http://twitter.com/search?q=Brexit+Britain) | N/A |
+| 42 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 43 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
+| 44 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 45 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 46 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 47 | [#WellbeingWednesday](http://twitter.com/search?q=%23WellbeingWednesday) | N/A |
+| 48 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
+| 49 | [#happybirthdaychrismoyles](http://twitter.com/search?q=%23happybirthdaychrismoyles) | N/A |
+| 50 | [#WorldEncephalitisDay](http://twitter.com/search?q=%23WorldEncephalitisDay) | N/A |
 
 
 

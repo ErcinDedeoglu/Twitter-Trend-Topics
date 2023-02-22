@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-02-22 11:17:20 UTC`
+📆 Last Updated: `2023-02-22 12:18:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [岡田くん](http://twitter.com/search?q=%e5%b2%a1%e7%94%b0%e3%81%8f%e3%82%93) | 岡田くん is a Japanese nickname for someone named Okada. It is a term of endearment, similar to calling someone "Okada-kun" in English. |
-| 2 | [マウンド](http://twitter.com/search?q=%e3%83%9e%e3%82%a6%e3%83%b3%e3%83%89) | N/A |
-| 3 | [自己採点](http://twitter.com/search?q=%e8%87%aa%e5%b7%b1%e6%8e%a1%e7%82%b9) | 自己採点 (jiko saiden) is a Japanese phrase that literally translates to "self-scoring". It is used to refer to the practice of self-evaluation or self-assessment. It is often used in the context of school or work, where an individual evaluates their own performance or progress. |
-| 4 | [アクエリアス杯](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%a8%e3%83%aa%e3%82%a2%e3%82%b9%e6%9d%af) | アクエリアス杯 (Aquarius Cup) is an annual tournament held in Japan for the game of Aquarius, a card game similar to Uno. The tournament is organized by the Aquarius Association of Japan and has been held since 1998. The tournament is open to all players regardless of age or experience level. The winner of the tournament receives a trophy and prize money. |
-| 5 | [スガキヤ](http://twitter.com/search?q=%e3%82%b9%e3%82%ac%e3%82%ad%e3%83%a4) | N/A |
-| 6 | [結婚記念日](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
-| 7 | [忍者の日](http://twitter.com/search?q=%e5%bf%8d%e8%80%85%e3%81%ae%e6%97%a5) | N/A |
-| 8 | [うちの猫](http://twitter.com/search?q=%e3%81%86%e3%81%a1%e3%81%ae%e7%8c%ab) | N/A |
-| 9 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
-| 10 | [ファミマ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%9f%e3%83%9e) | N/A |
-| 11 | [#Weareyoung](http://twitter.com/search?q=%23Weareyoung) | N/A |
-| 12 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
-| 13 | [#猫の日](http://twitter.com/search?q=%23%e7%8c%ab%e3%81%ae%e6%97%a5) | N/A |
-| 14 | [空耳アワー](http://twitter.com/search?q=%e7%a9%ba%e8%80%b3%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
-| 15 | [#ぱかライブTV](http://twitter.com/search?q=%23%e3%81%b1%e3%81%8b%e3%83%a9%e3%82%a4%e3%83%96TV) | #ぱかライブTV is a Japanese streaming service that allows users to watch live TV and movies on their mobile devices. The name is a combination of the words "paka" (パカ) which means "to watch" and "live TV". In English, it translates to "Watch Live TV". |
-| 16 | [#あなたの猫度診断](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e7%8c%ab%e5%ba%a6%e8%a8%ba%e6%96%ad) | N/A |
-| 17 | [#シャニマス生配信](http://twitter.com/search?q=%23%e3%82%b7%e3%83%a3%e3%83%8b%e3%83%9e%e3%82%b9%e7%94%9f%e9%85%8d%e4%bf%a1) | #シャニマス生配信 is a hashtag used on Twitter to refer to live streaming broadcasts of the popular Japanese rhythm game, "Idolmaster Cinderella Girls Starlight Stage". The English translation of this hashtag would be "Idolmaster Cinderella Girls Starlight Stage Live Stream". |
-| 18 | [ジェッカス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%82%ab%e3%82%b9) | N/A |
-| 19 | [シャプマ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%97%e3%83%9e) | シャプマ is a type of Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. In English, it is sometimes referred to as a "shamisen song". |
-| 20 | [放送40年](http://twitter.com/search?q=%e6%94%be%e9%80%8140%e5%b9%b4) | N/A |
-| 21 | [マニアック企画](http://twitter.com/search?q=%e3%83%9e%e3%83%8b%e3%82%a2%e3%83%83%e3%82%af%e4%bc%81%e7%94%bb) | N/A |
-| 22 | [ねこの日](http://twitter.com/search?q=%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
-| 23 | [アラバキ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%90%e3%82%ad) | アラバキ is a Japanese slang term that means "foolish" or "stupid". It is often used to describe someone who has done something foolish or made a mistake. |
-| 24 | [生粋の猫](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e7%8c%ab) | N/A |
-| 25 | [猫度80](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a680) | N/A |
-| 26 | [猫っぷり](http://twitter.com/search?q=%e7%8c%ab%e3%81%a3%e3%81%b7%e3%82%8a) | N/A |
-| 27 | [本物のネコちゃん](http://twitter.com/search?q=%e6%9c%ac%e7%89%a9%e3%81%ae%e3%83%8d%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 28 | [猫度100](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a6100) | N/A |
-| 29 | [大腿骨骨折](http://twitter.com/search?q=%e5%a4%a7%e8%85%bf%e9%aa%a8%e9%aa%a8%e6%8a%98) | N/A |
-| 30 | [タモさん](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%81%95%e3%82%93) | タモさん is a nickname for the Japanese cartoon character Tamogotchi. It is derived from the combination of the words "tamago" (egg) and "gotchi" (a portmanteau of "virtual pet"). In English, it can be translated to mean "Mr. Tamogotchi". |
-| 31 | [シャーカー](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%bc%e3%82%ab%e3%83%bc) | N/A |
-| 32 | [スシコラ](http://twitter.com/search?q=%e3%82%b9%e3%82%b7%e3%82%b3%e3%83%a9) | N/A |
-| 33 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 34 | [月と金星と木星](http://twitter.com/search?q=%e6%9c%88%e3%81%a8%e9%87%91%e6%98%9f%e3%81%a8%e6%9c%a8%e6%98%9f) | N/A |
-| 35 | [みくにゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%8f%e3%81%ab%e3%82%83%e3%82%93) | N/A |
-| 36 | [笑瓶さん](http://twitter.com/search?q=%e7%ac%91%e7%93%b6%e3%81%95%e3%82%93) | N/A |
-| 37 | [ダンプラ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%97%e3%83%a9) | N/A |
-| 38 | [アメフラシ](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%95%e3%83%a9%e3%82%b7) | N/A |
-| 39 | [春川さん](http://twitter.com/search?q=%e6%98%a5%e5%b7%9d%e3%81%95%e3%82%93) | 春川さん is a Japanese honorific title used to refer to someone who is respected or admired. In English, it can be translated as "Mr. Harukawa" or "Ms. Harukawa". |
-| 40 | [猫系男子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e7%94%b7%e5%ad%90) | N/A |
-| 41 | [猫度50](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a650) | N/A |
-| 42 | [猫系女子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e5%a5%b3%e5%ad%90) | N/A |
-| 43 | [サブスペ](http://twitter.com/search?q=%e3%82%b5%e3%83%96%e3%82%b9%e3%83%9a) | N/A |
-| 44 | [恋ダンス](http://twitter.com/search?q=%e6%81%8b%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
-| 45 | [つくばエクスプレス](http://twitter.com/search?q=%e3%81%a4%e3%81%8f%e3%81%b0%e3%82%a8%e3%82%af%e3%82%b9%e3%83%97%e3%83%ac%e3%82%b9) | N/A |
-| 46 | [マンタマリア](http://twitter.com/search?q=%e3%83%9e%e3%83%b3%e3%82%bf%e3%83%9e%e3%83%aa%e3%82%a2) | N/A |
-| 47 | [大動脈解離](http://twitter.com/search?q=%e5%a4%a7%e5%8b%95%e8%84%88%e8%a7%a3%e9%9b%a2) | N/A |
-| 48 | [猫の風上](http://twitter.com/search?q=%e7%8c%ab%e3%81%ae%e9%a2%a8%e4%b8%8a) | N/A |
-| 49 | [猫度20](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a620) | N/A |
-| 50 | [ファッション猫](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3%e7%8c%ab) | N/A |
+| 2 | [天皇誕生日](http://twitter.com/search?q=%e5%a4%a9%e7%9a%87%e8%aa%95%e7%94%9f%e6%97%a5) | N/A |
+| 3 | [デレステ](http://twitter.com/search?q=%e3%83%87%e3%83%ac%e3%82%b9%e3%83%86) | N/A |
+| 4 | [マウンド](http://twitter.com/search?q=%e3%83%9e%e3%82%a6%e3%83%b3%e3%83%89) | N/A |
+| 5 | [#スーキャス](http://twitter.com/search?q=%23%e3%82%b9%e3%83%bc%e3%82%ad%e3%83%a3%e3%82%b9) | N/A |
+| 6 | [自己採点](http://twitter.com/search?q=%e8%87%aa%e5%b7%b1%e6%8e%a1%e7%82%b9) | 自己採点 (jiko saiden) is a Japanese phrase that literally translates to "self-scoring". It is used to refer to the practice of self-evaluation or self-assessment. It is often used in the context of school or work, where an individual evaluates their own performance or progress. |
+| 7 | [ちゅーる](http://twitter.com/search?q=%e3%81%a1%e3%82%85%e3%83%bc%e3%82%8b) | N/A |
+| 8 | [PSVR2](http://twitter.com/search?q=PSVR2) | PSVR2 is an abbreviation for PlayStation Virtual Reality 2, which is the second generation of Sony's virtual reality headset for the PlayStation gaming console. It is designed to provide an immersive gaming experience with improved visuals, audio, and tracking technology. |
+| 9 | [スガキヤ](http://twitter.com/search?q=%e3%82%b9%e3%82%ac%e3%82%ad%e3%83%a4) | N/A |
+| 10 | [アクエリアス杯](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%a8%e3%83%aa%e3%82%a2%e3%82%b9%e6%9d%af) | アクエリアス杯 (Aquarius Cup) is an annual tournament held in Japan for the game of Aquarius, a card game similar to Uno. The tournament is organized by the Aquarius Association of Japan and has been held since 1998. The tournament is open to all players regardless of age or experience level. The winner of the tournament receives a trophy and prize money. |
+| 11 | [結婚記念日](http://twitter.com/search?q=%e7%b5%90%e5%a9%9a%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
+| 12 | [にゃんこの日](http://twitter.com/search?q=%e3%81%ab%e3%82%83%e3%82%93%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
+| 13 | [忍者の日](http://twitter.com/search?q=%e5%bf%8d%e8%80%85%e3%81%ae%e6%97%a5) | N/A |
+| 14 | [うちの猫](http://twitter.com/search?q=%e3%81%86%e3%81%a1%e3%81%ae%e7%8c%ab) | N/A |
+| 15 | [ヨントン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%88%e3%83%b3) | ヨントン (Yonton) is a Japanese word that means "four-leaf clover". It is believed to bring good luck and fortune. |
+| 16 | [#中日ドラゴンズ](http://twitter.com/search?q=%23%e4%b8%ad%e6%97%a5%e3%83%89%e3%83%a9%e3%82%b4%e3%83%b3%e3%82%ba) | N/A |
+| 17 | [#猫の日](http://twitter.com/search?q=%23%e7%8c%ab%e3%81%ae%e6%97%a5) | N/A |
+| 18 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
+| 19 | [#ぱかライブTV](http://twitter.com/search?q=%23%e3%81%b1%e3%81%8b%e3%83%a9%e3%82%a4%e3%83%96TV) | #ぱかライブTV is a Japanese streaming service that allows users to watch live TV and movies on their mobile devices. The name is a combination of the words "paka" (パカ) which means "to watch" and "live TV". In English, it translates to "Watch Live TV". |
+| 20 | [#猫又おかゆ2023生誕祭Live](http://twitter.com/search?q=%23%e7%8c%ab%e5%8f%88%e3%81%8a%e3%81%8b%e3%82%862023%e7%94%9f%e8%aa%95%e7%a5%adLive) | N/A |
+| 21 | [空耳アワー](http://twitter.com/search?q=%e7%a9%ba%e8%80%b3%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
+| 22 | [進化スキル](http://twitter.com/search?q=%e9%80%b2%e5%8c%96%e3%82%b9%e3%82%ad%e3%83%ab) | N/A |
+| 23 | [ねこの日](http://twitter.com/search?q=%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
+| 24 | [ジェッカス](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%83%e3%82%ab%e3%82%b9) | N/A |
+| 25 | [因子強化](http://twitter.com/search?q=%e5%9b%a0%e5%ad%90%e5%bc%b7%e5%8c%96) | N/A |
+| 26 | [シャプマ](http://twitter.com/search?q=%e3%82%b7%e3%83%a3%e3%83%97%e3%83%9e) | シャプマ is a type of Japanese folk song. It is usually sung in a call-and-response style, with one singer singing the main melody and the other singers responding with a chorus. In English, it is sometimes referred to as a "shamisen song". |
+| 27 | [春川さん](http://twitter.com/search?q=%e6%98%a5%e5%b7%9d%e3%81%95%e3%82%93) | 春川さん is a Japanese honorific title used to refer to someone who is respected or admired. In English, it can be translated as "Mr. Harukawa" or "Ms. Harukawa". |
+| 28 | [キービジュアル](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%93%e3%82%b8%e3%83%a5%e3%82%a2%e3%83%ab) | N/A |
+| 29 | [アラバキ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%90%e3%82%ad) | アラバキ is a Japanese slang term that means "foolish" or "stupid". It is often used to describe someone who has done something foolish or made a mistake. |
+| 30 | [生粋の猫](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e7%8c%ab) | N/A |
+| 31 | [猫度80](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a680) | N/A |
+| 32 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 33 | [猫っぷり](http://twitter.com/search?q=%e7%8c%ab%e3%81%a3%e3%81%b7%e3%82%8a) | N/A |
+| 34 | [マチュピチュ](http://twitter.com/search?q=%e3%83%9e%e3%83%81%e3%83%a5%e3%83%94%e3%83%81%e3%83%a5) | N/A |
+| 35 | [ウマ娘3](http://twitter.com/search?q=%e3%82%a6%e3%83%9e%e5%a8%983) | N/A |
+| 36 | [放送40年](http://twitter.com/search?q=%e6%94%be%e9%80%8140%e5%b9%b4) | N/A |
+| 37 | [マニアック企画](http://twitter.com/search?q=%e3%83%9e%e3%83%8b%e3%82%a2%e3%83%83%e3%82%af%e4%bc%81%e7%94%bb) | N/A |
+| 38 | [ナギサ様](http://twitter.com/search?q=%e3%83%8a%e3%82%ae%e3%82%b5%e6%a7%98) | N/A |
+| 39 | [本物のネコちゃん](http://twitter.com/search?q=%e6%9c%ac%e7%89%a9%e3%81%ae%e3%83%8d%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 40 | [猫度100](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a6100) | N/A |
+| 41 | [ベイブレード](http://twitter.com/search?q=%e3%83%99%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%83%89) | N/A |
+| 42 | [ネコの日](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%81%ae%e6%97%a5) | N/A |
+| 43 | [タモさん](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%81%95%e3%82%93) | タモさん is a nickname for the Japanese cartoon character Tamogotchi. It is derived from the combination of the words "tamago" (egg) and "gotchi" (a portmanteau of "virtual pet"). In English, it can be translated to mean "Mr. Tamogotchi". |
+| 44 | [大腿骨骨折](http://twitter.com/search?q=%e5%a4%a7%e8%85%bf%e9%aa%a8%e9%aa%a8%e6%8a%98) | N/A |
+| 45 | [シービー](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%93%e3%83%bc) | シービー (shībī) is a Japanese onomatopoeia that is used to describe the sound of a wave crashing against the shore. In English, it can be translated as "splash" or "crash". |
+| 46 | [猫系男子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e7%94%b7%e5%ad%90) | N/A |
+| 47 | [猫系女子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e5%a5%b3%e5%ad%90) | N/A |
+| 48 | [猫度50](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a650) | N/A |
+| 49 | [AinoArika](http://twitter.com/search?q=AinoArika) | N/A |
+| 50 | [子ども予算倍増](http://twitter.com/search?q=%e5%ad%90%e3%81%a9%e3%82%82%e4%ba%88%e7%ae%97%e5%80%8d%e5%a2%97) | N/A |
 
 
 

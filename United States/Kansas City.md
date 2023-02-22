@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kansas City
 
-📆 Last Updated: `2023-02-22 11:17:44 UTC`
+📆 Last Updated: `2023-02-22 12:19:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [nick honor](http://twitter.com/search?q=nick+honor) | N/A |
-| 2 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 2 | [mississippi state](http://twitter.com/search?q=mississippi+state) | N/A |
 | 3 | [#mizzou](http://twitter.com/search?q=%23mizzou) | N/A |
 | 4 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
 | 5 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 6 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 7 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 8 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
-| 9 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 10 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 11 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
-| 12 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
+| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 8 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 9 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 11 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 12 | [Lent](http://twitter.com/search?q=Lent) | N/A |
 | 13 | [THEY THREW BEANS ON HIM](http://twitter.com/search?q=THEY+THREW+BEANS+ON+HIM) | N/A |
-| 14 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 15 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 16 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 17 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 18 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
-| 19 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 20 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
-| 21 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 22 | [Nemo](http://twitter.com/search?q=Nemo) | N/A |
-| 23 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 24 | [megumi](http://twitter.com/search?q=megumi) | N/A |
-| 25 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 26 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 27 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 28 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 29 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 30 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 31 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
-| 32 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 14 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 15 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 16 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 17 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
+| 18 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 19 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 20 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 21 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
+| 22 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 23 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
+| 24 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 25 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 26 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
+| 27 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 28 | [Distress](http://twitter.com/search?q=Distress) | N/A |
+| 29 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 30 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 31 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
+| 32 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
 | 33 | [The Incredibles](http://twitter.com/search?q=The+Incredibles) | N/A |
-| 34 | [Ines](http://twitter.com/search?q=Ines) | N/A |
-| 35 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 34 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 35 | [Ines](http://twitter.com/search?q=Ines) | N/A |
 | 36 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 37 | [Ferb](http://twitter.com/search?q=Ferb) | Ferb is a character from the Disney Channel animated series Phineas and Ferb. His name is a play on the word "verb," as he is often seen performing various activities. He is the stepbrother of Phineas Flynn and the son of Lawrence Fletcher. He is voiced by British actor Thomas Sangster. |
-| 38 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 39 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
-| 40 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 41 | [Physical 100](http://twitter.com/search?q=Physical+100) | N/A |
-| 42 | [Kariselle](http://twitter.com/search?q=Kariselle) | N/A |
-| 43 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
-| 44 | [Kevin Gates](http://twitter.com/search?q=Kevin+Gates) | N/A |
-| 45 | [Rollie](http://twitter.com/search?q=Rollie) | N/A |
-| 46 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
-| 47 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 48 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 49 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 37 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 38 | [Physical 100](http://twitter.com/search?q=Physical+100) | N/A |
+| 39 | [Kevin Gates](http://twitter.com/search?q=Kevin+Gates) | N/A |
+| 40 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
+| 41 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
+| 42 | [#tangent](http://twitter.com/search?q=%23tangent) | N/A |
+| 43 | [#UkraineRussianWar](http://twitter.com/search?q=%23UkraineRussianWar) | N/A |
+| 44 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
+| 45 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
+| 46 | [#PerfectMatchNetflix](http://twitter.com/search?q=%23PerfectMatchNetflix) | N/A |
+| 47 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 48 | [#StyleOfThieves](http://twitter.com/search?q=%23StyleOfThieves) | N/A |
 
 
 

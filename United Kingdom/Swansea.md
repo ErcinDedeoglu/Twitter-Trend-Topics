@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Swansea
 
-📆 Last Updated: `2023-02-22 11:16:56 UTC`
+📆 Last Updated: `2023-02-22 12:18:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,49 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 2 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 3 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 5 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 6 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
-| 7 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 8 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
-| 9 | [#AshWednesday](http://twitter.com/search?q=%23AshWednesday) | N/A |
-| 10 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 11 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 4 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
+| 5 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 6 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 7 | [#AshWednesday](http://twitter.com/search?q=%23AshWednesday) | N/A |
+| 8 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
+| 9 | [Bangladeshi](http://twitter.com/search?q=Bangladeshi) | N/A |
+| 10 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
+| 11 | [Lent](http://twitter.com/search?q=Lent) | N/A |
 | 12 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
-| 13 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
-| 14 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
-| 15 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 16 | [Bangladeshi](http://twitter.com/search?q=Bangladeshi) | N/A |
-| 17 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 18 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
-| 19 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
-| 20 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 21 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
-| 22 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 23 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
-| 24 | [mel giedroyc](http://twitter.com/search?q=mel+giedroyc) | N/A |
-| 25 | [Islamic State](http://twitter.com/search?q=Islamic+State) | N/A |
+| 13 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 14 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 15 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 16 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
+| 17 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 18 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
+| 19 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 20 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
+| 21 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
+| 22 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
+| 23 | [Islamic State](http://twitter.com/search?q=Islamic+State) | N/A |
+| 24 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 25 | [World Thinking Day](http://twitter.com/search?q=World+Thinking+Day) | N/A |
 | 26 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
-| 27 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 28 | [World Thinking Day](http://twitter.com/search?q=World+Thinking+Day) | N/A |
-| 29 | [South West Norfolk](http://twitter.com/search?q=South+West+Norfolk) | N/A |
-| 30 | [Zoe Ball](http://twitter.com/search?q=Zoe+Ball) | N/A |
-| 31 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 32 | [Das Kapital](http://twitter.com/search?q=Das+Kapital) | N/A |
-| 33 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
-| 34 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
-| 35 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 36 | [Morning Chris](http://twitter.com/search?q=Morning+Chris) | N/A |
-| 37 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 38 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 39 | [Humza Yousaf](http://twitter.com/search?q=Humza+Yousaf) | N/A |
-| 40 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
-| 41 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 42 | [Brexit Britain](http://twitter.com/search?q=Brexit+Britain) | N/A |
-| 43 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
-| 44 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 45 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
-| 46 | [#Eurovision2023](http://twitter.com/search?q=%23Eurovision2023) | N/A |
-| 47 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 48 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 27 | [South West Norfolk](http://twitter.com/search?q=South+West+Norfolk) | N/A |
+| 28 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 29 | [Zoe Ball](http://twitter.com/search?q=Zoe+Ball) | N/A |
+| 30 | [Das Kapital](http://twitter.com/search?q=Das+Kapital) | N/A |
+| 31 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
+| 32 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 33 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 34 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
+| 35 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
+| 36 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 37 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 38 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 39 | [Brexit Britain](http://twitter.com/search?q=Brexit+Britain) | N/A |
+| 40 | [Dan Walker](http://twitter.com/search?q=Dan+Walker) | N/A |
+| 41 | [Asda and Morrisons](http://twitter.com/search?q=Asda+and+Morrisons) | N/A |
+| 42 | [Horizon](http://twitter.com/search?q=Horizon) | N/A |
+| 43 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 44 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 45 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 46 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
 
 
 

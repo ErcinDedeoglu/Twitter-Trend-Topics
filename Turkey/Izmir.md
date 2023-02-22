@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-02-22 11:17:39 UTC`
+📆 Last Updated: `2023-02-22 12:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#galeriakurtarılmayıbekliyor](http://twitter.com/search?q=%23galeriakurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
-| 2 | [Örgütlü Suç Çetesi Ekşi](http://twitter.com/search?q=%c3%96rg%c3%bctl%c3%bc+Su%c3%a7+%c3%87etesi+Ek%c5%9fi) | N/A |
-| 3 | [#Unutmayacağız](http://twitter.com/search?q=%23Unutmayaca%c4%9f%c4%b1z) | N/A |
-| 4 | [#cokusdonemi](http://twitter.com/search?q=%23cokusdonemi) | N/A |
-| 5 | [Engin Ardıç](http://twitter.com/search?q=Engin+Ard%c4%b1%c3%a7) | N/A |
-| 6 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 7 | [#küfür](http://twitter.com/search?q=%23k%c3%bcf%c3%bcr) | N/A |
-| 8 | [#99ÖncesiŞartlarlaEkönergeye](http://twitter.com/search?q=%2399%c3%96ncesi%c5%9eartlarlaEk%c3%b6nergeye) | N/A |
-| 9 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
-| 10 | [Etmiyorsun](http://twitter.com/search?q=Etmiyorsun) | N/A |
-| 11 | [Necmettin](http://twitter.com/search?q=Necmettin) | N/A |
-| 12 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 13 | [Ataköy](http://twitter.com/search?q=Atak%c3%b6y) | N/A |
-| 14 | [Bingöl'ün Genç](http://twitter.com/search?q=Bing%c3%b6l%27%c3%bcn+Gen%c3%a7) | N/A |
-| 15 | [Doge](http://twitter.com/search?q=Doge) | N/A |
-| 16 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 17 | [Halka](http://twitter.com/search?q=Halka) | N/A |
-| 18 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
-| 19 | [Yarası](http://twitter.com/search?q=Yaras%c4%b1) | N/A |
-| 20 | [Üstüne](http://twitter.com/search?q=%c3%9cst%c3%bcne) | N/A |
-| 21 | [Dünya Savaşı](http://twitter.com/search?q=D%c3%bcnya+Sava%c5%9f%c4%b1) | N/A |
-| 22 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 23 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 24 | [22 Şubat](http://twitter.com/search?q=22+%c5%9eubat) | N/A |
-| 25 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
-| 26 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
-| 27 | [GÜNAYDIN](http://twitter.com/search?q=G%c3%9cNAYDIN) | N/A |
-| 28 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
-| 29 | [Şili](http://twitter.com/search?q=%c5%9eili) | N/A |
-| 30 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 31 | [Temizlik](http://twitter.com/search?q=Temizlik) | N/A |
-| 32 | [Hakedene](http://twitter.com/search?q=Hakedene) | N/A |
-| 33 | [Namussuz](http://twitter.com/search?q=Namussuz) | N/A |
-| 34 | [Selahattin Demirtaş](http://twitter.com/search?q=Selahattin+Demirta%c5%9f) | N/A |
-| 35 | [Üzerine](http://twitter.com/search?q=%c3%9czerine) | N/A |
-| 36 | [Lağım](http://twitter.com/search?q=La%c4%9f%c4%b1m) | N/A |
-| 37 | [#TarimsizKalkinmaOlmaz](http://twitter.com/search?q=%23TarimsizKalkinmaOlmaz) | N/A |
+| 2 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
+| 3 | [Kardeşlik Seferberliği](http://twitter.com/search?q=Karde%c5%9flik+Seferberli%c4%9fi) | N/A |
+| 4 | [Örgütlü Suç Çetesi Ekşi](http://twitter.com/search?q=%c3%96rg%c3%bctl%c3%bc+Su%c3%a7+%c3%87etesi+Ek%c5%9fi) | N/A |
+| 5 | [#Unutmayacağız](http://twitter.com/search?q=%23Unutmayaca%c4%9f%c4%b1z) | N/A |
+| 6 | [#cokusdonemi](http://twitter.com/search?q=%23cokusdonemi) | N/A |
+| 7 | [#99ÖncesiŞartlarlaEkönergeye](http://twitter.com/search?q=%2399%c3%96ncesi%c5%9eartlarlaEk%c3%b6nergeye) | N/A |
+| 8 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
+| 9 | [Engin Ardıç](http://twitter.com/search?q=Engin+Ard%c4%b1%c3%a7) | N/A |
+| 10 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 11 | [#küfür](http://twitter.com/search?q=%23k%c3%bcf%c3%bcr) | N/A |
+| 12 | [Etmiyorsun](http://twitter.com/search?q=Etmiyorsun) | N/A |
+| 13 | [Doge](http://twitter.com/search?q=Doge) | N/A |
+| 14 | [Necmettin](http://twitter.com/search?q=Necmettin) | N/A |
+| 15 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 16 | [Ataköy](http://twitter.com/search?q=Atak%c3%b6y) | N/A |
+| 17 | [Gaziantep - 49.670](http://twitter.com/search?q=Gaziantep+-+49.670) | N/A |
+| 18 | [Bingöl'ün Genç](http://twitter.com/search?q=Bing%c3%b6l%27%c3%bcn+Gen%c3%a7) | N/A |
+| 19 | [Yürü Bay Kemal](http://twitter.com/search?q=Y%c3%bcr%c3%bc+Bay+Kemal) | N/A |
+| 20 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
+| 21 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
+| 22 | [Halka](http://twitter.com/search?q=Halka) | N/A |
+| 23 | [Onur Bulut](http://twitter.com/search?q=Onur+Bulut) | N/A |
+| 24 | [Namussuz](http://twitter.com/search?q=Namussuz) | N/A |
+| 25 | [Yarası](http://twitter.com/search?q=Yaras%c4%b1) | N/A |
+| 26 | [İmdat](http://twitter.com/search?q=%c4%b0mdat) | N/A |
+| 27 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 28 | [Dünya Savaşı](http://twitter.com/search?q=D%c3%bcnya+Sava%c5%9f%c4%b1) | N/A |
+| 29 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 30 | [22 Şubat](http://twitter.com/search?q=22+%c5%9eubat) | N/A |
+| 31 | [Üstüne](http://twitter.com/search?q=%c3%9cst%c3%bcne) | N/A |
+| 32 | [Temizlik](http://twitter.com/search?q=Temizlik) | N/A |
+| 33 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
+| 34 | [Portakal](http://twitter.com/search?q=Portakal) | N/A |
+| 35 | [gunaydin](http://twitter.com/search?q=gunaydin) | N/A |
+| 36 | [Şili](http://twitter.com/search?q=%c5%9eili) | N/A |
+| 37 | [günaydınlar](http://twitter.com/search?q=g%c3%bcnayd%c4%b1nlar) | N/A |
 | 38 | [#StajaAdaletZamanı](http://twitter.com/search?q=%23StajaAdaletZaman%c4%b1) | N/A |
-| 39 | [#AfraSaraçoğlu](http://twitter.com/search?q=%23AfraSara%c3%a7o%c4%9flu) | N/A |
-| 40 | [#EYTyeVerdiginizSözüTutun](http://twitter.com/search?q=%23EYTyeVerdiginizS%c3%b6z%c3%bcTutun) | N/A |
-| 41 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
-| 42 | [#cimsa](http://twitter.com/search?q=%23cimsa) | N/A |
-| 43 | [#oyakc](http://twitter.com/search?q=%23oyakc) | N/A |
-| 44 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
-| 45 | [#mertramazandemir](http://twitter.com/search?q=%23mertramazandemir) | N/A |
-| 46 | [#BirKiraBirYuva](http://twitter.com/search?q=%23BirKiraBirYuva) | N/A |
-| 47 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 39 | [#TarimsizKalkinmaOlmaz](http://twitter.com/search?q=%23TarimsizKalkinmaOlmaz) | N/A |
+| 40 | [#afrasaraçoğlu](http://twitter.com/search?q=%23afrasara%c3%a7o%c4%9flu) | N/A |
+| 41 | [#EYTyeVerdiginizSözüTutun](http://twitter.com/search?q=%23EYTyeVerdiginizS%c3%b6z%c3%bcTutun) | N/A |
+| 42 | [#eregl](http://twitter.com/search?q=%23eregl) | N/A |
+| 43 | [#cimsa](http://twitter.com/search?q=%23cimsa) | N/A |
+| 44 | [#BirKiraBirYuva](http://twitter.com/search?q=%23BirKiraBirYuva) | N/A |
+| 45 | [#çarşamba](http://twitter.com/search?q=%23%c3%a7ar%c5%9famba) | N/A |
+| 46 | [#MertRamazanDemir](http://twitter.com/search?q=%23MertRamazanDemir) | N/A |
+| 47 | [#oyakc](http://twitter.com/search?q=%23oyakc) | N/A |
 | 48 | [#xu100](http://twitter.com/search?q=%23xu100) | N/A |
-| 49 | [#afyon](http://twitter.com/search?q=%23afyon) | N/A |
-| 50 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
+| 49 | [#pnlsn](http://twitter.com/search?q=%23pnlsn) | N/A |
+| 50 | [#krdmd](http://twitter.com/search?q=%23krdmd) | N/A |
 
 
 

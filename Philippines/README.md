@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philippines
 
-📆 Last Updated: `2023-02-22 11:17:58 UTC`
+📆 Last Updated: `2023-02-22 12:19:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,49 @@ This is top 50 for Philippines
 | ------- | ------------ | ------------ |
 | 1 | [#Presave_Wild_Tonight_NOW](http://twitter.com/search?q=%23Presave_Wild_Tonight_NOW) | N/A |
 | 2 | [WILD TONIGHT MV TEASER2](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER2) | N/A |
-| 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 4 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 5 | [#GoodbyeNow](http://twitter.com/search?q=%23GoodbyeNow) | N/A |
-| 6 | [#mcipasabog](http://twitter.com/search?q=%23mcipasabog) | N/A |
-| 7 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
-| 8 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 9 | [LUCKYBEAUTY SHORT FILM](http://twitter.com/search?q=LUCKYBEAUTY+SHORT+FILM) | N/A |
-| 10 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 11 | [#AnInconvenientLoveonNetflix](http://twitter.com/search?q=%23AnInconvenientLoveonNetflix) | N/A |
-| 12 | [AILonNETFLIX BUKAS NA](http://twitter.com/search?q=AILonNETFLIX+BUKAS+NA) | N/A |
+| 3 | [#MCIMabuhayKaRizal](http://twitter.com/search?q=%23MCIMabuhayKaRizal) | N/A |
+| 4 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 5 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 6 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
+| 7 | [LUCKYBEAUTY SHORT FILM](http://twitter.com/search?q=LUCKYBEAUTY+SHORT+FILM) | N/A |
+| 8 | [#GoodbyeNow](http://twitter.com/search?q=%23GoodbyeNow) | N/A |
+| 9 | [#JulieForJollibee](http://twitter.com/search?q=%23JulieForJollibee) | N/A |
+| 10 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
+| 11 | [JulieBEE BidaAngSaya](http://twitter.com/search?q=JulieBEE+BidaAngSaya) | N/A |
+| 12 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
 | 13 | [VivoreeMatapang 2DaysToGo](http://twitter.com/search?q=VivoreeMatapang+2DaysToGo) | N/A |
-| 14 | [JulieBEE BidaAngSaya](http://twitter.com/search?q=JulieBEE+BidaAngSaya) | N/A |
-| 15 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 16 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 17 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 18 | [KIM MINGYU](http://twitter.com/search?q=KIM+MINGYU) | N/A |
-| 19 | [Jeopardy](http://twitter.com/search?q=Jeopardy) | N/A |
-| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 21 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 22 | [TheALDEN RichardsStory](http://twitter.com/search?q=TheALDEN+RichardsStory) | N/A |
-| 23 | [bgyo at pldt smart natcon 2023](http://twitter.com/search?q=bgyo+at+pldt+smart+natcon+2023) | N/A |
-| 24 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
-| 25 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 26 | [TEDDY BEAR SECOND WIN](http://twitter.com/search?q=TEDDY+BEAR+SECOND+WIN) | N/A |
-| 27 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
-| 28 | [KAPAMILYA CHAT WITH ANDIABAYA](http://twitter.com/search?q=KAPAMILYA+CHAT+WITH+ANDIABAYA) | N/A |
-| 29 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
-| 30 | [Ferdinand Magellan Jr.](http://twitter.com/search?q=Ferdinand+Magellan+Jr.) | N/A |
-| 31 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
-| 32 | [congrats pldt](http://twitter.com/search?q=congrats+pldt) | N/A |
-| 33 | [taehyung on the game caterers](http://twitter.com/search?q=taehyung+on+the+game+caterers) | N/A |
-| 34 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 35 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 36 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 37 | [Apink](http://twitter.com/search?q=Apink) | N/A |
-| 38 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 39 | [closer mv](http://twitter.com/search?q=closer+mv) | N/A |
-| 40 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 41 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
-| 42 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 43 | [AND MORE](http://twitter.com/search?q=AND+MORE) | N/A |
-| 44 | [JIMIN SOLO ALBUM](http://twitter.com/search?q=JIMIN+SOLO+ALBUM) | N/A |
-| 45 | [RCEP](http://twitter.com/search?q=RCEP) | N/A |
-| 46 | [kopiko 78](http://twitter.com/search?q=kopiko+78) | N/A |
-| 47 | [Terrafirma](http://twitter.com/search?q=Terrafirma) | N/A |
-| 48 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 49 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
-| 50 | [ateneo de manila university](http://twitter.com/search?q=ateneo+de+manila+university) | N/A |
+| 14 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 15 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 16 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 17 | [Jeopardy](http://twitter.com/search?q=Jeopardy) | N/A |
+| 18 | [Ferdinand Magellan Jr.](http://twitter.com/search?q=Ferdinand+Magellan+Jr.) | N/A |
+| 19 | [KIM MINGYU](http://twitter.com/search?q=KIM+MINGYU) | N/A |
+| 20 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 21 | [G22 ANNIVERSARY COMEBACK](http://twitter.com/search?q=G22+ANNIVERSARY+COMEBACK) | N/A |
+| 22 | [Kaliwa Dam](http://twitter.com/search?q=Kaliwa+Dam) | N/A |
+| 23 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
+| 24 | [ailonnetflix bukas na](http://twitter.com/search?q=ailonnetflix+bukas+na) | N/A |
+| 25 | [Haruto](http://twitter.com/search?q=Haruto) | N/A |
+| 26 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 27 | [#PIESayaForDreamMaker](http://twitter.com/search?q=%23PIESayaForDreamMaker) | N/A |
+| 28 | [#VXON_DuloOnWishBus](http://twitter.com/search?q=%23VXON_DuloOnWishBus) | N/A |
+| 29 | [#MCGIShinesWithLove](http://twitter.com/search?q=%23MCGIShinesWithLove) | N/A |
+| 30 | [#TeddyBear2ndWin](http://twitter.com/search?q=%23TeddyBear2ndWin) | N/A |
+| 31 | [#TiffanyLockxWin](http://twitter.com/search?q=%23TiffanyLockxWin) | N/A |
+| 32 | [#WOODZ](http://twitter.com/search?q=%23WOODZ) | N/A |
+| 33 | [#ALDENxMPKRerun](http://twitter.com/search?q=%23ALDENxMPKRerun) | N/A |
+| 34 | [#AkoSiNinoy](http://twitter.com/search?q=%23AkoSiNinoy) | N/A |
+| 35 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
+| 36 | [#ABYSS](http://twitter.com/search?q=%23ABYSS) | N/A |
+| 37 | [#G22_Boomerang](http://twitter.com/search?q=%23G22_Boomerang) | N/A |
+| 38 | [#MCGICares](http://twitter.com/search?q=%23MCGICares) | N/A |
+| 39 | [#DonBelle](http://twitter.com/search?q=%23DonBelle) | N/A |
+| 40 | [#DiMoNaAkoKailanganTour](http://twitter.com/search?q=%23DiMoNaAkoKailanganTour) | N/A |
+| 41 | [#AnInconvenientLoveonNetflix](http://twitter.com/search?q=%23AnInconvenientLoveonNetflix) | N/A |
+| 42 | [#ShowtimeKulitKulit](http://twitter.com/search?q=%23ShowtimeKulitKulit) | N/A |
+| 43 | [#boycottebxgma714](http://twitter.com/search?q=%23boycottebxgma714) | N/A |
+| 44 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 45 | [#FELIP_ROCKSTA](http://twitter.com/search?q=%23FELIP_ROCKSTA) | #FELIP_ROCKSTA is a hashtag used to show support for the artist Felip Rocksta. It is often used on social media platforms such as Twitter and Instagram to show appreciation for his music and artistry. |
 
 
 

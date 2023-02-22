@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-22 11:17:15 UTC`
+📆 Last Updated: `2023-02-22 12:18:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [Sweden](</Sweden>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Löfving](http://twitter.com/search?q=L%c3%b6fving) | N/A |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 1 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 2 | [Mats Löfving](http://twitter.com/search?q=Mats+L%c3%b6fving) | N/A |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 4 | [Damberg](http://twitter.com/search?q=Damberg) | N/A |
-| 5 | [Bromma](http://twitter.com/search?q=Bromma) | N/A |
-| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 7 | [Thornberg](http://twitter.com/search?q=Thornberg) | N/A |
+| 5 | [bromma](http://twitter.com/search?q=bromma) | N/A |
+| 6 | [Anders Thornberg](http://twitter.com/search?q=Anders+Thornberg) | N/A |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 8 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 9 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
-| 10 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
-| 11 | [#fettisdagen](http://twitter.com/search?q=%23fettisdagen) | N/A |
-| 12 | [Semla](http://twitter.com/search?q=Semla) | N/A |
-| 13 | [Ebba](http://twitter.com/search?q=Ebba) | N/A |
-| 14 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 15 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
-| 16 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 9 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
+| 10 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
+| 11 | [Semla](http://twitter.com/search?q=Semla) | N/A |
+| 12 | [Ignis](http://twitter.com/search?q=Ignis) | N/A |
+| 13 | [#fettisdagen](http://twitter.com/search?q=%23fettisdagen) | N/A |
+| 14 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
+| 15 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 16 | [Ebba Busch](http://twitter.com/search?q=Ebba+Busch) | N/A |
 | 17 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 18 | [Farmanbar](http://twitter.com/search?q=Farmanbar) | N/A |
-| 19 | [Ignis](http://twitter.com/search?q=Ignis) | N/A |
-| 20 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
-| 21 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 23 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 24 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
-| 25 | [Venedig](http://twitter.com/search?q=Venedig) | N/A |
+| 18 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 19 | [farmanbar](http://twitter.com/search?q=farmanbar) | N/A |
+| 20 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 21 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
+| 22 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 23 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 24 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
+| 25 | [Postnord](http://twitter.com/search?q=Postnord) | N/A |
 | 26 | [Köpenhamn](http://twitter.com/search?q=K%c3%b6penhamn) | N/A |
-| 27 | [Postnord](http://twitter.com/search?q=Postnord) | N/A |
-| 28 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
-| 29 | [Ygeman](http://twitter.com/search?q=Ygeman) | N/A |
-| 30 | [Lagrådet](http://twitter.com/search?q=Lagr%c3%a5det) | N/A |
-| 31 | [NUNEZ](http://twitter.com/search?q=NUNEZ) | N/A |
-| 32 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 33 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 35 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 36 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |
-| 37 | [Reza Pahlavi](http://twitter.com/search?q=Reza+Pahlavi) | N/A |
-| 38 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
-| 39 | [EU-förordningen](http://twitter.com/search?q=EU-f%c3%b6rordningen) | N/A |
-| 40 | [smör](http://twitter.com/search?q=sm%c3%b6r) | N/A |
-| 41 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 42 | [SÄPO](http://twitter.com/search?q=S%c3%84PO) | N/A |
-| 43 | [skolverket](http://twitter.com/search?q=skolverket) | N/A |
-| 44 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 45 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 46 | [kebnekaise](http://twitter.com/search?q=kebnekaise) | N/A |
-| 47 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
-| 48 | [frölundaborg](http://twitter.com/search?q=fr%c3%b6lundaborg) | N/A |
-| 49 | [Björn Söder](http://twitter.com/search?q=Bj%c3%b6rn+S%c3%b6der) | N/A |
-| 50 | [alien life form](http://twitter.com/search?q=alien+life+form) | N/A |
+| 27 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 28 | [ygeman](http://twitter.com/search?q=ygeman) | N/A |
+| 29 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 30 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 31 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 32 | [EU-förordningen](http://twitter.com/search?q=EU-f%c3%b6rordningen) | N/A |
+| 33 | [Venedig](http://twitter.com/search?q=Venedig) | N/A |
+| 34 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 35 | [smör](http://twitter.com/search?q=sm%c3%b6r) | N/A |
+| 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 37 | [EBITDA](http://twitter.com/search?q=EBITDA) | N/A |
+| 38 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 39 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 40 | [Svantesson](http://twitter.com/search?q=Svantesson) | N/A |
+| 41 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 42 | [kebnekaise](http://twitter.com/search?q=kebnekaise) | N/A |
+| 43 | [Scandinavium](http://twitter.com/search?q=Scandinavium) | N/A |
+| 44 | [frölundaborg](http://twitter.com/search?q=fr%c3%b6lundaborg) | N/A |
+| 45 | [Mariupol](http://twitter.com/search?q=Mariupol) | N/A |
+| 46 | [utsikten](http://twitter.com/search?q=utsikten) | N/A |
+| 47 | [Watford](http://twitter.com/search?q=Watford) | N/A |
+| 48 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 49 | [Hetvägg](http://twitter.com/search?q=Hetv%c3%a4gg) | N/A |
 
 
 
