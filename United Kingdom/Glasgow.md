@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-22 14:17:19 UTC`
+📆 Last Updated: `2023-02-22 15:17:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 3 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
-| 4 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 1 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 2 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
+| 3 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 4 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 5 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
-| 6 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 7 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 8 | [Money in the Bank](http://twitter.com/search?q=Money+in+the+Bank) | N/A |
-| 9 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
-| 10 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
-| 11 | [#AshWednesday](http://twitter.com/search?q=%23AshWednesday) | N/A |
-| 12 | [She's British](http://twitter.com/search?q=She%27s+British) | N/A |
+| 6 | [Bangladeshi](http://twitter.com/search?q=Bangladeshi) | N/A |
+| 7 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 8 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 9 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 10 | [#MoneyInTheBank](http://twitter.com/search?q=%23MoneyInTheBank) | N/A |
+| 11 | [#ATEEZinLondon](http://twitter.com/search?q=%23ATEEZinLondon) | N/A |
+| 12 | [Queens Brook](http://twitter.com/search?q=Queens+Brook) | N/A |
 | 13 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
-| 14 | [Groomed](http://twitter.com/search?q=Groomed) | N/A |
-| 15 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 16 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 14 | [She's British](http://twitter.com/search?q=She%27s+British) | N/A |
+| 15 | [Temple of Treasure Megaways](http://twitter.com/search?q=Temple+of+Treasure+Megaways) | N/A |
+| 16 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
 | 17 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 18 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
-| 19 | [British Citizenship](http://twitter.com/search?q=British+Citizenship) | N/A |
-| 20 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 21 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
-| 22 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
-| 23 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
-| 24 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 25 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 26 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
-| 27 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
-| 28 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
-| 29 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 30 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
-| 31 | [Islamic State](http://twitter.com/search?q=Islamic+State) | N/A |
-| 32 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 33 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
-| 34 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
-| 35 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 36 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 37 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 38 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 39 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
-| 40 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 41 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 42 | [Religious](http://twitter.com/search?q=Religious) | N/A |
-| 43 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
-| 44 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 45 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 46 | [Carra](http://twitter.com/search?q=Carra) | N/A |
-| 47 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
-| 48 | [#ATEEZinLondon](http://twitter.com/search?q=%23ATEEZinLondon) | N/A |
-| 49 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 50 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
+| 18 | [Groomed](http://twitter.com/search?q=Groomed) | N/A |
+| 19 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 20 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
+| 21 | [At 15](http://twitter.com/search?q=At+15) | N/A |
+| 22 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 23 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
+| 24 | [World Thinking Day](http://twitter.com/search?q=World+Thinking+Day) | N/A |
+| 25 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
+| 26 | [british citizen](http://twitter.com/search?q=british+citizen) | N/A |
+| 27 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 28 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 29 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
+| 30 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
+| 31 | [Smackdown](http://twitter.com/search?q=Smackdown) | N/A |
+| 32 | [London Underground](http://twitter.com/search?q=London+Underground) | N/A |
+| 33 | [Islamic State](http://twitter.com/search?q=Islamic+State) | N/A |
+| 34 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 35 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 36 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
+| 37 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 38 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 39 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
+| 40 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
+| 41 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 42 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 43 | [Asda](http://twitter.com/search?q=Asda) | N/A |
+| 44 | [William Hill](http://twitter.com/search?q=William+Hill) | N/A |
+| 45 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 46 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 47 | [Carra](http://twitter.com/search?q=Carra) | N/A |
+| 48 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 49 | [#NHSinnovationshowcase](http://twitter.com/search?q=%23NHSinnovationshowcase) | N/A |
 
 
 

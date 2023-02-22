@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-02-22 14:18:24 UTC`
+📆 Last Updated: `2023-02-22 15:18:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Malaysia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
-| 2 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
-| 3 | [#O_D12](http://twitter.com/search?q=%23O_D12) | N/A |
-| 4 | [O THIRD CONCEPT PHOTO](http://twitter.com/search?q=O+THIRD+CONCEPT+PHOTO) | N/A |
-| 5 | [Muse](http://twitter.com/search?q=Muse) | N/A |
-| 6 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 7 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 9 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 10 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 11 | [Blessed Ash Wednesday](http://twitter.com/search?q=Blessed+Ash+Wednesday) | N/A |
-| 12 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 1 | [CHRISTMAS](http://twitter.com/search?q=CHRISTMAS) | N/A |
+| 2 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
+| 3 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
+| 4 | [#Dear_my_kevin_moon](http://twitter.com/search?q=%23Dear_my_kevin_moon) | N/A |
+| 5 | [#달처럼_빛날_형서의_스물여섯](http://twitter.com/search?q=%23%eb%8b%ac%ec%b2%98%eb%9f%bc_%eb%b9%9b%eb%82%a0_%ed%98%95%ec%84%9c%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af) | N/A |
+| 6 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 7 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
+| 8 | [Muse](http://twitter.com/search?q=Muse) | N/A |
+| 9 | [O THIRD CONCEPT PHOTO](http://twitter.com/search?q=O+THIRD+CONCEPT+PHOTO) | N/A |
+| 10 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 12 | [Blessed Ash Wednesday](http://twitter.com/search?q=Blessed+Ash+Wednesday) | N/A |
 | 13 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 14 | [Kumar](http://twitter.com/search?q=Kumar) | N/A |
-| 15 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
-| 16 | [GOODBYE NOW TXT](http://twitter.com/search?q=GOODBYE+NOW+TXT) | N/A |
+| 15 | [GOODBYE NOW TXT](http://twitter.com/search?q=GOODBYE+NOW+TXT) | N/A |
+| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 17 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
-| 18 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 20 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 21 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
-| 22 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
-| 23 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
-| 24 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 18 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 19 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
+| 20 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 21 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
+| 22 | [gose](http://twitter.com/search?q=gose) | N/A |
+| 23 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 24 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
 | 25 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 27 | [WELCOME GULF KANAWUT](http://twitter.com/search?q=WELCOME+GULF+KANAWUT) | N/A |
-| 28 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 26 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 27 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 28 | [WELCOME GULF KANAWUT](http://twitter.com/search?q=WELCOME+GULF+KANAWUT) | N/A |
 | 29 | [Apink](http://twitter.com/search?q=Apink) | N/A |
-| 30 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 31 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 32 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 33 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 34 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
-| 35 | [happy birthday mewmew](http://twitter.com/search?q=happy+birthday+mewmew) | N/A |
-| 36 | [wan saiful](http://twitter.com/search?q=wan+saiful) | N/A |
-| 37 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 38 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
-| 39 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 30 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 31 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 32 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
+| 33 | [hoshi](http://twitter.com/search?q=hoshi) | Hoshi is a Japanese word meaning "star". It can also refer to a type of sushi made with raw fish and vinegared rice. |
+| 34 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 35 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 36 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 37 | [THE SOUND ALBUM OUT NOW](http://twitter.com/search?q=THE+SOUND+ALBUM+OUT+NOW) | N/A |
+| 38 | [wan saiful](http://twitter.com/search?q=wan+saiful) | N/A |
+| 39 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
 | 40 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 41 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
-| 42 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 43 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 44 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
-| 45 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
-| 46 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 47 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 48 | [Youngjae](http://twitter.com/search?q=Youngjae) | N/A |
-| 49 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 50 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
+| 41 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 42 | [Paul Rudd](http://twitter.com/search?q=Paul+Rudd) | Paul Rudd is the name of an American actor, comedian, and producer. He is best known for his roles in films such as Clueless, Anchorman, The 40-Year-Old Virgin, Knocked Up, and Ant-Man. |
+| 43 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 44 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 45 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 46 | [Youngjae](http://twitter.com/search?q=Youngjae) | N/A |
+| 47 | [bersatu](http://twitter.com/search?q=bersatu) | N/A |
+| 48 | [Che Nom](http://twitter.com/search?q=Che+Nom) | N/A |
+| 49 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 50 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
 
 
 

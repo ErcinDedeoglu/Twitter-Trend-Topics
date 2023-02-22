@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-22 14:18:07 UTC`
+📆 Last Updated: `2023-02-22 15:18:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,7 +25,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 8 | [#eqnz](http://twitter.com/search?q=%23eqnz) | N/A |
 | 9 | [simon bridges](http://twitter.com/search?q=simon+bridges) | N/A |
 | 10 | [simon bridges](http://twitter.com/search?q=simon+bridges) | N/A |
-| 11 | [Climate-Safe Future](http://twitter.com/search?q=Climate-Safe+Future) | N/A |
+| 11 | [climate-safe future](http://twitter.com/search?q=climate-safe+future) | N/A |
 | 12 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 13 | [#nzgreens](http://twitter.com/search?q=%23nzgreens) | N/A |
 | 14 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
@@ -41,26 +41,26 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 24 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
 | 25 | [adrian orr](http://twitter.com/search?q=adrian+orr) | N/A |
 | 26 | [national party](http://twitter.com/search?q=national+party) | N/A |
-| 27 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 28 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
-| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 30 | [Judith](http://twitter.com/search?q=Judith) | N/A |
-| 31 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
-| 32 | [Marama](http://twitter.com/search?q=Marama) | N/A |
-| 33 | [marsden point](http://twitter.com/search?q=marsden+point) | N/A |
-| 34 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
-| 35 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 36 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 37 | [national mp](http://twitter.com/search?q=national+mp) | N/A |
-| 38 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 39 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 40 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
-| 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 27 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
+| 28 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 29 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 30 | [all blacks](http://twitter.com/search?q=all+blacks) | N/A |
+| 31 | [Marama](http://twitter.com/search?q=Marama) | N/A |
+| 32 | [marsden point](http://twitter.com/search?q=marsden+point) | N/A |
+| 33 | [RBNZ](http://twitter.com/search?q=RBNZ) | N/A |
+| 34 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 35 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 36 | [national mp](http://twitter.com/search?q=national+mp) | N/A |
+| 37 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 38 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 39 | [Chloe](http://twitter.com/search?q=Chloe) | N/A |
+| 40 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 41 | [Nats](http://twitter.com/search?q=Nats) | N/A |
 | 42 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 | 43 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 44 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
-| 45 | [Clint](http://twitter.com/search?q=Clint) | N/A |
-| 46 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 45 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
+| 46 | [Clint](http://twitter.com/search?q=Clint) | N/A |
 | 47 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 48 | [Translation](http://twitter.com/search?q=Translation) | N/A |
 | 49 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |

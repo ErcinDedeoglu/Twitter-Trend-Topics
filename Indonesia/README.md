@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-22 14:18:22 UTC`
+📆 Last Updated: `2023-02-22 15:18:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
-| 2 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
-| 3 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
-| 4 | [LIP DUO](http://twitter.com/search?q=LIP+DUO) | N/A |
-| 5 | [#WishWIN24thHappyLive](http://twitter.com/search?q=%23WishWIN24thHappyLive) | N/A |
-| 6 | [#PerindoRaihAmanahRakyat](http://twitter.com/search?q=%23PerindoRaihAmanahRakyat) | N/A |
-| 7 | [Implora](http://twitter.com/search?q=Implora) | N/A |
-| 8 | [Angela Tanoesoedibjo](http://twitter.com/search?q=Angela+Tanoesoedibjo) | N/A |
-| 9 | [Hary Tanoesoedibjo](http://twitter.com/search?q=Hary+Tanoesoedibjo) | Hary Tanoesoedibjo is the name of an Indonesian businessman and politician. In English, it means "Hary the Great Leader". |
-| 10 | [Lip Moist Serum](http://twitter.com/search?q=Lip+Moist+Serum) | N/A |
-| 11 | [Lip Moist Essence](http://twitter.com/search?q=Lip+Moist+Essence) | N/A |
-| 12 | [Pesan Kampus](http://twitter.com/search?q=Pesan+Kampus) | N/A |
-| 13 | [Mandat Seniman](http://twitter.com/search?q=Mandat+Seniman) | N/A |
-| 14 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 15 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
-| 16 | [Hoki](http://twitter.com/search?q=Hoki) | N/A |
+| 1 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
+| 2 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
+| 3 | [CHRISTMAS](http://twitter.com/search?q=CHRISTMAS) | N/A |
+| 4 | [#달처럼_빛날_형서의_스물여섯](http://twitter.com/search?q=%23%eb%8b%ac%ec%b2%98%eb%9f%bc_%eb%b9%9b%eb%82%a0_%ed%98%95%ec%84%9c%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af) | N/A |
+| 5 | [#Dear_my_kevin_moon](http://twitter.com/search?q=%23Dear_my_kevin_moon) | N/A |
+| 6 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
+| 7 | [lip duo](http://twitter.com/search?q=lip+duo) | N/A |
+| 8 | [Implora](http://twitter.com/search?q=Implora) | N/A |
+| 9 | [Angela Tanoesoedibjo](http://twitter.com/search?q=Angela+Tanoesoedibjo) | N/A |
+| 10 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 11 | [Lip Moist Serum](http://twitter.com/search?q=Lip+Moist+Serum) | N/A |
+| 12 | [Lip Moist Essence](http://twitter.com/search?q=Lip+Moist+Essence) | N/A |
+| 13 | [Pesan Kampus](http://twitter.com/search?q=Pesan+Kampus) | N/A |
+| 14 | [Mandat Seniman](http://twitter.com/search?q=Mandat+Seniman) | N/A |
+| 15 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 16 | [gose](http://twitter.com/search?q=gose) | N/A |
 | 17 | [Sari](http://twitter.com/search?q=Sari) | N/A |
-| 18 | [Hotman Paris](http://twitter.com/search?q=Hotman+Paris) | N/A |
-| 19 | [SKCK](http://twitter.com/search?q=SKCK) | N/A |
-| 20 | [Kedokteran](http://twitter.com/search?q=Kedokteran) | N/A |
-| 21 | [Suju](http://twitter.com/search?q=Suju) | N/A |
-| 22 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 23 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 18 | [hoki](http://twitter.com/search?q=hoki) | N/A |
+| 19 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 20 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 21 | [Hotman Paris](http://twitter.com/search?q=Hotman+Paris) | N/A |
+| 22 | [SKCK](http://twitter.com/search?q=SKCK) | N/A |
+| 23 | [Kedokteran](http://twitter.com/search?q=Kedokteran) | N/A |
 | 24 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 25 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
-| 26 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
-| 27 | [H-10](http://twitter.com/search?q=H-10) | N/A |
+| 25 | [Suju](http://twitter.com/search?q=Suju) | N/A |
+| 26 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 27 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
 | 28 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 29 | [Tiffany x Win](http://twitter.com/search?q=Tiffany+x+Win) | N/A |
-| 30 | [David](http://twitter.com/search?q=David) | N/A |
-| 31 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 32 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 33 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 34 | [Bu Risma](http://twitter.com/search?q=Bu+Risma) | N/A |
+| 29 | [GOODBYE NOW TXT](http://twitter.com/search?q=GOODBYE+NOW+TXT) | N/A |
+| 30 | [Psikologi](http://twitter.com/search?q=Psikologi) | N/A |
+| 31 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
+| 32 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
+| 33 | [Gayus](http://twitter.com/search?q=Gayus) | N/A |
+| 34 | [David](http://twitter.com/search?q=David) | N/A |
 | 35 | [SLAM DUNK](http://twitter.com/search?q=SLAM+DUNK) | N/A |
-| 36 | [Gayus](http://twitter.com/search?q=Gayus) | N/A |
-| 37 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
+| 36 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 37 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
 | 38 | [Komang](http://twitter.com/search?q=Komang) | N/A |
-| 39 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 40 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
-| 41 | [Ojol](http://twitter.com/search?q=Ojol) | N/A |
-| 42 | [rabu abu](http://twitter.com/search?q=rabu+abu) | N/A |
-| 43 | [Kerupuk](http://twitter.com/search?q=Kerupuk) | N/A |
-| 44 | [Harley](http://twitter.com/search?q=Harley) | N/A |
-| 45 | [Anak Belum Siap](http://twitter.com/search?q=Anak+Belum+Siap) | N/A |
-| 46 | [#FuRemodel](http://twitter.com/search?q=%23FuRemodel) | N/A |
-| 47 | [#MusikalisaSISCA](http://twitter.com/search?q=%23MusikalisaSISCA) | N/A |
-| 48 | [#TeddyBear2ndWin](http://twitter.com/search?q=%23TeddyBear2ndWin) | N/A |
-| 49 | [#TOMORROW_X_TOGETHER](http://twitter.com/search?q=%23TOMORROW_X_TOGETHER) | #TOMORROW_X_TOGETHER is the name of a South Korean boy band formed by Big Hit Entertainment in 2019. The group consists of five members: Yeonjun, Soobin, Beomgyu, Taehyun and Huening Kai. The name of the group is meant to signify the power of togetherness and unity among people, regardless of their differences. In English, it translates to "Tomorrow Together". |
-| 50 | [#GoodbyeNow](http://twitter.com/search?q=%23GoodbyeNow) | N/A |
+| 39 | [H-10](http://twitter.com/search?q=H-10) | N/A |
+| 40 | [Kawal](http://twitter.com/search?q=Kawal) | N/A |
+| 41 | [Searching](http://twitter.com/search?q=Searching) | N/A |
+| 42 | [Rabu Abu](http://twitter.com/search?q=Rabu+Abu) | N/A |
+| 43 | [Bu Risma](http://twitter.com/search?q=Bu+Risma) | N/A |
+| 44 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 45 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
+| 46 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
+| 47 | [Ojol](http://twitter.com/search?q=Ojol) | N/A |
+| 48 | [Harley](http://twitter.com/search?q=Harley) | N/A |
+| 49 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
+| 50 | [#11YearsWithChanyeol](http://twitter.com/search?q=%2311YearsWithChanyeol) | N/A |
 
 
 

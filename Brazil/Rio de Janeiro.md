@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-22 14:17:29 UTC`
+📆 Last Updated: `2023-02-22 15:17:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Warung](http://twitter.com/search?q=Warung) | N/A |
-| 2 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 3 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 1 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
+| 2 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 3 | [Warung](http://twitter.com/search?q=Warung) | N/A |
 | 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 5 | [FREDDIE](http://twitter.com/search?q=FREDDIE) | N/A |
-| 6 | [#mariliaday](http://twitter.com/search?q=%23mariliaday) | N/A |
-| 7 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
-| 8 | [#maisvocê](http://twitter.com/search?q=%23maisvoc%c3%aa) | N/A |
-| 9 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 10 | [Touré](http://twitter.com/search?q=Tour%c3%a9) | N/A |
-| 11 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
-| 12 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
-| 13 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
-| 14 | [TIA JAY](http://twitter.com/search?q=TIA+JAY) | N/A |
-| 15 | [Quarta-feira de Cinzas](http://twitter.com/search?q=Quarta-feira+de+Cinzas) | N/A |
-| 16 | [PARABÉNS SIMONE TEBET](http://twitter.com/search?q=PARAB%c3%89NS+SIMONE+TEBET) | N/A |
-| 17 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
-| 18 | [Feliz Ano Novo](http://twitter.com/search?q=Feliz+Ano+Novo) | N/A |
-| 19 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | Feliz 2023 is a Spanish phrase that translates to "Happy 2023" in English. It is typically used as a greeting or expression of good wishes for the upcoming year. |
-| 20 | [Brasileirinhas](http://twitter.com/search?q=Brasileirinhas) | N/A |
-| 21 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 5 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 6 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 7 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
+| 8 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 9 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 10 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 11 | [#mariliaday](http://twitter.com/search?q=%23mariliaday) | N/A |
+| 12 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
+| 13 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
+| 14 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
+| 15 | [Touré](http://twitter.com/search?q=Tour%c3%a9) | N/A |
+| 16 | [CHRISTMAS](http://twitter.com/search?q=CHRISTMAS) | N/A |
+| 17 | [#MaisVocê](http://twitter.com/search?q=%23MaisVoc%c3%aa) | N/A |
+| 18 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
+| 19 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
+| 20 | [tia jay](http://twitter.com/search?q=tia+jay) | N/A |
+| 21 | [Quarta-feira de Cinzas](http://twitter.com/search?q=Quarta-feira+de+Cinzas) | N/A |
 | 22 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 23 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 24 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 25 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 26 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
-| 27 | [Parabéns Malu](http://twitter.com/search?q=Parab%c3%a9ns+Malu) | N/A |
-| 28 | [Acabou o Carnaval](http://twitter.com/search?q=Acabou+o+Carnaval) | N/A |
-| 29 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 30 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 31 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
-| 32 | [São João](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o) | N/A |
-| 33 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 34 | [Milão](http://twitter.com/search?q=Mil%c3%a3o) | N/A |
-| 35 | [Pica-Pau](http://twitter.com/search?q=Pica-Pau) | N/A |
-| 36 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
-| 37 | [Carla Zambelli](http://twitter.com/search?q=Carla+Zambelli) | Carla Zambelli is an Italian surname. It is derived from the Italian word zambello, which means "bell-maker". The name is most likely derived from the occupation of bell-making, which was a common profession in Italy during the Middle Ages. In English, Carla Zambelli can be translated to mean "bell-maker Carla". |
-| 38 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 39 | [Rouanet](http://twitter.com/search?q=Rouanet) | N/A |
-| 40 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
-| 41 | [Depois de 4](http://twitter.com/search?q=Depois+de+4) | N/A |
-| 42 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
-| 43 | [Litoral Norte](http://twitter.com/search?q=Litoral+Norte) | N/A |
-| 44 | [eMule](http://twitter.com/search?q=eMule) | N/A |
-| 45 | [Defesa Civil](http://twitter.com/search?q=Defesa+Civil) | N/A |
-| 46 | [Jambo](http://twitter.com/search?q=Jambo) | N/A |
-| 47 | [ESPANHOLA](http://twitter.com/search?q=ESPANHOLA) | N/A |
-| 48 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
-| 49 | [Dama](http://twitter.com/search?q=Dama) | N/A |
-| 50 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 23 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | Feliz 2023 is a Spanish phrase that translates to "Happy 2023" in English. It is typically used as a greeting or expression of good wishes for the upcoming year. |
+| 24 | [WELCOME TO MY WORLD](http://twitter.com/search?q=WELCOME+TO+MY+WORLD) | N/A |
+| 25 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
+| 26 | [Brasileirinhas](http://twitter.com/search?q=Brasileirinhas) | N/A |
+| 27 | [bjork](http://twitter.com/search?q=bjork) | N/A |
+| 28 | [feliz ano novo](http://twitter.com/search?q=feliz+ano+novo) | N/A |
+| 29 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 30 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 31 | [PARABÉNS SIMONE TEBET](http://twitter.com/search?q=PARAB%c3%89NS+SIMONE+TEBET) | N/A |
+| 32 | [minho](http://twitter.com/search?q=minho) | N/A |
+| 33 | [Veneza](http://twitter.com/search?q=Veneza) | N/A |
+| 34 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 35 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 36 | [São João](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o) | N/A |
+| 37 | [Itajaí](http://twitter.com/search?q=Itaja%c3%ad) | N/A |
+| 38 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 39 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 40 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
+| 41 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 42 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 43 | [Acabou o Carnaval](http://twitter.com/search?q=Acabou+o+Carnaval) | N/A |
+| 44 | [Parabéns Malu](http://twitter.com/search?q=Parab%c3%a9ns+Malu) | N/A |
+| 45 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 46 | [Portals](http://twitter.com/search?q=Portals) | N/A |
+| 47 | [Lee Know](http://twitter.com/search?q=Lee+Know) | Lee Know is the stage name of Lee Min-ho, a South Korean singer and member of the K-pop group Stray Kids. The name is a combination of his given name, Lee Min-ho, and the English word "know," which means to be aware or informed about something. |
+| 48 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
+| 49 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 50 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
 
 
 

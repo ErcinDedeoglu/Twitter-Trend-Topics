@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-22 14:17:28 UTC`
+📆 Last Updated: `2023-02-22 15:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,48 +19,48 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 2 | [#RetornoFeliz](http://twitter.com/search?q=%23RetornoFeliz) | N/A |
 | 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 4 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 5 | [#VzlaViveElCarnaval](http://twitter.com/search?q=%23VzlaViveElCarnaval) | N/A |
-| 6 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
-| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 9 | [#SomosInteligenciaSocial](http://twitter.com/search?q=%23SomosInteligenciaSocial) | N/A |
-| 10 | [Rómulo Betancourt](http://twitter.com/search?q=R%c3%b3mulo+Betancourt) | N/A |
+| 5 | [#vzlaviveelcarnaval](http://twitter.com/search?q=%23vzlaviveelcarnaval) | N/A |
+| 6 | [Feliz Miércoles](http://twitter.com/search?q=Feliz+Mi%c3%a9rcoles) | N/A |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 8 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
+| 9 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 10 | [#SomosInteligenciaSocial](http://twitter.com/search?q=%23SomosInteligenciaSocial) | N/A |
 | 11 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
 | 12 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 13 | [Roberto Lamarca](http://twitter.com/search?q=Roberto+Lamarca) | N/A |
-| 14 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 13 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 14 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 15 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 16 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 16 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
 | 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [julián pacheco](http://twitter.com/search?q=juli%c3%a1n+pacheco) | N/A |
-| 19 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
-| 20 | [Esperanza](http://twitter.com/search?q=Esperanza) | N/A |
+| 18 | [Feliz Martes](http://twitter.com/search?q=Feliz+Martes) | N/A |
+| 19 | [Don Rómulo Betancourt](http://twitter.com/search?q=Don+R%c3%b3mulo+Betancourt) | N/A |
+| 20 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 21 | [César Romero](http://twitter.com/search?q=C%c3%a9sar+Romero) | N/A |
-| 22 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 23 | [Hospital Villa Hermosa](http://twitter.com/search?q=Hospital+Villa+Hermosa) | N/A |
-| 24 | [Carlota Sosa](http://twitter.com/search?q=Carlota+Sosa) | N/A |
-| 25 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 26 | [Cocoliso](http://twitter.com/search?q=Cocoliso) | N/A |
-| 27 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
-| 28 | [Soy Salud](http://twitter.com/search?q=Soy+Salud) | N/A |
-| 29 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 30 | [Presidente de Venezuela](http://twitter.com/search?q=Presidente+de+Venezuela) | N/A |
-| 31 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 32 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
-| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 34 | [Sandra Bullock](http://twitter.com/search?q=Sandra+Bullock) | N/A |
-| 35 | [Darwin Nuñez](http://twitter.com/search?q=Darwin+Nu%c3%b1ez) | N/A |
-| 36 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 37 | [lustrillo](http://twitter.com/search?q=lustrillo) | N/A |
+| 22 | [Esperanza](http://twitter.com/search?q=Esperanza) | N/A |
+| 23 | [hospital villa hermosa](http://twitter.com/search?q=hospital+villa+hermosa) | N/A |
+| 24 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
+| 25 | [Cocoliso](http://twitter.com/search?q=Cocoliso) | N/A |
+| 26 | [Carlota Sosa](http://twitter.com/search?q=Carlota+Sosa) | N/A |
+| 27 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 28 | [Roberto Lamarca](http://twitter.com/search?q=Roberto+Lamarca) | N/A |
+| 29 | [Presidente de Venezuela](http://twitter.com/search?q=Presidente+de+Venezuela) | N/A |
+| 30 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 32 | [Sandra Bullock](http://twitter.com/search?q=Sandra+Bullock) | N/A |
+| 33 | [Darwin Nuñez](http://twitter.com/search?q=Darwin+Nu%c3%b1ez) | N/A |
+| 34 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 35 | [karius](http://twitter.com/search?q=karius) | N/A |
+| 36 | [lustrillo](http://twitter.com/search?q=lustrillo) | N/A |
+| 37 | [los próceres](http://twitter.com/search?q=los+pr%c3%b3ceres) | N/A |
 | 38 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 39 | [los próceres](http://twitter.com/search?q=los+pr%c3%b3ceres) | N/A |
+| 39 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
 | 40 | [Gustavo Dudamel](http://twitter.com/search?q=Gustavo+Dudamel) | N/A |
-| 41 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 42 | [Merey](http://twitter.com/search?q=Merey) | N/A |
-| 43 | [Superliga](http://twitter.com/search?q=Superliga) | N/A |
-| 44 | [Carlos Márquez](http://twitter.com/search?q=Carlos+M%c3%a1rquez) | N/A |
-| 45 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 46 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 41 | [Lavadora](http://twitter.com/search?q=Lavadora) | N/A |
+| 42 | [Sao Paulo](http://twitter.com/search?q=Sao+Paulo) | N/A |
+| 43 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 44 | [Militao](http://twitter.com/search?q=Militao) | Militão is a Portuguese name derived from the Latin word militare, meaning “to serve in the military”. In English, it can be translated to mean “soldier” or “warrior”. |
+| 45 | [Caracas-La Guaira](http://twitter.com/search?q=Caracas-La+Guaira) | N/A |
+| 46 | [merey](http://twitter.com/search?q=merey) | N/A |
 
 
 

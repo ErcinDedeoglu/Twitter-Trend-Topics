@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-22 14:17:47 UTC`
+📆 Last Updated: `2023-02-22 15:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [I see](http://twitter.com/search?q=I+see) | N/A |
-| 2 | [アラバキ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%83%90%e3%82%ad) | アラバキ is a Japanese slang term that means "foolish" or "stupid". It is often used to describe someone who has done something foolish or made a mistake. |
-| 3 | [ちゅうえい](http://twitter.com/search?q=%e3%81%a1%e3%82%85%e3%81%86%e3%81%88%e3%81%84) | N/A |
-| 4 | [初音っち](http://twitter.com/search?q=%e5%88%9d%e9%9f%b3%e3%81%a3%e3%81%a1) | N/A |
-| 5 | [#すゑげゑむ](http://twitter.com/search?q=%23%e3%81%99%e3%82%91%e3%81%92%e3%82%91%e3%82%80) | N/A |
-| 6 | [社台OK](http://twitter.com/search?q=%e7%a4%be%e5%8f%b0OK) | N/A |
-| 7 | [ネオユニヴァース](http://twitter.com/search?q=%e3%83%8d%e3%82%aa%e3%83%a6%e3%83%8b%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%b9) | N/A |
-| 8 | [#猫の日](http://twitter.com/search?q=%23%e7%8c%ab%e3%81%ae%e6%97%a5) | N/A |
-| 9 | [シービー](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%93%e3%83%bc) | シービー (shībī) is a Japanese onomatopoeia that is used to describe the sound of a wave crashing against the shore. In English, it can be translated as "splash" or "crash". |
+| 1 | [#亀梨和也のファンで幸せ](http://twitter.com/search?q=%23%e4%ba%80%e6%a2%a8%e5%92%8c%e4%b9%9f%e3%81%ae%e3%83%95%e3%82%a1%e3%83%b3%e3%81%a7%e5%b9%b8%e3%81%9b) | N/A |
+| 2 | [#白岩瑠姫](http://twitter.com/search?q=%23%e7%99%bd%e5%b2%a9%e7%91%a0%e5%a7%ab) | N/A |
+| 3 | [#SUPER_ICY](http://twitter.com/search?q=%23SUPER_ICY) | N/A |
+| 4 | [#NEWニューヨーク](http://twitter.com/search?q=%23NEW%e3%83%8b%e3%83%a5%e3%83%bc%e3%83%a8%e3%83%bc%e3%82%af) | N/A |
+| 5 | [#BPLS2](http://twitter.com/search?q=%23BPLS2) | #BPLS2 stands for "Be Positive, Live Stronger, Smile More". It is a hashtag used to encourage people to stay positive and live life to the fullest. |
+| 6 | [ネオユニヴァース](http://twitter.com/search?q=%e3%83%8d%e3%82%aa%e3%83%a6%e3%83%8b%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%b9) | N/A |
+| 7 | [シービー](http://twitter.com/search?q=%e3%82%b7%e3%83%bc%e3%83%93%e3%83%bc) | シービー (shībī) is a Japanese onomatopoeia that is used to describe the sound of a wave crashing against the shore. In English, it can be translated as "splash" or "crash". |
+| 8 | [キタサト](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%b5%e3%83%88) | N/A |
+| 9 | [ヒシミラクル](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab) | N/A |
 | 10 | [カツラギエース](http://twitter.com/search?q=%e3%82%ab%e3%83%84%e3%83%a9%e3%82%ae%e3%82%a8%e3%83%bc%e3%82%b9) | N/A |
-| 11 | [ヒシミラクル](http://twitter.com/search?q=%e3%83%92%e3%82%b7%e3%83%9f%e3%83%a9%e3%82%af%e3%83%ab) | N/A |
-| 12 | [#ぱかライブTV](http://twitter.com/search?q=%23%e3%81%b1%e3%81%8b%e3%83%a9%e3%82%a4%e3%83%96TV) | #ぱかライブTV is a Japanese streaming service that allows users to watch live TV and movies on their mobile devices. The name is a combination of the words "paka" (パカ) which means "to watch" and "live TV". In English, it translates to "Watch Live TV". |
-| 13 | [キタサト](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%82%b5%e3%83%88) | N/A |
-| 14 | [ジャンポケ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9d%e3%82%b1) | ジャンポケ is a Japanese card game that is similar to the popular game Uno. The name comes from the Japanese words for "janken" (rock-paper-scissors) and "poker." The goal of the game is to be the first player to get rid of all their cards by matching them with cards in the center pile. |
-| 15 | [ドゥラメンテ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
-| 16 | [ツインターボ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9c) | N/A |
-| 17 | [タップダンスシチー](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%97%e3%83%80%e3%83%b3%e3%82%b9%e3%82%b7%e3%83%81%e3%83%bc) | N/A |
-| 18 | [社台解禁](http://twitter.com/search?q=%e7%a4%be%e5%8f%b0%e8%a7%a3%e7%a6%81) | N/A |
-| 19 | [ウマ娘3期](http://twitter.com/search?q=%e3%82%a6%e3%83%9e%e5%a8%983%e6%9c%9f) | N/A |
-| 20 | [ジャングルポケット](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%b0%e3%83%ab%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88) | ジャングルポケット (Janguru Poketto) is a Japanese manga series written and illustrated by Takashi Murakami. It follows the adventures of a group of animals living in a jungle pocket, which is a small pocket of land surrounded by a large jungle. The English translation of the title is "Jungle Pocket". |
-| 21 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
-| 22 | [#水曜日のダウンタウン](http://twitter.com/search?q=%23%e6%b0%b4%e6%9b%9c%e6%97%a5%e3%81%ae%e3%83%80%e3%82%a6%e3%83%b3%e3%82%bf%e3%82%a6%e3%83%b3) | #水曜日のダウンタウン is a Japanese variety show that has been airing since 1989. It is a weekly show that features comedians, celebrities, and other guests in a variety of skits and games. The title translates to "Wednesday Downtown" in English. |
-| 23 | [ステイゴールド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a4%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
-| 24 | [ラモーヌ](http://twitter.com/search?q=%e3%83%a9%e3%83%a2%e3%83%bc%e3%83%8c) | N/A |
-| 25 | [#リバーサルオーケストラ](http://twitter.com/search?q=%23%e3%83%aa%e3%83%90%e3%83%bc%e3%82%b5%e3%83%ab%e3%82%aa%e3%83%bc%e3%82%b1%e3%82%b9%e3%83%88%e3%83%a9) | #リバーサルオーケストラ is a Japanese hashtag that translates to "Reverse Orchestra". It is used to refer to a type of music that combines traditional orchestral instruments with modern electronic elements. |
-| 26 | [ターボ師匠](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%9c%e5%b8%ab%e5%8c%a0) | N/A |
+| 11 | [ウマ娘3期](http://twitter.com/search?q=%e3%82%a6%e3%83%9e%e5%a8%983%e6%9c%9f) | N/A |
+| 12 | [ツインターボ](http://twitter.com/search?q=%e3%83%84%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9c) | N/A |
+| 13 | [ジャンポケ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%9d%e3%82%b1) | ジャンポケ is a Japanese card game that is similar to the popular game Uno. The name comes from the Japanese words for "janken" (rock-paper-scissors) and "poker." The goal of the game is to be the first player to get rid of all their cards by matching them with cards in the center pile. |
+| 14 | [ドゥラメンテ](http://twitter.com/search?q=%e3%83%89%e3%82%a5%e3%83%a9%e3%83%a1%e3%83%b3%e3%83%86) | N/A |
+| 15 | [タップダンスシチー](http://twitter.com/search?q=%e3%82%bf%e3%83%83%e3%83%97%e3%83%80%e3%83%b3%e3%82%b9%e3%82%b7%e3%83%81%e3%83%bc) | N/A |
+| 16 | [社台解禁](http://twitter.com/search?q=%e7%a4%be%e5%8f%b0%e8%a7%a3%e7%a6%81) | N/A |
+| 17 | [ジャングルポケット](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%83%b3%e3%82%b0%e3%83%ab%e3%83%9d%e3%82%b1%e3%83%83%e3%83%88) | ジャングルポケット (Janguru Poketto) is a Japanese manga series written and illustrated by Takashi Murakami. It follows the adventures of a group of animals living in a jungle pocket, which is a small pocket of land surrounded by a large jungle. The English translation of the title is "Jungle Pocket". |
+| 18 | [タモリ倶楽部](http://twitter.com/search?q=%e3%82%bf%e3%83%a2%e3%83%aa%e5%80%b6%e6%a5%bd%e9%83%a8) | N/A |
+| 19 | [ステイゴールド](http://twitter.com/search?q=%e3%82%b9%e3%83%86%e3%82%a4%e3%82%b4%e3%83%bc%e3%83%ab%e3%83%89) | N/A |
+| 20 | [ラモーヌ](http://twitter.com/search?q=%e3%83%a9%e3%83%a2%e3%83%bc%e3%83%8c) | N/A |
+| 21 | [ねこの日](http://twitter.com/search?q=%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
+| 22 | [子ども予算倍増](http://twitter.com/search?q=%e5%ad%90%e3%81%a9%e3%82%82%e4%ba%88%e7%ae%97%e5%80%8d%e5%a2%97) | N/A |
+| 23 | [ターボ師匠](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%9c%e5%b8%ab%e5%8c%a0) | N/A |
+| 24 | [木原官房副長官](http://twitter.com/search?q=%e6%9c%a8%e5%8e%9f%e5%ae%98%e6%88%bf%e5%89%af%e9%95%b7%e5%ae%98) | N/A |
+| 25 | [新シナリオ](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%8a%e3%83%aa%e3%82%aa) | 新シナリオ (Shin Scenario) is a Japanese term that refers to a new story or plotline. It is often used in the context of video games, movies, and other forms of entertainment. In English, it can be translated as "new scenario" or "new plotline". |
+| 26 | [ハーツクライ](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%84%e3%82%af%e3%83%a9%e3%82%a4) | N/A |
 | 27 | [進化スキル](http://twitter.com/search?q=%e9%80%b2%e5%8c%96%e3%82%b9%e3%82%ad%e3%83%ab) | N/A |
-| 28 | [ねこの日](http://twitter.com/search?q=%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
-| 29 | [子ども予算倍増](http://twitter.com/search?q=%e5%ad%90%e3%81%a9%e3%82%82%e4%ba%88%e7%ae%97%e5%80%8d%e5%a2%97) | N/A |
-| 30 | [空耳アワー](http://twitter.com/search?q=%e7%a9%ba%e8%80%b3%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
-| 31 | [ハーツクライ](http://twitter.com/search?q=%e3%83%8f%e3%83%bc%e3%83%84%e3%82%af%e3%83%a9%e3%82%a4) | N/A |
-| 32 | [新シナリオ](http://twitter.com/search?q=%e6%96%b0%e3%82%b7%e3%83%8a%e3%83%aa%e3%82%aa) | 新シナリオ (Shin Scenario) is a Japanese term that refers to a new story or plotline. It is often used in the context of video games, movies, and other forms of entertainment. In English, it can be translated as "new scenario" or "new plotline". |
-| 33 | [木原官房副長官](http://twitter.com/search?q=%e6%9c%a8%e5%8e%9f%e5%ae%98%e6%88%bf%e5%89%af%e9%95%b7%e5%ae%98) | N/A |
-| 34 | [サッカーボーイ](http://twitter.com/search?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
-| 35 | [マカヒキ](http://twitter.com/search?q=%e3%83%9e%e3%82%ab%e3%83%92%e3%82%ad) | N/A |
-| 36 | [バブルガムフェロー](http://twitter.com/search?q=%e3%83%90%e3%83%96%e3%83%ab%e3%82%ac%e3%83%a0%e3%83%95%e3%82%a7%e3%83%ad%e3%83%bc) | N/A |
-| 37 | [タキオン](http://twitter.com/search?q=%e3%82%bf%e3%82%ad%e3%82%aa%e3%83%b3) | N/A |
-| 38 | [リノリバン](http://twitter.com/search?q=%e3%83%aa%e3%83%8e%e3%83%aa%e3%83%90%e3%83%b3) | N/A |
-| 39 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 40 | [東山奈央](http://twitter.com/search?q=%e6%9d%b1%e5%b1%b1%e5%a5%88%e5%a4%ae) | 東山奈央 (Touyama Nao) is a Japanese voice actress and singer. Her name can be translated to mean "East Mountain Nao". |
-| 41 | [ターボ星1](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%9c%e6%98%9f1) | N/A |
-| 42 | [穂刈さん](http://twitter.com/search?q=%e7%a9%82%e5%88%88%e3%81%95%e3%82%93) | N/A |
-| 43 | [三大始祖](http://twitter.com/search?q=%e4%b8%89%e5%a4%a7%e5%a7%8b%e7%a5%96) | 三大始祖 (Sān Dà Shǐ Zǔ) is a term used to refer to the three founders of Chinese philosophy: Confucius, Laozi, and Zhuangzi. In English, it translates to "The Three Sages". |
-| 44 | [ダンスインザダーク](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b9%e3%82%a4%e3%83%b3%e3%82%b6%e3%83%80%e3%83%bc%e3%82%af) | N/A |
-| 45 | [杉本さん](http://twitter.com/search?q=%e6%9d%89%e6%9c%ac%e3%81%95%e3%82%93) | N/A |
+| 28 | [空耳アワー](http://twitter.com/search?q=%e7%a9%ba%e8%80%b3%e3%82%a2%e3%83%af%e3%83%bc) | N/A |
+| 29 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 30 | [サッカーボーイ](http://twitter.com/search?q=%e3%82%b5%e3%83%83%e3%82%ab%e3%83%bc%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
+| 31 | [亀梨くん](http://twitter.com/search?q=%e4%ba%80%e6%a2%a8%e3%81%8f%e3%82%93) | 亀梨くん is a nickname given to the Japanese actor and singer, Eita. It is derived from his real name, Eita Kamei. The English translation of 亀梨くん would be "Kamei-kun". |
+| 32 | [マカヒキ](http://twitter.com/search?q=%e3%83%9e%e3%82%ab%e3%83%92%e3%82%ad) | N/A |
+| 33 | [リノリバン](http://twitter.com/search?q=%e3%83%aa%e3%83%8e%e3%83%aa%e3%83%90%e3%83%b3) | N/A |
+| 34 | [バブルガムフェロー](http://twitter.com/search?q=%e3%83%90%e3%83%96%e3%83%ab%e3%82%ac%e3%83%a0%e3%83%95%e3%82%a7%e3%83%ad%e3%83%bc) | N/A |
+| 35 | [タキオン](http://twitter.com/search?q=%e3%82%bf%e3%82%ad%e3%82%aa%e3%83%b3) | N/A |
+| 36 | [ジャスタウェイ](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%b9%e3%82%bf%e3%82%a6%e3%82%a7%e3%82%a4) | N/A |
+| 37 | [ダンスインザダーク](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b9%e3%82%a4%e3%83%b3%e3%82%b6%e3%83%80%e3%83%bc%e3%82%af) | N/A |
+| 38 | [東山奈央](http://twitter.com/search?q=%e6%9d%b1%e5%b1%b1%e5%a5%88%e5%a4%ae) | 東山奈央 (Touyama Nao) is a Japanese voice actress and singer. Her name can be translated to mean "East Mountain Nao". |
+| 39 | [ネコの日](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%81%ae%e6%97%a5) | N/A |
+| 40 | [キタちゃん](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 41 | [斎賀みつき](http://twitter.com/search?q=%e6%96%8e%e8%b3%80%e3%81%bf%e3%81%a4%e3%81%8d) | N/A |
+| 42 | [ザシアン](http://twitter.com/search?q=%e3%82%b6%e3%82%b7%e3%82%a2%e3%83%b3) | N/A |
+| 43 | [ターボ星1](http://twitter.com/search?q=%e3%82%bf%e3%83%bc%e3%83%9c%e6%98%9f1) | N/A |
+| 44 | [斎賀さん](http://twitter.com/search?q=%e6%96%8e%e8%b3%80%e3%81%95%e3%82%93) | N/A |
+| 45 | [三大始祖](http://twitter.com/search?q=%e4%b8%89%e5%a4%a7%e5%a7%8b%e7%a5%96) | 三大始祖 (Sān Dà Shǐ Zǔ) is a term used to refer to the three founders of Chinese philosophy: Confucius, Laozi, and Zhuangzi. In English, it translates to "The Three Sages". |
 | 46 | [社台の馬](http://twitter.com/search?q=%e7%a4%be%e5%8f%b0%e3%81%ae%e9%a6%ac) | N/A |
-| 47 | [斎賀さん](http://twitter.com/search?q=%e6%96%8e%e8%b3%80%e3%81%95%e3%82%93) | N/A |
-| 48 | [社台RH](http://twitter.com/search?q=%e7%a4%be%e5%8f%b0RH) | N/A |
-| 49 | [斎賀みつき](http://twitter.com/search?q=%e6%96%8e%e8%b3%80%e3%81%bf%e3%81%a4%e3%81%8d) | N/A |
-| 50 | [キタちゃん](http://twitter.com/search?q=%e3%82%ad%e3%82%bf%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 47 | [ROAD TO THE TOP](http://twitter.com/search?q=ROAD+TO+THE+TOP) | N/A |
+| 48 | [亀ちゃん](http://twitter.com/search?q=%e4%ba%80%e3%81%a1%e3%82%83%e3%82%93) | 亀ちゃん is a nickname for the Japanese character Kame-san, who is a turtle. It is often used as an affectionate term of endearment, similar to calling someone "honey" or "sweetheart" in English. |
+| 49 | [穂刈さん](http://twitter.com/search?q=%e7%a9%82%e5%88%88%e3%81%95%e3%82%93) | N/A |
+| 50 | [ねこちゃん](http://twitter.com/search?q=%e3%81%ad%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
 
 
 
