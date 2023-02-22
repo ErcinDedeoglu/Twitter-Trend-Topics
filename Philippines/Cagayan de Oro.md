@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-22 00:28:19 UTC`
+📆 Last Updated: `2023-02-22 01:44:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,49 +19,49 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
 | 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 4 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 5 | [#MyCoreMemories](http://twitter.com/search?q=%23MyCoreMemories) | N/A |
+| 5 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
 | 6 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 7 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 8 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 9 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 10 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 11 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
-| 12 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 13 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
-| 14 | [ready to be amazed](http://twitter.com/search?q=ready+to+be+amazed) | N/A |
-| 15 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 7 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
+| 8 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 9 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 10 | [#TiffanyxWINReadyToSG](http://twitter.com/search?q=%23TiffanyxWINReadyToSG) | N/A |
+| 11 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 12 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
+| 13 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 14 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
+| 15 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 16 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
 | 17 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 18 | [BGYO AT PLDT SMART NATCON 2023](http://twitter.com/search?q=BGYO+AT+PLDT+SMART+NATCON+2023) | N/A |
-| 19 | [vivoree matapang this fri](http://twitter.com/search?q=vivoree+matapang+this+fri) | N/A |
-| 20 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
+| 18 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 19 | [bgyo at pldt smart natcon 2023](http://twitter.com/search?q=bgyo+at+pldt+smart+natcon+2023) | N/A |
+| 20 | [vivoree matapang this fri](http://twitter.com/search?q=vivoree+matapang+this+fri) | N/A |
 | 21 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 22 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 23 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 24 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
-| 25 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
-| 26 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
-| 27 | [Closer MV](http://twitter.com/search?q=Closer+MV) | N/A |
-| 28 | [Chery](http://twitter.com/search?q=Chery) | N/A |
-| 29 | [Yoshida](http://twitter.com/search?q=Yoshida) | Yoshida is a Japanese surname. It is derived from the Japanese words "yoshi" (good) and "da" (rice field). The name can be translated to mean "good rice field". |
-| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 31 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
+| 22 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 23 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
+| 24 | [APINK](http://twitter.com/search?q=APINK) | N/A |
+| 25 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 26 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 27 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
+| 28 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
+| 29 | [Shout Out](http://twitter.com/search?q=Shout+Out) | N/A |
+| 30 | [CLOSER MV](http://twitter.com/search?q=CLOSER+MV) | N/A |
+| 31 | [Kuwaresma](http://twitter.com/search?q=Kuwaresma) | N/A |
 | 32 | [arado](http://twitter.com/search?q=arado) | N/A |
-| 33 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
-| 34 | [crisostomo ibarra](http://twitter.com/search?q=crisostomo+ibarra) | N/A |
-| 35 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
-| 36 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 37 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 33 | [crisostomo ibarra](http://twitter.com/search?q=crisostomo+ibarra) | N/A |
+| 34 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
+| 35 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
+| 36 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
+| 37 | [sofi](http://twitter.com/search?q=sofi) | N/A |
 | 38 | [RCEP](http://twitter.com/search?q=RCEP) | N/A |
-| 39 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 39 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
 | 40 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
 | 41 | [GQ KOREA X JEONGYEON](http://twitter.com/search?q=GQ+KOREA+X+JEONGYEON) | N/A |
 | 42 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
-| 43 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
-| 44 | [Xiao Zhan](http://twitter.com/search?q=Xiao+Zhan) | N/A |
-| 45 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
-| 46 | [Dennis Trillo](http://twitter.com/search?q=Dennis+Trillo) | N/A |
-| 47 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
+| 43 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
+| 44 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 45 | [Chery](http://twitter.com/search?q=Chery) | N/A |
+| 46 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
+| 47 | [Dennis Trillo](http://twitter.com/search?q=Dennis+Trillo) | N/A |
 | 48 | [josh l pienomenal vocal](http://twitter.com/search?q=josh+l+pienomenal+vocal) | N/A |
 | 49 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pittsburgh
 
-📆 Last Updated: `2023-02-22 00:28:37 UTC`
+📆 Last Updated: `2023-02-22 01:44:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 2 | [WWIII](http://twitter.com/search?q=WWIII) | WWIII is an abbreviation for World War III, which is a hypothetical global conflict that would be the third world war. It is a term used to refer to a potential future large-scale military conflict involving most of the world's nations. |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 1 | [Georgia Tech](http://twitter.com/search?q=Georgia+Tech) | N/A |
+| 2 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 3 | [Sony](http://twitter.com/search?q=Sony) | N/A |
 | 4 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 5 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 6 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
 | 7 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 8 | [Nate McMillan](http://twitter.com/search?q=Nate+McMillan) | N/A |
-| 9 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 10 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 11 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 13 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 15 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 16 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
-| 19 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 20 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 21 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
-| 22 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 23 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 24 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 25 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 26 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 27 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
-| 28 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 29 | [Kenny Atkinson](http://twitter.com/search?q=Kenny+Atkinson) | N/A |
+| 8 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 9 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 10 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 11 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
+| 12 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 13 | [#RexComus](http://twitter.com/search?q=%23RexComus) | N/A |
+| 14 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 15 | [#TeenMomFamilyReunion](http://twitter.com/search?q=%23TeenMomFamilyReunion) | N/A |
+| 16 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 17 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 18 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 19 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
+| 20 | [Vivek Ramaswamy](http://twitter.com/search?q=Vivek+Ramaswamy) | N/A |
+| 21 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 22 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 23 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
+| 24 | [Fishy](http://twitter.com/search?q=Fishy) | N/A |
+| 25 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 26 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 27 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
+| 28 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 29 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
 | 30 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 31 | [Joe Prunty](http://twitter.com/search?q=Joe+Prunty) | N/A |
-| 32 | [The Hawks](http://twitter.com/search?q=The+Hawks) | N/A |
-| 33 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 35 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
-| 36 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 37 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 38 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 39 | [Svech](http://twitter.com/search?q=Svech) | N/A |
-| 40 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 41 | [Tuscaloosa](http://twitter.com/search?q=Tuscaloosa) | N/A |
-| 42 | [Distress](http://twitter.com/search?q=Distress) | N/A |
-| 43 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 44 | [Pooh Shiesty](http://twitter.com/search?q=Pooh+Shiesty) | N/A |
-| 45 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 46 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 47 | [Tre Morgan](http://twitter.com/search?q=Tre+Morgan) | N/A |
-| 48 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 31 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 32 | [McClellan](http://twitter.com/search?q=McClellan) | N/A |
+| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 34 | [Nick Paul](http://twitter.com/search?q=Nick+Paul) | N/A |
+| 35 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 36 | [Mr. Tickles](http://twitter.com/search?q=Mr.+Tickles) | N/A |
+| 37 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 38 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 39 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 40 | [Distress](http://twitter.com/search?q=Distress) | N/A |
+| 41 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
+| 42 | [Lata](http://twitter.com/search?q=Lata) | N/A |
+| 43 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 44 | [Brendan Smith](http://twitter.com/search?q=Brendan+Smith) | N/A |
+| 45 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 46 | [QuadrigaCX](http://twitter.com/search?q=QuadrigaCX) | N/A |
+| 47 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 48 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
 
 
 

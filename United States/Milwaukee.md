@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milwaukee
 
-📆 Last Updated: `2023-02-22 00:28:35 UTC`
+📆 Last Updated: `2023-02-22 01:44:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BuschArmy](http://twitter.com/search?q=%23BuschArmy) | N/A |
-| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 4 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 5 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 6 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 7 | [Nate McMillan](http://twitter.com/search?q=Nate+McMillan) | N/A |
+| 2 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 4 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 5 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 6 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 7 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
 | 8 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 9 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 10 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 11 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 13 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 14 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 15 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
-| 19 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 20 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
-| 21 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 22 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 23 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 24 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 25 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
-| 26 | [Joe Prunty](http://twitter.com/search?q=Joe+Prunty) | N/A |
-| 27 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 28 | [Kenny Atkinson](http://twitter.com/search?q=Kenny+Atkinson) | N/A |
-| 29 | [The Hawks](http://twitter.com/search?q=The+Hawks) | N/A |
-| 30 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 31 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
-| 32 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 34 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 35 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 36 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 37 | [Charles Lee](http://twitter.com/search?q=Charles+Lee) | N/A |
-| 38 | [Tuscaloosa](http://twitter.com/search?q=Tuscaloosa) | N/A |
-| 39 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 40 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 41 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 42 | [Distress](http://twitter.com/search?q=Distress) | N/A |
-| 43 | [Pooh Shiesty](http://twitter.com/search?q=Pooh+Shiesty) | N/A |
-| 44 | [Tre Morgan](http://twitter.com/search?q=Tre+Morgan) | N/A |
-| 45 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 46 | [Barton](http://twitter.com/search?q=Barton) | N/A |
-| 47 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
-| 48 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 9 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
+| 10 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 11 | [#RexComus](http://twitter.com/search?q=%23RexComus) | N/A |
+| 12 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 13 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 14 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 15 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 16 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
+| 17 | [Vivek Ramaswamy](http://twitter.com/search?q=Vivek+Ramaswamy) | N/A |
+| 18 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 19 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 20 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
+| 21 | [Fishy](http://twitter.com/search?q=Fishy) | N/A |
+| 22 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 23 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 24 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
+| 25 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
+| 26 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 27 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 28 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 29 | [McClellan](http://twitter.com/search?q=McClellan) | N/A |
+| 30 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 31 | [Nick Paul](http://twitter.com/search?q=Nick+Paul) | N/A |
+| 32 | [Mr. Tickles](http://twitter.com/search?q=Mr.+Tickles) | N/A |
+| 33 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 34 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 35 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 36 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 37 | [Distress](http://twitter.com/search?q=Distress) | N/A |
+| 38 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
+| 39 | [Lata](http://twitter.com/search?q=Lata) | N/A |
+| 40 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 41 | [Brendan Smith](http://twitter.com/search?q=Brendan+Smith) | N/A |
+| 42 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 43 | [QuadrigaCX](http://twitter.com/search?q=QuadrigaCX) | N/A |
+| 44 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 45 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
+| 46 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 47 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 48 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 
 
 

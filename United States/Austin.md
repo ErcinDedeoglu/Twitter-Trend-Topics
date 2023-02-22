@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-22 00:28:31 UTC`
+📆 Last Updated: `2023-02-22 01:44:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 2 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 3 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 4 | [#TSPRA23](http://twitter.com/search?q=%23TSPRA23) | N/A |
+| 1 | [Reed](http://twitter.com/search?q=Reed) | N/A |
+| 2 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 3 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 4 | [Sony](http://twitter.com/search?q=Sony) | N/A |
 | 5 | [#txed](http://twitter.com/search?q=%23txed) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 | 7 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 8 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 9 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 10 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 11 | [Nate McMillan](http://twitter.com/search?q=Nate+McMillan) | N/A |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 9 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 10 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 11 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
 | 12 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 13 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 14 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 15 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 16 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 17 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 18 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 19 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 20 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 21 | [#PerfectMatch](http://twitter.com/search?q=%23PerfectMatch) | N/A |
-| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 23 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
-| 24 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 25 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 26 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 27 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 28 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
-| 29 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 30 | [Kenny Atkinson](http://twitter.com/search?q=Kenny+Atkinson) | N/A |
-| 31 | [Joe Prunty](http://twitter.com/search?q=Joe+Prunty) | N/A |
-| 32 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 33 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
-| 34 | [The Hawks](http://twitter.com/search?q=The+Hawks) | N/A |
-| 35 | [Taco Tuesday](http://twitter.com/search?q=Taco+Tuesday) | N/A |
-| 36 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 37 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 38 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 39 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 40 | [Svech](http://twitter.com/search?q=Svech) | N/A |
-| 41 | [Charles Lee](http://twitter.com/search?q=Charles+Lee) | N/A |
-| 42 | [Tuscaloosa](http://twitter.com/search?q=Tuscaloosa) | N/A |
-| 43 | [Distress](http://twitter.com/search?q=Distress) | N/A |
-| 44 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 45 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 46 | [Pooh Shiesty](http://twitter.com/search?q=Pooh+Shiesty) | N/A |
-| 47 | [Tre Morgan](http://twitter.com/search?q=Tre+Morgan) | N/A |
-| 48 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
-| 49 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 13 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 14 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
+| 15 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 16 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
+| 17 | [#RexComus](http://twitter.com/search?q=%23RexComus) | N/A |
+| 18 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 19 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 20 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 21 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 22 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
+| 23 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 24 | [Vivek Ramaswamy](http://twitter.com/search?q=Vivek+Ramaswamy) | N/A |
+| 25 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
+| 26 | [Fishy](http://twitter.com/search?q=Fishy) | N/A |
+| 27 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 28 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 29 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
+| 30 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
+| 31 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 32 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 33 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 34 | [McClellan](http://twitter.com/search?q=McClellan) | N/A |
+| 35 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 36 | [Nick Paul](http://twitter.com/search?q=Nick+Paul) | N/A |
+| 37 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 38 | [Miles](http://twitter.com/search?q=Miles) | N/A |
+| 39 | [Mr. Tickles](http://twitter.com/search?q=Mr.+Tickles) | N/A |
+| 40 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 41 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 42 | [Distress](http://twitter.com/search?q=Distress) | N/A |
+| 43 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
+| 44 | [Lata](http://twitter.com/search?q=Lata) | N/A |
+| 45 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 46 | [Brendan Smith](http://twitter.com/search?q=Brendan+Smith) | N/A |
+| 47 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 48 | [QuadrigaCX](http://twitter.com/search?q=QuadrigaCX) | N/A |
+| 49 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
 
 
 

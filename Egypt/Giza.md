@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Giza
 
-📆 Last Updated: `2023-02-22 00:28:21 UTC`
+📆 Last Updated: `2023-02-22 01:44:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,37 +27,17 @@ This is top 50 for [Egypt](</Egypt>)
 | 10 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
 | 11 | [#دوري_ابطال_اوروبا](http://twitter.com/search?q=%23%d8%af%d9%88%d8%b1%d9%8a_%d8%a7%d8%a8%d8%b7%d8%a7%d9%84_%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d8%a7) | N/A |
 | 12 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 13 | [ابو ابراهيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%a7%d8%a8%d8%b1%d8%a7%d9%87%d9%8a%d9%85) | N/A |
-| 14 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
-| 15 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 16 | [اليسون](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%b3%d9%88%d9%86) | N/A |
-| 17 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 18 | [كارفخال](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%81%d8%ae%d8%a7%d9%84) | N/A |
-| 19 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
-| 20 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
-| 21 | [هندرسون](http://twitter.com/search?q=%d9%87%d9%86%d8%af%d8%b1%d8%b3%d9%88%d9%86) | N/A |
-| 22 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
-| 23 | [عزيز قوم](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2+%d9%82%d9%88%d9%85) | N/A |
-| 24 | [ماتيب](http://twitter.com/search?q=%d9%85%d8%a7%d8%aa%d9%8a%d8%a8) | ماتيب is an Arabic expression that means "I'm sorry". |
-| 25 | [انجلترا](http://twitter.com/search?q=%d8%a7%d9%86%d8%ac%d9%84%d8%aa%d8%b1%d8%a7) | N/A |
-| 26 | [مستر كارلو](http://twitter.com/search?q=%d9%85%d8%b3%d8%aa%d8%b1+%d9%83%d8%a7%d8%b1%d9%84%d9%88) | N/A |
-| 27 | [البرنابيو](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%86%d8%a7%d8%a8%d9%8a%d9%88) | N/A |
-| 28 | [الجول](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84) | N/A |
-| 29 | [فالفيردي](http://twitter.com/search?q=%d9%81%d8%a7%d9%84%d9%81%d9%8a%d8%b1%d8%af%d9%8a) | فالفيردي is an Arabic phrase that translates to "farewell" in English. It is used as a way of saying goodbye or expressing good wishes when someone is leaving. |
-| 30 | [٢ صفر](http://twitter.com/search?q=%d9%a2+%d8%b5%d9%81%d8%b1) | N/A |
-| 31 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
-| 32 | [حراس المرمي](http://twitter.com/search?q=%d8%ad%d8%b1%d8%a7%d8%b3+%d8%a7%d9%84%d9%85%d8%b1%d9%85%d9%8a) | N/A |
-| 33 | [الإسماعيلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a) | N/A |
-| 34 | [الهداف التاريخي](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%af%d8%a7%d9%81+%d8%a7%d9%84%d8%aa%d8%a7%d8%b1%d9%8a%d8%ae%d9%8a) | N/A |
-| 35 | [فينيسيوس جونيور](http://twitter.com/search?q=%d9%81%d9%8a%d9%86%d9%8a%d8%b3%d9%8a%d9%88%d8%b3+%d8%ac%d9%88%d9%86%d9%8a%d9%88%d8%b1) | N/A |
-| 36 | [البرازيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
-| 37 | [مصنع الكراسي](http://twitter.com/search?q=%d9%85%d8%b5%d9%86%d8%b9+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
-| 38 | [يابن اللعيبه](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%84%d8%b9%d9%8a%d8%a8%d9%87) | N/A |
-| 39 | [اسيست](http://twitter.com/search?q=%d8%a7%d8%b3%d9%8a%d8%b3%d8%aa) | اسيست is an Arabic word that means "to be silent". It is used to describe someone who is not speaking or making any noise. |
-| 40 | [كروس](http://twitter.com/search?q=%d9%83%d8%b1%d9%88%d8%b3) | كروس (krus) is an Arabic word meaning "cross". It is used to refer to a Christian cross, usually in the context of religious symbolism. |
-| 41 | [منتخب تونس](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%aa%d9%88%d9%86%d8%b3) | N/A |
-| 42 | [بيريز](http://twitter.com/search?q=%d8%a8%d9%8a%d8%b1%d9%8a%d8%b2) | بيريز (pronounced "biriz") is an Arabic word meaning "free". It is often used to describe someone who is independent and liberated from the constraints of society. |
-| 43 | [غزل المحله](http://twitter.com/search?q=%d8%ba%d8%b2%d9%84+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d9%87) | غزل المحله is an Arabic phrase that literally translates to "spinning the shop." It is a phrase used to describe the act of gossiping or talking about someone behind their back. |
+| 13 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 14 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 15 | [انشيلوتي](http://twitter.com/search?q=%d8%a7%d9%86%d8%b4%d9%8a%d9%84%d9%88%d8%aa%d9%8a) | انشيلوتي (Anshiloti) is a type of traditional Arabic music and dance. It is characterized by its fast tempo and intricate rhythms. The word "Anshiloti" comes from the Arabic root word "anshil" which means to move quickly. In English, it can be translated as "quick dance". |
+| 16 | [ميلنر](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d9%86%d8%b1) | ميلنر (Mylner) is a type of traditional Arabic dance that originated in the Middle East. It is characterized by its fast-paced, energetic movements and intricate footwork. The dance is usually performed in a circle, with the dancers taking turns leading the group. In English, it can be translated as "circle dancer". |
+| 17 | [انجلترا](http://twitter.com/search?q=%d8%a7%d9%86%d8%ac%d9%84%d8%aa%d8%b1%d8%a7) | N/A |
+| 18 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 19 | [٢ صفر](http://twitter.com/search?q=%d9%a2+%d8%b5%d9%81%d8%b1) | N/A |
+| 20 | [مصنع الكراسي](http://twitter.com/search?q=%d9%85%d8%b5%d9%86%d8%b9+%d8%a7%d9%84%d9%83%d8%b1%d8%a7%d8%b3%d9%8a) | N/A |
+| 21 | [البرازيل](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84) | N/A |
+| 22 | [الإسماعيلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a) | N/A |
+| 23 | [الجول](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%88%d9%84) | N/A |
 
 
 
