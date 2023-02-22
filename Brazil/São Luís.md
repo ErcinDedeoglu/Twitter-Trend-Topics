@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-02-22 15:17:39 UTC`
+📆 Last Updated: `2023-02-22 16:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 2 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 3 | [Warung](http://twitter.com/search?q=Warung) | N/A |
-| 4 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 5 | [freddie](http://twitter.com/search?q=freddie) | N/A |
+| 2 | [Warung](http://twitter.com/search?q=Warung) | N/A |
+| 3 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 4 | [bjork](http://twitter.com/search?q=bjork) | N/A |
+| 5 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
 | 6 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
-| 7 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 8 | [LOUIS TOMLINSON](http://twitter.com/search?q=LOUIS+TOMLINSON) | N/A |
-| 9 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 7 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
+| 8 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 9 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
 | 10 | [#mariliaday](http://twitter.com/search?q=%23mariliaday) | N/A |
-| 11 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 12 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
-| 13 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
-| 14 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
-| 15 | [Touré](http://twitter.com/search?q=Tour%c3%a9) | N/A |
-| 16 | [#MaisVocê](http://twitter.com/search?q=%23MaisVoc%c3%aa) | N/A |
-| 17 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
-| 18 | [CHRISTMAS](http://twitter.com/search?q=CHRISTMAS) | N/A |
-| 19 | [tia jay](http://twitter.com/search?q=tia+jay) | N/A |
-| 20 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 21 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | Feliz 2023 is a Spanish phrase that translates to "Happy 2023" in English. It is typically used as a greeting or expression of good wishes for the upcoming year. |
-| 22 | [Quarta-feira de Cinzas](http://twitter.com/search?q=Quarta-feira+de+Cinzas) | N/A |
-| 23 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 24 | [WELCOME TO MY WORLD](http://twitter.com/search?q=WELCOME+TO+MY+WORLD) | N/A |
+| 11 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
+| 12 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 13 | [Louis Tomlinson](http://twitter.com/search?q=Louis+Tomlinson) | N/A |
+| 14 | [CHRISTMAS](http://twitter.com/search?q=CHRISTMAS) | N/A |
+| 15 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
+| 16 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
+| 17 | [Touré](http://twitter.com/search?q=Tour%c3%a9) | N/A |
+| 18 | [Vagner Glock](http://twitter.com/search?q=Vagner+Glock) | N/A |
+| 19 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
+| 20 | [IFPI](http://twitter.com/search?q=IFPI) | N/A |
+| 21 | [#tamojuntobmd](http://twitter.com/search?q=%23tamojuntobmd) | N/A |
+| 22 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 23 | [Brasileirinhas](http://twitter.com/search?q=Brasileirinhas) | N/A |
+| 24 | [Portals](http://twitter.com/search?q=Portals) | N/A |
 | 25 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
-| 26 | [Brasileirinhas](http://twitter.com/search?q=Brasileirinhas) | N/A |
-| 27 | [feliz ano novo](http://twitter.com/search?q=feliz+ano+novo) | N/A |
-| 28 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
-| 29 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 30 | [bjork](http://twitter.com/search?q=bjork) | N/A |
-| 31 | [PARABÉNS SIMONE TEBET](http://twitter.com/search?q=PARAB%c3%89NS+SIMONE+TEBET) | N/A |
-| 32 | [minho](http://twitter.com/search?q=minho) | N/A |
-| 33 | [Veneza](http://twitter.com/search?q=Veneza) | N/A |
-| 34 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
-| 35 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
-| 36 | [São João](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o) | N/A |
-| 37 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 38 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 39 | [Itajaí](http://twitter.com/search?q=Itaja%c3%ad) | N/A |
-| 40 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
-| 41 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
-| 42 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
-| 43 | [Acabou o Carnaval](http://twitter.com/search?q=Acabou+o+Carnaval) | N/A |
-| 44 | [Parabéns Malu](http://twitter.com/search?q=Parab%c3%a9ns+Malu) | N/A |
-| 45 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
-| 46 | [Lee Know](http://twitter.com/search?q=Lee+Know) | Lee Know is the stage name of Lee Min-ho, a South Korean singer and member of the K-pop group Stray Kids. The name is a combination of his given name, Lee Min-ho, and the English word "know," which means to be aware or informed about something. |
-| 47 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
-| 48 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 49 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 50 | [Pica-Pau](http://twitter.com/search?q=Pica-Pau) | N/A |
+| 26 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 27 | [farra da mudança](http://twitter.com/search?q=farra+da+mudan%c3%a7a) | N/A |
+| 28 | [Vagner Loki](http://twitter.com/search?q=Vagner+Loki) | N/A |
+| 29 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | Feliz 2023 is a Spanish phrase that translates to "Happy 2023" in English. It is typically used as a greeting or expression of good wishes for the upcoming year. |
+| 30 | [tia Jay](http://twitter.com/search?q=tia+Jay) | N/A |
+| 31 | [Jessi](http://twitter.com/search?q=Jessi) | N/A |
+| 32 | [WELCOME TO MY WORLD](http://twitter.com/search?q=WELCOME+TO+MY+WORLD) | N/A |
+| 33 | [Quarta-feira de Cinzas](http://twitter.com/search?q=Quarta-feira+de+Cinzas) | N/A |
+| 34 | [Felipe Neto](http://twitter.com/search?q=Felipe+Neto) | N/A |
+| 35 | [Feliz Ano Novo](http://twitter.com/search?q=Feliz+Ano+Novo) | N/A |
+| 36 | [READY TO BE CHARMED](http://twitter.com/search?q=READY+TO+BE+CHARMED) | N/A |
+| 37 | [Veneza](http://twitter.com/search?q=Veneza) | N/A |
+| 38 | [Praia Brava](http://twitter.com/search?q=Praia+Brava) | N/A |
+| 39 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 40 | [São João](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o) | N/A |
+| 41 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 42 | [Chiquita](http://twitter.com/search?q=Chiquita) | N/A |
+| 43 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 44 | [minho](http://twitter.com/search?q=minho) | N/A |
+| 45 | [PARABÉNS SIMONE TEBET](http://twitter.com/search?q=PARAB%c3%89NS+SIMONE+TEBET) | N/A |
+| 46 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
+| 47 | [lino](http://twitter.com/search?q=lino) | N/A |
+| 48 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 49 | [Itajaí](http://twitter.com/search?q=Itaja%c3%ad) | N/A |
 
 
 

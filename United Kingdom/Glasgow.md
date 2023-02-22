@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Glasgow
 
-📆 Last Updated: `2023-02-22 15:17:28 UTC`
+📆 Last Updated: `2023-02-22 16:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | 2 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
 | 3 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
 | 4 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 5 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
-| 6 | [Bangladeshi](http://twitter.com/search?q=Bangladeshi) | N/A |
-| 7 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 8 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
-| 9 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 10 | [#MoneyInTheBank](http://twitter.com/search?q=%23MoneyInTheBank) | N/A |
-| 11 | [#ATEEZinLondon](http://twitter.com/search?q=%23ATEEZinLondon) | N/A |
-| 12 | [Queens Brook](http://twitter.com/search?q=Queens+Brook) | N/A |
-| 13 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
+| 5 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
+| 6 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 7 | [Bangladeshi](http://twitter.com/search?q=Bangladeshi) | N/A |
+| 8 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
+| 9 | [#ATEEZinLondon](http://twitter.com/search?q=%23ATEEZinLondon) | N/A |
+| 10 | [#MaterialsInHistoricalEvents](http://twitter.com/search?q=%23MaterialsInHistoricalEvents) | N/A |
+| 11 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 12 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 13 | [At 15](http://twitter.com/search?q=At+15) | N/A |
 | 14 | [She's British](http://twitter.com/search?q=She%27s+British) | N/A |
-| 15 | [Temple of Treasure Megaways](http://twitter.com/search?q=Temple+of+Treasure+Megaways) | N/A |
-| 16 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 17 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 18 | [Groomed](http://twitter.com/search?q=Groomed) | N/A |
-| 19 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 20 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
-| 21 | [At 15](http://twitter.com/search?q=At+15) | N/A |
-| 22 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 23 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
-| 24 | [World Thinking Day](http://twitter.com/search?q=World+Thinking+Day) | N/A |
-| 25 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
-| 26 | [british citizen](http://twitter.com/search?q=british+citizen) | N/A |
-| 27 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 28 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 29 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
-| 30 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
-| 31 | [Smackdown](http://twitter.com/search?q=Smackdown) | N/A |
-| 32 | [London Underground](http://twitter.com/search?q=London+Underground) | N/A |
-| 33 | [Islamic State](http://twitter.com/search?q=Islamic+State) | N/A |
-| 34 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 35 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 15 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
+| 16 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
+| 17 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 18 | [Queens Brook](http://twitter.com/search?q=Queens+Brook) | N/A |
+| 19 | [Temple of Treasure Megaways](http://twitter.com/search?q=Temple+of+Treasure+Megaways) | N/A |
+| 20 | [Groomed](http://twitter.com/search?q=Groomed) | N/A |
+| 21 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 22 | [Accrington Stanley](http://twitter.com/search?q=Accrington+Stanley) | N/A |
+| 23 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 24 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 25 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 26 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 27 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 28 | [British Citizen](http://twitter.com/search?q=British+Citizen) | N/A |
+| 29 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
+| 30 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 31 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 32 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
+| 33 | [Smackdown](http://twitter.com/search?q=Smackdown) | N/A |
+| 34 | [London Underground](http://twitter.com/search?q=London+Underground) | N/A |
+| 35 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
 | 36 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 37 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 38 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 39 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
-| 40 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
-| 41 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 42 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 43 | [Asda](http://twitter.com/search?q=Asda) | N/A |
-| 44 | [William Hill](http://twitter.com/search?q=William+Hill) | N/A |
-| 45 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
-| 46 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 47 | [Carra](http://twitter.com/search?q=Carra) | N/A |
+| 37 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
+| 38 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 39 | [Asda](http://twitter.com/search?q=Asda) | N/A |
+| 40 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
+| 41 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 42 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
+| 43 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 44 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 45 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 46 | [#NHSinnovationshowcase](http://twitter.com/search?q=%23NHSinnovationshowcase) | N/A |
+| 47 | [#MoneyInTheBank](http://twitter.com/search?q=%23MoneyInTheBank) | N/A |
 | 48 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
-| 49 | [#NHSinnovationshowcase](http://twitter.com/search?q=%23NHSinnovationshowcase) | N/A |
+| 49 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
 
 
 

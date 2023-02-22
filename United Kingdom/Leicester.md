@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leicester
 
-📆 Last Updated: `2023-02-22 15:17:28 UTC`
+📆 Last Updated: `2023-02-22 16:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 2 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 3 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 4 | [#BrexitHasFailed](http://twitter.com/search?q=%23BrexitHasFailed) | N/A |
+| 1 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
+| 2 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 3 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 4 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
 | 5 | [The DUP](http://twitter.com/search?q=The+DUP) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 8 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
-| 9 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 10 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 11 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
+| 6 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 7 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
+| 8 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 9 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 10 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
+| 11 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
 | 12 | [Bangladeshi](http://twitter.com/search?q=Bangladeshi) | N/A |
-| 13 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
-| 14 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
-| 15 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 16 | [#MoneyInTheBank](http://twitter.com/search?q=%23MoneyInTheBank) | N/A |
-| 17 | [Queens Brook](http://twitter.com/search?q=Queens+Brook) | N/A |
-| 18 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
+| 13 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
+| 14 | [#ATEEZinLondon](http://twitter.com/search?q=%23ATEEZinLondon) | N/A |
+| 15 | [#MaterialsInHistoricalEvents](http://twitter.com/search?q=%23MaterialsInHistoricalEvents) | N/A |
+| 16 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 17 | [Brandy](http://twitter.com/search?q=Brandy) | N/A |
+| 18 | [At 15](http://twitter.com/search?q=At+15) | N/A |
 | 19 | [She's British](http://twitter.com/search?q=She%27s+British) | N/A |
-| 20 | [Temple of Treasure Megaways](http://twitter.com/search?q=Temple+of+Treasure+Megaways) | N/A |
-| 21 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 22 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 23 | [Groomed](http://twitter.com/search?q=Groomed) | N/A |
-| 24 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 25 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
-| 26 | [At 15](http://twitter.com/search?q=At+15) | N/A |
-| 27 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 28 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
-| 29 | [World Thinking Day](http://twitter.com/search?q=World+Thinking+Day) | N/A |
-| 30 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
-| 31 | [british citizen](http://twitter.com/search?q=british+citizen) | N/A |
-| 32 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 33 | [Olly](http://twitter.com/search?q=Olly) | N/A |
-| 34 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
-| 35 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
-| 36 | [Smackdown](http://twitter.com/search?q=Smackdown) | N/A |
-| 37 | [London Underground](http://twitter.com/search?q=London+Underground) | N/A |
-| 38 | [Islamic State](http://twitter.com/search?q=Islamic+State) | N/A |
-| 39 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 20 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
+| 21 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
+| 22 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 23 | [Queens Brook](http://twitter.com/search?q=Queens+Brook) | N/A |
+| 24 | [Temple of Treasure Megaways](http://twitter.com/search?q=Temple+of+Treasure+Megaways) | N/A |
+| 25 | [Groomed](http://twitter.com/search?q=Groomed) | N/A |
+| 26 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 27 | [Accrington Stanley](http://twitter.com/search?q=Accrington+Stanley) | N/A |
+| 28 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 29 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 30 | [Olly](http://twitter.com/search?q=Olly) | N/A |
+| 31 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 32 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 33 | [British Citizen](http://twitter.com/search?q=British+Citizen) | N/A |
+| 34 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
+| 35 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 36 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 37 | [Smackdown](http://twitter.com/search?q=Smackdown) | N/A |
+| 38 | [London Underground](http://twitter.com/search?q=London+Underground) | N/A |
+| 39 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
 | 40 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 41 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
-| 42 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
-| 43 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
-| 44 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
-| 45 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 46 | [Asda](http://twitter.com/search?q=Asda) | N/A |
-| 47 | [William Hill](http://twitter.com/search?q=William+Hill) | N/A |
-| 48 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
-| 49 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 50 | [Carra](http://twitter.com/search?q=Carra) | N/A |
+| 41 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
+| 42 | [Asda](http://twitter.com/search?q=Asda) | N/A |
+| 43 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
+| 44 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 45 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 46 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 47 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 48 | [#NHSinnovationshowcase](http://twitter.com/search?q=%23NHSinnovationshowcase) | N/A |
+| 49 | [#MoneyInTheBank](http://twitter.com/search?q=%23MoneyInTheBank) | N/A |
 
 
 

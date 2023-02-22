@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-22 15:18:37 UTC`
+📆 Last Updated: `2023-02-22 16:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Latvia
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
-| 2 | [Helmaņa](http://twitter.com/search?q=Helma%c5%86a) | N/A |
+| 2 | [Helmanis](http://twitter.com/search?q=Helmanis) | N/A |
 | 3 | [Langa](http://twitter.com/search?q=Langa) | N/A |
 | 4 | [Skultes](http://twitter.com/search?q=Skultes) | N/A |
 | 5 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
 | 6 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 7 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
-| 8 | [Ogri](http://twitter.com/search?q=Ogri) | N/A |
-| 9 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
-| 10 | [Киев](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2) | N/A |
-| 11 | [Latgalē](http://twitter.com/search?q=Latgal%c4%93) | N/A |
-| 12 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 13 | [Rietumiem](http://twitter.com/search?q=Rietumiem) | N/A |
-| 14 | [Putinu](http://twitter.com/search?q=Putinu) | N/A |
-| 15 | [Avena](http://twitter.com/search?q=Avena) | N/A |
-| 16 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
-| 17 | [vidzemē](http://twitter.com/search?q=vidzem%c4%93) | N/A |
-| 18 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
-| 19 | [Baidens](http://twitter.com/search?q=Baidens) | N/A |
-| 20 | [Krievijai](http://twitter.com/search?q=Krievijai) | N/A |
-| 21 | [Russians](http://twitter.com/search?q=Russians) | N/A |
-| 22 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
-| 23 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
-| 24 | [Tāda](http://twitter.com/search?q=T%c4%81da) | N/A |
-| 25 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 26 | [CSDD](http://twitter.com/search?q=CSDD) | N/A |
-| 27 | [Maskavā](http://twitter.com/search?q=Maskav%c4%81) | N/A |
-| 28 | [eiropas](http://twitter.com/search?q=eiropas) | N/A |
-| 29 | [Latvijā](http://twitter.com/search?q=Latvij%c4%81) | N/A |
-| 30 | [Talsu](http://twitter.com/search?q=Talsu) | N/A |
-| 31 | [Piekrītu](http://twitter.com/search?q=Piekr%c4%abtu) | N/A |
-| 32 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
-| 33 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |
-| 34 | [#ЛигаЧемпионов](http://twitter.com/search?q=%23%d0%9b%d0%b8%d0%b3%d0%b0%d0%a7%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
-| 35 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 36 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
-| 37 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
-| 38 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
-| 39 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 41 | [polijas](http://twitter.com/search?q=polijas) | N/A |
+| 7 | [VARAM](http://twitter.com/search?q=VARAM) | N/A |
+| 8 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
+| 9 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 10 | [Daugavpils](http://twitter.com/search?q=Daugavpils) | N/A |
+| 11 | [Ogri](http://twitter.com/search?q=Ogri) | N/A |
+| 12 | [polijas](http://twitter.com/search?q=polijas) | N/A |
+| 13 | [Latgalē](http://twitter.com/search?q=Latgal%c4%93) | N/A |
+| 14 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 15 | [Putinu](http://twitter.com/search?q=Putinu) | N/A |
+| 16 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
+| 17 | [Avena](http://twitter.com/search?q=Avena) | N/A |
+| 18 | [rietumiem](http://twitter.com/search?q=rietumiem) | N/A |
+| 19 | [Krievu](http://twitter.com/search?q=Krievu) | N/A |
+| 20 | [baidena](http://twitter.com/search?q=baidena) | N/A |
+| 21 | [vidzemē](http://twitter.com/search?q=vidzem%c4%93) | N/A |
+| 22 | [Maskavā](http://twitter.com/search?q=Maskav%c4%81) | N/A |
+| 23 | [Ukrainas](http://twitter.com/search?q=Ukrainas) | N/A |
+| 24 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
+| 25 | [Russians](http://twitter.com/search?q=Russians) | N/A |
+| 26 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
+| 27 | [tāda](http://twitter.com/search?q=t%c4%81da) | N/A |
+| 28 | [csdd](http://twitter.com/search?q=csdd) | N/A |
+| 29 | [#ЛигаЧемпионов](http://twitter.com/search?q=%23%d0%9b%d0%b8%d0%b3%d0%b0%d0%a7%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
+| 30 | [jelgavā](http://twitter.com/search?q=jelgav%c4%81) | N/A |
+| 31 | [Paga](http://twitter.com/search?q=Paga) | N/A |
+| 32 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 33 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
+| 34 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 35 | [Brīvības](http://twitter.com/search?q=Br%c4%abv%c4%abbas) | N/A |
+| 36 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
+| 37 | [Krievijai](http://twitter.com/search?q=Krievijai) | N/A |
+| 38 | [Liepājā](http://twitter.com/search?q=Liep%c4%81j%c4%81) | N/A |
+| 39 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
+| 40 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 41 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
 | 42 | [Labdien](http://twitter.com/search?q=Labdien) | N/A |
-| 43 | [#herpes](http://twitter.com/search?q=%23herpes) | N/A |
-| 44 | [tavs](http://twitter.com/search?q=tavs) | N/A |
-| 45 | [Baltkrievijas](http://twitter.com/search?q=Baltkrievijas) | N/A |
-| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 47 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
-| 48 | [Levits](http://twitter.com/search?q=Levits) | N/A |
-| 49 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
-| 50 | [Крым](http://twitter.com/search?q=%d0%9a%d1%80%d1%8b%d0%bc) | N/A |
+| 43 | [Ventspils](http://twitter.com/search?q=Ventspils) | N/A |
+| 44 | [Tavs](http://twitter.com/search?q=Tavs) | N/A |
+| 45 | [Levita](http://twitter.com/search?q=Levita) | N/A |
+| 46 | [Skaidrs](http://twitter.com/search?q=Skaidrs) | N/A |
+| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 48 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
+| 49 | [Блин](http://twitter.com/search?q=%d0%91%d0%bb%d0%b8%d0%bd) | N/A |
+| 50 | [крым](http://twitter.com/search?q=%d0%ba%d1%80%d1%8b%d0%bc) | N/A |
 
 
 
