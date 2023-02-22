@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-22 18:17:35 UTC`
+📆 Last Updated: `2023-02-22 19:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Switzerland
 | 6 | [#TPMP](http://twitter.com/search?q=%23TPMP) | #TPMP stands for Touche Pas à Mon Poste, which is a French television show. In English, it translates to "Don't Touch My Post". The show is a talk show that focuses on current events and pop culture. |
 | 7 | [Programm](http://twitter.com/search?q=Programm) | N/A |
 | 8 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 9 | [Diplomatie](http://twitter.com/search?q=Diplomatie) | N/A |
 | 10 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 11 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 12 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
-| 13 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 14 | [Flüchtlingen](http://twitter.com/search?q=Fl%c3%bcchtlingen) | N/A |
-| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 16 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
-| 17 | [Qu'il](http://twitter.com/search?q=Qu%27il) | N/A |
-| 18 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 20 | [Beruf](http://twitter.com/search?q=Beruf) | N/A |
-| 21 | [Baum](http://twitter.com/search?q=Baum) | N/A |
-| 22 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
-| 23 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 24 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
-| 25 | [Katze](http://twitter.com/search?q=Katze) | N/A |
-| 26 | [Islam](http://twitter.com/search?q=Islam) | N/A |
-| 27 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
-| 28 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
-| 29 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
-| 30 | [Credo](http://twitter.com/search?q=Credo) | N/A |
-| 31 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 32 | [Meinungen](http://twitter.com/search?q=Meinungen) | N/A |
+| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 12 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 13 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 14 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 15 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
+| 16 | [Tatsache](http://twitter.com/search?q=Tatsache) | N/A |
+| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 18 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 19 | [Organisation](http://twitter.com/search?q=Organisation) | N/A |
+| 20 | [Fantastic](http://twitter.com/search?q=Fantastic) | N/A |
+| 21 | [Lügner](http://twitter.com/search?q=L%c3%bcgner) | N/A |
+| 22 | [Beruf](http://twitter.com/search?q=Beruf) | N/A |
+| 23 | [Baum](http://twitter.com/search?q=Baum) | N/A |
+| 24 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 25 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 26 | [Katze](http://twitter.com/search?q=Katze) | N/A |
+| 27 | [Technologie](http://twitter.com/search?q=Technologie) | N/A |
+| 28 | [Plattform](http://twitter.com/search?q=Plattform) | N/A |
+| 29 | [Le Conseil](http://twitter.com/search?q=Le+Conseil) | N/A |
+| 30 | [Projekt](http://twitter.com/search?q=Projekt) | N/A |
+| 31 | [Credo](http://twitter.com/search?q=Credo) | N/A |
+| 32 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
 | 33 | [Regierungen](http://twitter.com/search?q=Regierungen) | N/A |
 | 34 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 35 | [Maske](http://twitter.com/search?q=Maske) | N/A |
-| 36 | [Feuer](http://twitter.com/search?q=Feuer) | N/A |
-| 37 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 38 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
-| 39 | [twint](http://twitter.com/search?q=twint) | N/A |
-| 40 | [Le Real](http://twitter.com/search?q=Le+Real) | N/A |
-| 41 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 42 | [Details](http://twitter.com/search?q=Details) | N/A |
-| 43 | [Grand Conseil](http://twitter.com/search?q=Grand+Conseil) | N/A |
-| 44 | [Patienten](http://twitter.com/search?q=Patienten) | N/A |
-| 45 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 46 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 47 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
-| 48 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 49 | [Kompetenz](http://twitter.com/search?q=Kompetenz) | N/A |
-| 50 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 35 | [Feuer](http://twitter.com/search?q=Feuer) | N/A |
+| 36 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 37 | [Umwelt](http://twitter.com/search?q=Umwelt) | N/A |
+| 38 | [Le Real](http://twitter.com/search?q=Le+Real) | N/A |
+| 39 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 40 | [Grand Conseil](http://twitter.com/search?q=Grand+Conseil) | N/A |
+| 41 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 42 | [Patienten](http://twitter.com/search?q=Patienten) | N/A |
+| 43 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 44 | [Waffe](http://twitter.com/search?q=Waffe) | N/A |
+| 45 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 46 | [Kompetenz](http://twitter.com/search?q=Kompetenz) | N/A |
+| 47 | [Männern](http://twitter.com/search?q=M%c3%a4nnern) | N/A |
+| 48 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
+| 49 | [Qualität](http://twitter.com/search?q=Qualit%c3%a4t) | N/A |
+| 50 | [Rome](http://twitter.com/search?q=Rome) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-02-22 18:16:59 UTC`
+📆 Last Updated: `2023-02-22 19:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,55 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 2 | [#11YearsWithChanyeol](http://twitter.com/search?q=%2311YearsWithChanyeol) | N/A |
-| 3 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
-| 4 | [#찬열아_데뷔11주년_축하해](http://twitter.com/search?q=%23%ec%b0%ac%ec%97%b4%ec%95%84_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 5 | [#찬열이랑_11년째_한_편](http://twitter.com/search?q=%23%ec%b0%ac%ec%97%b4%ec%9d%b4%eb%9e%91_11%eb%85%84%ec%a7%b8_%ed%95%9c_%ed%8e%b8) | N/A |
-| 6 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 7 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 8 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 9 | [BTS ALL TIME LEGENDS](http://twitter.com/search?q=BTS+ALL+TIME+LEGENDS) | N/A |
-| 10 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 11 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 12 | [Pesan Kampus](http://twitter.com/search?q=Pesan+Kampus) | N/A |
-| 13 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 14 | [Mandat Seniman](http://twitter.com/search?q=Mandat+Seniman) | N/A |
-| 15 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 16 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 17 | [angela tanoesoedibjo](http://twitter.com/search?q=angela+tanoesoedibjo) | N/A |
-| 18 | [LIP DUO](http://twitter.com/search?q=LIP+DUO) | N/A |
-| 19 | [Hoki](http://twitter.com/search?q=Hoki) | N/A |
-| 20 | [Perindo](http://twitter.com/search?q=Perindo) | N/A |
-| 21 | [Hotman Paris](http://twitter.com/search?q=Hotman+Paris) | N/A |
-| 22 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
-| 23 | [Komang](http://twitter.com/search?q=Komang) | N/A |
-| 24 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
+| 1 | [di dekade 08 infonya](http://twitter.com/search?q=di+dekade+08+infonya) | N/A |
+| 2 | [iya mending prabowo](http://twitter.com/search?q=iya+mending+prabowo) | N/A |
+| 3 | [prabowo pilihan terbaik](http://twitter.com/search?q=prabowo+pilihan+terbaik) | N/A |
+| 4 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
+| 5 | [#11YearsWithChanyeol](http://twitter.com/search?q=%2311YearsWithChanyeol) | N/A |
+| 6 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
+| 7 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
+| 8 | [LIP DUO](http://twitter.com/search?q=LIP+DUO) | N/A |
+| 9 | [David](http://twitter.com/search?q=David) | N/A |
+| 10 | [implora](http://twitter.com/search?q=implora) | N/A |
+| 11 | [#sharetheepicwithraisa](http://twitter.com/search?q=%23sharetheepicwithraisa) | N/A |
+| 12 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 13 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
+| 14 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 15 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 16 | [ultra 5g](http://twitter.com/search?q=ultra+5g) | N/A |
+| 17 | [lip moist serum](http://twitter.com/search?q=lip+moist+serum) | N/A |
+| 18 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 19 | [lip moist essence](http://twitter.com/search?q=lip+moist+essence) | N/A |
+| 20 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
+| 21 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 22 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 23 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 24 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
 | 25 | [Rabu Abu](http://twitter.com/search?q=Rabu+Abu) | N/A |
-| 26 | [Searching](http://twitter.com/search?q=Searching) | N/A |
-| 27 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 28 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 29 | [SKCK](http://twitter.com/search?q=SKCK) | N/A |
-| 30 | [Suju](http://twitter.com/search?q=Suju) | N/A |
-| 31 | [Slam Dunk](http://twitter.com/search?q=Slam+Dunk) | N/A |
-| 32 | [Dubai](http://twitter.com/search?q=Dubai) | Dubai is a city and emirate in the United Arab Emirates (UAE). It is located on the southeast coast of the Persian Gulf and is the capital of the Emirate of Dubai, one of the seven emirates that make up the country. The word "Dubai" translates to "money" in English. |
-| 33 | [Gayus](http://twitter.com/search?q=Gayus) | N/A |
-| 34 | [#달처럼_빛날_형서의_스물여섯](http://twitter.com/search?q=%23%eb%8b%ac%ec%b2%98%eb%9f%bc_%eb%b9%9b%eb%82%a0_%ed%98%95%ec%84%9c%ec%9d%98_%ec%8a%a4%eb%ac%bc%ec%97%ac%ec%84%af) | N/A |
-| 35 | [#Dear_my_kevin_moon](http://twitter.com/search?q=%23Dear_my_kevin_moon) | N/A |
-| 36 | [#BudalGus](http://twitter.com/search?q=%23BudalGus) | N/A |
-| 37 | [#GusMuhaiminBerangkat](http://twitter.com/search?q=%23GusMuhaiminBerangkat) | N/A |
-| 38 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
-| 39 | [#CHIQUITA](http://twitter.com/search?q=%23CHIQUITA) | N/A |
-| 40 | [#WishWIN24thHappyLive](http://twitter.com/search?q=%23WishWIN24thHappyLive) | N/A |
-| 41 | [#PEAKTIME](http://twitter.com/search?q=%23PEAKTIME) | N/A |
-| 42 | [#BAE173](http://twitter.com/search?q=%23BAE173) | N/A |
-| 43 | [#BLACKPINK_WORLDTOUR](http://twitter.com/search?q=%23BLACKPINK_WORLDTOUR) | N/A |
-| 44 | [#YUJU](http://twitter.com/search?q=%23YUJU) | N/A |
-| 45 | [#MusikalisaSISCA](http://twitter.com/search?q=%23MusikalisaSISCA) | N/A |
+| 26 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 27 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 28 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
+| 29 | [Pak Prabowo](http://twitter.com/search?q=Pak+Prabowo) | N/A |
+| 30 | [BTS ALL TIME LEGENDS](http://twitter.com/search?q=BTS+ALL+TIME+LEGENDS) | N/A |
+| 31 | [uji kelayakan](http://twitter.com/search?q=uji+kelayakan) | N/A |
+| 32 | [H-10](http://twitter.com/search?q=H-10) | N/A |
+| 33 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 34 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 35 | [JISOO for Vogue France](http://twitter.com/search?q=JISOO+for+Vogue+France) | N/A |
+| 36 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
+| 37 | [Kerupuk](http://twitter.com/search?q=Kerupuk) | N/A |
+| 38 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 39 | [Bu Risma](http://twitter.com/search?q=Bu+Risma) | N/A |
+| 40 | [Pesan Kampus](http://twitter.com/search?q=Pesan+Kampus) | N/A |
+| 41 | [angela tanoesoedibjo](http://twitter.com/search?q=angela+tanoesoedibjo) | N/A |
+| 42 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 43 | [anak belum siap](http://twitter.com/search?q=anak+belum+siap) | N/A |
+| 44 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 45 | [Gayus](http://twitter.com/search?q=Gayus) | N/A |
+| 46 | [Harley](http://twitter.com/search?q=Harley) | N/A |
+| 47 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 48 | [wajib berislam kaffah](http://twitter.com/search?q=wajib+berislam+kaffah) | N/A |
+| 49 | [Kabul](http://twitter.com/search?q=Kabul) | N/A |
 
 
 

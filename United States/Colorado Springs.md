@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Colorado Springs
 
-📆 Last Updated: `2023-02-22 18:17:20 UTC`
+📆 Last Updated: `2023-02-22 19:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
 | 2 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 3 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 4 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 5 | [Taylor Lewan](http://twitter.com/search?q=Taylor+Lewan) | N/A |
-| 6 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
-| 7 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 8 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 9 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
-| 10 | [#Titans](http://twitter.com/search?q=%23Titans) | N/A |
-| 11 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
-| 12 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 13 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 14 | [Dom Capers](http://twitter.com/search?q=Dom+Capers) | N/A |
-| 15 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
-| 16 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 17 | [Mark Ball](http://twitter.com/search?q=Mark+Ball) | N/A |
-| 18 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
-| 19 | [The Mask Mandates Did Nothing](http://twitter.com/search?q=The+Mask+Mandates+Did+Nothing) | N/A |
-| 20 | [Brnovich](http://twitter.com/search?q=Brnovich) | N/A |
-| 21 | [$LUNR](http://twitter.com/search?q=%24LUNR) | N/A |
-| 22 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 23 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 24 | [Ultimate Universe](http://twitter.com/search?q=Ultimate+Universe) | N/A |
+| 3 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
+| 4 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
+| 5 | [#ExpediaChat](http://twitter.com/search?q=%23ExpediaChat) | N/A |
+| 6 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
+| 7 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 8 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
+| 9 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 10 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 11 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 12 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 13 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 14 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
+| 15 | [Dom Capers](http://twitter.com/search?q=Dom+Capers) | N/A |
+| 16 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 17 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
+| 18 | [Hickman](http://twitter.com/search?q=Hickman) | N/A |
+| 19 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 20 | [Fat Randy](http://twitter.com/search?q=Fat+Randy) | N/A |
+| 21 | [Blaydes](http://twitter.com/search?q=Blaydes) | N/A |
+| 22 | [Ultimate Universe](http://twitter.com/search?q=Ultimate+Universe) | N/A |
+| 23 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 24 | [Brnovich](http://twitter.com/search?q=Brnovich) | N/A |
 | 25 | [Bret Stephens](http://twitter.com/search?q=Bret+Stephens) | N/A |
-| 26 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
-| 27 | [Article 5](http://twitter.com/search?q=Article+5) | N/A |
-| 28 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
-| 29 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
-| 30 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 31 | [10 Palestinians](http://twitter.com/search?q=10+Palestinians) | N/A |
-| 32 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
-| 33 | [Al Michaels](http://twitter.com/search?q=Al+Michaels) | Al Michaels is an American sportscaster who is best known for his work on NBC's Sunday Night Football. He has been the play-by-play announcer for the NFL's primetime package since 2006. He is also known for his famous catchphrase, "Do you believe in miracles?" which he famously uttered during the 1980 Winter Olympics when the United States hockey team defeated the Soviet Union. |
-| 34 | [PROMISE OFFICIAL RELEASE](http://twitter.com/search?q=PROMISE+OFFICIAL+RELEASE) | N/A |
-| 35 | [Hickman](http://twitter.com/search?q=Hickman) | N/A |
-| 36 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 37 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 38 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
-| 39 | [Simp](http://twitter.com/search?q=Simp) | N/A |
-| 40 | [Russell Crowe](http://twitter.com/search?q=Russell+Crowe) | N/A |
-| 41 | [Daft Punk](http://twitter.com/search?q=Daft+Punk) | N/A |
-| 42 | [Austin Armstrong](http://twitter.com/search?q=Austin+Armstrong) | N/A |
-| 43 | [Jon Tester](http://twitter.com/search?q=Jon+Tester) | N/A |
-| 44 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
-| 45 | [No Steph](http://twitter.com/search?q=No+Steph) | N/A |
-| 46 | [Random Access Memories](http://twitter.com/search?q=Random+Access+Memories) | N/A |
-| 47 | [Nuland](http://twitter.com/search?q=Nuland) | N/A |
-| 48 | [PROMISE ON SPOTIFY](http://twitter.com/search?q=PROMISE+ON+SPOTIFY) | N/A |
-| 49 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 50 | [Christmas Love and Promise](http://twitter.com/search?q=Christmas+Love+and+Promise) | N/A |
+| 26 | [Mark Ball](http://twitter.com/search?q=Mark+Ball) | N/A |
+| 27 | [Fed Minutes](http://twitter.com/search?q=Fed+Minutes) | N/A |
+| 28 | [Y-12](http://twitter.com/search?q=Y-12) | N/A |
+| 29 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 30 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 31 | [The Mask Mandates Did Nothing](http://twitter.com/search?q=The+Mask+Mandates+Did+Nothing) | N/A |
+| 32 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
+| 33 | [Brian Cox](http://twitter.com/search?q=Brian+Cox) | N/A |
+| 34 | [$LUNR](http://twitter.com/search?q=%24LUNR) | N/A |
+| 35 | [10 Palestinians](http://twitter.com/search?q=10+Palestinians) | N/A |
+| 36 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 37 | [Oak Ridge](http://twitter.com/search?q=Oak+Ridge) | N/A |
+| 38 | [Nuland](http://twitter.com/search?q=Nuland) | N/A |
+| 39 | [Willie Taggart](http://twitter.com/search?q=Willie+Taggart) | N/A |
+| 40 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
+| 41 | [Jon Tester](http://twitter.com/search?q=Jon+Tester) | N/A |
+| 42 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 43 | [Chris Chan](http://twitter.com/search?q=Chris+Chan) | N/A |
+| 44 | [Ran Carthon](http://twitter.com/search?q=Ran+Carthon) | Ran Carthon is a phrase in the French language that translates to "ran away". It is used to describe someone who has left or escaped from a situation. |
+| 45 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
+| 46 | [Article 5](http://twitter.com/search?q=Article+5) | N/A |
+| 47 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
+| 48 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 49 | [Al Michaels](http://twitter.com/search?q=Al+Michaels) | Al Michaels is an American sportscaster who is best known for his work on NBC's Sunday Night Football. He has been the play-by-play announcer for the NFL's primetime package since 2006. He is also known for his famous catchphrase, "Do you believe in miracles?" which he famously uttered during the 1980 Winter Olympics when the United States hockey team defeated the Soviet Union. |
+| 50 | [Daft Punk](http://twitter.com/search?q=Daft+Punk) | N/A |
 
 
 

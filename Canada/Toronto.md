@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toronto
 
-📆 Last Updated: `2023-02-22 18:16:38 UTC`
+📆 Last Updated: `2023-02-22 19:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Canada](</Canada>)
 | ------- | ------------ | ------------ |
 | 1 | [#PinkShirtDay](http://twitter.com/search?q=%23PinkShirtDay) | N/A |
 | 2 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 3 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 7 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 8 | [#BeKind](http://twitter.com/search?q=%23BeKind) | N/A |
-| 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 10 | [#LiftEachOtherUp](http://twitter.com/search?q=%23LiftEachOtherUp) | N/A |
-| 11 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 12 | [#CdnScreenAwards](http://twitter.com/search?q=%23CdnScreenAwards) | N/A |
+| 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 4 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Jake Muzzin](http://twitter.com/search?q=Jake+Muzzin) | N/A |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 8 | [#LiftEachOtherUp](http://twitter.com/search?q=%23LiftEachOtherUp) | N/A |
+| 9 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 10 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 11 | [#BeKind](http://twitter.com/search?q=%23BeKind) | N/A |
+| 12 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
 | 13 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
-| 14 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 15 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
-| 16 | [Pancake Tuesday](http://twitter.com/search?q=Pancake+Tuesday) | N/A |
-| 17 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 18 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 19 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 20 | [Tyler Myers](http://twitter.com/search?q=Tyler+Myers) | N/A |
-| 21 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 23 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 24 | [USFL](http://twitter.com/search?q=USFL) | N/A |
-| 25 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 26 | [O Canada](http://twitter.com/search?q=O+Canada) | N/A |
-| 27 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 28 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 29 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 30 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
-| 31 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
-| 32 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
+| 14 | [#antibullying](http://twitter.com/search?q=%23antibullying) | N/A |
+| 15 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 16 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 17 | [Pancake Tuesday](http://twitter.com/search?q=Pancake+Tuesday) | N/A |
+| 18 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
+| 19 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 20 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 21 | [Tyler Myers](http://twitter.com/search?q=Tyler+Myers) | N/A |
+| 22 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
+| 23 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 24 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 26 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 27 | [USFL](http://twitter.com/search?q=USFL) | N/A |
+| 28 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 29 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 30 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 31 | [Bluesfest](http://twitter.com/search?q=Bluesfest) | N/A |
+| 32 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 33 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 34 | [Bluesfest](http://twitter.com/search?q=Bluesfest) | N/A |
-| 35 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 36 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 37 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 38 | [Parayko](http://twitter.com/search?q=Parayko) | N/A |
-| 39 | [twice in toronto](http://twitter.com/search?q=twice+in+toronto) | N/A |
-| 40 | [Ryan O’Reilly](http://twitter.com/search?q=Ryan+O%e2%80%99Reilly) | N/A |
-| 41 | [Cartoon Network](http://twitter.com/search?q=Cartoon+Network) | Cartoon Network is an American cable television channel owned by WarnerMedia Entertainment, a division of AT&T's WarnerMedia. It primarily broadcasts animated programming, ranging from action to animated comedy. Cartoon Network's programming mainly targets children and teenagers between the ages of 7–15, and also targets older teens and adults with mature content during its late night daypart Adult Swim. |
-| 42 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
-| 43 | [Muzz](http://twitter.com/search?q=Muzz) | N/A |
-| 44 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 45 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
-| 46 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
-| 47 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 48 | [Seamus](http://twitter.com/search?q=Seamus) | N/A |
-| 49 | [ror hatty](http://twitter.com/search?q=ror+hatty) | N/A |
-| 50 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 34 | [O Canada](http://twitter.com/search?q=O+Canada) | N/A |
+| 35 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 36 | [Cartoon Network](http://twitter.com/search?q=Cartoon+Network) | Cartoon Network is an American cable television channel owned by WarnerMedia Entertainment, a division of AT&T's WarnerMedia. It primarily broadcasts animated programming, ranging from action to animated comedy. Cartoon Network's programming mainly targets children and teenagers between the ages of 7–15, and also targets older teens and adults with mature content during its late night daypart Adult Swim. |
+| 37 | [twice in toronto](http://twitter.com/search?q=twice+in+toronto) | N/A |
+| 38 | [Jully Black](http://twitter.com/search?q=Jully+Black) | N/A |
+| 39 | [Ryan O’Reilly](http://twitter.com/search?q=Ryan+O%e2%80%99Reilly) | N/A |
+| 40 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
+| 41 | [Parayko](http://twitter.com/search?q=Parayko) | N/A |
+| 42 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 43 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 44 | [ror hatty](http://twitter.com/search?q=ror+hatty) | N/A |
+| 45 | [Marner](http://twitter.com/search?q=Marner) | Marner is a surname of German origin. It is derived from the Middle High German word "marner" which means "miner". The name was originally given to someone who worked in a mine or quarry. |
+| 46 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 47 | [Seamus](http://twitter.com/search?q=Seamus) | N/A |
+| 48 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 49 | [Canadian Screen Awards](http://twitter.com/search?q=Canadian+Screen+Awards) | N/A |
+| 50 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 
 
 
