@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Harrisburg
 
-📆 Last Updated: `2023-02-22 17:17:37 UTC`
+📆 Last Updated: `2023-02-22 18:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [United States](</United States>)
 | 1 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 2 | [#BabyFlokiRising](http://twitter.com/search?q=%23BabyFlokiRising) | N/A |
 | 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 4 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
-| 5 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
-| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 7 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 8 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 9 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 10 | [#D2Day](http://twitter.com/search?q=%23D2Day) | N/A |
-| 11 | [Mark Ball](http://twitter.com/search?q=Mark+Ball) | N/A |
-| 12 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 13 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
-| 14 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 15 | [Bret Stephens](http://twitter.com/search?q=Bret+Stephens) | N/A |
-| 16 | [The Mask Mandates Did Nothing](http://twitter.com/search?q=The+Mask+Mandates+Did+Nothing) | N/A |
-| 17 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 18 | [PROMISE OFFICIAL RELEASE](http://twitter.com/search?q=PROMISE+OFFICIAL+RELEASE) | N/A |
-| 19 | [Christmas Love and Promise](http://twitter.com/search?q=Christmas+Love+and+Promise) | N/A |
-| 20 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 21 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 22 | [Article 5](http://twitter.com/search?q=Article+5) | N/A |
-| 23 | [10 Palestinians](http://twitter.com/search?q=10+Palestinians) | N/A |
-| 24 | [Austin Armstrong](http://twitter.com/search?q=Austin+Armstrong) | N/A |
-| 25 | [Patrick Toney](http://twitter.com/search?q=Patrick+Toney) | N/A |
-| 26 | [Al Michaels](http://twitter.com/search?q=Al+Michaels) | Al Michaels is an American sportscaster who is best known for his work on NBC's Sunday Night Football. He has been the play-by-play announcer for the NFL's primetime package since 2006. He is also known for his famous catchphrase, "Do you believe in miracles?" which he famously uttered during the 1980 Winter Olympics when the United States hockey team defeated the Soviet Union. |
-| 27 | [Jon Tester](http://twitter.com/search?q=Jon+Tester) | N/A |
-| 28 | [One Medical](http://twitter.com/search?q=One+Medical) | N/A |
-| 29 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 30 | [PROMISE ON SPOTIFY](http://twitter.com/search?q=PROMISE+ON+SPOTIFY) | N/A |
-| 31 | [Past Lives](http://twitter.com/search?q=Past+Lives) | N/A |
-| 32 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
-| 33 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 34 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 35 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 36 | [$INTC](http://twitter.com/search?q=%24INTC) | N/A |
-| 37 | [IFPI](http://twitter.com/search?q=IFPI) | N/A |
-| 38 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
-| 39 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
-| 40 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
-| 41 | [Drew Barrymore](http://twitter.com/search?q=Drew+Barrymore) | N/A |
-| 42 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
-| 43 | [American Girl](http://twitter.com/search?q=American+Girl) | N/A |
-| 44 | [Ttek](http://twitter.com/search?q=Ttek) | N/A |
-| 45 | [Tom Lee](http://twitter.com/search?q=Tom+Lee) | N/A |
-| 46 | [Wonderful Wednesday](http://twitter.com/search?q=Wonderful+Wednesday) | N/A |
-| 47 | [Splash](http://twitter.com/search?q=Splash) | N/A |
-| 48 | [Cochrane](http://twitter.com/search?q=Cochrane) | N/A |
-| 49 | [Derwin](http://twitter.com/search?q=Derwin) | N/A |
-| 50 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
+| 4 | [Bronny](http://twitter.com/search?q=Bronny) | Bronny is a nickname for LeBron James, an American professional basketball player. It is a combination of his first name, LeBron, and the suffix “-ny” which is often used to create nicknames. |
+| 5 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
+| 6 | [Taylor Lewan](http://twitter.com/search?q=Taylor+Lewan) | N/A |
+| 7 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 8 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
+| 9 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 10 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
+| 11 | [#Titans](http://twitter.com/search?q=%23Titans) | N/A |
+| 12 | [Bobby Trees](http://twitter.com/search?q=Bobby+Trees) | N/A |
+| 13 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 14 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
+| 15 | [Dom Capers](http://twitter.com/search?q=Dom+Capers) | N/A |
+| 16 | [Boulder High School](http://twitter.com/search?q=Boulder+High+School) | N/A |
+| 17 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 18 | [Mark Ball](http://twitter.com/search?q=Mark+Ball) | N/A |
+| 19 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
+| 20 | [The Mask Mandates Did Nothing](http://twitter.com/search?q=The+Mask+Mandates+Did+Nothing) | N/A |
+| 21 | [Brnovich](http://twitter.com/search?q=Brnovich) | N/A |
+| 22 | [$LUNR](http://twitter.com/search?q=%24LUNR) | N/A |
+| 23 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
+| 24 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 25 | [Ultimate Universe](http://twitter.com/search?q=Ultimate+Universe) | N/A |
+| 26 | [Bret Stephens](http://twitter.com/search?q=Bret+Stephens) | N/A |
+| 27 | [Mad Dog](http://twitter.com/search?q=Mad+Dog) | N/A |
+| 28 | [Article 5](http://twitter.com/search?q=Article+5) | N/A |
+| 29 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
+| 30 | [10 Palestinians](http://twitter.com/search?q=10+Palestinians) | N/A |
+| 31 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 32 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 33 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
+| 34 | [Al Michaels](http://twitter.com/search?q=Al+Michaels) | Al Michaels is an American sportscaster who is best known for his work on NBC's Sunday Night Football. He has been the play-by-play announcer for the NFL's primetime package since 2006. He is also known for his famous catchphrase, "Do you believe in miracles?" which he famously uttered during the 1980 Winter Olympics when the United States hockey team defeated the Soviet Union. |
+| 35 | [PROMISE OFFICIAL RELEASE](http://twitter.com/search?q=PROMISE+OFFICIAL+RELEASE) | N/A |
+| 36 | [Hickman](http://twitter.com/search?q=Hickman) | N/A |
+| 37 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
+| 38 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
+| 39 | [Sam Harris](http://twitter.com/search?q=Sam+Harris) | N/A |
+| 40 | [Simp](http://twitter.com/search?q=Simp) | N/A |
+| 41 | [Russell Crowe](http://twitter.com/search?q=Russell+Crowe) | N/A |
+| 42 | [Daft Punk](http://twitter.com/search?q=Daft+Punk) | N/A |
+| 43 | [Austin Armstrong](http://twitter.com/search?q=Austin+Armstrong) | N/A |
+| 44 | [Jon Tester](http://twitter.com/search?q=Jon+Tester) | N/A |
+| 45 | [Nuland](http://twitter.com/search?q=Nuland) | N/A |
+| 46 | [Hunter Brown](http://twitter.com/search?q=Hunter+Brown) | N/A |
+| 47 | [No Steph](http://twitter.com/search?q=No+Steph) | N/A |
+| 48 | [Random Access Memories](http://twitter.com/search?q=Random+Access+Memories) | N/A |
+| 49 | [PROMISE ON SPOTIFY](http://twitter.com/search?q=PROMISE+ON+SPOTIFY) | N/A |
+| 50 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
 
 
 

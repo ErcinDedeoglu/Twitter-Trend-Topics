@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-22 17:17:46 UTC`
+📆 Last Updated: `2023-02-22 18:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Germany
 | 4 | [#SGESSC](http://twitter.com/search?q=%23SGESSC) | N/A |
 | 5 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
 | 6 | [#ZDFfrontal](http://twitter.com/search?q=%23ZDFfrontal) | N/A |
-| 7 | [Heute vor 80 Jahren](http://twitter.com/search?q=Heute+vor+80+Jahren) | N/A |
-| 8 | [Baum](http://twitter.com/search?q=Baum) | N/A |
-| 9 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
+| 7 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
+| 8 | [Heute vor 80 Jahren](http://twitter.com/search?q=Heute+vor+80+Jahren) | N/A |
+| 9 | [Baum](http://twitter.com/search?q=Baum) | N/A |
 | 10 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 11 | [Hans Scholl](http://twitter.com/search?q=Hans+Scholl) | N/A |
-| 12 | [Christoph Probst](http://twitter.com/search?q=Christoph+Probst) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [LOUIS YOU ARE WORTHY](http://twitter.com/search?q=LOUIS+YOU+ARE+WORTHY) | N/A |
-| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 11 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 12 | [Denise](http://twitter.com/search?q=Denise) | N/A |
+| 13 | [Hans Scholl](http://twitter.com/search?q=Hans+Scholl) | N/A |
+| 14 | [Christoph Probst](http://twitter.com/search?q=Christoph+Probst) | N/A |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 16 | [Sommersprossen](http://twitter.com/search?q=Sommersprossen) | N/A |
-| 17 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 18 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
-| 19 | ['Spiegelung'](http://twitter.com/search?q=%27Spiegelung%27) | N/A |
-| 20 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 21 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 22 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
-| 23 | [Selbstbeteiligung](http://twitter.com/search?q=Selbstbeteiligung) | N/A |
-| 24 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
-| 25 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 18 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 19 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
+| 20 | ['Spiegelung'](http://twitter.com/search?q=%27Spiegelung%27) | N/A |
+| 21 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
+| 22 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 23 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 24 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 25 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
 | 26 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
-| 27 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
-| 28 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 27 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 28 | [LOUIS YOU ARE WORTHY](http://twitter.com/search?q=LOUIS+YOU+ARE+WORTHY) | N/A |
 | 29 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 30 | [Tischtennis](http://twitter.com/search?q=Tischtennis) | N/A |
-| 31 | [Rosenmontag](http://twitter.com/search?q=Rosenmontag) | N/A |
-| 32 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
-| 33 | [Krankenversicherung](http://twitter.com/search?q=Krankenversicherung) | N/A |
-| 34 | [Trapp](http://twitter.com/search?q=Trapp) | N/A |
-| 35 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 36 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
-| 37 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
-| 38 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 39 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 40 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 41 | [Versicherten](http://twitter.com/search?q=Versicherten) | N/A |
-| 42 | [Bayernpartei](http://twitter.com/search?q=Bayernpartei) | N/A |
-| 43 | [Sohle](http://twitter.com/search?q=Sohle) | N/A |
+| 30 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
+| 31 | [TRAPP](http://twitter.com/search?q=TRAPP) | N/A |
+| 32 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 33 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 34 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 35 | [Tischtennis](http://twitter.com/search?q=Tischtennis) | N/A |
+| 36 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 37 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 38 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 39 | [Versicherten](http://twitter.com/search?q=Versicherten) | N/A |
+| 40 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 41 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 42 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 43 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
 | 44 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
-| 45 | [Beitragszahler](http://twitter.com/search?q=Beitragszahler) | N/A |
-| 46 | [Geburtsdatum](http://twitter.com/search?q=Geburtsdatum) | N/A |
-| 47 | [Februar 1943](http://twitter.com/search?q=Februar+1943) | N/A |
-| 48 | [Kolo](http://twitter.com/search?q=Kolo) | N/A |
-| 49 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 50 | [amtsanmaßung](http://twitter.com/search?q=amtsanma%c3%9fung) | N/A |
+| 45 | [Geburtsdatum](http://twitter.com/search?q=Geburtsdatum) | N/A |
+| 46 | [Bayernpartei](http://twitter.com/search?q=Bayernpartei) | N/A |
+| 47 | [Kolo](http://twitter.com/search?q=Kolo) | N/A |
+| 48 | [Amtsanmaßung](http://twitter.com/search?q=Amtsanma%c3%9fung) | N/A |
+| 49 | [Sohle](http://twitter.com/search?q=Sohle) | N/A |
+| 50 | [New START](http://twitter.com/search?q=New+START) | N/A |
 
 
 

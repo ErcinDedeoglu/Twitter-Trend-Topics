@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-22 17:17:47 UTC`
+📆 Last Updated: `2023-02-22 18:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Israel
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [אלמוג כהן](http://twitter.com/search?q=%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
-| 2 | [אסף חפץ](http://twitter.com/search?q=%d7%90%d7%a1%d7%a3+%d7%97%d7%a4%d7%a5) | N/A |
-| 3 | [בנק ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 2 | [בנק ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 3 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
 | 4 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
-| 5 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 6 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
+| 5 | [אלעזר שטרן](http://twitter.com/search?q=%d7%90%d7%9c%d7%a2%d7%96%d7%a8+%d7%a9%d7%98%d7%a8%d7%9f) | N/A |
+| 6 | [אסף חפץ](http://twitter.com/search?q=%d7%90%d7%a1%d7%a3+%d7%97%d7%a4%d7%a5) | N/A |
 | 7 | [של סטטיק](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%98%d7%98%d7%99%d7%a7) | N/A |
-| 8 | [חודש טוב](http://twitter.com/search?q=%d7%97%d7%95%d7%93%d7%a9+%d7%98%d7%95%d7%91) | N/A |
-| 9 | [אלעזר שטרן](http://twitter.com/search?q=%d7%90%d7%9c%d7%a2%d7%96%d7%a8+%d7%a9%d7%98%d7%a8%d7%9f) | N/A |
-| 10 | [חוק דרעי](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
-| 11 | [עוד צער](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a6%d7%a2%d7%a8) | N/A |
-| 12 | [בר גפן](http://twitter.com/search?q=%d7%91%d7%a8+%d7%92%d7%a4%d7%9f) | N/A |
-| 13 | [מנהל בית](http://twitter.com/search?q=%d7%9e%d7%a0%d7%94%d7%9c+%d7%91%d7%99%d7%aa) | N/A |
-| 14 | [יתד נאמן](http://twitter.com/search?q=%d7%99%d7%aa%d7%93+%d7%a0%d7%90%d7%9e%d7%9f) | N/A |
-| 15 | [גוב האריות](http://twitter.com/search?q=%d7%92%d7%95%d7%91+%d7%94%d7%90%d7%a8%d7%99%d7%95%d7%aa) | N/A |
-| 16 | [ספר תורה](http://twitter.com/search?q=%d7%a1%d7%a4%d7%a8+%d7%aa%d7%95%d7%a8%d7%94) | N/A |
-| 17 | [חוק מח](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%9e%d7%97) | N/A |
-| 18 | [יום המשפחה שמח](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%9e%d7%a9%d7%a4%d7%97%d7%94+%d7%a9%d7%9e%d7%97) | N/A |
-| 19 | [של ליברפול](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%99%d7%91%d7%a8%d7%a4%d7%95%d7%9c) | N/A |
-| 20 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 21 | [של ריאל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%99%d7%90%d7%9c) | N/A |
-| 22 | [אורן חזן](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%9f+%d7%97%d7%96%d7%9f) | N/A |
-| 23 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
-| 24 | [של שרה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a8%d7%94) | N/A |
-| 25 | [של קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
-| 26 | [ארי שמאי](http://twitter.com/search?q=%d7%90%d7%a8%d7%99+%d7%a9%d7%9e%d7%90%d7%99) | N/A |
+| 8 | [עוד צער](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a6%d7%a2%d7%a8) | N/A |
+| 9 | [חוק דרעי](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%93%d7%a8%d7%a2%d7%99) | N/A |
+| 10 | [חודש טוב](http://twitter.com/search?q=%d7%97%d7%95%d7%93%d7%a9+%d7%98%d7%95%d7%91) | N/A |
+| 11 | [בר גפן](http://twitter.com/search?q=%d7%91%d7%a8+%d7%92%d7%a4%d7%9f) | N/A |
+| 12 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
+| 13 | [גוב האריות](http://twitter.com/search?q=%d7%92%d7%95%d7%91+%d7%94%d7%90%d7%a8%d7%99%d7%95%d7%aa) | N/A |
+| 14 | [יום המשפחה שמח](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%94%d7%9e%d7%a9%d7%a4%d7%97%d7%94+%d7%a9%d7%9e%d7%97) | N/A |
+| 15 | [ספר תורה](http://twitter.com/search?q=%d7%a1%d7%a4%d7%a8+%d7%aa%d7%95%d7%a8%d7%94) | N/A |
+| 16 | [של ליברפול](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%99%d7%91%d7%a8%d7%a4%d7%95%d7%9c) | N/A |
+| 17 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 18 | [מנהל בית](http://twitter.com/search?q=%d7%9e%d7%a0%d7%94%d7%9c+%d7%91%d7%99%d7%aa) | N/A |
+| 19 | [של ריאל](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a8%d7%99%d7%90%d7%9c) | N/A |
+| 20 | [מיכל שיר](http://twitter.com/search?q=%d7%9e%d7%99%d7%9b%d7%9c+%d7%a9%d7%99%d7%a8) | N/A |
+| 21 | [יתד נאמן](http://twitter.com/search?q=%d7%99%d7%aa%d7%93+%d7%a0%d7%90%d7%9e%d7%9f) | N/A |
+| 22 | [של קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
+| 23 | [אורן חזן](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%9f+%d7%97%d7%96%d7%9f) | N/A |
+| 24 | [עם חמץ](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%97%d7%9e%d7%a5) | N/A |
+| 25 | [ארי שמאי](http://twitter.com/search?q=%d7%90%d7%a8%d7%99+%d7%a9%d7%9e%d7%90%d7%99) | N/A |
+| 26 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
 | 27 | [בוקר קשה](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%a7%d7%a9%d7%94) | N/A |
-| 28 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
-| 29 | [של שכם](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%9b%d7%9d) | N/A |
-| 30 | [#ILANIT2023](http://twitter.com/search?q=%23ILANIT2023) | N/A |
-| 31 | [חבר כנסת](http://twitter.com/search?q=%d7%97%d7%91%d7%a8+%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 28 | [חוק מח](http://twitter.com/search?q=%d7%97%d7%95%d7%a7+%d7%9e%d7%97) | N/A |
+| 29 | [#ILANIT2023](http://twitter.com/search?q=%23ILANIT2023) | N/A |
+| 30 | [של שכם](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%9b%d7%9d) | N/A |
+| 31 | [משרד החינוך](http://twitter.com/search?q=%d7%9e%d7%a9%d7%a8%d7%93+%d7%94%d7%97%d7%99%d7%a0%d7%95%d7%9a) | N/A |
 | 32 | [צאי לנו](http://twitter.com/search?q=%d7%a6%d7%90%d7%99+%d7%9c%d7%a0%d7%95) | N/A |
-| 33 | [ראש חודש אדר](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%97%d7%95%d7%93%d7%a9+%d7%90%d7%93%d7%a8) | N/A |
-| 34 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
-| 35 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 36 | [עונש מוות](http://twitter.com/search?q=%d7%a2%d7%95%d7%a0%d7%a9+%d7%9e%d7%95%d7%95%d7%aa) | N/A |
-| 37 | [ריאל מדריד](http://twitter.com/search?q=%d7%a8%d7%99%d7%90%d7%9c+%d7%9e%d7%93%d7%a8%d7%99%d7%93) | N/A |
-| 38 | [אוכל חמץ](http://twitter.com/search?q=%d7%90%d7%95%d7%9b%d7%9c+%d7%97%d7%9e%d7%a5) | N/A |
-| 39 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 40 | [אריק שרון](http://twitter.com/search?q=%d7%90%d7%a8%d7%99%d7%a7+%d7%a9%d7%a8%d7%95%d7%9f) | N/A |
-| 41 | [מיש עתיד](http://twitter.com/search?q=%d7%9e%d7%99%d7%a9+%d7%a2%d7%aa%d7%99%d7%93) | N/A |
-| 42 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 43 | [הספר של מתן](http://twitter.com/search?q=%d7%94%d7%a1%d7%a4%d7%a8+%d7%a9%d7%9c+%d7%9e%d7%aa%d7%9f) | N/A |
-| 44 | [עלה ל](http://twitter.com/search?q=%d7%a2%d7%9c%d7%94+%d7%9c) | N/A |
-| 45 | [מאי גולן](http://twitter.com/search?q=%d7%9e%d7%90%d7%99+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
-| 46 | [גטו ורשה](http://twitter.com/search?q=%d7%92%d7%98%d7%95+%d7%95%d7%a8%d7%a9%d7%94) | N/A |
-| 47 | [מעון ראש הממשלה](http://twitter.com/search?q=%d7%9e%d7%a2%d7%95%d7%9f+%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 48 | [אחים שלך](http://twitter.com/search?q=%d7%90%d7%97%d7%99%d7%9d+%d7%a9%d7%9c%d7%9a) | N/A |
-| 49 | [יאיר לפיד](http://twitter.com/search?q=%d7%99%d7%90%d7%99%d7%a8+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
-| 50 | [זכות יסוד](http://twitter.com/search?q=%d7%96%d7%9b%d7%95%d7%aa+%d7%99%d7%a1%d7%95%d7%93) | N/A |
+| 33 | [של שרה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a8%d7%94) | N/A |
+| 34 | [ראש חודש אדר](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%97%d7%95%d7%93%d7%a9+%d7%90%d7%93%d7%a8) | N/A |
+| 35 | [מירב בן ארי](http://twitter.com/search?q=%d7%9e%d7%99%d7%a8%d7%91+%d7%91%d7%9f+%d7%90%d7%a8%d7%99) | N/A |
+| 36 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 37 | [חבר כנסת](http://twitter.com/search?q=%d7%97%d7%91%d7%a8+%d7%9b%d7%a0%d7%a1%d7%aa) | N/A |
+| 38 | [עונש מוות](http://twitter.com/search?q=%d7%a2%d7%95%d7%a0%d7%a9+%d7%9e%d7%95%d7%95%d7%aa) | N/A |
+| 39 | [אוכל חמץ](http://twitter.com/search?q=%d7%90%d7%95%d7%9b%d7%9c+%d7%97%d7%9e%d7%a5) | N/A |
+| 40 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 41 | [ריאל מדריד](http://twitter.com/search?q=%d7%a8%d7%99%d7%90%d7%9c+%d7%9e%d7%93%d7%a8%d7%99%d7%93) | N/A |
+| 42 | [אריק שרון](http://twitter.com/search?q=%d7%90%d7%a8%d7%99%d7%a7+%d7%a9%d7%a8%d7%95%d7%9f) | N/A |
+| 43 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 44 | [הספר של מתן](http://twitter.com/search?q=%d7%94%d7%a1%d7%a4%d7%a8+%d7%a9%d7%9c+%d7%9e%d7%aa%d7%9f) | N/A |
+| 45 | [עלה ל](http://twitter.com/search?q=%d7%a2%d7%9c%d7%94+%d7%9c) | N/A |
+| 46 | [בן אל](http://twitter.com/search?q=%d7%91%d7%9f+%d7%90%d7%9c) | N/A |
+| 47 | [מאי גולן](http://twitter.com/search?q=%d7%9e%d7%90%d7%99+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
+| 48 | [גטו ורשה](http://twitter.com/search?q=%d7%92%d7%98%d7%95+%d7%95%d7%a8%d7%a9%d7%94) | N/A |
+| 49 | [מעון ראש הממשלה](http://twitter.com/search?q=%d7%9e%d7%a2%d7%95%d7%9f+%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 50 | [אחים שלך](http://twitter.com/search?q=%d7%90%d7%97%d7%99%d7%9d+%d7%a9%d7%9c%d7%9a) | N/A |
 
 
 
