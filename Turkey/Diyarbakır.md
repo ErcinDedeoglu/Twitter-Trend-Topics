@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-22 03:20:31 UTC`
+📆 Last Updated: `2023-02-22 04:17:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,11 +20,11 @@ This is top 50 for [Turkey](</Turkey>)
 | 3 | [#İstifaEt](http://twitter.com/search?q=%23%c4%b0stifaEt) | N/A |
 | 4 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 5 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
-| 6 | [Ekşi Nihayet Kapatıldı](http://twitter.com/search?q=Ek%c5%9fi+Nihayet+Kapat%c4%b1ld%c4%b1) | N/A |
+| 6 | [ekşi nihayet kapatıldı](http://twitter.com/search?q=ek%c5%9fi+nihayet+kapat%c4%b1ld%c4%b1) | N/A |
 | 7 | [#YardımParalarıNerede](http://twitter.com/search?q=%23Yard%c4%b1mParalar%c4%b1Nerede) | N/A |
 | 8 | [polatla antepteyiz](http://twitter.com/search?q=polatla+antepteyiz) | N/A |
 | 9 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 10 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
+| 10 | [ALLAH DEVLETİMİZE](http://twitter.com/search?q=ALLAH+DEVLET%c4%b0M%c4%b0ZE) | N/A |
 | 11 | [aslınınsıcak](http://twitter.com/search?q=asl%c4%b1n%c4%b1ns%c4%b1cak) | N/A |
 | 12 | [Hacer Çınar](http://twitter.com/search?q=Hacer+%c3%87%c4%b1nar) | N/A |
 | 13 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
@@ -49,21 +49,21 @@ This is top 50 for [Turkey](</Turkey>)
 | 32 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
 | 33 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 34 | [Cesaret](http://twitter.com/search?q=Cesaret) | N/A |
-| 35 | [Adana](http://twitter.com/search?q=Adana) | N/A |
-| 36 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 37 | [primci ferideözdinç](http://twitter.com/search?q=primci+feride%c3%b6zdin%c3%a7) | N/A |
+| 35 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 36 | [primci ferideözdinç](http://twitter.com/search?q=primci+feride%c3%b6zdin%c3%a7) | N/A |
+| 37 | [Adana](http://twitter.com/search?q=Adana) | N/A |
 | 38 | [Değildir](http://twitter.com/search?q=De%c4%9fildir) | N/A |
 | 39 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
-| 40 | [KÖR VE NANKÖRSÜNÜZ](http://twitter.com/search?q=K%c3%96R+VE+NANK%c3%96RS%c3%9cN%c3%9cZ) | N/A |
-| 41 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
-| 42 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 43 | [Taner Savut](http://twitter.com/search?q=Taner+Savut) | N/A |
-| 44 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
-| 45 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 46 | [Reis](http://twitter.com/search?q=Reis) | N/A |
-| 47 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 48 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 49 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
+| 40 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
+| 41 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 42 | [KÖR VE NANKÖRSÜNÜZ](http://twitter.com/search?q=K%c3%96R+VE+NANK%c3%96RS%c3%9cN%c3%9cZ) | N/A |
+| 43 | [Reis](http://twitter.com/search?q=Reis) | N/A |
+| 44 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 45 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
+| 46 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
+| 47 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
+| 48 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 49 | [Selamün Aleyküm](http://twitter.com/search?q=Selam%c3%bcn+Aleyk%c3%bcm) | N/A |
 
 
 

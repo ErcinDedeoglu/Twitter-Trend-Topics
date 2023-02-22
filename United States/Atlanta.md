@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-22 03:20:33 UTC`
+📆 Last Updated: `2023-02-22 04:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
 | 4 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
 | 5 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 6 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 7 | [#RexComus](http://twitter.com/search?q=%23RexComus) | N/A |
-| 8 | [#Evo2023](http://twitter.com/search?q=%23Evo2023) | N/A |
-| 9 | [#LGRW](http://twitter.com/search?q=%23LGRW) | N/A |
-| 10 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 11 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 12 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 13 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 14 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 15 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
-| 16 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 17 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 18 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 19 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 20 | [Kohler](http://twitter.com/search?q=Kohler) | N/A |
+| 6 | [#mubb](http://twitter.com/search?q=%23mubb) | N/A |
+| 7 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 8 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 9 | [#RexComus](http://twitter.com/search?q=%23RexComus) | N/A |
+| 10 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 11 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
+| 12 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 13 | [#Evo2023](http://twitter.com/search?q=%23Evo2023) | N/A |
+| 14 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 15 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 16 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
+| 17 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 18 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
+| 19 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 20 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
 | 21 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 22 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 24 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
-| 25 | [Nick Honor](http://twitter.com/search?q=Nick+Honor) | N/A |
-| 26 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 22 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
+| 23 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 24 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 25 | [Mady](http://twitter.com/search?q=Mady) | N/A |
+| 26 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
 | 27 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 28 | [Baylor](http://twitter.com/search?q=Baylor) | Baylor is a private Christian university located in Waco, Texas. It was founded in 1845 and is the oldest continuously operating university in Texas. The name Baylor comes from the school's namesake, Judge R.E.B. Baylor, who was a leader in the Republic of Texas and a founding trustee of the university. The mission of Baylor University is to educate men and women for worldwide leadership and service by integrating academic excellence and Christian commitment within a caring community. |
-| 29 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 30 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 31 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
-| 32 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 33 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 34 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 35 | [Suter](http://twitter.com/search?q=Suter) | N/A |
-| 36 | [Svech](http://twitter.com/search?q=Svech) | N/A |
-| 37 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 38 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 39 | [UMvC3](http://twitter.com/search?q=UMvC3) | N/A |
-| 40 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 41 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 42 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
-| 43 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
-| 44 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
-| 45 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 46 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 47 | [Quackity](http://twitter.com/search?q=Quackity) | N/A |
-| 48 | [VIDEO CALL](http://twitter.com/search?q=VIDEO+CALL) | N/A |
-| 49 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 50 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 28 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
+| 29 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 30 | [Kohler](http://twitter.com/search?q=Kohler) | N/A |
+| 31 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
+| 32 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 33 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 34 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 35 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 37 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 38 | [Haiti](http://twitter.com/search?q=Haiti) | N/A |
+| 39 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
+| 40 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 41 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
+| 42 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 43 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
+| 44 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 45 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 46 | [Nick Honor](http://twitter.com/search?q=Nick+Honor) | N/A |
+| 47 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 48 | [Nembhard](http://twitter.com/search?q=Nembhard) | N/A |
+| 49 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
+| 50 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
 
 
 

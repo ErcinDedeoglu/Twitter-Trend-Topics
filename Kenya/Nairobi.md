@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-02-22 03:20:23 UTC`
+📆 Last Updated: `2023-02-22 04:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Kenya](</Kenya>)
 | ------- | ------------ | ------------ |
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 2 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 3 | [#SexForWork](http://twitter.com/search?q=%23SexForWork) | N/A |
-| 4 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
-| 5 | [#TheProphetOfRain](http://twitter.com/search?q=%23TheProphetOfRain) | N/A |
-| 6 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
-| 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 8 | [#BarakaZaMilele](http://twitter.com/search?q=%23BarakaZaMilele) | N/A |
+| 3 | [#MainaAndKingangi](http://twitter.com/search?q=%23MainaAndKingangi) | N/A |
+| 4 | [#SexForWork](http://twitter.com/search?q=%23SexForWork) | N/A |
+| 5 | [Eric Omondi](http://twitter.com/search?q=Eric+Omondi) | N/A |
+| 6 | [#TheProphetOfRain](http://twitter.com/search?q=%23TheProphetOfRain) | N/A |
+| 7 | [#MwashumbeNaShugaboy](http://twitter.com/search?q=%23MwashumbeNaShugaboy) | N/A |
+| 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 9 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 10 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 11 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 12 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 13 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 11 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 12 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 13 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 15 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 16 | [chief administrative secretary](http://twitter.com/search?q=chief+administrative+secretary) | N/A |
-| 17 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
-| 18 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
-| 19 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 20 | [Azziad](http://twitter.com/search?q=Azziad) | N/A |
-| 21 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 22 | [Elijah](http://twitter.com/search?q=Elijah) | N/A |
-| 23 | [lil maina](http://twitter.com/search?q=lil+maina) | N/A |
-| 24 | [comfort homes](http://twitter.com/search?q=comfort+homes) | N/A |
-| 25 | [wowzi](http://twitter.com/search?q=wowzi) | N/A |
-| 26 | [gloria orwoba](http://twitter.com/search?q=gloria+orwoba) | N/A |
-| 27 | [dennis itumbi](http://twitter.com/search?q=dennis+itumbi) | N/A |
-| 28 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
+| 16 | [Unilever](http://twitter.com/search?q=Unilever) | N/A |
+| 17 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 18 | [Elijah](http://twitter.com/search?q=Elijah) | N/A |
+| 19 | [wowzi](http://twitter.com/search?q=wowzi) | N/A |
+| 20 | [comfort homes](http://twitter.com/search?q=comfort+homes) | N/A |
+| 21 | [Chief Administrative Secretary](http://twitter.com/search?q=Chief+Administrative+Secretary) | N/A |
+| 22 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 24 | [Azziad](http://twitter.com/search?q=Azziad) | N/A |
+| 25 | [senator gloria orwoba](http://twitter.com/search?q=senator+gloria+orwoba) | N/A |
+| 26 | [Moses Kuria](http://twitter.com/search?q=Moses+Kuria) | N/A |
+| 27 | [tubonge tuesday](http://twitter.com/search?q=tubonge+tuesday) | N/A |
+| 28 | [dennis itumbi](http://twitter.com/search?q=dennis+itumbi) | N/A |
 | 29 | [china square](http://twitter.com/search?q=china+square) | N/A |
-| 30 | [charles kanjama](http://twitter.com/search?q=charles+kanjama) | N/A |
-| 31 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 32 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 34 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
-| 35 | [BETIKA](http://twitter.com/search?q=BETIKA) | N/A |
-| 36 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 37 | [Kante](http://twitter.com/search?q=Kante) | N/A |
-| 38 | [Odingaism](http://twitter.com/search?q=Odingaism) | N/A |
-| 39 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 30 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 31 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 33 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 34 | [BETIKA](http://twitter.com/search?q=BETIKA) | N/A |
+| 35 | [Kante](http://twitter.com/search?q=Kante) | N/A |
+| 36 | [Odingaism](http://twitter.com/search?q=Odingaism) | N/A |
+| 37 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 38 | [Charles Kanjama](http://twitter.com/search?q=Charles+Kanjama) | N/A |
+| 39 | [Bernabeu](http://twitter.com/search?q=Bernabeu) | N/A |
 | 40 | [kidero](http://twitter.com/search?q=kidero) | N/A |
-| 41 | [Sankok](http://twitter.com/search?q=Sankok) | N/A |
-| 42 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 43 | [Tirries Tuesday](http://twitter.com/search?q=Tirries+Tuesday) | N/A |
-| 44 | [End Period Poverty](http://twitter.com/search?q=End+Period+Poverty) | N/A |
+| 41 | [Tirries Tuesday](http://twitter.com/search?q=Tirries+Tuesday) | N/A |
+| 42 | [End Period Poverty](http://twitter.com/search?q=End+Period+Poverty) | N/A |
+| 43 | [Ababu](http://twitter.com/search?q=Ababu) | N/A |
+| 44 | [Sankok](http://twitter.com/search?q=Sankok) | N/A |
 | 45 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 46 | [Ababu](http://twitter.com/search?q=Ababu) | N/A |
-| 47 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
-| 48 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 49 | [Finlay](http://twitter.com/search?q=Finlay) | N/A |
-| 50 | [ongwae](http://twitter.com/search?q=ongwae) | N/A |
+| 46 | [Aspen Medical](http://twitter.com/search?q=Aspen+Medical) | N/A |
+| 47 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 48 | [Junet](http://twitter.com/search?q=Junet) | N/A |
+| 49 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 50 | [Finlay](http://twitter.com/search?q=Finlay) | N/A |
 
 
 

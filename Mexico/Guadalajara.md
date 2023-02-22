@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-02-22 03:19:57 UTC`
+📆 Last Updated: `2023-02-22 04:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 2 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 2 | [#HogaresMexiquenses](http://twitter.com/search?q=%23HogaresMexiquenses) | N/A |
 | 3 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 4 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 5 | [#RevelationsCup](http://twitter.com/search?q=%23RevelationsCup) | N/A |
-| 6 | [#MartesDeEnigmas](http://twitter.com/search?q=%23MartesDeEnigmas) | N/A |
-| 7 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
-| 8 | [#SacoDePus](http://twitter.com/search?q=%23SacoDePus) | N/A |
-| 9 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 10 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 11 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 4 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 5 | [#MartesDeEnigmas](http://twitter.com/search?q=%23MartesDeEnigmas) | N/A |
+| 6 | [#RevelationsCup](http://twitter.com/search?q=%23RevelationsCup) | N/A |
+| 7 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 8 | [#CarniceroDeMichoacan](http://twitter.com/search?q=%23CarniceroDeMichoacan) | N/A |
+| 9 | [#SacoDePus](http://twitter.com/search?q=%23SacoDePus) | N/A |
+| 10 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 11 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
 | 12 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 13 | [El PAN](http://twitter.com/search?q=El+PAN) | N/A |
+| 13 | [Checo](http://twitter.com/search?q=Checo) | N/A |
 | 14 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 15 | [Memo Vázquez](http://twitter.com/search?q=Memo+V%c3%a1zquez) | N/A |
-| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [#CarniceroDeMichoacan](http://twitter.com/search?q=%23CarniceroDeMichoacan) | N/A |
-| 18 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 19 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 20 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
-| 21 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
-| 22 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
-| 23 | [#TaehyungonJinnysKitchen](http://twitter.com/search?q=%23TaehyungonJinnysKitchen) | N/A |
-| 24 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
-| 25 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 26 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
-| 27 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
-| 28 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 29 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 30 | [Vic Morrow](http://twitter.com/search?q=Vic+Morrow) | N/A |
-| 31 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
-| 32 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 33 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
-| 34 | [Gertz](http://twitter.com/search?q=Gertz) | N/A |
-| 35 | [Majo](http://twitter.com/search?q=Majo) | N/A |
-| 36 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 37 | [Cartel de Sinaloa](http://twitter.com/search?q=Cartel+de+Sinaloa) | N/A |
-| 38 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
-| 39 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 40 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 41 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 42 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
-| 43 | [Bartlett](http://twitter.com/search?q=Bartlett) | N/A |
-| 44 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 45 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 46 | [San Lázaro](http://twitter.com/search?q=San+L%c3%a1zaro) | N/A |
-| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 15 | [El PAN](http://twitter.com/search?q=El+PAN) | N/A |
+| 16 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
+| 17 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 18 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 21 | [Colombia](http://twitter.com/search?q=Colombia) | Colombia is a country located in the northwestern region of South America. It is bordered by Panama, Venezuela, Brazil, Ecuador, and Peru. The name Colombia comes from the explorer Christopher Columbus who first visited the area in 1498. In English, Colombia means "Land of Columbus". |
+| 22 | [Estral](http://twitter.com/search?q=Estral) | N/A |
+| 23 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 24 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
+| 25 | [Memo Vázquez](http://twitter.com/search?q=Memo+V%c3%a1zquez) | N/A |
+| 26 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
+| 27 | [Majo](http://twitter.com/search?q=Majo) | N/A |
+| 28 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
+| 29 | [Vic Morrow](http://twitter.com/search?q=Vic+Morrow) | N/A |
+| 30 | [Lilly](http://twitter.com/search?q=Lilly) | N/A |
+| 31 | [Cartel de Sinaloa](http://twitter.com/search?q=Cartel+de+Sinaloa) | N/A |
+| 32 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 33 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 34 | [Vicente Fox](http://twitter.com/search?q=Vicente+Fox) | N/A |
+| 35 | [Nueva York](http://twitter.com/search?q=Nueva+York) | N/A |
+| 36 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 37 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 38 | [Cinépolis](http://twitter.com/search?q=Cin%c3%a9polis) | Cinépolis is a Mexican chain of movie theaters. In English, the word translates to "cinema city". The company operates over 600 theaters in Mexico, the United States, Guatemala, Costa Rica, El Salvador, Panama, Honduras, Peru and India. |
+| 39 | [Gertz](http://twitter.com/search?q=Gertz) | N/A |
+| 40 | [Seguridad Pública](http://twitter.com/search?q=Seguridad+P%c3%bablica) | N/A |
+| 41 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
+| 42 | [Secretario de Seguridad](http://twitter.com/search?q=Secretario+de+Seguridad) | N/A |
+| 43 | [Indonesia](http://twitter.com/search?q=Indonesia) | N/A |
+| 44 | [Bartlett](http://twitter.com/search?q=Bartlett) | N/A |
+| 45 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 46 | [rauw](http://twitter.com/search?q=rauw) | Rauw is a Dutch word meaning "raw" or "rough". It can be used to describe something that is not finished or polished, or something that is unrefined. |
+| 47 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 48 | [Lozoya](http://twitter.com/search?q=Lozoya) | N/A |
-| 49 | [Brooklyn](http://twitter.com/search?q=Brooklyn) | Brooklyn is a borough of New York City, located in the southwestern corner of the city. It is the most populous borough in New York City, with an estimated 2.6 million residents in 2019. The name Brooklyn comes from the Dutch village of Breukelen, meaning “broken land” or “marshland”. |
-| 50 | [Seguridad Pública](http://twitter.com/search?q=Seguridad+P%c3%bablica) | N/A |
+| 49 | [San Lázaro](http://twitter.com/search?q=San+L%c3%a1zaro) | N/A |
+| 50 | [#FamiliasMexiquenses](http://twitter.com/search?q=%23FamiliasMexiquenses) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-22 03:20:11 UTC`
+📆 Last Updated: `2023-02-22 04:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,10 +22,10 @@ This is top 50 for [Norway](</Norway>)
 | 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 6 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 7 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 8 | [Bibelen](http://twitter.com/search?q=Bibelen) | N/A |
-| 9 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 8 | [bibelen](http://twitter.com/search?q=bibelen) | N/A |
+| 9 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 10 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 11 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 11 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 13 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 14 | [#YNWA](http://twitter.com/search?q=%23YNWA) | N/A |
@@ -44,27 +44,27 @@ This is top 50 for [Norway](</Norway>)
 | 27 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 28 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 29 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 31 | [nasjonalgalleriet](http://twitter.com/search?q=nasjonalgalleriet) | N/A |
-| 32 | [leiv erikson](http://twitter.com/search?q=leiv+erikson) | N/A |
-| 33 | [grønland](http://twitter.com/search?q=gr%c3%b8nland) | N/A |
-| 34 | [kongen](http://twitter.com/search?q=kongen) | N/A |
-| 35 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 30 | [nasjonalgalleriet](http://twitter.com/search?q=nasjonalgalleriet) | N/A |
+| 31 | [leiv erikson](http://twitter.com/search?q=leiv+erikson) | N/A |
+| 32 | [grønland](http://twitter.com/search?q=gr%c3%b8nland) | N/A |
+| 33 | [kongen](http://twitter.com/search?q=kongen) | N/A |
+| 34 | [Champions League](http://twitter.com/search?q=Champions+League) | N/A |
+| 35 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
 | 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 37 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
-| 38 | [Scandinavia](http://twitter.com/search?q=Scandinavia) | N/A |
-| 39 | [trond mohn](http://twitter.com/search?q=trond+mohn) | N/A |
-| 40 | [#VtuberUprsing](http://twitter.com/search?q=%23VtuberUprsing) | N/A |
-| 41 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 42 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 43 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 44 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 45 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
-| 46 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
-| 47 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 48 | [drammen](http://twitter.com/search?q=drammen) | N/A |
-| 49 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 50 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 37 | [trond mohn](http://twitter.com/search?q=trond+mohn) | N/A |
+| 38 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 40 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 41 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 42 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
+| 43 | [Amerika](http://twitter.com/search?q=Amerika) | N/A |
+| 44 | [MAGA](http://twitter.com/search?q=MAGA) | N/A |
+| 45 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 46 | [drammen](http://twitter.com/search?q=drammen) | N/A |
+| 47 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 48 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
+| 49 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 50 | [bildet](http://twitter.com/search?q=bildet) | N/A |
 
 
 

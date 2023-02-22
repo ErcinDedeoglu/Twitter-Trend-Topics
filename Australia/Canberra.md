@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-22 03:20:14 UTC`
+📆 Last Updated: `2023-02-22 04:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,42 @@ This is top 50 for [Australia](</Australia>)
 | 11 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
 | 12 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 13 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 14 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 15 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
-| 16 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 17 | [Masterton](http://twitter.com/search?q=Masterton) | N/A |
-| 18 | [NAPLAN](http://twitter.com/search?q=NAPLAN) | N/A |
-| 19 | [Marie Blake](http://twitter.com/search?q=Marie+Blake) | N/A |
-| 20 | [Neil](http://twitter.com/search?q=Neil) | N/A |
-| 21 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 22 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 23 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 14 | [Introducing](http://twitter.com/search?q=Introducing) | N/A |
+| 15 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 16 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
+| 17 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 18 | [Masterton](http://twitter.com/search?q=Masterton) | N/A |
+| 19 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 20 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 21 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 22 | [Marie Blake](http://twitter.com/search?q=Marie+Blake) | N/A |
+| 23 | [NAPLAN](http://twitter.com/search?q=NAPLAN) | N/A |
 | 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 25 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 26 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
-| 27 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 28 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 29 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 30 | [Voyager](http://twitter.com/search?q=Voyager) | N/A |
+| 26 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 27 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 28 | [Voyager](http://twitter.com/search?q=Voyager) | N/A |
+| 29 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
+| 30 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
 | 31 | [McVey](http://twitter.com/search?q=McVey) | N/A |
 | 32 | [Katherine Deves](http://twitter.com/search?q=Katherine+Deves) | N/A |
-| 33 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 33 | [Flowerdale](http://twitter.com/search?q=Flowerdale) | N/A |
 | 34 | [Superannuation](http://twitter.com/search?q=Superannuation) | N/A |
-| 35 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 36 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
-| 37 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 38 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
-| 39 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 40 | [Ms Blake](http://twitter.com/search?q=Ms+Blake) | N/A |
-| 41 | [Port Hedland](http://twitter.com/search?q=Port+Hedland) | N/A |
-| 42 | [Centrelink](http://twitter.com/search?q=Centrelink) | N/A |
-| 43 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 44 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
-| 45 | [Flowerdale](http://twitter.com/search?q=Flowerdale) | N/A |
-| 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 47 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
-| 48 | [Theo Theophanous](http://twitter.com/search?q=Theo+Theophanous) | N/A |
-| 49 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
+| 35 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
+| 36 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 37 | [Neil](http://twitter.com/search?q=Neil) | N/A |
+| 38 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 39 | [Flick](http://twitter.com/search?q=Flick) | N/A |
+| 40 | [Centrelink](http://twitter.com/search?q=Centrelink) | N/A |
+| 41 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 42 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 43 | [Ms Blake](http://twitter.com/search?q=Ms+Blake) | N/A |
+| 44 | [AUKUS](http://twitter.com/search?q=AUKUS) | N/A |
+| 45 | [Stringer](http://twitter.com/search?q=Stringer) | N/A |
+| 46 | [Human Rights Act](http://twitter.com/search?q=Human+Rights+Act) | N/A |
+| 47 | [ASIO](http://twitter.com/search?q=ASIO) | N/A |
+| 48 | [Hayley](http://twitter.com/search?q=Hayley) | N/A |
+| 49 | [Mike Burgess](http://twitter.com/search?q=Mike+Burgess) | N/A |
 
 
 

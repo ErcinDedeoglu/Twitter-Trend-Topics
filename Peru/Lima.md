@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-02-22 03:20:01 UTC`
+📆 Last Updated: `2023-02-22 04:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Peru](</Peru>)
 | ------- | ------------ | ------------ |
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 3 | [Alejandro Toledo](http://twitter.com/search?q=Alejandro+Toledo) | N/A |
-| 4 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
-| 5 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 3 | [Montoya](http://twitter.com/search?q=Montoya) | N/A |
+| 4 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 5 | [Alejandro Toledo](http://twitter.com/search?q=Alejandro+Toledo) | N/A |
 | 6 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 7 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
 | 8 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 | 9 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
-| 10 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 11 | [Cristal](http://twitter.com/search?q=Cristal) | N/A |
-| 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 13 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 14 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
+| 10 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 11 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 12 | [Brenner](http://twitter.com/search?q=Brenner) | N/A |
+| 13 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 14 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
 | 15 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 16 | [#SquidcraftGames2](http://twitter.com/search?q=%23SquidcraftGames2) | N/A |
-| 17 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
-| 18 | [Succar](http://twitter.com/search?q=Succar) | N/A |
-| 19 | [Corozo](http://twitter.com/search?q=Corozo) | N/A |
-| 20 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 21 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
-| 22 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
-| 23 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 24 | [Hohberg](http://twitter.com/search?q=Hohberg) | N/A |
-| 25 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
-| 26 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
-| 27 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
-| 28 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 29 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
-| 30 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 31 | [Minedu](http://twitter.com/search?q=Minedu) | N/A |
-| 32 | [Alfalfa](http://twitter.com/search?q=Alfalfa) | N/A |
-| 33 | [Lora](http://twitter.com/search?q=Lora) | N/A |
+| 16 | [Ávila](http://twitter.com/search?q=%c3%81vila) | N/A |
+| 17 | [Corozo](http://twitter.com/search?q=Corozo) | N/A |
+| 18 | [Grimaldo](http://twitter.com/search?q=Grimaldo) | Grimaldo is a Spanish name derived from the Germanic name Grimald, which means "dark ruler". It is also the name of a Spanish noble family, the House of Grimaldi. |
+| 19 | [#WeAreWithBiu](http://twitter.com/search?q=%23WeAreWithBiu) | N/A |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 21 | [Hohberg](http://twitter.com/search?q=Hohberg) | N/A |
+| 22 | [Succar](http://twitter.com/search?q=Succar) | N/A |
+| 23 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 24 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 25 | [Cristal](http://twitter.com/search?q=Cristal) | N/A |
+| 26 | [Alfalfa](http://twitter.com/search?q=Alfalfa) | N/A |
+| 27 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 28 | [MINEDU](http://twitter.com/search?q=MINEDU) | N/A |
+| 29 | [Aquino](http://twitter.com/search?q=Aquino) | N/A |
+| 30 | [Tina](http://twitter.com/search?q=Tina) | Tina is a diminutive form of the name Christina or Christine, which is derived from the Greek word Christós, meaning "anointed one". In English, Tina can be used as a nickname for Christina or Christine, or as a given name in its own right. |
+| 31 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
+| 32 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 33 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
 | 34 | [CIDH](http://twitter.com/search?q=CIDH) | N/A |
-| 35 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 36 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 37 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 38 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 39 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
-| 40 | [Pretell](http://twitter.com/search?q=Pretell) | N/A |
-| 41 | [Almirante](http://twitter.com/search?q=Almirante) | N/A |
-| 42 | [Ascues](http://twitter.com/search?q=Ascues) | N/A |
-| 43 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 44 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 35 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 36 | [Ascues](http://twitter.com/search?q=Ascues) | N/A |
+| 37 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
+| 38 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 39 | [Almirante](http://twitter.com/search?q=Almirante) | N/A |
+| 40 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 41 | [Lora](http://twitter.com/search?q=Lora) | N/A |
+| 42 | [Pretell](http://twitter.com/search?q=Pretell) | N/A |
+| 43 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
+| 44 | [Loyola](http://twitter.com/search?q=Loyola) | N/A |
 | 45 | [Mosquera](http://twitter.com/search?q=Mosquera) | N/A |
 | 46 | [Nacional de Paraguay](http://twitter.com/search?q=Nacional+de+Paraguay) | N/A |
-| 47 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
-| 48 | [Celi](http://twitter.com/search?q=Celi) | N/A |
+| 47 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
+| 48 | [Departamento de Estado](http://twitter.com/search?q=Departamento+de+Estado) | N/A |
 | 49 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
 | 50 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 
