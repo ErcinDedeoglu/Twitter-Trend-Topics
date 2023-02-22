@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Karachi
 
-📆 Last Updated: `2023-02-22 22:16:59 UTC`
+📆 Last Updated: `2023-02-22 23:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,10 +24,10 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 7 | [Rizwan](http://twitter.com/search?q=Rizwan) | Rizwan is an Arabic name meaning "contentment" or "satisfaction". |
 | 8 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
 | 9 | [Javed Akhtar](http://twitter.com/search?q=Javed+Akhtar) | N/A |
-| 10 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 11 | [Abbas](http://twitter.com/search?q=Abbas) | N/A |
-| 12 | [What a Match](http://twitter.com/search?q=What+a+Match) | N/A |
-| 13 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 10 | [Abbas](http://twitter.com/search?q=Abbas) | N/A |
+| 11 | [what a match](http://twitter.com/search?q=what+a+match) | N/A |
+| 12 | [shan masood](http://twitter.com/search?q=shan+masood) | N/A |
+| 13 | [Imad Wasim](http://twitter.com/search?q=Imad+Wasim) | N/A |
 | 14 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
 | 15 | [What a Game](http://twitter.com/search?q=What+a+Game) | N/A |
 | 16 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 20 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
 | 21 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 22 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
-| 23 | [Wasim Akram](http://twitter.com/search?q=Wasim+Akram) | N/A |
-| 24 | [welcome to pti](http://twitter.com/search?q=welcome+to+pti) | N/A |
-| 25 | [Ameer e Azeemat Haq Nawaz](http://twitter.com/search?q=Ameer+e+Azeemat+Haq+Nawaz) | N/A |
-| 26 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
-| 27 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
-| 28 | [Alhamra](http://twitter.com/search?q=Alhamra) | N/A |
-| 29 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
-| 30 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
-| 31 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
-| 32 | [Adeel](http://twitter.com/search?q=Adeel) | N/A |
-| 33 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 34 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 35 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 36 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
-| 37 | [PM of Pakistan](http://twitter.com/search?q=PM+of+Pakistan) | N/A |
-| 38 | [CCPO](http://twitter.com/search?q=CCPO) | N/A |
-| 39 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 40 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
+| 23 | [welcome to pti](http://twitter.com/search?q=welcome+to+pti) | N/A |
+| 24 | [ameer e azeemat haq nawaz](http://twitter.com/search?q=ameer+e+azeemat+haq+nawaz) | N/A |
+| 25 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
+| 26 | [Waqar](http://twitter.com/search?q=Waqar) | N/A |
+| 27 | [Alhamra](http://twitter.com/search?q=Alhamra) | N/A |
+| 28 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
+| 29 | [Height - 5](http://twitter.com/search?q=Height+-+5) | N/A |
+| 30 | [Karachi Kings](http://twitter.com/search?q=Karachi+Kings) | N/A |
+| 31 | [Arts](http://twitter.com/search?q=Arts) | N/A |
+| 32 | [Wasim Akram](http://twitter.com/search?q=Wasim+Akram) | N/A |
+| 33 | [Adeel](http://twitter.com/search?q=Adeel) | N/A |
+| 34 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
+| 35 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 36 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
+| 37 | [Murtasim](http://twitter.com/search?q=Murtasim) | N/A |
+| 38 | [Sharjeel](http://twitter.com/search?q=Sharjeel) | N/A |
+| 39 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 40 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 41 | [Sending](http://twitter.com/search?q=Sending) | N/A |
 | 42 | [Granaz](http://twitter.com/search?q=Granaz) | N/A |
-| 43 | [Chief Justice of Pakistan](http://twitter.com/search?q=Chief+Justice+of+Pakistan) | N/A |
-| 44 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
-| 45 | [Lemme](http://twitter.com/search?q=Lemme) | N/A |
-| 46 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 47 | [Sooo](http://twitter.com/search?q=Sooo) | N/A |
-| 48 | [JISOO](http://twitter.com/search?q=JISOO) | JISOO is a Korean name, derived from the Chinese characters for “wisdom” and “beauty”. In English, it can be translated to mean “wise and beautiful”. |
-| 49 | [DMed](http://twitter.com/search?q=DMed) | N/A |
-| 50 | [Qazi](http://twitter.com/search?q=Qazi) | N/A |
+| 43 | [Jennie](http://twitter.com/search?q=Jennie) | Jennie is a female given name, derived from the name Jennifer. It is a diminutive form of Jennifer, which means "white wave" or "fair one". |
+| 44 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 45 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 46 | [HMU in DM](http://twitter.com/search?q=HMU+in+DM) | N/A |
+| 47 | [DMed](http://twitter.com/search?q=DMed) | N/A |
+| 48 | [Kindly](http://twitter.com/search?q=Kindly) | N/A |
+| 49 | [Kuch](http://twitter.com/search?q=Kuch) | N/A |
+| 50 | [Dono](http://twitter.com/search?q=Dono) | N/A |
 
 
 

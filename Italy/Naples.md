@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-02-22 22:16:40 UTC`
+📆 Last Updated: `2023-02-22 23:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MareFuori3](http://twitter.com/search?q=%23MareFuori3) | N/A |
-| 2 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
-| 3 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 4 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
-| 5 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
-| 6 | [ROSA RICCI](http://twitter.com/search?q=ROSA+RICCI) | N/A |
+| 2 | [Carmine](http://twitter.com/search?q=Carmine) | N/A |
+| 3 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
+| 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 5 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
+| 6 | [#NameThatTune](http://twitter.com/search?q=%23NameThatTune) | N/A |
 | 7 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 8 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
-| 9 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 10 | [Saman](http://twitter.com/search?q=Saman) | N/A |
-| 11 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
-| 12 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 8 | [ROSA RICCI](http://twitter.com/search?q=ROSA+RICCI) | N/A |
+| 9 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
+| 10 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 11 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
+| 12 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
 | 13 | [Big Rom](http://twitter.com/search?q=Big+Rom) | N/A |
-| 14 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 15 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 16 | [Brozo](http://twitter.com/search?q=Brozo) | N/A |
-| 17 | [LA SCENA](http://twitter.com/search?q=LA+SCENA) | N/A |
-| 18 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
-| 19 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
-| 20 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
-| 21 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 22 | [Ermal](http://twitter.com/search?q=Ermal) | N/A |
-| 23 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
-| 24 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
-| 25 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 26 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 27 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 28 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
+| 14 | [Penelopo](http://twitter.com/search?q=Penelopo) | N/A |
+| 15 | [Brozo](http://twitter.com/search?q=Brozo) | N/A |
+| 16 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 17 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 18 | [Pirucchio](http://twitter.com/search?q=Pirucchio) | N/A |
+| 19 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 20 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 21 | [Beppe](http://twitter.com/search?q=Beppe) | N/A |
+| 22 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 23 | [LA SCENA](http://twitter.com/search?q=LA+SCENA) | N/A |
+| 24 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 25 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 26 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
+| 27 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 28 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
 | 29 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
-| 30 | [Giove](http://twitter.com/search?q=Giove) | N/A |
-| 31 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 32 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
-| 33 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 34 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 35 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 36 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 37 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 38 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
-| 39 | [#PiccoleDonne](http://twitter.com/search?q=%23PiccoleDonne) | N/A |
-| 40 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 41 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
-| 42 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
-| 43 | [#amala](http://twitter.com/search?q=%23amala) | N/A |
-| 44 | [#LeConosco](http://twitter.com/search?q=%23LeConosco) | N/A |
-| 45 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 46 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 47 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
-| 48 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 49 | [#CoreadelSudItalia](http://twitter.com/search?q=%23CoreadelSudItalia) | N/A |
-| 50 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
+| 30 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 31 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 32 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 33 | [Giove](http://twitter.com/search?q=Giove) | N/A |
+| 34 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 35 | [#PiccoleDonne](http://twitter.com/search?q=%23PiccoleDonne) | N/A |
+| 36 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
+| 37 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 38 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
+| 39 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
+| 40 | [#amala](http://twitter.com/search?q=%23amala) | N/A |
+| 41 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 42 | [#LeConosco](http://twitter.com/search?q=%23LeConosco) | N/A |
+| 43 | [#ErmalMeta](http://twitter.com/search?q=%23ErmalMeta) | N/A |
+| 44 | [#Barella](http://twitter.com/search?q=%23Barella) | N/A |
+| 45 | [#Calhanoglu](http://twitter.com/search?q=%23Calhanoglu) | N/A |
+| 46 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
+| 47 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
+| 48 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 49 | [#NantesJuve](http://twitter.com/search?q=%23NantesJuve) | N/A |
 
 
 

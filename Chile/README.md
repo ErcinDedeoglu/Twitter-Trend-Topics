@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-02-22 22:17:14 UTC`
+📆 Last Updated: `2023-02-22 23:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Chile
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
-| 2 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 3 | [#belenaza](http://twitter.com/search?q=%23belenaza) | N/A |
+| 2 | [#belenaza](http://twitter.com/search?q=%23belenaza) | N/A |
+| 3 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
 | 4 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
 | 5 | [#Fomeeee](http://twitter.com/search?q=%23Fomeeee) | N/A |
 | 6 | [Punta Peuco](http://twitter.com/search?q=Punta+Peuco) | N/A |
 | 7 | [#DestitucionABoric](http://twitter.com/search?q=%23DestitucionABoric) | N/A |
 | 8 | [#Fomenaza](http://twitter.com/search?q=%23Fomenaza) | N/A |
 | 9 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 10 | [Colina 1](http://twitter.com/search?q=Colina+1) | N/A |
-| 11 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
-| 12 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
+| 10 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
+| 11 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
+| 12 | [Colina 1](http://twitter.com/search?q=Colina+1) | N/A |
 | 13 | [Letelier](http://twitter.com/search?q=Letelier) | N/A |
 | 14 | [Milad](http://twitter.com/search?q=Milad) | N/A |
-| 15 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 16 | [Meruane](http://twitter.com/search?q=Meruane) | N/A |
-| 17 | [Alejandra Valle](http://twitter.com/search?q=Alejandra+Valle) | N/A |
-| 18 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 19 | [Gonzalo Barrera](http://twitter.com/search?q=Gonzalo+Barrera) | N/A |
-| 20 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 21 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
-| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 15 | [Alejandra Valle](http://twitter.com/search?q=Alejandra+Valle) | N/A |
+| 16 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
+| 17 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 18 | [Meruane](http://twitter.com/search?q=Meruane) | N/A |
+| 19 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [Gonzalo Barrera](http://twitter.com/search?q=Gonzalo+Barrera) | N/A |
+| 22 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
 | 23 | [La Conquistada](http://twitter.com/search?q=La+Conquistada) | N/A |
 | 24 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 25 | [Ex-Ante](http://twitter.com/search?q=Ex-Ante) | N/A |
-| 26 | [Claudio Parra](http://twitter.com/search?q=Claudio+Parra) | N/A |
-| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 28 | [Tarka](http://twitter.com/search?q=Tarka) | N/A |
-| 29 | [Mira Niñita](http://twitter.com/search?q=Mira+Ni%c3%b1ita) | N/A |
-| 30 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 31 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 32 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
-| 33 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 34 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
-| 35 | [Gendarmería](http://twitter.com/search?q=Gendarmer%c3%ada) | N/A |
-| 36 | [Jani Dueñas](http://twitter.com/search?q=Jani+Due%c3%b1as) | N/A |
-| 37 | [Mario Mutis](http://twitter.com/search?q=Mario+Mutis) | N/A |
-| 38 | [María Luisa](http://twitter.com/search?q=Mar%c3%ada+Luisa) | N/A |
-| 39 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
-| 40 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 41 | [CONSENTIMIENTO](http://twitter.com/search?q=CONSENTIMIENTO) | N/A |
-| 42 | [Ingeniero Comercial](http://twitter.com/search?q=Ingeniero+Comercial) | N/A |
-| 43 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 44 | [Gato Alquinta](http://twitter.com/search?q=Gato+Alquinta) | N/A |
-| 45 | [Rubia](http://twitter.com/search?q=Rubia) | N/A |
-| 46 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
-| 47 | [Alcohol Gel](http://twitter.com/search?q=Alcohol+Gel) | N/A |
+| 25 | [Claudio Parra](http://twitter.com/search?q=Claudio+Parra) | N/A |
+| 26 | [Ex-Ante](http://twitter.com/search?q=Ex-Ante) | N/A |
+| 27 | [Mira Niñita](http://twitter.com/search?q=Mira+Ni%c3%b1ita) | N/A |
+| 28 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
+| 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 30 | [Marcelino](http://twitter.com/search?q=Marcelino) | N/A |
+| 31 | [Fabrizio Copano](http://twitter.com/search?q=Fabrizio+Copano) | N/A |
+| 32 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 33 | [Jani Dueñas](http://twitter.com/search?q=Jani+Due%c3%b1as) | N/A |
+| 34 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 35 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 36 | [Mario Mutis](http://twitter.com/search?q=Mario+Mutis) | N/A |
+| 37 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 38 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
+| 39 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 40 | [Ingeniero Comercial](http://twitter.com/search?q=Ingeniero+Comercial) | N/A |
+| 41 | [Tarka](http://twitter.com/search?q=Tarka) | N/A |
+| 42 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
+| 43 | [Alcohol Gel](http://twitter.com/search?q=Alcohol+Gel) | N/A |
+| 44 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 45 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
+| 46 | [Gato Alquinta](http://twitter.com/search?q=Gato+Alquinta) | N/A |
+| 47 | [Rubia](http://twitter.com/search?q=Rubia) | N/A |
 | 48 | [Cerro Porteño](http://twitter.com/search?q=Cerro+Porte%c3%b1o) | N/A |
-| 49 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 50 | [Fito Páez](http://twitter.com/search?q=Fito+P%c3%a1ez) | N/A |
+| 49 | [Fito](http://twitter.com/search?q=Fito) | N/A |
+| 50 | [Venganza](http://twitter.com/search?q=Venganza) | N/A |
 
 
 

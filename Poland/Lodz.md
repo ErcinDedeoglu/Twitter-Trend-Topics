@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-22 22:16:36 UTC`
+📆 Last Updated: `2023-02-22 23:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,47 @@ This is top 50 for [Poland](</Poland>)
 | 5 | [Kaczyńskim](http://twitter.com/search?q=Kaczy%c5%84skim) | N/A |
 | 6 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
 | 7 | [Klich](http://twitter.com/search?q=Klich) | Klich is a Yiddish word that means gossip or rumor. It is often used to describe idle chatter or gossiping about someone or something. |
-| 8 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
-| 9 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 8 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 9 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
 | 10 | [Lipska](http://twitter.com/search?q=Lipska) | N/A |
-| 11 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 12 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 13 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 14 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 15 | [Bąkiewicz](http://twitter.com/search?q=B%c4%85kiewicz) | N/A |
-| 16 | [Grodzkim](http://twitter.com/search?q=Grodzkim) | N/A |
-| 17 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
-| 18 | [DROP AN EMOJI](http://twitter.com/search?q=DROP+AN+EMOJI) | N/A |
-| 19 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
-| 20 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
-| 21 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 22 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
-| 23 | [Wielkiego Postu](http://twitter.com/search?q=Wielkiego+Postu) | N/A |
-| 24 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
-| 25 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 26 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 27 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 28 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
-| 29 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 31 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 32 | [Mołdawia](http://twitter.com/search?q=Mo%c5%82dawia) | N/A |
-| 33 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
-| 34 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 35 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 36 | [Mendelejewa](http://twitter.com/search?q=Mendelejewa) | N/A |
-| 37 | [Kowal](http://twitter.com/search?q=Kowal) | N/A |
-| 38 | [Zgłaszam](http://twitter.com/search?q=Zg%c5%82aszam) | N/A |
-| 39 | [Naddniestrza](http://twitter.com/search?q=Naddniestrza) | N/A |
-| 40 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 41 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 42 | [Staszewski](http://twitter.com/search?q=Staszewski) | N/A |
-| 43 | [Jakimowicz](http://twitter.com/search?q=Jakimowicz) | N/A |
-| 44 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 11 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 12 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 13 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
+| 14 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
+| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 16 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 17 | [Grodzkim](http://twitter.com/search?q=Grodzkim) | N/A |
+| 18 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
+| 19 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 20 | [Wielkiego Postu](http://twitter.com/search?q=Wielkiego+Postu) | N/A |
+| 21 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
+| 22 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
+| 23 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
+| 24 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
+| 25 | [Bąkiewicz](http://twitter.com/search?q=B%c4%85kiewicz) | N/A |
+| 26 | [Zgłaszam](http://twitter.com/search?q=Zg%c5%82aszam) | N/A |
+| 27 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 28 | [Mołdawia](http://twitter.com/search?q=Mo%c5%82dawia) | N/A |
+| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 30 | [DROP AN EMOJI](http://twitter.com/search?q=DROP+AN+EMOJI) | N/A |
+| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 32 | [Interu](http://twitter.com/search?q=Interu) | N/A |
+| 33 | [Naddniestrza](http://twitter.com/search?q=Naddniestrza) | N/A |
+| 34 | [Jakimowicz](http://twitter.com/search?q=Jakimowicz) | N/A |
+| 35 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 36 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 37 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
+| 38 | [Mendelejewa](http://twitter.com/search?q=Mendelejewa) | N/A |
+| 39 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 40 | [Dobrej](http://twitter.com/search?q=Dobrej) | N/A |
+| 41 | [Staszewski](http://twitter.com/search?q=Staszewski) | N/A |
+| 42 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 43 | [Kowal](http://twitter.com/search?q=Kowal) | N/A |
+| 44 | [Witek](http://twitter.com/search?q=Witek) | N/A |
 | 45 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
 | 46 | [Karolina Pliskova](http://twitter.com/search?q=Karolina+Pliskova) | N/A |
-| 47 | [kloppa](http://twitter.com/search?q=kloppa) | N/A |
-| 48 | [Luft](http://twitter.com/search?q=Luft) | N/A |
+| 47 | [Kloppa](http://twitter.com/search?q=Kloppa) | N/A |
+| 48 | [śpiączka](http://twitter.com/search?q=%c5%9bpi%c4%85czka) | N/A |
 
 
 

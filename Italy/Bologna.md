@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-22 22:16:40 UTC`
+📆 Last Updated: `2023-02-22 23:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,47 +23,45 @@ This is top 50 for [Italy](</Italy>)
 | 6 | [ROSA RICCI](http://twitter.com/search?q=ROSA+RICCI) | N/A |
 | 7 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
 | 8 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 9 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 9 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
 | 10 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
-| 11 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 12 | [Big Rom](http://twitter.com/search?q=Big+Rom) | N/A |
-| 13 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 14 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 15 | [Brozo](http://twitter.com/search?q=Brozo) | N/A |
-| 16 | [LA SCENA](http://twitter.com/search?q=LA+SCENA) | N/A |
-| 17 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 11 | [Big Rom](http://twitter.com/search?q=Big+Rom) | N/A |
+| 12 | [Penelopo](http://twitter.com/search?q=Penelopo) | N/A |
+| 13 | [Brozo](http://twitter.com/search?q=Brozo) | N/A |
+| 14 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 15 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 16 | [Pirucchio](http://twitter.com/search?q=Pirucchio) | N/A |
+| 17 | [Saman](http://twitter.com/search?q=Saman) | N/A |
 | 18 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
-| 19 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
-| 20 | [Barella](http://twitter.com/search?q=Barella) | Barella is an Italian word meaning "little bar". It is often used to refer to a small, informal bar or cafe. |
-| 21 | [Ermal](http://twitter.com/search?q=Ermal) | N/A |
-| 22 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
-| 23 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
-| 24 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 25 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 26 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 27 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
-| 28 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
-| 29 | [Giove](http://twitter.com/search?q=Giove) | N/A |
-| 30 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 31 | [Marina](http://twitter.com/search?q=Marina) | Marina is a feminine given name of Latin origin, meaning "of the sea". It is also a common noun referring to a marina, which is a harbor with moorings and services for pleasure boats. |
+| 19 | [Beppe](http://twitter.com/search?q=Beppe) | N/A |
+| 20 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
+| 21 | [LA SCENA](http://twitter.com/search?q=LA+SCENA) | N/A |
+| 22 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 23 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 24 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
+| 25 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
+| 26 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
+| 27 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 28 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 29 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
+| 30 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 31 | [Giove](http://twitter.com/search?q=Giove) | N/A |
 | 32 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 33 | [Lara](http://twitter.com/search?q=Lara) | N/A |
-| 34 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 35 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 36 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 37 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
-| 38 | [#PiccoleDonne](http://twitter.com/search?q=%23PiccoleDonne) | N/A |
-| 39 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 40 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
-| 41 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
-| 42 | [#amala](http://twitter.com/search?q=%23amala) | N/A |
-| 43 | [#LeConosco](http://twitter.com/search?q=%23LeConosco) | N/A |
-| 44 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 45 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 46 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
-| 47 | [#staseraitalia](http://twitter.com/search?q=%23staseraitalia) | N/A |
-| 48 | [#CoreadelSudItalia](http://twitter.com/search?q=%23CoreadelSudItalia) | N/A |
-| 49 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
+| 33 | [#PiccoleDonne](http://twitter.com/search?q=%23PiccoleDonne) | N/A |
+| 34 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
+| 35 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 36 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
+| 37 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
+| 38 | [#amala](http://twitter.com/search?q=%23amala) | N/A |
+| 39 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 40 | [#LeConosco](http://twitter.com/search?q=%23LeConosco) | N/A |
+| 41 | [#ErmalMeta](http://twitter.com/search?q=%23ErmalMeta) | N/A |
+| 42 | [#Barella](http://twitter.com/search?q=%23Barella) | N/A |
+| 43 | [#Calhanoglu](http://twitter.com/search?q=%23Calhanoglu) | N/A |
+| 44 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
+| 45 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
+| 46 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 47 | [#NantesJuve](http://twitter.com/search?q=%23NantesJuve) | N/A |
 
 
 

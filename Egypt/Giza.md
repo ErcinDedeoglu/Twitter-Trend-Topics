@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Giza
 
-📆 Last Updated: `2023-02-22 22:16:54 UTC`
+📆 Last Updated: `2023-02-22 23:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Egypt](</Egypt>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 2 | [#اقاله_اتحاد_الفشله](http://twitter.com/search?q=%23%d8%a7%d9%82%d8%a7%d9%84%d9%87_%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%81%d8%b4%d9%84%d9%87) | N/A |
-| 3 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 4 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 5 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 6 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
-| 7 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
-| 8 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
-| 9 | [منتخب الشباب](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
-| 10 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 2 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
+| 3 | [#اقاله_اتحاد_الفشله](http://twitter.com/search?q=%23%d8%a7%d9%82%d8%a7%d9%84%d9%87_%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d9%81%d8%b4%d9%84%d9%87) | N/A |
+| 4 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 5 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
+| 6 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 7 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
+| 8 | [منتخب الشباب](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 9 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
+| 10 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
 | 11 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
 | 12 | [الفراخ البرازيلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ae+%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84%d9%8a) | N/A |
 | 13 | [نيجيريا](http://twitter.com/search?q=%d9%86%d9%8a%d8%ac%d9%8a%d8%b1%d9%8a%d8%a7) | N/A |
-| 14 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
-| 15 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
-| 16 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
-| 17 | [عمل المفسدين](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%85%d9%81%d8%b3%d8%af%d9%8a%d9%86) | N/A |
-| 18 | [#علي_الفيفا_يامرتضي](http://twitter.com/search?q=%23%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7_%d9%8a%d8%a7%d9%85%d8%b1%d8%aa%d8%b6%d9%8a) | N/A |
-| 19 | [منتخب مصر](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d9%85%d8%b5%d8%b1) | N/A |
-| 20 | [محمود جابر](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
-| 21 | [مانشستر سيتي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
-| 22 | [اتحاد الكره](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%83%d8%b1%d9%87) | N/A |
-| 23 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 24 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 25 | [الفراخ المجمده](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ae+%d8%a7%d9%84%d9%85%d8%ac%d9%85%d8%af%d9%87) | N/A |
-| 26 | [الكره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 27 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
-| 28 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 29 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
-| 30 | [محرز](http://twitter.com/search?q=%d9%85%d8%ad%d8%b1%d8%b2) | محرز (muharraz) is an Arabic word meaning "skilled" or "expert". It is used to describe someone who has a high level of proficiency in a particular skill or activity. |
-| 31 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
-| 32 | [ابو عمر جابر](http://twitter.com/search?q=%d8%a7%d8%a8%d9%88+%d8%b9%d9%85%d8%b1+%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
-| 33 | [الرياضه المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 34 | [لاعبي الزمالك](http://twitter.com/search?q=%d9%84%d8%a7%d8%b9%d8%a8%d9%8a+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | N/A |
-| 35 | [نادي الشعب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
-| 36 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
-| 37 | [محمود شبانة](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%b4%d8%a8%d8%a7%d9%86%d8%a9) | N/A |
+| 14 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
+| 15 | [مروان عطيه](http://twitter.com/search?q=%d9%85%d8%b1%d9%88%d8%a7%d9%86+%d8%b9%d8%b7%d9%8a%d9%87) | N/A |
+| 16 | [#علي_الفيفا_يامرتضي](http://twitter.com/search?q=%23%d8%b9%d9%84%d9%8a_%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7_%d9%8a%d8%a7%d9%85%d8%b1%d8%aa%d8%b6%d9%8a) | N/A |
+| 17 | [بنزيما](http://twitter.com/search?q=%d8%a8%d9%86%d8%b2%d9%8a%d9%85%d8%a7) | بنزيما (benzema) is a surname of Arabic origin. It is derived from the Arabic word "bin zamān" which means "son of time". In English, it can be translated to mean "son of time". |
+| 18 | [مانشستر سيتي](http://twitter.com/search?q=%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1+%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 19 | [اتحاد الكره](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%83%d8%b1%d9%87) | N/A |
+| 20 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 21 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
+| 22 | [حفيظ دراجي](http://twitter.com/search?q=%d8%ad%d9%81%d9%8a%d8%b8+%d8%af%d8%b1%d8%a7%d8%ac%d9%8a) | N/A |
+| 23 | [الفراخ المجمده](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ae+%d8%a7%d9%84%d9%85%d8%ac%d9%85%d8%af%d9%87) | N/A |
+| 24 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
+| 25 | [محمود جابر](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
+| 26 | [عمل المفسدين](http://twitter.com/search?q=%d8%b9%d9%85%d9%84+%d8%a7%d9%84%d9%85%d9%81%d8%b3%d8%af%d9%8a%d9%86) | N/A |
+| 27 | [السيتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%8a%d8%aa%d9%8a) | السيتي is an Arabic word meaning "the city". It is often used to refer to a large city or metropolitan area. |
+| 28 | [منتخب مصر](http://twitter.com/search?q=%d9%85%d9%86%d8%aa%d8%ae%d8%a8+%d9%85%d8%b5%d8%b1) | N/A |
+| 29 | [ناصر منسي](http://twitter.com/search?q=%d9%86%d8%a7%d8%b5%d8%b1+%d9%85%d9%86%d8%b3%d9%8a) | N/A |
+| 30 | [رياض محرز](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d8%b6+%d9%85%d8%ad%d8%b1%d8%b2) | N/A |
+| 31 | [نادي الشعب](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8) | N/A |
+| 32 | [لاعبي الزمالك](http://twitter.com/search?q=%d9%84%d8%a7%d8%b9%d8%a8%d9%8a+%d8%a7%d9%84%d8%b2%d9%85%d8%a7%d9%84%d9%83) | N/A |
+| 33 | [الكره المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d8%b1%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 34 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
+| 35 | [الفراخ المستورده](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ae+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%88%d8%b1%d8%af%d9%87) | N/A |
+| 36 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 37 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
 | 38 | [جمال علام](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d8%b9%d9%84%d8%a7%d9%85) | N/A |
-| 39 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
-| 40 | [اليوم الثلاثاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ab%d9%84%d8%a7%d8%ab%d8%a7%d8%a1) | اليوم الثلاثاء is Arabic for "Tuesday" and it means "Tuesday" in English. |
-| 41 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 42 | [اليسون](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d8%b3%d9%88%d9%86) | N/A |
-| 43 | [الفراخ المستورده](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ae+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d9%88%d8%b1%d8%af%d9%87) | N/A |
-| 44 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
-| 45 | [محمد بن سعود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 46 | [كهربا](http://twitter.com/search?q=%d9%83%d9%87%d8%b1%d8%a8%d8%a7) | كهربا (kahrba) is the Arabic word for electricity. In English, it means "electricity". |
-| 47 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
-| 48 | [خالد مرتجى](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d9%85%d8%b1%d8%aa%d8%ac%d9%89) | N/A |
-| 49 | [باب القيد](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%82%d9%8a%d8%af) | N/A |
-| 50 | [الإسماعيلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a) | N/A |
+| 39 | [الرياضه المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
+| 40 | [عمرو فهمي](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d9%81%d9%87%d9%85%d9%8a) | N/A |
+| 41 | [محمد هاني](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d9%87%d8%a7%d9%86%d9%8a) | N/A |
+| 42 | [كريستيانو](http://twitter.com/search?q=%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88) | كريستيانو is the Portuguese name for the football player Cristiano Ronaldo. In English, it translates to "Cristiano". |
+| 43 | [باب القيد](http://twitter.com/search?q=%d8%a8%d8%a7%d8%a8+%d8%a7%d9%84%d9%82%d9%8a%d8%af) | N/A |
+| 44 | [الإسماعيلي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a5%d8%b3%d9%85%d8%a7%d8%b9%d9%8a%d9%84%d9%8a) | N/A |
+| 45 | [خالد مرتجى](http://twitter.com/search?q=%d8%ae%d8%a7%d9%84%d8%af+%d9%85%d8%b1%d8%aa%d8%ac%d9%89) | N/A |
+| 46 | [الابا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%a8%d8%a7) | الابا is an Arabic word meaning "father". |
+| 47 | [عزيز قوم](http://twitter.com/search?q=%d8%b9%d8%b2%d9%8a%d8%b2+%d9%82%d9%88%d9%85) | N/A |
+| 48 | [احمد بلحاج](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%a8%d9%84%d8%ad%d8%a7%d8%ac) | N/A |
+| 49 | [ميلان](http://twitter.com/search?q=%d9%85%d9%8a%d9%84%d8%a7%d9%86) | ميلان is a city in Italy. It is located in the region of Emilia-Romagna and is the capital of the province of Modena. In English, it is known as "MILAN". |
+| 50 | [الاهلي المصري](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a) | الاهلي المصري is the name of an Egyptian football club. In English, it translates to "Al Ahly Egypt". |
 
 
 
