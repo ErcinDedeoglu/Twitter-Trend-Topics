@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chicago
 
-📆 Last Updated: `2023-02-22 13:22:15 UTC`
+📆 Last Updated: `2023-02-22 14:18:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [PATRICK KANE](http://twitter.com/search?q=PATRICK+KANE) | N/A |
-| 2 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
-| 3 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 4 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
-| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 6 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 1 | [#Blackhawks](http://twitter.com/search?q=%23Blackhawks) | N/A |
+| 2 | [PATRICK KANE](http://twitter.com/search?q=PATRICK+KANE) | N/A |
+| 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 4 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 5 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 6 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
 | 7 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 8 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
-| 9 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 8 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 9 | [#WednesdayWisdom](http://twitter.com/search?q=%23WednesdayWisdom) | N/A |
 | 10 | [Hump Day](http://twitter.com/search?q=Hump+Day) | N/A |
-| 11 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 12 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
-| 13 | [Party Gear](http://twitter.com/search?q=Party+Gear) | N/A |
-| 14 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 15 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 11 | [Good Wednesday](http://twitter.com/search?q=Good+Wednesday) | N/A |
+| 12 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 13 | [Happy Hump](http://twitter.com/search?q=Happy+Hump) | N/A |
+| 14 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 15 | [$INTC](http://twitter.com/search?q=%24INTC) | N/A |
 | 16 | [Return to the Lord](http://twitter.com/search?q=Return+to+the+Lord) | N/A |
-| 17 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 18 | [Splash](http://twitter.com/search?q=Splash) | N/A |
-| 19 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
-| 20 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
-| 21 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
-| 22 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 23 | [THEY THREW BEANS ON HIM](http://twitter.com/search?q=THEY+THREW+BEANS+ON+HIM) | N/A |
+| 17 | [Bret Stephens](http://twitter.com/search?q=Bret+Stephens) | N/A |
+| 18 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 19 | [Bullard](http://twitter.com/search?q=Bullard) | Bullard is a surname of English origin. It is derived from the Old French word "bouillart," which means "boiler" or "brewer." The name was likely given to someone who worked in either of these professions. |
+| 20 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 21 | [Party Gear](http://twitter.com/search?q=Party+Gear) | N/A |
+| 22 | [Splash](http://twitter.com/search?q=Splash) | N/A |
+| 23 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
 | 24 | [FOMC](http://twitter.com/search?q=FOMC) | FOMC stands for Federal Open Market Committee. It is a committee within the Federal Reserve System that is responsible for setting monetary policy in the United States. The FOMC meets regularly to review economic and financial conditions and to determine the appropriate stance of monetary policy. |
-| 25 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 26 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 25 | [Cartman](http://twitter.com/search?q=Cartman) | N/A |
+| 26 | [THEY THREW BEANS ON HIM](http://twitter.com/search?q=THEY+THREW+BEANS+ON+HIM) | N/A |
 | 27 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 28 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
-| 29 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
-| 30 | [Little Marco](http://twitter.com/search?q=Little+Marco) | N/A |
-| 31 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 32 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 28 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
+| 29 | [Aunt Jemima](http://twitter.com/search?q=Aunt+Jemima) | N/A |
+| 30 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 31 | [Saddleback](http://twitter.com/search?q=Saddleback) | N/A |
+| 32 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
 | 33 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
-| 34 | [Distress](http://twitter.com/search?q=Distress) | N/A |
-| 35 | [Finding Nemo](http://twitter.com/search?q=Finding+Nemo) | N/A |
-| 36 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
-| 37 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 38 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
-| 39 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
-| 40 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
-| 41 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 42 | [The Incredibles](http://twitter.com/search?q=The+Incredibles) | N/A |
-| 43 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 44 | [Ines](http://twitter.com/search?q=Ines) | N/A |
-| 45 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 46 | [#UkraineRussianWar](http://twitter.com/search?q=%23UkraineRussianWar) | N/A |
-| 47 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 48 | [#waffle397](http://twitter.com/search?q=%23waffle397) | N/A |
-| 49 | [#tangent](http://twitter.com/search?q=%23tangent) | N/A |
-| 50 | [#StyleOfThieves](http://twitter.com/search?q=%23StyleOfThieves) | N/A |
+| 34 | [Nemo](http://twitter.com/search?q=Nemo) | N/A |
+| 35 | [National Divorce](http://twitter.com/search?q=National+Divorce) | N/A |
+| 36 | [Adin](http://twitter.com/search?q=Adin) | Adin is a unisex name of Hebrew origin, meaning "noble" or "slender". |
+| 37 | [Fulton County](http://twitter.com/search?q=Fulton+County) | N/A |
+| 38 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
+| 39 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 40 | [Little Marco](http://twitter.com/search?q=Little+Marco) | N/A |
+| 41 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 42 | [Rittenhouse](http://twitter.com/search?q=Rittenhouse) | N/A |
+| 43 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 44 | [Distress](http://twitter.com/search?q=Distress) | N/A |
+| 45 | [Parkinson](http://twitter.com/search?q=Parkinson) | N/A |
+| 46 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
+| 47 | [Fani Willis](http://twitter.com/search?q=Fani+Willis) | N/A |
+| 48 | [Wisconsin Supreme Court](http://twitter.com/search?q=Wisconsin+Supreme+Court) | N/A |
+| 49 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 50 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
 
 
 

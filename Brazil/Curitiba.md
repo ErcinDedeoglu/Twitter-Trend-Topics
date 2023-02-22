@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Curitiba
 
-📆 Last Updated: `2023-02-22 13:21:35 UTC`
+📆 Last Updated: `2023-02-22 14:17:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 3 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
-| 4 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 5 | [COURTOIS](http://twitter.com/search?q=COURTOIS) | N/A |
-| 6 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 7 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
-| 8 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 9 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 10 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 11 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 12 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 13 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
-| 14 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 15 | [#recopanaespn](http://twitter.com/search?q=%23recopanaespn) | N/A |
-| 16 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
-| 17 | [Mané](http://twitter.com/search?q=Man%c3%a9) | N/A |
-| 18 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
-| 19 | [Vitor Pereira](http://twitter.com/search?q=Vitor+Pereira) | Vitor Pereira is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Shanghai SIPG. The name Vitor Pereira translates to Victor Pereira in English. |
-| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 21 | [#ApuracaoSP](http://twitter.com/search?q=%23ApuracaoSP) | N/A |
-| 22 | [PARABÉNS SIMONE TEBET](http://twitter.com/search?q=PARAB%c3%89NS+SIMONE+TEBET) | N/A |
-| 23 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 24 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 25 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 26 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
-| 27 | [São Sebastião](http://twitter.com/search?q=S%c3%a3o+Sebasti%c3%a3o) | São Sebastião is a Portuguese name meaning Saint Sebastian. It is the name of a municipality in the state of São Paulo, Brazil, as well as several other places in Brazil and Portugal. |
-| 28 | [Quarta-feira de Cinzas](http://twitter.com/search?q=Quarta-feira+de+Cinzas) | N/A |
-| 29 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 30 | [JULIETTE NO BLOCO UAU CHÁ](http://twitter.com/search?q=JULIETTE+NO+BLOCO+UAU+CH%c3%81) | N/A |
-| 31 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 32 | [Darwin Nunez](http://twitter.com/search?q=Darwin+Nunez) | N/A |
-| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 34 | [JULIETTE COM BRAHMA](http://twitter.com/search?q=JULIETTE+COM+BRAHMA) | N/A |
-| 35 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
-| 36 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
-| 37 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 38 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 39 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 40 | [Touré](http://twitter.com/search?q=Tour%c3%a9) | N/A |
-| 41 | [Feliz Ano Novo](http://twitter.com/search?q=Feliz+Ano+Novo) | N/A |
-| 42 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 43 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | Feliz 2023 is a Spanish phrase that translates to "Happy 2023" in English. It is typically used as a greeting or expression of good wishes for the upcoming year. |
-| 44 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 45 | [Paulo Barros](http://twitter.com/search?q=Paulo+Barros) | N/A |
-| 46 | [Tarcísio](http://twitter.com/search?q=Tarc%c3%adsio) | Tarcísio is a Portuguese name derived from the Latin name Tarcisius, which means “silent” or “reserved”. In English, it can be translated to mean “silent one” or “reserved one”. |
-| 47 | [Claudia Raia](http://twitter.com/search?q=Claudia+Raia) | N/A |
-| 48 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
-| 49 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
-| 50 | [Beija-Flor](http://twitter.com/search?q=Beija-Flor) | N/A |
+| 1 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 2 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
+| 3 | [Warung](http://twitter.com/search?q=Warung) | N/A |
+| 4 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 5 | [mané](http://twitter.com/search?q=man%c3%a9) | N/A |
+| 6 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 7 | [#mariliaday](http://twitter.com/search?q=%23mariliaday) | N/A |
+| 8 | [FREDDIE](http://twitter.com/search?q=FREDDIE) | N/A |
+| 9 | [#maisvocê](http://twitter.com/search?q=%23maisvoc%c3%aa) | N/A |
+| 10 | [Eto'o](http://twitter.com/search?q=Eto%27o) | N/A |
+| 11 | [Luiz Adriano](http://twitter.com/search?q=Luiz+Adriano) | N/A |
+| 12 | [Touré](http://twitter.com/search?q=Tour%c3%a9) | N/A |
+| 13 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
+| 14 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
+| 15 | [TODOS OS DIAS](http://twitter.com/search?q=TODOS+OS+DIAS) | N/A |
+| 16 | [Quarta-feira de Cinzas](http://twitter.com/search?q=Quarta-feira+de+Cinzas) | N/A |
+| 17 | [TIA JAY](http://twitter.com/search?q=TIA+JAY) | N/A |
+| 18 | [PARABÉNS SIMONE TEBET](http://twitter.com/search?q=PARAB%c3%89NS+SIMONE+TEBET) | N/A |
+| 19 | [#F360BR](http://twitter.com/search?q=%23F360BR) | N/A |
+| 20 | [Feliz Ano Novo](http://twitter.com/search?q=Feliz+Ano+Novo) | N/A |
+| 21 | [Feliz 2023](http://twitter.com/search?q=Feliz+2023) | Feliz 2023 is a Spanish phrase that translates to "Happy 2023" in English. It is typically used as a greeting or expression of good wishes for the upcoming year. |
+| 22 | [Brasileirinhas](http://twitter.com/search?q=Brasileirinhas) | N/A |
+| 23 | [Brooke](http://twitter.com/search?q=Brooke) | N/A |
+| 24 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 25 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 26 | [Gisele](http://twitter.com/search?q=Gisele) | Gisele is a French female name meaning "pledge" or "oath". It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and heim, meaning "home". |
+| 27 | [Marielle](http://twitter.com/search?q=Marielle) | N/A |
+| 28 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
+| 29 | [Parabéns Malu](http://twitter.com/search?q=Parab%c3%a9ns+Malu) | N/A |
+| 30 | [Acabou o Carnaval](http://twitter.com/search?q=Acabou+o+Carnaval) | N/A |
+| 31 | [Estadão](http://twitter.com/search?q=Estad%c3%a3o) | Estadão is a Brazilian newspaper published in São Paulo, Brazil. The name Estadão is a portmanteau of the words "estado" (state) and "jornal" (newspaper). In English, it can be translated to mean "State Newspaper". |
+| 32 | [Dorival](http://twitter.com/search?q=Dorival) | Dorival is a French surname. It is derived from the Latin name Dorivallus, which means "gift of the sea". |
+| 33 | [UNESCO](http://twitter.com/search?q=UNESCO) | N/A |
+| 34 | [São João](http://twitter.com/search?q=S%c3%a3o+Jo%c3%a3o) | N/A |
+| 35 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 36 | [Milão](http://twitter.com/search?q=Mil%c3%a3o) | N/A |
+| 37 | [Pica-Pau](http://twitter.com/search?q=Pica-Pau) | N/A |
+| 38 | [Carla Zambelli](http://twitter.com/search?q=Carla+Zambelli) | Carla Zambelli is an Italian surname. It is derived from the Italian word zambello, which means "bell-maker". The name is most likely derived from the occupation of bell-making, which was a common profession in Italy during the Middle Ages. In English, Carla Zambelli can be translated to mean "bell-maker Carla". |
+| 39 | [Hailey](http://twitter.com/search?q=Hailey) | N/A |
+| 40 | [Páscoa](http://twitter.com/search?q=P%c3%a1scoa) | N/A |
+| 41 | [Rouanet](http://twitter.com/search?q=Rouanet) | N/A |
+| 42 | [João Gomes](http://twitter.com/search?q=Jo%c3%a3o+Gomes) | João Gomes is a Portuguese name. It is the equivalent of John Smith in English. The literal translation of João Gomes is John Gomes. |
+| 43 | [Depois de 4](http://twitter.com/search?q=Depois+de+4) | N/A |
+| 44 | [Buffon](http://twitter.com/search?q=Buffon) | Buffon is a French surname derived from the Old French word "buffe" meaning "ox". It is also the name of an 18th century French naturalist and mathematician, Georges-Louis Leclerc, Comte de Buffon. |
+| 45 | [Litoral Norte](http://twitter.com/search?q=Litoral+Norte) | N/A |
+| 46 | [eMule](http://twitter.com/search?q=eMule) | N/A |
+| 47 | [Defesa Civil](http://twitter.com/search?q=Defesa+Civil) | N/A |
+| 48 | [Jambo](http://twitter.com/search?q=Jambo) | N/A |
+| 49 | [ESPANHOLA](http://twitter.com/search?q=ESPANHOLA) | N/A |
+| 50 | [Comunismo](http://twitter.com/search?q=Comunismo) | N/A |
 
 
 

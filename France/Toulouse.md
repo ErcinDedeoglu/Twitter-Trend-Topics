@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-22 13:21:41 UTC`
+📆 Last Updated: `2023-02-22 14:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,44 +17,44 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 2 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 4 | [#saintjeandeluz](http://twitter.com/search?q=%23saintjeandeluz) | N/A |
-| 5 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
+| 3 | [#saintjeandeluz](http://twitter.com/search?q=%23saintjeandeluz) | N/A |
+| 4 | [#AmidiCestMehdi](http://twitter.com/search?q=%23AmidiCestMehdi) | N/A |
+| 5 | [#TEAMG1](http://twitter.com/search?q=%23TEAMG1) | N/A |
 | 6 | [St Jean de Luz](http://twitter.com/search?q=St+Jean+de+Luz) | N/A |
 | 7 | [MEURTRE](http://twitter.com/search?q=MEURTRE) | N/A |
 | 8 | [Décès](http://twitter.com/search?q=D%c3%a9c%c3%a8s) | N/A |
 | 9 | [Aquin](http://twitter.com/search?q=Aquin) | N/A |
 | 10 | [Assassinat](http://twitter.com/search?q=Assassinat) | N/A |
-| 11 | [#enseignants](http://twitter.com/search?q=%23enseignants) | N/A |
-| 12 | [Saint-Thomas](http://twitter.com/search?q=Saint-Thomas) | N/A |
-| 13 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 14 | [Origine](http://twitter.com/search?q=Origine) | N/A |
-| 15 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
-| 16 | [Pap Ndiaye](http://twitter.com/search?q=Pap+Ndiaye) | N/A |
+| 11 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
+| 12 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 13 | [Saint-Thomas](http://twitter.com/search?q=Saint-Thomas) | N/A |
+| 14 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
+| 15 | [Fabien Roussel](http://twitter.com/search?q=Fabien+Roussel) | N/A |
+| 16 | [Origine](http://twitter.com/search?q=Origine) | N/A |
 | 17 | [Zénith](http://twitter.com/search?q=Z%c3%a9nith) | N/A |
-| 18 | [jena lee](http://twitter.com/search?q=jena+lee) | N/A |
+| 18 | [Pap Ndiaye](http://twitter.com/search?q=Pap+Ndiaye) | N/A |
 | 19 | [Bastien](http://twitter.com/search?q=Bastien) | N/A |
 | 20 | [Steven Spielberg](http://twitter.com/search?q=Steven+Spielberg) | Steven Spielberg is an American film director, producer, and screenwriter. He is one of the most successful filmmakers in history, with his films having grossed more than $9 billion worldwide. He is best known for directing classic films such as Jaws, E.T. the Extra-Terrestrial, Jurassic Park, Schindler's List, Saving Private Ryan, and the Indiana Jones series. |
-| 21 | [Fabien Roussel](http://twitter.com/search?q=Fabien+Roussel) | N/A |
-| 22 | [Orelsan](http://twitter.com/search?q=Orelsan) | N/A |
-| 23 | [Cendres](http://twitter.com/search?q=Cendres) | N/A |
-| 24 | [Tim Burton](http://twitter.com/search?q=Tim+Burton) | N/A |
+| 21 | [Jena Lee](http://twitter.com/search?q=Jena+Lee) | N/A |
+| 22 | [Cendres](http://twitter.com/search?q=Cendres) | N/A |
+| 23 | [Orelsan](http://twitter.com/search?q=Orelsan) | N/A |
+| 24 | [Karl](http://twitter.com/search?q=Karl) | Karl is a German name derived from the Old Norse name Karlr, meaning "free man". It is also a Scandinavian form of Charles, which means "manly" or "strong". |
 | 25 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 26 | [Karl Zéro](http://twitter.com/search?q=Karl+Z%c3%a9ro) | N/A |
-| 27 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 28 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 29 | [Isabelle](http://twitter.com/search?q=Isabelle) | N/A |
-| 30 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
-| 31 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
+| 26 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 27 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
+| 28 | [Isabelle](http://twitter.com/search?q=Isabelle) | N/A |
+| 29 | [Pâques](http://twitter.com/search?q=P%c3%a2ques) | N/A |
+| 30 | [#enseignants](http://twitter.com/search?q=%23enseignants) | N/A |
+| 31 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
 | 32 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
-| 33 | [#TheFabelmans](http://twitter.com/search?q=%23TheFabelmans) | N/A |
+| 33 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
 | 34 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
-| 35 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
-| 36 | [#internetfortrust](http://twitter.com/search?q=%23internetfortrust) | N/A |
-| 37 | [#JO2024](http://twitter.com/search?q=%23JO2024) | N/A |
-| 38 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
-| 39 | [#Paris2024tickets](http://twitter.com/search?q=%23Paris2024tickets) | N/A |
-| 40 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
+| 35 | [#TheFabelmans](http://twitter.com/search?q=%23TheFabelmans) | N/A |
+| 36 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 37 | [#Paris2024tickets](http://twitter.com/search?q=%23Paris2024tickets) | N/A |
+| 38 | [#GGRMC](http://twitter.com/search?q=%23GGRMC) | N/A |
+| 39 | [#JO2024](http://twitter.com/search?q=%23JO2024) | N/A |
+| 40 | [#hdpros](http://twitter.com/search?q=%23hdpros) | N/A |
 
 
 

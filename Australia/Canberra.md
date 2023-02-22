@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-22 13:21:50 UTC`
+📆 Last Updated: `2023-02-22 14:17:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Australia](</Australia>)
 | ------- | ------------ | ------------ |
 | 1 | [#AUSvJAM](http://twitter.com/search?q=%23AUSvJAM) | N/A |
 | 2 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
-| 3 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
-| 4 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 5 | [tayla](http://twitter.com/search?q=tayla) | N/A |
-| 6 | [#MANIAC_IN_SYDNEY](http://twitter.com/search?q=%23MANIAC_IN_SYDNEY) | N/A |
+| 3 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 4 | [#MAFSAU](http://twitter.com/search?q=%23MAFSAU) | N/A |
+| 5 | [#MANIAC_IN_SYDNEY](http://twitter.com/search?q=%23MANIAC_IN_SYDNEY) | N/A |
+| 6 | [tayla](http://twitter.com/search?q=tayla) | N/A |
 | 7 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
 | 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 9 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
 | 10 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 11 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 11 | [lino](http://twitter.com/search?q=lino) | N/A |
 | 12 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 13 | [Claire](http://twitter.com/search?q=Claire) | N/A |
-| 14 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
-| 17 | [naplan](http://twitter.com/search?q=naplan) | N/A |
-| 18 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 19 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 20 | [Bluesfest](http://twitter.com/search?q=Bluesfest) | N/A |
-| 21 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 22 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
-| 23 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 24 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 25 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 26 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 27 | [voyager](http://twitter.com/search?q=voyager) | N/A |
-| 28 | [Prue](http://twitter.com/search?q=Prue) | N/A |
-| 29 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
-| 30 | [Flick](http://twitter.com/search?q=Flick) | N/A |
-| 31 | [kate langbroek](http://twitter.com/search?q=kate+langbroek) | N/A |
-| 32 | [Ryman](http://twitter.com/search?q=Ryman) | N/A |
-| 33 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 13 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 14 | [Jesse](http://twitter.com/search?q=Jesse) | N/A |
+| 15 | [naplan](http://twitter.com/search?q=naplan) | N/A |
+| 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 17 | [Claire](http://twitter.com/search?q=Claire) | N/A |
+| 18 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
+| 19 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 20 | [Hyunjin](http://twitter.com/search?q=Hyunjin) | N/A |
+| 21 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 22 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
+| 23 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
+| 24 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 25 | [Warwick Farm](http://twitter.com/search?q=Warwick+Farm) | N/A |
+| 26 | [Bluesfest](http://twitter.com/search?q=Bluesfest) | N/A |
+| 27 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 28 | [Voyager](http://twitter.com/search?q=Voyager) | N/A |
+| 29 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 30 | [Hugo](http://twitter.com/search?q=Hugo) | N/A |
+| 31 | [Prue](http://twitter.com/search?q=Prue) | N/A |
+| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 33 | [Ryman](http://twitter.com/search?q=Ryman) | N/A |
 | 34 | [Jeannie](http://twitter.com/search?q=Jeannie) | N/A |
-| 35 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 36 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 37 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 38 | [Chan](http://twitter.com/search?q=Chan) | Chan is a Japanese honorific suffix used to refer to someone in an informal or endearing way. It is most commonly used when addressing children, close friends, or family members. In English, it is roughly equivalent to the terms "dear" or "sweetheart". |
-| 39 | [Laura Tingle](http://twitter.com/search?q=Laura+Tingle) | N/A |
-| 40 | [Flowerdale](http://twitter.com/search?q=Flowerdale) | N/A |
-| 41 | [Sticky Fingers](http://twitter.com/search?q=Sticky+Fingers) | N/A |
-| 42 | [the inevitable](http://twitter.com/search?q=the+inevitable) | N/A |
-| 43 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
-| 44 | [Centrelink](http://twitter.com/search?q=Centrelink) | N/A |
-| 45 | [Port Hedland](http://twitter.com/search?q=Port+Hedland) | N/A |
-| 46 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
-| 47 | [Evelyn](http://twitter.com/search?q=Evelyn) | N/A |
-| 48 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 49 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
+| 35 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 36 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 37 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 38 | [Kate Langbroek](http://twitter.com/search?q=Kate+Langbroek) | N/A |
+| 39 | [Sticky Fingers](http://twitter.com/search?q=Sticky+Fingers) | N/A |
+| 40 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 41 | [laura tingle](http://twitter.com/search?q=laura+tingle) | N/A |
+| 42 | [Flowerdale](http://twitter.com/search?q=Flowerdale) | N/A |
+| 43 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 44 | [the inevitable](http://twitter.com/search?q=the+inevitable) | N/A |
+| 45 | [National Press Club](http://twitter.com/search?q=National+Press+Club) | N/A |
+| 46 | [port hedland](http://twitter.com/search?q=port+hedland) | N/A |
+| 47 | [Probyn](http://twitter.com/search?q=Probyn) | N/A |
+| 48 | [ASIO](http://twitter.com/search?q=ASIO) | N/A |
+| 49 | [Centrelink](http://twitter.com/search?q=Centrelink) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-02-22 13:21:59 UTC`
+📆 Last Updated: `2023-02-22 14:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,49 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 1 | [#VoteAtikuOkowa](http://twitter.com/search?q=%23VoteAtikuOkowa) | N/A |
 | 2 | [#gtbank](http://twitter.com/search?q=%23gtbank) | N/A |
 | 3 | [#SeeSomethingDoNAlerts](http://twitter.com/search?q=%23SeeSomethingDoNAlerts) | N/A |
-| 4 | [#vote4climateng](http://twitter.com/search?q=%23vote4climateng) | N/A |
-| 5 | [#GoldenPennySpread](http://twitter.com/search?q=%23GoldenPennySpread) | N/A |
-| 6 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
-| 7 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 8 | [#YMK2023](http://twitter.com/search?q=%23YMK2023) | N/A |
-| 9 | [PVCs](http://twitter.com/search?q=PVCs) | N/A |
-| 10 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
-| 11 | [buba galadima](http://twitter.com/search?q=buba+galadima) | N/A |
-| 12 | [CHIPPER X SHEGGZ](http://twitter.com/search?q=CHIPPER+X+SHEGGZ) | N/A |
+| 4 | [#GoldenPennySpread](http://twitter.com/search?q=%23GoldenPennySpread) | N/A |
+| 5 | [Seyi Makinde](http://twitter.com/search?q=Seyi+Makinde) | N/A |
+| 6 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
+| 7 | [PVCs](http://twitter.com/search?q=PVCs) | N/A |
+| 8 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 9 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 10 | [CHIPPER X SHEGGZ](http://twitter.com/search?q=CHIPPER+X+SHEGGZ) | N/A |
+| 11 | [KANAGA JNR OUR GOAL](http://twitter.com/search?q=KANAGA+JNR+OUR+GOAL) | N/A |
+| 12 | [TAKE KANAGA JNR TO THE TOP](http://twitter.com/search?q=TAKE+KANAGA+JNR+TO+THE+TOP) | N/A |
 | 13 | [DOWNLOAD CHIPPER APP](http://twitter.com/search?q=DOWNLOAD+CHIPPER+APP) | N/A |
-| 14 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
-| 15 | [TAKE KANAGA JNR TO THE TOP](http://twitter.com/search?q=TAKE+KANAGA+JNR+TO+THE+TOP) | N/A |
-| 16 | [KANAGA JNR OUR GOAL](http://twitter.com/search?q=KANAGA+JNR+OUR+GOAL) | N/A |
+| 14 | [Teslim Folarin](http://twitter.com/search?q=Teslim+Folarin) | N/A |
+| 15 | [HEAD OF HOUSE YEMI CREGX](http://twitter.com/search?q=HEAD+OF+HOUSE+YEMI+CREGX) | N/A |
+| 16 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
 | 17 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
-| 18 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 19 | [HEAD OF HOUSE YEMI CREGX](http://twitter.com/search?q=HEAD+OF+HOUSE+YEMI+CREGX) | N/A |
-| 20 | [VERIFIED ADEKUNLE](http://twitter.com/search?q=VERIFIED+ADEKUNLE) | N/A |
-| 21 | [Ekweremadu](http://twitter.com/search?q=Ekweremadu) | N/A |
-| 22 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 23 | [KHOSI THE SPIRITUALIST](http://twitter.com/search?q=KHOSI+THE+SPIRITUALIST) | N/A |
-| 24 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
-| 25 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
-| 26 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
-| 27 | [Apostle Selman](http://twitter.com/search?q=Apostle+Selman) | N/A |
-| 28 | [Ahmed Tinubu](http://twitter.com/search?q=Ahmed+Tinubu) | N/A |
-| 29 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
-| 30 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 31 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
-| 32 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
-| 33 | [Ned Nwoko](http://twitter.com/search?q=Ned+Nwoko) | N/A |
+| 18 | [Nnewi](http://twitter.com/search?q=Nnewi) | N/A |
+| 19 | [Buba Galadima](http://twitter.com/search?q=Buba+Galadima) | N/A |
+| 20 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 21 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 22 | [Disney](http://twitter.com/search?q=Disney) | Disney is a multinational mass media and entertainment conglomerate headquartered in Burbank, California. It is best known for its film studio, theme parks, television networks, and consumer products. The company's name is derived from the surname of its founder, Walt Disney. |
+| 23 | [VERIFIED ADEKUNLE](http://twitter.com/search?q=VERIFIED+ADEKUNLE) | N/A |
+| 24 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
+| 25 | [KHOSI THE SPIRITUALIST](http://twitter.com/search?q=KHOSI+THE+SPIRITUALIST) | N/A |
+| 26 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
+| 27 | [Ahmed Tinubu](http://twitter.com/search?q=Ahmed+Tinubu) | N/A |
+| 28 | [Apostle Selman](http://twitter.com/search?q=Apostle+Selman) | N/A |
+| 29 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
+| 30 | [Gilmore](http://twitter.com/search?q=Gilmore) | N/A |
+| 31 | [Ned Nwoko](http://twitter.com/search?q=Ned+Nwoko) | N/A |
+| 32 | [Amaechi](http://twitter.com/search?q=Amaechi) | N/A |
+| 33 | [Lent](http://twitter.com/search?q=Lent) | N/A |
 | 34 | [Karma](http://twitter.com/search?q=Karma) | N/A |
-| 35 | [Amaechi](http://twitter.com/search?q=Amaechi) | N/A |
-| 36 | [Nigeria Labour Congress](http://twitter.com/search?q=Nigeria+Labour+Congress) | N/A |
-| 37 | [#TheOyoGuberdebate](http://twitter.com/search?q=%23TheOyoGuberdebate) | N/A |
-| 38 | [#SimFubara](http://twitter.com/search?q=%23SimFubara) | N/A |
-| 39 | [#PeterObi2023](http://twitter.com/search?q=%23PeterObi2023) | N/A |
-| 40 | [#BVAS](http://twitter.com/search?q=%23BVAS) | N/A |
-| 41 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 42 | [#VotePeterObiForPresident2023](http://twitter.com/search?q=%23VotePeterObiForPresident2023) | N/A |
-| 43 | [#AdekunleOlopade](http://twitter.com/search?q=%23AdekunleOlopade) | N/A |
+| 35 | [#YMK2023](http://twitter.com/search?q=%23YMK2023) | N/A |
+| 36 | [#TheOyoGuberdebate](http://twitter.com/search?q=%23TheOyoGuberdebate) | N/A |
+| 37 | [#vote4climateng](http://twitter.com/search?q=%23vote4climateng) | N/A |
+| 38 | [#VotePeterObiForPresident2023](http://twitter.com/search?q=%23VotePeterObiForPresident2023) | N/A |
+| 39 | [#BVAS](http://twitter.com/search?q=%23BVAS) | N/A |
+| 40 | [#PeterObi2023](http://twitter.com/search?q=%23PeterObi2023) | N/A |
+| 41 | [#VoteLabourParty](http://twitter.com/search?q=%23VoteLabourParty) | N/A |
+| 42 | [#VotePDP](http://twitter.com/search?q=%23VotePDP) | N/A |
+| 43 | [#simfubara](http://twitter.com/search?q=%23simfubara) | N/A |
 
 
 

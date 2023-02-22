@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-22 13:21:24 UTC`
+📆 Last Updated: `2023-02-22 14:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,50 +15,49 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
-| 3 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
-| 4 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 5 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 1 | [#PMQs](http://twitter.com/search?q=%23PMQs) | #PMQs stands for Prime Minister's Questions, which is a weekly session in the British Parliament where the Prime Minister answers questions from Members of Parliament. |
+| 2 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
+| 3 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 4 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
+| 5 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
 | 6 | [Bangladeshi](http://twitter.com/search?q=Bangladeshi) | N/A |
-| 7 | [#MITB](http://twitter.com/search?q=%23MITB) | N/A |
-| 8 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 9 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 7 | [Money in the Bank](http://twitter.com/search?q=Money+in+the+Bank) | N/A |
+| 8 | [#PoliticsLive](http://twitter.com/search?q=%23PoliticsLive) | N/A |
+| 9 | [#AshWednesday](http://twitter.com/search?q=%23AshWednesday) | N/A |
 | 10 | [She's British](http://twitter.com/search?q=She%27s+British) | N/A |
 | 11 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
-| 12 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
-| 13 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
-| 14 | [Money in the Bank](http://twitter.com/search?q=Money+in+the+Bank) | N/A |
-| 15 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 16 | [Diane](http://twitter.com/search?q=Diane) | N/A |
-| 17 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
-| 18 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
-| 19 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 20 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 21 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 22 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
-| 23 | [British Citizenship](http://twitter.com/search?q=British+Citizenship) | N/A |
-| 24 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
-| 25 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
+| 12 | [Groomed](http://twitter.com/search?q=Groomed) | N/A |
+| 13 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 14 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 15 | [Diane](http://twitter.com/search?q=Diane) | N/A |
+| 16 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
+| 17 | [British Citizenship](http://twitter.com/search?q=British+Citizenship) | N/A |
+| 18 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 19 | [Hannah Waddingham](http://twitter.com/search?q=Hannah+Waddingham) | N/A |
+| 20 | [Happy Birthday Joe](http://twitter.com/search?q=Happy+Birthday+Joe) | N/A |
+| 21 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
+| 22 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 23 | [Eurovision](http://twitter.com/search?q=Eurovision) | N/A |
+| 24 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
+| 25 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
 | 26 | [William Hague](http://twitter.com/search?q=William+Hague) | N/A |
-| 27 | [Mel Giedroyc](http://twitter.com/search?q=Mel+Giedroyc) | N/A |
-| 28 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 29 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
-| 30 | [Islamic State](http://twitter.com/search?q=Islamic+State) | N/A |
-| 31 | [Terrorist](http://twitter.com/search?q=Terrorist) | N/A |
+| 27 | [Rylan](http://twitter.com/search?q=Rylan) | N/A |
+| 28 | [Alesha Dixon](http://twitter.com/search?q=Alesha+Dixon) | N/A |
+| 29 | [Islamic State](http://twitter.com/search?q=Islamic+State) | N/A |
+| 30 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
+| 31 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
 | 32 | [Graham Norton](http://twitter.com/search?q=Graham+Norton) | N/A |
 | 33 | [Norfolk](http://twitter.com/search?q=Norfolk) | N/A |
-| 34 | [Das Kapital](http://twitter.com/search?q=Das+Kapital) | N/A |
-| 35 | [Atherstone](http://twitter.com/search?q=Atherstone) | N/A |
-| 36 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
-| 37 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
-| 38 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
-| 39 | [Religious](http://twitter.com/search?q=Religious) | N/A |
-| 40 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
-| 41 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 42 | [Commons](http://twitter.com/search?q=Commons) | N/A |
-| 43 | [Carragher](http://twitter.com/search?q=Carragher) | Carragher is a surname of Irish origin. It is derived from the Gaelic word "carrach" which means "rough". The name is most commonly associated with former Liverpool and England footballer Jamie Carragher. |
-| 44 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
+| 34 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
+| 35 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 36 | [International Women's Day](http://twitter.com/search?q=International+Women%27s+Day) | N/A |
+| 37 | [Northern Ireland Protocol](http://twitter.com/search?q=Northern+Ireland+Protocol) | N/A |
+| 38 | [Commons](http://twitter.com/search?q=Commons) | N/A |
+| 39 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 40 | [religious](http://twitter.com/search?q=religious) | N/A |
+| 41 | [North Africa](http://twitter.com/search?q=North+Africa) | N/A |
+| 42 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 43 | [James O'Brien](http://twitter.com/search?q=James+O%27Brien) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-22 13:22:13 UTC`
+📆 Last Updated: `2023-02-22 14:18:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,7 +17,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | ------- | ------------ | ------------ |
 | 1 | [Maureen Pugh](http://twitter.com/search?q=Maureen+Pugh) | N/A |
 | 2 | [Te Matatini](http://twitter.com/search?q=Te+Matatini) | N/A |
-| 3 | [gower](http://twitter.com/search?q=gower) | N/A |
+| 3 | [Gower](http://twitter.com/search?q=Gower) | N/A |
 | 4 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
 | 5 | [#GameDevFashion](http://twitter.com/search?q=%23GameDevFashion) | N/A |
 | 6 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
@@ -27,7 +27,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 10 | [simon bridges](http://twitter.com/search?q=simon+bridges) | N/A |
 | 11 | [Climate-Safe Future](http://twitter.com/search?q=Climate-Safe+Future) | N/A |
 | 12 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 13 | [#NZGreens](http://twitter.com/search?q=%23NZGreens) | N/A |
+| 13 | [#nzgreens](http://twitter.com/search?q=%23nzgreens) | N/A |
 | 14 | [Paddy](http://twitter.com/search?q=Paddy) | N/A |
 | 15 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
 | 16 | [lorde](http://twitter.com/search?q=lorde) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 23 | [guyon](http://twitter.com/search?q=guyon) | N/A |
 | 24 | [Police Commissioner](http://twitter.com/search?q=Police+Commissioner) | N/A |
 | 25 | [adrian orr](http://twitter.com/search?q=adrian+orr) | N/A |
-| 26 | [National Party](http://twitter.com/search?q=National+Party) | N/A |
+| 26 | [national party](http://twitter.com/search?q=national+party) | N/A |
 | 27 | [Nats](http://twitter.com/search?q=Nats) | N/A |
 | 28 | [IPCC](http://twitter.com/search?q=IPCC) | N/A |
 | 29 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
@@ -58,9 +58,9 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 41 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
 | 42 | [Norway](http://twitter.com/search?q=Norway) | N/A |
 | 43 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 44 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 45 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
-| 46 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 44 | [Hawkes Bay](http://twitter.com/search?q=Hawkes+Bay) | N/A |
+| 45 | [Clint](http://twitter.com/search?q=Clint) | N/A |
+| 46 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 47 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 48 | [Translation](http://twitter.com/search?q=Translation) | N/A |
 | 49 | [Swiss](http://twitter.com/search?q=Swiss) | N/A |

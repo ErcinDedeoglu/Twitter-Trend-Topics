@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-22 13:22:24 UTC`
+📆 Last Updated: `2023-02-22 14:18:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EknathShinde](http://twitter.com/search?q=%23EknathShinde) | N/A |
-| 2 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 3 | [#UddhavThackeray](http://twitter.com/search?q=%23UddhavThackeray) | N/A |
-| 4 | [#YogiAdityanath](http://twitter.com/search?q=%23YogiAdityanath) | N/A |
-| 5 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
+| 1 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
+| 2 | [#ArrestGangsterPawanSinghal](http://twitter.com/search?q=%23ArrestGangsterPawanSinghal) | N/A |
+| 3 | [#LGShameShame](http://twitter.com/search?q=%23LGShameShame) | N/A |
+| 4 | [#ISupportSunilTiwari](http://twitter.com/search?q=%23ISupportSunilTiwari) | N/A |
+| 5 | [#16YearsofKarthiism](http://twitter.com/search?q=%2316YearsofKarthiism) | N/A |
 | 6 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
-| 7 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 7 | [WE LOVE ABHIRA ONLY](http://twitter.com/search?q=WE+LOVE+ABHIRA+ONLY) | N/A |
 | 8 | [दिल्ली नगर निगम](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%a8%e0%a4%97%e0%a4%b0+%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae) | N/A |
-| 9 | [शैली ओबेरॉय](http://twitter.com/search?q=%e0%a4%b6%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%93%e0%a4%ac%e0%a5%87%e0%a4%b0%e0%a5%89%e0%a4%af) | N/A |
-| 10 | [tnm is better than pathaan](http://twitter.com/search?q=tnm+is+better+than+pathaan) | N/A |
-| 11 | [आले मोहम्मद इकबाल](http://twitter.com/search?q=%e0%a4%86%e0%a4%b2%e0%a5%87+%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6+%e0%a4%87%e0%a4%95%e0%a4%ac%e0%a4%be%e0%a4%b2) | N/A |
-| 12 | [मेयर चुनाव](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%af%e0%a4%b0+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 13 | [विदेश मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 14 | [रेखा गुप्ता](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%96%e0%a4%be+%e0%a4%97%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%a4%e0%a4%be) | N/A |
-| 15 | [Alyssa Healy](http://twitter.com/search?q=Alyssa+Healy) | N/A |
-| 16 | [नेहा सिंह राठौर](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%be+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a5%8c%e0%a4%b0) | N/A |
-| 17 | [INTERNATIONAL YEAR OF MILLETS](http://twitter.com/search?q=INTERNATIONAL+YEAR+OF+MILLETS) | N/A |
-| 18 | [Deepti](http://twitter.com/search?q=Deepti) | N/A |
-| 19 | [Ranbir](http://twitter.com/search?q=Ranbir) | N/A |
-| 20 | [योगी सरकार](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 9 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 10 | [Markram](http://twitter.com/search?q=Markram) | N/A |
+| 11 | [Ben Stokes](http://twitter.com/search?q=Ben+Stokes) | Ben Stokes is an English cricketer who plays for the England national team and the Rajasthan Royals in the Indian Premier League. He is a powerful all-rounder, capable of both batting and bowling with great skill. He is known for his aggressive style of play and has been instrumental in England's success in recent years. |
+| 12 | [विदेश मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 13 | [शैली ओबेरॉय](http://twitter.com/search?q=%e0%a4%b6%e0%a5%88%e0%a4%b2%e0%a5%80+%e0%a4%93%e0%a4%ac%e0%a5%87%e0%a4%b0%e0%a5%89%e0%a4%af) | N/A |
+| 14 | [मेयर चुनाव](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%af%e0%a4%b0+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 15 | [आले मोहम्मद इकबाल](http://twitter.com/search?q=%e0%a4%86%e0%a4%b2%e0%a5%87+%e0%a4%ae%e0%a5%8b%e0%a4%b9%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a4%a6+%e0%a4%87%e0%a4%95%e0%a4%ac%e0%a4%be%e0%a4%b2) | N/A |
+| 16 | [INTERNATIONAL YEAR OF MILLETS](http://twitter.com/search?q=INTERNATIONAL+YEAR+OF+MILLETS) | N/A |
+| 17 | [Alyssa Healy](http://twitter.com/search?q=Alyssa+Healy) | N/A |
+| 18 | [नेहा सिंह राठौर](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%be+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a5%8c%e0%a4%b0) | N/A |
+| 19 | [Akshay Kumar](http://twitter.com/search?q=Akshay+Kumar) | N/A |
+| 20 | [Ranbir Kapoor](http://twitter.com/search?q=Ranbir+Kapoor) | N/A |
 | 21 | [Baghpat](http://twitter.com/search?q=Baghpat) | N/A |
-| 22 | [वित्त मंत्री श्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 23 | [SSR Precursor 2Mass Revolution](http://twitter.com/search?q=SSR+Precursor+2Mass+Revolution) | N/A |
-| 24 | [खाटू श्याम](http://twitter.com/search?q=%e0%a4%96%e0%a4%be%e0%a4%9f%e0%a5%82+%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae) | N/A |
-| 25 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 22 | [योगी सरकार](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 23 | [Deepti](http://twitter.com/search?q=Deepti) | N/A |
+| 24 | [रेखा गुप्ता](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%96%e0%a4%be+%e0%a4%97%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%a4%e0%a4%be) | N/A |
+| 25 | [वित्त मंत्री श्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
 | 26 | [$SNFTS](http://twitter.com/search?q=%24SNFTS) | N/A |
-| 27 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 28 | [नेहा राठौर](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a5%8c%e0%a4%b0) | N/A |
-| 29 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 30 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 27 | [SSR Precursor 2Mass Revolution](http://twitter.com/search?q=SSR+Precursor+2Mass+Revolution) | N/A |
+| 28 | [खाटू श्याम](http://twitter.com/search?q=%e0%a4%96%e0%a4%be%e0%a4%9f%e0%a5%82+%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae) | N/A |
+| 29 | [प्रथम शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 30 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
 | 31 | [Hrithik](http://twitter.com/search?q=Hrithik) | N/A |
 | 32 | [मेडिकल कॉलेज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%95%e0%a4%b2+%e0%a4%95%e0%a5%89%e0%a4%b2%e0%a5%87%e0%a4%9c) | N/A |
 | 33 | [मौलाना अबुल कलाम आज़ाद](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b2%e0%a4%be%e0%a4%a8%e0%a4%be+%e0%a4%85%e0%a4%ac%e0%a5%81%e0%a4%b2+%e0%a4%95%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%86%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a6) | N/A |
-| 34 | [स्वतंत्र भारत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 35 | [#ISupportSunilTiwari](http://twitter.com/search?q=%23ISupportSunilTiwari) | N/A |
-| 36 | [#AapKaMayor](http://twitter.com/search?q=%23AapKaMayor) | N/A |
-| 37 | [#GanapathOn20thOctober](http://twitter.com/search?q=%23GanapathOn20thOctober) | N/A |
-| 38 | [#LGShameShame](http://twitter.com/search?q=%23LGShameShame) | N/A |
-| 39 | [#16YearsofKarthiism](http://twitter.com/search?q=%2316YearsofKarthiism) | N/A |
-| 40 | [#ShellyOberoi](http://twitter.com/search?q=%23ShellyOberoi) | N/A |
-| 41 | [#एलेक्रामा2023](http://twitter.com/search?q=%23%e0%a4%8f%e0%a4%b2%e0%a5%87%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%be2023) | N/A |
-| 42 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
-| 43 | [#WallStreetLootsIndia](http://twitter.com/search?q=%23WallStreetLootsIndia) | N/A |
-| 44 | [#stockmarketcrash](http://twitter.com/search?q=%23stockmarketcrash) | N/A |
-| 45 | [#Agilan](http://twitter.com/search?q=%23Agilan) | N/A |
-| 46 | [#Shame_On_Kumarvishwas](http://twitter.com/search?q=%23Shame_On_Kumarvishwas) | N/A |
-| 47 | [#NightMangerWins](http://twitter.com/search?q=%23NightMangerWins) | N/A |
+| 34 | [#Selfiee](http://twitter.com/search?q=%23Selfiee) | N/A |
+| 35 | [#AAPKaMayor](http://twitter.com/search?q=%23AAPKaMayor) | N/A |
+| 36 | [#PathuThala](http://twitter.com/search?q=%23PathuThala) | N/A |
+| 37 | [#AnnouncePrabhasMaruthiFilm](http://twitter.com/search?q=%23AnnouncePrabhasMaruthiFilm) | N/A |
+| 38 | [#Shame_On_Kumarvishwas](http://twitter.com/search?q=%23Shame_On_Kumarvishwas) | N/A |
+| 39 | [#GanapathOn20thOctober](http://twitter.com/search?q=%23GanapathOn20thOctober) | N/A |
+| 40 | [#stockmarketcrash](http://twitter.com/search?q=%23stockmarketcrash) | N/A |
+| 41 | [#ShellyOberoi](http://twitter.com/search?q=%23ShellyOberoi) | N/A |
+| 42 | [#Agilan](http://twitter.com/search?q=%23Agilan) | N/A |
+| 43 | [#SilambarasanTR](http://twitter.com/search?q=%23SilambarasanTR) | N/A |
+| 44 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 45 | [#एलेक्रामा2023](http://twitter.com/search?q=%23%e0%a4%8f%e0%a4%b2%e0%a5%87%e0%a4%95%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%be2023) | N/A |
+| 46 | [#ICCRankings](http://twitter.com/search?q=%23ICCRankings) | N/A |
+| 47 | [#MarkAntony](http://twitter.com/search?q=%23MarkAntony) | N/A |
 | 48 | [#JamesAnderson](http://twitter.com/search?q=%23JamesAnderson) | N/A |
-| 49 | [#BiggestMediaScam](http://twitter.com/search?q=%23BiggestMediaScam) | N/A |
-| 50 | [#iccrankings](http://twitter.com/search?q=%23iccrankings) | N/A |
+| 49 | [#JayamRavi](http://twitter.com/search?q=%23JayamRavi) | N/A |
+| 50 | [#BiggestMediaScam](http://twitter.com/search?q=%23BiggestMediaScam) | N/A |
 
 
 
