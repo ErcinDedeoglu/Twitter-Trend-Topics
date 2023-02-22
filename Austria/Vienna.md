@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-22 06:17:13 UTC`
+📆 Last Updated: `2023-02-22 07:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 2 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 3 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 4 | [orchester](http://twitter.com/search?q=orchester) | N/A |
-| 5 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 6 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
-| 7 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
-| 8 | [Bildungsauftrag](http://twitter.com/search?q=Bildungsauftrag) | N/A |
-| 9 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 10 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 11 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
-| 12 | [kulturszene](http://twitter.com/search?q=kulturszene) | N/A |
-| 13 | [#klimaklage](http://twitter.com/search?q=%23klimaklage) | N/A |
-| 14 | [sparpläne](http://twitter.com/search?q=sparpl%c3%a4ne) | N/A |
-| 15 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 16 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 17 | [Masern](http://twitter.com/search?q=Masern) | N/A |
-| 18 | [Formel 1](http://twitter.com/search?q=Formel+1) | N/A |
-| 19 | [Vorbild](http://twitter.com/search?q=Vorbild) | N/A |
-| 20 | [Erwachsene](http://twitter.com/search?q=Erwachsene) | N/A |
-| 21 | [tempo 100](http://twitter.com/search?q=tempo+100) | N/A |
-| 22 | [Theater](http://twitter.com/search?q=Theater) | N/A |
-| 23 | [klimaschutzgesetz](http://twitter.com/search?q=klimaschutzgesetz) | N/A |
-| 24 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
-| 25 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
-| 26 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
-| 27 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 28 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
-| 29 | [lei lei](http://twitter.com/search?q=lei+lei) | N/A |
-| 30 | [Diktator](http://twitter.com/search?q=Diktator) | N/A |
-| 31 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 32 | [Kolleg](http://twitter.com/search?q=Kolleg) | N/A |
-| 33 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 34 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
-| 35 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
-| 36 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 37 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 38 | [strache](http://twitter.com/search?q=strache) | N/A |
-| 39 | [spital](http://twitter.com/search?q=spital) | N/A |
-| 40 | [Tests](http://twitter.com/search?q=Tests) | N/A |
-| 41 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 42 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 43 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
-| 44 | [straßenbahn](http://twitter.com/search?q=stra%c3%9fenbahn) | N/A |
-| 45 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 46 | [London](http://twitter.com/search?q=London) | N/A |
-| 47 | [SCHWEIN](http://twitter.com/search?q=SCHWEIN) | N/A |
-| 48 | [Furchtbar](http://twitter.com/search?q=Furchtbar) | N/A |
-| 49 | [Behauptungen](http://twitter.com/search?q=Behauptungen) | N/A |
-| 50 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 1 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 2 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 3 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 4 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 5 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 6 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 7 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 8 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 9 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 10 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 11 | [Orchester](http://twitter.com/search?q=Orchester) | N/A |
+| 12 | [Franz](http://twitter.com/search?q=Franz) | N/A |
+| 13 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 14 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 17 | [Bildungsauftrag](http://twitter.com/search?q=Bildungsauftrag) | N/A |
+| 18 | [#klimaklage](http://twitter.com/search?q=%23klimaklage) | N/A |
+| 19 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 20 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 21 | [Kulturszene](http://twitter.com/search?q=Kulturszene) | N/A |
+| 22 | [#zib2](http://twitter.com/search?q=%23zib2) | N/A |
+| 23 | [Sparpläne](http://twitter.com/search?q=Sparpl%c3%a4ne) | N/A |
+| 24 | [Formel 1](http://twitter.com/search?q=Formel+1) | N/A |
+| 25 | [Aschermittwoch](http://twitter.com/search?q=Aschermittwoch) | N/A |
+| 26 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 27 | [Tempo 100](http://twitter.com/search?q=Tempo+100) | N/A |
+| 28 | [#puls24](http://twitter.com/search?q=%23puls24) | N/A |
+| 29 | [klimaschutzgesetz](http://twitter.com/search?q=klimaschutzgesetz) | N/A |
+| 30 | [Schmidt](http://twitter.com/search?q=Schmidt) | N/A |
+| 31 | [Radfahrer](http://twitter.com/search?q=Radfahrer) | Radfahrer is a German word meaning "cyclist" or "bicyclist". It is derived from the words Rad (wheel) and Fahrer (driver). |
+| 32 | [Kostüm](http://twitter.com/search?q=Kost%c3%bcm) | N/A |
+| 33 | [Masern](http://twitter.com/search?q=Masern) | N/A |
+| 34 | [Fake News](http://twitter.com/search?q=Fake+News) | N/A |
+| 35 | [Diktator](http://twitter.com/search?q=Diktator) | N/A |
+| 36 | [Vorbild](http://twitter.com/search?q=Vorbild) | N/A |
+| 37 | [Kolleg](http://twitter.com/search?q=Kolleg) | N/A |
+| 38 | [Körperverletzung](http://twitter.com/search?q=K%c3%b6rperverletzung) | N/A |
+| 39 | [Bühne](http://twitter.com/search?q=B%c3%bchne) | N/A |
+| 40 | [Strache](http://twitter.com/search?q=Strache) | N/A |
+| 41 | [Russland](http://twitter.com/search?q=Russland) | N/A |
+| 42 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
+| 43 | [Mimi](http://twitter.com/search?q=Mimi) | N/A |
+| 44 | [Karin](http://twitter.com/search?q=Karin) | N/A |
+| 45 | [Erwachsene](http://twitter.com/search?q=Erwachsene) | N/A |
+| 46 | [Wiener Zeitung](http://twitter.com/search?q=Wiener+Zeitung) | N/A |
+| 47 | [Armut](http://twitter.com/search?q=Armut) | N/A |
+| 48 | [Lei Lei](http://twitter.com/search?q=Lei+Lei) | N/A |
+| 49 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 50 | [Straßenbahn](http://twitter.com/search?q=Stra%c3%9fenbahn) | N/A |
 
 
 

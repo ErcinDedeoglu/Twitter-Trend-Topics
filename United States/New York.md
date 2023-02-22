@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-22 06:17:46 UTC`
+📆 Last Updated: `2023-02-22 07:17:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 2 | [Parade](http://twitter.com/search?q=Parade) | N/A |
-| 3 | [Ryan O’Reilly](http://twitter.com/search?q=Ryan+O%e2%80%99Reilly) | N/A |
-| 4 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
-| 5 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
-| 6 | [Melo](http://twitter.com/search?q=Melo) | N/A |
-| 7 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
-| 8 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
+| 2 | [Toronto](http://twitter.com/search?q=Toronto) | N/A |
+| 3 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
+| 4 | [Melo](http://twitter.com/search?q=Melo) | N/A |
+| 5 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 6 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
+| 7 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 8 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
 | 9 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
-| 10 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 10 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
 | 11 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 12 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
-| 13 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 14 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 15 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 16 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 17 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 18 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 19 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 20 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 21 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 22 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
-| 23 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 24 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 25 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 26 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 27 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 28 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 29 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 30 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 31 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
-| 32 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 33 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 34 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 35 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 36 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
-| 37 | [Ines](http://twitter.com/search?q=Ines) | N/A |
-| 38 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 39 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
-| 40 | [GHOST IN THE MACHINE](http://twitter.com/search?q=GHOST+IN+THE+MACHINE) | N/A |
-| 41 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 42 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
-| 43 | [Mady](http://twitter.com/search?q=Mady) | N/A |
-| 44 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 45 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 46 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
-| 47 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 48 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 49 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
-| 50 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 12 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 13 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 14 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 15 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 16 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 17 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 18 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 19 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 20 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 21 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 22 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 23 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 24 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
+| 25 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 26 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 27 | [GHOST IN THE MACHINE](http://twitter.com/search?q=GHOST+IN+THE+MACHINE) | N/A |
+| 28 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 29 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 30 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 31 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 32 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 33 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 34 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 35 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
+| 36 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 37 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 38 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 39 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 40 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
+| 41 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 42 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
+| 43 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
+| 44 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 45 | [Princess and the Frog](http://twitter.com/search?q=Princess+and+the+Frog) | N/A |
+| 46 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 47 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
+| 48 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 49 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
+| 50 | [Bartise](http://twitter.com/search?q=Bartise) | N/A |
 
 
 

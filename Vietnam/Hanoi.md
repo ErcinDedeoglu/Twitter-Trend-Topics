@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-22 06:17:29 UTC`
+📆 Last Updated: `2023-02-22 07:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 2 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
 | 3 | [FACE BY JIMIN](http://twitter.com/search?q=FACE+BY+JIMIN) | N/A |
 | 4 | [#NeverLetMeGoSeriesEP11](http://twitter.com/search?q=%23NeverLetMeGoSeriesEP11) | N/A |
-| 5 | [#BabyDogeTop100](http://twitter.com/search?q=%23BabyDogeTop100) | N/A |
-| 6 | [#GucciFW23](http://twitter.com/search?q=%23GucciFW23) | N/A |
-| 7 | [#TodsFW23](http://twitter.com/search?q=%23TodsFW23) | N/A |
-| 8 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 9 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 5 | [#GucciFW23](http://twitter.com/search?q=%23GucciFW23) | N/A |
+| 6 | [#TodsFW23](http://twitter.com/search?q=%23TodsFW23) | N/A |
+| 7 | [#BabyDogeTop100](http://twitter.com/search?q=%23BabyDogeTop100) | N/A |
+| 8 | [JIMIN JIMIN](http://twitter.com/search?q=JIMIN+JIMIN) | JIMIN JIMIN is a phrase used to express admiration or appreciation for someone, usually a celebrity or public figure. It is derived from the name of the South Korean singer and dancer Jimin, who is a member of the popular K-pop group BTS. In English, it can be translated to mean "Wow! Amazing!" |
+| 9 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
 | 10 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 11 | [Grand Opening Series​ ENGLOT](http://twitter.com/search?q=Grand+Opening+Series%e2%80%8b+ENGLOT) | N/A |
 | 12 | [babiu](http://twitter.com/search?q=babiu) | N/A |
-| 13 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
-| 14 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
-| 15 | [they need to apologize](http://twitter.com/search?q=they+need+to+apologize) | N/A |
-| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 17 | [Sphinx](http://twitter.com/search?q=Sphinx) | N/A |
-| 18 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
-| 19 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 13 | [JISOO SOLO IS COMING](http://twitter.com/search?q=JISOO+SOLO+IS+COMING) | N/A |
+| 14 | [THEY NEED TO APOLOGIZE](http://twitter.com/search?q=THEY+NEED+TO+APOLOGIZE) | N/A |
+| 15 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 16 | [gấu mùa đông kim taehyung](http://twitter.com/search?q=g%e1%ba%a5u+m%c3%b9a+%c4%91%c3%b4ng+kim+taehyung) | N/A |
+| 17 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 18 | [Sphinx](http://twitter.com/search?q=Sphinx) | N/A |
+| 19 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
 | 20 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 21 | [gấu mùa đông kim taehyung](http://twitter.com/search?q=g%e1%ba%a5u+m%c3%b9a+%c4%91%c3%b4ng+kim+taehyung) | N/A |
+| 21 | [CNP Makimono](http://twitter.com/search?q=CNP+Makimono) | N/A |
 | 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 23 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 24 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 23 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 24 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
 | 25 | [biubiu](http://twitter.com/search?q=biubiu) | N/A |
 | 26 | [Căng](http://twitter.com/search?q=C%c4%83ng) | N/A |
 | 27 | [cả 2](http://twitter.com/search?q=c%e1%ba%a3+2) | N/A |
-| 28 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
-| 29 | [chiến](http://twitter.com/search?q=chi%e1%ba%bfn) | N/A |
+| 28 | [chiến](http://twitter.com/search?q=chi%e1%ba%bfn) | N/A |
+| 29 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
 | 30 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
 | 31 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
 | 32 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
-| 33 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 34 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 35 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 36 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
-| 37 | [$MDT](http://twitter.com/search?q=%24MDT) | N/A |
-| 38 | [Asia Pacific](http://twitter.com/search?q=Asia+Pacific) | N/A |
-| 39 | [Trên](http://twitter.com/search?q=Tr%c3%aan) | N/A |
-| 40 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 41 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 42 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 43 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
-| 44 | [Africa](http://twitter.com/search?q=Africa) | N/A |
-| 45 | [Giống](http://twitter.com/search?q=Gi%e1%bb%91ng) | N/A |
-| 46 | [Hàng](http://twitter.com/search?q=H%c3%a0ng) | N/A |
-| 47 | [Zalo](http://twitter.com/search?q=Zalo) | N/A |
-| 48 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 49 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 50 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 33 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 34 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 35 | [$MDT](http://twitter.com/search?q=%24MDT) | N/A |
+| 36 | [Trên](http://twitter.com/search?q=Tr%c3%aan) | N/A |
+| 37 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
+| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 39 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 40 | [chúng](http://twitter.com/search?q=ch%c3%bang) | N/A |
+| 41 | [Asia Pacific](http://twitter.com/search?q=Asia+Pacific) | N/A |
+| 42 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 44 | [Pump](http://twitter.com/search?q=Pump) | N/A |
+| 45 | [Africa](http://twitter.com/search?q=Africa) | N/A |
+| 46 | [Giống](http://twitter.com/search?q=Gi%e1%bb%91ng) | N/A |
+| 47 | [Coin](http://twitter.com/search?q=Coin) | N/A |
+| 48 | [Hàng](http://twitter.com/search?q=H%c3%a0ng) | N/A |
+| 49 | [chéo](http://twitter.com/search?q=ch%c3%a9o) | N/A |
+| 50 | [Google](http://twitter.com/search?q=Google) | N/A |
 
 
 

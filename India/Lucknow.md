@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-02-22 06:17:36 UTC`
+📆 Last Updated: `2023-02-22 07:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#PKSDT](http://twitter.com/search?q=%23PKSDT) | N/A |
-| 2 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
-| 3 | [#HealthyWayOfLiving](http://twitter.com/search?q=%23HealthyWayOfLiving) | N/A |
-| 4 | [कस्तूरबा गांधी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%82%e0%a4%b0%e0%a4%ac%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 5 | [नेहा सिंह राठौर](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%be+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a5%8c%e0%a4%b0) | N/A |
-| 6 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
-| 7 | [SSR Precursor 2Mass Revolution](http://twitter.com/search?q=SSR+Precursor+2Mass+Revolution) | N/A |
-| 8 | [प्रथम शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 9 | [मौलाना अबुल कलाम आज़ाद](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b2%e0%a4%be%e0%a4%a8%e0%a4%be+%e0%a4%85%e0%a4%ac%e0%a5%81%e0%a4%b2+%e0%a4%95%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%86%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a6) | N/A |
-| 10 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
-| 11 | [It Was A Great Moment](http://twitter.com/search?q=It+Was+A+Great+Moment) | N/A |
-| 12 | [Thanks To Asharamji Bapu](http://twitter.com/search?q=Thanks+To+Asharamji+Bapu) | N/A |
-| 13 | [स्वतंत्र भारत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 14 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
-| 15 | [Wonderful Initiative](http://twitter.com/search?q=Wonderful+Initiative) | N/A |
-| 16 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
+| 1 | [योगी सरकार](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 2 | [#PKSDT](http://twitter.com/search?q=%23PKSDT) | N/A |
+| 3 | [#WednesdayMotivation](http://twitter.com/search?q=%23WednesdayMotivation) | N/A |
+| 4 | [#upbudget2023](http://twitter.com/search?q=%23upbudget2023) | N/A |
+| 5 | [#Nehasinghrathore](http://twitter.com/search?q=%23Nehasinghrathore) | N/A |
+| 6 | [नेहा सिंह राठौर](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%be+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9+%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a5%8c%e0%a4%b0) | N/A |
+| 7 | [#SubiSuresh](http://twitter.com/search?q=%23SubiSuresh) | N/A |
+| 8 | [कस्तूरबा गांधी](http://twitter.com/search?q=%e0%a4%95%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%82%e0%a4%b0%e0%a4%ac%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 9 | [मनीष सिसोदिया](http://twitter.com/search?q=%e0%a4%ae%e0%a4%a8%e0%a5%80%e0%a4%b7+%e0%a4%b8%e0%a4%bf%e0%a4%b8%e0%a5%8b%e0%a4%a6%e0%a4%bf%e0%a4%af%e0%a4%be) | N/A |
+| 10 | [श्री गणेश](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%97%e0%a4%a3%e0%a5%87%e0%a4%b6) | N/A |
+| 11 | [SSR Precursor 2Mass Revolution](http://twitter.com/search?q=SSR+Precursor+2Mass+Revolution) | N/A |
+| 12 | [प्रथम शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%a5%e0%a4%ae+%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 13 | [मौलाना अबुल कलाम आज़ाद](http://twitter.com/search?q=%e0%a4%ae%e0%a5%8c%e0%a4%b2%e0%a4%be%e0%a4%a8%e0%a4%be+%e0%a4%85%e0%a4%ac%e0%a5%81%e0%a4%b2+%e0%a4%95%e0%a4%b2%e0%a4%be%e0%a4%ae+%e0%a4%86%e0%a4%9c%e0%a4%bc%e0%a4%be%e0%a4%a6) | N/A |
+| 14 | [स्वतंत्र भारत](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 15 | [भारत रत्न](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4+%e0%a4%b0%e0%a4%a4%e0%a5%8d%e0%a4%a8) | भारत रत्न (Bharat Ratna) is the highest civilian award of India, given for exceptional service towards advancement of Art, Literature and Science, and in recognition of Public Service of the highest order. The literal meaning of Bharat Ratna in English is "Jewel of India". |
+| 16 | [वित्त मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | वित्त मंत्री is a Hindi phrase meaning "Finance Minister". It is used to refer to the minister responsible for managing the government's financial affairs. |
 | 17 | [गृह मंत्रालय](http://twitter.com/search?q=%e0%a4%97%e0%a5%83%e0%a4%b9+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%b2%e0%a4%af) | N/A |
-| 18 | [वित्त मंत्री सुरेश खन्ना](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%a4+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a5%87%e0%a4%b6+%e0%a4%96%e0%a4%a8%e0%a5%8d%e0%a4%a8%e0%a4%be) | N/A |
-| 19 | [Feedback Unit](http://twitter.com/search?q=Feedback+Unit) | N/A |
-| 20 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 21 | [स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 22 | [स्वामी श्रद्धानन्द सरस्वती](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%a6+%e0%a4%b8%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a5%80) | N/A |
+| 18 | [महात्मा गांधी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a4%e0%a5%8d%e0%a4%ae%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | महात्मा गांधी (Mahatma Gandhi) is the title given to Mohandas Karamchand Gandhi, an Indian political and spiritual leader who led India's struggle for independence from British rule. He is often referred to as the "Father of the Nation" in India. The term Mahatma, which literally means "great soul," was bestowed upon him by Rabindranath Tagore. |
+| 19 | [It Was A Great Moment](http://twitter.com/search?q=It+Was+A+Great+Moment) | N/A |
+| 20 | [Thanks To Asharamji Bapu](http://twitter.com/search?q=Thanks+To+Asharamji+Bapu) | N/A |
+| 21 | [महान स्वतंत्रता सेनानी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 22 | [खाटू श्याम](http://twitter.com/search?q=%e0%a4%96%e0%a4%be%e0%a4%9f%e0%a5%82+%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae) | N/A |
 | 23 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 24 | [खाटू श्याम](http://twitter.com/search?q=%e0%a4%96%e0%a4%be%e0%a4%9f%e0%a5%82+%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae) | N/A |
-| 25 | [स्वतंत्रता संग्राम सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
-| 26 | [श्री श्याम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae) | N/A |
-| 27 | [Gandhis](http://twitter.com/search?q=Gandhis) | N/A |
-| 28 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
-| 29 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 30 | [Jai Bhim](http://twitter.com/search?q=Jai+Bhim) | N/A |
-| 31 | [Ganesh](http://twitter.com/search?q=Ganesh) | N/A |
-| 32 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
-| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 34 | [Jaishankar](http://twitter.com/search?q=Jaishankar) | N/A |
-| 35 | [Sports](http://twitter.com/search?q=Sports) | N/A |
-| 36 | [Radhe Krishna](http://twitter.com/search?q=Radhe+Krishna) | N/A |
-| 37 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 38 | [#ChillaChilla](http://twitter.com/search?q=%23ChillaChilla) | N/A |
-| 39 | [#SubiSuresh](http://twitter.com/search?q=%23SubiSuresh) | N/A |
-| 40 | [#Nehasinghrathore](http://twitter.com/search?q=%23Nehasinghrathore) | N/A |
-| 41 | [#maulanaabulkalamazad](http://twitter.com/search?q=%23maulanaabulkalamazad) | N/A |
-| 42 | [#kasturbagandhi](http://twitter.com/search?q=%23kasturbagandhi) | N/A |
-| 43 | [#WeLovedMppd](http://twitter.com/search?q=%23WeLovedMppd) | N/A |
-| 44 | [#VinodhayaSitham](http://twitter.com/search?q=%23VinodhayaSitham) | N/A |
-| 45 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 46 | [#SaiDharamTej](http://twitter.com/search?q=%23SaiDharamTej) | N/A |
-| 47 | [#PawanKalyan](http://twitter.com/search?q=%23PawanKalyan) | N/A |
-| 48 | [#upbudget2023](http://twitter.com/search?q=%23upbudget2023) | N/A |
+| 24 | [स्वामी श्रद्धानन्द सरस्वती](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%be%e0%a4%ae%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a4%a6%e0%a5%8d%e0%a4%a7%e0%a4%be%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%a6+%e0%a4%b8%e0%a4%b0%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a5%80) | N/A |
+| 25 | [नेहा राठौर](http://twitter.com/search?q=%e0%a4%a8%e0%a5%87%e0%a4%b9%e0%a4%be+%e0%a4%b0%e0%a4%be%e0%a4%a0%e0%a5%8c%e0%a4%b0) | N/A |
+| 26 | [Wonderful Initiative](http://twitter.com/search?q=Wonderful+Initiative) | N/A |
+| 27 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 28 | [स्वतंत्रता संग्राम सेनानी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%b8%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b8%e0%a5%87%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a5%80) | N/A |
+| 29 | [श्री श्याम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a5%8d%e0%a4%af%e0%a4%be%e0%a4%ae) | N/A |
+| 30 | [Gandhis](http://twitter.com/search?q=Gandhis) | N/A |
+| 31 | [Feedback Unit](http://twitter.com/search?q=Feedback+Unit) | N/A |
+| 32 | [स्वतंत्रता आंदोलन](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%b5%e0%a4%a4%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a4%a4%e0%a4%be+%e0%a4%86%e0%a4%82%e0%a4%a6%e0%a5%8b%e0%a4%b2%e0%a4%a8) | N/A |
+| 33 | [नारी शक्ति](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%b6%e0%a4%95%e0%a5%8d%e0%a4%a4%e0%a4%bf) | N/A |
+| 34 | [Hybe](http://twitter.com/search?q=Hybe) | N/A |
+| 35 | [jai bhim](http://twitter.com/search?q=jai+bhim) | N/A |
+| 36 | [Teaser](http://twitter.com/search?q=Teaser) | N/A |
+| 37 | [विदेश मंत्री](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%a6%e0%a5%87%e0%a4%b6+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 38 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 39 | [Jaishankar](http://twitter.com/search?q=Jaishankar) | N/A |
+| 40 | [Sports](http://twitter.com/search?q=Sports) | N/A |
+| 41 | [Radhe Krishna](http://twitter.com/search?q=Radhe+Krishna) | N/A |
+| 42 | [#ChillaChilla](http://twitter.com/search?q=%23ChillaChilla) | N/A |
+| 43 | [#MaulanaAbulKalamAzad](http://twitter.com/search?q=%23MaulanaAbulKalamAzad) | N/A |
+| 44 | [#HealthyWayOfLiving](http://twitter.com/search?q=%23HealthyWayOfLiving) | N/A |
+| 45 | [#ManishSisodia](http://twitter.com/search?q=%23ManishSisodia) | N/A |
+| 46 | [#VinodhayaSitham](http://twitter.com/search?q=%23VinodhayaSitham) | N/A |
+| 47 | [#kasturbagandhi](http://twitter.com/search?q=%23kasturbagandhi) | N/A |
+| 48 | [#POJK_हमारा_है](http://twitter.com/search?q=%23POJK_%e0%a4%b9%e0%a4%ae%e0%a4%be%e0%a4%b0%e0%a4%be_%e0%a4%b9%e0%a5%88) | N/A |
+| 49 | [#WorldThinkingDay](http://twitter.com/search?q=%23WorldThinkingDay) | N/A |
+| 50 | [#SaiDharamTej](http://twitter.com/search?q=%23SaiDharamTej) | N/A |
 
 
 

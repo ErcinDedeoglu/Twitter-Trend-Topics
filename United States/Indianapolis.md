@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-02-22 06:17:43 UTC`
+📆 Last Updated: `2023-02-22 07:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 2 | [ESPN](http://twitter.com/search?q=ESPN) | ESPN stands for Entertainment and Sports Programming Network. It is a global cable and satellite sports television channel owned by ESPN Inc., a joint venture between The Walt Disney Company and Hearst Communications. ESPN broadcasts primarily from studio facilities located in Bristol, Connecticut. The network also operates offices in Miami, New York City, Seattle, Charlotte, and Los Angeles. |
-| 3 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
-| 4 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
-| 5 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 1 | [Bates](http://twitter.com/search?q=Bates) | N/A |
+| 2 | [Trayce](http://twitter.com/search?q=Trayce) | N/A |
+| 3 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 4 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 5 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
 | 6 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 7 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 8 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
-| 9 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 10 | [#JJKSpoilers](http://twitter.com/search?q=%23JJKSpoilers) | N/A |
-| 11 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 12 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 7 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 8 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 9 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
+| 10 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 11 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 12 | [#iubb](http://twitter.com/search?q=%23iubb) | #iubb is an abbreviation for Indiana University Bloomington, which is a public research university located in Bloomington, Indiana. |
 | 13 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 14 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 15 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 16 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 14 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 15 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 16 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
 | 17 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 18 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 18 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
 | 19 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 20 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
-| 21 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 22 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 23 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 24 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 25 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 26 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 27 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 28 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
-| 29 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 30 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 31 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 32 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 33 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
-| 34 | [Ines](http://twitter.com/search?q=Ines) | N/A |
-| 35 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 20 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 21 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 22 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 23 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
+| 24 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 25 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 26 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 27 | [GHOST IN THE MACHINE](http://twitter.com/search?q=GHOST+IN+THE+MACHINE) | N/A |
+| 28 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 29 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 30 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 31 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 32 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 33 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 34 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 35 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
 | 36 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
-| 37 | [GHOST IN THE MACHINE](http://twitter.com/search?q=GHOST+IN+THE+MACHINE) | N/A |
-| 38 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 39 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
-| 40 | [Mady](http://twitter.com/search?q=Mady) | N/A |
-| 41 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 42 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 43 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
-| 44 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 45 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 46 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
-| 47 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 48 | [Kohler](http://twitter.com/search?q=Kohler) | N/A |
-| 49 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 37 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 38 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 39 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 40 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 41 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
+| 42 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 43 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
+| 44 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 45 | [Princess and the Frog](http://twitter.com/search?q=Princess+and+the+Frog) | N/A |
+| 46 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 47 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
+| 48 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 49 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
 
 
 

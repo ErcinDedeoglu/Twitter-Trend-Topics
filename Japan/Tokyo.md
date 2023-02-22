@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tokyo
 
-📆 Last Updated: `2023-02-22 06:17:25 UTC`
+📆 Last Updated: `2023-02-22 07:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [HGSS](http://twitter.com/search?q=HGSS) | N/A |
-| 2 | [コンタック](http://twitter.com/search?q=%e3%82%b3%e3%83%b3%e3%82%bf%e3%83%83%e3%82%af) | N/A |
-| 3 | [ZETA戦](http://twitter.com/search?q=ZETA%e6%88%a6) | N/A |
-| 4 | [伊藤沙莉](http://twitter.com/search?q=%e4%bc%8a%e8%97%a4%e6%b2%99%e8%8e%89) | N/A |
-| 5 | [リュジン](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%82%b8%e3%83%b3) | N/A |
-| 6 | [猫カフェ](http://twitter.com/search?q=%e7%8c%ab%e3%82%ab%e3%83%95%e3%82%a7) | 猫カフェ (Neko Café) is a type of café in Japan where customers can interact with cats. It is a popular form of entertainment and relaxation for cat lovers. The English translation would be "Cat Café". |
-| 7 | [ちゅーる](http://twitter.com/search?q=%e3%81%a1%e3%82%85%e3%83%bc%e3%82%8b) | N/A |
-| 8 | [チェリョン](http://twitter.com/search?q=%e3%83%81%e3%82%a7%e3%83%aa%e3%83%a7%e3%83%b3) | N/A |
-| 9 | [ウルトラニャン](http://twitter.com/search?q=%e3%82%a6%e3%83%ab%e3%83%88%e3%83%a9%e3%83%8b%e3%83%a3%e3%83%b3) | N/A |
-| 10 | [#猫の日](http://twitter.com/search?q=%23%e7%8c%ab%e3%81%ae%e6%97%a5) | N/A |
-| 11 | [#ねこの日](http://twitter.com/search?q=%23%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
-| 12 | [笑瓶さん](http://twitter.com/search?q=%e7%ac%91%e7%93%b6%e3%81%95%e3%82%93) | N/A |
-| 13 | [急性大動脈解離](http://twitter.com/search?q=%e6%80%a5%e6%80%a7%e5%a4%a7%e5%8b%95%e8%84%88%e8%a7%a3%e9%9b%a2) | N/A |
-| 14 | [#あなたの猫度診断](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e7%8c%ab%e5%ba%a6%e8%a8%ba%e6%96%ad) | N/A |
-| 15 | [スポーツ報知](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e5%a0%b1%e7%9f%a5) | N/A |
-| 16 | [ショウヘイヘーイ](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%82%a6%e3%83%98%e3%82%a4%e3%83%98%e3%83%bc%e3%82%a4) | N/A |
-| 17 | [#にゃんにゃんにゃんの日](http://twitter.com/search?q=%23%e3%81%ab%e3%82%83%e3%82%93%e3%81%ab%e3%82%83%e3%82%93%e3%81%ab%e3%82%83%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
-| 18 | [#ミリシタ](http://twitter.com/search?q=%23%e3%83%9f%e3%83%aa%e3%82%b7%e3%82%bf) | N/A |
-| 19 | [ヨントン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%88%e3%83%b3) | ヨントン (Yonton) is a Japanese word that means "four-leaf clover". It is believed to bring good luck and fortune. |
-| 20 | [生粋の猫](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e7%8c%ab) | N/A |
-| 21 | [猫っぷり](http://twitter.com/search?q=%e7%8c%ab%e3%81%a3%e3%81%b7%e3%82%8a) | N/A |
+| 1 | [猫カフェ](http://twitter.com/search?q=%e7%8c%ab%e3%82%ab%e3%83%95%e3%82%a7) | 猫カフェ (Neko Café) is a type of café in Japan where customers can interact with cats. It is a popular form of entertainment and relaxation for cat lovers. The English translation would be "Cat Café". |
+| 2 | [ZETA戦](http://twitter.com/search?q=ZETA%e6%88%a6) | N/A |
+| 3 | [#村を焼けるか](http://twitter.com/search?q=%23%e6%9d%91%e3%82%92%e7%84%bc%e3%81%91%e3%82%8b%e3%81%8b) | N/A |
+| 4 | [新垣結衣](http://twitter.com/search?q=%e6%96%b0%e5%9e%a3%e7%b5%90%e8%a1%a3) | N/A |
+| 5 | [#tama954](http://twitter.com/search?q=%23tama954) | #Tama954 is a hashtag used by fans of the Japanese pop group Tama. It is used to show support for the group and to share content related to them. The number 954 is a reference to the year (1995) that the group was formed. |
+| 6 | [HGSS](http://twitter.com/search?q=HGSS) | N/A |
+| 7 | [マツケンサンバ](http://twitter.com/search?q=%e3%83%9e%e3%83%84%e3%82%b1%e3%83%b3%e3%82%b5%e3%83%b3%e3%83%90) | マツケンサンバ is a popular Japanese song and dance created by Matsuken Samba-Roc, a Japanese band. The song is known for its catchy melody and upbeat rhythm. In English, the title translates to "Matsuken Samba". |
+| 8 | [リュジン](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%82%b8%e3%83%b3) | N/A |
+| 9 | [グランドクソエイム](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%b3%e3%83%89%e3%82%af%e3%82%bd%e3%82%a8%e3%82%a4%e3%83%a0) | N/A |
+| 10 | [ダンプラ](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%83%97%e3%83%a9) | N/A |
+| 11 | [ナデナデ](http://twitter.com/search?q=%e3%83%8a%e3%83%87%e3%83%8a%e3%83%87) | N/A |
+| 12 | [ジミンちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%9f%e3%83%b3%e3%81%a1%e3%82%83%e3%82%93) | ジミンちゃん is a nickname for the Japanese singer and songwriter, Jimin Park. It is a term of endearment used by her fans. In English, it would be translated as "Jimin-chan". |
+| 13 | [#猫の日](http://twitter.com/search?q=%23%e7%8c%ab%e3%81%ae%e6%97%a5) | N/A |
+| 14 | [#ねこの日](http://twitter.com/search?q=%23%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
+| 15 | [#あなたの猫度診断](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e7%8c%ab%e5%ba%a6%e8%a8%ba%e6%96%ad) | N/A |
+| 16 | [笑瓶さん](http://twitter.com/search?q=%e7%ac%91%e7%93%b6%e3%81%95%e3%82%93) | N/A |
+| 17 | [急性大動脈解離](http://twitter.com/search?q=%e6%80%a5%e6%80%a7%e5%a4%a7%e5%8b%95%e8%84%88%e8%a7%a3%e9%9b%a2) | N/A |
+| 18 | [ショウヘイヘーイ](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%82%a6%e3%83%98%e3%82%a4%e3%83%98%e3%83%bc%e3%82%a4) | N/A |
+| 19 | [スポーツ報知](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e5%a0%b1%e7%9f%a5) | N/A |
+| 20 | [みくにゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%8f%e3%81%ab%e3%82%83%e3%82%93) | N/A |
+| 21 | [星野源P](http://twitter.com/search?q=%e6%98%9f%e9%87%8e%e6%ba%90P) | N/A |
 | 22 | [猫度80](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a680) | N/A |
-| 23 | [しょうへい](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%86%e3%81%b8%e3%81%84) | N/A |
-| 24 | [猫度100](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a6100) | N/A |
-| 25 | [本物のネコちゃん](http://twitter.com/search?q=%e6%9c%ac%e7%89%a9%e3%81%ae%e3%83%8d%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 26 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
-| 27 | [ネコの日](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%81%ae%e6%97%a5) | N/A |
-| 28 | [笑瓶ちゃん](http://twitter.com/search?q=%e7%ac%91%e7%93%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 29 | [鶴瓶さん](http://twitter.com/search?q=%e9%b6%b4%e7%93%b6%e3%81%95%e3%82%93) | N/A |
-| 30 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 23 | [生粋の猫](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e7%8c%ab) | N/A |
+| 24 | [猫っぷり](http://twitter.com/search?q=%e7%8c%ab%e3%81%a3%e3%81%b7%e3%82%8a) | N/A |
+| 25 | [ヨントン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%88%e3%83%b3) | ヨントン (Yonton) is a Japanese word that means "four-leaf clover". It is believed to bring good luck and fortune. |
+| 26 | [本物のネコちゃん](http://twitter.com/search?q=%e6%9c%ac%e7%89%a9%e3%81%ae%e3%83%8d%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 27 | [猫度100](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a6100) | N/A |
+| 28 | [恋ダンス](http://twitter.com/search?q=%e6%81%8b%e3%83%80%e3%83%b3%e3%82%b9) | N/A |
+| 29 | [しょうへい](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%86%e3%81%b8%e3%81%84) | N/A |
+| 30 | [猫系女子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e5%a5%b3%e5%ad%90) | N/A |
 | 31 | [猫度50](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a650) | N/A |
-| 32 | [猫系女子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e5%a5%b3%e5%ad%90) | N/A |
-| 33 | [猫系男子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e7%94%b7%e5%ad%90) | N/A |
-| 34 | [噂の東京マガジン](http://twitter.com/search?q=%e5%99%82%e3%81%ae%e6%9d%b1%e4%ba%ac%e3%83%9e%e3%82%ac%e3%82%b8%e3%83%b3) | N/A |
-| 35 | [曜の謎解き成功](http://twitter.com/search?q=%e6%9b%9c%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
-| 36 | [PSVR2](http://twitter.com/search?q=PSVR2) | PSVR2 is an abbreviation for PlayStation Virtual Reality 2, which is the second generation of Sony's virtual reality headset for the PlayStation gaming console. It is designed to provide an immersive gaming experience with improved visuals, audio, and tracking technology. |
-| 37 | [アクエリアス杯](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%a8%e3%83%aa%e3%82%a2%e3%82%b9%e6%9d%af) | アクエリアス杯 (Aquarius Cup) is an annual tournament held in Japan for the game of Aquarius, a card game similar to Uno. The tournament is organized by the Aquarius Association of Japan and has been held since 1998. The tournament is open to all players regardless of age or experience level. The winner of the tournament receives a trophy and prize money. |
-| 38 | [猫の風上](http://twitter.com/search?q=%e7%8c%ab%e3%81%ae%e9%a2%a8%e4%b8%8a) | N/A |
-| 39 | [ファッション猫](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3%e7%8c%ab) | N/A |
-| 40 | [猫度20](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a620) | N/A |
-| 41 | [よしこちゃん](http://twitter.com/search?q=%e3%82%88%e3%81%97%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 42 | [ニャンコニャンコリ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%83%aa) | N/A |
-| 43 | [ニャンニャンッ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%83) | N/A |
-| 44 | [とりあいボイス](http://twitter.com/search?q=%e3%81%a8%e3%82%8a%e3%81%82%e3%81%84%e3%83%9c%e3%82%a4%e3%82%b9) | N/A |
-| 45 | [デジたん](http://twitter.com/search?q=%e3%83%87%e3%82%b8%e3%81%9f%e3%82%93) | N/A |
-| 46 | [刀猫男士](http://twitter.com/search?q=%e5%88%80%e7%8c%ab%e7%94%b7%e5%a3%ab) | N/A |
-| 47 | [ネコチャン](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
-| 48 | [ウィッキーさん](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%83%e3%82%ad%e3%83%bc%e3%81%95%e3%82%93) | N/A |
-| 49 | [鶴瓶師匠](http://twitter.com/search?q=%e9%b6%b4%e7%93%b6%e5%b8%ab%e5%8c%a0) | N/A |
-| 50 | [ルーン規制](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%b3%e8%a6%8f%e5%88%b6) | N/A |
+| 32 | [猫系男子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e7%94%b7%e5%ad%90) | N/A |
+| 33 | [ネコの日](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%81%ae%e6%97%a5) | N/A |
+| 34 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 35 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
+| 36 | [笑瓶ちゃん](http://twitter.com/search?q=%e7%ac%91%e7%93%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 37 | [曜の謎解き成功](http://twitter.com/search?q=%e6%9b%9c%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 38 | [鶴瓶さん](http://twitter.com/search?q=%e9%b6%b4%e7%93%b6%e3%81%95%e3%82%93) | N/A |
+| 39 | [モバイルICOCA](http://twitter.com/search?q=%e3%83%a2%e3%83%90%e3%82%a4%e3%83%abICOCA) | N/A |
+| 40 | [猫の風上](http://twitter.com/search?q=%e7%8c%ab%e3%81%ae%e9%a2%a8%e4%b8%8a) | N/A |
+| 41 | [ファッション猫](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3%e7%8c%ab) | N/A |
+| 42 | [猫度20](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a620) | N/A |
+| 43 | [PSVR2](http://twitter.com/search?q=PSVR2) | PSVR2 is an abbreviation for PlayStation Virtual Reality 2, which is the second generation of Sony's virtual reality headset for the PlayStation gaming console. It is designed to provide an immersive gaming experience with improved visuals, audio, and tracking technology. |
+| 44 | [噂の東京マガジン](http://twitter.com/search?q=%e5%99%82%e3%81%ae%e6%9d%b1%e4%ba%ac%e3%83%9e%e3%82%ac%e3%82%b8%e3%83%b3) | N/A |
+| 45 | [刀猫男士](http://twitter.com/search?q=%e5%88%80%e7%8c%ab%e7%94%b7%e5%a3%ab) | N/A |
+| 46 | [自分の曲](http://twitter.com/search?q=%e8%87%aa%e5%88%86%e3%81%ae%e6%9b%b2) | N/A |
+| 47 | [よしこちゃん](http://twitter.com/search?q=%e3%82%88%e3%81%97%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 48 | [前川みく](http://twitter.com/search?q=%e5%89%8d%e5%b7%9d%e3%81%bf%e3%81%8f) | N/A |
+| 49 | [アクエリアス杯](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%a8%e3%83%aa%e3%82%a2%e3%82%b9%e6%9d%af) | アクエリアス杯 (Aquarius Cup) is an annual tournament held in Japan for the game of Aquarius, a card game similar to Uno. The tournament is organized by the Aquarius Association of Japan and has been held since 1998. The tournament is open to all players regardless of age or experience level. The winner of the tournament receives a trophy and prize money. |
+| 50 | [ガバチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%90%e3%83%81%e3%83%a7) | N/A |
 
 
 

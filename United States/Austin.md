@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austin
 
-📆 Last Updated: `2023-02-22 06:17:41 UTC`
+📆 Last Updated: `2023-02-22 07:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
-| 2 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 3 | [Varsity](http://twitter.com/search?q=Varsity) | N/A |
-| 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 5 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 1 | [Texas](http://twitter.com/search?q=Texas) | N/A |
+| 2 | [#HookEm](http://twitter.com/search?q=%23HookEm) | N/A |
+| 3 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
+| 4 | [Varsity](http://twitter.com/search?q=Varsity) | N/A |
+| 5 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
 | 6 | [#txhshoops](http://twitter.com/search?q=%23txhshoops) | N/A |
-| 7 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
-| 8 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 9 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
-| 10 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
-| 11 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
-| 12 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 7 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
+| 8 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 9 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
+| 10 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 11 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 12 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
 | 13 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
 | 14 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 15 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 15 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
 | 16 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 17 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 18 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 19 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 20 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 21 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 22 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 23 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
-| 24 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 25 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 26 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 27 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 17 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 18 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 19 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 20 | [Daily Quordle 394](http://twitter.com/search?q=Daily+Quordle+394) | N/A |
+| 21 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 22 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
+| 23 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 24 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 25 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 26 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
+| 27 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
 | 28 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 29 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 30 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 31 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 32 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
-| 33 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 34 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 29 | [GHOST IN THE MACHINE](http://twitter.com/search?q=GHOST+IN+THE+MACHINE) | N/A |
+| 30 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 31 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 32 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
+| 33 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 34 | [Lent](http://twitter.com/search?q=Lent) | N/A |
 | 35 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
 | 36 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 37 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
-| 38 | [Ines](http://twitter.com/search?q=Ines) | N/A |
-| 39 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
-| 40 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
-| 41 | [GHOST IN THE MACHINE](http://twitter.com/search?q=GHOST+IN+THE+MACHINE) | N/A |
-| 42 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 43 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
-| 44 | [Mady](http://twitter.com/search?q=Mady) | N/A |
-| 45 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 46 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 47 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 37 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
+| 38 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 39 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 40 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 41 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 42 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
+| 43 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 44 | [Emily Kohrs](http://twitter.com/search?q=Emily+Kohrs) | N/A |
+| 45 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
+| 46 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
+| 47 | [Princess and the Frog](http://twitter.com/search?q=Princess+and+the+Frog) | N/A |
 | 48 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 49 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 50 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
+| 49 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
+| 50 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
 
 
 

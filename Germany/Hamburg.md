@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-02-22 06:17:16 UTC`
+📆 Last Updated: `2023-02-22 07:17:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
-| 2 | [#SGESSC](http://twitter.com/search?q=%23SGESSC) | N/A |
-| 3 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 4 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 5 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
-| 6 | [#SGENapoli](http://twitter.com/search?q=%23SGENapoli) | N/A |
-| 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [#Putin](http://twitter.com/search?q=%23Putin) | N/A |
-| 9 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 10 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 11 | [Baum](http://twitter.com/search?q=Baum) | N/A |
-| 12 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 13 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 14 | [Moin Tom](http://twitter.com/search?q=Moin+Tom) | N/A |
-| 15 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 16 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 17 | [rückspiel](http://twitter.com/search?q=r%c3%bcckspiel) | N/A |
-| 18 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 19 | [ponyhof](http://twitter.com/search?q=ponyhof) | N/A |
-| 20 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 21 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 22 | [TRAPP](http://twitter.com/search?q=TRAPP) | N/A |
-| 23 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 24 | [Guten Morgen Hermann](http://twitter.com/search?q=Guten+Morgen+Hermann) | N/A |
-| 25 | [Goldie](http://twitter.com/search?q=Goldie) | N/A |
-| 26 | [Kolo](http://twitter.com/search?q=Kolo) | N/A |
-| 27 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 28 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 29 | [rede zur lage der nation](http://twitter.com/search?q=rede+zur+lage+der+nation) | N/A |
-| 30 | [amtsanmaßung](http://twitter.com/search?q=amtsanma%c3%9fung) | N/A |
-| 31 | [sohle](http://twitter.com/search?q=sohle) | N/A |
-| 32 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 33 | [Guten Morgen Conny](http://twitter.com/search?q=Guten+Morgen+Conny) | N/A |
-| 34 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 35 | [Frühdienst](http://twitter.com/search?q=Fr%c3%bchdienst) | N/A |
-| 36 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 37 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 38 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
-| 39 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 40 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 41 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 42 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 43 | [Sven](http://twitter.com/search?q=Sven) | N/A |
-| 44 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 45 | [Guten Morgen Swen](http://twitter.com/search?q=Guten+Morgen+Swen) | N/A |
-| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 47 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 48 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 49 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
-| 50 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 1 | [#SGESSC](http://twitter.com/search?q=%23SGESSC) | N/A |
+| 2 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 3 | [Wochenteiler](http://twitter.com/search?q=Wochenteiler) | N/A |
+| 4 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 5 | [#Aschermittwoch](http://twitter.com/search?q=%23Aschermittwoch) | N/A |
+| 6 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 7 | [#SGENapoli](http://twitter.com/search?q=%23SGENapoli) | N/A |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 9 | [Schönen Mittwoch](http://twitter.com/search?q=Sch%c3%b6nen+Mittwoch) | N/A |
+| 10 | [Heute vor 80 Jahren](http://twitter.com/search?q=Heute+vor+80+Jahren) | N/A |
+| 11 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 12 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 13 | [Baum](http://twitter.com/search?q=Baum) | N/A |
+| 14 | [Nebel](http://twitter.com/search?q=Nebel) | N/A |
+| 15 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 16 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 17 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 18 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 19 | [Christoph Probst](http://twitter.com/search?q=Christoph+Probst) | N/A |
+| 20 | [Hans Scholl](http://twitter.com/search?q=Hans+Scholl) | N/A |
+| 21 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
+| 22 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 23 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 24 | [Sophie Scholl](http://twitter.com/search?q=Sophie+Scholl) | N/A |
+| 25 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 26 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 27 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 28 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 29 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 30 | [Wunderschönen](http://twitter.com/search?q=Wundersch%c3%b6nen) | N/A |
+| 31 | [Kerstin](http://twitter.com/search?q=Kerstin) | N/A |
+| 32 | [Guten Morgen Twitter](http://twitter.com/search?q=Guten+Morgen+Twitter) | N/A |
+| 33 | [Goldie](http://twitter.com/search?q=Goldie) | N/A |
+| 34 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 35 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 36 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 37 | [TRAPP](http://twitter.com/search?q=TRAPP) | N/A |
+| 38 | [Start in den Tag](http://twitter.com/search?q=Start+in+den+Tag) | N/A |
+| 39 | [Kolo](http://twitter.com/search?q=Kolo) | N/A |
+| 40 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 41 | [Guten Morgen Conny](http://twitter.com/search?q=Guten+Morgen+Conny) | N/A |
+| 42 | [Frühdienst](http://twitter.com/search?q=Fr%c3%bchdienst) | N/A |
+| 43 | [Habt den Tag](http://twitter.com/search?q=Habt+den+Tag) | N/A |
+| 44 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 45 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 46 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
+| 47 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 48 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 49 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 50 | [Sohle](http://twitter.com/search?q=Sohle) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Den Haag
 
-📆 Last Updated: `2023-02-22 06:17:18 UTC`
+📆 Last Updated: `2023-02-22 07:17:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Netherlands](</Netherlands>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 2 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 3 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
-| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 5 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 8 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 9 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 10 | [#fakkels](http://twitter.com/search?q=%23fakkels) | N/A |
-| 11 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
-| 12 | [#Warmtepomp](http://twitter.com/search?q=%23Warmtepomp) | N/A |
-| 13 | [diepenheim](http://twitter.com/search?q=diepenheim) | N/A |
-| 14 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 15 | [Shula Rijxman](http://twitter.com/search?q=Shula+Rijxman) | N/A |
+| 1 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
+| 2 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 3 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 4 | [#kastanjebruin](http://twitter.com/search?q=%23kastanjebruin) | N/A |
+| 5 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
+| 6 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 7 | [Zuid-Europa](http://twitter.com/search?q=Zuid-Europa) | N/A |
+| 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 9 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 10 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 11 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 12 | [#fakkels](http://twitter.com/search?q=%23fakkels) | N/A |
+| 13 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 14 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 15 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
 | 16 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 17 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 18 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 19 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 20 | [jeroen pauw](http://twitter.com/search?q=jeroen+pauw) | N/A |
-| 21 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
+| 18 | [Shula Rijxman](http://twitter.com/search?q=Shula+Rijxman) | N/A |
+| 19 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 20 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
+| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 22 | [Rina](http://twitter.com/search?q=Rina) | N/A |
-| 23 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 24 | [GL-Kamerlid Kröger](http://twitter.com/search?q=GL-Kamerlid+Kr%c3%b6ger) | N/A |
-| 25 | [Regina](http://twitter.com/search?q=Regina) | N/A |
-| 26 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 27 | [hans de booij](http://twitter.com/search?q=hans+de+booij) | N/A |
-| 28 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 29 | [wichian](http://twitter.com/search?q=wichian) | N/A |
-| 30 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 31 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 32 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 33 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 34 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 35 | [luisteren](http://twitter.com/search?q=luisteren) | N/A |
-| 36 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 37 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 38 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 39 | [Myrna](http://twitter.com/search?q=Myrna) | N/A |
-| 40 | [dag 21](http://twitter.com/search?q=dag+21) | N/A |
-| 41 | [woedende haagse](http://twitter.com/search?q=woedende+haagse) | N/A |
-| 42 | [Mariska](http://twitter.com/search?q=Mariska) | N/A |
-| 43 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
-| 44 | [plasterk](http://twitter.com/search?q=plasterk) | N/A |
-| 45 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
-| 46 | [Nicolette](http://twitter.com/search?q=Nicolette) | N/A |
-| 47 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 48 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 49 | [aangifte](http://twitter.com/search?q=aangifte) | N/A |
-| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 23 | [Mogguh](http://twitter.com/search?q=Mogguh) | N/A |
+| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 25 | [GL-Kamerlid Kröger](http://twitter.com/search?q=GL-Kamerlid+Kr%c3%b6ger) | N/A |
+| 26 | [Pauw](http://twitter.com/search?q=Pauw) | N/A |
+| 27 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 28 | [hans de booij](http://twitter.com/search?q=hans+de+booij) | N/A |
+| 29 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 30 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 31 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 32 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
+| 33 | [wichian](http://twitter.com/search?q=wichian) | N/A |
+| 34 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 35 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 37 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 38 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 39 | [luisteren](http://twitter.com/search?q=luisteren) | N/A |
+| 40 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 41 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 42 | [dag 21](http://twitter.com/search?q=dag+21) | N/A |
+| 43 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 44 | [Dolf](http://twitter.com/search?q=Dolf) | N/A |
+| 45 | [Myrna](http://twitter.com/search?q=Myrna) | N/A |
+| 46 | [Derksen](http://twitter.com/search?q=Derksen) | N/A |
+| 47 | [Mariska](http://twitter.com/search?q=Mariska) | N/A |
+| 48 | [plasterk](http://twitter.com/search?q=plasterk) | N/A |
+| 49 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 50 | [aangifte](http://twitter.com/search?q=aangifte) | N/A |
 
 
 
