@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-22 01:44:45 UTC`
+📆 Last Updated: `2023-02-22 02:41:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 2 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 3 | [Da Brat](http://twitter.com/search?q=Da+Brat) | N/A |
-| 4 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 7 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 8 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
-| 9 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 10 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 11 | [#TheWinchesters](http://twitter.com/search?q=%23TheWinchesters) | #TheWinchesters is a hashtag used to refer to the Winchester brothers, Sam and Dean, from the TV show Supernatural. It is used to show appreciation for the characters and their adventures. |
-| 12 | [#911LoneStar](http://twitter.com/search?q=%23911LoneStar) | #911LoneStar is a hashtag used to honor the first responders and other essential workers in Texas who are working to keep the public safe during the COVID-19 pandemic. It is a way of showing appreciation for their hard work and dedication. |
-| 13 | [#RexComus](http://twitter.com/search?q=%23RexComus) | N/A |
-| 14 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
-| 15 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
-| 16 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 17 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 18 | [Vivek Ramaswamy](http://twitter.com/search?q=Vivek+Ramaswamy) | N/A |
-| 19 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 20 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
-| 21 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 22 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
-| 23 | [Fishy](http://twitter.com/search?q=Fishy) | N/A |
-| 24 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 25 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 26 | [Ryan O'Reilly](http://twitter.com/search?q=Ryan+O%27Reilly) | N/A |
-| 27 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
-| 28 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 29 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
-| 30 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 31 | [McClellan](http://twitter.com/search?q=McClellan) | N/A |
-| 32 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 33 | [Nick Paul](http://twitter.com/search?q=Nick+Paul) | N/A |
-| 34 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 35 | [Miles](http://twitter.com/search?q=Miles) | N/A |
-| 36 | [Mr. Tickles](http://twitter.com/search?q=Mr.+Tickles) | N/A |
-| 37 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 38 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 39 | [Distress](http://twitter.com/search?q=Distress) | N/A |
+| 2 | [#TrueToAtlanta](http://twitter.com/search?q=%23TrueToAtlanta) | N/A |
+| 3 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
+| 4 | [Boosie](http://twitter.com/search?q=Boosie) | N/A |
+| 5 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 6 | [#MardiGras](http://twitter.com/search?q=%23MardiGras) | N/A |
+| 7 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 8 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 9 | [#WWENXT](http://twitter.com/search?q=%23WWENXT) | #WWENXT is a hashtag used on social media to refer to WWE's developmental brand, NXT. It stands for World Wrestling Entertainment's NXT, which is a professional wrestling promotion based in the United States. It features up-and-coming wrestlers and is seen as a stepping stone for those looking to make it to the main roster of WWE. |
+| 10 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 11 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 12 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 13 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
+| 14 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 15 | [Pat Adams](http://twitter.com/search?q=Pat+Adams) | N/A |
+| 16 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 17 | [Nick Honor](http://twitter.com/search?q=Nick+Honor) | N/A |
+| 18 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 19 | [Texas A&M](http://twitter.com/search?q=Texas+A%26M) | N/A |
+| 20 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 21 | [Suter](http://twitter.com/search?q=Suter) | N/A |
+| 22 | [Trae](http://twitter.com/search?q=Trae) | Trae is a shortened form of the name Travis, which is of English origin and means "crossing" or "crossroads". |
+| 23 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 24 | [Nate Oats](http://twitter.com/search?q=Nate+Oats) | N/A |
+| 25 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 26 | [VIDEO CALL](http://twitter.com/search?q=VIDEO+CALL) | N/A |
+| 27 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 28 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 29 | [Justin Moore](http://twitter.com/search?q=Justin+Moore) | N/A |
+| 30 | [Top 6](http://twitter.com/search?q=Top+6) | N/A |
+| 31 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 32 | [Vescovi](http://twitter.com/search?q=Vescovi) | N/A |
+| 33 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 34 | [McClellan](http://twitter.com/search?q=McClellan) | N/A |
+| 35 | [UMvC3](http://twitter.com/search?q=UMvC3) | N/A |
+| 36 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
+| 37 | [Svech](http://twitter.com/search?q=Svech) | N/A |
+| 38 | [Mr. Tickles](http://twitter.com/search?q=Mr.+Tickles) | N/A |
+| 39 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 40 | [Gaige](http://twitter.com/search?q=Gaige) | N/A |
-| 41 | [Lata](http://twitter.com/search?q=Lata) | N/A |
-| 42 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 43 | [Brendan Smith](http://twitter.com/search?q=Brendan+Smith) | N/A |
-| 44 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 45 | [QuadrigaCX](http://twitter.com/search?q=QuadrigaCX) | N/A |
-| 46 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
-| 47 | [Ime Udoka](http://twitter.com/search?q=Ime+Udoka) | N/A |
-| 48 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 49 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 50 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 41 | [Kobe Brown](http://twitter.com/search?q=Kobe+Brown) | N/A |
+| 42 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
+| 43 | [Mississippi State](http://twitter.com/search?q=Mississippi+State) | Mississippi State is the official name of the public research university located in Starkville, Mississippi. It is the state's flagship university and is classified as a land-grant, sea-grant, and space-grant institution. The university offers over 200 undergraduate and graduate degree programs. |
+| 44 | [Mercer](http://twitter.com/search?q=Mercer) | N/A |
+| 45 | [Distress](http://twitter.com/search?q=Distress) | N/A |
+| 46 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
+| 47 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 48 | [FANSIGN](http://twitter.com/search?q=FANSIGN) | N/A |
+| 49 | [Fishy](http://twitter.com/search?q=Fishy) | N/A |
+| 50 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
 
 
 

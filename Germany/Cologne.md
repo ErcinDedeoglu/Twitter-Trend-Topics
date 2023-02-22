@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-02-22 01:44:21 UTC`
+📆 Last Updated: `2023-02-22 02:41:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 2 | [#Wagenknecht](http://twitter.com/search?q=%23Wagenknecht) | N/A |
-| 3 | [#SGESSC](http://twitter.com/search?q=%23SGESSC) | N/A |
+| 2 | [#SGESSC](http://twitter.com/search?q=%23SGESSC) | N/A |
+| 3 | [#Wagenknecht](http://twitter.com/search?q=%23Wagenknecht) | N/A |
 | 4 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 5 | [#SGENapoli](http://twitter.com/search?q=%23SGENapoli) | N/A |
 | 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 7 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 8 | [Baum](http://twitter.com/search?q=Baum) | N/A |
-| 9 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 10 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
-| 11 | [Kolo Muani](http://twitter.com/search?q=Kolo+Muani) | Kolo Muani is a traditional dance from the Congo region of Africa. It is a celebratory dance that is performed to honor ancestors and to bring good luck. The literal translation of Kolo Muani in English is "dance of joy". |
-| 12 | [Sohle](http://twitter.com/search?q=Sohle) | N/A |
-| 13 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
-| 14 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 15 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 16 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
-| 17 | [Knöchel](http://twitter.com/search?q=Kn%c3%b6chel) | N/A |
-| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 19 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
-| 20 | [Trapp](http://twitter.com/search?q=Trapp) | N/A |
-| 21 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 22 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
-| 23 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 24 | [Redezeit](http://twitter.com/search?q=Redezeit) | N/A |
-| 25 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 26 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 27 | [Rede zur Lage der Nation](http://twitter.com/search?q=Rede+zur+Lage+der+Nation) | N/A |
-| 28 | [Amtsanmaßung](http://twitter.com/search?q=Amtsanma%c3%9fung) | N/A |
-| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 30 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 31 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 32 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
-| 33 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
-| 34 | [New START](http://twitter.com/search?q=New+START) | N/A |
-| 35 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 36 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
-| 37 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 38 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 8 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 9 | [Baum](http://twitter.com/search?q=Baum) | N/A |
+| 10 | [Polizist](http://twitter.com/search?q=Polizist) | N/A |
+| 11 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 12 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 13 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 14 | [Ponyhof](http://twitter.com/search?q=Ponyhof) | N/A |
+| 15 | [Kolo](http://twitter.com/search?q=Kolo) | N/A |
+| 16 | [wochenstart](http://twitter.com/search?q=wochenstart) | N/A |
+| 17 | [Trapp](http://twitter.com/search?q=Trapp) | N/A |
+| 18 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 19 | [Sohle](http://twitter.com/search?q=Sohle) | N/A |
+| 20 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 21 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 22 | [Rede zur Lage der Nation](http://twitter.com/search?q=Rede+zur+Lage+der+Nation) | N/A |
+| 23 | [Amtsanmaßung](http://twitter.com/search?q=Amtsanma%c3%9fung) | N/A |
+| 24 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 25 | [schönen dienstag](http://twitter.com/search?q=sch%c3%b6nen+dienstag) | N/A |
+| 26 | [Faschingsdienstag](http://twitter.com/search?q=Faschingsdienstag) | N/A |
+| 27 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 28 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 29 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 30 | [Osimhen](http://twitter.com/search?q=Osimhen) | Osimhen is a Nigerian surname. It is derived from the Igbo language and means “God has done it”. |
+| 31 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 32 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 33 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
+| 34 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 35 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 36 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 37 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
+| 38 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 39 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
-| 40 | [Karneval](http://twitter.com/search?q=Karneval) | N/A |
-| 41 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 42 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 43 | [EAT A BANUNA](http://twitter.com/search?q=EAT+A+BANUNA) | N/A |
-| 44 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 45 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 46 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 47 | [Karte](http://twitter.com/search?q=Karte) | N/A |
-| 48 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 49 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 50 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 40 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 41 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 42 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 43 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 44 | [Knöchel](http://twitter.com/search?q=Kn%c3%b6chel) | N/A |
+| 45 | [Pfannkuchen](http://twitter.com/search?q=Pfannkuchen) | N/A |
+| 46 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 47 | [rettungsgasse](http://twitter.com/search?q=rettungsgasse) | N/A |
+| 48 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 49 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 50 | [Bourdieu](http://twitter.com/search?q=Bourdieu) | N/A |
 
 
 

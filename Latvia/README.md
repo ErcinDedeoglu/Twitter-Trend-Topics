@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-22 01:44:58 UTC`
+📆 Last Updated: `2023-02-22 02:41:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,12 +34,12 @@ This is top 50 for Latvia
 | 17 | [maskavas](http://twitter.com/search?q=maskavas) | N/A |
 | 18 | [#ЛигаЧемпионов](http://twitter.com/search?q=%23%d0%9b%d0%b8%d0%b3%d0%b0%d0%a7%d0%b5%d0%bc%d0%bf%d0%b8%d0%be%d0%bd%d0%be%d0%b2) | N/A |
 | 19 | [#Web3](http://twitter.com/search?q=%23Web3) | N/A |
-| 20 | [levita](http://twitter.com/search?q=levita) | N/A |
+| 20 | [Levita](http://twitter.com/search?q=Levita) | N/A |
 | 21 | [Tāda](http://twitter.com/search?q=T%c4%81da) | N/A |
 | 22 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 23 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
-| 24 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 25 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 24 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 25 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 26 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
 | 27 | [rdzn](http://twitter.com/search?q=rdzn) | N/A |
 | 28 | [liepājas](http://twitter.com/search?q=liep%c4%81jas) | N/A |

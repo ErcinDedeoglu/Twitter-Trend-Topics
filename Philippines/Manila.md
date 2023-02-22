@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-22 01:44:33 UTC`
+📆 Last Updated: `2023-02-22 02:41:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 2 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
+| 1 | [#TheMorningRush](http://twitter.com/search?q=%23TheMorningRush) | N/A |
+| 2 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
 | 3 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 4 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 5 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
-| 6 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 7 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
-| 8 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
-| 9 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
-| 10 | [#TiffanyxWINReadyToSG](http://twitter.com/search?q=%23TiffanyxWINReadyToSG) | N/A |
-| 11 | [#OurDazzlingPrideSolar](http://twitter.com/search?q=%23OurDazzlingPrideSolar) | N/A |
-| 12 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 13 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
-| 14 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
-| 15 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
-| 16 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 17 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
-| 18 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 19 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
-| 20 | [bgyo at pldt smart natcon 2023](http://twitter.com/search?q=bgyo+at+pldt+smart+natcon+2023) | N/A |
-| 21 | [vivoree matapang this fri](http://twitter.com/search?q=vivoree+matapang+this+fri) | N/A |
-| 22 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 23 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
-| 24 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
-| 25 | [APINK](http://twitter.com/search?q=APINK) | N/A |
-| 26 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
-| 27 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
-| 28 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
-| 29 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
-| 30 | [Shout Out](http://twitter.com/search?q=Shout+Out) | N/A |
-| 31 | [CLOSER MV](http://twitter.com/search?q=CLOSER+MV) | N/A |
-| 32 | [Kuwaresma](http://twitter.com/search?q=Kuwaresma) | N/A |
-| 33 | [arado](http://twitter.com/search?q=arado) | N/A |
-| 34 | [crisostomo ibarra](http://twitter.com/search?q=crisostomo+ibarra) | N/A |
-| 35 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
-| 36 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
-| 37 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
-| 38 | [sofi](http://twitter.com/search?q=sofi) | N/A |
-| 39 | [RCEP](http://twitter.com/search?q=RCEP) | N/A |
-| 40 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
-| 41 | [GQ KOREA X JEONGYEON](http://twitter.com/search?q=GQ+KOREA+X+JEONGYEON) | N/A |
-| 42 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 43 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
-| 44 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
-| 45 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 46 | [Chery](http://twitter.com/search?q=Chery) | N/A |
-| 47 | [Battle Ground](http://twitter.com/search?q=Battle+Ground) | N/A |
-| 48 | [Dennis Trillo](http://twitter.com/search?q=Dennis+Trillo) | N/A |
-| 49 | [josh l pienomenal vocal](http://twitter.com/search?q=josh+l+pienomenal+vocal) | N/A |
-| 50 | [MetLife](http://twitter.com/search?q=MetLife) | N/A |
+| 4 | [#MCIPasabog](http://twitter.com/search?q=%23MCIPasabog) | N/A |
+| 5 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 6 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
+| 7 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 8 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
+| 9 | [Apink](http://twitter.com/search?q=Apink) | N/A |
+| 10 | [#WishWINWonderful24th](http://twitter.com/search?q=%23WishWINWonderful24th) | N/A |
+| 11 | [Run BTS](http://twitter.com/search?q=Run+BTS) | N/A |
+| 12 | [#내사랑은영원해_용선아_생일축하해](http://twitter.com/search?q=%23%eb%82%b4%ec%82%ac%eb%9e%91%ec%9d%80%ec%98%81%ec%9b%90%ed%95%b4_%ec%9a%a9%ec%84%a0%ec%95%84_%ec%83%9d%ec%9d%bc%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 13 | [VIDEO CALL FANSIGN](http://twitter.com/search?q=VIDEO+CALL+FANSIGN) | N/A |
+| 14 | [Weverse Album](http://twitter.com/search?q=Weverse+Album) | N/A |
+| 15 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 16 | [WILD TONIGHT MV TEASER1](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER1) | N/A |
+| 17 | [TWICE 5TH WORLD TOUR](http://twitter.com/search?q=TWICE+5TH+WORLD+TOUR) | N/A |
+| 18 | [HAPPY BIRTHDAY WIN](http://twitter.com/search?q=HAPPY+BIRTHDAY+WIN) | N/A |
+| 19 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 20 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
+| 21 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 22 | [LEE CHAN](http://twitter.com/search?q=LEE+CHAN) | Lee Chan is a Korean name, with the given name Lee and the family name Chan. It can be translated to mean “one who is beautiful and generous” in English. |
+| 23 | [bgyo at pldt smart natcon 2023](http://twitter.com/search?q=bgyo+at+pldt+smart+natcon+2023) | N/A |
+| 24 | [vivoree matapang this fri](http://twitter.com/search?q=vivoree+matapang+this+fri) | N/A |
+| 25 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 26 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 27 | [Daisy Siete](http://twitter.com/search?q=Daisy+Siete) | N/A |
+| 28 | [TAEHYUNG ON THE GAME CATERERS](http://twitter.com/search?q=TAEHYUNG+ON+THE+GAME+CATERERS) | N/A |
+| 29 | [Jimin Solo Album 'FACE'](http://twitter.com/search?q=Jimin+Solo+Album+%27FACE%27) | N/A |
+| 30 | [Don't Lie](http://twitter.com/search?q=Don%27t+Lie) | N/A |
+| 31 | [SHOUT OUT](http://twitter.com/search?q=SHOUT+OUT) | SHOUT OUT is an expression used to show appreciation or recognition for someone. It is often used to give a public acknowledgement or recognition of someone's accomplishments, efforts, or talents. It can also be used to express enthusiasm and support for a person, group, or cause. |
+| 32 | [CLOSER MV](http://twitter.com/search?q=CLOSER+MV) | N/A |
+| 33 | [Kopiko 78](http://twitter.com/search?q=Kopiko+78) | N/A |
+| 34 | [PH GO](http://twitter.com/search?q=PH+GO) | N/A |
+| 35 | [YES WE DO](http://twitter.com/search?q=YES+WE+DO) | N/A |
+| 36 | [Kuwaresma](http://twitter.com/search?q=Kuwaresma) | N/A |
+| 37 | [arado](http://twitter.com/search?q=arado) | N/A |
+| 38 | [Normal ETA](http://twitter.com/search?q=Normal+ETA) | N/A |
+| 39 | [crisostomo ibarra](http://twitter.com/search?q=crisostomo+ibarra) | N/A |
+| 40 | [CIRCLE OF RESONANCE](http://twitter.com/search?q=CIRCLE+OF+RESONANCE) | N/A |
+| 41 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 42 | [Filo Engenes](http://twitter.com/search?q=Filo+Engenes) | N/A |
+| 43 | [RCEP](http://twitter.com/search?q=RCEP) | N/A |
+| 44 | [sofi](http://twitter.com/search?q=sofi) | N/A |
+| 45 | [Eunwoo](http://twitter.com/search?q=Eunwoo) | N/A |
+| 46 | [NMIXX 1st ANNIVERSARY](http://twitter.com/search?q=NMIXX+1st+ANNIVERSARY) | N/A |
+| 47 | [HAPPY LEA DAY](http://twitter.com/search?q=HAPPY+LEA+DAY) | N/A |
+| 48 | [GQ KOREA X JEONGYEON](http://twitter.com/search?q=GQ+KOREA+X+JEONGYEON) | N/A |
+| 49 | [Gabbi](http://twitter.com/search?q=Gabbi) | N/A |
+| 50 | [Shaun](http://twitter.com/search?q=Shaun) | N/A |
 
 
 

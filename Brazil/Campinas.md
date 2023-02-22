@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Campinas
 
-📆 Last Updated: `2023-02-22 01:44:16 UTC`
+📆 Last Updated: `2023-02-22 02:41:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pedrinho](http://twitter.com/search?q=Pedrinho) | Pedrinho is a Portuguese nickname for the name Pedro, which is the Spanish and Portuguese form of Peter. In English, it would be translated to Peter or Pete. |
-| 2 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
-| 3 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
-| 4 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
-| 5 | [Tricolor](http://twitter.com/search?q=Tricolor) | N/A |
-| 6 | [Sorocaba](http://twitter.com/search?q=Sorocaba) | N/A |
-| 7 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
-| 8 | [Mocidade Alegre](http://twitter.com/search?q=Mocidade+Alegre) | N/A |
-| 9 | [Carnaval de SP](http://twitter.com/search?q=Carnaval+de+SP) | N/A |
-| 10 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 11 | [Cássio](http://twitter.com/search?q=C%c3%a1ssio) | Cássio is a Portuguese name derived from the Latin name Cassius. It is a masculine given name and can also be used as a surname. In English, it means "curly-haired". |
-| 12 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
-| 13 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 14 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
-| 15 | [bella hadid](http://twitter.com/search?q=bella+hadid) | N/A |
-| 16 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
-| 17 | [Se o Cristian](http://twitter.com/search?q=Se+o+Cristian) | N/A |
-| 18 | [Terceiro Milênio](http://twitter.com/search?q=Terceiro+Mil%c3%aanio) | N/A |
-| 19 | [Goleiro](http://twitter.com/search?q=Goleiro) | N/A |
-| 20 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 21 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
-| 22 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
-| 23 | [Rosas](http://twitter.com/search?q=Rosas) | N/A |
-| 24 | [Carnaval de São Paulo](http://twitter.com/search?q=Carnaval+de+S%c3%a3o+Paulo) | N/A |
-| 25 | [Whindersson](http://twitter.com/search?q=Whindersson) | N/A |
-| 26 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
-| 27 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 28 | [#RecopaNaESPN](http://twitter.com/search?q=%23RecopaNaESPN) | N/A |
-| 29 | [JULIETTE COM BRAHMA](http://twitter.com/search?q=JULIETTE+COM+BRAHMA) | N/A |
-| 30 | [Calleri](http://twitter.com/search?q=Calleri) | Calleri is a Spanish surname. It is derived from the Latin word "calerius," which means "strong" or "brave." In English, the meaning of the name Calleri is "strong and brave." |
-| 31 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 32 | [Galoppo](http://twitter.com/search?q=Galoppo) | Galoppo is an Italian word that refers to a type of horse riding. It is a fast, rhythmic style of riding in which the horse moves its legs in a two-beat rhythm, with the rider rising and falling in the saddle. In English, it is sometimes referred to as "galloping". |
-| 33 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 34 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
-| 35 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 36 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 37 | [Vini Jr](http://twitter.com/search?q=Vini+Jr) | Vini Jr is a Brazilian brand of alcoholic beverages. The name is derived from the Portuguese word for wine, "vinho". In English, Vini Jr translates to "Junior Wine". |
-| 38 | [#CasaDaChampions](http://twitter.com/search?q=%23CasaDaChampions) | N/A |
-| 39 | [Caio Paulista](http://twitter.com/search?q=Caio+Paulista) | Caio Paulista is a Brazilian greeting, similar to "hello" or "good day". It is derived from the Latin phrase "caveat emptor", which means "let the buyer beware". In English, it can be translated as "hello from São Paulo". |
-| 40 | [Iniesta](http://twitter.com/search?q=Iniesta) | N/A |
-| 41 | [#IDVxFLA](http://twitter.com/search?q=%23IDVxFLA) | N/A |
-| 42 | [Bruno Henrique](http://twitter.com/search?q=Bruno+Henrique) | N/A |
-| 43 | [Vamos Flamengo](http://twitter.com/search?q=Vamos+Flamengo) | N/A |
-| 44 | [Sornoza](http://twitter.com/search?q=Sornoza) | N/A |
-| 45 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 46 | [Chapecoense](http://twitter.com/search?q=Chapecoense) | N/A |
-| 47 | [Patryck](http://twitter.com/search?q=Patryck) | N/A |
-| 48 | [São Bento](http://twitter.com/search?q=S%c3%a3o+Bento) | São Bento is a Portuguese phrase meaning "Saint Benedict". It is the name of several places in Portugal, including a monastery in Lisbon and a railway station in Porto. The phrase is also used to refer to the Benedictine Order of monks, which was founded by Saint Benedict of Nursia in the 6th century. |
-| 49 | [#chuvarj](http://twitter.com/search?q=%23chuvarj) | N/A |
+| 2 | [Gabriel Santana](http://twitter.com/search?q=Gabriel+Santana) | Gabriel Santana is a Portuguese name. It is derived from the Hebrew name Gabriel, which means “God is my strength”. |
+| 3 | [Nathan](http://twitter.com/search?q=Nathan) | Nathan is a masculine given name of Hebrew origin, meaning "he gave". It is popular in many English-speaking countries, including the United States, Canada, Australia, and the United Kingdom. |
+| 4 | [Tricolor](http://twitter.com/search?q=Tricolor) | N/A |
+| 5 | [#VamosSaoPaulo](http://twitter.com/search?q=%23VamosSaoPaulo) | N/A |
+| 6 | [mañana tríada](http://twitter.com/search?q=ma%c3%b1ana+tr%c3%adada) | N/A |
+| 7 | [#ApuracaoSP](http://twitter.com/search?q=%23ApuracaoSP) | N/A |
+| 8 | [Camisa Verde e Branco](http://twitter.com/search?q=Camisa+Verde+e+Branco) | N/A |
+| 9 | [Vai-Vai](http://twitter.com/search?q=Vai-Vai) | N/A |
+| 10 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 11 | [Gallopo](http://twitter.com/search?q=Gallopo) | N/A |
+| 12 | [Beraldo](http://twitter.com/search?q=Beraldo) | N/A |
+| 13 | [Luciano](http://twitter.com/search?q=Luciano) | Luciano is an Italian given name derived from the Latin name Lucius. It means "light" or "illumination". |
+| 14 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 15 | [Se o Alface](http://twitter.com/search?q=Se+o+Alface) | N/A |
+| 16 | [Mancha](http://twitter.com/search?q=Mancha) | N/A |
+| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 18 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 19 | [Kuri](http://twitter.com/search?q=Kuri) | N/A |
+| 20 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 21 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 22 | [Gaviões](http://twitter.com/search?q=Gavi%c3%b5es) | N/A |
+| 23 | [Mocidade](http://twitter.com/search?q=Mocidade) | N/A |
+| 24 | [Sorocaba](http://twitter.com/search?q=Sorocaba) | N/A |
+| 25 | [Photoshop](http://twitter.com/search?q=Photoshop) | N/A |
+| 26 | [kylie](http://twitter.com/search?q=kylie) | N/A |
+| 27 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 28 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
+| 29 | [bella hadid](http://twitter.com/search?q=bella+hadid) | N/A |
+| 30 | [Vila Maria](http://twitter.com/search?q=Vila+Maria) | N/A |
+| 31 | [Daniel Caesar](http://twitter.com/search?q=Daniel+Caesar) | N/A |
+| 32 | [Carnaval de SP](http://twitter.com/search?q=Carnaval+de+SP) | N/A |
+| 33 | [Croácia](http://twitter.com/search?q=Cro%c3%a1cia) | N/A |
+| 34 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 35 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 36 | [Ancelotti](http://twitter.com/search?q=Ancelotti) | Ancelotti is an Italian surname. It is derived from the Latin name Anselmus, which means "God's protection". In English, the name Ancelotti can be translated to mean "Protected by God". |
+| 37 | [Rodrygo](http://twitter.com/search?q=Rodrygo) | Rodrygo is a Portuguese name derived from the Germanic name Hrodric, which means "renowned power". In English, it can be translated to mean "powerful ruler". |
+| 38 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 39 | [Vidal](http://twitter.com/search?q=Vidal) | Vidal is a Spanish surname derived from the Latin name Vitalis, which means “life”. It is also a French surname derived from the Latin name Vidallus, which means “woodland”. |
+| 40 | [#RecopaNaESPN](http://twitter.com/search?q=%23RecopaNaESPN) | N/A |
+| 41 | [Varela](http://twitter.com/search?q=Varela) | Varela is a Spanish surname derived from the Latin word "varellus," which means "young calf." It is also the name of a small town in Galicia, Spain. In English, it can be translated to mean "young calf." |
+| 42 | [David Luiz](http://twitter.com/search?q=David+Luiz) | David Luiz is a Brazilian professional footballer who plays for the English Premier League club Arsenal. He primarily plays as a centre-back, but can also be deployed as a defensive midfielder. The name "David Luiz" is derived from his given name, David, and his middle name, Luiz. |
+| 43 | [Del Valle](http://twitter.com/search?q=Del+Valle) | N/A |
+| 44 | [Pulgar](http://twitter.com/search?q=Pulgar) | N/A |
+| 45 | [Dani Calabresa](http://twitter.com/search?q=Dani+Calabresa) | Dani Calabresa is a Brazilian comedian and actress. Her name is a combination of the words "Dani" (a common Brazilian nickname for Daniela) and "Calabresa" (a type of spicy sausage from the southern region of Brazil). The English translation would be "Spicy Dani". |
+| 46 | [JULIETTE COM BRAHMA](http://twitter.com/search?q=JULIETTE+COM+BRAHMA) | N/A |
+| 47 | [Paulo Sousa](http://twitter.com/search?q=Paulo+Sousa) | Paulo Sousa is a Portuguese football manager and former player. He is currently the manager of Chinese Super League club Tianjin Teda. In English, Paulo Sousa means Paul Sousa. |
+| 48 | [#colunadofla](http://twitter.com/search?q=%23colunadofla) | N/A |
+| 49 | [Thiago Maia](http://twitter.com/search?q=Thiago+Maia) | Thiago Maia is a Brazilian footballer who currently plays for Lille in the French Ligue 1. His name is derived from the Portuguese words for “big” and “sea”, and it can be translated to mean “big sea” in English. |
 
 
 

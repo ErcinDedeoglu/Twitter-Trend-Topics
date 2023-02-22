@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-22 01:44:59 UTC`
+📆 Last Updated: `2023-02-22 02:41:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Panama
 | 3 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 5 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 6 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 6 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 7 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 8 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
 | 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
@@ -31,8 +31,8 @@ This is top 50 for Panama
 | 14 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 15 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
 | 16 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 17 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 18 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 17 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 19 | [Tebas](http://twitter.com/search?q=Tebas) | N/A |
 | 20 | [Laporta](http://twitter.com/search?q=Laporta) | Laporta is a Spanish surname derived from the word "puerta," which means "door" in English. It is believed to have originated from a place name, referring to a family who lived near a door or gate. |
 | 21 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
@@ -46,25 +46,25 @@ This is top 50 for Panama
 | 29 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 30 | [Las Tablas](http://twitter.com/search?q=Las+Tablas) | N/A |
 | 31 | [Capira](http://twitter.com/search?q=Capira) | N/A |
-| 32 | [El Gurú](http://twitter.com/search?q=El+Gur%c3%ba) | N/A |
-| 33 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 32 | [#InversiónDeVías](http://twitter.com/search?q=%23Inversi%c3%b3nDeV%c3%adas) | N/A |
+| 33 | [el gurú](http://twitter.com/search?q=el+gur%c3%ba) | N/A |
 | 34 | [Barsa](http://twitter.com/search?q=Barsa) | N/A |
-| 35 | [#InversiónDeVías](http://twitter.com/search?q=%23Inversi%c3%b3nDeV%c3%adas) | N/A |
-| 36 | [Cerro Patacón](http://twitter.com/search?q=Cerro+Patac%c3%b3n) | N/A |
-| 37 | [Calle Arriba](http://twitter.com/search?q=Calle+Arriba) | N/A |
-| 38 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
-| 39 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 40 | [Cavill](http://twitter.com/search?q=Cavill) | Cavill is a surname of English origin. It is derived from the Old French word "cavil," which means "to cavil or quibble." The name is thought to have been given to someone who was known for being argumentative or nit-picking. |
-| 41 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 42 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 43 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
-| 44 | [Cinta Costera](http://twitter.com/search?q=Cinta+Costera) | N/A |
-| 45 | [Argos San José](http://twitter.com/search?q=Argos+San+Jos%c3%a9) | N/A |
-| 46 | [fiscalía electoral](http://twitter.com/search?q=fiscal%c3%ada+electoral) | N/A |
-| 47 | [vale digital](http://twitter.com/search?q=vale+digital) | N/A |
-| 48 | [#OperaciónAlfa2023](http://twitter.com/search?q=%23Operaci%c3%b3nAlfa2023) | N/A |
-| 49 | [Premier](http://twitter.com/search?q=Premier) | N/A |
-| 50 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 35 | [Cerro Patacón](http://twitter.com/search?q=Cerro+Patac%c3%b3n) | N/A |
+| 36 | [San Carlos](http://twitter.com/search?q=San+Carlos) | N/A |
+| 37 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 38 | [Cavill](http://twitter.com/search?q=Cavill) | Cavill is a surname of English origin. It is derived from the Old French word "cavil," which means "to cavil or quibble." The name is thought to have been given to someone who was known for being argumentative or nit-picking. |
+| 39 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 40 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 41 | [Negreira](http://twitter.com/search?q=Negreira) | N/A |
+| 42 | [The Last of Us](http://twitter.com/search?q=The+Last+of+Us) | The Last of Us is a post-apocalyptic action-adventure video game developed by Naughty Dog and published by Sony Computer Entertainment. It follows the story of Joel and Ellie, two survivors of a zombie apocalypse, as they travel across the United States in search of a cure for the infection that has decimated humanity. The title "The Last of Us" refers to the fact that Joel and Ellie are among the last remaining humans on Earth. |
+| 43 | [Argos San José](http://twitter.com/search?q=Argos+San+Jos%c3%a9) | N/A |
+| 44 | [vale digital](http://twitter.com/search?q=vale+digital) | N/A |
+| 45 | [Cinta Costera](http://twitter.com/search?q=Cinta+Costera) | N/A |
+| 46 | [#OperaciónAlfa2023](http://twitter.com/search?q=%23Operaci%c3%b3nAlfa2023) | N/A |
+| 47 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 48 | [Premier](http://twitter.com/search?q=Premier) | N/A |
+| 49 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 50 | [Antón](http://twitter.com/search?q=Ant%c3%b3n) | N/A |
 
 
 

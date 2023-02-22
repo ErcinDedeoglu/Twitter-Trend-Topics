@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-22 01:44:55 UTC`
+📆 Last Updated: `2023-02-22 02:41:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,9 +26,9 @@ This is top 50 for Denmark
 | 9 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 10 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
 | 11 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 12 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 13 | [#eudk](http://twitter.com/search?q=%23eudk) | N/A |
-| 14 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 12 | [#eudk](http://twitter.com/search?q=%23eudk) | N/A |
+| 13 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 15 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
 | 16 | [nye borgerlige](http://twitter.com/search?q=nye+borgerlige) | N/A |
 | 17 | [isaksen](http://twitter.com/search?q=isaksen) | N/A |
@@ -38,25 +38,25 @@ This is top 50 for Denmark
 | 21 | [Onside](http://twitter.com/search?q=Onside) | N/A |
 | 22 | [villie](http://twitter.com/search?q=villie) | N/A |
 | 23 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 24 | [Horsens](http://twitter.com/search?q=Horsens) | N/A |
+| 24 | [horsens](http://twitter.com/search?q=horsens) | N/A |
 | 25 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
-| 26 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 27 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 28 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
-| 29 | [Viasat](http://twitter.com/search?q=Viasat) | N/A |
+| 26 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 27 | [Vallys](http://twitter.com/search?q=Vallys) | N/A |
+| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 29 | [viasat](http://twitter.com/search?q=viasat) | N/A |
 | 30 | [Sending](http://twitter.com/search?q=Sending) | N/A |
 | 31 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 33 | [Parken](http://twitter.com/search?q=Parken) | N/A |
-| 34 | [genialt](http://twitter.com/search?q=genialt) | N/A |
-| 35 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 36 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 37 | [klimarådet](http://twitter.com/search?q=klimar%c3%a5det) | N/A |
-| 38 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 39 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 40 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 41 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
-| 42 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 32 | [Parken](http://twitter.com/search?q=Parken) | N/A |
+| 33 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 35 | [genialt](http://twitter.com/search?q=genialt) | N/A |
+| 36 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 37 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 38 | [klimarådet](http://twitter.com/search?q=klimar%c3%a5det) | N/A |
+| 39 | [brøndby](http://twitter.com/search?q=br%c3%b8ndby) | N/A |
+| 40 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 42 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
 | 43 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
 | 44 | [Kina](http://twitter.com/search?q=Kina) | N/A |
 | 45 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |

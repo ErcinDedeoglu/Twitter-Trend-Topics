@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algeria
 
-📆 Last Updated: `2023-02-22 01:44:54 UTC`
+📆 Last Updated: `2023-02-22 02:41:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,11 +26,11 @@ This is top 50 for Algeria
 | 9 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 10 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
 | 11 | [المجلس الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%ac%d9%84%d8%b3+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
-| 12 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 13 | [#سبويلر_ون_بيس](http://twitter.com/search?q=%23%d8%b3%d8%a8%d9%88%d9%8a%d9%84%d8%b1_%d9%88%d9%86_%d8%a8%d9%8a%d8%b3) | N/A |
-| 14 | [الغزو العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%b2%d9%88+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
-| 15 | [#اسقاط_صالح_بلعيد](http://twitter.com/search?q=%23%d8%a7%d8%b3%d9%82%d8%a7%d8%b7_%d8%b5%d8%a7%d9%84%d8%ad_%d8%a8%d9%84%d8%b9%d9%8a%d8%af) | N/A |
-| 16 | [#شعبان](http://twitter.com/search?q=%23%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 12 | [#سبويلر_ون_بيس](http://twitter.com/search?q=%23%d8%b3%d8%a8%d9%88%d9%8a%d9%84%d8%b1_%d9%88%d9%86_%d8%a8%d9%8a%d8%b3) | N/A |
+| 13 | [الغزو العربي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%b2%d9%88+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a) | N/A |
+| 14 | [#اسقاط_صالح_بلعيد](http://twitter.com/search?q=%23%d8%a7%d8%b3%d9%82%d8%a7%d8%b7_%d8%b5%d8%a7%d9%84%d8%ad_%d8%a8%d9%84%d8%b9%d9%8a%d8%af) | N/A |
+| 15 | [#شعبان](http://twitter.com/search?q=%23%d8%b4%d8%b9%d8%a8%d8%a7%d9%86) | N/A |
+| 16 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
 | 17 | [بوتين](http://twitter.com/search?q=%d8%a8%d9%88%d8%aa%d9%8a%d9%86) | N/A |
 | 18 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
 | 19 | [FACE BY JIMIN](http://twitter.com/search?q=FACE+BY+JIMIN) | N/A |
@@ -52,9 +52,9 @@ This is top 50 for Algeria
 | 35 | [شهر رمضان](http://twitter.com/search?q=%d8%b4%d9%87%d8%b1+%d8%b1%d9%85%d8%b6%d8%a7%d9%86) | N/A |
 | 36 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
 | 37 | [الاكتفاء الذاتي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%83%d8%aa%d9%81%d8%a7%d8%a1+%d8%a7%d9%84%d8%b0%d8%a7%d8%aa%d9%8a) | N/A |
-| 38 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 39 | [حوار الاديان](http://twitter.com/search?q=%d8%ad%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%af%d9%8a%d8%a7%d9%86) | N/A |
-| 40 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 38 | [حوار الاديان](http://twitter.com/search?q=%d8%ad%d9%88%d8%a7%d8%b1+%d8%a7%d9%84%d8%a7%d8%af%d9%8a%d8%a7%d9%86) | N/A |
+| 39 | [نابولي](http://twitter.com/search?q=%d9%86%d8%a7%d8%a8%d9%88%d9%84%d9%8a) | نابولي is a dialect of Arabic spoken in the city of Naples, Italy. It is a combination of Arabic, Italian, and Neapolitan dialects. In English, it can be translated as "Neapolitan Arabic". |
+| 40 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
 | 41 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 42 | [وزير الصناعه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%87) | N/A |
 | 43 | [كاس الجمهوريه](http://twitter.com/search?q=%d9%83%d8%a7%d8%b3+%d8%a7%d9%84%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%8a%d9%87) | N/A |

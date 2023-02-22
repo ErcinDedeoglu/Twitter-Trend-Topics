@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-22 01:44:10 UTC`
+📆 Last Updated: `2023-02-22 02:40:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 10 | [Yamaico Navarro](http://twitter.com/search?q=Yamaico+Navarro) | N/A |
 | 11 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 12 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 13 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
-| 14 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 15 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 13 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 14 | [Auron](http://twitter.com/search?q=Auron) | Auron is a character from the popular video game series Final Fantasy. He is a powerful warrior who is known for his strength and wisdom. His name is derived from the Latin word aurum, which means "gold". In English, Auron can be translated to mean "golden one". |
+| 15 | [Occidente](http://twitter.com/search?q=Occidente) | N/A |
 | 16 | [Carlos Durán](http://twitter.com/search?q=Carlos+Dur%c3%a1n) | N/A |
-| 17 | [Los Rieles](http://twitter.com/search?q=Los+Rieles) | N/A |
-| 18 | [La Romana](http://twitter.com/search?q=La+Romana) | N/A |
-| 19 | [Operación Frontera](http://twitter.com/search?q=Operaci%c3%b3n+Frontera) | N/A |
-| 20 | [Boca Chica](http://twitter.com/search?q=Boca+Chica) | N/A |
-| 21 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 22 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
-| 23 | [#haitianos](http://twitter.com/search?q=%23haitianos) | N/A |
-| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 25 | [Pantoja](http://twitter.com/search?q=Pantoja) | N/A |
-| 26 | [Apache](http://twitter.com/search?q=Apache) | N/A |
-| 27 | [rd$285](http://twitter.com/search?q=rd%24285) | N/A |
-| 28 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 17 | [Operación Frontera](http://twitter.com/search?q=Operaci%c3%b3n+Frontera) | N/A |
+| 18 | [Boca Chica](http://twitter.com/search?q=Boca+Chica) | N/A |
+| 19 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 20 | [La Romana](http://twitter.com/search?q=La+Romana) | N/A |
+| 21 | [Los Rieles](http://twitter.com/search?q=Los+Rieles) | N/A |
+| 22 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 23 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
+| 24 | [rd$285](http://twitter.com/search?q=rd%24285) | N/A |
+| 25 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 26 | [Pantoja](http://twitter.com/search?q=Pantoja) | N/A |
+| 27 | [Alofoke](http://twitter.com/search?q=Alofoke) | N/A |
+| 28 | [#haitianos](http://twitter.com/search?q=%23haitianos) | N/A |
 | 29 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 30 | [Alofoke](http://twitter.com/search?q=Alofoke) | N/A |
-| 31 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 32 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 33 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 34 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 35 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 30 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 31 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 32 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 33 | [Operación 13](http://twitter.com/search?q=Operaci%c3%b3n+13) | N/A |
+| 34 | [Abel Martinez](http://twitter.com/search?q=Abel+Martinez) | N/A |
+| 35 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 36 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
 | 37 | [Luisin](http://twitter.com/search?q=Luisin) | N/A |
-| 38 | [Abel Martinez](http://twitter.com/search?q=Abel+Martinez) | N/A |
-| 39 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 40 | [Operación 13](http://twitter.com/search?q=Operaci%c3%b3n+13) | N/A |
-| 41 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
-| 42 | [Marcell Ozuna](http://twitter.com/search?q=Marcell+Ozuna) | N/A |
-| 43 | [maría trinidad sánchez](http://twitter.com/search?q=mar%c3%ada+trinidad+s%c3%a1nchez) | N/A |
-| 44 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 38 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 39 | [Unión Europea](http://twitter.com/search?q=Uni%c3%b3n+Europea) | N/A |
+| 40 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 41 | [Mapache](http://twitter.com/search?q=Mapache) | N/A |
+| 42 | [Gabi](http://twitter.com/search?q=Gabi) | N/A |
+| 43 | [Marcell Ozuna](http://twitter.com/search?q=Marcell+Ozuna) | N/A |
+| 44 | [maría trinidad sánchez](http://twitter.com/search?q=mar%c3%ada+trinidad+s%c3%a1nchez) | N/A |
 | 45 | [Instituto Duartiano](http://twitter.com/search?q=Instituto+Duartiano) | N/A |
 | 46 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 47 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 48 | [toros del este](http://twitter.com/search?q=toros+del+este) | N/A |
-| 49 | [Los Corruptos](http://twitter.com/search?q=Los+Corruptos) | N/A |
-| 50 | [zoológico nacional](http://twitter.com/search?q=zool%c3%b3gico+nacional) | N/A |
+| 47 | [toros del este](http://twitter.com/search?q=toros+del+este) | N/A |
+| 48 | [Los Corruptos](http://twitter.com/search?q=Los+Corruptos) | N/A |
+| 49 | [zoológico nacional](http://twitter.com/search?q=zool%c3%b3gico+nacional) | N/A |
+| 50 | [#elinforme](http://twitter.com/search?q=%23elinforme) | N/A |
 
 
 
