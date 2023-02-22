@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-22 05:17:00 UTC`
+📆 Last Updated: `2023-02-22 06:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,39 +15,39 @@ This is top 50 for Ukraine
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 2 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
-| 3 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 4 | [Kherson](http://twitter.com/search?q=Kherson) | N/A |
-| 5 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 1 | [Раночку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
+| 2 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 3 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
+| 4 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 5 | [Kherson](http://twitter.com/search?q=Kherson) | N/A |
 | 6 | [Warsaw](http://twitter.com/search?q=Warsaw) | N/A |
 | 7 | [молдовы](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d1%8b) | N/A |
-| 8 | [#CryptoSafety](http://twitter.com/search?q=%23CryptoSafety) | N/A |
-| 9 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 10 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
-| 11 | [херсоне](http://twitter.com/search?q=%d1%85%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b5) | N/A |
-| 12 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 13 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
-| 14 | [Харькове](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
-| 15 | [#вторжениероссии](http://twitter.com/search?q=%23%d0%b2%d1%82%d0%be%d1%80%d0%b6%d0%b5%d0%bd%d0%b8%d0%b5%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 8 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 9 | [#CryptoSafety](http://twitter.com/search?q=%23CryptoSafety) | N/A |
+| 10 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 11 | [Навальный](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b0%d0%bb%d1%8c%d0%bd%d1%8b%d0%b9) | N/A |
+| 12 | [херсоне](http://twitter.com/search?q=%d1%85%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b5) | N/A |
+| 13 | [Харькове](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
+| 14 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
+| 15 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
 | 16 | [#StandWithUkraine️](http://twitter.com/search?q=%23StandWithUkraine%ef%b8%8f) | N/A |
-| 17 | [Раночку](http://twitter.com/search?q=%d0%a0%d0%b0%d0%bd%d0%be%d1%87%d0%ba%d1%83) | N/A |
-| 18 | [#агрессияроссии](http://twitter.com/search?q=%23%d0%b0%d0%b3%d1%80%d0%b5%d1%81%d1%81%d0%b8%d1%8f%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 19 | [белгородской](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b3%d0%be%d1%80%d0%be%d0%b4%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 20 | [светов](http://twitter.com/search?q=%d1%81%d0%b2%d0%b5%d1%82%d0%be%d0%b2) | N/A |
-| 21 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 22 | [#NFTCollection](http://twitter.com/search?q=%23NFTCollection) | N/A |
+| 17 | [#агрессияроссии](http://twitter.com/search?q=%23%d0%b0%d0%b3%d1%80%d0%b5%d1%81%d1%81%d0%b8%d1%8f%d1%80%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
+| 18 | [белгородской](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b3%d0%be%d1%80%d0%be%d0%b4%d1%81%d0%ba%d0%be%d0%b9) | N/A |
+| 19 | [светов](http://twitter.com/search?q=%d1%81%d0%b2%d0%b5%d1%82%d0%be%d0%b2) | N/A |
+| 20 | [Приднестровья](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 21 | [#Ukrainians](http://twitter.com/search?q=%23Ukrainians) | N/A |
+| 22 | [#ferrets](http://twitter.com/search?q=%23ferrets) | N/A |
 | 23 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 24 | [Приднестровья](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
-| 25 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
-| 26 | [кричу](http://twitter.com/search?q=%d0%ba%d1%80%d0%b8%d1%87%d1%83) | N/A |
-| 27 | [лукашенко](http://twitter.com/search?q=%d0%bb%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 28 | [взаимно](http://twitter.com/search?q=%d0%b2%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
-| 29 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
-| 30 | [Донецке](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%b5) | N/A |
-| 31 | [абсолютно](http://twitter.com/search?q=%d0%b0%d0%b1%d1%81%d0%be%d0%bb%d1%8e%d1%82%d0%bd%d0%be) | N/A |
-| 32 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 33 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 24 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 25 | [кричу](http://twitter.com/search?q=%d0%ba%d1%80%d0%b8%d1%87%d1%83) | N/A |
+| 26 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 27 | [взаимно](http://twitter.com/search?q=%d0%b2%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
+| 28 | [Понятно](http://twitter.com/search?q=%d0%9f%d0%be%d0%bd%d1%8f%d1%82%d0%bd%d0%be) | N/A |
+| 29 | [Донецке](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b5%d1%86%d0%ba%d0%b5) | N/A |
+| 30 | [Абсолютно](http://twitter.com/search?q=%d0%90%d0%b1%d1%81%d0%be%d0%bb%d1%8e%d1%82%d0%bd%d0%be) | N/A |
+| 31 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 32 | [Japan](http://twitter.com/search?q=Japan) | N/A |
+| 33 | [Лукашенко](http://twitter.com/search?q=%d0%9b%d1%83%d0%ba%d0%b0%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
 | 34 | [тайвань](http://twitter.com/search?q=%d1%82%d0%b0%d0%b9%d0%b2%d0%b0%d0%bd%d1%8c) | N/A |
 | 35 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
 | 36 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
@@ -64,7 +64,7 @@ This is top 50 for Ukraine
 | 47 | [Navalny](http://twitter.com/search?q=Navalny) | N/A |
 | 48 | [Belarus](http://twitter.com/search?q=Belarus) | N/A |
 | 49 | [Revolution of Dignity](http://twitter.com/search?q=Revolution+of+Dignity) | N/A |
-| 50 | [Добро](http://twitter.com/search?q=%d0%94%d0%be%d0%b1%d1%80%d0%be) | N/A |
+| 50 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
 
 
 

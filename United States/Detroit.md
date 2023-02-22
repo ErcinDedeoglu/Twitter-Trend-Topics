@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-22 05:16:46 UTC`
+📆 Last Updated: `2023-02-22 06:17:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#GoGreen](http://twitter.com/search?q=%23GoGreen) | N/A |
 | 2 | [Indiana](http://twitter.com/search?q=Indiana) | Indiana is a state in the Midwestern United States. It is bordered by Michigan to the north, Ohio to the east, Kentucky to the south, and Illinois to the west. The meaning of Indiana in English is "Land of the Indians". |
-| 3 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
-| 4 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 3 | [Saginaw](http://twitter.com/search?q=Saginaw) | N/A |
+| 4 | [Red Wings](http://twitter.com/search?q=Red+Wings) | N/A |
 | 5 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
 | 6 | [Georgia](http://twitter.com/search?q=Georgia) | Georgia is a country located in the Caucasus region of Eurasia. It is bordered by Russia to the north, Turkey and Armenia to the south, Azerbaijan to the east, and the Black Sea to the west. Georgia has a rich cultural heritage and is known for its hospitality and cuisine. The official language of Georgia is Georgian. |
 | 7 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
 | 8 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
-| 9 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 10 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
-| 11 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
-| 12 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 13 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 14 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 15 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
-| 16 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 9 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 10 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 11 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 12 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
+| 13 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
+| 14 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 15 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 16 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
 | 17 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
 | 18 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
-| 19 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
+| 19 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
 | 20 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 21 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 22 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 23 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 21 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 22 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 23 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
 | 24 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 25 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 26 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
-| 27 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 28 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
-| 29 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 30 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 31 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 32 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
-| 33 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 34 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 35 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 36 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 37 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 38 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 39 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 40 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 41 | [Mady](http://twitter.com/search?q=Mady) | N/A |
-| 42 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 43 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 44 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
-| 45 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 46 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 47 | [Rick Barnes](http://twitter.com/search?q=Rick+Barnes) | Rick Barnes is the head coach of the University of Tennessee men's basketball team. He is known for his success in college basketball, having led teams to 17 NCAA tournament appearances and two Final Fours. He has also won numerous conference championships and has been named National Coach of the Year twice. |
-| 48 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 25 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 26 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 27 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 28 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 29 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 30 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
+| 31 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
+| 32 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 33 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 34 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 35 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 36 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
+| 37 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 38 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 39 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
+| 40 | [GHOST IN THE MACHINE](http://twitter.com/search?q=GHOST+IN+THE+MACHINE) | N/A |
+| 41 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 42 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
+| 43 | [Mady](http://twitter.com/search?q=Mady) | N/A |
+| 44 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
+| 45 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 46 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 47 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
+| 48 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
 
 
 

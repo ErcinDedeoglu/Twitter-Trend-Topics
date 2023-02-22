@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-22 05:16:51 UTC`
+📆 Last Updated: `2023-02-22 06:17:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 2 | [Iowa State](http://twitter.com/search?q=Iowa+State) | Iowa State is a public research university located in Ames, Iowa. It is the largest university in the state of Iowa and the third largest university in the Big 12 Conference. The university was founded in 1858 and is classified as a Doctoral/Research University by the Carnegie Classification of Institutions of Higher Education. Iowa State offers more than 100 undergraduate majors, over 200 graduate programs, and professional degrees in veterinary medicine, agriculture, design, engineering, and business. |
-| 3 | [Bi-District Champs](http://twitter.com/search?q=Bi-District+Champs) | N/A |
-| 4 | [Varsity](http://twitter.com/search?q=Varsity) | N/A |
-| 5 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
-| 6 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 7 | [#txhshoops](http://twitter.com/search?q=%23txhshoops) | N/A |
+| 3 | [Varsity](http://twitter.com/search?q=Varsity) | N/A |
+| 4 | [Tennessee](http://twitter.com/search?q=Tennessee) | Tennessee is a state in the southeastern United States. It is bordered by eight other states: Kentucky to the north, Virginia to the northeast, North Carolina to the east, Georgia, Alabama, and Mississippi to the south, Arkansas to the west, and Missouri to the northwest. The capital of Tennessee is Nashville. The state's name is derived from a Cherokee village named Tanasi. |
+| 5 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 6 | [#txhshoops](http://twitter.com/search?q=%23txhshoops) | N/A |
+| 7 | [Aggies](http://twitter.com/search?q=Aggies) | N/A |
 | 8 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
-| 9 | [Reed](http://twitter.com/search?q=Reed) | N/A |
-| 10 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
-| 11 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
-| 12 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
-| 13 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
-| 14 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 9 | [#ThePayoff](http://twitter.com/search?q=%23ThePayoff) | N/A |
+| 10 | [#twug](http://twitter.com/search?q=%23twug) | #twug is an acronym for Twitter User Group, which is a group of people who use Twitter to communicate and share information. It is often used to refer to a specific group of people who have similar interests or goals. |
+| 11 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 12 | [Tommie](http://twitter.com/search?q=Tommie) | Tommie is a nickname for Thomas, which is a male given name of Aramaic origin. It means "twin" in English. |
+| 13 | [#RHONJ](http://twitter.com/search?q=%23RHONJ) | N/A |
+| 14 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
 | 15 | [Yuji](http://twitter.com/search?q=Yuji) | N/A |
-| 16 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
-| 17 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
-| 18 | [Adin Ross](http://twitter.com/search?q=Adin+Ross) | N/A |
-| 19 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 20 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 21 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 16 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 17 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 18 | [Marquette](http://twitter.com/search?q=Marquette) | N/A |
+| 19 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 20 | [Vivek](http://twitter.com/search?q=Vivek) | N/A |
+| 21 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
 | 22 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 23 | [Megumi](http://twitter.com/search?q=Megumi) | Megumi is a Japanese female given name. It is usually written with the characters 恵, meaning “blessing”, and 美, meaning “beauty”. In English, it can be translated to mean “blessed beauty”. |
-| 24 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
-| 25 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
-| 26 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
-| 27 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 28 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
-| 29 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
-| 30 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
-| 31 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
-| 32 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
-| 33 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 34 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
-| 35 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
-| 36 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
-| 37 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 38 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
-| 39 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
-| 40 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
-| 41 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
-| 42 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 43 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
-| 44 | [Mady](http://twitter.com/search?q=Mady) | N/A |
-| 45 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 46 | [Xavier](http://twitter.com/search?q=Xavier) | N/A |
-| 47 | [Kalkbrenner](http://twitter.com/search?q=Kalkbrenner) | N/A |
-| 48 | [Weverse](http://twitter.com/search?q=Weverse) | Weverse is a social media platform created by the South Korean entertainment company Big Hit Entertainment. It is designed to connect fans with artists and allow them to interact with each other. The name Weverse is derived from the words “we” and “universe”, representing the idea of creating a universe where fans and artists can come together. |
-| 49 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
-| 50 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 23 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 24 | [Mulan](http://twitter.com/search?q=Mulan) | N/A |
+| 25 | [Jeff Anderson](http://twitter.com/search?q=Jeff+Anderson) | N/A |
+| 26 | [South Side](http://twitter.com/search?q=South+Side) | N/A |
+| 27 | [Melissa](http://twitter.com/search?q=Melissa) | N/A |
+| 28 | [Ratatouille](http://twitter.com/search?q=Ratatouille) | N/A |
+| 29 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
+| 30 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 31 | [Gege](http://twitter.com/search?q=Gege) | Gege is a Chinese term of endearment that translates to "older brother" in English. It is used to refer to someone who is older than you, either in age or in terms of seniority. |
+| 32 | [Dorow](http://twitter.com/search?q=Dorow) | N/A |
+| 33 | [Tyler Kolek](http://twitter.com/search?q=Tyler+Kolek) | N/A |
+| 34 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
+| 35 | [Big East](http://twitter.com/search?q=Big+East) | N/A |
+| 36 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 37 | [Dan Kelly](http://twitter.com/search?q=Dan+Kelly) | N/A |
+| 38 | [Tyler Johnson](http://twitter.com/search?q=Tyler+Johnson) | N/A |
+| 39 | [Ines](http://twitter.com/search?q=Ines) | N/A |
+| 40 | [Toy Story](http://twitter.com/search?q=Toy+Story) | Toy Story is a 1995 American computer-animated comedy film produced by Pixar Animation Studios and released by Walt Disney Pictures. The film follows a group of toys that come to life when humans are not present, and focuses on the relationship between Woody, a pull-string cowboy doll, and Buzz Lightyear, an astronaut action figure. The film's title refers to the idea that toys have their own secret lives when people are not around. |
+| 41 | [Tokoyami](http://twitter.com/search?q=Tokoyami) | N/A |
+| 42 | [GHOST IN THE MACHINE](http://twitter.com/search?q=GHOST+IN+THE+MACHINE) | N/A |
+| 43 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 44 | [Tom Izzo](http://twitter.com/search?q=Tom+Izzo) | N/A |
+| 45 | [Mady](http://twitter.com/search?q=Mady) | N/A |
+| 46 | [Shaka Smart](http://twitter.com/search?q=Shaka+Smart) | N/A |
+| 47 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 48 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 49 | [Janet Protasiewicz](http://twitter.com/search?q=Janet+Protasiewicz) | N/A |
+| 50 | [Marvel 3](http://twitter.com/search?q=Marvel+3) | N/A |
 
 
 

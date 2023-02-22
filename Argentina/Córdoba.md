@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Córdoba
 
-📆 Last Updated: `2023-02-22 05:16:13 UTC`
+📆 Last Updated: `2023-02-22 06:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 1 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 2 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 3 | [Casi Angeles](http://twitter.com/search?q=Casi+Angeles) | N/A |
-| 4 | [Lucca](http://twitter.com/search?q=Lucca) | N/A |
-| 5 | [Florencia](http://twitter.com/search?q=Florencia) | N/A |
-| 6 | [#GranHermanoArgentina2023](http://twitter.com/search?q=%23GranHermanoArgentina2023) | #GranHermanoArgentina2023 is a hashtag used to promote the upcoming season of the Argentine version of the reality TV show Big Brother. In English, it translates to "Big Brother Argentina 2023". |
-| 7 | [#GranHermamo](http://twitter.com/search?q=%23GranHermamo) | N/A |
-| 8 | [HOY JUEGA RIVER](http://twitter.com/search?q=HOY+JUEGA+RIVER) | N/A |
-| 9 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 10 | [#TheChallengeArgentina](http://twitter.com/search?q=%23TheChallengeArgentina) | N/A |
-| 11 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 12 | [#ReDespiertos](http://twitter.com/search?q=%23ReDespiertos) | N/A |
-| 13 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
-| 14 | [Ceferino](http://twitter.com/search?q=Ceferino) | Ceferino is a Spanish name derived from the Latin name Caiaphas, which means "rock". It is also a variant of the name Joseph, meaning "God will increase". In English, Ceferino can be translated to mean "rock of God" or "God will increase". |
-| 15 | [VUELVO A CASA](http://twitter.com/search?q=VUELVO+A+CASA) | N/A |
-| 16 | [Zara](http://twitter.com/search?q=Zara) | Zara is a Spanish clothing and accessories retailer. It is one of the largest international fashion companies, and specializes in fast fashion. The name Zara is derived from the name of the founder's daughter, Zara Amalia. |
-| 17 | [Valen](http://twitter.com/search?q=Valen) | N/A |
-| 18 | [Rodo](http://twitter.com/search?q=Rodo) | N/A |
-| 19 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 20 | [Tombolini](http://twitter.com/search?q=Tombolini) | N/A |
-| 21 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
-| 22 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
-| 23 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
-| 24 | [Nachito](http://twitter.com/search?q=Nachito) | N/A |
-| 25 | [Feli](http://twitter.com/search?q=Feli) | N/A |
-| 26 | [Marisa Brel](http://twitter.com/search?q=Marisa+Brel) | Marisa Brel is a Spanish name that is derived from the Latin name Marisabel, which means “star of the sea”. In English, it can be translated to mean “star of the ocean”. |
-| 27 | [Tongolini](http://twitter.com/search?q=Tongolini) | N/A |
-| 28 | [Estela](http://twitter.com/search?q=Estela) | N/A |
-| 29 | [yolanda hadid](http://twitter.com/search?q=yolanda+hadid) | N/A |
-| 30 | [Scioli](http://twitter.com/search?q=Scioli) | N/A |
-| 31 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 32 | [Germán](http://twitter.com/search?q=Germ%c3%a1n) | Germán is a Spanish and Portuguese name derived from the Latin Germanus, meaning "brother". It is also a Germanic given name, derived from the Germanic element ger, meaning "spear". |
-| 33 | [Bayern Munich](http://twitter.com/search?q=Bayern+Munich) | N/A |
-| 34 | [Morita](http://twitter.com/search?q=Morita) | N/A |
-| 35 | [Cris Morena](http://twitter.com/search?q=Cris+Morena) | N/A |
-| 36 | [GORDA](http://twitter.com/search?q=GORDA) | N/A |
-| 37 | [Brian](http://twitter.com/search?q=Brian) | N/A |
-| 38 | [Privada](http://twitter.com/search?q=Privada) | N/A |
-| 39 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 40 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
-| 41 | [Firmenich](http://twitter.com/search?q=Firmenich) | N/A |
-| 42 | [Ladrón](http://twitter.com/search?q=Ladr%c3%b3n) | N/A |
-| 43 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 44 | [Fabian](http://twitter.com/search?q=Fabian) | N/A |
-| 45 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
-| 46 | [#InviernoNuclear](http://twitter.com/search?q=%23InviernoNuclear) | N/A |
-| 47 | [#Romina](http://twitter.com/search?q=%23Romina) | N/A |
-| 48 | [#MasViviana](http://twitter.com/search?q=%23MasViviana) | N/A |
-| 49 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 50 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
+| 3 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 4 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 5 | [Romina](http://twitter.com/search?q=Romina) | Romina is a feminine given name of Latin origin, derived from the Roman family name Romulus. It means "from Rome" or "of Rome". |
+| 6 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 7 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 8 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 9 | [Camila](http://twitter.com/search?q=Camila) | Camila is a Spanish female given name, derived from the Latin Camillus, meaning "attendant (for a temple)". It is also a variant of the name Camilla. |
+| 10 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 11 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 12 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 13 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 14 | [Boletos](http://twitter.com/search?q=Boletos) | N/A |
+| 15 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 17 | [#GH2023](http://twitter.com/search?q=%23GH2023) | #GH2023 is a hashtag used to refer to the 2023 Ghanaian general election. It is used to discuss and share news and information related to the upcoming election. |
+| 18 | [#toasteed](http://twitter.com/search?q=%23toasteed) | N/A |
+| 19 | [julieta cornuda](http://twitter.com/search?q=julieta+cornuda) | N/A |
+| 20 | [Las 10](http://twitter.com/search?q=Las+10) | N/A |
+| 21 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 22 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 23 | [Julieta Lucca](http://twitter.com/search?q=Julieta+Lucca) | N/A |
+| 24 | [#10palabras](http://twitter.com/search?q=%2310palabras) | N/A |
+| 25 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 26 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 27 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 28 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 29 | [División Palermo](http://twitter.com/search?q=Divisi%c3%b3n+Palermo) | N/A |
+| 30 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 31 | [Casi Ángeles](http://twitter.com/search?q=Casi+%c3%81ngeles) | N/A |
+| 32 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 33 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 35 | [Rodo](http://twitter.com/search?q=Rodo) | N/A |
+| 36 | [yolanda hadid](http://twitter.com/search?q=yolanda+hadid) | N/A |
+| 37 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 38 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 39 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 40 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 41 | [Dinamarca](http://twitter.com/search?q=Dinamarca) | N/A |
+| 42 | [Tombolini](http://twitter.com/search?q=Tombolini) | N/A |
+| 43 | [Firmenich](http://twitter.com/search?q=Firmenich) | N/A |
+| 44 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 45 | [VUELVO A CASA](http://twitter.com/search?q=VUELVO+A+CASA) | N/A |
+| 46 | [Damonte](http://twitter.com/search?q=Damonte) | N/A |
+| 47 | [Independiente del Valle](http://twitter.com/search?q=Independiente+del+Valle) | N/A |
+| 48 | [Jumbo](http://twitter.com/search?q=Jumbo) | N/A |
+| 49 | [Ginocchio](http://twitter.com/search?q=Ginocchio) | N/A |
+| 50 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
 
 
 

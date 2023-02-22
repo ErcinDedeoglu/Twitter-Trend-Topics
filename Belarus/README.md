@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-22 05:16:53 UTC`
+📆 Last Updated: `2023-02-22 06:17:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,21 +21,23 @@ This is top 50 for Belarus
 | 4 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
 | 5 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
 | 6 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 7 | [Главное](http://twitter.com/search?q=%d0%93%d0%bb%d0%b0%d0%b2%d0%bd%d0%be%d0%b5) | N/A |
-| 8 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 9 | [#Metaverse](http://twitter.com/search?q=%23Metaverse) | N/A |
-| 10 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 11 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
-| 12 | [Поддерживаю](http://twitter.com/search?q=%d0%9f%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d0%b2%d0%b0%d1%8e) | N/A |
-| 13 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
-| 14 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
-| 15 | [Даааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
-| 16 | [НЕ МОГУ](http://twitter.com/search?q=%d0%9d%d0%95+%d0%9c%d0%9e%d0%93%d0%a3) | N/A |
-| 17 | [хехе](http://twitter.com/search?q=%d1%85%d0%b5%d1%85%d0%b5) | N/A |
-| 18 | [минхо](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%85%d0%be) | N/A |
-| 19 | [поэтому](http://twitter.com/search?q=%d0%bf%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
-| 20 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
-| 21 | [Польшу](http://twitter.com/search?q=%d0%9f%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
+| 7 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 8 | [#Metaverse](http://twitter.com/search?q=%23Metaverse) | N/A |
+| 9 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 10 | [Наверное](http://twitter.com/search?q=%d0%9d%d0%b0%d0%b2%d0%b5%d1%80%d0%bd%d0%be%d0%b5) | N/A |
+| 11 | [Калі](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bb%d1%96) | N/A |
+| 12 | [Твиттер](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b8%d1%82%d1%82%d0%b5%d1%80) | N/A |
+| 13 | [поддерживаю](http://twitter.com/search?q=%d0%bf%d0%be%d0%b4%d0%b4%d0%b5%d1%80%d0%b6%d0%b8%d0%b2%d0%b0%d1%8e) | N/A |
+| 14 | [Видимо](http://twitter.com/search?q=%d0%92%d0%b8%d0%b4%d0%b8%d0%bc%d0%be) | N/A |
+| 15 | [#Crypto](http://twitter.com/search?q=%23Crypto) | N/A |
+| 16 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
+| 17 | [Даааа](http://twitter.com/search?q=%d0%94%d0%b0%d0%b0%d0%b0%d0%b0) | N/A |
+| 18 | [НЕ МОГУ](http://twitter.com/search?q=%d0%9d%d0%95+%d0%9c%d0%9e%d0%93%d0%a3) | N/A |
+| 19 | [хехе](http://twitter.com/search?q=%d1%85%d0%b5%d1%85%d0%b5) | N/A |
+| 20 | [минхо](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%85%d0%be) | N/A |
+| 21 | [поэтому](http://twitter.com/search?q=%d0%bf%d0%be%d1%8d%d1%82%d0%be%d0%bc%d1%83) | N/A |
+| 22 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
+| 23 | [польшу](http://twitter.com/search?q=%d0%bf%d0%be%d0%bb%d1%8c%d1%88%d1%83) | N/A |
 
 
 

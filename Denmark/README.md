@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-22 05:16:54 UTC`
+📆 Last Updated: `2023-02-22 06:17:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Denmark
 | 3 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 5 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 6 | [claus hjort](http://twitter.com/search?q=claus+hjort) | N/A |
-| 7 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 8 | [#vfffcm](http://twitter.com/search?q=%23vfffcm) | N/A |
+| 6 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 7 | [#vfffcm](http://twitter.com/search?q=%23vfffcm) | N/A |
+| 8 | [Claus Hjort](http://twitter.com/search?q=Claus+Hjort) | N/A |
 | 9 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 10 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
 | 11 | [#eudk](http://twitter.com/search?q=%23eudk) | N/A |
 | 12 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 13 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 14 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 15 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
-| 16 | [nye borgerlige](http://twitter.com/search?q=nye+borgerlige) | N/A |
+| 14 | [Kyiv](http://twitter.com/search?q=Kyiv) | N/A |
+| 15 | [nye borgerlige](http://twitter.com/search?q=nye+borgerlige) | N/A |
+| 16 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 | 17 | [isaksen](http://twitter.com/search?q=isaksen) | N/A |
 | 18 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 19 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
-| 20 | [Onside](http://twitter.com/search?q=Onside) | N/A |
-| 21 | [villie](http://twitter.com/search?q=villie) | N/A |
-| 22 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 23 | [horsens](http://twitter.com/search?q=horsens) | N/A |
-| 24 | [Viborg](http://twitter.com/search?q=Viborg) | N/A |
-| 25 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 26 | [vallys](http://twitter.com/search?q=vallys) | N/A |
-| 27 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 28 | [viasat](http://twitter.com/search?q=viasat) | N/A |
-| 29 | [Sending](http://twitter.com/search?q=Sending) | N/A |
-| 30 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
-| 31 | [parken](http://twitter.com/search?q=parken) | N/A |
-| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 33 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
-| 34 | [genialt](http://twitter.com/search?q=genialt) | N/A |
-| 35 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 36 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 37 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
-| 38 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
-| 39 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
-| 40 | [Klimarådet](http://twitter.com/search?q=Klimar%c3%a5det) | N/A |
-| 41 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
-| 42 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 43 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 44 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 45 | [Emil](http://twitter.com/search?q=Emil) | N/A |
-| 46 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 47 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 48 | [staten](http://twitter.com/search?q=staten) | N/A |
-| 49 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 50 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 20 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 22 | [onside](http://twitter.com/search?q=onside) | N/A |
+| 23 | [villie](http://twitter.com/search?q=villie) | N/A |
+| 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
+| 25 | [horsens](http://twitter.com/search?q=horsens) | N/A |
+| 26 | [viborg](http://twitter.com/search?q=viborg) | N/A |
+| 27 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 28 | [vallys](http://twitter.com/search?q=vallys) | N/A |
+| 29 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 31 | [viasat](http://twitter.com/search?q=viasat) | N/A |
+| 32 | [Sending](http://twitter.com/search?q=Sending) | N/A |
+| 33 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
+| 34 | [parken](http://twitter.com/search?q=parken) | N/A |
+| 35 | [Charlie](http://twitter.com/search?q=Charlie) | N/A |
+| 36 | [genialt](http://twitter.com/search?q=genialt) | N/A |
+| 37 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
+| 38 | [Brøndby](http://twitter.com/search?q=Br%c3%b8ndby) | N/A |
+| 39 | [America](http://twitter.com/search?q=America) | N/A |
+| 40 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 41 | [Arteta](http://twitter.com/search?q=Arteta) | Arteta is a Spanish surname. It is derived from the Basque word "arte", meaning "stone". In English, it can be translated to mean "stone-worker". |
+| 42 | [Denmark](http://twitter.com/search?q=Denmark) | N/A |
+| 43 | [jesper sørensen](http://twitter.com/search?q=jesper+s%c3%b8rensen) | N/A |
+| 44 | [Klimarådet](http://twitter.com/search?q=Klimar%c3%a5det) | N/A |
+| 45 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 46 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 47 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 48 | [Emil](http://twitter.com/search?q=Emil) | N/A |
+| 49 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 50 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-02-22 05:17:01 UTC`
+📆 Last Updated: `2023-02-22 06:17:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#猫の日](http://twitter.com/search?q=%23%e7%8c%ab%e3%81%ae%e6%97%a5) | N/A |
-| 2 | [笑瓶さん](http://twitter.com/search?q=%e7%ac%91%e7%93%b6%e3%81%95%e3%82%93) | N/A |
-| 3 | [#ねこの日](http://twitter.com/search?q=%23%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
-| 4 | [スポーツ報知](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e5%a0%b1%e7%9f%a5) | N/A |
+| 2 | [#ねこの日](http://twitter.com/search?q=%23%e3%81%ad%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
+| 3 | [笑瓶さん](http://twitter.com/search?q=%e7%ac%91%e7%93%b6%e3%81%95%e3%82%93) | N/A |
+| 4 | [急性大動脈解離](http://twitter.com/search?q=%e6%80%a5%e6%80%a7%e5%a4%a7%e5%8b%95%e8%84%88%e8%a7%a3%e9%9b%a2) | N/A |
 | 5 | [#あなたの猫度診断](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%ae%e7%8c%ab%e5%ba%a6%e8%a8%ba%e6%96%ad) | N/A |
-| 6 | [#ミリシタ](http://twitter.com/search?q=%23%e3%83%9f%e3%83%aa%e3%82%b7%e3%82%bf) | N/A |
+| 6 | [スポーツ報知](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%bc%e3%83%84%e5%a0%b1%e7%9f%a5) | N/A |
 | 7 | [ショウヘイヘーイ](http://twitter.com/search?q=%e3%82%b7%e3%83%a7%e3%82%a6%e3%83%98%e3%82%a4%e3%83%98%e3%83%bc%e3%82%a4) | N/A |
 | 8 | [#にゃんにゃんにゃんの日](http://twitter.com/search?q=%23%e3%81%ab%e3%82%83%e3%82%93%e3%81%ab%e3%82%83%e3%82%93%e3%81%ab%e3%82%83%e3%82%93%e3%81%ae%e6%97%a5) | N/A |
-| 9 | [ヨントン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%88%e3%83%b3) | ヨントン (Yonton) is a Japanese word that means "four-leaf clover". It is believed to bring good luck and fortune. |
-| 10 | [急性大動脈解離](http://twitter.com/search?q=%e6%80%a5%e6%80%a7%e5%a4%a7%e5%8b%95%e8%84%88%e8%a7%a3%e9%9b%a2) | N/A |
-| 11 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
-| 12 | [しょうへい](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%86%e3%81%b8%e3%81%84) | N/A |
-| 13 | [ネコの日](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%81%ae%e6%97%a5) | N/A |
-| 14 | [猫っぷり](http://twitter.com/search?q=%e7%8c%ab%e3%81%a3%e3%81%b7%e3%82%8a) | N/A |
-| 15 | [生粋の猫](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e7%8c%ab) | N/A |
-| 16 | [猫度80](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a680) | N/A |
-| 17 | [猫度100](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a6100) | N/A |
-| 18 | [本物のネコちゃん](http://twitter.com/search?q=%e6%9c%ac%e7%89%a9%e3%81%ae%e3%83%8d%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 19 | [笑瓶ちゃん](http://twitter.com/search?q=%e7%ac%91%e7%93%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 9 | [#ミリシタ](http://twitter.com/search?q=%23%e3%83%9f%e3%83%aa%e3%82%b7%e3%82%bf) | N/A |
+| 10 | [ヨントン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%88%e3%83%b3) | ヨントン (Yonton) is a Japanese word that means "four-leaf clover". It is believed to bring good luck and fortune. |
+| 11 | [生粋の猫](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e7%8c%ab) | N/A |
+| 12 | [猫っぷり](http://twitter.com/search?q=%e7%8c%ab%e3%81%a3%e3%81%b7%e3%82%8a) | N/A |
+| 13 | [猫度80](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a680) | N/A |
+| 14 | [しょうへい](http://twitter.com/search?q=%e3%81%97%e3%82%87%e3%81%86%e3%81%b8%e3%81%84) | N/A |
+| 15 | [猫度100](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a6100) | N/A |
+| 16 | [本物のネコちゃん](http://twitter.com/search?q=%e6%9c%ac%e7%89%a9%e3%81%ae%e3%83%8d%e3%82%b3%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 17 | [チャンミ](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%9f) | チャンミ is a Japanese term that means "half-hearted" or "lacking enthusiasm". It is often used to describe someone who is not giving their full effort or attention to something. |
+| 18 | [笑瓶ちゃん](http://twitter.com/search?q=%e7%ac%91%e7%93%b6%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 19 | [ネコの日](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%81%ae%e6%97%a5) | N/A |
 | 20 | [鶴瓶さん](http://twitter.com/search?q=%e9%b6%b4%e7%93%b6%e3%81%95%e3%82%93) | N/A |
-| 21 | [アクエリアス杯](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%a8%e3%83%aa%e3%82%a2%e3%82%b9%e6%9d%af) | アクエリアス杯 (Aquarius Cup) is an annual tournament held in Japan for the game of Aquarius, a card game similar to Uno. The tournament is organized by the Aquarius Association of Japan and has been held since 1998. The tournament is open to all players regardless of age or experience level. The winner of the tournament receives a trophy and prize money. |
-| 22 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 23 | [ニャンコニャンコリ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%83%aa) | N/A |
-| 24 | [ニャンニャンッ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%83) | N/A |
-| 25 | [猫度50](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a650) | N/A |
-| 26 | [猫系女子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e5%a5%b3%e5%ad%90) | N/A |
-| 27 | [猫系男子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e7%94%b7%e5%ad%90) | N/A |
-| 28 | [噂の東京マガジン](http://twitter.com/search?q=%e5%99%82%e3%81%ae%e6%9d%b1%e4%ba%ac%e3%83%9e%e3%82%ac%e3%82%b8%e3%83%b3) | N/A |
-| 29 | [PSVR2](http://twitter.com/search?q=PSVR2) | PSVR2 is an abbreviation for PlayStation Virtual Reality 2, which is the second generation of Sony's virtual reality headset for the PlayStation gaming console. It is designed to provide an immersive gaming experience with improved visuals, audio, and tracking technology. |
-| 30 | [デジたん](http://twitter.com/search?q=%e3%83%87%e3%82%b8%e3%81%9f%e3%82%93) | N/A |
-| 31 | [とりあいボイス](http://twitter.com/search?q=%e3%81%a8%e3%82%8a%e3%81%82%e3%81%84%e3%83%9c%e3%82%a4%e3%82%b9) | N/A |
-| 32 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
-| 33 | [ファッション猫](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3%e7%8c%ab) | N/A |
-| 34 | [ヒルナンデス](http://twitter.com/search?q=%e3%83%92%e3%83%ab%e3%83%8a%e3%83%b3%e3%83%87%e3%82%b9) | N/A |
-| 35 | [猫の風上](http://twitter.com/search?q=%e7%8c%ab%e3%81%ae%e9%a2%a8%e4%b8%8a) | N/A |
-| 36 | [猫度20](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a620) | N/A |
-| 37 | [ネコチャン](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
-| 38 | [オンライン通話](http://twitter.com/search?q=%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e9%80%9a%e8%a9%b1) | N/A |
-| 39 | [アルカプ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%ab%e3%83%97) | N/A |
-| 40 | [ファル子](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%ab%e5%ad%90) | N/A |
-| 41 | [沙莉ちゃん](http://twitter.com/search?q=%e6%b2%99%e8%8e%89%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 42 | [マキマさん](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%95%e3%82%93) | マキマさん is a character from the Japanese manga series, Kochikame. The character's name is Makima, and she is a police officer who works in the Ryōgoku Police Station. In English, her name can be translated to "Officer Makima". |
-| 43 | [忍者の日](http://twitter.com/search?q=%e5%bf%8d%e8%80%85%e3%81%ae%e6%97%a5) | N/A |
-| 44 | [にゃんこの日](http://twitter.com/search?q=%e3%81%ab%e3%82%83%e3%82%93%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
-| 45 | [リッキー](http://twitter.com/search?q=%e3%83%aa%e3%83%83%e3%82%ad%e3%83%bc) | リッキー (Rikki) is a Japanese given name, usually used for boys. It is derived from the English name Ricky and can be translated to mean "powerful ruler". |
-| 46 | [Bグループ](http://twitter.com/search?q=B%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97) | Bグループ is a term used in Japan to refer to a group of people who are considered to be the most successful and influential in their respective fields. It is often used to refer to business leaders, politicians, celebrities, and other high-profile individuals. In English, it could be translated as "Group B" or "The Elite Group". |
-| 47 | [ダイパリメイク](http://twitter.com/search?q=%e3%83%80%e3%82%a4%e3%83%91%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af) | N/A |
-| 48 | [竹島の日](http://twitter.com/search?q=%e7%ab%b9%e5%b3%b6%e3%81%ae%e6%97%a5) | N/A |
-| 49 | [ガバチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%90%e3%83%81%e3%83%a7) | N/A |
-| 50 | [タルマエ](http://twitter.com/search?q=%e3%82%bf%e3%83%ab%e3%83%9e%e3%82%a8) | タルマエ is a Japanese word that means "tremble" or "shiver". It is often used to describe the feeling of fear or anxiety. |
+| 21 | [猫ちゃん](http://twitter.com/search?q=%e7%8c%ab%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 22 | [猫度50](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a650) | N/A |
+| 23 | [猫系女子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e5%a5%b3%e5%ad%90) | N/A |
+| 24 | [猫系男子](http://twitter.com/search?q=%e7%8c%ab%e7%b3%bb%e7%94%b7%e5%ad%90) | N/A |
+| 25 | [曜の謎解き成功](http://twitter.com/search?q=%e6%9b%9c%e3%81%ae%e8%ac%8e%e8%a7%a3%e3%81%8d%e6%88%90%e5%8a%9f) | N/A |
+| 26 | [噂の東京マガジン](http://twitter.com/search?q=%e5%99%82%e3%81%ae%e6%9d%b1%e4%ba%ac%e3%83%9e%e3%82%ac%e3%82%b8%e3%83%b3) | N/A |
+| 27 | [PSVR2](http://twitter.com/search?q=PSVR2) | PSVR2 is an abbreviation for PlayStation Virtual Reality 2, which is the second generation of Sony's virtual reality headset for the PlayStation gaming console. It is designed to provide an immersive gaming experience with improved visuals, audio, and tracking technology. |
+| 28 | [アクエリアス杯](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%a8%e3%83%aa%e3%82%a2%e3%82%b9%e6%9d%af) | アクエリアス杯 (Aquarius Cup) is an annual tournament held in Japan for the game of Aquarius, a card game similar to Uno. The tournament is organized by the Aquarius Association of Japan and has been held since 1998. The tournament is open to all players regardless of age or experience level. The winner of the tournament receives a trophy and prize money. |
+| 29 | [猫の風上](http://twitter.com/search?q=%e7%8c%ab%e3%81%ae%e9%a2%a8%e4%b8%8a) | N/A |
+| 30 | [よしこちゃん](http://twitter.com/search?q=%e3%82%88%e3%81%97%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 31 | [ファッション猫](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3%e7%8c%ab) | N/A |
+| 32 | [猫度20](http://twitter.com/search?q=%e7%8c%ab%e5%ba%a620) | N/A |
+| 33 | [ニャンコニャンコリ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%82%b3%e3%83%aa) | N/A |
+| 34 | [ニャンニャンッ](http://twitter.com/search?q=%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%8b%e3%83%a3%e3%83%b3%e3%83%83) | N/A |
+| 35 | [みくにゃん](http://twitter.com/search?q=%e3%81%bf%e3%81%8f%e3%81%ab%e3%82%83%e3%82%93) | N/A |
+| 36 | [とりあいボイス](http://twitter.com/search?q=%e3%81%a8%e3%82%8a%e3%81%82%e3%81%84%e3%83%9c%e3%82%a4%e3%82%b9) | N/A |
+| 37 | [デジたん](http://twitter.com/search?q=%e3%83%87%e3%82%b8%e3%81%9f%e3%82%93) | N/A |
+| 38 | [刀猫男士](http://twitter.com/search?q=%e5%88%80%e7%8c%ab%e7%94%b7%e5%a3%ab) | N/A |
+| 39 | [ネコチャン](http://twitter.com/search?q=%e3%83%8d%e3%82%b3%e3%83%81%e3%83%a3%e3%83%b3) | N/A |
+| 40 | [ウィッキーさん](http://twitter.com/search?q=%e3%82%a6%e3%82%a3%e3%83%83%e3%82%ad%e3%83%bc%e3%81%95%e3%82%93) | N/A |
+| 41 | [ルーン規制](http://twitter.com/search?q=%e3%83%ab%e3%83%bc%e3%83%b3%e8%a6%8f%e5%88%b6) | N/A |
+| 42 | [星野源P](http://twitter.com/search?q=%e6%98%9f%e9%87%8e%e6%ba%90P) | N/A |
+| 43 | [鶴瓶師匠](http://twitter.com/search?q=%e9%b6%b4%e7%93%b6%e5%b8%ab%e5%8c%a0) | N/A |
+| 44 | [フューデス](http://twitter.com/search?q=%e3%83%95%e3%83%a5%e3%83%bc%e3%83%87%e3%82%b9) | N/A |
+| 45 | [ガバチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%90%e3%83%81%e3%83%a7) | N/A |
+| 46 | [ファル子](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%ab%e5%ad%90) | N/A |
+| 47 | [にゃんこの日](http://twitter.com/search?q=%e3%81%ab%e3%82%83%e3%82%93%e3%81%93%e3%81%ae%e6%97%a5) | N/A |
+| 48 | [あと半日](http://twitter.com/search?q=%e3%81%82%e3%81%a8%e5%8d%8a%e6%97%a5) | あと半日 is a Japanese phrase that translates to "half a day left" in English. It is used to express that there is only a short amount of time remaining before something is due or finished. |
+| 49 | [アルカプ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%82%ab%e3%83%97) | N/A |
+| 50 | [マキマさん](http://twitter.com/search?q=%e3%83%9e%e3%82%ad%e3%83%9e%e3%81%95%e3%82%93) | マキマさん is a character from the Japanese manga series, Kochikame. The character's name is Makima, and she is a police officer who works in the Ryōgoku Police Station. In English, her name can be translated to "Officer Makima". |
 
 
 

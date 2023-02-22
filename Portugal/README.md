@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-02-22 05:16:58 UTC`
+📆 Last Updated: `2023-02-22 06:17:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,27 +23,27 @@ This is top 50 for Portugal
 | 6 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
 | 7 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 8 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 9 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
-| 10 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
-| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 12 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 13 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 14 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
-| 15 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 16 | [#bercomliberty](http://twitter.com/search?q=%23bercomliberty) | N/A |
+| 9 | [Gilberto](http://twitter.com/search?q=Gilberto) | Gilberto is a Spanish and Portuguese masculine given name. It is derived from the Germanic elements gisil, meaning "pledge" or "hostage", and berht, meaning "bright" or "famous". In English, it can be translated to mean "bright pledge". |
+| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 11 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 12 | [Flamengo](http://twitter.com/search?q=Flamengo) | Flamengo is a Brazilian sports club based in Rio de Janeiro. The club is best known for its professional football team, which plays in the Campeonato Brasileiro Série A, the top tier of the Brazilian football league system. The word Flamengo is derived from the Portuguese word for "flamingo," a type of bird. In English, it can be translated to mean "flamingo." |
+| 13 | [Carnaval](http://twitter.com/search?q=Carnaval) | N/A |
+| 14 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 15 | [#bercomliberty](http://twitter.com/search?q=%23bercomliberty) | N/A |
+| 16 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
 | 17 | [Boavista](http://twitter.com/search?q=Boavista) | N/A |
-| 18 | [Patrício](http://twitter.com/search?q=Patr%c3%adcio) | N/A |
-| 19 | [Alfa Semedo](http://twitter.com/search?q=Alfa+Semedo) | N/A |
-| 20 | [Chermiti](http://twitter.com/search?q=Chermiti) | N/A |
+| 18 | [Alfa Semedo](http://twitter.com/search?q=Alfa+Semedo) | N/A |
+| 19 | [Chermiti](http://twitter.com/search?q=Chermiti) | N/A |
+| 20 | [Patrício](http://twitter.com/search?q=Patr%c3%adcio) | N/A |
 | 21 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
 | 22 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 23 | [Nápoles](http://twitter.com/search?q=N%c3%a1poles) | N/A |
 | 24 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 25 | [Cristian](http://twitter.com/search?q=Cristian) | Cristian is a variant spelling of the name Christian, which is derived from the Latin word christianus, meaning “follower of Christ”. It is a masculine given name and a surname. |
-| 26 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 27 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 28 | [Adan](http://twitter.com/search?q=Adan) | N/A |
-| 29 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
+| 26 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 27 | [Adan](http://twitter.com/search?q=Adan) | N/A |
+| 28 | [Chaves](http://twitter.com/search?q=Chaves) | N/A |
+| 29 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
 | 30 | [Moreirense](http://twitter.com/search?q=Moreirense) | N/A |
 | 31 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
 | 32 | [Militão](http://twitter.com/search?q=Milit%c3%a3o) | N/A |
@@ -54,7 +54,7 @@ This is top 50 for Portugal
 | 37 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
 | 38 | [#slbbfc](http://twitter.com/search?q=%23slbbfc) | N/A |
 | 39 | [Musa](http://twitter.com/search?q=Musa) | N/A |
-| 40 | [trincão](http://twitter.com/search?q=trinc%c3%a3o) | N/A |
+| 40 | [Trincão](http://twitter.com/search?q=Trinc%c3%a3o) | Trincão is a Portuguese slang term that means "little troublemaker". It is often used to describe someone who is mischievous or causes trouble. |
 | 41 | [Paulinho](http://twitter.com/search?q=Paulinho) | Paulinho is a Portuguese nickname for Paulo, which is the Portuguese form of the name Paul. In English, it means "little Paul". |
 | 42 | [joão neves](http://twitter.com/search?q=jo%c3%a3o+neves) | N/A |
 | 43 | [Frankfurt](http://twitter.com/search?q=Frankfurt) | N/A |

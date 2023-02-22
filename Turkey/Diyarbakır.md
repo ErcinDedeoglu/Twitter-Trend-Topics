@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Diyarbakır
 
-📆 Last Updated: `2023-02-22 05:16:42 UTC`
+📆 Last Updated: `2023-02-22 06:17:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [FurkanÇolak Osurdu](http://twitter.com/search?q=Furkan%c3%87olak+Osurdu) | N/A |
-| 2 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
+| 1 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
+| 2 | [FurkanÇolak Osurdu](http://twitter.com/search?q=Furkan%c3%87olak+Osurdu) | N/A |
 | 3 | [#İstifaEt](http://twitter.com/search?q=%23%c4%b0stifaEt) | N/A |
 | 4 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 5 | [#Çarşamba](http://twitter.com/search?q=%23%c3%87ar%c5%9famba) | N/A |
-| 6 | [#TekeTek](http://twitter.com/search?q=%23TekeTek) | N/A |
+| 6 | [#cokusdonemi](http://twitter.com/search?q=%23cokusdonemi) | N/A |
 | 7 | [ekşi nihayet kapatıldı](http://twitter.com/search?q=ek%c5%9fi+nihayet+kapat%c4%b1ld%c4%b1) | N/A |
 | 8 | [polatla antepteyiz](http://twitter.com/search?q=polatla+antepteyiz) | N/A |
-| 9 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 10 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
+| 9 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
+| 10 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
 | 11 | [aslınınsıcak](http://twitter.com/search?q=asl%c4%b1n%c4%b1ns%c4%b1cak) | N/A |
 | 12 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
 | 13 | [Hacer Çınar](http://twitter.com/search?q=Hacer+%c3%87%c4%b1nar) | N/A |
 | 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 15 | [geçmişin i̇lacıaf](http://twitter.com/search?q=ge%c3%a7mi%c5%9fin+i%cc%87lac%c4%b1af) | N/A |
 | 16 | [Farah Zeynep Abdullah](http://twitter.com/search?q=Farah+Zeynep+Abdullah) | N/A |
-| 17 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 18 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 19 | [bu vebal sizin](http://twitter.com/search?q=bu+vebal+sizin) | N/A |
-| 20 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 21 | [Yürü Bay Kemal](http://twitter.com/search?q=Y%c3%bcr%c3%bc+Bay+Kemal) | N/A |
+| 17 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 18 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 19 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 20 | [bu vebal sizin](http://twitter.com/search?q=bu+vebal+sizin) | N/A |
+| 21 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 22 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
-| 23 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
-| 24 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
-| 25 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 26 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 27 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 28 | [SesimiDuyan VarMı](http://twitter.com/search?q=SesimiDuyan+VarM%c4%b1) | N/A |
-| 29 | [Vali](http://twitter.com/search?q=Vali) | N/A |
-| 30 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
-| 31 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 23 | [Yürü Bay Kemal](http://twitter.com/search?q=Y%c3%bcr%c3%bc+Bay+Kemal) | N/A |
+| 24 | [Kasımpaşa](http://twitter.com/search?q=Kas%c4%b1mpa%c5%9fa) | Kasımpaşa is a neighborhood in Istanbul, Turkey. It is located on the European side of the city, on the shores of the Sea of Marmara. The name Kasımpaşa comes from the Ottoman era and means "the place of the butcher". |
+| 25 | [biliniyo](http://twitter.com/search?q=biliniyo) | N/A |
+| 26 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 27 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 28 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
+| 29 | [SesimiDuyan VarMı](http://twitter.com/search?q=SesimiDuyan+VarM%c4%b1) | N/A |
+| 30 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
+| 31 | [Vali](http://twitter.com/search?q=Vali) | N/A |
 | 32 | [Allah'ım](http://twitter.com/search?q=Allah%27%c4%b1m) | Allah'ım is an expression used in Turkish to express a prayer or supplication to God. It translates to "Oh God" in English. |
 | 33 | [Cesaret](http://twitter.com/search?q=Cesaret) | N/A |
-| 34 | [primci ferideözdinç](http://twitter.com/search?q=primci+feride%c3%b6zdin%c3%a7) | N/A |
-| 35 | [Karma DerKi](http://twitter.com/search?q=Karma+DerKi) | N/A |
-| 36 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 37 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 34 | [Fatih Altaylı](http://twitter.com/search?q=Fatih+Altayl%c4%b1) | N/A |
+| 35 | [Dünya Savaşı](http://twitter.com/search?q=D%c3%bcnya+Sava%c5%9f%c4%b1) | N/A |
+| 36 | [primci ferideözdinç](http://twitter.com/search?q=primci+feride%c3%b6zdin%c3%a7) | N/A |
+| 37 | [Karma DerKi](http://twitter.com/search?q=Karma+DerKi) | N/A |
 | 38 | [Değildir](http://twitter.com/search?q=De%c4%9fildir) | N/A |
-| 39 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
-| 40 | [Reis](http://twitter.com/search?q=Reis) | N/A |
-| 41 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
-| 42 | [KÖR VE NANKÖRSÜNÜZ](http://twitter.com/search?q=K%c3%96R+VE+NANK%c3%96RS%c3%9cN%c3%9cZ) | N/A |
-| 43 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
-| 44 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
-| 45 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
-| 46 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
-| 47 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 48 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 49 | [Selamün Aleyküm](http://twitter.com/search?q=Selam%c3%bcn+Aleyk%c3%bcm) | N/A |
+| 39 | [Reis](http://twitter.com/search?q=Reis) | N/A |
+| 40 | [Halil](http://twitter.com/search?q=Halil) | Halil is a Turkish name meaning "friend" or "companion". It is also used as a surname. |
+| 41 | [Aleyküm](http://twitter.com/search?q=Aleyk%c3%bcm) | N/A |
+| 42 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 43 | [Adana](http://twitter.com/search?q=Adana) | N/A |
+| 44 | [Karius](http://twitter.com/search?q=Karius) | Karius is a company that specializes in the development of non-invasive tests for infectious diseases. The name is derived from the Greek word “karios”, which means “disease”. Karius provides a comprehensive suite of tests that can detect and identify pathogens from a single blood sample. These tests are designed to provide rapid, accurate results to help clinicians diagnose and treat infectious diseases quickly and effectively. |
+| 45 | [KÖR VE NANKÖRSÜNÜZ](http://twitter.com/search?q=K%c3%96R+VE+NANK%c3%96RS%c3%9cN%c3%9cZ) | N/A |
+| 46 | [Osman Gökçek](http://twitter.com/search?q=Osman+G%c3%b6k%c3%a7ek) | N/A |
+| 47 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
+| 48 | [Şubat](http://twitter.com/search?q=%c5%9eubat) | N/A |
+| 49 | [İzmir](http://twitter.com/search?q=%c4%b0zmir) | N/A |
 
 
 
