@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kraków
 
-📆 Last Updated: `2023-02-23 11:16:05 UTC`
+📆 Last Updated: `2023-02-23 12:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Poland](</Poland>)
 | ------- | ------------ | ------------ |
 | 1 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
 | 2 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 3 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 4 | [Depresją](http://twitter.com/search?q=Depresj%c4%85) | N/A |
-| 5 | [#winterflowerjbh](http://twitter.com/search?q=%23winterflowerjbh) | N/A |
-| 6 | [#plandnia](http://twitter.com/search?q=%23plandnia) | N/A |
-| 7 | [Kaczyński](http://twitter.com/search?q=Kaczy%c5%84ski) | N/A |
-| 8 | [Klich](http://twitter.com/search?q=Klich) | Klich is a Yiddish word that means gossip or rumor. It is often used to describe idle chatter or gossiping about someone or something. |
-| 9 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
-| 10 | [borsuka](http://twitter.com/search?q=borsuka) | N/A |
-| 11 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 12 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
-| 13 | [Ogólnopolski Dzień Walki](http://twitter.com/search?q=Og%c3%b3lnopolski+Dzie%c5%84+Walki) | N/A |
-| 14 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
-| 15 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 16 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
+| 3 | [depresją](http://twitter.com/search?q=depresj%c4%85) | N/A |
+| 4 | [#TuJestPrzyszłość](http://twitter.com/search?q=%23TuJestPrzysz%c5%82o%c5%9b%c4%87) | N/A |
+| 5 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 6 | [Kaczyński](http://twitter.com/search?q=Kaczy%c5%84ski) | N/A |
+| 7 | [#winterflowerjbh](http://twitter.com/search?q=%23winterflowerjbh) | N/A |
+| 8 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
+| 9 | [Klich](http://twitter.com/search?q=Klich) | Klich is a Yiddish word that means gossip or rumor. It is often used to describe idle chatter or gossiping about someone or something. |
+| 10 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 11 | [Ogólnopolski Dzień Walki](http://twitter.com/search?q=Og%c3%b3lnopolski+Dzie%c5%84+Walki) | N/A |
+| 12 | [Borsuka](http://twitter.com/search?q=Borsuka) | N/A |
+| 13 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
+| 14 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 15 | [Ochotniczych Straży Pożarnych](http://twitter.com/search?q=Ochotniczych+Stra%c5%bcy+Po%c5%bcarnych) | N/A |
+| 16 | [Mia Khalifa](http://twitter.com/search?q=Mia+Khalifa) | N/A |
 | 17 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 18 | [Duda](http://twitter.com/search?q=Duda) | N/A |
-| 19 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 20 | [Mia Khalifa](http://twitter.com/search?q=Mia+Khalifa) | N/A |
-| 21 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
-| 22 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
-| 23 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
-| 24 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 25 | [Udanego](http://twitter.com/search?q=Udanego) | N/A |
-| 26 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
-| 27 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 28 | [Grodzki](http://twitter.com/search?q=Grodzki) | N/A |
-| 29 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
-| 30 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
-| 31 | [Orlenu](http://twitter.com/search?q=Orlenu) | N/A |
-| 32 | [Taką](http://twitter.com/search?q=Tak%c4%85) | N/A |
-| 33 | [Mroczek](http://twitter.com/search?q=Mroczek) | N/A |
-| 34 | [Przepiękna](http://twitter.com/search?q=Przepi%c4%99kna) | N/A |
-| 35 | [Naddniestrza](http://twitter.com/search?q=Naddniestrza) | N/A |
-| 36 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 37 | [Wielkiego Postu](http://twitter.com/search?q=Wielkiego+Postu) | N/A |
-| 38 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 39 | [Staszewskiego](http://twitter.com/search?q=Staszewskiego) | N/A |
-| 40 | [karolina pliskova](http://twitter.com/search?q=karolina+pliskova) | N/A |
-| 41 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
-| 42 | [Jakimowicz](http://twitter.com/search?q=Jakimowicz) | N/A |
-| 43 | [Kowal](http://twitter.com/search?q=Kowal) | N/A |
-| 44 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
-| 45 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 46 | [FA-50](http://twitter.com/search?q=FA-50) | N/A |
-| 47 | [Znalezione](http://twitter.com/search?q=Znalezione) | N/A |
-| 48 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 49 | [piasecki](http://twitter.com/search?q=piasecki) | N/A |
-| 50 | [Prezydent USA](http://twitter.com/search?q=Prezydent+USA) | N/A |
+| 18 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
+| 19 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 20 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 21 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 22 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
+| 23 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 24 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
+| 25 | [Mołdawii](http://twitter.com/search?q=Mo%c5%82dawii) | N/A |
+| 26 | [Grodzki](http://twitter.com/search?q=Grodzki) | N/A |
+| 27 | [mroczek](http://twitter.com/search?q=mroczek) | N/A |
+| 28 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
+| 29 | [Czarnek](http://twitter.com/search?q=Czarnek) | N/A |
+| 30 | [Wielkiego Postu](http://twitter.com/search?q=Wielkiego+Postu) | N/A |
+| 31 | [Pani Magdo](http://twitter.com/search?q=Pani+Magdo) | N/A |
+| 32 | [Lech](http://twitter.com/search?q=Lech) | N/A |
+| 33 | [Naddniestrza](http://twitter.com/search?q=Naddniestrza) | N/A |
+| 34 | [Karolina Pliskova](http://twitter.com/search?q=Karolina+Pliskova) | N/A |
+| 35 | [Staszewskiego](http://twitter.com/search?q=Staszewskiego) | N/A |
+| 36 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
+| 37 | [Jakimowicz](http://twitter.com/search?q=Jakimowicz) | N/A |
+| 38 | [FA-50](http://twitter.com/search?q=FA-50) | N/A |
+| 39 | [Znalezione](http://twitter.com/search?q=Znalezione) | N/A |
+| 40 | [piasecki](http://twitter.com/search?q=piasecki) | N/A |
+| 41 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 42 | [Kowal](http://twitter.com/search?q=Kowal) | N/A |
+| 43 | [Prezydent USA](http://twitter.com/search?q=Prezydent+USA) | N/A |
+| 44 | [lipsk](http://twitter.com/search?q=lipsk) | N/A |
+| 45 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 46 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
+| 47 | [Kijowa](http://twitter.com/search?q=Kijowa) | N/A |
+| 48 | [Luft](http://twitter.com/search?q=Luft) | N/A |
+| 49 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 50 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
 
 
 

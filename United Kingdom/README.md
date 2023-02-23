@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For United Kingdom
 
-📆 Last Updated: `2023-02-23 11:16:58 UTC`
+📆 Last Updated: `2023-02-23 12:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for United Kingdom
 | ------- | ------------ | ------------ |
 | 1 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
 | 2 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 3 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 4 | [Barry Davies](http://twitter.com/search?q=Barry+Davies) | N/A |
-| 5 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 3 | [Barry Davies](http://twitter.com/search?q=Barry+Davies) | N/A |
+| 4 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 5 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
 | 6 | [Brian Moore](http://twitter.com/search?q=Brian+Moore) | N/A |
-| 7 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
-| 8 | [#ASongOrMovieForTheFloor](http://twitter.com/search?q=%23ASongOrMovieForTheFloor) | N/A |
+| 7 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 8 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
 | 9 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
-| 10 | [#domisstillabadman](http://twitter.com/search?q=%23domisstillabadman) | N/A |
-| 11 | [Ronnie Radford](http://twitter.com/search?q=Ronnie+Radford) | N/A |
-| 12 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 13 | [10 World Cups](http://twitter.com/search?q=10+World+Cups) | N/A |
-| 14 | [Murray Walker](http://twitter.com/search?q=Murray+Walker) | N/A |
-| 15 | [The Voice of Football](http://twitter.com/search?q=The+Voice+of+Football) | N/A |
-| 16 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 17 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 10 | [Murray Walker](http://twitter.com/search?q=Murray+Walker) | N/A |
+| 11 | [#domisstillabadman](http://twitter.com/search?q=%23domisstillabadman) | N/A |
+| 12 | [#ASongOrMovieForTheFloor](http://twitter.com/search?q=%23ASongOrMovieForTheFloor) | N/A |
+| 13 | [Ronnie Radford](http://twitter.com/search?q=Ronnie+Radford) | N/A |
+| 14 | [Paul Townsend](http://twitter.com/search?q=Paul+Townsend) | N/A |
+| 15 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 16 | [10 World Cups](http://twitter.com/search?q=10+World+Cups) | N/A |
+| 17 | [The Crazy Gang](http://twitter.com/search?q=The+Crazy+Gang) | N/A |
 | 18 | [John Caldwell](http://twitter.com/search?q=John+Caldwell) | N/A |
-| 19 | [Culture Club](http://twitter.com/search?q=Culture+Club) | N/A |
-| 20 | [Jason Arday](http://twitter.com/search?q=Jason+Arday) | N/A |
-| 21 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 22 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
-| 23 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
-| 24 | [David Sullivan](http://twitter.com/search?q=David+Sullivan) | N/A |
-| 25 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 26 | [Amol Rajan](http://twitter.com/search?q=Amol+Rajan) | N/A |
-| 27 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 28 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 29 | [jack letts](http://twitter.com/search?q=jack+letts) | N/A |
-| 30 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 31 | [Ari Lennox](http://twitter.com/search?q=Ari+Lennox) | N/A |
-| 32 | [Begum](http://twitter.com/search?q=Begum) | N/A |
-| 33 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 19 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 20 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 21 | [The Voice of Football](http://twitter.com/search?q=The+Voice+of+Football) | N/A |
+| 22 | [Ricky Villa](http://twitter.com/search?q=Ricky+Villa) | N/A |
+| 23 | [Culture Club](http://twitter.com/search?q=Culture+Club) | N/A |
+| 24 | [Jason Arday](http://twitter.com/search?q=Jason+Arday) | N/A |
+| 25 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
+| 26 | [David Sullivan](http://twitter.com/search?q=David+Sullivan) | N/A |
+| 27 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
+| 28 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 29 | [Amol Rajan](http://twitter.com/search?q=Amol+Rajan) | N/A |
+| 30 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 31 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
+| 32 | [Ari Lennox](http://twitter.com/search?q=Ari+Lennox) | N/A |
+| 33 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
 | 34 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 35 | [2nd March](http://twitter.com/search?q=2nd+March) | N/A |
-| 36 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 35 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 36 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 | 37 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
-| 38 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 39 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 40 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 41 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 42 | [Weather](http://twitter.com/search?q=Weather) | N/A |
-| 43 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
-| 44 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 45 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 46 | [At 15](http://twitter.com/search?q=At+15) | N/A |
-| 47 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 48 | [Race](http://twitter.com/search?q=Race) | N/A |
-| 49 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
-| 50 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 38 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 39 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 40 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 41 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 42 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 43 | [Sir Keir](http://twitter.com/search?q=Sir+Keir) | N/A |
+| 44 | [2nd March](http://twitter.com/search?q=2nd+March) | N/A |
+| 45 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 46 | [Weather](http://twitter.com/search?q=Weather) | N/A |
+| 47 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
+| 48 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 49 | [Race](http://twitter.com/search?q=Race) | N/A |
+| 50 | [#ITV7InItToWinIt](http://twitter.com/search?q=%23ITV7InItToWinIt) | N/A |
 
 
 

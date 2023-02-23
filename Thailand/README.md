@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-23 11:16:57 UTC`
+📆 Last Updated: `2023-02-23 12:18:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Thailand
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#เบิ้ลชาล็อตMVพี่ชาย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95MV%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%b2%e0%b8%a2) | N/A |
-| 2 | [#ที่อยู่ร้าน](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%99) | N/A |
-| 3 | [#มายอาโปมีSoloStage](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%ad%e0%b8%b2%e0%b9%82%e0%b8%9b%e0%b8%a1%e0%b8%b5SoloStage) | N/A |
-| 4 | [#เมาอยู่รังสิตHALONG](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a1%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%a3%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%b4%e0%b8%95HALONG) | N/A |
-| 5 | [#JENOatMFW](http://twitter.com/search?q=%23JENOatMFW) | N/A |
-| 6 | [JENO TO MILANO](http://twitter.com/search?q=JENO+TO+MILANO) | N/A |
-| 7 | [CHARLOTTE 2nd MV BROTHER](http://twitter.com/search?q=CHARLOTTE+2nd+MV+BROTHER) | N/A |
-| 8 | [mew in mv closer](http://twitter.com/search?q=mew+in+mv+closer) | N/A |
-| 9 | [bambam gm 23february](http://twitter.com/search?q=bambam+gm+23february) | N/A |
-| 10 | [Seeya TENLEE](http://twitter.com/search?q=Seeya+TENLEE) | N/A |
-| 11 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
-| 12 | [MILAN FASHION WEEK KANAWUT](http://twitter.com/search?q=MILAN+FASHION+WEEK+KANAWUT) | N/A |
-| 13 | [Hello 702](http://twitter.com/search?q=Hello+702) | N/A |
-| 14 | [PATRICK PATTAYA VLOG](http://twitter.com/search?q=PATRICK+PATTAYA+VLOG) | N/A |
-| 15 | [CHARLOTTE BE MY LOVE23](http://twitter.com/search?q=CHARLOTTE+BE+MY+LOVE23) | N/A |
-| 16 | [nene hot flight to china](http://twitter.com/search?q=nene+hot+flight+to+china) | N/A |
-| 17 | [SPECIAL DAY23 OF ENGFA](http://twitter.com/search?q=SPECIAL+DAY23+OF+ENGFA) | N/A |
-| 18 | [Tiffany x Win](http://twitter.com/search?q=Tiffany+x+Win) | N/A |
-| 19 | [morning 23 nnine](http://twitter.com/search?q=morning+23+nnine) | N/A |
-| 20 | [3 Girls](http://twitter.com/search?q=3+Girls) | N/A |
-| 21 | [23 morning dunk](http://twitter.com/search?q=23+morning+dunk) | N/A |
-| 22 | [Savage](http://twitter.com/search?q=Savage) | N/A |
-| 23 | [Official M](http://twitter.com/search?q=Official+M) | N/A |
-| 24 | [Video Teaser](http://twitter.com/search?q=Video+Teaser) | N/A |
-| 25 | [LOVE MODE](http://twitter.com/search?q=LOVE+MODE) | N/A |
-| 26 | [TrueID](http://twitter.com/search?q=TrueID) | N/A |
-| 27 | [Apple Watch](http://twitter.com/search?q=Apple+Watch) | N/A |
-| 28 | [#JENOatMFW](http://twitter.com/search?q=%23JENOatMFW) | N/A |
-| 29 | [#SMCUEp3_Girls](http://twitter.com/search?q=%23SMCUEp3_Girls) | N/A |
-| 30 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
-| 31 | [#StealTheShow](http://twitter.com/search?q=%23StealTheShow) | N/A |
-| 32 | [#UMGSeries](http://twitter.com/search?q=%23UMGSeries) | N/A |
-| 33 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
-| 34 | [#ฟอลกันเพื่อบอสอึล](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
-| 35 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 36 | [#WaterbombBKK2023](http://twitter.com/search?q=%23WaterbombBKK2023) | N/A |
-| 37 | [#KPWTGame](http://twitter.com/search?q=%23KPWTGame) | N/A |
-| 38 | [#BLACKPINK_WORLDTOUR](http://twitter.com/search?q=%23BLACKPINK_WORLDTOUR) | N/A |
-| 39 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
-| 40 | [#CutieLoveFanConcert](http://twitter.com/search?q=%23CutieLoveFanConcert) | #CutieLoveFanConcert is a hashtag used to promote a fan concert for the K-pop group CutieLove. The hashtag is used to encourage fans to attend the concert and show their support for the group. In English, it means "CutieLove Fan Concert". |
-| 41 | [#Happy29thEarthDay](http://twitter.com/search?q=%23Happy29thEarthDay) | N/A |
-| 42 | [#SHAUN](http://twitter.com/search?q=%23SHAUN) | N/A |
-| 43 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
-| 44 | [#SFxOffGun](http://twitter.com/search?q=%23SFxOffGun) | N/A |
-| 45 | [#MEENPINGinJPday2](http://twitter.com/search?q=%23MEENPINGinJPday2) | N/A |
-| 46 | [#เหล่ท่อหล่อเท่1M](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%97%e0%b9%88%e0%b8%ad%e0%b8%ab%e0%b8%a5%e0%b9%88%e0%b8%ad%e0%b9%80%e0%b8%97%e0%b9%881M) | N/A |
-| 47 | [#WishWIN24thHappyLive](http://twitter.com/search?q=%23WishWIN24thHappyLive) | N/A |
-| 48 | [#แถลงข่าวฟุตบอล53ปีช่อง3](http://twitter.com/search?q=%23%e0%b9%81%e0%b8%96%e0%b8%a5%e0%b8%87%e0%b8%82%e0%b9%88%e0%b8%b2%e0%b8%a7%e0%b8%9f%e0%b8%b8%e0%b8%95%e0%b8%9a%e0%b8%ad%e0%b8%a553%e0%b8%9b%e0%b8%b5%e0%b8%8a%e0%b9%88%e0%b8%ad%e0%b8%873) | N/A |
-| 49 | [#เดือนหน้าเจอกันนะเตนล์](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%94%e0%b8%b7%e0%b8%ad%e0%b8%99%e0%b8%ab%e0%b8%99%e0%b9%89%e0%b8%b2%e0%b9%80%e0%b8%88%e0%b8%ad%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%99%e0%b8%b0%e0%b9%80%e0%b8%95%e0%b8%99%e0%b8%a5%e0%b9%8c) | N/A |
-| 50 | [#TarbomxRajdheveeClinic](http://twitter.com/search?q=%23TarbomxRajdheveeClinic) | N/A |
+| 2 | [#MoonlightChickenEP6](http://twitter.com/search?q=%23MoonlightChickenEP6) | N/A |
+| 3 | [#PEPSIใจเปิดใจ_MV](http://twitter.com/search?q=%23PEPSI%e0%b9%83%e0%b8%88%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b9%83%e0%b8%88_MV) | N/A |
+| 4 | [#มายอาโปมีSoloStage](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%a2%e0%b8%ad%e0%b8%b2%e0%b9%82%e0%b8%9b%e0%b8%a1%e0%b8%b5SoloStage) | N/A |
+| 5 | [#เมาอยู่รังสิตHALONG](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%a1%e0%b8%b2%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%a3%e0%b8%b1%e0%b8%87%e0%b8%aa%e0%b8%b4%e0%b8%95HALONG) | N/A |
+| 6 | [CHARLOTTE 2nd MV BROTHER](http://twitter.com/search?q=CHARLOTTE+2nd+MV+BROTHER) | N/A |
+| 7 | [WATCH SMCU EP3 NOW](http://twitter.com/search?q=WATCH+SMCU+EP3+NOW) | N/A |
+| 8 | [Nene Hot Flight To China](http://twitter.com/search?q=Nene+Hot+Flight+To+China) | N/A |
+| 9 | [#BestfriendD333_with_Daldi](http://twitter.com/search?q=%23BestfriendD333_with_Daldi) | N/A |
+| 10 | [#친친333일과달디](http://twitter.com/search?q=%23%ec%b9%9c%ec%b9%9c333%ec%9d%bc%ea%b3%bc%eb%8b%ac%eb%94%94) | N/A |
+| 11 | [#PEPSIXPROXIEX4EVE](http://twitter.com/search?q=%23PEPSIXPROXIEX4EVE) | N/A |
+| 12 | [#SMCUEp3_Girls](http://twitter.com/search?q=%23SMCUEp3_Girls) | N/A |
+| 13 | [#เป๊ปซี่เปิดโหมดซ่าท้าร้อน](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9b%e0%b9%8a%e0%b8%9b%e0%b8%8b%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b9%82%e0%b8%ab%e0%b8%a1%e0%b8%94%e0%b8%8b%e0%b9%88%e0%b8%b2%e0%b8%97%e0%b9%89%e0%b8%b2%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%99) | N/A |
+| 14 | [#Flex1045xNetJamessu](http://twitter.com/search?q=%23Flex1045xNetJamessu) | N/A |
+| 15 | [#KPWTGame](http://twitter.com/search?q=%23KPWTGame) | N/A |
+| 16 | [#Flex1045xอย่าเล่นกับอนล](http://twitter.com/search?q=%23Flex1045x%e0%b8%ad%e0%b8%a2%e0%b9%88%e0%b8%b2%e0%b9%80%e0%b8%a5%e0%b9%88%e0%b8%99%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b8%ad%e0%b8%99%e0%b8%a5) | N/A |
+| 17 | [#FoureverYouproject](http://twitter.com/search?q=%23FoureverYouproject) | N/A |
+| 18 | [#AlphaบุกSiamDiscovery](http://twitter.com/search?q=%23Alpha%e0%b8%9a%e0%b8%b8%e0%b8%81SiamDiscovery) | N/A |
+| 19 | [#StealTheShow](http://twitter.com/search?q=%23StealTheShow) | N/A |
+| 20 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 21 | [#UMGSeries](http://twitter.com/search?q=%23UMGSeries) | N/A |
+| 22 | [#ที่อยู่ร้าน](http://twitter.com/search?q=%23%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%a3%e0%b9%89%e0%b8%b2%e0%b8%99) | N/A |
+| 23 | [#Fighting6thWin](http://twitter.com/search?q=%23Fighting6thWin) | N/A |
+| 24 | [#BAEKHO_2월의근황이_궁금해](http://twitter.com/search?q=%23BAEKHO_2%ec%9b%94%ec%9d%98%ea%b7%bc%ed%99%a9%ec%9d%b4_%ea%b6%81%ea%b8%88%ed%95%b4) | N/A |
+| 25 | [#SHAUN](http://twitter.com/search?q=%23SHAUN) | N/A |
+| 26 | [#พี่จักรมาแล้ว](http://twitter.com/search?q=%23%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%88%e0%b8%b1%e0%b8%81%e0%b8%a3%e0%b8%a1%e0%b8%b2%e0%b9%81%e0%b8%a5%e0%b9%89%e0%b8%a7) | N/A |
+| 27 | [#PaeyahBNK48](http://twitter.com/search?q=%23PaeyahBNK48) | N/A |
+| 28 | [#ลุงตู่อยู่ต่อ](http://twitter.com/search?q=%23%e0%b8%a5%e0%b8%b8%e0%b8%87%e0%b8%95%e0%b8%b9%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b8%b9%e0%b9%88%e0%b8%95%e0%b9%88%e0%b8%ad) | N/A |
+| 29 | [#GOT7영재의친한친구](http://twitter.com/search?q=%23GOT7%ec%98%81%ec%9e%ac%ec%9d%98%ec%b9%9c%ed%95%9c%ec%b9%9c%ea%b5%ac) | N/A |
+| 30 | [#GalaxyS23](http://twitter.com/search?q=%23GalaxyS23) | N/A |
+| 31 | [#ฟอลกันเพื่อบอสอึล](http://twitter.com/search?q=%23%e0%b8%9f%e0%b8%ad%e0%b8%a5%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b9%80%e0%b8%9e%e0%b8%b7%e0%b9%88%e0%b8%ad%e0%b8%9a%e0%b8%ad%e0%b8%aa%e0%b8%ad%e0%b8%b6%e0%b8%a5) | N/A |
+| 32 | [#SFxOffGun](http://twitter.com/search?q=%23SFxOffGun) | N/A |
+| 33 | [#ดาบพิฆาตอสูร](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b2%e0%b8%9a%e0%b8%9e%e0%b8%b4%e0%b8%86%e0%b8%b2%e0%b8%95%e0%b8%ad%e0%b8%aa%e0%b8%b9%e0%b8%a3) | N/A |
+| 34 | [#XiaoZhanMilan2023](http://twitter.com/search?q=%23XiaoZhanMilan2023) | N/A |
+| 35 | [#MileApo](http://twitter.com/search?q=%23MileApo) | N/A |
+| 36 | [#เนเน่ไปจีนแป๊บนึงน้า](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%99%e0%b9%80%e0%b8%99%e0%b9%88%e0%b9%84%e0%b8%9b%e0%b8%88%e0%b8%b5%e0%b8%99%e0%b9%81%e0%b8%9b%e0%b9%8a%e0%b8%9a%e0%b8%99%e0%b8%b6%e0%b8%87%e0%b8%99%e0%b9%89%e0%b8%b2) | N/A |
+| 37 | [#น้องต่อ](http://twitter.com/search?q=%23%e0%b8%99%e0%b9%89%e0%b8%ad%e0%b8%87%e0%b8%95%e0%b9%88%e0%b8%ad) | N/A |
+| 38 | [#PradaFW23](http://twitter.com/search?q=%23PradaFW23) | N/A |
+| 39 | [#GOT7YoungjaeBestFriend](http://twitter.com/search?q=%23GOT7YoungjaeBestFriend) | N/A |
+| 40 | [#WangYibo_HiddenBlade](http://twitter.com/search?q=%23WangYibo_HiddenBlade) | N/A |
+| 41 | [#โค่นคมพยัคฆ์](http://twitter.com/search?q=%23%e0%b9%82%e0%b8%84%e0%b9%88%e0%b8%99%e0%b8%84%e0%b8%a1%e0%b8%9e%e0%b8%a2%e0%b8%b1%e0%b8%84%e0%b8%86%e0%b9%8c) | N/A |
+| 42 | [#ออฟกัน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%ad%e0%b8%9f%e0%b8%81%e0%b8%b1%e0%b8%99) | N/A |
+| 43 | [#JISOO](http://twitter.com/search?q=%23JISOO) | N/A |
+| 44 | [#XiaoZhanReadyForTods](http://twitter.com/search?q=%23XiaoZhanReadyForTods) | N/A |
+| 45 | [#อมอดวคตมน](http://twitter.com/search?q=%23%e0%b8%ad%e0%b8%a1%e0%b8%ad%e0%b8%94%e0%b8%a7%e0%b8%84%e0%b8%95%e0%b8%a1%e0%b8%99) | N/A |
+| 46 | [#MEENPINGinJPday2](http://twitter.com/search?q=%23MEENPINGinJPday2) | N/A |
+| 47 | [#tenlee_1001](http://twitter.com/search?q=%23tenlee_1001) | N/A |
+| 48 | [#DisappointingBOC](http://twitter.com/search?q=%23DisappointingBOC) | N/A |
+| 49 | [#SFcinema](http://twitter.com/search?q=%23SFcinema) | N/A |
+| 50 | [#รับงานสมุทรปราการ](http://twitter.com/search?q=%23%e0%b8%a3%e0%b8%b1%e0%b8%9a%e0%b8%87%e0%b8%b2%e0%b8%99%e0%b8%aa%e0%b8%a1%e0%b8%b8%e0%b8%97%e0%b8%a3%e0%b8%9b%e0%b8%a3%e0%b8%b2%e0%b8%81%e0%b8%b2%e0%b8%a3) | N/A |
 
 
 

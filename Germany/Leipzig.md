@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-23 11:16:09 UTC`
+📆 Last Updated: `2023-02-23 12:17:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
 | 3 | [#Aschermittwoch](http://twitter.com/search?q=%23Aschermittwoch) | N/A |
 | 4 | [#Schwesig](http://twitter.com/search?q=%23Schwesig) | N/A |
-| 5 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 7 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 8 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
-| 9 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
-| 10 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
-| 11 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
-| 12 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 13 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
+| 5 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
+| 6 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
+| 7 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 8 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 9 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
+| 10 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
+| 11 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 12 | [Clemens](http://twitter.com/search?q=Clemens) | Clemens is a surname of German origin. It is derived from the Latin word clemens, which means "merciful" or "gentle". |
+| 13 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
 | 14 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
 | 15 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 16 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
-| 17 | [Heute vor 80 Jahren](http://twitter.com/search?q=Heute+vor+80+Jahren) | N/A |
-| 18 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
-| 19 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 20 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
-| 21 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 22 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 23 | ["Fleischverbot"](http://twitter.com/search?q=%22Fleischverbot%22) | N/A |
-| 24 | [Selbstbeteiligung](http://twitter.com/search?q=Selbstbeteiligung) | N/A |
-| 25 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
-| 26 | [Kriegsfolgen](http://twitter.com/search?q=Kriegsfolgen) | N/A |
-| 27 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
-| 28 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 29 | [Christoph Probst](http://twitter.com/search?q=Christoph+Probst) | N/A |
-| 30 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
-| 31 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
-| 32 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
-| 33 | [sommersprossen](http://twitter.com/search?q=sommersprossen) | N/A |
-| 34 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 35 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 36 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 37 | [Versicherten](http://twitter.com/search?q=Versicherten) | N/A |
+| 16 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
+| 17 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
+| 18 | [Heute vor 80 Jahren](http://twitter.com/search?q=Heute+vor+80+Jahren) | N/A |
+| 19 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 20 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
+| 21 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 22 | [Fleischverbot](http://twitter.com/search?q=Fleischverbot) | N/A |
+| 23 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
+| 24 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 25 | [Selbstbeteiligung](http://twitter.com/search?q=Selbstbeteiligung) | N/A |
+| 26 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
+| 27 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
+| 28 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 29 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
+| 30 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
+| 31 | [christoph probst](http://twitter.com/search?q=christoph+probst) | N/A |
+| 32 | [sommersprossen](http://twitter.com/search?q=sommersprossen) | N/A |
+| 33 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
+| 34 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
+| 35 | [Mohr](http://twitter.com/search?q=Mohr) | N/A |
+| 36 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 37 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
 | 38 | [Öl auf die Straße](http://twitter.com/search?q=%c3%96l+auf+die+Stra%c3%9fe) | N/A |
-| 39 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
-| 40 | [geburtsjahr](http://twitter.com/search?q=geburtsjahr) | N/A |
-| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 42 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
-| 43 | [Maggus](http://twitter.com/search?q=Maggus) | N/A |
-| 44 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 45 | [LOUIS YOU ARE WORTHY](http://twitter.com/search?q=LOUIS+YOU+ARE+WORTHY) | N/A |
-| 46 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 47 | [Denunziant](http://twitter.com/search?q=Denunziant) | N/A |
-| 48 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
-| 49 | [echte probleme](http://twitter.com/search?q=echte+probleme) | N/A |
-| 50 | [Tischtennis](http://twitter.com/search?q=Tischtennis) | N/A |
+| 39 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
+| 40 | [Landschaft](http://twitter.com/search?q=Landschaft) | N/A |
+| 41 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
+| 42 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
+| 43 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
+| 44 | [geburtsjahr](http://twitter.com/search?q=geburtsjahr) | N/A |
+| 45 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 46 | [Krankenversicherung](http://twitter.com/search?q=Krankenversicherung) | N/A |
+| 47 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 48 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 49 | [Maggus](http://twitter.com/search?q=Maggus) | N/A |
+| 50 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
 
 
 

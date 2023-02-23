@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-02-23 11:16:43 UTC`
+📆 Last Updated: `2023-02-23 12:18:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
+| 1 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
 | 2 | [Dylan Lyons](http://twitter.com/search?q=Dylan+Lyons) | N/A |
-| 3 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 4 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 5 | [#Wordle614](http://twitter.com/search?q=%23Wordle614) | N/A |
-| 6 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 7 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 8 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 9 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 10 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 11 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 12 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 13 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
-| 14 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
-| 15 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 16 | [The Last Starfighter](http://twitter.com/search?q=The+Last+Starfighter) | N/A |
-| 17 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 18 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 19 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 3 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
+| 4 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 5 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 6 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 7 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 8 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 9 | [#Wordle614](http://twitter.com/search?q=%23Wordle614) | N/A |
+| 10 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 11 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 12 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
+| 13 | [Repping Reapers](http://twitter.com/search?q=Repping+Reapers) | N/A |
+| 14 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 15 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 16 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 17 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 18 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 19 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
 | 20 | [Migos](http://twitter.com/search?q=Migos) | N/A |
-| 21 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 21 | [The Last Starfighter](http://twitter.com/search?q=The+Last+Starfighter) | N/A |
 | 22 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
-| 23 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
-| 24 | [Eddie Murphy](http://twitter.com/search?q=Eddie+Murphy) | Eddie Murphy is an American actor, comedian, and singer. He is best known for his roles in films such as Beverly Hills Cop, Trading Places, Coming to America, and The Nutty Professor. He has also starred in a number of family-friendly films such as Dr. Dolittle and the Shrek franchise. |
-| 25 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
-| 26 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 27 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 28 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 29 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
-| 30 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 31 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 32 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 33 | [Goya](http://twitter.com/search?q=Goya) | N/A |
-| 34 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 35 | [George Carlin](http://twitter.com/search?q=George+Carlin) | N/A |
-| 36 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 37 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
-| 38 | [Stefan](http://twitter.com/search?q=Stefan) | N/A |
-| 39 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 40 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 41 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 42 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 43 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
-| 44 | [#brink](http://twitter.com/search?q=%23brink) | N/A |
-| 45 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 46 | [#CocaineBearIsGreatBut](http://twitter.com/search?q=%23CocaineBearIsGreatBut) | N/A |
-| 47 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 48 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 49 | [#outerbanks3](http://twitter.com/search?q=%23outerbanks3) | N/A |
-| 50 | [#PumpRules](http://twitter.com/search?q=%23PumpRules) | N/A |
+| 23 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 24 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 25 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 26 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 27 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 28 | [GOYA](http://twitter.com/search?q=GOYA) | N/A |
+| 29 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
+| 30 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 31 | [Eddie Murphy](http://twitter.com/search?q=Eddie+Murphy) | Eddie Murphy is an American actor, comedian, and singer. He is best known for his roles in films such as Beverly Hills Cop, Trading Places, Coming to America, and The Nutty Professor. He has also starred in a number of family-friendly films such as Dr. Dolittle and the Shrek franchise. |
+| 32 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
+| 33 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
+| 34 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 35 | [trump ice](http://twitter.com/search?q=trump+ice) | N/A |
+| 36 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
+| 37 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 38 | [George Carlin](http://twitter.com/search?q=George+Carlin) | N/A |
+| 39 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 40 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 41 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
+| 42 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
+| 43 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 44 | [Selena Gomez](http://twitter.com/search?q=Selena+Gomez) | N/A |
+| 45 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 46 | [Stefan](http://twitter.com/search?q=Stefan) | N/A |
+| 47 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 48 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 49 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 50 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
 
 
 
