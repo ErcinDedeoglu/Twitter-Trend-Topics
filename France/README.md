@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-23 17:16:33 UTC`
+📆 Last Updated: `2023-02-23 18:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#saintjeandeluz](http://twitter.com/search?q=%23saintjeandeluz) | N/A |
-| 2 | [#ONEPIECE1076](http://twitter.com/search?q=%23ONEPIECE1076) | N/A |
-| 3 | [#MicromaniaOctopathTraveler](http://twitter.com/search?q=%23MicromaniaOctopathTraveler) | N/A |
-| 4 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 5 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
-| 6 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 7 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 8 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 9 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
-| 10 | [Kevin Bossuet](http://twitter.com/search?q=Kevin+Bossuet) | N/A |
-| 11 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
-| 12 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 13 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
-| 14 | [Agnès Lassalle](http://twitter.com/search?q=Agn%c3%a8s+Lassalle) | N/A |
-| 15 | [Karl Zéro](http://twitter.com/search?q=Karl+Z%c3%a9ro) | N/A |
-| 16 | [Rachid M'Barki](http://twitter.com/search?q=Rachid+M%27Barki) | N/A |
-| 17 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 18 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 19 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 20 | [Equilibrium](http://twitter.com/search?q=Equilibrium) | N/A |
-| 21 | [Décès](http://twitter.com/search?q=D%c3%a9c%c3%a8s) | N/A |
-| 22 | [Jules Chappaz](http://twitter.com/search?q=Jules+Chappaz) | N/A |
-| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 24 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 25 | [Goldorak](http://twitter.com/search?q=Goldorak) | N/A |
-| 26 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 27 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 28 | [Set Me Free](http://twitter.com/search?q=Set+Me+Free) | N/A |
-| 29 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 30 | [Guti](http://twitter.com/search?q=Guti) | N/A |
-| 31 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 32 | [St Jean de Luz](http://twitter.com/search?q=St+Jean+de+Luz) | N/A |
-| 33 | [CNews](http://twitter.com/search?q=CNews) | N/A |
-| 34 | [Erlanger](http://twitter.com/search?q=Erlanger) | N/A |
-| 35 | [Sinner](http://twitter.com/search?q=Sinner) | Sinner is a person who has committed a sin or an immoral act. It is someone who has violated a moral or religious code of conduct. In Christianity, a sinner is someone who has not accepted Jesus Christ as their savior and thus remains separated from God. |
-| 36 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
-| 37 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 38 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 39 | [Naplouse](http://twitter.com/search?q=Naplouse) | N/A |
-| 40 | [Sonny Anderson](http://twitter.com/search?q=Sonny+Anderson) | N/A |
-| 41 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 42 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 43 | [Wunder](http://twitter.com/search?q=Wunder) | N/A |
-| 44 | [ASSASSINAT](http://twitter.com/search?q=ASSASSINAT) | N/A |
-| 45 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 46 | [Baudis](http://twitter.com/search?q=Baudis) | N/A |
-| 47 | [Microids](http://twitter.com/search?q=Microids) | N/A |
-| 48 | [Jena Lee](http://twitter.com/search?q=Jena+Lee) | N/A |
-| 49 | [Pap Ndiaye](http://twitter.com/search?q=Pap+Ndiaye) | N/A |
-| 50 | [Aquin](http://twitter.com/search?q=Aquin) | N/A |
+| 1 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 2 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 3 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
+| 4 | [#NANJUV](http://twitter.com/search?q=%23NANJUV) | N/A |
+| 5 | [#ASMB04](http://twitter.com/search?q=%23ASMB04) | N/A |
+| 6 | [#MicromaniaOctopathTraveler](http://twitter.com/search?q=%23MicromaniaOctopathTraveler) | N/A |
+| 7 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
+| 8 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
+| 9 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
+| 10 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 11 | [#sonsoftheforest](http://twitter.com/search?q=%23sonsoftheforest) | N/A |
+| 12 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
+| 13 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
+| 14 | [Signe Astro](http://twitter.com/search?q=Signe+Astro) | N/A |
+| 15 | [RMC Sport](http://twitter.com/search?q=RMC+Sport) | N/A |
+| 16 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 17 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 18 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 19 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 20 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
+| 21 | [Paris 8](http://twitter.com/search?q=Paris+8) | N/A |
+| 22 | [Valence](http://twitter.com/search?q=Valence) | N/A |
+| 23 | [La Commission](http://twitter.com/search?q=La+Commission) | N/A |
+| 24 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 25 | [Rachid M'Barki](http://twitter.com/search?q=Rachid+M%27Barki) | N/A |
+| 26 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
+| 27 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 28 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
+| 29 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 30 | [Agnès Lassalle](http://twitter.com/search?q=Agn%c3%a8s+Lassalle) | N/A |
+| 31 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
+| 32 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
+| 33 | [Goldorak](http://twitter.com/search?q=Goldorak) | N/A |
+| 34 | [Kevin Bossuet](http://twitter.com/search?q=Kevin+Bossuet) | N/A |
+| 35 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 36 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
+| 37 | [Afrique du Nord](http://twitter.com/search?q=Afrique+du+Nord) | N/A |
+| 38 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 39 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
+| 40 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 41 | [#MicromaniaKirby](http://twitter.com/search?q=%23MicromaniaKirby) | N/A |
+| 42 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 43 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
+| 44 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 45 | [#JeudiPhoto](http://twitter.com/search?q=%23JeudiPhoto) | N/A |
+| 46 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 47 | [#StarAcademy](http://twitter.com/search?q=%23StarAcademy) | N/A |
+| 48 | [#SRFCSHA](http://twitter.com/search?q=%23SRFCSHA) | N/A |
+| 49 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 50 | [#BoosteTonClassico](http://twitter.com/search?q=%23BoosteTonClassico) | N/A |
 
 
 

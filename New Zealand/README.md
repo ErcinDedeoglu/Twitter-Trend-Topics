@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-23 17:16:36 UTC`
+📆 Last Updated: `2023-02-23 18:16:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for New Zealand
 | 2 | [#nzlvarg](http://twitter.com/search?q=%23nzlvarg) | N/A |
 | 3 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
 | 4 | [#CovidAndWork2023](http://twitter.com/search?q=%23CovidAndWork2023) | N/A |
-| 5 | [Judith](http://twitter.com/search?q=Judith) | N/A |
-| 6 | [samoan](http://twitter.com/search?q=samoan) | N/A |
-| 7 | [maureen pugh](http://twitter.com/search?q=maureen+pugh) | N/A |
+| 5 | [Samoan](http://twitter.com/search?q=Samoan) | N/A |
+| 6 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 7 | [Maureen pugh](http://twitter.com/search?q=Maureen+pugh) | N/A |
 | 8 | [#nzgreens](http://twitter.com/search?q=%23nzgreens) | N/A |
 | 9 | [Census](http://twitter.com/search?q=Census) | N/A |
 | 10 | [climate-safe future](http://twitter.com/search?q=climate-safe+future) | N/A |
 | 11 | [#GameDevFashion](http://twitter.com/search?q=%23GameDevFashion) | N/A |
-| 12 | [gower](http://twitter.com/search?q=gower) | N/A |
+| 12 | [Gower](http://twitter.com/search?q=Gower) | N/A |
 | 13 | [LinkedIn](http://twitter.com/search?q=LinkedIn) | N/A |
 | 14 | [fonterra](http://twitter.com/search?q=fonterra) | N/A |
-| 15 | [Todd](http://twitter.com/search?q=Todd) | N/A |
-| 16 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
-| 17 | [James Cook](http://twitter.com/search?q=James+Cook) | James Cook was an English explorer, navigator, and cartographer who made three voyages to the Pacific Ocean during the 18th century. He is credited with the first European contact with the eastern coastline of Australia and Hawaii, as well as the first circumnavigation of New Zealand. Cook's voyages greatly increased knowledge of the Pacific Ocean and its islands, and he is remembered for his contributions to science, navigation, and cartography. |
+| 15 | [Luxon](http://twitter.com/search?q=Luxon) | N/A |
+| 16 | [James Cook](http://twitter.com/search?q=James+Cook) | James Cook was an English explorer, navigator, and cartographer who made three voyages to the Pacific Ocean during the 18th century. He is credited with the first European contact with the eastern coastline of Australia and Hawaii, as well as the first circumnavigation of New Zealand. Cook's voyages greatly increased knowledge of the Pacific Ocean and its islands, and he is remembered for his contributions to science, navigation, and cartography. |
+| 17 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
 | 18 | [Steven Adams](http://twitter.com/search?q=Steven+Adams) | Steven Adams is a professional basketball player from New Zealand who currently plays for the Oklahoma City Thunder of the National Basketball Association (NBA). His name is often used as a slang term to describe someone who is tall and strong. |
-| 19 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
-| 20 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 21 | [#fabtcg](http://twitter.com/search?q=%23fabtcg) | N/A |
-| 22 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 23 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
-| 24 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 25 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
-| 26 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
-| 27 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
-| 28 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 29 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
-| 30 | [adrian orr](http://twitter.com/search?q=adrian+orr) | N/A |
-| 31 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 32 | [ggwp](http://twitter.com/search?q=ggwp) | N/A |
-| 33 | [Azul](http://twitter.com/search?q=Azul) | N/A |
-| 34 | [Stats NZ](http://twitter.com/search?q=Stats+NZ) | N/A |
-| 35 | [muller](http://twitter.com/search?q=muller) | N/A |
-| 36 | [Marsden](http://twitter.com/search?q=Marsden) | N/A |
-| 37 | [Corina](http://twitter.com/search?q=Corina) | N/A |
-| 38 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 39 | [Long Covid](http://twitter.com/search?q=Long+Covid) | N/A |
-| 40 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
-| 41 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 42 | [Soooo](http://twitter.com/search?q=Soooo) | N/A |
-| 43 | [Queenstown](http://twitter.com/search?q=Queenstown) | N/A |
-| 44 | [kaipara](http://twitter.com/search?q=kaipara) | N/A |
-| 45 | [south auckland](http://twitter.com/search?q=south+auckland) | N/A |
-| 46 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 47 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 48 | [tāmaki makaurau](http://twitter.com/search?q=t%c4%81maki+makaurau) | N/A |
-| 49 | [DON'T COME HERE NOW](http://twitter.com/search?q=DON%27T+COME+HERE+NOW) | N/A |
+| 19 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 20 | [Jordan Peterson](http://twitter.com/search?q=Jordan+Peterson) | N/A |
+| 21 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 22 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 23 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
+| 24 | [Nicola](http://twitter.com/search?q=Nicola) | Nicola is a female given name of Italian origin, derived from the masculine form Nicola. It is a combination of the Greek words for "victory" and "people". In English, it is usually translated as "victory of the people". |
+| 25 | [Muller](http://twitter.com/search?q=Muller) | N/A |
+| 26 | [taylor](http://twitter.com/search?q=taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name was originally given to someone who worked as a tailor or cutter of cloth. |
+| 27 | [GGWP](http://twitter.com/search?q=GGWP) | N/A |
+| 28 | [Portugal](http://twitter.com/search?q=Portugal) | N/A |
+| 29 | [Azul](http://twitter.com/search?q=Azul) | N/A |
+| 30 | [Stats NZ](http://twitter.com/search?q=Stats+NZ) | N/A |
+| 31 | [Christianity](http://twitter.com/search?q=Christianity) | N/A |
+| 32 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 33 | [marsden](http://twitter.com/search?q=marsden) | N/A |
+| 34 | [Corina](http://twitter.com/search?q=Corina) | N/A |
+| 35 | [COVID-19](http://twitter.com/search?q=COVID-19) | N/A |
+| 36 | [Todd](http://twitter.com/search?q=Todd) | N/A |
+| 37 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 38 | [Nintendo](http://twitter.com/search?q=Nintendo) | N/A |
+| 39 | [Soooo](http://twitter.com/search?q=Soooo) | N/A |
+| 40 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 41 | [Queenstown](http://twitter.com/search?q=Queenstown) | N/A |
+| 42 | [kaipara](http://twitter.com/search?q=kaipara) | N/A |
+| 43 | [south auckland](http://twitter.com/search?q=south+auckland) | N/A |
+| 44 | [DON'T COME HERE NOW](http://twitter.com/search?q=DON%27T+COME+HERE+NOW) | N/A |
+| 45 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
+| 46 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
+| 47 | [tāmaki makaurau](http://twitter.com/search?q=t%c4%81maki+makaurau) | N/A |
+| 48 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
 | 50 | [Justice](http://twitter.com/search?q=Justice) | N/A |
 
 

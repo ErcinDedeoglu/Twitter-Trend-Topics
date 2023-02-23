@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-02-23 17:16:25 UTC`
+📆 Last Updated: `2023-02-23 18:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
 | 2 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 3 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
-| 4 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 5 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
-| 6 | [#MetaThings](http://twitter.com/search?q=%23MetaThings) | N/A |
-| 7 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 8 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 9 | [Vance Joseph](http://twitter.com/search?q=Vance+Joseph) | N/A |
-| 10 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 11 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 12 | [SET ME FREE PT 2](http://twitter.com/search?q=SET+ME+FREE+PT+2) | N/A |
-| 13 | [Paul Paul](http://twitter.com/search?q=Paul+Paul) | N/A |
-| 14 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
-| 15 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 16 | [Paw Paw](http://twitter.com/search?q=Paw+Paw) | N/A |
-| 17 | [Village People](http://twitter.com/search?q=Village+People) | N/A |
-| 18 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 19 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 20 | [Press Secretary](http://twitter.com/search?q=Press+Secretary) | N/A |
-| 21 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
-| 22 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 23 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 24 | [Mags](http://twitter.com/search?q=Mags) | N/A |
-| 25 | [Shock Drop](http://twitter.com/search?q=Shock+Drop) | N/A |
-| 26 | [Elaine Chao](http://twitter.com/search?q=Elaine+Chao) | N/A |
-| 27 | [Dylan Lyons](http://twitter.com/search?q=Dylan+Lyons) | N/A |
-| 28 | [Ajay Banga](http://twitter.com/search?q=Ajay+Banga) | N/A |
-| 29 | [Sweeny](http://twitter.com/search?q=Sweeny) | Sweeny is an Irish surname derived from the Gaelic name "Mac Suibhne," which means "son of Suibhne." It is also a nickname for someone who is shrewd or sly. |
-| 30 | [Pdogg](http://twitter.com/search?q=Pdogg) | N/A |
-| 31 | [Tony Earl](http://twitter.com/search?q=Tony+Earl) | N/A |
-| 32 | [Bio Broly](http://twitter.com/search?q=Bio+Broly) | N/A |
-| 33 | [Mayor Pete](http://twitter.com/search?q=Mayor+Pete) | "Mayor Pete" is a nickname for Pete Buttigieg, the mayor of South Bend, Indiana and a 2020 Democratic presidential candidate. The nickname is derived from his first name and his position as mayor. |
-| 34 | [Savanah](http://twitter.com/search?q=Savanah) | N/A |
-| 35 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 36 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
-| 37 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 38 | [Migos](http://twitter.com/search?q=Migos) | N/A |
-| 39 | [Pending](http://twitter.com/search?q=Pending) | N/A |
-| 40 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
-| 41 | [Sneaky Pete](http://twitter.com/search?q=Sneaky+Pete) | N/A |
-| 42 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 43 | [Buster](http://twitter.com/search?q=Buster) | N/A |
-| 44 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 45 | [Galveston](http://twitter.com/search?q=Galveston) | N/A |
-| 46 | [Pantene](http://twitter.com/search?q=Pantene) | N/A |
-| 47 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 48 | [Maggie and Paul](http://twitter.com/search?q=Maggie+and+Paul) | N/A |
-| 49 | [SLED](http://twitter.com/search?q=SLED) | N/A |
+| 3 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
+| 4 | [#APTACSM](http://twitter.com/search?q=%23APTACSM) | N/A |
+| 5 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 6 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 7 | [#weather](http://twitter.com/search?q=%23weather) | N/A |
+| 8 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
+| 9 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
+| 10 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 11 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 12 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 13 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 14 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
+| 15 | [Vance Joseph](http://twitter.com/search?q=Vance+Joseph) | N/A |
+| 16 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 17 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 18 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 19 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
+| 20 | [Village People](http://twitter.com/search?q=Village+People) | N/A |
+| 21 | [Paul Paul](http://twitter.com/search?q=Paul+Paul) | N/A |
+| 22 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 23 | [Paw Paw](http://twitter.com/search?q=Paw+Paw) | N/A |
+| 24 | [Press Secretary](http://twitter.com/search?q=Press+Secretary) | N/A |
+| 25 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 26 | [SET ME FREE PT 2](http://twitter.com/search?q=SET+ME+FREE+PT+2) | N/A |
+| 27 | [Bubba](http://twitter.com/search?q=Bubba) | N/A |
+| 28 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 29 | [Elaine Chao](http://twitter.com/search?q=Elaine+Chao) | N/A |
+| 30 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 31 | [Sweeny](http://twitter.com/search?q=Sweeny) | Sweeny is an Irish surname derived from the Gaelic name "Mac Suibhne," which means "son of Suibhne." It is also a nickname for someone who is shrewd or sly. |
+| 32 | [Mags](http://twitter.com/search?q=Mags) | N/A |
+| 33 | [Savanah](http://twitter.com/search?q=Savanah) | N/A |
+| 34 | [Buster](http://twitter.com/search?q=Buster) | N/A |
+| 35 | [Barney Fife](http://twitter.com/search?q=Barney+Fife) | N/A |
+| 36 | [Dylan Lyons](http://twitter.com/search?q=Dylan+Lyons) | N/A |
+| 37 | [SLED](http://twitter.com/search?q=SLED) | N/A |
+| 38 | [Galveston](http://twitter.com/search?q=Galveston) | N/A |
+| 39 | [Bio Broly](http://twitter.com/search?q=Bio+Broly) | N/A |
+| 40 | [Ajay Banga](http://twitter.com/search?q=Ajay+Banga) | N/A |
+| 41 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
+| 42 | [Shock Drop](http://twitter.com/search?q=Shock+Drop) | N/A |
+| 43 | [Tony Earl](http://twitter.com/search?q=Tony+Earl) | N/A |
+| 44 | [Sam Bankman](http://twitter.com/search?q=Sam+Bankman) | N/A |
+| 45 | [Buttigieg](http://twitter.com/search?q=Buttigieg) | N/A |
+| 46 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 47 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 48 | [Jesse Walden](http://twitter.com/search?q=Jesse+Walden) | N/A |
+| 49 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
 
 
 

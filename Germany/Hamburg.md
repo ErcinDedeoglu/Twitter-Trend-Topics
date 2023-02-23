@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-02-23 17:16:00 UTC`
+📆 Last Updated: `2023-02-23 18:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#veganeSongs](http://twitter.com/search?q=%23veganeSongs) | N/A |
-| 2 | [#Schwesig](http://twitter.com/search?q=%23Schwesig) | N/A |
-| 3 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
-| 4 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
-| 5 | [#Aschermittwoch](http://twitter.com/search?q=%23Aschermittwoch) | N/A |
-| 6 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 7 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 8 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
-| 9 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
+| 1 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
+| 2 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
+| 3 | [#veganeSongs](http://twitter.com/search?q=%23veganeSongs) | N/A |
+| 4 | [#ASMB04](http://twitter.com/search?q=%23ASMB04) | N/A |
+| 5 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
+| 6 | [Clemens Arvay](http://twitter.com/search?q=Clemens+Arvay) | N/A |
+| 7 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
+| 8 | [Willi](http://twitter.com/search?q=Willi) | N/A |
+| 9 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 10 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 11 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 12 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
-| 13 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
-| 14 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 15 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 16 | [joonie](http://twitter.com/search?q=joonie) | N/A |
-| 17 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 18 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
-| 19 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 20 | [fleischverbot](http://twitter.com/search?q=fleischverbot) | N/A |
-| 21 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
-| 22 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 23 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 24 | [Norma](http://twitter.com/search?q=Norma) | N/A |
-| 25 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
-| 26 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
-| 27 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 28 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
-| 29 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 30 | [Lieblings Fußball Teams](http://twitter.com/search?q=Lieblings+Fu%c3%9fball+Teams) | N/A |
-| 31 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
-| 32 | [Privatjets](http://twitter.com/search?q=Privatjets) | N/A |
+| 11 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 12 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
+| 13 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
+| 14 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 15 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 16 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
+| 17 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 18 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 19 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
+| 20 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
+| 21 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 22 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
+| 23 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
+| 24 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 25 | [Jochen](http://twitter.com/search?q=Jochen) | N/A |
+| 26 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
+| 27 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
+| 28 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
+| 29 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 30 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
+| 31 | [Privatjets](http://twitter.com/search?q=Privatjets) | N/A |
+| 32 | [Lieblings Fußball Teams](http://twitter.com/search?q=Lieblings+Fu%c3%9fball+Teams) | N/A |
 | 33 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
-| 34 | [Selbstbeteiligung](http://twitter.com/search?q=Selbstbeteiligung) | N/A |
-| 35 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
+| 34 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 35 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
 | 36 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
-| 37 | [Öl auf die Straße](http://twitter.com/search?q=%c3%96l+auf+die+Stra%c3%9fe) | N/A |
-| 38 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 39 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
-| 40 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 41 | [Netto](http://twitter.com/search?q=Netto) | N/A |
-| 42 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
-| 43 | [Brennweite](http://twitter.com/search?q=Brennweite) | N/A |
-| 44 | [Boje](http://twitter.com/search?q=Boje) | N/A |
-| 45 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
-| 46 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
-| 47 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 48 | [Klimanotstand](http://twitter.com/search?q=Klimanotstand) | N/A |
-| 49 | [Christoph Probst](http://twitter.com/search?q=Christoph+Probst) | N/A |
-| 50 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 37 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
+| 38 | [Set Me Free](http://twitter.com/search?q=Set+Me+Free) | N/A |
+| 39 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
+| 40 | [Selbstbeteiligung](http://twitter.com/search?q=Selbstbeteiligung) | N/A |
+| 41 | [Kai Julius](http://twitter.com/search?q=Kai+Julius) | N/A |
+| 42 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 43 | [Öl auf die Straße](http://twitter.com/search?q=%c3%96l+auf+die+Stra%c3%9fe) | N/A |
+| 44 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 45 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 46 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
+| 47 | [Brennweite](http://twitter.com/search?q=Brennweite) | N/A |
+| 48 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
+| 49 | [Boje](http://twitter.com/search?q=Boje) | N/A |
+| 50 | [Edeka](http://twitter.com/search?q=Edeka) | N/A |
 
 
 

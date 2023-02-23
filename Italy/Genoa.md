@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-23 17:16:00 UTC`
+📆 Last Updated: `2023-02-23 18:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,42 +15,54 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
-| 2 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 3 | [#Rigopiano](http://twitter.com/search?q=%23Rigopiano) | N/A |
-| 4 | [Preside](http://twitter.com/search?q=Preside) | N/A |
-| 5 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 6 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 7 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 8 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 9 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 10 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 11 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 12 | [Il Ministro](http://twitter.com/search?q=Il+Ministro) | N/A |
-| 13 | [Samu](http://twitter.com/search?q=Samu) | N/A |
-| 14 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 15 | [Mandragora](http://twitter.com/search?q=Mandragora) | N/A |
-| 16 | [#amicispoiler](http://twitter.com/search?q=%23amicispoiler) | #Amicispoiler is a hashtag used on social media to warn readers that a post contains spoilers for the novel The Adventures of Pinocchio by Carlo Collodi. It is used to alert readers that the post contains information about the plot or characters that could ruin their enjoyment of the book if they have not yet read it. |
-| 17 | [#NantesJuve](http://twitter.com/search?q=%23NantesJuve) | N/A |
-| 18 | [#annalisasavino](http://twitter.com/search?q=%23annalisasavino) | N/A |
-| 19 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 20 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 21 | [#fascismo](http://twitter.com/search?q=%23fascismo) | N/A |
-| 22 | [#pomeriggio5](http://twitter.com/search?q=%23pomeriggio5) | N/A |
-| 23 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
-| 24 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
-| 25 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 26 | [#AzioneStudentesca](http://twitter.com/search?q=%23AzioneStudentesca) | N/A |
-| 27 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
-| 28 | [#scuola](http://twitter.com/search?q=%23scuola) | N/A |
-| 29 | [#spid](http://twitter.com/search?q=%23spid) | N/A |
-| 30 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
-| 31 | [#OuterBanks](http://twitter.com/search?q=%23OuterBanks) | N/A |
-| 32 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 33 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
-| 34 | [#liceomichelangiolo](http://twitter.com/search?q=%23liceomichelangiolo) | N/A |
-| 35 | [#Transnistria](http://twitter.com/search?q=%23Transnistria) | N/A |
-| 36 | [#RomaSalisburgo](http://twitter.com/search?q=%23RomaSalisburgo) | N/A |
+| 1 | [#NantesJuventus](http://twitter.com/search?q=%23NantesJuventus) | N/A |
+| 2 | [#DiMaria](http://twitter.com/search?q=%23DiMaria) | N/A |
+| 3 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
+| 4 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 5 | [Angel](http://twitter.com/search?q=Angel) | N/A |
+| 6 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 7 | [Fideo](http://twitter.com/search?q=Fideo) | N/A |
+| 8 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 9 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 10 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 11 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
+| 12 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 13 | [Forza Juve](http://twitter.com/search?q=Forza+Juve) | N/A |
+| 14 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 15 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 16 | [Sciglio](http://twitter.com/search?q=Sciglio) | N/A |
+| 17 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 18 | [Borghi](http://twitter.com/search?q=Borghi) | N/A |
+| 19 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 20 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
+| 21 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 22 | [Il Ministro](http://twitter.com/search?q=Il+Ministro) | N/A |
+| 23 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 24 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 25 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 26 | [Superlega](http://twitter.com/search?q=Superlega) | N/A |
+| 27 | [#amicispoiler](http://twitter.com/search?q=%23amicispoiler) | #Amicispoiler is a hashtag used on social media to warn readers that a post contains spoilers for the novel The Adventures of Pinocchio by Carlo Collodi. It is used to alert readers that the post contains information about the plot or characters that could ruin their enjoyment of the book if they have not yet read it. |
+| 28 | [#Rigopiano](http://twitter.com/search?q=%23Rigopiano) | N/A |
+| 29 | [#jvtblive](http://twitter.com/search?q=%23jvtblive) | N/A |
+| 30 | [#NANJUV](http://twitter.com/search?q=%23NANJUV) | N/A |
+| 31 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 32 | [#ClujLazio](http://twitter.com/search?q=%23ClujLazio) | N/A |
+| 33 | [#AnnalisaSavino](http://twitter.com/search?q=%23AnnalisaSavino) | N/A |
+| 34 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 35 | [#pomeriggio5](http://twitter.com/search?q=%23pomeriggio5) | N/A |
+| 36 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 37 | [#fascismo](http://twitter.com/search?q=%23fascismo) | N/A |
+| 38 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
+| 39 | [#AntiFascista](http://twitter.com/search?q=%23AntiFascista) | N/A |
+| 40 | [#OuterBanks](http://twitter.com/search?q=%23OuterBanks) | N/A |
+| 41 | [#AzioneStudentesca](http://twitter.com/search?q=%23AzioneStudentesca) | N/A |
+| 42 | [#uominedonne](http://twitter.com/search?q=%23uominedonne) | N/A |
+| 43 | [#spid](http://twitter.com/search?q=%23spid) | N/A |
+| 44 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 45 | [#SkyMotori](http://twitter.com/search?q=%23SkyMotori) | N/A |
+| 46 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
+| 47 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
+| 48 | [#scuola](http://twitter.com/search?q=%23scuola) | N/A |
 
 
 

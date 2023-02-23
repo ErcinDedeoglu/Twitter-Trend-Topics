@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-23 17:16:12 UTC`
+📆 Last Updated: `2023-02-23 18:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#WildTonight](http://twitter.com/search?q=%23WildTonight) | N/A |
 | 3 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
 | 4 | [#HORI7ONonTAG911Dubai](http://twitter.com/search?q=%23HORI7ONonTAG911Dubai) | N/A |
-| 5 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 6 | [Tag Along HORI7ON](http://twitter.com/search?q=Tag+Along+HORI7ON) | N/A |
+| 5 | [Tag Along HORI7ON](http://twitter.com/search?q=Tag+Along+HORI7ON) | N/A |
+| 6 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
 | 7 | [D-1 Be His Prey](http://twitter.com/search?q=D-1+Be+His+Prey) | N/A |
-| 8 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 8 | [VIVOREE MATAPANG OUT NOW](http://twitter.com/search?q=VIVOREE+MATAPANG+OUT+NOW) | N/A |
 | 9 | [#MCIMgaAralAtPangarap](http://twitter.com/search?q=%23MCIMgaAralAtPangarap) | N/A |
-| 10 | [VIVOREE MATAPANG OUT NOW](http://twitter.com/search?q=VIVOREE+MATAPANG+OUT+NOW) | N/A |
-| 11 | [Congrats PLDT](http://twitter.com/search?q=Congrats+PLDT) | N/A |
+| 10 | [Congrats PLDT](http://twitter.com/search?q=Congrats+PLDT) | N/A |
+| 11 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
 | 12 | [READY TO BE MESMERIZED](http://twitter.com/search?q=READY+TO+BE+MESMERIZED) | N/A |
-| 13 | [suga](http://twitter.com/search?q=suga) | N/A |
+| 13 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
 | 14 | [NASA BPI NA ANG LAHAT](http://twitter.com/search?q=NASA+BPI+NA+ANG+LAHAT) | N/A |
-| 15 | [Morente](http://twitter.com/search?q=Morente) | N/A |
-| 16 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 15 | [Suga](http://twitter.com/search?q=Suga) | N/A |
+| 16 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
 | 17 | [KIM JONGIN](http://twitter.com/search?q=KIM+JONGIN) | N/A |
 | 18 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 19 | [Arado](http://twitter.com/search?q=Arado) | N/A |
+| 19 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
 | 20 | [TWICExBILLBOARD MAGAZINE](http://twitter.com/search?q=TWICExBILLBOARD+MAGAZINE) | N/A |
-| 21 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 22 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 23 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
-| 24 | [joonie](http://twitter.com/search?q=joonie) | N/A |
-| 25 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 26 | [Proclamation No. 167](http://twitter.com/search?q=Proclamation+No.+167) | N/A |
-| 27 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 28 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 29 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 30 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
-| 31 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 32 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 33 | [MATAPANG NA BUKAS VIVOREE](http://twitter.com/search?q=MATAPANG+NA+BUKAS+VIVOREE) | N/A |
-| 34 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
-| 35 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 36 | [EDSA People Power Revolution](http://twitter.com/search?q=EDSA+People+Power+Revolution) | N/A |
-| 37 | [Urduja](http://twitter.com/search?q=Urduja) | N/A |
-| 38 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 39 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 40 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
-| 41 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
-| 42 | [malacañang](http://twitter.com/search?q=malaca%c3%b1ang) | N/A |
-| 43 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 44 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
-| 45 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 46 | [#BounceBackLikeG22](http://twitter.com/search?q=%23BounceBackLikeG22) | N/A |
-| 47 | [#TWICE_ConceptPhotoD3](http://twitter.com/search?q=%23TWICE_ConceptPhotoD3) | N/A |
-| 48 | [#G22_AnnivCB](http://twitter.com/search?q=%23G22_AnnivCB) | N/A |
-| 49 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 21 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
+| 22 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 23 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
+| 24 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 25 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 27 | [MATAPANG NA BUKAS VIVOREE](http://twitter.com/search?q=MATAPANG+NA+BUKAS+VIVOREE) | N/A |
+| 28 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 29 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 30 | [EDSA](http://twitter.com/search?q=EDSA) | N/A |
+| 31 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
+| 32 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
+| 33 | [WALANG PASOK](http://twitter.com/search?q=WALANG+PASOK) | N/A |
+| 34 | [#BounceBackLikeG22](http://twitter.com/search?q=%23BounceBackLikeG22) | N/A |
+| 35 | [#TWICE_ConceptPhotoD3](http://twitter.com/search?q=%23TWICE_ConceptPhotoD3) | N/A |
+| 36 | [#G22_AnnivCB](http://twitter.com/search?q=%23G22_AnnivCB) | N/A |
+| 37 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
+| 38 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 39 | [#G22_Boomerang](http://twitter.com/search?q=%23G22_Boomerang) | N/A |
+| 40 | [#DanielPadillaBPITVC](http://twitter.com/search?q=%23DanielPadillaBPITVC) | N/A |
+| 41 | [#HeCantKeepGettingAwayWithThis](http://twitter.com/search?q=%23HeCantKeepGettingAwayWithThis) | N/A |
+| 42 | [#ส่งซีนุนิวไปเกาหลี](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7%e0%b9%84%e0%b8%9b%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%b5) | N/A |
+| 43 | [#DLGossip](http://twitter.com/search?q=%23DLGossip) | N/A |
+| 44 | [#eaJisEnemyNumber1](http://twitter.com/search?q=%23eaJisEnemyNumber1) | N/A |
+| 45 | [#MoonlightChickenEP6](http://twitter.com/search?q=%23MoonlightChickenEP6) | N/A |
+| 46 | [#SB19EventGuestingsVlog](http://twitter.com/search?q=%23SB19EventGuestingsVlog) | N/A |
+| 47 | [#TWICEforBBCollectorsZine](http://twitter.com/search?q=%23TWICEforBBCollectorsZine) | N/A |
+| 48 | [#FACEISCOMING](http://twitter.com/search?q=%23FACEISCOMING) | N/A |
+| 49 | [#OneRepublicAtTheBigDome](http://twitter.com/search?q=%23OneRepublicAtTheBigDome) | N/A |
 
 
 
