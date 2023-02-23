@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-23 22:16:11 UTC`
+📆 Last Updated: `2023-02-23 23:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MasterChefIt](http://twitter.com/search?q=%23MasterChefIt) | #MasterChefIt is an Italian hashtag used to promote the popular cooking show MasterChef Italia. It is used to share recipes, photos, and videos related to the show. In English, it means "MasterChef Italy". |
-| 2 | [#RomaSalisburgo](http://twitter.com/search?q=%23RomaSalisburgo) | N/A |
-| 3 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
-| 4 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 5 | [#RomaSalzburg](http://twitter.com/search?q=%23RomaSalzburg) | N/A |
-| 6 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
-| 7 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 8 | [Markov](http://twitter.com/search?q=Markov) | N/A |
-| 9 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 10 | [Busta](http://twitter.com/search?q=Busta) | Busta is a slang term used to describe someone who is a troublemaker or a troublemaker. It can also be used to describe someone who is reckless or irresponsible. In English, it is often used as an insult. |
-| 11 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
-| 12 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
-| 13 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
-| 14 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 15 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
-| 16 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
-| 17 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
-| 18 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 19 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 20 | [Cabral](http://twitter.com/search?q=Cabral) | N/A |
-| 21 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 22 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
-| 23 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 24 | [Ettore](http://twitter.com/search?q=Ettore) | N/A |
-| 25 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
-| 26 | [Fideo](http://twitter.com/search?q=Fideo) | N/A |
-| 27 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 28 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 29 | [Seba](http://twitter.com/search?q=Seba) | N/A |
-| 30 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 31 | [Daje Roma](http://twitter.com/search?q=Daje+Roma) | N/A |
-| 32 | [Carmen](http://twitter.com/search?q=Carmen) | N/A |
-| 33 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
-| 34 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 35 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 36 | [Malan](http://twitter.com/search?q=Malan) | N/A |
-| 37 | [Basic](http://twitter.com/search?q=Basic) | N/A |
-| 38 | [Antonella e Nikita](http://twitter.com/search?q=Antonella+e+Nikita) | N/A |
-| 39 | [Vlahovic](http://twitter.com/search?q=Vlahovic) | Vlahovic is a surname of Slavic origin. It is derived from the word "Vlah", which means "Romanian" or "Wallachian". In English, the meaning of Vlahovic is "of Wallachian descent". |
-| 40 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 41 | [Sciglio](http://twitter.com/search?q=Sciglio) | N/A |
-| 42 | [Dusan](http://twitter.com/search?q=Dusan) | N/A |
-| 43 | [#Piazzapulita](http://twitter.com/search?q=%23Piazzapulita) | N/A |
-| 44 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
-| 45 | [#DiMaria](http://twitter.com/search?q=%23DiMaria) | N/A |
-| 46 | [#FiorentinaBraga](http://twitter.com/search?q=%23FiorentinaBraga) | N/A |
-| 47 | [#NantesJuventus](http://twitter.com/search?q=%23NantesJuventus) | N/A |
-| 48 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 49 | [#GFVIPParty](http://twitter.com/search?q=%23GFVIPParty) | N/A |
+| 2 | [#CheDioCiAiuti7](http://twitter.com/search?q=%23CheDioCiAiuti7) | #CheDioCiAiuti7 is an Italian hashtag that translates to "May God Help Us 7" in English. It is often used as a prayer or expression of hope for a better future. |
+| 3 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 4 | [#HarryPotter](http://twitter.com/search?q=%23HarryPotter) | N/A |
+| 5 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 6 | [#RomaSalisburgo](http://twitter.com/search?q=%23RomaSalisburgo) | N/A |
+| 7 | [Alfonso](http://twitter.com/search?q=Alfonso) | Alfonso is a Spanish name derived from the Germanic name Adalfuns, which means "noble and ready". It is also the name of several Spanish kings. |
+| 8 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
+| 9 | [Ginevra](http://twitter.com/search?q=Ginevra) | N/A |
+| 10 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 11 | [Donnamaria](http://twitter.com/search?q=Donnamaria) | N/A |
+| 12 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 13 | [EdoD](http://twitter.com/search?q=EdoD) | EdoD is an acronym for "Edo Digital", which is a Japanese digital media company. It specializes in creating content for mobile devices, such as apps, games, and videos. The company was founded in 2012 and is based in Tokyo. |
+| 14 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 15 | [Bubu](http://twitter.com/search?q=Bubu) | N/A |
+| 16 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 17 | [Emiliano](http://twitter.com/search?q=Emiliano) | N/A |
+| 18 | [Mattia](http://twitter.com/search?q=Mattia) | N/A |
+| 19 | [Hermione](http://twitter.com/search?q=Hermione) | N/A |
+| 20 | [Markov](http://twitter.com/search?q=Markov) | N/A |
+| 21 | [Azzurra](http://twitter.com/search?q=Azzurra) | N/A |
+| 22 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 23 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 24 | [Donnalisi](http://twitter.com/search?q=Donnalisi) | N/A |
+| 25 | [Busta](http://twitter.com/search?q=Busta) | Busta is a slang term used to describe someone who is a troublemaker or a troublemaker. It can also be used to describe someone who is reckless or irresponsible. In English, it is often used as an insult. |
+| 26 | [Francescone](http://twitter.com/search?q=Francescone) | N/A |
+| 27 | [Pomezia](http://twitter.com/search?q=Pomezia) | N/A |
+| 28 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 29 | [Cate](http://twitter.com/search?q=Cate) | Cate is short for the name Catherine, which is a feminine given name of Greek origin. It means "pure" or "clear". |
+| 30 | [Gallo](http://twitter.com/search?q=Gallo) | N/A |
+| 31 | [Ettore](http://twitter.com/search?q=Ettore) | N/A |
+| 32 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 33 | [Elia](http://twitter.com/search?q=Elia) | N/A |
+| 34 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 35 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 36 | [Di Maio](http://twitter.com/search?q=Di+Maio) | N/A |
+| 37 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 38 | [Seba](http://twitter.com/search?q=Seba) | N/A |
+| 39 | [Daje Roma](http://twitter.com/search?q=Daje+Roma) | N/A |
+| 40 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 41 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 42 | [Ludovica](http://twitter.com/search?q=Ludovica) | N/A |
+| 43 | [Fideo](http://twitter.com/search?q=Fideo) | N/A |
+| 44 | [Malan](http://twitter.com/search?q=Malan) | N/A |
+| 45 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 46 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 47 | [Forum](http://twitter.com/search?q=Forum) | N/A |
+| 48 | [Pierpaolo](http://twitter.com/search?q=Pierpaolo) | N/A |
+| 49 | [Basic](http://twitter.com/search?q=Basic) | N/A |
 
 
 
