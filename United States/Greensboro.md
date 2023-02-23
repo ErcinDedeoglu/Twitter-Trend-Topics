@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greensboro
 
-📆 Last Updated: `2023-02-23 13:21:54 UTC`
+📆 Last Updated: `2023-02-23 14:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Dylan Lyons](http://twitter.com/search?q=Dylan+Lyons) | N/A |
-| 2 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 3 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 4 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 5 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 6 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
-| 7 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 10 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 11 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 12 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
-| 13 | [Jesse Walden](http://twitter.com/search?q=Jesse+Walden) | N/A |
-| 14 | [Repping Reapers](http://twitter.com/search?q=Repping+Reapers) | N/A |
-| 15 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
-| 16 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
-| 17 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 18 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 19 | [Migos](http://twitter.com/search?q=Migos) | N/A |
-| 20 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 21 | [Iwo Jima](http://twitter.com/search?q=Iwo+Jima) | N/A |
-| 22 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 23 | [The Last Starfighter](http://twitter.com/search?q=The+Last+Starfighter) | N/A |
-| 24 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 25 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
-| 26 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 27 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 28 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 29 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 30 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
-| 31 | [Goya](http://twitter.com/search?q=Goya) | N/A |
-| 32 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 33 | [Expired](http://twitter.com/search?q=Expired) | N/A |
-| 34 | [Eddie Murphy](http://twitter.com/search?q=Eddie+Murphy) | Eddie Murphy is an American actor, comedian, and singer. He is best known for his roles in films such as Beverly Hills Cop, Trading Places, Coming to America, and The Nutty Professor. He has also starred in a number of family-friendly films such as Dr. Dolittle and the Shrek franchise. |
-| 35 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 36 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 37 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 38 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
-| 39 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 40 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
-| 41 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
-| 42 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
-| 43 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
-| 44 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 45 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
-| 46 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
-| 47 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 48 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
-| 49 | [Phineas](http://twitter.com/search?q=Phineas) | Phineas is a masculine given name of Greek origin, derived from the Greek word phoinix, meaning "dark red". It is also a surname. |
+| 1 | [#thebabyfloki](http://twitter.com/search?q=%23thebabyfloki) | N/A |
+| 2 | [Dylan Lyons](http://twitter.com/search?q=Dylan+Lyons) | N/A |
+| 3 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 4 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 5 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 6 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 7 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 8 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
+| 9 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 10 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 11 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 12 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 13 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 14 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
+| 15 | [Jesse Walden](http://twitter.com/search?q=Jesse+Walden) | N/A |
+| 16 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 17 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 18 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
+| 19 | [migos](http://twitter.com/search?q=migos) | N/A |
+| 20 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 21 | [Shinji Mikami](http://twitter.com/search?q=Shinji+Mikami) | N/A |
+| 22 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 23 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 24 | [Repping Reapers](http://twitter.com/search?q=Repping+Reapers) | N/A |
+| 25 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 26 | [Iwo Jima](http://twitter.com/search?q=Iwo+Jima) | N/A |
+| 27 | [The Last Starfighter](http://twitter.com/search?q=The+Last+Starfighter) | N/A |
+| 28 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 29 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 30 | [Kerry Kittles](http://twitter.com/search?q=Kerry+Kittles) | N/A |
+| 31 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 32 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 33 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 34 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 35 | [Expired](http://twitter.com/search?q=Expired) | N/A |
+| 36 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
+| 37 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 38 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 39 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
+| 40 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
+| 41 | [Eddie Murphy](http://twitter.com/search?q=Eddie+Murphy) | Eddie Murphy is an American actor, comedian, and singer. He is best known for his roles in films such as Beverly Hills Cop, Trading Places, Coming to America, and The Nutty Professor. He has also starred in a number of family-friendly films such as Dr. Dolittle and the Shrek franchise. |
+| 42 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 43 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 44 | [Snow Day](http://twitter.com/search?q=Snow+Day) | N/A |
+| 45 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
+| 46 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 47 | [Galveston](http://twitter.com/search?q=Galveston) | N/A |
+| 48 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 49 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
 
 
 

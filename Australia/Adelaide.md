@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adelaide
 
-📆 Last Updated: `2023-02-23 13:21:33 UTC`
+📆 Last Updated: `2023-02-23 14:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 1 | [krystian](http://twitter.com/search?q=krystian) | N/A |
 | 2 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
-| 3 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 4 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 5 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
-| 6 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 3 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
+| 4 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 5 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 6 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
 | 7 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 8 | [RIP Motty](http://twitter.com/search?q=RIP+Motty) | N/A |
-| 9 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 10 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
-| 11 | [#GoggleboxAU](http://twitter.com/search?q=%23GoggleboxAU) | N/A |
-| 12 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 13 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 14 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 8 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 9 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 10 | [RIP Motty](http://twitter.com/search?q=RIP+Motty) | N/A |
+| 11 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 12 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
+| 13 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
+| 14 | [Angus](http://twitter.com/search?q=Angus) | N/A |
 | 15 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 16 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 17 | [serena wilson](http://twitter.com/search?q=serena+wilson) | N/A |
-| 18 | [dodie](http://twitter.com/search?q=dodie) | N/A |
-| 19 | [Bowes](http://twitter.com/search?q=Bowes) | N/A |
-| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 21 | [alex pearce](http://twitter.com/search?q=alex+pearce) | N/A |
-| 22 | [paul murray](http://twitter.com/search?q=paul+murray) | N/A |
-| 23 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 24 | [Superannuation](http://twitter.com/search?q=Superannuation) | N/A |
-| 25 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 26 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
-| 27 | [Davey](http://twitter.com/search?q=Davey) | N/A |
-| 28 | [Murdoch Press](http://twitter.com/search?q=Murdoch+Press) | N/A |
-| 29 | [Steve Price](http://twitter.com/search?q=Steve+Price) | N/A |
-| 30 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 31 | [Louise](http://twitter.com/search?q=Louise) | N/A |
-| 32 | [walla](http://twitter.com/search?q=walla) | N/A |
-| 33 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 34 | [Jane](http://twitter.com/search?q=Jane) | N/A |
-| 35 | [Britton](http://twitter.com/search?q=Britton) | N/A |
-| 36 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
-| 37 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 38 | [Karl Stefanovic](http://twitter.com/search?q=Karl+Stefanovic) | N/A |
-| 39 | [jobkeeper](http://twitter.com/search?q=jobkeeper) | N/A |
-| 40 | [NAPLAN](http://twitter.com/search?q=NAPLAN) | N/A |
-| 41 | [michael pascoe](http://twitter.com/search?q=michael+pascoe) | N/A |
-| 42 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
-| 43 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 44 | [Macquarie Island](http://twitter.com/search?q=Macquarie+Island) | N/A |
-| 45 | [Golightly](http://twitter.com/search?q=Golightly) | N/A |
-| 46 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 47 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
-| 48 | [Sydney Water](http://twitter.com/search?q=Sydney+Water) | N/A |
-| 49 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 16 | [dodie](http://twitter.com/search?q=dodie) | N/A |
+| 17 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 18 | [bowes](http://twitter.com/search?q=bowes) | N/A |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [Alex Pearce](http://twitter.com/search?q=Alex+Pearce) | N/A |
+| 21 | [paul murray](http://twitter.com/search?q=paul+murray) | N/A |
+| 22 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 23 | [Serena Wilson](http://twitter.com/search?q=Serena+Wilson) | N/A |
+| 24 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 25 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 26 | [superannuation](http://twitter.com/search?q=superannuation) | N/A |
+| 27 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 28 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 29 | [Murdoch Press](http://twitter.com/search?q=Murdoch+Press) | N/A |
+| 30 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 31 | [Davey](http://twitter.com/search?q=Davey) | N/A |
+| 32 | [Louise](http://twitter.com/search?q=Louise) | N/A |
+| 33 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 34 | [Walla](http://twitter.com/search?q=Walla) | N/A |
+| 35 | [Jane](http://twitter.com/search?q=Jane) | N/A |
+| 36 | [Britton](http://twitter.com/search?q=Britton) | N/A |
+| 37 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
+| 38 | [Sally](http://twitter.com/search?q=Sally) | N/A |
+| 39 | [karl stefanovic](http://twitter.com/search?q=karl+stefanovic) | N/A |
+| 40 | [Jobkeeper](http://twitter.com/search?q=Jobkeeper) | N/A |
+| 41 | [NAPLAN](http://twitter.com/search?q=NAPLAN) | N/A |
+| 42 | [michael pascoe](http://twitter.com/search?q=michael+pascoe) | N/A |
+| 43 | [Clarkson](http://twitter.com/search?q=Clarkson) | Clarkson is a surname of English origin. It is derived from the Old English word "clerc" meaning "cleric" or "scholar". The name was originally given to someone who was a clerk or scholar. |
+| 44 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 45 | [Macquarie Island](http://twitter.com/search?q=Macquarie+Island) | N/A |
+| 46 | [Golightly](http://twitter.com/search?q=Golightly) | N/A |
+| 47 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 48 | [Suns](http://twitter.com/search?q=Suns) | Suns is an acronym for the phrase “Systems, Usability, Networks, and Security”. It is used to refer to the four main areas of computer science that are studied in order to create effective and secure computer systems. |
+| 49 | [Sydney Water](http://twitter.com/search?q=Sydney+Water) | N/A |
 
 
 

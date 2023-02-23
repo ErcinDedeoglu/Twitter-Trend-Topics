@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bristol
 
-📆 Last Updated: `2023-02-23 13:21:14 UTC`
+📆 Last Updated: `2023-02-23 14:15:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 2 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
-| 3 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 4 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 5 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
-| 6 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 7 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 8 | [Barry Davies](http://twitter.com/search?q=Barry+Davies) | N/A |
-| 9 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
-| 10 | [Brian Moore](http://twitter.com/search?q=Brian+Moore) | N/A |
+| 1 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
+| 2 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 3 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 4 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
+| 5 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 6 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 7 | [Barry Davies](http://twitter.com/search?q=Barry+Davies) | N/A |
+| 8 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 9 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 10 | [Russian Embassy](http://twitter.com/search?q=Russian+Embassy) | N/A |
 | 11 | [Metroid Dread](http://twitter.com/search?q=Metroid+Dread) | N/A |
-| 12 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 13 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
-| 14 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 15 | [Murray Walker](http://twitter.com/search?q=Murray+Walker) | N/A |
-| 16 | [Paul Townsend](http://twitter.com/search?q=Paul+Townsend) | N/A |
-| 17 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 18 | [Ronnie Radford](http://twitter.com/search?q=Ronnie+Radford) | N/A |
-| 19 | [The Voice of Football](http://twitter.com/search?q=The+Voice+of+Football) | N/A |
-| 20 | [John Caldwell](http://twitter.com/search?q=John+Caldwell) | N/A |
-| 21 | [Culture Club](http://twitter.com/search?q=Culture+Club) | N/A |
+| 12 | [Baldrick](http://twitter.com/search?q=Baldrick) | N/A |
+| 13 | [Brian Moore](http://twitter.com/search?q=Brian+Moore) | N/A |
+| 14 | [Paul Townsend](http://twitter.com/search?q=Paul+Townsend) | N/A |
+| 15 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 16 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
+| 17 | [Murray Walker](http://twitter.com/search?q=Murray+Walker) | N/A |
+| 18 | [Molly Mae](http://twitter.com/search?q=Molly+Mae) | Molly Mae is a female given name, derived from the Hebrew name Mary. It is a combination of the names Mary and Mae, and can be used as a nickname for Mary or as an independent given name. The meaning of Molly Mae in English is "bitter" or "star of the sea". |
+| 19 | [Ronnie Radford](http://twitter.com/search?q=Ronnie+Radford) | N/A |
+| 20 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
+| 21 | [John Caldwell](http://twitter.com/search?q=John+Caldwell) | N/A |
 | 22 | [10 World Cups](http://twitter.com/search?q=10+World+Cups) | N/A |
-| 23 | [Ricky Villa](http://twitter.com/search?q=Ricky+Villa) | N/A |
-| 24 | [The Crazy Gang](http://twitter.com/search?q=The+Crazy+Gang) | N/A |
-| 25 | [Jason Arday](http://twitter.com/search?q=Jason+Arday) | N/A |
-| 26 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 27 | [David Sullivan](http://twitter.com/search?q=David+Sullivan) | N/A |
-| 28 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
-| 29 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
-| 30 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 31 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
-| 32 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 33 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 34 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 35 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 36 | [The Home Office](http://twitter.com/search?q=The+Home+Office) | N/A |
-| 37 | [Hereford](http://twitter.com/search?q=Hereford) | N/A |
-| 38 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
-| 39 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 40 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
-| 41 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 42 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 43 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
-| 44 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 45 | [2nd March](http://twitter.com/search?q=2nd+March) | N/A |
-| 46 | [David Bowie](http://twitter.com/search?q=David+Bowie) | N/A |
-| 47 | [Weather](http://twitter.com/search?q=Weather) | N/A |
-| 48 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 23 | [The Voice of Football](http://twitter.com/search?q=The+Voice+of+Football) | N/A |
+| 24 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 25 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 26 | [The Crazy Gang](http://twitter.com/search?q=The+Crazy+Gang) | N/A |
+| 27 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 28 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
+| 29 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
+| 30 | [Culture Club](http://twitter.com/search?q=Culture+Club) | N/A |
+| 31 | [After 13](http://twitter.com/search?q=After+13) | N/A |
+| 32 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 33 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
+| 34 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 35 | [Jason Arday](http://twitter.com/search?q=Jason+Arday) | N/A |
+| 36 | [Yellowstone](http://twitter.com/search?q=Yellowstone) | N/A |
+| 37 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 38 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 39 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
+| 40 | [David Sullivan](http://twitter.com/search?q=David+Sullivan) | N/A |
+| 41 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 42 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 43 | [The WBC](http://twitter.com/search?q=The+WBC) | N/A |
+| 44 | [The Home Office](http://twitter.com/search?q=The+Home+Office) | N/A |
+| 45 | [Hereford](http://twitter.com/search?q=Hereford) | N/A |
+| 46 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 47 | [Connor](http://twitter.com/search?q=Connor) | N/A |
 
 
 

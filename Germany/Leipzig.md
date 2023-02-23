@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-23 13:21:28 UTC`
+📆 Last Updated: `2023-02-23 14:15:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#veganeSongs](http://twitter.com/search?q=%23veganeSongs) | N/A |
-| 2 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
-| 3 | [#Schwesig](http://twitter.com/search?q=%23Schwesig) | N/A |
+| 2 | [#Schwesig](http://twitter.com/search?q=%23Schwesig) | N/A |
+| 3 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
 | 4 | [#Aschermittwoch](http://twitter.com/search?q=%23Aschermittwoch) | N/A |
-| 5 | [Clemens Arvay](http://twitter.com/search?q=Clemens+Arvay) | N/A |
-| 6 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
-| 7 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 8 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 9 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
-| 10 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
-| 11 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 12 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 13 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
-| 14 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 15 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 16 | [Leben ein Ende](http://twitter.com/search?q=Leben+ein+Ende) | N/A |
-| 17 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
+| 5 | [Clemens](http://twitter.com/search?q=Clemens) | Clemens is a surname of German origin. It is derived from the Latin word clemens, which means "merciful" or "gentle". |
+| 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 7 | [#SaraShirazi](http://twitter.com/search?q=%23SaraShirazi) | N/A |
+| 8 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 9 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 10 | [fotomontage](http://twitter.com/search?q=fotomontage) | N/A |
+| 11 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 12 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
+| 13 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 14 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
+| 15 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 16 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 17 | [Fleischverbot](http://twitter.com/search?q=Fleischverbot) | N/A |
 | 18 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
-| 19 | [Heute vor 80 Jahren](http://twitter.com/search?q=Heute+vor+80+Jahren) | N/A |
-| 20 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
-| 21 | [Fleischverbot](http://twitter.com/search?q=Fleischverbot) | N/A |
-| 22 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 19 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
+| 20 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
+| 21 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
+| 22 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
 | 23 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 24 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
-| 25 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 26 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 27 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
-| 28 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 24 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
+| 25 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
+| 26 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 27 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 28 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
 | 29 | [Selbstbeteiligung](http://twitter.com/search?q=Selbstbeteiligung) | N/A |
-| 30 | [raffelhüschen](http://twitter.com/search?q=raffelh%c3%bcschen) | N/A |
-| 31 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
-| 32 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 33 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 34 | [finanzbeamtin](http://twitter.com/search?q=finanzbeamtin) | N/A |
-| 35 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
-| 36 | [Christoph Probst](http://twitter.com/search?q=Christoph+Probst) | N/A |
-| 37 | [sommersprossen](http://twitter.com/search?q=sommersprossen) | N/A |
-| 38 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
-| 39 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 40 | [Mahlzeit](http://twitter.com/search?q=Mahlzeit) | N/A |
-| 41 | [Öl auf die Straße](http://twitter.com/search?q=%c3%96l+auf+die+Stra%c3%9fe) | N/A |
-| 42 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
-| 43 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 44 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 45 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
-| 46 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
-| 47 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
-| 48 | [Mohr](http://twitter.com/search?q=Mohr) | N/A |
-| 49 | [geburtsjahr](http://twitter.com/search?q=geburtsjahr) | N/A |
+| 30 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
+| 31 | [raffelhüschen](http://twitter.com/search?q=raffelh%c3%bcschen) | N/A |
+| 32 | [sommersprossen](http://twitter.com/search?q=sommersprossen) | N/A |
+| 33 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
+| 34 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 35 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
+| 36 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 37 | [Öl auf die Straße](http://twitter.com/search?q=%c3%96l+auf+die+Stra%c3%9fe) | N/A |
+| 38 | [Leben ein Ende](http://twitter.com/search?q=Leben+ein+Ende) | N/A |
+| 39 | [Mohr](http://twitter.com/search?q=Mohr) | N/A |
+| 40 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 41 | [hubsi](http://twitter.com/search?q=hubsi) | N/A |
+| 42 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 43 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
+| 44 | [Christoph Probst](http://twitter.com/search?q=Christoph+Probst) | N/A |
+| 45 | [Boje](http://twitter.com/search?q=Boje) | N/A |
+| 46 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
+| 47 | [geburtsjahr](http://twitter.com/search?q=geburtsjahr) | N/A |
+| 48 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
+| 49 | [Brennweite](http://twitter.com/search?q=Brennweite) | N/A |
 | 50 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
 
 

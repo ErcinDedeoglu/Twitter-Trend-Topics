@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-02-23 13:21:43 UTC`
+📆 Last Updated: `2023-02-23 14:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,53 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 2 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 3 | [#لجنه_الانضباط_والاخلاق](http://twitter.com/search?q=%23%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7_%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
-| 4 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
-| 5 | [#_اليوم](http://twitter.com/search?q=%23_%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 6 | [الايادي المرتعشه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%b9%d8%b4%d9%87) | N/A |
+| 1 | [#_اليوم](http://twitter.com/search?q=%23_%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 2 | [#مساء__الخير](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1__%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 3 | [#الدعم_السكني](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%b9%d9%85_%d8%a7%d9%84%d8%b3%d9%83%d9%86%d9%8a) | N/A |
+| 4 | [#لجنه_الانضباط_والاخلاق](http://twitter.com/search?q=%23%d9%84%d8%ac%d9%86%d9%87_%d8%a7%d9%84%d8%a7%d9%86%d8%b6%d8%a8%d8%a7%d8%b7_%d9%88%d8%a7%d9%84%d8%a7%d8%ae%d9%84%d8%a7%d9%82) | N/A |
+| 5 | [الايادي المرتعشه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%b9%d8%b4%d9%87) | N/A |
+| 6 | [الاتحاد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
 | 7 | [الراي العام](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d9%8a+%d8%a7%d9%84%d8%b9%d8%a7%d9%85) | N/A |
-| 8 | [الاتحاد السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 9 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
-| 10 | [اللوبي الازرق](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d8%a8%d9%8a+%d8%a7%d9%84%d8%a7%d8%b2%d8%b1%d9%82) | N/A |
-| 11 | [الهلال](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | الهلال (Al Hilal) is an Arabic phrase meaning "the crescent" or "the new moon". It is also the name of a popular Saudi Arabian football club. |
-| 12 | [محمد بن سعود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 13 | [النصر](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b5%d8%b1) | النصر is an Arabic word meaning "victory" or "triumph". It is often used as a rallying cry for success or to celebrate a victory. |
-| 14 | [اليوم الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 15 | [حامد البلوي](http://twitter.com/search?q=%d8%ad%d8%a7%d9%85%d8%af+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d9%8a) | N/A |
-| 16 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 17 | [٢٢ فبراير](http://twitter.com/search?q=%d9%a2%d9%a2+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 18 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 19 | [اللوبي الاصفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d8%a8%d9%8a+%d8%a7%d9%84%d8%a7%d8%b5%d9%81%d8%b1) | N/A |
-| 20 | [الشعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 21 | [ساره الودعاني](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%88%d8%af%d8%b9%d8%a7%d9%86%d9%8a) | N/A |
-| 22 | [بن نافل](http://twitter.com/search?q=%d8%a8%d9%86+%d9%86%d8%a7%d9%81%d9%84) | بن نافل (pronounced "bin nafl") is an Arabic phrase meaning "for free" or "at no cost". |
-| 23 | [الفيفا](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d9%8a%d9%81%d8%a7) | N/A |
-| 24 | [محمد بن سلمان](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
-| 25 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 26 | [خادم الحرمين الشريفين](http://twitter.com/search?q=%d8%ae%d8%a7%d8%af%d9%85+%d8%a7%d9%84%d8%ad%d8%b1%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81%d9%8a%d9%86) | N/A |
-| 27 | [النادي المدلل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%af%d9%84%d9%84) | N/A |
-| 28 | [سلمان الفرج](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d9%81%d8%b1%d8%ac) | سلمان الفرج is an Arabic phrase meaning "Solomon the Liberator". It is a reference to the biblical figure of King Solomon, who was known for his wisdom and justice. |
-| 29 | [علي حسب النادي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%ad%d8%b3%d8%a8+%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a) | N/A |
-| 30 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
-| 31 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 32 | [المنطقه الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 33 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 34 | [وطني الحبيب](http://twitter.com/search?q=%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 35 | [توقيت القرار](http://twitter.com/search?q=%d8%aa%d9%88%d9%82%d9%8a%d8%aa+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
-| 36 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
-| 37 | [سجل الجلسه](http://twitter.com/search?q=%d8%b3%d8%ac%d9%84+%d8%a7%d9%84%d8%ac%d9%84%d8%b3%d9%87) | N/A |
-| 38 | [الوطن العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 39 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 40 | [الاساءه الاعلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%a1%d9%87+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
-| 41 | [مكرم منصوري](http://twitter.com/search?q=%d9%85%d9%83%d8%b1%d9%85+%d9%85%d9%86%d8%b5%d9%88%d8%b1%d9%8a) | N/A |
-| 42 | [فولد فارا](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d8%af+%d9%81%d8%a7%d8%b1%d8%a7) | N/A |
-| 43 | [آل سعود](http://twitter.com/search?q=%d8%a2%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 44 | [العقال المقصب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d9%82%d8%b5%d8%a8) | N/A |
-| 45 | [الغرامه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%b1%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 46 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 47 | [الوطن الغالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
-| 48 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
-| 49 | [سرب المعلومات](http://twitter.com/search?q=%d8%b3%d8%b1%d8%a8+%d8%a7%d9%84%d9%85%d8%b9%d9%84%d9%88%d9%85%d8%a7%d8%aa) | N/A |
-| 50 | [صاحب القضيه](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87) | N/A |
+| 8 | [#الخميس_الونيس](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3_%d8%a7%d9%84%d9%88%d9%86%d9%8a%d8%b3) | #الخميس_الونيس is a hashtag used on Twitter in the Arabic-speaking world. It translates to "Thursday of Unity" and is used to promote unity and solidarity among people of different backgrounds. |
+| 9 | [اللوبي الازرق](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d8%a8%d9%8a+%d8%a7%d9%84%d8%a7%d8%b2%d8%b1%d9%82) | N/A |
+| 10 | [حامد البلوي](http://twitter.com/search?q=%d8%ad%d8%a7%d9%85%d8%af+%d8%a7%d9%84%d8%a8%d9%84%d9%88%d9%8a) | N/A |
+| 11 | [سعيد الربيعي](http://twitter.com/search?q=%d8%b3%d8%b9%d9%8a%d8%af+%d8%a7%d9%84%d8%b1%d8%a8%d9%8a%d8%b9%d9%8a) | N/A |
+| 12 | [اللوبي الاصفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%88%d8%a8%d9%8a+%d8%a7%d9%84%d8%a7%d8%b5%d9%81%d8%b1) | N/A |
+| 13 | [النادي المدلل](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%af%d9%84%d9%84) | N/A |
+| 14 | [الاساءه الاعلاميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%a1%d9%87+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a%d9%87) | N/A |
+| 15 | [هزازي](http://twitter.com/search?q=%d9%87%d8%b2%d8%a7%d8%b2%d9%8a) | N/A |
+| 16 | [الغرامه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%ba%d8%b1%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 17 | [علي المترجم](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d8%aa%d8%b1%d8%ac%d9%85) | N/A |
+| 18 | [الاسعافات الاوليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%b3%d8%b9%d8%a7%d9%81%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d9%88%d9%84%d9%8a%d9%87) | N/A |
+| 19 | [الاداره القانونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%af%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%82%d8%a7%d9%86%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 20 | [اتحاد القدم](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%82%d8%af%d9%85) | N/A |
+| 21 | [علي المكشوف](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%85%d9%83%d8%b4%d9%88%d9%81) | N/A |
+| 22 | [علي اللجان](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%84%d8%ac%d8%a7%d9%86) | N/A |
+| 23 | [رييس اللجنه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 24 | [برا الملعب](http://twitter.com/search?q=%d8%a8%d8%b1%d8%a7+%d8%a7%d9%84%d9%85%d9%84%d8%b9%d8%a8) | N/A |
+| 25 | [المنظومه الرياضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b8%d9%88%d9%85%d9%87+%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d8%b6%d9%8a%d9%87) | N/A |
+| 26 | [علي اللاعب](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%84%d8%a7%d8%b9%d8%a8) | N/A |
+| 27 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 28 | [اتحاد الكره](http://twitter.com/search?q=%d8%a7%d8%aa%d8%ad%d8%a7%d8%af+%d8%a7%d9%84%d9%83%d8%b1%d9%87) | N/A |
+| 29 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
+| 30 | [جاب العيد](http://twitter.com/search?q=%d8%ac%d8%a7%d8%a8+%d8%a7%d9%84%d8%b9%d9%8a%d8%af) | N/A |
+| 31 | [درب السلامه](http://twitter.com/search?q=%d8%af%d8%b1%d8%a8+%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85%d9%87) | N/A |
+| 32 | [قره عين](http://twitter.com/search?q=%d9%82%d8%b1%d9%87+%d8%b9%d9%8a%d9%86) | N/A |
+| 33 | [#الشباب_الدحيل](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b4%d8%a8%d8%a7%d8%a8_%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84) | N/A |
+| 34 | [#الهلال_فولاذ](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%88%d9%84%d8%a7%d8%b0) | N/A |
+| 35 | [#زين_تدعم_الشذوذ](http://twitter.com/search?q=%23%d8%b2%d9%8a%d9%86_%d8%aa%d8%af%d8%b9%d9%85_%d8%a7%d9%84%d8%b4%d8%b0%d9%88%d8%b0) | N/A |
+| 36 | [#الاتحاد_الرايد](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a7%d8%aa%d8%ad%d8%a7%d8%af_%d8%a7%d9%84%d8%b1%d8%a7%d9%8a%d8%af) | N/A |
+| 37 | [#حرق_هجوم_العمالقه](http://twitter.com/search?q=%23%d8%ad%d8%b1%d9%82_%d9%87%d8%ac%d9%88%d9%85_%d8%a7%d9%84%d8%b9%d9%85%d8%a7%d9%84%d9%82%d9%87) | N/A |
+| 38 | [#الدكتور_وسيم_يحتاج_منا_الدعاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d9%83%d8%aa%d9%88%d8%b1_%d9%88%d8%b3%d9%8a%d9%85_%d9%8a%d8%ad%d8%aa%d8%a7%d8%ac_%d9%85%d9%86%d8%a7_%d8%a7%d9%84%d8%af%d8%b9%d8%a7%d8%a1) | N/A |
+| 39 | [#برنامج_الاجاويد518](http://twitter.com/search?q=%23%d8%a8%d8%b1%d9%86%d8%a7%d9%85%d8%ac_%d8%a7%d9%84%d8%a7%d8%ac%d8%a7%d9%88%d9%8a%d8%af518) | N/A |
+| 40 | [#التعاون_الفيحاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%aa%d8%b9%d8%a7%d9%88%d9%86_%d8%a7%d9%84%d9%81%d9%8a%d8%ad%d8%a7%d8%a1) | N/A |
+| 41 | [#بوليفارد_رياض_سيتي](http://twitter.com/search?q=%23%d8%a8%d9%88%d9%84%d9%8a%d9%81%d8%a7%d8%b1%d8%af_%d8%b1%d9%8a%d8%a7%d8%b6_%d8%b3%d9%8a%d8%aa%d9%8a) | N/A |
+| 42 | [#حبيبي_حسين](http://twitter.com/search?q=%23%d8%ad%d8%a8%d9%8a%d8%a8%d9%8a_%d8%ad%d8%b3%d9%8a%d9%86) | N/A |
+| 43 | [#احمد_بن_فهد_بن_سلمان](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%af_%d8%a8%d9%86_%d9%81%d9%87%d8%af_%d8%a8%d9%86_%d8%b3%d9%84%d9%85%d8%a7%d9%86) | N/A |
+| 44 | [#جوله_يوم_التاسيس](http://twitter.com/search?q=%23%d8%ac%d9%88%d9%84%d9%87_%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 45 | [#صباحات_الهلال](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad%d8%a7%d8%aa_%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
+| 46 | [#كريستيانو_رونالدو](http://twitter.com/search?q=%23%d9%83%d8%b1%d9%8a%d8%b3%d8%aa%d9%8a%d8%a7%d9%86%d9%88_%d8%b1%d9%88%d9%86%d8%a7%d9%84%d8%af%d9%88) | N/A |
+| 47 | [#شماغ_البسام](http://twitter.com/search?q=%23%d8%b4%d9%85%d8%a7%d8%ba_%d8%a7%d9%84%d8%a8%d8%b3%d8%a7%d9%85) | N/A |
 
 
 
