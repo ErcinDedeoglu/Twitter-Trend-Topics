@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chennai
 
-📆 Last Updated: `2023-02-23 09:16:44 UTC`
+📆 Last Updated: `2023-02-23 10:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#CaptainMiller](http://twitter.com/search?q=%23CaptainMiller) | N/A |
-| 2 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 3 | [#அதிமுக](http://twitter.com/search?q=%23%e0%ae%85%e0%ae%a4%e0%ae%bf%e0%ae%ae%e0%af%81%e0%ae%95) | N/A |
-| 4 | [#16YearsofKarthiism](http://twitter.com/search?q=%2316YearsofKarthiism) | N/A |
-| 5 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 6 | [#PawanKhera](http://twitter.com/search?q=%23PawanKhera) | N/A |
-| 7 | [असम पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 8 | [Assam Police](http://twitter.com/search?q=Assam+Police) | N/A |
-| 9 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 10 | [Sneh Rana](http://twitter.com/search?q=Sneh+Rana) | N/A |
-| 11 | [Pooja Vastrakar](http://twitter.com/search?q=Pooja+Vastrakar) | N/A |
-| 12 | [गाडगे महाराज](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%a1%e0%a4%97%e0%a5%87+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 13 | [Raipur](http://twitter.com/search?q=Raipur) | N/A |
+| 2 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
+| 3 | [#PawanKhera](http://twitter.com/search?q=%23PawanKhera) | N/A |
+| 4 | [असम पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 5 | [#ProjectSURAKSHAbyHimalaya](http://twitter.com/search?q=%23ProjectSURAKSHAbyHimalaya) | N/A |
+| 6 | [Assam Police](http://twitter.com/search?q=Assam+Police) | N/A |
+| 7 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
+| 8 | [#MrsChatterjeeVsNorway](http://twitter.com/search?q=%23MrsChatterjeeVsNorway) | N/A |
+| 9 | [Sneh Rana](http://twitter.com/search?q=Sneh+Rana) | N/A |
+| 10 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 11 | [गाडगे महाराज](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%a1%e0%a4%97%e0%a5%87+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 12 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
+| 13 | [raipur](http://twitter.com/search?q=raipur) | N/A |
 | 14 | [पवन खेरा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%b0%e0%a4%be) | N/A |
-| 15 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 16 | [Harmanpreet Kaur](http://twitter.com/search?q=Harmanpreet+Kaur) | N/A |
-| 17 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 18 | [Chargesheet Overdue In SSRcase](http://twitter.com/search?q=Chargesheet+Overdue+In+SSRcase) | N/A |
-| 19 | [Indigo](http://twitter.com/search?q=Indigo) | N/A |
-| 20 | [David Warner](http://twitter.com/search?q=David+Warner) | N/A |
-| 21 | [CR Kesavan](http://twitter.com/search?q=CR+Kesavan) | N/A |
-| 22 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 23 | [Emergency](http://twitter.com/search?q=Emergency) | N/A |
-| 24 | [शिक्षा विभाग](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
-| 25 | [IPL 2023](http://twitter.com/search?q=IPL+2023) | N/A |
-| 26 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 15 | [Harmanpreet Kaur](http://twitter.com/search?q=Harmanpreet+Kaur) | N/A |
+| 16 | [Chargesheet Overdue In SSRcase](http://twitter.com/search?q=Chargesheet+Overdue+In+SSRcase) | N/A |
+| 17 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 18 | [Emergency](http://twitter.com/search?q=Emergency) | N/A |
+| 19 | [गौतम दास](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%ae+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
+| 20 | [Delhi Police](http://twitter.com/search?q=Delhi+Police) | N/A |
+| 21 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 22 | [Hrithik](http://twitter.com/search?q=Hrithik) | N/A |
+| 23 | [David Warner](http://twitter.com/search?q=David+Warner) | N/A |
+| 24 | [ipl 2023](http://twitter.com/search?q=ipl+2023) | N/A |
+| 25 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 26 | [शिक्षा विभाग](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
 | 27 | [Check Facts](http://twitter.com/search?q=Check+Facts) | N/A |
 | 28 | [Base Of Imprisonment](http://twitter.com/search?q=Base+Of+Imprisonment) | N/A |
-| 29 | [Hrithik](http://twitter.com/search?q=Hrithik) | N/A |
+| 29 | [Puncture](http://twitter.com/search?q=Puncture) | N/A |
 | 30 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
-| 31 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 32 | [Mayank](http://twitter.com/search?q=Mayank) | Mayank is a Hindu name of Indian origin. It is derived from the Sanskrit word 'Maya', which means "illusion". The name is often used to refer to Lord Vishnu, who is believed to be the creator of the universe and its illusions. In English, Mayank can be translated to mean "illusionist". |
-| 33 | [स्टैंडिंग कमेटी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%88%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%82%e0%a4%97+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
-| 34 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 35 | [#MrsChatterjeeVsNorway](http://twitter.com/search?q=%23MrsChatterjeeVsNorway) | N/A |
-| 36 | [#ProjectSURAKSHAbyHimalaya](http://twitter.com/search?q=%23ProjectSURAKSHAbyHimalaya) | N/A |
-| 37 | [#EdappadiPalaniswami](http://twitter.com/search?q=%23EdappadiPalaniswami) | N/A |
-| 38 | [#DelhiAirport](http://twitter.com/search?q=%23DelhiAirport) | N/A |
-| 39 | [#RaniMukerji](http://twitter.com/search?q=%23RaniMukerji) | N/A |
+| 31 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 32 | [#HritikSinghal](http://twitter.com/search?q=%23HritikSinghal) | N/A |
+| 33 | [#EdappadiPalaniswami](http://twitter.com/search?q=%23EdappadiPalaniswami) | N/A |
+| 34 | [#DelhiAirport](http://twitter.com/search?q=%23DelhiAirport) | N/A |
+| 35 | [#PoojaVastrakar](http://twitter.com/search?q=%23PoojaVastrakar) | N/A |
+| 36 | [#RaniMukerji](http://twitter.com/search?q=%23RaniMukerji) | N/A |
+| 37 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
+| 38 | [#AidenMarkram](http://twitter.com/search?q=%23AidenMarkram) | N/A |
+| 39 | [#MaanviGagroo](http://twitter.com/search?q=%23MaanviGagroo) | N/A |
 | 40 | [#AIADMK](http://twitter.com/search?q=%23AIADMK) | N/A |
-| 41 | [#TaareSongOutNow](http://twitter.com/search?q=%23TaareSongOutNow) | N/A |
-| 42 | [#AidenMarkram](http://twitter.com/search?q=%23AidenMarkram) | N/A |
-| 43 | [#बागेश्वर_धाम_झूठ_का_अड्डा](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0_%e0%a4%a7%e0%a4%be%e0%a4%ae_%e0%a4%9d%e0%a5%82%e0%a4%a0_%e0%a4%95%e0%a4%be_%e0%a4%85%e0%a4%a1%e0%a5%8d%e0%a4%a1%e0%a4%be) | N/A |
-| 44 | [#SunrisersHyderabad](http://twitter.com/search?q=%23SunrisersHyderabad) | N/A |
-| 45 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
-| 46 | [#tnplauction](http://twitter.com/search?q=%23tnplauction) | N/A |
-| 47 | [#GreenGrowth](http://twitter.com/search?q=%23GreenGrowth) | N/A |
-| 48 | [#FasGayeAapKeJasoos](http://twitter.com/search?q=%23FasGayeAapKeJasoos) | N/A |
-| 49 | [#எடப்பாடியார்](http://twitter.com/search?q=%23%e0%ae%8e%e0%ae%9f%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%be%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%b0%e0%af%8d) | N/A |
-| 50 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 41 | [#Chandramukhi2](http://twitter.com/search?q=%23Chandramukhi2) | N/A |
+| 42 | [#SunrisersHyderabad](http://twitter.com/search?q=%23SunrisersHyderabad) | N/A |
+| 43 | [#tnplauction](http://twitter.com/search?q=%23tnplauction) | N/A |
+| 44 | [#TaareSongOutNow](http://twitter.com/search?q=%23TaareSongOutNow) | N/A |
+| 45 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
+| 46 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 47 | [#बागेश्वर_धाम_झूठ_का_अड्डा](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0_%e0%a4%a7%e0%a4%be%e0%a4%ae_%e0%a4%9d%e0%a5%82%e0%a4%a0_%e0%a4%95%e0%a4%be_%e0%a4%85%e0%a4%a1%e0%a5%8d%e0%a4%a1%e0%a4%be) | N/A |
+| 48 | [#SukeshChandrashekhar](http://twitter.com/search?q=%23SukeshChandrashekhar) | N/A |
+| 49 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
+| 50 | [#HaryanaBudget](http://twitter.com/search?q=%23HaryanaBudget) | N/A |
 
 
 

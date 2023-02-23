@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For South Africa
 
-📆 Last Updated: `2023-02-23 09:17:00 UTC`
+📆 Last Updated: `2023-02-23 10:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for South Africa
 | ------- | ------------ | ------------ |
 | 1 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
 | 2 | [De Ruyter](http://twitter.com/search?q=De+Ruyter) | N/A |
-| 3 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 4 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
-| 5 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 6 | [#StudentFundingWebinar](http://twitter.com/search?q=%23StudentFundingWebinar) | N/A |
-| 7 | [#TogetherBekeLeBeke](http://twitter.com/search?q=%23TogetherBekeLeBeke) | N/A |
-| 8 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 9 | [#RHODurban](http://twitter.com/search?q=%23RHODurban) | N/A |
-| 10 | [The Establishment](http://twitter.com/search?q=The+Establishment) | N/A |
-| 11 | [KHOSI THE SPIRITUALIST](http://twitter.com/search?q=KHOSI+THE+SPIRITUALIST) | N/A |
-| 12 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 3 | [#TogetherBekeLeBeke](http://twitter.com/search?q=%23TogetherBekeLeBeke) | N/A |
+| 4 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 5 | [The Establishment](http://twitter.com/search?q=The+Establishment) | N/A |
+| 6 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
+| 7 | [Alexandra](http://twitter.com/search?q=Alexandra) | N/A |
+| 8 | [Slee](http://twitter.com/search?q=Slee) | N/A |
+| 9 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
+| 10 | [#StudentFundingWebinar](http://twitter.com/search?q=%23StudentFundingWebinar) | N/A |
+| 11 | [#FedupWithLoadshedding](http://twitter.com/search?q=%23FedupWithLoadshedding) | N/A |
+| 12 | [KHOSI THE SPIRITUALIST](http://twitter.com/search?q=KHOSI+THE+SPIRITUALIST) | N/A |
 | 13 | [THABANG THE GOAT](http://twitter.com/search?q=THABANG+THE+GOAT) | N/A |
 | 14 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 16 | [Mateki](http://twitter.com/search?q=Mateki) | N/A |
-| 17 | [Drip](http://twitter.com/search?q=Drip) | N/A |
+| 15 | [Mateki](http://twitter.com/search?q=Mateki) | N/A |
+| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 17 | [Stage 7](http://twitter.com/search?q=Stage+7) | N/A |
 | 18 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
-| 19 | [Stage 7](http://twitter.com/search?q=Stage+7) | N/A |
-| 20 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 21 | [Nampak](http://twitter.com/search?q=Nampak) | N/A |
-| 22 | [Girlfriend of 18](http://twitter.com/search?q=Girlfriend+of+18) | N/A |
-| 23 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 24 | [eNCA](http://twitter.com/search?q=eNCA) | N/A |
-| 25 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
-| 26 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 19 | [Drip](http://twitter.com/search?q=Drip) | N/A |
+| 20 | [Nampak](http://twitter.com/search?q=Nampak) | N/A |
+| 21 | [Girlfriend of 18](http://twitter.com/search?q=Girlfriend+of+18) | N/A |
+| 22 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
+| 23 | [eNCA](http://twitter.com/search?q=eNCA) | N/A |
+| 24 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 25 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 26 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
 | 27 | [team fashion](http://twitter.com/search?q=team+fashion) | N/A |
-| 28 | [golden boy thabang](http://twitter.com/search?q=golden+boy+thabang) | N/A |
-| 29 | [Annika Larsen](http://twitter.com/search?q=Annika+Larsen) | N/A |
-| 30 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
-| 31 | [Jamnandas](http://twitter.com/search?q=Jamnandas) | N/A |
-| 32 | [Enoch Godongwana](http://twitter.com/search?q=Enoch+Godongwana) | N/A |
-| 33 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 28 | [Annika Larsen](http://twitter.com/search?q=Annika+Larsen) | N/A |
+| 29 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 30 | [Jamnandas](http://twitter.com/search?q=Jamnandas) | N/A |
+| 31 | [Enoch Godongwana](http://twitter.com/search?q=Enoch+Godongwana) | N/A |
+| 32 | [Koko](http://twitter.com/search?q=Koko) | N/A |
+| 33 | [Molefe](http://twitter.com/search?q=Molefe) | N/A |
 | 34 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 35 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 36 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 37 | [Anonza](http://twitter.com/search?q=Anonza) | N/A |
-| 38 | [JUICY JAY OUR WINNER](http://twitter.com/search?q=JUICY+JAY+OUR+WINNER) | N/A |
-| 39 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 40 | [Traffic](http://twitter.com/search?q=Traffic) | N/A |
-| 41 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 42 | [Koko](http://twitter.com/search?q=Koko) | N/A |
-| 43 | [Administration](http://twitter.com/search?q=Administration) | N/A |
-| 44 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 45 | [Monnapule Saleng](http://twitter.com/search?q=Monnapule+Saleng) | N/A |
-| 46 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 47 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 48 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 49 | [Samsung Galaxy S23](http://twitter.com/search?q=Samsung+Galaxy+S23) | N/A |
-| 50 | [Brian Molefe](http://twitter.com/search?q=Brian+Molefe) | N/A |
+| 35 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
+| 36 | [Anonza](http://twitter.com/search?q=Anonza) | N/A |
+| 37 | [JUICY JAY OUR WINNER](http://twitter.com/search?q=JUICY+JAY+OUR+WINNER) | N/A |
+| 38 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
+| 39 | [Traffic](http://twitter.com/search?q=Traffic) | N/A |
+| 40 | [North West](http://twitter.com/search?q=North+West) | N/A |
+| 41 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 42 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
+| 43 | [Uber](http://twitter.com/search?q=Uber) | N/A |
+| 44 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 45 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 46 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 47 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 48 | [The Magic Man](http://twitter.com/search?q=The+Magic+Man) | N/A |
+| 49 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 50 | [SOEs](http://twitter.com/search?q=SOEs) | N/A |
 
 
 

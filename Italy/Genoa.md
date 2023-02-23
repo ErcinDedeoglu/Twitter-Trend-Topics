@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-23 09:16:22 UTC`
+📆 Last Updated: `2023-02-23 10:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
-| 2 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 3 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
-| 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 5 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 6 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 8 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 9 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 10 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 11 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
-| 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 13 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 14 | [Mandragora](http://twitter.com/search?q=Mandragora) | N/A |
-| 15 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 16 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 17 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 18 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
+| 2 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
+| 3 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 4 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
+| 5 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 7 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 8 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 9 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 10 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 11 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 12 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 13 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
+| 14 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 15 | [Mandragora](http://twitter.com/search?q=Mandragora) | N/A |
+| 16 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 17 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 18 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
 | 19 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 20 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 21 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 22 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 23 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 24 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 25 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 26 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
-| 27 | [Saman](http://twitter.com/search?q=Saman) | N/A |
-| 28 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 29 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
-| 30 | [Buon Giovedì](http://twitter.com/search?q=Buon+Gioved%c3%ac) | N/A |
-| 31 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 32 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 33 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 34 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
-| 35 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 21 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
+| 22 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 23 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
+| 24 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 25 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 26 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 27 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 28 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 29 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 30 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
+| 31 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 32 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 33 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 34 | [Buon Giovedì](http://twitter.com/search?q=Buon+Gioved%c3%ac) | N/A |
+| 35 | [Buongiorno Regina](http://twitter.com/search?q=Buongiorno+Regina) | N/A |
 | 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 37 | [BIG ROM](http://twitter.com/search?q=BIG+ROM) | N/A |
-| 38 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
-| 39 | [Surreale](http://twitter.com/search?q=Surreale) | N/A |
-| 40 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 41 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 42 | [Buongiorno Dj](http://twitter.com/search?q=Buongiorno+Dj) | N/A |
-| 43 | [Ovadia](http://twitter.com/search?q=Ovadia) | N/A |
-| 44 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 45 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
-| 46 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 47 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 48 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 49 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
+| 38 | [Buongiorno Dory](http://twitter.com/search?q=Buongiorno+Dory) | N/A |
+| 39 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
+| 40 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
+| 41 | [Maranello](http://twitter.com/search?q=Maranello) | N/A |
+| 42 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 43 | [sentite](http://twitter.com/search?q=sentite) | N/A |
+| 44 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 45 | [la scena](http://twitter.com/search?q=la+scena) | N/A |
+| 46 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
+| 47 | [Surreale](http://twitter.com/search?q=Surreale) | N/A |
+| 48 | [Ovadia](http://twitter.com/search?q=Ovadia) | N/A |
+| 49 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
 
 
 

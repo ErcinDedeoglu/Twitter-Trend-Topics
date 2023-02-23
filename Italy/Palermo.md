@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-23 09:16:22 UTC`
+📆 Last Updated: `2023-02-23 10:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Italy](</Italy>)
 | ------- | ------------ | ------------ |
 | 1 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
 | 2 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 3 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
-| 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
+| 3 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
+| 4 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
 | 5 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
 | 6 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
 | 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 8 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 9 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 10 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 11 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
-| 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 13 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 14 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 9 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 10 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 11 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 12 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
+| 13 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 14 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
 | 15 | [Mandragora](http://twitter.com/search?q=Mandragora) | N/A |
-| 16 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 17 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 18 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
+| 16 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 17 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 18 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
 | 19 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 20 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 21 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 22 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 23 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 24 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
-| 25 | [Saman](http://twitter.com/search?q=Saman) | N/A |
-| 26 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
-| 27 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
-| 28 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 29 | [Buon Giovedì](http://twitter.com/search?q=Buon+Gioved%c3%ac) | N/A |
-| 30 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 31 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 32 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 33 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
-| 34 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
-| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 21 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
+| 22 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 23 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
+| 24 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 25 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 26 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 27 | [Buongiorno Silvia](http://twitter.com/search?q=Buongiorno+Silvia) | N/A |
+| 28 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 29 | [Marc](http://twitter.com/search?q=Marc) | N/A |
+| 30 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
+| 31 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 32 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 33 | [Buon Giovedì](http://twitter.com/search?q=Buon+Gioved%c3%ac) | N/A |
+| 34 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 35 | [Buongiorno Regina](http://twitter.com/search?q=Buongiorno+Regina) | N/A |
 | 36 | [BIG ROM](http://twitter.com/search?q=BIG+ROM) | N/A |
-| 37 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
-| 38 | [Surreale](http://twitter.com/search?q=Surreale) | N/A |
-| 39 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 40 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 41 | [Buongiorno Dj](http://twitter.com/search?q=Buongiorno+Dj) | N/A |
-| 42 | [Ovadia](http://twitter.com/search?q=Ovadia) | N/A |
-| 43 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
-| 44 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
-| 45 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 46 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 47 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 48 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 49 | [sentite](http://twitter.com/search?q=sentite) | N/A |
+| 37 | [Buongiorno Dory](http://twitter.com/search?q=Buongiorno+Dory) | N/A |
+| 38 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
+| 39 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
+| 40 | [Maranello](http://twitter.com/search?q=Maranello) | N/A |
+| 41 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 42 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 43 | [sentite](http://twitter.com/search?q=sentite) | N/A |
+| 44 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 45 | [la scena](http://twitter.com/search?q=la+scena) | N/A |
+| 46 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
+| 47 | [Surreale](http://twitter.com/search?q=Surreale) | N/A |
+| 48 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 49 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 
 
 

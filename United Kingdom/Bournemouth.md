@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-23 09:16:07 UTC`
+📆 Last Updated: `2023-02-23 10:15:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#domisstillabadman](http://twitter.com/search?q=%23domisstillabadman) | N/A |
-| 2 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 3 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 4 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 5 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
-| 6 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 7 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 8 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 9 | [Kate Forbes](http://twitter.com/search?q=Kate+Forbes) | N/A |
-| 10 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 11 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 12 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
-| 13 | [Amol Rajan](http://twitter.com/search?q=Amol+Rajan) | N/A |
-| 14 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 15 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 16 | [Jessie](http://twitter.com/search?q=Jessie) | N/A |
-| 17 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
-| 18 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 19 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
-| 20 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 21 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 22 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
-| 23 | [Jason Arday](http://twitter.com/search?q=Jason+Arday) | N/A |
-| 24 | [Humza](http://twitter.com/search?q=Humza) | N/A |
-| 25 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
-| 26 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 27 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 28 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 29 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
-| 30 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 31 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 32 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 34 | [Movie Night](http://twitter.com/search?q=Movie+Night) | N/A |
-| 35 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 37 | [Martins](http://twitter.com/search?q=Martins) | N/A |
-| 38 | [At 15](http://twitter.com/search?q=At+15) | N/A |
-| 39 | [Blair](http://twitter.com/search?q=Blair) | N/A |
-| 40 | [Kammy](http://twitter.com/search?q=Kammy) | N/A |
-| 41 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 42 | [She's British](http://twitter.com/search?q=She%27s+British) | N/A |
-| 43 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 44 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 45 | [David Bowie](http://twitter.com/search?q=David+Bowie) | N/A |
-| 46 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
-| 47 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 48 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 1 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
+| 2 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
+| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 4 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 5 | [RIP Motty](http://twitter.com/search?q=RIP+Motty) | N/A |
+| 6 | [Barry Davies](http://twitter.com/search?q=Barry+Davies) | N/A |
+| 7 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 8 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 9 | [Jason Arday](http://twitter.com/search?q=Jason+Arday) | N/A |
+| 10 | [Amol Rajan](http://twitter.com/search?q=Amol+Rajan) | N/A |
+| 11 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 12 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 13 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
+| 14 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
+| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 16 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 17 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 18 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 19 | [Begum](http://twitter.com/search?q=Begum) | N/A |
+| 20 | [David Bowie](http://twitter.com/search?q=David+Bowie) | N/A |
+| 21 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
+| 22 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
+| 23 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 24 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 25 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 26 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
+| 27 | [Race](http://twitter.com/search?q=Race) | N/A |
+| 28 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 29 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 30 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
+| 31 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
+| 32 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 33 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 34 | [At 15](http://twitter.com/search?q=At+15) | N/A |
+| 35 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
+| 36 | [#domisstillabadman](http://twitter.com/search?q=%23domisstillabadman) | N/A |
+| 37 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 38 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
+| 39 | [#ASongOrMovieForTheFloor](http://twitter.com/search?q=%23ASongOrMovieForTheFloor) | N/A |
+| 40 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 41 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 42 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 43 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 44 | [#brink](http://twitter.com/search?q=%23brink) | N/A |
+| 45 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
+| 46 | [#ToriesOut231](http://twitter.com/search?q=%23ToriesOut231) | N/A |
+| 47 | [#Wordle614](http://twitter.com/search?q=%23Wordle614) | N/A |
+| 48 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
 
 
 

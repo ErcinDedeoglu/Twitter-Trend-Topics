@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-23 09:16:10 UTC`
+📆 Last Updated: `2023-02-23 10:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,9 +30,9 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 13 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
 | 14 | [orlando jorge mera](http://twitter.com/search?q=orlando+jorge+mera) | N/A |
 | 15 | [charytín goico](http://twitter.com/search?q=charyt%c3%adn+goico) | N/A |
-| 16 | [operaciones especiales](http://twitter.com/search?q=operaciones+especiales) | N/A |
-| 17 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 18 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 16 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 17 | [operaciones especiales](http://twitter.com/search?q=operaciones+especiales) | N/A |
+| 18 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 19 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 20 | [Secretos](http://twitter.com/search?q=Secretos) | N/A |
 | 21 | [donelly martínez](http://twitter.com/search?q=donelly+mart%c3%adnez) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 25 | [Paseo](http://twitter.com/search?q=Paseo) | N/A |
 | 26 | [Operación Frontera](http://twitter.com/search?q=Operaci%c3%b3n+Frontera) | N/A |
 | 27 | [boca chica](http://twitter.com/search?q=boca+chica) | N/A |
-| 28 | [Carlos Durán](http://twitter.com/search?q=Carlos+Dur%c3%a1n) | N/A |
+| 28 | [carlos durán](http://twitter.com/search?q=carlos+dur%c3%a1n) | N/A |
 | 29 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
 | 30 | [Unión Europea](http://twitter.com/search?q=Uni%c3%b3n+Europea) | N/A |
 | 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 32 | [#elcambiofueunatrampa](http://twitter.com/search?q=%23elcambiofueunatrampa) | N/A |
-| 33 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 34 | [digna reynoso](http://twitter.com/search?q=digna+reynoso) | N/A |
-| 35 | [grado de caballero](http://twitter.com/search?q=grado+de+caballero) | N/A |
-| 36 | [hony](http://twitter.com/search?q=hony) | N/A |
-| 37 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 38 | [siba energy](http://twitter.com/search?q=siba+energy) | N/A |
-| 39 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 40 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
+| 32 | [grado de caballero](http://twitter.com/search?q=grado+de+caballero) | N/A |
+| 33 | [#elcambiofueunatrampa](http://twitter.com/search?q=%23elcambiofueunatrampa) | N/A |
+| 34 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 35 | [digna reynoso](http://twitter.com/search?q=digna+reynoso) | N/A |
+| 36 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
+| 37 | [Hony](http://twitter.com/search?q=Hony) | N/A |
+| 38 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 39 | [siba energy](http://twitter.com/search?q=siba+energy) | N/A |
+| 40 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 | 41 | [Sony](http://twitter.com/search?q=Sony) | N/A |
 | 42 | [#mesdelapatria](http://twitter.com/search?q=%23mesdelapatria) | N/A |
 | 43 | [Andrés](http://twitter.com/search?q=Andr%c3%a9s) | N/A |
-| 44 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
-| 45 | [#ULTIMAHORA](http://twitter.com/search?q=%23ULTIMAHORA) | N/A |
-| 46 | [#orgullososdeestarmejor](http://twitter.com/search?q=%23orgullososdeestarmejor) | N/A |
-| 47 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
-| 48 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 49 | [las américas](http://twitter.com/search?q=las+am%c3%a9ricas) | N/A |
-| 50 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 44 | [nashla](http://twitter.com/search?q=nashla) | N/A |
+| 45 | [#orgullososdeestarmejor](http://twitter.com/search?q=%23orgullososdeestarmejor) | N/A |
+| 46 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
+| 47 | [las américas](http://twitter.com/search?q=las+am%c3%a9ricas) | N/A |
+| 48 | [#lodominicanosepega](http://twitter.com/search?q=%23lodominicanosepega) | N/A |
+| 49 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 50 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 
 
 

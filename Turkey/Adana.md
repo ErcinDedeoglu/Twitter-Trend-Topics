@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Adana
 
-📆 Last Updated: `2023-02-23 09:16:44 UTC`
+📆 Last Updated: `2023-02-23 10:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,47 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BirKiraBirYuva](http://twitter.com/search?q=%23BirKiraBirYuva) | N/A |
-| 2 | [#Tacikistan](http://twitter.com/search?q=%23Tacikistan) | N/A |
+| 2 | [Birliktelik Destanı](http://twitter.com/search?q=Birliktelik+Destan%c4%b1) | N/A |
 | 3 | [#99ÖncesiHaklarlaEYT](http://twitter.com/search?q=%2399%c3%96ncesiHaklarlaEYT) | N/A |
-| 4 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 5 | [#BıktımArtık](http://twitter.com/search?q=%23B%c4%b1kt%c4%b1mArt%c4%b1k) | N/A |
-| 6 | [ÇokUygun FiyatlıTTVerilir](http://twitter.com/search?q=%c3%87okUygun+Fiyatl%c4%b1TTVerilir) | N/A |
-| 7 | [Kibritçi Kız](http://twitter.com/search?q=Kibrit%c3%a7i+K%c4%b1z) | N/A |
-| 8 | [Hazırlık](http://twitter.com/search?q=Haz%c4%b1rl%c4%b1k) | N/A |
-| 9 | [Playoff](http://twitter.com/search?q=Playoff) | N/A |
-| 10 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 11 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 12 | [Kısmi Emeklilik](http://twitter.com/search?q=K%c4%b1smi+Emeklilik) | N/A |
-| 13 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 14 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 15 | [Hakan Çalhanoğlu](http://twitter.com/search?q=Hakan+%c3%87alhano%c4%9flu) | N/A |
-| 16 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 17 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 18 | [Tunç Soyer](http://twitter.com/search?q=Tun%c3%a7+Soyer) | N/A |
-| 19 | [DERDİNİZ İMAM DEĞİL İSLAMLA](http://twitter.com/search?q=DERD%c4%b0N%c4%b0Z+%c4%b0MAM+DE%c4%9e%c4%b0L+%c4%b0SLAMLA) | N/A |
-| 20 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 21 | [23 Şubat](http://twitter.com/search?q=23+%c5%9eubat) | N/A |
-| 22 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
-| 23 | [Halkına](http://twitter.com/search?q=Halk%c4%b1na) | N/A |
-| 24 | [Savaş Ateş](http://twitter.com/search?q=Sava%c5%9f+Ate%c5%9f) | N/A |
-| 25 | [Metin Akpınar](http://twitter.com/search?q=Metin+Akp%c4%b1nar) | N/A |
-| 26 | [#EMADDER](http://twitter.com/search?q=%23EMADDER) | N/A |
-| 27 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
-| 28 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 29 | [#kayseri](http://twitter.com/search?q=%23kayseri) | N/A |
-| 30 | [#StajyerinSabrıKalmadı](http://twitter.com/search?q=%23StajyerinSabr%c4%b1Kalmad%c4%b1) | N/A |
-| 31 | [#faiz](http://twitter.com/search?q=%23faiz) | N/A |
-| 32 | [#yunsa](http://twitter.com/search?q=%23yunsa) | N/A |
-| 33 | [#ÇöpAdam](http://twitter.com/search?q=%23%c3%87%c3%b6pAdam) | N/A |
-| 34 | [#2000sonrasıKADEME](http://twitter.com/search?q=%232000sonras%c4%b1KADEME) | N/A |
-| 35 | [#ykbnk](http://twitter.com/search?q=%23ykbnk) | N/A |
-| 36 | [#TTKOM](http://twitter.com/search?q=%23TTKOM) | N/A |
-| 37 | [#HalkDayanışması](http://twitter.com/search?q=%23HalkDayan%c4%b1%c5%9fmas%c4%b1) | N/A |
-| 38 | [#Jupiter](http://twitter.com/search?q=%23Jupiter) | N/A |
+| 4 | [#Tacikistan](http://twitter.com/search?q=%23Tacikistan) | N/A |
+| 5 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 6 | [Ferit Demir](http://twitter.com/search?q=Ferit+Demir) | N/A |
+| 7 | [#EMADDER](http://twitter.com/search?q=%23EMADDER) | N/A |
+| 8 | [Kibritçi Kız](http://twitter.com/search?q=Kibrit%c3%a7i+K%c4%b1z) | N/A |
+| 9 | [Play-off](http://twitter.com/search?q=Play-off) | N/A |
+| 10 | [Metin Yüksel](http://twitter.com/search?q=Metin+Y%c3%bcksel) | N/A |
+| 11 | [Feyzan](http://twitter.com/search?q=Feyzan) | N/A |
+| 12 | [Hazırlık](http://twitter.com/search?q=Haz%c4%b1rl%c4%b1k) | N/A |
+| 13 | [Kısmi Emeklilik](http://twitter.com/search?q=K%c4%b1smi+Emeklilik) | N/A |
+| 14 | [Hakan Çalhanoğlu](http://twitter.com/search?q=Hakan+%c3%87alhano%c4%9flu) | N/A |
+| 15 | [Tunç Soyer](http://twitter.com/search?q=Tun%c3%a7+Soyer) | N/A |
+| 16 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 17 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 18 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 19 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 20 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 21 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 22 | [DERDİNİZ İMAM DEĞİL İSLAMLA](http://twitter.com/search?q=DERD%c4%b0N%c4%b0Z+%c4%b0MAM+DE%c4%9e%c4%b0L+%c4%b0SLAMLA) | N/A |
+| 23 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 24 | [23 Şubat](http://twitter.com/search?q=23+%c5%9eubat) | N/A |
+| 25 | [İçişleri Bakanı Süleyman Soylu](http://twitter.com/search?q=%c4%b0%c3%a7i%c5%9fleri+Bakan%c4%b1+S%c3%bcleyman+Soylu) | N/A |
+| 26 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
+| 27 | [Günün](http://twitter.com/search?q=G%c3%bcn%c3%bcn) | N/A |
+| 28 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
+| 29 | [Halkına](http://twitter.com/search?q=Halk%c4%b1na) | N/A |
+| 30 | [Tele1](http://twitter.com/search?q=Tele1) | N/A |
+| 31 | [Metin Akpınar](http://twitter.com/search?q=Metin+Akp%c4%b1nar) | N/A |
+| 32 | [Savaş Ateş](http://twitter.com/search?q=Sava%c5%9f+Ate%c5%9f) | N/A |
+| 33 | [#BıktımArtık](http://twitter.com/search?q=%23B%c4%b1kt%c4%b1mArt%c4%b1k) | N/A |
+| 34 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 35 | [#Persembe](http://twitter.com/search?q=%23Persembe) | #Persembe is a Turkish word meaning Thursday. |
+| 36 | [#StajyerinSabrıKalmadı](http://twitter.com/search?q=%23StajyerinSabr%c4%b1Kalmad%c4%b1) | N/A |
+| 37 | [#HalilİbrahimCeyhan](http://twitter.com/search?q=%23Halil%c4%b0brahimCeyhan) | N/A |
+| 38 | [#faiz](http://twitter.com/search?q=%23faiz) | N/A |
 | 39 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
-| 40 | [#xbank](http://twitter.com/search?q=%23xbank) | N/A |
-| 41 | [#endeks](http://twitter.com/search?q=%23endeks) | N/A |
-| 42 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
+| 40 | [#ÇöpAdam](http://twitter.com/search?q=%23%c3%87%c3%b6pAdam) | N/A |
+| 41 | [#kayseri](http://twitter.com/search?q=%23kayseri) | N/A |
+| 42 | [#yunsa](http://twitter.com/search?q=%23yunsa) | N/A |
+| 43 | [#TTKOM](http://twitter.com/search?q=%23TTKOM) | N/A |
+| 44 | [#Jupiter](http://twitter.com/search?q=%23Jupiter) | N/A |
+| 45 | [#ykbnk](http://twitter.com/search?q=%23ykbnk) | N/A |
+| 46 | [#2000sonrasıKADEME](http://twitter.com/search?q=%232000sonras%c4%b1KADEME) | N/A |
+| 47 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
+| 48 | [#xbank](http://twitter.com/search?q=%23xbank) | N/A |
 
 
 

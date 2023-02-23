@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-02-23 09:16:14 UTC`
+📆 Last Updated: `2023-02-23 10:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,49 +22,49 @@ This is top 50 for [Colombia](</Colombia>)
 | 5 | [#MiercolesDeCeniza](http://twitter.com/search?q=%23MiercolesDeCeniza) | N/A |
 | 6 | [Hugo Ospina](http://twitter.com/search?q=Hugo+Ospina) | Hugo Ospina is a Colombian footballer who currently plays for the Colombian national team. He is known for his defensive skills and his ability to read the game. In English, Hugo Ospina means "Hugo of the Ospina family". |
 | 7 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 8 | [ever valencia](http://twitter.com/search?q=ever+valencia) | N/A |
-| 9 | [#ProtestarEs](http://twitter.com/search?q=%23ProtestarEs) | N/A |
+| 8 | [#protestares](http://twitter.com/search?q=%23protestares) | N/A |
+| 9 | [Ever Valencia](http://twitter.com/search?q=Ever+Valencia) | N/A |
 | 10 | [ESMAD](http://twitter.com/search?q=ESMAD) | N/A |
-| 11 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 12 | [Vicepresidenta](http://twitter.com/search?q=Vicepresidenta) | N/A |
-| 13 | [#protestopor](http://twitter.com/search?q=%23protestopor) | N/A |
-| 14 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
+| 11 | [Vicepresidenta](http://twitter.com/search?q=Vicepresidenta) | N/A |
+| 12 | [#protestopor](http://twitter.com/search?q=%23protestopor) | N/A |
+| 13 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 14 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
 | 15 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
-| 16 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 17 | [Sena](http://twitter.com/search?q=Sena) | N/A |
-| 18 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 19 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
-| 20 | [Pacto Histórico](http://twitter.com/search?q=Pacto+Hist%c3%b3rico) | N/A |
-| 21 | [pedro santana](http://twitter.com/search?q=pedro+santana) | N/A |
-| 22 | [cambindo](http://twitter.com/search?q=cambindo) | N/A |
-| 23 | [Tren de Aragua](http://twitter.com/search?q=Tren+de+Aragua) | N/A |
+| 16 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
+| 17 | [OCDE](http://twitter.com/search?q=OCDE) | N/A |
+| 18 | [Sena](http://twitter.com/search?q=Sena) | N/A |
+| 19 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
+| 20 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
+| 21 | [Pacto Histórico](http://twitter.com/search?q=Pacto+Hist%c3%b3rico) | N/A |
+| 22 | [Pedro Santana](http://twitter.com/search?q=Pedro+Santana) | N/A |
+| 23 | [cambindo](http://twitter.com/search?q=cambindo) | N/A |
 | 24 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
 | 25 | [papi quiero piña](http://twitter.com/search?q=papi+quiero+pi%c3%b1a) | N/A |
-| 26 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
-| 27 | [Didi](http://twitter.com/search?q=Didi) | N/A |
-| 28 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
-| 29 | [Quito](http://twitter.com/search?q=Quito) | N/A |
+| 26 | [Tren de Aragua](http://twitter.com/search?q=Tren+de+Aragua) | N/A |
+| 27 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
+| 28 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 29 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
 | 30 | [Einer Rubio](http://twitter.com/search?q=Einer+Rubio) | N/A |
-| 31 | [Ana del Castillo](http://twitter.com/search?q=Ana+del+Castillo) | N/A |
-| 32 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 33 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 34 | [alcaldía de medellín](http://twitter.com/search?q=alcald%c3%ada+de+medell%c3%adn) | N/A |
-| 35 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 36 | [marmolejo](http://twitter.com/search?q=marmolejo) | N/A |
-| 37 | [la alpujarra](http://twitter.com/search?q=la+alpujarra) | N/A |
+| 31 | [Quito](http://twitter.com/search?q=Quito) | N/A |
+| 32 | [alcaldía de medellín](http://twitter.com/search?q=alcald%c3%ada+de+medell%c3%adn) | N/A |
+| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 34 | [la alpujarra](http://twitter.com/search?q=la+alpujarra) | N/A |
+| 35 | [marmolejo](http://twitter.com/search?q=marmolejo) | N/A |
+| 36 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 37 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 38 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 39 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 40 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 41 | [poncho zuleta](http://twitter.com/search?q=poncho+zuleta) | N/A |
-| 42 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
-| 43 | [pecha](http://twitter.com/search?q=pecha) | N/A |
-| 44 | [anato](http://twitter.com/search?q=anato) | N/A |
-| 45 | [Tequila](http://twitter.com/search?q=Tequila) | N/A |
-| 46 | [Jhon Mechas](http://twitter.com/search?q=Jhon+Mechas) | N/A |
-| 47 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 48 | [Transporte](http://twitter.com/search?q=Transporte) | N/A |
-| 49 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 50 | [guillermo reyes](http://twitter.com/search?q=guillermo+reyes) | N/A |
+| 41 | [pecha](http://twitter.com/search?q=pecha) | N/A |
+| 42 | [anato](http://twitter.com/search?q=anato) | N/A |
+| 43 | [jhon mechas](http://twitter.com/search?q=jhon+mechas) | N/A |
+| 44 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 45 | [Transporte](http://twitter.com/search?q=Transporte) | N/A |
+| 46 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 47 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
+| 48 | [guillermo reyes](http://twitter.com/search?q=guillermo+reyes) | N/A |
+| 49 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 50 | [plataformas](http://twitter.com/search?q=plataformas) | N/A |
 
 
 
