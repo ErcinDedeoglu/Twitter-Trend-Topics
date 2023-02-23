@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-23 03:19:30 UTC`
+📆 Last Updated: `2023-02-23 04:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#saintjeandeluz](http://twitter.com/search?q=%23saintjeandeluz) | N/A |
-| 2 | [#LivRma](http://twitter.com/search?q=%23LivRma) | N/A |
+| 2 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 3 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
-| 4 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 5 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
+| 4 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 6 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 7 | [#NouvelleStar20ans](http://twitter.com/search?q=%23NouvelleStar20ans) | N/A |
 | 8 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
@@ -27,44 +27,44 @@ This is top 50 for [France](</France>)
 | 10 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
 | 11 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 | 12 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 13 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 14 | [Karl Zéro](http://twitter.com/search?q=Karl+Z%c3%a9ro) | N/A |
-| 15 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 16 | [Chap](http://twitter.com/search?q=Chap) | N/A |
-| 17 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 18 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 19 | [Décès](http://twitter.com/search?q=D%c3%a9c%c3%a8s) | N/A |
-| 20 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
-| 21 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 22 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 23 | [St Jean de Luz](http://twitter.com/search?q=St+Jean+de+Luz) | N/A |
-| 24 | [Aquin](http://twitter.com/search?q=Aquin) | N/A |
-| 25 | [jena lee](http://twitter.com/search?q=jena+lee) | N/A |
-| 26 | [Wunder](http://twitter.com/search?q=Wunder) | N/A |
-| 27 | [Tatoos](http://twitter.com/search?q=Tatoos) | N/A |
-| 28 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 29 | [Helena](http://twitter.com/search?q=Helena) | N/A |
-| 30 | [Assassinat](http://twitter.com/search?q=Assassinat) | N/A |
-| 31 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 32 | [Rungis](http://twitter.com/search?q=Rungis) | N/A |
-| 33 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
-| 34 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 35 | [Cendres](http://twitter.com/search?q=Cendres) | N/A |
-| 36 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 13 | [CHAP](http://twitter.com/search?q=CHAP) | N/A |
+| 14 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 15 | [Décès](http://twitter.com/search?q=D%c3%a9c%c3%a8s) | N/A |
+| 16 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 17 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 18 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 19 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
+| 20 | [Karl Zéro](http://twitter.com/search?q=Karl+Z%c3%a9ro) | N/A |
+| 21 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 22 | [st jean de luz](http://twitter.com/search?q=st+jean+de+luz) | N/A |
+| 23 | [Aquin](http://twitter.com/search?q=Aquin) | N/A |
+| 24 | [Jena Lee](http://twitter.com/search?q=Jena+Lee) | N/A |
+| 25 | [Tatoos](http://twitter.com/search?q=Tatoos) | N/A |
+| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 27 | [Assassinat](http://twitter.com/search?q=Assassinat) | N/A |
+| 28 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 29 | [Rungis](http://twitter.com/search?q=Rungis) | N/A |
+| 30 | [Naples](http://twitter.com/search?q=Naples) | Naples is a city in southern Italy. It is the capital of the Campania region and the third-largest city in Italy. The name Naples comes from the Greek word Neapolis, meaning "new city". |
+| 31 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 32 | [Cendres](http://twitter.com/search?q=Cendres) | N/A |
+| 33 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 34 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 35 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 36 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
 | 37 | [Naplouse](http://twitter.com/search?q=Naplouse) | N/A |
-| 38 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 39 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 40 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
-| 41 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 42 | [Solary](http://twitter.com/search?q=Solary) | N/A |
-| 43 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 44 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 45 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 46 | [Steven Spielberg](http://twitter.com/search?q=Steven+Spielberg) | Steven Spielberg is an American film director, producer, and screenwriter. He is one of the most successful filmmakers in history, with his films having grossed more than $9 billion worldwide. He is best known for directing classic films such as Jaws, E.T. the Extra-Terrestrial, Jurassic Park, Schindler's List, Saving Private Ryan, and the Indiana Jones series. |
-| 47 | [saint-thomas](http://twitter.com/search?q=saint-thomas) | N/A |
-| 48 | [Pap Ndiaye](http://twitter.com/search?q=Pap+Ndiaye) | N/A |
-| 49 | [Elisabeth Lévy](http://twitter.com/search?q=Elisabeth+L%c3%a9vy) | N/A |
-| 50 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
+| 38 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
+| 39 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 40 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 41 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 42 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 43 | [Steven Spielberg](http://twitter.com/search?q=Steven+Spielberg) | Steven Spielberg is an American film director, producer, and screenwriter. He is one of the most successful filmmakers in history, with his films having grossed more than $9 billion worldwide. He is best known for directing classic films such as Jaws, E.T. the Extra-Terrestrial, Jurassic Park, Schindler's List, Saving Private Ryan, and the Indiana Jones series. |
+| 44 | [saint-thomas](http://twitter.com/search?q=saint-thomas) | N/A |
+| 45 | [Pap Ndiaye](http://twitter.com/search?q=Pap+Ndiaye) | N/A |
+| 46 | [elisabeth lévy](http://twitter.com/search?q=elisabeth+l%c3%a9vy) | N/A |
+| 47 | [Solary](http://twitter.com/search?q=Solary) | N/A |
+| 48 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
+| 49 | [baudis](http://twitter.com/search?q=baudis) | N/A |
+| 50 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
 
 
 

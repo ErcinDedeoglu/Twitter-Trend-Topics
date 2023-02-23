@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-23 03:20:17 UTC`
+📆 Last Updated: `2023-02-23 04:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,8 +21,8 @@ This is top 50 for Lebanon
 | 4 | [#لا_لتدمير_الموسسات](http://twitter.com/search?q=%23%d9%84%d8%a7_%d9%84%d8%aa%d8%af%d9%85%d9%8a%d8%b1_%d8%a7%d9%84%d9%85%d9%88%d8%b3%d8%b3%d8%a7%d8%aa) | N/A |
 | 5 | [#احمر_بالخط_العريض](http://twitter.com/search?q=%23%d8%a7%d8%ad%d9%85%d8%b1_%d8%a8%d8%a7%d9%84%d8%ae%d8%b7_%d8%a7%d9%84%d8%b9%d8%b1%d9%8a%d8%b6) | N/A |
 | 6 | [نجيب ميقاتي](http://twitter.com/search?q=%d9%86%d8%ac%d9%8a%d8%a8+%d9%85%d9%8a%d9%82%d8%a7%d8%aa%d9%8a) | N/A |
-| 7 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
-| 8 | [غادة عون](http://twitter.com/search?q=%d8%ba%d8%a7%d8%af%d8%a9+%d8%b9%d9%88%d9%86) | N/A |
+| 7 | [غادة عون](http://twitter.com/search?q=%d8%ba%d8%a7%d8%af%d8%a9+%d8%b9%d9%88%d9%86) | N/A |
+| 8 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
 | 9 | [المقاومه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%82%d8%a7%d9%88%d9%85%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
 | 10 | [القرض الحسن](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
 | 11 | [نادين نجيم](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a%d9%86+%d9%86%d8%ac%d9%8a%d9%85) | N/A |
@@ -37,34 +37,34 @@ This is top 50 for Lebanon
 | 20 | [الساحل الجنوبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%ad%d9%84+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a) | N/A |
 | 21 | [الامتحانات الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
 | 22 | [القوي الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 23 | [سامي كليب](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d9%83%d9%84%d9%8a%d8%a8) | N/A |
-| 24 | [المناجاه الشعبانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ac%d8%a7%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 25 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 26 | [جميل السيد](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 27 | [رييس الحكومه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
-| 28 | [الجهاد الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
-| 29 | [السلطه القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 23 | [جميل السيد](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 24 | [رييس الحكومه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
+| 25 | [سامي كليب](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d9%83%d9%84%d9%8a%d8%a8) | N/A |
+| 26 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 27 | [الجهاد الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
+| 28 | [السلطه القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 29 | [علي محمد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%85%d8%ad%d9%85%d8%af) | N/A |
 | 30 | [صيدا](http://twitter.com/search?q=%d8%b5%d9%8a%d8%af%d8%a7) | N/A |
 | 31 | [السلطه التنفيذيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a%d9%87) | N/A |
 | 32 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
 | 33 | [تيار التعطيل](http://twitter.com/search?q=%d8%aa%d9%8a%d8%a7%d8%b1+%d8%a7%d9%84%d8%aa%d8%b9%d8%b7%d9%8a%d9%84) | N/A |
 | 34 | [mikati](http://twitter.com/search?q=mikati) | N/A |
-| 35 | [المكتب الاعلامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a) | N/A |
-| 36 | [البطريركيه المارونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%b1%d9%8a%d8%b1%d9%83%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 37 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
-| 38 | [البرلمان الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 39 | [علي قبرص](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d8%b1%d8%b5) | N/A |
-| 40 | [22 شباط 2023](http://twitter.com/search?q=22+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
-| 41 | [الشعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 42 | [الهزات الارضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 35 | [البطريركيه المارونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%b1%d9%8a%d8%b1%d9%83%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
+| 36 | [صلاح](http://twitter.com/search?q=%d8%b5%d9%84%d8%a7%d8%ad) | صلاح is an Arabic word meaning "righteousness" or "justice". It is often used to refer to moral and ethical behavior. |
+| 37 | [علي قبرص](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d9%82%d8%a8%d8%b1%d8%b5) | N/A |
+| 38 | [النازحين السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
+| 39 | [22 شباط 2023](http://twitter.com/search?q=22+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
+| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 41 | [الهزات الارضيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%87%d8%b2%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b1%d8%b6%d9%8a%d9%87) | N/A |
+| 42 | [الضفه الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%81%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 43 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 44 | [قوات الاحتلال](http://twitter.com/search?q=%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84) | N/A |
-| 45 | [الظروف الصعبه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b8%d8%b1%d9%88%d9%81+%d8%a7%d9%84%d8%b5%d8%b9%d8%a8%d9%87) | N/A |
-| 46 | [الضفه الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%81%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 47 | [احمد شعيب الرفاعي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b4%d8%b9%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%81%d8%a7%d8%b9%d9%8a) | N/A |
-| 48 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 49 | [النازحين السوريين](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%a7%d8%b2%d8%ad%d9%8a%d9%86+%d8%a7%d9%84%d8%b3%d9%88%d8%b1%d9%8a%d9%8a%d9%86) | N/A |
-| 50 | [والسعودية](http://twitter.com/search?q=%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d8%a9) | N/A |
+| 45 | [البرلمان الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 46 | [الشعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 47 | [حريق كبير](http://twitter.com/search?q=%d8%ad%d8%b1%d9%8a%d9%82+%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
+| 48 | [النيابه العامه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87) | N/A |
+| 49 | [احمد شعيب الرفاعي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b4%d8%b9%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%81%d8%a7%d8%b9%d9%8a) | N/A |
+| 50 | [القوات الاسراييليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d8%a7%d8%aa+%d8%a7%d9%84%d8%a7%d8%b3%d8%b1%d8%a7%d9%8a%d9%8a%d9%84%d9%8a%d9%87) | N/A |
 
 
 

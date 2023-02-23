@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-23 03:19:21 UTC`
+📆 Last Updated: `2023-02-23 04:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fitopaez](http://twitter.com/search?q=%23fitopaez) | N/A |
-| 2 | [Rodrigo Villegas](http://twitter.com/search?q=Rodrigo+Villegas) | N/A |
-| 3 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 4 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
-| 5 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
-| 6 | [#belenaza](http://twitter.com/search?q=%23belenaza) | N/A |
-| 7 | [#belenaza](http://twitter.com/search?q=%23belenaza) | N/A |
-| 8 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 9 | [Punta Peuco](http://twitter.com/search?q=Punta+Peuco) | N/A |
-| 10 | [Conejos](http://twitter.com/search?q=Conejos) | N/A |
-| 11 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 12 | [Charly](http://twitter.com/search?q=Charly) | N/A |
-| 13 | [Colina 1](http://twitter.com/search?q=Colina+1) | N/A |
-| 14 | [Giros](http://twitter.com/search?q=Giros) | N/A |
-| 15 | [Circo Beat](http://twitter.com/search?q=Circo+Beat) | N/A |
-| 16 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 17 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
-| 18 | [Milad](http://twitter.com/search?q=Milad) | N/A |
-| 19 | [Tumbas de la Gloria](http://twitter.com/search?q=Tumbas+de+la+Gloria) | N/A |
-| 20 | [Cerati](http://twitter.com/search?q=Cerati) | N/A |
-| 21 | [Montes](http://twitter.com/search?q=Montes) | N/A |
-| 22 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
-| 23 | [Spinetta](http://twitter.com/search?q=Spinetta) | N/A |
-| 24 | [Letelier](http://twitter.com/search?q=Letelier) | N/A |
-| 25 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 26 | [Gracias Totales](http://twitter.com/search?q=Gracias+Totales) | N/A |
-| 27 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 28 | [Calamaro](http://twitter.com/search?q=Calamaro) | N/A |
-| 29 | [Buenos Aires](http://twitter.com/search?q=Buenos+Aires) | N/A |
-| 30 | [Alejandra Valle](http://twitter.com/search?q=Alejandra+Valle) | N/A |
-| 31 | [Ciudad de Pobres Corazones](http://twitter.com/search?q=Ciudad+de+Pobres+Corazones) | N/A |
-| 32 | [Meruane](http://twitter.com/search?q=Meruane) | N/A |
-| 33 | [Todes](http://twitter.com/search?q=Todes) | N/A |
-| 34 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
-| 35 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 36 | [Fabiana Cantilo](http://twitter.com/search?q=Fabiana+Cantilo) | N/A |
-| 37 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 38 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
-| 39 | [Rock Latino](http://twitter.com/search?q=Rock+Latino) | N/A |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 1 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
+| 2 | [Humor](http://twitter.com/search?q=Humor) | N/A |
+| 3 | [#Tonka](http://twitter.com/search?q=%23Tonka) | N/A |
+| 4 | [Rodrigo Villegas](http://twitter.com/search?q=Rodrigo+Villegas) | N/A |
+| 5 | [#fitopaez](http://twitter.com/search?q=%23fitopaez) | N/A |
+| 6 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
+| 7 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
+| 8 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
+| 9 | [#belenaza](http://twitter.com/search?q=%23belenaza) | N/A |
+| 10 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 11 | [Punta Peuco](http://twitter.com/search?q=Punta+Peuco) | N/A |
+| 12 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
+| 13 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 14 | [Conejos](http://twitter.com/search?q=Conejos) | N/A |
+| 15 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
+| 16 | [Giros](http://twitter.com/search?q=Giros) | N/A |
+| 17 | [Circo Beat](http://twitter.com/search?q=Circo+Beat) | N/A |
+| 18 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 19 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 20 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
+| 21 | [Colina 1](http://twitter.com/search?q=Colina+1) | N/A |
+| 22 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
+| 23 | [Tumbas de la Gloria](http://twitter.com/search?q=Tumbas+de+la+Gloria) | N/A |
+| 24 | [Milad](http://twitter.com/search?q=Milad) | N/A |
+| 25 | [Guarello](http://twitter.com/search?q=Guarello) | N/A |
+| 26 | [Spinetta](http://twitter.com/search?q=Spinetta) | N/A |
+| 27 | [Cerati](http://twitter.com/search?q=Cerati) | N/A |
+| 28 | [Letelier](http://twitter.com/search?q=Letelier) | N/A |
+| 29 | [bart](http://twitter.com/search?q=bart) | N/A |
+| 30 | [Carlos Montes](http://twitter.com/search?q=Carlos+Montes) | N/A |
+| 31 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 32 | [Ciudad de Pobres Corazones](http://twitter.com/search?q=Ciudad+de+Pobres+Corazones) | N/A |
+| 33 | [Alejandra Valle](http://twitter.com/search?q=Alejandra+Valle) | N/A |
+| 34 | [Todes](http://twitter.com/search?q=Todes) | N/A |
+| 35 | [Meruane](http://twitter.com/search?q=Meruane) | N/A |
+| 36 | [Blondon Boys](http://twitter.com/search?q=Blondon+Boys) | N/A |
+| 37 | [Fabiana Cantilo](http://twitter.com/search?q=Fabiana+Cantilo) | N/A |
+| 38 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 39 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
+| 40 | [Rock Latino](http://twitter.com/search?q=Rock+Latino) | N/A |
 | 41 | [Mariposa Tecknicolor](http://twitter.com/search?q=Mariposa+Tecknicolor) | N/A |
 | 42 | [mira niñita](http://twitter.com/search?q=mira+ni%c3%b1ita) | N/A |
 | 43 | [La Conquistada](http://twitter.com/search?q=La+Conquistada) | N/A |
 | 44 | [Centella](http://twitter.com/search?q=Centella) | N/A |
 | 45 | [Claudio Parra](http://twitter.com/search?q=Claudio+Parra) | N/A |
-| 46 | [Rector](http://twitter.com/search?q=Rector) | Rector is a term used in some Christian denominations to refer to a senior official in charge of a church or parish. In the Catholic Church, the rector is the head of a parish and is responsible for its spiritual and administrative leadership. In other denominations, such as the Anglican Church, the rector is usually the priest in charge of a parish. |
+| 46 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
 | 47 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
-| 48 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 49 | [Gonzalo Barrera](http://twitter.com/search?q=Gonzalo+Barrera) | N/A |
-| 50 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 48 | [Morandé](http://twitter.com/search?q=Morand%c3%a9) | N/A |
+| 49 | [Copano](http://twitter.com/search?q=Copano) | N/A |
+| 50 | [Gracias Totales](http://twitter.com/search?q=Gracias+Totales) | N/A |
 
 
 
