@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-02-23 08:16:40 UTC`
+📆 Last Updated: `2023-02-23 09:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 2 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 3 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 4 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 5 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
-| 6 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
-| 7 | [#BatallaAllStar](http://twitter.com/search?q=%23BatallaAllStar) | N/A |
-| 8 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 9 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 10 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
-| 11 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 12 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 13 | [SLOW GOTTI](http://twitter.com/search?q=SLOW+GOTTI) | N/A |
-| 14 | [#2M300KforBuild](http://twitter.com/search?q=%232M300KforBuild) | N/A |
-| 15 | [La Luna](http://twitter.com/search?q=La+Luna) | N/A |
-| 16 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 18 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
-| 19 | [Paulina Rubio](http://twitter.com/search?q=Paulina+Rubio) | N/A |
-| 20 | [Yon de Luisa](http://twitter.com/search?q=Yon+de+Luisa) | Yon de Luisa is a traditional Cuban folk song. It is a love song about a woman named Luisa, and it is sung in the style of a bolero. The English translation of the title is "Luisa's Song". |
-| 21 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
-| 22 | [Samira](http://twitter.com/search?q=Samira) | N/A |
-| 23 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 24 | [Imaz](http://twitter.com/search?q=Imaz) | N/A |
-| 25 | [Andrea Bocelli](http://twitter.com/search?q=Andrea+Bocelli) | N/A |
-| 26 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 27 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
-| 28 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 29 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
-| 30 | [Senadora](http://twitter.com/search?q=Senadora) | N/A |
-| 31 | [Lilly Téllez](http://twitter.com/search?q=Lilly+T%c3%a9llez) | N/A |
-| 32 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
-| 33 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
-| 34 | [Vilchis](http://twitter.com/search?q=Vilchis) | N/A |
-| 35 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 1 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 2 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 3 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 4 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 5 | [#HogaresMexiquenses](http://twitter.com/search?q=%23HogaresMexiquenses) | N/A |
+| 6 | [#MiercolesDeCeniza](http://twitter.com/search?q=%23MiercolesDeCeniza) | N/A |
+| 7 | [Yon de Luisa](http://twitter.com/search?q=Yon+de+Luisa) | Yon de Luisa is a traditional Cuban folk song. It is a love song about a woman named Luisa, and it is sung in the style of a bolero. The English translation of the title is "Luisa's Song". |
+| 8 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 9 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
+| 10 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
+| 11 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 12 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
+| 13 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
+| 14 | [#SalarioRosa](http://twitter.com/search?q=%23SalarioRosa) | N/A |
+| 15 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 16 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 17 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 18 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 19 | [Ley Olimpia](http://twitter.com/search?q=Ley+Olimpia) | N/A |
+| 20 | [Candy Candy](http://twitter.com/search?q=Candy+Candy) | N/A |
+| 21 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 22 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 23 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 24 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 25 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
+| 26 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
+| 27 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
+| 28 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
+| 29 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 30 | [Ricardo Ferretti](http://twitter.com/search?q=Ricardo+Ferretti) | N/A |
+| 31 | [Vilchis](http://twitter.com/search?q=Vilchis) | N/A |
+| 32 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
+| 33 | [SNIPER MEDALLISTAR](http://twitter.com/search?q=SNIPER+MEDALLISTAR) | N/A |
+| 34 | [Borolas](http://twitter.com/search?q=Borolas) | N/A |
+| 35 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 36 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 37 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
+| 38 | [El PAN](http://twitter.com/search?q=El+PAN) | N/A |
+| 39 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 40 | [Imaz](http://twitter.com/search?q=Imaz) | N/A |
+| 41 | [con 72](http://twitter.com/search?q=con+72) | N/A |
+| 42 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
+| 43 | [EEUU](http://twitter.com/search?q=EEUU) | N/A |
+| 44 | [La Máquina](http://twitter.com/search?q=La+M%c3%a1quina) | N/A |
+| 45 | [Majo](http://twitter.com/search?q=Majo) | N/A |
+| 46 | [Carlos Marín](http://twitter.com/search?q=Carlos+Mar%c3%adn) | N/A |
+| 47 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
+| 48 | [F1 TV](http://twitter.com/search?q=F1+TV) | N/A |
+| 49 | [Music Vibe](http://twitter.com/search?q=Music+Vibe) | N/A |
+| 50 | [Joaquín Moreno](http://twitter.com/search?q=Joaqu%c3%adn+Moreno) | N/A |
 
 
 

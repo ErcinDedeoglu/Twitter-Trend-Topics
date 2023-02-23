@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dominican Republic
 
-📆 Last Updated: `2023-02-23 08:17:31 UTC`
+📆 Last Updated: `2023-02-23 09:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for Dominican Republic
 | 11 | [isla catalina](http://twitter.com/search?q=isla+catalina) | N/A |
 | 12 | [#FelizMiercoles](http://twitter.com/search?q=%23FelizMiercoles) | #FelizMiercoles is a Spanish hashtag that translates to "Happy Wednesday" in English. It is used to express happiness and excitement for the day. |
 | 13 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
-| 14 | [Orlando Jorge Mera](http://twitter.com/search?q=Orlando+Jorge+Mera) | N/A |
+| 14 | [orlando jorge mera](http://twitter.com/search?q=orlando+jorge+mera) | N/A |
 | 15 | [charytín goico](http://twitter.com/search?q=charyt%c3%adn+goico) | N/A |
 | 16 | [operaciones especiales](http://twitter.com/search?q=operaciones+especiales) | N/A |
 | 17 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 18 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
 | 19 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 20 | [donelly martínez](http://twitter.com/search?q=donelly+mart%c3%adnez) | N/A |
-| 21 | [villa hermosa](http://twitter.com/search?q=villa+hermosa) | N/A |
-| 22 | [Goku](http://twitter.com/search?q=Goku) | N/A |
-| 23 | [Albert Pujols](http://twitter.com/search?q=Albert+Pujols) | N/A |
-| 24 | [Paseo](http://twitter.com/search?q=Paseo) | N/A |
-| 25 | [Operación Frontera](http://twitter.com/search?q=Operaci%c3%b3n+Frontera) | N/A |
-| 26 | [boca chica](http://twitter.com/search?q=boca+chica) | N/A |
-| 27 | [Carlos Durán](http://twitter.com/search?q=Carlos+Dur%c3%a1n) | N/A |
-| 28 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
-| 29 | [Unión Europea](http://twitter.com/search?q=Uni%c3%b3n+Europea) | N/A |
-| 30 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 31 | [#elcambiofueunatrampa](http://twitter.com/search?q=%23elcambiofueunatrampa) | N/A |
-| 32 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
-| 33 | [digna reynoso](http://twitter.com/search?q=digna+reynoso) | N/A |
-| 34 | [grado de caballero](http://twitter.com/search?q=grado+de+caballero) | N/A |
-| 35 | [hony](http://twitter.com/search?q=hony) | N/A |
-| 36 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
-| 37 | [siba energy](http://twitter.com/search?q=siba+energy) | N/A |
-| 38 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 39 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
-| 40 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 41 | [#mesdelapatria](http://twitter.com/search?q=%23mesdelapatria) | N/A |
-| 42 | [Andrés](http://twitter.com/search?q=Andr%c3%a9s) | N/A |
-| 43 | [Nashla](http://twitter.com/search?q=Nashla) | N/A |
-| 44 | [#ULTIMAHORA](http://twitter.com/search?q=%23ULTIMAHORA) | N/A |
-| 45 | [#orgullososdeestarmejor](http://twitter.com/search?q=%23orgullososdeestarmejor) | N/A |
-| 46 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
-| 47 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 48 | [las américas](http://twitter.com/search?q=las+am%c3%a9ricas) | N/A |
-| 49 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 50 | [Thanos](http://twitter.com/search?q=Thanos) | N/A |
+| 20 | [Secretos](http://twitter.com/search?q=Secretos) | N/A |
+| 21 | [donelly martínez](http://twitter.com/search?q=donelly+mart%c3%adnez) | N/A |
+| 22 | [villa hermosa](http://twitter.com/search?q=villa+hermosa) | N/A |
+| 23 | [Goku](http://twitter.com/search?q=Goku) | N/A |
+| 24 | [Albert Pujols](http://twitter.com/search?q=Albert+Pujols) | N/A |
+| 25 | [Paseo](http://twitter.com/search?q=Paseo) | N/A |
+| 26 | [Operación Frontera](http://twitter.com/search?q=Operaci%c3%b3n+Frontera) | N/A |
+| 27 | [boca chica](http://twitter.com/search?q=boca+chica) | N/A |
+| 28 | [Carlos Durán](http://twitter.com/search?q=Carlos+Dur%c3%a1n) | N/A |
+| 29 | [Jessica](http://twitter.com/search?q=Jessica) | N/A |
+| 30 | [Unión Europea](http://twitter.com/search?q=Uni%c3%b3n+Europea) | N/A |
+| 31 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 32 | [#elcambiofueunatrampa](http://twitter.com/search?q=%23elcambiofueunatrampa) | N/A |
+| 33 | [Eladio](http://twitter.com/search?q=Eladio) | N/A |
+| 34 | [digna reynoso](http://twitter.com/search?q=digna+reynoso) | N/A |
+| 35 | [grado de caballero](http://twitter.com/search?q=grado+de+caballero) | N/A |
+| 36 | [hony](http://twitter.com/search?q=hony) | N/A |
+| 37 | [Donald Trump](http://twitter.com/search?q=Donald+Trump) | N/A |
+| 38 | [siba energy](http://twitter.com/search?q=siba+energy) | N/A |
+| 39 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 40 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
+| 41 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 42 | [#mesdelapatria](http://twitter.com/search?q=%23mesdelapatria) | N/A |
+| 43 | [Andrés](http://twitter.com/search?q=Andr%c3%a9s) | N/A |
+| 44 | [nashla](http://twitter.com/search?q=nashla) | N/A |
+| 45 | [#ULTIMAHORA](http://twitter.com/search?q=%23ULTIMAHORA) | N/A |
+| 46 | [#orgullososdeestarmejor](http://twitter.com/search?q=%23orgullososdeestarmejor) | N/A |
+| 47 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
+| 48 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 49 | [las américas](http://twitter.com/search?q=las+am%c3%a9ricas) | N/A |
+| 50 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
 
 
 

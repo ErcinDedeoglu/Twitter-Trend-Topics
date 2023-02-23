@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-23 08:17:37 UTC`
+📆 Last Updated: `2023-02-23 09:17:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Sweden
 | 2 | [Thornberg](http://twitter.com/search?q=Thornberg) | N/A |
 | 3 | [Staaf](http://twitter.com/search?q=Staaf) | N/A |
 | 4 | [Strandhäll](http://twitter.com/search?q=Strandh%c3%a4ll) | N/A |
-| 5 | [Fredrik](http://twitter.com/search?q=Fredrik) | N/A |
-| 6 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
+| 5 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
+| 6 | [Grön](http://twitter.com/search?q=Gr%c3%b6n) | N/A |
 | 7 | [Carl Lindbom](http://twitter.com/search?q=Carl+Lindbom) | N/A |
 | 8 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 9 | [Grön](http://twitter.com/search?q=Gr%c3%b6n) | N/A |
-| 10 | [#LivRma](http://twitter.com/search?q=%23LivRma) | N/A |
-| 11 | [Damberg](http://twitter.com/search?q=Damberg) | N/A |
-| 12 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
-| 13 | [Ignis](http://twitter.com/search?q=Ignis) | N/A |
-| 14 | [Pekka](http://twitter.com/search?q=Pekka) | N/A |
-| 15 | [Runar Viksten](http://twitter.com/search?q=Runar+Viksten) | N/A |
-| 16 | [ann söderlund](http://twitter.com/search?q=ann+s%c3%b6derlund) | N/A |
-| 17 | [#HighSeasTreaty](http://twitter.com/search?q=%23HighSeasTreaty) | N/A |
-| 18 | [#BBNJ](http://twitter.com/search?q=%23BBNJ) | N/A |
-| 19 | [#protecttheoceans](http://twitter.com/search?q=%23protecttheoceans) | N/A |
-| 20 | [Neobo](http://twitter.com/search?q=Neobo) | N/A |
-| 21 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
+| 9 | [Benny Fredriksson](http://twitter.com/search?q=Benny+Fredriksson) | N/A |
+| 10 | [Damberg](http://twitter.com/search?q=Damberg) | N/A |
+| 11 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
+| 12 | [Ignis](http://twitter.com/search?q=Ignis) | N/A |
+| 13 | [Pekka](http://twitter.com/search?q=Pekka) | N/A |
+| 14 | [Självmord](http://twitter.com/search?q=Sj%c3%a4lvmord) | N/A |
+| 15 | [ann söderlund](http://twitter.com/search?q=ann+s%c3%b6derlund) | N/A |
+| 16 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
+| 17 | [Runar Viksten](http://twitter.com/search?q=Runar+Viksten) | N/A |
+| 18 | [#HighSeasTreaty](http://twitter.com/search?q=%23HighSeasTreaty) | N/A |
+| 19 | [#BBNJ](http://twitter.com/search?q=%23BBNJ) | N/A |
+| 20 | [#protecttheoceans](http://twitter.com/search?q=%23protecttheoceans) | N/A |
+| 21 | [#30x30](http://twitter.com/search?q=%2330x30) | N/A |
 | 22 | [Blått](http://twitter.com/search?q=Bl%c3%a5tt) | N/A |
 | 23 | [Kärrholm](http://twitter.com/search?q=K%c3%a4rrholm) | N/A |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [Semla](http://twitter.com/search?q=Semla) | N/A |
-| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 27 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
-| 28 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
-| 29 | [SÄPO](http://twitter.com/search?q=S%c3%84PO) | N/A |
-| 30 | [lagrådet](http://twitter.com/search?q=lagr%c3%a5det) | N/A |
-| 31 | [Tragiskt](http://twitter.com/search?q=Tragiskt) | N/A |
-| 32 | [jonna sima](http://twitter.com/search?q=jonna+sima) | N/A |
-| 33 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 34 | [Självmord](http://twitter.com/search?q=Sj%c3%a4lvmord) | N/A |
-| 35 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
-| 36 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 37 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
-| 38 | [fonus](http://twitter.com/search?q=fonus) | N/A |
-| 39 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 40 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 41 | [Wolodarski](http://twitter.com/search?q=Wolodarski) | N/A |
-| 42 | [Globen](http://twitter.com/search?q=Globen) | N/A |
-| 43 | [Harun](http://twitter.com/search?q=Harun) | N/A |
-| 44 | [EU-rätt](http://twitter.com/search?q=EU-r%c3%a4tt) | N/A |
-| 45 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 46 | [Börjar](http://twitter.com/search?q=B%c3%b6rjar) | N/A |
-| 47 | [Jan Guillou](http://twitter.com/search?q=Jan+Guillou) | N/A |
-| 48 | [Harpsund](http://twitter.com/search?q=Harpsund) | N/A |
-| 49 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 50 | [Bromma](http://twitter.com/search?q=Bromma) | N/A |
+| 24 | [Neobo](http://twitter.com/search?q=Neobo) | N/A |
+| 25 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 26 | [SÄPO](http://twitter.com/search?q=S%c3%84PO) | N/A |
+| 27 | [Semla](http://twitter.com/search?q=Semla) | N/A |
+| 28 | [Tragiskt](http://twitter.com/search?q=Tragiskt) | N/A |
+| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 30 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 31 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 32 | [UNHCR](http://twitter.com/search?q=UNHCR) | N/A |
+| 33 | [jonna sima](http://twitter.com/search?q=jonna+sima) | N/A |
+| 34 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 35 | [Lennart](http://twitter.com/search?q=Lennart) | N/A |
+| 36 | [Fat Tuesday](http://twitter.com/search?q=Fat+Tuesday) | N/A |
+| 37 | [fonus](http://twitter.com/search?q=fonus) | N/A |
+| 38 | [Porto](http://twitter.com/search?q=Porto) | N/A |
+| 39 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 40 | [Globen](http://twitter.com/search?q=Globen) | N/A |
+| 41 | [Harun](http://twitter.com/search?q=Harun) | N/A |
+| 42 | [EU-rätt](http://twitter.com/search?q=EU-r%c3%a4tt) | N/A |
+| 43 | [Börjar](http://twitter.com/search?q=B%c3%b6rjar) | N/A |
+| 44 | [Harpsund](http://twitter.com/search?q=Harpsund) | N/A |
+| 45 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 46 | [Wolodarski](http://twitter.com/search?q=Wolodarski) | N/A |
+| 47 | [Farmanbar](http://twitter.com/search?q=Farmanbar) | N/A |
+| 48 | [Puma](http://twitter.com/search?q=Puma) | N/A |
+| 49 | [Azerbaijan](http://twitter.com/search?q=Azerbaijan) | N/A |
+| 50 | [ygeman](http://twitter.com/search?q=ygeman) | N/A |
 
 
 

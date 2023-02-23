@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medellín
 
-📆 Last Updated: `2023-02-23 08:16:41 UTC`
+📆 Last Updated: `2023-02-23 09:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,19 +30,19 @@ This is top 50 for [Colombia](</Colombia>)
 | 13 | [#protestopor](http://twitter.com/search?q=%23protestopor) | N/A |
 | 14 | [#SoyRebeldeTour](http://twitter.com/search?q=%23SoyRebeldeTour) | #SoyRebeldeTour is a concert tour by Mexican singer and songwriter, Reik. The tour began in October 2019 and will continue through 2020. The English translation of the phrase is "I Am Rebel Tour". |
 | 15 | [Cadavid](http://twitter.com/search?q=Cadavid) | N/A |
-| 16 | [Sena](http://twitter.com/search?q=Sena) | N/A |
-| 17 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 16 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 17 | [Sena](http://twitter.com/search?q=Sena) | N/A |
 | 18 | [Roy Barreras](http://twitter.com/search?q=Roy+Barreras) | N/A |
-| 19 | [Pacto Histórico](http://twitter.com/search?q=Pacto+Hist%c3%b3rico) | N/A |
-| 20 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
-| 21 | [Pedro Santana](http://twitter.com/search?q=Pedro+Santana) | N/A |
-| 22 | [Cambindo](http://twitter.com/search?q=Cambindo) | N/A |
-| 23 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
-| 24 | [Tren de Aragua](http://twitter.com/search?q=Tren+de+Aragua) | N/A |
-| 25 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
+| 19 | [Black Hawk](http://twitter.com/search?q=Black+Hawk) | N/A |
+| 20 | [Pacto Histórico](http://twitter.com/search?q=Pacto+Hist%c3%b3rico) | N/A |
+| 21 | [pedro santana](http://twitter.com/search?q=pedro+santana) | N/A |
+| 22 | [cambindo](http://twitter.com/search?q=cambindo) | N/A |
+| 23 | [Tren de Aragua](http://twitter.com/search?q=Tren+de+Aragua) | N/A |
+| 24 | [El Nacional](http://twitter.com/search?q=El+Nacional) | N/A |
+| 25 | [papi quiero piña](http://twitter.com/search?q=papi+quiero+pi%c3%b1a) | N/A |
 | 26 | [Cabal](http://twitter.com/search?q=Cabal) | N/A |
-| 27 | [Papi Quiero Piña](http://twitter.com/search?q=Papi+Quiero+Pi%c3%b1a) | N/A |
-| 28 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 27 | [Didi](http://twitter.com/search?q=Didi) | N/A |
+| 28 | [Panaca](http://twitter.com/search?q=Panaca) | N/A |
 | 29 | [Quito](http://twitter.com/search?q=Quito) | N/A |
 | 30 | [Einer Rubio](http://twitter.com/search?q=Einer+Rubio) | N/A |
 | 31 | [Ana del Castillo](http://twitter.com/search?q=Ana+del+Castillo) | N/A |
@@ -51,14 +51,14 @@ This is top 50 for [Colombia](</Colombia>)
 | 34 | [alcaldía de medellín](http://twitter.com/search?q=alcald%c3%ada+de+medell%c3%adn) | N/A |
 | 35 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 36 | [marmolejo](http://twitter.com/search?q=marmolejo) | N/A |
-| 37 | [La Alpujarra](http://twitter.com/search?q=La+Alpujarra) | N/A |
+| 37 | [la alpujarra](http://twitter.com/search?q=la+alpujarra) | N/A |
 | 38 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 | 39 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 40 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 41 | [Poncho Zuleta](http://twitter.com/search?q=Poncho+Zuleta) | N/A |
+| 41 | [poncho zuleta](http://twitter.com/search?q=poncho+zuleta) | N/A |
 | 42 | [Helicóptero](http://twitter.com/search?q=Helic%c3%b3ptero) | N/A |
-| 43 | [Pecha](http://twitter.com/search?q=Pecha) | N/A |
-| 44 | [Anato](http://twitter.com/search?q=Anato) | N/A |
+| 43 | [pecha](http://twitter.com/search?q=pecha) | N/A |
+| 44 | [anato](http://twitter.com/search?q=anato) | N/A |
 | 45 | [Tequila](http://twitter.com/search?q=Tequila) | N/A |
 | 46 | [Jhon Mechas](http://twitter.com/search?q=Jhon+Mechas) | N/A |
 | 47 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Greece
 
-📆 Last Updated: `2023-02-23 08:17:32 UTC`
+📆 Last Updated: `2023-02-23 09:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Greece
 | ------- | ------------ | ------------ |
 | 1 | [#survivorGR](http://twitter.com/search?q=%23survivorGR) | #SurvivorGR is a hashtag used on social media to refer to the Greek version of the reality TV show Survivor. It is used to discuss the show, share updates, and connect with other fans. In English, it stands for "Survivor Greece". |
 | 2 | [#shoppingstar](http://twitter.com/search?q=%23shoppingstar) | N/A |
-| 3 | [Καλημερα Θεοδωρα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b1) | N/A |
-| 4 | [#mousikokouti](http://twitter.com/search?q=%23mousikokouti) | N/A |
-| 5 | [#marketpass](http://twitter.com/search?q=%23marketpass) | N/A |
-| 6 | [#ΠαιδωνΑγιαΣοφια23](http://twitter.com/search?q=%23%ce%a0%ce%b1%ce%b9%ce%b4%cf%89%ce%bd%ce%91%ce%b3%ce%b9%ce%b1%ce%a3%ce%bf%cf%86%ce%b9%ce%b123) | N/A |
-| 7 | [Καρολινα](http://twitter.com/search?q=%ce%9a%ce%b1%cf%81%ce%bf%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
-| 8 | [Στειτ Ντιπαρτμεντ](http://twitter.com/search?q=%ce%a3%cf%84%ce%b5%ce%b9%cf%84+%ce%9d%cf%84%ce%b9%cf%80%ce%b1%cf%81%cf%84%ce%bc%ce%b5%ce%bd%cf%84) | N/A |
-| 9 | [Κορο](http://twitter.com/search?q=%ce%9a%ce%bf%cf%81%ce%bf) | N/A |
+| 3 | [#Market_Pass](http://twitter.com/search?q=%23Market_Pass) | N/A |
+| 4 | [#ΠαιδωνΑγιαΣοφια23](http://twitter.com/search?q=%23%ce%a0%ce%b1%ce%b9%ce%b4%cf%89%ce%bd%ce%91%ce%b3%ce%b9%ce%b1%ce%a3%ce%bf%cf%86%ce%b9%ce%b123) | N/A |
+| 5 | [Καρολινα](http://twitter.com/search?q=%ce%9a%ce%b1%cf%81%ce%bf%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
+| 6 | [Λαδαδικα](http://twitter.com/search?q=%ce%9b%ce%b1%ce%b4%ce%b1%ce%b4%ce%b9%ce%ba%ce%b1) | N/A |
+| 7 | [23 Φεβρουαριου](http://twitter.com/search?q=23+%ce%a6%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
+| 8 | [#Καραμανλης](http://twitter.com/search?q=%23%ce%9a%ce%b1%cf%81%ce%b1%ce%bc%ce%b1%ce%bd%ce%bb%ce%b7%cf%82) | N/A |
+| 9 | [Καλημερα Μαιρη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9c%ce%b1%ce%b9%cf%81%ce%b7) | N/A |
 | 10 | [Καλημερα Μαρια](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9c%ce%b1%cf%81%ce%b9%ce%b1) | N/A |
 | 11 | [Αγορου](http://twitter.com/search?q=%ce%91%ce%b3%ce%bf%cf%81%ce%bf%cf%85) | N/A |
-| 12 | [23 Φεβρουαριου](http://twitter.com/search?q=23+%ce%a6%ce%b5%ce%b2%cf%81%ce%bf%cf%85%ce%b1%cf%81%ce%b9%ce%bf%cf%85) | N/A |
-| 13 | [Κοσμου](http://twitter.com/search?q=%ce%9a%ce%bf%cf%83%ce%bc%ce%bf%cf%85) | N/A |
-| 14 | [Νεα Ιωνια](http://twitter.com/search?q=%ce%9d%ce%b5%ce%b1+%ce%99%cf%89%ce%bd%ce%b9%ce%b1) | N/A |
-| 15 | [Ζαραλικος](http://twitter.com/search?q=%ce%96%ce%b1%cf%81%ce%b1%ce%bb%ce%b9%ce%ba%ce%bf%cf%82) | N/A |
-| 16 | [Ευα Μπραουν](http://twitter.com/search?q=%ce%95%cf%85%ce%b1+%ce%9c%cf%80%cf%81%ce%b1%ce%bf%cf%85%ce%bd) | N/A |
-| 17 | [αφρο](http://twitter.com/search?q=%ce%b1%cf%86%cf%81%ce%bf) | N/A |
-| 18 | [λιβερπουλ](http://twitter.com/search?q=%ce%bb%ce%b9%ce%b2%ce%b5%cf%81%cf%80%ce%bf%cf%85%ce%bb) | N/A |
-| 19 | [Κικη Δημουλα](http://twitter.com/search?q=%ce%9a%ce%b9%ce%ba%ce%b7+%ce%94%ce%b7%ce%bc%ce%bf%cf%85%ce%bb%ce%b1) | N/A |
-| 20 | [Ομορφη](http://twitter.com/search?q=%ce%9f%ce%bc%ce%bf%cf%81%cf%86%ce%b7) | N/A |
+| 12 | [Κορο](http://twitter.com/search?q=%ce%9a%ce%bf%cf%81%ce%bf) | N/A |
+| 13 | [Νεα Ιωνια](http://twitter.com/search?q=%ce%9d%ce%b5%ce%b1+%ce%99%cf%89%ce%bd%ce%b9%ce%b1) | N/A |
+| 14 | [Καλημερα Ελενη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%95%ce%bb%ce%b5%ce%bd%ce%b7) | N/A |
+| 15 | [Στειτ Ντιπαρτμεντ](http://twitter.com/search?q=%ce%a3%cf%84%ce%b5%ce%b9%cf%84+%ce%9d%cf%84%ce%b9%cf%80%ce%b1%cf%81%cf%84%ce%bc%ce%b5%ce%bd%cf%84) | N/A |
+| 16 | [Ζαραλικος](http://twitter.com/search?q=%ce%96%ce%b1%cf%81%ce%b1%ce%bb%ce%b9%ce%ba%ce%bf%cf%82) | N/A |
+| 17 | [Ευα Μπραουν](http://twitter.com/search?q=%ce%95%cf%85%ce%b1+%ce%9c%cf%80%cf%81%ce%b1%ce%bf%cf%85%ce%bd) | N/A |
+| 18 | [Αφροδιτη](http://twitter.com/search?q=%ce%91%cf%86%cf%81%ce%bf%ce%b4%ce%b9%cf%84%ce%b7) | N/A |
+| 19 | [Καλημερα Νικο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9d%ce%b9%ce%ba%ce%bf) | N/A |
+| 20 | [Κικη Δημουλα](http://twitter.com/search?q=%ce%9a%ce%b9%ce%ba%ce%b7+%ce%94%ce%b7%ce%bc%ce%bf%cf%85%ce%bb%ce%b1) | N/A |
 | 21 | [πωλινα](http://twitter.com/search?q=%cf%80%cf%89%ce%bb%ce%b9%ce%bd%ce%b1) | N/A |
-| 22 | [σταθη](http://twitter.com/search?q=%cf%83%cf%84%ce%b1%ce%b8%ce%b7) | N/A |
+| 22 | [Καλημερα Βασιλικη](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%92%ce%b1%cf%83%ce%b9%ce%bb%ce%b9%ce%ba%ce%b7) | N/A |
 | 23 | [Λασο](http://twitter.com/search?q=%ce%9b%ce%b1%cf%83%ce%bf) | N/A |
 | 24 | [Πορτοκαλογλου](http://twitter.com/search?q=%ce%a0%ce%bf%cf%81%cf%84%ce%bf%ce%ba%ce%b1%ce%bb%ce%bf%ce%b3%ce%bb%ce%bf%cf%85) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [Καθαρας Δευτερας](http://twitter.com/search?q=%ce%9a%ce%b1%ce%b8%ce%b1%cf%81%ce%b1%cf%82+%ce%94%ce%b5%cf%85%cf%84%ce%b5%cf%81%ce%b1%cf%82) | N/A |
-| 27 | [ρεαλ](http://twitter.com/search?q=%cf%81%ce%b5%ce%b1%ce%bb) | N/A |
-| 28 | [Κωστη](http://twitter.com/search?q=%ce%9a%cf%89%cf%83%cf%84%ce%b7) | N/A |
-| 29 | [Νικολαου](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%bf%ce%bb%ce%b1%ce%bf%cf%85) | N/A |
-| 30 | [Η Ντορα](http://twitter.com/search?q=%ce%97+%ce%9d%cf%84%ce%bf%cf%81%ce%b1) | N/A |
-| 31 | [κουδουναρης](http://twitter.com/search?q=%ce%ba%ce%bf%cf%85%ce%b4%ce%bf%cf%85%ce%bd%ce%b1%cf%81%ce%b7%cf%82) | N/A |
-| 32 | [σχιζας](http://twitter.com/search?q=%cf%83%cf%87%ce%b9%ce%b6%ce%b1%cf%82) | N/A |
-| 33 | [χαντα](http://twitter.com/search?q=%cf%87%ce%b1%ce%bd%cf%84%ce%b1) | N/A |
-| 34 | [Αλβανος](http://twitter.com/search?q=%ce%91%ce%bb%ce%b2%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
-| 35 | [χριστιανα](http://twitter.com/search?q=%cf%87%cf%81%ce%b9%cf%83%cf%84%ce%b9%ce%b1%ce%bd%ce%b1) | N/A |
-| 36 | [λειψια](http://twitter.com/search?q=%ce%bb%ce%b5%ce%b9%cf%88%ce%b9%ce%b1) | N/A |
-| 37 | [βασαλο](http://twitter.com/search?q=%ce%b2%ce%b1%cf%83%ce%b1%ce%bb%ce%bf) | N/A |
-| 38 | [Σασμο](http://twitter.com/search?q=%ce%a3%ce%b1%cf%83%ce%bc%ce%bf) | N/A |
-| 39 | [Σελενη](http://twitter.com/search?q=%ce%a3%ce%b5%ce%bb%ce%b5%ce%bd%ce%b7) | N/A |
-| 40 | [Ο Μαρτικας](http://twitter.com/search?q=%ce%9f+%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%ba%ce%b1%cf%82) | N/A |
-| 41 | [Χαμπερη](http://twitter.com/search?q=%ce%a7%ce%b1%ce%bc%cf%80%ce%b5%cf%81%ce%b7) | N/A |
-| 42 | [Παναγιωταρου](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b1%cf%81%ce%bf%cf%85) | N/A |
-| 43 | [αρμανι](http://twitter.com/search?q=%ce%b1%cf%81%ce%bc%ce%b1%ce%bd%ce%b9) | N/A |
-| 44 | [εργασιας](http://twitter.com/search?q=%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b1%cf%82) | N/A |
-| 45 | [λιανος](http://twitter.com/search?q=%ce%bb%ce%b9%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
-| 46 | [στελιος](http://twitter.com/search?q=%cf%83%cf%84%ce%b5%ce%bb%ce%b9%ce%bf%cf%82) | N/A |
-| 47 | [ΣΔΟΕ](http://twitter.com/search?q=%ce%a3%ce%94%ce%9f%ce%95) | N/A |
-| 48 | [βοντος](http://twitter.com/search?q=%ce%b2%ce%bf%ce%bd%cf%84%ce%bf%cf%82) | N/A |
-| 49 | [Μονικα](http://twitter.com/search?q=%ce%9c%ce%bf%ce%bd%ce%b9%ce%ba%ce%b1) | N/A |
-| 50 | [Συλλυπητηρια](http://twitter.com/search?q=%ce%a3%cf%85%ce%bb%ce%bb%cf%85%cf%80%ce%b7%cf%84%ce%b7%cf%81%ce%b9%ce%b1) | N/A |
+| 25 | [Καλημερα Θεοδωρα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%98%ce%b5%ce%bf%ce%b4%cf%89%cf%81%ce%b1) | N/A |
+| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 27 | [Καθαρας Δευτερας](http://twitter.com/search?q=%ce%9a%ce%b1%ce%b8%ce%b1%cf%81%ce%b1%cf%82+%ce%94%ce%b5%cf%85%cf%84%ce%b5%cf%81%ce%b1%cf%82) | N/A |
+| 28 | [Καλημεραα](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1%ce%b1) | N/A |
+| 29 | [Πεμπτης](http://twitter.com/search?q=%ce%a0%ce%b5%ce%bc%cf%80%cf%84%ce%b7%cf%82) | N/A |
+| 30 | [Καλημερα Μανο](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%9c%ce%b1%ce%bd%ce%bf) | N/A |
+| 31 | [Μαριος](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%ce%b9%ce%bf%cf%82) | N/A |
+| 32 | [Η Ντορα](http://twitter.com/search?q=%ce%97+%ce%9d%cf%84%ce%bf%cf%81%ce%b1) | N/A |
+| 33 | [κουδουναρης](http://twitter.com/search?q=%ce%ba%ce%bf%cf%85%ce%b4%ce%bf%cf%85%ce%bd%ce%b1%cf%81%ce%b7%cf%82) | N/A |
+| 34 | [Καλημερα Ηλια](http://twitter.com/search?q=%ce%9a%ce%b1%ce%bb%ce%b7%ce%bc%ce%b5%cf%81%ce%b1+%ce%97%ce%bb%ce%b9%ce%b1) | N/A |
+| 35 | [Νικολαου](http://twitter.com/search?q=%ce%9d%ce%b9%ce%ba%ce%bf%ce%bb%ce%b1%ce%bf%cf%85) | N/A |
+| 36 | [σχιζας](http://twitter.com/search?q=%cf%83%cf%87%ce%b9%ce%b6%ce%b1%cf%82) | N/A |
+| 37 | [Αλβανος](http://twitter.com/search?q=%ce%91%ce%bb%ce%b2%ce%b1%ce%bd%ce%bf%cf%82) | N/A |
+| 38 | [χριστιανα](http://twitter.com/search?q=%cf%87%cf%81%ce%b9%cf%83%cf%84%ce%b9%ce%b1%ce%bd%ce%b1) | N/A |
+| 39 | [λειψια](http://twitter.com/search?q=%ce%bb%ce%b5%ce%b9%cf%88%ce%b9%ce%b1) | N/A |
+| 40 | [Βασαλο](http://twitter.com/search?q=%ce%92%ce%b1%cf%83%ce%b1%ce%bb%ce%bf) | N/A |
+| 41 | [Σελενη](http://twitter.com/search?q=%ce%a3%ce%b5%ce%bb%ce%b5%ce%bd%ce%b7) | N/A |
+| 42 | [ΕΣΣΔ](http://twitter.com/search?q=%ce%95%ce%a3%ce%a3%ce%94) | N/A |
+| 43 | [Μαρτικα](http://twitter.com/search?q=%ce%9c%ce%b1%cf%81%cf%84%ce%b9%ce%ba%ce%b1) | N/A |
+| 44 | [Χαμπερη](http://twitter.com/search?q=%ce%a7%ce%b1%ce%bc%cf%80%ce%b5%cf%81%ce%b7) | N/A |
+| 45 | [Ομορφη](http://twitter.com/search?q=%ce%9f%ce%bc%ce%bf%cf%81%cf%86%ce%b7) | N/A |
+| 46 | [Σταθης](http://twitter.com/search?q=%ce%a3%cf%84%ce%b1%ce%b8%ce%b7%cf%82) | N/A |
+| 47 | [Παναγιωταρου](http://twitter.com/search?q=%ce%a0%ce%b1%ce%bd%ce%b1%ce%b3%ce%b9%cf%89%cf%84%ce%b1%cf%81%ce%bf%cf%85) | N/A |
+| 48 | [Κωστη](http://twitter.com/search?q=%ce%9a%cf%89%cf%83%cf%84%ce%b7) | N/A |
+| 49 | [εργασιας](http://twitter.com/search?q=%ce%b5%cf%81%ce%b3%ce%b1%cf%83%ce%b9%ce%b1%cf%82) | N/A |
+| 50 | [Αριστοφανη](http://twitter.com/search?q=%ce%91%cf%81%ce%b9%cf%83%cf%84%ce%bf%cf%86%ce%b1%ce%bd%ce%b7) | N/A |
 
 
 

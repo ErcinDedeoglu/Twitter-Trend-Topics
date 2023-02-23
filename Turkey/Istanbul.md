@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-23 08:17:18 UTC`
+📆 Last Updated: `2023-02-23 09:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,49 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BirKiraBirYuva](http://twitter.com/search?q=%23BirKiraBirYuva) | N/A |
-| 2 | [#Tacikistan](http://twitter.com/search?q=%23Tacikistan) | N/A |
-| 3 | [#99ÖncesiHaklarlaEYT](http://twitter.com/search?q=%2399%c3%96ncesiHaklarlaEYT) | N/A |
-| 4 | [#galeriakurtarılmayıbekliyor](http://twitter.com/search?q=%23galeriakurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
-| 5 | [#BıktımArtık](http://twitter.com/search?q=%23B%c4%b1kt%c4%b1mArt%c4%b1k) | N/A |
-| 6 | [furkançolak osurdu](http://twitter.com/search?q=furkan%c3%a7olak+osurdu) | N/A |
-| 7 | [Yaşar Okuyan](http://twitter.com/search?q=Ya%c5%9far+Okuyan) | Yaşar Okuyan is a Turkish name meaning "He Who Reads". It is a popular name in Turkey, and is often given to boys. |
-| 8 | [ÇokUygun FiyatlıTTVerilir](http://twitter.com/search?q=%c3%87okUygun+Fiyatl%c4%b1TTVerilir) | N/A |
-| 9 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 10 | [g i d e c e k s i n i z](http://twitter.com/search?q=g+i+d+e+c+e+k+s+i+n+i+z) | N/A |
-| 11 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 12 | [çadır acil](http://twitter.com/search?q=%c3%a7ad%c4%b1r+acil) | N/A |
-| 13 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 14 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 15 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
-| 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 17 | [Savaş Ateş](http://twitter.com/search?q=Sava%c5%9f+Ate%c5%9f) | N/A |
-| 18 | [Engin Ardıç](http://twitter.com/search?q=Engin+Ard%c4%b1%c3%a7) | N/A |
-| 19 | [sakiler yalanıbırak](http://twitter.com/search?q=sakiler+yalan%c4%b1b%c4%b1rak) | N/A |
-| 20 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 21 | [DERDİNİZ İMAM DEĞİL İSLAMLA](http://twitter.com/search?q=DERD%c4%b0N%c4%b0Z+%c4%b0MAM+DE%c4%9e%c4%b0L+%c4%b0SLAMLA) | N/A |
-| 22 | [lacoste necmi](http://twitter.com/search?q=lacoste+necmi) | N/A |
-| 23 | [Metin Akpınar](http://twitter.com/search?q=Metin+Akp%c4%b1nar) | N/A |
-| 24 | [ommer hotel](http://twitter.com/search?q=ommer+hotel) | N/A |
-| 25 | [Yürü Bay Kemal](http://twitter.com/search?q=Y%c3%bcr%c3%bc+Bay+Kemal) | N/A |
-| 26 | [Kısmi Emeklilik](http://twitter.com/search?q=K%c4%b1smi+Emeklilik) | N/A |
-| 27 | [Jüpiter](http://twitter.com/search?q=J%c3%bcpiter) | N/A |
-| 28 | [İstanbul Boğazı](http://twitter.com/search?q=%c4%b0stanbul+Bo%c4%9faz%c4%b1) | N/A |
-| 29 | [Hazırlık](http://twitter.com/search?q=Haz%c4%b1rl%c4%b1k) | N/A |
-| 30 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
-| 31 | [Feyzan](http://twitter.com/search?q=Feyzan) | N/A |
-| 32 | [Metin Yüksel](http://twitter.com/search?q=Metin+Y%c3%bcksel) | N/A |
-| 33 | [Venüs](http://twitter.com/search?q=Ven%c3%bcs) | N/A |
-| 34 | [Farah Zeynep Abdullah](http://twitter.com/search?q=Farah+Zeynep+Abdullah) | N/A |
-| 35 | [İnsaniYardıma Operasyon](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon) | N/A |
-| 36 | [Allah Devletimize](http://twitter.com/search?q=Allah+Devletimize) | N/A |
-| 37 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 38 | [Fox TV'ye](http://twitter.com/search?q=Fox+TV%27ye) | N/A |
-| 39 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
-| 40 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 41 | [Etmiyorsun](http://twitter.com/search?q=Etmiyorsun) | N/A |
-| 42 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 43 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
-| 44 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 45 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 46 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
-| 47 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
-| 48 | [Tunç Soyer](http://twitter.com/search?q=Tun%c3%a7+Soyer) | N/A |
-| 49 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 50 | [Hakan Çalhanoğlu](http://twitter.com/search?q=Hakan+%c3%87alhano%c4%9flu) | N/A |
+| 1 | [Aleykümselam](http://twitter.com/search?q=Aleyk%c3%bcmselam) | N/A |
+| 2 | [İnce](http://twitter.com/search?q=%c4%b0nce) | N/A |
+| 3 | [#Tacikistan](http://twitter.com/search?q=%23Tacikistan) | N/A |
+| 4 | [#99ÖncesiHaklarlaEYT](http://twitter.com/search?q=%2399%c3%96ncesiHaklarlaEYT) | N/A |
+| 5 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 6 | [#BıktımArtık](http://twitter.com/search?q=%23B%c4%b1kt%c4%b1mArt%c4%b1k) | N/A |
+| 7 | [#EMADDER](http://twitter.com/search?q=%23EMADDER) | N/A |
+| 8 | [#perşembe](http://twitter.com/search?q=%23per%c5%9fembe) | N/A |
+| 9 | [ÇokUygun FiyatlıTTVerilir](http://twitter.com/search?q=%c3%87okUygun+Fiyatl%c4%b1TTVerilir) | N/A |
+| 10 | [Kibritçi Kız](http://twitter.com/search?q=Kibrit%c3%a7i+K%c4%b1z) | N/A |
+| 11 | [Hazırlık](http://twitter.com/search?q=Haz%c4%b1rl%c4%b1k) | N/A |
+| 12 | [Playoff](http://twitter.com/search?q=Playoff) | N/A |
+| 13 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 14 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 15 | [Kısmi Emeklilik](http://twitter.com/search?q=K%c4%b1smi+Emeklilik) | N/A |
+| 16 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 17 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
+| 18 | [Hakan Çalhanoğlu](http://twitter.com/search?q=Hakan+%c3%87alhano%c4%9flu) | N/A |
+| 19 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 20 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 21 | [Tunç Soyer](http://twitter.com/search?q=Tun%c3%a7+Soyer) | N/A |
+| 22 | [DERDİNİZ İMAM DEĞİL İSLAMLA](http://twitter.com/search?q=DERD%c4%b0N%c4%b0Z+%c4%b0MAM+DE%c4%9e%c4%b0L+%c4%b0SLAMLA) | N/A |
+| 23 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 24 | [23 Şubat](http://twitter.com/search?q=23+%c5%9eubat) | N/A |
+| 25 | [Hayırlı Sabahlar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Sabahlar) | N/A |
+| 26 | [Halkına](http://twitter.com/search?q=Halk%c4%b1na) | N/A |
+| 27 | [Savaş Ateş](http://twitter.com/search?q=Sava%c5%9f+Ate%c5%9f) | N/A |
+| 28 | [Metin Akpınar](http://twitter.com/search?q=Metin+Akp%c4%b1nar) | N/A |
+| 29 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 30 | [#kayseri](http://twitter.com/search?q=%23kayseri) | N/A |
+| 31 | [#StajyerinSabrıKalmadı](http://twitter.com/search?q=%23StajyerinSabr%c4%b1Kalmad%c4%b1) | N/A |
+| 32 | [#faiz](http://twitter.com/search?q=%23faiz) | N/A |
+| 33 | [#yunsa](http://twitter.com/search?q=%23yunsa) | N/A |
+| 34 | [#ÇöpAdam](http://twitter.com/search?q=%23%c3%87%c3%b6pAdam) | N/A |
+| 35 | [#2000sonrasıKADEME](http://twitter.com/search?q=%232000sonras%c4%b1KADEME) | N/A |
+| 36 | [#ykbnk](http://twitter.com/search?q=%23ykbnk) | N/A |
+| 37 | [#TTKOM](http://twitter.com/search?q=%23TTKOM) | N/A |
+| 38 | [#HalkDayanışması](http://twitter.com/search?q=%23HalkDayan%c4%b1%c5%9fmas%c4%b1) | N/A |
+| 39 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
+| 40 | [#Jupiter](http://twitter.com/search?q=%23Jupiter) | N/A |
+| 41 | [#xbank](http://twitter.com/search?q=%23xbank) | N/A |
+| 42 | [#endeks](http://twitter.com/search?q=%23endeks) | N/A |
+| 43 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
 
 
 

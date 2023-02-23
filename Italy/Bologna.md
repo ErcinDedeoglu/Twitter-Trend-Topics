@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-23 08:16:51 UTC`
+📆 Last Updated: `2023-02-23 09:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
 | 2 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
 | 3 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
-| 4 | [#LeConosco](http://twitter.com/search?q=%23LeConosco) | N/A |
+| 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
 | 5 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
 | 6 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 7 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 8 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 9 | [Buon Giovedì](http://twitter.com/search?q=Buon+Gioved%c3%ac) | N/A |
-| 10 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 11 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 12 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 13 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
-| 14 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 15 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 16 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 17 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 18 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 19 | [Mandragora](http://twitter.com/search?q=Mandragora) | N/A |
-| 20 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 21 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 22 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 23 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
-| 24 | [Buongiorno Monica](http://twitter.com/search?q=Buongiorno+Monica) | N/A |
-| 25 | [Saman](http://twitter.com/search?q=Saman) | N/A |
-| 26 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 27 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 28 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 29 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
-| 30 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
+| 7 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 8 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 9 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 10 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 11 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
+| 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 13 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 14 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 15 | [Mandragora](http://twitter.com/search?q=Mandragora) | N/A |
+| 16 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 17 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 18 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
+| 19 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 20 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 21 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
+| 22 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
+| 23 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
+| 24 | [Buongiorno Marta](http://twitter.com/search?q=Buongiorno+Marta) | N/A |
+| 25 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
+| 26 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 27 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
+| 28 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
+| 29 | [Buon Giovedì](http://twitter.com/search?q=Buon+Gioved%c3%ac) | N/A |
+| 30 | [Buongiorno Massimo](http://twitter.com/search?q=Buongiorno+Massimo) | N/A |
 | 31 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
-| 32 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 33 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
-| 34 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
-| 35 | [rosa ricci](http://twitter.com/search?q=rosa+ricci) | N/A |
-| 36 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
-| 37 | [Surreale](http://twitter.com/search?q=Surreale) | N/A |
-| 38 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
-| 39 | [BIG ROM](http://twitter.com/search?q=BIG+ROM) | N/A |
-| 40 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 41 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 42 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 43 | [Buongiorno Dj](http://twitter.com/search?q=Buongiorno+Dj) | N/A |
-| 44 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 45 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
-| 46 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
-| 47 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
-| 48 | [DIOGO COSTA](http://twitter.com/search?q=DIOGO+COSTA) | N/A |
-| 49 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
+| 32 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 33 | [Buongiorno Valeria](http://twitter.com/search?q=Buongiorno+Valeria) | N/A |
+| 34 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 35 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 36 | [BIG ROM](http://twitter.com/search?q=BIG+ROM) | N/A |
+| 37 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 38 | [Surreale](http://twitter.com/search?q=Surreale) | N/A |
+| 39 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 40 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 41 | [Buongiorno Dj](http://twitter.com/search?q=Buongiorno+Dj) | N/A |
+| 42 | [Ovadia](http://twitter.com/search?q=Ovadia) | N/A |
+| 43 | [Churchill](http://twitter.com/search?q=Churchill) | N/A |
+| 44 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
+| 45 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 46 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
+| 47 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 48 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
+| 49 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
 
 
 
