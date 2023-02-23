@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-23 06:16:40 UTC`
+📆 Last Updated: `2023-02-23 07:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Australia](</Australia>)
 | 3 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
 | 4 | [Bowes](http://twitter.com/search?q=Bowes) | N/A |
 | 5 | [#AUSvJAM](http://twitter.com/search?q=%23AUSvJAM) | N/A |
-| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 6 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
 | 7 | [#MANIAC_IN_SYDNEY](http://twitter.com/search?q=%23MANIAC_IN_SYDNEY) | N/A |
-| 8 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
-| 9 | [Serena Wilson](http://twitter.com/search?q=Serena+Wilson) | N/A |
-| 10 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 12 | [Alex Pearce](http://twitter.com/search?q=Alex+Pearce) | N/A |
-| 13 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 14 | [Superannuation](http://twitter.com/search?q=Superannuation) | N/A |
-| 15 | [Scott Britton](http://twitter.com/search?q=Scott+Britton) | N/A |
-| 16 | [Greggery](http://twitter.com/search?q=Greggery) | N/A |
-| 17 | [Paul Murray](http://twitter.com/search?q=Paul+Murray) | N/A |
-| 18 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
-| 19 | [Naplan](http://twitter.com/search?q=Naplan) | N/A |
-| 20 | [Jeannie](http://twitter.com/search?q=Jeannie) | N/A |
-| 21 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 22 | [Murdoch Press](http://twitter.com/search?q=Murdoch+Press) | N/A |
-| 23 | [dodie](http://twitter.com/search?q=dodie) | N/A |
-| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 25 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 26 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 27 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 28 | [TAYLA](http://twitter.com/search?q=TAYLA) | N/A |
-| 29 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
-| 30 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 31 | [Karl Stefanovic](http://twitter.com/search?q=Karl+Stefanovic) | N/A |
-| 32 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 33 | [Louise](http://twitter.com/search?q=Louise) | N/A |
-| 34 | [Macquarie Island](http://twitter.com/search?q=Macquarie+Island) | N/A |
-| 35 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 36 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
-| 37 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
-| 38 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 39 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
-| 40 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 41 | [Kembla](http://twitter.com/search?q=Kembla) | N/A |
-| 42 | [Woolworths](http://twitter.com/search?q=Woolworths) | N/A |
-| 43 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
-| 44 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 45 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 46 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
-| 47 | [Flowerdale](http://twitter.com/search?q=Flowerdale) | N/A |
-| 48 | [Kate Langbroek](http://twitter.com/search?q=Kate+Langbroek) | N/A |
-| 49 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
+| 8 | [#AFLPreseason](http://twitter.com/search?q=%23AFLPreseason) | N/A |
+| 9 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
+| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 11 | [Serena Wilson](http://twitter.com/search?q=Serena+Wilson) | N/A |
+| 12 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 13 | [Alex Pearce](http://twitter.com/search?q=Alex+Pearce) | N/A |
+| 14 | [Ollie Henry](http://twitter.com/search?q=Ollie+Henry) | N/A |
+| 15 | [Britton](http://twitter.com/search?q=Britton) | N/A |
+| 16 | [Meek](http://twitter.com/search?q=Meek) | Meek is an adjective that describes someone who is quiet, gentle, and submissive. It can also refer to someone who is humble and unassuming. |
+| 17 | [Superannuation](http://twitter.com/search?q=Superannuation) | N/A |
+| 18 | [Greggery](http://twitter.com/search?q=Greggery) | N/A |
+| 19 | [Paul Murray](http://twitter.com/search?q=Paul+Murray) | N/A |
+| 20 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 21 | [Jeannie](http://twitter.com/search?q=Jeannie) | N/A |
+| 22 | [dodie](http://twitter.com/search?q=dodie) | N/A |
+| 23 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 24 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 25 | [marie blake](http://twitter.com/search?q=marie+blake) | N/A |
+| 26 | [Naplan](http://twitter.com/search?q=Naplan) | N/A |
+| 27 | [Angus](http://twitter.com/search?q=Angus) | N/A |
+| 28 | [Essendon](http://twitter.com/search?q=Essendon) | N/A |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 30 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 31 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 32 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 33 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
+| 34 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
+| 35 | [Karl Stefanovic](http://twitter.com/search?q=Karl+Stefanovic) | N/A |
+| 36 | [Sally](http://twitter.com/search?q=Sally) | N/A |
+| 37 | [Murdoch Press](http://twitter.com/search?q=Murdoch+Press) | N/A |
+| 38 | [Macquarie Island](http://twitter.com/search?q=Macquarie+Island) | N/A |
+| 39 | [Louise](http://twitter.com/search?q=Louise) | N/A |
+| 40 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
+| 41 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
+| 42 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 43 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 44 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
+| 45 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 46 | [Godzilla](http://twitter.com/search?q=Godzilla) | N/A |
+| 47 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 48 | [Sydney Water](http://twitter.com/search?q=Sydney+Water) | N/A |
+| 49 | [JobKeeper](http://twitter.com/search?q=JobKeeper) | N/A |
 
 
 

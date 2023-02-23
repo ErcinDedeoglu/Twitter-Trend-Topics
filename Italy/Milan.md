@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-23 06:16:35 UTC`
+📆 Last Updated: `2023-02-23 07:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
 | 2 | [#LeConosco](http://twitter.com/search?q=%23LeConosco) | N/A |
 | 3 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
-| 4 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
-| 5 | [#MichelleImpossible](http://twitter.com/search?q=%23MichelleImpossible) | N/A |
+| 4 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 5 | [#chilhavisto](http://twitter.com/search?q=%23chilhavisto) | #Chilhavisto is a Spanish hashtag that translates to "Have you seen it?" It is used to ask if someone has seen something, such as a movie, TV show, or video. |
 | 6 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
 | 7 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
 | 8 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
 | 9 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
-| 10 | [Buongiorno Giusi](http://twitter.com/search?q=Buongiorno+Giusi) | N/A |
+| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 11 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 12 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 12 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
 | 13 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
 | 14 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
 | 15 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 16 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 17 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 18 | [Buongiorno Giuseppe](http://twitter.com/search?q=Buongiorno+Giuseppe) | N/A |
-| 19 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 20 | [forza billy](http://twitter.com/search?q=forza+billy) | N/A |
-| 21 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 22 | [Saman](http://twitter.com/search?q=Saman) | N/A |
-| 23 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
-| 24 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 25 | [BIG ROM](http://twitter.com/search?q=BIG+ROM) | N/A |
-| 26 | [circo massimo](http://twitter.com/search?q=circo+massimo) | N/A |
-| 27 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 28 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 16 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 17 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 18 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 19 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 20 | [Buongiorno Antonella](http://twitter.com/search?q=Buongiorno+Antonella) | N/A |
+| 21 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 22 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 23 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 24 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 25 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
+| 26 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
+| 27 | [ROMELU](http://twitter.com/search?q=ROMELU) | N/A |
+| 28 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
 | 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 30 | [ROMELU](http://twitter.com/search?q=ROMELU) | N/A |
-| 31 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
-| 32 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
-| 33 | [francoforte](http://twitter.com/search?q=francoforte) | N/A |
-| 34 | [rosa ricci](http://twitter.com/search?q=rosa+ricci) | N/A |
-| 35 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
-| 36 | [Risorgimento](http://twitter.com/search?q=Risorgimento) | N/A |
-| 37 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 38 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
-| 39 | [DIOGO COSTA](http://twitter.com/search?q=DIOGO+COSTA) | N/A |
-| 40 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
-| 41 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 42 | [Pirucchio](http://twitter.com/search?q=Pirucchio) | N/A |
-| 43 | [penelopo](http://twitter.com/search?q=penelopo) | N/A |
-| 44 | [sentite](http://twitter.com/search?q=sentite) | N/A |
-| 45 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 46 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 47 | [la scena](http://twitter.com/search?q=la+scena) | N/A |
-| 48 | [di lorenzo](http://twitter.com/search?q=di+lorenzo) | N/A |
-| 49 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 30 | [Buongiorno Antonio](http://twitter.com/search?q=Buongiorno+Antonio) | N/A |
+| 31 | [rosa ricci](http://twitter.com/search?q=rosa+ricci) | N/A |
+| 32 | [Condoglianze](http://twitter.com/search?q=Condoglianze) | N/A |
+| 33 | [BIG ROM](http://twitter.com/search?q=BIG+ROM) | N/A |
+| 34 | [Surreale](http://twitter.com/search?q=Surreale) | N/A |
+| 35 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
+| 36 | [risorgimento](http://twitter.com/search?q=risorgimento) | N/A |
+| 37 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 38 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
+| 39 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 40 | [DIOGO COSTA](http://twitter.com/search?q=DIOGO+COSTA) | N/A |
+| 41 | [Pelle](http://twitter.com/search?q=Pelle) | N/A |
+| 42 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 43 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 44 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 45 | [sentite](http://twitter.com/search?q=sentite) | N/A |
+| 46 | [Guido](http://twitter.com/search?q=Guido) | Guido is a slang term used to refer to a certain type of Italian-American man. It is often used in a derogatory way to describe someone who is seen as overly macho, chauvinistic, and/or aggressive. |
+| 47 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
+| 48 | [la scena](http://twitter.com/search?q=la+scena) | N/A |
+| 49 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 50 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
 
 
 

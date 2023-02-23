@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-23 06:17:15 UTC`
+📆 Last Updated: `2023-02-23 07:16:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Poland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 2 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 3 | [Kaczyńskim](http://twitter.com/search?q=Kaczy%c5%84skim) | N/A |
-| 4 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
-| 5 | [Klich](http://twitter.com/search?q=Klich) | Klich is a Yiddish word that means gossip or rumor. It is often used to describe idle chatter or gossiping about someone or something. |
+| 2 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 3 | [#LivRma](http://twitter.com/search?q=%23LivRma) | N/A |
+| 4 | [#F1PL](http://twitter.com/search?q=%23F1PL) | N/A |
+| 5 | [#Jedziemy](http://twitter.com/search?q=%23Jedziemy) | N/A |
 | 6 | [Depresją](http://twitter.com/search?q=Depresj%c4%85) | N/A |
-| 7 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
-| 8 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
-| 9 | [#środapopielcowa](http://twitter.com/search?q=%23%c5%9brodapopielcowa) | N/A |
-| 10 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
-| 11 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
-| 12 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 13 | [Duda](http://twitter.com/search?q=Duda) | N/A |
-| 14 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 15 | [#WielkiPost](http://twitter.com/search?q=%23WielkiPost) | N/A |
-| 16 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
-| 17 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 18 | [wielkiego postu](http://twitter.com/search?q=wielkiego+postu) | N/A |
-| 19 | [#ultraliga](http://twitter.com/search?q=%23ultraliga) | N/A |
-| 20 | [Grodzkim](http://twitter.com/search?q=Grodzkim) | N/A |
-| 21 | [jimina](http://twitter.com/search?q=jimina) | N/A |
-| 22 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
-| 23 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
-| 24 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 25 | [jakimowicz](http://twitter.com/search?q=jakimowicz) | N/A |
-| 26 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 27 | [Prezydent USA](http://twitter.com/search?q=Prezydent+USA) | N/A |
-| 28 | [trumpa](http://twitter.com/search?q=trumpa) | N/A |
-| 29 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
-| 30 | [lipska](http://twitter.com/search?q=lipska) | N/A |
-| 31 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 32 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 33 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 34 | [Mołdawia](http://twitter.com/search?q=Mo%c5%82dawia) | N/A |
-| 35 | [witek](http://twitter.com/search?q=witek) | N/A |
-| 36 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
-| 37 | [Naddniestrza](http://twitter.com/search?q=Naddniestrza) | N/A |
-| 38 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
-| 39 | [karolina pliskova](http://twitter.com/search?q=karolina+pliskova) | N/A |
-| 40 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 41 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 42 | [ewangelię](http://twitter.com/search?q=ewangeli%c4%99) | N/A |
-| 43 | [spotkał](http://twitter.com/search?q=spotka%c5%82) | N/A |
-| 44 | [Witam](http://twitter.com/search?q=Witam) | N/A |
-| 45 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 46 | [Kijowa](http://twitter.com/search?q=Kijowa) | N/A |
-| 47 | [Zbyszku](http://twitter.com/search?q=Zbyszku) | N/A |
-| 48 | [Winter Flower](http://twitter.com/search?q=Winter+Flower) | N/A |
-| 49 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 50 | [Marianna](http://twitter.com/search?q=Marianna) | N/A |
+| 7 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 8 | [Kaczyński](http://twitter.com/search?q=Kaczy%c5%84ski) | N/A |
+| 9 | [Darku](http://twitter.com/search?q=Darku) | N/A |
+| 10 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
+| 11 | [Cześć](http://twitter.com/search?q=Cze%c5%9b%c4%87) | N/A |
+| 12 | [Klich](http://twitter.com/search?q=Klich) | Klich is a Yiddish word that means gossip or rumor. It is often used to describe idle chatter or gossiping about someone or something. |
+| 13 | [#LPOBOD](http://twitter.com/search?q=%23LPOBOD) | N/A |
+| 14 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
+| 15 | [Trzaskowskim](http://twitter.com/search?q=Trzaskowskim) | N/A |
+| 16 | [Dobrego](http://twitter.com/search?q=Dobrego) | N/A |
+| 17 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 18 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
+| 19 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 20 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
+| 21 | [Dzień Dobry](http://twitter.com/search?q=Dzie%c5%84+Dobry) | N/A |
+| 22 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 23 | [Witam](http://twitter.com/search?q=Witam) | N/A |
+| 24 | [WIBOR](http://twitter.com/search?q=WIBOR) | N/A |
+| 25 | [wielkiego postu](http://twitter.com/search?q=wielkiego+postu) | N/A |
+| 26 | [Grodzkim](http://twitter.com/search?q=Grodzkim) | N/A |
+| 27 | [Najlepszego](http://twitter.com/search?q=Najlepszego) | N/A |
+| 28 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
+| 29 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
+| 30 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
+| 31 | [Pięknego](http://twitter.com/search?q=Pi%c4%99knego) | N/A |
+| 32 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 33 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 34 | [lipska](http://twitter.com/search?q=lipska) | N/A |
+| 35 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
+| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 37 | [Mołdawia](http://twitter.com/search?q=Mo%c5%82dawia) | N/A |
+| 38 | [Bart](http://twitter.com/search?q=Bart) | N/A |
+| 39 | [Jakimowicz](http://twitter.com/search?q=Jakimowicz) | N/A |
+| 40 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
+| 41 | [Żoliborza](http://twitter.com/search?q=%c5%bboliborza) | N/A |
+| 42 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
+| 43 | [Naddniestrza](http://twitter.com/search?q=Naddniestrza) | N/A |
+| 44 | [karolina pliskova](http://twitter.com/search?q=karolina+pliskova) | N/A |
+| 45 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 46 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 47 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 48 | [spotkał](http://twitter.com/search?q=spotka%c5%82) | N/A |
+| 49 | [HIMARS](http://twitter.com/search?q=HIMARS) | N/A |
+| 50 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
 
 
 

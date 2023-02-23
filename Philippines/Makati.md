@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makati
 
-📆 Last Updated: `2023-02-23 06:16:46 UTC`
+📆 Last Updated: `2023-02-23 07:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Philippines](</Philippines>)
 | 3 | [#AnInconvenientLoveonNetflix](http://twitter.com/search?q=%23AnInconvenientLoveonNetflix) | N/A |
 | 4 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
 | 5 | [AIL NOW ON NETFLIX](http://twitter.com/search?q=AIL+NOW+ON+NETFLIX) | N/A |
-| 6 | [#ShowtimeBataKoTo](http://twitter.com/search?q=%23ShowtimeBataKoTo) | N/A |
+| 6 | [#JonaxxACTYAFinalCall](http://twitter.com/search?q=%23JonaxxACTYAFinalCall) | N/A |
 | 7 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
 | 8 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 9 | [WILD TONIGHT MV TEASER2](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER2) | N/A |
-| 10 | [FM802 Holiday Special](http://twitter.com/search?q=FM802+Holiday+Special) | N/A |
-| 11 | [MEW IN MV CLOSER](http://twitter.com/search?q=MEW+IN+MV+CLOSER) | N/A |
-| 12 | [BEUStiful DAY WITH BGYO](http://twitter.com/search?q=BEUStiful+DAY+WITH+BGYO) | N/A |
-| 13 | [BLOOMING MORNING WITH BINI](http://twitter.com/search?q=BLOOMING+MORNING+WITH+BINI) | N/A |
-| 14 | [KAIA TURN UP MEDIA TOUR](http://twitter.com/search?q=KAIA+TURN+UP+MEDIA+TOUR) | N/A |
-| 15 | [Team Secret](http://twitter.com/search?q=Team+Secret) | N/A |
-| 16 | [GOSE](http://twitter.com/search?q=GOSE) | N/A |
-| 17 | [READY TO BE CHARMED](http://twitter.com/search?q=READY+TO+BE+CHARMED) | N/A |
-| 18 | [luckybeauty short film](http://twitter.com/search?q=luckybeauty+short+film) | N/A |
-| 19 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 20 | [goodbye now txt](http://twitter.com/search?q=goodbye+now+txt) | N/A |
-| 21 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
-| 22 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 23 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 24 | [Jeopardy](http://twitter.com/search?q=Jeopardy) | N/A |
-| 25 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
-| 26 | [AILonNETFLIX BUKAS NA](http://twitter.com/search?q=AILonNETFLIX+BUKAS+NA) | N/A |
-| 27 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 28 | [D-1 Be His Prey](http://twitter.com/search?q=D-1+Be+His+Prey) | N/A |
-| 29 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 30 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 31 | [FILAY SaPusoMo](http://twitter.com/search?q=FILAY+SaPusoMo) | N/A |
-| 32 | [Mr. Torres](http://twitter.com/search?q=Mr.+Torres) | N/A |
-| 33 | [happy lea day](http://twitter.com/search?q=happy+lea+day) | N/A |
-| 34 | [juliebee bidaangsaya](http://twitter.com/search?q=juliebee+bidaangsaya) | N/A |
-| 35 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 36 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 37 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 38 | [VXON WISHBUS COMEBACK](http://twitter.com/search?q=VXON+WISHBUS+COMEBACK) | N/A |
-| 39 | [Jinggoy](http://twitter.com/search?q=Jinggoy) | N/A |
-| 40 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 41 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 9 | [wild tonight mv teaser2](http://twitter.com/search?q=wild+tonight+mv+teaser2) | N/A |
+| 10 | [BEUStiful DAY WITH BGYO](http://twitter.com/search?q=BEUStiful+DAY+WITH+BGYO) | N/A |
+| 11 | [BLOOMING MORNING WITH BINI](http://twitter.com/search?q=BLOOMING+MORNING+WITH+BINI) | N/A |
+| 12 | [gose](http://twitter.com/search?q=gose) | N/A |
+| 13 | [Team Secret](http://twitter.com/search?q=Team+Secret) | N/A |
+| 14 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 15 | [luckybeauty short film](http://twitter.com/search?q=luckybeauty+short+film) | N/A |
+| 16 | [FM802 Holiday Special](http://twitter.com/search?q=FM802+Holiday+Special) | N/A |
+| 17 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 18 | [Jeopardy](http://twitter.com/search?q=Jeopardy) | N/A |
+| 19 | [MEW IN MV CLOSER](http://twitter.com/search?q=MEW+IN+MV+CLOSER) | N/A |
+| 20 | [D-1 Be His Prey](http://twitter.com/search?q=D-1+Be+His+Prey) | N/A |
+| 21 | [AILonNETFLIX BUKAS NA](http://twitter.com/search?q=AILonNETFLIX+BUKAS+NA) | N/A |
+| 22 | [JENO TO MILANO](http://twitter.com/search?q=JENO+TO+MILANO) | N/A |
+| 23 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 24 | [MY SHINEE](http://twitter.com/search?q=MY+SHINEE) | N/A |
+| 25 | [READY TO BE CHARMED](http://twitter.com/search?q=READY+TO+BE+CHARMED) | N/A |
+| 26 | [FILAY SaPusoMo](http://twitter.com/search?q=FILAY+SaPusoMo) | N/A |
+| 27 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 28 | [happy lea day](http://twitter.com/search?q=happy+lea+day) | N/A |
+| 29 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 30 | [juliebee bidaangsaya](http://twitter.com/search?q=juliebee+bidaangsaya) | N/A |
+| 31 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 32 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
+| 33 | [Mr. Torres](http://twitter.com/search?q=Mr.+Torres) | N/A |
+| 34 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 35 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 36 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 37 | [VXON WISHBUS COMEBACK](http://twitter.com/search?q=VXON+WISHBUS+COMEBACK) | N/A |
+| 38 | [Jinggoy](http://twitter.com/search?q=Jinggoy) | N/A |
+| 39 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 40 | [svt top 6 global artist](http://twitter.com/search?q=svt+top+6+global+artist) | N/A |
+| 41 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 42 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 43 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 44 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 45 | [SVT TOP 6 GLOBAL ARTIST](http://twitter.com/search?q=SVT+TOP+6+GLOBAL+ARTIST) | N/A |
-| 46 | [d-2 wild tonight single](http://twitter.com/search?q=d-2+wild+tonight+single) | N/A |
-| 47 | [IFPI](http://twitter.com/search?q=IFPI) | N/A |
-| 48 | [Ayef](http://twitter.com/search?q=Ayef) | N/A |
-| 49 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
-| 50 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
+| 43 | [d-2 wild tonight single](http://twitter.com/search?q=d-2+wild+tonight+single) | N/A |
+| 44 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 45 | [JIMIN SOLO ALBUM](http://twitter.com/search?q=JIMIN+SOLO+ALBUM) | N/A |
+| 46 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
+| 47 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 48 | [MAINE MENDOZA Smile](http://twitter.com/search?q=MAINE+MENDOZA+Smile) | N/A |
+| 49 | [PPOP](http://twitter.com/search?q=PPOP) | N/A |
+| 50 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
 
 
 
