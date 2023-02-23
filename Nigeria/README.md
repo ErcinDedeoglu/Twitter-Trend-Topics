@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-02-23 14:16:25 UTC`
+📆 Last Updated: `2023-02-23 15:17:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
-| 2 | [#ParimatchDoublePayout](http://twitter.com/search?q=%23ParimatchDoublePayout) | N/A |
-| 3 | [#BawaPoliticalStooge](http://twitter.com/search?q=%23BawaPoliticalStooge) | N/A |
-| 4 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 5 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
-| 6 | [#GACMotorXFilmHouse](http://twitter.com/search?q=%23GACMotorXFilmHouse) | N/A |
-| 7 | [#RMKinKano](http://twitter.com/search?q=%23RMKinKano) | N/A |
-| 8 | [#APCIzGone](http://twitter.com/search?q=%23APCIzGone) | N/A |
-| 9 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
-| 10 | [Ephraim Nwuzi](http://twitter.com/search?q=Ephraim+Nwuzi) | N/A |
-| 11 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
-| 12 | [Tunde](http://twitter.com/search?q=Tunde) | N/A |
-| 13 | [Social Democratic Party](http://twitter.com/search?q=Social+Democratic+Party) | N/A |
-| 14 | [MSSN](http://twitter.com/search?q=MSSN) | N/A |
-| 15 | [Fantastic 4](http://twitter.com/search?q=Fantastic+4) | N/A |
+| 2 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 3 | [Finnish](http://twitter.com/search?q=Finnish) | N/A |
+| 4 | [Interpol](http://twitter.com/search?q=Interpol) | N/A |
+| 5 | [#APCIzGone](http://twitter.com/search?q=%23APCIzGone) | N/A |
+| 6 | [#RMKinKano](http://twitter.com/search?q=%23RMKinKano) | N/A |
+| 7 | [#BawaPoliticalStooge](http://twitter.com/search?q=%23BawaPoliticalStooge) | N/A |
+| 8 | [#parimatchdoublepayout](http://twitter.com/search?q=%23parimatchdoublepayout) | N/A |
+| 9 | [#TrackYourVoteNaija](http://twitter.com/search?q=%23TrackYourVoteNaija) | N/A |
+| 10 | [Tunde](http://twitter.com/search?q=Tunde) | N/A |
+| 11 | [Social Democratic Party](http://twitter.com/search?q=Social+Democratic+Party) | N/A |
+| 12 | [Ephraim Nwuzi](http://twitter.com/search?q=Ephraim+Nwuzi) | N/A |
+| 13 | [Victor Umeh](http://twitter.com/search?q=Victor+Umeh) | N/A |
+| 14 | [IPOB](http://twitter.com/search?q=IPOB) | N/A |
+| 15 | [BODMAS](http://twitter.com/search?q=BODMAS) | N/A |
 | 16 | [South East](http://twitter.com/search?q=South+East) | N/A |
-| 17 | [Obi Obi](http://twitter.com/search?q=Obi+Obi) | N/A |
-| 18 | [Pastor Paul Enenche](http://twitter.com/search?q=Pastor+Paul+Enenche) | N/A |
-| 19 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
+| 17 | [Onitsha](http://twitter.com/search?q=Onitsha) | N/A |
+| 18 | [Fantastic 4](http://twitter.com/search?q=Fantastic+4) | N/A |
+| 19 | [MSSN](http://twitter.com/search?q=MSSN) | N/A |
 | 20 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 21 | [Omah Lay](http://twitter.com/search?q=Omah+Lay) | N/A |
-| 22 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 23 | [Oyibo Chukwu](http://twitter.com/search?q=Oyibo+Chukwu) | N/A |
-| 24 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 25 | [Zain](http://twitter.com/search?q=Zain) | N/A |
-| 26 | [Texting](http://twitter.com/search?q=Texting) | N/A |
+| 21 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 22 | [FCMB](http://twitter.com/search?q=FCMB) | N/A |
+| 23 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 24 | [Dayo](http://twitter.com/search?q=Dayo) | N/A |
+| 25 | [obi obi](http://twitter.com/search?q=obi+obi) | N/A |
+| 26 | [Omah Lay](http://twitter.com/search?q=Omah+Lay) | N/A |
 | 27 | [Rufai](http://twitter.com/search?q=Rufai) | N/A |
-| 28 | [Agulu](http://twitter.com/search?q=Agulu) | N/A |
-| 29 | [Soso](http://twitter.com/search?q=Soso) | N/A |
-| 30 | [Henry](http://twitter.com/search?q=Henry) | N/A |
-| 31 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
-| 32 | [Vote Labour](http://twitter.com/search?q=Vote+Labour) | N/A |
-| 33 | [Egusi](http://twitter.com/search?q=Egusi) | N/A |
-| 34 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 35 | [Pikin](http://twitter.com/search?q=Pikin) | N/A |
-| 36 | [Vote APC](http://twitter.com/search?q=Vote+APC) | N/A |
-| 37 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 38 | [Toyin](http://twitter.com/search?q=Toyin) | N/A |
-| 39 | [#234Intel](http://twitter.com/search?q=%23234Intel) | N/A |
-| 40 | [#vote4peace](http://twitter.com/search?q=%23vote4peace) | N/A |
+| 28 | [Oyibo Chukwu](http://twitter.com/search?q=Oyibo+Chukwu) | N/A |
+| 29 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 30 | [Pikin](http://twitter.com/search?q=Pikin) | N/A |
+| 31 | [Henry](http://twitter.com/search?q=Henry) | N/A |
+| 32 | [Agulu](http://twitter.com/search?q=Agulu) | N/A |
+| 33 | [Zain](http://twitter.com/search?q=Zain) | N/A |
+| 34 | [Egusi](http://twitter.com/search?q=Egusi) | N/A |
+| 35 | [Soso](http://twitter.com/search?q=Soso) | N/A |
+| 36 | [Vote Labour](http://twitter.com/search?q=Vote+Labour) | N/A |
+| 37 | [Vote APC](http://twitter.com/search?q=Vote+APC) | N/A |
+| 38 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 39 | [#gacmotorxfilmhouse](http://twitter.com/search?q=%23gacmotorxfilmhouse) | N/A |
+| 40 | [#234Intel](http://twitter.com/search?q=%23234Intel) | N/A |
 | 41 | [#EndSARSProtest](http://twitter.com/search?q=%23EndSARSProtest) | N/A |
-| 42 | [#fitopaez](http://twitter.com/search?q=%23fitopaez) | N/A |
-| 43 | [#2023Elections](http://twitter.com/search?q=%232023Elections) | N/A |
+| 42 | [#Vote4Peace](http://twitter.com/search?q=%23Vote4Peace) | N/A |
+| 43 | [#fitopaez](http://twitter.com/search?q=%23fitopaez) | N/A |
 | 44 | [#QuestionsForDatti](http://twitter.com/search?q=%23QuestionsForDatti) | N/A |
 | 45 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
-| 46 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 47 | [#51stBudgetSpeech](http://twitter.com/search?q=%2351stBudgetSpeech) | N/A |
-| 48 | [#NigeriaDecides](http://twitter.com/search?q=%23NigeriaDecides) | N/A |
-| 49 | [#RenewedHope23](http://twitter.com/search?q=%23RenewedHope23) | N/A |
+| 46 | [#election2023](http://twitter.com/search?q=%23election2023) | N/A |
+| 47 | [#2023Elections](http://twitter.com/search?q=%232023Elections) | N/A |
+| 48 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
 
 
 

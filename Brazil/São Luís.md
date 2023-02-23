@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-02-23 14:15:45 UTC`
+📆 Last Updated: `2023-02-23 15:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#thebabyfloki](http://twitter.com/search?q=%23thebabyfloki) | N/A |
-| 2 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 3 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 4 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
-| 5 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 6 | [Sorocaba](http://twitter.com/search?q=Sorocaba) | N/A |
-| 7 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 8 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 9 | [#MoonlightChickenEP6](http://twitter.com/search?q=%23MoonlightChickenEP6) | N/A |
-| 10 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
-| 11 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 12 | [#BOYSPLANETep4](http://twitter.com/search?q=%23BOYSPLANETep4) | N/A |
-| 13 | [cleo](http://twitter.com/search?q=cleo) | N/A |
-| 14 | [Tcholinha](http://twitter.com/search?q=Tcholinha) | N/A |
-| 15 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 16 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 17 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
-| 18 | [Loma](http://twitter.com/search?q=Loma) | N/A |
-| 19 | [Back Door](http://twitter.com/search?q=Back+Door) | N/A |
-| 20 | [Mikami](http://twitter.com/search?q=Mikami) | N/A |
-| 21 | [big john](http://twitter.com/search?q=big+john) | N/A |
-| 22 | [Luís Fabiano](http://twitter.com/search?q=Lu%c3%ads+Fabiano) | N/A |
-| 23 | [PARABÉNS FRED NICÁCIO](http://twitter.com/search?q=PARAB%c3%89NS+FRED+NIC%c3%81CIO) | N/A |
-| 24 | [sarah cameron](http://twitter.com/search?q=sarah+cameron) | N/A |
-| 25 | [burn it up](http://twitter.com/search?q=burn+it+up) | N/A |
-| 26 | [CACs](http://twitter.com/search?q=CACs) | N/A |
-| 27 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 2 | [Loma](http://twitter.com/search?q=Loma) | N/A |
+| 3 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 4 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 5 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
+| 6 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 7 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
+| 8 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 9 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 10 | [Sorocaba](http://twitter.com/search?q=Sorocaba) | N/A |
+| 11 | [Elize Matsunaga](http://twitter.com/search?q=Elize+Matsunaga) | N/A |
+| 12 | [Naka](http://twitter.com/search?q=Naka) | N/A |
+| 13 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 14 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 15 | [#MoonlightChickenEP6](http://twitter.com/search?q=%23MoonlightChickenEP6) | N/A |
+| 16 | [Ste Viegas](http://twitter.com/search?q=Ste+Viegas) | N/A |
+| 17 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 18 | [Dona Fátima](http://twitter.com/search?q=Dona+F%c3%a1tima) | N/A |
+| 19 | [Dona Maria](http://twitter.com/search?q=Dona+Maria) | N/A |
+| 20 | [#BOYSPLANETep4](http://twitter.com/search?q=%23BOYSPLANETep4) | N/A |
+| 21 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 22 | [cleo](http://twitter.com/search?q=cleo) | N/A |
+| 23 | [Fabuloso](http://twitter.com/search?q=Fabuloso) | N/A |
+| 24 | [big john](http://twitter.com/search?q=big+john) | N/A |
+| 25 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 26 | [Luís Fabiano](http://twitter.com/search?q=Lu%c3%ads+Fabiano) | N/A |
+| 27 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
 | 28 | [Zambelli](http://twitter.com/search?q=Zambelli) | N/A |
-| 29 | [Tango](http://twitter.com/search?q=Tango) | N/A |
-| 30 | [Stroll](http://twitter.com/search?q=Stroll) | N/A |
-| 31 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 32 | [kgroup](http://twitter.com/search?q=kgroup) | N/A |
-| 33 | [Drugo](http://twitter.com/search?q=Drugo) | N/A |
-| 34 | [Biah Rodrigues](http://twitter.com/search?q=Biah+Rodrigues) | N/A |
-| 35 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 36 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 37 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
-| 38 | [Rezende](http://twitter.com/search?q=Rezende) | N/A |
-| 39 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
-| 40 | [jhon b](http://twitter.com/search?q=jhon+b) | N/A |
-| 41 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 42 | [Dia de Vasco](http://twitter.com/search?q=Dia+de+Vasco) | Dia de Vasco is a holiday celebrated in the Basque Country of Spain. It is held on June 25th and commemorates the Battle of Vitoria, which was fought in 1813 and resulted in a decisive victory for the Spanish forces over the French. The holiday celebrates the Basque people's struggle for independence and freedom from foreign rule. In English, it translates to "Day of Vitoria". |
+| 29 | [Shinji Mikami](http://twitter.com/search?q=Shinji+Mikami) | N/A |
+| 30 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 32 | [Back Door](http://twitter.com/search?q=Back+Door) | N/A |
+| 33 | [sarah cameron](http://twitter.com/search?q=sarah+cameron) | N/A |
+| 34 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 35 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 36 | [CACs](http://twitter.com/search?q=CACs) | N/A |
+| 37 | [ricky](http://twitter.com/search?q=ricky) | N/A |
+| 38 | [Tcholinha](http://twitter.com/search?q=Tcholinha) | N/A |
+| 39 | [Tango](http://twitter.com/search?q=Tango) | N/A |
+| 40 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 41 | [jhon b](http://twitter.com/search?q=jhon+b) | N/A |
+| 42 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
 | 43 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 44 | [Felipe Neto](http://twitter.com/search?q=Felipe+Neto) | N/A |
-| 45 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 46 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 47 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 44 | [Suzane](http://twitter.com/search?q=Suzane) | Suzane is a French female name, derived from the Latin name Susanna. It is thought to mean "lily" or "graceful lily". |
+| 45 | [PARABÉNS FRED NICÁCIO](http://twitter.com/search?q=PARAB%c3%89NS+FRED+NIC%c3%81CIO) | N/A |
+| 46 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
+| 47 | [kill this love](http://twitter.com/search?q=kill+this+love) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chiba
 
-📆 Last Updated: `2023-02-23 14:15:56 UTC`
+📆 Last Updated: `2023-02-23 15:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#超人間要塞ヒロシ戦記](http://twitter.com/search?q=%23%e8%b6%85%e4%ba%ba%e9%96%93%e8%a6%81%e5%a1%9e%e3%83%92%e3%83%ad%e3%82%b7%e6%88%a6%e8%a8%98) | N/A |
-| 2 | [富士山の日](http://twitter.com/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1%e3%81%ae%e6%97%a5) | N/A |
-| 3 | [ヒッセン](http://twitter.com/search?q=%e3%83%92%e3%83%83%e3%82%bb%e3%83%b3) | N/A |
-| 4 | [#f1jp](http://twitter.com/search?q=%23f1jp) | N/A |
-| 5 | [#決戦ロマサガRS](http://twitter.com/search?q=%23%e6%b1%ba%e6%88%a6%e3%83%ad%e3%83%9e%e3%82%b5%e3%82%acRS) | N/A |
-| 6 | [小原くん](http://twitter.com/search?q=%e5%b0%8f%e5%8e%9f%e3%81%8f%e3%82%93) | N/A |
-| 7 | [#THE夜会](http://twitter.com/search?q=%23THE%e5%a4%9c%e4%bc%9a) | #THE夜会 is a Japanese hashtag that translates to “The Night Party”. It is used to refer to events or gatherings that take place at night, such as parties, concerts, and other social activities. |
-| 8 | [ツアー完走](http://twitter.com/search?q=%e3%83%84%e3%82%a2%e3%83%bc%e5%ae%8c%e8%b5%b0) | ツアー完走 is a Japanese phrase that literally translates to "tour completion". It is used to describe the successful completion of a tour or journey. In English, it could be translated as "mission accomplished" or "tour completed". |
-| 9 | [国士無双](http://twitter.com/search?q=%e5%9b%bd%e5%a3%ab%e7%84%a1%e5%8f%8c) | 国士無双 (Kokushi Musou) is a Japanese card game. It is a two-player game in which each player tries to create a winning hand of seven cards from a deck of forty. The name translates to "unparalleled in the land" and refers to the fact that no two hands are ever the same. |
-| 10 | [神風怪盗ジャンヌ](http://twitter.com/search?q=%e7%a5%9e%e9%a2%a8%e6%80%aa%e7%9b%97%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8c) | N/A |
-| 11 | [小原裕貴](http://twitter.com/search?q=%e5%b0%8f%e5%8e%9f%e8%a3%95%e8%b2%b4) | N/A |
-| 12 | [園田さん](http://twitter.com/search?q=%e5%9c%92%e7%94%b0%e3%81%95%e3%82%93) | 園田さん is a Japanese honorific title used to refer to someone who is a master or expert in a particular field. In English, it can be translated as "Mr./Ms. Expert" or "Master/Mistress". |
-| 13 | [おつりーぬ](http://twitter.com/search?q=%e3%81%8a%e3%81%a4%e3%82%8a%e3%83%bc%e3%81%ac) | おつりーぬ is a Japanese phrase that roughly translates to "Thank you very much." It is used as a polite way to express gratitude. |
-| 14 | [ミッション](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
-| 15 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 16 | [ベクドア](http://twitter.com/search?q=%e3%83%99%e3%82%af%e3%83%89%e3%82%a2) | N/A |
-| 17 | [前向きフェニックス](http://twitter.com/search?q=%e5%89%8d%e5%90%91%e3%81%8d%e3%83%95%e3%82%a7%e3%83%8b%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 18 | [てれぱんセンター](http://twitter.com/search?q=%e3%81%a6%e3%82%8c%e3%81%b1%e3%82%93%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
-| 19 | [ラミライ](http://twitter.com/search?q=%e3%83%a9%e3%83%9f%e3%83%a9%e3%82%a4) | N/A |
-| 20 | [カクレンジャー](http://twitter.com/search?q=%e3%82%ab%e3%82%af%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 21 | [ドリブンズ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%96%e3%83%b3%e3%82%ba) | ドリブンズ (Dribblez) is a Japanese basketball team based in Tokyo. The team was founded in 2008 and competes in the B.League, the top professional basketball league in Japan. The name "Dribblez" is derived from the basketball term "dribbling", which refers to the act of bouncing the ball while moving around the court. In English, it can be translated as "The Dribblers". |
-| 22 | [未満都市](http://twitter.com/search?q=%e6%9c%aa%e6%ba%80%e9%83%bd%e5%b8%82) | N/A |
-| 23 | [パクハンビン](http://twitter.com/search?q=%e3%83%91%e3%82%af%e3%83%8f%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
-| 24 | [ぐっばいび](http://twitter.com/search?q=%e3%81%90%e3%81%a3%e3%81%b0%e3%81%84%e3%81%b3) | ぐっばいび is a Japanese slang term that roughly translates to "cool" or "awesome." It is often used to express admiration or approval. |
-| 25 | [伝説のJr](http://twitter.com/search?q=%e4%bc%9d%e8%aa%ac%e3%81%aeJr) | N/A |
-| 26 | [モニタリング](http://twitter.com/search?q=%e3%83%a2%e3%83%8b%e3%82%bf%e3%83%aa%e3%83%b3%e3%82%b0) | モニタリング (monitoring) is the process of collecting and analyzing data to gain insights into a system or process. It is used to identify trends, detect problems, and measure performance. In English, it can also be referred to as surveillance or observation. |
-| 27 | [USOジャパン](http://twitter.com/search?q=USO%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | N/A |
-| 28 | [PIERROT](http://twitter.com/search?q=PIERROT) | N/A |
-| 29 | [イチロー](http://twitter.com/search?q=%e3%82%a4%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
-| 30 | [さとちゃん](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 31 | [フイくん](http://twitter.com/search?q=%e3%83%95%e3%82%a4%e3%81%8f%e3%82%93) | フイくん is a character from the Japanese manga series, Chibi Maruko-chan. He is a young boy who is Maruko's classmate and friend. His name comes from the Japanese word "fuiku" which means "cute". In English, his name could be translated as "Cute Boy". |
-| 32 | [イバライガー](http://twitter.com/search?q=%e3%82%a4%e3%83%90%e3%83%a9%e3%82%a4%e3%82%ac%e3%83%bc) | N/A |
-| 33 | [ファーストテイク](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b9%e3%83%88%e3%83%86%e3%82%a4%e3%82%af) | ファーストテイク (Fāsuto Teiku) is a Japanese phrase that literally translates to "first take." It is used to refer to the first attempt at doing something, such as the first take of a film or recording. It can also be used to refer to the first try at a task or activity. |
-| 34 | [コナンの世界](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e4%b8%96%e7%95%8c) | N/A |
-| 35 | [MAPPA](http://twitter.com/search?q=MAPPA) | MAPPA is an acronym for Japanese animation studio, Motion Picture and Animation Association of Japan. It stands for 映像・アニメーション制作業協会 (Eizō Animēshon Seisaku Gyou Kyoukai). In English, it translates to Motion Picture and Animation Production Association of Japan. |
-| 36 | [ソノケン](http://twitter.com/search?q=%e3%82%bd%e3%83%8e%e3%82%b1%e3%83%b3) | N/A |
-| 37 | [わこりーぬ](http://twitter.com/search?q=%e3%82%8f%e3%81%93%e3%82%8a%e3%83%bc%e3%81%ac) | わこりーぬ is a Japanese slang term that means "I don't know". |
-| 38 | [ダクネス](http://twitter.com/search?q=%e3%83%80%e3%82%af%e3%83%8d%e3%82%b9) | N/A |
-| 39 | [キムジウン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%b8%e3%82%a6%e3%83%b3) | N/A |
-| 40 | [カズマ役](http://twitter.com/search?q=%e3%82%ab%e3%82%ba%e3%83%9e%e5%bd%b9) | カズマ役 is a term used in Japanese theater and literature. It refers to a character who is the leader of a group or organization, often with a strong sense of justice and morality. In English, this character is sometimes referred to as the "hero" or "protagonist". |
-| 41 | [アクア役](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%82%a2%e5%bd%b9) | N/A |
-| 42 | [雨宮天さん](http://twitter.com/search?q=%e9%9b%a8%e5%ae%ae%e5%a4%a9%e3%81%95%e3%82%93) | N/A |
-| 43 | [福島潤さん](http://twitter.com/search?q=%e7%a6%8f%e5%b3%b6%e6%bd%a4%e3%81%95%e3%82%93) | 福島潤さん is the name of a Japanese actor, singer, and television personality. His full name is Fukushima Jun. He is best known for his roles in various television dramas and films. In English, his name would be Jun Fukushima. |
-| 44 | [MC百花繚乱さん](http://twitter.com/search?q=MC%e7%99%be%e8%8a%b1%e7%b9%9a%e4%b9%b1%e3%81%95%e3%82%93) | MC百花繚乱さん is a Japanese television variety show that features a variety of celebrity guests. The title translates to "MC Hundred Flowers in Full Bloom". |
-| 45 | [茅野愛衣さん](http://twitter.com/search?q=%e8%8c%85%e9%87%8e%e6%84%9b%e8%a1%a3%e3%81%95%e3%82%93) | N/A |
-| 46 | [北出菜奈](http://twitter.com/search?q=%e5%8c%97%e5%87%ba%e8%8f%9c%e5%a5%88) | N/A |
-| 47 | [沙羅曼蛇](http://twitter.com/search?q=%e6%b2%99%e7%be%85%e6%9b%bc%e8%9b%87) | N/A |
-| 48 | [家族関係](http://twitter.com/search?q=%e5%ae%b6%e6%97%8f%e9%96%a2%e4%bf%82) | N/A |
-| 49 | [月と木星と金星](http://twitter.com/search?q=%e6%9c%88%e3%81%a8%e6%9c%a8%e6%98%9f%e3%81%a8%e9%87%91%e6%98%9f) | N/A |
+| 1 | [イチロー](http://twitter.com/search?q=%e3%82%a4%e3%83%81%e3%83%ad%e3%83%bc) | N/A |
+| 2 | [#超人間要塞ヒロシ戦記](http://twitter.com/search?q=%23%e8%b6%85%e4%ba%ba%e9%96%93%e8%a6%81%e5%a1%9e%e3%83%92%e3%83%ad%e3%82%b7%e6%88%a6%e8%a8%98) | N/A |
+| 3 | [月と木星と金星](http://twitter.com/search?q=%e6%9c%88%e3%81%a8%e6%9c%a8%e6%98%9f%e3%81%a8%e9%87%91%e6%98%9f) | N/A |
+| 4 | [富士山の日](http://twitter.com/search?q=%e5%af%8c%e5%a3%ab%e5%b1%b1%e3%81%ae%e6%97%a5) | N/A |
+| 5 | [ヒッセン](http://twitter.com/search?q=%e3%83%92%e3%83%83%e3%82%bb%e3%83%b3) | N/A |
+| 6 | [#f1jp](http://twitter.com/search?q=%23f1jp) | N/A |
+| 7 | [さとみくん](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93) | N/A |
+| 8 | [小原くん](http://twitter.com/search?q=%e5%b0%8f%e5%8e%9f%e3%81%8f%e3%82%93) | N/A |
+| 9 | [#トークィーンズ](http://twitter.com/search?q=%23%e3%83%88%e3%83%bc%e3%82%af%e3%82%a3%e3%83%bc%e3%83%b3%e3%82%ba) | N/A |
+| 10 | [#Mリーグ](http://twitter.com/search?q=%23M%e3%83%aa%e3%83%bc%e3%82%b0) | #Mリーグ is a Japanese professional baseball league. It is the top level of professional baseball in Japan and consists of 12 teams. The league was founded in 1950 and is divided into two divisions, the Central League and the Pacific League. The English translation of #Mリーグ is "Nippon Professional Baseball". |
+| 11 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 12 | [ドリブンズ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%96%e3%83%b3%e3%82%ba) | ドリブンズ (Dribblez) is a Japanese basketball team based in Tokyo. The team was founded in 2008 and competes in the B.League, the top professional basketball league in Japan. The name "Dribblez" is derived from the basketball term "dribbling", which refers to the act of bouncing the ball while moving around the court. In English, it can be translated as "The Dribblers". |
+| 13 | [カウントダウンスペシャル生放送](http://twitter.com/search?q=%e3%82%ab%e3%82%a6%e3%83%b3%e3%83%88%e3%83%80%e3%82%a6%e3%83%b3%e3%82%b9%e3%83%9a%e3%82%b7%e3%83%a3%e3%83%ab%e7%94%9f%e6%94%be%e9%80%81) | N/A |
+| 14 | [誕生日直前](http://twitter.com/search?q=%e8%aa%95%e7%94%9f%e6%97%a5%e7%9b%b4%e5%89%8d) | N/A |
+| 15 | [ツアー完走](http://twitter.com/search?q=%e3%83%84%e3%82%a2%e3%83%bc%e5%ae%8c%e8%b5%b0) | ツアー完走 is a Japanese phrase that literally translates to "tour completion". It is used to describe the successful completion of a tour or journey. In English, it could be translated as "mission accomplished" or "tour completed". |
+| 16 | [敗北ヒーロー](http://twitter.com/search?q=%e6%95%97%e5%8c%97%e3%83%92%e3%83%bc%e3%83%ad%e3%83%bc) | 敗北ヒーロー is a Japanese phrase that translates to "defeated hero" in English. It is used to describe someone who has suffered a great loss or setback, but still continues to fight on despite the odds. |
+| 17 | [アイディー](http://twitter.com/search?q=%e3%82%a2%e3%82%a4%e3%83%87%e3%82%a3%e3%83%bc) | N/A |
+| 18 | [小原裕貴](http://twitter.com/search?q=%e5%b0%8f%e5%8e%9f%e8%a3%95%e8%b2%b4) | N/A |
+| 19 | [神風怪盗ジャンヌ](http://twitter.com/search?q=%e7%a5%9e%e9%a2%a8%e6%80%aa%e7%9b%97%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8c) | N/A |
+| 20 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
+| 21 | [おつりーぬ](http://twitter.com/search?q=%e3%81%8a%e3%81%a4%e3%82%8a%e3%83%bc%e3%81%ac) | おつりーぬ is a Japanese phrase that roughly translates to "Thank you very much." It is used as a polite way to express gratitude. |
+| 22 | [国士無双](http://twitter.com/search?q=%e5%9b%bd%e5%a3%ab%e7%84%a1%e5%8f%8c) | 国士無双 (Kokushi Musou) is a Japanese card game. It is a two-player game in which each player tries to create a winning hand of seven cards from a deck of forty. The name translates to "unparalleled in the land" and refers to the fact that no two hands are ever the same. |
+| 23 | [カクレンジャー](http://twitter.com/search?q=%e3%82%ab%e3%82%af%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 24 | [園田さん](http://twitter.com/search?q=%e5%9c%92%e7%94%b0%e3%81%95%e3%82%93) | 園田さん is a Japanese honorific title used to refer to someone who is a master or expert in a particular field. In English, it can be translated as "Mr./Ms. Expert" or "Master/Mistress". |
+| 25 | [ミッション](http://twitter.com/search?q=%e3%83%9f%e3%83%83%e3%82%b7%e3%83%a7%e3%83%b3) | N/A |
+| 26 | [ベクドア](http://twitter.com/search?q=%e3%83%99%e3%82%af%e3%83%89%e3%82%a2) | N/A |
+| 27 | [前向きフェニックス](http://twitter.com/search?q=%e5%89%8d%e5%90%91%e3%81%8d%e3%83%95%e3%82%a7%e3%83%8b%e3%83%83%e3%82%af%e3%82%b9) | N/A |
+| 28 | [パクハンビン](http://twitter.com/search?q=%e3%83%91%e3%82%af%e3%83%8f%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
+| 29 | [未満都市](http://twitter.com/search?q=%e6%9c%aa%e6%ba%80%e9%83%bd%e5%b8%82) | N/A |
+| 30 | [ラミライ](http://twitter.com/search?q=%e3%83%a9%e3%83%9f%e3%83%a9%e3%82%a4) | N/A |
+| 31 | [ジョン茅ヶ崎](http://twitter.com/search?q=%e3%82%b8%e3%83%a7%e3%83%b3%e8%8c%85%e3%83%b6%e5%b4%8e) | ジョン茅ヶ崎 is the name of a city in Japan located in Kanagawa Prefecture. In English, it is known as John-no-Saki. |
+| 32 | [キムジウン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%b8%e3%82%a6%e3%83%b3) | N/A |
+| 33 | [てれぱんセンター](http://twitter.com/search?q=%e3%81%a6%e3%82%8c%e3%81%b1%e3%82%93%e3%82%bb%e3%83%b3%e3%82%bf%e3%83%bc) | N/A |
+| 34 | [ぐっばいび](http://twitter.com/search?q=%e3%81%90%e3%81%a3%e3%81%b0%e3%81%84%e3%81%b3) | ぐっばいび is a Japanese slang term that roughly translates to "cool" or "awesome." It is often used to express admiration or approval. |
+| 35 | [伝説のJr](http://twitter.com/search?q=%e4%bc%9d%e8%aa%ac%e3%81%aeJr) | N/A |
+| 36 | [家族関係](http://twitter.com/search?q=%e5%ae%b6%e6%97%8f%e9%96%a2%e4%bf%82) | N/A |
+| 37 | [さとちゃん](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 38 | [USOジャパン](http://twitter.com/search?q=USO%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | N/A |
+| 39 | [アズール](http://twitter.com/search?q=%e3%82%a2%e3%82%ba%e3%83%bc%e3%83%ab) | N/A |
+| 40 | [PIERROT](http://twitter.com/search?q=PIERROT) | N/A |
+| 41 | [渋川さん](http://twitter.com/search?q=%e6%b8%8b%e5%b7%9d%e3%81%95%e3%82%93) | N/A |
+| 42 | [除霊ヨシ](http://twitter.com/search?q=%e9%99%a4%e9%9c%8a%e3%83%a8%e3%82%b7) | N/A |
+| 43 | [ファーストテイク](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%bc%e3%82%b9%e3%83%88%e3%83%86%e3%82%a4%e3%82%af) | ファーストテイク (Fāsuto Teiku) is a Japanese phrase that literally translates to "first take." It is used to refer to the first attempt at doing something, such as the first take of a film or recording. It can also be used to refer to the first try at a task or activity. |
+| 44 | [全カット](http://twitter.com/search?q=%e5%85%a8%e3%82%ab%e3%83%83%e3%83%88) | N/A |
+| 45 | [フイくん](http://twitter.com/search?q=%e3%83%95%e3%82%a4%e3%81%8f%e3%82%93) | フイくん is a character from the Japanese manga series, Chibi Maruko-chan. He is a young boy who is Maruko's classmate and friend. His name comes from the Japanese word "fuiku" which means "cute". In English, his name could be translated as "Cute Boy". |
+| 46 | [永瀬さん](http://twitter.com/search?q=%e6%b0%b8%e7%80%ac%e3%81%95%e3%82%93) | N/A |
+| 47 | [Gグループ](http://twitter.com/search?q=G%e3%82%b0%e3%83%ab%e3%83%bc%e3%83%97) | N/A |
+| 48 | [わこりーぬ](http://twitter.com/search?q=%e3%82%8f%e3%81%93%e3%82%8a%e3%83%bc%e3%81%ac) | わこりーぬ is a Japanese slang term that means "I don't know". |
+| 49 | [トラックリスト](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%83%e3%82%af%e3%83%aa%e3%82%b9%e3%83%88) | N/A |
 
 
 

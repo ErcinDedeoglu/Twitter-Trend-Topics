@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Srinagar
 
-📆 Last Updated: `2023-02-23 14:16:10 UTC`
+📆 Last Updated: `2023-02-23 15:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#INDWvsAUSW](http://twitter.com/search?q=%23INDWvsAUSW) | N/A |
-| 2 | [#Pawan_Khera](http://twitter.com/search?q=%23Pawan_Khera) | N/A |
-| 3 | [#BoycottGermany](http://twitter.com/search?q=%23BoycottGermany) | N/A |
-| 4 | [#Battista](http://twitter.com/search?q=%23Battista) | N/A |
-| 5 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 6 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 7 | [Beth Mooney](http://twitter.com/search?q=Beth+Mooney) | N/A |
-| 8 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 9 | [Radha Yadav](http://twitter.com/search?q=Radha+Yadav) | N/A |
-| 10 | [Healy](http://twitter.com/search?q=Healy) | N/A |
-| 11 | [Shafali](http://twitter.com/search?q=Shafali) | N/A |
-| 12 | [असम पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 13 | [Assam Police](http://twitter.com/search?q=Assam+Police) | N/A |
-| 14 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 15 | [Sneh Rana](http://twitter.com/search?q=Sneh+Rana) | N/A |
-| 16 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
-| 17 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 18 | [ariha](http://twitter.com/search?q=ariha) | N/A |
-| 19 | [INDIA'S BIGGEST ACTION SAGA](http://twitter.com/search?q=INDIA%27S+BIGGEST+ACTION+SAGA) | N/A |
-| 20 | [गौतम दास](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%ae+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 21 | [Ajnala](http://twitter.com/search?q=Ajnala) | N/A |
-| 22 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 23 | [गाडगे महाराज](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%a1%e0%a4%97%e0%a5%87+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 24 | [बड़ी राहत](http://twitter.com/search?q=%e0%a4%ac%e0%a4%a1%e0%a4%bc%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a4%a4) | बड़ी राहत (Badi Rahat) is a Hindi phrase that translates to "great relief" in English. It is used to express a feeling of relief or comfort after a difficult situation. |
-| 25 | [Kejriwal](http://twitter.com/search?q=Kejriwal) | N/A |
-| 26 | [Raipur](http://twitter.com/search?q=Raipur) | N/A |
-| 27 | [भारतीय राष्ट्रीय कांग्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 28 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 29 | [Chargesheet Overdue In SSRcase](http://twitter.com/search?q=Chargesheet+Overdue+In+SSRcase) | N/A |
-| 30 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
-| 31 | [nupur sharma](http://twitter.com/search?q=nupur+sharma) | N/A |
-| 32 | [Delhi Police](http://twitter.com/search?q=Delhi+Police) | N/A |
-| 33 | [Puncture](http://twitter.com/search?q=Puncture) | N/A |
-| 34 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
-| 35 | [#MartinTeaser](http://twitter.com/search?q=%23MartinTeaser) | N/A |
-| 36 | [#सांवेर_हुआ_राममय](http://twitter.com/search?q=%23%e0%a4%b8%e0%a4%be%e0%a4%82%e0%a4%b5%e0%a5%87%e0%a4%b0_%e0%a4%b9%e0%a5%81%e0%a4%86_%e0%a4%b0%e0%a4%be%e0%a4%ae%e0%a4%ae%e0%a4%af) | N/A |
-| 37 | [#KamalnathInsultsMP](http://twitter.com/search?q=%23KamalnathInsultsMP) | N/A |
-| 38 | [#Salaar](http://twitter.com/search?q=%23Salaar) | N/A |
-| 39 | [#HappyBirthdayNani](http://twitter.com/search?q=%23HappyBirthdayNani) | N/A |
-| 40 | [#AmritpalSingh](http://twitter.com/search?q=%23AmritpalSingh) | N/A |
-| 41 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
-| 42 | [#HritikSinghal](http://twitter.com/search?q=%23HritikSinghal) | N/A |
-| 43 | [#ICCWomensT20WorldCup](http://twitter.com/search?q=%23ICCWomensT20WorldCup) | N/A |
-| 44 | [#VeeraSimhaReddy](http://twitter.com/search?q=%23VeeraSimhaReddy) | N/A |
-| 45 | [#DhruvaSarja](http://twitter.com/search?q=%23DhruvaSarja) | N/A |
-| 46 | [#AngelOneForAll](http://twitter.com/search?q=%23AngelOneForAll) | N/A |
-| 47 | [#BanYellowMediaSaveAP](http://twitter.com/search?q=%23BanYellowMediaSaveAP) | N/A |
-| 48 | [#Amritsar](http://twitter.com/search?q=%23Amritsar) | N/A |
-| 49 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
+| 2 | [#Battista](http://twitter.com/search?q=%23Battista) | N/A |
+| 3 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
+| 4 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 5 | [#Pawan_Khera](http://twitter.com/search?q=%23Pawan_Khera) | N/A |
+| 6 | [LIKE CRAZY](http://twitter.com/search?q=LIKE+CRAZY) | N/A |
+| 7 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 8 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
+| 9 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
+| 10 | [OSaathiya Vamana](http://twitter.com/search?q=OSaathiya+Vamana) | N/A |
+| 11 | [Beth Mooney](http://twitter.com/search?q=Beth+Mooney) | N/A |
+| 12 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 13 | [WATCH PATHAAN IN 110RS](http://twitter.com/search?q=WATCH+PATHAAN+IN+110RS) | N/A |
+| 14 | [Shubh Nikah Trailer](http://twitter.com/search?q=Shubh+Nikah+Trailer) | N/A |
+| 15 | [भूपेंद्र सारण](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%a3) | N/A |
+| 16 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 17 | [Shafali](http://twitter.com/search?q=Shafali) | N/A |
+| 18 | [Harman](http://twitter.com/search?q=Harman) | N/A |
+| 19 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
+| 20 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 21 | [Radha Yadav](http://twitter.com/search?q=Radha+Yadav) | N/A |
+| 22 | [Gardner](http://twitter.com/search?q=Gardner) | N/A |
+| 23 | [Shikha Pandey](http://twitter.com/search?q=Shikha+Pandey) | N/A |
+| 24 | [Healy](http://twitter.com/search?q=Healy) | N/A |
+| 25 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
+| 26 | [Sushant Driven By Curiosity](http://twitter.com/search?q=Sushant+Driven+By+Curiosity) | N/A |
+| 27 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 28 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 29 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 30 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
+| 31 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 32 | [Assam Police](http://twitter.com/search?q=Assam+Police) | N/A |
+| 33 | [असम पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 34 | [Sneh Rana](http://twitter.com/search?q=Sneh+Rana) | N/A |
+| 35 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 36 | [Ariha](http://twitter.com/search?q=Ariha) | N/A |
+| 37 | [FIRs](http://twitter.com/search?q=FIRs) | N/A |
+| 38 | [Ajnala](http://twitter.com/search?q=Ajnala) | N/A |
+| 39 | [गौतम दास](http://twitter.com/search?q=%e0%a4%97%e0%a5%8c%e0%a4%a4%e0%a4%ae+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
+| 40 | [INDIA'S BIGGEST ACTION SAGA](http://twitter.com/search?q=INDIA%27S+BIGGEST+ACTION+SAGA) | N/A |
+| 41 | [पंजाब सरकार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
+| 42 | [भारतीय राष्ट्रीय कांग्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 43 | [Deepti](http://twitter.com/search?q=Deepti) | N/A |
+| 44 | [Kejriwal](http://twitter.com/search?q=Kejriwal) | N/A |
+| 45 | [Musical](http://twitter.com/search?q=Musical) | N/A |
+| 46 | [जर्सी गाय](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b0%e0%a5%8d%e0%a4%b8%e0%a5%80+%e0%a4%97%e0%a4%be%e0%a4%af) | N/A |
+| 47 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
+| 48 | [#UPJalBudgetJalshakti](http://twitter.com/search?q=%23UPJalBudgetJalshakti) | N/A |
+| 49 | [#BoycottGermany](http://twitter.com/search?q=%23BoycottGermany) | N/A |
 
 
 

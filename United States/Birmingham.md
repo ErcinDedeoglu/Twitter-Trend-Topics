@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Birmingham
 
-📆 Last Updated: `2023-02-23 14:16:14 UTC`
+📆 Last Updated: `2023-02-23 15:17:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
 | 2 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
 | 3 | [#thebabyfloki](http://twitter.com/search?q=%23thebabyfloki) | N/A |
-| 4 | [Dylan Lyons](http://twitter.com/search?q=Dylan+Lyons) | N/A |
-| 5 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 6 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 7 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 9 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 10 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 11 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
-| 12 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 13 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 14 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 15 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 16 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 17 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
-| 18 | [Jesse Walden](http://twitter.com/search?q=Jesse+Walden) | N/A |
-| 19 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 20 | [yujin](http://twitter.com/search?q=yujin) | N/A |
-| 21 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
-| 22 | [migos](http://twitter.com/search?q=migos) | N/A |
-| 23 | [Goya](http://twitter.com/search?q=Goya) | N/A |
-| 24 | [Shinji Mikami](http://twitter.com/search?q=Shinji+Mikami) | N/A |
-| 25 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 26 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 27 | [Repping Reapers](http://twitter.com/search?q=Repping+Reapers) | N/A |
-| 28 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 29 | [Iwo Jima](http://twitter.com/search?q=Iwo+Jima) | N/A |
-| 30 | [The Last Starfighter](http://twitter.com/search?q=The+Last+Starfighter) | N/A |
-| 31 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 32 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 33 | [Kerry Kittles](http://twitter.com/search?q=Kerry+Kittles) | N/A |
-| 34 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 35 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 36 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 37 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 38 | [Expired](http://twitter.com/search?q=Expired) | N/A |
-| 39 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
-| 40 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 41 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 42 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
-| 43 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
-| 44 | [Eddie Murphy](http://twitter.com/search?q=Eddie+Murphy) | Eddie Murphy is an American actor, comedian, and singer. He is best known for his roles in films such as Beverly Hills Cop, Trading Places, Coming to America, and The Nutty Professor. He has also starred in a number of family-friendly films such as Dr. Dolittle and the Shrek franchise. |
-| 45 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 46 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
-| 47 | [Snow Day](http://twitter.com/search?q=Snow+Day) | N/A |
-| 48 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
-| 49 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 4 | [SET ME FREE PT 2](http://twitter.com/search?q=SET+ME+FREE+PT+2) | N/A |
+| 5 | [LIKE CRAZY](http://twitter.com/search?q=LIKE+CRAZY) | N/A |
+| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 7 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 8 | [Dylan Lyons](http://twitter.com/search?q=Dylan+Lyons) | N/A |
+| 9 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 10 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 11 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 12 | [Pdogg](http://twitter.com/search?q=Pdogg) | N/A |
+| 13 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
+| 14 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 15 | [#NationalChiliDay](http://twitter.com/search?q=%23NationalChiliDay) | N/A |
+| 16 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 17 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 18 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
+| 19 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 20 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 21 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 22 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 23 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 24 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 25 | [Migos](http://twitter.com/search?q=Migos) | N/A |
+| 26 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
+| 27 | [Bio Broly](http://twitter.com/search?q=Bio+Broly) | N/A |
+| 28 | [Sneaky Pete](http://twitter.com/search?q=Sneaky+Pete) | N/A |
+| 29 | [Jesse Walden](http://twitter.com/search?q=Jesse+Walden) | N/A |
+| 30 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
+| 31 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 32 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 33 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
+| 34 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 35 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 36 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 37 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
+| 38 | [Almost Friday](http://twitter.com/search?q=Almost+Friday) | N/A |
+| 39 | [Shinji Mikami](http://twitter.com/search?q=Shinji+Mikami) | N/A |
+| 40 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 41 | [NICKI IS COMING](http://twitter.com/search?q=NICKI+IS+COMING) | N/A |
+| 42 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
+| 43 | [Repping Reapers](http://twitter.com/search?q=Repping+Reapers) | N/A |
+| 44 | [Savanah](http://twitter.com/search?q=Savanah) | N/A |
+| 45 | [Lumidee](http://twitter.com/search?q=Lumidee) | N/A |
+| 46 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 47 | [Kerry Kittles](http://twitter.com/search?q=Kerry+Kittles) | N/A |
+| 48 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 49 | [Tango](http://twitter.com/search?q=Tango) | N/A |
 
 
 
