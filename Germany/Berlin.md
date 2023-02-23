@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Berlin
 
-📆 Last Updated: `2023-02-22 23:17:24 UTC`
+📆 Last Updated: `2023-02-23 00:29:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
 | 3 | [#Aschermittwoch](http://twitter.com/search?q=%23Aschermittwoch) | N/A |
 | 4 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 5 | [#DSDS](http://twitter.com/search?q=%23DSDS) | N/A |
+| 5 | [#Pistorius](http://twitter.com/search?q=%23Pistorius) | #Pistorius is a hashtag used to refer to South African athlete Oscar Pistorius, who was convicted of the 2013 murder of his girlfriend Reeva Steenkamp. The hashtag is often used in reference to news stories and updates related to Pistorius' case. |
 | 6 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
 | 7 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
 | 8 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
@@ -31,40 +31,40 @@ This is top 50 for [Germany](</Germany>)
 | 14 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
 | 15 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
 | 16 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
-| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 18 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 17 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 18 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 19 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
-| 20 | [Krankenversicherung](http://twitter.com/search?q=Krankenversicherung) | N/A |
-| 21 | [Stromausfall](http://twitter.com/search?q=Stromausfall) | N/A |
-| 22 | [Sommersprossen](http://twitter.com/search?q=Sommersprossen) | N/A |
-| 23 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 24 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [Trapp](http://twitter.com/search?q=Trapp) | N/A |
-| 27 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 28 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 29 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
-| 30 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
-| 31 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
-| 32 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 20 | [sommersprossen](http://twitter.com/search?q=sommersprossen) | N/A |
+| 21 | [Krankenversicherung](http://twitter.com/search?q=Krankenversicherung) | N/A |
+| 22 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 24 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 25 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 26 | [Neapel](http://twitter.com/search?q=Neapel) | N/A |
+| 27 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 28 | [Steuererklärungen](http://twitter.com/search?q=Steuererkl%c3%a4rungen) | N/A |
+| 29 | [Stromausfall](http://twitter.com/search?q=Stromausfall) | N/A |
+| 30 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 31 | [LOUIS YOU ARE WORTHY](http://twitter.com/search?q=LOUIS+YOU+ARE+WORTHY) | N/A |
+| 32 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
 | 33 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 34 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 35 | [LOUIS YOU ARE WORTHY](http://twitter.com/search?q=LOUIS+YOU+ARE+WORTHY) | N/A |
-| 36 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 37 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 38 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
-| 39 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 40 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 41 | [Bergfest](http://twitter.com/search?q=Bergfest) | N/A |
+| 34 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 35 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
+| 36 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 37 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 38 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
+| 39 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
+| 40 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
+| 41 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
 | 42 | [Tischtennis](http://twitter.com/search?q=Tischtennis) | N/A |
-| 43 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
-| 44 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
-| 45 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
-| 46 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
-| 47 | [Leah](http://twitter.com/search?q=Leah) | N/A |
-| 48 | [Bayernpartei](http://twitter.com/search?q=Bayernpartei) | N/A |
-| 49 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 50 | [Zucker](http://twitter.com/search?q=Zucker) | N/A |
+| 43 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
+| 44 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
+| 45 | [Versicherten](http://twitter.com/search?q=Versicherten) | N/A |
+| 46 | [Leah](http://twitter.com/search?q=Leah) | N/A |
+| 47 | [Bayernpartei](http://twitter.com/search?q=Bayernpartei) | N/A |
+| 48 | [Beitragszahler](http://twitter.com/search?q=Beitragszahler) | N/A |
+| 49 | [Februar 1943](http://twitter.com/search?q=Februar+1943) | N/A |
+| 50 | [Maggus](http://twitter.com/search?q=Maggus) | N/A |
 
 
 

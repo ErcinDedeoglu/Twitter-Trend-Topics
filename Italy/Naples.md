@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-02-22 23:17:26 UTC`
+📆 Last Updated: `2023-02-23 00:29:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,42 +28,41 @@ This is top 50 for [Italy](</Italy>)
 | 11 | [Gaetano](http://twitter.com/search?q=Gaetano) | N/A |
 | 12 | [Mimmo](http://twitter.com/search?q=Mimmo) | N/A |
 | 13 | [Big Rom](http://twitter.com/search?q=Big+Rom) | N/A |
-| 14 | [Penelopo](http://twitter.com/search?q=Penelopo) | N/A |
-| 15 | [Brozo](http://twitter.com/search?q=Brozo) | N/A |
-| 16 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 17 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 14 | [Brozo](http://twitter.com/search?q=Brozo) | N/A |
+| 15 | [Penelopo](http://twitter.com/search?q=Penelopo) | N/A |
+| 16 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
+| 17 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
 | 18 | [Pirucchio](http://twitter.com/search?q=Pirucchio) | N/A |
 | 19 | [Saman](http://twitter.com/search?q=Saman) | N/A |
 | 20 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
 | 21 | [Beppe](http://twitter.com/search?q=Beppe) | N/A |
 | 22 | [Gosens](http://twitter.com/search?q=Gosens) | N/A |
-| 23 | [LA SCENA](http://twitter.com/search?q=LA+SCENA) | N/A |
-| 24 | [Eros](http://twitter.com/search?q=Eros) | N/A |
-| 25 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
-| 26 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
+| 23 | [Eros](http://twitter.com/search?q=Eros) | N/A |
+| 24 | [Dimarco](http://twitter.com/search?q=Dimarco) | Dimarco is a surname of Italian origin. It is derived from the Latin name Di Marco, meaning "of Mark". |
+| 25 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
+| 26 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
 | 27 | [Ceferin](http://twitter.com/search?q=Ceferin) | N/A |
-| 28 | [Liliana](http://twitter.com/search?q=Liliana) | N/A |
-| 29 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
-| 30 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
-| 31 | [Dumfries](http://twitter.com/search?q=Dumfries) | N/A |
-| 32 | [Viola](http://twitter.com/search?q=Viola) | N/A |
-| 33 | [Giove](http://twitter.com/search?q=Giove) | N/A |
-| 34 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
-| 35 | [#PiccoleDonne](http://twitter.com/search?q=%23PiccoleDonne) | N/A |
-| 36 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
-| 37 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
-| 38 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
-| 39 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
-| 40 | [#amala](http://twitter.com/search?q=%23amala) | N/A |
-| 41 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
-| 42 | [#LeConosco](http://twitter.com/search?q=%23LeConosco) | N/A |
-| 43 | [#ErmalMeta](http://twitter.com/search?q=%23ErmalMeta) | N/A |
-| 44 | [#Barella](http://twitter.com/search?q=%23Barella) | N/A |
-| 45 | [#Calhanoglu](http://twitter.com/search?q=%23Calhanoglu) | N/A |
-| 46 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
-| 47 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
-| 48 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
-| 49 | [#NantesJuve](http://twitter.com/search?q=%23NantesJuve) | N/A |
+| 28 | [Viola](http://twitter.com/search?q=Viola) | N/A |
+| 29 | [Aurora](http://twitter.com/search?q=Aurora) | N/A |
+| 30 | [#PiccoleDonne](http://twitter.com/search?q=%23PiccoleDonne) | N/A |
+| 31 | [#Lukaku](http://twitter.com/search?q=%23Lukaku) | N/A |
+| 32 | [#controcorrente](http://twitter.com/search?q=%23controcorrente) | N/A |
+| 33 | [#Chilhavisters](http://twitter.com/search?q=%23Chilhavisters) | N/A |
+| 34 | [#lineanotte](http://twitter.com/search?q=%23lineanotte) | N/A |
+| 35 | [#ilunatici](http://twitter.com/search?q=%23ilunatici) | N/A |
+| 36 | [#Atlantide](http://twitter.com/search?q=%23Atlantide) | N/A |
+| 37 | [#LeConosco](http://twitter.com/search?q=%23LeConosco) | N/A |
+| 38 | [#amala](http://twitter.com/search?q=%23amala) | N/A |
+| 39 | [#ChampionsLeague](http://twitter.com/search?q=%23ChampionsLeague) | N/A |
+| 40 | [#ErmalMeta](http://twitter.com/search?q=%23ErmalMeta) | N/A |
+| 41 | [#Barella](http://twitter.com/search?q=%23Barella) | N/A |
+| 42 | [#Calhanoglu](http://twitter.com/search?q=%23Calhanoglu) | N/A |
+| 43 | [#ForzaInter](http://twitter.com/search?q=%23ForzaInter) | N/A |
+| 44 | [#StaseraCeCattelan](http://twitter.com/search?q=%23StaseraCeCattelan) | N/A |
+| 45 | [#Investigatrici](http://twitter.com/search?q=%23Investigatrici) | N/A |
+| 46 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
+| 47 | [#upas](http://twitter.com/search?q=%23upas) | N/A |
+| 48 | [#NantesJuve](http://twitter.com/search?q=%23NantesJuve) | N/A |
 
 
 

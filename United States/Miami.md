@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Miami
 
-📆 Last Updated: `2023-02-22 23:18:02 UTC`
+📆 Last Updated: `2023-02-23 00:30:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 2 | [America First](http://twitter.com/search?q=America+First) | N/A |
-| 3 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 4 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 5 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
-| 6 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 7 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 8 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 10 | [Steve Saunders](http://twitter.com/search?q=Steve+Saunders) | N/A |
-| 11 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 12 | [#dropkwite](http://twitter.com/search?q=%23dropkwite) | N/A |
-| 13 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
-| 14 | [#FireLadyFiszi](http://twitter.com/search?q=%23FireLadyFiszi) | N/A |
-| 15 | [Apprehended](http://twitter.com/search?q=Apprehended) | N/A |
-| 16 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 17 | [Tee Martin](http://twitter.com/search?q=Tee+Martin) | N/A |
-| 18 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
-| 19 | [Ivanka Trump](http://twitter.com/search?q=Ivanka+Trump) | N/A |
-| 20 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
-| 21 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 22 | [#tubbo5mil](http://twitter.com/search?q=%23tubbo5mil) | N/A |
-| 23 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
-| 24 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
-| 25 | [Snowing in Vegas](http://twitter.com/search?q=Snowing+in+Vegas) | N/A |
-| 26 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
-| 27 | [Dookey Dash](http://twitter.com/search?q=Dookey+Dash) | N/A |
-| 28 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 29 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
-| 30 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 31 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
-| 32 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
-| 33 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 34 | [Ivanka and Jared](http://twitter.com/search?q=Ivanka+and+Jared) | N/A |
+| 1 | [Kentucky](http://twitter.com/search?q=Kentucky) | Kentucky is a state in the United States located in the east south-central region of the country. It is bordered by seven states, including Virginia to the southeast, Tennessee to the south, Missouri to the west, Illinois and Indiana to the northwest, and Ohio to the northeast. Kentucky is known for its bluegrass music, bourbon whiskey, horse racing, and college basketball. The state's nickname is "The Bluegrass State" due to its fertile soil and abundance of bluegrass. |
+| 2 | [Gators](http://twitter.com/search?q=Gators) | N/A |
+| 3 | [Air Force One](http://twitter.com/search?q=Air+Force+One) | N/A |
+| 4 | [America First](http://twitter.com/search?q=America+First) | N/A |
+| 5 | [#AdvertiseHere](http://twitter.com/search?q=%23AdvertiseHere) | N/A |
+| 6 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 7 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 8 | [#dropkwite](http://twitter.com/search?q=%23dropkwite) | N/A |
+| 9 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
+| 10 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 11 | [#MakeASongSmarter](http://twitter.com/search?q=%23MakeASongSmarter) | N/A |
+| 12 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
+| 13 | [#EastPalenstineOH](http://twitter.com/search?q=%23EastPalenstineOH) | N/A |
+| 14 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
+| 15 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 16 | [Charlie Taylor](http://twitter.com/search?q=Charlie+Taylor) | N/A |
+| 17 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
+| 18 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
+| 19 | [Steve Saunders](http://twitter.com/search?q=Steve+Saunders) | N/A |
+| 20 | [Ivanka Trump](http://twitter.com/search?q=Ivanka+Trump) | N/A |
+| 21 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
+| 22 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 23 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
+| 24 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
+| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 26 | [Bynum](http://twitter.com/search?q=Bynum) | N/A |
+| 27 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
+| 28 | [Tee Martin](http://twitter.com/search?q=Tee+Martin) | N/A |
+| 29 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 30 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 31 | [Apprehended](http://twitter.com/search?q=Apprehended) | N/A |
+| 32 | [Dookey Dash](http://twitter.com/search?q=Dookey+Dash) | N/A |
+| 33 | [luke hemmings](http://twitter.com/search?q=luke+hemmings) | N/A |
+| 34 | [hozier](http://twitter.com/search?q=hozier) | N/A |
 | 35 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 36 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 37 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
-| 38 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
-| 39 | [Real President](http://twitter.com/search?q=Real+President) | N/A |
-| 40 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 41 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 42 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
-| 43 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 36 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
+| 37 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 38 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
+| 39 | [Ivanka and Jared](http://twitter.com/search?q=Ivanka+and+Jared) | N/A |
+| 40 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
+| 41 | [RIP NIP](http://twitter.com/search?q=RIP+NIP) | N/A |
+| 42 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
+| 43 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
 | 44 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 45 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 46 | [EF-2](http://twitter.com/search?q=EF-2) | N/A |
-| 47 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 48 | [RIP NIP](http://twitter.com/search?q=RIP+NIP) | N/A |
-| 49 | [Oak Ridge](http://twitter.com/search?q=Oak+Ridge) | N/A |
+| 45 | [The Glove](http://twitter.com/search?q=The+Glove) | N/A |
+| 46 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
+| 47 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 48 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
+| 49 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
 
 
 

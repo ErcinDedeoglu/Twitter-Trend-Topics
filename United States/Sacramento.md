@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-02-22 23:18:05 UTC`
+📆 Last Updated: `2023-02-23 00:30:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Pasadena](http://twitter.com/search?q=Pasadena) | N/A |
-| 2 | [#CALeg](http://twitter.com/search?q=%23CALeg) | N/A |
-| 3 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 4 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
-| 5 | [#wednesdaythought](http://twitter.com/search?q=%23wednesdaythought) | N/A |
-| 6 | [#TheMandalorian](http://twitter.com/search?q=%23TheMandalorian) | #TheMandalorian is a live-action Star Wars television series that premiered on Disney+ in 2019. It follows the story of a lone gunfighter from the planet Mandalore, who is hired to protect a mysterious young child. The show has become very popular and has spawned several spin-off series. The term "Mandalorian" is used to refer to the culture and people of Mandalore, which is a fictional planet in the Star Wars universe. |
+| 2 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
+| 3 | [#CALeg](http://twitter.com/search?q=%23CALeg) | N/A |
+| 4 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
+| 5 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 6 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
 | 7 | [SoCal](http://twitter.com/search?q=SoCal) | N/A |
-| 8 | [Teresa](http://twitter.com/search?q=Teresa) | N/A |
+| 8 | [#AdvertiseHere](http://twitter.com/search?q=%23AdvertiseHere) | N/A |
 | 9 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
 | 10 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 11 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
-| 12 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 13 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 14 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 15 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 16 | [Steve Saunders](http://twitter.com/search?q=Steve+Saunders) | N/A |
-| 17 | [Apprehended](http://twitter.com/search?q=Apprehended) | N/A |
-| 18 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 19 | [Tee Martin](http://twitter.com/search?q=Tee+Martin) | N/A |
+| 11 | [#dropkwite](http://twitter.com/search?q=%23dropkwite) | N/A |
+| 12 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
+| 13 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 14 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
+| 15 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 16 | [Charlie Taylor](http://twitter.com/search?q=Charlie+Taylor) | N/A |
+| 17 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
+| 18 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
+| 19 | [Steve Saunders](http://twitter.com/search?q=Steve+Saunders) | N/A |
 | 20 | [Ivanka Trump](http://twitter.com/search?q=Ivanka+Trump) | N/A |
-| 21 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
-| 22 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
-| 23 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 24 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
-| 25 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
-| 26 | [Snowing in Vegas](http://twitter.com/search?q=Snowing+in+Vegas) | N/A |
-| 27 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
-| 28 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 29 | [Dookey Dash](http://twitter.com/search?q=Dookey+Dash) | N/A |
-| 30 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
-| 31 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 32 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
-| 33 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
-| 34 | [Ivanka and Jared](http://twitter.com/search?q=Ivanka+and+Jared) | N/A |
-| 35 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 36 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 37 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 38 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
-| 39 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
-| 40 | [Real President](http://twitter.com/search?q=Real+President) | N/A |
-| 41 | [Trump Force One](http://twitter.com/search?q=Trump+Force+One) | N/A |
-| 42 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 43 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
-| 44 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 45 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 46 | [EF-2](http://twitter.com/search?q=EF-2) | N/A |
-| 47 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 48 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 49 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 21 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
+| 22 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
+| 23 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
+| 24 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
+| 25 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 26 | [Bynum](http://twitter.com/search?q=Bynum) | N/A |
+| 27 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
+| 28 | [Tee Martin](http://twitter.com/search?q=Tee+Martin) | N/A |
+| 29 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 30 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 31 | [Apprehended](http://twitter.com/search?q=Apprehended) | N/A |
+| 32 | [Dookey Dash](http://twitter.com/search?q=Dookey+Dash) | N/A |
+| 33 | [luke hemmings](http://twitter.com/search?q=luke+hemmings) | N/A |
+| 34 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 35 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
+| 36 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
+| 37 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 38 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
+| 39 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
+| 40 | [RIP NIP](http://twitter.com/search?q=RIP+NIP) | N/A |
+| 41 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
+| 42 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 43 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 44 | [The Glove](http://twitter.com/search?q=The+Glove) | N/A |
+| 45 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
+| 46 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
+| 47 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 48 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
+| 49 | [E. Palestine](http://twitter.com/search?q=E.+Palestine) | N/A |
 
 
 

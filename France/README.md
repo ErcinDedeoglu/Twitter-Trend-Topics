@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-22 23:18:11 UTC`
+📆 Last Updated: `2023-02-23 00:30:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,56 @@ This is top 50 for France
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
-| 2 | [#NouvelleStar](http://twitter.com/search?q=%23NouvelleStar) | N/A |
-| 3 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 4 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 5 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 7 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 8 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
-| 9 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 10 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
-| 11 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
-| 12 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 13 | [#CatchRAW](http://twitter.com/search?q=%23CatchRAW) | N/A |
-| 14 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 15 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
-| 16 | [Diogo Costa](http://twitter.com/search?q=Diogo+Costa) | N/A |
-| 17 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 18 | [Camélia Jordana](http://twitter.com/search?q=Cam%c3%a9lia+Jordana) | N/A |
-| 19 | [Bernardo](http://twitter.com/search?q=Bernardo) | Bernardo is a Spanish name derived from the Germanic name Bernard, which means "brave as a bear". It is also the Italian form of the name. |
-| 20 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 21 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 22 | [#TheResident](http://twitter.com/search?q=%23TheResident) | N/A |
-| 23 | [Moldavie](http://twitter.com/search?q=Moldavie) | N/A |
-| 24 | [Amel Bent](http://twitter.com/search?q=Amel+Bent) | N/A |
-| 25 | [Elisabeth Lévy](http://twitter.com/search?q=Elisabeth+L%c3%a9vy) | N/A |
-| 26 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 27 | [Summit](http://twitter.com/search?q=Summit) | N/A |
-| 28 | [Walker](http://twitter.com/search?q=Walker) | Walker is a noun that refers to a person who walks, usually for exercise or leisure. It can also refer to a device used to help people who are unable to walk, such as a walking frame or wheelchair. |
-| 29 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 30 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 31 | [Gane](http://twitter.com/search?q=Gane) | N/A |
-| 32 | [Naplouse](http://twitter.com/search?q=Naplouse) | N/A |
-| 33 | [Samuel Paty](http://twitter.com/search?q=Samuel+Paty) | N/A |
-| 34 | [Jones](http://twitter.com/search?q=Jones) | N/A |
-| 35 | [Décès](http://twitter.com/search?q=D%c3%a9c%c3%a8s) | N/A |
-| 36 | [Assassinat](http://twitter.com/search?q=Assassinat) | N/A |
-| 37 | [MEURTRE](http://twitter.com/search?q=MEURTRE) | N/A |
-| 38 | [#OnPeutGagner](http://twitter.com/search?q=%23OnPeutGagner) | N/A |
-| 39 | [#saintjeandeluz](http://twitter.com/search?q=%23saintjeandeluz) | N/A |
-| 40 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
-| 41 | [#TotalEnergies](http://twitter.com/search?q=%23TotalEnergies) | N/A |
-| 42 | [#ONEPIECE1076](http://twitter.com/search?q=%23ONEPIECE1076) | N/A |
-| 43 | [#pasdevagues](http://twitter.com/search?q=%23pasdevagues) | N/A |
-| 44 | [#DBLegends](http://twitter.com/search?q=%23DBLegends) | N/A |
-| 45 | [#FCNJUV](http://twitter.com/search?q=%23FCNJUV) | N/A |
-| 46 | [#enseignants](http://twitter.com/search?q=%23enseignants) | N/A |
+| 1 | [#saintjeandeluz](http://twitter.com/search?q=%23saintjeandeluz) | N/A |
+| 2 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 3 | [#KohLanta](http://twitter.com/search?q=%23KohLanta) | N/A |
+| 4 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 7 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 8 | [#NouvelleStar20ans](http://twitter.com/search?q=%23NouvelleStar20ans) | N/A |
+| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 10 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 11 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
+| 12 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 13 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 14 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 15 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 16 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 17 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 18 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 19 | [Karl Zéro](http://twitter.com/search?q=Karl+Z%c3%a9ro) | N/A |
+| 20 | [Chap](http://twitter.com/search?q=Chap) | N/A |
+| 21 | [Décès](http://twitter.com/search?q=D%c3%a9c%c3%a8s) | N/A |
+| 22 | [Wunder](http://twitter.com/search?q=Wunder) | N/A |
+| 23 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
+| 24 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 25 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
+| 26 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
+| 27 | [francfort - naples](http://twitter.com/search?q=francfort+-+naples) | N/A |
+| 28 | [Jena Lee](http://twitter.com/search?q=Jena+Lee) | N/A |
+| 29 | [Amandine Bourgeois](http://twitter.com/search?q=Amandine+Bourgeois) | N/A |
+| 30 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 31 | [St Jean de Luz](http://twitter.com/search?q=St+Jean+de+Luz) | N/A |
+| 32 | [Aquin](http://twitter.com/search?q=Aquin) | N/A |
+| 33 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
+| 34 | [Cendres](http://twitter.com/search?q=Cendres) | N/A |
+| 35 | [Tatoos](http://twitter.com/search?q=Tatoos) | N/A |
+| 36 | [Rungis](http://twitter.com/search?q=Rungis) | N/A |
+| 37 | [Helena](http://twitter.com/search?q=Helena) | N/A |
+| 38 | [Assassinat](http://twitter.com/search?q=Assassinat) | N/A |
+| 39 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 40 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 41 | [Naplouse](http://twitter.com/search?q=Naplouse) | N/A |
+| 42 | [Squeezie](http://twitter.com/search?q=Squeezie) | N/A |
+| 43 | [Nkunku](http://twitter.com/search?q=Nkunku) | Nkunku is a traditional African name of Ghanaian origin. It is derived from the Akan language and means "God's gift". |
+| 44 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 45 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 46 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 47 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 48 | [Camélia Jordana](http://twitter.com/search?q=Cam%c3%a9lia+Jordana) | N/A |
+| 49 | [Pap Ndiaye](http://twitter.com/search?q=Pap+Ndiaye) | N/A |
+| 50 | [Solary](http://twitter.com/search?q=Solary) | N/A |
 
 
 
