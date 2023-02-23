@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-02-23 15:17:13 UTC`
+📆 Last Updated: `2023-02-23 16:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,51 +15,54 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 2 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 3 | [#thebabyfloki](http://twitter.com/search?q=%23thebabyfloki) | N/A |
+| 1 | [#thebabyfloki](http://twitter.com/search?q=%23thebabyfloki) | N/A |
+| 2 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 3 | [#MetaThings](http://twitter.com/search?q=%23MetaThings) | N/A |
 | 4 | [SET ME FREE PT 2](http://twitter.com/search?q=SET+ME+FREE+PT+2) | N/A |
-| 5 | [LIKE CRAZY](http://twitter.com/search?q=LIKE+CRAZY) | N/A |
-| 6 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 7 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 8 | [Dylan Lyons](http://twitter.com/search?q=Dylan+Lyons) | N/A |
-| 9 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 10 | [Pdogg](http://twitter.com/search?q=Pdogg) | N/A |
+| 5 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
+| 6 | [LIKE CRAZY](http://twitter.com/search?q=LIKE+CRAZY) | N/A |
+| 7 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 8 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 9 | [Paul Paul](http://twitter.com/search?q=Paul+Paul) | N/A |
+| 10 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
 | 11 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
-| 12 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 12 | [Dylan Lyons](http://twitter.com/search?q=Dylan+Lyons) | N/A |
 | 13 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 14 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 15 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 16 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 17 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 18 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 19 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 20 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 21 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 22 | [Migos](http://twitter.com/search?q=Migos) | N/A |
-| 23 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
-| 24 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
-| 25 | [Bio Broly](http://twitter.com/search?q=Bio+Broly) | N/A |
-| 26 | [Sneaky Pete](http://twitter.com/search?q=Sneaky+Pete) | N/A |
-| 27 | [Jesse Walden](http://twitter.com/search?q=Jesse+Walden) | N/A |
-| 28 | [Goya](http://twitter.com/search?q=Goya) | N/A |
-| 29 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 30 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
-| 31 | [Offset](http://twitter.com/search?q=Offset) | N/A |
-| 32 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 33 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 34 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
-| 35 | [Almost Friday](http://twitter.com/search?q=Almost+Friday) | N/A |
-| 36 | [Shinji Mikami](http://twitter.com/search?q=Shinji+Mikami) | N/A |
-| 37 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 38 | [NICKI IS COMING](http://twitter.com/search?q=NICKI+IS+COMING) | N/A |
-| 39 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
-| 40 | [Repping Reapers](http://twitter.com/search?q=Repping+Reapers) | N/A |
-| 41 | [Savanah](http://twitter.com/search?q=Savanah) | N/A |
-| 42 | [Lumidee](http://twitter.com/search?q=Lumidee) | N/A |
-| 43 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 44 | [Kerry Kittles](http://twitter.com/search?q=Kerry+Kittles) | N/A |
-| 45 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 14 | [Pdogg](http://twitter.com/search?q=Pdogg) | N/A |
+| 15 | [Press Secretary](http://twitter.com/search?q=Press+Secretary) | N/A |
+| 16 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 17 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 18 | [Paw Paw](http://twitter.com/search?q=Paw+Paw) | N/A |
+| 19 | [Ajay Banga](http://twitter.com/search?q=Ajay+Banga) | N/A |
+| 20 | [Bio Broly](http://twitter.com/search?q=Bio+Broly) | N/A |
+| 21 | [Elaine Chao](http://twitter.com/search?q=Elaine+Chao) | N/A |
+| 22 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 23 | [Savanah](http://twitter.com/search?q=Savanah) | N/A |
+| 24 | [Village People](http://twitter.com/search?q=Village+People) | N/A |
+| 25 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
+| 26 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 27 | [Sneaky Pete](http://twitter.com/search?q=Sneaky+Pete) | N/A |
+| 28 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
+| 29 | [Migos](http://twitter.com/search?q=Migos) | N/A |
+| 30 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 31 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 32 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 33 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
+| 34 | [FACE OFF](http://twitter.com/search?q=FACE+OFF) | N/A |
+| 35 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 36 | [NBA IS BACK](http://twitter.com/search?q=NBA+IS+BACK) | N/A |
+| 37 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 38 | [Pantene](http://twitter.com/search?q=Pantene) | N/A |
+| 39 | [Jesse Walden](http://twitter.com/search?q=Jesse+Walden) | N/A |
+| 40 | [Quin Snyder](http://twitter.com/search?q=Quin+Snyder) | N/A |
+| 41 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 42 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 43 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 44 | [Hobbit](http://twitter.com/search?q=Hobbit) | N/A |
+| 45 | [Offset](http://twitter.com/search?q=Offset) | N/A |
+| 46 | [Trump Derangement Syndrome](http://twitter.com/search?q=Trump+Derangement+Syndrome) | N/A |
+| 47 | [SLED](http://twitter.com/search?q=SLED) | N/A |
+| 48 | [Sam Bankman-Fried](http://twitter.com/search?q=Sam+Bankman-Fried) | N/A |
 
 
 

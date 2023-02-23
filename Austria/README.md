@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-23 15:17:18 UTC`
+📆 Last Updated: `2023-02-23 16:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#ZeroCon23](http://twitter.com/search?q=%23ZeroCon23) | N/A |
 | 2 | [Clemens Arvay](http://twitter.com/search?q=Clemens+Arvay) | N/A |
-| 3 | [#Kickl](http://twitter.com/search?q=%23Kickl) | N/A |
-| 4 | [#dok1](http://twitter.com/search?q=%23dok1) | N/A |
-| 5 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 6 | [#Aschermittwoch](http://twitter.com/search?q=%23Aschermittwoch) | N/A |
-| 7 | [liebe ingrid](http://twitter.com/search?q=liebe+ingrid) | N/A |
-| 8 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 9 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
-| 10 | [Ebenen](http://twitter.com/search?q=Ebenen) | N/A |
-| 11 | [Bundeskanzler](http://twitter.com/search?q=Bundeskanzler) | N/A |
-| 12 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 13 | [Kulturszene](http://twitter.com/search?q=Kulturszene) | N/A |
-| 14 | [Tempo 100](http://twitter.com/search?q=Tempo+100) | N/A |
-| 15 | [sparpläne](http://twitter.com/search?q=sparpl%c3%a4ne) | N/A |
-| 16 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 17 | [Volksverräter](http://twitter.com/search?q=Volksverr%c3%a4ter) | N/A |
-| 18 | [Bildungsauftrag](http://twitter.com/search?q=Bildungsauftrag) | N/A |
-| 19 | [Rand](http://twitter.com/search?q=Rand) | N/A |
-| 20 | [Norm](http://twitter.com/search?q=Norm) | N/A |
-| 21 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 22 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 23 | [Angaben](http://twitter.com/search?q=Angaben) | N/A |
-| 24 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
-| 25 | [Orchester](http://twitter.com/search?q=Orchester) | N/A |
-| 26 | [mohammad](http://twitter.com/search?q=mohammad) | N/A |
-| 27 | [Schwanz](http://twitter.com/search?q=Schwanz) | N/A |
-| 28 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
-| 29 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 30 | [Unfälle](http://twitter.com/search?q=Unf%c3%a4lle) | N/A |
-| 31 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
-| 32 | [Verjährung](http://twitter.com/search?q=Verj%c3%a4hrung) | N/A |
-| 33 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 34 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
-| 35 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 36 | [Feuerwehr](http://twitter.com/search?q=Feuerwehr) | N/A |
-| 37 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
-| 38 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 39 | [innsbruck](http://twitter.com/search?q=innsbruck) | N/A |
-| 40 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
-| 41 | [Teuerung](http://twitter.com/search?q=Teuerung) | N/A |
-| 42 | [Gefährdung](http://twitter.com/search?q=Gef%c3%a4hrdung) | N/A |
-| 43 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
-| 44 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 45 | [Rätsel](http://twitter.com/search?q=R%c3%a4tsel) | N/A |
-| 46 | [Studio](http://twitter.com/search?q=Studio) | N/A |
-| 47 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 48 | [Protestform](http://twitter.com/search?q=Protestform) | N/A |
-| 49 | [palästinenser](http://twitter.com/search?q=pal%c3%a4stinenser) | N/A |
-| 50 | [unterhaltung](http://twitter.com/search?q=unterhaltung) | N/A |
+| 3 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
+| 4 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 5 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
+| 6 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 7 | [#Aschermittwoch](http://twitter.com/search?q=%23Aschermittwoch) | N/A |
+| 8 | [#agentconf](http://twitter.com/search?q=%23agentconf) | N/A |
+| 9 | [liebe ingrid](http://twitter.com/search?q=liebe+ingrid) | N/A |
+| 10 | [#OSCE](http://twitter.com/search?q=%23OSCE) | N/A |
+| 11 | [Ärztin](http://twitter.com/search?q=%c3%84rztin) | N/A |
+| 12 | [#dok1](http://twitter.com/search?q=%23dok1) | N/A |
+| 13 | [Ebenen](http://twitter.com/search?q=Ebenen) | N/A |
+| 14 | [Bundeskanzler](http://twitter.com/search?q=Bundeskanzler) | N/A |
+| 15 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 16 | [Sparpläne](http://twitter.com/search?q=Sparpl%c3%a4ne) | N/A |
+| 17 | [kulturszene](http://twitter.com/search?q=kulturszene) | N/A |
+| 18 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 19 | [volksverräter](http://twitter.com/search?q=volksverr%c3%a4ter) | N/A |
+| 20 | [Bildungsauftrag](http://twitter.com/search?q=Bildungsauftrag) | N/A |
+| 21 | [Rand](http://twitter.com/search?q=Rand) | N/A |
+| 22 | [Norm](http://twitter.com/search?q=Norm) | N/A |
+| 23 | [krapfen](http://twitter.com/search?q=krapfen) | N/A |
+| 24 | [Orchester](http://twitter.com/search?q=Orchester) | N/A |
+| 25 | [Tempo 100](http://twitter.com/search?q=Tempo+100) | N/A |
+| 26 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
+| 27 | [Van der Bellen](http://twitter.com/search?q=Van+der+Bellen) | N/A |
+| 28 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 29 | [Schwanz](http://twitter.com/search?q=Schwanz) | N/A |
+| 30 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 31 | [Unfälle](http://twitter.com/search?q=Unf%c3%a4lle) | N/A |
+| 32 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
+| 33 | [Verjährung](http://twitter.com/search?q=Verj%c3%a4hrung) | N/A |
+| 34 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
+| 35 | [Ärzte](http://twitter.com/search?q=%c3%84rzte) | N/A |
+| 36 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
+| 37 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 38 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
+| 39 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
+| 40 | [Teuerung](http://twitter.com/search?q=Teuerung) | N/A |
+| 41 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 42 | [Feuerwehr](http://twitter.com/search?q=Feuerwehr) | N/A |
+| 43 | [Anliegen](http://twitter.com/search?q=Anliegen) | N/A |
+| 44 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 45 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 46 | [Innsbruck](http://twitter.com/search?q=Innsbruck) | N/A |
+| 47 | [Studio](http://twitter.com/search?q=Studio) | N/A |
+| 48 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 49 | [Rätsel](http://twitter.com/search?q=R%c3%a4tsel) | N/A |
+| 50 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naucalpan de Juárez
 
-📆 Last Updated: `2023-02-23 15:16:28 UTC`
+📆 Last Updated: `2023-02-23 16:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,39 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 2 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 3 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 4 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 5 | [#CaminitoAlaEscuela](http://twitter.com/search?q=%23CaminitoAlaEscuela) | N/A |
-| 6 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 7 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 8 | [#MañaneroPretencioso](http://twitter.com/search?q=%23Ma%c3%b1aneroPretencioso) | N/A |
-| 9 | [#KornoCorazónRoto](http://twitter.com/search?q=%23KornoCoraz%c3%b3nRoto) | N/A |
-| 10 | [#HogaresMexiquenses](http://twitter.com/search?q=%23HogaresMexiquenses) | N/A |
+| 2 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 3 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
+| 4 | [#PoderosoCompleto](http://twitter.com/search?q=%23PoderosoCompleto) | N/A |
+| 5 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 6 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 7 | [#RebVideoExclusivoYT](http://twitter.com/search?q=%23RebVideoExclusivoYT) | N/A |
+| 8 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 9 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 10 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
 | 11 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
-| 12 | [Yon de Luisa](http://twitter.com/search?q=Yon+de+Luisa) | Yon de Luisa is a traditional Cuban folk song. It is a love song about a woman named Luisa, and it is sung in the style of a bolero. The English translation of the title is "Luisa's Song". |
-| 13 | [Anna Sarelly](http://twitter.com/search?q=Anna+Sarelly) | N/A |
+| 12 | [Alfonso Durazo](http://twitter.com/search?q=Alfonso+Durazo) | N/A |
+| 13 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
 | 14 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
-| 15 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 16 | [Pasta de Conchos](http://twitter.com/search?q=Pasta+de+Conchos) | N/A |
-| 17 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 18 | [Excelente Jueves](http://twitter.com/search?q=Excelente+Jueves) | N/A |
-| 19 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 20 | [JIMIN FACE IS COMING](http://twitter.com/search?q=JIMIN+FACE+IS+COMING) | N/A |
-| 21 | [Ley Olimpia](http://twitter.com/search?q=Ley+Olimpia) | N/A |
-| 22 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 23 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 24 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 25 | [Ve EU](http://twitter.com/search?q=Ve+EU) | N/A |
-| 26 | [Chamilpa](http://twitter.com/search?q=Chamilpa) | N/A |
-| 27 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
-| 28 | [Candy Candy](http://twitter.com/search?q=Candy+Candy) | N/A |
-| 29 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 30 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 31 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 32 | [Ciro](http://twitter.com/search?q=Ciro) | N/A |
-| 33 | [Ovidio](http://twitter.com/search?q=Ovidio) | Ovidio is a Latin name derived from the Roman family name Ovidius. It is thought to be derived from the Latin word ovum, meaning "egg". In English, the name Ovidio means "born of an egg". |
-| 34 | [Fabrizio Mejía](http://twitter.com/search?q=Fabrizio+Mej%c3%ada) | N/A |
-| 35 | [Vilchis](http://twitter.com/search?q=Vilchis) | N/A |
-| 36 | [Chapo](http://twitter.com/search?q=Chapo) | Chapo is a Spanish slang term that literally translates to "shorty" or "short person." It is often used as an affectionate nickname for someone who is short in stature. |
-| 37 | [Borolas](http://twitter.com/search?q=Borolas) | N/A |
-| 38 | [Mendoza](http://twitter.com/search?q=Mendoza) | N/A |
-| 39 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 40 | [sniper medallistar](http://twitter.com/search?q=sniper+medallistar) | N/A |
-| 41 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 42 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
-| 43 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 44 | [Calzadores](http://twitter.com/search?q=Calzadores) | N/A |
-| 45 | [FECAL](http://twitter.com/search?q=FECAL) | N/A |
-| 46 | [Ricardo Ferretti](http://twitter.com/search?q=Ricardo+Ferretti) | N/A |
-| 47 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 48 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 49 | [Imaz](http://twitter.com/search?q=Imaz) | N/A |
-| 50 | [La Máquina](http://twitter.com/search?q=La+M%c3%a1quina) | N/A |
+| 15 | [Jueves 23](http://twitter.com/search?q=Jueves+23) | N/A |
+| 16 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 17 | [Ley Olimpia](http://twitter.com/search?q=Ley+Olimpia) | N/A |
+| 18 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
+| 19 | [Senadora](http://twitter.com/search?q=Senadora) | N/A |
+| 20 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 21 | [#CaminitoAlaEscuela](http://twitter.com/search?q=%23CaminitoAlaEscuela) | N/A |
+| 22 | [#MañaneroPretencioso](http://twitter.com/search?q=%23Ma%c3%b1aneroPretencioso) | N/A |
+| 23 | [#KornoCorazónRoto](http://twitter.com/search?q=%23KornoCoraz%c3%b3nRoto) | N/A |
+| 24 | [#CochinitoMagico](http://twitter.com/search?q=%23CochinitoMagico) | N/A |
+| 25 | [#Detonador](http://twitter.com/search?q=%23Detonador) | N/A |
+| 26 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 27 | [#MeUrge](http://twitter.com/search?q=%23MeUrge) | N/A |
+| 28 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 29 | [#FACEISCOMING](http://twitter.com/search?q=%23FACEISCOMING) | N/A |
+| 30 | [#inflación](http://twitter.com/search?q=%23inflaci%c3%b3n) | N/A |
+| 31 | [#ElINENoSeToca](http://twitter.com/search?q=%23ElINENoSeToca) | N/A |
+| 32 | [#NarcoMarcha](http://twitter.com/search?q=%23NarcoMarcha) | N/A |
+| 33 | [#YoDefiendoAlINE](http://twitter.com/search?q=%23YoDefiendoAlINE) | N/A |
+| 34 | [#Cuernavaca](http://twitter.com/search?q=%23Cuernavaca) | N/A |
 
 
 

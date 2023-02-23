@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-02-23 15:17:07 UTC`
+📆 Last Updated: `2023-02-23 16:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#thebabyfloki](http://twitter.com/search?q=%23thebabyfloki) | N/A |
 | 2 | [Elif Buse Doğan](http://twitter.com/search?q=Elif+Buse+Do%c4%9fan) | N/A |
-| 3 | [#99ÖncesiHaklarlaEYT](http://twitter.com/search?q=%2399%c3%96ncesiHaklarlaEYT) | N/A |
-| 4 | [Birliktelik Destanı](http://twitter.com/search?q=Birliktelik+Destan%c4%b1) | N/A |
-| 5 | [Enner Valencia](http://twitter.com/search?q=Enner+Valencia) | N/A |
-| 6 | [#DepremDeğilSistem](http://twitter.com/search?q=%23DepremDe%c4%9filSistem) | N/A |
-| 7 | [#faiz](http://twitter.com/search?q=%23faiz) | N/A |
-| 8 | [#selcukformasyonver](http://twitter.com/search?q=%23selcukformasyonver) | N/A |
-| 9 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 10 | [Kuyumcuya](http://twitter.com/search?q=Kuyumcuya) | N/A |
-| 11 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
-| 12 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
-| 13 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
-| 14 | [Ferit Demir](http://twitter.com/search?q=Ferit+Demir) | N/A |
-| 15 | [Sezon](http://twitter.com/search?q=Sezon) | N/A |
-| 16 | [Özge Peker](http://twitter.com/search?q=%c3%96zge+Peker) | N/A |
-| 17 | [Mahmut](http://twitter.com/search?q=Mahmut) | N/A |
-| 18 | [24 Şubat Cuma](http://twitter.com/search?q=24+%c5%9eubat+Cuma) | N/A |
-| 19 | [Lise 3](http://twitter.com/search?q=Lise+3) | N/A |
-| 20 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
-| 21 | [Mehmet Barlas](http://twitter.com/search?q=Mehmet+Barlas) | N/A |
-| 22 | [Kibritçi Kız](http://twitter.com/search?q=Kibrit%c3%a7i+K%c4%b1z) | N/A |
-| 23 | [Play-Off](http://twitter.com/search?q=Play-Off) | N/A |
-| 24 | [Cihan](http://twitter.com/search?q=Cihan) | N/A |
-| 25 | [Ali Ağaoğlu](http://twitter.com/search?q=Ali+A%c4%9fao%c4%9flu) | N/A |
-| 26 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 27 | [Tunç Soyer](http://twitter.com/search?q=Tun%c3%a7+Soyer) | N/A |
-| 28 | [Kentsel Dönüşüm](http://twitter.com/search?q=Kentsel+D%c3%b6n%c3%bc%c5%9f%c3%bcm) | N/A |
-| 29 | [Orhan Aydın](http://twitter.com/search?q=Orhan+Ayd%c4%b1n) | N/A |
-| 30 | [#BitciYeniden](http://twitter.com/search?q=%23BitciYeniden) | N/A |
-| 31 | [#EMADDER](http://twitter.com/search?q=%23EMADDER) | N/A |
-| 32 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
-| 33 | [#MerkezBankası](http://twitter.com/search?q=%23MerkezBankas%c4%b1) | N/A |
-| 34 | [#TCMB](http://twitter.com/search?q=%23TCMB) | N/A |
-| 35 | [#Tacikistan](http://twitter.com/search?q=%23Tacikistan) | N/A |
-| 36 | [#MetinYüksel](http://twitter.com/search?q=%23MetinY%c3%bcksel) | N/A |
-| 37 | [#DepremzedeEmekçilereİdariİzin](http://twitter.com/search?q=%23DepremzedeEmek%c3%a7ilere%c4%b0dari%c4%b0zin) | N/A |
-| 38 | [#StajyerinSabrıKalmadı](http://twitter.com/search?q=%23StajyerinSabr%c4%b1Kalmad%c4%b1) | N/A |
-| 39 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
-| 40 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
-| 41 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
-| 42 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 43 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
-| 44 | [#HalilİbrahimCeyhan](http://twitter.com/search?q=%23Halil%c4%b0brahimCeyhan) | N/A |
-| 45 | [#gesan](http://twitter.com/search?q=%23gesan) | N/A |
-| 46 | [#persembe](http://twitter.com/search?q=%23persembe) | N/A |
-| 47 | [#ekonomi](http://twitter.com/search?q=%23ekonomi) | N/A |
-| 48 | [#Bvsan](http://twitter.com/search?q=%23Bvsan) | N/A |
-| 49 | [#NASDAQ](http://twitter.com/search?q=%23NASDAQ) | N/A |
-| 50 | [#2000sonrasikademe](http://twitter.com/search?q=%232000sonrasikademe) | N/A |
+| 3 | [Birliktelik Destanı](http://twitter.com/search?q=Birliktelik+Destan%c4%b1) | N/A |
+| 4 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
+| 5 | [Hatay'da 5](http://twitter.com/search?q=Hatay%27da+5) | N/A |
+| 6 | [#99ÖncesiHaklarlaEYT](http://twitter.com/search?q=%2399%c3%96ncesiHaklarlaEYT) | N/A |
+| 7 | [#DepremDegilSistem](http://twitter.com/search?q=%23DepremDegilSistem) | N/A |
+| 8 | [#faiz](http://twitter.com/search?q=%23faiz) | N/A |
+| 9 | [#Tacikistan](http://twitter.com/search?q=%23Tacikistan) | N/A |
+| 10 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
+| 11 | [Kuyumcuya](http://twitter.com/search?q=Kuyumcuya) | N/A |
+| 12 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 13 | [Sezon](http://twitter.com/search?q=Sezon) | N/A |
+| 14 | [Sen İstanbul](http://twitter.com/search?q=Sen+%c4%b0stanbul) | N/A |
+| 15 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 16 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
+| 17 | [Esad](http://twitter.com/search?q=Esad) | N/A |
+| 18 | [Mahmut](http://twitter.com/search?q=Mahmut) | N/A |
+| 19 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 20 | [ferit demir](http://twitter.com/search?q=ferit+demir) | N/A |
+| 21 | [Cihan](http://twitter.com/search?q=Cihan) | N/A |
+| 22 | [Özge Peker](http://twitter.com/search?q=%c3%96zge+Peker) | N/A |
+| 23 | [24 Şubat Cuma](http://twitter.com/search?q=24+%c5%9eubat+Cuma) | N/A |
+| 24 | [Lise 3](http://twitter.com/search?q=Lise+3) | N/A |
+| 25 | [Ahmet Nur Çebi](http://twitter.com/search?q=Ahmet+Nur+%c3%87ebi) | Ahmet Nur Çebi is a Turkish name. It is composed of two given names, Ahmet and Nur, and the surname Çebi. In English, it would be translated as "Ahmet Light of the Moon Çebi". |
+| 26 | [Kibritçi Kız](http://twitter.com/search?q=Kibrit%c3%a7i+K%c4%b1z) | N/A |
+| 27 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 28 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 29 | [Sene](http://twitter.com/search?q=Sene) | N/A |
+| 30 | [Beşir](http://twitter.com/search?q=Be%c5%9fir) | N/A |
+| 31 | [#dolar](http://twitter.com/search?q=%23dolar) | N/A |
+| 32 | [#selcukformasyonver](http://twitter.com/search?q=%23selcukformasyonver) | N/A |
+| 33 | [#EMADDER](http://twitter.com/search?q=%23EMADDER) | N/A |
+| 34 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 35 | [#BitciYeniden](http://twitter.com/search?q=%23BitciYeniden) | N/A |
+| 36 | [#StajyerinSabrıKalmadı](http://twitter.com/search?q=%23StajyerinSabr%c4%b1Kalmad%c4%b1) | N/A |
+| 37 | [#MetinYüksel](http://twitter.com/search?q=%23MetinY%c3%bcksel) | N/A |
+| 38 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
+| 39 | [#DepremzedeEmekçilereİdariİzin](http://twitter.com/search?q=%23DepremzedeEmek%c3%a7ilere%c4%b0dari%c4%b0zin) | N/A |
+| 40 | [#MerkezBankası](http://twitter.com/search?q=%23MerkezBankas%c4%b1) | N/A |
+| 41 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
+| 42 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 43 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
+| 44 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 45 | [#2000sonrasiKADEME](http://twitter.com/search?q=%232000sonrasiKADEME) | N/A |
+| 46 | [#TCMB](http://twitter.com/search?q=%23TCMB) | N/A |
+| 47 | [#HalilİbrahimCeyhan](http://twitter.com/search?q=%23Halil%c4%b0brahimCeyhan) | N/A |
+| 48 | [#NASDAQ](http://twitter.com/search?q=%23NASDAQ) | N/A |
+| 49 | [#ekonomi](http://twitter.com/search?q=%23ekonomi) | N/A |
 
 
 

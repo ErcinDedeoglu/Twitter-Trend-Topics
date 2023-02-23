@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-23 15:16:33 UTC`
+📆 Last Updated: `2023-02-23 16:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Yago](http://twitter.com/search?q=Yago) | Yago is a Japanese name meaning "calm one". It can also be written as 八吾 or 弥吾. |
-| 2 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 3 | [#thebabyfloki](http://twitter.com/search?q=%23thebabyfloki) | N/A |
-| 4 | [Loma](http://twitter.com/search?q=Loma) | N/A |
-| 5 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 6 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 7 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 8 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 9 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
-| 10 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 11 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 12 | [Elize Matsunaga](http://twitter.com/search?q=Elize+Matsunaga) | N/A |
-| 13 | [Sorocaba](http://twitter.com/search?q=Sorocaba) | N/A |
-| 14 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 15 | [Naka](http://twitter.com/search?q=Naka) | N/A |
-| 16 | [krystian](http://twitter.com/search?q=krystian) | N/A |
-| 17 | [#MoonlightChickenEP6](http://twitter.com/search?q=%23MoonlightChickenEP6) | N/A |
-| 18 | [Ste Viegas](http://twitter.com/search?q=Ste+Viegas) | N/A |
-| 19 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 1 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 2 | [#sbtrio](http://twitter.com/search?q=%23sbtrio) | N/A |
+| 3 | [Todes](http://twitter.com/search?q=Todes) | N/A |
+| 4 | [Yago](http://twitter.com/search?q=Yago) | Yago is a Japanese name meaning "calm one". It can also be written as 八吾 or 弥吾. |
+| 5 | [Melanie](http://twitter.com/search?q=Melanie) | N/A |
+| 6 | [Obrigado Deus](http://twitter.com/search?q=Obrigado+Deus) | N/A |
+| 7 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 8 | [Loma](http://twitter.com/search?q=Loma) | N/A |
+| 9 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 10 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 11 | [#thebabyfloki](http://twitter.com/search?q=%23thebabyfloki) | N/A |
+| 12 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
+| 13 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 14 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
+| 15 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 16 | [Sorocaba](http://twitter.com/search?q=Sorocaba) | N/A |
+| 17 | [Naka](http://twitter.com/search?q=Naka) | N/A |
+| 18 | [Elize Matsunaga](http://twitter.com/search?q=Elize+Matsunaga) | N/A |
+| 19 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
 | 20 | [Dona Maria](http://twitter.com/search?q=Dona+Maria) | N/A |
-| 21 | [Dona Fátima](http://twitter.com/search?q=Dona+F%c3%a1tima) | N/A |
-| 22 | [#BOYSPLANETep4](http://twitter.com/search?q=%23BOYSPLANETep4) | N/A |
-| 23 | [#FACE_Jimin](http://twitter.com/search?q=%23FACE_Jimin) | N/A |
-| 24 | [cleo](http://twitter.com/search?q=cleo) | N/A |
-| 25 | [Fabuloso](http://twitter.com/search?q=Fabuloso) | N/A |
-| 26 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
-| 27 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 28 | [big john](http://twitter.com/search?q=big+john) | N/A |
-| 29 | [Luís Fabiano](http://twitter.com/search?q=Lu%c3%ads+Fabiano) | N/A |
-| 30 | [Zambelli](http://twitter.com/search?q=Zambelli) | N/A |
-| 31 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 32 | [Shinji Mikami](http://twitter.com/search?q=Shinji+Mikami) | N/A |
-| 33 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 34 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 35 | [sarah cameron](http://twitter.com/search?q=sarah+cameron) | N/A |
-| 36 | [Back Door](http://twitter.com/search?q=Back+Door) | N/A |
-| 37 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 38 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 39 | [CACs](http://twitter.com/search?q=CACs) | N/A |
-| 40 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
-| 41 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 42 | [Tcholinha](http://twitter.com/search?q=Tcholinha) | N/A |
-| 43 | [Tango](http://twitter.com/search?q=Tango) | N/A |
-| 44 | [jhon b](http://twitter.com/search?q=jhon+b) | N/A |
-| 45 | [Suzane](http://twitter.com/search?q=Suzane) | Suzane is a French female name, derived from the Latin name Susanna. It is thought to mean "lily" or "graceful lily". |
-| 46 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 47 | [Jiwoong](http://twitter.com/search?q=Jiwoong) | N/A |
-| 48 | [Seunghwan](http://twitter.com/search?q=Seunghwan) | N/A |
-| 49 | [PARABÉNS FRED NICÁCIO](http://twitter.com/search?q=PARAB%c3%89NS+FRED+NIC%c3%81CIO) | N/A |
-| 50 | [kill this love](http://twitter.com/search?q=kill+this+love) | N/A |
+| 21 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 22 | [LIKE CRAZY](http://twitter.com/search?q=LIKE+CRAZY) | N/A |
+| 23 | [Ste Viegas](http://twitter.com/search?q=Ste+Viegas) | N/A |
+| 24 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 25 | [#MoonlightChickenEP6](http://twitter.com/search?q=%23MoonlightChickenEP6) | N/A |
+| 26 | [Dona Fátima](http://twitter.com/search?q=Dona+F%c3%a1tima) | N/A |
+| 27 | [Ratinho](http://twitter.com/search?q=Ratinho) | N/A |
+| 28 | [Zambelli](http://twitter.com/search?q=Zambelli) | N/A |
+| 29 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 30 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 31 | [big john](http://twitter.com/search?q=big+john) | N/A |
+| 32 | [Luís Fabiano](http://twitter.com/search?q=Lu%c3%ads+Fabiano) | N/A |
+| 33 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 34 | [Lampard](http://twitter.com/search?q=Lampard) | Lampard is a surname of English origin. It is derived from the Old English words "lamb" and "pærd," meaning "land clearing." The name was originally given to someone who lived near or worked on a land clearing. |
+| 35 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
+| 36 | [Fabuloso](http://twitter.com/search?q=Fabuloso) | N/A |
+| 37 | [sarah cameron](http://twitter.com/search?q=sarah+cameron) | N/A |
+| 38 | [cleo](http://twitter.com/search?q=cleo) | N/A |
+| 39 | [Arrependido](http://twitter.com/search?q=Arrependido) | N/A |
+| 40 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 41 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
+| 42 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 43 | [Descanse](http://twitter.com/search?q=Descanse) | Descanse is a Spanish word that means "rest" or "relax". It is often used as a way to wish someone a good rest or to tell them to take a break. |
+| 44 | [Poupar](http://twitter.com/search?q=Poupar) | N/A |
+| 45 | [jhon b](http://twitter.com/search?q=jhon+b) | N/A |
+| 46 | [Suzane](http://twitter.com/search?q=Suzane) | Suzane is a French female name, derived from the Latin name Susanna. It is thought to mean "lily" or "graceful lily". |
+| 47 | [Tango](http://twitter.com/search?q=Tango) | N/A |
+| 48 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 49 | [Giroud](http://twitter.com/search?q=Giroud) | Giroud is a French surname. It is derived from the Old French word "giraud", which means "red-haired". |
+| 50 | [Federer](http://twitter.com/search?q=Federer) | N/A |
 
 
 

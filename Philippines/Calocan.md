@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Calocan
 
-📆 Last Updated: `2023-02-23 15:16:52 UTC`
+📆 Last Updated: `2023-02-23 16:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 2 | [LIKE CRAZY](http://twitter.com/search?q=LIKE+CRAZY) | N/A |
-| 3 | [#MCIMgaAralAtPangarap](http://twitter.com/search?q=%23MCIMgaAralAtPangarap) | N/A |
-| 4 | [WILD TONIGHT MV TEASER3](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER3) | N/A |
-| 5 | [#PVL2023](http://twitter.com/search?q=%23PVL2023) | #PVL2023 is a hashtag used to promote the 2023 Pan-American Volleyball League. It is used to promote the event and to connect with fans and sponsors. |
-| 6 | [Congrats PLDT](http://twitter.com/search?q=Congrats+PLDT) | N/A |
+| 1 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 2 | [TONIGHT OUT NOW](http://twitter.com/search?q=TONIGHT+OUT+NOW) | N/A |
+| 3 | [#JoshCullenSoloDebut](http://twitter.com/search?q=%23JoshCullenSoloDebut) | N/A |
+| 4 | [#WildTonight](http://twitter.com/search?q=%23WildTonight) | N/A |
+| 5 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 6 | [LIKE CRAZY](http://twitter.com/search?q=LIKE+CRAZY) | N/A |
 | 7 | [D-1 Be His Prey](http://twitter.com/search?q=D-1+Be+His+Prey) | N/A |
-| 8 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 9 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 10 | [#TWICE_ConceptPhotoD3](http://twitter.com/search?q=%23TWICE_ConceptPhotoD3) | N/A |
-| 11 | [#HORI7ONonTAG911Dubai](http://twitter.com/search?q=%23HORI7ONonTAG911Dubai) | N/A |
-| 12 | [READY TO BE MESMERIZED](http://twitter.com/search?q=READY+TO+BE+MESMERIZED) | N/A |
-| 13 | [Tag Along HORI7ON](http://twitter.com/search?q=Tag+Along+HORI7ON) | N/A |
-| 14 | [NASA BPI NA ANG LAHAT](http://twitter.com/search?q=NASA+BPI+NA+ANG+LAHAT) | N/A |
-| 15 | [#DanielPadillaBPITVC](http://twitter.com/search?q=%23DanielPadillaBPITVC) | N/A |
-| 16 | [Morente](http://twitter.com/search?q=Morente) | N/A |
-| 17 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 18 | [SUGA](http://twitter.com/search?q=SUGA) | N/A |
-| 19 | [TWICExBILLBOARD MAGAZINE](http://twitter.com/search?q=TWICExBILLBOARD+MAGAZINE) | N/A |
-| 20 | [Arado](http://twitter.com/search?q=Arado) | N/A |
-| 21 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
-| 22 | [EDSA People Power Revolution](http://twitter.com/search?q=EDSA+People+Power+Revolution) | N/A |
-| 23 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
-| 24 | [KIM JONGIN](http://twitter.com/search?q=KIM+JONGIN) | N/A |
-| 25 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
-| 26 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
-| 27 | [Proclamation No. 167](http://twitter.com/search?q=Proclamation+No.+167) | N/A |
-| 28 | [MATAPANG NA BUKAS VIVOREE](http://twitter.com/search?q=MATAPANG+NA+BUKAS+VIVOREE) | N/A |
-| 29 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 30 | [Mika Reyes](http://twitter.com/search?q=Mika+Reyes) | N/A |
-| 31 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 32 | [WALANG PASOK BUKAS](http://twitter.com/search?q=WALANG+PASOK+BUKAS) | N/A |
-| 33 | [ollie](http://twitter.com/search?q=ollie) | N/A |
-| 34 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
-| 35 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 36 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 37 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 38 | [nang](http://twitter.com/search?q=nang) | N/A |
-| 39 | [joonie](http://twitter.com/search?q=joonie) | N/A |
-| 40 | [Josh Cullen](http://twitter.com/search?q=Josh+Cullen) | N/A |
-| 41 | [EXO IS BACK](http://twitter.com/search?q=EXO+IS+BACK) | N/A |
-| 42 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 43 | [Jinhwan](http://twitter.com/search?q=Jinhwan) | N/A |
-| 44 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
-| 45 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 46 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
-| 47 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 48 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 49 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 50 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 8 | [#HORI7ONonTAG911Dubai](http://twitter.com/search?q=%23HORI7ONonTAG911Dubai) | N/A |
+| 9 | [Congrats PLDT](http://twitter.com/search?q=Congrats+PLDT) | N/A |
+| 10 | [#MCIMgaAralAtPangarap](http://twitter.com/search?q=%23MCIMgaAralAtPangarap) | N/A |
+| 11 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 12 | [Tag Along HORI7ON](http://twitter.com/search?q=Tag+Along+HORI7ON) | N/A |
+| 13 | [#TWICE_ConceptPhotoD3](http://twitter.com/search?q=%23TWICE_ConceptPhotoD3) | N/A |
+| 14 | [READY TO BE MESMERIZED](http://twitter.com/search?q=READY+TO+BE+MESMERIZED) | N/A |
+| 15 | [NASA BPI NA ANG LAHAT](http://twitter.com/search?q=NASA+BPI+NA+ANG+LAHAT) | N/A |
+| 16 | [SUGA](http://twitter.com/search?q=SUGA) | N/A |
+| 17 | [Morente](http://twitter.com/search?q=Morente) | N/A |
+| 18 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 19 | [KIM JONGIN](http://twitter.com/search?q=KIM+JONGIN) | N/A |
+| 20 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 21 | [TWICExBILLBOARD MAGAZINE](http://twitter.com/search?q=TWICExBILLBOARD+MAGAZINE) | N/A |
+| 22 | [Arado](http://twitter.com/search?q=Arado) | N/A |
+| 23 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 24 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 25 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 27 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 28 | [Mendrez](http://twitter.com/search?q=Mendrez) | N/A |
+| 29 | [Momo](http://twitter.com/search?q=Momo) | Momo is a Japanese word that means "peach". It is also used as a nickname for someone who is cute or has a peachy complexion. |
+| 30 | [Proclamation No. 167](http://twitter.com/search?q=Proclamation+No.+167) | N/A |
+| 31 | [EDSA People Power Revolution](http://twitter.com/search?q=EDSA+People+Power+Revolution) | N/A |
+| 32 | [joonie](http://twitter.com/search?q=joonie) | N/A |
+| 33 | [zendaya](http://twitter.com/search?q=zendaya) | Zendaya is a female given name of African-American origin, derived from the Shona language of Zimbabwe. It means "to give thanks" or "to be thankful". |
+| 34 | [mika reyes](http://twitter.com/search?q=mika+reyes) | N/A |
+| 35 | [WALANG PASOK BUKAS](http://twitter.com/search?q=WALANG+PASOK+BUKAS) | N/A |
+| 36 | [ollie](http://twitter.com/search?q=ollie) | N/A |
+| 37 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 38 | [MATAPANG NA BUKAS VIVOREE](http://twitter.com/search?q=MATAPANG+NA+BUKAS+VIVOREE) | N/A |
+| 39 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 40 | [park hanbin](http://twitter.com/search?q=park+hanbin) | N/A |
+| 41 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 42 | [Nang](http://twitter.com/search?q=Nang) | N/A |
+| 43 | [LEE HAECHAN](http://twitter.com/search?q=LEE+HAECHAN) | Lee Haechan is the stage name of Lee Dong-hyuk, a South Korean singer and member of the K-pop boy group NCT. The name "Haechan" is derived from the Korean word for "shining star." |
+| 44 | [Urduja](http://twitter.com/search?q=Urduja) | N/A |
+| 45 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 46 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 47 | [Jinhwan](http://twitter.com/search?q=Jinhwan) | N/A |
+| 48 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
+| 49 | [Mcountdown](http://twitter.com/search?q=Mcountdown) | N/A |
+| 50 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
 
 
 

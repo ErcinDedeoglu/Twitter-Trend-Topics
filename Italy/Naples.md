@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-02-23 15:16:40 UTC`
+📆 Last Updated: `2023-02-23 16:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,39 +15,42 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 2 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
-| 3 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
-| 4 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 1 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 2 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
+| 3 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
+| 4 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
 | 5 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 6 | [#annalisasavino](http://twitter.com/search?q=%23annalisasavino) | N/A |
-| 7 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 8 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 9 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
-| 10 | [Sebastiano](http://twitter.com/search?q=Sebastiano) | N/A |
-| 11 | [Dirigente](http://twitter.com/search?q=Dirigente) | N/A |
-| 12 | [Il Ministro](http://twitter.com/search?q=Il+Ministro) | N/A |
-| 13 | [Tito](http://twitter.com/search?q=Tito) | N/A |
-| 14 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
-| 15 | [gramsci](http://twitter.com/search?q=gramsci) | N/A |
-| 16 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 17 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 18 | [#fascismo](http://twitter.com/search?q=%23fascismo) | N/A |
-| 19 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 20 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
-| 21 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 22 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 23 | [#OuterBanks](http://twitter.com/search?q=%23OuterBanks) | N/A |
-| 24 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
-| 25 | [#liceomichelangiolo](http://twitter.com/search?q=%23liceomichelangiolo) | N/A |
-| 26 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
-| 27 | [#Mandragora](http://twitter.com/search?q=%23Mandragora) | N/A |
-| 28 | [#scuola](http://twitter.com/search?q=%23scuola) | N/A |
-| 29 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
-| 30 | [#spid](http://twitter.com/search?q=%23spid) | N/A |
-| 31 | [#NantesJuve](http://twitter.com/search?q=%23NantesJuve) | N/A |
-| 32 | [#RomaSalisburgo](http://twitter.com/search?q=%23RomaSalisburgo) | N/A |
-| 33 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 6 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 7 | [#annalisasavino](http://twitter.com/search?q=%23annalisasavino) | N/A |
+| 8 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 9 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 10 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 11 | [#fascismo](http://twitter.com/search?q=%23fascismo) | N/A |
+| 12 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 13 | [Il Ministro](http://twitter.com/search?q=Il+Ministro) | N/A |
+| 14 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 15 | [Tito](http://twitter.com/search?q=Tito) | N/A |
+| 16 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 17 | [Mandragora](http://twitter.com/search?q=Mandragora) | N/A |
+| 18 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 19 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 20 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 21 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 22 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
+| 23 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
+| 24 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 25 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
+| 26 | [#OuterBanks](http://twitter.com/search?q=%23OuterBanks) | N/A |
+| 27 | [#AzioneStudentesca](http://twitter.com/search?q=%23AzioneStudentesca) | N/A |
+| 28 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
+| 29 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
+| 30 | [#liceomichelangiolo](http://twitter.com/search?q=%23liceomichelangiolo) | N/A |
+| 31 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
+| 32 | [#NantesJuve](http://twitter.com/search?q=%23NantesJuve) | N/A |
+| 33 | [#SPID](http://twitter.com/search?q=%23SPID) | N/A |
+| 34 | [#scuola](http://twitter.com/search?q=%23scuola) | N/A |
+| 35 | [#RomaSalisburgo](http://twitter.com/search?q=%23RomaSalisburgo) | N/A |
+| 36 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
 
 
 
