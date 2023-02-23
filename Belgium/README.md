@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-23 02:40:46 UTC`
+📆 Last Updated: `2023-02-23 03:20:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Belgium
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LiverpoolRealMadrid](http://twitter.com/search?q=%23LiverpoolRealMadrid) | N/A |
-| 2 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 2 | [#LivRma](http://twitter.com/search?q=%23LivRma) | N/A |
 | 3 | [#InterPorto](http://twitter.com/search?q=%23InterPorto) | N/A |
 | 4 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 5 | [Stéphane](http://twitter.com/search?q=St%c3%a9phane) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for Belgium
 | 26 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
 | 27 | [Humo](http://twitter.com/search?q=Humo) | N/A |
 | 28 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 29 | [Kucam](http://twitter.com/search?q=Kucam) | N/A |
-| 30 | [UNIA](http://twitter.com/search?q=UNIA) | N/A |
+| 29 | [kucam](http://twitter.com/search?q=kucam) | N/A |
+| 30 | [Unia](http://twitter.com/search?q=Unia) | N/A |
 | 31 | [Engie](http://twitter.com/search?q=Engie) | N/A |
 | 32 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
 | 33 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 34 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
 | 35 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 36 | [herman brusselmans](http://twitter.com/search?q=herman+brusselmans) | N/A |
-| 37 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
-| 38 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 39 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 40 | [jeff hoeyberghs](http://twitter.com/search?q=jeff+hoeyberghs) | N/A |
-| 41 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 42 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
-| 43 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 36 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
+| 37 | [herman brusselmans](http://twitter.com/search?q=herman+brusselmans) | N/A |
+| 38 | [Roman](http://twitter.com/search?q=Roman) | Roman is an adjective used to describe something related to the ancient Roman civilization, culture, or language. It can also refer to the Latin alphabet used in the Roman Empire. |
+| 39 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
+| 40 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 41 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 42 | [jeff hoeyberghs](http://twitter.com/search?q=jeff+hoeyberghs) | N/A |
+| 43 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 44 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 45 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
 | 46 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
 | 47 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 48 | [Noordzee](http://twitter.com/search?q=Noordzee) | N/A |
 | 49 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 50 | [Russen](http://twitter.com/search?q=Russen) | N/A |
+| 50 | [Morocco](http://twitter.com/search?q=Morocco) | N/A |
 
 
 

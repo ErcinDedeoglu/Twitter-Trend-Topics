@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Baton Rouge
 
-📆 Last Updated: `2023-02-23 02:40:37 UTC`
+📆 Last Updated: `2023-02-23 03:20:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 3 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 4 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
-| 5 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 6 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
-| 7 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
-| 8 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 9 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 10 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 11 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
-| 12 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 13 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
-| 14 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 15 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 16 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
-| 17 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
-| 18 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
-| 19 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 20 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 21 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 22 | [Pastor Cal](http://twitter.com/search?q=Pastor+Cal) | N/A |
-| 23 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 24 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 25 | [Gina](http://twitter.com/search?q=Gina) | N/A |
-| 26 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
-| 27 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
-| 28 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 29 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
-| 30 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
-| 31 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
-| 32 | [THEY KISSED](http://twitter.com/search?q=THEY+KISSED) | N/A |
-| 33 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 1 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 2 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 3 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 4 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 5 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 6 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 7 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 8 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 9 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 10 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 11 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 12 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 13 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
+| 14 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 15 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 16 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 17 | [AEW All Access](http://twitter.com/search?q=AEW+All+Access) | N/A |
+| 18 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
+| 19 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
+| 20 | [Power Slap](http://twitter.com/search?q=Power+Slap) | Power Slap is a term used to describe a strong, forceful slap or hit. It is usually used to express anger or disapproval, and can be physical or verbal. |
+| 21 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 22 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
+| 23 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 24 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
+| 25 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 26 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
+| 27 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
+| 28 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 29 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
+| 30 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 31 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
+| 32 | [Pastor Cal](http://twitter.com/search?q=Pastor+Cal) | N/A |
+| 33 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
 | 34 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
-| 35 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 36 | [Debbie Gibson](http://twitter.com/search?q=Debbie+Gibson) | N/A |
-| 37 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
-| 38 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 39 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
-| 40 | [The Acclaimed](http://twitter.com/search?q=The+Acclaimed) | The Acclaimed is an expression used to describe something or someone that has been widely praised and admired. It is often used to refer to works of art, literature, music, or films that have received critical acclaim and public recognition. |
-| 41 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 42 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 43 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
-| 44 | [Cason](http://twitter.com/search?q=Cason) | N/A |
-| 45 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
-| 46 | [Airris](http://twitter.com/search?q=Airris) | N/A |
-| 47 | [Revolution](http://twitter.com/search?q=Revolution) | N/A |
-| 48 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
-| 49 | [Howie Mandel](http://twitter.com/search?q=Howie+Mandel) | N/A |
+| 35 | [Best Friends](http://twitter.com/search?q=Best+Friends) | N/A |
+| 36 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
+| 37 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 38 | [Revolution](http://twitter.com/search?q=Revolution) | N/A |
+| 39 | [GG Jackson](http://twitter.com/search?q=GG+Jackson) | N/A |
+| 40 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
+| 41 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 42 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
+| 43 | [THEY KISSED](http://twitter.com/search?q=THEY+KISSED) | N/A |
+| 44 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 45 | [Ritter](http://twitter.com/search?q=Ritter) | N/A |
+| 46 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 47 | [Debbie Gibson](http://twitter.com/search?q=Debbie+Gibson) | N/A |
+| 48 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 49 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
 
 
 
