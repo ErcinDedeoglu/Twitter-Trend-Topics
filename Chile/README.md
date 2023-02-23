@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-02-23 07:16:44 UTC`
+📆 Last Updated: `2023-02-23 08:17:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for Chile
 | 12 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
 | 13 | [Mallorca](http://twitter.com/search?q=Mallorca) | Mallorca is an island located in the Mediterranean Sea off the coast of Spain. It is the largest of the Balearic Islands and is a popular tourist destination known for its beaches, resorts, and culture. In English, Mallorca means "Majorca". |
 | 14 | [Colina 1](http://twitter.com/search?q=Colina+1) | N/A |
-| 15 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
-| 16 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
+| 15 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
+| 16 | [Conejos](http://twitter.com/search?q=Conejos) | N/A |
 | 17 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 18 | [Conejos](http://twitter.com/search?q=Conejos) | N/A |
-| 19 | [Milad](http://twitter.com/search?q=Milad) | N/A |
-| 20 | [Letelier](http://twitter.com/search?q=Letelier) | N/A |
-| 21 | [Alejandra Valle](http://twitter.com/search?q=Alejandra+Valle) | N/A |
-| 22 | [Meruane](http://twitter.com/search?q=Meruane) | N/A |
-| 23 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
-| 24 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 25 | [Charly](http://twitter.com/search?q=Charly) | N/A |
-| 26 | [Carlos Montes](http://twitter.com/search?q=Carlos+Montes) | N/A |
-| 27 | [mira niñita](http://twitter.com/search?q=mira+ni%c3%b1ita) | N/A |
-| 28 | [la conquistada](http://twitter.com/search?q=la+conquistada) | N/A |
-| 29 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 30 | [claudio parra](http://twitter.com/search?q=claudio+parra) | N/A |
-| 31 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
-| 32 | [Morandé](http://twitter.com/search?q=Morand%c3%a9) | N/A |
-| 33 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
-| 34 | [circo beat](http://twitter.com/search?q=circo+beat) | N/A |
-| 35 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 36 | [Copano](http://twitter.com/search?q=Copano) | N/A |
-| 37 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
-| 38 | [Gonzalo Barrera](http://twitter.com/search?q=Gonzalo+Barrera) | N/A |
-| 39 | [ale valle](http://twitter.com/search?q=ale+valle) | N/A |
-| 40 | [tarka](http://twitter.com/search?q=tarka) | N/A |
-| 41 | [CONSENTIMIENTO](http://twitter.com/search?q=CONSENTIMIENTO) | N/A |
-| 42 | [tumbas de la gloria](http://twitter.com/search?q=tumbas+de+la+gloria) | N/A |
-| 43 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 44 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 45 | [Spinetta](http://twitter.com/search?q=Spinetta) | N/A |
-| 46 | [Cerati](http://twitter.com/search?q=Cerati) | N/A |
-| 47 | [mario mutis](http://twitter.com/search?q=mario+mutis) | N/A |
-| 48 | [Giros](http://twitter.com/search?q=Giros) | N/A |
-| 49 | [Rubia Soares](http://twitter.com/search?q=Rubia+Soares) | N/A |
-| 50 | [Guarello](http://twitter.com/search?q=Guarello) | N/A |
+| 18 | [Milad](http://twitter.com/search?q=Milad) | N/A |
+| 19 | [Letelier](http://twitter.com/search?q=Letelier) | N/A |
+| 20 | [Alejandra Valle](http://twitter.com/search?q=Alejandra+Valle) | N/A |
+| 21 | [Meruane](http://twitter.com/search?q=Meruane) | N/A |
+| 22 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 23 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 24 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
+| 25 | [mira niñita](http://twitter.com/search?q=mira+ni%c3%b1ita) | N/A |
+| 26 | [la conquistada](http://twitter.com/search?q=la+conquistada) | N/A |
+| 27 | [claudio parra](http://twitter.com/search?q=claudio+parra) | N/A |
+| 28 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 29 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
+| 30 | [Morandé](http://twitter.com/search?q=Morand%c3%a9) | N/A |
+| 31 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
+| 32 | [circo beat](http://twitter.com/search?q=circo+beat) | N/A |
+| 33 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 34 | [Copano](http://twitter.com/search?q=Copano) | N/A |
+| 35 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
+| 36 | [Gonzalo Barrera](http://twitter.com/search?q=Gonzalo+Barrera) | N/A |
+| 37 | [tarka](http://twitter.com/search?q=tarka) | N/A |
+| 38 | [CONSENTIMIENTO](http://twitter.com/search?q=CONSENTIMIENTO) | N/A |
+| 39 | [tumbas de la gloria](http://twitter.com/search?q=tumbas+de+la+gloria) | N/A |
+| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 41 | [Spinetta](http://twitter.com/search?q=Spinetta) | N/A |
+| 42 | [Cerati](http://twitter.com/search?q=Cerati) | N/A |
+| 43 | [mario mutis](http://twitter.com/search?q=mario+mutis) | N/A |
+| 44 | [Giros](http://twitter.com/search?q=Giros) | N/A |
+| 45 | [Rubia Soares](http://twitter.com/search?q=Rubia+Soares) | N/A |
+| 46 | [Guarello](http://twitter.com/search?q=Guarello) | N/A |
+| 47 | [Carlos Montes](http://twitter.com/search?q=Carlos+Montes) | N/A |
+| 48 | [lali](http://twitter.com/search?q=lali) | N/A |
+| 49 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 50 | [Chistoso](http://twitter.com/search?q=Chistoso) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-23 07:16:49 UTC`
+📆 Last Updated: `2023-02-23 08:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for Pakistan
 | 6 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
 | 7 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
 | 8 | [Javed Akhtar](http://twitter.com/search?q=Javed+Akhtar) | N/A |
-| 9 | [Prime Minister Shahbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shahbaz+Sharif) | N/A |
-| 10 | [Abbas](http://twitter.com/search?q=Abbas) | N/A |
-| 11 | [what a match](http://twitter.com/search?q=what+a+match) | N/A |
-| 12 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
-| 13 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
-| 14 | [What a Game](http://twitter.com/search?q=What+a+Game) | N/A |
-| 15 | [ilyas](http://twitter.com/search?q=ilyas) | N/A |
+| 9 | [Abbas](http://twitter.com/search?q=Abbas) | N/A |
+| 10 | [what a match](http://twitter.com/search?q=what+a+match) | N/A |
+| 11 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
+| 12 | [Shan Masood](http://twitter.com/search?q=Shan+Masood) | Shan Masood is an Arabic name meaning "beautiful". It is also a popular name in Pakistan. |
+| 13 | [What a Game](http://twitter.com/search?q=What+a+Game) | N/A |
+| 14 | [ilyas](http://twitter.com/search?q=ilyas) | N/A |
+| 15 | [Lakki Marwat](http://twitter.com/search?q=Lakki+Marwat) | N/A |
 | 16 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
-| 17 | [Cutting](http://twitter.com/search?q=Cutting) | N/A |
-| 18 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 19 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 20 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 21 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 22 | [Kashmiri](http://twitter.com/search?q=Kashmiri) | N/A |
-| 23 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 24 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 25 | [Ameer e Azeemat Haq Nawaz](http://twitter.com/search?q=Ameer+e+Azeemat+Haq+Nawaz) | N/A |
-| 26 | [Haq Nawaz Jhangvi](http://twitter.com/search?q=Haq+Nawaz+Jhangvi) | N/A |
-| 27 | [Arts](http://twitter.com/search?q=Arts) | N/A |
-| 28 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
-| 29 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 30 | [Alhamra](http://twitter.com/search?q=Alhamra) | N/A |
-| 31 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
-| 32 | [Adeel Hashmi](http://twitter.com/search?q=Adeel+Hashmi) | N/A |
-| 33 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
-| 34 | [waqar](http://twitter.com/search?q=waqar) | N/A |
-| 35 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
-| 36 | [Hindus](http://twitter.com/search?q=Hindus) | N/A |
-| 37 | [Yaar](http://twitter.com/search?q=Yaar) | N/A |
-| 38 | [Allah SWT](http://twitter.com/search?q=Allah+SWT) | N/A |
+| 17 | [Kashmiri](http://twitter.com/search?q=Kashmiri) | N/A |
+| 18 | [Cutting](http://twitter.com/search?q=Cutting) | N/A |
+| 19 | [Imad](http://twitter.com/search?q=Imad) | N/A |
+| 20 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 21 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
+| 22 | [Bench](http://twitter.com/search?q=Bench) | N/A |
+| 23 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 24 | [Ameer e Azeemat Haq Nawaz](http://twitter.com/search?q=Ameer+e+Azeemat+Haq+Nawaz) | N/A |
+| 25 | [Haq Nawaz Jhangvi](http://twitter.com/search?q=Haq+Nawaz+Jhangvi) | N/A |
+| 26 | [Arts](http://twitter.com/search?q=Arts) | N/A |
+| 27 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
+| 28 | [Alhamra](http://twitter.com/search?q=Alhamra) | N/A |
+| 29 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
+| 30 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 31 | [Suo Moto](http://twitter.com/search?q=Suo+Moto) | N/A |
+| 32 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 33 | [Adeel Hashmi](http://twitter.com/search?q=Adeel+Hashmi) | N/A |
+| 34 | [Gold Leaf](http://twitter.com/search?q=Gold+Leaf) | N/A |
+| 35 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 36 | [Delhi](http://twitter.com/search?q=Delhi) | N/A |
+| 37 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
+| 38 | [seokjin](http://twitter.com/search?q=seokjin) | Seokjin is a Korean name, derived from the Chinese characters for "stone" and "gold". It is usually given to boys and can mean "precious stone" or "strong and valuable". |
 | 39 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
-| 40 | [Motivational](http://twitter.com/search?q=Motivational) | N/A |
-| 41 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 42 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 43 | [Salam](http://twitter.com/search?q=Salam) | N/A |
-| 44 | [Haram](http://twitter.com/search?q=Haram) | N/A |
-| 45 | [Judiciary](http://twitter.com/search?q=Judiciary) | N/A |
-| 46 | [Good Job](http://twitter.com/search?q=Good+Job) | N/A |
-| 47 | [COAS](http://twitter.com/search?q=COAS) | N/A |
-| 48 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
-| 49 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 50 | [Zardari](http://twitter.com/search?q=Zardari) | N/A |
+| 40 | [COAS](http://twitter.com/search?q=COAS) | N/A |
+| 41 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
+| 42 | [Credit](http://twitter.com/search?q=Credit) | N/A |
+| 43 | [Sardar Khetran](http://twitter.com/search?q=Sardar+Khetran) | N/A |
+| 44 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 45 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
+| 46 | [Toshakhana](http://twitter.com/search?q=Toshakhana) | N/A |
+| 47 | [Haram](http://twitter.com/search?q=Haram) | N/A |
+| 48 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 49 | [Good Job](http://twitter.com/search?q=Good+Job) | N/A |
+| 50 | [Last Date](http://twitter.com/search?q=Last+Date) | N/A |
 
 
 

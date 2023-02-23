@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-23 07:16:04 UTC`
+📆 Last Updated: `2023-02-23 08:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Spain](</Spain>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BKPcComponentes](http://twitter.com/search?q=%23BKPcComponentes) | N/A |
-| 2 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 3 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 2 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 4 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 5 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
-| 6 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 7 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 8 | [Whopper](http://twitter.com/search?q=Whopper) | N/A |
-| 9 | [#APOYOROCIO23F](http://twitter.com/search?q=%23APOYOROCIO23F) | N/A |
-| 10 | [#Solos22F](http://twitter.com/search?q=%23Solos22F) | N/A |
-| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 12 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
+| 7 | [#DAZNF1](http://twitter.com/search?q=%23DAZNF1) | N/A |
+| 8 | [#APOYOROCIO23F](http://twitter.com/search?q=%23APOYOROCIO23F) | N/A |
+| 9 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 10 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 11 | [Drugovich](http://twitter.com/search?q=Drugovich) | N/A |
+| 12 | [Whopper](http://twitter.com/search?q=Whopper) | N/A |
 | 13 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 14 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 15 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 16 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
-| 17 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
-| 18 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 19 | [Antonio Machado](http://twitter.com/search?q=Antonio+Machado) | N/A |
-| 20 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
-| 21 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 22 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
-| 23 | [Tomás Díaz Ayuso](http://twitter.com/search?q=Tom%c3%a1s+D%c3%adaz+Ayuso) | N/A |
-| 24 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 25 | [23-F](http://twitter.com/search?q=23-F) | N/A |
-| 26 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
-| 27 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
-| 28 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 29 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 30 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 31 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
-| 32 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 33 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 34 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 35 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 36 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
-| 37 | [Fayna](http://twitter.com/search?q=Fayna) | N/A |
-| 38 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 39 | [ES HOY](http://twitter.com/search?q=ES+HOY) | N/A |
-| 40 | [Tendedero](http://twitter.com/search?q=Tendedero) | N/A |
-| 41 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
-| 42 | [Junts](http://twitter.com/search?q=Junts) | N/A |
-| 43 | [Miriam Nogueras](http://twitter.com/search?q=Miriam+Nogueras) | N/A |
-| 44 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 45 | [enhorabuena rita](http://twitter.com/search?q=enhorabuena+rita) | N/A |
-| 46 | [Signatio](http://twitter.com/search?q=Signatio) | N/A |
-| 47 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 48 | [Grammy Latinos](http://twitter.com/search?q=Grammy+Latinos) | N/A |
-| 49 | [Comprimidos](http://twitter.com/search?q=Comprimidos) | N/A |
-| 50 | [Susana](http://twitter.com/search?q=Susana) | N/A |
+| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 15 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 16 | [Ni 10](http://twitter.com/search?q=Ni+10) | N/A |
+| 17 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 18 | [23-F](http://twitter.com/search?q=23-F) | N/A |
+| 19 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 20 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 21 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
+| 22 | [Lc 9](http://twitter.com/search?q=Lc+9) | N/A |
+| 23 | [Estafador](http://twitter.com/search?q=Estafador) | N/A |
+| 24 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 25 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 26 | [Alpine](http://twitter.com/search?q=Alpine) | N/A |
+| 27 | [Antonio Machado](http://twitter.com/search?q=Antonio+Machado) | N/A |
+| 28 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 29 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 30 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 31 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
+| 32 | [San Policarpo](http://twitter.com/search?q=San+Policarpo) | N/A |
+| 33 | [Hoy 23](http://twitter.com/search?q=Hoy+23) | N/A |
+| 34 | [Tomás Díaz Ayuso](http://twitter.com/search?q=Tom%c3%a1s+D%c3%adaz+Ayuso) | N/A |
+| 35 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
+| 36 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 37 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 38 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 39 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 40 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 41 | [Tejero](http://twitter.com/search?q=Tejero) | N/A |
+| 42 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 43 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 44 | [Egun](http://twitter.com/search?q=Egun) | N/A |
+| 45 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 46 | [La Misión](http://twitter.com/search?q=La+Misi%c3%b3n) | N/A |
+| 47 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 48 | [ABBA](http://twitter.com/search?q=ABBA) | N/A |
+| 49 | [ES HOY ES HOY](http://twitter.com/search?q=ES+HOY+ES+HOY) | N/A |
+| 50 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riyadh
 
-📆 Last Updated: `2023-02-23 07:16:22 UTC`
+📆 Last Updated: `2023-02-23 08:17:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Saudi Arabia](</Saudi Arabia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 2 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
-| 3 | [#_اليوم](http://twitter.com/search?q=%23_%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
-| 4 | [#ثلاثه_قرون_من_العز_والفخر](http://twitter.com/search?q=%23%d8%ab%d9%84%d8%a7%d8%ab%d9%87_%d9%82%d8%b1%d9%88%d9%86_%d9%85%d9%86_%d8%a7%d9%84%d8%b9%d8%b2_%d9%88%d8%a7%d9%84%d9%81%d8%ae%d8%b1) | N/A |
-| 5 | [#صباح_الخير_والسعاده_للجميع](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1_%d9%88%d8%a7%d9%84%d8%b3%d8%b9%d8%a7%d8%af%d9%87_%d9%84%d9%84%d8%ac%d9%85%d9%8a%d8%b9) | N/A |
+| 2 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 3 | [#يوم_بدينا](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a8%d8%af%d9%8a%d9%86%d8%a7) | N/A |
+| 4 | [#_اليوم](http://twitter.com/search?q=%23_%d8%a7%d9%84%d9%8a%d9%88%d9%85) | N/A |
+| 5 | [#ثلاثه_قرون_من_العز_والفخر](http://twitter.com/search?q=%23%d8%ab%d9%84%d8%a7%d8%ab%d9%87_%d9%82%d8%b1%d9%88%d9%86_%d9%85%d9%86_%d8%a7%d9%84%d8%b9%d8%b2_%d9%88%d8%a7%d9%84%d9%81%d8%ae%d8%b1) | N/A |
 | 6 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
 | 7 | [محمد بن سعود](http://twitter.com/search?q=%d9%85%d8%ad%d9%85%d8%af+%d8%a8%d9%86+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
 | 8 | [ليفربول](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%b1%d8%a8%d9%88%d9%84) | ليفربول (pronounced lee-fer-boo-l) is the Arabic name for the English city of Liverpool. It is located in the northwest of England and is known for its football team, Liverpool FC. |
-| 9 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 10 | [اليوم الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 11 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 12 | [٢٢ فبراير](http://twitter.com/search?q=%d9%a2%d9%a2+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 13 | [ساره الودعاني](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%88%d8%af%d8%b9%d8%a7%d9%86%d9%8a) | N/A |
-| 14 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
-| 15 | [الشعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
-| 16 | [خادم الحرمين الشريفين](http://twitter.com/search?q=%d8%ae%d8%a7%d8%af%d9%85+%d8%a7%d9%84%d8%ad%d8%b1%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81%d9%8a%d9%86) | N/A |
-| 17 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
-| 18 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
-| 19 | [الوطن العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 20 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
-| 21 | [وطني الحبيب](http://twitter.com/search?q=%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
-| 22 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
+| 9 | [اليوم الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
+| 10 | [22 فبراير](http://twitter.com/search?q=22+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 11 | [٢٢ فبراير](http://twitter.com/search?q=%d9%a2%d9%a2+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 12 | [ساره الودعاني](http://twitter.com/search?q=%d8%b3%d8%a7%d8%b1%d9%87+%d8%a7%d9%84%d9%88%d8%af%d8%b9%d8%a7%d9%86%d9%8a) | N/A |
+| 13 | [كورتوا](http://twitter.com/search?q=%d9%83%d9%88%d8%b1%d8%aa%d9%88%d8%a7) | كورتوا is a type of traditional Iraqi dish made with bulgur wheat, onions, and spices. It is usually served with yogurt or tahini sauce. In English, it is known as Korto or Korto Pilaf. |
+| 14 | [الشعب السعودي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a) | N/A |
+| 15 | [خادم الحرمين الشريفين](http://twitter.com/search?q=%d8%ae%d8%a7%d8%af%d9%85+%d8%a7%d9%84%d8%ad%d8%b1%d9%85%d9%8a%d9%86+%d8%a7%d9%84%d8%b4%d8%b1%d9%8a%d9%81%d9%8a%d9%86) | N/A |
+| 16 | [سلمان بن عبدالعزيز](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d8%b9%d8%b2%d9%8a%d8%b2) | N/A |
+| 17 | [بورتو](http://twitter.com/search?q=%d8%a8%d9%88%d8%b1%d8%aa%d9%88) | N/A |
+| 18 | [الوطن العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 19 | [القياده الرشيده](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d8%a7%d8%af%d9%87+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af%d9%87) | N/A |
+| 20 | [وطني الحبيب](http://twitter.com/search?q=%d9%88%d8%b7%d9%86%d9%8a+%d8%a7%d9%84%d8%ad%d8%a8%d9%8a%d8%a8) | N/A |
+| 21 | [آل سعود](http://twitter.com/search?q=%d8%a2%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
+| 22 | [المنطقه الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
 | 23 | [الوطن الغالي](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d8%b7%d9%86+%d8%a7%d9%84%d8%ba%d8%a7%d9%84%d9%8a) | N/A |
-| 24 | [آل سعود](http://twitter.com/search?q=%d8%a2%d9%84+%d8%b3%d8%b9%d9%88%d8%af) | N/A |
-| 25 | [المنطقه الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%b7%d9%82%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
-| 26 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
-| 27 | [العقال المقصب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d9%82%d8%b5%d8%a8) | N/A |
-| 28 | [ادم علي](http://twitter.com/search?q=%d8%a7%d8%af%d9%85+%d8%b9%d9%84%d9%8a) | N/A |
-| 29 | [سما جاد](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7+%d8%ac%d8%a7%d8%af) | N/A |
-| 30 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
-| 31 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
-| 32 | [الدوله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 33 | [بلاد الحرمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d9%85%d9%8a%d9%86) | N/A |
-| 34 | [سلمان وولي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d9%88%d9%88%d9%84%d9%8a) | N/A |
+| 24 | [الليفر](http://twitter.com/search?q=%d8%a7%d9%84%d9%84%d9%8a%d9%81%d8%b1) | الليفر is a transliteration of the word "Liverpool" in Arabic. It is the name of a city in England, located on the eastern side of the Mersey Estuary. The city is known for its football team, Liverpool FC, which plays in the Premier League. |
+| 25 | [الريال](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d9%8a%d8%a7%d9%84) | الريال is the currency of Saudi Arabia. In English, it is known as the Saudi Riyal. |
+| 26 | [العقال المقصب](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d9%82%d8%a7%d9%84+%d8%a7%d9%84%d9%85%d9%82%d8%b5%d8%a8) | N/A |
+| 27 | [ادم علي](http://twitter.com/search?q=%d8%a7%d8%af%d9%85+%d8%b9%d9%84%d9%8a) | N/A |
+| 28 | [سما جاد](http://twitter.com/search?q=%d8%b3%d9%85%d8%a7+%d8%ac%d8%a7%d8%af) | N/A |
+| 29 | [صيام الخميس](http://twitter.com/search?q=%d8%b5%d9%8a%d8%a7%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
+| 30 | [اليوم الخميس](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | اليوم الخميس is Arabic for "Thursday" and it means "Thursday" in English. |
+| 31 | [الدوله المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 32 | [بلاد الحرمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d8%ad%d8%b1%d9%85%d9%8a%d9%86) | N/A |
+| 33 | [سلمان وولي](http://twitter.com/search?q=%d8%b3%d9%84%d9%85%d8%a7%d9%86+%d9%88%d9%88%d9%84%d9%8a) | N/A |
+| 34 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
 | 35 | [مودريتش](http://twitter.com/search?q=%d9%85%d9%88%d8%af%d8%b1%d9%8a%d8%aa%d8%b4) | مودريتش (Moderich) is a type of traditional Middle Eastern dance. It is a combination of traditional folk dances from various countries in the region, including Egypt, Lebanon, Syria, and Palestine. The dance is characterized by its fast-paced and energetic movements, as well as its use of props such as swords and canes. In English, the term "Moderich" translates to "dance of joy." |
-| 36 | [اليوم الاربعاء](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%a7%d8%b1%d8%a8%d8%b9%d8%a7%d8%a1) | اليوم الاربعاء is Arabic for "Wednesday" and it means "Wednesday" in English. |
-| 37 | [اليوم العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 38 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
-| 39 | [المناسبات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
-| 40 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
+| 36 | [المناسبات الوطنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b3%d8%a8%d8%a7%d8%aa+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a%d9%87) | N/A |
+| 37 | [بلاد المسلمين](http://twitter.com/search?q=%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d9%85%d9%8a%d9%86) | N/A |
+| 38 | [اليوم العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
+| 39 | [الايادي المرتعشه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%b9%d8%b4%d9%87) | N/A |
+| 40 | [الدوله العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
 | 41 | [البلد العظيم](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%af+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85) | N/A |
-| 42 | [الايادي المرتعشه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%8a%d8%a7%d8%af%d9%8a+%d8%a7%d9%84%d9%85%d8%b1%d8%aa%d8%b9%d8%b4%d9%87) | N/A |
-| 43 | [الدوله العظيمه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d9%84%d9%87+%d8%a7%d9%84%d8%b9%d8%b8%d9%8a%d9%85%d9%87) | N/A |
-| 44 | [يرجي الاتصال](http://twitter.com/search?q=%d9%8a%d8%b1%d8%ac%d9%8a+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84) | N/A |
+| 42 | [العبود](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%a8%d9%88%d8%af) | العبود is an Arabic word meaning "slave" or "servant". |
+| 43 | [يرجي الاتصال](http://twitter.com/search?q=%d9%8a%d8%b1%d8%ac%d9%8a+%d8%a7%d9%84%d8%a7%d8%aa%d8%b5%d8%a7%d9%84) | N/A |
+| 44 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
 | 45 | [Happy Saudi](http://twitter.com/search?q=Happy+Saudi) | N/A |
-| 46 | [كلوب](http://twitter.com/search?q=%d9%83%d9%84%d9%88%d8%a8) | كلوب (Klub) is an Arabic word meaning "club". It is used to refer to a social gathering or organization, such as a sports club, music club, or other type of organization. |
-| 47 | [لوكاكو](http://twitter.com/search?q=%d9%84%d9%88%d9%83%d8%a7%d9%83%d9%88) | لوكاكو is a type of traditional Moroccan pastry. It is made with layers of phyllo dough filled with a mixture of almond paste, sugar, and cinnamon. The name comes from the Arabic word for almond, luqmān. In English, it is sometimes referred to as an almond pastry or an almond cake. |
-| 48 | [عهد الامام](http://twitter.com/search?q=%d8%b9%d9%87%d8%af+%d8%a7%d9%84%d8%a7%d9%85%d8%a7%d9%85) | N/A |
-| 49 | [العضله الضامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b6%d9%84%d9%87+%d8%a7%d9%84%d8%b6%d8%a7%d9%85%d9%87) | N/A |
-| 50 | [البلاد المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 46 | [العضله الضامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b6%d9%84%d9%87+%d8%a7%d9%84%d8%b6%d8%a7%d9%85%d9%87) | N/A |
+| 47 | [سيدي ولي العهد](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%8a+%d9%88%d9%84%d9%8a+%d8%a7%d9%84%d8%b9%d9%87%d8%af) | N/A |
+| 48 | [الانتر](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%86%d8%aa%d8%b1) | الانتر is an Arabic word that means "internet". In English, it is translated as "the internet". |
+| 49 | [البلاد المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d9%84%d8%a7%d8%af+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 50 | [حجر الاساس](http://twitter.com/search?q=%d8%ad%d8%ac%d8%b1+%d8%a7%d9%84%d8%a7%d8%b3%d8%a7%d8%b3) | N/A |
 
 
 

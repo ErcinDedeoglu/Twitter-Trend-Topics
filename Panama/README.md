@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Panama
 
-📆 Last Updated: `2023-02-23 07:16:49 UTC`
+📆 Last Updated: `2023-02-23 08:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,7 +19,7 @@ This is top 50 for Panama
 | 2 | [Honduras](http://twitter.com/search?q=Honduras) | N/A |
 | 3 | [City Mall](http://twitter.com/search?q=City+Mall) | N/A |
 | 4 | [Paraguay](http://twitter.com/search?q=Paraguay) | Paraguay is a landlocked country in South America, bordered by Argentina, Brazil, and Bolivia. Its name is derived from the Guarani language and means “river of the great plain”. It is known for its rich cultural heritage, including its traditional music and dance styles. |
-| 5 | [lineth cedeño](http://twitter.com/search?q=lineth+cede%c3%b1o) | N/A |
+| 5 | [Lineth Cedeño](http://twitter.com/search?q=Lineth+Cede%c3%b1o) | N/A |
 | 6 | [Mundial Femenino](http://twitter.com/search?q=Mundial+Femenino) | N/A |
 | 7 | [#FIFAWWC](http://twitter.com/search?q=%23FIFAWWC) | N/A |
 | 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
@@ -30,7 +30,7 @@ This is top 50 for Panama
 | 13 | [Laguna](http://twitter.com/search?q=Laguna) | N/A |
 | 14 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
 | 15 | [RETÍRATE DE MI PRESENCIA](http://twitter.com/search?q=RET%c3%8dRATE+DE+MI+PRESENCIA) | N/A |
-| 16 | [VAMOS AL MUNDIAL](http://twitter.com/search?q=VAMOS+AL+MUNDIAL) | N/A |
+| 16 | [vamos al mundial](http://twitter.com/search?q=vamos+al+mundial) | N/A |
 | 17 | [Vista Hermosa](http://twitter.com/search?q=Vista+Hermosa) | N/A |
 | 18 | [Reebok](http://twitter.com/search?q=Reebok) | N/A |
 | 19 | [Profesor](http://twitter.com/search?q=Profesor) | N/A |
@@ -45,10 +45,10 @@ This is top 50 for Panama
 | 28 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
 | 29 | [topón](http://twitter.com/search?q=top%c3%b3n) | N/A |
 | 30 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 31 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
-| 32 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 33 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
-| 34 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
+| 31 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 32 | [Hala Madrid](http://twitter.com/search?q=Hala+Madrid) | N/A |
+| 33 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 34 | [Napoli](http://twitter.com/search?q=Napoli) | Napoli is the Italian name for the city of Naples, located in southern Italy. It is the capital of the Campania region and one of the largest cities in Italy. The English translation of Napoli is Naples. |
 | 35 | [Correcto](http://twitter.com/search?q=Correcto) | N/A |
 | 36 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
 | 37 | [#inversióndevías](http://twitter.com/search?q=%23inversi%c3%b3ndev%c3%adas) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for Panama
 | 40 | [Cerro Patacón](http://twitter.com/search?q=Cerro+Patac%c3%b3n) | N/A |
 | 41 | [Xuxa](http://twitter.com/search?q=Xuxa) | N/A |
 | 42 | [Italia](http://twitter.com/search?q=Italia) | N/A |
-| 43 | [Chiriqui](http://twitter.com/search?q=Chiriqui) | N/A |
+| 43 | [chiriqui](http://twitter.com/search?q=chiriqui) | N/A |
 | 44 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
 | 45 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
 | 46 | [joel gaitán](http://twitter.com/search?q=joel+gait%c3%a1n) | N/A |

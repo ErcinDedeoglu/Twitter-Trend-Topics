@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-02-23 07:16:28 UTC`
+📆 Last Updated: `2023-02-23 08:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 2 | [#MrsChatterjeeVsNorway](http://twitter.com/search?q=%23MrsChatterjeeVsNorway) | N/A |
-| 3 | [#EdappadiPalaniswami](http://twitter.com/search?q=%23EdappadiPalaniswami) | N/A |
-| 4 | [#FasGayeAapKeJasoos](http://twitter.com/search?q=%23FasGayeAapKeJasoos) | N/A |
-| 5 | [#AIADMK](http://twitter.com/search?q=%23AIADMK) | N/A |
-| 6 | [गाडगे महाराज](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%a1%e0%a4%97%e0%a5%87+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
-| 7 | [Chargesheet Overdue In SSRcase](http://twitter.com/search?q=Chargesheet+Overdue+In+SSRcase) | N/A |
-| 8 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
-| 9 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 10 | [David Warner](http://twitter.com/search?q=David+Warner) | N/A |
-| 11 | [Check Facts](http://twitter.com/search?q=Check+Facts) | N/A |
-| 12 | [Base Of Imprisonment](http://twitter.com/search?q=Base+Of+Imprisonment) | N/A |
-| 13 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
-| 14 | [Raipur](http://twitter.com/search?q=Raipur) | N/A |
-| 15 | [अमृतलाल नागर](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%a8%e0%a4%be%e0%a4%97%e0%a4%b0) | N/A |
-| 16 | [निरंकारी मिशन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a4%a8) | N/A |
-| 17 | [Football - Lionel Messi](http://twitter.com/search?q=Football+-+Lionel+Messi) | N/A |
-| 18 | [Mayank](http://twitter.com/search?q=Mayank) | Mayank is a Hindu name of Indian origin. It is derived from the Sanskrit word 'Maya', which means "illusion". The name is often used to refer to Lord Vishnu, who is believed to be the creator of the universe and its illusions. In English, Mayank can be translated to mean "illusionist". |
-| 19 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
-| 20 | [स्टैंडिंग कमेटी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%88%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%82%e0%a4%97+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
-| 21 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
-| 22 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 23 | [रेखा गुप्ता](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%96%e0%a4%be+%e0%a4%97%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%a4%e0%a4%be) | N/A |
-| 24 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
-| 25 | [#AidenMarkram](http://twitter.com/search?q=%23AidenMarkram) | N/A |
-| 26 | [#बधाई_हो_उम्मेदसिंह_ढुल](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%a7%e0%a4%be%e0%a4%88_%e0%a4%b9%e0%a5%8b_%e0%a4%89%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%87%e0%a4%a6%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9_%e0%a4%a2%e0%a5%81%e0%a4%b2) | N/A |
-| 27 | [#SunrisersHyderabad](http://twitter.com/search?q=%23SunrisersHyderabad) | N/A |
-| 28 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 29 | [#GreenGrowth](http://twitter.com/search?q=%23GreenGrowth) | N/A |
-| 30 | [#எடப்பாடியார்](http://twitter.com/search?q=%23%e0%ae%8e%e0%ae%9f%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%be%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%b0%e0%af%8d) | N/A |
-| 31 | [#Tajikistan](http://twitter.com/search?q=%23Tajikistan) | N/A |
-| 32 | [#KeyToBeHappy](http://twitter.com/search?q=%23KeyToBeHappy) | N/A |
-| 33 | [#RaniMukerji](http://twitter.com/search?q=%23RaniMukerji) | N/A |
-| 34 | [#बागेश्वर_धाम_झूठ_का_अड्डा](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0_%e0%a4%a7%e0%a4%be%e0%a4%ae_%e0%a4%9d%e0%a5%82%e0%a4%a0_%e0%a4%95%e0%a4%be_%e0%a4%85%e0%a4%a1%e0%a5%8d%e0%a4%a1%e0%a4%be) | N/A |
-| 35 | [#PanchamahabhutaLokotsava](http://twitter.com/search?q=%23PanchamahabhutaLokotsava) | N/A |
-| 36 | [#VaaVaathi](http://twitter.com/search?q=%23VaaVaathi) | N/A |
-| 37 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 38 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 39 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 40 | [#अहमदाबाद_केस](http://twitter.com/search?q=%23%e0%a4%85%e0%a4%b9%e0%a4%ae%e0%a4%a6%e0%a4%be%e0%a4%ac%e0%a4%be%e0%a4%a6_%e0%a4%95%e0%a5%87%e0%a4%b8) | N/A |
-| 41 | [#DelhiMCD](http://twitter.com/search?q=%23DelhiMCD) | N/A |
-| 42 | [#OrangeArmy](http://twitter.com/search?q=%23OrangeArmy) | N/A |
-| 43 | [#AbbaiKilledBabai](http://twitter.com/search?q=%23AbbaiKilledBabai) | N/A |
-| 44 | [#CRKesavan](http://twitter.com/search?q=%23CRKesavan) | N/A |
-| 45 | [#GadgeMaharaj](http://twitter.com/search?q=%23GadgeMaharaj) | N/A |
-| 46 | [#அதிமுக](http://twitter.com/search?q=%23%e0%ae%85%e0%ae%a4%e0%ae%bf%e0%ae%ae%e0%af%81%e0%ae%95) | N/A |
-| 47 | [#Pawan_Khera](http://twitter.com/search?q=%23Pawan_Khera) | N/A |
-| 48 | [#BillGates](http://twitter.com/search?q=%23BillGates) | N/A |
-| 49 | [#OPanneerselvam](http://twitter.com/search?q=%23OPanneerselvam) | N/A |
+| 2 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
+| 3 | [असम पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 4 | [#MrsChatterjeeVsNorway](http://twitter.com/search?q=%23MrsChatterjeeVsNorway) | N/A |
+| 5 | [#ProjectSURAKSHAbyHimalaya](http://twitter.com/search?q=%23ProjectSURAKSHAbyHimalaya) | N/A |
+| 6 | [#Pawan_Khera](http://twitter.com/search?q=%23Pawan_Khera) | N/A |
+| 7 | [#EdappadiPalaniswami](http://twitter.com/search?q=%23EdappadiPalaniswami) | N/A |
+| 8 | [दिल्ली पुलिस](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a5%80+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 9 | [गाडगे महाराज](http://twitter.com/search?q=%e0%a4%97%e0%a4%be%e0%a4%a1%e0%a4%97%e0%a5%87+%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 10 | [Assam Police](http://twitter.com/search?q=Assam+Police) | N/A |
+| 11 | [Raipur](http://twitter.com/search?q=Raipur) | N/A |
+| 12 | [Chargesheet Overdue In SSRcase](http://twitter.com/search?q=Chargesheet+Overdue+In+SSRcase) | N/A |
+| 13 | [महान समाज](http://twitter.com/search?q=%e0%a4%ae%e0%a4%b9%e0%a4%be%e0%a4%a8+%e0%a4%b8%e0%a4%ae%e0%a4%be%e0%a4%9c) | N/A |
+| 14 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 15 | [David Warner](http://twitter.com/search?q=David+Warner) | N/A |
+| 16 | [Check Facts](http://twitter.com/search?q=Check+Facts) | N/A |
+| 17 | [पवन खेरा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%b0%e0%a4%be) | N/A |
+| 18 | [Base Of Imprisonment](http://twitter.com/search?q=Base+Of+Imprisonment) | N/A |
+| 19 | [निरंकारी मिशन](http://twitter.com/search?q=%e0%a4%a8%e0%a4%bf%e0%a4%b0%e0%a4%82%e0%a4%95%e0%a4%be%e0%a4%b0%e0%a5%80+%e0%a4%ae%e0%a4%bf%e0%a4%b6%e0%a4%a8) | N/A |
+| 20 | [शिक्षा विभाग](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%b5%e0%a4%bf%e0%a4%ad%e0%a4%be%e0%a4%97) | N/A |
+| 21 | [IPL 2023](http://twitter.com/search?q=IPL+2023) | N/A |
+| 22 | [श्री हरि](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a4%bf) | N/A |
+| 23 | [Zubair](http://twitter.com/search?q=Zubair) | N/A |
+| 24 | [राजस्थान पुलिस](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a4%b8%e0%a5%8d%e0%a4%a5%e0%a4%be%e0%a4%a8+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 25 | [Football - Lionel Messi](http://twitter.com/search?q=Football+-+Lionel+Messi) | N/A |
+| 26 | [नमो नारायण](http://twitter.com/search?q=%e0%a4%a8%e0%a4%ae%e0%a5%8b+%e0%a4%a8%e0%a4%be%e0%a4%b0%e0%a4%be%e0%a4%af%e0%a4%a3) | N/A |
+| 27 | [Mayank](http://twitter.com/search?q=Mayank) | Mayank is a Hindu name of Indian origin. It is derived from the Sanskrit word 'Maya', which means "illusion". The name is often used to refer to Lord Vishnu, who is believed to be the creator of the universe and its illusions. In English, Mayank can be translated to mean "illusionist". |
+| 28 | [Hrithik](http://twitter.com/search?q=Hrithik) | N/A |
+| 29 | [स्टैंडिंग कमेटी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%88%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%82%e0%a4%97+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
+| 30 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
+| 31 | [Nifty](http://twitter.com/search?q=Nifty) | N/A |
+| 32 | [रेखा गुप्ता](http://twitter.com/search?q=%e0%a4%b0%e0%a5%87%e0%a4%96%e0%a4%be+%e0%a4%97%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%a4%e0%a4%be) | N/A |
+| 33 | [Seattle](http://twitter.com/search?q=Seattle) | Seattle is a major city in the U.S. state of Washington, located on the Puget Sound between the Olympic and Cascade mountain ranges. It is the largest city in the Pacific Northwest region of North America and is home to many cultural and economic activities. The name Seattle comes from the Native American word "Sealth," meaning "by and by." |
+| 34 | [#TaareSongOutNow](http://twitter.com/search?q=%23TaareSongOutNow) | N/A |
+| 35 | [#AIADMK](http://twitter.com/search?q=%23AIADMK) | N/A |
+| 36 | [#AidenMarkram](http://twitter.com/search?q=%23AidenMarkram) | N/A |
+| 37 | [#RaniMukerji](http://twitter.com/search?q=%23RaniMukerji) | N/A |
+| 38 | [#FasGayeAapKeJasoos](http://twitter.com/search?q=%23FasGayeAapKeJasoos) | N/A |
+| 39 | [#SunrisersHyderabad](http://twitter.com/search?q=%23SunrisersHyderabad) | N/A |
+| 40 | [#DelhiAirport](http://twitter.com/search?q=%23DelhiAirport) | N/A |
+| 41 | [#எடப்பாடியார்](http://twitter.com/search?q=%23%e0%ae%8e%e0%ae%9f%e0%ae%aa%e0%af%8d%e0%ae%aa%e0%ae%be%e0%ae%9f%e0%ae%bf%e0%ae%af%e0%ae%be%e0%ae%b0%e0%af%8d) | N/A |
+| 42 | [#बागेश्वर_धाम_झूठ_का_अड्डा](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%be%e0%a4%97%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0_%e0%a4%a7%e0%a4%be%e0%a4%ae_%e0%a4%9d%e0%a5%82%e0%a4%a0_%e0%a4%95%e0%a4%be_%e0%a4%85%e0%a4%a1%e0%a5%8d%e0%a4%a1%e0%a4%be) | N/A |
+| 43 | [#GreenGrowth](http://twitter.com/search?q=%23GreenGrowth) | N/A |
+| 44 | [#बधाई_हो_उम्मेदसिंह_ढुल](http://twitter.com/search?q=%23%e0%a4%ac%e0%a4%a7%e0%a4%be%e0%a4%88_%e0%a4%b9%e0%a5%8b_%e0%a4%89%e0%a4%ae%e0%a5%8d%e0%a4%ae%e0%a5%87%e0%a4%a6%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9_%e0%a4%a2%e0%a5%81%e0%a4%b2) | N/A |
+| 45 | [#tnplauction](http://twitter.com/search?q=%23tnplauction) | N/A |
+| 46 | [#SukeshChandrashekhar](http://twitter.com/search?q=%23SukeshChandrashekhar) | N/A |
+| 47 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 48 | [#PanchamahabhutaLokotsava](http://twitter.com/search?q=%23PanchamahabhutaLokotsava) | N/A |
+| 49 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
 
 
 

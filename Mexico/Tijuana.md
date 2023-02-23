@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tijuana
 
-📆 Last Updated: `2023-02-23 07:15:51 UTC`
+📆 Last Updated: `2023-02-23 08:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,40 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 2 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
-| 3 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
-| 4 | [#BatallaAllStar](http://twitter.com/search?q=%23BatallaAllStar) | N/A |
-| 5 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
-| 6 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
-| 7 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 8 | [SNIPER MEDALLISTAR](http://twitter.com/search?q=SNIPER+MEDALLISTAR) | N/A |
+| 1 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 2 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 3 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 4 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
+| 5 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
+| 6 | [#BatallaAllStar](http://twitter.com/search?q=%23BatallaAllStar) | N/A |
+| 7 | [Lotti](http://twitter.com/search?q=Lotti) | N/A |
+| 8 | [Atlas](http://twitter.com/search?q=Atlas) | N/A |
 | 9 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
-| 10 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
-| 11 | [SLOW GOTTI](http://twitter.com/search?q=SLOW+GOTTI) | N/A |
-| 12 | [Benjamín Mora](http://twitter.com/search?q=Benjam%c3%adn+Mora) | N/A |
+| 10 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
+| 11 | [Cruz Azul](http://twitter.com/search?q=Cruz+Azul) | Cruz Azul is a Mexican professional football club based in Mexico City. The name Cruz Azul translates to "Blue Cross" in English. The team was founded in 1927 and has won eight Liga MX championships, as well as four Copa MX titles. |
+| 12 | [SLOW GOTTI](http://twitter.com/search?q=SLOW+GOTTI) | N/A |
 | 13 | [#2M300KforBuild](http://twitter.com/search?q=%232M300KforBuild) | N/A |
 | 14 | [La Luna](http://twitter.com/search?q=La+Luna) | N/A |
-| 15 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
-| 16 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
-| 17 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 15 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 17 | [Huescas](http://twitter.com/search?q=Huescas) | N/A |
 | 18 | [Paulina Rubio](http://twitter.com/search?q=Paulina+Rubio) | N/A |
-| 19 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 20 | [Yon de Luisa](http://twitter.com/search?q=Yon+de+Luisa) | Yon de Luisa is a traditional Cuban folk song. It is a love song about a woman named Luisa, and it is sung in the style of a bolero. The English translation of the title is "Luisa's Song". |
-| 21 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
+| 19 | [Yon de Luisa](http://twitter.com/search?q=Yon+de+Luisa) | Yon de Luisa is a traditional Cuban folk song. It is a love song about a woman named Luisa, and it is sung in the style of a bolero. The English translation of the title is "Luisa's Song". |
+| 20 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
+| 21 | [Samira](http://twitter.com/search?q=Samira) | N/A |
 | 22 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 23 | [Malasia](http://twitter.com/search?q=Malasia) | N/A |
-| 24 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
-| 25 | [Samira](http://twitter.com/search?q=Samira) | N/A |
-| 26 | [Imaz](http://twitter.com/search?q=Imaz) | N/A |
-| 27 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
-| 28 | [Alejandra Guzmán](http://twitter.com/search?q=Alejandra+Guzm%c3%a1n) | N/A |
-| 29 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
+| 23 | [Imaz](http://twitter.com/search?q=Imaz) | N/A |
+| 24 | [Andrea Bocelli](http://twitter.com/search?q=Andrea+Bocelli) | N/A |
+| 25 | [Reimers](http://twitter.com/search?q=Reimers) | N/A |
+| 26 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
+| 27 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 28 | [CONCACAF](http://twitter.com/search?q=CONCACAF) | N/A |
+| 29 | [#ElAmorInvencible](http://twitter.com/search?q=%23ElAmorInvencible) | N/A |
 | 30 | [Senadora](http://twitter.com/search?q=Senadora) | N/A |
-| 31 | [Concacaf](http://twitter.com/search?q=Concacaf) | Concacaf stands for the Confederation of North, Central American and Caribbean Association Football. It is an organization that governs football (soccer) in North America, Central America, and the Caribbean. |
-| 32 | [Andrea Bocelli](http://twitter.com/search?q=Andrea+Bocelli) | N/A |
-| 33 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 34 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
-| 35 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 36 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
-| 37 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
-| 38 | [Antuna](http://twitter.com/search?q=Antuna) | N/A |
-| 39 | [Téllez](http://twitter.com/search?q=T%c3%a9llez) | N/A |
-| 40 | [Vilchis](http://twitter.com/search?q=Vilchis) | N/A |
-| 41 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 42 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 43 | [Ferretti](http://twitter.com/search?q=Ferretti) | N/A |
-| 44 | [Vayan](http://twitter.com/search?q=Vayan) | N/A |
-| 45 | [#PlanB](http://twitter.com/search?q=%23PlanB) | N/A |
-| 46 | [#HONORMagic5Pro](http://twitter.com/search?q=%23HONORMagic5Pro) | N/A |
-| 47 | [#ReformaElectoral](http://twitter.com/search?q=%23ReformaElectoral) | N/A |
-| 48 | [#NarcoMarcha](http://twitter.com/search?q=%23NarcoMarcha) | N/A |
+| 31 | [Lilly Téllez](http://twitter.com/search?q=Lilly+T%c3%a9llez) | N/A |
+| 32 | [Estadio Azteca](http://twitter.com/search?q=Estadio+Azteca) | N/A |
+| 33 | [Máquina](http://twitter.com/search?q=M%c3%a1quina) | N/A |
+| 34 | [Vilchis](http://twitter.com/search?q=Vilchis) | N/A |
 
 
 
