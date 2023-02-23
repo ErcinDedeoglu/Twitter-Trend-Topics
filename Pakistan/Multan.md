@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-23 10:16:15 UTC`
+📆 Last Updated: `2023-02-23 11:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 11 | [What a Game](http://twitter.com/search?q=What+a+Game) | N/A |
 | 12 | [Shoaib Malik](http://twitter.com/search?q=Shoaib+Malik) | N/A |
 | 13 | [ilyas](http://twitter.com/search?q=ilyas) | N/A |
-| 14 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
-| 15 | [Cutting](http://twitter.com/search?q=Cutting) | N/A |
+| 14 | [Cutting](http://twitter.com/search?q=Cutting) | N/A |
+| 15 | [DG ISI](http://twitter.com/search?q=DG+ISI) | N/A |
 | 16 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 17 | [Prime Minister Shehbaz Sharif](http://twitter.com/search?q=Prime+Minister+Shehbaz+Sharif) | N/A |
+| 17 | [Gold Leaf](http://twitter.com/search?q=Gold+Leaf) | N/A |
 | 18 | [Bench](http://twitter.com/search?q=Bench) | N/A |
-| 19 | [Gold Leaf](http://twitter.com/search?q=Gold+Leaf) | N/A |
-| 20 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
-| 21 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
-| 22 | [lakki marwat](http://twitter.com/search?q=lakki+marwat) | N/A |
-| 23 | [Shoaib Akhtar](http://twitter.com/search?q=Shoaib+Akhtar) | N/A |
-| 24 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
-| 25 | [Tayyab Tahir](http://twitter.com/search?q=Tayyab+Tahir) | N/A |
-| 26 | [Selfish](http://twitter.com/search?q=Selfish) | N/A |
-| 27 | [Adeel Hashmi](http://twitter.com/search?q=Adeel+Hashmi) | N/A |
+| 19 | [Ihsanullah](http://twitter.com/search?q=Ihsanullah) | N/A |
+| 20 | [Lakki Marwat](http://twitter.com/search?q=Lakki+Marwat) | N/A |
+| 21 | [Shoaib Akhtar](http://twitter.com/search?q=Shoaib+Akhtar) | N/A |
+| 22 | [Mumbai](http://twitter.com/search?q=Mumbai) | N/A |
+| 23 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 24 | [Adeel Hashmi](http://twitter.com/search?q=Adeel+Hashmi) | N/A |
+| 25 | [Peshawar](http://twitter.com/search?q=Peshawar) | N/A |
+| 26 | [Kamran Akmal](http://twitter.com/search?q=Kamran+Akmal) | N/A |
+| 27 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
 | 28 | [Kashmiri](http://twitter.com/search?q=Kashmiri) | N/A |
-| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 30 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 31 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
-| 32 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 33 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
-| 34 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 35 | [Finance](http://twitter.com/search?q=Finance) | N/A |
-| 36 | [Hungarian](http://twitter.com/search?q=Hungarian) | N/A |
+| 29 | [Judges](http://twitter.com/search?q=Judges) | N/A |
+| 30 | [West Bank](http://twitter.com/search?q=West+Bank) | N/A |
+| 31 | [Constitution](http://twitter.com/search?q=Constitution) | N/A |
+| 32 | [Hungarian](http://twitter.com/search?q=Hungarian) | N/A |
+| 33 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
+| 34 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 35 | [Binance](http://twitter.com/search?q=Binance) | N/A |
+| 36 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
 | 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
-| 38 | [International Monetary Fund](http://twitter.com/search?q=International+Monetary+Fund) | N/A |
-| 39 | [Palestinian](http://twitter.com/search?q=Palestinian) | N/A |
-| 40 | [Useless](http://twitter.com/search?q=Useless) | N/A |
-| 41 | [Relax](http://twitter.com/search?q=Relax) | N/A |
-| 42 | [European](http://twitter.com/search?q=European) | N/A |
-| 43 | [Hussain](http://twitter.com/search?q=Hussain) | N/A |
-| 44 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
-| 45 | [Khan Muhammad Marri](http://twitter.com/search?q=Khan+Muhammad+Marri) | N/A |
-| 46 | [Gilgit Baltistan](http://twitter.com/search?q=Gilgit+Baltistan) | N/A |
-| 47 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 48 | [Torkham](http://twitter.com/search?q=Torkham) | N/A |
-| 49 | [Chief Justice](http://twitter.com/search?q=Chief+Justice) | N/A |
-| 50 | [Bangladesh](http://twitter.com/search?q=Bangladesh) | N/A |
+| 38 | [Useless](http://twitter.com/search?q=Useless) | N/A |
+| 39 | [Freedom](http://twitter.com/search?q=Freedom) | N/A |
+| 40 | [Jammu](http://twitter.com/search?q=Jammu) | N/A |
+| 41 | [Torkham](http://twitter.com/search?q=Torkham) | N/A |
+| 42 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 43 | [Apki](http://twitter.com/search?q=Apki) | N/A |
+| 44 | [Appreciated](http://twitter.com/search?q=Appreciated) | N/A |
+| 45 | [Dawn](http://twitter.com/search?q=Dawn) | N/A |
+| 46 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
+| 47 | [Bhutto](http://twitter.com/search?q=Bhutto) | N/A |
+| 48 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 49 | [Election Commission](http://twitter.com/search?q=Election+Commission) | N/A |
+| 50 | [President Arif Alvi](http://twitter.com/search?q=President+Arif+Alvi) | N/A |
 
 
 

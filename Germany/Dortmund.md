@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-02-23 10:15:56 UTC`
+📆 Last Updated: `2023-02-23 11:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#veganeSongs](http://twitter.com/search?q=%23veganeSongs) | N/A |
 | 2 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
 | 3 | [#Aschermittwoch](http://twitter.com/search?q=%23Aschermittwoch) | N/A |
-| 4 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
+| 4 | [#Schwesig](http://twitter.com/search?q=%23Schwesig) | N/A |
 | 5 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 6 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 7 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
-| 8 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 9 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
+| 7 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
+| 8 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
+| 9 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
 | 10 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
-| 11 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
-| 12 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
+| 11 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 12 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
 | 13 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 14 | [Heute vor 80 Jahren](http://twitter.com/search?q=Heute+vor+80+Jahren) | N/A |
-| 15 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
-| 16 | [Christoph Probst](http://twitter.com/search?q=Christoph+Probst) | N/A |
-| 17 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 18 | [Fleischverbot](http://twitter.com/search?q=Fleischverbot) | N/A |
-| 19 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
+| 14 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 15 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
+| 16 | [Heute vor 80 Jahren](http://twitter.com/search?q=Heute+vor+80+Jahren) | N/A |
+| 17 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
+| 18 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 19 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
 | 20 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 21 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
-| 22 | [Kriegsfolgen](http://twitter.com/search?q=Kriegsfolgen) | N/A |
-| 23 | ['Spiegelung'](http://twitter.com/search?q=%27Spiegelung%27) | N/A |
-| 24 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 25 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 26 | [Selbstbeteiligung](http://twitter.com/search?q=Selbstbeteiligung) | N/A |
+| 21 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 22 | ["Fleischverbot"](http://twitter.com/search?q=%22Fleischverbot%22) | N/A |
+| 23 | [Selbstbeteiligung](http://twitter.com/search?q=Selbstbeteiligung) | N/A |
+| 24 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
+| 25 | [Kriegsfolgen](http://twitter.com/search?q=Kriegsfolgen) | N/A |
+| 26 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
 | 27 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 28 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
-| 29 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
+| 28 | [Christoph Probst](http://twitter.com/search?q=Christoph+Probst) | N/A |
+| 29 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
 | 30 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
-| 31 | [Hung Liu](http://twitter.com/search?q=Hung+Liu) | N/A |
+| 31 | [Vizefreitag](http://twitter.com/search?q=Vizefreitag) | N/A |
 | 32 | [sommersprossen](http://twitter.com/search?q=sommersprossen) | N/A |
 | 33 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 34 | [Öl auf die Straße](http://twitter.com/search?q=%c3%96l+auf+die+Stra%c3%9fe) | N/A |
-| 35 | [Versicherten](http://twitter.com/search?q=Versicherten) | N/A |
-| 36 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 37 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
-| 38 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 39 | [Zuspruch](http://twitter.com/search?q=Zuspruch) | N/A |
-| 40 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 41 | [Geburtsjahr](http://twitter.com/search?q=Geburtsjahr) | N/A |
-| 42 | [Religionsfreiheit](http://twitter.com/search?q=Religionsfreiheit) | N/A |
-| 43 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
-| 44 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
-| 45 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
-| 46 | [louis you are worthy](http://twitter.com/search?q=louis+you+are+worthy) | N/A |
-| 47 | [Denunziant](http://twitter.com/search?q=Denunziant) | N/A |
-| 48 | [Tofu](http://twitter.com/search?q=Tofu) | N/A |
-| 49 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 34 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 35 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 36 | [Versicherten](http://twitter.com/search?q=Versicherten) | N/A |
+| 37 | [Öl auf die Straße](http://twitter.com/search?q=%c3%96l+auf+die+Stra%c3%9fe) | N/A |
+| 38 | [Frau Lang](http://twitter.com/search?q=Frau+Lang) | N/A |
+| 39 | [geburtsjahr](http://twitter.com/search?q=geburtsjahr) | N/A |
+| 40 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 41 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
+| 42 | [Maggus](http://twitter.com/search?q=Maggus) | N/A |
+| 43 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 44 | [LOUIS YOU ARE WORTHY](http://twitter.com/search?q=LOUIS+YOU+ARE+WORTHY) | N/A |
+| 45 | [GuMo](http://twitter.com/search?q=GuMo) | N/A |
+| 46 | [Denunziant](http://twitter.com/search?q=Denunziant) | N/A |
+| 47 | [Hubsi](http://twitter.com/search?q=Hubsi) | N/A |
+| 48 | [echte probleme](http://twitter.com/search?q=echte+probleme) | N/A |
+| 49 | [Tischtennis](http://twitter.com/search?q=Tischtennis) | N/A |
 
 
 

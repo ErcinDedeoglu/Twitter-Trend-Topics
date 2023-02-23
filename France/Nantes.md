@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-23 10:15:55 UTC`
+📆 Last Updated: `2023-02-23 11:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [France](</France>)
 | 1 | [#saintjeandeluz](http://twitter.com/search?q=%23saintjeandeluz) | N/A |
 | 2 | [#ONEPIECE1076](http://twitter.com/search?q=%23ONEPIECE1076) | N/A |
 | 3 | [#BoosteTonClassico](http://twitter.com/search?q=%23BoosteTonClassico) | N/A |
-| 4 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 5 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 6 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 7 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
-| 8 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 9 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
-| 10 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
-| 11 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 12 | [Kevin Bossuet](http://twitter.com/search?q=Kevin+Bossuet) | N/A |
-| 13 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 14 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 15 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 16 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 17 | [Décès](http://twitter.com/search?q=D%c3%a9c%c3%a8s) | N/A |
-| 18 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 19 | [Karl Zéro](http://twitter.com/search?q=Karl+Z%c3%a9ro) | N/A |
-| 20 | [Giveon](http://twitter.com/search?q=Giveon) | N/A |
-| 21 | [Microids](http://twitter.com/search?q=Microids) | N/A |
-| 22 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 23 | [Maillot](http://twitter.com/search?q=Maillot) | N/A |
-| 24 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
-| 25 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
-| 26 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 27 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 28 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 29 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 30 | [St Jean de Luz](http://twitter.com/search?q=St+Jean+de+Luz) | N/A |
-| 31 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 32 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 33 | [Assassinat](http://twitter.com/search?q=Assassinat) | N/A |
-| 34 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 35 | [Tatoos](http://twitter.com/search?q=Tatoos) | N/A |
-| 36 | [Jena Lee](http://twitter.com/search?q=Jena+Lee) | N/A |
-| 37 | [Agnès Lassalle](http://twitter.com/search?q=Agn%c3%a8s+Lassalle) | N/A |
-| 38 | [Chap](http://twitter.com/search?q=Chap) | N/A |
-| 39 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 40 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 41 | [Aquin](http://twitter.com/search?q=Aquin) | N/A |
-| 42 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 43 | [Lazare](http://twitter.com/search?q=Lazare) | N/A |
-| 44 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
-| 45 | [Naplouse](http://twitter.com/search?q=Naplouse) | N/A |
-| 46 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
-| 47 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 48 | [Pap Ndiaye](http://twitter.com/search?q=Pap+Ndiaye) | N/A |
-| 49 | [Cendres](http://twitter.com/search?q=Cendres) | N/A |
+| 4 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 6 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 7 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 8 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
+| 9 | [Carême](http://twitter.com/search?q=Car%c3%aame) | N/A |
+| 10 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 11 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
+| 12 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 13 | [BNP Paribas](http://twitter.com/search?q=BNP+Paribas) | N/A |
+| 14 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
+| 15 | [Décès](http://twitter.com/search?q=D%c3%a9c%c3%a8s) | N/A |
+| 16 | [Maillot](http://twitter.com/search?q=Maillot) | N/A |
+| 17 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
+| 18 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 20 | [Karl Zéro](http://twitter.com/search?q=Karl+Z%c3%a9ro) | N/A |
+| 21 | [Kevin Bossuet](http://twitter.com/search?q=Kevin+Bossuet) | N/A |
+| 22 | [Meurtre](http://twitter.com/search?q=Meurtre) | N/A |
+| 23 | [St Jean de Luz](http://twitter.com/search?q=St+Jean+de+Luz) | N/A |
+| 24 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 25 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 26 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 27 | [Assassinat](http://twitter.com/search?q=Assassinat) | N/A |
+| 28 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 29 | [Tatoos](http://twitter.com/search?q=Tatoos) | N/A |
+| 30 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 31 | [Bottas](http://twitter.com/search?q=Bottas) | N/A |
+| 32 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
+| 33 | [Jena Lee](http://twitter.com/search?q=Jena+Lee) | N/A |
+| 34 | [Rachid M'Barki](http://twitter.com/search?q=Rachid+M%27Barki) | N/A |
+| 35 | [Chap](http://twitter.com/search?q=Chap) | N/A |
+| 36 | [Naplouse](http://twitter.com/search?q=Naplouse) | N/A |
+| 37 | [Aquin](http://twitter.com/search?q=Aquin) | N/A |
+| 38 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 39 | [La Commission](http://twitter.com/search?q=La+Commission) | N/A |
+| 40 | [Pap Ndiaye](http://twitter.com/search?q=Pap+Ndiaye) | N/A |
+| 41 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 42 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 43 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 44 | [Kidd](http://twitter.com/search?q=Kidd) | N/A |
+| 45 | [Giveon](http://twitter.com/search?q=Giveon) | N/A |
+| 46 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
+| 47 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 48 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
+| 49 | [Cnews](http://twitter.com/search?q=Cnews) | N/A |
 
 
 

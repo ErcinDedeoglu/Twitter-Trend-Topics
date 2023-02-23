@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-02-23 10:15:54 UTC`
+📆 Last Updated: `2023-02-23 11:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 2 | [#FNMConf2023](http://twitter.com/search?q=%23FNMConf2023) | N/A |
-| 3 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 4 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 5 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 2 | [RIP Motty](http://twitter.com/search?q=RIP+Motty) | N/A |
+| 3 | [#FNMConf2023](http://twitter.com/search?q=%23FNMConf2023) | N/A |
+| 4 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 5 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
 | 6 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 7 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 8 | [Social Democrats](http://twitter.com/search?q=Social+Democrats) | N/A |
-| 9 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 10 | [#TonightVMTV](http://twitter.com/search?q=%23TonightVMTV) | N/A |
+| 7 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 8 | [#PancakeTuesday](http://twitter.com/search?q=%23PancakeTuesday) | N/A |
+| 9 | [Social Democrats](http://twitter.com/search?q=Social+Democrats) | N/A |
+| 10 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
 | 11 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 12 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 13 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 12 | [Holly Cairns](http://twitter.com/search?q=Holly+Cairns) | N/A |
+| 13 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
 | 14 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 15 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 16 | [Holly Cairns](http://twitter.com/search?q=Holly+Cairns) | N/A |
-| 17 | [Catherine Murphy](http://twitter.com/search?q=Catherine+Murphy) | N/A |
-| 18 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 19 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 20 | [Dave Fanning](http://twitter.com/search?q=Dave+Fanning) | N/A |
+| 15 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 16 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
+| 17 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
+| 18 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 19 | [Catherine Murphy](http://twitter.com/search?q=Catherine+Murphy) | N/A |
+| 20 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
 | 21 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 22 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 23 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 24 | [Soc Dems](http://twitter.com/search?q=Soc+Dems) | N/A |
-| 25 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 26 | [dáil](http://twitter.com/search?q=d%c3%a1il) | N/A |
-| 27 | [George Hook](http://twitter.com/search?q=George+Hook) | N/A |
-| 28 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
-| 29 | [róisín shortall](http://twitter.com/search?q=r%c3%b3is%c3%adn+shortall) | N/A |
-| 30 | [Geraldine](http://twitter.com/search?q=Geraldine) | N/A |
-| 31 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 32 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 33 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 34 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
-| 35 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
-| 36 | [Irish Times](http://twitter.com/search?q=Irish+Times) | N/A |
-| 37 | [john o'shea](http://twitter.com/search?q=john+o%27shea) | N/A |
-| 38 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 39 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 40 | [Traveller](http://twitter.com/search?q=Traveller) | N/A |
-| 41 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 42 | [Movie Night](http://twitter.com/search?q=Movie+Night) | N/A |
-| 43 | [jurgen](http://twitter.com/search?q=jurgen) | N/A |
-| 44 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
-| 45 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 46 | [Brandy Love](http://twitter.com/search?q=Brandy+Love) | N/A |
-| 47 | [Queens Brook](http://twitter.com/search?q=Queens+Brook) | N/A |
-| 48 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
-| 49 | [neale richmond](http://twitter.com/search?q=neale+richmond) | N/A |
+| 22 | [Dave Fanning](http://twitter.com/search?q=Dave+Fanning) | N/A |
+| 23 | [Soc Dems](http://twitter.com/search?q=Soc+Dems) | N/A |
+| 24 | [George Hook](http://twitter.com/search?q=George+Hook) | N/A |
+| 25 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
+| 26 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 27 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 28 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
+| 29 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 30 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 31 | [Nutella](http://twitter.com/search?q=Nutella) | N/A |
+| 32 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
+| 33 | [John O'Shea](http://twitter.com/search?q=John+O%27Shea) | N/A |
+| 34 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 35 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 36 | [Luka Modric](http://twitter.com/search?q=Luka+Modric) | N/A |
+| 37 | [Movie Night](http://twitter.com/search?q=Movie+Night) | N/A |
+| 38 | [Travellers](http://twitter.com/search?q=Travellers) | N/A |
+| 39 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 40 | [Tony Blair](http://twitter.com/search?q=Tony+Blair) | N/A |
+| 41 | [Brandy Love](http://twitter.com/search?q=Brandy+Love) | N/A |
+| 42 | [Newstalk](http://twitter.com/search?q=Newstalk) | N/A |
+| 43 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
+| 44 | [Queens Brook](http://twitter.com/search?q=Queens+Brook) | N/A |
+| 45 | [Gary Gannon](http://twitter.com/search?q=Gary+Gannon) | N/A |
+| 46 | [Dalymount](http://twitter.com/search?q=Dalymount) | N/A |
+| 47 | [neale richmond](http://twitter.com/search?q=neale+richmond) | N/A |
+| 48 | [Catriona Carey](http://twitter.com/search?q=Catriona+Carey) | N/A |
+| 49 | [navan](http://twitter.com/search?q=navan) | N/A |
 
 
 

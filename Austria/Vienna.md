@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-23 10:15:54 UTC`
+📆 Last Updated: `2023-02-23 11:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Austria](</Austria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#inflation](http://twitter.com/search?q=%23inflation) | N/A |
-| 2 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
-| 3 | [#ZeroCon23](http://twitter.com/search?q=%23ZeroCon23) | N/A |
-| 4 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 5 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 6 | [#dok1](http://twitter.com/search?q=%23dok1) | N/A |
-| 7 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 8 | [#kaffeegang](http://twitter.com/search?q=%23kaffeegang) | N/A |
-| 9 | [#villacherfasching](http://twitter.com/search?q=%23villacherfasching) | N/A |
-| 10 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 11 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 1 | [#ZeroCon23](http://twitter.com/search?q=%23ZeroCon23) | N/A |
+| 2 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 3 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 4 | [#dok1](http://twitter.com/search?q=%23dok1) | N/A |
+| 5 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 6 | [#villacherfasching](http://twitter.com/search?q=%23villacherfasching) | N/A |
+| 7 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 8 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
+| 9 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 10 | [#Aschermittwoch](http://twitter.com/search?q=%23Aschermittwoch) | N/A |
+| 11 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
 | 12 | [Bildungsauftrag](http://twitter.com/search?q=Bildungsauftrag) | N/A |
 | 13 | [Sparpläne](http://twitter.com/search?q=Sparpl%c3%a4ne) | N/A |
-| 14 | [tempo 100](http://twitter.com/search?q=tempo+100) | N/A |
-| 15 | [Orchester](http://twitter.com/search?q=Orchester) | N/A |
-| 16 | [Kulturszene](http://twitter.com/search?q=Kulturszene) | N/A |
-| 17 | [Aktionen](http://twitter.com/search?q=Aktionen) | N/A |
-| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 19 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 20 | [Norm](http://twitter.com/search?q=Norm) | N/A |
-| 21 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
-| 22 | [Ideen](http://twitter.com/search?q=Ideen) | N/A |
-| 23 | [angaben](http://twitter.com/search?q=angaben) | N/A |
-| 24 | [Innsbruck](http://twitter.com/search?q=Innsbruck) | N/A |
-| 25 | [Wunderschön](http://twitter.com/search?q=Wundersch%c3%b6n) | N/A |
-| 26 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 27 | [Standard](http://twitter.com/search?q=Standard) | N/A |
-| 28 | [Lösungen](http://twitter.com/search?q=L%c3%b6sungen) | N/A |
-| 29 | [Generation](http://twitter.com/search?q=Generation) | N/A |
-| 30 | [Verjährung](http://twitter.com/search?q=Verj%c3%a4hrung) | N/A |
-| 31 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 32 | [European](http://twitter.com/search?q=European) | N/A |
-| 33 | [Kalorien](http://twitter.com/search?q=Kalorien) | N/A |
-| 34 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 35 | [Schwanz](http://twitter.com/search?q=Schwanz) | N/A |
-| 36 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
-| 37 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
-| 38 | [Formel 1](http://twitter.com/search?q=Formel+1) | N/A |
-| 39 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
-| 40 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 41 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
-| 42 | [Herzliche Gratulation](http://twitter.com/search?q=Herzliche+Gratulation) | N/A |
-| 43 | [Ölspur](http://twitter.com/search?q=%c3%96lspur) | N/A |
-| 44 | [Feuerwehr](http://twitter.com/search?q=Feuerwehr) | N/A |
-| 45 | [Physik](http://twitter.com/search?q=Physik) | N/A |
-| 46 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 47 | [Geschwindigkeit](http://twitter.com/search?q=Geschwindigkeit) | N/A |
-| 48 | [Studio](http://twitter.com/search?q=Studio) | N/A |
-| 49 | [Enkel](http://twitter.com/search?q=Enkel) | N/A |
-| 50 | [Voves](http://twitter.com/search?q=Voves) | N/A |
+| 14 | [Volksverräter](http://twitter.com/search?q=Volksverr%c3%a4ter) | N/A |
+| 15 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 16 | [Tempo 100](http://twitter.com/search?q=Tempo+100) | N/A |
+| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 18 | [Kulturszene](http://twitter.com/search?q=Kulturszene) | N/A |
+| 19 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 20 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 21 | [Rand](http://twitter.com/search?q=Rand) | N/A |
+| 22 | [Norm](http://twitter.com/search?q=Norm) | N/A |
+| 23 | [Krapfen](http://twitter.com/search?q=Krapfen) | N/A |
+| 24 | [Orchester](http://twitter.com/search?q=Orchester) | N/A |
+| 25 | [Angaben](http://twitter.com/search?q=Angaben) | N/A |
+| 26 | [Kleber](http://twitter.com/search?q=Kleber) | N/A |
+| 27 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 28 | [Innsbruck](http://twitter.com/search?q=Innsbruck) | N/A |
+| 29 | [Verjährung](http://twitter.com/search?q=Verj%c3%a4hrung) | N/A |
+| 30 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
+| 31 | [Kalorien](http://twitter.com/search?q=Kalorien) | N/A |
+| 32 | [Gemüse](http://twitter.com/search?q=Gem%c3%bcse) | N/A |
+| 33 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 34 | [Schwanz](http://twitter.com/search?q=Schwanz) | N/A |
+| 35 | [Aktivisten](http://twitter.com/search?q=Aktivisten) | N/A |
+| 36 | [Zeitungen](http://twitter.com/search?q=Zeitungen) | N/A |
+| 37 | [Formel 1](http://twitter.com/search?q=Formel+1) | N/A |
+| 38 | [Ohje](http://twitter.com/search?q=Ohje) | N/A |
+| 39 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 40 | [Ölspur](http://twitter.com/search?q=%c3%96lspur) | N/A |
+| 41 | [Feuerwehr](http://twitter.com/search?q=Feuerwehr) | N/A |
+| 42 | [physik](http://twitter.com/search?q=physik) | N/A |
+| 43 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 44 | [Geschwindigkeit](http://twitter.com/search?q=Geschwindigkeit) | N/A |
+| 45 | [Studio](http://twitter.com/search?q=Studio) | N/A |
+| 46 | [enkel](http://twitter.com/search?q=enkel) | N/A |
+| 47 | [Gewinne](http://twitter.com/search?q=Gewinne) | N/A |
+| 48 | [Salomon](http://twitter.com/search?q=Salomon) | N/A |
+| 49 | [Griff](http://twitter.com/search?q=Griff) | N/A |
+| 50 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
 
 
 

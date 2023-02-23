@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-23 10:15:42 UTC`
+📆 Last Updated: `2023-02-23 11:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EarlyBiz](http://twitter.com/search?q=%23EarlyBiz) | N/A |
-| 2 | [#JeremyVine](http://twitter.com/search?q=%23JeremyVine) | N/A |
-| 3 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 1 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 2 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 3 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
 | 4 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 5 | [RIP Motty](http://twitter.com/search?q=RIP+Motty) | N/A |
+| 5 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 6 | [Barry Davies](http://twitter.com/search?q=Barry+Davies) | N/A |
-| 7 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 8 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 9 | [Jason Arday](http://twitter.com/search?q=Jason+Arday) | N/A |
-| 10 | [Amol Rajan](http://twitter.com/search?q=Amol+Rajan) | N/A |
-| 11 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 12 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 13 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
-| 14 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
-| 15 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 16 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 17 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
-| 18 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 19 | [Begum](http://twitter.com/search?q=Begum) | N/A |
-| 20 | [David Bowie](http://twitter.com/search?q=David+Bowie) | N/A |
-| 21 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
-| 22 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 23 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 24 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 25 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 26 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
-| 27 | [Race](http://twitter.com/search?q=Race) | N/A |
-| 28 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
-| 29 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
-| 30 | [Home Secretary](http://twitter.com/search?q=Home+Secretary) | N/A |
-| 31 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
-| 32 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
-| 33 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 34 | [At 15](http://twitter.com/search?q=At+15) | N/A |
-| 35 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
-| 36 | [#domisstillabadman](http://twitter.com/search?q=%23domisstillabadman) | N/A |
-| 37 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 38 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 39 | [#ASongOrMovieForTheFloor](http://twitter.com/search?q=%23ASongOrMovieForTheFloor) | N/A |
-| 40 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 41 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 42 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 43 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 44 | [#brink](http://twitter.com/search?q=%23brink) | N/A |
-| 45 | [#BBCBreakfast](http://twitter.com/search?q=%23BBCBreakfast) | N/A |
-| 46 | [#ToriesOut231](http://twitter.com/search?q=%23ToriesOut231) | N/A |
-| 47 | [#Wordle614](http://twitter.com/search?q=%23Wordle614) | N/A |
-| 48 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 7 | [#domisstillabadman](http://twitter.com/search?q=%23domisstillabadman) | N/A |
+| 8 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 9 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 10 | [Brian Moore](http://twitter.com/search?q=Brian+Moore) | N/A |
+| 11 | [#popmaster](http://twitter.com/search?q=%23popmaster) | N/A |
+| 12 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
+| 13 | [Ronnie Radford](http://twitter.com/search?q=Ronnie+Radford) | N/A |
+| 14 | [10 World Cups](http://twitter.com/search?q=10+World+Cups) | N/A |
+| 15 | [The Voice of Football](http://twitter.com/search?q=The+Voice+of+Football) | N/A |
+| 16 | [Murray Walker](http://twitter.com/search?q=Murray+Walker) | N/A |
+| 17 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 18 | [John Caldwell](http://twitter.com/search?q=John+Caldwell) | N/A |
+| 19 | [Amol Rajan](http://twitter.com/search?q=Amol+Rajan) | N/A |
+| 20 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
+| 21 | [Culture Club](http://twitter.com/search?q=Culture+Club) | N/A |
+| 22 | [Jason Arday](http://twitter.com/search?q=Jason+Arday) | N/A |
+| 23 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
+| 24 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
+| 25 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
+| 26 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
+| 27 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 28 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 29 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
+| 30 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 31 | [Ari Lennox](http://twitter.com/search?q=Ari+Lennox) | N/A |
+| 32 | [Begum](http://twitter.com/search?q=Begum) | N/A |
+| 33 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 34 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
+| 35 | [2nd March](http://twitter.com/search?q=2nd+March) | N/A |
+| 36 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
+| 37 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 38 | [Gullis](http://twitter.com/search?q=Gullis) | Gullis is a Swedish word meaning "gutter" or "drain." It is used to refer to a narrow channel or trench that is used to carry away water or other liquids. |
+| 39 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 40 | [World Book Day](http://twitter.com/search?q=World+Book+Day) | N/A |
+| 41 | [Weather](http://twitter.com/search?q=Weather) | N/A |
+| 42 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
+| 43 | [Digital ID](http://twitter.com/search?q=Digital+ID) | N/A |
+| 44 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 45 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 46 | [At 15](http://twitter.com/search?q=At+15) | N/A |
+| 47 | [Race](http://twitter.com/search?q=Race) | N/A |
+| 48 | [Benn](http://twitter.com/search?q=Benn) | Benn is a shortened form of the name Benjamin, which is of Hebrew origin and means "son of the right hand". |
 
 
 

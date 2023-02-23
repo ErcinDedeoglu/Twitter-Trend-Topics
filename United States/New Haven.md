@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Haven
 
-📆 Last Updated: `2023-02-23 10:16:25 UTC`
+📆 Last Updated: `2023-02-23 11:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,53 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 2 | [uconn](http://twitter.com/search?q=uconn) | N/A |
+| 2 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
 | 3 | [#isles](http://twitter.com/search?q=%23isles) | N/A |
 | 4 | [gampel](http://twitter.com/search?q=gampel) | N/A |
-| 5 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 6 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
+| 5 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
+| 6 | [Dylan Lyons](http://twitter.com/search?q=Dylan+Lyons) | N/A |
 | 7 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 8 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 9 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 10 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 11 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 12 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 8 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 9 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 10 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 11 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 12 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
 | 13 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 14 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
-| 15 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 14 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 15 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
 | 16 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
-| 17 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 18 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 19 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
-| 20 | [Migos](http://twitter.com/search?q=Migos) | N/A |
-| 21 | [The Last Starfighter](http://twitter.com/search?q=The+Last+Starfighter) | N/A |
-| 22 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 23 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
-| 24 | [Stars](http://twitter.com/search?q=Stars) | N/A |
-| 25 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 26 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 27 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 28 | [Goya](http://twitter.com/search?q=Goya) | N/A |
-| 29 | [shinee](http://twitter.com/search?q=shinee) | N/A |
-| 30 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
-| 31 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
-| 32 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 33 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 17 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 18 | [The Last Starfighter](http://twitter.com/search?q=The+Last+Starfighter) | N/A |
+| 19 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 20 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 21 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 22 | [Migos](http://twitter.com/search?q=Migos) | N/A |
+| 23 | [jason kidd](http://twitter.com/search?q=jason+kidd) | N/A |
+| 24 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
+| 25 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
+| 26 | [Eddie Murphy](http://twitter.com/search?q=Eddie+Murphy) | Eddie Murphy is an American actor, comedian, and singer. He is best known for his roles in films such as Beverly Hills Cop, Trading Places, Coming to America, and The Nutty Professor. He has also starred in a number of family-friendly films such as Dr. Dolittle and the Shrek franchise. |
+| 27 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
+| 28 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 29 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 30 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 31 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
+| 32 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 33 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
 | 34 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 35 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
+| 35 | [Goya](http://twitter.com/search?q=Goya) | N/A |
 | 36 | [Fresno](http://twitter.com/search?q=Fresno) | N/A |
-| 37 | [Eddie Murphy](http://twitter.com/search?q=Eddie+Murphy) | Eddie Murphy is an American actor, comedian, and singer. He is best known for his roles in films such as Beverly Hills Cop, Trading Places, Coming to America, and The Nutty Professor. He has also starred in a number of family-friendly films such as Dr. Dolittle and the Shrek franchise. |
-| 38 | [Red Death](http://twitter.com/search?q=Red+Death) | N/A |
-| 39 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 37 | [George Carlin](http://twitter.com/search?q=George+Carlin) | N/A |
+| 38 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 39 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
 | 40 | [Stefan](http://twitter.com/search?q=Stefan) | N/A |
-| 41 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 42 | [George Carlin](http://twitter.com/search?q=George+Carlin) | N/A |
-| 43 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 44 | [saraya](http://twitter.com/search?q=saraya) | N/A |
-| 45 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 46 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
-| 47 | [The Strays](http://twitter.com/search?q=The+Strays) | N/A |
-| 48 | [Hannah Montana](http://twitter.com/search?q=Hannah+Montana) | N/A |
+| 41 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 42 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
+| 43 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 44 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 45 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
+| 46 | [#Wordle614](http://twitter.com/search?q=%23Wordle614) | N/A |
+| 47 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 48 | [#brink](http://twitter.com/search?q=%23brink) | N/A |
 
 
 

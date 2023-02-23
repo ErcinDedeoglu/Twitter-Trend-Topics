@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-23 10:16:08 UTC`
+📆 Last Updated: `2023-02-23 11:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,52 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SMCUEp3_Girls](http://twitter.com/search?q=%23SMCUEp3_Girls) | N/A |
-| 2 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
-| 3 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 4 | [#AnInconvenientLoveonNetflix](http://twitter.com/search?q=%23AnInconvenientLoveonNetflix) | N/A |
-| 5 | [AIL NOW ON NETFLIX](http://twitter.com/search?q=AIL+NOW+ON+NETFLIX) | N/A |
-| 6 | [HapPIE 9TH MONTHSARY EIAN](http://twitter.com/search?q=HapPIE+9TH+MONTHSARY+EIAN) | N/A |
-| 7 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 8 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
-| 9 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
-| 10 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
-| 11 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 12 | [Arocha](http://twitter.com/search?q=Arocha) | N/A |
-| 13 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
-| 14 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
-| 15 | [Tubino](http://twitter.com/search?q=Tubino) | N/A |
-| 16 | [MY EXO](http://twitter.com/search?q=MY+EXO) | N/A |
-| 17 | [Naevis](http://twitter.com/search?q=Naevis) | N/A |
-| 18 | [WILD TONIGHT MV TEASER2](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER2) | N/A |
-| 19 | [Black Mamba](http://twitter.com/search?q=Black+Mamba) | N/A |
-| 20 | [blooming morning with bini](http://twitter.com/search?q=blooming+morning+with+bini) | N/A |
-| 21 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 22 | [BEUStiful DAY WITH BGYO](http://twitter.com/search?q=BEUStiful+DAY+WITH+BGYO) | N/A |
-| 23 | [D-1 Be His Prey](http://twitter.com/search?q=D-1+Be+His+Prey) | N/A |
-| 24 | [luckybeauty short film](http://twitter.com/search?q=luckybeauty+short+film) | N/A |
-| 25 | [Isa Molde](http://twitter.com/search?q=Isa+Molde) | N/A |
-| 26 | [Team Secret](http://twitter.com/search?q=Team+Secret) | N/A |
-| 27 | [Des Cheng](http://twitter.com/search?q=Des+Cheng) | N/A |
-| 28 | [CHANBAEK](http://twitter.com/search?q=CHANBAEK) | N/A |
-| 29 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 30 | [Giselle](http://twitter.com/search?q=Giselle) | N/A |
-| 31 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 32 | [ailonnetflix bukas na](http://twitter.com/search?q=ailonnetflix+bukas+na) | N/A |
-| 33 | [JENO TO MILANO](http://twitter.com/search?q=JENO+TO+MILANO) | N/A |
-| 34 | [Jeopardy](http://twitter.com/search?q=Jeopardy) | N/A |
-| 35 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 36 | [READY TO BE CHARMED](http://twitter.com/search?q=READY+TO+BE+CHARMED) | N/A |
-| 37 | [KAIA TURN UP MEDIA TOUR](http://twitter.com/search?q=KAIA+TURN+UP+MEDIA+TOUR) | N/A |
-| 38 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
-| 39 | [Cait](http://twitter.com/search?q=Cait) | N/A |
-| 40 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 41 | [filay sapusomo](http://twitter.com/search?q=filay+sapusomo) | N/A |
-| 42 | [happy lea day](http://twitter.com/search?q=happy+lea+day) | N/A |
-| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 44 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 45 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
-| 46 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 47 | [REAL WORLD](http://twitter.com/search?q=REAL+WORLD) | N/A |
-| 48 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 49 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 1 | [#Fighting6thWin](http://twitter.com/search?q=%23Fighting6thWin) | N/A |
+| 2 | [#BSS6thWin](http://twitter.com/search?q=%23BSS6thWin) | N/A |
+| 3 | [#SMCUEp3_Girls](http://twitter.com/search?q=%23SMCUEp3_Girls) | N/A |
+| 4 | [D-1 Be His Prey](http://twitter.com/search?q=D-1+Be+His+Prey) | N/A |
+| 5 | [#부석순_엠카운트다운_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%97%a0%ec%b9%b4%ec%9a%b4%ed%8a%b8%eb%8b%a4%ec%9a%b4_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 6 | [WILD TONIGHT MV TEASER3](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER3) | N/A |
+| 7 | [WATCH SMCU EP3 NOW](http://twitter.com/search?q=WATCH+SMCU+EP3+NOW) | N/A |
+| 8 | [CMFT](http://twitter.com/search?q=CMFT) | CMFT stands for Certified Management Financial Technician. It is a professional certification offered by the Institute of Certified Management Accountants (ICMA). The certification is designed to provide financial professionals with the knowledge and skills necessary to effectively manage financial operations in an organization. |
+| 9 | [WALANG PASOK BUKAS](http://twitter.com/search?q=WALANG+PASOK+BUKAS) | N/A |
+| 10 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 11 | [Arocha](http://twitter.com/search?q=Arocha) | N/A |
+| 12 | [HapPIE 9TH MONTHSARY EIAN](http://twitter.com/search?q=HapPIE+9TH+MONTHSARY+EIAN) | N/A |
+| 13 | [Thang Ponce](http://twitter.com/search?q=Thang+Ponce) | N/A |
+| 14 | [Tubino](http://twitter.com/search?q=Tubino) | N/A |
+| 15 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 16 | [Viray](http://twitter.com/search?q=Viray) | N/A |
+| 17 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 18 | [Black Mamba](http://twitter.com/search?q=Black+Mamba) | N/A |
+| 19 | [Isa Molde](http://twitter.com/search?q=Isa+Molde) | N/A |
+| 20 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 21 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
+| 22 | [Naevis](http://twitter.com/search?q=Naevis) | N/A |
+| 23 | [EDSA People Power Revolution](http://twitter.com/search?q=EDSA+People+Power+Revolution) | N/A |
+| 24 | [Titans](http://twitter.com/search?q=Titans) | Titans is a term used to refer to powerful gods or deities in Greek mythology. The Titans were the first generation of gods, and they were the children of the primordial deities Uranus (the sky) and Gaia (the earth). They were powerful and ruled over the universe until they were overthrown by their own children, the Olympian gods. |
+| 25 | [MY EXO](http://twitter.com/search?q=MY+EXO) | N/A |
+| 26 | [CHANBAEK](http://twitter.com/search?q=CHANBAEK) | N/A |
+| 27 | [Yixing](http://twitter.com/search?q=Yixing) | Yixing is a city in Jiangsu Province, China. It is known for its production of Yixing clay teapots, which are highly prized by tea connoisseurs. The name Yixing translates to "purple sand" in English, referring to the purple-hued clay found in the area. |
+| 28 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 29 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 30 | [Kaliwa Dam](http://twitter.com/search?q=Kaliwa+Dam) | N/A |
+| 31 | [PPOP](http://twitter.com/search?q=PPOP) | N/A |
+| 32 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 33 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
+| 34 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 35 | [#PVLAFC2023](http://twitter.com/search?q=%23PVLAFC2023) | N/A |
+| 36 | [#CaratMatch](http://twitter.com/search?q=%23CaratMatch) | N/A |
+| 37 | [#SHAUN](http://twitter.com/search?q=%23SHAUN) | N/A |
+| 38 | [#StealTheShow](http://twitter.com/search?q=%23StealTheShow) | N/A |
+| 39 | [#EianRances](http://twitter.com/search?q=%23EianRances) | N/A |
+| 40 | [#TOP100KPOPMAKNAES](http://twitter.com/search?q=%23TOP100KPOPMAKNAES) | N/A |
+| 41 | [#JeffSatur](http://twitter.com/search?q=%23JeffSatur) | N/A |
+| 42 | [#TURNUPbyKAIA](http://twitter.com/search?q=%23TURNUPbyKAIA) | #TURNUPbyKAIA is a hashtag used to promote the music of Kaia, an American singer-songwriter. The phrase "turn up" is slang for having a good time, so the hashtag essentially means "have a good time with Kaia's music". |
+| 43 | [#ShowtimeBataKoTo](http://twitter.com/search?q=%23ShowtimeBataKoTo) | N/A |
+| 44 | [#NI_KI](http://twitter.com/search?q=%23NI_KI) | N/A |
+| 45 | [#BOYCOTTEBxGMA715](http://twitter.com/search?q=%23BOYCOTTEBxGMA715) | N/A |
+| 46 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
 
 
 

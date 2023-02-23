@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Malaysia
 
-📆 Last Updated: `2023-02-23 10:16:33 UTC`
+📆 Last Updated: `2023-02-23 11:16:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Malaysia
 | ------- | ------------ | ------------ |
 | 1 | [#SPM2022](http://twitter.com/search?q=%23SPM2022) | N/A |
 | 2 | [#SMCUEp3_Girls](http://twitter.com/search?q=%23SMCUEp3_Girls) | N/A |
-| 3 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
-| 4 | [WATCH SMCU EP3 NOW](http://twitter.com/search?q=WATCH+SMCU+EP3+NOW) | N/A |
-| 5 | [#IMAGINUR](http://twitter.com/search?q=%23IMAGINUR) | N/A |
-| 6 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 7 | [blessed ash wednesday](http://twitter.com/search?q=blessed+ash+wednesday) | N/A |
-| 8 | [GOODBYE NOW TXT](http://twitter.com/search?q=GOODBYE+NOW+TXT) | N/A |
-| 9 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
-| 10 | [Muse](http://twitter.com/search?q=Muse) | N/A |
-| 11 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 12 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 13 | [MILAN FASHION WEEK KANAWUT](http://twitter.com/search?q=MILAN+FASHION+WEEK+KANAWUT) | N/A |
-| 14 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 15 | [GoSe](http://twitter.com/search?q=GoSe) | N/A |
-| 16 | [o third concept photo](http://twitter.com/search?q=o+third+concept+photo) | N/A |
-| 17 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 18 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 19 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 20 | [Apink](http://twitter.com/search?q=Apink) | N/A |
-| 21 | [WILL OF THE PEOPLE](http://twitter.com/search?q=WILL+OF+THE+PEOPLE) | N/A |
-| 22 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
-| 23 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 24 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 26 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
-| 27 | [CHANBAEK](http://twitter.com/search?q=CHANBAEK) | N/A |
-| 28 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 29 | [munaa](http://twitter.com/search?q=munaa) | N/A |
-| 30 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 31 | [Islamophobia](http://twitter.com/search?q=Islamophobia) | N/A |
-| 32 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 33 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 34 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 35 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 36 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 37 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 38 | [SEOJINS PRESS CONFERENCE](http://twitter.com/search?q=SEOJINS+PRESS+CONFERENCE) | N/A |
-| 39 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
-| 40 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
-| 41 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 42 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 43 | [Dato](http://twitter.com/search?q=Dato) | N/A |
-| 44 | [Jooheon](http://twitter.com/search?q=Jooheon) | N/A |
-| 45 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 46 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
-| 47 | [sasaeng](http://twitter.com/search?q=sasaeng) | N/A |
-| 48 | [mino](http://twitter.com/search?q=mino) | N/A |
-| 49 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [#BSS6thWin](http://twitter.com/search?q=%23BSS6thWin) | N/A |
+| 4 | [#aespa](http://twitter.com/search?q=%23aespa) | N/A |
+| 5 | [#Fighting6thWin](http://twitter.com/search?q=%23Fighting6thWin) | N/A |
+| 6 | [WATCH SMCU EP3 NOW](http://twitter.com/search?q=WATCH+SMCU+EP3+NOW) | N/A |
+| 7 | [Blessed Ash Wednesday](http://twitter.com/search?q=Blessed+Ash+Wednesday) | N/A |
+| 8 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 9 | [Muse](http://twitter.com/search?q=Muse) | N/A |
+| 10 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 11 | [MILAN FASHION WEEK KANAWUT](http://twitter.com/search?q=MILAN+FASHION+WEEK+KANAWUT) | N/A |
+| 12 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 13 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 14 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 15 | [o third concept photo](http://twitter.com/search?q=o+third+concept+photo) | N/A |
+| 16 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 17 | [Apink](http://twitter.com/search?q=Apink) | N/A |
+| 18 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
+| 19 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 20 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 21 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 22 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 23 | [CHANBAEK](http://twitter.com/search?q=CHANBAEK) | N/A |
+| 24 | [mcountdown](http://twitter.com/search?q=mcountdown) | N/A |
+| 25 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 26 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 27 | [munaa](http://twitter.com/search?q=munaa) | N/A |
+| 28 | [hobi](http://twitter.com/search?q=hobi) | Hobi is a Korean word that means "hobby" in English. It is used to refer to activities that someone enjoys doing in their free time, such as playing sports, reading, or crafting. |
+| 29 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 30 | [Dato](http://twitter.com/search?q=Dato) | N/A |
+| 31 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 32 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 33 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 34 | [Jisoo](http://twitter.com/search?q=Jisoo) | N/A |
+| 35 | [Kyungsoo](http://twitter.com/search?q=Kyungsoo) | Kyungsoo is a Korean given name, usually for males. It is derived from the Chinese characters for “bright” and “handsome”. In English, it can be translated to mean “shining handsome one”. |
+| 36 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
+| 37 | [Blockchain](http://twitter.com/search?q=Blockchain) | N/A |
+| 38 | [Jooheon](http://twitter.com/search?q=Jooheon) | N/A |
+| 39 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 40 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
+| 41 | [sasaeng](http://twitter.com/search?q=sasaeng) | N/A |
+| 42 | [FOR FREE](http://twitter.com/search?q=FOR+FREE) | N/A |
+| 43 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 44 | [mino](http://twitter.com/search?q=mino) | N/A |
+| 45 | [gfriend](http://twitter.com/search?q=gfriend) | N/A |
+| 46 | [Spill](http://twitter.com/search?q=Spill) | N/A |
+| 47 | [sanha](http://twitter.com/search?q=sanha) | N/A |
+| 48 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 49 | [Coldplay](http://twitter.com/search?q=Coldplay) | Coldplay is a British rock band formed in London in 1996. The band's members are Chris Martin (lead vocals, guitar, piano), Jonny Buckland (guitar), Guy Berryman (bass) and Will Champion (drums, backing vocals). Coldplay is known for their melodic sound and emotional lyrics. Their music has been described as alternative rock, pop rock, post-Britpop and pop. |
+| 50 | [SPRM](http://twitter.com/search?q=SPRM) | N/A |
 
 
 
