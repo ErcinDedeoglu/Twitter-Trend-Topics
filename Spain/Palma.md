@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palma
 
-📆 Last Updated: `2023-02-23 00:29:44 UTC`
+📆 Last Updated: `2023-02-23 01:45:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#chiringuitoarbitros](http://twitter.com/search?q=%23chiringuitoarbitros) | N/A |
-| 2 | [#elconquis6ETB](http://twitter.com/search?q=%23elconquis6ETB) | N/A |
-| 3 | [#FirstDates22F](http://twitter.com/search?q=%23FirstDates22F) | N/A |
-| 4 | [#ElCirc](http://twitter.com/search?q=%23ElCirc) | N/A |
-| 5 | [#DiasDeTele](http://twitter.com/search?q=%23DiasDeTele) | N/A |
-| 6 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 7 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 8 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 9 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 10 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
-| 11 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 12 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 13 | [El City](http://twitter.com/search?q=El+City) | N/A |
-| 14 | [Ainara](http://twitter.com/search?q=Ainara) | N/A |
-| 15 | [Grealish](http://twitter.com/search?q=Grealish) | Grealish is an Irish surname derived from the Gaelic Ó Griallais, meaning "descendant of Griallach". It is most commonly found in County Galway and County Mayo. |
-| 16 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 17 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 18 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 19 | [El Columpio Asesino](http://twitter.com/search?q=El+Columpio+Asesino) | N/A |
-| 20 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 21 | [Tomás Díaz Ayuso](http://twitter.com/search?q=Tom%c3%a1s+D%c3%adaz+Ayuso) | N/A |
-| 22 | [Inés](http://twitter.com/search?q=In%c3%a9s) | N/A |
-| 23 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
-| 24 | [lola lolita](http://twitter.com/search?q=lola+lolita) | N/A |
-| 25 | [Oporto](http://twitter.com/search?q=Oporto) | N/A |
-| 26 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
-| 27 | [Amarillo](http://twitter.com/search?q=Amarillo) | N/A |
-| 28 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 29 | [marceline](http://twitter.com/search?q=marceline) | N/A |
-| 30 | [Tim Burton](http://twitter.com/search?q=Tim+Burton) | N/A |
-| 31 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
-| 32 | [Marc Márquez](http://twitter.com/search?q=Marc+M%c3%a1rquez) | N/A |
-| 33 | [Orestes](http://twitter.com/search?q=Orestes) | N/A |
-| 34 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 35 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
-| 36 | [GENTE DE BIEN](http://twitter.com/search?q=GENTE+DE+BIEN) | N/A |
-| 37 | [Pokemon](http://twitter.com/search?q=Pokemon) | N/A |
-| 38 | [Grammy](http://twitter.com/search?q=Grammy) | Grammy is short for the Grammy Awards, an annual awards ceremony that recognizes excellence in the music industry. It is presented by The Recording Academy, a U.S.-based organization of musicians, producers, recording engineers, and other music professionals. The awards are given in a variety of categories including Record of the Year, Album of the Year, Song of the Year, Best New Artist, and more. |
-| 39 | [Eurocámara](http://twitter.com/search?q=Euroc%c3%a1mara) | N/A |
-| 40 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 41 | [#CrisPorta22F](http://twitter.com/search?q=%23CrisPorta22F) | N/A |
-| 42 | [#Escandalo7](http://twitter.com/search?q=%23Escandalo7) | N/A |
-| 43 | [#YoMeRebelo23F](http://twitter.com/search?q=%23YoMeRebelo23F) | N/A |
-| 44 | [#EspecialObjetivo1AñoGuerra](http://twitter.com/search?q=%23EspecialObjetivo1A%c3%b1oGuerra) | N/A |
-| 45 | [#LaNoche24h](http://twitter.com/search?q=%23LaNoche24h) | N/A |
-| 46 | [#Solos22F](http://twitter.com/search?q=%23Solos22F) | N/A |
-| 47 | [#MocionDeCensura](http://twitter.com/search?q=%23MocionDeCensura) | N/A |
-| 48 | [#LárgateYaFelipeVI](http://twitter.com/search?q=%23L%c3%a1rgateYaFelipeVI) | N/A |
+| 1 | [#BKPcComponentes](http://twitter.com/search?q=%23BKPcComponentes) | N/A |
+| 2 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 3 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
+| 4 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 5 | [#chiringuitoarbitros](http://twitter.com/search?q=%23chiringuitoarbitros) | N/A |
+| 6 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 7 | [#ElCirc](http://twitter.com/search?q=%23ElCirc) | N/A |
+| 8 | [Whopper](http://twitter.com/search?q=Whopper) | N/A |
+| 9 | [#FirstDates22F](http://twitter.com/search?q=%23FirstDates22F) | N/A |
+| 10 | [#elconquis6etb](http://twitter.com/search?q=%23elconquis6etb) | N/A |
+| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 12 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 13 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 14 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 15 | [Nacho](http://twitter.com/search?q=Nacho) | Nacho is a Mexican dish consisting of tortilla chips covered with melted cheese and other toppings such as jalapenos, salsa, and sour cream. In English, it is commonly referred to as "nachos". |
+| 16 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 17 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 18 | [Amancio](http://twitter.com/search?q=Amancio) | N/A |
+| 19 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
+| 20 | [Antonio Machado](http://twitter.com/search?q=Antonio+Machado) | N/A |
+| 21 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 22 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
+| 23 | [Carvajal](http://twitter.com/search?q=Carvajal) | Carvajal is a Spanish surname derived from the name of a place in the province of Badajoz, Spain. The meaning of Carvajal in English is "from Carvajal". |
+| 24 | [Congreso](http://twitter.com/search?q=Congreso) | Congreso is the Spanish word for Congress. It is used to refer to a legislative body, such as the United States Congress or the Mexican Congress. In English, it is used to refer to any type of legislative assembly or gathering. |
+| 25 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 26 | [Tomás Díaz Ayuso](http://twitter.com/search?q=Tom%c3%a1s+D%c3%adaz+Ayuso) | N/A |
+| 27 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 28 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 29 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 30 | [comprimidos](http://twitter.com/search?q=comprimidos) | N/A |
+| 31 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
+| 32 | [Wunder](http://twitter.com/search?q=Wunder) | N/A |
+| 33 | [Alaba](http://twitter.com/search?q=Alaba) | Alaba is a Spanish word meaning "to praise" or "to glorify". It is often used in religious contexts to refer to praising God. |
+| 34 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 35 | [Fayna](http://twitter.com/search?q=Fayna) | N/A |
+| 36 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
+| 37 | [Pascua](http://twitter.com/search?q=Pascua) | N/A |
+| 38 | [Sr. Laporta](http://twitter.com/search?q=Sr.+Laporta) | N/A |
+| 39 | [Junts](http://twitter.com/search?q=Junts) | N/A |
+| 40 | [Komanche](http://twitter.com/search?q=Komanche) | N/A |
+| 41 | [Miriam Nogueras](http://twitter.com/search?q=Miriam+Nogueras) | N/A |
+| 42 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 43 | [Sánchez Dragó](http://twitter.com/search?q=S%c3%a1nchez+Drag%c3%b3) | N/A |
+| 44 | [Tendedero](http://twitter.com/search?q=Tendedero) | N/A |
+| 45 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
+| 46 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 47 | [Ainara](http://twitter.com/search?q=Ainara) | N/A |
+| 48 | [Grammy Latinos](http://twitter.com/search?q=Grammy+Latinos) | N/A |
+| 49 | [El CGPJ](http://twitter.com/search?q=El+CGPJ) | N/A |
+| 50 | [Carola](http://twitter.com/search?q=Carola) | Carola is a female given name of Latin origin, derived from the masculine name Carolus, which is the Latin form of Charles. It means "free man" or "strong". |
 
 
 

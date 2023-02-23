@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-23 00:30:15 UTC`
+📆 Last Updated: `2023-02-23 01:45:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Brazil
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [UNIAO GUSKEY](http://twitter.com/search?q=UNIAO+GUSKEY) | N/A |
-| 2 | [São Raimundo](http://twitter.com/search?q=S%c3%a3o+Raimundo) | N/A |
-| 3 | [#TinderMãozinhas](http://twitter.com/search?q=%23TinderM%c3%a3ozinhas) | N/A |
-| 4 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
-| 5 | [#ApuracaoRJ](http://twitter.com/search?q=%23ApuracaoRJ) | N/A |
-| 6 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 7 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
-| 8 | [tiago iorc](http://twitter.com/search?q=tiago+iorc) | N/A |
-| 9 | [VAI DONELÔ](http://twitter.com/search?q=VAI+DONEL%c3%94) | N/A |
-| 10 | [Kate](http://twitter.com/search?q=Kate) | N/A |
-| 11 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
-| 12 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 13 | [Braga](http://twitter.com/search?q=Braga) | Braga is a city in Portugal. It is the oldest city in the country and is known for its historical monuments, churches, and other attractions. In English, Braga means "hill". |
-| 14 | [#AdvertiseHere](http://twitter.com/search?q=%23AdvertiseHere) | N/A |
-| 15 | [MODESTIA NO FLUXO](http://twitter.com/search?q=MODESTIA+NO+FLUXO) | N/A |
-| 16 | [Império Serrano](http://twitter.com/search?q=Imp%c3%a9rio+Serrano) | N/A |
-| 17 | [Lampião](http://twitter.com/search?q=Lampi%c3%a3o) | N/A |
-| 18 | [Leandro Vieira](http://twitter.com/search?q=Leandro+Vieira) | N/A |
-| 19 | [Wilma](http://twitter.com/search?q=Wilma) | Wilma is a female given name of Germanic origin, derived from the elements wil, meaning "will or desire", and helm, meaning "helmet or protection". It is also a short form of Wilhelmina. In English, Wilma means "resolute protector". |
-| 20 | [Portela](http://twitter.com/search?q=Portela) | N/A |
-| 21 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 23 | [CACs](http://twitter.com/search?q=CACs) | N/A |
-| 24 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
-| 25 | [#ONEPIECE1076](http://twitter.com/search?q=%23ONEPIECE1076) | N/A |
-| 26 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
-| 27 | [Funky](http://twitter.com/search?q=Funky) | N/A |
-| 28 | [Allan Rosário](http://twitter.com/search?q=Allan+Ros%c3%a1rio) | N/A |
-| 29 | [yuqi](http://twitter.com/search?q=yuqi) | N/A |
-| 30 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
-| 31 | [Thomaz Bellucci](http://twitter.com/search?q=Thomaz+Bellucci) | N/A |
-| 32 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
-| 33 | [Ederson](http://twitter.com/search?q=Ederson) | Ederson is a Portuguese name derived from the Latin name Edward. It means "wealthy guardian" or "protector of wealth". |
-| 34 | [Mangueira](http://twitter.com/search?q=Mangueira) | N/A |
-| 35 | [BOPE](http://twitter.com/search?q=BOPE) | N/A |
-| 36 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 37 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 38 | [Miqueias](http://twitter.com/search?q=Miqueias) | N/A |
-| 39 | [Marcelinho](http://twitter.com/search?q=Marcelinho) | N/A |
-| 40 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
-| 41 | [Mocidade](http://twitter.com/search?q=Mocidade) | N/A |
-| 42 | [Série Ouro](http://twitter.com/search?q=S%c3%a9rie+Ouro) | N/A |
-| 43 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 44 | [Mossoró](http://twitter.com/search?q=Mossor%c3%b3) | N/A |
-| 45 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
-| 46 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
-| 47 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 48 | [Londrina](http://twitter.com/search?q=Londrina) | N/A |
-| 49 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
-| 50 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 1 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 2 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 3 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 4 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
+| 5 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
+| 6 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 7 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
+| 8 | [Raul Gustavo](http://twitter.com/search?q=Raul+Gustavo) | N/A |
+| 9 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
+| 10 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
+| 11 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 12 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
+| 13 | [Juba](http://twitter.com/search?q=Juba) | N/A |
+| 14 | [#PaulistaoNaRecord](http://twitter.com/search?q=%23PaulistaoNaRecord) | N/A |
+| 15 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
+| 16 | [UNIAO GUSKEY](http://twitter.com/search?q=UNIAO+GUSKEY) | N/A |
+| 17 | [tiago iorc](http://twitter.com/search?q=tiago+iorc) | N/A |
+| 18 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 19 | [#TinderMãozinhas](http://twitter.com/search?q=%23TinderM%c3%a3ozinhas) | N/A |
+| 20 | [VAI DONELÔ](http://twitter.com/search?q=VAI+DONEL%c3%94) | N/A |
+| 21 | [Paiva](http://twitter.com/search?q=Paiva) | Paiva is a Portuguese surname derived from the Latin word pagus, meaning "village". It is also a place name in Portugal, derived from the same root. In English, it can be translated as "village". |
+| 22 | [São Raimundo](http://twitter.com/search?q=S%c3%a3o+Raimundo) | N/A |
+| 23 | [#CopadoNordestenoSBT](http://twitter.com/search?q=%23CopadoNordestenoSBT) | N/A |
+| 24 | [#bigterapia](http://twitter.com/search?q=%23bigterapia) | N/A |
+| 25 | [Cuiabá](http://twitter.com/search?q=Cuiab%c3%a1) | Cuiabá is the capital city of the Brazilian state of Mato Grosso. The name Cuiabá is derived from the Tupi-Guarani language and means "the place where the cuiabá palm tree grows". In English, it can be translated to mean "palm tree place". |
+| 26 | [Igor Gomes](http://twitter.com/search?q=Igor+Gomes) | Igor Gomes is a Brazilian professional footballer who plays as an attacking midfielder for São Paulo FC. In English, his name means "warrior of the gods". |
+| 27 | [PINTOU NOTIFICAÇÃO](http://twitter.com/search?q=PINTOU+NOTIFICA%c3%87%c3%83O) | N/A |
+| 28 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
+| 29 | [Zaracho](http://twitter.com/search?q=Zaracho) | N/A |
+| 30 | [Essa Key](http://twitter.com/search?q=Essa+Key) | Essa Key is a term used in the Indian state of Kerala to refer to a type of traditional key. It is a flat, metal key with a round head and a long, thin stem that is used to open locks on doors and windows. The term comes from the Malayalam word "essa," which means "key." |
+| 31 | [Sinop](http://twitter.com/search?q=Sinop) | N/A |
+| 32 | [Imperatriz](http://twitter.com/search?q=Imperatriz) | N/A |
+| 33 | [Aderlan](http://twitter.com/search?q=Aderlan) | N/A |
+| 34 | [Porto da Pedra](http://twitter.com/search?q=Porto+da+Pedra) | N/A |
+| 35 | [Arana](http://twitter.com/search?q=Arana) | Arana is a Spanish word meaning "spider". |
+| 36 | [Marcelinho](http://twitter.com/search?q=Marcelinho) | N/A |
+| 37 | [Marcos Felipe](http://twitter.com/search?q=Marcos+Felipe) | N/A |
+| 38 | [O Sport](http://twitter.com/search?q=O+Sport) | N/A |
+| 39 | [Moretti](http://twitter.com/search?q=Moretti) | N/A |
+| 40 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 41 | [CACs](http://twitter.com/search?q=CACs) | N/A |
+| 42 | [Marsiglia](http://twitter.com/search?q=Marsiglia) | N/A |
+| 43 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
+| 44 | [Douglas Marques](http://twitter.com/search?q=Douglas+Marques) | N/A |
+| 45 | [Enderson Moreira](http://twitter.com/search?q=Enderson+Moreira) | N/A |
+| 46 | [Ilha do Retiro](http://twitter.com/search?q=Ilha+do+Retiro) | N/A |
+| 47 | [Paysandu](http://twitter.com/search?q=Paysandu) | N/A |
+| 48 | [Lampião](http://twitter.com/search?q=Lampi%c3%a3o) | N/A |
+| 49 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 50 | [Borel](http://twitter.com/search?q=Borel) | N/A |
 
 
 

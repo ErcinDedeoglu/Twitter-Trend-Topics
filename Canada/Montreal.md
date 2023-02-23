@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-02-23 00:29:26 UTC`
+📆 Last Updated: `2023-02-23 01:44:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PinkShirtDay](http://twitter.com/search?q=%23PinkShirtDay) | N/A |
-| 2 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
 | 3 | [Zaitsev](http://twitter.com/search?q=Zaitsev) | N/A |
-| 4 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 5 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 6 | [#LiftEachOtherUp](http://twitter.com/search?q=%23LiftEachOtherUp) | N/A |
-| 7 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 8 | [#BeKind](http://twitter.com/search?q=%23BeKind) | N/A |
-| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 4 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 5 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
+| 6 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 7 | [#LiftEachOtherUp](http://twitter.com/search?q=%23LiftEachOtherUp) | N/A |
+| 8 | [Future Considerations](http://twitter.com/search?q=Future+Considerations) | N/A |
+| 9 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
 | 10 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 11 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 12 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
-| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 14 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
-| 15 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
-| 16 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 17 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 18 | [Melanie Mark](http://twitter.com/search?q=Melanie+Mark) | N/A |
-| 19 | [Pancake Tuesday](http://twitter.com/search?q=Pancake+Tuesday) | N/A |
-| 20 | [Jake Muzzin](http://twitter.com/search?q=Jake+Muzzin) | N/A |
-| 21 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 22 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 23 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 24 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
-| 25 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
-| 26 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
-| 27 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 28 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
-| 29 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 30 | [Tyler Myers](http://twitter.com/search?q=Tyler+Myers) | N/A |
-| 31 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 32 | [Leafs](http://twitter.com/search?q=Leafs) | Leafs is a nickname for the Toronto Maple Leafs, a professional ice hockey team based in Toronto, Canada. The name is derived from the team's logo, which features a maple leaf. |
-| 33 | [Carey Price](http://twitter.com/search?q=Carey+Price) | N/A |
-| 34 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 35 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 36 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
-| 37 | [Canadian Screen Awards](http://twitter.com/search?q=Canadian+Screen+Awards) | N/A |
-| 38 | [Bluesfest](http://twitter.com/search?q=Bluesfest) | N/A |
-| 39 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 40 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 41 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 42 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
-| 43 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 44 | [Cartoon Network](http://twitter.com/search?q=Cartoon+Network) | Cartoon Network is an American cable television channel owned by WarnerMedia Entertainment, a division of AT&T's WarnerMedia. It primarily broadcasts animated programming, ranging from action to animated comedy. Cartoon Network's programming mainly targets children and teenagers between the ages of 7–15, and also targets older teens and adults with mature content during its late night daypart Adult Swim. |
-| 45 | [Churchill Falls](http://twitter.com/search?q=Churchill+Falls) | N/A |
-| 46 | [Raty](http://twitter.com/search?q=Raty) | Raty is a Finnish online payment system that allows customers to pay for goods and services in installments. It is similar to a layaway plan, allowing customers to pay for items over time rather than all at once. The word Raty is derived from the Finnish word "ratkaista," which means "to solve." |
-| 47 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 48 | [Dysin Mayo](http://twitter.com/search?q=Dysin+Mayo) | N/A |
-| 49 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 50 | [Air Canada](http://twitter.com/search?q=Air+Canada) | N/A |
+| 11 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 12 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 13 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 14 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
+| 15 | [Dorion](http://twitter.com/search?q=Dorion) | N/A |
+| 16 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
+| 17 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 18 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
+| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 20 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 21 | [Pancake Tuesday](http://twitter.com/search?q=Pancake+Tuesday) | N/A |
+| 22 | [Melanie Mark](http://twitter.com/search?q=Melanie+Mark) | N/A |
+| 23 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 24 | [Debrincat](http://twitter.com/search?q=Debrincat) | N/A |
+| 25 | [Chicago](http://twitter.com/search?q=Chicago) | N/A |
+| 26 | [Shrove Tuesday](http://twitter.com/search?q=Shrove+Tuesday) | N/A |
+| 27 | [Jake Muzzin](http://twitter.com/search?q=Jake+Muzzin) | N/A |
+| 28 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 29 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 30 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 31 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 32 | [Wheeler](http://twitter.com/search?q=Wheeler) | Wheeler is a surname of English origin. It is derived from the Old English word "wealh" meaning "foreigner" or "stranger". The name was originally given to someone who had come from a foreign land. It can also be used as a nickname for someone who is always on the move or who travels frequently. |
+| 33 | [Dookey Dash](http://twitter.com/search?q=Dookey+Dash) | N/A |
+| 34 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 35 | [Buffalo](http://twitter.com/search?q=Buffalo) | Buffalo is a large, shaggy-haired bovine found in North America and parts of Europe and Asia. It is also the name of a city in New York State. The word buffalo is derived from the French word "bœuf," which means ox or bullock. In English, it can refer to either the animal or the city. |
+| 36 | [Schenn](http://twitter.com/search?q=Schenn) | N/A |
+| 37 | [Ceci](http://twitter.com/search?q=Ceci) | N/A |
+| 38 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 39 | [Canadian Screen Awards](http://twitter.com/search?q=Canadian+Screen+Awards) | N/A |
+| 40 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 41 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 42 | [Francesca](http://twitter.com/search?q=Francesca) | N/A |
+| 43 | [Tyler Myers](http://twitter.com/search?q=Tyler+Myers) | N/A |
+| 44 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 45 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 46 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
+| 47 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
+| 48 | [Cartoon Network](http://twitter.com/search?q=Cartoon+Network) | Cartoon Network is an American cable television channel owned by WarnerMedia Entertainment, a division of AT&T's WarnerMedia. It primarily broadcasts animated programming, ranging from action to animated comedy. Cartoon Network's programming mainly targets children and teenagers between the ages of 7–15, and also targets older teens and adults with mature content during its late night daypart Adult Swim. |
+| 49 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 50 | [Google](http://twitter.com/search?q=Google) | N/A |
 
 
 

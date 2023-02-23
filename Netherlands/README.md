@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-23 00:30:18 UTC`
+📆 Last Updated: `2023-02-23 01:45:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for Netherlands
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 2 | [#jinek](http://twitter.com/search?q=%23jinek) | N/A |
-| 3 | [#mafs](http://twitter.com/search?q=%23mafs) | N/A |
+| 2 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 3 | [#jinek](http://twitter.com/search?q=%23jinek) | N/A |
 | 4 | [#vunzigewoensdag](http://twitter.com/search?q=%23vunzigewoensdag) | N/A |
 | 5 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
 | 6 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
@@ -25,45 +25,45 @@ This is top 50 for Netherlands
 | 8 | [#FirstDates](http://twitter.com/search?q=%23FirstDates) | N/A |
 | 9 | [Cora](http://twitter.com/search?q=Cora) | N/A |
 | 10 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 11 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 12 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 13 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
-| 14 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
-| 15 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 16 | [Venetië](http://twitter.com/search?q=Veneti%c3%ab) | N/A |
-| 17 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 18 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
-| 19 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 21 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 22 | [Loes](http://twitter.com/search?q=Loes) | N/A |
-| 23 | [netbeheerders](http://twitter.com/search?q=netbeheerders) | N/A |
-| 24 | [gl-kamerlid kröger](http://twitter.com/search?q=gl-kamerlid+kr%c3%b6ger) | N/A |
-| 25 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 26 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 27 | [Johan Remkes](http://twitter.com/search?q=Johan+Remkes) | N/A |
-| 28 | [Dag 22](http://twitter.com/search?q=Dag+22) | N/A |
-| 29 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
-| 30 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
-| 31 | [rishon](http://twitter.com/search?q=rishon) | N/A |
-| 32 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
+| 11 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 12 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
+| 13 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
+| 14 | [Venetië](http://twitter.com/search?q=Veneti%c3%ab) | N/A |
+| 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 16 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
+| 17 | [Loes](http://twitter.com/search?q=Loes) | N/A |
+| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 19 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 21 | [netbeheerders](http://twitter.com/search?q=netbeheerders) | N/A |
+| 22 | [gl-kamerlid kröger](http://twitter.com/search?q=gl-kamerlid+kr%c3%b6ger) | N/A |
+| 23 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
+| 24 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 25 | [Johan Remkes](http://twitter.com/search?q=Johan+Remkes) | N/A |
+| 26 | [dag 22](http://twitter.com/search?q=dag+22) | N/A |
+| 27 | [Rob de Wijk](http://twitter.com/search?q=Rob+de+Wijk) | N/A |
+| 28 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
+| 29 | [rishon](http://twitter.com/search?q=rishon) | N/A |
+| 30 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
+| 31 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 32 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 33 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
-| 34 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
-| 35 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 36 | [Vollenbroek](http://twitter.com/search?q=Vollenbroek) | N/A |
-| 37 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
-| 38 | [Rob de Wijk](http://twitter.com/search?q=Rob+de+Wijk) | N/A |
-| 39 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 40 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 41 | [Cameron](http://twitter.com/search?q=Cameron) | N/A |
-| 42 | [Shula Rijxman](http://twitter.com/search?q=Shula+Rijxman) | N/A |
-| 43 | [Geel](http://twitter.com/search?q=Geel) | N/A |
-| 44 | [Machiavelli](http://twitter.com/search?q=Machiavelli) | N/A |
-| 45 | [De SGP](http://twitter.com/search?q=De+SGP) | N/A |
-| 46 | [Hertog Jan](http://twitter.com/search?q=Hertog+Jan) | N/A |
-| 47 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
-| 48 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
-| 49 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 34 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
+| 35 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
+| 36 | [vollenbroek](http://twitter.com/search?q=vollenbroek) | N/A |
+| 37 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 38 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 39 | [Shula Rijxman](http://twitter.com/search?q=Shula+Rijxman) | N/A |
+| 40 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 41 | [Geel](http://twitter.com/search?q=Geel) | N/A |
+| 42 | [Machiavelli](http://twitter.com/search?q=Machiavelli) | N/A |
+| 43 | [de sgp](http://twitter.com/search?q=de+sgp) | N/A |
+| 44 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
+| 45 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
+| 46 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 47 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 48 | [groenteprijzen](http://twitter.com/search?q=groenteprijzen) | N/A |
+| 49 | [Zuid-Europa](http://twitter.com/search?q=Zuid-Europa) | N/A |
 | 50 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
 
 

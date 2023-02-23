@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Louisville
 
-📆 Last Updated: `2023-02-23 00:30:09 UTC`
+📆 Last Updated: `2023-02-23 01:45:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#kyga23](http://twitter.com/search?q=%23kyga23) | N/A |
-| 2 | [#AdvertiseHere](http://twitter.com/search?q=%23AdvertiseHere) | N/A |
-| 3 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 4 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 5 | [#dropkwite](http://twitter.com/search?q=%23dropkwite) | N/A |
-| 6 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
-| 7 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 8 | [#MakeASongSmarter](http://twitter.com/search?q=%23MakeASongSmarter) | N/A |
-| 9 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
-| 10 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 11 | [Charlie Taylor](http://twitter.com/search?q=Charlie+Taylor) | N/A |
-| 12 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
-| 13 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
-| 14 | [Steve Saunders](http://twitter.com/search?q=Steve+Saunders) | N/A |
-| 15 | [Ivanka Trump](http://twitter.com/search?q=Ivanka+Trump) | N/A |
-| 16 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
-| 17 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 18 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
-| 19 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
-| 20 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 21 | [Bynum](http://twitter.com/search?q=Bynum) | N/A |
-| 22 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
-| 23 | [Tee Martin](http://twitter.com/search?q=Tee+Martin) | N/A |
-| 24 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 25 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 26 | [Apprehended](http://twitter.com/search?q=Apprehended) | N/A |
-| 27 | [Dookey Dash](http://twitter.com/search?q=Dookey+Dash) | N/A |
-| 28 | [luke hemmings](http://twitter.com/search?q=luke+hemmings) | N/A |
-| 29 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 30 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 31 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
-| 32 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 33 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
-| 34 | [Ivanka and Jared](http://twitter.com/search?q=Ivanka+and+Jared) | N/A |
-| 35 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 36 | [RIP NIP](http://twitter.com/search?q=RIP+NIP) | N/A |
-| 37 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
-| 38 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 39 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 40 | [The Glove](http://twitter.com/search?q=The+Glove) | N/A |
-| 41 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
-| 42 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 43 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 44 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
-| 45 | [E. Palestine](http://twitter.com/search?q=E.+Palestine) | N/A |
-| 46 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
-| 47 | [Dakota Jordan](http://twitter.com/search?q=Dakota+Jordan) | N/A |
+| 1 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 3 | [#AdvertiseHere](http://twitter.com/search?q=%23AdvertiseHere) | N/A |
+| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 5 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
+| 6 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 7 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
+| 8 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
+| 9 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 10 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
+| 11 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
+| 12 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 13 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 14 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 15 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 16 | [Debbie Gibson](http://twitter.com/search?q=Debbie+Gibson) | N/A |
+| 17 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
+| 18 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 19 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
+| 20 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 21 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
+| 22 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 23 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
+| 24 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 25 | [Peter Avalon](http://twitter.com/search?q=Peter+Avalon) | N/A |
+| 26 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 27 | [Crime Hills](http://twitter.com/search?q=Crime+Hills) | N/A |
+| 28 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
+| 29 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
+| 30 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 31 | [Keith Melvin Moses](http://twitter.com/search?q=Keith+Melvin+Moses) | N/A |
+| 32 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
+| 33 | [Howie Mandel](http://twitter.com/search?q=Howie+Mandel) | N/A |
+| 34 | [Cason](http://twitter.com/search?q=Cason) | N/A |
+| 35 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
+| 36 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
+| 37 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 38 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
+| 39 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
+| 40 | [Zaitsev](http://twitter.com/search?q=Zaitsev) | N/A |
+| 41 | [Future Considerations](http://twitter.com/search?q=Future+Considerations) | N/A |
+| 42 | [Hunter Tyson](http://twitter.com/search?q=Hunter+Tyson) | N/A |
+| 43 | [Crystal Dunn](http://twitter.com/search?q=Crystal+Dunn) | N/A |
+| 44 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 45 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
+| 46 | [Apprehended](http://twitter.com/search?q=Apprehended) | N/A |
+| 47 | [Charlie Taylor](http://twitter.com/search?q=Charlie+Taylor) | N/A |
 
 
 

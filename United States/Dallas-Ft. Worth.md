@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-23 00:30:07 UTC`
+📆 Last Updated: `2023-02-23 01:45:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 2 | [Lance](http://twitter.com/search?q=Lance) | N/A |
-| 3 | [#AdvertiseHere](http://twitter.com/search?q=%23AdvertiseHere) | N/A |
-| 4 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 5 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 6 | [#dropkwite](http://twitter.com/search?q=%23dropkwite) | N/A |
-| 7 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
-| 8 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 9 | [#MakeASongSmarter](http://twitter.com/search?q=%23MakeASongSmarter) | N/A |
-| 10 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
-| 11 | [#EastPalenstineOH](http://twitter.com/search?q=%23EastPalenstineOH) | N/A |
-| 12 | [#NationalMargaritaDay](http://twitter.com/search?q=%23NationalMargaritaDay) | N/A |
-| 13 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 14 | [Charlie Taylor](http://twitter.com/search?q=Charlie+Taylor) | N/A |
-| 15 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
-| 16 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
-| 17 | [Steve Saunders](http://twitter.com/search?q=Steve+Saunders) | N/A |
-| 18 | [Ivanka Trump](http://twitter.com/search?q=Ivanka+Trump) | N/A |
-| 19 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
-| 20 | [Mariota](http://twitter.com/search?q=Mariota) | N/A |
-| 21 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
-| 22 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
-| 23 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 24 | [Bynum](http://twitter.com/search?q=Bynum) | N/A |
-| 25 | [Nipsey Hussle](http://twitter.com/search?q=Nipsey+Hussle) | N/A |
-| 26 | [Tee Martin](http://twitter.com/search?q=Tee+Martin) | N/A |
-| 27 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 28 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 29 | [Apprehended](http://twitter.com/search?q=Apprehended) | N/A |
-| 30 | [Dookey Dash](http://twitter.com/search?q=Dookey+Dash) | N/A |
-| 31 | [luke hemmings](http://twitter.com/search?q=luke+hemmings) | N/A |
-| 32 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 33 | [Shawn Kemp](http://twitter.com/search?q=Shawn+Kemp) | N/A |
-| 34 | [Where's Biden](http://twitter.com/search?q=Where%27s+Biden) | N/A |
-| 35 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 36 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 37 | [Eric Holder](http://twitter.com/search?q=Eric+Holder) | N/A |
-| 38 | [Ivanka and Jared](http://twitter.com/search?q=Ivanka+and+Jared) | N/A |
-| 39 | [RIP NIP](http://twitter.com/search?q=RIP+NIP) | N/A |
-| 40 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
-| 41 | [Lukaku](http://twitter.com/search?q=Lukaku) | Lukaku is a surname of Belgian origin. It is derived from the Dutch word "luk", meaning "lock". The name is most commonly associated with Romelu Lukaku, a professional soccer player who currently plays for Inter Milan. |
-| 42 | [My President](http://twitter.com/search?q=My+President) | N/A |
-| 43 | [The Glove](http://twitter.com/search?q=The+Glove) | N/A |
-| 44 | [Gary Payton](http://twitter.com/search?q=Gary+Payton) | N/A |
-| 45 | [Uranium](http://twitter.com/search?q=Uranium) | N/A |
-| 46 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 47 | [Robert Woods](http://twitter.com/search?q=Robert+Woods) | N/A |
-| 48 | [E. Palestine](http://twitter.com/search?q=E.+Palestine) | N/A |
-| 49 | [Lewan](http://twitter.com/search?q=Lewan) | N/A |
-| 50 | [Dakota Jordan](http://twitter.com/search?q=Dakota+Jordan) | N/A |
+| 1 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 2 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 3 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 5 | [#AdvertiseHere](http://twitter.com/search?q=%23AdvertiseHere) | N/A |
+| 6 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 7 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
+| 8 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
+| 9 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 10 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
+| 11 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
+| 12 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 13 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 14 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
+| 15 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
+| 16 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 17 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 18 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 19 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 20 | [Debbie Gibson](http://twitter.com/search?q=Debbie+Gibson) | N/A |
+| 21 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
+| 22 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 23 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
+| 24 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 25 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
+| 26 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 27 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
+| 28 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 29 | [Peter Avalon](http://twitter.com/search?q=Peter+Avalon) | N/A |
+| 30 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
+| 31 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 32 | [Crime Hills](http://twitter.com/search?q=Crime+Hills) | N/A |
+| 33 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
+| 34 | [Howie Mandel](http://twitter.com/search?q=Howie+Mandel) | N/A |
+| 35 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
+| 36 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
+| 37 | [Cason](http://twitter.com/search?q=Cason) | N/A |
+| 38 | [Keith Melvin Moses](http://twitter.com/search?q=Keith+Melvin+Moses) | N/A |
+| 39 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 40 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
+| 41 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
+| 42 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 43 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
+| 44 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
+| 45 | [Zaitsev](http://twitter.com/search?q=Zaitsev) | N/A |
+| 46 | [Future Considerations](http://twitter.com/search?q=Future+Considerations) | N/A |
+| 47 | [Hunter Tyson](http://twitter.com/search?q=Hunter+Tyson) | N/A |
+| 48 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
+| 49 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
+| 50 | [Crystal Dunn](http://twitter.com/search?q=Crystal+Dunn) | N/A |
 
 
 
