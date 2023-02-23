@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-23 18:16:56 UTC`
+📆 Last Updated: `2023-02-23 19:16:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Germany
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
-| 2 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
-| 3 | [#veganeSongs](http://twitter.com/search?q=%23veganeSongs) | N/A |
-| 4 | [#sonsoftheforest](http://twitter.com/search?q=%23sonsoftheforest) | N/A |
+| 2 | [#sonsoftheforest](http://twitter.com/search?q=%23sonsoftheforest) | N/A |
+| 3 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
+| 4 | [#dasperfektedinner](http://twitter.com/search?q=%23dasperfektedinner) | N/A |
 | 5 | [#ASMB04](http://twitter.com/search?q=%23ASMB04) | N/A |
-| 6 | [Clemens Arvay](http://twitter.com/search?q=Clemens+Arvay) | N/A |
-| 7 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
-| 8 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 9 | [Willi](http://twitter.com/search?q=Willi) | N/A |
-| 10 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 11 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 6 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 7 | [Clemens](http://twitter.com/search?q=Clemens) | Clemens is a surname of German origin. It is derived from the Latin word clemens, which means "merciful" or "gentle". |
+| 8 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
+| 9 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 10 | [Siezen](http://twitter.com/search?q=Siezen) | N/A |
+| 11 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
 | 12 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
-| 13 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
-| 14 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 15 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 16 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 17 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 18 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
+| 13 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 14 | [Lamm](http://twitter.com/search?q=Lamm) | N/A |
+| 15 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
+| 16 | [Weißwurstzuzzeln](http://twitter.com/search?q=Wei%c3%9fwurstzuzzeln) | N/A |
+| 17 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 18 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
 | 19 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
-| 20 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 20 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
 | 21 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
-| 22 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
-| 23 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
-| 24 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 25 | [Jochen](http://twitter.com/search?q=Jochen) | N/A |
-| 26 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
+| 22 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
+| 23 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
+| 24 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 25 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 26 | [Freitod](http://twitter.com/search?q=Freitod) | N/A |
 | 27 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
-| 28 | [Daniela](http://twitter.com/search?q=Daniela) | Daniela is a feminine given name of Hebrew origin, meaning "God is my judge". |
-| 29 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 28 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
+| 29 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
 | 30 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
-| 31 | [Privatjets](http://twitter.com/search?q=Privatjets) | N/A |
+| 31 | [Steam](http://twitter.com/search?q=Steam) | N/A |
 | 32 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 33 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
-| 34 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
-| 35 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
-| 36 | [Set Me Free](http://twitter.com/search?q=Set+Me+Free) | N/A |
-| 37 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
-| 38 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
+| 33 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
+| 34 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 35 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 36 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
+| 37 | [raffelhüschen](http://twitter.com/search?q=raffelh%c3%bcschen) | N/A |
+| 38 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
 | 39 | [Selbstbeteiligung](http://twitter.com/search?q=Selbstbeteiligung) | N/A |
-| 40 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 41 | [Öl auf die Straße](http://twitter.com/search?q=%c3%96l+auf+die+Stra%c3%9fe) | N/A |
-| 42 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 43 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 44 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
-| 45 | [Kai Julius](http://twitter.com/search?q=Kai+Julius) | N/A |
-| 46 | [Brennweite](http://twitter.com/search?q=Brennweite) | N/A |
-| 47 | [Boje](http://twitter.com/search?q=Boje) | N/A |
-| 48 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
-| 49 | [Katharina](http://twitter.com/search?q=Katharina) | N/A |
-| 50 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
+| 40 | [Alkoholmissbrauch](http://twitter.com/search?q=Alkoholmissbrauch) | N/A |
+| 41 | [Jochen](http://twitter.com/search?q=Jochen) | N/A |
+| 42 | [Willi](http://twitter.com/search?q=Willi) | N/A |
+| 43 | [Lieblings Fußball Teams](http://twitter.com/search?q=Lieblings+Fu%c3%9fball+Teams) | N/A |
+| 44 | [Netto](http://twitter.com/search?q=Netto) | N/A |
+| 45 | [Öl auf die Straße](http://twitter.com/search?q=%c3%96l+auf+die+Stra%c3%9fe) | N/A |
+| 46 | [Schönen Donnerstag](http://twitter.com/search?q=Sch%c3%b6nen+Donnerstag) | N/A |
+| 47 | [Kai Julius](http://twitter.com/search?q=Kai+Julius) | N/A |
+| 48 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
+| 49 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 50 | [Norma](http://twitter.com/search?q=Norma) | N/A |
 
 
 

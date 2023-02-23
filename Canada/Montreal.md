@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-02-23 18:15:59 UTC`
+📆 Last Updated: `2023-02-23 19:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
 | 2 | [#PinkShirtDay](http://twitter.com/search?q=%23PinkShirtDay) | N/A |
 | 3 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
-| 4 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 7 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
-| 8 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 9 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 10 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 11 | [Zaitsev](http://twitter.com/search?q=Zaitsev) | N/A |
-| 12 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 13 | [#snowday](http://twitter.com/search?q=%23snowday) | N/A |
-| 14 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 15 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 16 | [42% of Canadians](http://twitter.com/search?q=42%25+of+Canadians) | N/A |
-| 17 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 18 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 19 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
-| 20 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 21 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
-| 22 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 23 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 24 | [SET ME FREE PT2](http://twitter.com/search?q=SET+ME+FREE+PT2) | N/A |
-| 25 | [Melanie Mark](http://twitter.com/search?q=Melanie+Mark) | N/A |
-| 26 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 4 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 5 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 6 | [#Flames1stGoal](http://twitter.com/search?q=%23Flames1stGoal) | N/A |
+| 7 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 8 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 9 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 10 | [#sonsoftheforest](http://twitter.com/search?q=%23sonsoftheforest) | N/A |
+| 11 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 12 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 13 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 14 | [Zaitsev](http://twitter.com/search?q=Zaitsev) | N/A |
+| 15 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 16 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 17 | [42% of Canadians](http://twitter.com/search?q=42%25+of+Canadians) | N/A |
+| 18 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
+| 21 | [Melanie Mark](http://twitter.com/search?q=Melanie+Mark) | N/A |
+| 22 | [Big Brother](http://twitter.com/search?q=Big+Brother) | N/A |
+| 23 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 24 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 25 | [Kirby Dach](http://twitter.com/search?q=Kirby+Dach) | N/A |
+| 26 | [Muzz](http://twitter.com/search?q=Muzz) | N/A |
 | 27 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 28 | [Muzz](http://twitter.com/search?q=Muzz) | N/A |
-| 29 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 30 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 31 | [4 in 10 Canadians](http://twitter.com/search?q=4+in+10+Canadians) | N/A |
-| 32 | [Integrity Commissioner](http://twitter.com/search?q=Integrity+Commissioner) | N/A |
-| 33 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 34 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 35 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
-| 36 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 37 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 38 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 39 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 40 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 41 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 42 | [Fitzgibbon](http://twitter.com/search?q=Fitzgibbon) | N/A |
-| 43 | [Pete Buttigieg](http://twitter.com/search?q=Pete+Buttigieg) | Pete Buttigieg is the current mayor of South Bend, Indiana and a 2020 Democratic presidential candidate. His name is pronounced "boot-edge-edge". The name is of Maltese origin and means "lord of the chickens". |
-| 44 | [Bill C-18](http://twitter.com/search?q=Bill+C-18) | N/A |
-| 45 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 46 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 47 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 48 | [Dorion](http://twitter.com/search?q=Dorion) | N/A |
-| 49 | [Future Considerations](http://twitter.com/search?q=Future+Considerations) | N/A |
+| 28 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 29 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 30 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 31 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 32 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
+| 33 | [Fitzgibbon](http://twitter.com/search?q=Fitzgibbon) | N/A |
+| 34 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 35 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 36 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 37 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 38 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 39 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
+| 40 | [Bill C-18](http://twitter.com/search?q=Bill+C-18) | N/A |
+| 41 | [Dube](http://twitter.com/search?q=Dube) | N/A |
+| 42 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 43 | [Fraser Institute](http://twitter.com/search?q=Fraser+Institute) | N/A |
+| 44 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 45 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 46 | [Pete Buttigieg](http://twitter.com/search?q=Pete+Buttigieg) | Pete Buttigieg is the current mayor of South Bend, Indiana and a 2020 Democratic presidential candidate. His name is pronounced "boot-edge-edge". The name is of Maltese origin and means "lord of the chickens". |
+| 47 | [Pelletier](http://twitter.com/search?q=Pelletier) | N/A |
+| 48 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 49 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-02-23 18:16:38 UTC`
+📆 Last Updated: `2023-02-23 19:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [नगर निगम](http://twitter.com/search?q=%e0%a4%a8%e0%a4%97%e0%a4%b0+%e0%a4%a8%e0%a4%bf%e0%a4%97%e0%a4%ae) | N/A |
-| 2 | [शिक्षक भर्ती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95+%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80) | N/A |
-| 3 | [#INDWvsAUSW](http://twitter.com/search?q=%23INDWvsAUSW) | N/A |
-| 4 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
-| 5 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
-| 6 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 7 | [#AUSvIND](http://twitter.com/search?q=%23AUSvIND) | N/A |
-| 8 | [#JemimahRodrigues](http://twitter.com/search?q=%23JemimahRodrigues) | N/A |
-| 9 | [Richa](http://twitter.com/search?q=Richa) | N/A |
-| 10 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 1 | [शिक्षक भर्ती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95+%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80) | N/A |
+| 2 | [#INDWvsAUSW](http://twitter.com/search?q=%23INDWvsAUSW) | N/A |
+| 3 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
+| 4 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
+| 5 | [#GEFighting](http://twitter.com/search?q=%23GEFighting) | N/A |
+| 6 | [#HappyBirthdayNani](http://twitter.com/search?q=%23HappyBirthdayNani) | N/A |
+| 7 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 8 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 9 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 10 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
 | 11 | [WATCH PATHAAN IN 110RS](http://twitter.com/search?q=WATCH+PATHAAN+IN+110RS) | N/A |
-| 12 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 13 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 14 | [Deepti Sharma](http://twitter.com/search?q=Deepti+Sharma) | N/A |
-| 15 | [Sushant Driven By Curiosity](http://twitter.com/search?q=Sushant+Driven+By+Curiosity) | N/A |
-| 16 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 17 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 18 | [भूपेंद्र सारण](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%a3) | N/A |
+| 12 | [Richa](http://twitter.com/search?q=Richa) | N/A |
+| 13 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 14 | [Sushant Driven By Curiosity](http://twitter.com/search?q=Sushant+Driven+By+Curiosity) | N/A |
+| 15 | [Deepti](http://twitter.com/search?q=Deepti) | N/A |
+| 16 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 17 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 18 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
 | 19 | [Fielding](http://twitter.com/search?q=Fielding) | N/A |
 | 20 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 21 | [SET ME FREE PT 2](http://twitter.com/search?q=SET+ME+FREE+PT+2) | N/A |
+| 21 | [भूपेंद्र सारण](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%a3) | N/A |
 | 22 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 23 | [Well Played](http://twitter.com/search?q=Well+Played) | N/A |
-| 24 | [Chokers](http://twitter.com/search?q=Chokers) | N/A |
+| 23 | [Chokers](http://twitter.com/search?q=Chokers) | N/A |
+| 24 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
 | 25 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
 | 26 | [WIPL](http://twitter.com/search?q=WIPL) | N/A |
-| 27 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
-| 28 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
-| 29 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 27 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 28 | [Well Played](http://twitter.com/search?q=Well+Played) | N/A |
+| 29 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
 | 30 | [Congratulations Australia](http://twitter.com/search?q=Congratulations+Australia) | N/A |
-| 31 | [Australia Women](http://twitter.com/search?q=Australia+Women) | N/A |
-| 32 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 33 | [Jay Shah](http://twitter.com/search?q=Jay+Shah) | N/A |
-| 34 | [Pdogg](http://twitter.com/search?q=Pdogg) | N/A |
-| 35 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 36 | [Mastercard](http://twitter.com/search?q=Mastercard) | N/A |
-| 37 | [Shafali Verma](http://twitter.com/search?q=Shafali+Verma) | N/A |
-| 38 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 39 | [Indian Women](http://twitter.com/search?q=Indian+Women) | N/A |
-| 40 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 41 | [Lazy](http://twitter.com/search?q=Lazy) | N/A |
-| 42 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 43 | [Beth Mooney](http://twitter.com/search?q=Beth+Mooney) | N/A |
-| 44 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 45 | [Captain](http://twitter.com/search?q=Captain) | N/A |
-| 46 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 47 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 48 | [#AjayBanga](http://twitter.com/search?q=%23AjayBanga) | N/A |
-| 49 | [#WorldBank](http://twitter.com/search?q=%23WorldBank) | N/A |
-| 50 | [#GEFighting](http://twitter.com/search?q=%23GEFighting) | N/A |
+| 31 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
+| 32 | [Jay Shah](http://twitter.com/search?q=Jay+Shah) | N/A |
+| 33 | [Shafali Verma](http://twitter.com/search?q=Shafali+Verma) | N/A |
+| 34 | [Mastercard](http://twitter.com/search?q=Mastercard) | N/A |
+| 35 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 36 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 37 | [Indian Women](http://twitter.com/search?q=Indian+Women) | N/A |
+| 38 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
+| 39 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 40 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 41 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 42 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 43 | [Captain](http://twitter.com/search?q=Captain) | N/A |
+| 44 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 45 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 46 | [#AUSvIND](http://twitter.com/search?q=%23AUSvIND) | N/A |
+| 47 | [#AjayBanga](http://twitter.com/search?q=%23AjayBanga) | N/A |
+| 48 | [#JemimahRodrigues](http://twitter.com/search?q=%23JemimahRodrigues) | N/A |
+| 49 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
+| 50 | [#WorldBank](http://twitter.com/search?q=%23WorldBank) | N/A |
 
 
 

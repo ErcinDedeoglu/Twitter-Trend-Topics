@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dublin
 
-📆 Last Updated: `2023-02-23 18:16:13 UTC`
+📆 Last Updated: `2023-02-23 19:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Ireland](</Ireland>)
 | ------- | ------------ | ------------ |
 | 1 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
 | 2 | [#FNMConf2023](http://twitter.com/search?q=%23FNMConf2023) | N/A |
-| 3 | [RIP Motty](http://twitter.com/search?q=RIP+Motty) | N/A |
-| 4 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
-| 5 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 6 | [#AshWednesday](http://twitter.com/search?q=%23AshWednesday) | N/A |
-| 7 | [#PancakeTuesday](http://twitter.com/search?q=%23PancakeTuesday) | N/A |
+| 3 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 4 | [RIP Motty](http://twitter.com/search?q=RIP+Motty) | N/A |
+| 5 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 6 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 7 | [#AshWednesday](http://twitter.com/search?q=%23AshWednesday) | N/A |
 | 8 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
-| 9 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
-| 10 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 11 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 12 | [Holly Cairns](http://twitter.com/search?q=Holly+Cairns) | N/A |
-| 13 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 14 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 15 | [Social Democrats](http://twitter.com/search?q=Social+Democrats) | N/A |
-| 16 | [George Hook](http://twitter.com/search?q=George+Hook) | N/A |
-| 17 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
-| 18 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 19 | [Soc Dems](http://twitter.com/search?q=Soc+Dems) | N/A |
-| 20 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 9 | [#PancakeTuesday](http://twitter.com/search?q=%23PancakeTuesday) | N/A |
+| 10 | [Maxwell](http://twitter.com/search?q=Maxwell) | N/A |
+| 11 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
+| 12 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 13 | [holly cairns](http://twitter.com/search?q=holly+cairns) | N/A |
+| 14 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 15 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 16 | [Social Democrats](http://twitter.com/search?q=Social+Democrats) | N/A |
+| 17 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 18 | [george hook](http://twitter.com/search?q=george+hook) | N/A |
+| 19 | [Joe Gomez](http://twitter.com/search?q=Joe+Gomez) | Joe Gomez is a Spanish name, derived from the Hebrew name Yosef. It means "God will increase" or "God will add". |
+| 20 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
 | 21 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 22 | [Leo Varadkar](http://twitter.com/search?q=Leo+Varadkar) | N/A |
-| 23 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 24 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
-| 25 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 26 | [Conan](http://twitter.com/search?q=Conan) | N/A |
-| 27 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
-| 28 | [Coombes](http://twitter.com/search?q=Coombes) | N/A |
-| 29 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
-| 30 | [Dave Fanning](http://twitter.com/search?q=Dave+Fanning) | N/A |
-| 31 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
-| 32 | [Brandy Love](http://twitter.com/search?q=Brandy+Love) | N/A |
-| 33 | [dalymount](http://twitter.com/search?q=dalymount) | N/A |
-| 34 | [Traveller](http://twitter.com/search?q=Traveller) | N/A |
-| 35 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
-| 36 | [Ceann Comhairle](http://twitter.com/search?q=Ceann+Comhairle) | N/A |
-| 37 | [queens brook](http://twitter.com/search?q=queens+brook) | N/A |
-| 38 | [Catherine Murphy](http://twitter.com/search?q=Catherine+Murphy) | N/A |
-| 39 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
-| 40 | [róisín shortall](http://twitter.com/search?q=r%c3%b3is%c3%adn+shortall) | N/A |
-| 41 | [RCSI](http://twitter.com/search?q=RCSI) | N/A |
-| 42 | [European Commission](http://twitter.com/search?q=European+Commission) | N/A |
-| 43 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 44 | [gary gannon](http://twitter.com/search?q=gary+gannon) | N/A |
-| 45 | [Microsoft](http://twitter.com/search?q=Microsoft) | Microsoft is an American multinational technology company that develops, manufactures, licenses, supports, and sells computer software, consumer electronics, personal computers, and related services. The company's name is derived from the words "microcomputer" and "software". Microsoft is one of the world's largest software companies and one of the most valuable companies in the world. |
-| 46 | [Gvardiol](http://twitter.com/search?q=Gvardiol) | N/A |
-| 47 | [Landlords](http://twitter.com/search?q=Landlords) | N/A |
-| 48 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 49 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 50 | [Catriona Carey](http://twitter.com/search?q=Catriona+Carey) | N/A |
+| 22 | [Soc Dems](http://twitter.com/search?q=Soc+Dems) | N/A |
+| 23 | [Venus](http://twitter.com/search?q=Venus) | N/A |
+| 24 | [Tesco](http://twitter.com/search?q=Tesco) | N/A |
+| 25 | [Leo Varadkar](http://twitter.com/search?q=Leo+Varadkar) | N/A |
+| 26 | [Lenten](http://twitter.com/search?q=Lenten) | N/A |
+| 27 | [Shamima Begum](http://twitter.com/search?q=Shamima+Begum) | N/A |
+| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 29 | [Dáil](http://twitter.com/search?q=D%c3%a1il) | N/A |
+| 30 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 31 | [Coombes](http://twitter.com/search?q=Coombes) | N/A |
+| 32 | [John Caldwell](http://twitter.com/search?q=John+Caldwell) | N/A |
+| 33 | [Conan](http://twitter.com/search?q=Conan) | N/A |
+| 34 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 35 | [Brandy Love](http://twitter.com/search?q=Brandy+Love) | N/A |
+| 36 | [Traveller](http://twitter.com/search?q=Traveller) | N/A |
+| 37 | [Dave Fanning](http://twitter.com/search?q=Dave+Fanning) | N/A |
+| 38 | [Barry Davies](http://twitter.com/search?q=Barry+Davies) | N/A |
+| 39 | [Ceann Comhairle](http://twitter.com/search?q=Ceann+Comhairle) | N/A |
+| 40 | [Aldi](http://twitter.com/search?q=Aldi) | N/A |
+| 41 | [Andy Farrell](http://twitter.com/search?q=Andy+Farrell) | N/A |
+| 42 | [Catherine Murphy](http://twitter.com/search?q=Catherine+Murphy) | N/A |
+| 43 | [queens brook](http://twitter.com/search?q=queens+brook) | N/A |
+| 44 | [Johnson](http://twitter.com/search?q=Johnson) | N/A |
+| 45 | [Shameful](http://twitter.com/search?q=Shameful) | N/A |
+| 46 | [róisín shortall](http://twitter.com/search?q=r%c3%b3is%c3%adn+shortall) | N/A |
+| 47 | [Bertie Ahern](http://twitter.com/search?q=Bertie+Ahern) | N/A |
+| 48 | [Dalymount](http://twitter.com/search?q=Dalymount) | N/A |
+| 49 | [RCSI](http://twitter.com/search?q=RCSI) | N/A |
+| 50 | [European Commission](http://twitter.com/search?q=European+Commission) | N/A |
 
 
 

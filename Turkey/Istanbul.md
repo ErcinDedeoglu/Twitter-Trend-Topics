@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-23 18:16:42 UTC`
+📆 Last Updated: `2023-02-23 19:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [YatayMimari ZeminTesti](http://twitter.com/search?q=YatayMimari+ZeminTesti) | N/A |
-| 2 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
-| 3 | [Sezon](http://twitter.com/search?q=Sezon) | N/A |
-| 4 | [#MetaThings](http://twitter.com/search?q=%23MetaThings) | N/A |
-| 5 | [#isiashesapzamanı](http://twitter.com/search?q=%23isiashesapzaman%c4%b1) | N/A |
-| 6 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | N/A |
-| 7 | [MeclisKapanmadan İnsaniAf](http://twitter.com/search?q=MeclisKapanmadan+%c4%b0nsaniAf) | N/A |
-| 8 | [#AileleriBuluşturuyoruz](http://twitter.com/search?q=%23AileleriBulu%c5%9fturuyoruz) | N/A |
-| 9 | [#NedirNeDeğildir](http://twitter.com/search?q=%23NedirNeDe%c4%9fildir) | N/A |
-| 10 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 11 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 12 | [Hatay'da 5](http://twitter.com/search?q=Hatay%27da+5) | N/A |
-| 13 | [ZeydTek PiyasayaDenk](http://twitter.com/search?q=ZeydTek+PiyasayaDenk) | N/A |
-| 14 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
-| 15 | [Selçuk Tepeli](http://twitter.com/search?q=Sel%c3%a7uk+Tepeli) | N/A |
-| 16 | [Yönetmen](http://twitter.com/search?q=Y%c3%b6netmen) | N/A |
-| 17 | [Elif Buse Doğan](http://twitter.com/search?q=Elif+Buse+Do%c4%9fan) | N/A |
+| 2 | [#Jupiter](http://twitter.com/search?q=%23Jupiter) | N/A |
+| 3 | [#biletdevir](http://twitter.com/search?q=%23biletdevir) | N/A |
+| 4 | [#kontr](http://twitter.com/search?q=%23kontr) | N/A |
+| 5 | [#astor](http://twitter.com/search?q=%23astor) | N/A |
+| 6 | [#DayanışmaŞart](http://twitter.com/search?q=%23Dayan%c4%b1%c5%9fma%c5%9eart) | N/A |
+| 7 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 8 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
+| 9 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | N/A |
+| 10 | [MeclisKapanmadan İnsaniAf](http://twitter.com/search?q=MeclisKapanmadan+%c4%b0nsaniAf) | N/A |
+| 11 | [Hatay'da 5](http://twitter.com/search?q=Hatay%27da+5) | N/A |
+| 12 | [ZeydTek PiyasayaDenk](http://twitter.com/search?q=ZeydTek+PiyasayaDenk) | N/A |
+| 13 | [Selçuk Tepeli](http://twitter.com/search?q=Sel%c3%a7uk+Tepeli) | N/A |
+| 14 | [Yunus Kaya](http://twitter.com/search?q=Yunus+Kaya) | N/A |
+| 15 | [Elif Buse Doğan](http://twitter.com/search?q=Elif+Buse+Do%c4%9fan) | N/A |
+| 16 | [Deprem Ağı](http://twitter.com/search?q=Deprem+A%c4%9f%c4%b1) | N/A |
+| 17 | [Valencia](http://twitter.com/search?q=Valencia) | Valencia is a city in Spain, located on the east coast of the country. It is the capital of the autonomous community of Valencia and the third-largest city in Spain after Madrid and Barcelona. In English, Valencia means "strength" or "valor". |
 | 18 | [Müdür Yardımcısı](http://twitter.com/search?q=M%c3%bcd%c3%bcr+Yard%c4%b1mc%c4%b1s%c4%b1) | N/A |
-| 19 | [Deprem Ağı](http://twitter.com/search?q=Deprem+A%c4%9f%c4%b1) | N/A |
-| 20 | [Birliktelik Destanı](http://twitter.com/search?q=Birliktelik+Destan%c4%b1) | N/A |
-| 21 | [Yıkılacak](http://twitter.com/search?q=Y%c4%b1k%c4%b1lacak) | N/A |
-| 22 | [Silivri'ye](http://twitter.com/search?q=Silivri%27ye) | N/A |
+| 19 | [Beni de Silivri'ye](http://twitter.com/search?q=Beni+de+Silivri%27ye) | N/A |
+| 20 | [HADİS YAZALIM](http://twitter.com/search?q=HAD%c4%b0S+YAZALIM) | N/A |
+| 21 | [Yönetmen](http://twitter.com/search?q=Y%c3%b6netmen) | N/A |
+| 22 | [24 Şubat Cuma](http://twitter.com/search?q=24+%c5%9eubat+Cuma) | N/A |
 | 23 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
-| 24 | [Kuyumcuya](http://twitter.com/search?q=Kuyumcuya) | N/A |
-| 25 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 26 | [24 Şubat Cuma](http://twitter.com/search?q=24+%c5%9eubat+Cuma) | N/A |
-| 27 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 28 | [Ücretli](http://twitter.com/search?q=%c3%9ccretli) | N/A |
-| 29 | [Metin Yüksel](http://twitter.com/search?q=Metin+Y%c3%bcksel) | N/A |
-| 30 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
-| 31 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
-| 32 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
-| 33 | [Cihan](http://twitter.com/search?q=Cihan) | N/A |
-| 34 | [Enver](http://twitter.com/search?q=Enver) | N/A |
-| 35 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 36 | [Beşir](http://twitter.com/search?q=Be%c5%9fir) | N/A |
-| 37 | [Mahmut](http://twitter.com/search?q=Mahmut) | N/A |
-| 38 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
-| 39 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 40 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 41 | [#DayanışmaŞart](http://twitter.com/search?q=%23Dayan%c4%b1%c5%9fma%c5%9eart) | N/A |
-| 42 | [#HayırlıCumalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Cumalar) | #HayırlıCumalar is a Turkish phrase that translates to "Good Fridays" in English. It is typically used as a greeting or blessing on Fridays, wishing someone a good and blessed day. |
-| 43 | [#ziraatduysesimizi](http://twitter.com/search?q=%23ziraatduysesimizi) | N/A |
-| 44 | [#ÇÜTFdağılmasın](http://twitter.com/search?q=%23%c3%87%c3%9cTFda%c4%9f%c4%b1lmas%c4%b1n) | N/A |
-| 45 | [#Ömer](http://twitter.com/search?q=%23%c3%96mer) | #Ömer is a hashtag used to refer to Ömer, a Turkish given name. It is derived from the Arabic name Omar and means "long-lived" or "flourishing". |
-| 46 | [#99ÖncesiHaklarlaEYT](http://twitter.com/search?q=%2399%c3%96ncesiHaklarlaEYT) | N/A |
-| 47 | [#KurdsAreNotTerrorists](http://twitter.com/search?q=%23KurdsAreNotTerrorists) | N/A |
-| 48 | [#thebabyfloki](http://twitter.com/search?q=%23thebabyfloki) | N/A |
-| 49 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 50 | [#DepremDegilSistem](http://twitter.com/search?q=%23DepremDegilSistem) | N/A |
+| 24 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 25 | [Ücretli](http://twitter.com/search?q=%c3%9ccretli) | N/A |
+| 26 | [Yıkılacak](http://twitter.com/search?q=Y%c4%b1k%c4%b1lacak) | N/A |
+| 27 | [Kuyumcuya](http://twitter.com/search?q=Kuyumcuya) | N/A |
+| 28 | [Enver](http://twitter.com/search?q=Enver) | N/A |
+| 29 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 30 | [Birliktelik Destanı](http://twitter.com/search?q=Birliktelik+Destan%c4%b1) | N/A |
+| 31 | [Murat Kurum](http://twitter.com/search?q=Murat+Kurum) | N/A |
+| 32 | [İrfan](http://twitter.com/search?q=%c4%b0rfan) | İrfan is an Arabic name meaning "knowledge" or "wisdom". It is also used as a Turkish name, and can be spelled as Irfan or Erfan. |
+| 33 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 34 | [Jorge Jesus](http://twitter.com/search?q=Jorge+Jesus) | N/A |
+| 35 | [Cihan](http://twitter.com/search?q=Cihan) | N/A |
+| 36 | [Tacikistan](http://twitter.com/search?q=Tacikistan) | N/A |
+| 37 | [Sezon](http://twitter.com/search?q=Sezon) | N/A |
+| 38 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 39 | [Mahmut](http://twitter.com/search?q=Mahmut) | N/A |
+| 40 | [Beşir](http://twitter.com/search?q=Be%c5%9fir) | N/A |
+| 41 | [#NedirNeDeğildir](http://twitter.com/search?q=%23NedirNeDe%c4%9fildir) | N/A |
+| 42 | [#isiashesapzamanı](http://twitter.com/search?q=%23isiashesapzaman%c4%b1) | N/A |
+| 43 | [#MetaThings](http://twitter.com/search?q=%23MetaThings) | N/A |
+| 44 | [#Ömer](http://twitter.com/search?q=%23%c3%96mer) | #Ömer is a hashtag used to refer to Ömer, a Turkish given name. It is derived from the Arabic name Omar and means "long-lived" or "flourishing". |
+| 45 | [#AileleriBuluşturuyoruz](http://twitter.com/search?q=%23AileleriBulu%c5%9fturuyoruz) | N/A |
+| 46 | [#ÇÜTFdağılmasın](http://twitter.com/search?q=%23%c3%87%c3%9cTFda%c4%9f%c4%b1lmas%c4%b1n) | N/A |
+| 47 | [#HayırlıCumalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Cumalar) | #HayırlıCumalar is a Turkish phrase that translates to "Good Fridays" in English. It is typically used as a greeting or blessing on Fridays, wishing someone a good and blessed day. |
+| 48 | [#KurdsAreNotTerrorists](http://twitter.com/search?q=%23KurdsAreNotTerrorists) | N/A |
+| 49 | [#99ÖncesiHaklarlaEYT](http://twitter.com/search?q=%2399%c3%96ncesiHaklarlaEYT) | N/A |
+| 50 | [#KöylereAcilAdilDestek](http://twitter.com/search?q=%23K%c3%b6ylereAcilAdilDestek) | N/A |
 
 
 

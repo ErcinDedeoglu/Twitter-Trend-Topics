@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guadalajara
 
-📆 Last Updated: `2023-02-23 18:16:04 UTC`
+📆 Last Updated: `2023-02-23 19:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,48 +17,44 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Mora](http://twitter.com/search?q=Mora) | N/A |
 | 2 | [#SalarioRosaVaPorMas](http://twitter.com/search?q=%23SalarioRosaVaPorMas) | N/A |
-| 3 | [#SalarioRosaParaTiyTuFamilia](http://twitter.com/search?q=%23SalarioRosaParaTiyTuFamilia) | #SalarioRosaParaTiyTuFamilia is a hashtag used in Spanish-speaking countries to promote equal pay for women. It translates to "Pink Salary for You and Your Family" and is used to call attention to the gender wage gap and advocate for equal pay for women. |
-| 4 | [#RebVideoExclusivoYT](http://twitter.com/search?q=%23RebVideoExclusivoYT) | N/A |
+| 3 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
+| 4 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
 | 5 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 6 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
-| 7 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 8 | [#Nezahualcóyotl](http://twitter.com/search?q=%23Nezahualc%c3%b3yotl) | N/A |
-| 9 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 10 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 11 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 12 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
-| 13 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 6 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 7 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
+| 8 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 9 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 10 | [#SoyDePumas](http://twitter.com/search?q=%23SoyDePumas) | N/A |
+| 11 | [#RebVideoExclusivoYT](http://twitter.com/search?q=%23RebVideoExclusivoYT) | N/A |
+| 12 | [#PoderosoCompleto](http://twitter.com/search?q=%23PoderosoCompleto) | N/A |
+| 13 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 14 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
-| 15 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 16 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
-| 17 | [Alfonso Durazo](http://twitter.com/search?q=Alfonso+Durazo) | N/A |
-| 18 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
-| 19 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 20 | [Faitelson](http://twitter.com/search?q=Faitelson) | N/A |
-| 21 | [Elite](http://twitter.com/search?q=Elite) | N/A |
-| 22 | [Ley Olimpia](http://twitter.com/search?q=Ley+Olimpia) | N/A |
-| 23 | [Jueves 23](http://twitter.com/search?q=Jueves+23) | N/A |
+| 15 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 16 | [Alfonso Durazo](http://twitter.com/search?q=Alfonso+Durazo) | N/A |
+| 17 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 18 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
+| 19 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
+| 20 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 21 | [Faitelson](http://twitter.com/search?q=Faitelson) | N/A |
+| 22 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 23 | [Ley Olimpia](http://twitter.com/search?q=Ley+Olimpia) | N/A |
 | 24 | [Abreu](http://twitter.com/search?q=Abreu) | N/A |
-| 25 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 26 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 27 | [Erick](http://twitter.com/search?q=Erick) | N/A |
-| 28 | [SEGALMEX](http://twitter.com/search?q=SEGALMEX) | N/A |
-| 29 | [Ejecutivo](http://twitter.com/search?q=Ejecutivo) | N/A |
-| 30 | [#PoderosoCompleto](http://twitter.com/search?q=%23PoderosoCompleto) | N/A |
-| 31 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
-| 32 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 25 | [Elite](http://twitter.com/search?q=Elite) | N/A |
+| 26 | [Jueves 23](http://twitter.com/search?q=Jueves+23) | N/A |
+| 27 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 28 | [#Nezahualcóyotl](http://twitter.com/search?q=%23Nezahualc%c3%b3yotl) | N/A |
+| 29 | [#LaMarchaDeLosNarcos](http://twitter.com/search?q=%23LaMarchaDeLosNarcos) | N/A |
+| 30 | [#LikeCrazy](http://twitter.com/search?q=%23LikeCrazy) | N/A |
+| 31 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 32 | [#MarchaDeNarcosyCorruptos](http://twitter.com/search?q=%23MarchaDeNarcosyCorruptos) | N/A |
 | 33 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 34 | [#LaMarchaDeLosNarcos](http://twitter.com/search?q=%23LaMarchaDeLosNarcos) | N/A |
-| 35 | [#MarchaDeNarcosyCorruptos](http://twitter.com/search?q=%23MarchaDeNarcosyCorruptos) | N/A |
-| 36 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
-| 37 | [#MeUrge](http://twitter.com/search?q=%23MeUrge) | N/A |
+| 34 | [#BuenJueves](http://twitter.com/search?q=%23BuenJueves) | N/A |
+| 35 | [#MásAcciónMásDiversión](http://twitter.com/search?q=%23M%c3%a1sAcci%c3%b3nM%c3%a1sDiversi%c3%b3n) | N/A |
+| 36 | [#inflación](http://twitter.com/search?q=%23inflaci%c3%b3n) | N/A |
+| 37 | [#MañaneroPretencioso](http://twitter.com/search?q=%23Ma%c3%b1aneroPretencioso) | N/A |
 | 38 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 39 | [#inflación](http://twitter.com/search?q=%23inflaci%c3%b3n) | N/A |
-| 40 | [#MañaneroPretencioso](http://twitter.com/search?q=%23Ma%c3%b1aneroPretencioso) | N/A |
-| 41 | [#FACEISCOMING](http://twitter.com/search?q=%23FACEISCOMING) | N/A |
-| 42 | [#NarcoMarcha](http://twitter.com/search?q=%23NarcoMarcha) | N/A |
-| 43 | [#NarcoGobiernosPANISTAS](http://twitter.com/search?q=%23NarcoGobiernosPANISTAS) | N/A |
-| 44 | [#Cuernavaca](http://twitter.com/search?q=%23Cuernavaca) | N/A |
+| 39 | [#FACEISCOMING](http://twitter.com/search?q=%23FACEISCOMING) | N/A |
+| 40 | [#NarcoMarcha](http://twitter.com/search?q=%23NarcoMarcha) | N/A |
 
 
 
