@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Depok
 
-📆 Last Updated: `2023-02-23 05:16:36 UTC`
+📆 Last Updated: `2023-02-23 06:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,49 +15,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#eaJisEnemyNumber1](http://twitter.com/search?q=%23eaJisEnemyNumber1) | N/A |
-| 2 | [#HeCantKeepGettingAwayWithThis](http://twitter.com/search?q=%23HeCantKeepGettingAwayWithThis) | N/A |
-| 3 | [#AyoDukungJakartaBIN](http://twitter.com/search?q=%23AyoDukungJakartaBIN) | N/A |
-| 4 | [#MissingMovieID](http://twitter.com/search?q=%23MissingMovieID) | N/A |
+| 1 | [#AyoDukungJakartaBIN](http://twitter.com/search?q=%23AyoDukungJakartaBIN) | N/A |
+| 2 | [#eaJisEnemyNumber1](http://twitter.com/search?q=%23eaJisEnemyNumber1) | N/A |
+| 3 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
+| 4 | [#HeCantKeepGettingAwayWithThis](http://twitter.com/search?q=%23HeCantKeepGettingAwayWithThis) | N/A |
 | 5 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
-| 6 | [#RamaikanGanjarCiamis](http://twitter.com/search?q=%23RamaikanGanjarCiamis) | N/A |
-| 7 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
-| 8 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 9 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 10 | [JENO TO MILANO](http://twitter.com/search?q=JENO+TO+MILANO) | N/A |
-| 11 | [56 M](http://twitter.com/search?q=56+M) | N/A |
-| 12 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
-| 13 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 14 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 15 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 16 | [Searching](http://twitter.com/search?q=Searching) | N/A |
-| 17 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
-| 18 | [Scott](http://twitter.com/search?q=Scott) | Scott is a masculine given name of Scottish origin, derived from the Latin name "Scoti" which was used to refer to the Gaels of Scotland. It is also a surname, derived from the same source. The meaning of Scott in English is "from Scotland". |
-| 19 | [David](http://twitter.com/search?q=David) | N/A |
-| 20 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 21 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
-| 22 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 23 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 24 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 25 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 26 | [Gayus](http://twitter.com/search?q=Gayus) | N/A |
-| 27 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
-| 28 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
-| 29 | [Pejabat](http://twitter.com/search?q=Pejabat) | N/A |
-| 30 | [#2M300KforBuild](http://twitter.com/search?q=%232M300KforBuild) | N/A |
-| 31 | [#JENOatMFW](http://twitter.com/search?q=%23JENOatMFW) | N/A |
-| 32 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
-| 33 | [#SongHyeKyo](http://twitter.com/search?q=%23SongHyeKyo) | N/A |
-| 34 | [#TheGlory](http://twitter.com/search?q=%23TheGlory) | N/A |
-| 35 | [#JISOOxVogueFrance](http://twitter.com/search?q=%23JISOOxVogueFrance) | N/A |
-| 36 | [#MeroketSkillUtangnya](http://twitter.com/search?q=%23MeroketSkillUtangnya) | N/A |
-| 37 | [#JENOforFERRAGAMO](http://twitter.com/search?q=%23JENOforFERRAGAMO) | N/A |
-| 38 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
-| 39 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
-| 40 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 41 | [#찬열아_데뷔11주년_축하해](http://twitter.com/search?q=%23%ec%b0%ac%ec%97%b4%ec%95%84_%eb%8d%b0%eb%b7%9411%ec%a3%bc%eb%85%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 42 | [#찬열이랑_11년째_한_편](http://twitter.com/search?q=%23%ec%b0%ac%ec%97%b4%ec%9d%b4%eb%9e%91_11%eb%85%84%ec%a7%b8_%ed%95%9c_%ed%8e%b8) | N/A |
-| 43 | [#11YearsWithChanyeol](http://twitter.com/search?q=%2311YearsWithChanyeol) | N/A |
+| 6 | [#anisd](http://twitter.com/search?q=%23anisd) | N/A |
+| 7 | [#MissingMovieID](http://twitter.com/search?q=%23MissingMovieID) | N/A |
+| 8 | [Yati](http://twitter.com/search?q=Yati) | N/A |
+| 9 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
+| 10 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
+| 11 | [Dibikin](http://twitter.com/search?q=Dibikin) | N/A |
+| 12 | [Cemas](http://twitter.com/search?q=Cemas) | N/A |
+| 13 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 14 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 15 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
+| 16 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
+| 17 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 18 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 19 | [56 M](http://twitter.com/search?q=56+M) | N/A |
+| 20 | [JENO TO MILANO](http://twitter.com/search?q=JENO+TO+MILANO) | N/A |
+| 21 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 22 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 23 | [Harry Potter](http://twitter.com/search?q=Harry+Potter) | N/A |
+| 24 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
+| 25 | [Searching](http://twitter.com/search?q=Searching) | N/A |
+| 26 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
+| 27 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
+| 28 | [Pegawai](http://twitter.com/search?q=Pegawai) | N/A |
+| 29 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 30 | [Scott](http://twitter.com/search?q=Scott) | Scott is a masculine given name of Scottish origin, derived from the Latin name "Scoti" which was used to refer to the Gaels of Scotland. It is also a surname, derived from the same source. The meaning of Scott in English is "from Scotland". |
+| 31 | [Gayus](http://twitter.com/search?q=Gayus) | N/A |
+| 32 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 33 | [Pejabat](http://twitter.com/search?q=Pejabat) | N/A |
+| 34 | [#RamaikanGanjarCiamis](http://twitter.com/search?q=%23RamaikanGanjarCiamis) | N/A |
+| 35 | [#2M300KforBuild](http://twitter.com/search?q=%232M300KforBuild) | N/A |
+| 36 | [#JENOatMFW](http://twitter.com/search?q=%23JENOatMFW) | N/A |
+| 37 | [#DeySpecialDessert](http://twitter.com/search?q=%23DeySpecialDessert) | N/A |
+| 38 | [#langkahkecilhariini](http://twitter.com/search?q=%23langkahkecilhariini) | N/A |
+| 39 | [#SongHyeKyo](http://twitter.com/search?q=%23SongHyeKyo) | N/A |
+| 40 | [#TheGlory](http://twitter.com/search?q=%23TheGlory) | N/A |
+| 41 | [#MeroketSkillUtangnya](http://twitter.com/search?q=%23MeroketSkillUtangnya) | N/A |
+| 42 | [#JISOOxVogueFrance](http://twitter.com/search?q=%23JISOOxVogueFrance) | N/A |
+| 43 | [#LupaEFIN](http://twitter.com/search?q=%23LupaEFIN) | N/A |
+| 44 | [#ASTRO](http://twitter.com/search?q=%23ASTRO) | N/A |
+| 45 | [#아스트로](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c) | N/A |
+| 46 | [#11YearsWithChanyeol](http://twitter.com/search?q=%2311YearsWithChanyeol) | N/A |
 
 
 

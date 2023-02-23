@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-23 05:16:38 UTC`
+📆 Last Updated: `2023-02-23 06:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#RobodebtRC](http://twitter.com/search?q=%23RobodebtRC) | N/A |
 | 2 | [Qantas](http://twitter.com/search?q=Qantas) | N/A |
 | 3 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 4 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 5 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 6 | [#AUSvJAM](http://twitter.com/search?q=%23AUSvJAM) | N/A |
+| 4 | [Bowes](http://twitter.com/search?q=Bowes) | N/A |
+| 5 | [#AUSvJAM](http://twitter.com/search?q=%23AUSvJAM) | N/A |
+| 6 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 7 | [#MANIAC_IN_SYDNEY](http://twitter.com/search?q=%23MANIAC_IN_SYDNEY) | N/A |
-| 8 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 9 | [Tayla](http://twitter.com/search?q=Tayla) | N/A |
+| 8 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
+| 9 | [Serena Wilson](http://twitter.com/search?q=Serena+Wilson) | N/A |
 | 10 | [Alyssa](http://twitter.com/search?q=Alyssa) | N/A |
-| 11 | [Greggery](http://twitter.com/search?q=Greggery) | N/A |
-| 12 | [Alan Joyce](http://twitter.com/search?q=Alan+Joyce) | N/A |
-| 13 | [Alex Pearce](http://twitter.com/search?q=Alex+Pearce) | N/A |
-| 14 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
-| 15 | [Superannuation](http://twitter.com/search?q=Superannuation) | N/A |
-| 16 | [Paul Murray](http://twitter.com/search?q=Paul+Murray) | N/A |
-| 17 | [Naplan](http://twitter.com/search?q=Naplan) | N/A |
-| 18 | [Jeannie](http://twitter.com/search?q=Jeannie) | N/A |
-| 19 | [Aston](http://twitter.com/search?q=Aston) | N/A |
-| 20 | [Angus](http://twitter.com/search?q=Angus) | N/A |
-| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 22 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 23 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
-| 24 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
-| 25 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
-| 26 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
-| 27 | [the inevitable](http://twitter.com/search?q=the+inevitable) | N/A |
-| 28 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 29 | [Louise](http://twitter.com/search?q=Louise) | N/A |
-| 30 | [dodie](http://twitter.com/search?q=dodie) | N/A |
-| 31 | [Sally](http://twitter.com/search?q=Sally) | N/A |
+| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 12 | [Alex Pearce](http://twitter.com/search?q=Alex+Pearce) | N/A |
+| 13 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
+| 14 | [Superannuation](http://twitter.com/search?q=Superannuation) | N/A |
+| 15 | [Scott Britton](http://twitter.com/search?q=Scott+Britton) | N/A |
+| 16 | [Greggery](http://twitter.com/search?q=Greggery) | N/A |
+| 17 | [Paul Murray](http://twitter.com/search?q=Paul+Murray) | N/A |
+| 18 | [Geelong](http://twitter.com/search?q=Geelong) | N/A |
+| 19 | [Naplan](http://twitter.com/search?q=Naplan) | N/A |
+| 20 | [Jeannie](http://twitter.com/search?q=Jeannie) | N/A |
+| 21 | [Angus](http://twitter.com/search?q=Angus) | N/A |
+| 22 | [Murdoch Press](http://twitter.com/search?q=Murdoch+Press) | N/A |
+| 23 | [dodie](http://twitter.com/search?q=dodie) | N/A |
+| 24 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 25 | [Aston](http://twitter.com/search?q=Aston) | N/A |
+| 26 | [Coinbase](http://twitter.com/search?q=Coinbase) | N/A |
+| 27 | [Janelle](http://twitter.com/search?q=Janelle) | N/A |
+| 28 | [TAYLA](http://twitter.com/search?q=TAYLA) | N/A |
+| 29 | [Roshena Campbell](http://twitter.com/search?q=Roshena+Campbell) | N/A |
+| 30 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 31 | [Karl Stefanovic](http://twitter.com/search?q=Karl+Stefanovic) | N/A |
 | 32 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
-| 33 | [HEPA](http://twitter.com/search?q=HEPA) | N/A |
-| 34 | [Karl Stefanovic](http://twitter.com/search?q=Karl+Stefanovic) | N/A |
-| 35 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
+| 33 | [Louise](http://twitter.com/search?q=Louise) | N/A |
+| 34 | [Macquarie Island](http://twitter.com/search?q=Macquarie+Island) | N/A |
+| 35 | [Sally](http://twitter.com/search?q=Sally) | N/A |
 | 36 | [Dr Nick](http://twitter.com/search?q=Dr+Nick) | N/A |
-| 37 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
-| 38 | [Ryman](http://twitter.com/search?q=Ryman) | N/A |
-| 39 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
-| 40 | [Macquarie Island](http://twitter.com/search?q=Macquarie+Island) | N/A |
+| 37 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
+| 38 | [Stuart Robert](http://twitter.com/search?q=Stuart+Robert) | N/A |
+| 39 | [Michael Pascoe](http://twitter.com/search?q=Michael+Pascoe) | N/A |
+| 40 | [Jamaica](http://twitter.com/search?q=Jamaica) | N/A |
 | 41 | [Kembla](http://twitter.com/search?q=Kembla) | N/A |
 | 42 | [Woolworths](http://twitter.com/search?q=Woolworths) | N/A |
-| 43 | [Flowerdale](http://twitter.com/search?q=Flowerdale) | N/A |
-| 44 | [Kate Langbroek](http://twitter.com/search?q=Kate+Langbroek) | N/A |
-| 45 | [Paul Kent](http://twitter.com/search?q=Paul+Kent) | N/A |
-| 46 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 47 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 48 | [Centrelink](http://twitter.com/search?q=Centrelink) | N/A |
-| 49 | [Galileo](http://twitter.com/search?q=Galileo) | N/A |
+| 43 | [James Campbell](http://twitter.com/search?q=James+Campbell) | N/A |
+| 44 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 45 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 46 | [Hawthorn](http://twitter.com/search?q=Hawthorn) | N/A |
+| 47 | [Flowerdale](http://twitter.com/search?q=Flowerdale) | N/A |
+| 48 | [Kate Langbroek](http://twitter.com/search?q=Kate+Langbroek) | N/A |
+| 49 | [Melinda](http://twitter.com/search?q=Melinda) | N/A |
 
 
 

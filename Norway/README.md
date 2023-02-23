@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-23 05:17:16 UTC`
+📆 Last Updated: `2023-02-23 06:17:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Norway
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#DAX18](http://twitter.com/search?q=%23DAX18) | N/A |
-| 2 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 1 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
+| 2 | [#dax18](http://twitter.com/search?q=%23dax18) | N/A |
 | 3 | [giske](http://twitter.com/search?q=giske) | N/A |
 | 4 | [#debatten](http://twitter.com/search?q=%23debatten) | N/A |
 | 5 | [Alisson](http://twitter.com/search?q=Alisson) | Alisson is a Portuguese name, derived from the Latin name Alisso, which means "noble" or "of noble kind". In English, it is usually spelled Allison. |
@@ -31,9 +31,9 @@ This is top 50 for Norway
 | 14 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 15 | [raufoss](http://twitter.com/search?q=raufoss) | N/A |
 | 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [bibelen](http://twitter.com/search?q=bibelen) | N/A |
-| 18 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 19 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 17 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 18 | [bibelen](http://twitter.com/search?q=bibelen) | N/A |
+| 19 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 20 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 21 | [Kreml](http://twitter.com/search?q=Kreml) | N/A |
 | 22 | [bane nor](http://twitter.com/search?q=bane+nor) | N/A |
@@ -43,25 +43,25 @@ This is top 50 for Norway
 | 26 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 27 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
 | 28 | [forsvaret](http://twitter.com/search?q=forsvaret) | N/A |
-| 29 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 30 | [#aksjer](http://twitter.com/search?q=%23aksjer) | N/A |
-| 31 | [oslo s](http://twitter.com/search?q=oslo+s) | N/A |
-| 32 | [rogaland](http://twitter.com/search?q=rogaland) | N/A |
-| 33 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 34 | [equinor](http://twitter.com/search?q=equinor) | N/A |
-| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 36 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 37 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 38 | [Strava](http://twitter.com/search?q=Strava) | N/A |
-| 39 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 29 | [oslo s](http://twitter.com/search?q=oslo+s) | N/A |
+| 30 | [#AllOfThoseVoices](http://twitter.com/search?q=%23AllOfThoseVoices) | N/A |
+| 31 | [rogaland](http://twitter.com/search?q=rogaland) | N/A |
+| 32 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 33 | [equinor](http://twitter.com/search?q=equinor) | N/A |
+| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 35 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 36 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 37 | [Strava](http://twitter.com/search?q=Strava) | N/A |
+| 38 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 39 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
 | 40 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
 | 41 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 42 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 43 | [Drammen](http://twitter.com/search?q=Drammen) | N/A |
+| 42 | [America](http://twitter.com/search?q=America) | N/A |
+| 43 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
 | 44 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 45 | [America](http://twitter.com/search?q=America) | N/A |
-| 46 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |
-| 47 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 45 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |
+| 46 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 47 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 48 | [Britain](http://twitter.com/search?q=Britain) | N/A |
 | 49 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
 | 50 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |

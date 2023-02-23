@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-23 05:17:14 UTC`
+📆 Last Updated: `2023-02-23 06:17:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#eaJisEnemyNumber1](http://twitter.com/search?q=%23eaJisEnemyNumber1) | N/A |
-| 2 | [#HeCantKeepGettingAwayWithThis](http://twitter.com/search?q=%23HeCantKeepGettingAwayWithThis) | N/A |
-| 3 | [#AyoDukungJakartaBIN](http://twitter.com/search?q=%23AyoDukungJakartaBIN) | N/A |
-| 4 | [di dekade 08 infonya](http://twitter.com/search?q=di+dekade+08+infonya) | N/A |
-| 5 | [iya mending prabowo](http://twitter.com/search?q=iya+mending+prabowo) | N/A |
-| 6 | [prabowo pilihan terbaik](http://twitter.com/search?q=prabowo+pilihan+terbaik) | N/A |
+| 1 | [di dekade 08 infonya](http://twitter.com/search?q=di+dekade+08+infonya) | N/A |
+| 2 | [iya mending prabowo](http://twitter.com/search?q=iya+mending+prabowo) | N/A |
+| 3 | [prabowo pilihan terbaik](http://twitter.com/search?q=prabowo+pilihan+terbaik) | N/A |
+| 4 | [#AyoDukungJakartaBIN](http://twitter.com/search?q=%23AyoDukungJakartaBIN) | N/A |
+| 5 | [#eaJisEnemyNumber1](http://twitter.com/search?q=%23eaJisEnemyNumber1) | N/A |
+| 6 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
 | 7 | [#JENOatMFW](http://twitter.com/search?q=%23JENOatMFW) | N/A |
-| 8 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
-| 9 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 8 | [#HeCantKeepGettingAwayWithThis](http://twitter.com/search?q=%23HeCantKeepGettingAwayWithThis) | N/A |
+| 9 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
 | 10 | [David](http://twitter.com/search?q=David) | N/A |
-| 11 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 12 | [LIP DUO](http://twitter.com/search?q=LIP+DUO) | N/A |
-| 13 | [Pesta Rakyat Ganjar Pranowo](http://twitter.com/search?q=Pesta+Rakyat+Ganjar+Pranowo) | N/A |
-| 14 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
+| 11 | [Taeyeon](http://twitter.com/search?q=Taeyeon) | N/A |
+| 12 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 13 | [lip duo](http://twitter.com/search?q=lip+duo) | N/A |
+| 14 | [JENO TO MILANO](http://twitter.com/search?q=JENO+TO+MILANO) | N/A |
 | 15 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 16 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
-| 17 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 16 | [Yati](http://twitter.com/search?q=Yati) | N/A |
+| 17 | [HAECHAN LEE THANK YOU](http://twitter.com/search?q=HAECHAN+LEE+THANK+YOU) | N/A |
 | 18 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 19 | [Implora](http://twitter.com/search?q=Implora) | N/A |
-| 20 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
-| 21 | [56 M](http://twitter.com/search?q=56+M) | N/A |
-| 22 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 23 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 24 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
-| 25 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 26 | [Waluh](http://twitter.com/search?q=Waluh) | N/A |
-| 27 | [MEW IN MV CLOSER](http://twitter.com/search?q=MEW+IN+MV+CLOSER) | N/A |
-| 28 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
-| 29 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
-| 30 | [lip moist serum](http://twitter.com/search?q=lip+moist+serum) | N/A |
-| 31 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
-| 32 | [Lip Moist Essence](http://twitter.com/search?q=Lip+Moist+Essence) | N/A |
-| 33 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 34 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 35 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 36 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 37 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 38 | [pak prabowo](http://twitter.com/search?q=pak+prabowo) | N/A |
-| 39 | [Rabu Abu](http://twitter.com/search?q=Rabu+Abu) | N/A |
-| 40 | [Dino 35k](http://twitter.com/search?q=Dino+35k) | N/A |
-| 41 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 42 | [angela tanoesoedibjo](http://twitter.com/search?q=angela+tanoesoedibjo) | N/A |
-| 43 | [Gayus](http://twitter.com/search?q=Gayus) | N/A |
-| 44 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
+| 19 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
+| 20 | [Implora](http://twitter.com/search?q=Implora) | N/A |
+| 21 | [Cemas](http://twitter.com/search?q=Cemas) | N/A |
+| 22 | [56 M](http://twitter.com/search?q=56+M) | N/A |
+| 23 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
+| 24 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 25 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 26 | [Cwtb](http://twitter.com/search?q=Cwtb) | N/A |
+| 27 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
+| 28 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 29 | [MEW IN MV CLOSER](http://twitter.com/search?q=MEW+IN+MV+CLOSER) | N/A |
+| 30 | [Dibikin](http://twitter.com/search?q=Dibikin) | N/A |
+| 31 | [ARTIST AND STAFF](http://twitter.com/search?q=ARTIST+AND+STAFF) | N/A |
+| 32 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 33 | [lip moist serum](http://twitter.com/search?q=lip+moist+serum) | N/A |
+| 34 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 35 | [hary tanoesoedibjo](http://twitter.com/search?q=hary+tanoesoedibjo) | N/A |
+| 36 | [lip moist essence](http://twitter.com/search?q=lip+moist+essence) | N/A |
+| 37 | [Telur](http://twitter.com/search?q=Telur) | N/A |
+| 38 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 39 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
+| 40 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 41 | [Gayus](http://twitter.com/search?q=Gayus) | N/A |
+| 42 | [pak prabowo](http://twitter.com/search?q=pak+prabowo) | N/A |
+| 43 | [angela tanoesoedibjo](http://twitter.com/search?q=angela+tanoesoedibjo) | N/A |
+| 44 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
 | 45 | [Harley](http://twitter.com/search?q=Harley) | N/A |
-| 46 | [Pesan Kampus](http://twitter.com/search?q=Pesan+Kampus) | N/A |
-| 47 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 48 | [Cek Ongkir](http://twitter.com/search?q=Cek+Ongkir) | N/A |
-| 49 | [Cek Lokasi](http://twitter.com/search?q=Cek+Lokasi) | N/A |
-| 50 | [Cemas](http://twitter.com/search?q=Cemas) | N/A |
+| 46 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 47 | [Cwts](http://twitter.com/search?q=Cwts) | N/A |
+| 48 | [Pesan Kampus](http://twitter.com/search?q=Pesan+Kampus) | N/A |
+| 49 | [Rabu Abu](http://twitter.com/search?q=Rabu+Abu) | N/A |
+| 50 | [Salam Perubahan](http://twitter.com/search?q=Salam+Perubahan) | N/A |
 
 
 

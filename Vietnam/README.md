@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-23 05:17:20 UTC`
+📆 Last Updated: `2023-02-23 06:17:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for Vietnam
 | 2 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
 | 3 | [#ShowMeLoveInVN](http://twitter.com/search?q=%23ShowMeLoveInVN) | N/A |
 | 4 | [#ThailandSocialAwards11](http://twitter.com/search?q=%23ThailandSocialAwards11) | N/A |
-| 5 | [#ShowMeLoveแค่อยากบอกรัก](http://twitter.com/search?q=%23ShowMeLove%e0%b9%81%e0%b8%84%e0%b9%88%e0%b8%ad%e0%b8%a2%e0%b8%b2%e0%b8%81%e0%b8%9a%e0%b8%ad%e0%b8%81%e0%b8%a3%e0%b8%b1%e0%b8%81) | N/A |
-| 6 | [11th social awards with bible](http://twitter.com/search?q=11th+social+awards+with+bible) | N/A |
-| 7 | [#JISOOxVogueFrance](http://twitter.com/search?q=%23JISOOxVogueFrance) | N/A |
-| 8 | [XIAO ZHAN WELCOME TO MILAN](http://twitter.com/search?q=XIAO+ZHAN+WELCOME+TO+MILAN) | N/A |
+| 5 | [11th social awards with bible](http://twitter.com/search?q=11th+social+awards+with+bible) | N/A |
+| 6 | [#JISOOxVogueFrance](http://twitter.com/search?q=%23JISOOxVogueFrance) | N/A |
+| 7 | [XIAO ZHAN WELCOME TO MILAN](http://twitter.com/search?q=XIAO+ZHAN+WELCOME+TO+MILAN) | N/A |
+| 8 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
 | 9 | [STAND TOGETHER WITH BUILD](http://twitter.com/search?q=STAND+TOGETHER+WITH+BUILD) | N/A |
 | 10 | [BUILD IS SPECIAL](http://twitter.com/search?q=BUILD+IS+SPECIAL) | N/A |
 | 11 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
@@ -30,7 +30,7 @@ This is top 50 for Vietnam
 | 13 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
 | 14 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 15 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 16 | [út vàng nhà bangtan](http://twitter.com/search?q=%c3%bat+v%c3%a0ng+nh%c3%a0+bangtan) | N/A |
+| 16 | [ÚT VÀNG NHÀ BANGTAN](http://twitter.com/search?q=%c3%9aT+V%c3%80NG+NH%c3%80+BANGTAN) | N/A |
 | 17 | [READY TO BE CHARMED](http://twitter.com/search?q=READY+TO+BE+CHARMED) | N/A |
 | 18 | [LEAVE BLUE HEART TO BUILD](http://twitter.com/search?q=LEAVE+BLUE+HEART+TO+BUILD) | N/A |
 | 19 | [Sphinx](http://twitter.com/search?q=Sphinx) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for Vietnam
 | 31 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
 | 32 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
 | 33 | [ethw](http://twitter.com/search?q=ethw) | N/A |
-| 34 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
-| 35 | [Becky](http://twitter.com/search?q=Becky) | N/A |
-| 36 | [zalo](http://twitter.com/search?q=zalo) | N/A |
-| 37 | [BURBERRY BRIGHT](http://twitter.com/search?q=BURBERRY+BRIGHT) | N/A |
-| 38 | [Chess](http://twitter.com/search?q=Chess) | N/A |
-| 39 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 40 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 41 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 42 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
-| 43 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 44 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
-| 45 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 46 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
-| 47 | [Hàng](http://twitter.com/search?q=H%c3%a0ng) | N/A |
-| 48 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
-| 49 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 50 | [Top 10](http://twitter.com/search?q=Top+10) | N/A |
+| 34 | [Chess](http://twitter.com/search?q=Chess) | N/A |
+| 35 | [$CONK](http://twitter.com/search?q=%24CONK) | N/A |
+| 36 | [Becky](http://twitter.com/search?q=Becky) | N/A |
+| 37 | [Hàng](http://twitter.com/search?q=H%c3%a0ng) | N/A |
+| 38 | [Công](http://twitter.com/search?q=C%c3%b4ng) | N/A |
+| 39 | [zalo](http://twitter.com/search?q=zalo) | N/A |
+| 40 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 41 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 42 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 43 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 44 | [USDT](http://twitter.com/search?q=USDT) | N/A |
+| 45 | [Spotify](http://twitter.com/search?q=Spotify) | Spotify is a digital music streaming service that gives users access to millions of songs, podcasts, and videos from artists all over the world. It allows users to create their own playlists and share them with others. The name Spotify comes from a combination of the words “spot” and “identify”, referring to the ability of the service to quickly identify and deliver music. |
+| 46 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
+| 47 | [$FTM](http://twitter.com/search?q=%24FTM) | N/A |
+| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 49 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
+| 50 | [trên](http://twitter.com/search?q=tr%c3%aan) | N/A |
 
 
 

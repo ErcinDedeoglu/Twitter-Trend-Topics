@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-02-23 05:17:17 UTC`
+📆 Last Updated: `2023-02-23 06:17:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,14 +25,14 @@ This is top 50 for Portugal
 | 8 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 9 | [Milão](http://twitter.com/search?q=Mil%c3%a3o) | N/A |
 | 10 | [Galeno](http://twitter.com/search?q=Galeno) | N/A |
-| 11 | [zaidu](http://twitter.com/search?q=zaidu) | N/A |
-| 12 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 13 | [grujic](http://twitter.com/search?q=grujic) | N/A |
+| 11 | [Zaidu](http://twitter.com/search?q=Zaidu) | N/A |
+| 12 | [grujic](http://twitter.com/search?q=grujic) | N/A |
+| 13 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
 | 14 | [Uribe](http://twitter.com/search?q=Uribe) | N/A |
 | 15 | [alfa semedo](http://twitter.com/search?q=alfa+semedo) | N/A |
 | 16 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 17 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 18 | [Conceição](http://twitter.com/search?q=Concei%c3%a7%c3%a3o) | N/A |
+| 18 | [conceição](http://twitter.com/search?q=concei%c3%a7%c3%a3o) | N/A |
 | 19 | [Dragão](http://twitter.com/search?q=Drag%c3%a3o) | N/A |
 | 20 | [#bbtvi](http://twitter.com/search?q=%23bbtvi) | N/A |
 | 21 | [Erick](http://twitter.com/search?q=Erick) | N/A |
@@ -47,7 +47,7 @@ This is top 50 for Portugal
 | 30 | [#fcimfcp](http://twitter.com/search?q=%23fcimfcp) | N/A |
 | 31 | [O Inter](http://twitter.com/search?q=O+Inter) | N/A |
 | 32 | [Darwin](http://twitter.com/search?q=Darwin) | Darwin is the name of a city in Australia, located in the Northern Territory. It is named after Charles Darwin, the British naturalist who developed the theory of evolution. The name Darwin is derived from the Old English words 'deor' (animal) and 'wine' (friend). |
-| 33 | [Patrício](http://twitter.com/search?q=Patr%c3%adcio) | N/A |
+| 33 | [patrício](http://twitter.com/search?q=patr%c3%adcio) | N/A |
 | 34 | [#bercomliberty](http://twitter.com/search?q=%23bercomliberty) | N/A |
 | 35 | [Bárbara](http://twitter.com/search?q=B%c3%a1rbara) | N/A |
 | 36 | [San Siro](http://twitter.com/search?q=San+Siro) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Portugal
 | 46 | [melanie](http://twitter.com/search?q=melanie) | N/A |
 | 47 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 48 | [Bryan Ruiz](http://twitter.com/search?q=Bryan+Ruiz) | N/A |
-| 49 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 50 | [Miguel](http://twitter.com/search?q=Miguel) | Miguel is a Spanish name derived from the Hebrew name Michael, meaning "who is like God". It is a popular name in Spanish-speaking countries and among Hispanic people in the United States. |
+| 49 | [francisco neto](http://twitter.com/search?q=francisco+neto) | N/A |
+| 50 | [Camarões](http://twitter.com/search?q=Camar%c3%b5es) | N/A |
 
 
 
