@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lagos
 
-📆 Last Updated: `2023-02-23 04:16:17 UTC`
+📆 Last Updated: `2023-02-23 05:16:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,14 +19,14 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 2 | [#gtbank](http://twitter.com/search?q=%23gtbank) | N/A |
 | 3 | [Wike](http://twitter.com/search?q=Wike) | Wike is a term used in the Philippines to refer to a person who is knowledgeable or wise. It is derived from the Tagalog word "wikain," which means "to know." In English, it can be translated as "wise" or "knowledgeable." |
 | 4 | [PVCs](http://twitter.com/search?q=PVCs) | N/A |
-| 5 | [#PeterObi2023](http://twitter.com/search?q=%23PeterObi2023) | N/A |
-| 6 | [#seesomethingdonalerts](http://twitter.com/search?q=%23seesomethingdonalerts) | N/A |
-| 7 | [#LIVRMA](http://twitter.com/search?q=%23LIVRMA) | N/A |
-| 8 | [#PeterObi4President](http://twitter.com/search?q=%23PeterObi4President) | N/A |
-| 9 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
-| 10 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 11 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
-| 12 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 5 | [#seesomethingdonalerts](http://twitter.com/search?q=%23seesomethingdonalerts) | N/A |
+| 6 | [#PeterObi2023](http://twitter.com/search?q=%23PeterObi2023) | N/A |
+| 7 | [#PeterObi4President](http://twitter.com/search?q=%23PeterObi4President) | N/A |
+| 8 | [WhatsApp](http://twitter.com/search?q=WhatsApp) | N/A |
+| 9 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 10 | [#bankstrivia](http://twitter.com/search?q=%23bankstrivia) | N/A |
+| 11 | [Rivers](http://twitter.com/search?q=Rivers) | Rivers is a noun that refers to a large natural stream of water that flows into an ocean, lake, or other body of water. It can also refer to a large artificial waterway, such as a canal or aqueduct. |
+| 12 | [Chimaroke](http://twitter.com/search?q=Chimaroke) | N/A |
 | 13 | [Saul](http://twitter.com/search?q=Saul) | N/A |
 | 14 | [jamopyper runtown](http://twitter.com/search?q=jamopyper+runtown) | N/A |
 | 15 | [Joshua](http://twitter.com/search?q=Joshua) | N/A |
@@ -38,33 +38,33 @@ This is top 50 for [Nigeria](</Nigeria>)
 | 21 | [AND IT ALL CAME TO PASS](http://twitter.com/search?q=AND+IT+ALL+CAME+TO+PASS) | N/A |
 | 22 | [samie stunt](http://twitter.com/search?q=samie+stunt) | N/A |
 | 23 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 24 | [download chipper app](http://twitter.com/search?q=download+chipper+app) | N/A |
-| 25 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 24 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 25 | [download chipper app](http://twitter.com/search?q=download+chipper+app) | N/A |
 | 26 | [chipper x sheggz](http://twitter.com/search?q=chipper+x+sheggz) | N/A |
 | 27 | [from 2-0](http://twitter.com/search?q=from+2-0) | N/A |
 | 28 | [TAKE KANAGA JNR TO THE TOP](http://twitter.com/search?q=TAKE+KANAGA+JNR+TO+THE+TOP) | N/A |
 | 29 | [KANAGA JNR OUR GOAL](http://twitter.com/search?q=KANAGA+JNR+OUR+GOAL) | N/A |
 | 30 | [David](http://twitter.com/search?q=David) | N/A |
 | 31 | [Oyibo Chukwu](http://twitter.com/search?q=Oyibo+Chukwu) | N/A |
-| 32 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
-| 33 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 34 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
-| 35 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 36 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
+| 32 | [My President](http://twitter.com/search?q=My+President) | N/A |
+| 33 | [RCCG](http://twitter.com/search?q=RCCG) | N/A |
+| 34 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 35 | [On Saturday](http://twitter.com/search?q=On+Saturday) | N/A |
+| 36 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 37 | [Sowore](http://twitter.com/search?q=Sowore) | N/A |
-| 38 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
+| 38 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 39 | [HEAD OF HOUSE YEMI CREGX](http://twitter.com/search?q=HEAD+OF+HOUSE+YEMI+CREGX) | N/A |
 | 40 | [authority fm](http://twitter.com/search?q=authority+fm) | N/A |
-| 41 | [Recovery](http://twitter.com/search?q=Recovery) | N/A |
-| 42 | [Apostle Selman](http://twitter.com/search?q=Apostle+Selman) | N/A |
-| 43 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
-| 44 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 45 | [verified adekunle](http://twitter.com/search?q=verified+adekunle) | N/A |
-| 46 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
-| 47 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 48 | [Obi Obi](http://twitter.com/search?q=Obi+Obi) | N/A |
-| 49 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
-| 50 | [Ragnar](http://twitter.com/search?q=Ragnar) | N/A |
+| 41 | [Mercy Chinwo](http://twitter.com/search?q=Mercy+Chinwo) | N/A |
+| 42 | [Recovery](http://twitter.com/search?q=Recovery) | N/A |
+| 43 | [apostle selman](http://twitter.com/search?q=apostle+selman) | N/A |
+| 44 | [Allison](http://twitter.com/search?q=Allison) | Allison is a feminine given name of English origin. It is derived from the Old French name Alisone, which is a combination of Alice and the suffix -son, meaning "son of Alice". |
+| 45 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 46 | [verified adekunle](http://twitter.com/search?q=verified+adekunle) | N/A |
+| 47 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 48 | [National Anthem](http://twitter.com/search?q=National+Anthem) | The National Anthem is a patriotic song that is used to represent a nation or country. It is usually sung at public events such as sporting events, national holidays, and other occasions. The lyrics of the National Anthem typically express pride in the nation and its people, as well as a call to defend it against enemies. The meaning of the National Anthem in English is to honor and celebrate one's country. |
+| 49 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 50 | [Kwankwaso](http://twitter.com/search?q=Kwankwaso) | N/A |
 
 
 

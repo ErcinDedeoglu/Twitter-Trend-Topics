@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-23 04:16:07 UTC`
+📆 Last Updated: `2023-02-23 05:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,9 +31,9 @@ This is top 50 for [Norway](</Norway>)
 | 14 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
 | 15 | [raufoss](http://twitter.com/search?q=raufoss) | N/A |
 | 16 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 17 | [Bibelen](http://twitter.com/search?q=Bibelen) | N/A |
-| 18 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 19 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 17 | [bibelen](http://twitter.com/search?q=bibelen) | N/A |
+| 18 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
+| 19 | [Woke](http://twitter.com/search?q=Woke) | N/A |
 | 20 | [Islam](http://twitter.com/search?q=Islam) | N/A |
 | 21 | [Kreml](http://twitter.com/search?q=Kreml) | N/A |
 | 22 | [bane nor](http://twitter.com/search?q=bane+nor) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for [Norway](</Norway>)
 | 25 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
 | 26 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
 | 27 | [Soviet](http://twitter.com/search?q=Soviet) | N/A |
-| 28 | [Forsvaret](http://twitter.com/search?q=Forsvaret) | N/A |
-| 29 | [#aksjer](http://twitter.com/search?q=%23aksjer) | N/A |
-| 30 | [oslo s](http://twitter.com/search?q=oslo+s) | N/A |
-| 31 | [rogaland](http://twitter.com/search?q=rogaland) | N/A |
-| 32 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
-| 33 | [equinor](http://twitter.com/search?q=equinor) | N/A |
-| 34 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 35 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
-| 36 | [Strava](http://twitter.com/search?q=Strava) | N/A |
-| 37 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
-| 38 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
-| 39 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
-| 40 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 41 | [Drammen](http://twitter.com/search?q=Drammen) | N/A |
-| 42 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
-| 43 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |
-| 44 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 45 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
-| 46 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
-| 47 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
-| 48 | [Harald](http://twitter.com/search?q=Harald) | N/A |
-| 49 | [Switch](http://twitter.com/search?q=Switch) | N/A |
-| 50 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 28 | [forsvaret](http://twitter.com/search?q=forsvaret) | N/A |
+| 29 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 30 | [#aksjer](http://twitter.com/search?q=%23aksjer) | N/A |
+| 31 | [oslo s](http://twitter.com/search?q=oslo+s) | N/A |
+| 32 | [rogaland](http://twitter.com/search?q=rogaland) | N/A |
+| 33 | [Roald Dahl](http://twitter.com/search?q=Roald+Dahl) | N/A |
+| 34 | [equinor](http://twitter.com/search?q=equinor) | N/A |
+| 35 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 36 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
+| 37 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 38 | [Strava](http://twitter.com/search?q=Strava) | N/A |
+| 39 | [Nederland](http://twitter.com/search?q=Nederland) | N/A |
+| 40 | [Iceland](http://twitter.com/search?q=Iceland) | N/A |
+| 41 | [South Park](http://twitter.com/search?q=South+Park) | N/A |
+| 42 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 43 | [Drammen](http://twitter.com/search?q=Drammen) | N/A |
+| 44 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 45 | [America](http://twitter.com/search?q=America) | N/A |
+| 46 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |
+| 47 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
+| 48 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 49 | [IKEA](http://twitter.com/search?q=IKEA) | N/A |
+| 50 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
 
 
 

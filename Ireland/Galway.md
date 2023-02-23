@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-02-23 04:16:01 UTC`
+📆 Last Updated: `2023-02-23 05:16:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,7 +33,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 16 | [soc dems](http://twitter.com/search?q=soc+dems) | N/A |
 | 17 | [Bajcetic](http://twitter.com/search?q=Bajcetic) | Bajcetic is a surname of Serbian origin. It is derived from the personal name Bajča, which is a diminutive of the name Bajo, meaning "little". The English translation of Bajcetic would be "Little Bajo". |
 | 18 | [george hook](http://twitter.com/search?q=george+hook) | N/A |
-| 19 | [Dave Fanning](http://twitter.com/search?q=Dave+Fanning) | N/A |
+| 19 | [dave fanning](http://twitter.com/search?q=dave+fanning) | N/A |
 | 20 | [Modric](http://twitter.com/search?q=Modric) | Modric is a Croatian surname derived from the Slavic word "modrica" meaning "meadow". It is most commonly associated with the Croatian footballer Luka Modric, who plays for Real Madrid. |
 | 21 | [queens brook](http://twitter.com/search?q=queens+brook) | N/A |
 | 22 | [Holly Cairns](http://twitter.com/search?q=Holly+Cairns) | N/A |

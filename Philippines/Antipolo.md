@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antipolo
 
-📆 Last Updated: `2023-02-23 04:16:15 UTC`
+📆 Last Updated: `2023-02-23 05:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
 | 2 | [#MCIMabuhayKaRizal](http://twitter.com/search?q=%23MCIMabuhayKaRizal) | N/A |
-| 3 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
-| 4 | [#AnInconvenientLoveonNetflix](http://twitter.com/search?q=%23AnInconvenientLoveonNetflix) | N/A |
+| 3 | [#AnInconvenientLoveonNetflix](http://twitter.com/search?q=%23AnInconvenientLoveonNetflix) | N/A |
+| 4 | [#아스트로를_만난건_7ᅵ적_이야](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c%eb%a5%bc_%eb%a7%8c%eb%82%9c%ea%b1%b4_7%e1%85%b5%ec%a0%81_%ec%9d%b4%ec%95%bc) | N/A |
 | 5 | [AIL NOW ON NETFLIX](http://twitter.com/search?q=AIL+NOW+ON+NETFLIX) | N/A |
 | 6 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
 | 7 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
 | 8 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
 | 9 | [WILD TONIGHT MV TEASER2](http://twitter.com/search?q=WILD+TONIGHT+MV+TEASER2) | N/A |
-| 10 | [BEUStiful DAY WITH BGYO](http://twitter.com/search?q=BEUStiful+DAY+WITH+BGYO) | N/A |
-| 11 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 12 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
-| 13 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 10 | [MEW IN MV CLOSER](http://twitter.com/search?q=MEW+IN+MV+CLOSER) | N/A |
+| 11 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
+| 12 | [BEUStiful DAY WITH BGYO](http://twitter.com/search?q=BEUStiful+DAY+WITH+BGYO) | N/A |
+| 13 | [FM802 Holiday Special](http://twitter.com/search?q=FM802+Holiday+Special) | N/A |
 | 14 | [Team Secret](http://twitter.com/search?q=Team+Secret) | N/A |
-| 15 | [gose](http://twitter.com/search?q=gose) | N/A |
-| 16 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 17 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 15 | [BLOOMING MORNING WITH BINI](http://twitter.com/search?q=BLOOMING+MORNING+WITH+BINI) | N/A |
+| 16 | [gose](http://twitter.com/search?q=gose) | N/A |
+| 17 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
 | 18 | [READY TO BE CHARMED](http://twitter.com/search?q=READY+TO+BE+CHARMED) | N/A |
-| 19 | [luckybeauty short film](http://twitter.com/search?q=luckybeauty+short+film) | N/A |
-| 20 | [GOODBYE NOW TXT](http://twitter.com/search?q=GOODBYE+NOW+TXT) | N/A |
-| 21 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
-| 22 | [Jeopardy](http://twitter.com/search?q=Jeopardy) | N/A |
-| 23 | [filay sapusomo](http://twitter.com/search?q=filay+sapusomo) | N/A |
-| 24 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
-| 25 | [Mr. Torres](http://twitter.com/search?q=Mr.+Torres) | N/A |
-| 26 | [Alban](http://twitter.com/search?q=Alban) | N/A |
-| 27 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 28 | [VXON WISHBUS COMEBACK](http://twitter.com/search?q=VXON+WISHBUS+COMEBACK) | N/A |
-| 29 | [D-1 Be His Prey](http://twitter.com/search?q=D-1+Be+His+Prey) | N/A |
-| 30 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 31 | [happy lea day](http://twitter.com/search?q=happy+lea+day) | N/A |
-| 32 | [UNTIL I FOUND YOU ROSÉ](http://twitter.com/search?q=UNTIL+I+FOUND+YOU+ROS%c3%89) | N/A |
-| 33 | [juliebee bidaangsaya](http://twitter.com/search?q=juliebee+bidaangsaya) | N/A |
-| 34 | [AROHA](http://twitter.com/search?q=AROHA) | N/A |
-| 35 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
-| 36 | [thealden richardsstory](http://twitter.com/search?q=thealden+richardsstory) | N/A |
-| 37 | [vivoreematapang 2daystogo](http://twitter.com/search?q=vivoreematapang+2daystogo) | N/A |
-| 38 | [Nats](http://twitter.com/search?q=Nats) | N/A |
-| 39 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 40 | [jeongyeon](http://twitter.com/search?q=jeongyeon) | Jeongyeon is a Korean female given name. It is composed of two characters, the first meaning "sincere" and the second meaning "lotus". In English, it can be translated to mean "sincere lotus". |
-| 41 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 42 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 43 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
-| 44 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 45 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
+| 19 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
+| 20 | [luckybeauty short film](http://twitter.com/search?q=luckybeauty+short+film) | N/A |
+| 21 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 22 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
+| 23 | [goodbye now txt](http://twitter.com/search?q=goodbye+now+txt) | N/A |
+| 24 | [TXT NEW OST](http://twitter.com/search?q=TXT+NEW+OST) | N/A |
+| 25 | [haechan](http://twitter.com/search?q=haechan) | Haechan is a Korean name meaning "one who shines brightly". It is also a popular name for boys in South Korea. |
+| 26 | [Jeopardy](http://twitter.com/search?q=Jeopardy) | N/A |
+| 27 | [PJM1 IS COMING](http://twitter.com/search?q=PJM1+IS+COMING) | PJM1 IS COMING is a phrase used to indicate that something exciting or important is about to happen. It can be used to express anticipation or excitement for an upcoming event. |
+| 28 | [AILonNETFLIX BUKAS NA](http://twitter.com/search?q=AILonNETFLIX+BUKAS+NA) | N/A |
+| 29 | [VXON WISHBUS COMEBACK](http://twitter.com/search?q=VXON+WISHBUS+COMEBACK) | N/A |
+| 30 | [D-1 Be His Prey](http://twitter.com/search?q=D-1+Be+His+Prey) | N/A |
+| 31 | [Jeongyeon](http://twitter.com/search?q=Jeongyeon) | N/A |
+| 32 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 33 | [mr. torres](http://twitter.com/search?q=mr.+torres) | N/A |
+| 34 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 35 | [FILAY SaPusoMo](http://twitter.com/search?q=FILAY+SaPusoMo) | N/A |
+| 36 | [KAIA TURN UP MEDIA TOUR](http://twitter.com/search?q=KAIA+TURN+UP+MEDIA+TOUR) | N/A |
+| 37 | [happy lea day](http://twitter.com/search?q=happy+lea+day) | N/A |
+| 38 | [juliebee bidaangsaya](http://twitter.com/search?q=juliebee+bidaangsaya) | N/A |
+| 39 | [AROHA](http://twitter.com/search?q=AROHA) | N/A |
+| 40 | [wonwoo](http://twitter.com/search?q=wonwoo) | Wonwoo is a Korean name, derived from the Chinese characters for “cloud” and “dwelling”. It can be translated to mean “dwelling in the clouds” or “heavenly dwelling”. |
+| 41 | [thealden richardsstory](http://twitter.com/search?q=thealden+richardsstory) | N/A |
+| 42 | [vivoreematapang 2daystogo](http://twitter.com/search?q=vivoreematapang+2daystogo) | N/A |
+| 43 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 44 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 45 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
 | 46 | [Jinggoy](http://twitter.com/search?q=Jinggoy) | N/A |
-| 47 | [Ferdinand Magellan Jr.](http://twitter.com/search?q=Ferdinand+Magellan+Jr.) | N/A |
-| 48 | [SVT TOP 6 GLOBAL ARTIST](http://twitter.com/search?q=SVT+TOP+6+GLOBAL+ARTIST) | N/A |
-| 49 | [IFPI](http://twitter.com/search?q=IFPI) | N/A |
-| 50 | [Barry Torres](http://twitter.com/search?q=Barry+Torres) | N/A |
+| 47 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
+| 48 | [Starlink](http://twitter.com/search?q=Starlink) | N/A |
+| 49 | [GLOBAL SENSATION KIM TAEHYUNG](http://twitter.com/search?q=GLOBAL+SENSATION+KIM+TAEHYUNG) | N/A |
+| 50 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 
 
 

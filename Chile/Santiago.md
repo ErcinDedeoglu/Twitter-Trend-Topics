@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-23 04:15:55 UTC`
+📆 Last Updated: `2023-02-23 05:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Kramer](http://twitter.com/search?q=Kramer) | N/A |
-| 2 | [Humor](http://twitter.com/search?q=Humor) | N/A |
-| 3 | [#Tonka](http://twitter.com/search?q=%23Tonka) | N/A |
-| 4 | [Rodrigo Villegas](http://twitter.com/search?q=Rodrigo+Villegas) | N/A |
-| 5 | [#fitopaez](http://twitter.com/search?q=%23fitopaez) | N/A |
-| 6 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 7 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
-| 8 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
-| 9 | [#belenaza](http://twitter.com/search?q=%23belenaza) | N/A |
-| 10 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 11 | [Punta Peuco](http://twitter.com/search?q=Punta+Peuco) | N/A |
-| 12 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
-| 13 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 14 | [Conejos](http://twitter.com/search?q=Conejos) | N/A |
-| 15 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
-| 16 | [Giros](http://twitter.com/search?q=Giros) | N/A |
-| 17 | [Circo Beat](http://twitter.com/search?q=Circo+Beat) | N/A |
-| 18 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
-| 19 | [Charly](http://twitter.com/search?q=Charly) | N/A |
-| 20 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 21 | [Colina 1](http://twitter.com/search?q=Colina+1) | N/A |
-| 22 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
-| 23 | [Tumbas de la Gloria](http://twitter.com/search?q=Tumbas+de+la+Gloria) | N/A |
-| 24 | [Milad](http://twitter.com/search?q=Milad) | N/A |
-| 25 | [Guarello](http://twitter.com/search?q=Guarello) | N/A |
-| 26 | [Spinetta](http://twitter.com/search?q=Spinetta) | N/A |
-| 27 | [Cerati](http://twitter.com/search?q=Cerati) | N/A |
-| 28 | [Letelier](http://twitter.com/search?q=Letelier) | N/A |
-| 29 | [bart](http://twitter.com/search?q=bart) | N/A |
-| 30 | [Carlos Montes](http://twitter.com/search?q=Carlos+Montes) | N/A |
-| 31 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 32 | [Ciudad de Pobres Corazones](http://twitter.com/search?q=Ciudad+de+Pobres+Corazones) | N/A |
-| 33 | [Alejandra Valle](http://twitter.com/search?q=Alejandra+Valle) | N/A |
-| 34 | [Todes](http://twitter.com/search?q=Todes) | N/A |
-| 35 | [Meruane](http://twitter.com/search?q=Meruane) | N/A |
-| 36 | [Blondon Boys](http://twitter.com/search?q=Blondon+Boys) | N/A |
-| 37 | [Fabiana Cantilo](http://twitter.com/search?q=Fabiana+Cantilo) | N/A |
-| 38 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 39 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
-| 40 | [Rock Latino](http://twitter.com/search?q=Rock+Latino) | N/A |
-| 41 | [Mariposa Tecknicolor](http://twitter.com/search?q=Mariposa+Tecknicolor) | N/A |
-| 42 | [mira niñita](http://twitter.com/search?q=mira+ni%c3%b1ita) | N/A |
-| 43 | [La Conquistada](http://twitter.com/search?q=La+Conquistada) | N/A |
-| 44 | [Centella](http://twitter.com/search?q=Centella) | N/A |
-| 45 | [Claudio Parra](http://twitter.com/search?q=Claudio+Parra) | N/A |
-| 46 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
-| 47 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
-| 48 | [Morandé](http://twitter.com/search?q=Morand%c3%a9) | N/A |
-| 49 | [Copano](http://twitter.com/search?q=Copano) | N/A |
-| 50 | [Gracias Totales](http://twitter.com/search?q=Gracias+Totales) | N/A |
+| 1 | [Rodrigo Villegas](http://twitter.com/search?q=Rodrigo+Villegas) | N/A |
+| 2 | [#fitopaez](http://twitter.com/search?q=%23fitopaez) | N/A |
+| 3 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
+| 4 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
+| 5 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
+| 6 | [#belenaza](http://twitter.com/search?q=%23belenaza) | N/A |
+| 7 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 8 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
+| 9 | [#Fomeeee](http://twitter.com/search?q=%23Fomeeee) | N/A |
+| 10 | [Punta Peuco](http://twitter.com/search?q=Punta+Peuco) | N/A |
+| 11 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 12 | [Conejos](http://twitter.com/search?q=Conejos) | N/A |
+| 13 | [Eduardo Fuentes](http://twitter.com/search?q=Eduardo+Fuentes) | N/A |
+| 14 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
+| 15 | [Charly](http://twitter.com/search?q=Charly) | N/A |
+| 16 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
+| 17 | [Colina 1](http://twitter.com/search?q=Colina+1) | N/A |
+| 18 | [Milad](http://twitter.com/search?q=Milad) | N/A |
+| 19 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
+| 20 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 21 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 22 | [Letelier](http://twitter.com/search?q=Letelier) | N/A |
+| 23 | [Ignacia Antonia](http://twitter.com/search?q=Ignacia+Antonia) | N/A |
+| 24 | [Guarello](http://twitter.com/search?q=Guarello) | N/A |
+| 25 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 26 | [Montes](http://twitter.com/search?q=Montes) | N/A |
+| 27 | [Alejandra Valle](http://twitter.com/search?q=Alejandra+Valle) | N/A |
+| 28 | [Meruane](http://twitter.com/search?q=Meruane) | N/A |
+| 29 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
+| 30 | [Fabiana Cantilo](http://twitter.com/search?q=Fabiana+Cantilo) | N/A |
+| 31 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 32 | [Churros](http://twitter.com/search?q=Churros) | N/A |
+| 33 | [Copano](http://twitter.com/search?q=Copano) | N/A |
+| 34 | [Mariposa Tecknicolor](http://twitter.com/search?q=Mariposa+Tecknicolor) | N/A |
+| 35 | [mira niñita](http://twitter.com/search?q=mira+ni%c3%b1ita) | N/A |
+| 36 | [La Conquistada](http://twitter.com/search?q=La+Conquistada) | N/A |
+| 37 | [Claudio Parra](http://twitter.com/search?q=Claudio+Parra) | N/A |
+| 38 | [Júpiter](http://twitter.com/search?q=J%c3%bapiter) | N/A |
+| 39 | [Blondon Boys](http://twitter.com/search?q=Blondon+Boys) | N/A |
+| 40 | [Gracias Totales](http://twitter.com/search?q=Gracias+Totales) | N/A |
+| 41 | [Morandé](http://twitter.com/search?q=Morand%c3%a9) | N/A |
+| 42 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
+| 43 | [Yorka](http://twitter.com/search?q=Yorka) | N/A |
+| 44 | [Circo Beat](http://twitter.com/search?q=Circo+Beat) | N/A |
+| 45 | [ANFP](http://twitter.com/search?q=ANFP) | N/A |
+| 46 | [Calamaro](http://twitter.com/search?q=Calamaro) | N/A |
+| 47 | [Gonzalo Barrera](http://twitter.com/search?q=Gonzalo+Barrera) | N/A |
+| 48 | [CONSENTIMIENTO](http://twitter.com/search?q=CONSENTIMIENTO) | N/A |
+| 49 | [Ale Valle](http://twitter.com/search?q=Ale+Valle) | N/A |
+| 50 | [tarka](http://twitter.com/search?q=tarka) | N/A |
 
 
 

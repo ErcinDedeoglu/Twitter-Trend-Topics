@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-23 04:16:29 UTC`
+📆 Last Updated: `2023-02-23 05:17:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,51 @@ This is top 50 for [United States](</United States>)
 | 1 | [#icestorm](http://twitter.com/search?q=%23icestorm) | N/A |
 | 2 | [#miwx](http://twitter.com/search?q=%23miwx) | N/A |
 | 3 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
-| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 5 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
-| 6 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 7 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 8 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 9 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 10 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 11 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 4 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 5 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 6 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 8 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 9 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 10 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 11 | [Bama](http://twitter.com/search?q=Bama) | Bama is a nickname for the University of Alabama, located in Tuscaloosa, Alabama. It is also used to refer to the state of Alabama and its residents. |
 | 12 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 13 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
-| 14 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 13 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
+| 14 | [Patrick Kane](http://twitter.com/search?q=Patrick+Kane) | N/A |
 | 15 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 16 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
-| 17 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 18 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
-| 19 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 20 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
-| 21 | [Power Slap](http://twitter.com/search?q=Power+Slap) | Power Slap is a term used to describe a strong, forceful slap or hit. It is usually used to express anger or disapproval, and can be physical or verbal. |
-| 22 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
-| 23 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
-| 24 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 25 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
-| 26 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
-| 27 | [GG Jackson](http://twitter.com/search?q=GG+Jackson) | N/A |
-| 28 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 16 | [Jeff Jarrett](http://twitter.com/search?q=Jeff+Jarrett) | Jeff Jarrett is an American professional wrestler, promoter, and entrepreneur. He is best known for his time in the World Wrestling Federation (WWF) and World Championship Wrestling (WCW). He is the founder of Total Nonstop Action Wrestling (TNA), which he founded in 2002. |
+| 17 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
+| 18 | [Cissy](http://twitter.com/search?q=Cissy) | N/A |
+| 19 | [South Carolina](http://twitter.com/search?q=South+Carolina) | South Carolina is a state in the southeastern United States. It is bordered to the north by North Carolina, to the southeast by the Atlantic Ocean, and to the southwest by Georgia. The capital and largest city is Columbia. South Carolina is known for its beaches, subtropical climate, and historic sites related to the Civil War and the American Revolution. |
+| 20 | [Adam Cole](http://twitter.com/search?q=Adam+Cole) | Adam Cole is a professional wrestler currently signed to WWE. He is a former NXT Champion and Ring of Honor World Champion. The name Adam Cole is derived from the biblical figure Adam, the first man created by God. The name can also be interpreted as a reference to the phrase "Adam's apple," which is a symbol of knowledge and wisdom. |
+| 21 | [GG Jackson](http://twitter.com/search?q=GG+Jackson) | N/A |
+| 22 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 23 | [Meechie](http://twitter.com/search?q=Meechie) | N/A |
+| 24 | [Hubert](http://twitter.com/search?q=Hubert) | N/A |
+| 25 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
+| 26 | [Power Slap](http://twitter.com/search?q=Power+Slap) | Power Slap is a term used to describe a strong, forceful slap or hit. It is usually used to express anger or disapproval, and can be physical or verbal. |
+| 27 | [Teddy](http://twitter.com/search?q=Teddy) | Teddy is a nickname for the name Theodore or Edward, and it is also used as a term of endearment. It is derived from the English name Teddy, which is a diminutive form of Theodore or Edward. |
+| 28 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
 | 29 | [AEW All Access](http://twitter.com/search?q=AEW+All+Access) | N/A |
-| 30 | [Leaky Black](http://twitter.com/search?q=Leaky+Black) | N/A |
+| 30 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
 | 31 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 32 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
-| 33 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
-| 34 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
-| 35 | [Tony Khan](http://twitter.com/search?q=Tony+Khan) | N/A |
-| 36 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
-| 37 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
-| 38 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 39 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
-| 40 | [Meechie Johnson](http://twitter.com/search?q=Meechie+Johnson) | N/A |
-| 41 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
-| 42 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
-| 43 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 44 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
-| 45 | [Scheana](http://twitter.com/search?q=Scheana) | N/A |
-| 46 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 47 | [Best Friends](http://twitter.com/search?q=Best+Friends) | N/A |
-| 48 | [Pastor Cal](http://twitter.com/search?q=Pastor+Cal) | N/A |
+| 32 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 33 | [Bacot](http://twitter.com/search?q=Bacot) | Bacot is a slang term used in Indonesia and Malaysia, usually as an insult. It is derived from the phrase "bacotan," which means to talk or gossip in a negative way. In English, it can be translated to mean "trash talk" or "insulting talk." |
+| 34 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 35 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 36 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
+| 37 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 38 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
+| 39 | [Moxley](http://twitter.com/search?q=Moxley) | Moxley is a surname of English origin. It is derived from the Old English words "moc" and "leah," which mean "meadow" and "woodland clearing," respectively. The name was originally given to someone who lived near a meadow or woodland clearing. |
+| 40 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 41 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 42 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
+| 43 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
+| 44 | [Blackhawks](http://twitter.com/search?q=Blackhawks) | N/A |
+| 45 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 46 | [Scheana](http://twitter.com/search?q=Scheana) | N/A |
+| 47 | [Lamont Paris](http://twitter.com/search?q=Lamont+Paris) | N/A |
+| 48 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
 
 
 

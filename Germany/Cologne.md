@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-02-23 04:16:03 UTC`
+📆 Last Updated: `2023-02-23 05:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
 | 2 | [#Aschermittwoch](http://twitter.com/search?q=%23Aschermittwoch) | N/A |
 | 3 | [#Lanz](http://twitter.com/search?q=%23Lanz) | N/A |
-| 4 | [#maischberger](http://twitter.com/search?q=%23maischberger) | N/A |
-| 5 | [#Pistorius](http://twitter.com/search?q=%23Pistorius) | #Pistorius is a hashtag used to refer to South African athlete Oscar Pistorius, who was convicted of the 2013 murder of his girlfriend Reeva Steenkamp. The hashtag is often used in reference to news stories and updates related to Pistorius' case. |
-| 6 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 4 | [#Wagenknecht](http://twitter.com/search?q=%23Wagenknecht) | N/A |
+| 5 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 6 | [#ZeigtHerEuerSchluesselbein](http://twitter.com/search?q=%23ZeigtHerEuerSchluesselbein) | N/A |
 | 7 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
 | 8 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
 | 9 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
-| 10 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
-| 11 | [Hans Scholl](http://twitter.com/search?q=Hans+Scholl) | N/A |
-| 12 | [christoph probst](http://twitter.com/search?q=christoph+probst) | N/A |
-| 13 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
-| 14 | [raffelhüschen](http://twitter.com/search?q=raffelh%c3%bcschen) | N/A |
-| 15 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 16 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
-| 17 | [Latein](http://twitter.com/search?q=Latein) | N/A |
-| 18 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
-| 19 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
-| 20 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 21 | [Krankenversicherung](http://twitter.com/search?q=Krankenversicherung) | N/A |
-| 22 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
-| 23 | [neapel](http://twitter.com/search?q=neapel) | N/A |
-| 24 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 25 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
-| 26 | [Sommersprossen](http://twitter.com/search?q=Sommersprossen) | N/A |
-| 27 | [fleischverbot](http://twitter.com/search?q=fleischverbot) | N/A |
-| 28 | [Westen](http://twitter.com/search?q=Westen) | N/A |
-| 29 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 30 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 31 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
-| 32 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
-| 33 | [geburtsjahr](http://twitter.com/search?q=geburtsjahr) | N/A |
-| 34 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
-| 35 | [tischtennis](http://twitter.com/search?q=tischtennis) | N/A |
-| 36 | [LOUIS YOU ARE WORTHY](http://twitter.com/search?q=LOUIS+YOU+ARE+WORTHY) | N/A |
-| 37 | [Versicherten](http://twitter.com/search?q=Versicherten) | N/A |
-| 38 | [Rückspiel](http://twitter.com/search?q=R%c3%bcckspiel) | N/A |
-| 39 | [finanzbeamtin](http://twitter.com/search?q=finanzbeamtin) | N/A |
-| 40 | [Bayernpartei](http://twitter.com/search?q=Bayernpartei) | N/A |
-| 41 | [beitragszahler](http://twitter.com/search?q=beitragszahler) | N/A |
-| 42 | [februar 1943](http://twitter.com/search?q=februar+1943) | N/A |
-| 43 | [maggus](http://twitter.com/search?q=maggus) | N/A |
-| 44 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
-| 45 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
-| 46 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 47 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
-| 48 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 49 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 50 | [Sendung](http://twitter.com/search?q=Sendung) | N/A |
+| 10 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 11 | [Baum](http://twitter.com/search?q=Baum) | N/A |
+| 12 | [Hans Scholl](http://twitter.com/search?q=Hans+Scholl) | N/A |
+| 13 | [christoph probst](http://twitter.com/search?q=christoph+probst) | N/A |
+| 14 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
+| 15 | [raffelhüschen](http://twitter.com/search?q=raffelh%c3%bcschen) | N/A |
+| 16 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 17 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
+| 18 | [Latein](http://twitter.com/search?q=Latein) | N/A |
+| 19 | [schönen mittwoch](http://twitter.com/search?q=sch%c3%b6nen+mittwoch) | N/A |
+| 20 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
+| 21 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 22 | [selbstbeteiligung](http://twitter.com/search?q=selbstbeteiligung) | N/A |
+| 23 | [Willi](http://twitter.com/search?q=Willi) | N/A |
+| 24 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 25 | [neapel](http://twitter.com/search?q=neapel) | N/A |
+| 26 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 27 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 28 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
+| 29 | [Sommersprossen](http://twitter.com/search?q=Sommersprossen) | N/A |
+| 30 | [Fleischverbot](http://twitter.com/search?q=Fleischverbot) | N/A |
+| 31 | [Westen](http://twitter.com/search?q=Westen) | N/A |
+| 32 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 33 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
+| 34 | [Wohnungen](http://twitter.com/search?q=Wohnungen) | N/A |
+| 35 | [geburtsjahr](http://twitter.com/search?q=geburtsjahr) | N/A |
+| 36 | [tischtennis](http://twitter.com/search?q=tischtennis) | N/A |
+| 37 | [versicherten](http://twitter.com/search?q=versicherten) | N/A |
+| 38 | [rückspiel](http://twitter.com/search?q=r%c3%bcckspiel) | N/A |
+| 39 | [LOUIS YOU ARE WORTHY](http://twitter.com/search?q=LOUIS+YOU+ARE+WORTHY) | N/A |
+| 40 | [finanzbeamtin](http://twitter.com/search?q=finanzbeamtin) | N/A |
+| 41 | [bayernpartei](http://twitter.com/search?q=bayernpartei) | N/A |
+| 42 | [Ostern](http://twitter.com/search?q=Ostern) | N/A |
+| 43 | [februar 1943](http://twitter.com/search?q=februar+1943) | N/A |
+| 44 | [maggus](http://twitter.com/search?q=maggus) | N/A |
+| 45 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 46 | [Hermann](http://twitter.com/search?q=Hermann) | N/A |
+| 47 | [Beiträge](http://twitter.com/search?q=Beitr%c3%a4ge) | N/A |
+| 48 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 49 | [bergfest](http://twitter.com/search?q=bergfest) | N/A |
+| 50 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
 
 
 
