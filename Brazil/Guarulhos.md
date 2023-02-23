@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-23 01:45:06 UTC`
+📆 Last Updated: `2023-02-23 02:40:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Cleiton](http://twitter.com/search?q=Cleiton) | Cleiton is a Portuguese name derived from the Latin name Cleitus, which means “called” or “summoned”. It is also a variant of the Greek name Kleitos, which means “renowned” or “famous”. |
-| 2 | [Rony Rústico](http://twitter.com/search?q=Rony+R%c3%bastico) | N/A |
-| 3 | [Gabriel Menino](http://twitter.com/search?q=Gabriel+Menino) | Gabriel Menino is a Brazilian professional footballer who plays as a midfielder for Palmeiras. His name translates to "God is my strength" in English. |
-| 4 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
+| 1 | [Marcos Rocha](http://twitter.com/search?q=Marcos+Rocha) | Marcos Rocha is a Brazilian masculine given name. It is derived from the Latin name Marcus, which means "dedicated to Mars". In English, it can be translated as "Dedicated to Mars". |
+| 2 | [Allianz](http://twitter.com/search?q=Allianz) | N/A |
+| 3 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
+| 4 | [CACs](http://twitter.com/search?q=CACs) | N/A |
 | 5 | [Baixada Santista](http://twitter.com/search?q=Baixada+Santista) | N/A |
-| 6 | [Allianz Parque](http://twitter.com/search?q=Allianz+Parque) | N/A |
-| 7 | [Mato Grosso](http://twitter.com/search?q=Mato+Grosso) | N/A |
-| 8 | [Germano Mathias](http://twitter.com/search?q=Germano+Mathias) | N/A |
-| 9 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 10 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 11 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 12 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 13 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 14 | [Vila Isabel](http://twitter.com/search?q=Vila+Isabel) | N/A |
-| 15 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
-| 16 | [Felipe Neto](http://twitter.com/search?q=Felipe+Neto) | N/A |
-| 17 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 18 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 19 | [Milton Cunha](http://twitter.com/search?q=Milton+Cunha) | N/A |
-| 20 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
-| 21 | [bjork](http://twitter.com/search?q=bjork) | N/A |
-| 22 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 23 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
-| 24 | [Bolsonaristas](http://twitter.com/search?q=Bolsonaristas) | Bolsonaristas is a term used to refer to supporters of Brazilian President Jair Bolsonaro. The term is derived from the president's last name and roughly translates to "Bolsonaro supporters" in English. |
-| 25 | [Bruyne](http://twitter.com/search?q=Bruyne) | N/A |
-| 26 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
-| 27 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
-| 28 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
-| 29 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
-| 30 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 31 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
-| 32 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
-| 33 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 34 | [Everson](http://twitter.com/search?q=Everson) | Everson is a surname of English origin. It is derived from the Old English personal name Eoforwine, which means "boar friend". |
-| 35 | [Raul Gustavo](http://twitter.com/search?q=Raul+Gustavo) | N/A |
-| 36 | [#LibertadoresNaESPN](http://twitter.com/search?q=%23LibertadoresNaESPN) | N/A |
-| 37 | [Mariano](http://twitter.com/search?q=Mariano) | Mariano is a Spanish name derived from the Latin name Marius, meaning "of the sea". It is also a common surname in Italy, Portugal, and other parts of Europe. In English, it can be translated to mean "belonging to the sea". |
-| 38 | [Juba](http://twitter.com/search?q=Juba) | N/A |
-| 39 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
-| 40 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
-| 41 | [UNIAO GUSKEY](http://twitter.com/search?q=UNIAO+GUSKEY) | N/A |
-| 42 | [#PaulistaoNaRecord](http://twitter.com/search?q=%23PaulistaoNaRecord) | N/A |
-| 43 | [Rubens](http://twitter.com/search?q=Rubens) | N/A |
-| 44 | [São Raimundo](http://twitter.com/search?q=S%c3%a3o+Raimundo) | N/A |
-| 45 | [tiago iorc](http://twitter.com/search?q=tiago+iorc) | N/A |
-| 46 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 47 | [#TinderMãozinhas](http://twitter.com/search?q=%23TinderM%c3%a3ozinhas) | N/A |
-| 48 | [VAI DONELÔ](http://twitter.com/search?q=VAI+DONEL%c3%94) | N/A |
+| 6 | [lica](http://twitter.com/search?q=lica) | N/A |
+| 7 | [yuqi](http://twitter.com/search?q=yuqi) | N/A |
+| 8 | [Adriana](http://twitter.com/search?q=Adriana) | N/A |
+| 9 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
+| 10 | [O Guime](http://twitter.com/search?q=O+Guime) | N/A |
+| 11 | [Kate](http://twitter.com/search?q=Kate) | N/A |
+| 12 | [MODESTIA NO FLUXO](http://twitter.com/search?q=MODESTIA+NO+FLUXO) | N/A |
+| 13 | [Helô](http://twitter.com/search?q=Hel%c3%b4) | N/A |
+| 14 | [#ONEPIECE1076](http://twitter.com/search?q=%23ONEPIECE1076) | N/A |
+| 15 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 16 | [Germano Mathias](http://twitter.com/search?q=Germano+Mathias) | N/A |
+| 17 | [Copa do Brasil](http://twitter.com/search?q=Copa+do+Brasil) | N/A |
+| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 19 | [Celso Daniel](http://twitter.com/search?q=Celso+Daniel) | N/A |
+| 20 | [Mato Grosso](http://twitter.com/search?q=Mato+Grosso) | N/A |
+| 21 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
+| 22 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 23 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 24 | [Manchester City](http://twitter.com/search?q=Manchester+City) | Manchester City is an English professional football club based in Manchester, England. The club competes in the Premier League, the top tier of English football. Founded in 1880 as St. Mark's (West Gorton), it became Ardwick Association Football Club in 1887 and Manchester City in 1894. |
+| 25 | [Felipe Neto](http://twitter.com/search?q=Felipe+Neto) | N/A |
+| 26 | [Lampião](http://twitter.com/search?q=Lampi%c3%a3o) | N/A |
+| 27 | [Império Serrano](http://twitter.com/search?q=Imp%c3%a9rio+Serrano) | N/A |
+| 28 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 29 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
+| 30 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 31 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 32 | [Bolsonarismo](http://twitter.com/search?q=Bolsonarismo) | Bolsonarismo is a term used to describe the political ideology of Brazilian President Jair Bolsonaro. It is characterized by a combination of right-wing populism, economic liberalism, and social conservatism. In English, it can be translated as "Bolsonaroism". |
+| 33 | [#MoonlightChickenEP5](http://twitter.com/search?q=%23MoonlightChickenEP5) | N/A |
+| 34 | [Bolsonaristas](http://twitter.com/search?q=Bolsonaristas) | Bolsonaristas is a term used to refer to supporters of Brazilian President Jair Bolsonaro. The term is derived from the president's last name and roughly translates to "Bolsonaro supporters" in English. |
+| 35 | [Viradouro](http://twitter.com/search?q=Viradouro) | N/A |
+| 36 | [PlayStation](http://twitter.com/search?q=PlayStation) | N/A |
+| 37 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 38 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
+| 39 | [Selena Gomez](http://twitter.com/search?q=Selena+Gomez) | N/A |
+| 40 | [Rony](http://twitter.com/search?q=Rony) | Rony is not a word in English. It may be a name or an acronym in another language. |
+| 41 | [Breno Lopes](http://twitter.com/search?q=Breno+Lopes) | Breno Lopes is a Portuguese name. It is derived from the Latin name Bruno, which means "brown" or "dark-haired". The surname Lopes is derived from the Latin word lupus, which means "wolf". In English, Breno Lopes would translate to "Brown Wolf". |
+| 42 | [Bahia](http://twitter.com/search?q=Bahia) | Bahia is a state in Brazil located on the eastern coast of the country. The name Bahia is derived from the Portuguese word for “bay” and refers to the large bay that forms part of the state's coastline. In English, Bahia can be translated to mean “bay” or “bay area.” |
+| 43 | [Paulo Vieira](http://twitter.com/search?q=Paulo+Vieira) | Paulo Vieira is a Portuguese name. It is derived from the Latin name Paulus, which means "small" or "humble". The surname Vieira is derived from the Latin word vītālis, meaning "vital" or "full of life". In English, Paulo Vieira can be translated to mean "Humble Vitality". |
+| 44 | [Dodô](http://twitter.com/search?q=Dod%c3%b4) | N/A |
+| 45 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 46 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 47 | [Hyoran](http://twitter.com/search?q=Hyoran) | Hyoran is a Japanese word that means “to spread out” or “to expand”. It is often used to describe the act of spreading out one's arms or legs in order to make oneself appear larger. |
+| 48 | [Ademir](http://twitter.com/search?q=Ademir) | Ademir is a Portuguese name derived from the Latin name Ademarus, which means “noble protector”. In English, it can be translated to mean “noble defender”. |
+| 49 | [Coudet](http://twitter.com/search?q=Coudet) | N/A |
+| 50 | [Bragantino](http://twitter.com/search?q=Bragantino) | N/A |
 
 
 

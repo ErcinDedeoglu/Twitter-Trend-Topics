@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Long Beach
 
-📆 Last Updated: `2023-02-23 01:45:38 UTC`
+📆 Last Updated: `2023-02-23 02:40:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SoCal](http://twitter.com/search?q=SoCal) | N/A |
-| 2 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
+| 1 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
+| 2 | [SoCal](http://twitter.com/search?q=SoCal) | N/A |
 | 3 | [Pasadena](http://twitter.com/search?q=Pasadena) | N/A |
-| 4 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
-| 5 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 6 | [#CALeg](http://twitter.com/search?q=%23CALeg) | N/A |
-| 7 | [Skyline](http://twitter.com/search?q=Skyline) | N/A |
+| 4 | [Ivanka](http://twitter.com/search?q=Ivanka) | N/A |
+| 5 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
+| 6 | [#PSVR2](http://twitter.com/search?q=%23PSVR2) | N/A |
+| 7 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 8 | [Puerto Rico](http://twitter.com/search?q=Puerto+Rico) | Puerto Rico is an unincorporated territory of the United States located in the northeastern Caribbean Sea. Its name translates to "rich port" in English. Puerto Rico is known for its tropical climate, diverse culture, and rich history. |
-| 9 | [Grand Jury](http://twitter.com/search?q=Grand+Jury) | N/A |
-| 10 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 11 | [#AdvertiseHere](http://twitter.com/search?q=%23AdvertiseHere) | N/A |
-| 12 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 13 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 14 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
-| 15 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
-| 16 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 9 | [#CALeg](http://twitter.com/search?q=%23CALeg) | N/A |
+| 10 | [Skyline](http://twitter.com/search?q=Skyline) | N/A |
+| 11 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 13 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 14 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
+| 15 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 16 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
 | 17 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 18 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
-| 19 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
-| 20 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 21 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 22 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 23 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 24 | [Debbie Gibson](http://twitter.com/search?q=Debbie+Gibson) | N/A |
-| 25 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
-| 26 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 27 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
-| 28 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 29 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
-| 30 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 31 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
-| 32 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 33 | [Peter Avalon](http://twitter.com/search?q=Peter+Avalon) | N/A |
-| 34 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 35 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
-| 36 | [Crime Hills](http://twitter.com/search?q=Crime+Hills) | N/A |
-| 37 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
-| 38 | [Howie Mandel](http://twitter.com/search?q=Howie+Mandel) | N/A |
-| 39 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
-| 40 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 41 | [Keith Melvin Moses](http://twitter.com/search?q=Keith+Melvin+Moses) | N/A |
-| 42 | [Cason](http://twitter.com/search?q=Cason) | N/A |
-| 43 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 44 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
-| 45 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
-| 46 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 47 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
-| 48 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
-| 49 | [Zaitsev](http://twitter.com/search?q=Zaitsev) | N/A |
+| 18 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
+| 19 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 20 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
+| 21 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 22 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
+| 23 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 24 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
+| 25 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
+| 26 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 27 | [Pastor Cal](http://twitter.com/search?q=Pastor+Cal) | N/A |
+| 28 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 29 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 30 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 31 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 32 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
+| 33 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 34 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 35 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 36 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
+| 37 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
+| 38 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
+| 39 | [THEY KISSED](http://twitter.com/search?q=THEY+KISSED) | N/A |
+| 40 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 41 | [Debbie Gibson](http://twitter.com/search?q=Debbie+Gibson) | N/A |
+| 42 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
+| 43 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 44 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
+| 45 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 46 | [The Acclaimed](http://twitter.com/search?q=The+Acclaimed) | The Acclaimed is an expression used to describe something or someone that has been widely praised and admired. It is often used to refer to works of art, literature, music, or films that have received critical acclaim and public recognition. |
+| 47 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
+| 48 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 49 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ankara
 
-📆 Last Updated: `2023-02-23 01:45:33 UTC`
+📆 Last Updated: `2023-02-23 02:40:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,46 +24,46 @@ This is top 50 for [Turkey](</Turkey>)
 | 7 | [furkançolak osurdu](http://twitter.com/search?q=furkan%c3%a7olak+osurdu) | N/A |
 | 8 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
 | 9 | [Çadır Acil](http://twitter.com/search?q=%c3%87ad%c4%b1r+Acil) | N/A |
-| 10 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
-| 11 | [Engin Ardıç](http://twitter.com/search?q=Engin+Ard%c4%b1%c3%a7) | N/A |
-| 12 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 10 | [Engin Ardıç](http://twitter.com/search?q=Engin+Ard%c4%b1%c3%a7) | N/A |
+| 11 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 12 | [Sedat Peker](http://twitter.com/search?q=Sedat+Peker) | N/A |
 | 13 | [RTÜK](http://twitter.com/search?q=RT%c3%9cK) | N/A |
 | 14 | [Metin Akpınar](http://twitter.com/search?q=Metin+Akp%c4%b1nar) | N/A |
 | 15 | [Nunez](http://twitter.com/search?q=Nunez) | Nunez is a Spanish surname derived from the given name Nuño. It is also a common surname in Portugal and Brazil. In English, it means "son of Nuño". |
 | 16 | [Jüpiter](http://twitter.com/search?q=J%c3%bcpiter) | N/A |
-| 17 | [Savaş Ateş](http://twitter.com/search?q=Sava%c5%9f+Ate%c5%9f) | N/A |
-| 18 | [Yürü Bay Kemal](http://twitter.com/search?q=Y%c3%bcr%c3%bc+Bay+Kemal) | N/A |
-| 19 | [hatay'da 6.4](http://twitter.com/search?q=hatay%27da+6.4) | N/A |
-| 20 | [Venüs](http://twitter.com/search?q=Ven%c3%bcs) | N/A |
-| 21 | [ALLAH DEVLETİMİZE](http://twitter.com/search?q=ALLAH+DEVLET%c4%b0M%c4%b0ZE) | N/A |
-| 22 | [İnsaniYardıma Operasyon](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon) | N/A |
-| 23 | [sakiler yalanıbırak](http://twitter.com/search?q=sakiler+yalan%c4%b1b%c4%b1rak) | N/A |
-| 24 | [Etmiyorsun](http://twitter.com/search?q=Etmiyorsun) | N/A |
-| 25 | [Lacoste Necmi](http://twitter.com/search?q=Lacoste+Necmi) | N/A |
-| 26 | [Farah Zeynep Abdullah](http://twitter.com/search?q=Farah+Zeynep+Abdullah) | N/A |
-| 27 | [Ommer Hotel](http://twitter.com/search?q=Ommer+Hotel) | N/A |
-| 28 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
+| 17 | [Yürü Bay Kemal](http://twitter.com/search?q=Y%c3%bcr%c3%bc+Bay+Kemal) | N/A |
+| 18 | [hatay'da 6.4](http://twitter.com/search?q=hatay%27da+6.4) | N/A |
+| 19 | [Venüs](http://twitter.com/search?q=Ven%c3%bcs) | N/A |
+| 20 | [Savaş Ateş](http://twitter.com/search?q=Sava%c5%9f+Ate%c5%9f) | N/A |
+| 21 | [İnsaniYardıma Operasyon](http://twitter.com/search?q=%c4%b0nsaniYard%c4%b1ma+Operasyon) | N/A |
+| 22 | [sakiler yalanıbırak](http://twitter.com/search?q=sakiler+yalan%c4%b1b%c4%b1rak) | N/A |
+| 23 | [ALLAH DEVLETİMİZE](http://twitter.com/search?q=ALLAH+DEVLET%c4%b0M%c4%b0ZE) | N/A |
+| 24 | [lacoste necmi](http://twitter.com/search?q=lacoste+necmi) | N/A |
+| 25 | [Farah Zeynep Abdullah](http://twitter.com/search?q=Farah+Zeynep+Abdullah) | N/A |
+| 26 | [Ommer Hotel](http://twitter.com/search?q=Ommer+Hotel) | N/A |
+| 27 | [Tuğba Özay](http://twitter.com/search?q=Tu%c4%9fba+%c3%96zay) | N/A |
+| 28 | [Etmiyorsun](http://twitter.com/search?q=Etmiyorsun) | N/A |
 | 29 | [kardeşlik seferberliği](http://twitter.com/search?q=karde%c5%9flik+seferberli%c4%9fi) | N/A |
-| 30 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 30 | [Fox TV'ye](http://twitter.com/search?q=Fox+TV%27ye) | N/A |
 | 31 | [DERDİNİZ İMAM DEĞİL İSLAMLA](http://twitter.com/search?q=DERD%c4%b0N%c4%b0Z+%c4%b0MAM+DE%c4%9e%c4%b0L+%c4%b0SLAMLA) | N/A |
-| 32 | [Fox TV'ye](http://twitter.com/search?q=Fox+TV%27ye) | N/A |
-| 33 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
-| 34 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
+| 32 | [Tanju](http://twitter.com/search?q=Tanju) | N/A |
+| 33 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
+| 34 | [Emine Erdoğan](http://twitter.com/search?q=Emine+Erdo%c4%9fan) | N/A |
 | 35 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
 | 36 | [İhsan Eliaçık](http://twitter.com/search?q=%c4%b0hsan+Elia%c3%a7%c4%b1k) | N/A |
 | 37 | [Lucas Moura](http://twitter.com/search?q=Lucas+Moura) | N/A |
-| 38 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
-| 39 | [Aldatıldığım](http://twitter.com/search?q=Aldat%c4%b1ld%c4%b1%c4%9f%c4%b1m) | N/A |
+| 38 | [Aldatıldığım](http://twitter.com/search?q=Aldat%c4%b1ld%c4%b1%c4%9f%c4%b1m) | N/A |
+| 39 | [Muharrem İnce](http://twitter.com/search?q=Muharrem+%c4%b0nce) | N/A |
 | 40 | [Hacer Çınar](http://twitter.com/search?q=Hacer+%c3%87%c4%b1nar) | N/A |
-| 41 | [Come to Fenerbahçe](http://twitter.com/search?q=Come+to+Fenerbah%c3%a7e) | N/A |
-| 42 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 42 | [Come to Fenerbahçe](http://twitter.com/search?q=Come+to+Fenerbah%c3%a7e) | N/A |
 | 43 | [Altını](http://twitter.com/search?q=Alt%c4%b1n%c4%b1) | N/A |
 | 44 | [Edip](http://twitter.com/search?q=Edip) | N/A |
 | 45 | [Lise 3](http://twitter.com/search?q=Lise+3) | N/A |
-| 46 | [Truman Show](http://twitter.com/search?q=Truman+Show) | N/A |
-| 47 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
-| 48 | [Reis](http://twitter.com/search?q=Reis) | N/A |
-| 49 | [Tanrı](http://twitter.com/search?q=Tanr%c4%b1) | N/A |
+| 46 | [Cem Küçük](http://twitter.com/search?q=Cem+K%c3%bc%c3%a7%c3%bck) | N/A |
+| 47 | [Reis](http://twitter.com/search?q=Reis) | N/A |
+| 48 | [Halka](http://twitter.com/search?q=Halka) | N/A |
+| 49 | [Fight Club](http://twitter.com/search?q=Fight+Club) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-23 01:45:07 UTC`
+📆 Last Updated: `2023-02-23 02:40:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,45 @@ This is top 50 for [Poland](</Poland>)
 | 7 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
 | 8 | [POTUS](http://twitter.com/search?q=POTUS) | N/A |
 | 9 | [#ŚrodaPopielcowa](http://twitter.com/search?q=%23%c5%9arodaPopielcowa) | N/A |
-| 10 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
-| 11 | [Spotkanie](http://twitter.com/search?q=Spotkanie) | N/A |
-| 12 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
-| 13 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 14 | [Grodzkim](http://twitter.com/search?q=Grodzkim) | N/A |
-| 15 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
-| 16 | [Wielkiego Postu](http://twitter.com/search?q=Wielkiego+Postu) | N/A |
-| 17 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
-| 18 | [żoliborza](http://twitter.com/search?q=%c5%bcoliborza) | N/A |
-| 19 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
-| 20 | [Mołdawia](http://twitter.com/search?q=Mo%c5%82dawia) | N/A |
+| 10 | [Duda](http://twitter.com/search?q=Duda) | N/A |
+| 11 | [Ukrainy](http://twitter.com/search?q=Ukrainy) | N/A |
+| 12 | [spotkanie](http://twitter.com/search?q=spotkanie) | N/A |
+| 13 | [Warszawie](http://twitter.com/search?q=Warszawie) | N/A |
+| 14 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 15 | [Wielkiego Postu](http://twitter.com/search?q=Wielkiego+Postu) | N/A |
+| 16 | [Grodzkim](http://twitter.com/search?q=Grodzkim) | N/A |
+| 17 | [Kolanko](http://twitter.com/search?q=Kolanko) | N/A |
+| 18 | [Dudy](http://twitter.com/search?q=Dudy) | N/A |
+| 19 | [żoliborza](http://twitter.com/search?q=%c5%bcoliborza) | N/A |
+| 20 | [Jimina](http://twitter.com/search?q=Jimina) | N/A |
 | 21 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
-| 22 | [Jakimowicz](http://twitter.com/search?q=Jakimowicz) | N/A |
-| 23 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
-| 24 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 25 | [Naddniestrza](http://twitter.com/search?q=Naddniestrza) | N/A |
-| 26 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
-| 27 | [Lipska](http://twitter.com/search?q=Lipska) | N/A |
-| 28 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 29 | [staszewski](http://twitter.com/search?q=staszewski) | N/A |
-| 30 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 22 | [Mołdawia](http://twitter.com/search?q=Mo%c5%82dawia) | N/A |
+| 23 | [Jakimowicz](http://twitter.com/search?q=Jakimowicz) | N/A |
+| 24 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
+| 25 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 26 | [Naddniestrza](http://twitter.com/search?q=Naddniestrza) | N/A |
+| 27 | [Trumpa](http://twitter.com/search?q=Trumpa) | N/A |
+| 28 | [lipska](http://twitter.com/search?q=lipska) | N/A |
+| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 30 | [staszewski](http://twitter.com/search?q=staszewski) | N/A |
 | 31 | [Bart](http://twitter.com/search?q=Bart) | N/A |
-| 32 | [Witek](http://twitter.com/search?q=Witek) | N/A |
-| 33 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
-| 34 | [DROP AN EMOJI](http://twitter.com/search?q=DROP+AN+EMOJI) | N/A |
+| 32 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 33 | [Witek](http://twitter.com/search?q=Witek) | N/A |
+| 34 | [Eintracht](http://twitter.com/search?q=Eintracht) | N/A |
 | 35 | [Karolina Pliskova](http://twitter.com/search?q=Karolina+Pliskova) | N/A |
-| 36 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 37 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 38 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
-| 39 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
-| 40 | [ewangelię](http://twitter.com/search?q=ewangeli%c4%99) | N/A |
-| 41 | [Spotkał](http://twitter.com/search?q=Spotka%c5%82) | N/A |
-| 42 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 43 | [Kijowa](http://twitter.com/search?q=Kijowa) | N/A |
-| 44 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 45 | [kylie](http://twitter.com/search?q=kylie) | N/A |
-| 46 | [winter flower](http://twitter.com/search?q=winter+flower) | N/A |
-| 47 | [Luft](http://twitter.com/search?q=Luft) | N/A |
-| 48 | [Marianna](http://twitter.com/search?q=Marianna) | N/A |
+| 36 | [Piasecki](http://twitter.com/search?q=Piasecki) | N/A |
+| 37 | [ewangelię](http://twitter.com/search?q=ewangeli%c4%99) | N/A |
+| 38 | [spotkał](http://twitter.com/search?q=spotka%c5%82) | N/A |
+| 39 | [DROP AN EMOJI](http://twitter.com/search?q=DROP+AN+EMOJI) | N/A |
+| 40 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
+| 41 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 42 | [Kijowa](http://twitter.com/search?q=Kijowa) | N/A |
+| 43 | [kylie](http://twitter.com/search?q=kylie) | N/A |
+| 44 | [winter flower](http://twitter.com/search?q=winter+flower) | N/A |
+| 45 | [Luft](http://twitter.com/search?q=Luft) | N/A |
+| 46 | [Marianna](http://twitter.com/search?q=Marianna) | N/A |
+| 47 | [New START](http://twitter.com/search?q=New+START) | N/A |
+| 48 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
 
 
 

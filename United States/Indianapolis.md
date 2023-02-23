@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indianapolis
 
-📆 Last Updated: `2023-02-23 01:45:37 UTC`
+📆 Last Updated: `2023-02-23 02:40:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#INwx](http://twitter.com/search?q=%23INwx) | N/A |
+| 1 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
 | 2 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 3 | [#AdvertiseHere](http://twitter.com/search?q=%23AdvertiseHere) | N/A |
-| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 5 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
-| 6 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 7 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
-| 8 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
-| 9 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 10 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
-| 11 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
-| 12 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 13 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 14 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 15 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 16 | [Debbie Gibson](http://twitter.com/search?q=Debbie+Gibson) | N/A |
-| 17 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
-| 18 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 19 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
-| 20 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 21 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
-| 22 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 23 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
-| 24 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 25 | [Peter Avalon](http://twitter.com/search?q=Peter+Avalon) | N/A |
-| 26 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 27 | [Crime Hills](http://twitter.com/search?q=Crime+Hills) | N/A |
-| 28 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
-| 29 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
-| 30 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 31 | [Keith Melvin Moses](http://twitter.com/search?q=Keith+Melvin+Moses) | N/A |
-| 32 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
-| 33 | [Howie Mandel](http://twitter.com/search?q=Howie+Mandel) | N/A |
-| 34 | [Cason](http://twitter.com/search?q=Cason) | N/A |
-| 35 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 36 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
-| 37 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
-| 38 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 39 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
-| 40 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
-| 41 | [Zaitsev](http://twitter.com/search?q=Zaitsev) | N/A |
-| 42 | [Future Considerations](http://twitter.com/search?q=Future+Considerations) | N/A |
-| 43 | [Hunter Tyson](http://twitter.com/search?q=Hunter+Tyson) | N/A |
-| 44 | [Crystal Dunn](http://twitter.com/search?q=Crystal+Dunn) | N/A |
-| 45 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 46 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
-| 47 | [Apprehended](http://twitter.com/search?q=Apprehended) | N/A |
-| 48 | [Charlie Taylor](http://twitter.com/search?q=Charlie+Taylor) | N/A |
-| 49 | [Tajikistan](http://twitter.com/search?q=Tajikistan) | N/A |
+| 3 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 4 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 5 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 6 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
+| 7 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
+| 8 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 9 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 10 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 11 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
+| 12 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 13 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
+| 14 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 15 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 16 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
+| 17 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
+| 18 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
+| 19 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 20 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 21 | [Pastor Cal](http://twitter.com/search?q=Pastor+Cal) | N/A |
+| 22 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 23 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 24 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 25 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
+| 26 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 27 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 28 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 29 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
+| 30 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
+| 31 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
+| 32 | [THEY KISSED](http://twitter.com/search?q=THEY+KISSED) | N/A |
+| 33 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 34 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
+| 35 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 36 | [Debbie Gibson](http://twitter.com/search?q=Debbie+Gibson) | N/A |
+| 37 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
+| 38 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 39 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 40 | [The Acclaimed](http://twitter.com/search?q=The+Acclaimed) | The Acclaimed is an expression used to describe something or someone that has been widely praised and admired. It is often used to refer to works of art, literature, music, or films that have received critical acclaim and public recognition. |
+| 41 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 42 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
+| 43 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
+| 44 | [Cason](http://twitter.com/search?q=Cason) | N/A |
+| 45 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 46 | [Airris](http://twitter.com/search?q=Airris) | N/A |
+| 47 | [Crime Hills](http://twitter.com/search?q=Crime+Hills) | N/A |
+| 48 | [Revolution](http://twitter.com/search?q=Revolution) | N/A |
+| 49 | [Toppin](http://twitter.com/search?q=Toppin) | Toppin is a slang term used to describe something that is the best or most impressive. It can be used to describe a person, an event, or an object. In English, it is often used as an exclamation of approval or admiration. |
 
 
 

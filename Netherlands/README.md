@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-23 01:45:47 UTC`
+📆 Last Updated: `2023-02-23 02:40:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,9 +31,9 @@ This is top 50 for Netherlands
 | 14 | [Venetië](http://twitter.com/search?q=Veneti%c3%ab) | N/A |
 | 15 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 16 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
-| 17 | [Loes](http://twitter.com/search?q=Loes) | N/A |
-| 18 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 19 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 18 | [Courtois](http://twitter.com/search?q=Courtois) | Courtois is a French word meaning "polite" or "courteous". It is often used to describe someone who is well-mannered and respectful. |
+| 19 | [Loes](http://twitter.com/search?q=Loes) | N/A |
 | 20 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 21 | [netbeheerders](http://twitter.com/search?q=netbeheerders) | N/A |
 | 22 | [gl-kamerlid kröger](http://twitter.com/search?q=gl-kamerlid+kr%c3%b6ger) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for Netherlands
 | 25 | [Johan Remkes](http://twitter.com/search?q=Johan+Remkes) | N/A |
 | 26 | [dag 22](http://twitter.com/search?q=dag+22) | N/A |
 | 27 | [Rob de Wijk](http://twitter.com/search?q=Rob+de+Wijk) | N/A |
-| 28 | [Welterusten](http://twitter.com/search?q=Welterusten) | N/A |
-| 29 | [rishon](http://twitter.com/search?q=rishon) | N/A |
-| 30 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
-| 31 | [Truste](http://twitter.com/search?q=Truste) | N/A |
-| 32 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
-| 33 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
+| 28 | [rishon](http://twitter.com/search?q=rishon) | N/A |
+| 29 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
+| 30 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 31 | [Richelle](http://twitter.com/search?q=Richelle) | N/A |
+| 32 | [Truste](http://twitter.com/search?q=Truste) | N/A |
+| 33 | [Slaap](http://twitter.com/search?q=Slaap) | N/A |
 | 34 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
 | 35 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
 | 36 | [vollenbroek](http://twitter.com/search?q=vollenbroek) | N/A |
 | 37 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
 | 38 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
 | 39 | [Shula Rijxman](http://twitter.com/search?q=Shula+Rijxman) | N/A |
-| 40 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 41 | [Geel](http://twitter.com/search?q=Geel) | N/A |
-| 42 | [Machiavelli](http://twitter.com/search?q=Machiavelli) | N/A |
-| 43 | [de sgp](http://twitter.com/search?q=de+sgp) | N/A |
-| 44 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
-| 45 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
-| 46 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 47 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
-| 48 | [groenteprijzen](http://twitter.com/search?q=groenteprijzen) | N/A |
-| 49 | [Zuid-Europa](http://twitter.com/search?q=Zuid-Europa) | N/A |
-| 50 | [Wilders](http://twitter.com/search?q=Wilders) | N/A |
+| 40 | [geel](http://twitter.com/search?q=geel) | N/A |
+| 41 | [Machiavelli](http://twitter.com/search?q=Machiavelli) | N/A |
+| 42 | [de sgp](http://twitter.com/search?q=de+sgp) | N/A |
+| 43 | [Raoul](http://twitter.com/search?q=Raoul) | N/A |
+| 44 | [Eneco](http://twitter.com/search?q=Eneco) | N/A |
+| 45 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 46 | [Patrick](http://twitter.com/search?q=Patrick) | Patrick is a given name derived from the Latin name Patricius, meaning "nobleman". It is a popular name in many English-speaking countries, particularly in Ireland, where it is the third most common male name. |
+| 47 | [groenteprijzen](http://twitter.com/search?q=groenteprijzen) | N/A |
+| 48 | [Zuid-Europa](http://twitter.com/search?q=Zuid-Europa) | N/A |
+| 49 | [Van Rijn](http://twitter.com/search?q=Van+Rijn) | N/A |
+| 50 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
 
 
 

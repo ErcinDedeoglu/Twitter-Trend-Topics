@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-23 01:45:36 UTC`
+📆 Last Updated: `2023-02-23 02:40:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
-| 2 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
-| 3 | [melanie](http://twitter.com/search?q=melanie) | N/A |
-| 4 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 5 | [#AdvertiseHere](http://twitter.com/search?q=%23AdvertiseHere) | N/A |
-| 6 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 7 | [#MarriedAtFirstSight](http://twitter.com/search?q=%23MarriedAtFirstSight) | #MarriedAtFirstSight is a reality television show in which two strangers are matched by experts and then meet for the first time at their wedding. The couples then go on to live together and decide whether or not to stay married after several weeks. |
-| 8 | [#TheMaskedSinger](http://twitter.com/search?q=%23TheMaskedSinger) | N/A |
-| 9 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
-| 10 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
-| 11 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
-| 12 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
-| 13 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
-| 14 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
-| 15 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
-| 16 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 17 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 18 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
-| 19 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
-| 20 | [Debbie Gibson](http://twitter.com/search?q=Debbie+Gibson) | N/A |
-| 21 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
-| 22 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 23 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
-| 24 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
-| 25 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
-| 26 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 27 | [The Guard](http://twitter.com/search?q=The+Guard) | N/A |
-| 28 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 29 | [Peter Avalon](http://twitter.com/search?q=Peter+Avalon) | N/A |
-| 30 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
-| 31 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 32 | [Crime Hills](http://twitter.com/search?q=Crime+Hills) | N/A |
-| 33 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
-| 34 | [Howie Mandel](http://twitter.com/search?q=Howie+Mandel) | N/A |
-| 35 | [Providence](http://twitter.com/search?q=Providence) | Providence is a term used to refer to the protective care and guidance of a higher power, such as God. It is often used to describe the feeling of being watched over and protected by a higher power. In English, it can also be used to refer to something that happens by chance or luck, as if it were part of a larger plan. |
-| 36 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
-| 37 | [Cason](http://twitter.com/search?q=Cason) | N/A |
-| 38 | [Keith Melvin Moses](http://twitter.com/search?q=Keith+Melvin+Moses) | N/A |
-| 39 | [Florida](http://twitter.com/search?q=Florida) | N/A |
-| 40 | [Jordan Hawkins](http://twitter.com/search?q=Jordan+Hawkins) | N/A |
-| 41 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
-| 42 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 43 | [Matt Patricia](http://twitter.com/search?q=Matt+Patricia) | Matt Patricia is the head coach of the Detroit Lions of the National Football League (NFL). He was previously the defensive coordinator for the New England Patriots. His name is derived from his given name, Matthew. |
-| 44 | [Trump Ice](http://twitter.com/search?q=Trump+Ice) | N/A |
-| 45 | [Zaitsev](http://twitter.com/search?q=Zaitsev) | N/A |
-| 46 | [Future Considerations](http://twitter.com/search?q=Future+Considerations) | N/A |
-| 47 | [Hunter Tyson](http://twitter.com/search?q=Hunter+Tyson) | N/A |
-| 48 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
-| 49 | [Beetlejuice](http://twitter.com/search?q=Beetlejuice) | N/A |
-| 50 | [Crystal Dunn](http://twitter.com/search?q=Crystal+Dunn) | N/A |
+| 1 | [#TexasHockey](http://twitter.com/search?q=%23TexasHockey) | N/A |
+| 2 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 3 | [Clinton](http://twitter.com/search?q=Clinton) | N/A |
+| 4 | [Pence](http://twitter.com/search?q=Pence) | Pence is a unit of currency in the United Kingdom, Ireland, and other British Commonwealth countries. It is equal to one hundredth of a pound sterling (GBP). The symbol for pence is "p" or "£". |
+| 5 | [melanie](http://twitter.com/search?q=melanie) | N/A |
+| 6 | [#AbbottElementary](http://twitter.com/search?q=%23AbbottElementary) | #AbbottElementary is a hashtag used to promote and support Abbott Elementary School, a public school in Texas. It is used to share news, events, and other information related to the school. |
+| 7 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 8 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 9 | [#SistasOnBET](http://twitter.com/search?q=%23SistasOnBET) | #SistasOnBET is a hashtag used to promote the television series Sistas, which airs on the BET network. The show follows a group of single black women in Atlanta as they navigate their complicated love lives, careers, and friendships. The hashtag is used to promote the show and encourage viewers to watch it. |
+| 10 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 11 | [Chris Livingston](http://twitter.com/search?q=Chris+Livingston) | N/A |
+| 12 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
+| 13 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
+| 14 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 15 | [Ricky Starks](http://twitter.com/search?q=Ricky+Starks) | Ricky Starks is a professional wrestler currently signed to All Elite Wrestling (AEW). The phrase is used to refer to the wrestler and his in-ring persona. |
+| 16 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 17 | [Alex Morgan](http://twitter.com/search?q=Alex+Morgan) | N/A |
+| 18 | [Danielson](http://twitter.com/search?q=Danielson) | Danielson is a surname of Scandinavian origin. It is derived from the given name Daniel, which means “God is my judge” in Hebrew. |
+| 19 | [Andi](http://twitter.com/search?q=Andi) | Andi is a unisex name of German origin, derived from the name Andreas. It can be used as a short form of the name or as a stand-alone name. In English, it means "brave" or "manly". |
+| 20 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
+| 21 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
+| 22 | [Boston College](http://twitter.com/search?q=Boston+College) | N/A |
+| 23 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
+| 24 | [Kirsten](http://twitter.com/search?q=Kirsten) | Kirsten is a Scandinavian female name derived from the Greek name Christina, meaning "follower of Christ". |
+| 25 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 26 | [Orange Cassidy](http://twitter.com/search?q=Orange+Cassidy) | Orange Cassidy is the stage name of American professional wrestler Jonathan Gresham. The name is a reference to the character of Orange Cassidy from the television show It's Always Sunny in Philadelphia. The phrase "Orange Cassidy" has come to mean someone who is laid back and relaxed, often in a humorous way. |
+| 27 | [Pastor Cal](http://twitter.com/search?q=Pastor+Cal) | N/A |
+| 28 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 29 | [Gina](http://twitter.com/search?q=Gina) | N/A |
+| 30 | [Jungle Boy](http://twitter.com/search?q=Jungle+Boy) | N/A |
+| 31 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
+| 32 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 33 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
+| 34 | [Skye Blue](http://twitter.com/search?q=Skye+Blue) | N/A |
+| 35 | [Chris Jericho](http://twitter.com/search?q=Chris+Jericho) | N/A |
+| 36 | [THEY KISSED](http://twitter.com/search?q=THEY+KISSED) | N/A |
+| 37 | [McDonalds](http://twitter.com/search?q=McDonalds) | N/A |
+| 38 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
+| 39 | [Claudio](http://twitter.com/search?q=Claudio) | N/A |
+| 40 | [Debbie Gibson](http://twitter.com/search?q=Debbie+Gibson) | N/A |
+| 41 | [Mallory Swanson](http://twitter.com/search?q=Mallory+Swanson) | N/A |
+| 42 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 43 | [Virginia](http://twitter.com/search?q=Virginia) | N/A |
+| 44 | [The Acclaimed](http://twitter.com/search?q=The+Acclaimed) | The Acclaimed is an expression used to describe something or someone that has been widely praised and admired. It is often used to refer to works of art, literature, music, or films that have received critical acclaim and public recognition. |
+| 45 | [President Trump](http://twitter.com/search?q=President+Trump) | N/A |
+| 46 | [Florida](http://twitter.com/search?q=Florida) | N/A |
+| 47 | [Big Bill](http://twitter.com/search?q=Big+Bill) | Big Bill is a slang term used to refer to someone who is very successful or influential. It can also be used to describe someone who is very wealthy or powerful. |
+| 48 | [Cason](http://twitter.com/search?q=Cason) | N/A |
+| 49 | [Flynn](http://twitter.com/search?q=Flynn) | N/A |
+| 50 | [Airris](http://twitter.com/search?q=Airris) | N/A |
 
 
 
