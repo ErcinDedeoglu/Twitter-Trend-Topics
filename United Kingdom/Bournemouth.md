@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bournemouth
 
-📆 Last Updated: `2023-02-23 12:17:20 UTC`
+📆 Last Updated: `2023-02-23 13:21:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
-| 2 | [#ThisMorning](http://twitter.com/search?q=%23ThisMorning) | N/A |
-| 3 | [#Neighbours](http://twitter.com/search?q=%23Neighbours) | N/A |
-| 4 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 5 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 6 | [Barry Davies](http://twitter.com/search?q=Barry+Davies) | N/A |
-| 7 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
-| 8 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 9 | [Brian Moore](http://twitter.com/search?q=Brian+Moore) | N/A |
-| 10 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
-| 11 | [Murray Walker](http://twitter.com/search?q=Murray+Walker) | N/A |
-| 12 | [Ronnie Radford](http://twitter.com/search?q=Ronnie+Radford) | N/A |
-| 13 | [Paul Townsend](http://twitter.com/search?q=Paul+Townsend) | N/A |
-| 14 | [10 World Cups](http://twitter.com/search?q=10+World+Cups) | N/A |
+| 1 | [#LooseWomen](http://twitter.com/search?q=%23LooseWomen) | N/A |
+| 2 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 3 | [#BrexitFoodShortages](http://twitter.com/search?q=%23BrexitFoodShortages) | N/A |
+| 4 | [Tommy Fury](http://twitter.com/search?q=Tommy+Fury) | N/A |
+| 5 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
+| 6 | [Conor Benn](http://twitter.com/search?q=Conor+Benn) | N/A |
+| 7 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 8 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
+| 9 | [Barry Davies](http://twitter.com/search?q=Barry+Davies) | N/A |
+| 10 | [Keir Starmer](http://twitter.com/search?q=Keir+Starmer) | N/A |
+| 11 | [Brian Moore](http://twitter.com/search?q=Brian+Moore) | N/A |
+| 12 | [Metroid Dread](http://twitter.com/search?q=Metroid+Dread) | N/A |
+| 13 | [Match of the Day](http://twitter.com/search?q=Match+of+the+Day) | N/A |
+| 14 | [Dickie Davies](http://twitter.com/search?q=Dickie+Davies) | N/A |
 | 15 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 16 | [The Crazy Gang](http://twitter.com/search?q=The+Crazy+Gang) | N/A |
-| 17 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 18 | [John Caldwell](http://twitter.com/search?q=John+Caldwell) | N/A |
-| 19 | [The Voice of Football](http://twitter.com/search?q=The+Voice+of+Football) | N/A |
-| 20 | [Jason Arday](http://twitter.com/search?q=Jason+Arday) | N/A |
-| 21 | [Ricky Villa](http://twitter.com/search?q=Ricky+Villa) | N/A |
+| 16 | [Murray Walker](http://twitter.com/search?q=Murray+Walker) | N/A |
+| 17 | [Paul Townsend](http://twitter.com/search?q=Paul+Townsend) | N/A |
+| 18 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
+| 19 | [Ronnie Radford](http://twitter.com/search?q=Ronnie+Radford) | N/A |
+| 20 | [The Voice of Football](http://twitter.com/search?q=The+Voice+of+Football) | N/A |
+| 21 | [John Caldwell](http://twitter.com/search?q=John+Caldwell) | N/A |
 | 22 | [Culture Club](http://twitter.com/search?q=Culture+Club) | N/A |
-| 23 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
-| 24 | [David Sullivan](http://twitter.com/search?q=David+Sullivan) | N/A |
-| 25 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 26 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
-| 27 | [Amol Rajan](http://twitter.com/search?q=Amol+Rajan) | N/A |
-| 28 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 29 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 30 | [Ari Lennox](http://twitter.com/search?q=Ari+Lennox) | N/A |
-| 31 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
-| 32 | [Home Office](http://twitter.com/search?q=Home+Office) | N/A |
-| 33 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
-| 34 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
-| 35 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
-| 36 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 37 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 38 | [Braverman](http://twitter.com/search?q=Braverman) | Braverman is a surname of Jewish origin. It is derived from the Hebrew word "bar-Avraham," which means "son of Abraham." The name is often associated with bravery and courage, as it was traditionally given to those who showed great courage in battle. |
-| 39 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 40 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
-| 41 | [2nd March](http://twitter.com/search?q=2nd+March) | N/A |
-| 42 | [Weather](http://twitter.com/search?q=Weather) | N/A |
-| 43 | [Holland](http://twitter.com/search?q=Holland) | N/A |
-| 44 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
-| 45 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 46 | [Race](http://twitter.com/search?q=Race) | N/A |
-| 47 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 48 | [#domisstillabadman](http://twitter.com/search?q=%23domisstillabadman) | N/A |
+| 23 | [10 World Cups](http://twitter.com/search?q=10+World+Cups) | N/A |
+| 24 | [Ricky Villa](http://twitter.com/search?q=Ricky+Villa) | N/A |
+| 25 | [The Crazy Gang](http://twitter.com/search?q=The+Crazy+Gang) | N/A |
+| 26 | [Jason Arday](http://twitter.com/search?q=Jason+Arday) | N/A |
+| 27 | [YouTuber](http://twitter.com/search?q=YouTuber) | N/A |
+| 28 | [David Sullivan](http://twitter.com/search?q=David+Sullivan) | N/A |
+| 29 | [Ben Wallace](http://twitter.com/search?q=Ben+Wallace) | N/A |
+| 30 | [Jack Letts](http://twitter.com/search?q=Jack+Letts) | N/A |
+| 31 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 32 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
+| 33 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 34 | [The Onion](http://twitter.com/search?q=The+Onion) | N/A |
+| 35 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 36 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 37 | [The Home Office](http://twitter.com/search?q=The+Home+Office) | N/A |
+| 38 | [Hereford](http://twitter.com/search?q=Hereford) | N/A |
+| 39 | [YouGov](http://twitter.com/search?q=YouGov) | N/A |
+| 40 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
+| 41 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
+| 42 | [Holland](http://twitter.com/search?q=Holland) | N/A |
+| 43 | [Bahrain](http://twitter.com/search?q=Bahrain) | N/A |
+| 44 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 45 | [2nd March](http://twitter.com/search?q=2nd+March) | N/A |
+| 46 | [David Bowie](http://twitter.com/search?q=David+Bowie) | N/A |
+| 47 | [Weather](http://twitter.com/search?q=Weather) | N/A |
+| 48 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
 
 
 

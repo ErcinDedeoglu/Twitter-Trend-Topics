@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-23 12:17:37 UTC`
+📆 Last Updated: `2023-02-23 13:21:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 2 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 3 | [Schokkend](http://twitter.com/search?q=Schokkend) | N/A |
-| 4 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 5 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
-| 6 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 7 | [#hazes](http://twitter.com/search?q=%23hazes) | N/A |
-| 8 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
-| 9 | [AIVD](http://twitter.com/search?q=AIVD) | N/A |
-| 10 | [#zalm](http://twitter.com/search?q=%23zalm) | N/A |
-| 11 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 12 | [Nieuwpoort](http://twitter.com/search?q=Nieuwpoort) | N/A |
+| 2 | [#stikstofdebat](http://twitter.com/search?q=%23stikstofdebat) | N/A |
+| 3 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 4 | [#MAFS](http://twitter.com/search?q=%23MAFS) | N/A |
+| 5 | [#hazes](http://twitter.com/search?q=%23hazes) | N/A |
+| 6 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 7 | [Kaag](http://twitter.com/search?q=Kaag) | Kaag is a Dutch word meaning "cormorant," a type of large water bird. It is also the name of a municipality in the Netherlands. |
+| 8 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 9 | [Schokkend](http://twitter.com/search?q=Schokkend) | N/A |
+| 10 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 11 | [AIVD](http://twitter.com/search?q=AIVD) | N/A |
+| 12 | [Caroline van der Plas](http://twitter.com/search?q=Caroline+van+der+Plas) | N/A |
 | 13 | [Cora](http://twitter.com/search?q=Cora) | N/A |
-| 14 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
-| 15 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 16 | [Remco](http://twitter.com/search?q=Remco) | N/A |
-| 17 | [Droomvlucht](http://twitter.com/search?q=Droomvlucht) | N/A |
-| 18 | [Caroline van der Plas](http://twitter.com/search?q=Caroline+van+der+Plas) | N/A |
-| 19 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
-| 20 | [Russische](http://twitter.com/search?q=Russische) | N/A |
-| 21 | [Dag 23](http://twitter.com/search?q=Dag+23) | N/A |
-| 22 | [Goedemorgen Valentine](http://twitter.com/search?q=Goedemorgen+Valentine) | N/A |
+| 14 | [Remco](http://twitter.com/search?q=Remco) | N/A |
+| 15 | [Paula](http://twitter.com/search?q=Paula) | Paula is a female given name of Latin origin, meaning "small". It is derived from the word "paulus", which means "little". |
+| 16 | [Russische](http://twitter.com/search?q=Russische) | N/A |
+| 17 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 18 | [Roxeanne](http://twitter.com/search?q=Roxeanne) | N/A |
+| 19 | [dag 23](http://twitter.com/search?q=dag+23) | N/A |
+| 20 | [Urgenda](http://twitter.com/search?q=Urgenda) | N/A |
+| 21 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 22 | [goedemorgen valentine](http://twitter.com/search?q=goedemorgen+valentine) | N/A |
 | 23 | [JOVD](http://twitter.com/search?q=JOVD) | N/A |
-| 24 | [Bill Gates](http://twitter.com/search?q=Bill+Gates) | N/A |
+| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 25 | [Venetië](http://twitter.com/search?q=Veneti%c3%ab) | N/A |
-| 26 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 27 | [zeeuwse](http://twitter.com/search?q=zeeuwse) | N/A |
+| 26 | [rishon](http://twitter.com/search?q=rishon) | N/A |
+| 27 | [rick nieman](http://twitter.com/search?q=rick+nieman) | N/A |
 | 28 | [Poetin](http://twitter.com/search?q=Poetin) | N/A |
-| 29 | [rishon](http://twitter.com/search?q=rishon) | N/A |
-| 30 | [Rick Nieman](http://twitter.com/search?q=Rick+Nieman) | N/A |
-| 31 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
-| 32 | [Donderdag](http://twitter.com/search?q=Donderdag) | N/A |
-| 33 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 29 | [Nieuwpoort](http://twitter.com/search?q=Nieuwpoort) | N/A |
+| 30 | [Droomvlucht](http://twitter.com/search?q=Droomvlucht) | N/A |
+| 31 | [Donderdag](http://twitter.com/search?q=Donderdag) | N/A |
+| 32 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 33 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
 | 34 | [Molukkers](http://twitter.com/search?q=Molukkers) | N/A |
 | 35 | [Loes](http://twitter.com/search?q=Loes) | N/A |
-| 36 | [rob de wijk](http://twitter.com/search?q=rob+de+wijk) | N/A |
-| 37 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 38 | [Johan Remkes](http://twitter.com/search?q=Johan+Remkes) | N/A |
-| 39 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 40 | [shula rijxman](http://twitter.com/search?q=shula+rijxman) | N/A |
-| 41 | [Marianne](http://twitter.com/search?q=Marianne) | N/A |
-| 42 | [het ad](http://twitter.com/search?q=het+ad) | N/A |
-| 43 | [Volkskrant](http://twitter.com/search?q=Volkskrant) | N/A |
-| 44 | [Wilfred](http://twitter.com/search?q=Wilfred) | N/A |
-| 45 | [Vici](http://twitter.com/search?q=Vici) | N/A |
+| 36 | [Vici](http://twitter.com/search?q=Vici) | N/A |
+| 37 | [rob de wijk](http://twitter.com/search?q=rob+de+wijk) | N/A |
+| 38 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 39 | [Volkskrant](http://twitter.com/search?q=Volkskrant) | N/A |
+| 40 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 41 | [Wichian](http://twitter.com/search?q=Wichian) | N/A |
+| 42 | [Remkes](http://twitter.com/search?q=Remkes) | N/A |
+| 43 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
+| 44 | [Het AD](http://twitter.com/search?q=Het+AD) | N/A |
+| 45 | [WilFreD](http://twitter.com/search?q=WilFreD) | N/A |
 | 46 | [zuid-europa](http://twitter.com/search?q=zuid-europa) | N/A |
-| 47 | [Fleur](http://twitter.com/search?q=Fleur) | N/A |
+| 47 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
 | 48 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 49 | [FIFA](http://twitter.com/search?q=FIFA) | N/A |
+| 49 | [Fleur](http://twitter.com/search?q=Fleur) | N/A |
 
 
 

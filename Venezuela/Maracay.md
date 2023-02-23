@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-02-23 12:17:28 UTC`
+📆 Last Updated: `2023-02-23 13:21:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | ------- | ------------ | ------------ |
 | 1 | [#23Feb](http://twitter.com/search?q=%2323Feb) | N/A |
 | 2 | [#DeVueltaAClases](http://twitter.com/search?q=%23DeVueltaAClases) | N/A |
-| 3 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 4 | [#RetornoFeliz](http://twitter.com/search?q=%23RetornoFeliz) | N/A |
+| 3 | [#retornofeliz](http://twitter.com/search?q=%23retornofeliz) | N/A |
+| 4 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
 | 5 | [Sultán](http://twitter.com/search?q=Sult%c3%a1n) | N/A |
-| 6 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
-| 7 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 8 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
-| 9 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
-| 10 | [Las 4](http://twitter.com/search?q=Las+4) | N/A |
-| 11 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 12 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
-| 13 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 14 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 15 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
+| 6 | [Batalla](http://twitter.com/search?q=Batalla) | N/A |
+| 7 | [El Tigre](http://twitter.com/search?q=El+Tigre) | N/A |
+| 8 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 9 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
+| 10 | [Puentes](http://twitter.com/search?q=Puentes) | N/A |
+| 11 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
+| 12 | [Las 4](http://twitter.com/search?q=Las+4) | N/A |
+| 13 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 14 | [Amén](http://twitter.com/search?q=Am%c3%a9n) | N/A |
+| 15 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
 | 16 | [Roberto Lamarca](http://twitter.com/search?q=Roberto+Lamarca) | N/A |
-| 17 | [Futbol Europeo](http://twitter.com/search?q=Futbol+Europeo) | N/A |
-| 18 | [Marie](http://twitter.com/search?q=Marie) | N/A |
-| 19 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
-| 20 | [Cocodrilos de Caracas](http://twitter.com/search?q=Cocodrilos+de+Caracas) | N/A |
-| 21 | [don rómulo betancourt](http://twitter.com/search?q=don+r%c3%b3mulo+betancourt) | N/A |
-| 22 | [SALOMÓN RONDÓN](http://twitter.com/search?q=SALOM%c3%93N+ROND%c3%93N) | N/A |
-| 23 | [Tren de Aragua](http://twitter.com/search?q=Tren+de+Aragua) | N/A |
-| 24 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
-| 25 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
-| 26 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 27 | [El Tigre](http://twitter.com/search?q=El+Tigre) | N/A |
-| 28 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
-| 29 | [Ramón Borrego](http://twitter.com/search?q=Ram%c3%b3n+Borrego) | N/A |
-| 30 | [césar romero](http://twitter.com/search?q=c%c3%a9sar+romero) | N/A |
-| 31 | [Interferencia](http://twitter.com/search?q=Interferencia) | N/A |
-| 32 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
-| 33 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
-| 34 | [La Dolorita](http://twitter.com/search?q=La+Dolorita) | N/A |
-| 35 | [Las Cuatro Monedas](http://twitter.com/search?q=Las+Cuatro+Monedas) | N/A |
-| 36 | [Prisma](http://twitter.com/search?q=Prisma) | N/A |
-| 37 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 38 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
-| 39 | [Balza](http://twitter.com/search?q=Balza) | N/A |
-| 40 | [Esperanza](http://twitter.com/search?q=Esperanza) | N/A |
-| 41 | [carlota sosa](http://twitter.com/search?q=carlota+sosa) | N/A |
-| 42 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
-| 43 | [Ismael Quintana](http://twitter.com/search?q=Ismael+Quintana) | N/A |
-| 44 | [Bendecido](http://twitter.com/search?q=Bendecido) | N/A |
-| 45 | [Misael](http://twitter.com/search?q=Misael) | N/A |
-| 46 | [Porto](http://twitter.com/search?q=Porto) | N/A |
-| 47 | [Señor Jesús](http://twitter.com/search?q=Se%c3%b1or+Jes%c3%bas) | N/A |
-| 48 | [Recompensa](http://twitter.com/search?q=Recompensa) | N/A |
+| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 18 | [Atlético Mineiro](http://twitter.com/search?q=Atl%c3%a9tico+Mineiro) | N/A |
+| 19 | [Futbol Europeo](http://twitter.com/search?q=Futbol+Europeo) | N/A |
+| 20 | [Luis Alberto Caballero Mejías](http://twitter.com/search?q=Luis+Alberto+Caballero+Mej%c3%adas) | N/A |
+| 21 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
+| 22 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 23 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 24 | [Caracas](http://twitter.com/search?q=Caracas) | Caracas is the capital of Venezuela. It is a large city located in the northern part of the country, and it is one of the most populous cities in South America. The name Caracas comes from the indigenous language of the area, and it means "Valley of Winds". |
+| 25 | [tren de aragua](http://twitter.com/search?q=tren+de+aragua) | N/A |
+| 26 | [don rómulo betancourt](http://twitter.com/search?q=don+r%c3%b3mulo+betancourt) | N/A |
+| 27 | [Marie](http://twitter.com/search?q=Marie) | N/A |
+| 28 | [Topocho](http://twitter.com/search?q=Topocho) | N/A |
+| 29 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
+| 30 | [Interferencia](http://twitter.com/search?q=Interferencia) | N/A |
+| 31 | [Semana Santa](http://twitter.com/search?q=Semana+Santa) | N/A |
+| 32 | [Banfield](http://twitter.com/search?q=Banfield) | N/A |
+| 33 | [Ramón Borrego](http://twitter.com/search?q=Ram%c3%b3n+Borrego) | N/A |
+| 34 | [césar romero](http://twitter.com/search?q=c%c3%a9sar+romero) | N/A |
+| 35 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
+| 36 | [La Dolorita](http://twitter.com/search?q=La+Dolorita) | N/A |
+| 37 | [River](http://twitter.com/search?q=River) | River is a natural flowing watercourse, usually freshwater, flowing towards an ocean, sea, lake or another river. It is a key element in the hydrological cycle and plays an important role in the environment by providing habitat for wildlife and acting as a source of water for human consumption. |
+| 38 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 39 | [Alfredo Sánchez Luna](http://twitter.com/search?q=Alfredo+S%c3%a1nchez+Luna) | N/A |
+| 40 | [Prisma](http://twitter.com/search?q=Prisma) | N/A |
+| 41 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 42 | [Balza](http://twitter.com/search?q=Balza) | N/A |
+| 43 | [las cuatro monedas](http://twitter.com/search?q=las+cuatro+monedas) | N/A |
+| 44 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 45 | [Avalanche](http://twitter.com/search?q=Avalanche) | N/A |
+| 46 | [Ismael Quintana](http://twitter.com/search?q=Ismael+Quintana) | N/A |
+| 47 | [Javier Tarazona](http://twitter.com/search?q=Javier+Tarazona) | N/A |
+| 48 | [Porto](http://twitter.com/search?q=Porto) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-23 12:17:35 UTC`
+📆 Last Updated: `2023-02-23 13:21:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for [Italy](</Italy>)
 | 5 | [Preside](http://twitter.com/search?q=Preside) | N/A |
 | 6 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
 | 7 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
-| 8 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
-| 9 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 10 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 11 | [Armando](http://twitter.com/search?q=Armando) | N/A |
-| 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 13 | [Otavio](http://twitter.com/search?q=Otavio) | N/A |
-| 14 | [onana](http://twitter.com/search?q=onana) | N/A |
-| 15 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 16 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 17 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 18 | [Il Ministro](http://twitter.com/search?q=Il+Ministro) | N/A |
-| 19 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
-| 20 | [Mandragora](http://twitter.com/search?q=Mandragora) | N/A |
+| 8 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 9 | [La Russa](http://twitter.com/search?q=La+Russa) | N/A |
+| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 11 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 12 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 13 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 14 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 15 | [OTAVIO](http://twitter.com/search?q=OTAVIO) | N/A |
+| 16 | [Il Ministro](http://twitter.com/search?q=Il+Ministro) | N/A |
+| 17 | [Meloni](http://twitter.com/search?q=Meloni) | N/A |
+| 18 | [Mandragora](http://twitter.com/search?q=Mandragora) | N/A |
+| 19 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
+| 20 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
 | 21 | [Quaresima](http://twitter.com/search?q=Quaresima) | N/A |
-| 22 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
-| 23 | [Circo Massimo](http://twitter.com/search?q=Circo+Massimo) | N/A |
-| 24 | [Gravina](http://twitter.com/search?q=Gravina) | N/A |
-| 25 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
-| 26 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 27 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
-| 28 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
-| 29 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 22 | [Armando](http://twitter.com/search?q=Armando) | N/A |
+| 23 | [Dzeko](http://twitter.com/search?q=Dzeko) | Dzeko is a nickname for the Bosnian footballer Edin Džeko. It is derived from his surname, which is pronounced "Dzheh-ko". In English, it means "Little Edin". |
+| 24 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
+| 25 | [Calvarese](http://twitter.com/search?q=Calvarese) | N/A |
+| 26 | [Saman](http://twitter.com/search?q=Saman) | N/A |
+| 27 | [Sheila](http://twitter.com/search?q=Sheila) | N/A |
+| 28 | [Big Rom](http://twitter.com/search?q=Big+Rom) | N/A |
+| 29 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
 | 30 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 31 | [Da Vinci](http://twitter.com/search?q=Da+Vinci) | N/A |
-| 32 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
-| 33 | [Big Rom](http://twitter.com/search?q=Big+Rom) | N/A |
-| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 35 | [Maddie](http://twitter.com/search?q=Maddie) | Maddie is a nickname for the name Madeleine, which is of French origin and means "woman of Magdala". |
-| 36 | [la scena](http://twitter.com/search?q=la+scena) | N/A |
-| 37 | [Capuozzo](http://twitter.com/search?q=Capuozzo) | N/A |
+| 31 | [Forza Billy](http://twitter.com/search?q=Forza+Billy) | N/A |
+| 32 | [Fornero](http://twitter.com/search?q=Fornero) | N/A |
+| 33 | [Rueda](http://twitter.com/search?q=Rueda) | N/A |
+| 34 | [Mattarella](http://twitter.com/search?q=Mattarella) | N/A |
+| 35 | [Dirigente](http://twitter.com/search?q=Dirigente) | N/A |
+| 36 | [Capuozzo](http://twitter.com/search?q=Capuozzo) | N/A |
+| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 38 | [Darmian](http://twitter.com/search?q=Darmian) | Darmian is a surname of Italian origin. It is derived from the Latin word "darmius" which means "protector". In English, it can be translated to mean "protector" or "guardian". |
 | 39 | [domenico cuomo](http://twitter.com/search?q=domenico+cuomo) | N/A |
-| 40 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
-| 41 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
-| 42 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
-| 43 | [Dirigente](http://twitter.com/search?q=Dirigente) | N/A |
+| 40 | [Sorprende](http://twitter.com/search?q=Sorprende) | N/A |
+| 41 | [Romelu](http://twitter.com/search?q=Romelu) | N/A |
+| 42 | [Chomsky](http://twitter.com/search?q=Chomsky) | N/A |
+| 43 | [Mussolini](http://twitter.com/search?q=Mussolini) | N/A |
 | 44 | [penelopo](http://twitter.com/search?q=penelopo) | N/A |
-| 45 | [Ovadia](http://twitter.com/search?q=Ovadia) | N/A |
+| 45 | [Nerozzi](http://twitter.com/search?q=Nerozzi) | N/A |
 | 46 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 47 | [Risorgimento](http://twitter.com/search?q=Risorgimento) | N/A |
-| 48 | [Leonardo](http://twitter.com/search?q=Leonardo) | N/A |
-| 49 | [Brozo](http://twitter.com/search?q=Brozo) | N/A |
+| 47 | [Mertens](http://twitter.com/search?q=Mertens) | Mertens is a German surname derived from the given name Merten, which is a variant of Martin. The English meaning of the name is "of Mars" or "warlike". |
+| 48 | [Deacon](http://twitter.com/search?q=Deacon) | N/A |
+| 49 | [Foibe](http://twitter.com/search?q=Foibe) | N/A |
 
 
 

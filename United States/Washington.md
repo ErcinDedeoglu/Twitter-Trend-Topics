@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-02-23 12:18:08 UTC`
+📆 Last Updated: `2023-02-23 13:21:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Dylan Lyons](http://twitter.com/search?q=Dylan+Lyons) | N/A |
-| 2 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
-| 3 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
-| 4 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 5 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
-| 6 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
-| 7 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 8 | [#Wordle614](http://twitter.com/search?q=%23Wordle614) | N/A |
-| 9 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 10 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
-| 11 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
-| 12 | [Repping Reapers](http://twitter.com/search?q=Repping+Reapers) | N/A |
-| 13 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 14 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 15 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 16 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 17 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 2 | [#ThursdayThoughts](http://twitter.com/search?q=%23ThursdayThoughts) | N/A |
+| 3 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 4 | [krystian](http://twitter.com/search?q=krystian) | N/A |
+| 5 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
+| 6 | [#RedRubyDaSleeze](http://twitter.com/search?q=%23RedRubyDaSleeze) | N/A |
+| 7 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
+| 8 | [#thursdayvibes](http://twitter.com/search?q=%23thursdayvibes) | N/A |
+| 9 | [Happy Friday Eve](http://twitter.com/search?q=Happy+Friday+Eve) | N/A |
+| 10 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
+| 11 | [Quavo](http://twitter.com/search?q=Quavo) | Quavo is the stage name of American rapper, singer, and songwriter Quavious Keyate Marshall. He is best known as a member of the hip hop trio Migos. The name Quavo is derived from the Spanish word "cuatro," which means "four," in reference to his being the fourth member of Migos. |
+| 12 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 13 | [yujin](http://twitter.com/search?q=yujin) | N/A |
+| 14 | [Daily Quordle 395](http://twitter.com/search?q=Daily+Quordle+395) | N/A |
+| 15 | [Jesse Walden](http://twitter.com/search?q=Jesse+Walden) | N/A |
+| 16 | [Repping Reapers](http://twitter.com/search?q=Repping+Reapers) | N/A |
+| 17 | [Christopher Reeves](http://twitter.com/search?q=Christopher+Reeves) | N/A |
 | 18 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
-| 19 | [Migos](http://twitter.com/search?q=Migos) | N/A |
-| 20 | [The Last Starfighter](http://twitter.com/search?q=The+Last+Starfighter) | N/A |
-| 21 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
-| 22 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 23 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
-| 24 | [Louie](http://twitter.com/search?q=Louie) | N/A |
-| 25 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
-| 26 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 27 | [GOYA](http://twitter.com/search?q=GOYA) | N/A |
-| 28 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
-| 29 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
-| 30 | [Eddie Murphy](http://twitter.com/search?q=Eddie+Murphy) | Eddie Murphy is an American actor, comedian, and singer. He is best known for his roles in films such as Beverly Hills Cop, Trading Places, Coming to America, and The Nutty Professor. He has also starred in a number of family-friendly films such as Dr. Dolittle and the Shrek franchise. |
-| 31 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
-| 32 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
-| 33 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
-| 34 | [trump ice](http://twitter.com/search?q=trump+ice) | N/A |
-| 35 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
-| 36 | [Evil Uno](http://twitter.com/search?q=Evil+Uno) | N/A |
-| 37 | [George Carlin](http://twitter.com/search?q=George+Carlin) | N/A |
-| 38 | [taemin](http://twitter.com/search?q=taemin) | N/A |
-| 39 | [SHINee](http://twitter.com/search?q=SHINee) | SHINee is a South Korean boy band formed by SM Entertainment in 2008. The group's name is a combination of the words "shine" and "ee", which stands for "everlasting". The group consists of five members: Onew, Jonghyun, Key, Minho, and Taemin. |
-| 40 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
-| 41 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
-| 42 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 43 | [Selena Gomez](http://twitter.com/search?q=Selena+Gomez) | N/A |
-| 44 | [Fatima](http://twitter.com/search?q=Fatima) | Fatima is a female given name of Arabic origin. It is derived from the Arabic word "fatimah", which means "one who abstains". It is also associated with the Islamic prophet Muhammad's daughter, Fatimah. In English, it can be translated to mean "abstainer" or "one who abstains". |
-| 45 | [Stefan](http://twitter.com/search?q=Stefan) | N/A |
-| 46 | [Little Rock](http://twitter.com/search?q=Little+Rock) | N/A |
-| 47 | [Saraya](http://twitter.com/search?q=Saraya) | Saraya is an Arabic word meaning palace or mansion. It is often used to refer to a royal residence or a large, luxurious home. |
-| 48 | [#ThursdayMotivation](http://twitter.com/search?q=%23ThursdayMotivation) | N/A |
-| 49 | [#thursdaymorning](http://twitter.com/search?q=%23thursdaymorning) | N/A |
-| 50 | [#SnowfallFX](http://twitter.com/search?q=%23SnowfallFX) | N/A |
+| 19 | [Orlando](http://twitter.com/search?q=Orlando) | Orlando is a city in the U.S. state of Florida. It is the county seat of Orange County and the center of the Greater Orlando metropolitan area. The name "Orlando" is derived from the Italian phrase "orare labore," which means "to pray and work." |
+| 20 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 21 | [Migos](http://twitter.com/search?q=Migos) | N/A |
+| 22 | [The Last Starfighter](http://twitter.com/search?q=The+Last+Starfighter) | N/A |
+| 23 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 24 | [Iwo Jima](http://twitter.com/search?q=Iwo+Jima) | N/A |
+| 25 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 26 | [Goya](http://twitter.com/search?q=Goya) | N/A |
+| 27 | [Jason Kidd](http://twitter.com/search?q=Jason+Kidd) | Jason Kidd is an American former professional basketball player and current head coach of the Milwaukee Bucks. He is considered one of the greatest point guards of all time, winning an NBA Championship in 2011 with the Dallas Mavericks and being a 10-time NBA All-Star. He was also a two-time Olympic gold medalist and was inducted into the Basketball Hall of Fame in 2018. |
+| 28 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 29 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 30 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 31 | [Spectrum News 13](http://twitter.com/search?q=Spectrum+News+13) | N/A |
+| 32 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
+| 33 | [Trump Water](http://twitter.com/search?q=Trump+Water) | N/A |
+| 34 | [Pine Hills](http://twitter.com/search?q=Pine+Hills) | N/A |
+| 35 | [Expired](http://twitter.com/search?q=Expired) | N/A |
+| 36 | [Eddie Murphy](http://twitter.com/search?q=Eddie+Murphy) | Eddie Murphy is an American actor, comedian, and singer. He is best known for his roles in films such as Beverly Hills Cop, Trading Places, Coming to America, and The Nutty Professor. He has also starred in a number of family-friendly films such as Dr. Dolittle and the Shrek franchise. |
+| 37 | [Louie](http://twitter.com/search?q=Louie) | N/A |
+| 38 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 39 | [Robin Williams](http://twitter.com/search?q=Robin+Williams) | N/A |
+| 40 | [Gregory](http://twitter.com/search?q=Gregory) | Gregory is a masculine given name of Greek origin, derived from the word "gregorios" meaning "watchful, alert". It is a popular name in many countries, including the United States, Canada, Australia, New Zealand, Ireland, and the United Kingdom. |
+| 41 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 42 | [Richard Pryor](http://twitter.com/search?q=Richard+Pryor) | N/A |
+| 43 | [Mayflower](http://twitter.com/search?q=Mayflower) | N/A |
+| 44 | [Sam Brinton](http://twitter.com/search?q=Sam+Brinton) | N/A |
+| 45 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
+| 46 | [Clintons](http://twitter.com/search?q=Clintons) | N/A |
+| 47 | [Ben 10](http://twitter.com/search?q=Ben+10) | N/A |
+| 48 | [taemin](http://twitter.com/search?q=taemin) | N/A |
+| 49 | [Phineas](http://twitter.com/search?q=Phineas) | Phineas is a masculine given name of Greek origin, derived from the Greek word phoinix, meaning "dark red". It is also a surname. |
+| 50 | [Big Macs](http://twitter.com/search?q=Big+Macs) | N/A |
 
 
 
