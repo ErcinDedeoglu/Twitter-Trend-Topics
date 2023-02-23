@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santiago
 
-📆 Last Updated: `2023-02-23 20:18:30 UTC`
+📆 Last Updated: `2023-02-23 21:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Chile](</Chile>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#fitopaez](http://twitter.com/search?q=%23fitopaez) | N/A |
-| 2 | [Rodrigo Villegas](http://twitter.com/search?q=Rodrigo+Villegas) | N/A |
+| 1 | [Rodrigo Villegas](http://twitter.com/search?q=Rodrigo+Villegas) | N/A |
+| 2 | [#fitopaez](http://twitter.com/search?q=%23fitopaez) | N/A |
 | 3 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 4 | [#bettyenel13](http://twitter.com/search?q=%23bettyenel13) | N/A |
-| 5 | [Vesta Lugg](http://twitter.com/search?q=Vesta+Lugg) | N/A |
-| 6 | [#JuegoDeIlusiones](http://twitter.com/search?q=%23JuegoDeIlusiones) | N/A |
-| 7 | [Conejos](http://twitter.com/search?q=Conejos) | N/A |
+| 4 | [Conejos](http://twitter.com/search?q=Conejos) | N/A |
+| 5 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 6 | [Montes](http://twitter.com/search?q=Montes) | N/A |
+| 7 | [Vesta Lugg](http://twitter.com/search?q=Vesta+Lugg) | N/A |
 | 8 | [Rels B](http://twitter.com/search?q=Rels+B) | N/A |
-| 9 | [Montes](http://twitter.com/search?q=Montes) | N/A |
-| 10 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
-| 11 | [#DestitucionABoric](http://twitter.com/search?q=%23DestitucionABoric) | N/A |
-| 12 | [Punta Peuco](http://twitter.com/search?q=Punta+Peuco) | N/A |
-| 13 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
-| 14 | [Belén](http://twitter.com/search?q=Bel%c3%a9n) | N/A |
-| 15 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 16 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
-| 17 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 18 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 19 | [Kotex](http://twitter.com/search?q=Kotex) | N/A |
-| 20 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 21 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
-| 22 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
-| 23 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
-| 24 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
-| 25 | [Damián Pizarro](http://twitter.com/search?q=Dami%c3%a1n+Pizarro) | N/A |
-| 26 | [Colina 1](http://twitter.com/search?q=Colina+1) | N/A |
-| 27 | [Gioconda Belli](http://twitter.com/search?q=Gioconda+Belli) | N/A |
-| 28 | [Copano](http://twitter.com/search?q=Copano) | N/A |
-| 29 | [Milad](http://twitter.com/search?q=Milad) | N/A |
-| 30 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
-| 31 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
-| 32 | [Alejandra Valle](http://twitter.com/search?q=Alejandra+Valle) | N/A |
-| 33 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
-| 34 | [Always Ready](http://twitter.com/search?q=Always+Ready) | N/A |
-| 35 | [Elite](http://twitter.com/search?q=Elite) | N/A |
-| 36 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 37 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
-| 38 | [Morandé](http://twitter.com/search?q=Morand%c3%a9) | N/A |
-| 39 | [Universidad Católica](http://twitter.com/search?q=Universidad+Cat%c3%b3lica) | N/A |
-| 40 | [CONSENTIMIENTO](http://twitter.com/search?q=CONSENTIMIENTO) | N/A |
-| 41 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 42 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 43 | [Amanda](http://twitter.com/search?q=Amanda) | Amanda is a female given name derived from the Latin word for "loveable" or "worthy of love". It is often used as a short form of the name Amandine, which is the French form of the Latin name Amanda. |
-| 44 | [Xtina](http://twitter.com/search?q=Xtina) | N/A |
-| 45 | [Juanita Parra](http://twitter.com/search?q=Juanita+Parra) | N/A |
-| 46 | [Naya](http://twitter.com/search?q=Naya) | N/A |
-| 47 | [Charly](http://twitter.com/search?q=Charly) | N/A |
-| 48 | [Bugs Bunny](http://twitter.com/search?q=Bugs+Bunny) | N/A |
-| 49 | [Fiscal Nacional](http://twitter.com/search?q=Fiscal+Nacional) | Fiscal Nacional is a term used in Spanish-speaking countries to refer to the national budget or financial plan. It is the total amount of money that a government has available to spend on public services, infrastructure, and other activities. In English, it can be translated as "National Budget". |
-| 50 | [circo beat](http://twitter.com/search?q=circo+beat) | N/A |
+| 9 | [Kiwi](http://twitter.com/search?q=Kiwi) | N/A |
+| 10 | [#DestitucionABoric](http://twitter.com/search?q=%23DestitucionABoric) | N/A |
+| 11 | [#fomeeee](http://twitter.com/search?q=%23fomeeee) | N/A |
+| 12 | [Los Jaivas](http://twitter.com/search?q=Los+Jaivas) | N/A |
+| 13 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
+| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 15 | [Punta Peuco](http://twitter.com/search?q=Punta+Peuco) | N/A |
+| 16 | [Belén](http://twitter.com/search?q=Bel%c3%a9n) | N/A |
+| 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 18 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 19 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 20 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 21 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 22 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 23 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 24 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
+| 25 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 26 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 27 | [Kotex](http://twitter.com/search?q=Kotex) | N/A |
+| 28 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 29 | [Jadue](http://twitter.com/search?q=Jadue) | N/A |
+| 30 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 31 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 32 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
+| 33 | [Alejandro Fernández](http://twitter.com/search?q=Alejandro+Fern%c3%a1ndez) | N/A |
+| 34 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
+| 35 | [Colina 1](http://twitter.com/search?q=Colina+1) | N/A |
+| 36 | [Gioconda Belli](http://twitter.com/search?q=Gioconda+Belli) | N/A |
+| 37 | [Copano](http://twitter.com/search?q=Copano) | N/A |
+| 38 | [Milad](http://twitter.com/search?q=Milad) | N/A |
+| 39 | [Diego Urrutia](http://twitter.com/search?q=Diego+Urrutia) | N/A |
+| 40 | [Nicaragua](http://twitter.com/search?q=Nicaragua) | N/A |
+| 41 | [Alejandra Valle](http://twitter.com/search?q=Alejandra+Valle) | N/A |
+| 42 | [Gaviota](http://twitter.com/search?q=Gaviota) | N/A |
+| 43 | [Valdivia](http://twitter.com/search?q=Valdivia) | N/A |
+| 44 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 45 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 46 | [Universidad Católica](http://twitter.com/search?q=Universidad+Cat%c3%b3lica) | N/A |
+| 47 | [Sergio Lagos](http://twitter.com/search?q=Sergio+Lagos) | N/A |
+| 48 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 49 | [Xtina](http://twitter.com/search?q=Xtina) | N/A |
+| 50 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 
 
 

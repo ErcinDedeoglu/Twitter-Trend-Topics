@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nagoya
 
-📆 Last Updated: `2023-02-23 20:18:49 UTC`
+📆 Last Updated: `2023-02-23 21:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [さとみくん](http://twitter.com/search?q=%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93) | N/A |
-| 2 | [ディマリア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%9e%e3%83%aa%e3%82%a2) | N/A |
-| 3 | [#オードリー椅子破壊記念日](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%89%e3%83%aa%e3%83%bc%e6%a4%85%e5%ad%90%e7%a0%b4%e5%a3%8a%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
-| 4 | [鎌田ドルトムント](http://twitter.com/search?q=%e9%8e%8c%e7%94%b0%e3%83%89%e3%83%ab%e3%83%88%e3%83%a0%e3%83%b3%e3%83%88) | N/A |
-| 5 | [#マヂラブANN0](http://twitter.com/search?q=%23%e3%83%9e%e3%83%82%e3%83%a9%e3%83%96ANN0) | N/A |
-| 6 | [セルジロベルト](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%82%b8%e3%83%ad%e3%83%99%e3%83%ab%e3%83%88) | N/A |
-| 7 | [#songofjapan](http://twitter.com/search?q=%23songofjapan) | N/A |
-| 8 | [中国2枠](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd2%e6%9e%a0) | N/A |
-| 9 | [小原くん](http://twitter.com/search?q=%e5%b0%8f%e5%8e%9f%e3%81%8f%e3%82%93) | N/A |
-| 10 | [#ノイミー4周年](http://twitter.com/search?q=%23%e3%83%8e%e3%82%a4%e3%83%9f%e3%83%bc4%e5%91%a8%e5%b9%b4) | N/A |
-| 11 | [第399回](http://twitter.com/search?q=%e7%ac%ac399%e5%9b%9e) | N/A |
-| 12 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 13 | [#渡邉美穂生誕祭](http://twitter.com/search?q=%23%e6%b8%a1%e9%82%89%e7%be%8e%e7%a9%82%e7%94%9f%e8%aa%95%e7%a5%ad) | N/A |
-| 14 | [アズール](http://twitter.com/search?q=%e3%82%a2%e3%82%ba%e3%83%bc%e3%83%ab) | N/A |
-| 15 | [ファジョーリ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%b8%e3%83%a7%e3%83%bc%e3%83%aa) | N/A |
-| 16 | [トリプレッタ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%83%97%e3%83%ac%e3%83%83%e3%82%bf) | N/A |
-| 17 | [ウマ娘2周年](http://twitter.com/search?q=%e3%82%a6%e3%83%9e%e5%a8%982%e5%91%a8%e5%b9%b4) | N/A |
-| 18 | [オルンガ](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%83%b3%e3%82%ac) | N/A |
-| 19 | [カクレンジャー](http://twitter.com/search?q=%e3%82%ab%e3%82%af%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 20 | [全カット](http://twitter.com/search?q=%e5%85%a8%e3%82%ab%e3%83%83%e3%83%88) | N/A |
-| 21 | [オクトラ2](http://twitter.com/search?q=%e3%82%aa%e3%82%af%e3%83%88%e3%83%a92) | N/A |
-| 22 | [カービィ](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a3) | N/A |
-| 23 | [神風怪盗ジャンヌ](http://twitter.com/search?q=%e7%a5%9e%e9%a2%a8%e6%80%aa%e7%9b%97%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8c) | N/A |
-| 24 | [ミツクリ](http://twitter.com/search?q=%e3%83%9f%e3%83%84%e3%82%af%e3%83%aa) | N/A |
-| 25 | [ドリブンズ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%96%e3%83%b3%e3%82%ba) | ドリブンズ (Dribblez) is a Japanese basketball team based in Tokyo. The team was founded in 2008 and competes in the B.League, the top professional basketball league in Japan. The name "Dribblez" is derived from the basketball term "dribbling", which refers to the act of bouncing the ball while moving around the court. In English, it can be translated as "The Dribblers". |
-| 26 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 27 | [シルクロード](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%82%af%e3%83%ad%e3%83%bc%e3%83%89) | N/A |
-| 28 | [しのぶさん](http://twitter.com/search?q=%e3%81%97%e3%81%ae%e3%81%b6%e3%81%95%e3%82%93) | N/A |
-| 29 | [小原裕貴](http://twitter.com/search?q=%e5%b0%8f%e5%8e%9f%e8%a3%95%e8%b2%b4) | N/A |
-| 30 | [サクラノ刻](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e3%83%a9%e3%83%8e%e5%88%bb) | N/A |
-| 31 | [シュチタ](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%81%e3%82%bf) | シュチタ is a type of Japanese traditional folk dance. It is performed by two people, usually a man and a woman, and involves them dancing in circles while singing and clapping. The meaning of the word in English is "circle dance". |
-| 32 | [Wordle 615](http://twitter.com/search?q=Wordle+615) | N/A |
-| 33 | [前向きフェニックス](http://twitter.com/search?q=%e5%89%8d%e5%90%91%e3%81%8d%e3%83%95%e3%82%a7%e3%83%8b%e3%83%83%e3%82%af%e3%82%b9) | N/A |
-| 34 | [ミサイル購入](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab%e8%b3%bc%e5%85%a5) | N/A |
-| 35 | [コナンの世界](http://twitter.com/search?q=%e3%82%b3%e3%83%8a%e3%83%b3%e3%81%ae%e4%b8%96%e7%95%8c) | N/A |
-| 36 | [東村アキコさん](http://twitter.com/search?q=%e6%9d%b1%e6%9d%91%e3%82%a2%e3%82%ad%e3%82%b3%e3%81%95%e3%82%93) | N/A |
-| 37 | [ツアー完走](http://twitter.com/search?q=%e3%83%84%e3%82%a2%e3%83%bc%e5%ae%8c%e8%b5%b0) | ツアー完走 is a Japanese phrase that literally translates to "tour completion". It is used to describe the successful completion of a tour or journey. In English, it could be translated as "mission accomplished" or "tour completed". |
-| 38 | [グレンダイザー](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%b3%e3%83%80%e3%82%a4%e3%82%b6%e3%83%bc) | N/A |
-| 39 | [パクハンビン](http://twitter.com/search?q=%e3%83%91%e3%82%af%e3%83%8f%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
-| 40 | [トラックリスト](http://twitter.com/search?q=%e3%83%88%e3%83%a9%e3%83%83%e3%82%af%e3%83%aa%e3%82%b9%e3%83%88) | N/A |
-| 41 | [ASKAさん](http://twitter.com/search?q=ASKA%e3%81%95%e3%82%93) | N/A |
-| 42 | [キムジウン](http://twitter.com/search?q=%e3%82%ad%e3%83%a0%e3%82%b8%e3%82%a6%e3%83%b3) | N/A |
-| 43 | [岸田政権の軍拡](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e6%94%bf%e6%a8%a9%e3%81%ae%e8%bb%8d%e6%8b%a1) | N/A |
-| 44 | [デイリーダブル](http://twitter.com/search?q=%e3%83%87%e3%82%a4%e3%83%aa%e3%83%bc%e3%83%80%e3%83%96%e3%83%ab) | N/A |
-| 45 | [Set Me Free](http://twitter.com/search?q=Set+Me+Free) | N/A |
-| 46 | [家族関係](http://twitter.com/search?q=%e5%ae%b6%e6%97%8f%e9%96%a2%e4%bf%82) | N/A |
-| 47 | [マホロアランド](http://twitter.com/search?q=%e3%83%9e%e3%83%9b%e3%83%ad%e3%82%a2%e3%83%a9%e3%83%b3%e3%83%89) | N/A |
-| 48 | [桐生ちゃん](http://twitter.com/search?q=%e6%a1%90%e7%94%9f%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 49 | [みほちー](http://twitter.com/search?q=%e3%81%bf%e3%81%bb%e3%81%a1%e3%83%bc) | N/A |
-| 50 | [未満都市](http://twitter.com/search?q=%e6%9c%aa%e6%ba%80%e9%83%bd%e5%b8%82) | N/A |
+| 1 | [フレッジ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%82%b8) | N/A |
+| 2 | [アントニー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%88%e3%83%8b%e3%83%bc) | アントニー is the Japanese version of the name Anthony. It is a masculine given name of Latin origin, derived from Antonius, a Roman family name. The meaning of Anthony in English is "priceless one". |
+| 3 | [ブルーノ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%8e) | N/A |
+| 4 | [セルジロベルト](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%82%b8%e3%83%ad%e3%83%99%e3%83%ab%e3%83%88) | N/A |
+| 5 | [フレンキー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
+| 6 | [#さとみくん誕生祭2023](http://twitter.com/search?q=%23%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
+| 7 | [カゼミロ](http://twitter.com/search?q=%e3%82%ab%e3%82%bc%e3%83%9f%e3%83%ad) | カゼミロ is a type of Japanese traditional folk song. It is usually sung by a group of people, and the lyrics are often about the hardships of life. In English, it can be translated as "Folk Song of Sorrow". |
+| 8 | [#おは戦50224fk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650224fk) | N/A |
+| 9 | [ブスケツ](http://twitter.com/search?q=%e3%83%96%e3%82%b9%e3%82%b1%e3%83%84) | N/A |
+| 10 | [鎌田ドルトムント](http://twitter.com/search?q=%e9%8e%8c%e7%94%b0%e3%83%89%e3%83%ab%e3%83%88%e3%83%a0%e3%83%b3%e3%83%88) | N/A |
+| 11 | [ブルーリボン賞](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%aa%e3%83%9c%e3%83%b3%e8%b3%9e) | N/A |
+| 12 | [ディマリア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%9e%e3%83%aa%e3%82%a2) | N/A |
+| 13 | [ワンビサカ](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%93%e3%82%b5%e3%82%ab) | ワンビサカ is a Japanese phrase that translates to "one-sided love". It is used to describe a situation in which one person has strong feelings for another person who does not reciprocate those feelings. |
+| 14 | [アラウホ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%a6%e3%83%9b) | N/A |
+| 15 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 16 | [#bn847](http://twitter.com/search?q=%23bn847) | N/A |
+| 17 | [#オードリー椅子破壊記念日](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%89%e3%83%aa%e3%83%bc%e6%a4%85%e5%ad%90%e7%a0%b4%e5%a3%8a%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
+| 18 | [レヴァンドフスキ](http://twitter.com/search?q=%e3%83%ac%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%89%e3%83%95%e3%82%b9%e3%82%ad) | N/A |
+| 19 | [第399回](http://twitter.com/search?q=%e7%ac%ac399%e5%9b%9e) | N/A |
+| 20 | [#mv813](http://twitter.com/search?q=%23mv813) | N/A |
+| 21 | [中国2枠](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd2%e6%9e%a0) | N/A |
+| 22 | [ディバラ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%90%e3%83%a9) | N/A |
+| 23 | [デヨング](http://twitter.com/search?q=%e3%83%87%e3%83%a8%e3%83%b3%e3%82%b0) | N/A |
+| 24 | [アズール](http://twitter.com/search?q=%e3%82%a2%e3%82%ba%e3%83%bc%e3%83%ab) | N/A |
+| 25 | [ウマ娘2周年](http://twitter.com/search?q=%e3%82%a6%e3%83%9e%e5%a8%982%e5%91%a8%e5%b9%b4) | N/A |
+| 26 | [小原くん](http://twitter.com/search?q=%e5%b0%8f%e5%8e%9f%e3%81%8f%e3%82%93) | N/A |
+| 27 | [レヴァークーゼン](http://twitter.com/search?q=%e3%83%ac%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%af%e3%83%bc%e3%82%bc%e3%83%b3) | N/A |
+| 28 | [バルセロナ](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%82%bb%e3%83%ad%e3%83%8a) | N/A |
+| 29 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
+| 30 | [ファジョーリ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%b8%e3%83%a7%e3%83%bc%e3%83%aa) | N/A |
+| 31 | [トリプレッタ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%83%97%e3%83%ac%e3%83%83%e3%82%bf) | N/A |
+| 32 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 33 | [オクトラ2](http://twitter.com/search?q=%e3%82%aa%e3%82%af%e3%83%88%e3%83%a92) | N/A |
+| 34 | [カクレンジャー](http://twitter.com/search?q=%e3%82%ab%e3%82%af%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 35 | [ASKAさん](http://twitter.com/search?q=ASKA%e3%81%95%e3%82%93) | N/A |
+| 36 | [しのぶさん](http://twitter.com/search?q=%e3%81%97%e3%81%ae%e3%81%b6%e3%81%95%e3%82%93) | N/A |
+| 37 | [Wordle 615](http://twitter.com/search?q=Wordle+615) | N/A |
+| 38 | [ミツクリ](http://twitter.com/search?q=%e3%83%9f%e3%83%84%e3%82%af%e3%83%aa) | N/A |
+| 39 | [カービィ](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a3) | N/A |
+| 40 | [グレンダイザー](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%b3%e3%83%80%e3%82%a4%e3%82%b6%e3%83%bc) | N/A |
+| 41 | [オルンガ](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%83%b3%e3%82%ac) | N/A |
+| 42 | [全カット](http://twitter.com/search?q=%e5%85%a8%e3%82%ab%e3%83%83%e3%83%88) | N/A |
+| 43 | [シルクロード](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%82%af%e3%83%ad%e3%83%bc%e3%83%89) | N/A |
+| 44 | [東村アキコさん](http://twitter.com/search?q=%e6%9d%b1%e6%9d%91%e3%82%a2%e3%82%ad%e3%82%b3%e3%81%95%e3%82%93) | N/A |
+| 45 | [サクラノ刻](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e3%83%a9%e3%83%8e%e5%88%bb) | N/A |
+| 46 | [ドリブンズ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%96%e3%83%b3%e3%82%ba) | ドリブンズ (Dribblez) is a Japanese basketball team based in Tokyo. The team was founded in 2008 and competes in the B.League, the top professional basketball league in Japan. The name "Dribblez" is derived from the basketball term "dribbling", which refers to the act of bouncing the ball while moving around the court. In English, it can be translated as "The Dribblers". |
+| 47 | [神風怪盗ジャンヌ](http://twitter.com/search?q=%e7%a5%9e%e9%a2%a8%e6%80%aa%e7%9b%97%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8c) | N/A |
+| 48 | [岸田政権の軍拡](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e6%94%bf%e6%a8%a9%e3%81%ae%e8%bb%8d%e6%8b%a1) | N/A |
+| 49 | [ミサイル購入](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab%e8%b3%bc%e5%85%a5) | N/A |
+| 50 | [主演男優賞](http://twitter.com/search?q=%e4%b8%bb%e6%bc%94%e7%94%b7%e5%84%aa%e8%b3%9e) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-23 20:18:38 UTC`
+📆 Last Updated: `2023-02-23 21:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 2 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 3 | [#NANJUV](http://twitter.com/search?q=%23NANJUV) | N/A |
-| 4 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
-| 5 | [#ASMB04](http://twitter.com/search?q=%23ASMB04) | N/A |
-| 6 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
-| 7 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
-| 8 | [#GORDjango](http://twitter.com/search?q=%23GORDjango) | N/A |
+| 1 | [#PekinExpress](http://twitter.com/search?q=%23PekinExpress) | N/A |
+| 2 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 3 | [#EnvoyeSpecial](http://twitter.com/search?q=%23EnvoyeSpecial) | N/A |
+| 4 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
+| 5 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 6 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 7 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 8 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 9 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
-| 10 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 11 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
-| 12 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 13 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 14 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 15 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
-| 16 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
-| 17 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
-| 18 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 19 | [Allez Rennes](http://twitter.com/search?q=Allez+Rennes) | N/A |
-| 20 | [Ludovic Blas](http://twitter.com/search?q=Ludovic+Blas) | N/A |
-| 21 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
-| 22 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
-| 23 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 24 | [Grévin](http://twitter.com/search?q=Gr%c3%a9vin) | N/A |
-| 25 | [Susan](http://twitter.com/search?q=Susan) | N/A |
-| 26 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
-| 27 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 28 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
-| 29 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 30 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
-| 31 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 32 | [Verdez](http://twitter.com/search?q=Verdez) | Verdez is a French word that means "green". It is used to describe something that is green in color. |
-| 33 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 34 | [Theate](http://twitter.com/search?q=Theate) | N/A |
-| 35 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 36 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 37 | [RMC Sport](http://twitter.com/search?q=RMC+Sport) | N/A |
-| 38 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 39 | [Ligue Europa](http://twitter.com/search?q=Ligue+Europa) | N/A |
-| 40 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 41 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 42 | [Roazhon Park](http://twitter.com/search?q=Roazhon+Park) | N/A |
-| 43 | [Signe Astro](http://twitter.com/search?q=Signe+Astro) | N/A |
-| 44 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 45 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 46 | [Eiffel](http://twitter.com/search?q=Eiffel) | N/A |
-| 47 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 48 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
-| 49 | [La Commission](http://twitter.com/search?q=La+Commission) | N/A |
-| 50 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
+| 10 | [#SRFCSHA](http://twitter.com/search?q=%23SRFCSHA) | N/A |
+| 11 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 12 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 13 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 14 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 15 | [#NANJUV](http://twitter.com/search?q=%23NANJUV) | N/A |
+| 16 | [Baldé](http://twitter.com/search?q=Bald%c3%a9) | N/A |
+| 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 18 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 19 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
+| 20 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 21 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 22 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 23 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 24 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 25 | [Spence](http://twitter.com/search?q=Spence) | Spence is a Scottish surname derived from the Old English word "spence," which means "dweller in a larder or pantry." It can also be used as a given name. |
+| 26 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 27 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
+| 28 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 29 | [Truffert](http://twitter.com/search?q=Truffert) | N/A |
+| 30 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 31 | [Steven Yeun](http://twitter.com/search?q=Steven+Yeun) | N/A |
+| 32 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
+| 33 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 34 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 35 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 36 | [Majer](http://twitter.com/search?q=Majer) | Majer is a Yiddish word that means "bigger" or "greater." It is often used to describe something that is larger in size or greater in importance. |
+| 37 | [Allez Rennes](http://twitter.com/search?q=Allez+Rennes) | N/A |
+| 38 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 39 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 40 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
+| 41 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
+| 42 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
+| 43 | [Ludovic Blas](http://twitter.com/search?q=Ludovic+Blas) | N/A |
+| 44 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 45 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 46 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
+| 47 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 48 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 49 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 50 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
 
 
 

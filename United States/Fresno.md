@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Fresno
 
-📆 Last Updated: `2023-02-23 20:19:11 UTC`
+📆 Last Updated: `2023-02-23 21:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Hercules](http://twitter.com/search?q=Hercules) | N/A |
-| 2 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
-| 3 | [#APTACSM](http://twitter.com/search?q=%23APTACSM) | N/A |
-| 4 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
-| 5 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
+| 1 | [The Musical](http://twitter.com/search?q=The+Musical) | N/A |
+| 2 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
+| 3 | [#snow](http://twitter.com/search?q=%23snow) | N/A |
+| 4 | [Hercules](http://twitter.com/search?q=Hercules) | N/A |
+| 5 | [Base](http://twitter.com/search?q=Base) | N/A |
 | 6 | [Santa Cruz](http://twitter.com/search?q=Santa+Cruz) | N/A |
-| 7 | [#weather](http://twitter.com/search?q=%23weather) | N/A |
-| 8 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
-| 9 | [Valley](http://twitter.com/search?q=Valley) | N/A |
-| 10 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
-| 11 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
-| 12 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
-| 13 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 14 | [Steven Yeun](http://twitter.com/search?q=Steven+Yeun) | N/A |
-| 15 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 16 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 17 | [Harvey Weinstein](http://twitter.com/search?q=Harvey+Weinstein) | N/A |
-| 18 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 19 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
-| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 21 | [Sentry](http://twitter.com/search?q=Sentry) | N/A |
-| 22 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 23 | [R. Kelly](http://twitter.com/search?q=R.+Kelly) | N/A |
-| 24 | [Aaron Rodgers](http://twitter.com/search?q=Aaron+Rodgers) | Aaron Rodgers is an American football quarterback for the Green Bay Packers of the National Football League (NFL). He is a six-time Pro Bowl selection and two-time NFL MVP. He is known for his strong arm, accuracy, and mobility in the pocket. |
-| 25 | [Village People](http://twitter.com/search?q=Village+People) | N/A |
-| 26 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 27 | [SNKRS](http://twitter.com/search?q=SNKRS) | SNKRS is a mobile app and website created by Nike that allows users to purchase limited edition sneakers. The name SNKRS is derived from the word "sneakers" and is meant to represent the ultimate destination for sneakerheads. |
-| 28 | [Elaine Chao](http://twitter.com/search?q=Elaine+Chao) | N/A |
-| 29 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 30 | [Vance Joseph](http://twitter.com/search?q=Vance+Joseph) | N/A |
-| 31 | [Red Wedding](http://twitter.com/search?q=Red+Wedding) | N/A |
-| 32 | [Bernice](http://twitter.com/search?q=Bernice) | N/A |
-| 33 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 34 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 35 | [Welcome to Derry](http://twitter.com/search?q=Welcome+to+Derry) | N/A |
-| 36 | [Teyana Taylor](http://twitter.com/search?q=Teyana+Taylor) | N/A |
-| 37 | [Barney Fife](http://twitter.com/search?q=Barney+Fife) | N/A |
-| 38 | [Galveston](http://twitter.com/search?q=Galveston) | N/A |
-| 39 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 40 | [Big Brother](http://twitter.com/search?q=Big+Brother) | N/A |
-| 41 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 42 | [Rogers the Musical](http://twitter.com/search?q=Rogers+the+Musical) | N/A |
-| 43 | [Communication](http://twitter.com/search?q=Communication) | N/A |
-| 44 | [Paw Paw](http://twitter.com/search?q=Paw+Paw) | N/A |
-| 45 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 46 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 47 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
-| 48 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 49 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 7 | [#APTACSM](http://twitter.com/search?q=%23APTACSM) | N/A |
+| 8 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
+| 9 | [#CAwx](http://twitter.com/search?q=%23CAwx) | N/A |
+| 10 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 11 | [#weather](http://twitter.com/search?q=%23weather) | N/A |
+| 12 | [Angela Davis](http://twitter.com/search?q=Angela+Davis) | N/A |
+| 13 | [Franklin](http://twitter.com/search?q=Franklin) | N/A |
+| 14 | [Valley](http://twitter.com/search?q=Valley) | N/A |
+| 15 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 16 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 18 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 20 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 21 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 22 | [Harvey Weinstein](http://twitter.com/search?q=Harvey+Weinstein) | N/A |
+| 23 | [Steven Yeun](http://twitter.com/search?q=Steven+Yeun) | N/A |
+| 24 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
+| 25 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 26 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 27 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 28 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 29 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 30 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
+| 31 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 32 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 34 | [Sentry](http://twitter.com/search?q=Sentry) | N/A |
+| 35 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 36 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 37 | [R. Kelly](http://twitter.com/search?q=R.+Kelly) | N/A |
+| 38 | [Communication](http://twitter.com/search?q=Communication) | N/A |
+| 39 | [Before Your Eyes](http://twitter.com/search?q=Before+Your+Eyes) | N/A |
+| 40 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 41 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 42 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 43 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 44 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 45 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
+| 46 | [Village People](http://twitter.com/search?q=Village+People) | N/A |
+| 47 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 48 | [Elaine Chao](http://twitter.com/search?q=Elaine+Chao) | N/A |
+| 49 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
 
 
 

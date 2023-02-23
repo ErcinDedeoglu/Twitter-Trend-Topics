@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hyderabad
 
-📆 Last Updated: `2023-02-23 20:19:06 UTC`
+📆 Last Updated: `2023-02-23 21:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#INDWvsAUSW](http://twitter.com/search?q=%23INDWvsAUSW) | N/A |
-| 2 | [#GEFighting](http://twitter.com/search?q=%23GEFighting) | N/A |
-| 3 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
-| 4 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 5 | [#T20WorldCup2023](http://twitter.com/search?q=%23T20WorldCup2023) | N/A |
-| 6 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 7 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 8 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 9 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 10 | [WATCH PATHAAN IN 110RS](http://twitter.com/search?q=WATCH+PATHAAN+IN+110RS) | N/A |
-| 11 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 12 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
-| 13 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 14 | [Richa](http://twitter.com/search?q=Richa) | N/A |
-| 15 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 16 | [Sushant Driven By Curiosity](http://twitter.com/search?q=Sushant+Driven+By+Curiosity) | N/A |
-| 17 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 18 | [Deepti Sharma](http://twitter.com/search?q=Deepti+Sharma) | N/A |
-| 19 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 20 | [Fielding](http://twitter.com/search?q=Fielding) | N/A |
-| 21 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 22 | [भूपेंद्र सारण](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%a3) | N/A |
-| 23 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
-| 24 | [Chokers](http://twitter.com/search?q=Chokers) | N/A |
-| 25 | [WIPL](http://twitter.com/search?q=WIPL) | N/A |
-| 26 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 27 | [Well Played](http://twitter.com/search?q=Well+Played) | N/A |
-| 28 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 29 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 30 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 31 | [Shafali Verma](http://twitter.com/search?q=Shafali+Verma) | N/A |
-| 32 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 33 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 34 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
-| 35 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 36 | [Jay Shah](http://twitter.com/search?q=Jay+Shah) | N/A |
-| 37 | [Captain](http://twitter.com/search?q=Captain) | N/A |
-| 38 | [पवन खेडा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%be) | N/A |
-| 39 | [Kejriwal](http://twitter.com/search?q=Kejriwal) | N/A |
-| 40 | [Ben Stokes](http://twitter.com/search?q=Ben+Stokes) | Ben Stokes is an English cricketer who plays for the England national team and the Rajasthan Royals in the Indian Premier League. He is a powerful all-rounder, capable of both batting and bowling with great skill. He is known for his aggressive style of play and has been instrumental in England's success in recent years. |
-| 41 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 42 | [#HappyBirthdayNani](http://twitter.com/search?q=%23HappyBirthdayNani) | N/A |
-| 43 | [#AUSvIND](http://twitter.com/search?q=%23AUSvIND) | N/A |
-| 44 | [#AjayBanga](http://twitter.com/search?q=%23AjayBanga) | N/A |
-| 45 | [#JemimahRodrigues](http://twitter.com/search?q=%23JemimahRodrigues) | N/A |
-| 46 | [#TwitterDown](http://twitter.com/search?q=%23TwitterDown) | N/A |
-| 47 | [#WorldBank](http://twitter.com/search?q=%23WorldBank) | N/A |
-| 48 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 49 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
-| 50 | [#Khalistan](http://twitter.com/search?q=%23Khalistan) | N/A |
+| 1 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 2 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 3 | [#INDWvsAUSW](http://twitter.com/search?q=%23INDWvsAUSW) | N/A |
+| 4 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 5 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 6 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 7 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 8 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 9 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 10 | [#GEFighting](http://twitter.com/search?q=%23GEFighting) | N/A |
+| 11 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 12 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 13 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 15 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 16 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 17 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
+| 18 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 19 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 20 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 21 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 22 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 23 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 24 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 25 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 26 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 27 | [Rossi](http://twitter.com/search?q=Rossi) | Rossi is an Italian surname. It is derived from the Latin name "Rufus" and means "red-haired" or "ruddy". |
+| 28 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 29 | [Sushant Driven By Curiosity](http://twitter.com/search?q=Sushant+Driven+By+Curiosity) | N/A |
+| 30 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 31 | [WATCH PATHAAN IN 110RS](http://twitter.com/search?q=WATCH+PATHAAN+IN+110RS) | N/A |
+| 32 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 33 | [Fielding](http://twitter.com/search?q=Fielding) | N/A |
+| 34 | [Richa](http://twitter.com/search?q=Richa) | N/A |
+| 35 | [Deepti](http://twitter.com/search?q=Deepti) | N/A |
+| 36 | [Perry](http://twitter.com/search?q=Perry) | N/A |
+| 37 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 38 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 39 | [भूपेंद्र सारण](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%a3) | N/A |
+| 40 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
+| 41 | [Jemimah](http://twitter.com/search?q=Jemimah) | N/A |
+| 42 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 43 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 44 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
+| 45 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 46 | [Jay Shah](http://twitter.com/search?q=Jay+Shah) | N/A |
+| 47 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
+| 48 | [Captain](http://twitter.com/search?q=Captain) | N/A |
+| 49 | [पवन खेडा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%be) | N/A |
+| 50 | [Kejriwal](http://twitter.com/search?q=Kejriwal) | N/A |
 
 
 

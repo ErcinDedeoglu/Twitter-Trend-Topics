@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-23 20:18:33 UTC`
+📆 Last Updated: `2023-02-23 21:15:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 2 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 3 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
-| 4 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 5 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 6 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 7 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
-| 8 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 9 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 10 | [As Branquelas](http://twitter.com/search?q=As+Branquelas) | N/A |
-| 11 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 12 | [pope](http://twitter.com/search?q=pope) | N/A |
-| 13 | [Loma](http://twitter.com/search?q=Loma) | N/A |
-| 14 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 15 | [#EuropaLeagueNaESPN](http://twitter.com/search?q=%23EuropaLeagueNaESPN) | N/A |
-| 16 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
-| 17 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 18 | [Ratinho](http://twitter.com/search?q=Ratinho) | N/A |
-| 19 | [Zambelli](http://twitter.com/search?q=Zambelli) | N/A |
-| 20 | [TV Cultura](http://twitter.com/search?q=TV+Cultura) | N/A |
-| 21 | [Steven Yeun](http://twitter.com/search?q=Steven+Yeun) | N/A |
-| 22 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 23 | [Todes](http://twitter.com/search?q=Todes) | N/A |
-| 24 | [big john](http://twitter.com/search?q=big+john) | N/A |
-| 25 | [Elize Matsunaga](http://twitter.com/search?q=Elize+Matsunaga) | N/A |
-| 26 | [Daniel Junior](http://twitter.com/search?q=Daniel+Junior) | N/A |
-| 27 | [cleo](http://twitter.com/search?q=cleo) | N/A |
-| 28 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 29 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 30 | [Danielzinho](http://twitter.com/search?q=Danielzinho) | N/A |
-| 31 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 32 | [#SessãoDaTarde](http://twitter.com/search?q=%23Sess%c3%a3oDaTarde) | N/A |
-| 33 | [Sorocaba](http://twitter.com/search?q=Sorocaba) | N/A |
-| 34 | [sarah cameron](http://twitter.com/search?q=sarah+cameron) | N/A |
-| 35 | [Caldense](http://twitter.com/search?q=Caldense) | Caldense is a term used to refer to people or things from the Brazilian city of Caldas Novas. It is derived from the name of the city, which literally translates to "New Hot Springs" in English. |
-| 36 | [jhon b](http://twitter.com/search?q=jhon+b) | N/A |
-| 37 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 38 | [Lift Me Up](http://twitter.com/search?q=Lift+Me+Up) | N/A |
-| 39 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
-| 40 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 41 | [Naka](http://twitter.com/search?q=Naka) | N/A |
-| 42 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 43 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 44 | [hozier](http://twitter.com/search?q=hozier) | N/A |
-| 45 | [Andreas Pereira](http://twitter.com/search?q=Andreas+Pereira) | Andreas Pereira is a Portuguese-Brazilian professional footballer who plays as a midfielder for Manchester United in the English Premier League. His name is derived from the combination of his Portuguese father's first name, Andreas, and his Brazilian mother's maiden name, Pereira. |
-| 46 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
-| 47 | [Dona Maria](http://twitter.com/search?q=Dona+Maria) | N/A |
-| 48 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 49 | [#bigfone](http://twitter.com/search?q=%23bigfone) | N/A |
-| 50 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
+| 1 | [Bento Gonçalves](http://twitter.com/search?q=Bento+Gon%c3%a7alves) | N/A |
+| 2 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 3 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 4 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 5 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 6 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 7 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 8 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 9 | [Lewa](http://twitter.com/search?q=Lewa) | N/A |
+| 10 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
+| 11 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 12 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 13 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 14 | [Bruno Rodrigues](http://twitter.com/search?q=Bruno+Rodrigues) | Bruno Rodrigues is a Portuguese name. It is composed of two given names, Bruno and Rodrigues. Bruno is derived from the Latin word "brunus" meaning "brown" or "dark", while Rodrigues is derived from the Germanic name Roderick, which means "famous power". |
+| 15 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 16 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 17 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
+| 18 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 19 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 20 | [#EuropaLeagueNaESPN](http://twitter.com/search?q=%23EuropaLeagueNaESPN) | N/A |
+| 21 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 22 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 23 | [As Branquelas](http://twitter.com/search?q=As+Branquelas) | N/A |
+| 24 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 25 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 26 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 27 | [pope](http://twitter.com/search?q=pope) | N/A |
+| 28 | [TV Cultura](http://twitter.com/search?q=TV+Cultura) | N/A |
+| 29 | [Caldense](http://twitter.com/search?q=Caldense) | Caldense is a term used to refer to people or things from the Brazilian city of Caldas Novas. It is derived from the name of the city, which literally translates to "New Hot Springs" in English. |
+| 30 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 31 | [Ratinho](http://twitter.com/search?q=Ratinho) | N/A |
+| 32 | [Scalene](http://twitter.com/search?q=Scalene) | N/A |
+| 33 | [Loma](http://twitter.com/search?q=Loma) | N/A |
+| 34 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 35 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 36 | [Big Fone](http://twitter.com/search?q=Big+Fone) | Big Fone is a slang term used to refer to a large, expensive mobile phone. It is often used to describe a phone that is seen as being luxurious or ostentatious. |
+| 37 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 38 | [Steven Yeun](http://twitter.com/search?q=Steven+Yeun) | N/A |
+| 39 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 40 | [Sabitzer](http://twitter.com/search?q=Sabitzer) | Sabitzer is a German surname. It is derived from the Middle High German word "sabiz" which means "small sword". In English, it can be translated to mean "one who wields a small sword". |
+| 41 | [Zambelli](http://twitter.com/search?q=Zambelli) | N/A |
+| 42 | [Tomás Bertoni](http://twitter.com/search?q=Tom%c3%a1s+Bertoni) | N/A |
+| 43 | [sarah cameron](http://twitter.com/search?q=sarah+cameron) | N/A |
+| 44 | [big john](http://twitter.com/search?q=big+john) | N/A |
+| 45 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 46 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 47 | [Todes](http://twitter.com/search?q=Todes) | N/A |
+| 48 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 49 | [Danielzinho](http://twitter.com/search?q=Danielzinho) | N/A |
+| 50 | [Elize Matsunaga](http://twitter.com/search?q=Elize+Matsunaga) | N/A |
 
 
 

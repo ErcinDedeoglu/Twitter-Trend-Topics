@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turmero
 
-📆 Last Updated: `2023-02-23 20:18:32 UTC`
+📆 Last Updated: `2023-02-23 21:15:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 1 | [#23Feb](http://twitter.com/search?q=%2323Feb) | N/A |
 | 2 | [#DeVueltaAClases](http://twitter.com/search?q=%23DeVueltaAClases) | N/A |
 | 3 | [#PuenteParaLaPaz](http://twitter.com/search?q=%23PuenteParaLaPaz) | N/A |
-| 4 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
+| 4 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 5 | [Sultán](http://twitter.com/search?q=Sult%c3%a1n) | N/A |
 | 6 | [#RetornoFeliz](http://twitter.com/search?q=%23RetornoFeliz) | N/A |
-| 7 | [Mi Vivienda](http://twitter.com/search?q=Mi+Vivienda) | N/A |
-| 8 | [#SinLuz](http://twitter.com/search?q=%23SinLuz) | N/A |
-| 9 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 10 | [El Tigre](http://twitter.com/search?q=El+Tigre) | N/A |
-| 11 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
-| 12 | [Batalla](http://twitter.com/search?q=Batalla) | N/A |
-| 13 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
-| 14 | [Locha](http://twitter.com/search?q=Locha) | N/A |
-| 15 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
-| 16 | [Las 4](http://twitter.com/search?q=Las+4) | N/A |
-| 17 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
-| 18 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
-| 19 | [Belén Marrero](http://twitter.com/search?q=Bel%c3%a9n+Marrero) | N/A |
-| 20 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 21 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
-| 22 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
-| 23 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 24 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
-| 25 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
-| 26 | [Miércoles de Ceniza](http://twitter.com/search?q=Mi%c3%a9rcoles+de+Ceniza) | N/A |
-| 27 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 28 | [Futbol Europeo](http://twitter.com/search?q=Futbol+Europeo) | N/A |
-| 29 | [chuchin](http://twitter.com/search?q=chuchin) | N/A |
-| 30 | [don rómulo betancourt](http://twitter.com/search?q=don+r%c3%b3mulo+betancourt) | N/A |
-| 31 | [Tren de Aragua](http://twitter.com/search?q=Tren+de+Aragua) | N/A |
-| 32 | [Roberto Lamarca](http://twitter.com/search?q=Roberto+Lamarca) | N/A |
-| 33 | [La Dolorita](http://twitter.com/search?q=La+Dolorita) | N/A |
-| 34 | [Luis Alberto Caballero Mejías](http://twitter.com/search?q=Luis+Alberto+Caballero+Mej%c3%adas) | N/A |
-| 35 | [Estados Latinoamericanos](http://twitter.com/search?q=Estados+Latinoamericanos) | N/A |
-| 36 | [Interferencia](http://twitter.com/search?q=Interferencia) | N/A |
-| 37 | [Cocodrilos de Caracas](http://twitter.com/search?q=Cocodrilos+de+Caracas) | N/A |
-| 38 | [Perdidos](http://twitter.com/search?q=Perdidos) | N/A |
-| 39 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 40 | [Enrique Alzugaray](http://twitter.com/search?q=Enrique+Alzugaray) | N/A |
-| 41 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 42 | [Miguel de León](http://twitter.com/search?q=Miguel+de+Le%c3%b3n) | N/A |
-| 43 | [Élite](http://twitter.com/search?q=%c3%89lite) | N/A |
-| 44 | [O'Brien](http://twitter.com/search?q=O%27Brien) | N/A |
-| 45 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 46 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 47 | [Juanita](http://twitter.com/search?q=Juanita) | N/A |
-| 48 | [Ismael Miranda](http://twitter.com/search?q=Ismael+Miranda) | N/A |
-| 49 | [Salieron](http://twitter.com/search?q=Salieron) | N/A |
+| 7 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 8 | [Mi Vivienda](http://twitter.com/search?q=Mi+Vivienda) | N/A |
+| 9 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 10 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 11 | [El Tigre](http://twitter.com/search?q=El+Tigre) | N/A |
+| 12 | [Jong](http://twitter.com/search?q=Jong) | N/A |
+| 13 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 14 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
+| 15 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 16 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
+| 17 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 18 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 19 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 20 | [Ter Stegen](http://twitter.com/search?q=Ter+Stegen) | Ter Stegen is the surname of German professional footballer Marc-André ter Stegen. He currently plays as a goalkeeper for FC Barcelona and the German national team. In English, Ter Stegen means "from Stegen", referring to his hometown of Mönchengladbach, Germany. |
+| 21 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 22 | [Puentes](http://twitter.com/search?q=Puentes) | N/A |
+| 23 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 24 | [Las 4](http://twitter.com/search?q=Las+4) | N/A |
+| 25 | [Rivera](http://twitter.com/search?q=Rivera) | N/A |
+| 26 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 27 | [Locha](http://twitter.com/search?q=Locha) | N/A |
+| 28 | [Alfredo Sadel](http://twitter.com/search?q=Alfredo+Sadel) | N/A |
+| 29 | [Cuaresma](http://twitter.com/search?q=Cuaresma) | N/A |
+| 30 | [Belén Marrero](http://twitter.com/search?q=Bel%c3%a9n+Marrero) | N/A |
+| 31 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 32 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 33 | [Maracaibo](http://twitter.com/search?q=Maracaibo) | N/A |
+| 34 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 35 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 36 | [Mineiro](http://twitter.com/search?q=Mineiro) | N/A |
+| 37 | [Bahamas](http://twitter.com/search?q=Bahamas) | N/A |
+| 38 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 39 | [La Dolorita](http://twitter.com/search?q=La+Dolorita) | N/A |
+| 40 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 41 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 42 | [Futbol Europeo](http://twitter.com/search?q=Futbol+Europeo) | N/A |
+| 43 | [chuchin](http://twitter.com/search?q=chuchin) | N/A |
+| 44 | [don rómulo betancourt](http://twitter.com/search?q=don+r%c3%b3mulo+betancourt) | N/A |
+| 45 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 46 | [Carabobo](http://twitter.com/search?q=Carabobo) | Carabobo is a state in Venezuela. Its name is derived from the Carabobo tribe, which inhabited the area before the Spanish colonization of the Americas. In English, it means "Valley of the Brave". |
+| 47 | [Tren de Aragua](http://twitter.com/search?q=Tren+de+Aragua) | N/A |
+| 48 | [Franco de Vita](http://twitter.com/search?q=Franco+de+Vita) | N/A |
+| 49 | [Luis Alberto Caballero Mejías](http://twitter.com/search?q=Luis+Alberto+Caballero+Mej%c3%adas) | N/A |
 
 
 
