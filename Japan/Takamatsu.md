@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Takamatsu
 
-📆 Last Updated: `2023-02-23 21:15:55 UTC`
+📆 Last Updated: `2023-02-23 22:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [フレッジ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%82%b8) | N/A |
-| 2 | [ブルーノ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%8e) | N/A |
-| 3 | [アントニー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%88%e3%83%8b%e3%83%bc) | アントニー is the Japanese version of the name Anthony. It is a masculine given name of Latin origin, derived from Antonius, a Roman family name. The meaning of Anthony in English is "priceless one". |
-| 4 | [セルジロベルト](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%82%b8%e3%83%ad%e3%83%99%e3%83%ab%e3%83%88) | N/A |
-| 5 | [フレンキー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
-| 6 | [#さとみくん誕生祭2023](http://twitter.com/search?q=%23%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
-| 7 | [カゼミロ](http://twitter.com/search?q=%e3%82%ab%e3%82%bc%e3%83%9f%e3%83%ad) | カゼミロ is a type of Japanese traditional folk song. It is usually sung by a group of people, and the lyrics are often about the hardships of life. In English, it can be translated as "Folk Song of Sorrow". |
-| 8 | [ブスケツ](http://twitter.com/search?q=%e3%83%96%e3%82%b9%e3%82%b1%e3%83%84) | N/A |
-| 9 | [鎌田ドルトムント](http://twitter.com/search?q=%e9%8e%8c%e7%94%b0%e3%83%89%e3%83%ab%e3%83%88%e3%83%a0%e3%83%b3%e3%83%88) | N/A |
-| 10 | [#おは戦50224fk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650224fk) | N/A |
-| 11 | [ディマリア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%9e%e3%83%aa%e3%82%a2) | N/A |
+| 1 | [ユナイテッド](http://twitter.com/search?q=%e3%83%a6%e3%83%8a%e3%82%a4%e3%83%86%e3%83%83%e3%83%89) | ユナイテッド is the Japanese word for "United". It is used to refer to something that is unified or joined together. |
+| 2 | [アントニー](http://twitter.com/search?q=%e3%82%a2%e3%83%b3%e3%83%88%e3%83%8b%e3%83%bc) | アントニー is the Japanese version of the name Anthony. It is a masculine given name of Latin origin, derived from Antonius, a Roman family name. The meaning of Anthony in English is "priceless one". |
+| 3 | [アラウホ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%a6%e3%83%9b) | N/A |
+| 4 | [ブルーノ](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%8e) | N/A |
+| 5 | [フレッジ](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%83%e3%82%b8) | N/A |
+| 6 | [ガルナチョ](http://twitter.com/search?q=%e3%82%ac%e3%83%ab%e3%83%8a%e3%83%81%e3%83%a7) | N/A |
+| 7 | [フレンキー](http://twitter.com/search?q=%e3%83%95%e3%83%ac%e3%83%b3%e3%82%ad%e3%83%bc) | N/A |
+| 8 | [キャミィ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%9f%e3%82%a3) | N/A |
+| 9 | [ヴァラン](http://twitter.com/search?q=%e3%83%b4%e3%82%a1%e3%83%a9%e3%83%b3) | N/A |
+| 10 | [バルセロナ](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%82%bb%e3%83%ad%e3%83%8a) | N/A |
+| 11 | [カゼミロ](http://twitter.com/search?q=%e3%82%ab%e3%82%bc%e3%83%9f%e3%83%ad) | カゼミロ is a type of Japanese traditional folk song. It is usually sung by a group of people, and the lyrics are often about the hardships of life. In English, it can be translated as "Folk Song of Sorrow". |
 | 12 | [ブルーリボン賞](http://twitter.com/search?q=%e3%83%96%e3%83%ab%e3%83%bc%e3%83%aa%e3%83%9c%e3%83%b3%e8%b3%9e) | N/A |
-| 13 | [ワンビサカ](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%93%e3%82%b5%e3%82%ab) | ワンビサカ is a Japanese phrase that translates to "one-sided love". It is used to describe a situation in which one person has strong feelings for another person who does not reciprocate those feelings. |
-| 14 | [アラウホ](http://twitter.com/search?q=%e3%82%a2%e3%83%a9%e3%82%a6%e3%83%9b) | N/A |
-| 15 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 16 | [#オードリー椅子破壊記念日](http://twitter.com/search?q=%23%e3%82%aa%e3%83%bc%e3%83%89%e3%83%aa%e3%83%bc%e6%a4%85%e5%ad%90%e7%a0%b4%e5%a3%8a%e8%a8%98%e5%bf%b5%e6%97%a5) | N/A |
-| 17 | [#bn847](http://twitter.com/search?q=%23bn847) | N/A |
+| 13 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 14 | [#おは戦50224fk](http://twitter.com/search?q=%23%e3%81%8a%e3%81%af%e6%88%a650224fk) | N/A |
+| 15 | [ブスケツ](http://twitter.com/search?q=%e3%83%96%e3%82%b9%e3%82%b1%e3%83%84) | N/A |
+| 16 | [ハフィーニャ](http://twitter.com/search?q=%e3%83%8f%e3%83%95%e3%82%a3%e3%83%bc%e3%83%8b%e3%83%a3) | ハフィーニャ is a type of Japanese traditional dance. It is a form of ritual dance that has been performed since the Edo period (1603-1868). The dance is usually performed by two people, one playing the role of the leader and the other playing the role of the follower. The leader moves in a circular pattern while the follower follows in a line behind them. In English, it can be translated as "circle dance". |
+| 17 | [セルジロベルト](http://twitter.com/search?q=%e3%82%bb%e3%83%ab%e3%82%b8%e3%83%ad%e3%83%99%e3%83%ab%e3%83%88) | N/A |
 | 18 | [レヴァンドフスキ](http://twitter.com/search?q=%e3%83%ac%e3%83%b4%e3%82%a1%e3%83%b3%e3%83%89%e3%83%95%e3%82%b9%e3%82%ad) | N/A |
-| 19 | [第399回](http://twitter.com/search?q=%e7%ac%ac399%e5%9b%9e) | N/A |
-| 20 | [中国2枠](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd2%e6%9e%a0) | N/A |
-| 21 | [ディバラ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%90%e3%83%a9) | N/A |
-| 22 | [デヨング](http://twitter.com/search?q=%e3%83%87%e3%83%a8%e3%83%b3%e3%82%b0) | N/A |
-| 23 | [アズール](http://twitter.com/search?q=%e3%82%a2%e3%82%ba%e3%83%bc%e3%83%ab) | N/A |
-| 24 | [ウマ娘2周年](http://twitter.com/search?q=%e3%82%a6%e3%83%9e%e5%a8%982%e5%91%a8%e5%b9%b4) | N/A |
-| 25 | [小原くん](http://twitter.com/search?q=%e5%b0%8f%e5%8e%9f%e3%81%8f%e3%82%93) | N/A |
-| 26 | [レヴァークーゼン](http://twitter.com/search?q=%e3%83%ac%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%af%e3%83%bc%e3%82%bc%e3%83%b3) | N/A |
-| 27 | [バルセロナ](http://twitter.com/search?q=%e3%83%90%e3%83%ab%e3%82%bb%e3%83%ad%e3%83%8a) | N/A |
-| 28 | [ボイプラ](http://twitter.com/search?q=%e3%83%9c%e3%82%a4%e3%83%97%e3%83%a9) | ボイプラ is short for ボイスプラス, which is a Japanese voice-based social media platform. It allows users to create and share audio clips with their friends and followers. The English translation of ボイプラ would be Voice Plus. |
-| 29 | [ファジョーリ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%82%b8%e3%83%a7%e3%83%bc%e3%83%aa) | N/A |
-| 30 | [トリプレッタ](http://twitter.com/search?q=%e3%83%88%e3%83%aa%e3%83%97%e3%83%ac%e3%83%83%e3%82%bf) | N/A |
-| 31 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 32 | [オクトラ2](http://twitter.com/search?q=%e3%82%aa%e3%82%af%e3%83%88%e3%83%a92) | N/A |
-| 33 | [カクレンジャー](http://twitter.com/search?q=%e3%82%ab%e3%82%af%e3%83%ac%e3%83%b3%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 34 | [しのぶさん](http://twitter.com/search?q=%e3%81%97%e3%81%ae%e3%81%b6%e3%81%95%e3%82%93) | N/A |
-| 35 | [Wordle 615](http://twitter.com/search?q=Wordle+615) | N/A |
-| 36 | [ミツクリ](http://twitter.com/search?q=%e3%83%9f%e3%83%84%e3%82%af%e3%83%aa) | N/A |
-| 37 | [カービィ](http://twitter.com/search?q=%e3%82%ab%e3%83%bc%e3%83%93%e3%82%a3) | N/A |
-| 38 | [ASKAさん](http://twitter.com/search?q=ASKA%e3%81%95%e3%82%93) | N/A |
-| 39 | [オルンガ](http://twitter.com/search?q=%e3%82%aa%e3%83%ab%e3%83%b3%e3%82%ac) | N/A |
-| 40 | [グレンダイザー](http://twitter.com/search?q=%e3%82%b0%e3%83%ac%e3%83%b3%e3%83%80%e3%82%a4%e3%82%b6%e3%83%bc) | N/A |
-| 41 | [全カット](http://twitter.com/search?q=%e5%85%a8%e3%82%ab%e3%83%83%e3%83%88) | N/A |
-| 42 | [シルクロード](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%82%af%e3%83%ad%e3%83%bc%e3%83%89) | N/A |
-| 43 | [東村アキコさん](http://twitter.com/search?q=%e6%9d%b1%e6%9d%91%e3%82%a2%e3%82%ad%e3%82%b3%e3%81%95%e3%82%93) | N/A |
-| 44 | [サクラノ刻](http://twitter.com/search?q=%e3%82%b5%e3%82%af%e3%83%a9%e3%83%8e%e5%88%bb) | N/A |
-| 45 | [ドリブンズ](http://twitter.com/search?q=%e3%83%89%e3%83%aa%e3%83%96%e3%83%b3%e3%82%ba) | ドリブンズ (Dribblez) is a Japanese basketball team based in Tokyo. The team was founded in 2008 and competes in the B.League, the top professional basketball league in Japan. The name "Dribblez" is derived from the basketball term "dribbling", which refers to the act of bouncing the ball while moving around the court. In English, it can be translated as "The Dribblers". |
-| 46 | [神風怪盗ジャンヌ](http://twitter.com/search?q=%e7%a5%9e%e9%a2%a8%e6%80%aa%e7%9b%97%e3%82%b8%e3%83%a3%e3%83%b3%e3%83%8c) | N/A |
-| 47 | [岸田政権の軍拡](http://twitter.com/search?q=%e5%b2%b8%e7%94%b0%e6%94%bf%e6%a8%a9%e3%81%ae%e8%bb%8d%e6%8b%a1) | N/A |
-| 48 | [ミサイル購入](http://twitter.com/search?q=%e3%83%9f%e3%82%b5%e3%82%a4%e3%83%ab%e8%b3%bc%e5%85%a5) | N/A |
-| 49 | [小原裕貴](http://twitter.com/search?q=%e5%b0%8f%e5%8e%9f%e8%a3%95%e8%b2%b4) | N/A |
+| 19 | [#さとみくん誕生祭2023](http://twitter.com/search?q=%23%e3%81%95%e3%81%a8%e3%81%bf%e3%81%8f%e3%82%93%e8%aa%95%e7%94%9f%e7%a5%ad2023) | N/A |
+| 20 | [#おのえ765](http://twitter.com/search?q=%23%e3%81%8a%e3%81%ae%e3%81%88765) | N/A |
+| 21 | [ワンビサカ](http://twitter.com/search?q=%e3%83%af%e3%83%b3%e3%83%93%e3%82%b5%e3%82%ab) | ワンビサカ is a Japanese phrase that translates to "one-sided love". It is used to describe a situation in which one person has strong feelings for another person who does not reciprocate those feelings. |
+| 22 | [#交換ウソ日記](http://twitter.com/search?q=%23%e4%ba%a4%e6%8f%9b%e3%82%a6%e3%82%bd%e6%97%a5%e8%a8%98) | N/A |
+| 23 | [デンベレ](http://twitter.com/search?q=%e3%83%87%e3%83%b3%e3%83%99%e3%83%ac) | デンベレ is a Japanese word that means "to be embarrassed or ashamed". It is often used to describe feeling embarrassed or ashamed of one's own actions. |
+| 24 | [鎌田ドルトムント](http://twitter.com/search?q=%e9%8e%8c%e7%94%b0%e3%83%89%e3%83%ab%e3%83%88%e3%83%a0%e3%83%b3%e3%83%88) | N/A |
+| 25 | [デヨング](http://twitter.com/search?q=%e3%83%87%e3%83%a8%e3%83%b3%e3%82%b0) | N/A |
+| 26 | [ザンギエフ](http://twitter.com/search?q=%e3%82%b6%e3%83%b3%e3%82%ae%e3%82%a8%e3%83%95) | N/A |
+| 27 | [マクトミネイ](http://twitter.com/search?q=%e3%83%9e%e3%82%af%e3%83%88%e3%83%9f%e3%83%8d%e3%82%a4) | N/A |
+| 28 | [ファティ](http://twitter.com/search?q=%e3%83%95%e3%82%a1%e3%83%86%e3%82%a3) | N/A |
+| 29 | [テンハグ](http://twitter.com/search?q=%e3%83%86%e3%83%b3%e3%83%8f%e3%82%b0) | N/A |
+| 30 | [リサマル](http://twitter.com/search?q=%e3%83%aa%e3%82%b5%e3%83%9e%e3%83%ab) | N/A |
+| 31 | [ウマ娘2周年](http://twitter.com/search?q=%e3%82%a6%e3%83%9e%e5%a8%982%e5%91%a8%e5%b9%b4) | N/A |
+| 32 | [ペドリガビ](http://twitter.com/search?q=%e3%83%9a%e3%83%89%e3%83%aa%e3%82%ac%e3%83%93) | N/A |
+| 33 | [第399回](http://twitter.com/search?q=%e7%ac%ac399%e5%9b%9e) | N/A |
+| 34 | [倉本聰氏](http://twitter.com/search?q=%e5%80%89%e6%9c%ac%e8%81%b0%e6%b0%8f) | N/A |
+| 35 | [ディバラ](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%90%e3%83%a9) | N/A |
+| 36 | [ディマリア](http://twitter.com/search?q=%e3%83%87%e3%82%a3%e3%83%9e%e3%83%aa%e3%82%a2) | N/A |
+| 37 | [中国2枠](http://twitter.com/search?q=%e4%b8%ad%e5%9b%bd2%e6%9e%a0) | N/A |
+| 38 | [プレミアムフライデー](http://twitter.com/search?q=%e3%83%97%e3%83%ac%e3%83%9f%e3%82%a2%e3%83%a0%e3%83%95%e3%83%a9%e3%82%a4%e3%83%87%e3%83%bc) | プレミアムフライデー (Premium Friday) is a campaign launched by the Japanese government in 2017 to encourage people to take time off from work and enjoy leisure activities on the last Friday of each month. The idea is to promote a better work-life balance and boost consumer spending. In English, it can be translated as "Premium Friday". |
+| 39 | [月光仮面登場の日](http://twitter.com/search?q=%e6%9c%88%e5%85%89%e4%bb%ae%e9%9d%a2%e7%99%bb%e5%a0%b4%e3%81%ae%e6%97%a5) | N/A |
+| 40 | [アズール](http://twitter.com/search?q=%e3%82%a2%e3%82%ba%e3%83%bc%e3%83%ab) | N/A |
+| 41 | [クロスカントリーの日](http://twitter.com/search?q=%e3%82%af%e3%83%ad%e3%82%b9%e3%82%ab%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc%e3%81%ae%e6%97%a5) | N/A |
+| 42 | [しのぶさん](http://twitter.com/search?q=%e3%81%97%e3%81%ae%e3%81%b6%e3%81%95%e3%82%93) | N/A |
+| 43 | [夢の劇場](http://twitter.com/search?q=%e5%a4%a2%e3%81%ae%e5%8a%87%e5%a0%b4) | N/A |
+| 44 | [ASKAさん](http://twitter.com/search?q=ASKA%e3%81%95%e3%82%93) | N/A |
+| 45 | [クラウザー](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%a6%e3%82%b6%e3%83%bc) | N/A |
+| 46 | [コードヴェイン](http://twitter.com/search?q=%e3%82%b3%e3%83%bc%e3%83%89%e3%83%b4%e3%82%a7%e3%82%a4%e3%83%b3) | N/A |
+| 47 | [文哉くん](http://twitter.com/search?q=%e6%96%87%e5%93%89%e3%81%8f%e3%82%93) | 文哉くん is a Japanese nickname for the character Fumiyasu from the manga series "Kochikame". It is a combination of his given name, Fumiyasu, and the Japanese honorific suffix "-kun", which is used to refer to boys or young men. In English, it would be translated as "Fumiyasu-kun". |
+| 48 | [レヴァークーゼン](http://twitter.com/search?q=%e3%83%ac%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%af%e3%83%bc%e3%82%bc%e3%83%b3) | N/A |
+| 49 | [ザビッツァー](http://twitter.com/search?q=%e3%82%b6%e3%83%93%e3%83%83%e3%83%84%e3%82%a1%e3%83%bc) | ザビッツァー is a Japanese term for a type of snack food made from wheat flour, sugar, and other ingredients. It is similar to a biscuit or cookie, but has a unique texture and flavor. In English, it is sometimes referred to as "Zabitsa". |
 
 
 

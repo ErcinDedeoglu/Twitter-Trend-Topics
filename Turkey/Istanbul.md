@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-23 21:16:10 UTC`
+📆 Last Updated: `2023-02-23 22:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MeclisKapanmadan İnsaniAf](http://twitter.com/search?q=MeclisKapanmadan+%c4%b0nsaniAf) | N/A |
-| 2 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
-| 3 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
-| 4 | [#Trabzonspor](http://twitter.com/search?q=%23Trabzonspor) | #Trabzonspor is a Turkish professional football club based in the city of Trabzon, Turkey. The club was founded in 1967 and currently plays in the Turkish Super Lig, the top tier of Turkish football. The club's name translates to "Trabzon Sports Club" in English. |
-| 5 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 6 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 7 | [Bartra](http://twitter.com/search?q=Bartra) | Bartra is a Spanish surname derived from the Basque language. It is believed to be derived from the words "bartz" (meaning "axe") and "ara" (meaning "stone"). In English, Bartra can be translated to mean "axe stone". |
-| 8 | [Bakasetas](http://twitter.com/search?q=Bakasetas) | N/A |
-| 9 | [#DayanışmaŞart](http://twitter.com/search?q=%23Dayan%c4%b1%c5%9fma%c5%9eart) | N/A |
-| 10 | [#Ömer](http://twitter.com/search?q=%23%c3%96mer) | #Ömer is a hashtag used to refer to Ömer, a Turkish given name. It is derived from the Arabic name Omar and means "long-lived" or "flourishing". |
-| 11 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
+| 1 | [Lütfü Savaş](http://twitter.com/search?q=L%c3%bctf%c3%bc+Sava%c5%9f) | N/A |
+| 2 | [#StajyerinSabrıKalmadı](http://twitter.com/search?q=%23StajyerinSabr%c4%b1Kalmad%c4%b1) | N/A |
+| 3 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
+| 4 | [Elif](http://twitter.com/search?q=Elif) | N/A |
+| 5 | [#EMADDER](http://twitter.com/search?q=%23EMADDER) | N/A |
+| 6 | [Huzurlu](http://twitter.com/search?q=Huzurlu) | N/A |
+| 7 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 8 | [#Trabzonspor](http://twitter.com/search?q=%23Trabzonspor) | #Trabzonspor is a Turkish professional football club based in the city of Trabzon, Turkey. The club was founded in 1967 and currently plays in the Turkish Super Lig, the top tier of Turkish football. The club's name translates to "Trabzon Sports Club" in English. |
+| 9 | [#Trabzonspor](http://twitter.com/search?q=%23Trabzonspor) | #Trabzonspor is a Turkish professional football club based in the city of Trabzon, Turkey. The club was founded in 1967 and currently plays in the Turkish Super Lig, the top tier of Turkish football. The club's name translates to "Trabzon Sports Club" in English. |
+| 10 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 11 | [Yusuf](http://twitter.com/search?q=Yusuf) | N/A |
 | 12 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
-| 13 | [Doğucan](http://twitter.com/search?q=Do%c4%9fucan) | N/A |
-| 14 | [#HayırlıCumalar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Cumalar) | #HayırlıCumalar is a Turkish phrase that translates to "Good Fridays" in English. It is typically used as a greeting or blessing on Fridays, wishing someone a good and blessed day. |
-| 15 | [Lahoz](http://twitter.com/search?q=Lahoz) | N/A |
-| 16 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 17 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 18 | [Defne Belediye Başkanı](http://twitter.com/search?q=Defne+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
-| 19 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
-| 20 | [Mehmet Akif](http://twitter.com/search?q=Mehmet+Akif) | N/A |
-| 21 | [Larsen](http://twitter.com/search?q=Larsen) | Larsen is a Scandinavian surname derived from the given name Lars, which is a form of the Latin name Laurentius. It is most commonly found in Norway, Denmark, and Sweden. The English meaning of Larsen is "son of Lars". |
-| 22 | [Abdülkadir](http://twitter.com/search?q=Abd%c3%bclkadir) | N/A |
-| 23 | [Peres](http://twitter.com/search?q=Peres) | N/A |
-| 24 | [Tik Tok](http://twitter.com/search?q=Tik+Tok) | N/A |
-| 25 | [YatayMimari ZeminTesti](http://twitter.com/search?q=YatayMimari+ZeminTesti) | N/A |
+| 13 | [#FCBvTS](http://twitter.com/search?q=%23FCBvTS) | N/A |
+| 14 | [Lahoz](http://twitter.com/search?q=Lahoz) | N/A |
+| 15 | [Umut Bozok](http://twitter.com/search?q=Umut+Bozok) | Umut Bozok is a Turkish phrase that translates to "hope of eternity" or "eternal hope". It is often used as a metaphor for the idea that hope can last forever, even in the face of adversity. |
+| 16 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
+| 17 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 18 | [Bakasetas](http://twitter.com/search?q=Bakasetas) | N/A |
+| 19 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
+| 20 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 21 | [Bartra](http://twitter.com/search?q=Bartra) | Bartra is a Spanish surname derived from the Basque language. It is believed to be derived from the words "bartz" (meaning "axe") and "ara" (meaning "stone"). In English, Bartra can be translated to mean "axe stone". |
+| 22 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
+| 23 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 24 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
+| 25 | [Doğucan](http://twitter.com/search?q=Do%c4%9fucan) | N/A |
 | 26 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 27 | [Gofrik](http://twitter.com/search?q=Gofrik) | N/A |
-| 28 | [Selçuk Tepeli](http://twitter.com/search?q=Sel%c3%a7uk+Tepeli) | N/A |
-| 29 | [Asuman](http://twitter.com/search?q=Asuman) | N/A |
-| 30 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | Penaltı is a term used in soccer (football) to refer to a penalty kick. It is a kick taken from the penalty spot by a player of the team that has been fouled, and it is usually taken with the aim of scoring a goal. In English, it is simply referred to as a "penalty kick". |
-| 31 | [Biter](http://twitter.com/search?q=Biter) | N/A |
-| 32 | [Karam](http://twitter.com/search?q=Karam) | N/A |
-| 33 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
-| 34 | [Yunus Kaya](http://twitter.com/search?q=Yunus+Kaya) | N/A |
-| 35 | [Müdür Yardımcısı](http://twitter.com/search?q=M%c3%bcd%c3%bcr+Yard%c4%b1mc%c4%b1s%c4%b1) | N/A |
-| 36 | [Beni de Silivri'ye](http://twitter.com/search?q=Beni+de+Silivri%27ye) | N/A |
-| 37 | [Anlatamadın](http://twitter.com/search?q=Anlatamad%c4%b1n) | N/A |
-| 38 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 39 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 40 | [Hatay'da 5](http://twitter.com/search?q=Hatay%27da+5) | N/A |
-| 41 | [ZeydTek PiyasayaDenk](http://twitter.com/search?q=ZeydTek+PiyasayaDenk) | N/A |
-| 42 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
-| 43 | [Gamze](http://twitter.com/search?q=Gamze) | N/A |
-| 44 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
-| 45 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
-| 46 | [Bozdağ](http://twitter.com/search?q=Bozda%c4%9f) | N/A |
-| 47 | [Mert](http://twitter.com/search?q=Mert) | Mert is a Turkish name derived from the Arabic word for “blessed”. It is also used as a surname in some parts of the world. In English, it can be translated to mean “blessed” or “fortunate”. |
-| 48 | [Kuyumcuya](http://twitter.com/search?q=Kuyumcuya) | N/A |
-| 49 | [ManU](http://twitter.com/search?q=ManU) | N/A |
-| 50 | [Elif](http://twitter.com/search?q=Elif) | N/A |
+| 27 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 28 | [Larsen](http://twitter.com/search?q=Larsen) | Larsen is a Scandinavian surname derived from the given name Lars, which is a form of the Latin name Laurentius. It is most commonly found in Norway, Denmark, and Sweden. The English meaning of Larsen is "son of Lars". |
+| 29 | [Ivan Bebek](http://twitter.com/search?q=Ivan+Bebek) | N/A |
+| 30 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
+| 31 | [Abdülkadir](http://twitter.com/search?q=Abd%c3%bclkadir) | N/A |
+| 32 | [Siopis](http://twitter.com/search?q=Siopis) | N/A |
+| 33 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 34 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 35 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | Penaltı is a term used in soccer (football) to refer to a penalty kick. It is a kick taken from the penalty spot by a player of the team that has been fouled, and it is usually taken with the aim of scoring a goal. In English, it is simply referred to as a "penalty kick". |
+| 36 | [Trezege](http://twitter.com/search?q=Trezege) | N/A |
+| 37 | [ManU](http://twitter.com/search?q=ManU) | N/A |
+| 38 | [Defne Belediye Başkanı](http://twitter.com/search?q=Defne+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
+| 39 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 40 | [Mehmet Akif](http://twitter.com/search?q=Mehmet+Akif) | N/A |
+| 41 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 42 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 43 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 44 | [Peres](http://twitter.com/search?q=Peres) | N/A |
+| 45 | [İsviçre](http://twitter.com/search?q=%c4%b0svi%c3%a7re) | N/A |
+| 46 | [Maçı](http://twitter.com/search?q=Ma%c3%a7%c4%b1) | N/A |
+| 47 | [Gofrik](http://twitter.com/search?q=Gofrik) | N/A |
+| 48 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
+| 49 | [Şampiyonlar](http://twitter.com/search?q=%c5%9eampiyonlar) | N/A |
+| 50 | [Avrupa'da](http://twitter.com/search?q=Avrupa%27da) | N/A |
 
 
 

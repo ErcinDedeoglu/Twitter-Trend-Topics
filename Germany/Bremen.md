@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-23 21:15:46 UTC`
+📆 Last Updated: `2023-02-23 22:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 2 | [#fcuaja](http://twitter.com/search?q=%23fcuaja) | N/A |
-| 3 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
-| 4 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 5 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 6 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 7 | [Pelz](http://twitter.com/search?q=Pelz) | N/A |
-| 8 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 9 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 10 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 11 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 12 | [Elfmeterschießen](http://twitter.com/search?q=Elfmeterschie%c3%9fen) | N/A |
-| 13 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 14 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 15 | [Cassy](http://twitter.com/search?q=Cassy) | N/A |
-| 16 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 17 | [Zozan](http://twitter.com/search?q=Zozan) | N/A |
-| 18 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 19 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 20 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 21 | [Tracy](http://twitter.com/search?q=Tracy) | N/A |
-| 22 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 23 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 24 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 25 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
-| 26 | [Nübel](http://twitter.com/search?q=N%c3%bcbel) | N/A |
-| 27 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
-| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 29 | [Lamm](http://twitter.com/search?q=Lamm) | N/A |
-| 30 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
-| 31 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 32 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 33 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
-| 34 | [Freitod](http://twitter.com/search?q=Freitod) | N/A |
-| 35 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 36 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
-| 37 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
-| 38 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 39 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
-| 40 | [Henning](http://twitter.com/search?q=Henning) | N/A |
-| 41 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
-| 42 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
-| 43 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 44 | [Lieblings Fußball Teams](http://twitter.com/search?q=Lieblings+Fu%c3%9fball+Teams) | N/A |
-| 45 | [Kandidatinnen](http://twitter.com/search?q=Kandidatinnen) | N/A |
-| 46 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
-| 47 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 48 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 3 | [#lenssen](http://twitter.com/search?q=%23lenssen) | N/A |
+| 4 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 5 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 6 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 7 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 8 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 9 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 10 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 11 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 12 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 13 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 14 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 16 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 17 | [Pelz](http://twitter.com/search?q=Pelz) | N/A |
+| 18 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 19 | [Elfmeterschießen](http://twitter.com/search?q=Elfmeterschie%c3%9fen) | N/A |
+| 20 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 21 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
+| 22 | [Models](http://twitter.com/search?q=Models) | N/A |
+| 23 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 24 | [Henning](http://twitter.com/search?q=Henning) | N/A |
+| 25 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 26 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 27 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 28 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
+| 29 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 30 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
+| 31 | [Edeka](http://twitter.com/search?q=Edeka) | N/A |
+| 32 | [Vollkommen](http://twitter.com/search?q=Vollkommen) | N/A |
+| 33 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
+| 34 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 35 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
+| 36 | [#StateOfPlay](http://twitter.com/search?q=%23StateOfPlay) | N/A |
+| 37 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
+| 38 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
+| 39 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 40 | [#ubeajx](http://twitter.com/search?q=%23ubeajx) | N/A |
+| 41 | [#ASMB04](http://twitter.com/search?q=%23ASMB04) | N/A |
+| 42 | [#MONLEV](http://twitter.com/search?q=%23MONLEV) | N/A |
+| 43 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 44 | [#sonsoftheforest](http://twitter.com/search?q=%23sonsoftheforest) | N/A |
+| 45 | [#hartesdeutschland](http://twitter.com/search?q=%23hartesdeutschland) | N/A |
+| 46 | [#GronkhTV](http://twitter.com/search?q=%23GronkhTV) | N/A |
+| 47 | [#UkraineWillWin](http://twitter.com/search?q=%23UkraineWillWin) | N/A |
+| 48 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
 
 
 

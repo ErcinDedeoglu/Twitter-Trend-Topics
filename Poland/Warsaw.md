@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-23 21:15:43 UTC`
+📆 Last Updated: `2023-02-23 22:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 2 | [#LPOBOD](http://twitter.com/search?q=%23LPOBOD) | N/A |
-| 3 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 4 | [Depresją](http://twitter.com/search?q=Depresj%c4%85) | N/A |
-| 5 | [#CelaPlus](http://twitter.com/search?q=%23CelaPlus) | N/A |
-| 6 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 7 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
-| 8 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 9 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
-| 10 | [Barcy](http://twitter.com/search?q=Barcy) | N/A |
-| 11 | [Mia Khalifa](http://twitter.com/search?q=Mia+Khalifa) | N/A |
-| 12 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 13 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 14 | [#LCHBOD](http://twitter.com/search?q=%23LCHBOD) | N/A |
-| 15 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
-| 16 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
-| 17 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 18 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 19 | [Robert Lewandowski](http://twitter.com/search?q=Robert+Lewandowski) | N/A |
-| 20 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
-| 21 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 22 | [Klich](http://twitter.com/search?q=Klich) | Klich is a Yiddish word that means gossip or rumor. It is often used to describe idle chatter or gossiping about someone or something. |
-| 23 | [Ogólnopolski Dzień Walki](http://twitter.com/search?q=Og%c3%b3lnopolski+Dzie%c5%84+Walki) | N/A |
-| 24 | [Kaczyński](http://twitter.com/search?q=Kaczy%c5%84ski) | N/A |
-| 25 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
-| 26 | [Barcelony](http://twitter.com/search?q=Barcelony) | N/A |
-| 27 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 28 | [Donald Tusk](http://twitter.com/search?q=Donald+Tusk) | N/A |
-| 29 | [Skóraś](http://twitter.com/search?q=Sk%c3%b3ra%c5%9b) | N/A |
-| 30 | [Borsuka](http://twitter.com/search?q=Borsuka) | N/A |
-| 31 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
-| 32 | [Tuskiem](http://twitter.com/search?q=Tuskiem) | N/A |
-| 33 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 34 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 35 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 36 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
-| 37 | [DROP AN EMOJI](http://twitter.com/search?q=DROP+AN+EMOJI) | N/A |
-| 38 | [Siemoniak](http://twitter.com/search?q=Siemoniak) | N/A |
-| 39 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 40 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
-| 41 | [OBWE](http://twitter.com/search?q=OBWE) | N/A |
-| 42 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 43 | [marsylii](http://twitter.com/search?q=marsylii) | N/A |
-| 44 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 45 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 46 | [Żabson](http://twitter.com/search?q=%c5%bbabson) | N/A |
-| 47 | [Kraba](http://twitter.com/search?q=Kraba) | N/A |
-| 48 | [FA-50](http://twitter.com/search?q=FA-50) | N/A |
-| 49 | [Katharina Althaus](http://twitter.com/search?q=Katharina+Althaus) | N/A |
-| 50 | [Planicy](http://twitter.com/search?q=Planicy) | N/A |
+| 1 | [#LPOBOD](http://twitter.com/search?q=%23LPOBOD) | N/A |
+| 2 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 3 | [Brawo Lech](http://twitter.com/search?q=Brawo+Lech) | N/A |
+| 4 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 5 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 6 | [#LCHBOD](http://twitter.com/search?q=%23LCHBOD) | N/A |
+| 7 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 8 | [Depresją](http://twitter.com/search?q=Depresj%c4%85) | N/A |
+| 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 10 | [#wtylewizji](http://twitter.com/search?q=%23wtylewizji) | N/A |
+| 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 12 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 13 | [Bidenem](http://twitter.com/search?q=Bidenem) | N/A |
+| 14 | [Cela](http://twitter.com/search?q=Cela) | N/A |
+| 15 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 16 | [Brawo Kolejorz](http://twitter.com/search?q=Brawo+Kolejorz) | N/A |
+| 17 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 18 | [Ba Loua](http://twitter.com/search?q=Ba+Loua) | N/A |
+| 19 | [Lewego](http://twitter.com/search?q=Lewego) | N/A |
+| 20 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 21 | [Mia Khalifa](http://twitter.com/search?q=Mia+Khalifa) | N/A |
+| 22 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
+| 23 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 24 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 25 | [Pedriego](http://twitter.com/search?q=Pedriego) | N/A |
+| 26 | [Sousa](http://twitter.com/search?q=Sousa) | N/A |
+| 27 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 28 | [Ligi Konferencji](http://twitter.com/search?q=Ligi+Konferencji) | N/A |
+| 29 | [Ishaka](http://twitter.com/search?q=Ishaka) | N/A |
+| 30 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 31 | [Ogólnopolski Dzień Walki](http://twitter.com/search?q=Og%c3%b3lnopolski+Dzie%c5%84+Walki) | N/A |
+| 32 | [Nitras](http://twitter.com/search?q=Nitras) | N/A |
+| 33 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 34 | [Klich](http://twitter.com/search?q=Klich) | Klich is a Yiddish word that means gossip or rumor. It is often used to describe idle chatter or gossiping about someone or something. |
+| 35 | [Ligi Europy](http://twitter.com/search?q=Ligi+Europy) | N/A |
+| 36 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
+| 37 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 38 | [Slovan](http://twitter.com/search?q=Slovan) | N/A |
+| 39 | [Kaczyński](http://twitter.com/search?q=Kaczy%c5%84ski) | N/A |
+| 40 | [TELL US ABOUT YOURSELF](http://twitter.com/search?q=TELL+US+ABOUT+YOURSELF) | N/A |
+| 41 | [Freda](http://twitter.com/search?q=Freda) | N/A |
+| 42 | [Borsuka](http://twitter.com/search?q=Borsuka) | N/A |
+| 43 | [Donald Tusk](http://twitter.com/search?q=Donald+Tusk) | N/A |
+| 44 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 45 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 46 | [DROP AN EMOJI](http://twitter.com/search?q=DROP+AN+EMOJI) | N/A |
+| 47 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 48 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
+| 49 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 50 | [I'LL SEND YOU THE QUESTIONS](http://twitter.com/search?q=I%27LL+SEND+YOU+THE+QUESTIONS) | N/A |
 
 
 

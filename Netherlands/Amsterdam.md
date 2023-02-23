@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Amsterdam
 
-📆 Last Updated: `2023-02-23 21:15:48 UTC`
+📆 Last Updated: `2023-02-23 22:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Netherlands](</Netherlands>)
 | ------- | ------------ | ------------ |
 | 1 | [#uniaja](http://twitter.com/search?q=%23uniaja) | N/A |
 | 2 | [#ubeaja](http://twitter.com/search?q=%23ubeaja) | N/A |
-| 3 | [#psvsev](http://twitter.com/search?q=%23psvsev) | N/A |
-| 4 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 5 | [#fcuaja](http://twitter.com/search?q=%23fcuaja) | N/A |
-| 6 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 7 | [#mrfrankvisser](http://twitter.com/search?q=%23mrfrankvisser) | N/A |
-| 8 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 9 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 3 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 4 | [#fcuaja](http://twitter.com/search?q=%23fcuaja) | N/A |
+| 5 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 6 | [#psvsev](http://twitter.com/search?q=%23psvsev) | N/A |
+| 7 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 8 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 9 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
 | 10 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
 | 11 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 12 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 13 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 14 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
-| 15 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 16 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
-| 17 | [Simons](http://twitter.com/search?q=Simons) | N/A |
-| 18 | [Pasveer](http://twitter.com/search?q=Pasveer) | N/A |
-| 19 | [Leeuwarden](http://twitter.com/search?q=Leeuwarden) | N/A |
-| 20 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
-| 21 | [Buma](http://twitter.com/search?q=Buma) | N/A |
-| 22 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 23 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 24 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 25 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 26 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 27 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 28 | [Kerkrade](http://twitter.com/search?q=Kerkrade) | N/A |
-| 29 | [Schokkend](http://twitter.com/search?q=Schokkend) | N/A |
-| 30 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 31 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 32 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 33 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
-| 34 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 35 | [Caroline van der Plas](http://twitter.com/search?q=Caroline+van+der+Plas) | N/A |
-| 36 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
-| 37 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 38 | [AIVD](http://twitter.com/search?q=AIVD) | N/A |
-| 39 | [Berlijn](http://twitter.com/search?q=Berlijn) | N/A |
-| 40 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 41 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 42 | [Jupiter](http://twitter.com/search?q=Jupiter) | N/A |
-| 43 | [Rensch](http://twitter.com/search?q=Rensch) | Rensch is a German surname derived from the Old Germanic personal name Raginhilt, which means “counsel power”. In English, it can be translated to mean “wise counsel” or “strong advice”. |
-| 44 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 45 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 46 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
-| 47 | [Eindhoven](http://twitter.com/search?q=Eindhoven) | N/A |
-| 48 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 49 | [Spanje](http://twitter.com/search?q=Spanje) | N/A |
-| 50 | [Mwene](http://twitter.com/search?q=Mwene) | N/A |
+| 12 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 13 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 14 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 15 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 16 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 17 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 18 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 19 | [Doekhi](http://twitter.com/search?q=Doekhi) | N/A |
+| 20 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 21 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 22 | [Berlijn](http://twitter.com/search?q=Berlijn) | N/A |
+| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 24 | [Cambuur](http://twitter.com/search?q=Cambuur) | N/A |
+| 25 | [Europees](http://twitter.com/search?q=Europees) | N/A |
+| 26 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 27 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 28 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 29 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
+| 30 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
+| 31 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 32 | [Leeuwarden](http://twitter.com/search?q=Leeuwarden) | N/A |
+| 33 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 34 | [Buma](http://twitter.com/search?q=Buma) | N/A |
+| 35 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 36 | [Wijndal](http://twitter.com/search?q=Wijndal) | N/A |
+| 37 | [Ruud](http://twitter.com/search?q=Ruud) | Ruud is a Dutch name derived from the Germanic name Rudolf, which means "fame-wolf". It is also a common surname in the Netherlands. |
+| 38 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 39 | [Spaanse](http://twitter.com/search?q=Spaanse) | N/A |
+| 40 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
+| 41 | [Mauro](http://twitter.com/search?q=Mauro) | N/A |
+| 42 | [Spanje](http://twitter.com/search?q=Spanje) | N/A |
+| 43 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 44 | [#mrfrankvisserdoetuitspraak](http://twitter.com/search?q=%23mrfrankvisserdoetuitspraak) | N/A |
+| 45 | [#IkVertrek](http://twitter.com/search?q=%23IkVertrek) | N/A |
+| 46 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 47 | [#meesterfrankvisser](http://twitter.com/search?q=%23meesterfrankvisser) | N/A |
+| 48 | [#stikstofdebat](http://twitter.com/search?q=%23stikstofdebat) | N/A |
+| 49 | [#floortjegaatmee](http://twitter.com/search?q=%23floortjegaatmee) | N/A |
+| 50 | [#LongCovid](http://twitter.com/search?q=%23LongCovid) | N/A |
 
 
 

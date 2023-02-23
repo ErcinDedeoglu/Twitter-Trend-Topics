@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-23 21:16:20 UTC`
+📆 Last Updated: `2023-02-23 22:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Austria
 | ------- | ------------ | ------------ |
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 2 | [#AmSchauplatz](http://twitter.com/search?q=%23AmSchauplatz) | N/A |
-| 3 | [#ROMSAL](http://twitter.com/search?q=%23ROMSAL) | N/A |
-| 4 | [#w2302](http://twitter.com/search?q=%23w2302) | N/A |
+| 3 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 4 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
 | 5 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
-| 6 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 7 | [Stoffwindeln](http://twitter.com/search?q=Stoffwindeln) | N/A |
-| 8 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 9 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
-| 10 | [Clemens Arvay](http://twitter.com/search?q=Clemens+Arvay) | N/A |
-| 11 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 6 | [#ROMSAL](http://twitter.com/search?q=%23ROMSAL) | N/A |
+| 7 | [#w2302](http://twitter.com/search?q=%23w2302) | N/A |
+| 8 | [Stoffwindeln](http://twitter.com/search?q=Stoffwindeln) | N/A |
+| 9 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 10 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
+| 11 | [Clemens Arvay](http://twitter.com/search?q=Clemens+Arvay) | N/A |
 | 12 | [Liebe Ingrid](http://twitter.com/search?q=Liebe+Ingrid) | N/A |
-| 13 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
-| 14 | [Ebenen](http://twitter.com/search?q=Ebenen) | N/A |
-| 15 | [Van der Bellen](http://twitter.com/search?q=Van+der+Bellen) | N/A |
-| 16 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 17 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 18 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 19 | [Minister](http://twitter.com/search?q=Minister) | N/A |
-| 20 | [Volksverräter](http://twitter.com/search?q=Volksverr%c3%a4ter) | N/A |
-| 21 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
-| 22 | [Kulturszene](http://twitter.com/search?q=Kulturszene) | N/A |
-| 23 | [Sparpläne](http://twitter.com/search?q=Sparpl%c3%a4ne) | N/A |
-| 24 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
-| 25 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 26 | [Schwanz](http://twitter.com/search?q=Schwanz) | N/A |
-| 27 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 28 | [Bildungsauftrag](http://twitter.com/search?q=Bildungsauftrag) | N/A |
-| 29 | [Material](http://twitter.com/search?q=Material) | N/A |
-| 30 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
-| 31 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
-| 32 | [Teuerung](http://twitter.com/search?q=Teuerung) | N/A |
-| 33 | [StGB](http://twitter.com/search?q=StGB) | N/A |
-| 34 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
-| 35 | [Gefährdung](http://twitter.com/search?q=Gef%c3%a4hrdung) | N/A |
-| 36 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 37 | [Zufall](http://twitter.com/search?q=Zufall) | N/A |
-| 38 | [Unfälle](http://twitter.com/search?q=Unf%c3%a4lle) | N/A |
-| 39 | [Fasten](http://twitter.com/search?q=Fasten) | N/A |
+| 13 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 14 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
+| 15 | [Ebenen](http://twitter.com/search?q=Ebenen) | N/A |
+| 16 | [Minister](http://twitter.com/search?q=Minister) | N/A |
+| 17 | [Van der Bellen](http://twitter.com/search?q=Van+der+Bellen) | N/A |
+| 18 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 19 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 20 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 21 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 22 | [Volksverräter](http://twitter.com/search?q=Volksverr%c3%a4ter) | N/A |
+| 23 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
+| 24 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
+| 25 | [Kulturszene](http://twitter.com/search?q=Kulturszene) | N/A |
+| 26 | [Sparpläne](http://twitter.com/search?q=Sparpl%c3%a4ne) | N/A |
+| 27 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
+| 28 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 29 | [Schwanz](http://twitter.com/search?q=Schwanz) | N/A |
+| 30 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 31 | [Material](http://twitter.com/search?q=Material) | N/A |
+| 32 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
+| 33 | [Orchester](http://twitter.com/search?q=Orchester) | N/A |
+| 34 | [Bildungsauftrag](http://twitter.com/search?q=Bildungsauftrag) | N/A |
+| 35 | [Teuerung](http://twitter.com/search?q=Teuerung) | N/A |
+| 36 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
+| 37 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 38 | [Telegram](http://twitter.com/search?q=Telegram) | N/A |
+| 39 | [StGB](http://twitter.com/search?q=StGB) | N/A |
 | 40 | [Kuchen](http://twitter.com/search?q=Kuchen) | N/A |
-| 41 | [Protestform](http://twitter.com/search?q=Protestform) | N/A |
-| 42 | [Rand](http://twitter.com/search?q=Rand) | N/A |
-| 43 | [Palästinenser](http://twitter.com/search?q=Pal%c3%a4stinenser) | N/A |
-| 44 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
-| 45 | [Rätsel](http://twitter.com/search?q=R%c3%a4tsel) | N/A |
-| 46 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 47 | [Orchester](http://twitter.com/search?q=Orchester) | N/A |
-| 48 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 49 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
-| 50 | [Physik](http://twitter.com/search?q=Physik) | N/A |
+| 41 | [Gefährdung](http://twitter.com/search?q=Gef%c3%a4hrdung) | N/A |
+| 42 | [Kommentare](http://twitter.com/search?q=Kommentare) | N/A |
+| 43 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 44 | [Unfälle](http://twitter.com/search?q=Unf%c3%a4lle) | N/A |
+| 45 | [Protestform](http://twitter.com/search?q=Protestform) | N/A |
+| 46 | [Rand](http://twitter.com/search?q=Rand) | N/A |
+| 47 | [Palästinenser](http://twitter.com/search?q=Pal%c3%a4stinenser) | N/A |
+| 48 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 49 | [Rätsel](http://twitter.com/search?q=R%c3%a4tsel) | N/A |
+| 50 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 
 
 

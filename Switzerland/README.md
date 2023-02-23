@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-23 21:16:27 UTC`
+📆 Last Updated: `2023-02-23 22:16:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 3 | [#NantesJuventus](http://twitter.com/search?q=%23NantesJuventus) | N/A |
-| 4 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 5 | [#PSS2023](http://twitter.com/search?q=%23PSS2023) | N/A |
-| 6 | [Sitz](http://twitter.com/search?q=Sitz) | N/A |
-| 7 | [Isabel Garcia](http://twitter.com/search?q=Isabel+Garcia) | N/A |
-| 8 | [#patientsafety](http://twitter.com/search?q=%23patientsafety) | N/A |
-| 9 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 10 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
-| 11 | [Strom](http://twitter.com/search?q=Strom) | N/A |
-| 12 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
-| 13 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
-| 14 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
-| 15 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 16 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 17 | [Programm](http://twitter.com/search?q=Programm) | N/A |
-| 18 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 19 | [Mullahs](http://twitter.com/search?q=Mullahs) | N/A |
-| 20 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 21 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 22 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 23 | [iPad](http://twitter.com/search?q=iPad) | N/A |
-| 24 | [Verlust](http://twitter.com/search?q=Verlust) | N/A |
-| 25 | [Évidemment](http://twitter.com/search?q=%c3%89videmment) | N/A |
-| 26 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 27 | [Isch](http://twitter.com/search?q=Isch) | N/A |
-| 28 | [Krebs](http://twitter.com/search?q=Krebs) | N/A |
-| 29 | [Justement](http://twitter.com/search?q=Justement) | N/A |
-| 30 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 31 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 32 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 33 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 34 | [Anna](http://twitter.com/search?q=Anna) | N/A |
-| 35 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 36 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
-| 37 | [Recherche](http://twitter.com/search?q=Recherche) | N/A |
-| 38 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 40 | [Katze](http://twitter.com/search?q=Katze) | N/A |
-| 41 | [Vorwurf](http://twitter.com/search?q=Vorwurf) | N/A |
-| 42 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
-| 43 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 44 | [Armut](http://twitter.com/search?q=Armut) | N/A |
-| 45 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
-| 46 | [Kosovo](http://twitter.com/search?q=Kosovo) | N/A |
-| 47 | [Desinformation](http://twitter.com/search?q=Desinformation) | N/A |
-| 48 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
-| 49 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 50 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
+| 2 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 3 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 4 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 5 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 6 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 8 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 9 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 10 | [#NantesJuventus](http://twitter.com/search?q=%23NantesJuventus) | N/A |
+| 11 | [Sitz](http://twitter.com/search?q=Sitz) | N/A |
+| 12 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 13 | [Isabel Garcia](http://twitter.com/search?q=Isabel+Garcia) | N/A |
+| 14 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 15 | [Kontakt](http://twitter.com/search?q=Kontakt) | N/A |
+| 16 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 17 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
+| 18 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 19 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
+| 20 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 21 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 23 | [Programm](http://twitter.com/search?q=Programm) | N/A |
+| 24 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 25 | [Mullahs](http://twitter.com/search?q=Mullahs) | N/A |
+| 26 | [Government](http://twitter.com/search?q=Government) | N/A |
+| 27 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 28 | [iPad](http://twitter.com/search?q=iPad) | N/A |
+| 29 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 30 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 31 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 32 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 33 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
+| 34 | [Isch](http://twitter.com/search?q=Isch) | N/A |
+| 35 | [Justement](http://twitter.com/search?q=Justement) | N/A |
+| 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 37 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 38 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 39 | [Anna](http://twitter.com/search?q=Anna) | N/A |
+| 40 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
+| 41 | [Recherche](http://twitter.com/search?q=Recherche) | N/A |
+| 42 | [Unglaublich](http://twitter.com/search?q=Unglaublich) | N/A |
+| 43 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 44 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 46 | [Katze](http://twitter.com/search?q=Katze) | N/A |
+| 47 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
+| 48 | [Vorwurf](http://twitter.com/search?q=Vorwurf) | N/A |
+| 49 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
+| 50 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
 
 
 
