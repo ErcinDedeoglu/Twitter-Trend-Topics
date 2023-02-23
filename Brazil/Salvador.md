@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-02-23 19:16:12 UTC`
+📆 Last Updated: `2023-02-23 20:18:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Muquiranas](http://twitter.com/search?q=Muquiranas) | N/A |
-| 2 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
-| 3 | [Jacaré](http://twitter.com/search?q=Jacar%c3%a9) | Jacaré is a Portuguese word meaning "alligator". It is also used as a nickname for people who are strong and powerful. |
+| 1 | [Santoro](http://twitter.com/search?q=Santoro) | N/A |
+| 2 | [Jacaré](http://twitter.com/search?q=Jacar%c3%a9) | Jacaré is a Portuguese word meaning "alligator". It is also used as a nickname for people who are strong and powerful. |
+| 3 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
 | 4 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 5 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 5 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
 | 6 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
 | 7 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 8 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 8 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
 | 9 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
-| 10 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 11 | [Loma](http://twitter.com/search?q=Loma) | N/A |
-| 12 | [pope](http://twitter.com/search?q=pope) | N/A |
-| 13 | [As Branquelas](http://twitter.com/search?q=As+Branquelas) | N/A |
-| 14 | [Zambelli](http://twitter.com/search?q=Zambelli) | N/A |
-| 15 | [Todes](http://twitter.com/search?q=Todes) | N/A |
-| 16 | [Ratinho](http://twitter.com/search?q=Ratinho) | N/A |
-| 17 | [Sorocaba](http://twitter.com/search?q=Sorocaba) | N/A |
-| 18 | [#EuropaLeagueNaESPN](http://twitter.com/search?q=%23EuropaLeagueNaESPN) | N/A |
-| 19 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 20 | [Daniel Jr](http://twitter.com/search?q=Daniel+Jr) | N/A |
-| 21 | [Elize Matsunaga](http://twitter.com/search?q=Elize+Matsunaga) | N/A |
-| 22 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 23 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 24 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 25 | [jhon b](http://twitter.com/search?q=jhon+b) | N/A |
+| 10 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 11 | [As Branquelas](http://twitter.com/search?q=As+Branquelas) | N/A |
+| 12 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 13 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 14 | [pope](http://twitter.com/search?q=pope) | N/A |
+| 15 | [Loma](http://twitter.com/search?q=Loma) | N/A |
+| 16 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 17 | [#EuropaLeagueNaESPN](http://twitter.com/search?q=%23EuropaLeagueNaESPN) | N/A |
+| 18 | [Rafael Cabral](http://twitter.com/search?q=Rafael+Cabral) | Rafael Cabral is a Brazilian name. It is derived from the Hebrew name Rafael, which means "God has healed," and the Latin word cabral, which means "goat." |
+| 19 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 20 | [Ratinho](http://twitter.com/search?q=Ratinho) | N/A |
+| 21 | [Zambelli](http://twitter.com/search?q=Zambelli) | N/A |
+| 22 | [Steven Yeun](http://twitter.com/search?q=Steven+Yeun) | N/A |
+| 23 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 24 | [TV Cultura](http://twitter.com/search?q=TV+Cultura) | N/A |
+| 25 | [Todes](http://twitter.com/search?q=Todes) | N/A |
 | 26 | [big john](http://twitter.com/search?q=big+john) | N/A |
-| 27 | [cleo](http://twitter.com/search?q=cleo) | N/A |
-| 28 | [sarah cameron](http://twitter.com/search?q=sarah+cameron) | N/A |
-| 29 | [Lift Me Up](http://twitter.com/search?q=Lift+Me+Up) | N/A |
-| 30 | [Naka](http://twitter.com/search?q=Naka) | N/A |
-| 31 | [Dona Maria](http://twitter.com/search?q=Dona+Maria) | N/A |
-| 32 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 33 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
-| 34 | [#ChocolateComPimenta](http://twitter.com/search?q=%23ChocolateComPimenta) | N/A |
-| 35 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 36 | [Andreas Pereira](http://twitter.com/search?q=Andreas+Pereira) | Andreas Pereira is a Portuguese-Brazilian professional footballer who plays as a midfielder for Manchester United in the English Premier League. His name is derived from the combination of his Portuguese father's first name, Andreas, and his Brazilian mother's maiden name, Pereira. |
-| 37 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
-| 38 | [#TheRevelationOfElijah](http://twitter.com/search?q=%23TheRevelationOfElijah) | N/A |
-| 39 | [Ste Viegas](http://twitter.com/search?q=Ste+Viegas) | N/A |
-| 40 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 41 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 42 | [Dona Fátima](http://twitter.com/search?q=Dona+F%c3%a1tima) | N/A |
-| 43 | [Arrependido](http://twitter.com/search?q=Arrependido) | N/A |
-| 44 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 45 | [Endrick](http://twitter.com/search?q=Endrick) | Endrick is a Scottish name derived from the Gaelic elements 'ean', meaning 'one', and 'dreag', meaning 'flag'. The name is thought to mean 'one flag' or 'one banner'. |
-| 46 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 47 | [Joice](http://twitter.com/search?q=Joice) | N/A |
-| 48 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 49 | [Empress](http://twitter.com/search?q=Empress) | N/A |
-| 50 | [Valve](http://twitter.com/search?q=Valve) | N/A |
+| 27 | [Daniel Junior](http://twitter.com/search?q=Daniel+Junior) | N/A |
+| 28 | [Elize Matsunaga](http://twitter.com/search?q=Elize+Matsunaga) | N/A |
+| 29 | [cleo](http://twitter.com/search?q=cleo) | N/A |
+| 30 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 31 | [Danielzinho](http://twitter.com/search?q=Danielzinho) | N/A |
+| 32 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 33 | [#SessãoDaTarde](http://twitter.com/search?q=%23Sess%c3%a3oDaTarde) | N/A |
+| 34 | [Sorocaba](http://twitter.com/search?q=Sorocaba) | N/A |
+| 35 | [sarah cameron](http://twitter.com/search?q=sarah+cameron) | N/A |
+| 36 | [jhon b](http://twitter.com/search?q=jhon+b) | N/A |
+| 37 | [Caldense](http://twitter.com/search?q=Caldense) | Caldense is a term used to refer to people or things from the Brazilian city of Caldas Novas. It is derived from the name of the city, which literally translates to "New Hot Springs" in English. |
+| 38 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 39 | [Lift Me Up](http://twitter.com/search?q=Lift+Me+Up) | N/A |
+| 40 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 41 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 42 | [Deyverson](http://twitter.com/search?q=Deyverson) | N/A |
+| 43 | [Naka](http://twitter.com/search?q=Naka) | N/A |
+| 44 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 45 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 46 | [hozier](http://twitter.com/search?q=hozier) | N/A |
+| 47 | [Andreas Pereira](http://twitter.com/search?q=Andreas+Pereira) | Andreas Pereira is a Portuguese-Brazilian professional footballer who plays as a midfielder for Manchester United in the English Premier League. His name is derived from the combination of his Portuguese father's first name, Andreas, and his Brazilian mother's maiden name, Pereira. |
+| 48 | [Dona Maria](http://twitter.com/search?q=Dona+Maria) | N/A |
+| 49 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 50 | [#BalançoGeralRJ](http://twitter.com/search?q=%23Balan%c3%a7oGeralRJ) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-23 19:16:15 UTC`
+📆 Last Updated: `2023-02-23 20:18:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,50 +17,50 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
 | 2 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 3 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
-| 4 | [#NANJUV](http://twitter.com/search?q=%23NANJUV) | N/A |
-| 5 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
-| 6 | [#ASMB04](http://twitter.com/search?q=%23ASMB04) | N/A |
-| 7 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
-| 8 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
-| 9 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
-| 10 | [Ludovic Blas](http://twitter.com/search?q=Ludovic+Blas) | N/A |
-| 11 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 12 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
-| 13 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
-| 14 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
-| 15 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
-| 16 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 17 | [Kean](http://twitter.com/search?q=Kean) | N/A |
-| 18 | [Delort](http://twitter.com/search?q=Delort) | N/A |
-| 19 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
-| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 21 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
-| 22 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 23 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
-| 24 | [RMC Sport](http://twitter.com/search?q=RMC+Sport) | N/A |
-| 25 | [Simon](http://twitter.com/search?q=Simon) | N/A |
-| 26 | [Signe Astro](http://twitter.com/search?q=Signe+Astro) | N/A |
-| 27 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 28 | [Roazhon Park](http://twitter.com/search?q=Roazhon+Park) | N/A |
-| 29 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
-| 30 | [La Commission](http://twitter.com/search?q=La+Commission) | N/A |
-| 31 | [Paris 8](http://twitter.com/search?q=Paris+8) | N/A |
-| 32 | [Valence](http://twitter.com/search?q=Valence) | N/A |
-| 33 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
-| 34 | [Snowfall](http://twitter.com/search?q=Snowfall) | N/A |
-| 35 | [Rachid M'Barki](http://twitter.com/search?q=Rachid+M%27Barki) | N/A |
-| 36 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 37 | [Bardella](http://twitter.com/search?q=Bardella) | N/A |
-| 38 | [Alba](http://twitter.com/search?q=Alba) | Alba is a Spanish and Italian word meaning "dawn" or "sunrise". It is also used as a female given name. |
-| 39 | [Agnès Lassalle](http://twitter.com/search?q=Agn%c3%a8s+Lassalle) | N/A |
-| 40 | [Légion](http://twitter.com/search?q=L%c3%a9gion) | N/A |
-| 41 | [Goldorak](http://twitter.com/search?q=Goldorak) | N/A |
-| 42 | [Griezmann](http://twitter.com/search?q=Griezmann) | Griezmann is the surname of French professional footballer Antoine Griezmann. It is not an English word and does not have a meaning in English. |
-| 43 | [Kevin Bossuet](http://twitter.com/search?q=Kevin+Bossuet) | N/A |
-| 44 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 45 | [Animal Crossing](http://twitter.com/search?q=Animal+Crossing) | N/A |
-| 46 | [Afrique du Nord](http://twitter.com/search?q=Afrique+du+Nord) | N/A |
+| 3 | [#NANJUV](http://twitter.com/search?q=%23NANJUV) | N/A |
+| 4 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
+| 5 | [#ASMB04](http://twitter.com/search?q=%23ASMB04) | N/A |
+| 6 | [#KCWIN](http://twitter.com/search?q=%23KCWIN) | N/A |
+| 7 | [Raymond](http://twitter.com/search?q=Raymond) | N/A |
+| 8 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
+| 9 | [Lafont](http://twitter.com/search?q=Lafont) | N/A |
+| 10 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 11 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 12 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 13 | [Nantais](http://twitter.com/search?q=Nantais) | N/A |
+| 14 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
+| 15 | [L'arbitre](http://twitter.com/search?q=L%27arbitre) | N/A |
+| 16 | [Penalty](http://twitter.com/search?q=Penalty) | N/A |
+| 17 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 18 | [Allez Rennes](http://twitter.com/search?q=Allez+Rennes) | N/A |
+| 19 | [Ludovic Blas](http://twitter.com/search?q=Ludovic+Blas) | N/A |
+| 20 | [Beaujoire](http://twitter.com/search?q=Beaujoire) | N/A |
+| 21 | [Embolo](http://twitter.com/search?q=Embolo) | N/A |
+| 22 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 23 | [Grévin](http://twitter.com/search?q=Gr%c3%a9vin) | N/A |
+| 24 | [Susan](http://twitter.com/search?q=Susan) | N/A |
+| 25 | [Diaby](http://twitter.com/search?q=Diaby) | N/A |
+| 26 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 27 | [Ben Seghir](http://twitter.com/search?q=Ben+Seghir) | Ben Seghir is a town in Morocco located in the region of Tanger-Tetouan-Al Hoceima. The name Ben Seghir translates to "son of the marsh" in English. |
+| 28 | [Fofana](http://twitter.com/search?q=Fofana) | Fofana is a surname of West African origin. It is derived from the Fula language and means "son of the hunter". |
+| 29 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
+| 30 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 31 | [Verdez](http://twitter.com/search?q=Verdez) | Verdez is a French word that means "green". It is used to describe something that is green in color. |
+| 32 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 33 | [Theate](http://twitter.com/search?q=Theate) | N/A |
+| 34 | [Delort](http://twitter.com/search?q=Delort) | N/A |
+| 35 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 36 | [RMC Sport](http://twitter.com/search?q=RMC+Sport) | N/A |
+| 37 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 38 | [Ligue Europa](http://twitter.com/search?q=Ligue+Europa) | N/A |
+| 39 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 40 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 41 | [Roazhon Park](http://twitter.com/search?q=Roazhon+Park) | N/A |
+| 42 | [Eiffel](http://twitter.com/search?q=Eiffel) | N/A |
+| 43 | [Signe Astro](http://twitter.com/search?q=Signe+Astro) | N/A |
+| 44 | [Simon](http://twitter.com/search?q=Simon) | N/A |
+| 45 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 46 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
 
 
 

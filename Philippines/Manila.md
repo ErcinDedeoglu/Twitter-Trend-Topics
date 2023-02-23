@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manila
 
-📆 Last Updated: `2023-02-23 19:16:29 UTC`
+📆 Last Updated: `2023-02-23 20:18:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,46 +17,54 @@ This is top 50 for [Philippines](</Philippines>)
 | ------- | ------------ | ------------ |
 | 1 | [#JoshCullenSoloDebut](http://twitter.com/search?q=%23JoshCullenSoloDebut) | N/A |
 | 2 | [#WildTonight](http://twitter.com/search?q=%23WildTonight) | N/A |
-| 3 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 4 | [#HORI7ONonTAG911Dubai](http://twitter.com/search?q=%23HORI7ONonTAG911Dubai) | N/A |
-| 5 | [Tag Along HORI7ON](http://twitter.com/search?q=Tag+Along+HORI7ON) | N/A |
-| 6 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 7 | [VIVOREE MATAPANG OUT NOW](http://twitter.com/search?q=VIVOREE+MATAPANG+OUT+NOW) | N/A |
-| 8 | [#MCIMgaAralAtPangarap](http://twitter.com/search?q=%23MCIMgaAralAtPangarap) | N/A |
-| 9 | [#TWICE_ConceptPhotoD3](http://twitter.com/search?q=%23TWICE_ConceptPhotoD3) | N/A |
-| 10 | [D-1 Be His Prey](http://twitter.com/search?q=D-1+Be+His+Prey) | N/A |
-| 11 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 12 | [READY TO BE MESMERIZED](http://twitter.com/search?q=READY+TO+BE+MESMERIZED) | N/A |
-| 13 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 3 | [D-1 Be His Prey](http://twitter.com/search?q=D-1+Be+His+Prey) | N/A |
+| 4 | [#MCIMgaAralAtPangarap](http://twitter.com/search?q=%23MCIMgaAralAtPangarap) | N/A |
+| 5 | [#AnInconvenientLoveonNetflix](http://twitter.com/search?q=%23AnInconvenientLoveonNetflix) | N/A |
+| 6 | [#HAPPY7thWITH_ASTRO](http://twitter.com/search?q=%23HAPPY7thWITH_ASTRO) | N/A |
+| 7 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 8 | [WATCH SMCU EP3 NOW](http://twitter.com/search?q=WATCH+SMCU+EP3+NOW) | N/A |
+| 9 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 10 | [Tag Along HORI7ON](http://twitter.com/search?q=Tag+Along+HORI7ON) | N/A |
+| 11 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
+| 12 | [AIL NOW ON NETFLIX](http://twitter.com/search?q=AIL+NOW+ON+NETFLIX) | N/A |
+| 13 | [walang pasok bukas](http://twitter.com/search?q=walang+pasok+bukas) | N/A |
 | 14 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 15 | [PLDT](http://twitter.com/search?q=PLDT) | N/A |
-| 16 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 17 | [NASA BPI NA ANG LAHAT](http://twitter.com/search?q=NASA+BPI+NA+ANG+LAHAT) | N/A |
-| 18 | [suga](http://twitter.com/search?q=suga) | N/A |
-| 19 | [KIM JONGIN](http://twitter.com/search?q=KIM+JONGIN) | N/A |
-| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 21 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 22 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 23 | [TWICExBILLBOARD MAGAZINE](http://twitter.com/search?q=TWICExBILLBOARD+MAGAZINE) | N/A |
-| 24 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
-| 25 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 26 | [PARK JIMIN](http://twitter.com/search?q=PARK+JIMIN) | Park Jimin is the stage name of South Korean singer and dancer Jimin, a member of the K-pop group BTS. The name Park Jimin is derived from his given name, Park Ji-min. |
-| 27 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 28 | [KIM JISOO](http://twitter.com/search?q=KIM+JISOO) | N/A |
-| 29 | [#KAI_Rover](http://twitter.com/search?q=%23KAI_Rover) | N/A |
-| 30 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 31 | [#DanielPadillaBPITVC](http://twitter.com/search?q=%23DanielPadillaBPITVC) | N/A |
-| 32 | [#HeCantKeepGettingAwayWithThis](http://twitter.com/search?q=%23HeCantKeepGettingAwayWithThis) | N/A |
-| 33 | [#ส่งซีนุนิวไปเกาหลี](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7%e0%b9%84%e0%b8%9b%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%b5) | N/A |
-| 34 | [#eaJisEnemyNumber1](http://twitter.com/search?q=%23eaJisEnemyNumber1) | N/A |
-| 35 | [#MoonlightChickenEP6](http://twitter.com/search?q=%23MoonlightChickenEP6) | N/A |
-| 36 | [#OneRepublicInManila](http://twitter.com/search?q=%23OneRepublicInManila) | N/A |
-| 37 | [#TWICEforBBCollectorsZine](http://twitter.com/search?q=%23TWICEforBBCollectorsZine) | N/A |
-| 38 | [#SB19EventGuestingsVlog](http://twitter.com/search?q=%23SB19EventGuestingsVlog) | N/A |
-| 39 | [#HORI7ON_MARCUS](http://twitter.com/search?q=%23HORI7ON_MARCUS) | N/A |
-| 40 | [#OneRepublicAtTheBigDome](http://twitter.com/search?q=%23OneRepublicAtTheBigDome) | N/A |
-| 41 | [#RUNNINGMANinMANILA](http://twitter.com/search?q=%23RUNNINGMANinMANILA) | N/A |
-| 42 | [#JISOOxVogueFrance](http://twitter.com/search?q=%23JISOOxVogueFrance) | N/A |
+| 15 | [EDSA People Power Revolution](http://twitter.com/search?q=EDSA+People+Power+Revolution) | N/A |
+| 16 | [blooming morning with bini](http://twitter.com/search?q=blooming+morning+with+bini) | N/A |
+| 17 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 18 | [beustiful day with bgyo](http://twitter.com/search?q=beustiful+day+with+bgyo) | N/A |
+| 19 | [READY TO BE MESMERIZED](http://twitter.com/search?q=READY+TO+BE+MESMERIZED) | N/A |
+| 20 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
+| 21 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 22 | [MATAPANG NA BUKAS VIVOREE](http://twitter.com/search?q=MATAPANG+NA+BUKAS+VIVOREE) | N/A |
+| 23 | [Morente](http://twitter.com/search?q=Morente) | N/A |
+| 24 | [Choco Mucho](http://twitter.com/search?q=Choco+Mucho) | N/A |
+| 25 | [NASA BPI NA ANG LAHAT](http://twitter.com/search?q=NASA+BPI+NA+ANG+LAHAT) | N/A |
+| 26 | [TWICExBILLBOARD MAGAZINE](http://twitter.com/search?q=TWICExBILLBOARD+MAGAZINE) | N/A |
+| 27 | [happie 9th monthsary eian](http://twitter.com/search?q=happie+9th+monthsary+eian) | N/A |
+| 28 | [ailonnetflix bukas na](http://twitter.com/search?q=ailonnetflix+bukas+na) | N/A |
+| 29 | [Proclamation No. 167](http://twitter.com/search?q=Proclamation+No.+167) | N/A |
+| 30 | [tubino](http://twitter.com/search?q=tubino) | N/A |
+| 31 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 32 | [arocha](http://twitter.com/search?q=arocha) | N/A |
+| 33 | [ready to be charmed](http://twitter.com/search?q=ready+to+be+charmed) | N/A |
+| 34 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 35 | [My EXO](http://twitter.com/search?q=My+EXO) | N/A |
+| 36 | [Petro Gazz](http://twitter.com/search?q=Petro+Gazz) | N/A |
+| 37 | [Arado](http://twitter.com/search?q=Arado) | N/A |
+| 38 | [thang ponce](http://twitter.com/search?q=thang+ponce) | N/A |
+| 39 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 40 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 41 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 42 | [vote enhypen on tta](http://twitter.com/search?q=vote+enhypen+on+tta) | N/A |
+| 43 | [Congrats Ssob](http://twitter.com/search?q=Congrats+Ssob) | N/A |
+| 44 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 45 | [Deanna](http://twitter.com/search?q=Deanna) | N/A |
+| 46 | [Suchwita](http://twitter.com/search?q=Suchwita) | N/A |
+| 47 | [kaia turn up media tour](http://twitter.com/search?q=kaia+turn+up+media+tour) | N/A |
+| 48 | [Mr. Torres](http://twitter.com/search?q=Mr.+Torres) | N/A |
+| 49 | [JIMIN IS COMING](http://twitter.com/search?q=JIMIN+IS+COMING) | "JIMIN IS COMING" is a phrase used to express excitement and anticipation for the arrival of the South Korean singer and dancer Jimin, a member of the K-pop group BTS. |
+| 50 | [EXO IS BACK](http://twitter.com/search?q=EXO+IS+BACK) | N/A |
 
 
 
