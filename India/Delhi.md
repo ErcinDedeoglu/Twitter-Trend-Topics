@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-23 16:16:55 UTC`
+📆 Last Updated: `2023-02-23 17:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SupremeCourt](http://twitter.com/search?q=%23SupremeCourt) | N/A |
-| 2 | [Assam](http://twitter.com/search?q=Assam) | N/A |
-| 3 | [#INDWvsAUSW](http://twitter.com/search?q=%23INDWvsAUSW) | N/A |
-| 4 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
-| 5 | [Harman](http://twitter.com/search?q=Harman) | N/A |
-| 6 | [#AUSvIND](http://twitter.com/search?q=%23AUSvIND) | N/A |
-| 7 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 8 | [Richa](http://twitter.com/search?q=Richa) | N/A |
-| 9 | [#Battista](http://twitter.com/search?q=%23Battista) | N/A |
-| 10 | [Jemimah](http://twitter.com/search?q=Jemimah) | N/A |
+| 1 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 2 | [आम आदमी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80) | N/A |
+| 3 | [Assam](http://twitter.com/search?q=Assam) | N/A |
+| 4 | [#INDWvsAUSW](http://twitter.com/search?q=%23INDWvsAUSW) | N/A |
+| 5 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
+| 6 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
+| 7 | [#AUSvIND](http://twitter.com/search?q=%23AUSvIND) | N/A |
+| 8 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 9 | [#JemimahRodrigues](http://twitter.com/search?q=%23JemimahRodrigues) | N/A |
+| 10 | [Richa](http://twitter.com/search?q=Richa) | N/A |
 | 11 | [Perry](http://twitter.com/search?q=Perry) | N/A |
-| 12 | [LIKE CRAZY](http://twitter.com/search?q=LIKE+CRAZY) | N/A |
-| 13 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 14 | [WATCH PATHAAN IN 110RS](http://twitter.com/search?q=WATCH+PATHAAN+IN+110RS) | N/A |
-| 15 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 16 | [भूपेंद्र सारण](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%a3) | N/A |
-| 17 | [Deepti Sharma](http://twitter.com/search?q=Deepti+Sharma) | N/A |
-| 18 | [OSaathiya Vamana](http://twitter.com/search?q=OSaathiya+Vamana) | N/A |
-| 19 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 20 | [Shubh Nikah Trailer](http://twitter.com/search?q=Shubh+Nikah+Trailer) | N/A |
-| 21 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 22 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 23 | [Beth Mooney](http://twitter.com/search?q=Beth+Mooney) | N/A |
-| 24 | [Sushant Driven By Curiosity](http://twitter.com/search?q=Sushant+Driven+By+Curiosity) | N/A |
-| 25 | [Shafali](http://twitter.com/search?q=Shafali) | N/A |
-| 26 | [Fielding](http://twitter.com/search?q=Fielding) | N/A |
-| 27 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 28 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
-| 29 | [Congratulations Australia](http://twitter.com/search?q=Congratulations+Australia) | N/A |
-| 30 | [Mastercard](http://twitter.com/search?q=Mastercard) | N/A |
-| 31 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
-| 32 | [Healy](http://twitter.com/search?q=Healy) | N/A |
-| 33 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
-| 34 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 35 | [Jay Shah](http://twitter.com/search?q=Jay+Shah) | N/A |
-| 36 | [Sneh Rana](http://twitter.com/search?q=Sneh+Rana) | N/A |
-| 37 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
-| 38 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 39 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
-| 40 | [Shikha Pandey](http://twitter.com/search?q=Shikha+Pandey) | N/A |
-| 41 | [gardner](http://twitter.com/search?q=gardner) | N/A |
-| 42 | [Radha Yadav](http://twitter.com/search?q=Radha+Yadav) | N/A |
-| 43 | [Meg Lanning](http://twitter.com/search?q=Meg+Lanning) | N/A |
-| 44 | [पंजाब सरकार](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 45 | [असम पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 46 | [Imam Hussain](http://twitter.com/search?q=Imam+Hussain) | N/A |
-| 47 | [#UPJalBudgetJalshakti](http://twitter.com/search?q=%23UPJalBudgetJalshakti) | N/A |
-| 48 | [#GautamDasModi](http://twitter.com/search?q=%23GautamDasModi) | N/A |
-| 49 | [#Pawan_Khera](http://twitter.com/search?q=%23Pawan_Khera) | N/A |
-| 50 | [#AjayBanga](http://twitter.com/search?q=%23AjayBanga) | N/A |
+| 12 | [Deepti Sharma](http://twitter.com/search?q=Deepti+Sharma) | N/A |
+| 13 | [WATCH PATHAAN IN 110RS](http://twitter.com/search?q=WATCH+PATHAAN+IN+110RS) | N/A |
+| 14 | [Fielding](http://twitter.com/search?q=Fielding) | N/A |
+| 15 | [भूपेंद्र सारण](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%a3) | N/A |
+| 16 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 17 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 18 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
+| 19 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 20 | [Well Played](http://twitter.com/search?q=Well+Played) | N/A |
+| 21 | [Sushant Driven By Curiosity](http://twitter.com/search?q=Sushant+Driven+By+Curiosity) | N/A |
+| 22 | [Chokers](http://twitter.com/search?q=Chokers) | N/A |
+| 23 | [Smriti](http://twitter.com/search?q=Smriti) | N/A |
+| 24 | [Dhoni](http://twitter.com/search?q=Dhoni) | N/A |
+| 25 | [Renuka](http://twitter.com/search?q=Renuka) | N/A |
+| 26 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
+| 27 | [Jay Shah](http://twitter.com/search?q=Jay+Shah) | N/A |
+| 28 | [WIPL](http://twitter.com/search?q=WIPL) | N/A |
+| 29 | [Shafali](http://twitter.com/search?q=Shafali) | N/A |
+| 30 | [Pdogg](http://twitter.com/search?q=Pdogg) | N/A |
+| 31 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 32 | [Indian Women](http://twitter.com/search?q=Indian+Women) | N/A |
+| 33 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 34 | [Mastercard](http://twitter.com/search?q=Mastercard) | N/A |
+| 35 | [Mooney](http://twitter.com/search?q=Mooney) | N/A |
+| 36 | [सुप्रीम कोर्ट](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae+%e0%a4%95%e0%a5%8b%e0%a4%b0%e0%a5%8d%e0%a4%9f) | सुप्रीम कोर्ट (Supreme Court) is the highest court of India. It is the final court of appeal under the Constitution of India, and has the power to decide constitutional issues. The Supreme Court has original, appellate and advisory jurisdiction. Its decisions are binding on all other courts in India. The Supreme Court's decisions are also considered to be a source of law in many countries around the world. |
+| 37 | [Healy](http://twitter.com/search?q=Healy) | N/A |
+| 38 | [Yoonmin](http://twitter.com/search?q=Yoonmin) | N/A |
+| 39 | [Lazy](http://twitter.com/search?q=Lazy) | N/A |
+| 40 | [Khalistanis](http://twitter.com/search?q=Khalistanis) | N/A |
+| 41 | [Sneh Rana](http://twitter.com/search?q=Sneh+Rana) | N/A |
+| 42 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 43 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 44 | [Lanning](http://twitter.com/search?q=Lanning) | N/A |
+| 45 | [Radha Yadav](http://twitter.com/search?q=Radha+Yadav) | N/A |
+| 46 | [Captain](http://twitter.com/search?q=Captain) | N/A |
+| 47 | [Jiminie](http://twitter.com/search?q=Jiminie) | Jiminie is a nickname for the South Korean singer and dancer Jimin, who is a member of the K-pop group BTS. The name is derived from his given name, Park Jimin. In English, it can be used as an affectionate term for someone named Jimin or as an endearing nickname for someone you care about. |
+| 48 | [#AjayBanga](http://twitter.com/search?q=%23AjayBanga) | N/A |
+| 49 | [#WorldBank](http://twitter.com/search?q=%23WorldBank) | N/A |
+| 50 | [#Battista](http://twitter.com/search?q=%23Battista) | N/A |
 
 
 

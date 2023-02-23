@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lebanon
 
-📆 Last Updated: `2023-02-23 16:17:00 UTC`
+📆 Last Updated: `2023-02-23 17:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Lebanon
 | ------- | ------------ | ------------ |
 | 1 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
 | 2 | [#غاده_عون](http://twitter.com/search?q=%23%d8%ba%d8%a7%d8%af%d9%87_%d8%b9%d9%88%d9%86) | N/A |
-| 3 | [غادة عون](http://twitter.com/search?q=%d8%ba%d8%a7%d8%af%d8%a9+%d8%b9%d9%88%d9%86) | N/A |
-| 4 | [نجيب ميقاتي](http://twitter.com/search?q=%d9%86%d8%ac%d9%8a%d8%a8+%d9%85%d9%8a%d9%82%d8%a7%d8%aa%d9%8a) | N/A |
-| 5 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 6 | [القرض الحسن](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
+| 3 | [#دعاء_كميل](http://twitter.com/search?q=%23%d8%af%d8%b9%d8%a7%d8%a1_%d9%83%d9%85%d9%8a%d9%84) | N/A |
+| 4 | [غادة عون](http://twitter.com/search?q=%d8%ba%d8%a7%d8%af%d8%a9+%d8%b9%d9%88%d9%86) | N/A |
+| 5 | [نجيب ميقاتي](http://twitter.com/search?q=%d9%86%d8%ac%d9%8a%d8%a8+%d9%85%d9%8a%d9%82%d8%a7%d8%aa%d9%8a) | N/A |
+| 6 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
 | 7 | [#القاتل_سمير_جعجع](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%82%d8%a7%d8%aa%d9%84_%d8%b3%d9%85%d9%8a%d8%b1_%d8%ac%d8%b9%d8%ac%d8%b9) | N/A |
-| 8 | [علي رياض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
-| 9 | [نادين نجيم](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a%d9%86+%d9%86%d8%ac%d9%8a%d9%85) | N/A |
-| 10 | [#مايا_بشير_الجميل](http://twitter.com/search?q=%23%d9%85%d8%a7%d9%8a%d8%a7_%d8%a8%d8%b4%d9%8a%d8%b1_%d8%a7%d9%84%d8%ac%d9%85%d9%8a%d9%84) | N/A |
-| 11 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
-| 12 | [النظام المالي اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
+| 8 | [نادين نجيم](http://twitter.com/search?q=%d9%86%d8%a7%d8%af%d9%8a%d9%86+%d9%86%d8%ac%d9%8a%d9%85) | N/A |
+| 9 | [علي رياض](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%b1%d9%8a%d8%a7%d8%b6) | N/A |
+| 10 | [القرض الحسن](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%b6+%d8%a7%d9%84%d8%ad%d8%b3%d9%86) | N/A |
+| 11 | [المناطق اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 12 | [وزير الداخليه](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d9%87) | N/A |
 | 13 | [القضاء الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d8%a1+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 14 | [عامل النظافه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d9%84+%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%81%d9%87) | N/A |
-| 15 | [شربل خليل](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d9%84+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
-| 16 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 17 | [المناجاه الشعبانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ac%d8%a7%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 18 | [قصر العدل](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
-| 19 | [وزير العدل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
-| 20 | [جيهان طوني](http://twitter.com/search?q=%d8%ac%d9%8a%d9%87%d8%a7%d9%86+%d8%b7%d9%88%d9%86%d9%8a) | N/A |
-| 21 | [المكتب الاعلامي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d8%a7%d9%85%d9%8a) | N/A |
+| 14 | [النظام المالي اللبناني](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%85+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a) | N/A |
+| 15 | [عامل النظافه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%85%d9%84+%d8%a7%d9%84%d9%86%d8%b8%d8%a7%d9%81%d9%87) | N/A |
+| 16 | [الصحه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b5%d8%ad%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 17 | [شربل خليل](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d9%84+%d8%ae%d9%84%d9%8a%d9%84) | N/A |
+| 18 | [المملكه العربيه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%85%d9%84%d9%83%d9%87+%d8%a7%d9%84%d8%b9%d8%b1%d8%a8%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 19 | [المناجاه الشعبانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%ac%d8%a7%d9%87+%d8%a7%d9%84%d8%b4%d8%b9%d8%a8%d8%a7%d9%86%d9%8a%d9%87) | N/A |
+| 20 | [وزير العدل](http://twitter.com/search?q=%d9%88%d8%b2%d9%8a%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
+| 21 | [جيهان طوني](http://twitter.com/search?q=%d8%ac%d9%8a%d9%87%d8%a7%d9%86+%d8%b7%d9%88%d9%86%d9%8a) | N/A |
 | 22 | [التسليف الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b3%d9%84%d9%8a%d9%81+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
-| 23 | [المركز الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%83%d8%b2+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 24 | [سهيل عبود](http://twitter.com/search?q=%d8%b3%d9%87%d9%8a%d9%84+%d8%b9%d8%a8%d9%88%d8%af) | N/A |
-| 25 | [٤ اب](http://twitter.com/search?q=%d9%a4+%d8%a7%d8%a8) | N/A |
+| 23 | [سهيل عبود](http://twitter.com/search?q=%d8%b3%d9%87%d9%8a%d9%84+%d8%b9%d8%a8%d9%88%d8%af) | N/A |
+| 24 | [٤ اب](http://twitter.com/search?q=%d9%a4+%d8%a7%d8%a8) | N/A |
+| 25 | [قصر العدل](http://twitter.com/search?q=%d9%82%d8%b5%d8%b1+%d8%a7%d9%84%d8%b9%d8%af%d9%84) | N/A |
 | 26 | [البطريركيه المارونيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b7%d8%b1%d9%8a%d8%b1%d9%83%d9%8a%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d8%b1%d9%88%d9%86%d9%8a%d9%87) | N/A |
-| 27 | [سيده النجاه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d9%87) | N/A |
-| 28 | [رييس الحكومه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
-| 29 | [مار شربل](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d8%b4%d8%b1%d8%a8%d9%84) | N/A |
-| 30 | [السلطه القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
-| 31 | [الضابطه العدليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%a8%d8%b7%d9%87+%d8%a7%d9%84%d8%b9%d8%af%d9%84%d9%8a%d9%87) | N/A |
-| 32 | [جميل السيد](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
-| 33 | [الضفه الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%81%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 27 | [رييس الحكومه](http://twitter.com/search?q=%d8%b1%d9%8a%d9%8a%d8%b3+%d8%a7%d9%84%d8%ad%d9%83%d9%88%d9%85%d9%87) | N/A |
+| 28 | [السلطه القضاييه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d9%82%d8%b6%d8%a7%d9%8a%d9%8a%d9%87) | N/A |
+| 29 | [الضابطه العدليه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d8%a7%d8%a8%d8%b7%d9%87+%d8%a7%d9%84%d8%b9%d8%af%d9%84%d9%8a%d9%87) | N/A |
+| 30 | [جميل السيد](http://twitter.com/search?q=%d8%ac%d9%85%d9%8a%d9%84+%d8%a7%d9%84%d8%b3%d9%8a%d8%af) | N/A |
+| 31 | [الضفه الغربيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b6%d9%81%d9%87+%d8%a7%d9%84%d8%ba%d8%b1%d8%a8%d9%8a%d9%87) | N/A |
+| 32 | [سيده النجاه](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af%d9%87+%d8%a7%d9%84%d9%86%d8%ac%d8%a7%d9%87) | N/A |
+| 33 | [شربل ابو](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d9%84+%d8%a7%d8%a8%d9%88) | N/A |
 | 34 | [22 شباط 2023](http://twitter.com/search?q=22+%d8%b4%d8%a8%d8%a7%d8%b7+2023) | N/A |
-| 35 | [القوي الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
-| 36 | [4 اب](http://twitter.com/search?q=4+%d8%a7%d8%a8) | N/A |
-| 37 | [غير المشروع](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9) | N/A |
-| 38 | [شربل ابو](http://twitter.com/search?q=%d8%b4%d8%b1%d8%a8%d9%84+%d8%a7%d8%a8%d9%88) | N/A |
-| 39 | [السلطه التنفيذيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a%d9%87) | N/A |
-| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 41 | [السفيره الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
-| 42 | [الجهاد الاسلامي](http://twitter.com/search?q=%d8%a7%d9%84%d8%ac%d9%87%d8%a7%d8%af+%d8%a7%d9%84%d8%a7%d8%b3%d9%84%d8%a7%d9%85%d9%8a) | N/A |
-| 43 | [النيابه العامه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
-| 44 | [تفجير المرفا](http://twitter.com/search?q=%d8%aa%d9%81%d8%ac%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b1%d9%81%d8%a7) | N/A |
-| 45 | [المناطق اللبنانيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%86%d8%a7%d8%b7%d9%82+%d8%a7%d9%84%d9%84%d8%a8%d9%86%d8%a7%d9%86%d9%8a%d9%87) | N/A |
-| 46 | [Ghada Aoun](http://twitter.com/search?q=Ghada+Aoun) | N/A |
-| 47 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
-| 48 | [احمد شعيب الرفاعي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b4%d8%b9%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%81%d8%a7%d8%b9%d9%8a) | N/A |
-| 49 | [تبييض الاموال](http://twitter.com/search?q=%d8%aa%d8%a8%d9%8a%d9%8a%d8%b6+%d8%a7%d9%84%d8%a7%d9%85%d9%88%d8%a7%d9%84) | N/A |
-| 50 | [بيان صادر](http://twitter.com/search?q=%d8%a8%d9%8a%d8%a7%d9%86+%d8%b5%d8%a7%d8%af%d8%b1) | N/A |
+| 35 | [4 اب](http://twitter.com/search?q=4+%d8%a7%d8%a8) | N/A |
+| 36 | [غير المشروع](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b4%d8%b1%d9%88%d8%b9) | N/A |
+| 37 | [السلطه التنفيذيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d8%aa%d9%86%d9%81%d9%8a%d8%b0%d9%8a%d9%87) | N/A |
+| 38 | [النيابه العامه الماليه](http://twitter.com/search?q=%d8%a7%d9%84%d9%86%d9%8a%d8%a7%d8%a8%d9%87+%d8%a7%d9%84%d8%b9%d8%a7%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%a7%d9%84%d9%8a%d9%87) | N/A |
+| 39 | [السفيره الاميركيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%81%d9%8a%d8%b1%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%8a%d8%b1%d9%83%d9%8a%d9%87) | N/A |
+| 40 | [تفجير المرفا](http://twitter.com/search?q=%d8%aa%d9%81%d8%ac%d9%8a%d8%b1+%d8%a7%d9%84%d9%85%d8%b1%d9%81%d8%a7) | N/A |
+| 41 | [الشيخ الرفاعي](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%ae+%d8%a7%d9%84%d8%b1%d9%81%d8%a7%d8%b9%d9%8a) | N/A |
+| 42 | [احمد شعيب الرفاعي](http://twitter.com/search?q=%d8%a7%d8%ad%d9%85%d8%af+%d8%b4%d8%b9%d9%8a%d8%a8+%d8%a7%d9%84%d8%b1%d9%81%d8%a7%d8%b9%d9%8a) | N/A |
+| 43 | [القوي الامنيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%88%d9%8a+%d8%a7%d9%84%d8%a7%d9%85%d9%86%d9%8a%d9%87) | N/A |
+| 44 | [تبييض الاموال](http://twitter.com/search?q=%d8%aa%d8%a8%d9%8a%d9%8a%d8%b6+%d8%a7%d9%84%d8%a7%d9%85%d9%88%d8%a7%d9%84) | N/A |
+| 45 | [وزارة الداخلية](http://twitter.com/search?q=%d9%88%d8%b2%d8%a7%d8%b1%d8%a9+%d8%a7%d9%84%d8%af%d8%a7%d8%ae%d9%84%d9%8a%d8%a9) | N/A |
+| 46 | [بيان صادر](http://twitter.com/search?q=%d8%a8%d9%8a%d8%a7%d9%86+%d8%b5%d8%a7%d8%af%d8%b1) | N/A |
+| 47 | [مار شربل](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1+%d8%b4%d8%b1%d8%a8%d9%84) | N/A |
+| 48 | [البرلمان الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d9%84%d9%85%d8%a7%d9%86+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 49 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 50 | [الامتحانات الرسميه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%85%d8%aa%d8%ad%d8%a7%d9%86%d8%a7%d8%aa+%d8%a7%d9%84%d8%b1%d8%b3%d9%85%d9%8a%d9%87) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ottawa
 
-📆 Last Updated: `2023-02-23 16:16:00 UTC`
+📆 Last Updated: `2023-02-23 17:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Canada](</Canada>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#PinkShirtDay](http://twitter.com/search?q=%23PinkShirtDay) | N/A |
-| 2 | [#Onstorm](http://twitter.com/search?q=%23Onstorm) | N/A |
+| 2 | [#ONStorm](http://twitter.com/search?q=%23ONStorm) | N/A |
 | 3 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 4 | [SET ME FREE PT 2](http://twitter.com/search?q=SET+ME+FREE+PT+2) | N/A |
-| 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 6 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 7 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
-| 8 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
-| 9 | [Lent](http://twitter.com/search?q=Lent) | N/A |
-| 10 | [Zaitsev](http://twitter.com/search?q=Zaitsev) | N/A |
-| 11 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
-| 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 13 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
-| 14 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 15 | [#snowday](http://twitter.com/search?q=%23snowday) | N/A |
-| 16 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
-| 17 | [42% of Canadians](http://twitter.com/search?q=42%25+of+Canadians) | N/A |
-| 18 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
-| 19 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
-| 20 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 21 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
-| 22 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 23 | [TDSB](http://twitter.com/search?q=TDSB) | N/A |
-| 24 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
-| 25 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 26 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
-| 27 | [Galen Weston](http://twitter.com/search?q=Galen+Weston) | N/A |
-| 28 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
-| 29 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
-| 30 | [Muzz](http://twitter.com/search?q=Muzz) | N/A |
-| 31 | [Weber](http://twitter.com/search?q=Weber) | N/A |
-| 32 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
-| 33 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
-| 34 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 35 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
-| 36 | [Melanie Mark](http://twitter.com/search?q=Melanie+Mark) | N/A |
-| 37 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
-| 38 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
-| 39 | [Dorion](http://twitter.com/search?q=Dorion) | N/A |
-| 40 | [RIP Motty](http://twitter.com/search?q=RIP+Motty) | N/A |
-| 41 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 42 | [Dube](http://twitter.com/search?q=Dube) | N/A |
-| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 44 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
-| 45 | [Sylvie](http://twitter.com/search?q=Sylvie) | N/A |
-| 46 | [Future Considerations](http://twitter.com/search?q=Future+Considerations) | N/A |
-| 47 | [ohip](http://twitter.com/search?q=ohip) | N/A |
-| 48 | [Integrity Commissioner](http://twitter.com/search?q=Integrity+Commissioner) | N/A |
-| 49 | [Good Thursday](http://twitter.com/search?q=Good+Thursday) | N/A |
-| 50 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 4 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 5 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 6 | [Loblaws](http://twitter.com/search?q=Loblaws) | N/A |
+| 7 | [Lent](http://twitter.com/search?q=Lent) | N/A |
+| 8 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 9 | [Zaitsev](http://twitter.com/search?q=Zaitsev) | N/A |
+| 10 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 11 | [Wordle 613 X](http://twitter.com/search?q=Wordle+613+X) | N/A |
+| 12 | [#AEWDynamite](http://twitter.com/search?q=%23AEWDynamite) | #AEWDynamite is the hashtag used to promote the professional wrestling television show All Elite Wrestling: Dynamite. The show is produced by All Elite Wrestling, a professional wrestling promotion based in the United States. The hashtag is used to promote the show and its related content on social media platforms such as Twitter and Instagram. |
+| 13 | [#snowday](http://twitter.com/search?q=%23snowday) | N/A |
+| 14 | [#GabrielPizza](http://twitter.com/search?q=%23GabrielPizza) | N/A |
+| 15 | [Alex Murdaugh](http://twitter.com/search?q=Alex+Murdaugh) | N/A |
+| 16 | [42% of Canadians](http://twitter.com/search?q=42%25+of+Canadians) | N/A |
+| 17 | [Teletoon](http://twitter.com/search?q=Teletoon) | N/A |
+| 18 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [Roxham Road](http://twitter.com/search?q=Roxham+Road) | N/A |
+| 21 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 22 | [jimins](http://twitter.com/search?q=jimins) | Jimins is a Korean name, derived from the Korean word for “gold” (금). It is a unisex name, and can be used for both boys and girls. In English, it means “golden one”. |
+| 23 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 24 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 25 | [Muzz](http://twitter.com/search?q=Muzz) | N/A |
+| 26 | [Shea Weber](http://twitter.com/search?q=Shea+Weber) | N/A |
+| 27 | [Integrity Commissioner](http://twitter.com/search?q=Integrity+Commissioner) | N/A |
+| 28 | [East Palestine](http://twitter.com/search?q=East+Palestine) | N/A |
+| 29 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 30 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 31 | [Melanie Mark](http://twitter.com/search?q=Melanie+Mark) | N/A |
+| 32 | [Kwite](http://twitter.com/search?q=Kwite) | N/A |
+| 33 | [Birgit](http://twitter.com/search?q=Birgit) | N/A |
+| 34 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 35 | [Coyotes](http://twitter.com/search?q=Coyotes) | N/A |
+| 36 | [Simon Ekpa](http://twitter.com/search?q=Simon+Ekpa) | N/A |
+| 37 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 38 | [Fitzgibbon](http://twitter.com/search?q=Fitzgibbon) | N/A |
+| 39 | [Leipzig](http://twitter.com/search?q=Leipzig) | Leipzig is a city in Germany. It is located in the state of Saxony and is the largest city in the region. The name Leipzig comes from the Slavic word "Lipsk", which means "settlement where the linden trees stand". In English, Leipzig translates to "city of linden trees". |
+| 40 | [Sylvie](http://twitter.com/search?q=Sylvie) | N/A |
+| 41 | [Dorion](http://twitter.com/search?q=Dorion) | N/A |
+| 42 | [Future Considerations](http://twitter.com/search?q=Future+Considerations) | N/A |
+| 43 | [$NVDA](http://twitter.com/search?q=%24NVDA) | N/A |
+| 44 | [OHIP](http://twitter.com/search?q=OHIP) | N/A |
+| 45 | [Brandon Miller](http://twitter.com/search?q=Brandon+Miller) | Brandon Miller is a name, and it has no particular meaning in English. |
+| 46 | [RIP Motty](http://twitter.com/search?q=RIP+Motty) | N/A |
+| 47 | [McKinsey](http://twitter.com/search?q=McKinsey) | N/A |
+| 48 | [Arizona](http://twitter.com/search?q=Arizona) | N/A |
+| 49 | [TDSB](http://twitter.com/search?q=TDSB) | N/A |
+| 50 | [Google](http://twitter.com/search?q=Google) | N/A |
 
 
 

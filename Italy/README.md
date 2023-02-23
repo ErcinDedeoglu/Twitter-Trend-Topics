@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-23 16:16:59 UTC`
+📆 Last Updated: `2023-02-23 17:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,40 +16,43 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
-| 2 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 3 | [Preside](http://twitter.com/search?q=Preside) | N/A |
-| 4 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
-| 5 | [#annalisasavino](http://twitter.com/search?q=%23annalisasavino) | N/A |
-| 6 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 7 | [#uominedonne](http://twitter.com/search?q=%23uominedonne) | N/A |
-| 8 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 2 | [#Rigopiano](http://twitter.com/search?q=%23Rigopiano) | N/A |
+| 3 | [#amicispoiler](http://twitter.com/search?q=%23amicispoiler) | #Amicispoiler is a hashtag used on social media to warn readers that a post contains spoilers for the novel The Adventures of Pinocchio by Carlo Collodi. It is used to alert readers that the post contains information about the plot or characters that could ruin their enjoyment of the book if they have not yet read it. |
+| 4 | [#uominiedonne](http://twitter.com/search?q=%23uominiedonne) | #Uominiedonne is an Italian hashtag that translates to "men and women" in English. It is used to promote gender equality and the empowerment of both men and women. |
+| 5 | [Alessio](http://twitter.com/search?q=Alessio) | N/A |
+| 6 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 7 | [#annalisasavino](http://twitter.com/search?q=%23annalisasavino) | N/A |
+| 8 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
 | 9 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 10 | [#fascismo](http://twitter.com/search?q=%23fascismo) | N/A |
-| 11 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
-| 12 | [Il Ministro](http://twitter.com/search?q=Il+Ministro) | N/A |
-| 13 | [Samu](http://twitter.com/search?q=Samu) | N/A |
+| 10 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 11 | [Kean](http://twitter.com/search?q=Kean) | N/A |
+| 12 | [Megan](http://twitter.com/search?q=Megan) | Megan is a female given name of Welsh origin, derived from the name Margaret. It means "pearl" or "child of light". |
+| 13 | [Dirigente](http://twitter.com/search?q=Dirigente) | N/A |
 | 14 | [Tito](http://twitter.com/search?q=Tito) | N/A |
 | 15 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 16 | [Mandragora](http://twitter.com/search?q=Mandragora) | N/A |
-| 17 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 16 | [Il Ministro](http://twitter.com/search?q=Il+Ministro) | N/A |
+| 17 | [Samu](http://twitter.com/search?q=Samu) | N/A |
 | 18 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 19 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 20 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 21 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
-| 22 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
-| 23 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
-| 24 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 25 | [#AzioneStudentesca](http://twitter.com/search?q=%23AzioneStudentesca) | N/A |
-| 26 | [#OuterBanks](http://twitter.com/search?q=%23OuterBanks) | N/A |
-| 27 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
-| 28 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
-| 29 | [#liceomichelangiolo](http://twitter.com/search?q=%23liceomichelangiolo) | N/A |
-| 30 | [#NantesJuve](http://twitter.com/search?q=%23NantesJuve) | N/A |
-| 31 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
-| 32 | [#scuola](http://twitter.com/search?q=%23scuola) | N/A |
-| 33 | [#SPID](http://twitter.com/search?q=%23SPID) | N/A |
-| 34 | [#RomaSalisburgo](http://twitter.com/search?q=%23RomaSalisburgo) | N/A |
-| 35 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 19 | [Mandragora](http://twitter.com/search?q=Mandragora) | N/A |
+| 20 | [#NantesJuve](http://twitter.com/search?q=%23NantesJuve) | N/A |
+| 21 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 22 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 23 | [#fascismo](http://twitter.com/search?q=%23fascismo) | N/A |
+| 24 | [#pomeriggio5](http://twitter.com/search?q=%23pomeriggio5) | N/A |
+| 25 | [#23febbraio](http://twitter.com/search?q=%2323febbraio) | N/A |
+| 26 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
+| 27 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
+| 28 | [#AzioneStudentesca](http://twitter.com/search?q=%23AzioneStudentesca) | N/A |
+| 29 | [#Ferrari](http://twitter.com/search?q=%23Ferrari) | N/A |
+| 30 | [#scuola](http://twitter.com/search?q=%23scuola) | N/A |
+| 31 | [#skymotori](http://twitter.com/search?q=%23skymotori) | N/A |
+| 32 | [#liceomichelangiolo](http://twitter.com/search?q=%23liceomichelangiolo) | N/A |
+| 33 | [#OuterBanks](http://twitter.com/search?q=%23OuterBanks) | N/A |
+| 34 | [#spid](http://twitter.com/search?q=%23spid) | N/A |
+| 35 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
+| 36 | [#r101](http://twitter.com/search?q=%23r101) | N/A |
+| 37 | [#Transnistria](http://twitter.com/search?q=%23Transnistria) | N/A |
+| 38 | [#RomaSalisburgo](http://twitter.com/search?q=%23RomaSalisburgo) | N/A |
 
 
 

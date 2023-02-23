@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Soweto
 
-📆 Last Updated: `2023-02-23 16:16:35 UTC`
+📆 Last Updated: `2023-02-23 17:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [South Africa](</South Africa>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Eskom](http://twitter.com/search?q=Eskom) | Eskom is the acronym for the South African electricity public utility company, the Electricity Supply Commission. It is responsible for generating, transmitting, and distributing electricity to millions of customers in South Africa. |
-| 2 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
-| 3 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
-| 4 | [#TogetherBekeLeBeke](http://twitter.com/search?q=%23TogetherBekeLeBeke) | N/A |
-| 5 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
-| 6 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
-| 7 | [Slee](http://twitter.com/search?q=Slee) | N/A |
-| 8 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
+| 2 | [De Ruyter](http://twitter.com/search?q=De+Ruyter) | N/A |
+| 3 | [#ShareTheEpic](http://twitter.com/search?q=%23ShareTheEpic) | N/A |
+| 4 | [#BBTaitans](http://twitter.com/search?q=%23BBTaitans) | N/A |
+| 5 | [Pravin](http://twitter.com/search?q=Pravin) | N/A |
+| 6 | [#TogetherBekeLeBeke](http://twitter.com/search?q=%23TogetherBekeLeBeke) | N/A |
+| 7 | [#Budget2023](http://twitter.com/search?q=%23Budget2023) | #Budget2023 is a hashtag used to refer to the budget for the year 2023. It is used to draw attention to news, discussions, and other information related to the budget for that year. |
+| 8 | [Slee](http://twitter.com/search?q=Slee) | N/A |
 | 9 | [The Establishment](http://twitter.com/search?q=The+Establishment) | N/A |
 | 10 | [THABANG THE GOAT](http://twitter.com/search?q=THABANG+THE+GOAT) | N/A |
 | 11 | [The ANC](http://twitter.com/search?q=The+ANC) | N/A |
-| 12 | [Nampak](http://twitter.com/search?q=Nampak) | N/A |
-| 13 | [KHOSI THE SPIRITUALIST](http://twitter.com/search?q=KHOSI+THE+SPIRITUALIST) | N/A |
-| 14 | [Mateki](http://twitter.com/search?q=Mateki) | N/A |
-| 15 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
-| 16 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
-| 17 | [Brian Molefe](http://twitter.com/search?q=Brian+Molefe) | N/A |
-| 18 | [Prof Phakeng](http://twitter.com/search?q=Prof+Phakeng) | N/A |
-| 19 | [Drip](http://twitter.com/search?q=Drip) | N/A |
-| 20 | [ENCA](http://twitter.com/search?q=ENCA) | N/A |
-| 21 | [team fashion](http://twitter.com/search?q=team+fashion) | N/A |
-| 22 | [Annika Larsen](http://twitter.com/search?q=Annika+Larsen) | N/A |
-| 23 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 24 | [Koko](http://twitter.com/search?q=Koko) | N/A |
-| 25 | [Jamnandas](http://twitter.com/search?q=Jamnandas) | N/A |
-| 26 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 27 | [Quarter Deluxe](http://twitter.com/search?q=Quarter+Deluxe) | N/A |
-| 28 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
-| 29 | [Mantashe](http://twitter.com/search?q=Mantashe) | N/A |
-| 30 | [SOEs](http://twitter.com/search?q=SOEs) | N/A |
-| 31 | [Girlfriend of 18](http://twitter.com/search?q=Girlfriend+of+18) | N/A |
-| 32 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 33 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 34 | [African Derby](http://twitter.com/search?q=African+Derby) | N/A |
-| 35 | [THE BLUE AIVA EFFECT](http://twitter.com/search?q=THE+BLUE+AIVA+EFFECT) | N/A |
-| 36 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
-| 37 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
-| 38 | [mcchicken deluxe](http://twitter.com/search?q=mcchicken+deluxe) | N/A |
-| 39 | [Enoch Godongwana](http://twitter.com/search?q=Enoch+Godongwana) | N/A |
-| 40 | [Londie](http://twitter.com/search?q=Londie) | N/A |
-| 41 | [North West](http://twitter.com/search?q=North+West) | N/A |
-| 42 | [Cajun Deluxe](http://twitter.com/search?q=Cajun+Deluxe) | N/A |
-| 43 | [Guptas](http://twitter.com/search?q=Guptas) | N/A |
-| 44 | [Traffic](http://twitter.com/search?q=Traffic) | N/A |
-| 45 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 46 | [Sorisha](http://twitter.com/search?q=Sorisha) | N/A |
-| 47 | [Mabusi](http://twitter.com/search?q=Mabusi) | N/A |
-| 48 | [CEOs](http://twitter.com/search?q=CEOs) | N/A |
-| 49 | [1055 London Road](http://twitter.com/search?q=1055+London+Road) | N/A |
+| 12 | [Mbalula](http://twitter.com/search?q=Mbalula) | N/A |
+| 13 | [Mazi Romeo](http://twitter.com/search?q=Mazi+Romeo) | N/A |
+| 14 | [Stage 7](http://twitter.com/search?q=Stage+7) | N/A |
+| 15 | [Miracle OP](http://twitter.com/search?q=Miracle+OP) | N/A |
+| 16 | [Mateki](http://twitter.com/search?q=Mateki) | N/A |
+| 17 | [Nampak](http://twitter.com/search?q=Nampak) | N/A |
+| 18 | [Brian Molefe](http://twitter.com/search?q=Brian+Molefe) | N/A |
+| 19 | [Zondo](http://twitter.com/search?q=Zondo) | N/A |
+| 20 | [KHOSI THE SPIRITUALIST](http://twitter.com/search?q=KHOSI+THE+SPIRITUALIST) | N/A |
+| 21 | [Nonku](http://twitter.com/search?q=Nonku) | N/A |
+| 22 | [Juicy Jay](http://twitter.com/search?q=Juicy+Jay) | Juicy Jay is a brand of flavored rolling papers. The papers are made from hemp and come in a variety of flavors, such as strawberry, blueberry, watermelon, and more. The name "Juicy Jay" is derived from the fact that the papers are extra-long and extra-thick, making them juicy and flavorful when smoked. |
+| 23 | [ENCA](http://twitter.com/search?q=ENCA) | N/A |
+| 24 | [team fashion](http://twitter.com/search?q=team+fashion) | N/A |
+| 25 | [Drip](http://twitter.com/search?q=Drip) | N/A |
+| 26 | [prof phakeng](http://twitter.com/search?q=prof+phakeng) | N/A |
+| 27 | [Annika Larsen](http://twitter.com/search?q=Annika+Larsen) | N/A |
+| 28 | [Block 5](http://twitter.com/search?q=Block+5) | N/A |
+| 29 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 30 | [Koko](http://twitter.com/search?q=Koko) | N/A |
+| 31 | [Juliet](http://twitter.com/search?q=Juliet) | N/A |
+| 32 | [Jamnandas](http://twitter.com/search?q=Jamnandas) | N/A |
+| 33 | [Quarter Deluxe](http://twitter.com/search?q=Quarter+Deluxe) | N/A |
+| 34 | [SOEs](http://twitter.com/search?q=SOEs) | N/A |
+| 35 | [Girlfriend of 18](http://twitter.com/search?q=Girlfriend+of+18) | N/A |
+| 36 | [Gwede](http://twitter.com/search?q=Gwede) | N/A |
+| 37 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 38 | [Londie](http://twitter.com/search?q=Londie) | N/A |
+| 39 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 40 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 41 | [Weekly](http://twitter.com/search?q=Weekly) | N/A |
+| 42 | [State Capture](http://twitter.com/search?q=State+Capture) | N/A |
+| 43 | [THE BLUE AIVA EFFECT](http://twitter.com/search?q=THE+BLUE+AIVA+EFFECT) | N/A |
+| 44 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 45 | [Bolt](http://twitter.com/search?q=Bolt) | N/A |
+| 46 | [McChicken Deluxe](http://twitter.com/search?q=McChicken+Deluxe) | N/A |
+| 47 | [Enoch Godongwana](http://twitter.com/search?q=Enoch+Godongwana) | N/A |
+| 48 | [North West](http://twitter.com/search?q=North+West) | N/A |
+| 49 | [African Derby](http://twitter.com/search?q=African+Derby) | N/A |
 
 
 

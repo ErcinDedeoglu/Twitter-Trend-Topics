@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dortmund
 
-📆 Last Updated: `2023-02-23 16:16:16 UTC`
+📆 Last Updated: `2023-02-23 17:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Germany](</Germany>)
 | 3 | [#RBLMCI](http://twitter.com/search?q=%23RBLMCI) | N/A |
 | 4 | [#ThrowbackThursday](http://twitter.com/search?q=%23ThrowbackThursday) | N/A |
 | 5 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 6 | [Clemens Arvay](http://twitter.com/search?q=Clemens+Arvay) | N/A |
-| 7 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 8 | [LIKE CRAZY](http://twitter.com/search?q=LIKE+CRAZY) | N/A |
-| 9 | [fotomontage](http://twitter.com/search?q=fotomontage) | N/A |
-| 10 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 11 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
-| 12 | [nuhr](http://twitter.com/search?q=nuhr) | N/A |
-| 13 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
-| 14 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
-| 15 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
-| 16 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
-| 17 | [Norma](http://twitter.com/search?q=Norma) | N/A |
-| 18 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
-| 19 | [ruhe in frieden](http://twitter.com/search?q=ruhe+in+frieden) | N/A |
-| 20 | [Fleischverbot](http://twitter.com/search?q=Fleischverbot) | N/A |
-| 21 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 22 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 23 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
-| 24 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
-| 25 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
-| 26 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 27 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 28 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
-| 29 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
-| 30 | [Klimanotstand](http://twitter.com/search?q=Klimanotstand) | N/A |
-| 31 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
-| 32 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
-| 33 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
-| 34 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
-| 35 | [selbstbeteiligung](http://twitter.com/search?q=selbstbeteiligung) | N/A |
-| 36 | [sommersprossen](http://twitter.com/search?q=sommersprossen) | N/A |
-| 37 | [Freitod](http://twitter.com/search?q=Freitod) | N/A |
-| 38 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
-| 39 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
-| 40 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
-| 41 | [Öl auf die Straße](http://twitter.com/search?q=%c3%96l+auf+die+Stra%c3%9fe) | N/A |
-| 42 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
-| 43 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 44 | [Boje](http://twitter.com/search?q=Boje) | N/A |
-| 45 | [Brennweite](http://twitter.com/search?q=Brennweite) | N/A |
-| 46 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
-| 47 | [Netto](http://twitter.com/search?q=Netto) | N/A |
-| 48 | [Jeffrey Sachs](http://twitter.com/search?q=Jeffrey+Sachs) | N/A |
-| 49 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
+| 6 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 7 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
+| 8 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
+| 9 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 10 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 11 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
+| 12 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
+| 13 | [wochenteiler](http://twitter.com/search?q=wochenteiler) | N/A |
+| 14 | [schönen donnerstag](http://twitter.com/search?q=sch%c3%b6nen+donnerstag) | N/A |
+| 15 | [joonie](http://twitter.com/search?q=joonie) | N/A |
+| 16 | [Nuhr](http://twitter.com/search?q=Nuhr) | N/A |
+| 17 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
+| 18 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 19 | [fleischverbot](http://twitter.com/search?q=fleischverbot) | N/A |
+| 20 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
+| 21 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 22 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 23 | [Norma](http://twitter.com/search?q=Norma) | N/A |
+| 24 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
+| 25 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
+| 26 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 27 | [Markus Söder](http://twitter.com/search?q=Markus+S%c3%b6der) | N/A |
+| 28 | [Herr Söder](http://twitter.com/search?q=Herr+S%c3%b6der) | N/A |
+| 29 | [Scholl](http://twitter.com/search?q=Scholl) | N/A |
+| 30 | [Privatjets](http://twitter.com/search?q=Privatjets) | N/A |
+| 31 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
+| 32 | [Lieblings Fußball Teams](http://twitter.com/search?q=Lieblings+Fu%c3%9fball+Teams) | N/A |
+| 33 | [Selbstbeteiligung](http://twitter.com/search?q=Selbstbeteiligung) | N/A |
+| 34 | [Raffelhüschen](http://twitter.com/search?q=Raffelh%c3%bcschen) | N/A |
+| 35 | [Bäume](http://twitter.com/search?q=B%c3%a4ume) | N/A |
+| 36 | [Öl auf die Straße](http://twitter.com/search?q=%c3%96l+auf+die+Stra%c3%9fe) | N/A |
+| 37 | [Wohlstand](http://twitter.com/search?q=Wohlstand) | N/A |
+| 38 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
+| 39 | [Böhmermann](http://twitter.com/search?q=B%c3%b6hmermann) | N/A |
+| 40 | [Netto](http://twitter.com/search?q=Netto) | N/A |
+| 41 | [Krankenkassen](http://twitter.com/search?q=Krankenkassen) | N/A |
+| 42 | [Brennweite](http://twitter.com/search?q=Brennweite) | N/A |
+| 43 | [Boje](http://twitter.com/search?q=Boje) | N/A |
+| 44 | [Bensebaini](http://twitter.com/search?q=Bensebaini) | N/A |
+| 45 | [Frau Melnyk](http://twitter.com/search?q=Frau+Melnyk) | N/A |
+| 46 | [Hijab](http://twitter.com/search?q=Hijab) | N/A |
+| 47 | [Klimanotstand](http://twitter.com/search?q=Klimanotstand) | N/A |
+| 48 | [Christoph Probst](http://twitter.com/search?q=Christoph+Probst) | N/A |
+| 49 | [Latein](http://twitter.com/search?q=Latein) | N/A |
 
 
 
