@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Strasbourg
 
-📆 Last Updated: `2023-02-24 12:17:29 UTC`
+📆 Last Updated: `2023-02-24 13:20:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,44 +17,50 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
 | 2 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 3 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
-| 4 | [#nftparis](http://twitter.com/search?q=%23nftparis) | N/A |
-| 5 | [Pauleta](http://twitter.com/search?q=Pauleta) | N/A |
-| 6 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
-| 7 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 8 | [#Les12CoupsDeMidi](http://twitter.com/search?q=%23Les12CoupsDeMidi) | N/A |
-| 9 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
-| 10 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 11 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 12 | [pikachu](http://twitter.com/search?q=pikachu) | N/A |
-| 13 | [Dieudonné](http://twitter.com/search?q=Dieudonn%c3%a9) | N/A |
-| 14 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 15 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 3 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 4 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 5 | [#nftparis](http://twitter.com/search?q=%23nftparis) | N/A |
+| 6 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
+| 7 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
+| 8 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 9 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 10 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
+| 11 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 12 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
+| 13 | [Polanski](http://twitter.com/search?q=Polanski) | N/A |
+| 14 | [Pauleta](http://twitter.com/search?q=Pauleta) | N/A |
+| 15 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 16 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 17 | [Polanski](http://twitter.com/search?q=Polanski) | N/A |
-| 18 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
-| 19 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 20 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 21 | [René](http://twitter.com/search?q=Ren%c3%a9) | N/A |
-| 22 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 23 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 24 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 25 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
-| 26 | [Landy](http://twitter.com/search?q=Landy) | N/A |
-| 27 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
+| 17 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 18 | [Dieudonné](http://twitter.com/search?q=Dieudonn%c3%a9) | N/A |
+| 19 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 20 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 21 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 22 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
+| 23 | [René](http://twitter.com/search?q=Ren%c3%a9) | N/A |
+| 24 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 25 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 26 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 27 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
 | 28 | [Le 24](http://twitter.com/search?q=Le+24) | N/A |
-| 29 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 30 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
+| 29 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 30 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
 | 31 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
-| 32 | [Salon](http://twitter.com/search?q=Salon) | N/A |
-| 33 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 34 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
-| 35 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
-| 36 | [#SLYMKLEO](http://twitter.com/search?q=%23SLYMKLEO) | N/A |
-| 37 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
-| 38 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
-| 39 | [#AdeleHaenel](http://twitter.com/search?q=%23AdeleHaenel) | N/A |
-| 40 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
+| 32 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
+| 33 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 34 | [Salon](http://twitter.com/search?q=Salon) | N/A |
+| 35 | [Landy](http://twitter.com/search?q=Landy) | N/A |
+| 36 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
+| 37 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 38 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
+| 39 | [#Les12CoupsDeMidi](http://twitter.com/search?q=%23Les12CoupsDeMidi) | N/A |
+| 40 | [#FRAECO](http://twitter.com/search?q=%23FRAECO) | N/A |
+| 41 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 42 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
+| 43 | [#XVdeFrance](http://twitter.com/search?q=%23XVdeFrance) | N/A |
+| 44 | [#SLYMKLEO](http://twitter.com/search?q=%23SLYMKLEO) | N/A |
+| 45 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 46 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-24 12:18:11 UTC`
+📆 Last Updated: `2023-02-24 13:20:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,24 +15,24 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [WELCOME TO PARIS XIN](http://twitter.com/search?q=WELCOME+TO+PARIS+XIN) | N/A |
-| 2 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
-| 3 | [#XiaoZhanxTodsFW23](http://twitter.com/search?q=%23XiaoZhanxTodsFW23) | N/A |
+| 1 | [#XINinParis](http://twitter.com/search?q=%23XINinParis) | N/A |
+| 2 | [#XiaoZhanGucciLove](http://twitter.com/search?q=%23XiaoZhanGucciLove) | N/A |
+| 3 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
 | 4 | [#BuildInWhite](http://twitter.com/search?q=%23BuildInWhite) | N/A |
-| 5 | [#2M300KforBuild](http://twitter.com/search?q=%232M300KforBuild) | N/A |
-| 6 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
-| 7 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 8 | [keep growing with build](http://twitter.com/search?q=keep+growing+with+build) | N/A |
-| 9 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
-| 10 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
-| 11 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 12 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 13 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
-| 14 | [watch smcu ep3 now](http://twitter.com/search?q=watch+smcu+ep3+now) | N/A |
-| 15 | [Valentino - WINWIN](http://twitter.com/search?q=Valentino+-+WINWIN) | N/A |
+| 5 | [#2m300kforbuild](http://twitter.com/search?q=%232m300kforbuild) | N/A |
+| 6 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 7 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
+| 8 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
+| 9 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 10 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 11 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
+| 12 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 13 | [watch smcu ep3 now](http://twitter.com/search?q=watch+smcu+ep3+now) | N/A |
+| 14 | [Valentino - WINWIN](http://twitter.com/search?q=Valentino+-+WINWIN) | N/A |
+| 15 | [Tiêu Chiến](http://twitter.com/search?q=Ti%c3%aau+Chi%e1%ba%bfn) | N/A |
 | 16 | [BUILD IS SPECIAL](http://twitter.com/search?q=BUILD+IS+SPECIAL) | N/A |
 | 17 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
-| 18 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
+| 18 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
 | 19 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
 | 20 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
 | 21 | [Apple](http://twitter.com/search?q=Apple) | N/A |
@@ -43,28 +43,28 @@ This is top 50 for Vietnam
 | 26 | [Meow](http://twitter.com/search?q=Meow) | N/A |
 | 27 | [Chess](http://twitter.com/search?q=Chess) | N/A |
 | 28 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 29 | [Trước](http://twitter.com/search?q=Tr%c6%b0%e1%bb%9bc) | N/A |
+| 29 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
 | 30 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
-| 31 | [1m $tfai airdrop](http://twitter.com/search?q=1m+%24tfai+airdrop) | N/A |
-| 32 | [Japan](http://twitter.com/search?q=Japan) | N/A |
-| 33 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 31 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 32 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 33 | [1M $TFAI Airdrop](http://twitter.com/search?q=1M+%24TFAI+Airdrop) | N/A |
 | 34 | [Solana](http://twitter.com/search?q=Solana) | N/A |
 | 35 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 36 | [tradfi](http://twitter.com/search?q=tradfi) | N/A |
+| 36 | [TradFi](http://twitter.com/search?q=TradFi) | N/A |
 | 37 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 38 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
-| 39 | [dang hong hai](http://twitter.com/search?q=dang+hong+hai) | N/A |
-| 40 | [dApp](http://twitter.com/search?q=dApp) | N/A |
-| 41 | [Ankr](http://twitter.com/search?q=Ankr) | N/A |
+| 38 | [Cosmos](http://twitter.com/search?q=Cosmos) | N/A |
+| 39 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
+| 40 | [dang hong hai](http://twitter.com/search?q=dang+hong+hai) | N/A |
+| 41 | [dApp](http://twitter.com/search?q=dApp) | N/A |
 | 42 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
 | 43 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
-| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 45 | [Mint](http://twitter.com/search?q=Mint) | N/A |
-| 46 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
-| 47 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
-| 48 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
-| 49 | [Cosmos](http://twitter.com/search?q=Cosmos) | N/A |
-| 50 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 44 | [Mint](http://twitter.com/search?q=Mint) | N/A |
+| 45 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 46 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
+| 47 | [Thailand](http://twitter.com/search?q=Thailand) | N/A |
+| 48 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 49 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 50 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rotterdam
 
-📆 Last Updated: `2023-02-24 12:17:32 UTC`
+📆 Last Updated: `2023-02-24 13:20:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 3 | [#pegas](http://twitter.com/search?q=%23pegas) | N/A |
 | 4 | [#PSVSEV](http://twitter.com/search?q=%23PSVSEV) | N/A |
 | 5 | [#ubeaja](http://twitter.com/search?q=%23ubeaja) | N/A |
-| 6 | [Enquêtecommissie](http://twitter.com/search?q=Enqu%c3%aatecommissie) | N/A |
-| 7 | [Shakhtar Donetsk](http://twitter.com/search?q=Shakhtar+Donetsk) | N/A |
+| 6 | [Shakhtar Donetsk](http://twitter.com/search?q=Shakhtar+Donetsk) | N/A |
+| 7 | [Enquêtecommissie](http://twitter.com/search?q=Enqu%c3%aatecommissie) | N/A |
 | 8 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 9 | [Erasmusbrug](http://twitter.com/search?q=Erasmusbrug) | N/A |
-| 10 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 11 | [DIVD](http://twitter.com/search?q=DIVD) | N/A |
-| 12 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 13 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 14 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 15 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 16 | [Vera Bergkamp](http://twitter.com/search?q=Vera+Bergkamp) | N/A |
-| 17 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
+| 9 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 10 | [Erasmusbrug](http://twitter.com/search?q=Erasmusbrug) | N/A |
+| 11 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 12 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 13 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 14 | [Vera Bergkamp](http://twitter.com/search?q=Vera+Bergkamp) | N/A |
+| 15 | [van der wal](http://twitter.com/search?q=van+der+wal) | N/A |
+| 16 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 17 | [Droomvlucht](http://twitter.com/search?q=Droomvlucht) | N/A |
 | 18 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 19 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
-| 20 | [Droomvlucht](http://twitter.com/search?q=Droomvlucht) | N/A |
-| 21 | [Ollongren](http://twitter.com/search?q=Ollongren) | N/A |
-| 22 | [Buma](http://twitter.com/search?q=Buma) | N/A |
+| 19 | [Ollongren](http://twitter.com/search?q=Ollongren) | N/A |
+| 20 | [Tjeerd](http://twitter.com/search?q=Tjeerd) | N/A |
+| 21 | [Buma](http://twitter.com/search?q=Buma) | N/A |
+| 22 | [Astrid Kersseboom](http://twitter.com/search?q=Astrid+Kersseboom) | N/A |
 | 23 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 24 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
-| 25 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 26 | [Dag 24](http://twitter.com/search?q=Dag+24) | N/A |
-| 27 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
-| 28 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 29 | [Nederlander](http://twitter.com/search?q=Nederlander) | N/A |
-| 30 | [Becker](http://twitter.com/search?q=Becker) | N/A |
-| 31 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 32 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 33 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 34 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 35 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
-| 36 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 37 | [Schokkend](http://twitter.com/search?q=Schokkend) | N/A |
-| 38 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
-| 39 | [Goedemorgen Lex](http://twitter.com/search?q=Goedemorgen+Lex) | N/A |
-| 40 | [nieuwpoort](http://twitter.com/search?q=nieuwpoort) | N/A |
-| 41 | [Wijziging Grondwet](http://twitter.com/search?q=Wijziging+Grondwet) | N/A |
-| 42 | [Caroline Van Der Plas](http://twitter.com/search?q=Caroline+Van+Der+Plas) | N/A |
-| 43 | [Doekhi](http://twitter.com/search?q=Doekhi) | N/A |
-| 44 | [The Hague](http://twitter.com/search?q=The+Hague) | N/A |
-| 45 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 46 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
-| 47 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
+| 24 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 25 | [Klaassen](http://twitter.com/search?q=Klaassen) | N/A |
+| 26 | [Brobbey](http://twitter.com/search?q=Brobbey) | N/A |
+| 27 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
+| 28 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 29 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 30 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 31 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 32 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 33 | [Schokkend](http://twitter.com/search?q=Schokkend) | N/A |
+| 34 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 35 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 36 | [nieuwpoort](http://twitter.com/search?q=nieuwpoort) | N/A |
+| 37 | [Dag 24](http://twitter.com/search?q=Dag+24) | N/A |
+| 38 | [AS Roma](http://twitter.com/search?q=AS+Roma) | N/A |
+| 39 | [Goedemiddag](http://twitter.com/search?q=Goedemiddag) | N/A |
+| 40 | [Doekhi](http://twitter.com/search?q=Doekhi) | N/A |
+| 41 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 42 | [Heitinga](http://twitter.com/search?q=Heitinga) | N/A |
+| 43 | [wijziging grondwet](http://twitter.com/search?q=wijziging+grondwet) | N/A |
+| 44 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 45 | [Den Haag](http://twitter.com/search?q=Den+Haag) | N/A |
+| 46 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
+| 47 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 48 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 49 | [Efteling](http://twitter.com/search?q=Efteling) | N/A |
-| 50 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 49 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
+| 50 | [Bernhard](http://twitter.com/search?q=Bernhard) | N/A |
 
 
 

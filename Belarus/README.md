@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-24 12:18:04 UTC`
+📆 Last Updated: `2023-02-24 13:20:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,17 +22,19 @@ This is top 50 for Belarus
 | 5 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 6 | [Минска](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
 | 7 | [#ArtistOnTwitter](http://twitter.com/search?q=%23ArtistOnTwitter) | N/A |
-| 8 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 9 | [GM Fren](http://twitter.com/search?q=GM+Fren) | N/A |
-| 10 | [Республики Беларусь](http://twitter.com/search?q=%d0%a0%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b8+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
-| 11 | [#CryptoNews](http://twitter.com/search?q=%23CryptoNews) | N/A |
-| 12 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 8 | [GM Fren](http://twitter.com/search?q=GM+Fren) | N/A |
+| 9 | [Республики Беларусь](http://twitter.com/search?q=%d0%a0%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b8+%d0%91%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
+| 10 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
+| 11 | [Давай](http://twitter.com/search?q=%d0%94%d0%b0%d0%b2%d0%b0%d0%b9) | N/A |
+| 12 | [#CryptoNews](http://twitter.com/search?q=%23CryptoNews) | N/A |
 | 13 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
 | 14 | [#импровизаторыиниктобольше](http://twitter.com/search?q=%23%d0%b8%d0%bc%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%b7%d0%b0%d1%82%d0%be%d1%80%d1%8b%d0%b8%d0%bd%d0%b8%d0%ba%d1%82%d0%be%d0%b1%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 15 | [киева](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
-| 16 | [В Бресте](http://twitter.com/search?q=%d0%92+%d0%91%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
-| 17 | [брестской](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 18 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
+| 15 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
+| 16 | [Мило](http://twitter.com/search?q=%d0%9c%d0%b8%d0%bb%d0%be) | N/A |
+| 17 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 18 | [В Бресте](http://twitter.com/search?q=%d0%92+%d0%91%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
+| 19 | [брестской](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d1%81%d0%ba%d0%be%d0%b9) | N/A |
+| 20 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
 
 
 

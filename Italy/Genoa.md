@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Genoa
 
-📆 Last Updated: `2023-02-24 12:17:31 UTC`
+📆 Last Updated: `2023-02-24 13:20:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,44 +16,49 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [#UELdraw](http://twitter.com/search?q=%23UELdraw) | N/A |
-| 3 | [#24febbraio](http://twitter.com/search?q=%2324febbraio) | N/A |
-| 4 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
-| 5 | [#Ucraina](http://twitter.com/search?q=%23Ucraina) | N/A |
-| 6 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 7 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 8 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 9 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 2 | [Maurizio Costanzo](http://twitter.com/search?q=Maurizio+Costanzo) | N/A |
+| 3 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 4 | [#24febbraio](http://twitter.com/search?q=%2324febbraio) | N/A |
+| 5 | [#UELdraw](http://twitter.com/search?q=%23UELdraw) | N/A |
+| 6 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
+| 7 | [Aveva 84](http://twitter.com/search?q=Aveva+84) | N/A |
+| 8 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 9 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
 | 10 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 13 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 14 | [Il 24](http://twitter.com/search?q=Il+24) | N/A |
-| 15 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 16 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 17 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
-| 18 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 19 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
-| 20 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 21 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
-| 22 | [#pace](http://twitter.com/search?q=%23pace) | N/A |
-| 23 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 24 | [#guerra](http://twitter.com/search?q=%23guerra) | N/A |
-| 25 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
-| 26 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 27 | [#ilPrezzo](http://twitter.com/search?q=%23ilPrezzo) | N/A |
-| 28 | [#ISogniSonDesideri](http://twitter.com/search?q=%23ISogniSonDesideri) | N/A |
-| 29 | [#StopWar](http://twitter.com/search?q=%23StopWar) | N/A |
-| 30 | [#Lenzini](http://twitter.com/search?q=%23Lenzini) | N/A |
-| 31 | [#CaniSciolti](http://twitter.com/search?q=%23CaniSciolti) | N/A |
-| 32 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
-| 33 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
-| 34 | [#AlbertoSordi](http://twitter.com/search?q=%23AlbertoSordi) | N/A |
-| 35 | [#Cina](http://twitter.com/search?q=%23Cina) | N/A |
-| 36 | [#Savino](http://twitter.com/search?q=%23Savino) | N/A |
-| 37 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 38 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 39 | [#IoStoConLaPreside](http://twitter.com/search?q=%23IoStoConLaPreside) | N/A |
+| 11 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 12 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 13 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 14 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 15 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 16 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 17 | [Il 24](http://twitter.com/search?q=Il+24) | N/A |
+| 18 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 19 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 20 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
+| 21 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
+| 22 | [#Ucraina](http://twitter.com/search?q=%23Ucraina) | N/A |
+| 23 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
+| 24 | [#unprofessore2](http://twitter.com/search?q=%23unprofessore2) | N/A |
+| 25 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
+| 26 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 27 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
+| 28 | [#guerra](http://twitter.com/search?q=%23guerra) | N/A |
+| 29 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 30 | [#pace](http://twitter.com/search?q=%23pace) | N/A |
+| 31 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 32 | [#ISogniSonDesideri](http://twitter.com/search?q=%23ISogniSonDesideri) | N/A |
+| 33 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
+| 34 | [#StopWar](http://twitter.com/search?q=%23StopWar) | N/A |
+| 35 | [#AlbertoSordi](http://twitter.com/search?q=%23AlbertoSordi) | N/A |
+| 36 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
+| 37 | [#ilprezzo](http://twitter.com/search?q=%23ilprezzo) | N/A |
+| 38 | [#Cina](http://twitter.com/search?q=%23Cina) | N/A |
+| 39 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 40 | [#CaniSciolti](http://twitter.com/search?q=%23CaniSciolti) | N/A |
+| 41 | [#Savino](http://twitter.com/search?q=%23Savino) | N/A |
+| 42 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 43 | [#antifascismo](http://twitter.com/search?q=%23antifascismo) | N/A |
+| 44 | [#IoStoConLaPreside](http://twitter.com/search?q=%23IoStoConLaPreside) | N/A |
 
 
 

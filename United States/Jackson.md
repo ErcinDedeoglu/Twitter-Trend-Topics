@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jackson
 
-📆 Last Updated: `2023-02-24 12:17:58 UTC`
+📆 Last Updated: `2023-02-24 13:20:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,52 +16,52 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 2 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 3 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 4 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 5 | [#Wordle615](http://twitter.com/search?q=%23Wordle615) | N/A |
-| 6 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
-| 7 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 8 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 2 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 3 | [Happy FriYay](http://twitter.com/search?q=Happy+FriYay) | N/A |
+| 4 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 5 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 6 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 7 | [Tink](http://twitter.com/search?q=Tink) | N/A |
+| 8 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
 | 9 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 10 | [Tink](http://twitter.com/search?q=Tink) | N/A |
-| 11 | [#Selfiee](http://twitter.com/search?q=%23Selfiee) | N/A |
+| 10 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 11 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 12 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 13 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 14 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 15 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 16 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 17 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 18 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 19 | [Yeat](http://twitter.com/search?q=Yeat) | N/A |
-| 20 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 21 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 22 | [Ojos Ferrari](http://twitter.com/search?q=Ojos+Ferrari) | N/A |
-| 23 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
-| 24 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
-| 25 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 26 | [The View](http://twitter.com/search?q=The+View) | N/A |
-| 27 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 28 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
-| 29 | [Malik Beasley](http://twitter.com/search?q=Malik+Beasley) | N/A |
-| 30 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 31 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 32 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 33 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 34 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 35 | [Strawberry](http://twitter.com/search?q=Strawberry) | N/A |
-| 36 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 37 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 38 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 39 | [Bron and AD](http://twitter.com/search?q=Bron+and+AD) | N/A |
-| 40 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 41 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
-| 42 | [MS Paint](http://twitter.com/search?q=MS+Paint) | N/A |
-| 43 | [Logic](http://twitter.com/search?q=Logic) | N/A |
-| 44 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 45 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 46 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
-| 47 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 13 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
+| 14 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 15 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 16 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 17 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 18 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 19 | [Dan Quayle](http://twitter.com/search?q=Dan+Quayle) | N/A |
+| 20 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 21 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
+| 22 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 23 | [Yeat](http://twitter.com/search?q=Yeat) | N/A |
+| 24 | [The View](http://twitter.com/search?q=The+View) | N/A |
+| 25 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
+| 26 | [Attempted](http://twitter.com/search?q=Attempted) | N/A |
+| 27 | [Strawberry](http://twitter.com/search?q=Strawberry) | N/A |
+| 28 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 29 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 30 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
+| 31 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
+| 32 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 33 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 34 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 35 | [Ice Age](http://twitter.com/search?q=Ice+Age) | N/A |
+| 36 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
+| 37 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 38 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
+| 39 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 40 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 41 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
+| 42 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 43 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 44 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 45 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
+| 46 | [Chao](http://twitter.com/search?q=Chao) | N/A |
+| 47 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
 
 
 

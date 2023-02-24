@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-02-24 12:17:22 UTC`
+📆 Last Updated: `2023-02-24 13:20:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalarioRosaVaPorMas](http://twitter.com/search?q=%23SalarioRosaVaPorMas) | N/A |
-| 2 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 3 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 4 | [#salariorosaparatiytufamilia](http://twitter.com/search?q=%23salariorosaparatiytufamilia) | N/A |
-| 5 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 7 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
-| 8 | [#FelizJueves](http://twitter.com/search?q=%23FelizJueves) | #FelizJueves is a Spanish hashtag that translates to "Happy Thursday" in English. It is used to express good wishes for the day on social media. |
-| 9 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 10 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 11 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 12 | [#ContingenciaAmbiental](http://twitter.com/search?q=%23ContingenciaAmbiental) | N/A |
-| 13 | [#NarcoMarcha](http://twitter.com/search?q=%23NarcoMarcha) | N/A |
-| 14 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 1 | [#diablostwitteros](http://twitter.com/search?q=%23diablostwitteros) | N/A |
+| 2 | [#SalarioRosaVaPorMas](http://twitter.com/search?q=%23SalarioRosaVaPorMas) | N/A |
+| 3 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
+| 4 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 5 | [#Pordesobedecerasuspadres](http://twitter.com/search?q=%23Pordesobedecerasuspadres) | N/A |
+| 6 | [Universidad Anáhuac](http://twitter.com/search?q=Universidad+An%c3%a1huac) | N/A |
+| 7 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
+| 8 | [#DíaDeLaBandera](http://twitter.com/search?q=%23D%c3%adaDeLaBandera) | N/A |
+| 9 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 12 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
+| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 15 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 16 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 16 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 17 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
 | 18 | [Pinky](http://twitter.com/search?q=Pinky) | N/A |
-| 19 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
-| 20 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 21 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 22 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 23 | [PERDONEN A MARIO Y LEON](http://twitter.com/search?q=PERDONEN+A+MARIO+Y+LEON) | N/A |
-| 24 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 25 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 26 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 27 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 28 | [Durazo](http://twitter.com/search?q=Durazo) | N/A |
-| 29 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
-| 30 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 31 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 32 | [yon de luisa](http://twitter.com/search?q=yon+de+luisa) | N/A |
-| 33 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
-| 34 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 35 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 36 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 37 | [La Primavera](http://twitter.com/search?q=La+Primavera) | N/A |
-| 38 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 39 | [Meade](http://twitter.com/search?q=Meade) | N/A |
-| 40 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
-| 41 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 42 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
-| 43 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 44 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 45 | [Olimpia](http://twitter.com/search?q=Olimpia) | N/A |
-| 46 | [TECATE EMBLEMA](http://twitter.com/search?q=TECATE+EMBLEMA) | N/A |
-| 47 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 48 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 49 | [Venus](http://twitter.com/search?q=Venus) | N/A |
-| 50 | [El PAN](http://twitter.com/search?q=El+PAN) | N/A |
+| 19 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 20 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 21 | [Cienfuegos](http://twitter.com/search?q=Cienfuegos) | N/A |
+| 22 | [El País](http://twitter.com/search?q=El+Pa%c3%ads) | N/A |
+| 23 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 24 | [PERDONEN A MARIO Y LEON](http://twitter.com/search?q=PERDONEN+A+MARIO+Y+LEON) | N/A |
+| 25 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 26 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 27 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 28 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 29 | [Durazo](http://twitter.com/search?q=Durazo) | N/A |
+| 30 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 31 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 32 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 33 | [yon de luisa](http://twitter.com/search?q=yon+de+luisa) | N/A |
+| 34 | [Tuca](http://twitter.com/search?q=Tuca) | N/A |
+| 35 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
+| 36 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 37 | [J-HOPE FASHION KING](http://twitter.com/search?q=J-HOPE+FASHION+KING) | N/A |
+| 38 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 39 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 40 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 41 | [Estados Unidos](http://twitter.com/search?q=Estados+Unidos) | Estados Unidos is the Spanish name for the United States of America. It literally translates to "United States" in English. |
+| 42 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 43 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 44 | [Meade](http://twitter.com/search?q=Meade) | N/A |
+| 45 | [Plan B](http://twitter.com/search?q=Plan+B) | N/A |
+| 46 | [ley olimpia](http://twitter.com/search?q=ley+olimpia) | N/A |
+| 47 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 48 | [TECATE EMBLEMA](http://twitter.com/search?q=TECATE+EMBLEMA) | N/A |
+| 49 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 50 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-24 12:17:31 UTC`
+📆 Last Updated: `2023-02-24 13:20:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,50 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 2 | [#incorvassi](http://twitter.com/search?q=%23incorvassi) | N/A |
-| 3 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
-| 4 | [#UELdraw](http://twitter.com/search?q=%23UELdraw) | N/A |
-| 5 | [#24febbraio](http://twitter.com/search?q=%2324febbraio) | N/A |
-| 6 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
-| 7 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 8 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 9 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 10 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 2 | [#oriele](http://twitter.com/search?q=%23oriele) | N/A |
+| 3 | [Maurizio Costanzo](http://twitter.com/search?q=Maurizio+Costanzo) | N/A |
+| 4 | [#24febbraio](http://twitter.com/search?q=%2324febbraio) | N/A |
+| 5 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 6 | [#UELdraw](http://twitter.com/search?q=%23UELdraw) | N/A |
+| 7 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
+| 8 | [Aveva 84](http://twitter.com/search?q=Aveva+84) | N/A |
+| 9 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 10 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
 | 11 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
-| 12 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 13 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 14 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 15 | [Il 24](http://twitter.com/search?q=Il+24) | N/A |
-| 16 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 17 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 18 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
-| 19 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 20 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
-| 21 | [#Ucraina](http://twitter.com/search?q=%23Ucraina) | N/A |
-| 22 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 23 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
-| 24 | [#pace](http://twitter.com/search?q=%23pace) | N/A |
-| 25 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 26 | [#guerra](http://twitter.com/search?q=%23guerra) | N/A |
-| 27 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
-| 28 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 29 | [#ilPrezzo](http://twitter.com/search?q=%23ilPrezzo) | N/A |
-| 30 | [#ISogniSonDesideri](http://twitter.com/search?q=%23ISogniSonDesideri) | N/A |
-| 31 | [#StopWar](http://twitter.com/search?q=%23StopWar) | N/A |
-| 32 | [#Lenzini](http://twitter.com/search?q=%23Lenzini) | N/A |
-| 33 | [#CaniSciolti](http://twitter.com/search?q=%23CaniSciolti) | N/A |
-| 34 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
-| 35 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
+| 12 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 13 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 14 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 16 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 17 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 18 | [Il 24](http://twitter.com/search?q=Il+24) | N/A |
+| 19 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 20 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 21 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
+| 22 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
+| 23 | [#Ucraina](http://twitter.com/search?q=%23Ucraina) | N/A |
+| 24 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
+| 25 | [#unprofessore2](http://twitter.com/search?q=%23unprofessore2) | N/A |
+| 26 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
+| 27 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 28 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
+| 29 | [#guerra](http://twitter.com/search?q=%23guerra) | N/A |
+| 30 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
+| 31 | [#pace](http://twitter.com/search?q=%23pace) | N/A |
+| 32 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 33 | [#ISogniSonDesideri](http://twitter.com/search?q=%23ISogniSonDesideri) | N/A |
+| 34 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
+| 35 | [#StopWar](http://twitter.com/search?q=%23StopWar) | N/A |
 | 36 | [#AlbertoSordi](http://twitter.com/search?q=%23AlbertoSordi) | N/A |
-| 37 | [#Cina](http://twitter.com/search?q=%23Cina) | N/A |
-| 38 | [#Savino](http://twitter.com/search?q=%23Savino) | N/A |
-| 39 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 40 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 41 | [#IoStoConLaPreside](http://twitter.com/search?q=%23IoStoConLaPreside) | N/A |
+| 37 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
+| 38 | [#ilprezzo](http://twitter.com/search?q=%23ilprezzo) | N/A |
+| 39 | [#Cina](http://twitter.com/search?q=%23Cina) | N/A |
+| 40 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 41 | [#CaniSciolti](http://twitter.com/search?q=%23CaniSciolti) | N/A |
+| 42 | [#Savino](http://twitter.com/search?q=%23Savino) | N/A |
+| 43 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 44 | [#antifascismo](http://twitter.com/search?q=%23antifascismo) | N/A |
+| 45 | [#IoStoConLaPreside](http://twitter.com/search?q=%23IoStoConLaPreside) | N/A |
 
 
 

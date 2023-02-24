@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-24 12:18:05 UTC`
+📆 Last Updated: `2023-02-24 13:20:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,47 +24,47 @@ This is top 50 for Ireland
 | 7 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 8 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 9 | [RIP Motty](http://twitter.com/search?q=RIP+Motty) | N/A |
-| 10 | [#fnmconf2023](http://twitter.com/search?q=%23fnmconf2023) | N/A |
-| 11 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 12 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 13 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
-| 14 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 15 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 16 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 17 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 18 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 19 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 20 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
-| 21 | [Bank of Ireland](http://twitter.com/search?q=Bank+of+Ireland) | N/A |
-| 22 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 23 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 24 | [Soft](http://twitter.com/search?q=Soft) | N/A |
-| 25 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 10 | [#FNMConf2023](http://twitter.com/search?q=%23FNMConf2023) | N/A |
+| 11 | [Hull](http://twitter.com/search?q=Hull) | N/A |
+| 12 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 13 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 15 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
+| 16 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 17 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 18 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 19 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
+| 20 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 21 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 22 | [Soft](http://twitter.com/search?q=Soft) | N/A |
+| 23 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 24 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 25 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 26 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 27 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 28 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 29 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 30 | [Yemen](http://twitter.com/search?q=Yemen) | N/A |
-| 31 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 32 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 33 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
-| 34 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 35 | [God's Creatures](http://twitter.com/search?q=God%27s+Creatures) | N/A |
-| 36 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 37 | [Conan](http://twitter.com/search?q=Conan) | N/A |
-| 38 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 39 | [MotD](http://twitter.com/search?q=MotD) | N/A |
-| 40 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 41 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 42 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
-| 43 | [Spain](http://twitter.com/search?q=Spain) | N/A |
-| 44 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
-| 45 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 46 | [Holly Cairns](http://twitter.com/search?q=Holly+Cairns) | N/A |
-| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 48 | [New IRA](http://twitter.com/search?q=New+IRA) | N/A |
-| 49 | [cmon united](http://twitter.com/search?q=cmon+united) | N/A |
-| 50 | [Turnip](http://twitter.com/search?q=Turnip) | N/A |
+| 27 | [Yemen](http://twitter.com/search?q=Yemen) | N/A |
+| 28 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 29 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 30 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 31 | [god's creatures](http://twitter.com/search?q=god%27s+creatures) | N/A |
+| 32 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 33 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 34 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
+| 35 | [Conan](http://twitter.com/search?q=Conan) | N/A |
+| 36 | [motd](http://twitter.com/search?q=motd) | N/A |
+| 37 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 38 | [Spain](http://twitter.com/search?q=Spain) | N/A |
+| 39 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
+| 40 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 41 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 42 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 43 | [Ash Wednesday](http://twitter.com/search?q=Ash+Wednesday) | N/A |
+| 44 | [cmon united](http://twitter.com/search?q=cmon+united) | N/A |
+| 45 | [Turnip](http://twitter.com/search?q=Turnip) | N/A |
+| 46 | [PSNI](http://twitter.com/search?q=PSNI) | N/A |
+| 47 | [The Portuguese](http://twitter.com/search?q=The+Portuguese) | N/A |
+| 48 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 49 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 50 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
 
 
 

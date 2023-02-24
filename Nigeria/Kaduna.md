@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kaduna
 
-📆 Last Updated: `2023-02-24 12:17:44 UTC`
+📆 Last Updated: `2023-02-24 13:20:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#AmazingProphetGenesis](http://twitter.com/search?q=%23AmazingProphetGenesis) | N/A |
-| 2 | [#indomie](http://twitter.com/search?q=%23indomie) | N/A |
+| 1 | [#TeniadeBlowItOut](http://twitter.com/search?q=%23TeniadeBlowItOut) | N/A |
+| 2 | [#AmazingProphetGenesis](http://twitter.com/search?q=%23AmazingProphetGenesis) | N/A |
 | 3 | [#Yourwaistchallenge](http://twitter.com/search?q=%23Yourwaistchallenge) | N/A |
-| 4 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
-| 5 | [#saynotoapc](http://twitter.com/search?q=%23saynotoapc) | N/A |
-| 6 | [#UzabeNigeria](http://twitter.com/search?q=%23UzabeNigeria) | N/A |
+| 4 | [#APCFAKENAIRA](http://twitter.com/search?q=%23APCFAKENAIRA) | N/A |
+| 5 | [#indomie](http://twitter.com/search?q=%23indomie) | N/A |
+| 6 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
 | 7 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 8 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 9 | [Tambuwal](http://twitter.com/search?q=Tambuwal) | N/A |
-| 10 | [Structure of Criminality](http://twitter.com/search?q=Structure+of+Criminality) | N/A |
-| 11 | [Peter Gregory Obi](http://twitter.com/search?q=Peter+Gregory+Obi) | N/A |
-| 12 | [Chinyere Igwe](http://twitter.com/search?q=Chinyere+Igwe) | N/A |
-| 13 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 14 | [YVONNE THE STANDARD](http://twitter.com/search?q=YVONNE+THE+STANDARD) | N/A |
-| 15 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 16 | [Option B](http://twitter.com/search?q=Option+B) | N/A |
-| 17 | [Okowa](http://twitter.com/search?q=Okowa) | N/A |
-| 18 | [Atiku and Tinubu](http://twitter.com/search?q=Atiku+and+Tinubu) | N/A |
-| 19 | [Overtime](http://twitter.com/search?q=Overtime) | N/A |
-| 20 | [VERSATILE YEMI CREGX](http://twitter.com/search?q=VERSATILE+YEMI+CREGX) | N/A |
-| 21 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 22 | [The Red Wedding](http://twitter.com/search?q=The+Red+Wedding) | N/A |
-| 23 | [I HAVE MY GLORIOUS EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+GLORIOUS+EVIDENCE) | N/A |
-| 24 | [Tacha](http://twitter.com/search?q=Tacha) | N/A |
-| 25 | [Dear Nigerians](http://twitter.com/search?q=Dear+Nigerians) | N/A |
-| 26 | [Precious](http://twitter.com/search?q=Precious) | N/A |
-| 27 | [Gbaja](http://twitter.com/search?q=Gbaja) | N/A |
-| 28 | [Almighty Allah](http://twitter.com/search?q=Almighty+Allah) | N/A |
-| 29 | [Rivers State](http://twitter.com/search?q=Rivers+State) | N/A |
-| 30 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 31 | [Slow Motion](http://twitter.com/search?q=Slow+Motion) | N/A |
-| 32 | [Polling Unit](http://twitter.com/search?q=Polling+Unit) | N/A |
-| 33 | [Afrobeat](http://twitter.com/search?q=Afrobeat) | N/A |
-| 34 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
-| 35 | [Eko Atlantic](http://twitter.com/search?q=Eko+Atlantic) | N/A |
-| 36 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 37 | [Libya](http://twitter.com/search?q=Libya) | N/A |
-| 38 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 39 | [Pikin](http://twitter.com/search?q=Pikin) | N/A |
-| 40 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 41 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 42 | [Akata](http://twitter.com/search?q=Akata) | N/A |
-| 43 | [Surulere](http://twitter.com/search?q=Surulere) | N/A |
-| 44 | [Vote Obi](http://twitter.com/search?q=Vote+Obi) | N/A |
-| 45 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 46 | [#UELdraw](http://twitter.com/search?q=%23UELdraw) | N/A |
-| 47 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
-| 48 | [#APCFAKENAIRA](http://twitter.com/search?q=%23APCFAKENAIRA) | N/A |
+| 8 | [FREEDOM IS COMING TOMORROW](http://twitter.com/search?q=FREEDOM+IS+COMING+TOMORROW) | N/A |
+| 9 | [Peter Gregory Obi](http://twitter.com/search?q=Peter+Gregory+Obi) | N/A |
+| 10 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 11 | [Tambuwal](http://twitter.com/search?q=Tambuwal) | N/A |
+| 12 | [Structure of Criminality](http://twitter.com/search?q=Structure+of+Criminality) | N/A |
+| 13 | [Free WiFi](http://twitter.com/search?q=Free+WiFi) | N/A |
+| 14 | [Chinyere Igwe](http://twitter.com/search?q=Chinyere+Igwe) | N/A |
+| 15 | [Atiku and Tinubu](http://twitter.com/search?q=Atiku+and+Tinubu) | N/A |
+| 16 | [Okowa](http://twitter.com/search?q=Okowa) | N/A |
+| 17 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 18 | [YVONNE THE STANDARD](http://twitter.com/search?q=YVONNE+THE+STANDARD) | N/A |
+| 19 | [Afrobeats](http://twitter.com/search?q=Afrobeats) | N/A |
+| 20 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
+| 21 | [Overtime](http://twitter.com/search?q=Overtime) | N/A |
+| 22 | [VERSATILE YEMI CREGX](http://twitter.com/search?q=VERSATILE+YEMI+CREGX) | N/A |
+| 23 | [Arise TV](http://twitter.com/search?q=Arise+TV) | N/A |
+| 24 | [Atiku Abubakar](http://twitter.com/search?q=Atiku+Abubakar) | N/A |
+| 25 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 26 | [Tacha](http://twitter.com/search?q=Tacha) | N/A |
+| 27 | [The Red Wedding](http://twitter.com/search?q=The+Red+Wedding) | N/A |
+| 28 | [Polling Unit](http://twitter.com/search?q=Polling+Unit) | N/A |
+| 29 | [Dear Nigerians](http://twitter.com/search?q=Dear+Nigerians) | N/A |
+| 30 | [Precious](http://twitter.com/search?q=Precious) | N/A |
+| 31 | [option b](http://twitter.com/search?q=option+b) | N/A |
+| 32 | [Libya](http://twitter.com/search?q=Libya) | N/A |
+| 33 | [Almighty Allah](http://twitter.com/search?q=Almighty+Allah) | N/A |
+| 34 | [Pikin](http://twitter.com/search?q=Pikin) | N/A |
+| 35 | [Slow Motion](http://twitter.com/search?q=Slow+Motion) | N/A |
+| 36 | [Propaganda](http://twitter.com/search?q=Propaganda) | N/A |
+| 37 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 38 | [Eko Atlantic](http://twitter.com/search?q=Eko+Atlantic) | N/A |
+| 39 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 40 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 41 | [Desmond Elliot](http://twitter.com/search?q=Desmond+Elliot) | N/A |
+| 42 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 43 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 44 | [Akata](http://twitter.com/search?q=Akata) | N/A |
+| 45 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
+| 46 | [#uzabenigeria](http://twitter.com/search?q=%23uzabenigeria) | N/A |
+| 47 | [#UELdraw](http://twitter.com/search?q=%23UELdraw) | N/A |
+| 48 | [#SAYNOTOAPC](http://twitter.com/search?q=%23SAYNOTOAPC) | N/A |
 | 49 | [#bawamustgonow](http://twitter.com/search?q=%23bawamustgonow) | N/A |
 
 
