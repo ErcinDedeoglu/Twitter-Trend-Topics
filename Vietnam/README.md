@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-24 07:17:45 UTC`
+📆 Last Updated: `2023-02-24 08:17:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
-| 2 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 1 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 2 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
 | 3 | [#BuildInWhite](http://twitter.com/search?q=%23BuildInWhite) | N/A |
 | 4 | [#ZeeNuNew안녕D1](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D1) | N/A |
 | 5 | [#2M300KforBuild](http://twitter.com/search?q=%232M300KforBuild) | N/A |
 | 6 | [#MFW](http://twitter.com/search?q=%23MFW) | N/A |
-| 7 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
-| 8 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 7 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 8 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
 | 9 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
 | 10 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
 | 11 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
-| 12 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 13 | [WATCH SMCU EP3 NOW](http://twitter.com/search?q=WATCH+SMCU+EP3+NOW) | N/A |
-| 14 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 15 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 16 | [kiana](http://twitter.com/search?q=kiana) | N/A |
-| 17 | [build is special](http://twitter.com/search?q=build+is+special) | N/A |
-| 18 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 19 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 20 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 21 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 22 | [CHARLOTTE 2nd MV BROTHER](http://twitter.com/search?q=CHARLOTTE+2nd+MV+BROTHER) | N/A |
+| 12 | [WATCH SMCU EP3 NOW](http://twitter.com/search?q=WATCH+SMCU+EP3+NOW) | N/A |
+| 13 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 14 | [kiana](http://twitter.com/search?q=kiana) | N/A |
+| 15 | [BUILD IS SPECIAL](http://twitter.com/search?q=BUILD+IS+SPECIAL) | N/A |
+| 16 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 17 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 18 | [CHARLOTTE 2nd MV BROTHER](http://twitter.com/search?q=CHARLOTTE+2nd+MV+BROTHER) | N/A |
+| 19 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 20 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 21 | [Hook](http://twitter.com/search?q=Hook) | N/A |
+| 22 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
 | 23 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 24 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
+| 24 | [Meow](http://twitter.com/search?q=Meow) | N/A |
 | 25 | [Chess](http://twitter.com/search?q=Chess) | N/A |
-| 26 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 27 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 28 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
-| 29 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
-| 30 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
-| 31 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
-| 32 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 33 | [Meow](http://twitter.com/search?q=Meow) | N/A |
-| 34 | [1M $TFAI Airdrop](http://twitter.com/search?q=1M+%24TFAI+Airdrop) | N/A |
-| 35 | [TradFi](http://twitter.com/search?q=TradFi) | N/A |
-| 36 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 37 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 38 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 39 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
-| 40 | [vinh](http://twitter.com/search?q=vinh) | N/A |
-| 41 | [Ankr](http://twitter.com/search?q=Ankr) | N/A |
-| 42 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 43 | [Tây Ban Nha](http://twitter.com/search?q=T%c3%a2y+Ban+Nha) | N/A |
-| 44 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
-| 45 | [America](http://twitter.com/search?q=America) | N/A |
-| 46 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 26 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 27 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 28 | [Bitcoin](http://twitter.com/search?q=Bitcoin) | N/A |
+| 29 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 30 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
+| 31 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
+| 32 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
+| 33 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
+| 34 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 35 | [1M $TFAI Airdrop](http://twitter.com/search?q=1M+%24TFAI+Airdrop) | N/A |
+| 36 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 37 | [TradFi](http://twitter.com/search?q=TradFi) | N/A |
+| 38 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 39 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 40 | [Ho Chi Minh City](http://twitter.com/search?q=Ho+Chi+Minh+City) | N/A |
+| 41 | [Cosmos](http://twitter.com/search?q=Cosmos) | N/A |
+| 42 | [ANKR](http://twitter.com/search?q=ANKR) | N/A |
+| 43 | [tây ban nha](http://twitter.com/search?q=t%c3%a2y+ban+nha) | N/A |
+| 44 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 45 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
+| 46 | [Hà Nội](http://twitter.com/search?q=H%c3%a0+N%e1%bb%99i) | N/A |
 | 47 | [Điều](http://twitter.com/search?q=%c4%90i%e1%bb%81u) | N/A |
-| 48 | [Season 1](http://twitter.com/search?q=Season+1) | N/A |
-| 49 | [Việt Nam](http://twitter.com/search?q=Vi%e1%bb%87t+Nam) | N/A |
-| 50 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 48 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 49 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 50 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
 
 
 

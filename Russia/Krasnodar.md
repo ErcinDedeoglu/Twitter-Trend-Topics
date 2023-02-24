@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Krasnodar
 
-📆 Last Updated: `2023-02-24 07:17:18 UTC`
+📆 Last Updated: `2023-02-24 08:16:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Russia](</Russia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Отечества](http://twitter.com/search?q=%d0%9e%d1%82%d0%b5%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0) | N/A |
-| 2 | [#arbitrumm](http://twitter.com/search?q=%23arbitrumm) | N/A |
-| 3 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
-| 4 | [с праздником](http://twitter.com/search?q=%d1%81+%d0%bf%d1%80%d0%b0%d0%b7%d0%b4%d0%bd%d0%b8%d0%ba%d0%be%d0%bc) | N/A |
-| 5 | [Coins](http://twitter.com/search?q=Coins) | N/A |
+| 1 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
+| 2 | [Отечества](http://twitter.com/search?q=%d0%9e%d1%82%d0%b5%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0) | N/A |
+| 3 | [#arbitrumm](http://twitter.com/search?q=%23arbitrumm) | N/A |
+| 4 | [#нюдсочетверг](http://twitter.com/search?q=%23%d0%bd%d1%8e%d0%b4%d1%81%d0%be%d1%87%d0%b5%d1%82%d0%b2%d0%b5%d1%80%d0%b3) | N/A |
+| 5 | [с праздником](http://twitter.com/search?q=%d1%81+%d0%bf%d1%80%d0%b0%d0%b7%d0%b4%d0%bd%d0%b8%d0%ba%d0%be%d0%bc) | N/A |
 | 6 | [#23февраля](http://twitter.com/search?q=%2323%d1%84%d0%b5%d0%b2%d1%80%d0%b0%d0%bb%d1%8f) | N/A |
 | 7 | [#NFTdrop](http://twitter.com/search?q=%23NFTdrop) | N/A |
 | 8 | [002 only](http://twitter.com/search?q=002+only) | N/A |
 | 9 | [Fund](http://twitter.com/search?q=Fund) | N/A |
-| 10 | [#iPhone](http://twitter.com/search?q=%23iPhone) | N/A |
+| 10 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
 | 11 | [Лужниках](http://twitter.com/search?q=%d0%9b%d1%83%d0%b6%d0%bd%d0%b8%d0%ba%d0%b0%d1%85) | N/A |
-| 12 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
-| 13 | [Взаимно](http://twitter.com/search?q=%d0%92%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
-| 14 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
-| 15 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
-| 16 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 12 | [Красиво](http://twitter.com/search?q=%d0%9a%d1%80%d0%b0%d1%81%d0%b8%d0%b2%d0%be) | N/A |
+| 13 | [арсений](http://twitter.com/search?q=%d0%b0%d1%80%d1%81%d0%b5%d0%bd%d0%b8%d0%b9) | N/A |
+| 14 | [Взаимно](http://twitter.com/search?q=%d0%92%d0%b7%d0%b0%d0%b8%d0%bc%d0%bd%d0%be) | N/A |
+| 15 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 16 | [С Днём](http://twitter.com/search?q=%d0%a1+%d0%94%d0%bd%d1%91%d0%bc) | N/A |
 | 17 | [Маска](http://twitter.com/search?q=%d0%9c%d0%b0%d1%81%d0%ba%d0%b0) | N/A |
-| 18 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
-| 19 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
-| 20 | [хватит](http://twitter.com/search?q=%d1%85%d0%b2%d0%b0%d1%82%d0%b8%d1%82) | N/A |
+| 18 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 19 | [Путина](http://twitter.com/search?q=%d0%9f%d1%83%d1%82%d0%b8%d0%bd%d0%b0) | N/A |
+| 20 | [Coins](http://twitter.com/search?q=Coins) | N/A |
 | 21 | [Боты](http://twitter.com/search?q=%d0%91%d0%be%d1%82%d1%8b) | N/A |
-| 22 | [В Москве](http://twitter.com/search?q=%d0%92+%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
-| 23 | [С Днём](http://twitter.com/search?q=%d0%a1+%d0%94%d0%bd%d1%91%d0%bc) | N/A |
+| 22 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 23 | [В Москве](http://twitter.com/search?q=%d0%92+%d0%9c%d0%be%d1%81%d0%ba%d0%b2%d0%b5) | N/A |
 | 24 | [Естественно](http://twitter.com/search?q=%d0%95%d1%81%d1%82%d0%b5%d1%81%d1%82%d0%b2%d0%b5%d0%bd%d0%bd%d0%be) | N/A |
 | 25 | [Украиной](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%be%d0%b9) | N/A |
 | 26 | [дснв](http://twitter.com/search?q=%d0%b4%d1%81%d0%bd%d0%b2) | N/A |
 | 27 | [минхо](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%85%d0%be) | N/A |
 | 28 | [issuedd 900](http://twitter.com/search?q=issuedd+900) | N/A |
 | 29 | [Смешно](http://twitter.com/search?q=%d0%a1%d0%bc%d0%b5%d1%88%d0%bd%d0%be) | N/A |
-| 30 | [нормально](http://twitter.com/search?q=%d0%bd%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 31 | [божечки](http://twitter.com/search?q=%d0%b1%d0%be%d0%b6%d0%b5%d1%87%d0%ba%d0%b8) | N/A |
-| 32 | [Вряд](http://twitter.com/search?q=%d0%92%d1%80%d1%8f%d0%b4) | N/A |
-| 33 | [Слава](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0) | N/A |
-| 34 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
-| 35 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 30 | [Нормально](http://twitter.com/search?q=%d0%9d%d0%be%d1%80%d0%bc%d0%b0%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 31 | [Вряд](http://twitter.com/search?q=%d0%92%d1%80%d1%8f%d0%b4) | N/A |
+| 32 | [Слава](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0) | N/A |
+| 33 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 34 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
+| 35 | [Сочувствую](http://twitter.com/search?q=%d0%a1%d0%be%d1%87%d1%83%d0%b2%d1%81%d1%82%d0%b2%d1%83%d1%8e) | N/A |
 | 36 | [думаешь](http://twitter.com/search?q=%d0%b4%d1%83%d0%bc%d0%b0%d0%b5%d1%88%d1%8c) | N/A |
-| 37 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 38 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
-| 39 | [солнце](http://twitter.com/search?q=%d1%81%d0%be%d0%bb%d0%bd%d1%86%d0%b5) | N/A |
-| 40 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
+| 37 | [Согласен](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%b5%d0%bd) | N/A |
+| 38 | [Солнце](http://twitter.com/search?q=%d0%a1%d0%be%d0%bb%d0%bd%d1%86%d0%b5) | N/A |
+| 39 | [Капец](http://twitter.com/search?q=%d0%9a%d0%b0%d0%bf%d0%b5%d1%86) | N/A |
+| 40 | [Многие](http://twitter.com/search?q=%d0%9c%d0%bd%d0%be%d0%b3%d0%b8%d0%b5) | N/A |
 | 41 | [Абсолютно](http://twitter.com/search?q=%d0%90%d0%b1%d1%81%d0%be%d0%bb%d1%8e%d1%82%d0%bd%d0%be) | N/A |
 | 42 | [испании](http://twitter.com/search?q=%d0%b8%d1%81%d0%bf%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
 | 43 | [Самая](http://twitter.com/search?q=%d0%a1%d0%b0%d0%bc%d0%b0%d1%8f) | N/A |
-| 44 | [В России](http://twitter.com/search?q=%d0%92+%d0%a0%d0%be%d1%81%d1%81%d0%b8%d0%b8) | N/A |
-| 45 | [киеву](http://twitter.com/search?q=%d0%ba%d0%b8%d0%b5%d0%b2%d1%83) | N/A |
-| 46 | [Супер](http://twitter.com/search?q=%d0%a1%d1%83%d0%bf%d0%b5%d1%80) | N/A |
-| 47 | [японии](http://twitter.com/search?q=%d1%8f%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
-| 48 | [Походу](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b4%d1%83) | N/A |
-| 49 | [вижу](http://twitter.com/search?q=%d0%b2%d0%b8%d0%b6%d1%83) | N/A |
-| 50 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
+| 44 | [Запад](http://twitter.com/search?q=%d0%97%d0%b0%d0%bf%d0%b0%d0%b4) | N/A |
+| 45 | [Донбассе](http://twitter.com/search?q=%d0%94%d0%be%d0%bd%d0%b1%d0%b0%d1%81%d1%81%d0%b5) | N/A |
+| 46 | [Киеву](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d1%83) | N/A |
+| 47 | [Супер](http://twitter.com/search?q=%d0%a1%d1%83%d0%bf%d0%b5%d1%80) | N/A |
+| 48 | [GM GM](http://twitter.com/search?q=GM+GM) | N/A |
+| 49 | [японии](http://twitter.com/search?q=%d1%8f%d0%bf%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
+| 50 | [Походу](http://twitter.com/search?q=%d0%9f%d0%be%d1%85%d0%be%d0%b4%d1%83) | N/A |
 
 
 

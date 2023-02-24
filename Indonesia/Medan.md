@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Medan
 
-📆 Last Updated: `2023-02-24 07:17:05 UTC`
+📆 Last Updated: `2023-02-24 08:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,52 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pak Prabowo Subianto](http://twitter.com/search?q=Pak+Prabowo+Subianto) | N/A |
-| 2 | [Mengabdi Tanpa Lelah](http://twitter.com/search?q=Mengabdi+Tanpa+Lelah) | N/A |
+| 1 | [#TokocryptoforBLK2023](http://twitter.com/search?q=%23TokocryptoforBLK2023) | N/A |
+| 2 | [BulanLiterasiKripto](http://twitter.com/search?q=BulanLiterasiKripto) | N/A |
 | 3 | [Prabowo Untuk Indonesia](http://twitter.com/search?q=Prabowo+Untuk+Indonesia) | N/A |
-| 4 | [Setujuuu Mending Prabowo](http://twitter.com/search?q=Setujuuu+Mending+Prabowo) | N/A |
-| 5 | [#BRImoInAja](http://twitter.com/search?q=%23BRImoInAja) | N/A |
-| 6 | [Valid No Debat](http://twitter.com/search?q=Valid+No+Debat) | N/A |
-| 7 | [#TokocryptoforBLK2023](http://twitter.com/search?q=%23TokocryptoforBLK2023) | N/A |
-| 8 | [BulanLiterasiKripto](http://twitter.com/search?q=BulanLiterasiKripto) | N/A |
+| 4 | [Pak Prabowo Subianto](http://twitter.com/search?q=Pak+Prabowo+Subianto) | N/A |
+| 5 | [Mengabdi Tanpa Lelah](http://twitter.com/search?q=Mengabdi+Tanpa+Lelah) | N/A |
+| 6 | [Setujuuu Mending Prabowo](http://twitter.com/search?q=Setujuuu+Mending+Prabowo) | N/A |
+| 7 | [#BRImoInAja](http://twitter.com/search?q=%23BRImoInAja) | N/A |
+| 8 | [Valid No Debat](http://twitter.com/search?q=Valid+No+Debat) | N/A |
 | 9 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
-| 10 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 11 | [Berantas Mafia Bola](http://twitter.com/search?q=Berantas+Mafia+Bola) | N/A |
-| 12 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 13 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
-| 14 | [Jum'at](http://twitter.com/search?q=Jum%27at) | N/A |
-| 15 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
-| 16 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
-| 17 | [CLOUD STORAGE](http://twitter.com/search?q=CLOUD+STORAGE) | N/A |
-| 18 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 19 | [David](http://twitter.com/search?q=David) | N/A |
-| 20 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 21 | [Fajar](http://twitter.com/search?q=Fajar) | Fajar is an Arabic word meaning dawn or sunrise. It is also used to refer to the first prayer of the day in Islam, which is performed just before sunrise. |
-| 22 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 10 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
+| 11 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 12 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 13 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 14 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 15 | [Berantas Mafia Bola](http://twitter.com/search?q=Berantas+Mafia+Bola) | N/A |
+| 16 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 17 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
+| 18 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
+| 19 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 20 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
+| 21 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
+| 22 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
 | 23 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 24 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
-| 25 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 26 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 27 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 28 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 29 | [Ada 3](http://twitter.com/search?q=Ada+3) | N/A |
-| 30 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 31 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
-| 32 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 33 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 34 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 35 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 36 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
-| 37 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 38 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 39 | [Mandiri](http://twitter.com/search?q=Mandiri) | N/A |
-| 40 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 41 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 42 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 24 | [David](http://twitter.com/search?q=David) | N/A |
+| 25 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 26 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
+| 27 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 28 | [CLOUD STORAGE](http://twitter.com/search?q=CLOUD+STORAGE) | N/A |
+| 29 | [Fajar](http://twitter.com/search?q=Fajar) | Fajar is an Arabic word meaning dawn or sunrise. It is also used to refer to the first prayer of the day in Islam, which is performed just before sunrise. |
+| 30 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 31 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 32 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 33 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 34 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 35 | [Ada 3](http://twitter.com/search?q=Ada+3) | N/A |
+| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 37 | [Aladdin](http://twitter.com/search?q=Aladdin) | N/A |
+| 38 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 39 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 40 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
+| 41 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 42 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
 | 43 | [Bonnie](http://twitter.com/search?q=Bonnie) | N/A |
 | 44 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
-| 45 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
-| 46 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
+| 45 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 46 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
 
 
 

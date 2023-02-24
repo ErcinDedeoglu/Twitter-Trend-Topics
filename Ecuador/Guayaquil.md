@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-02-24 07:16:50 UTC`
+📆 Last Updated: `2023-02-24 08:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,21 +17,21 @@ This is top 50 for [Ecuador](</Ecuador>)
 | ------- | ------------ | ------------ |
 | 1 | [#MasterChefEcuador](http://twitter.com/search?q=%23MasterChefEcuador) | N/A |
 | 2 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 3 | [Harta Demencia](http://twitter.com/search?q=Harta+Demencia) | N/A |
-| 4 | [Eliseo Duarte](http://twitter.com/search?q=Eliseo+Duarte) | N/A |
-| 5 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 6 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 3 | [Eliseo Duarte](http://twitter.com/search?q=Eliseo+Duarte) | N/A |
+| 4 | [Harta Demencia](http://twitter.com/search?q=Harta+Demencia) | N/A |
+| 5 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 6 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
 | 7 | [Andrés](http://twitter.com/search?q=Andr%c3%a9s) | N/A |
 | 8 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
-| 9 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 9 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
 | 10 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 11 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 12 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 11 | [Moreno](http://twitter.com/search?q=Moreno) | Moreno is a Spanish word meaning "dark-haired" or "dark-skinned". It is used as both a surname and a given name. |
+| 12 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
 | 13 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 14 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 15 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 16 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
-| 17 | [Javier Burrai](http://twitter.com/search?q=Javier+Burrai) | N/A |
+| 17 | [javier burrai](http://twitter.com/search?q=javier+burrai) | N/A |
 | 18 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 19 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 20 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
@@ -51,20 +51,20 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 34 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 35 | [Don Marco](http://twitter.com/search?q=Don+Marco) | N/A |
 | 36 | [Otavalo](http://twitter.com/search?q=Otavalo) | N/A |
-| 37 | [piero hincapié](http://twitter.com/search?q=piero+hincapi%c3%a9) | N/A |
-| 38 | [Wolverine](http://twitter.com/search?q=Wolverine) | N/A |
-| 39 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 40 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 41 | [ultrajada](http://twitter.com/search?q=ultrajada) | N/A |
-| 42 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 37 | [Wolverine](http://twitter.com/search?q=Wolverine) | N/A |
+| 38 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 39 | [piero hincapié](http://twitter.com/search?q=piero+hincapi%c3%a9) | N/A |
+| 40 | [ultrajada](http://twitter.com/search?q=ultrajada) | N/A |
+| 41 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 42 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
 | 43 | [FC Barcelona](http://twitter.com/search?q=FC+Barcelona) | N/A |
 | 44 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 45 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
-| 46 | [Germán Cáceres](http://twitter.com/search?q=Germ%c3%a1n+C%c3%a1ceres) | N/A |
-| 47 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 48 | [Raúl](http://twitter.com/search?q=Ra%c3%bal) | N/A |
-| 49 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 50 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 45 | [germán cáceres](http://twitter.com/search?q=germ%c3%a1n+c%c3%a1ceres) | N/A |
+| 46 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 47 | [Raúl](http://twitter.com/search?q=Ra%c3%bal) | N/A |
+| 48 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 49 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 50 | [Alfonso Camacho](http://twitter.com/search?q=Alfonso+Camacho) | N/A |
 
 
 

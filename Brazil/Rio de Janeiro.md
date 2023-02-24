@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-24 07:16:52 UTC`
+📆 Last Updated: `2023-02-24 08:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 1 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
 | 2 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 3 | [Raniel](http://twitter.com/search?q=Raniel) | Raniel is a Hebrew name meaning "God has seen". |
-| 4 | [Vascão](http://twitter.com/search?q=Vasc%c3%a3o) | N/A |
-| 5 | [Goiás](http://twitter.com/search?q=Goi%c3%a1s) | N/A |
-| 6 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
-| 7 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 8 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
-| 9 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 10 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 11 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 12 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
-| 13 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 14 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 15 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 16 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 17 | [#BoysPlanetElimination](http://twitter.com/search?q=%23BoysPlanetElimination) | N/A |
-| 18 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 19 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 20 | [#보이즈플래닛1제거](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b1%ec%a0%9c%ea%b1%b0) | N/A |
-| 21 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 22 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 23 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 24 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 25 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 26 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 27 | [Nicacio](http://twitter.com/search?q=Nicacio) | N/A |
-| 28 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 29 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 30 | [Trem](http://twitter.com/search?q=Trem) | N/A |
-| 31 | [NO FLOW](http://twitter.com/search?q=NO+FLOW) | N/A |
-| 32 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 33 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 34 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 35 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
-| 36 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 37 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 38 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 39 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 40 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 41 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
-| 42 | [QUE SABOR](http://twitter.com/search?q=QUE+SABOR) | N/A |
-| 43 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 44 | [Caze](http://twitter.com/search?q=Caze) | N/A |
-| 45 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 46 | [takuto](http://twitter.com/search?q=takuto) | N/A |
-| 47 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 48 | [marina sena](http://twitter.com/search?q=marina+sena) | N/A |
-| 49 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 50 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
+| 3 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
+| 4 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 5 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
+| 6 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 7 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 8 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 9 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 10 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 11 | [#BoysPlanetElimination](http://twitter.com/search?q=%23BoysPlanetElimination) | N/A |
+| 12 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 13 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 14 | [#보이즈플래닛1제거](http://twitter.com/search?q=%23%eb%b3%b4%ec%9d%b4%ec%a6%88%ed%94%8c%eb%9e%98%eb%8b%9b1%ec%a0%9c%ea%b1%b0) | N/A |
+| 15 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 16 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 17 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 18 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 19 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 20 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 21 | [Nicacio](http://twitter.com/search?q=Nicacio) | N/A |
+| 22 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 23 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 24 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 25 | [Trem](http://twitter.com/search?q=Trem) | N/A |
+| 26 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 27 | [No Flow](http://twitter.com/search?q=No+Flow) | N/A |
+| 28 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 29 | [LEXA](http://twitter.com/search?q=LEXA) | N/A |
+| 30 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 31 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
+| 32 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
+| 33 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
+| 34 | [Cara de Sapato](http://twitter.com/search?q=Cara+de+Sapato) | Cara de Sapato is a Portuguese expression that literally translates to "shoe face." It is used to describe someone who has an expressionless or emotionless face. In English, it can be used to describe someone who has a poker face. |
+| 35 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 36 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 37 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 38 | [takuto](http://twitter.com/search?q=takuto) | N/A |
+| 39 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 40 | [Load](http://twitter.com/search?q=Load) | N/A |
+| 41 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
+| 42 | [marina sena](http://twitter.com/search?q=marina+sena) | N/A |
+| 43 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 44 | [Ribamar](http://twitter.com/search?q=Ribamar) | N/A |
+| 45 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 46 | [Agroboy](http://twitter.com/search?q=Agroboy) | Agroboy is a slang term used to describe someone who is aggressive, confrontational, and quick to anger. It is often used to describe someone who is easily provoked and prone to outbursts of rage. |
+| 47 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
+| 48 | [Planta](http://twitter.com/search?q=Planta) | N/A |
+| 49 | [Agrotóxico](http://twitter.com/search?q=Agrot%c3%b3xico) | N/A |
+| 50 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Chile
 
-📆 Last Updated: `2023-02-24 07:17:38 UTC`
+📆 Last Updated: `2023-02-24 08:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,37 +28,22 @@ This is top 50 for Chile
 | 11 | [boys planet](http://twitter.com/search?q=boys+planet) | N/A |
 | 12 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
 | 13 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 14 | [Freire](http://twitter.com/search?q=Freire) | N/A |
+| 14 | [freire](http://twitter.com/search?q=freire) | N/A |
 | 15 | [Robert de Niro](http://twitter.com/search?q=Robert+de+Niro) | N/A |
 | 16 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
-| 17 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 18 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 17 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 18 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
 | 19 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 20 | [Young Cister](http://twitter.com/search?q=Young+Cister) | Young Cister is a youth movement of the Cistercian Order, a Roman Catholic religious order. The movement was founded in France in 1948 and is open to young people aged between 18 and 35. Its purpose is to promote the values of the Cistercian Order among young people, including prayer, work, and community life. The English translation of Young Cister is "Young Cistercians". |
-| 21 | [Ruminot](http://twitter.com/search?q=Ruminot) | N/A |
-| 22 | [Milena](http://twitter.com/search?q=Milena) | N/A |
-| 23 | [Gonzalo Feito](http://twitter.com/search?q=Gonzalo+Feito) | N/A |
+| 20 | [Ruminot](http://twitter.com/search?q=Ruminot) | N/A |
+| 21 | [Feito](http://twitter.com/search?q=Feito) | N/A |
+| 22 | [Ultra Solo](http://twitter.com/search?q=Ultra+Solo) | N/A |
+| 23 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
 | 24 | [Salinas](http://twitter.com/search?q=Salinas) | N/A |
-| 25 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
-| 26 | [Ultra Solo](http://twitter.com/search?q=Ultra+Solo) | N/A |
-| 27 | [Kast](http://twitter.com/search?q=Kast) | N/A |
-| 28 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
-| 29 | [Luismi](http://twitter.com/search?q=Luismi) | N/A |
-| 30 | [María Luisa](http://twitter.com/search?q=Mar%c3%ada+Luisa) | N/A |
-| 31 | [Chico Pérez](http://twitter.com/search?q=Chico+P%c3%a9rez) | N/A |
-| 32 | [Jordan](http://twitter.com/search?q=Jordan) | N/A |
-| 33 | [Copanito](http://twitter.com/search?q=Copanito) | N/A |
-| 34 | [#Yorka](http://twitter.com/search?q=%23Yorka) | N/A |
-| 35 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
-| 36 | [Raquel Castillo](http://twitter.com/search?q=Raquel+Castillo) | N/A |
-| 37 | [#Festival2023](http://twitter.com/search?q=%23Festival2023) | N/A |
-| 38 | [Lady Marmalade](http://twitter.com/search?q=Lady+Marmalade) | N/A |
-| 39 | [ricky](http://twitter.com/search?q=ricky) | N/A |
-| 40 | [Ven Conmigo](http://twitter.com/search?q=Ven+Conmigo) | N/A |
-| 41 | [Britney](http://twitter.com/search?q=Britney) | N/A |
-| 42 | [Notable](http://twitter.com/search?q=Notable) | N/A |
-| 43 | [nicki nicole](http://twitter.com/search?q=nicki+nicole) | N/A |
-| 44 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
+| 25 | [Lady Marmalade](http://twitter.com/search?q=Lady+Marmalade) | N/A |
+| 26 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 27 | [Britney](http://twitter.com/search?q=Britney) | N/A |
+| 28 | [Notable](http://twitter.com/search?q=Notable) | N/A |
+| 29 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
 
 
 
