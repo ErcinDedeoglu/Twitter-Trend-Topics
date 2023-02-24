@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-24 21:16:25 UTC`
+📆 Last Updated: `2023-02-24 23:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -32,16 +32,16 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 15 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
 | 16 | [mnet](http://twitter.com/search?q=mnet) | N/A |
 | 17 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 18 | [CHARLOTTE 2nd MV BROTHER](http://twitter.com/search?q=CHARLOTTE+2nd+MV+BROTHER) | N/A |
+| 18 | [charlotte 2nd mv brother](http://twitter.com/search?q=charlotte+2nd+mv+brother) | N/A |
 | 19 | [Earth](http://twitter.com/search?q=Earth) | N/A |
 | 20 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 21 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
 | 22 | [The US](http://twitter.com/search?q=The+US) | N/A |
 | 23 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 24 | [Meow](http://twitter.com/search?q=Meow) | N/A |
-| 25 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 26 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 27 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 24 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 25 | [Meow](http://twitter.com/search?q=Meow) | N/A |
+| 26 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 27 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
 | 28 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
 | 29 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
 | 30 | [Cosmos](http://twitter.com/search?q=Cosmos) | N/A |
@@ -50,19 +50,19 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 33 | [Matic](http://twitter.com/search?q=Matic) | N/A |
 | 34 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
 | 35 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
-| 36 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
-| 37 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
-| 38 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
-| 39 | [Dapps](http://twitter.com/search?q=Dapps) | N/A |
-| 40 | [Mint](http://twitter.com/search?q=Mint) | N/A |
-| 41 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 42 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 43 | [Tây Ban Nha](http://twitter.com/search?q=T%c3%a2y+Ban+Nha) | N/A |
-| 44 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
-| 45 | [Dang Hong Hai](http://twitter.com/search?q=Dang+Hong+Hai) | N/A |
-| 46 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 47 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
-| 48 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
+| 36 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
+| 37 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
+| 38 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 39 | [Mint](http://twitter.com/search?q=Mint) | N/A |
+| 40 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 41 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
+| 42 | [Tây Ban Nha](http://twitter.com/search?q=T%c3%a2y+Ban+Nha) | N/A |
+| 43 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
+| 44 | [Dang Hong Hai](http://twitter.com/search?q=Dang+Hong+Hai) | N/A |
+| 45 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 46 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 47 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
+| 48 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
 
 
 

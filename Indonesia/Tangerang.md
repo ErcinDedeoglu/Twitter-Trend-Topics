@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-24 21:16:17 UTC`
+📆 Last Updated: `2023-02-24 23:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,44 +24,44 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 7 | [setujuuu mending prabowo](http://twitter.com/search?q=setujuuu+mending+prabowo) | N/A |
 | 8 | [#TokocryptoforBLK2023](http://twitter.com/search?q=%23TokocryptoforBLK2023) | N/A |
 | 9 | [BulanLiterasiKripto](http://twitter.com/search?q=BulanLiterasiKripto) | N/A |
-| 10 | [#SiEnengGoPublic](http://twitter.com/search?q=%23SiEnengGoPublic) | N/A |
+| 10 | [Teguh Berislam Kaffah](http://twitter.com/search?q=Teguh+Berislam+Kaffah) | N/A |
 | 11 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
-| 12 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
-| 13 | [cs misterius bca](http://twitter.com/search?q=cs+misterius+bca) | N/A |
-| 14 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 15 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 16 | [valid no debat](http://twitter.com/search?q=valid+no+debat) | N/A |
-| 17 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
-| 18 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 19 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
-| 20 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 21 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 22 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 23 | [Prabowo Pilihan Kita](http://twitter.com/search?q=Prabowo+Pilihan+Kita) | N/A |
-| 24 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
-| 25 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 26 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 27 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 28 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 29 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
-| 30 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
-| 31 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
+| 12 | [#SiEnengGoPublic](http://twitter.com/search?q=%23SiEnengGoPublic) | N/A |
+| 13 | [Bangga Taati Syariah](http://twitter.com/search?q=Bangga+Taati+Syariah) | N/A |
+| 14 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
+| 15 | [cs misterius bca](http://twitter.com/search?q=cs+misterius+bca) | N/A |
+| 16 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 17 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 18 | [valid no debat](http://twitter.com/search?q=valid+no+debat) | N/A |
+| 19 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
+| 20 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
+| 21 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 22 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 23 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 24 | [prabowo pilihan kita](http://twitter.com/search?q=prabowo+pilihan+kita) | N/A |
+| 25 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 26 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 27 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
+| 28 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 29 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 30 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 31 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
 | 32 | [danamon](http://twitter.com/search?q=danamon) | N/A |
-| 33 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 34 | [Agam](http://twitter.com/search?q=Agam) | N/A |
-| 35 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
-| 36 | [petisi 99 kyai](http://twitter.com/search?q=petisi+99+kyai) | N/A |
-| 37 | [Biadab](http://twitter.com/search?q=Biadab) | N/A |
-| 38 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
-| 39 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
-| 40 | [kelas 8](http://twitter.com/search?q=kelas+8) | N/A |
-| 41 | [EXO is EXOING](http://twitter.com/search?q=EXO+is+EXOING) | N/A |
-| 42 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 43 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 44 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
+| 33 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 34 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 35 | [Galaxy Tab A7 Lite](http://twitter.com/search?q=Galaxy+Tab+A7+Lite) | N/A |
+| 36 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
+| 37 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 38 | [petisi 99 kyai](http://twitter.com/search?q=petisi+99+kyai) | N/A |
+| 39 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
+| 40 | [Biadab](http://twitter.com/search?q=Biadab) | N/A |
+| 41 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
+| 42 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
+| 43 | [EXO is EXOING](http://twitter.com/search?q=EXO+is+EXOING) | N/A |
+| 44 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
 | 45 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
 | 46 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
-| 47 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
+| 47 | [HAECHAN ACE](http://twitter.com/search?q=HAECHAN+ACE) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-24 21:15:58 UTC`
+📆 Last Updated: `2023-02-24 23:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Samuel](http://twitter.com/search?q=Samuel) | N/A |
-| 2 | [#DíaDeLaBandera](http://twitter.com/search?q=%23D%c3%adaDeLaBandera) | N/A |
-| 3 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 4 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 5 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 6 | [#MinistraDoblePirata](http://twitter.com/search?q=%23MinistraDoblePirata) | N/A |
-| 7 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 8 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 9 | [Cinépolis Klic](http://twitter.com/search?q=Cin%c3%a9polis+Klic) | N/A |
-| 10 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 11 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 12 | [Cinemex](http://twitter.com/search?q=Cinemex) | N/A |
-| 13 | [#24DeFebrero](http://twitter.com/search?q=%2324DeFebrero) | N/A |
-| 14 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 15 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 16 | [#SOSMonteDePiedad](http://twitter.com/search?q=%23SOSMonteDePiedad) | N/A |
-| 17 | [Queens League](http://twitter.com/search?q=Queens+League) | N/A |
-| 18 | [El País](http://twitter.com/search?q=El+Pa%c3%ads) | N/A |
-| 19 | [Doctorado](http://twitter.com/search?q=Doctorado) | N/A |
-| 20 | [Anáhuac](http://twitter.com/search?q=An%c3%a1huac) | N/A |
-| 21 | [Hoy 24](http://twitter.com/search?q=Hoy+24) | N/A |
-| 22 | [Lábaro Patrio](http://twitter.com/search?q=L%c3%a1baro+Patrio) | N/A |
-| 23 | [Citas](http://twitter.com/search?q=Citas) | N/A |
-| 24 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 25 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 26 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 27 | [Agustín de Iturbide](http://twitter.com/search?q=Agust%c3%adn+de+Iturbide) | N/A |
-| 28 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 29 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
-| 30 | [Miguel Carbonell](http://twitter.com/search?q=Miguel+Carbonell) | N/A |
-| 31 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 32 | [Lázaro Cárdenas del Río](http://twitter.com/search?q=L%c3%a1zaro+C%c3%a1rdenas+del+R%c3%ado) | N/A |
-| 33 | [Este 24](http://twitter.com/search?q=Este+24) | N/A |
-| 34 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
-| 35 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 36 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 37 | [Ochoa](http://twitter.com/search?q=Ochoa) | Ochoa is a Spanish surname. It is derived from the Latin word "octavus," which means "eighth." The name is thought to have originated as a nickname for someone who was the eighth child in their family. In English, Ochoa can be translated to mean "eighth." |
-| 38 | [El 24](http://twitter.com/search?q=El+24) | N/A |
-| 39 | [Damon Albarn](http://twitter.com/search?q=Damon+Albarn) | N/A |
-| 40 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 41 | [Tormenta](http://twitter.com/search?q=Tormenta) | N/A |
-| 42 | [Juan Gabriel](http://twitter.com/search?q=Juan+Gabriel) | N/A |
-| 43 | [Licenciatura](http://twitter.com/search?q=Licenciatura) | N/A |
-| 44 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 45 | [Maestría](http://twitter.com/search?q=Maestr%c3%ada) | N/A |
-| 46 | [Viernes 24](http://twitter.com/search?q=Viernes+24) | N/A |
-| 47 | [Patria](http://twitter.com/search?q=Patria) | N/A |
-| 48 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 49 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
-| 50 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 2 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
+| 3 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
+| 4 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 5 | [#DiaDeLaBandera](http://twitter.com/search?q=%23DiaDeLaBandera) | N/A |
+| 6 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 7 | [#MiSecreto](http://twitter.com/search?q=%23MiSecreto) | N/A |
+| 8 | [#MinistraDoblePirata](http://twitter.com/search?q=%23MinistraDoblePirata) | N/A |
+| 9 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
+| 10 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 11 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 12 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 13 | [Natalia](http://twitter.com/search?q=Natalia) | N/A |
+| 14 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 15 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 16 | [Mora](http://twitter.com/search?q=Mora) | N/A |
+| 17 | [Cinemex](http://twitter.com/search?q=Cinemex) | N/A |
+| 18 | [Norma Piña](http://twitter.com/search?q=Norma+Pi%c3%b1a) | Norma Piña is a Mexican dish made with shredded beef, potatoes, and carrots cooked in a tomato-based sauce. The name of the dish comes from the Spanish words for "shredded beef" (carne deshebrada) and "pineapple" (piña). In English, Norma Piña translates to "Shredded Beef with Pineapple". |
+| 19 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 20 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 21 | [Desarrollo Social](http://twitter.com/search?q=Desarrollo+Social) | N/A |
+| 22 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 23 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 24 | [Cinépolis Klic](http://twitter.com/search?q=Cin%c3%a9polis+Klic) | N/A |
+| 25 | [Raúl Jiménez](http://twitter.com/search?q=Ra%c3%bal+Jim%c3%a9nez) | N/A |
+| 26 | [Banamex](http://twitter.com/search?q=Banamex) | N/A |
+| 27 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 28 | [Queens League](http://twitter.com/search?q=Queens+League) | N/A |
+| 29 | [Citas](http://twitter.com/search?q=Citas) | N/A |
+| 30 | [Plagio](http://twitter.com/search?q=Plagio) | N/A |
+| 31 | [Doctorado](http://twitter.com/search?q=Doctorado) | N/A |
+| 32 | [Hoy 24](http://twitter.com/search?q=Hoy+24) | N/A |
+| 33 | [El País](http://twitter.com/search?q=El+Pa%c3%ads) | N/A |
+| 34 | [Anahuac](http://twitter.com/search?q=Anahuac) | N/A |
+| 35 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 36 | [Escudo](http://twitter.com/search?q=Escudo) | N/A |
+| 37 | [Lábaro Patrio](http://twitter.com/search?q=L%c3%a1baro+Patrio) | N/A |
+| 38 | [Damon Albarn](http://twitter.com/search?q=Damon+Albarn) | N/A |
+| 39 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 40 | [Miguel Carbonell](http://twitter.com/search?q=Miguel+Carbonell) | N/A |
+| 41 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
+| 42 | [Tormenta](http://twitter.com/search?q=Tormenta) | N/A |
+| 43 | [Este 24](http://twitter.com/search?q=Este+24) | N/A |
+| 44 | [Viva México](http://twitter.com/search?q=Viva+M%c3%a9xico) | N/A |
+| 45 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 46 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
+| 47 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
+| 48 | [El 24](http://twitter.com/search?q=El+24) | N/A |
+| 49 | [Juan Gabriel](http://twitter.com/search?q=Juan+Gabriel) | N/A |
+| 50 | [Maestría](http://twitter.com/search?q=Maestr%c3%ada) | N/A |
 
 
 

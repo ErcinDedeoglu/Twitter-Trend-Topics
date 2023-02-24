@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Washington
 
-📆 Last Updated: `2023-02-24 21:16:49 UTC`
+📆 Last Updated: `2023-02-24 23:16:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 2 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 4 | [#ZombehNFT](http://twitter.com/search?q=%23ZombehNFT) | N/A |
-| 5 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
-| 6 | [#FreeTheChips](http://twitter.com/search?q=%23FreeTheChips) | N/A |
-| 7 | [#entry](http://twitter.com/search?q=%23entry) | N/A |
-| 8 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
-| 9 | [Mike Ford](http://twitter.com/search?q=Mike+Ford) | N/A |
-| 10 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 11 | [Grant Hill](http://twitter.com/search?q=Grant+Hill) | N/A |
-| 12 | [Rose Bowl](http://twitter.com/search?q=Rose+Bowl) | The Rose Bowl is an annual American college football bowl game played in Pasadena, California. It is one of the oldest and most prestigious bowl games in the country, and is often referred to as "The Granddaddy of Them All". The game typically features a matchup between two of the top teams from the Pac-12 and Big Ten conferences. The winner of the game is awarded the Rose Bowl trophy. |
-| 13 | [Pac-12](http://twitter.com/search?q=Pac-12) | N/A |
-| 14 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 15 | [Robbie Ray](http://twitter.com/search?q=Robbie+Ray) | N/A |
-| 16 | [Spyro](http://twitter.com/search?q=Spyro) | N/A |
-| 17 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 18 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
-| 19 | [Spin Bout U](http://twitter.com/search?q=Spin+Bout+U) | N/A |
-| 20 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 21 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 22 | [Bass Canyon](http://twitter.com/search?q=Bass+Canyon) | N/A |
-| 23 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 24 | [Kapanen](http://twitter.com/search?q=Kapanen) | N/A |
-| 25 | [Nick Martinez](http://twitter.com/search?q=Nick+Martinez) | N/A |
-| 26 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 27 | [Besame Mucho](http://twitter.com/search?q=Besame+Mucho) | N/A |
-| 28 | [Juan Soto](http://twitter.com/search?q=Juan+Soto) | N/A |
-| 29 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
-| 30 | [Spencer Knight](http://twitter.com/search?q=Spencer+Knight) | N/A |
-| 31 | [The NCAA](http://twitter.com/search?q=The+NCAA) | N/A |
-| 32 | [Memorial Stadium](http://twitter.com/search?q=Memorial+Stadium) | N/A |
-| 33 | [Ice Age](http://twitter.com/search?q=Ice+Age) | N/A |
-| 34 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 35 | [ION TV](http://twitter.com/search?q=ION+TV) | N/A |
-| 36 | [Nintendo Switch](http://twitter.com/search?q=Nintendo+Switch) | N/A |
-| 37 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
-| 38 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 39 | [SNEEG](http://twitter.com/search?q=SNEEG) | N/A |
-| 40 | [Series S](http://twitter.com/search?q=Series+S) | N/A |
-| 41 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 42 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 43 | [Gascon](http://twitter.com/search?q=Gascon) | N/A |
-| 44 | [BASEBALL IS BACK](http://twitter.com/search?q=BASEBALL+IS+BACK) | N/A |
-| 45 | [Tropic Thunder](http://twitter.com/search?q=Tropic+Thunder) | N/A |
-| 46 | [Ben Johnson](http://twitter.com/search?q=Ben+Johnson) | Ben Johnson is a phrase used to describe someone who is dishonest or unethical in their dealings. It is derived from the name of the disgraced Canadian sprinter Ben Johnson, who was stripped of his gold medal at the 1988 Olympics after testing positive for steroids. |
-| 47 | [Tink](http://twitter.com/search?q=Tink) | N/A |
-| 48 | [Prosecutor](http://twitter.com/search?q=Prosecutor) | N/A |
-| 49 | [Sergio](http://twitter.com/search?q=Sergio) | N/A |
-| 50 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 2 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 3 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
+| 4 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
+| 5 | [Jackson Merrill](http://twitter.com/search?q=Jackson+Merrill) | N/A |
+| 6 | [#ZombehNFT](http://twitter.com/search?q=%23ZombehNFT) | N/A |
+| 7 | [Ralph Nader](http://twitter.com/search?q=Ralph+Nader) | N/A |
+| 8 | [#FreeTheChips](http://twitter.com/search?q=%23FreeTheChips) | N/A |
+| 9 | [#entry](http://twitter.com/search?q=%23entry) | N/A |
+| 10 | [Optic](http://twitter.com/search?q=Optic) | N/A |
+| 11 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 12 | [Tony Vitello](http://twitter.com/search?q=Tony+Vitello) | N/A |
+| 13 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 14 | [Ryan Garcia](http://twitter.com/search?q=Ryan+Garcia) | N/A |
+| 15 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 16 | [Dashy](http://twitter.com/search?q=Dashy) | Dashy is a slang term used to describe someone or something that is cool, stylish, or fashionable. It can also be used to describe someone who is confident and outgoing. |
+| 17 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 18 | [Mike Ford](http://twitter.com/search?q=Mike+Ford) | N/A |
+| 19 | [Spyro](http://twitter.com/search?q=Spyro) | N/A |
+| 20 | [Same Here](http://twitter.com/search?q=Same+Here) | N/A |
+| 21 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 22 | [Manor Solomon](http://twitter.com/search?q=Manor+Solomon) | N/A |
+| 23 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
+| 24 | [Grant Hill](http://twitter.com/search?q=Grant+Hill) | N/A |
+| 25 | [RSNs](http://twitter.com/search?q=RSNs) | N/A |
+| 26 | [Charlie Taylor](http://twitter.com/search?q=Charlie+Taylor) | N/A |
+| 27 | [Ghosty](http://twitter.com/search?q=Ghosty) | N/A |
+| 28 | [Murdaugh](http://twitter.com/search?q=Murdaugh) | N/A |
+| 29 | [Spin Bout U](http://twitter.com/search?q=Spin+Bout+U) | N/A |
+| 30 | [TD Jakes](http://twitter.com/search?q=TD+Jakes) | N/A |
+| 31 | [Padres](http://twitter.com/search?q=Padres) | N/A |
+| 32 | [Roberta Flack](http://twitter.com/search?q=Roberta+Flack) | N/A |
+| 33 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 34 | [Gervonta Davis](http://twitter.com/search?q=Gervonta+Davis) | N/A |
+| 35 | [Go Texan Day](http://twitter.com/search?q=Go+Texan+Day) | N/A |
+| 36 | [Pac-12](http://twitter.com/search?q=Pac-12) | N/A |
+| 37 | [Jared Dickey](http://twitter.com/search?q=Jared+Dickey) | N/A |
+| 38 | [Rose Bowl](http://twitter.com/search?q=Rose+Bowl) | The Rose Bowl is an annual American college football bowl game played in Pasadena, California. It is one of the oldest and most prestigious bowl games in the country, and is often referred to as "The Granddaddy of Them All". The game typically features a matchup between two of the top teams from the Pac-12 and Big Ten conferences. The winner of the game is awarded the Rose Bowl trophy. |
+| 39 | [Series S](http://twitter.com/search?q=Series+S) | N/A |
+| 40 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 41 | [Bahamut](http://twitter.com/search?q=Bahamut) | N/A |
+| 42 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
+| 43 | [Ice Age](http://twitter.com/search?q=Ice+Age) | N/A |
+| 44 | [Nintendo Switch](http://twitter.com/search?q=Nintendo+Switch) | N/A |
+| 45 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 46 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
+| 47 | [The Athletic](http://twitter.com/search?q=The+Athletic) | N/A |
+| 48 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 49 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 50 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
 
 
 
