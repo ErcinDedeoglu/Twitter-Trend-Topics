@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-02-24 03:19:01 UTC`
+📆 Last Updated: `2023-02-24 04:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,54 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#INDWvsAUSW](http://twitter.com/search?q=%23INDWvsAUSW) | N/A |
-| 2 | [#HarmanpreetKaur](http://twitter.com/search?q=%23HarmanpreetKaur) | N/A |
-| 3 | [भूपेंद्र सारण](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%a3) | N/A |
-| 4 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
-| 5 | [#BCI_joining_do](http://twitter.com/search?q=%23BCI_joining_do) | N/A |
-| 6 | [#BCI_जिला_आवंटन_करो](http://twitter.com/search?q=%23BCI_%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be_%e0%a4%86%e0%a4%b5%e0%a4%82%e0%a4%9f%e0%a4%a8_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
-| 7 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
+| 2 | [भूपेंद्र सारण](http://twitter.com/search?q=%e0%a4%ad%e0%a5%82%e0%a4%aa%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b0%e0%a4%a3) | N/A |
+| 3 | [#BCI_joining_do](http://twitter.com/search?q=%23BCI_joining_do) | N/A |
+| 4 | [#BCI_जिला_आवंटन_करो](http://twitter.com/search?q=%23BCI_%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be_%e0%a4%86%e0%a4%b5%e0%a4%82%e0%a4%9f%e0%a4%a8_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
+| 5 | [#KulKaCrown](http://twitter.com/search?q=%23KulKaCrown) | N/A |
+| 6 | [#KnownByHerName](http://twitter.com/search?q=%23KnownByHerName) | N/A |
+| 7 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
 | 8 | [Book Exposes Truth](http://twitter.com/search?q=Book+Exposes+Truth) | N/A |
 | 9 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 10 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 11 | [Nexus Sabotaging Sushant Case](http://twitter.com/search?q=Nexus+Sabotaging+Sushant+Case) | N/A |
-| 12 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 13 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 14 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 15 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 16 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
-| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 20 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 10 | [Nexus Sabotaging Sushant Case](http://twitter.com/search?q=Nexus+Sabotaging+Sushant+Case) | N/A |
+| 11 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 12 | [केंद्रीय उत्पाद शुल्क](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%a6+%e0%a4%b6%e0%a5%81%e0%a4%b2%e0%a5%8d%e0%a4%95) | N/A |
+| 13 | [शबरी जयंती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%ac%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 14 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 15 | [Natural Star](http://twitter.com/search?q=Natural+Star) | N/A |
+| 16 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 17 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
+| 18 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 19 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
+| 20 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 21 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 22 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 23 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 24 | [European](http://twitter.com/search?q=European) | N/A |
-| 25 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 26 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
-| 27 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 28 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 29 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 30 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 31 | [#KulKaCrown](http://twitter.com/search?q=%23KulKaCrown) | N/A |
-| 32 | [#KnownByHerName](http://twitter.com/search?q=%23KnownByHerName) | N/A |
-| 33 | [#जोधपुर_केस](http://twitter.com/search?q=%23%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0_%e0%a4%95%e0%a5%87%e0%a4%b8) | N/A |
-| 34 | [#GodMorningFriday](http://twitter.com/search?q=%23GodMorningFriday) | N/A |
-| 35 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 36 | [#HappyBirthdayNani](http://twitter.com/search?q=%23HappyBirthdayNani) | N/A |
-| 37 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 38 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 22 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 23 | [European](http://twitter.com/search?q=European) | N/A |
+| 24 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 25 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 26 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 28 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 29 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 30 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 31 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 32 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 33 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 34 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 35 | [भारतीय राष्ट्रीय कांग्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
+| 36 | [#जोधपुर_केस](http://twitter.com/search?q=%23%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0_%e0%a4%95%e0%a5%87%e0%a4%b8) | N/A |
+| 37 | [#HappyBirthdayNani](http://twitter.com/search?q=%23HappyBirthdayNani) | N/A |
+| 38 | [#Budget4Antyodaya](http://twitter.com/search?q=%23Budget4Antyodaya) | N/A |
 | 39 | [#ENGvsNZ](http://twitter.com/search?q=%23ENGvsNZ) | N/A |
-| 40 | [#1YearOfBlockBusterVALIMAI](http://twitter.com/search?q=%231YearOfBlockBusterVALIMAI) | N/A |
-| 41 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 42 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 43 | [#அம்மா75](http://twitter.com/search?q=%23%e0%ae%85%e0%ae%ae%e0%af%8d%e0%ae%ae%e0%ae%be75) | N/A |
-| 44 | [#Amma75](http://twitter.com/search?q=%23Amma75) | N/A |
-| 45 | [#jayalalithaa](http://twitter.com/search?q=%23jayalalithaa) | N/A |
-| 46 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
-| 47 | [#UNGA](http://twitter.com/search?q=%23UNGA) | N/A |
-| 48 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 49 | [#SaintRampalJiQuotes](http://twitter.com/search?q=%23SaintRampalJiQuotes) | N/A |
-| 50 | [#AjayBanga](http://twitter.com/search?q=%23AjayBanga) | N/A |
+| 40 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 41 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 42 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 43 | [#1YearOfBlockBusterVALIMAI](http://twitter.com/search?q=%231YearOfBlockBusterVALIMAI) | N/A |
+| 44 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
+| 45 | [#GodMorningFriday](http://twitter.com/search?q=%23GodMorningFriday) | N/A |
+| 46 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 47 | [#Amma75](http://twitter.com/search?q=%23Amma75) | N/A |
+| 48 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 49 | [#Jayalalithaa](http://twitter.com/search?q=%23Jayalalithaa) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-24 03:19:20 UTC`
+📆 Last Updated: `2023-02-24 04:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,10 +15,10 @@ This is top 50 for Ukraine
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Тирасполь](http://twitter.com/search?q=%23%d0%a2%d0%b8%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d1%8c) | N/A |
-| 2 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 3 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 4 | [#UkraineWillWin](http://twitter.com/search?q=%23UkraineWillWin) | N/A |
+| 1 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 2 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 3 | [#Тирасполь](http://twitter.com/search?q=%23%d0%a2%d0%b8%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d1%8c) | N/A |
+| 4 | [#RussiaInvadedUkraine](http://twitter.com/search?q=%23RussiaInvadedUkraine) | N/A |
 | 5 | [Приднестровье](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
 | 6 | [#лигаевропы](http://twitter.com/search?q=%23%d0%bb%d0%b8%d0%b3%d0%b0%d0%b5%d0%b2%d1%80%d0%be%d0%bf%d1%8b) | N/A |
 | 7 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
@@ -33,10 +33,10 @@ This is top 50 for Ukraine
 | 16 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 17 | [Молдовы](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d1%8b) | N/A |
 | 18 | [#divorce](http://twitter.com/search?q=%23divorce) | N/A |
-| 19 | [причем](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d1%87%d0%b5%d0%bc) | N/A |
+| 19 | [Причем](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d1%87%d0%b5%d0%bc) | N/A |
 | 20 | [dApps](http://twitter.com/search?q=dApps) | N/A |
 | 21 | [#digitalart](http://twitter.com/search?q=%23digitalart) | N/A |
-| 22 | [сильно](http://twitter.com/search?q=%d1%81%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 22 | [Сильно](http://twitter.com/search?q=%d0%a1%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
 | 23 | [$time](http://twitter.com/search?q=%24time) | N/A |
 | 24 | [жалко](http://twitter.com/search?q=%d0%b6%d0%b0%d0%bb%d0%ba%d0%be) | N/A |
 | 25 | [Elon](http://twitter.com/search?q=Elon) | N/A |
@@ -44,22 +44,22 @@ This is top 50 for Ukraine
 | 27 | [Слава Украине](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0+%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d0%b5) | N/A |
 | 28 | [Буданов](http://twitter.com/search?q=%d0%91%d1%83%d0%b4%d0%b0%d0%bd%d0%be%d0%b2) | N/A |
 | 29 | [прошу](http://twitter.com/search?q=%d0%bf%d1%80%d0%be%d1%88%d1%83) | N/A |
-| 30 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
-| 31 | [Irpin](http://twitter.com/search?q=Irpin) | N/A |
-| 32 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 33 | [Chernihiv](http://twitter.com/search?q=Chernihiv) | N/A |
-| 34 | [Paris](http://twitter.com/search?q=Paris) | N/A |
-| 35 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
-| 36 | [Finland](http://twitter.com/search?q=Finland) | N/A |
-| 37 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 38 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
-| 39 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 30 | [Irpin](http://twitter.com/search?q=Irpin) | N/A |
+| 31 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 32 | [Chernihiv](http://twitter.com/search?q=Chernihiv) | N/A |
+| 33 | [Paris](http://twitter.com/search?q=Paris) | N/A |
+| 34 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
+| 35 | [Finland](http://twitter.com/search?q=Finland) | N/A |
+| 36 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 37 | [Вроде](http://twitter.com/search?q=%d0%92%d1%80%d0%be%d0%b4%d0%b5) | N/A |
+| 38 | [North Korea](http://twitter.com/search?q=North+Korea) | N/A |
+| 39 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
 | 40 | [коли](http://twitter.com/search?q=%d0%ba%d0%be%d0%bb%d0%b8) | N/A |
 | 41 | [пздц](http://twitter.com/search?q=%d0%bf%d0%b7%d0%b4%d1%86) | N/A |
 | 42 | [плюсую](http://twitter.com/search?q=%d0%bf%d0%bb%d1%8e%d1%81%d1%83%d1%8e) | N/A |
-| 43 | [твари](http://twitter.com/search?q=%d1%82%d0%b2%d0%b0%d1%80%d0%b8) | N/A |
-| 44 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 45 | [весна](http://twitter.com/search?q=%d0%b2%d0%b5%d1%81%d0%bd%d0%b0) | N/A |
+| 43 | [Твари](http://twitter.com/search?q=%d0%a2%d0%b2%d0%b0%d1%80%d0%b8) | N/A |
+| 44 | [китай](http://twitter.com/search?q=%d0%ba%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
+| 45 | [Весна](http://twitter.com/search?q=%d0%92%d0%b5%d1%81%d0%bd%d0%b0) | N/A |
 | 46 | [херсоне](http://twitter.com/search?q=%d1%85%d0%b5%d1%80%d1%81%d0%be%d0%bd%d0%b5) | N/A |
 | 47 | [Kherson](http://twitter.com/search?q=Kherson) | N/A |
 | 48 | [Часть 1](http://twitter.com/search?q=%d0%a7%d0%b0%d1%81%d1%82%d1%8c+1) | N/A |

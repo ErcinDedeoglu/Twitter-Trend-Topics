@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-24 03:19:13 UTC`
+📆 Last Updated: `2023-02-24 04:16:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,19 +33,19 @@ This is top 50 for Austria
 | 16 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
 | 17 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
 | 18 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 19 | [volksverräter](http://twitter.com/search?q=volksverr%c3%a4ter) | N/A |
-| 20 | [Kulturszene](http://twitter.com/search?q=Kulturszene) | N/A |
-| 21 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
-| 22 | [Sparpläne](http://twitter.com/search?q=Sparpl%c3%a4ne) | N/A |
-| 23 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 24 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 25 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
-| 26 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 27 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
-| 28 | [Bildungsauftrag](http://twitter.com/search?q=Bildungsauftrag) | N/A |
-| 29 | [Orchester](http://twitter.com/search?q=Orchester) | N/A |
-| 30 | [Teuerung](http://twitter.com/search?q=Teuerung) | N/A |
-| 31 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
+| 19 | [kulturszene](http://twitter.com/search?q=kulturszene) | N/A |
+| 20 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
+| 21 | [sparpläne](http://twitter.com/search?q=sparpl%c3%a4ne) | N/A |
+| 22 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 23 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 24 | [Mohammad](http://twitter.com/search?q=Mohammad) | N/A |
+| 25 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 26 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
+| 27 | ["Volksverräter"](http://twitter.com/search?q=%22Volksverr%c3%a4ter%22) | N/A |
+| 28 | [bildungsauftrag](http://twitter.com/search?q=bildungsauftrag) | N/A |
+| 29 | [orchester](http://twitter.com/search?q=orchester) | N/A |
+| 30 | [teuerung](http://twitter.com/search?q=teuerung) | N/A |
+| 31 | [spanien](http://twitter.com/search?q=spanien) | N/A |
 | 32 | [mieten](http://twitter.com/search?q=mieten) | N/A |
 | 33 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
 | 34 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |

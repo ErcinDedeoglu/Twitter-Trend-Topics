@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-24 03:19:19 UTC`
+📆 Last Updated: `2023-02-24 04:17:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,12 +17,12 @@ This is top 50 for Switzerland
 | ------- | ------------ | ------------ |
 | 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 2 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 3 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 4 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
-| 5 | [#NantesJuventus](http://twitter.com/search?q=%23NantesJuventus) | N/A |
-| 6 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
+| 4 | [#NantesJuventus](http://twitter.com/search?q=%23NantesJuventus) | N/A |
+| 5 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 6 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
 | 7 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 8 | [isabel garcia](http://twitter.com/search?q=isabel+garcia) | N/A |
+| 8 | [Isabel Garcia](http://twitter.com/search?q=Isabel+Garcia) | N/A |
 | 9 | [Sitz](http://twitter.com/search?q=Sitz) | N/A |
 | 10 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 11 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
@@ -32,7 +32,7 @@ This is top 50 for Switzerland
 | 15 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
 | 16 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 17 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 18 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
+| 18 | [politikerin](http://twitter.com/search?q=politikerin) | N/A |
 | 19 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
 | 20 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
 | 21 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
@@ -57,14 +57,14 @@ This is top 50 for Switzerland
 | 40 | [Recherche](http://twitter.com/search?q=Recherche) | N/A |
 | 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 42 | [Katze](http://twitter.com/search?q=Katze) | N/A |
-| 43 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 44 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 45 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
-| 46 | [Vorwurf](http://twitter.com/search?q=Vorwurf) | N/A |
-| 47 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 48 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 49 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 50 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 43 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 44 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
+| 45 | [Vorwurf](http://twitter.com/search?q=Vorwurf) | N/A |
+| 46 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 48 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 49 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 50 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
 
 
 

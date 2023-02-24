@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oslo
 
-📆 Last Updated: `2023-02-24 03:18:44 UTC`
+📆 Last Updated: `2023-02-24 04:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -51,14 +51,14 @@ This is top 50 for [Norway](</Norway>)
 | 34 | [Tory](http://twitter.com/search?q=Tory) | Tory is a term used to refer to a member of the British Conservative Party. It is derived from the Middle Irish word "toraidhe", which means "outlaw". The term has been used since the late 17th century to refer to those who supported the Royalist cause during the English Civil War. |
 | 35 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 36 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 37 | [Lillehammer](http://twitter.com/search?q=Lillehammer) | N/A |
+| 37 | [lillehammer](http://twitter.com/search?q=lillehammer) | N/A |
 | 38 | [gardermoen](http://twitter.com/search?q=gardermoen) | N/A |
 | 39 | [Iran](http://twitter.com/search?q=Iran) | N/A |
 | 40 | [Britain](http://twitter.com/search?q=Britain) | N/A |
 | 41 | [Asia](http://twitter.com/search?q=Asia) | N/A |
 | 42 | [Erik](http://twitter.com/search?q=Erik) | N/A |
 | 43 | [hadia tajik](http://twitter.com/search?q=hadia+tajik) | N/A |
-| 44 | [Petter](http://twitter.com/search?q=Petter) | N/A |
+| 44 | [petter](http://twitter.com/search?q=petter) | N/A |
 | 45 | [Siri](http://twitter.com/search?q=Siri) | N/A |
 | 46 | [Anfield](http://twitter.com/search?q=Anfield) | Anfield is a football stadium in Liverpool, England. It is the home ground of Liverpool Football Club and has a capacity of 54,074. The name Anfield comes from the area of Liverpool in which it is located, which was historically known as 'Anfield'. |
 | 47 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |

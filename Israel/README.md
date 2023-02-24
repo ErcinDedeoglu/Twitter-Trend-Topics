@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-24 03:19:16 UTC`
+📆 Last Updated: `2023-02-24 04:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Israel
 | 1 | [אורי אוזן](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%99+%d7%90%d7%95%d7%96%d7%9f) | N/A |
 | 2 | [חיים לוינסון](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%9c%d7%95%d7%99%d7%a0%d7%a1%d7%95%d7%9f) | N/A |
 | 3 | [ארי שמאי](http://twitter.com/search?q=%d7%90%d7%a8%d7%99+%d7%a9%d7%9e%d7%90%d7%99) | N/A |
-| 4 | [של לוינסון](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%95%d7%99%d7%a0%d7%a1%d7%95%d7%9f) | N/A |
-| 5 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
-| 6 | [חינוך חינם](http://twitter.com/search?q=%d7%97%d7%99%d7%a0%d7%95%d7%9a+%d7%97%d7%99%d7%a0%d7%9d) | N/A |
-| 7 | [Oman](http://twitter.com/search?q=Oman) | N/A |
-| 8 | [בנק ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 9 | [חגי טופולנסקי](http://twitter.com/search?q=%d7%97%d7%92%d7%99+%d7%98%d7%95%d7%a4%d7%95%d7%9c%d7%a0%d7%a1%d7%a7%d7%99) | N/A |
-| 10 | [שי ניצן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%a0%d7%99%d7%a6%d7%9f) | N/A |
-| 11 | [של סטטיק](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%98%d7%98%d7%99%d7%a7) | N/A |
-| 12 | [#الله_اكبر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
-| 13 | [רק כי אמר](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%9b%d7%99+%d7%90%d7%9e%d7%a8) | N/A |
-| 14 | [תקציב המדינה](http://twitter.com/search?q=%d7%aa%d7%a7%d7%a6%d7%99%d7%91+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 15 | [#عرين_الاسود](http://twitter.com/search?q=%23%d8%b9%d8%b1%d9%8a%d9%86_%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
-| 16 | [גונן בן יצחק](http://twitter.com/search?q=%d7%92%d7%95%d7%a0%d7%9f+%d7%91%d7%9f+%d7%99%d7%a6%d7%97%d7%a7) | N/A |
-| 17 | [יוסי שלי](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%99+%d7%a9%d7%9c%d7%99) | N/A |
-| 18 | [אלמוג כהן](http://twitter.com/search?q=%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
-| 19 | [מכשפות נגד](http://twitter.com/search?q=%d7%9e%d7%9b%d7%a9%d7%a4%d7%95%d7%aa+%d7%a0%d7%92%d7%93) | N/A |
-| 20 | [של שרה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a8%d7%94) | N/A |
-| 21 | [דגל שחור](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%a9%d7%97%d7%95%d7%a8) | N/A |
-| 22 | [צבא העם](http://twitter.com/search?q=%d7%a6%d7%91%d7%90+%d7%94%d7%a2%d7%9d) | N/A |
-| 23 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
-| 24 | [צבע אדום](http://twitter.com/search?q=%d7%a6%d7%91%d7%a2+%d7%90%d7%93%d7%95%d7%9d) | N/A |
-| 25 | [של בנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a0%d7%98) | N/A |
-| 26 | [עמיר קליגר](http://twitter.com/search?q=%d7%a2%d7%9e%d7%99%d7%a8+%d7%a7%d7%9c%d7%99%d7%92%d7%a8) | N/A |
-| 27 | [חיים כהן](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%9b%d7%94%d7%9f) | N/A |
-| 28 | [אלעזר שטרן](http://twitter.com/search?q=%d7%90%d7%9c%d7%a2%d7%96%d7%a8+%d7%a9%d7%98%d7%a8%d7%9f) | N/A |
-| 29 | [דרך הרבנות](http://twitter.com/search?q=%d7%93%d7%a8%d7%9a+%d7%94%d7%a8%d7%91%d7%a0%d7%95%d7%aa) | N/A |
-| 30 | [בנט לפיד](http://twitter.com/search?q=%d7%91%d7%a0%d7%98+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
-| 31 | [רביב דרוקר](http://twitter.com/search?q=%d7%a8%d7%91%d7%99%d7%91+%d7%93%d7%a8%d7%95%d7%a7%d7%a8) | N/A |
-| 32 | [בין מין](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%9e%d7%99%d7%9f) | N/A |
-| 33 | [גוב האריות](http://twitter.com/search?q=%d7%92%d7%95%d7%91+%d7%94%d7%90%d7%a8%d7%99%d7%95%d7%aa) | N/A |
-| 34 | [עוד צער](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a6%d7%a2%d7%a8) | N/A |
-| 35 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 36 | [אהוד ברק](http://twitter.com/search?q=%d7%90%d7%94%d7%95%d7%93+%d7%91%d7%a8%d7%a7) | N/A |
-| 37 | [Gaza Strip](http://twitter.com/search?q=Gaza+Strip) | N/A |
-| 38 | [של קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
-| 39 | [מיליון ש](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f+%d7%a9) | N/A |
-| 40 | [של גלנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
-| 41 | [ניצן הורביץ](http://twitter.com/search?q=%d7%a0%d7%99%d7%a6%d7%9f+%d7%94%d7%95%d7%a8%d7%91%d7%99%d7%a5) | N/A |
-| 42 | [ר פורום קהלת](http://twitter.com/search?q=%d7%a8+%d7%a4%d7%95%d7%a8%d7%95%d7%9d+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
-| 43 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
-| 44 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 45 | [איתי אנגל](http://twitter.com/search?q=%d7%90%d7%99%d7%aa%d7%99+%d7%90%d7%a0%d7%92%d7%9c) | N/A |
-| 46 | [Shechem](http://twitter.com/search?q=Shechem) | N/A |
-| 47 | [#السعوديه](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 48 | [ל רשות שדות](http://twitter.com/search?q=%d7%9c+%d7%a8%d7%a9%d7%95%d7%aa+%d7%a9%d7%93%d7%95%d7%aa) | N/A |
-| 49 | [ניו זילנד](http://twitter.com/search?q=%d7%a0%d7%99%d7%95+%d7%96%d7%99%d7%9c%d7%a0%d7%93) | N/A |
-| 50 | [שכר מינימום](http://twitter.com/search?q=%d7%a9%d7%9b%d7%a8+%d7%9e%d7%99%d7%a0%d7%99%d7%9e%d7%95%d7%9d) | N/A |
+| 4 | [שבת שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c%d7%95%d7%9d) | שבת שלום is a Hebrew phrase meaning "have a peaceful Sabbath". It is a common greeting used on the Jewish Sabbath. |
+| 5 | [של לוינסון](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9c%d7%95%d7%99%d7%a0%d7%a1%d7%95%d7%9f) | N/A |
+| 6 | [Nablus](http://twitter.com/search?q=Nablus) | N/A |
+| 7 | [חינוך חינם](http://twitter.com/search?q=%d7%97%d7%99%d7%a0%d7%95%d7%9a+%d7%97%d7%99%d7%a0%d7%9d) | N/A |
+| 8 | [Oman](http://twitter.com/search?q=Oman) | N/A |
+| 9 | [בוקר טוב](http://twitter.com/search?q=%d7%91%d7%95%d7%a7%d7%a8+%d7%98%d7%95%d7%91) | N/A |
+| 10 | [בנק ישראל](http://twitter.com/search?q=%d7%91%d7%a0%d7%a7+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
+| 11 | [חגי טופולנסקי](http://twitter.com/search?q=%d7%97%d7%92%d7%99+%d7%98%d7%95%d7%a4%d7%95%d7%9c%d7%a0%d7%a1%d7%a7%d7%99) | N/A |
+| 12 | [שי ניצן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%a0%d7%99%d7%a6%d7%9f) | N/A |
+| 13 | [של סטטיק](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a1%d7%98%d7%98%d7%99%d7%a7) | N/A |
+| 14 | [#الله_اكبر](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%84%d9%87_%d8%a7%d9%83%d8%a8%d8%b1) | N/A |
+| 15 | [רק כי אמר](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%9b%d7%99+%d7%90%d7%9e%d7%a8) | N/A |
+| 16 | [תקציב המדינה](http://twitter.com/search?q=%d7%aa%d7%a7%d7%a6%d7%99%d7%91+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 17 | [#عرين_الاسود](http://twitter.com/search?q=%23%d8%b9%d8%b1%d9%8a%d9%86_%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
+| 18 | [גונן בן יצחק](http://twitter.com/search?q=%d7%92%d7%95%d7%a0%d7%9f+%d7%91%d7%9f+%d7%99%d7%a6%d7%97%d7%a7) | N/A |
+| 19 | [אהוד ברק](http://twitter.com/search?q=%d7%90%d7%94%d7%95%d7%93+%d7%91%d7%a8%d7%a7) | N/A |
+| 20 | [יוסי שלי](http://twitter.com/search?q=%d7%99%d7%95%d7%a1%d7%99+%d7%a9%d7%9c%d7%99) | N/A |
+| 21 | [אלמוג כהן](http://twitter.com/search?q=%d7%90%d7%9c%d7%9e%d7%95%d7%92+%d7%9b%d7%94%d7%9f) | N/A |
+| 22 | [מכשפות נגד](http://twitter.com/search?q=%d7%9e%d7%9b%d7%a9%d7%a4%d7%95%d7%aa+%d7%a0%d7%92%d7%93) | N/A |
+| 23 | [של שרה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a8%d7%94) | N/A |
+| 24 | [צבא העם](http://twitter.com/search?q=%d7%a6%d7%91%d7%90+%d7%94%d7%a2%d7%9d) | N/A |
+| 25 | [דגל שחור](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%a9%d7%97%d7%95%d7%a8) | N/A |
+| 26 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
+| 27 | [עמיר קליגר](http://twitter.com/search?q=%d7%a2%d7%9e%d7%99%d7%a8+%d7%a7%d7%9c%d7%99%d7%92%d7%a8) | N/A |
+| 28 | [חיים כהן](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%9b%d7%94%d7%9f) | N/A |
+| 29 | [אלעזר שטרן](http://twitter.com/search?q=%d7%90%d7%9c%d7%a2%d7%96%d7%a8+%d7%a9%d7%98%d7%a8%d7%9f) | N/A |
+| 30 | [דרך הרבנות](http://twitter.com/search?q=%d7%93%d7%a8%d7%9a+%d7%94%d7%a8%d7%91%d7%a0%d7%95%d7%aa) | N/A |
+| 31 | [בנט לפיד](http://twitter.com/search?q=%d7%91%d7%a0%d7%98+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
+| 32 | [רביב דרוקר](http://twitter.com/search?q=%d7%a8%d7%91%d7%99%d7%91+%d7%93%d7%a8%d7%95%d7%a7%d7%a8) | N/A |
+| 33 | [של בנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a0%d7%98) | N/A |
+| 34 | [בין מין](http://twitter.com/search?q=%d7%91%d7%99%d7%9f+%d7%9e%d7%99%d7%9f) | N/A |
+| 35 | [גוב האריות](http://twitter.com/search?q=%d7%92%d7%95%d7%91+%d7%94%d7%90%d7%a8%d7%99%d7%95%d7%aa) | N/A |
+| 36 | [עוד צער](http://twitter.com/search?q=%d7%a2%d7%95%d7%93+%d7%a6%d7%a2%d7%a8) | N/A |
+| 37 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 38 | [לילה טוב](http://twitter.com/search?q=%d7%9c%d7%99%d7%9c%d7%94+%d7%98%d7%95%d7%91) | N/A |
+| 39 | [Gaza Strip](http://twitter.com/search?q=Gaza+Strip) | N/A |
+| 40 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 41 | [של קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
+| 42 | [מיליון ש](http://twitter.com/search?q=%d7%9e%d7%99%d7%9c%d7%99%d7%95%d7%9f+%d7%a9) | N/A |
+| 43 | [צבע אדום](http://twitter.com/search?q=%d7%a6%d7%91%d7%a2+%d7%90%d7%93%d7%95%d7%9d) | N/A |
+| 44 | [של גלנט](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%92%d7%9c%d7%a0%d7%98) | N/A |
+| 45 | [ניצן הורביץ](http://twitter.com/search?q=%d7%a0%d7%99%d7%a6%d7%9f+%d7%94%d7%95%d7%a8%d7%91%d7%99%d7%a5) | N/A |
+| 46 | [ר פורום קהלת](http://twitter.com/search?q=%d7%a8+%d7%a4%d7%95%d7%a8%d7%95%d7%9d+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
+| 47 | [הכנסת חמץ](http://twitter.com/search?q=%d7%94%d7%9b%d7%a0%d7%a1%d7%aa+%d7%97%d7%9e%d7%a5) | N/A |
+| 48 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 49 | [איתי אנגל](http://twitter.com/search?q=%d7%90%d7%99%d7%aa%d7%99+%d7%90%d7%a0%d7%92%d7%9c) | N/A |
+| 50 | [Shechem](http://twitter.com/search?q=Shechem) | N/A |
 
 
 

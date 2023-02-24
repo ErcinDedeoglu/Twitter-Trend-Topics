@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-24 03:18:44 UTC`
+📆 Last Updated: `2023-02-24 04:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,9 +20,9 @@ This is top 50 for [Latvia](</Latvia>)
 | 3 | [#thebabyfloki](http://twitter.com/search?q=%23thebabyfloki) | N/A |
 | 4 | [helmani](http://twitter.com/search?q=helmani) | N/A |
 | 5 | [ogres](http://twitter.com/search?q=ogres) | N/A |
-| 6 | [avenu](http://twitter.com/search?q=avenu) | N/A |
-| 7 | [Rihards Kols](http://twitter.com/search?q=Rihards+Kols) | N/A |
-| 8 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 6 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 7 | [avenu](http://twitter.com/search?q=avenu) | N/A |
+| 8 | [Rihards Kols](http://twitter.com/search?q=Rihards+Kols) | N/A |
 | 9 | [pozņaks](http://twitter.com/search?q=poz%c5%86aks) | N/A |
 | 10 | [pavļuta](http://twitter.com/search?q=pav%c4%bcuta) | N/A |
 | 11 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
@@ -48,12 +48,12 @@ This is top 50 for [Latvia](</Latvia>)
 | 31 | [jūsu](http://twitter.com/search?q=j%c5%absu) | N/A |
 | 32 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
 | 33 | [USSR](http://twitter.com/search?q=USSR) | N/A |
-| 34 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
+| 34 | [viņa](http://twitter.com/search?q=vi%c5%86a) | N/A |
 | 35 | [iesalnieks](http://twitter.com/search?q=iesalnieks) | N/A |
 | 36 | [Russians](http://twitter.com/search?q=Russians) | N/A |
 | 37 | [putinam](http://twitter.com/search?q=putinam) | N/A |
-| 38 | [Vienmēr](http://twitter.com/search?q=Vienm%c4%93r) | N/A |
-| 39 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
+| 38 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 39 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 40 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
 | 41 | [varam](http://twitter.com/search?q=varam) | N/A |
 | 42 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |

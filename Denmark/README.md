@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-24 03:19:14 UTC`
+📆 Last Updated: `2023-02-24 04:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,9 +31,9 @@ This is top 50 for Denmark
 | 14 | [bælum](http://twitter.com/search?q=b%c3%a6lum) | N/A |
 | 15 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 16 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 18 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 19 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 17 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 18 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 19 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 20 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
 | 21 | [jon stephensen](http://twitter.com/search?q=jon+stephensen) | N/A |
 | 22 | [Lissabon](http://twitter.com/search?q=Lissabon) | N/A |
@@ -52,16 +52,16 @@ This is top 50 for Denmark
 | 35 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
 | 36 | [lynetteholm](http://twitter.com/search?q=lynetteholm) | N/A |
 | 37 | [biblen](http://twitter.com/search?q=biblen) | N/A |
-| 38 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 39 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 40 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 41 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 42 | [hamrén](http://twitter.com/search?q=hamr%c3%a9n) | N/A |
-| 43 | [simon emil](http://twitter.com/search?q=simon+emil) | N/A |
-| 44 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 45 | [næppe](http://twitter.com/search?q=n%c3%a6ppe) | N/A |
-| 46 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 38 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 39 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 40 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 41 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 42 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 43 | [hamrén](http://twitter.com/search?q=hamr%c3%a9n) | N/A |
+| 44 | [simon emil](http://twitter.com/search?q=simon+emil) | N/A |
+| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 46 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 47 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 48 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 | 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 50 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |

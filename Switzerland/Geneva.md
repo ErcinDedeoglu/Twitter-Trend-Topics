@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-24 03:18:43 UTC`
+📆 Last Updated: `2023-02-24 04:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Switzerland](</Switzerland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 2 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 3 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 2 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 4 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 5 | [Isabel Garcia](http://twitter.com/search?q=Isabel+Garcia) | N/A |
 | 6 | [Sitz](http://twitter.com/search?q=Sitz) | N/A |
@@ -29,7 +29,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 12 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
 | 13 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 14 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 15 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
+| 15 | [politikerin](http://twitter.com/search?q=politikerin) | N/A |
 | 16 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
 | 17 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
 | 18 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 23 | [Programm](http://twitter.com/search?q=Programm) | N/A |
 | 24 | [Masterclass](http://twitter.com/search?q=Masterclass) | N/A |
 | 25 | [iPad](http://twitter.com/search?q=iPad) | N/A |
-| 26 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 26 | [strom](http://twitter.com/search?q=strom) | N/A |
 | 27 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 28 | [Mullahs](http://twitter.com/search?q=Mullahs) | N/A |
 | 29 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
@@ -54,13 +54,13 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 37 | [Recherche](http://twitter.com/search?q=Recherche) | N/A |
 | 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 39 | [Katze](http://twitter.com/search?q=Katze) | N/A |
-| 40 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 41 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 42 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
-| 43 | [Vorwurf](http://twitter.com/search?q=Vorwurf) | N/A |
-| 44 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 46 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 40 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 41 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
+| 42 | [Vorwurf](http://twitter.com/search?q=Vorwurf) | N/A |
+| 43 | [Tories](http://twitter.com/search?q=Tories) | N/A |
+| 44 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 45 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
+| 46 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 
 
 
