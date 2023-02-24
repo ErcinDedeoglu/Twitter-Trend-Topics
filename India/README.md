@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For India
 
-📆 Last Updated: `2023-02-24 04:16:57 UTC`
+📆 Last Updated: `2023-02-24 05:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for India
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KulKaCrown](http://twitter.com/search?q=%23KulKaCrown) | N/A |
-| 2 | [#KnownByHerName](http://twitter.com/search?q=%23KnownByHerName) | N/A |
-| 3 | [#जोधपुर_केस](http://twitter.com/search?q=%23%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0_%e0%a4%95%e0%a5%87%e0%a4%b8) | N/A |
-| 4 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 5 | [#HappyBirthdayNani](http://twitter.com/search?q=%23HappyBirthdayNani) | N/A |
-| 6 | [Book Exposes Truth](http://twitter.com/search?q=Book+Exposes+Truth) | N/A |
-| 7 | [#Budget4Antyodaya](http://twitter.com/search?q=%23Budget4Antyodaya) | N/A |
-| 8 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
-| 9 | [Nexus Sabotaging Sushant Case](http://twitter.com/search?q=Nexus+Sabotaging+Sushant+Case) | N/A |
-| 10 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 11 | [केंद्रीय उत्पाद शुल्क](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%a6+%e0%a4%b6%e0%a5%81%e0%a4%b2%e0%a5%8d%e0%a4%95) | N/A |
-| 12 | [शबरी जयंती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%ac%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 13 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 14 | [Natural Star](http://twitter.com/search?q=Natural+Star) | N/A |
-| 15 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 16 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
-| 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 18 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
-| 19 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 20 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 21 | [European](http://twitter.com/search?q=European) | N/A |
-| 22 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 1 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 2 | [#HappyBirthdayNani](http://twitter.com/search?q=%23HappyBirthdayNani) | N/A |
+| 3 | [#KulKaCrown](http://twitter.com/search?q=%23KulKaCrown) | N/A |
+| 4 | [#KnownByHerName](http://twitter.com/search?q=%23KnownByHerName) | N/A |
+| 5 | [#Budget4Antyodaya](http://twitter.com/search?q=%23Budget4Antyodaya) | N/A |
+| 6 | [#जोधपुर_केस](http://twitter.com/search?q=%23%e0%a4%9c%e0%a5%8b%e0%a4%a7%e0%a4%aa%e0%a5%81%e0%a4%b0_%e0%a4%95%e0%a5%87%e0%a4%b8) | N/A |
+| 7 | [Book Exposes Truth](http://twitter.com/search?q=Book+Exposes+Truth) | N/A |
+| 8 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 9 | [Sant Shri Asharamji Bapu](http://twitter.com/search?q=Sant+Shri+Asharamji+Bapu) | N/A |
+| 10 | [Nexus Sabotaging Sushant Case](http://twitter.com/search?q=Nexus+Sabotaging+Sushant+Case) | N/A |
+| 11 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 12 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 13 | [Iron Lady](http://twitter.com/search?q=Iron+Lady) | N/A |
+| 14 | [शबरी जयंती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%ac%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 15 | [Natural Star](http://twitter.com/search?q=Natural+Star) | N/A |
+| 16 | [केंद्रीय उत्पाद शुल्क](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%89%e0%a4%a4%e0%a5%8d%e0%a4%aa%e0%a4%be%e0%a4%a6+%e0%a4%b6%e0%a5%81%e0%a4%b2%e0%a5%8d%e0%a4%95) | N/A |
+| 17 | [Root](http://twitter.com/search?q=Root) | N/A |
+| 18 | [World Bank](http://twitter.com/search?q=World+Bank) | N/A |
+| 19 | [भगवान श्री राम](http://twitter.com/search?q=%e0%a4%ad%e0%a4%97%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 20 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
+| 21 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 23 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 24 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 25 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 26 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 27 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 24 | [European](http://twitter.com/search?q=European) | N/A |
+| 25 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 26 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 28 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 29 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 30 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 31 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 32 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 30 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 31 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 32 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
 | 33 | [भारतीय राष्ट्रीय कांग्रेस](http://twitter.com/search?q=%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4%e0%a5%80%e0%a4%af+%e0%a4%b0%e0%a4%be%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%95%e0%a4%be%e0%a4%82%e0%a4%97%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%b8) | N/A |
-| 34 | [#ENGvsNZ](http://twitter.com/search?q=%23ENGvsNZ) | N/A |
-| 35 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
-| 36 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 34 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 35 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 36 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
 | 37 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
 | 38 | [#1YearOfBlockBusterVALIMAI](http://twitter.com/search?q=%231YearOfBlockBusterVALIMAI) | N/A |
 | 39 | [#Dasara](http://twitter.com/search?q=%23Dasara) | N/A |
-| 40 | [#GodMorningFriday](http://twitter.com/search?q=%23GodMorningFriday) | N/A |
-| 41 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 40 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
+| 41 | [#SelfieeReview](http://twitter.com/search?q=%23SelfieeReview) | N/A |
 | 42 | [#Amma75](http://twitter.com/search?q=%23Amma75) | N/A |
-| 43 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 44 | [#Jayalalithaa](http://twitter.com/search?q=%23Jayalalithaa) | N/A |
+| 43 | [#Jayalalithaa](http://twitter.com/search?q=%23Jayalalithaa) | N/A |
+| 44 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
 | 45 | [#CentralExciseDay](http://twitter.com/search?q=%23CentralExciseDay) | N/A |
-| 46 | [#அம்மா75](http://twitter.com/search?q=%23%e0%ae%85%e0%ae%ae%e0%af%8d%e0%ae%ae%e0%ae%be75) | N/A |
-| 47 | [#UNGA](http://twitter.com/search?q=%23UNGA) | N/A |
-| 48 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 49 | [#Indonesia](http://twitter.com/search?q=%23Indonesia) | N/A |
-| 50 | [#SaintRampalJiQuotes](http://twitter.com/search?q=%23SaintRampalJiQuotes) | N/A |
+| 46 | [#என்றென்றும்_அம்மா](http://twitter.com/search?q=%23%e0%ae%8e%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%af%86%e0%ae%a9%e0%af%8d%e0%ae%b1%e0%af%81%e0%ae%ae%e0%af%8d_%e0%ae%85%e0%ae%ae%e0%af%8d%e0%ae%ae%e0%ae%be) | N/A |
+| 47 | [#FridayThoughts](http://twitter.com/search?q=%23FridayThoughts) | N/A |
+| 48 | [#GodMorningFriday](http://twitter.com/search?q=%23GodMorningFriday) | N/A |
+| 49 | [#UNGA](http://twitter.com/search?q=%23UNGA) | N/A |
+| 50 | [#AjayBanga](http://twitter.com/search?q=%23AjayBanga) | N/A |
 
 
 

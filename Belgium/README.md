@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-24 04:16:55 UTC`
+📆 Last Updated: `2023-02-24 05:16:14 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,18 +23,18 @@ This is top 50 for Belgium
 | 6 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
 | 7 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 8 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 9 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
-| 10 | [Ludogorets](http://twitter.com/search?q=Ludogorets) | N/A |
-| 11 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 12 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 13 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 14 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 15 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
-| 16 | [Bart Verbruggen](http://twitter.com/search?q=Bart+Verbruggen) | N/A |
+| 9 | [Ludogorets](http://twitter.com/search?q=Ludogorets) | N/A |
+| 10 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 11 | [Antwerpen](http://twitter.com/search?q=Antwerpen) | N/A |
+| 12 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
+| 13 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 14 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
+| 15 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 16 | [bart verbruggen](http://twitter.com/search?q=bart+verbruggen) | N/A |
 | 17 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
 | 18 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
 | 19 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 20 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 20 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 21 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 22 | [Dries](http://twitter.com/search?q=Dries) | N/A |
 | 23 | [sardella](http://twitter.com/search?q=sardella) | N/A |
@@ -51,10 +51,10 @@ This is top 50 for Belgium
 | 34 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
 | 35 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
 | 36 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 37 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 38 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 39 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 40 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 37 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 38 | [Doku](http://twitter.com/search?q=Doku) | N/A |
+| 39 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 40 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
 | 41 | [Stéphane](http://twitter.com/search?q=St%c3%a9phane) | N/A |
 | 42 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
 | 43 | [riemer](http://twitter.com/search?q=riemer) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-24 04:17:01 UTC`
+📆 Last Updated: `2023-02-24 05:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,8 +15,8 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 2 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 1 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 4 | [#NantesJuventus](http://twitter.com/search?q=%23NantesJuventus) | N/A |
 | 5 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
@@ -32,7 +32,7 @@ This is top 50 for Switzerland
 | 15 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
 | 16 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 17 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 18 | [politikerin](http://twitter.com/search?q=politikerin) | N/A |
+| 18 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
 | 19 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
 | 20 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
 | 21 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for Switzerland
 | 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 35 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 36 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 37 | [Isch](http://twitter.com/search?q=Isch) | N/A |
+| 37 | [isch](http://twitter.com/search?q=isch) | N/A |
 | 38 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 39 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
 | 40 | [Recherche](http://twitter.com/search?q=Recherche) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for Switzerland
 | 44 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
 | 45 | [Vorwurf](http://twitter.com/search?q=Vorwurf) | N/A |
 | 46 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 48 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 49 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 50 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 47 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 48 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 49 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 50 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
 
 
 

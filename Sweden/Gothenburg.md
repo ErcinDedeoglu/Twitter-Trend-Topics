@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Gothenburg
 
-📆 Last Updated: `2023-02-24 04:16:26 UTC`
+📆 Last Updated: `2023-02-24 05:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,14 +17,14 @@ This is top 50 for [Sweden](</Sweden>)
 | ------- | ------------ | ------------ |
 | 1 | [Mats Löfving](http://twitter.com/search?q=Mats+L%c3%b6fving) | N/A |
 | 2 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 3 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 4 | [staaf](http://twitter.com/search?q=staaf) | N/A |
-| 5 | [Thornberg](http://twitter.com/search?q=Thornberg) | N/A |
+| 3 | [staaf](http://twitter.com/search?q=staaf) | N/A |
+| 4 | [Thornberg](http://twitter.com/search?q=Thornberg) | N/A |
+| 5 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 6 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
 | 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 9 | [#skidvm](http://twitter.com/search?q=%23skidvm) | N/A |
-| 10 | [Strandhäll](http://twitter.com/search?q=Strandh%c3%a4ll) | N/A |
+| 8 | [Strandhäll](http://twitter.com/search?q=Strandh%c3%a4ll) | N/A |
+| 9 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 10 | [#skidvm](http://twitter.com/search?q=%23skidvm) | N/A |
 | 11 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 12 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
 | 13 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
@@ -40,8 +40,8 @@ This is top 50 for [Sweden](</Sweden>)
 | 23 | [Välförtjänt](http://twitter.com/search?q=V%c3%a4lf%c3%b6rtj%c3%a4nt) | N/A |
 | 24 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
 | 25 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 26 | [Drip](http://twitter.com/search?q=Drip) | N/A |
-| 27 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 26 | [Godmorgon](http://twitter.com/search?q=Godmorgon) | N/A |
+| 27 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 28 | [linn svahn](http://twitter.com/search?q=linn+svahn) | N/A |
 | 29 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 30 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |

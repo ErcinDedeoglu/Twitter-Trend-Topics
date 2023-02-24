@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Concepcion
 
-📆 Last Updated: `2023-02-24 04:16:14 UTC`
+📆 Last Updated: `2023-02-24 05:15:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,50 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [Copano](http://twitter.com/search?q=Copano) | N/A |
 | 2 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 3 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
-| 4 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
-| 5 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 6 | [Robert de Niro](http://twitter.com/search?q=Robert+de+Niro) | N/A |
+| 3 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
+| 4 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
+| 5 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
+| 6 | [Freire](http://twitter.com/search?q=Freire) | N/A |
 | 7 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
-| 8 | [Ruminot](http://twitter.com/search?q=Ruminot) | N/A |
-| 9 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
-| 10 | [Salinas](http://twitter.com/search?q=Salinas) | N/A |
-| 11 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
-| 12 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 13 | [Polima](http://twitter.com/search?q=Polima) | N/A |
-| 14 | [Club de la Comedia](http://twitter.com/search?q=Club+de+la+Comedia) | N/A |
-| 15 | [Lady Marmalade](http://twitter.com/search?q=Lady+Marmalade) | N/A |
-| 16 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
-| 17 | [Raquel Castillo](http://twitter.com/search?q=Raquel+Castillo) | N/A |
-| 18 | [PERO ME ACUERDO DE TI](http://twitter.com/search?q=PERO+ME+ACUERDO+DE+TI) | N/A |
-| 19 | [María Luisa](http://twitter.com/search?q=Mar%c3%ada+Luisa) | N/A |
-| 20 | [Burlesque](http://twitter.com/search?q=Burlesque) | N/A |
-| 21 | [Ven Conmigo](http://twitter.com/search?q=Ven+Conmigo) | N/A |
-| 22 | [Britney](http://twitter.com/search?q=Britney) | N/A |
-| 23 | [Chico Pérez](http://twitter.com/search?q=Chico+P%c3%a9rez) | N/A |
-| 24 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
-| 25 | [Copanito](http://twitter.com/search?q=Copanito) | N/A |
-| 26 | [Tomás González](http://twitter.com/search?q=Tom%c3%a1s+Gonz%c3%a1lez) | N/A |
-| 27 | [Fighter](http://twitter.com/search?q=Fighter) | N/A |
-| 28 | [Candyman](http://twitter.com/search?q=Candyman) | N/A |
-| 29 | [#Festival2023](http://twitter.com/search?q=%23Festival2023) | N/A |
-| 30 | [Maroon 5](http://twitter.com/search?q=Maroon+5) | Maroon 5 is an American pop rock band from Los Angeles, California. The group was formed in 1994 and consists of lead vocalist Adam Levine, keyboardist and rhythm guitarist Jesse Carmichael, bassist Mickey Madden, lead guitarist James Valentine, drummer Matt Flynn, keyboardist PJ Morton and multi-instrumentalist Sam Farrar. The band's name is derived from a maroon color; Adam Levine chose it because it sounded "cool". |
-| 31 | [Pink](http://twitter.com/search?q=Pink) | N/A |
-| 32 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
+| 8 | [Robert de Niro](http://twitter.com/search?q=Robert+de+Niro) | N/A |
+| 9 | [Ruminot](http://twitter.com/search?q=Ruminot) | N/A |
+| 10 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 11 | [Salinas](http://twitter.com/search?q=Salinas) | N/A |
+| 12 | [Polima](http://twitter.com/search?q=Polima) | N/A |
+| 13 | [Tonka](http://twitter.com/search?q=Tonka) | N/A |
+| 14 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
+| 15 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 16 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 17 | [Yorka](http://twitter.com/search?q=Yorka) | N/A |
+| 18 | [Kast](http://twitter.com/search?q=Kast) | N/A |
+| 19 | [Lady Marmalade](http://twitter.com/search?q=Lady+Marmalade) | N/A |
+| 20 | [Club de la Comedia](http://twitter.com/search?q=Club+de+la+Comedia) | N/A |
+| 21 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
+| 22 | [Chico Pérez](http://twitter.com/search?q=Chico+P%c3%a9rez) | N/A |
+| 23 | [Raquel Castillo](http://twitter.com/search?q=Raquel+Castillo) | N/A |
+| 24 | [My Blood](http://twitter.com/search?q=My+Blood) | N/A |
+| 25 | [María Luisa](http://twitter.com/search?q=Mar%c3%ada+Luisa) | N/A |
+| 26 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
+| 27 | [Copanito](http://twitter.com/search?q=Copanito) | N/A |
+| 28 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
+| 29 | [Tomás González](http://twitter.com/search?q=Tom%c3%a1s+Gonz%c3%a1lez) | N/A |
+| 30 | [Britney](http://twitter.com/search?q=Britney) | N/A |
+| 31 | [Candyman](http://twitter.com/search?q=Candyman) | N/A |
+| 32 | [Pink](http://twitter.com/search?q=Pink) | N/A |
 | 33 | [Sting](http://twitter.com/search?q=Sting) | N/A |
-| 34 | [Genie in a Bottle](http://twitter.com/search?q=Genie+in+a+Bottle) | N/A |
-| 35 | [Titi](http://twitter.com/search?q=Titi) | N/A |
-| 36 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
-| 37 | [Felipe Avello](http://twitter.com/search?q=Felipe+Avello) | N/A |
-| 38 | [Simply Red](http://twitter.com/search?q=Simply+Red) | N/A |
-| 39 | [#RBDSHEA](http://twitter.com/search?q=%23RBDSHEA) | N/A |
-| 40 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
-| 41 | [Lucho Jara](http://twitter.com/search?q=Lucho+Jara) | N/A |
-| 42 | [Becky G](http://twitter.com/search?q=Becky+G) | N/A |
-| 43 | [Movistar](http://twitter.com/search?q=Movistar) | N/A |
-| 44 | [Falsas Esperanzas](http://twitter.com/search?q=Falsas+Esperanzas) | N/A |
-| 45 | [Diva](http://twitter.com/search?q=Diva) | N/A |
-| 46 | [Tom Jones](http://twitter.com/search?q=Tom+Jones) | N/A |
-| 47 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 34 | [Avello](http://twitter.com/search?q=Avello) | N/A |
+| 35 | [Diosa](http://twitter.com/search?q=Diosa) | N/A |
+| 36 | [Titi](http://twitter.com/search?q=Titi) | N/A |
+| 37 | [#Festival2023](http://twitter.com/search?q=%23Festival2023) | N/A |
+| 38 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 39 | [Paredes](http://twitter.com/search?q=Paredes) | Paredes is a Spanish word meaning "walls". It is used to refer to the walls of a building or structure. |
+| 40 | [Ven Conmigo](http://twitter.com/search?q=Ven+Conmigo) | N/A |
+| 41 | [Notable](http://twitter.com/search?q=Notable) | N/A |
+| 42 | [Elton John](http://twitter.com/search?q=Elton+John) | N/A |
+| 43 | [Coco Legrand](http://twitter.com/search?q=Coco+Legrand) | N/A |
+| 44 | [Nicki Nicole](http://twitter.com/search?q=Nicki+Nicole) | N/A |
+| 45 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 46 | [#RBDSHEA](http://twitter.com/search?q=%23RBDSHEA) | N/A |
 
 
 

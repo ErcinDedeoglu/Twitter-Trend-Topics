@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-24 04:16:24 UTC`
+📆 Last Updated: `2023-02-24 05:15:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,9 +21,9 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 4 | [#fcuaja](http://twitter.com/search?q=%23fcuaja) | N/A |
 | 5 | [Union](http://twitter.com/search?q=Union) | N/A |
 | 6 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 7 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 8 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 9 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 7 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 8 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 9 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
 | 10 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
 | 11 | [brobbey](http://twitter.com/search?q=brobbey) | N/A |
 | 12 | [Bergwijn](http://twitter.com/search?q=Bergwijn) | N/A |
@@ -35,35 +35,35 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 18 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
 | 19 | [schokkend](http://twitter.com/search?q=schokkend) | N/A |
 | 20 | [Xavi Simons](http://twitter.com/search?q=Xavi+Simons) | N/A |
-| 21 | [Doekhi](http://twitter.com/search?q=Doekhi) | N/A |
-| 22 | [Buma](http://twitter.com/search?q=Buma) | N/A |
-| 23 | [Luuk](http://twitter.com/search?q=Luuk) | N/A |
-| 24 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 25 | [droomvlucht](http://twitter.com/search?q=droomvlucht) | N/A |
-| 26 | [berlijn](http://twitter.com/search?q=berlijn) | N/A |
-| 27 | [heitinga](http://twitter.com/search?q=heitinga) | N/A |
-| 28 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
-| 29 | [aivd](http://twitter.com/search?q=aivd) | N/A |
-| 30 | [Caroline van der Plas](http://twitter.com/search?q=Caroline+van+der+Plas) | N/A |
-| 31 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 32 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
-| 33 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
-| 34 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 35 | [Becker](http://twitter.com/search?q=Becker) | N/A |
-| 36 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 37 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 38 | [mwene](http://twitter.com/search?q=mwene) | N/A |
+| 21 | [doekhi](http://twitter.com/search?q=doekhi) | N/A |
+| 22 | [luuk](http://twitter.com/search?q=luuk) | N/A |
+| 23 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 24 | [droomvlucht](http://twitter.com/search?q=droomvlucht) | N/A |
+| 25 | [Berlijn](http://twitter.com/search?q=Berlijn) | N/A |
+| 26 | [heitinga](http://twitter.com/search?q=heitinga) | N/A |
+| 27 | [Lizzo](http://twitter.com/search?q=Lizzo) | Lizzo is the stage name of American singer, rapper, and songwriter Melissa Jefferson. The name is derived from the Italian word "lizzare," which means to "dazzle" or "shine." |
+| 28 | [Caroline van der Plas](http://twitter.com/search?q=Caroline+van+der+Plas) | N/A |
+| 29 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 30 | [Buma](http://twitter.com/search?q=Buma) | N/A |
+| 31 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 32 | [Becker](http://twitter.com/search?q=Becker) | N/A |
+| 33 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 35 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
+| 36 | [AIVD](http://twitter.com/search?q=AIVD) | N/A |
+| 37 | [mwene](http://twitter.com/search?q=mwene) | N/A |
+| 38 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 39 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 40 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 41 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 40 | [Bakayoko](http://twitter.com/search?q=Bakayoko) | N/A |
+| 41 | [Kudus](http://twitter.com/search?q=Kudus) | N/A |
 | 42 | [nieuwpoort](http://twitter.com/search?q=nieuwpoort) | N/A |
 | 43 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
 | 44 | [rensch](http://twitter.com/search?q=rensch) | N/A |
-| 45 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 46 | [Russische](http://twitter.com/search?q=Russische) | N/A |
-| 47 | [pasveer](http://twitter.com/search?q=pasveer) | N/A |
-| 48 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 49 | [Lindsey](http://twitter.com/search?q=Lindsey) | N/A |
+| 45 | [Russische](http://twitter.com/search?q=Russische) | N/A |
+| 46 | [pasveer](http://twitter.com/search?q=pasveer) | N/A |
+| 47 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 48 | [AS Roma](http://twitter.com/search?q=AS+Roma) | N/A |
+| 49 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
 
 
 

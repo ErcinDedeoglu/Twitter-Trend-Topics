@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-24 04:16:56 UTC`
+📆 Last Updated: `2023-02-24 05:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -64,7 +64,7 @@ This is top 50 for Ireland
 | 47 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 48 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
 | 49 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 50 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 50 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 
 
 

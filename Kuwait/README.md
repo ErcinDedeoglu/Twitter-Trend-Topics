@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kuwait
 
-📆 Last Updated: `2023-02-24 04:16:58 UTC`
+📆 Last Updated: `2023-02-24 05:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for Kuwait
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#برشلونه_مانشستريونايتد](http://twitter.com/search?q=%23%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d9%87_%d9%85%d8%a7%d9%86%d8%b4%d8%b3%d8%aa%d8%b1%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
-| 2 | [#الداهوم_يسيء_للقضاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%a7%d9%87%d9%88%d9%85_%d9%8a%d8%b3%d9%8a%d8%a1_%d9%84%d9%84%d9%82%d8%b6%d8%a7%d8%a1) | N/A |
-| 3 | [#هشتاقك_ترند_تواصل_θ5θ3θ46347](http://twitter.com/search?q=%23%d9%87%d8%b4%d8%aa%d8%a7%d9%82%d9%83_%d8%aa%d8%b1%d9%86%d8%af_%d8%aa%d9%88%d8%a7%d8%b5%d9%84_%ce%b85%ce%b83%ce%b846347) | N/A |
-| 4 | [#الهلال_فولاذ](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%88%d9%84%d8%a7%d8%b0) | N/A |
-| 5 | [#يوم_التاسيس](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 2 | [#يوم_الجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%ac%d9%85%d8%b9%d9%87) | #يوم_الجمعه is a hashtag used on social media in the Arabic language to refer to Friday. In English, it translates to "Friday". |
+| 3 | [#الداهوم_يسيء_للقضاء](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%af%d8%a7%d9%87%d9%88%d9%85_%d9%8a%d8%b3%d9%8a%d8%a1_%d9%84%d9%84%d9%82%d8%b6%d8%a7%d8%a1) | N/A |
+| 4 | [#هشتاقك_ترند_تواصل_θ5θ3θ46347](http://twitter.com/search?q=%23%d9%87%d8%b4%d8%aa%d8%a7%d9%82%d9%83_%d8%aa%d8%b1%d9%86%d8%af_%d8%aa%d9%88%d8%a7%d8%b5%d9%84_%ce%b85%ce%b83%ce%b846347) | N/A |
+| 5 | [#الهلال_فولاذ](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d9%81%d9%88%d9%84%d8%a7%d8%b0) | N/A |
 | 6 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
 | 7 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
 | 8 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
@@ -28,9 +28,9 @@ This is top 50 for Kuwait
 | 11 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
 | 12 | [رافينها](http://twitter.com/search?q=%d8%b1%d8%a7%d9%81%d9%8a%d9%86%d9%87%d8%a7) | رافينها is an Arabic phrase that translates to "she ran away" in English. |
 | 13 | [ليفا](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7) | ليفا is a transliteration of the Arabic word "ليفة" which means "leopard". In English, it would be translated as "leopard". |
-| 14 | [علم الكويت](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
-| 15 | [دوري الموتمرات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1%d8%a7%d8%aa) | N/A |
-| 16 | [يابو خليف](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
+| 14 | [يابو خليف](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%ae%d9%84%d9%8a%d9%81) | N/A |
+| 15 | [علم الكويت](http://twitter.com/search?q=%d8%b9%d9%84%d9%85+%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 16 | [دوري الموتمرات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1%d8%a7%d8%aa) | N/A |
 | 17 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
 | 18 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
 | 19 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
@@ -50,21 +50,21 @@ This is top 50 for Kuwait
 | 33 | [الونسو](http://twitter.com/search?q=%d8%a7%d9%84%d9%88%d9%86%d8%b3%d9%88) | N/A |
 | 34 | [نصف النهايي](http://twitter.com/search?q=%d9%86%d8%b5%d9%81+%d8%a7%d9%84%d9%86%d9%87%d8%a7%d9%8a%d9%8a) | نصف النهايي is a term used in sports to refer to the semi-final round of a tournament. In English, it translates to "semi-final". |
 | 35 | [علي دينك](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%af%d9%8a%d9%86%d9%83) | N/A |
-| 36 | [عيد وطني](http://twitter.com/search?q=%d8%b9%d9%8a%d8%af+%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 37 | [26 فبراير](http://twitter.com/search?q=26+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 38 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
-| 39 | [مبارك الفنيني](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%a7%d9%84%d9%81%d9%86%d9%8a%d9%86%d9%8a) | N/A |
-| 40 | [فهد العثمان](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b9%d8%ab%d9%85%d8%a7%d9%86) | N/A |
-| 41 | [الرائد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a6%d8%af) | الرائد is an Arabic word meaning "leader" or "pioneer". |
-| 42 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
-| 43 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 36 | [26 فبراير](http://twitter.com/search?q=26+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 37 | [الشوط الثاني](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%88%d8%b7+%d8%a7%d9%84%d8%ab%d8%a7%d9%86%d9%8a) | الشوط الثاني is an Arabic phrase meaning "the second round". It is often used to refer to a second attempt at something, such as a second try at a test or a second attempt at a project. |
+| 38 | [مبارك الفنيني](http://twitter.com/search?q=%d9%85%d8%a8%d8%a7%d8%b1%d9%83+%d8%a7%d9%84%d9%81%d9%86%d9%8a%d9%86%d9%8a) | N/A |
+| 39 | [فهد العثمان](http://twitter.com/search?q=%d9%81%d9%87%d8%af+%d8%a7%d9%84%d8%b9%d8%ab%d9%85%d8%a7%d9%86) | N/A |
+| 40 | [الرائد](http://twitter.com/search?q=%d8%a7%d9%84%d8%b1%d8%a7%d8%a6%d8%af) | الرائد is an Arabic word meaning "leader" or "pioneer". |
+| 41 | [ابن القيم](http://twitter.com/search?q=%d8%a7%d8%a8%d9%86+%d8%a7%d9%84%d9%82%d9%8a%d9%85) | N/A |
+| 42 | [نعمه الامن](http://twitter.com/search?q=%d9%86%d8%b9%d9%85%d9%87+%d8%a7%d9%84%d8%a7%d9%85%d9%86) | N/A |
+| 43 | [اليوم الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
 | 44 | [فاتي](http://twitter.com/search?q=%d9%81%d8%a7%d8%aa%d9%8a) | N/A |
-| 45 | [اليوم الوطني](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a) | N/A |
-| 46 | [مسرح الاحلام](http://twitter.com/search?q=%d9%85%d8%b3%d8%b1%d8%ad+%d8%a7%d9%84%d8%a7%d8%ad%d9%84%d8%a7%d9%85) | N/A |
-| 47 | [نانت](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%aa) | N/A |
-| 48 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
-| 49 | [المانيو](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d9%88) | N/A |
-| 50 | [سيد شباب](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 45 | [مسرح الاحلام](http://twitter.com/search?q=%d9%85%d8%b3%d8%b1%d8%ad+%d8%a7%d9%84%d8%a7%d8%ad%d9%84%d8%a7%d9%85) | N/A |
+| 46 | [نانت](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%aa) | N/A |
+| 47 | [البرسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%b1%d8%b3%d8%a7) | N/A |
+| 48 | [المانيو](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%a7%d9%86%d9%8a%d9%88) | N/A |
+| 49 | [سيد شباب](http://twitter.com/search?q=%d8%b3%d9%8a%d8%af+%d8%b4%d8%a8%d8%a7%d8%a8) | N/A |
+| 50 | [عبدالوهاب الرشيد](http://twitter.com/search?q=%d8%b9%d8%a8%d8%af%d8%a7%d9%84%d9%88%d9%87%d8%a7%d8%a8+%d8%a7%d9%84%d8%b1%d8%b4%d9%8a%d8%af) | N/A |
 
 
 

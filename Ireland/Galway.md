@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-02-24 04:16:20 UTC`
+📆 Last Updated: `2023-02-24 05:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -63,7 +63,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 46 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
 | 47 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
 | 48 | [ISIS](http://twitter.com/search?q=ISIS) | N/A |
-| 49 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 49 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 
 
 

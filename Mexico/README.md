@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-24 04:16:58 UTC`
+📆 Last Updated: `2023-02-24 05:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Mexico
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SalarioRosaVaPorMas](http://twitter.com/search?q=%23SalarioRosaVaPorMas) | N/A |
-| 2 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 3 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
-| 4 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 5 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
-| 6 | [#SupervivenciaColosal](http://twitter.com/search?q=%23SupervivenciaColosal) | N/A |
-| 7 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 8 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
-| 9 | [#ContingenciaAmbiental](http://twitter.com/search?q=%23ContingenciaAmbiental) | N/A |
-| 10 | [Leo Fernández](http://twitter.com/search?q=Leo+Fern%c3%a1ndez) | N/A |
-| 11 | [HAVE A SAFE FLIGHT RM](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+RM) | N/A |
-| 12 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 1 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 2 | [#SalarioRosaVaPorMas](http://twitter.com/search?q=%23SalarioRosaVaPorMas) | N/A |
+| 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 4 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
+| 5 | [#SupervivenciaColosal](http://twitter.com/search?q=%23SupervivenciaColosal) | N/A |
+| 6 | [Fentanes](http://twitter.com/search?q=Fentanes) | N/A |
+| 7 | [Toluca](http://twitter.com/search?q=Toluca) | N/A |
+| 8 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 9 | [#ElOráculoDelRawk](http://twitter.com/search?q=%23ElOr%c3%a1culoDelRawk) | N/A |
+| 10 | [#DiablosTwitteros](http://twitter.com/search?q=%23DiablosTwitteros) | N/A |
+| 11 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 12 | [HAVE A SAFE FLIGHT RM](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+RM) | N/A |
 | 13 | [Marcel Ruiz](http://twitter.com/search?q=Marcel+Ruiz) | N/A |
-| 14 | [PERDONEN A MARIO Y LEON](http://twitter.com/search?q=PERDONEN+A+MARIO+Y+LEON) | N/A |
-| 15 | [Nacho Ambriz](http://twitter.com/search?q=Nacho+Ambriz) | N/A |
-| 16 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
-| 17 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 18 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 19 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 20 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 21 | [Ixhuatlán del Sureste](http://twitter.com/search?q=Ixhuatl%c3%a1n+del+Sureste) | N/A |
-| 22 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
-| 23 | [Fase](http://twitter.com/search?q=Fase) | N/A |
-| 24 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 25 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
-| 26 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 27 | [Kim Loaiza](http://twitter.com/search?q=Kim+Loaiza) | N/A |
-| 28 | [Enrique Iglesias](http://twitter.com/search?q=Enrique+Iglesias) | N/A |
-| 29 | [YATRA EN PLN](http://twitter.com/search?q=YATRA+EN+PLN) | N/A |
-| 30 | [Harold Preciado](http://twitter.com/search?q=Harold+Preciado) | N/A |
-| 31 | [Exceso](http://twitter.com/search?q=Exceso) | N/A |
-| 32 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
-| 33 | [CNCO](http://twitter.com/search?q=CNCO) | N/A |
-| 34 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 35 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 36 | [Tecate Emblema](http://twitter.com/search?q=Tecate+Emblema) | N/A |
-| 37 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 38 | [Orlegi](http://twitter.com/search?q=Orlegi) | N/A |
-| 39 | [Secretario de Gobernación](http://twitter.com/search?q=Secretario+de+Gobernaci%c3%b3n) | N/A |
-| 40 | [Tuzandepetl](http://twitter.com/search?q=Tuzandepetl) | N/A |
-| 41 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 42 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
-| 43 | [Panista](http://twitter.com/search?q=Panista) | N/A |
-| 44 | [José Saramago](http://twitter.com/search?q=Jos%c3%a9+Saramago) | N/A |
-| 45 | [La Primavera](http://twitter.com/search?q=La+Primavera) | N/A |
-| 46 | [Valle de México](http://twitter.com/search?q=Valle+de+M%c3%a9xico) | N/A |
-| 47 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 48 | [Durazo](http://twitter.com/search?q=Durazo) | N/A |
-| 49 | [hailey bieber](http://twitter.com/search?q=hailey+bieber) | N/A |
-| 50 | [Ibai](http://twitter.com/search?q=Ibai) | Ibai is a Basque name that means "river". It is also the name of a river in the Basque Country. |
+| 14 | [Leo Fernández](http://twitter.com/search?q=Leo+Fern%c3%a1ndez) | N/A |
+| 15 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 16 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 17 | [Nacho Ambriz](http://twitter.com/search?q=Nacho+Ambriz) | N/A |
+| 18 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
+| 19 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 20 | [Santos Laguna](http://twitter.com/search?q=Santos+Laguna) | N/A |
+| 21 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 22 | [PERDONEN A MARIO Y LEON](http://twitter.com/search?q=PERDONEN+A+MARIO+Y+LEON) | N/A |
+| 23 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 24 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 25 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
+| 26 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 27 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 28 | [René Casados](http://twitter.com/search?q=Ren%c3%a9+Casados) | N/A |
+| 29 | [Exceso](http://twitter.com/search?q=Exceso) | N/A |
+| 30 | [Kim Loaiza](http://twitter.com/search?q=Kim+Loaiza) | N/A |
+| 31 | [Enrique Iglesias](http://twitter.com/search?q=Enrique+Iglesias) | N/A |
+| 32 | [Secretario de Gobernación](http://twitter.com/search?q=Secretario+de+Gobernaci%c3%b3n) | N/A |
+| 33 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 34 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
+| 35 | [hailey bieber](http://twitter.com/search?q=hailey+bieber) | N/A |
+| 36 | [Panista](http://twitter.com/search?q=Panista) | N/A |
+| 37 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 38 | [Ixhuatlán](http://twitter.com/search?q=Ixhuatl%c3%a1n) | N/A |
+| 39 | [YATRA EN PLN](http://twitter.com/search?q=YATRA+EN+PLN) | N/A |
+| 40 | [Harold Preciado](http://twitter.com/search?q=Harold+Preciado) | N/A |
+| 41 | [CNCO](http://twitter.com/search?q=CNCO) | N/A |
+| 42 | [Legarrote](http://twitter.com/search?q=Legarrote) | N/A |
+| 43 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
+| 44 | [Orlegi](http://twitter.com/search?q=Orlegi) | N/A |
+| 45 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 46 | [Apio](http://twitter.com/search?q=Apio) | N/A |
+| 47 | [Durazo](http://twitter.com/search?q=Durazo) | N/A |
+| 48 | [Milán](http://twitter.com/search?q=Mil%c3%a1n) | N/A |
+| 49 | [Robbie Williams](http://twitter.com/search?q=Robbie+Williams) | N/A |
+| 50 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 
 
 

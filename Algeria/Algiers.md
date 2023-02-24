@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Algiers
 
-📆 Last Updated: `2023-02-24 04:16:35 UTC`
+📆 Last Updated: `2023-02-24 05:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,7 +30,7 @@ This is top 50 for [Algeria](</Algeria>)
 | 13 | [#عرين_الاسود](http://twitter.com/search?q=%23%d8%b9%d8%b1%d9%8a%d9%86_%d8%a7%d9%84%d8%a7%d8%b3%d9%88%d8%af) | N/A |
 | 14 | [#نابلس](http://twitter.com/search?q=%23%d9%86%d8%a7%d8%a8%d9%84%d8%b3) | N/A |
 | 15 | [بوسكيتس](http://twitter.com/search?q=%d8%a8%d9%88%d8%b3%d9%83%d9%8a%d8%aa%d8%b3) | بوسكيتس (Bouskites) is a type of traditional Greek pastry made with phyllo dough, butter, and sugar. It is usually filled with a sweet custard or cream and topped with nuts or honey. The name comes from the Greek word for "baked" (bouski). In English, it is sometimes referred to as "Greek custard pies". |
-| 16 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 16 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 17 | [البارسا](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%a7%d8%b1%d8%b3%d8%a7) | N/A |
 | 18 | [دوري الموتمرات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1%d8%a7%d8%aa) | N/A |
 | 19 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
@@ -46,8 +46,8 @@ This is top 50 for [Algeria](</Algeria>)
 | 29 | [تين هاغ](http://twitter.com/search?q=%d8%aa%d9%8a%d9%86+%d9%87%d8%a7%d8%ba) | N/A |
 | 30 | [تونس](http://twitter.com/search?q=%d8%aa%d9%88%d9%86%d8%b3) | N/A |
 | 31 | [ملك المغرب](http://twitter.com/search?q=%d9%85%d9%84%d9%83+%d8%a7%d9%84%d9%85%d8%ba%d8%b1%d8%a8) | N/A |
-| 32 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
-| 33 | [الاحتلال الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 32 | [الاحتلال الفرنسي](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d8%ad%d8%aa%d9%84%d8%a7%d9%84+%d8%a7%d9%84%d9%81%d8%b1%d9%86%d8%b3%d9%8a) | N/A |
+| 33 | [بايرن](http://twitter.com/search?q=%d8%a8%d8%a7%d9%8a%d8%b1%d9%86) | N/A |
 | 34 | [Messi](http://twitter.com/search?q=Messi) | Messi is the nickname of Lionel Messi, an Argentine professional soccer player who plays for FC Barcelona and the Argentina national team. He is widely considered to be one of the greatest players of all time. The name Messi is derived from his surname, which is a diminutive form of the Italian name "Messi". |
 | 35 | [بارك علي](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b1%d9%83+%d8%b9%d9%84%d9%8a) | N/A |
 | 36 | [أيمن بن عبد الرحمان](http://twitter.com/search?q=%d8%a3%d9%8a%d9%85%d9%86+%d8%a8%d9%86+%d8%b9%d8%a8%d8%af+%d8%a7%d9%84%d8%b1%d8%ad%d9%85%d8%a7%d9%86) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [Algeria](</Algeria>)
 | 47 | [Mahrez](http://twitter.com/search?q=Mahrez) | Mahrez is a surname of Arabic origin. It is derived from the Arabic word "mahr" which means "gift". In English, it can be translated to mean "gift of God". |
 | 48 | [22 فيفري](http://twitter.com/search?q=22+%d9%81%d9%8a%d9%81%d8%b1%d9%8a) | N/A |
 | 49 | [ناتشو](http://twitter.com/search?q=%d9%86%d8%a7%d8%aa%d8%b4%d9%88) | N/A |
-| 50 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 50 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zurich
 
-📆 Last Updated: `2023-02-24 04:16:26 UTC`
+📆 Last Updated: `2023-02-24 05:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,12 +15,12 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
-| 2 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 1 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 2 | [#rotblaulive](http://twitter.com/search?q=%23rotblaulive) | N/A |
 | 3 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 4 | [#NantesJuventus](http://twitter.com/search?q=%23NantesJuventus) | N/A |
 | 5 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 6 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 6 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
 | 7 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 8 | [Isabel Garcia](http://twitter.com/search?q=Isabel+Garcia) | N/A |
 | 9 | [Sitz](http://twitter.com/search?q=Sitz) | N/A |
@@ -32,18 +32,18 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 15 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
 | 16 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 17 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 18 | [politikerin](http://twitter.com/search?q=politikerin) | N/A |
+| 18 | [Politikerin](http://twitter.com/search?q=Politikerin) | N/A |
 | 19 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
 | 20 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
 | 21 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
 | 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 23 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
 | 24 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
-| 25 | [Rücktritt](http://twitter.com/search?q=R%c3%bccktritt) | N/A |
+| 25 | [rücktritt](http://twitter.com/search?q=r%c3%bccktritt) | N/A |
 | 26 | [Programm](http://twitter.com/search?q=Programm) | N/A |
 | 27 | [Masterclass](http://twitter.com/search?q=Masterclass) | N/A |
 | 28 | [iPad](http://twitter.com/search?q=iPad) | N/A |
-| 29 | [strom](http://twitter.com/search?q=strom) | N/A |
+| 29 | [Strom](http://twitter.com/search?q=Strom) | N/A |
 | 30 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 31 | [Mullahs](http://twitter.com/search?q=Mullahs) | N/A |
 | 32 | [Wahlkampf](http://twitter.com/search?q=Wahlkampf) | N/A |
@@ -51,7 +51,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 34 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
 | 35 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 36 | [Government](http://twitter.com/search?q=Government) | N/A |
-| 37 | [Isch](http://twitter.com/search?q=Isch) | N/A |
+| 37 | [isch](http://twitter.com/search?q=isch) | N/A |
 | 38 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
 | 39 | [Vladimir Poutine](http://twitter.com/search?q=Vladimir+Poutine) | N/A |
 | 40 | [Recherche](http://twitter.com/search?q=Recherche) | N/A |
@@ -61,10 +61,10 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 44 | [Jugend](http://twitter.com/search?q=Jugend) | N/A |
 | 45 | [Vorwurf](http://twitter.com/search?q=Vorwurf) | N/A |
 | 46 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 48 | [Singapore](http://twitter.com/search?q=Singapore) | N/A |
-| 49 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 50 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 47 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 48 | [Parkplätze](http://twitter.com/search?q=Parkpl%c3%a4tze) | N/A |
+| 49 | [Naruto](http://twitter.com/search?q=Naruto) | N/A |
+| 50 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
 
 
 

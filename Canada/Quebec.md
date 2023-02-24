@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-24 04:16:07 UTC`
+📆 Last Updated: `2023-02-24 05:15:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Canada](</Canada>)
 | 1 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
 | 2 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
 | 3 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 4 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 5 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 6 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 7 | [Boucher](http://twitter.com/search?q=Boucher) | N/A |
-| 8 | [Petey](http://twitter.com/search?q=Petey) | N/A |
+| 4 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 5 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
+| 6 | [Petey](http://twitter.com/search?q=Petey) | N/A |
+| 7 | [Backlund](http://twitter.com/search?q=Backlund) | N/A |
+| 8 | [Elias Pettersson](http://twitter.com/search?q=Elias+Pettersson) | Elias Pettersson is a Swedish professional ice hockey player who currently plays for the Vancouver Canucks of the National Hockey League (NHL). He was selected fifth overall in the 2017 NHL Entry Draft. The name Elias Pettersson translates to "God is my strength" in English. |
 | 9 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 10 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 11 | [Elias Pettersson](http://twitter.com/search?q=Elias+Pettersson) | Elias Pettersson is a Swedish professional ice hockey player who currently plays for the Vancouver Canucks of the National Hockey League (NHL). He was selected fifth overall in the 2017 NHL Entry Draft. The name Elias Pettersson translates to "God is my strength" in English. |
-| 12 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
-| 13 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
-| 14 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 15 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 16 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
-| 17 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 18 | [#TeamTank](http://twitter.com/search?q=%23TeamTank) | N/A |
-| 19 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 20 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 21 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
-| 22 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
-| 23 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 24 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 25 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 26 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 27 | [Raps](http://twitter.com/search?q=Raps) | N/A |
-| 28 | [Devin Shore](http://twitter.com/search?q=Devin+Shore) | N/A |
-| 29 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
-| 30 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 31 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 10 | [Boucher](http://twitter.com/search?q=Boucher) | N/A |
+| 11 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
+| 12 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 13 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 14 | [Kuzmenko](http://twitter.com/search?q=Kuzmenko) | N/A |
+| 15 | [#teamtank](http://twitter.com/search?q=%23teamtank) | N/A |
+| 16 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
+| 17 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 18 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 19 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 20 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 21 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 22 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 23 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
+| 24 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 25 | [Raps](http://twitter.com/search?q=Raps) | N/A |
+| 26 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 27 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 28 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
+| 29 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
+| 30 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 31 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
 | 32 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
-| 33 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 34 | [Backlund](http://twitter.com/search?q=Backlund) | N/A |
-| 35 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 36 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 37 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 38 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 39 | [Pelletier](http://twitter.com/search?q=Pelletier) | N/A |
-| 40 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 41 | [Spencer](http://twitter.com/search?q=Spencer) | Spencer is a name of English origin, derived from the Latin word "despensarius," meaning "steward" or "provider." It is also a surname, and can be used as both a given name and a surname. |
-| 42 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
-| 43 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 44 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
-| 45 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 46 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 47 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
-| 48 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 49 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 33 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 34 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 35 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 36 | [Spencer](http://twitter.com/search?q=Spencer) | Spencer is a name of English origin, derived from the Latin word "despensarius," meaning "steward" or "provider." It is also a surname, and can be used as both a given name and a surname. |
+| 37 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 38 | [Pelletier](http://twitter.com/search?q=Pelletier) | N/A |
+| 39 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 40 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 41 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 42 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
+| 43 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
+| 44 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 45 | [Ken Holland](http://twitter.com/search?q=Ken+Holland) | N/A |
+| 46 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 47 | [#StarTrekPicard](http://twitter.com/search?q=%23StarTrekPicard) | N/A |
+| 48 | [#UkraineWillWin](http://twitter.com/search?q=%23UkraineWillWin) | N/A |
+| 49 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
 
 
 

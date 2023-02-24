@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Semarang
 
-📆 Last Updated: `2023-02-24 04:16:28 UTC`
+📆 Last Updated: `2023-02-24 05:15:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SiEnengGoPublic](http://twitter.com/search?q=%23SiEnengGoPublic) | N/A |
-| 2 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
-| 3 | [#TransferValasCUMAdiLivin](http://twitter.com/search?q=%23TransferValasCUMAdiLivin) | N/A |
-| 4 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 5 | [#MissingMovieID](http://twitter.com/search?q=%23MissingMovieID) | N/A |
-| 6 | [#MegawatiBermaksudBaik](http://twitter.com/search?q=%23MegawatiBermaksudBaik) | N/A |
-| 7 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
-| 8 | [Mandiri](http://twitter.com/search?q=Mandiri) | N/A |
+| 2 | [#MissingMovieID](http://twitter.com/search?q=%23MissingMovieID) | N/A |
+| 3 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
+| 4 | [#TransferValasCUMAdiLivin](http://twitter.com/search?q=%23TransferValasCUMAdiLivin) | N/A |
+| 5 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
+| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 7 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
+| 8 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
 | 9 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
-| 10 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 11 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 12 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
-| 13 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
-| 14 | [David](http://twitter.com/search?q=David) | N/A |
-| 15 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 16 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
-| 17 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 18 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 19 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 20 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 21 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 22 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 23 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 24 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 25 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 26 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 27 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
-| 28 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
-| 29 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
-| 30 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 31 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 32 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 33 | [Bonnie](http://twitter.com/search?q=Bonnie) | N/A |
-| 34 | [Searching](http://twitter.com/search?q=Searching) | N/A |
-| 35 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 36 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
-| 37 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 38 | [Ujan](http://twitter.com/search?q=Ujan) | N/A |
-| 39 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 40 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 42 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 43 | [LAPORAN](http://twitter.com/search?q=LAPORAN) | N/A |
-| 44 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 45 | [Yoga](http://twitter.com/search?q=Yoga) | N/A |
-| 46 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 10 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 11 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
+| 12 | [Mandiri](http://twitter.com/search?q=Mandiri) | N/A |
+| 13 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
+| 14 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 15 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 16 | [David](http://twitter.com/search?q=David) | N/A |
+| 17 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
+| 18 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 19 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
+| 20 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 21 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 22 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 23 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 24 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
+| 25 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 26 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
+| 27 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 28 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 29 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
+| 30 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 31 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 32 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
+| 33 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 34 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 35 | [Bonnie](http://twitter.com/search?q=Bonnie) | N/A |
+| 36 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 37 | [Searching](http://twitter.com/search?q=Searching) | N/A |
+| 38 | [LAPORAN](http://twitter.com/search?q=LAPORAN) | N/A |
+| 39 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 40 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
+| 41 | [Ujan](http://twitter.com/search?q=Ujan) | N/A |
+| 42 | [Setan](http://twitter.com/search?q=Setan) | N/A |
+| 43 | [Binatang](http://twitter.com/search?q=Binatang) | N/A |
+| 44 | [Netizen](http://twitter.com/search?q=Netizen) | N/A |
+| 45 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 46 | [Decul](http://twitter.com/search?q=Decul) | N/A |
 | 47 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 48 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 49 | [Biadab](http://twitter.com/search?q=Biadab) | N/A |
+| 48 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 49 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
 
 
 

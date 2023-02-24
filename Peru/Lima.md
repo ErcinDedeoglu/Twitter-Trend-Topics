@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lima
 
-📆 Last Updated: `2023-02-24 04:16:16 UTC`
+📆 Last Updated: `2023-02-24 05:15:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Peru](</Peru>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 2 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 3 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 4 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
-| 5 | [#RBDSHEA](http://twitter.com/search?q=%23RBDSHEA) | N/A |
-| 6 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
-| 7 | [HAVE A SAFE FLIGHT RM](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+RM) | N/A |
-| 8 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
-| 9 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
-| 10 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 11 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
-| 12 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 13 | [#AFHS](http://twitter.com/search?q=%23AFHS) | #AFHS stands for "All For High School," which is a hashtag used to promote high school education and activities. It is often used on social media platforms such as Twitter and Instagram. |
-| 14 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 15 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 16 | [#ARIANAISBACK](http://twitter.com/search?q=%23ARIANAISBACK) | N/A |
-| 17 | [Mike](http://twitter.com/search?q=Mike) | N/A |
-| 18 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 19 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 20 | [BTS PAVED THE WAY](http://twitter.com/search?q=BTS+PAVED+THE+WAY) | BTS PAVED THE WAY is a phrase used to describe the impact that the South Korean boy band BTS has had on the music industry. It is a reference to how BTS has broken down barriers and opened up opportunities for other K-pop artists to gain international recognition. The phrase can also be interpreted as a metaphor for how BTS has created a path for others to follow in their footsteps. |
-| 21 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 22 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 23 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 25 | [CONGRATULATIONS BTS](http://twitter.com/search?q=CONGRATULATIONS+BTS) | "CONGRATULATIONS BTS" is a phrase used to express congratulations and support to the South Korean boy band BTS. It is typically used when the group achieves a milestone or has been recognized for an accomplishment. |
-| 26 | [La FPF](http://twitter.com/search?q=La+FPF) | N/A |
-| 27 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 1 | [Milena](http://twitter.com/search?q=Milena) | N/A |
+| 2 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
+| 3 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 4 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
+| 5 | [#ARIANAISBACK](http://twitter.com/search?q=%23ARIANAISBACK) | N/A |
+| 6 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 7 | [El TC](http://twitter.com/search?q=El+TC) | N/A |
+| 8 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 9 | [Toledo](http://twitter.com/search?q=Toledo) | N/A |
+| 10 | [Defensor del Pueblo](http://twitter.com/search?q=Defensor+del+Pueblo) | N/A |
+| 11 | [Warmisitay](http://twitter.com/search?q=Warmisitay) | N/A |
+| 12 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
+| 13 | [#RBDSHEA](http://twitter.com/search?q=%23RBDSHEA) | N/A |
+| 14 | [HAVE A SAFE FLIGHT RM](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+RM) | N/A |
+| 15 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 16 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
+| 17 | [Gaviota de Plata](http://twitter.com/search?q=Gaviota+de+Plata) | N/A |
+| 18 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 21 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 22 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
+| 23 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 24 | [La FPF](http://twitter.com/search?q=La+FPF) | N/A |
+| 25 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 26 | [Arriba Perú](http://twitter.com/search?q=Arriba+Per%c3%ba) | N/A |
+| 27 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
 | 28 | [YATRA EN PLN](http://twitter.com/search?q=YATRA+EN+PLN) | N/A |
-| 29 | [Xtina](http://twitter.com/search?q=Xtina) | N/A |
-| 30 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 31 | [Plaza Vea](http://twitter.com/search?q=Plaza+Vea) | N/A |
-| 32 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 33 | [Maca](http://twitter.com/search?q=Maca) | N/A |
-| 34 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
-| 35 | [Lozano](http://twitter.com/search?q=Lozano) | N/A |
-| 36 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 37 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 38 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
-| 39 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 40 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 41 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
-| 42 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
-| 43 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 44 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 29 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 30 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 31 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 32 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 33 | [Sport Boys](http://twitter.com/search?q=Sport+Boys) | N/A |
+| 34 | [Melgar](http://twitter.com/search?q=Melgar) | N/A |
+| 35 | [España](http://twitter.com/search?q=Espa%c3%b1a) | N/A |
+| 36 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 37 | [Guatemala](http://twitter.com/search?q=Guatemala) | Guatemala is a country in Central America bordered by Mexico, Belize, Honduras, and El Salvador. Its capital is Guatemala City. The name Guatemala comes from the Nahuatl word Cuauhtēmallān, meaning "place of many trees." |
+| 38 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 39 | [SET ME FREE PT](http://twitter.com/search?q=SET+ME+FREE+PT) | N/A |
+| 40 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 41 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
+| 42 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
+| 43 | [Consorcio](http://twitter.com/search?q=Consorcio) | N/A |
+| 44 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
 | 45 | [MINEDU](http://twitter.com/search?q=MINEDU) | N/A |
 | 46 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 47 | [Consorcio](http://twitter.com/search?q=Consorcio) | N/A |
+| 47 | [Plaza Vea](http://twitter.com/search?q=Plaza+Vea) | N/A |
 | 48 | [Raphinha](http://twitter.com/search?q=Raphinha) | Raphinha is a Portuguese name derived from the Hebrew name Raphael, meaning "God has healed". In English, it can be translated to mean "God's healing". |
 | 49 | [Binacional](http://twitter.com/search?q=Binacional) | N/A |
-| 50 | [Sport Boys](http://twitter.com/search?q=Sport+Boys) | N/A |
+| 50 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 
 
 
