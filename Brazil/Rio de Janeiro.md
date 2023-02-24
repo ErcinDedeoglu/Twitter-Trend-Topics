@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-24 20:16:00 UTC`
+📆 Last Updated: `2023-02-24 21:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Andrey](http://twitter.com/search?q=Andrey) | Andrey is a Russian male given name derived from the Greek name Andreas, meaning "manly" or "masculine". |
-| 2 | [Caio Paulista](http://twitter.com/search?q=Caio+Paulista) | Caio Paulista is a Brazilian greeting, similar to "hello" or "good day". It is derived from the Latin phrase "caveat emptor", which means "let the buyer beware". In English, it can be translated as "hello from São Paulo". |
-| 3 | [Tino](http://twitter.com/search?q=Tino) | N/A |
-| 4 | [O Botafogo](http://twitter.com/search?q=O+Botafogo) | N/A |
-| 5 | [Botafoguense](http://twitter.com/search?q=Botafoguense) | N/A |
-| 6 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 7 | [Keno](http://twitter.com/search?q=Keno) | Keno is a lottery-style game that originated in China. It is a game of chance in which players select numbers from a board of 80 numbers and then wait for the draw to see if their numbers match the ones that are randomly selected. The goal of the game is to match as many of your chosen numbers with those drawn by the house. In English, Keno means "to win or gain something". |
-| 8 | [DO NADA](http://twitter.com/search?q=DO+NADA) | N/A |
-| 9 | [Deco](http://twitter.com/search?q=Deco) | N/A |
+| 2 | [DO NADA](http://twitter.com/search?q=DO+NADA) | N/A |
+| 3 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 4 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 5 | [O Botafogo](http://twitter.com/search?q=O+Botafogo) | N/A |
+| 6 | [Xerém](http://twitter.com/search?q=Xer%c3%a9m) | N/A |
+| 7 | [Deco](http://twitter.com/search?q=Deco) | N/A |
+| 8 | [Caio Paulista](http://twitter.com/search?q=Caio+Paulista) | Caio Paulista is a Brazilian greeting, similar to "hello" or "good day". It is derived from the Latin phrase "caveat emptor", which means "let the buyer beware". In English, it can be translated as "hello from São Paulo". |
+| 9 | [Pedrosa](http://twitter.com/search?q=Pedrosa) | Pedrosa is a Spanish surname derived from the given name Pedro. It is a patronymic name meaning "son of Pedro". In English, it can be translated to mean "son of Peter". |
 | 10 | [Laranjeiras](http://twitter.com/search?q=Laranjeiras) | N/A |
 | 11 | [Alemanha](http://twitter.com/search?q=Alemanha) | N/A |
-| 12 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
-| 13 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 14 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 15 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 16 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
-| 17 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 18 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
-| 19 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
-| 20 | [#ZombehNFT](http://twitter.com/search?q=%23ZombehNFT) | N/A |
-| 21 | [Sacy](http://twitter.com/search?q=Sacy) | N/A |
-| 22 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
-| 23 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
-| 24 | [Tenz](http://twitter.com/search?q=Tenz) | N/A |
-| 25 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 26 | [Zekken](http://twitter.com/search?q=Zekken) | N/A |
-| 27 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 28 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 29 | [#StaySelcaDay](http://twitter.com/search?q=%23StaySelcaDay) | N/A |
-| 30 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 31 | [Axel](http://twitter.com/search?q=Axel) | N/A |
-| 32 | [Jegue](http://twitter.com/search?q=Jegue) | N/A |
-| 33 | [Elizabeth](http://twitter.com/search?q=Elizabeth) | N/A |
-| 34 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 35 | [carlinhos maia](http://twitter.com/search?q=carlinhos+maia) | N/A |
-| 36 | [Hermes](http://twitter.com/search?q=Hermes) | N/A |
-| 37 | [Agulhas](http://twitter.com/search?q=Agulhas) | N/A |
-| 38 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 39 | [Perrie](http://twitter.com/search?q=Perrie) | N/A |
-| 40 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
-| 41 | [ucrânia](http://twitter.com/search?q=ucr%c3%a2nia) | N/A |
-| 42 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 43 | [Ultraje a Rigor](http://twitter.com/search?q=Ultraje+a+Rigor) | N/A |
-| 44 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
-| 45 | [Saul Goodman](http://twitter.com/search?q=Saul+Goodman) | N/A |
-| 46 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 47 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
-| 48 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 49 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
-| 50 | [Bennett](http://twitter.com/search?q=Bennett) | N/A |
+| 12 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 13 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
+| 14 | [Tino](http://twitter.com/search?q=Tino) | N/A |
+| 15 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 16 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 17 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
+| 18 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 19 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
+| 20 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 21 | [#ZombehNFT](http://twitter.com/search?q=%23ZombehNFT) | N/A |
+| 22 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 23 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
+| 24 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 25 | [Dgzin](http://twitter.com/search?q=Dgzin) | N/A |
+| 26 | [Sacy](http://twitter.com/search?q=Sacy) | N/A |
+| 27 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
+| 28 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 29 | [Carlinhos Maia](http://twitter.com/search?q=Carlinhos+Maia) | N/A |
+| 30 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 31 | [Zekken](http://twitter.com/search?q=Zekken) | N/A |
+| 32 | [Elizabeth](http://twitter.com/search?q=Elizabeth) | N/A |
+| 33 | [Agulhas](http://twitter.com/search?q=Agulhas) | N/A |
+| 34 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 35 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 36 | [Tenz](http://twitter.com/search?q=Tenz) | N/A |
+| 37 | [Axel](http://twitter.com/search?q=Axel) | N/A |
+| 38 | [Jegue](http://twitter.com/search?q=Jegue) | N/A |
+| 39 | [Hermes](http://twitter.com/search?q=Hermes) | N/A |
+| 40 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 41 | [Ultraje a Rigor](http://twitter.com/search?q=Ultraje+a+Rigor) | N/A |
+| 42 | [Perrie](http://twitter.com/search?q=Perrie) | N/A |
+| 43 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
+| 44 | [Bolsa Família](http://twitter.com/search?q=Bolsa+Fam%c3%adlia) | N/A |
+| 45 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 46 | [Saul Goodman](http://twitter.com/search?q=Saul+Goodman) | N/A |
+| 47 | [ITUNES](http://twitter.com/search?q=ITUNES) | N/A |
+| 48 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 49 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 50 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
 
 
 

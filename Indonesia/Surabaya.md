@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-24 20:16:10 UTC`
+📆 Last Updated: `2023-02-24 21:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,7 +35,7 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 18 | [valid no debat](http://twitter.com/search?q=valid+no+debat) | N/A |
 | 19 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
 | 20 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 21 | [rafael alun trisambodo](http://twitter.com/search?q=rafael+alun+trisambodo) | N/A |
+| 21 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
 | 22 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
 | 23 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
 | 24 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
@@ -45,26 +45,26 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 28 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
 | 29 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 30 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 31 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
-| 32 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
-| 33 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
-| 34 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 35 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
-| 36 | [danamon](http://twitter.com/search?q=danamon) | N/A |
-| 37 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 38 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 31 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 32 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
+| 33 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
+| 34 | [danamon](http://twitter.com/search?q=danamon) | N/A |
+| 35 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 36 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 37 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
+| 38 | [petisi 99 kyai](http://twitter.com/search?q=petisi+99+kyai) | N/A |
 | 39 | [Biadab](http://twitter.com/search?q=Biadab) | N/A |
 | 40 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
-| 41 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 42 | [petisi 99 kyai](http://twitter.com/search?q=petisi+99+kyai) | N/A |
-| 43 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
-| 44 | [kelas 8](http://twitter.com/search?q=kelas+8) | N/A |
-| 45 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
-| 46 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 47 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 48 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
-| 49 | [Traveloka](http://twitter.com/search?q=Traveloka) | N/A |
-| 50 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 41 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
+| 42 | [kelas 8](http://twitter.com/search?q=kelas+8) | N/A |
+| 43 | [EXO is EXOING](http://twitter.com/search?q=EXO+is+EXOING) | N/A |
+| 44 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 45 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 46 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
+| 47 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 48 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 49 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
+| 50 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
 
 
 

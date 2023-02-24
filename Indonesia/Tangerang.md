@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tangerang
 
-📆 Last Updated: `2023-02-24 20:16:11 UTC`
+📆 Last Updated: `2023-02-24 21:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,7 +33,7 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 16 | [valid no debat](http://twitter.com/search?q=valid+no+debat) | N/A |
 | 17 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
 | 18 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 19 | [rafael alun trisambodo](http://twitter.com/search?q=rafael+alun+trisambodo) | N/A |
+| 19 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
 | 20 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
 | 21 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
 | 22 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
@@ -43,25 +43,25 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 26 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
 | 27 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 28 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 29 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
-| 30 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
-| 31 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
-| 32 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 33 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
-| 34 | [danamon](http://twitter.com/search?q=danamon) | N/A |
-| 35 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 36 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 29 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 30 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
+| 31 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
+| 32 | [danamon](http://twitter.com/search?q=danamon) | N/A |
+| 33 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 34 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 35 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
+| 36 | [petisi 99 kyai](http://twitter.com/search?q=petisi+99+kyai) | N/A |
 | 37 | [Biadab](http://twitter.com/search?q=Biadab) | N/A |
 | 38 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
-| 39 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 40 | [petisi 99 kyai](http://twitter.com/search?q=petisi+99+kyai) | N/A |
-| 41 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
-| 42 | [kelas 8](http://twitter.com/search?q=kelas+8) | N/A |
-| 43 | [EXO IS EXOING](http://twitter.com/search?q=EXO+IS+EXOING) | N/A |
-| 44 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 45 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 46 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
-| 47 | [Traveloka](http://twitter.com/search?q=Traveloka) | N/A |
+| 39 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
+| 40 | [kelas 8](http://twitter.com/search?q=kelas+8) | N/A |
+| 41 | [EXO is EXOING](http://twitter.com/search?q=EXO+is+EXOING) | N/A |
+| 42 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 43 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 44 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
+| 45 | [tulus utamakan rakyat](http://twitter.com/search?q=tulus+utamakan+rakyat) | N/A |
+| 46 | [angkatan darat di hati rakyat](http://twitter.com/search?q=angkatan+darat+di+hati+rakyat) | N/A |
+| 47 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
 
 
 

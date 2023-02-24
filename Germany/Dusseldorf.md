@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-02-24 20:16:05 UTC`
+📆 Last Updated: `2023-02-24 21:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | N/A |
-| 2 | [#tipicospor](http://twitter.com/search?q=%23tipicospor) | N/A |
-| 3 | [#M05BMG](http://twitter.com/search?q=%23M05BMG) | N/A |
-| 4 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 1 | [#M05BMG](http://twitter.com/search?q=%23M05BMG) | N/A |
+| 2 | [#LetsDance](http://twitter.com/search?q=%23LetsDance) | N/A |
+| 3 | [#tipicospor](http://twitter.com/search?q=%23tipicospor) | N/A |
+| 4 | [#GoodbyeDeutschland](http://twitter.com/search?q=%23GoodbyeDeutschland) | #GoodbyeDeutschland is a hashtag used on social media to refer to the German reality TV show Goodbye Deutschland! The Viva Mallorca. The show follows German expats who have moved abroad and documents their lives in their new homes. In English, the hashtag translates to "Goodbye Germany!" |
 | 5 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
 | 6 | [Elvedi](http://twitter.com/search?q=Elvedi) | N/A |
 | 7 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 8 | [BASF](http://twitter.com/search?q=BASF) | N/A |
 | 9 | [Begeisterung an die Front](http://twitter.com/search?q=Begeisterung+an+die+Front) | N/A |
-| 10 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 11 | [Uni Bonn](http://twitter.com/search?q=Uni+Bonn) | N/A |
-| 12 | [Torlinientechnik](http://twitter.com/search?q=Torlinientechnik) | N/A |
-| 13 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
-| 14 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
+| 10 | [Uni Bonn](http://twitter.com/search?q=Uni+Bonn) | N/A |
+| 11 | [Sippel](http://twitter.com/search?q=Sippel) | N/A |
+| 12 | [Freitag Abend](http://twitter.com/search?q=Freitag+Abend) | N/A |
+| 13 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
+| 14 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
 | 15 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 16 | [Massimo](http://twitter.com/search?q=Massimo) | N/A |
-| 17 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 18 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
-| 19 | [Julia](http://twitter.com/search?q=Julia) | N/A |
-| 20 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 21 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
+| 16 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
+| 17 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 18 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 19 | [Zsolt](http://twitter.com/search?q=Zsolt) | N/A |
+| 20 | [Julia](http://twitter.com/search?q=Julia) | N/A |
+| 21 | [Tanz](http://twitter.com/search?q=Tanz) | N/A |
 | 22 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
-| 23 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 24 | [Pubertätsblocker](http://twitter.com/search?q=Pubert%c3%a4tsblocker) | N/A |
-| 25 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 23 | [Pubertätsblocker](http://twitter.com/search?q=Pubert%c3%a4tsblocker) | N/A |
+| 24 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
+| 25 | [Massimo](http://twitter.com/search?q=Massimo) | N/A |
 | 26 | [Schlesinger](http://twitter.com/search?q=Schlesinger) | N/A |
-| 27 | [Ein Jahr Krieg](http://twitter.com/search?q=Ein+Jahr+Krieg) | N/A |
-| 28 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
-| 29 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
-| 30 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 31 | [Die Politik der Grünen](http://twitter.com/search?q=Die+Politik+der+Gr%c3%bcnen) | N/A |
-| 32 | [Sally](http://twitter.com/search?q=Sally) | N/A |
-| 33 | [Tenz](http://twitter.com/search?q=Tenz) | N/A |
-| 34 | [Helga](http://twitter.com/search?q=Helga) | N/A |
-| 35 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 36 | [Halsband](http://twitter.com/search?q=Halsband) | N/A |
-| 37 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 38 | [Peter Lustig](http://twitter.com/search?q=Peter+Lustig) | N/A |
-| 39 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 40 | [Universität Bonn](http://twitter.com/search?q=Universit%c3%a4t+Bonn) | N/A |
-| 41 | [Löhne](http://twitter.com/search?q=L%c3%b6hne) | N/A |
-| 42 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
-| 43 | [Pegida](http://twitter.com/search?q=Pegida) | N/A |
-| 44 | ['nähe'](http://twitter.com/search?q=%27n%c3%a4he%27) | N/A |
-| 45 | [enthaltungen](http://twitter.com/search?q=enthaltungen) | N/A |
-| 46 | [Verkommenheit](http://twitter.com/search?q=Verkommenheit) | N/A |
-| 47 | [Schneeregen](http://twitter.com/search?q=Schneeregen) | N/A |
-| 48 | [Theaterplatz](http://twitter.com/search?q=Theaterplatz) | N/A |
-| 49 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 27 | [Jorge](http://twitter.com/search?q=Jorge) | N/A |
+| 28 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 29 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 30 | [Ein Jahr Krieg](http://twitter.com/search?q=Ein+Jahr+Krieg) | N/A |
+| 31 | [Torlinientechnik](http://twitter.com/search?q=Torlinientechnik) | N/A |
+| 32 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
+| 33 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 34 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 35 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
+| 36 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 37 | [Sally](http://twitter.com/search?q=Sally) | N/A |
+| 38 | [Drittel](http://twitter.com/search?q=Drittel) | N/A |
+| 39 | [Tenz](http://twitter.com/search?q=Tenz) | N/A |
+| 40 | [ITUNES](http://twitter.com/search?q=ITUNES) | N/A |
+| 41 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 42 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 43 | [Helga](http://twitter.com/search?q=Helga) | N/A |
+| 44 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 45 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 46 | [Die Politik der Grünen](http://twitter.com/search?q=Die+Politik+der+Gr%c3%bcnen) | N/A |
+| 47 | [Halsband](http://twitter.com/search?q=Halsband) | N/A |
+| 48 | [Total Recall](http://twitter.com/search?q=Total+Recall) | N/A |
+| 49 | [Peter Lustig](http://twitter.com/search?q=Peter+Lustig) | N/A |
 
 
 

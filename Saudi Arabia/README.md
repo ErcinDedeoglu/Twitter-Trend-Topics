@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Saudi Arabia
 
-📆 Last Updated: `2023-02-24 20:16:43 UTC`
+📆 Last Updated: `2023-02-24 21:16:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,47 @@ This is top 50 for Saudi Arabia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#زد_رصيدك32](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8332) | N/A |
-| 2 | [#زلزال_مصر](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d9%85%d8%b5%d8%b1) | N/A |
-| 3 | [#مساء__الخير](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1__%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
-| 4 | [#البزنس80](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b380) | N/A |
-| 5 | [#حنان_المقبل](http://twitter.com/search?q=%23%d8%ad%d9%86%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
-| 6 | [الالعاب الناريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d9%86%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
-| 7 | [الكويت](http://twitter.com/search?q=%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa) | N/A |
+| 1 | [#زلزال_مصر](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d9%85%d8%b5%d8%b1) | N/A |
+| 2 | [#البزنس80](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d8%b2%d9%86%d8%b380) | N/A |
+| 3 | [#زد_رصيدك32](http://twitter.com/search?q=%23%d8%b2%d8%af_%d8%b1%d8%b5%d9%8a%d8%af%d9%8332) | N/A |
+| 4 | [#مساء__الخير](http://twitter.com/search?q=%23%d9%85%d8%b3%d8%a7%d8%a1__%d8%a7%d9%84%d8%ae%d9%8a%d8%b1) | N/A |
+| 5 | [الالعاب الناريه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a7%d9%84%d8%b9%d8%a7%d8%a8+%d8%a7%d9%84%d9%86%d8%a7%d8%b1%d9%8a%d9%87) | N/A |
+| 6 | [#حنان_المقبل](http://twitter.com/search?q=%23%d8%ad%d9%86%d8%a7%d9%86_%d8%a7%d9%84%d9%85%d9%82%d8%a8%d9%84) | N/A |
+| 7 | [فولهام](http://twitter.com/search?q=%d9%81%d9%88%d9%84%d9%87%d8%a7%d9%85) | N/A |
 | 8 | [القرعه الساعه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b1%d8%b9%d9%87+%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87) | N/A |
-| 9 | [السلطه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
-| 10 | [الدرجه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
-| 11 | [عالي السرعه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%b1%d8%b9%d9%87) | N/A |
-| 12 | [صاحب القرار](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
+| 9 | [عالي السرعه](http://twitter.com/search?q=%d8%b9%d8%a7%d9%84%d9%8a+%d8%a7%d9%84%d8%b3%d8%b1%d8%b9%d9%87) | N/A |
+| 10 | [السلطه الفلسطينيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%84%d8%b7%d9%87+%d8%a7%d9%84%d9%81%d9%84%d8%b3%d8%b7%d9%8a%d9%86%d9%8a%d9%87) | N/A |
+| 11 | [صاحب القرار](http://twitter.com/search?q=%d8%b5%d8%a7%d8%ad%d8%a8+%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%b1) | N/A |
+| 12 | [القضيه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
 | 13 | [اسامه بن عوضه](http://twitter.com/search?q=%d8%a7%d8%b3%d8%a7%d9%85%d9%87+%d8%a8%d9%86+%d8%b9%d9%88%d8%b6%d9%87) | N/A |
-| 14 | [القضيه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b6%d9%8a%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
-| 15 | [عطيه السوطاني](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
-| 16 | [سامي الجابر](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
-| 17 | [طيور الجنه](http://twitter.com/search?q=%d8%b7%d9%8a%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
-| 18 | [25 فبراير](http://twitter.com/search?q=25+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
-| 19 | [شعب الجنوب](http://twitter.com/search?q=%d8%b4%d8%b9%d8%a8+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8) | N/A |
-| 20 | [المراه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 21 | [الساعه المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
-| 22 | [العرضه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b6%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
-| 23 | [ميشيل](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | ميشيل (pronounced mee-sheel) is a common Arabic name, derived from the Hebrew name Michael. It means "who is like God" in English. |
-| 24 | [ماريغا](http://twitter.com/search?q=%d9%85%d8%a7%d8%b1%d9%8a%d8%ba%d8%a7) | N/A |
-| 25 | [كاريلو](http://twitter.com/search?q=%d9%83%d8%a7%d8%b1%d9%8a%d9%84%d9%88) | N/A |
-| 26 | [يابو صالح](http://twitter.com/search?q=%d9%8a%d8%a7%d8%a8%d9%88+%d8%b5%d8%a7%d9%84%d8%ad) | N/A |
-| 27 | [القيمه المضافه](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%8a%d9%85%d9%87+%d8%a7%d9%84%d9%85%d8%b6%d8%a7%d9%81%d9%87) | N/A |
-| 28 | [الشاعر الكبير](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d8%a7%d8%b9%d8%b1+%d8%a7%d9%84%d9%83%d8%a8%d9%8a%d8%b1) | N/A |
-| 29 | [#بديت_اطيب](http://twitter.com/search?q=%23%d8%a8%d8%af%d9%8a%d8%aa_%d8%a7%d8%b7%d9%8a%d8%a8) | N/A |
-| 30 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
-| 31 | [#الجنوب_مفتاح_السلام](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8_%d9%85%d9%81%d8%aa%d8%a7%d8%ad_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
-| 32 | [#انغام_في_قطر](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%ba%d8%a7%d9%85_%d9%81%d9%8a_%d9%82%d8%b7%d8%b1) | N/A |
-| 33 | [#الهلال_الدحيل](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84) | N/A |
-| 34 | [#مشينا_الاحد_لايبقي_احد](http://twitter.com/search?q=%23%d9%85%d8%b4%d9%8a%d9%86%d8%a7_%d8%a7%d9%84%d8%a7%d8%ad%d8%af_%d9%84%d8%a7%d9%8a%d8%a8%d9%82%d9%8a_%d8%a7%d8%ad%d8%af) | N/A |
-| 35 | [#ماجد_المهندس](http://twitter.com/search?q=%23%d9%85%d8%a7%d8%ac%d8%af_%d8%a7%d9%84%d9%85%d9%87%d9%86%d8%af%d8%b3) | N/A |
-| 36 | [#كاس_السعوديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
-| 37 | [#النصر_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%b6%d9%85%d9%83) | N/A |
-| 38 | [#مولد_العباس](http://twitter.com/search?q=%23%d9%85%d9%88%d9%84%d8%af_%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
-| 39 | [#شادي_زيدان](http://twitter.com/search?q=%23%d8%b4%d8%a7%d8%af%d9%8a_%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
-| 40 | [#ما_هي_نيوم](http://twitter.com/search?q=%23%d9%85%d8%a7_%d9%87%d9%8a_%d9%86%d9%8a%d9%88%d9%85) | N/A |
-| 41 | [#حبيبي_عباس](http://twitter.com/search?q=%23%d8%ad%d8%a8%d9%8a%d8%a8%d9%8a_%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
-| 42 | [#العطاء_مالي_يدينا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1_%d9%85%d8%a7%d9%84%d9%8a_%d9%8a%d8%af%d9%8a%d9%86%d8%a7) | N/A |
-| 43 | [#جوله_يوم_التاسيس](http://twitter.com/search?q=%23%d8%ac%d9%88%d9%84%d9%87_%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
-| 44 | [#مهرجان_الكتاب_والقراء](http://twitter.com/search?q=%23%d9%85%d9%87%d8%b1%d8%ac%d8%a7%d9%86_%d8%a7%d9%84%d9%83%d8%aa%d8%a7%d8%a8_%d9%88%d8%a7%d9%84%d9%82%d8%b1%d8%a7%d8%a1) | N/A |
-| 45 | [#يوم_Iلجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_I%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
-| 46 | [#ابها](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%87%d8%a7) | N/A |
-| 47 | [#البليهي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%a8%d9%84%d9%8a%d9%87%d9%8a) | N/A |
-| 48 | [#العداله_الخليج](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%af%d8%a7%d9%84%d9%87_%d8%a7%d9%84%d8%ae%d9%84%d9%8a%d8%ac) | N/A |
+| 14 | [الدرجه الثالثه](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d8%b1%d8%ac%d9%87+%d8%a7%d9%84%d8%ab%d8%a7%d9%84%d8%ab%d9%87) | N/A |
+| 15 | [25 فبراير](http://twitter.com/search?q=25+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1) | N/A |
+| 16 | [طيور الجنه](http://twitter.com/search?q=%d8%b7%d9%8a%d9%88%d8%b1+%d8%a7%d9%84%d8%ac%d9%86%d9%87) | N/A |
+| 17 | [عطيه السوطاني](http://twitter.com/search?q=%d8%b9%d8%b7%d9%8a%d9%87+%d8%a7%d9%84%d8%b3%d9%88%d8%b7%d8%a7%d9%86%d9%8a) | N/A |
+| 18 | [سامي الجابر](http://twitter.com/search?q=%d8%b3%d8%a7%d9%85%d9%8a+%d8%a7%d9%84%d8%ac%d8%a7%d8%a8%d8%b1) | N/A |
+| 19 | [المراه السعوديه](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d8%a7%d9%87+%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 20 | [الساعه المباركه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%a7%d8%b9%d9%87+%d8%a7%d9%84%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | N/A |
+| 21 | [العرضه الجنوبيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b9%d8%b1%d8%b6%d9%87+%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8%d9%8a%d9%87) | N/A |
+| 22 | [ميشيل](http://twitter.com/search?q=%d9%85%d9%8a%d8%b4%d9%8a%d9%84) | ميشيل (pronounced mee-sheel) is a common Arabic name, derived from the Hebrew name Michael. It means "who is like God" in English. |
+| 23 | [#الفاصل_روتانا](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%81%d8%a7%d8%b5%d9%84_%d8%b1%d9%88%d8%aa%d8%a7%d9%86%d8%a7) | N/A |
+| 24 | [#بديت_اطيب](http://twitter.com/search?q=%23%d8%a8%d8%af%d9%8a%d8%aa_%d8%a7%d8%b7%d9%8a%d8%a8) | N/A |
+| 25 | [#انغام_في_قطر](http://twitter.com/search?q=%23%d8%a7%d9%86%d8%ba%d8%a7%d9%85_%d9%81%d9%8a_%d9%82%d8%b7%d8%b1) | N/A |
+| 26 | [#العيد_الوطني_الكويتي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
+| 27 | [#ساعه_استجابه](http://twitter.com/search?q=%23%d8%b3%d8%a7%d8%b9%d9%87_%d8%a7%d8%b3%d8%aa%d8%ac%d8%a7%d8%a8%d9%87) | #ساعه_استجابه is an Arabic hashtag that translates to "response time". It is used to refer to the amount of time it takes for someone to respond to a message or request. |
+| 28 | [#الهلال_الدحيل](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84_%d8%a7%d9%84%d8%af%d8%ad%d9%8a%d9%84) | N/A |
+| 29 | [#الجنوب_مفتاح_السلام](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%ac%d9%86%d9%88%d8%a8_%d9%85%d9%81%d8%aa%d8%a7%d8%ad_%d8%a7%d9%84%d8%b3%d9%84%d8%a7%d9%85) | N/A |
+| 30 | [#ماجد_المهندس](http://twitter.com/search?q=%23%d9%85%d8%a7%d8%ac%d8%af_%d8%a7%d9%84%d9%85%d9%87%d9%86%d8%af%d8%b3) | N/A |
+| 31 | [#النصر_ضمك](http://twitter.com/search?q=%23%d8%a7%d9%84%d9%86%d8%b5%d8%b1_%d8%b6%d9%85%d9%83) | N/A |
+| 32 | [#مشينا_الاحد_لايبقي_احد](http://twitter.com/search?q=%23%d9%85%d8%b4%d9%8a%d9%86%d8%a7_%d8%a7%d9%84%d8%a7%d8%ad%d8%af_%d9%84%d8%a7%d9%8a%d8%a8%d9%82%d9%8a_%d8%a7%d8%ad%d8%af) | N/A |
+| 33 | [#كاس_السعوديه](http://twitter.com/search?q=%23%d9%83%d8%a7%d8%b3_%d8%a7%d9%84%d8%b3%d8%b9%d9%88%d8%af%d9%8a%d9%87) | N/A |
+| 34 | [#ما_هي_نيوم](http://twitter.com/search?q=%23%d9%85%d8%a7_%d9%87%d9%8a_%d9%86%d9%8a%d9%88%d9%85) | N/A |
+| 35 | [#حسين_العتيبي](http://twitter.com/search?q=%23%d8%ad%d8%b3%d9%8a%d9%86_%d8%a7%d9%84%d8%b9%d8%aa%d9%8a%d8%a8%d9%8a) | N/A |
+| 36 | [#شادي_زيدان](http://twitter.com/search?q=%23%d8%b4%d8%a7%d8%af%d9%8a_%d8%b2%d9%8a%d8%af%d8%a7%d9%86) | N/A |
+| 37 | [#جوله_يوم_التاسيس](http://twitter.com/search?q=%23%d8%ac%d9%88%d9%84%d9%87_%d9%8a%d9%88%d9%85_%d8%a7%d9%84%d8%aa%d8%a7%d8%b3%d9%8a%d8%b3) | N/A |
+| 38 | [#العطاء_مالي_يدينا](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d8%b7%d8%a7%d8%a1_%d9%85%d8%a7%d9%84%d9%8a_%d9%8a%d8%af%d9%8a%d9%86%d8%a7) | N/A |
+| 39 | [#مولد_العباس](http://twitter.com/search?q=%23%d9%85%d9%88%d9%84%d8%af_%d8%a7%d9%84%d8%b9%d8%a8%d8%a7%d8%b3) | N/A |
+| 40 | [#يوم_Iلجمعه](http://twitter.com/search?q=%23%d9%8a%d9%88%d9%85_I%d9%84%d8%ac%d9%85%d8%b9%d9%87) | N/A |
+| 41 | [#ابها](http://twitter.com/search?q=%23%d8%a7%d8%a8%d9%87%d8%a7) | N/A |
 
 
 
