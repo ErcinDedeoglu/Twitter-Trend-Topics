@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Murcia
 
-📆 Last Updated: `2023-02-24 10:16:12 UTC`
+📆 Last Updated: `2023-02-24 11:15:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,47 +22,49 @@ This is top 50 for [Spain](</Spain>)
 | 5 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
 | 6 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 7 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 8 | [#LaJunglaNombredemujer](http://twitter.com/search?q=%23LaJunglaNombredemujer) | N/A |
+| 8 | [#Solos24F](http://twitter.com/search?q=%23Solos24F) | N/A |
 | 9 | [#YoMeRebelo24F](http://twitter.com/search?q=%23YoMeRebelo24F) | N/A |
-| 10 | [#APOYOROCIO24F](http://twitter.com/search?q=%23APOYOROCIO24F) | N/A |
-| 11 | [#Solos24F](http://twitter.com/search?q=%23Solos24F) | N/A |
-| 12 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 13 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 14 | [Endesa](http://twitter.com/search?q=Endesa) | N/A |
-| 15 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 16 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 17 | [El 24](http://twitter.com/search?q=El+24) | N/A |
-| 18 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 19 | [Natalia Lacunza](http://twitter.com/search?q=Natalia+Lacunza) | N/A |
-| 20 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 21 | [Air Europa](http://twitter.com/search?q=Air+Europa) | N/A |
-| 22 | [Gazpacho](http://twitter.com/search?q=Gazpacho) | N/A |
-| 23 | [El Señor de los Anillos](http://twitter.com/search?q=El+Se%c3%b1or+de+los+Anillos) | N/A |
-| 24 | [Belén Aguilera](http://twitter.com/search?q=Bel%c3%a9n+Aguilera) | N/A |
-| 25 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 26 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 27 | [URSS](http://twitter.com/search?q=URSS) | N/A |
-| 28 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 29 | [Iván](http://twitter.com/search?q=Iv%c3%a1n) | N/A |
-| 30 | [Zelenski](http://twitter.com/search?q=Zelenski) | N/A |
-| 31 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 32 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
-| 33 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 34 | [Susana](http://twitter.com/search?q=Susana) | N/A |
-| 35 | [Rosalía de Castro](http://twitter.com/search?q=Rosal%c3%ada+de+Castro) | N/A |
-| 36 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
-| 37 | [Viernes 24](http://twitter.com/search?q=Viernes+24) | N/A |
-| 38 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 39 | [Supercopa](http://twitter.com/search?q=Supercopa) | Supercopa is a Spanish football (soccer) tournament that is held annually. It is contested by the winners of the previous season's La Liga and Copa del Rey competitions. The English translation of Supercopa is Super Cup. |
-| 40 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
-| 41 | [#FelizFinde](http://twitter.com/search?q=%23FelizFinde) | N/A |
-| 42 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 43 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 44 | [#DíadeAndalucía](http://twitter.com/search?q=%23D%c3%adadeAndaluc%c3%ada) | N/A |
-| 45 | [#EnginAkyürek](http://twitter.com/search?q=%23EnginAky%c3%bcrek) | N/A |
-| 46 | [#DAZNF1](http://twitter.com/search?q=%23DAZNF1) | N/A |
-| 47 | [#QueTeVoteTomasote](http://twitter.com/search?q=%23QueTeVoteTomasote) | N/A |
-| 48 | [#NoALaGuerra](http://twitter.com/search?q=%23NoALaGuerra) | N/A |
+| 10 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
+| 11 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 12 | [#APOYOROCIO24F](http://twitter.com/search?q=%23APOYOROCIO24F) | N/A |
+| 13 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 14 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 15 | [Endesa](http://twitter.com/search?q=Endesa) | N/A |
+| 16 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 17 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 18 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 19 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
+| 20 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 21 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 22 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 23 | [Gazpacho](http://twitter.com/search?q=Gazpacho) | N/A |
+| 24 | [El 24](http://twitter.com/search?q=El+24) | N/A |
+| 25 | [Natalia Lacunza](http://twitter.com/search?q=Natalia+Lacunza) | N/A |
+| 26 | [El Señor de los Anillos](http://twitter.com/search?q=El+Se%c3%b1or+de+los+Anillos) | N/A |
+| 27 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
+| 28 | [gracie abrams](http://twitter.com/search?q=gracie+abrams) | N/A |
+| 29 | [Air Europa](http://twitter.com/search?q=Air+Europa) | N/A |
+| 30 | [Iván](http://twitter.com/search?q=Iv%c3%a1n) | N/A |
+| 31 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
+| 32 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 33 | [Belén Aguilera](http://twitter.com/search?q=Bel%c3%a9n+Aguilera) | N/A |
+| 34 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 35 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
+| 36 | [URSS](http://twitter.com/search?q=URSS) | N/A |
+| 37 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 38 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 39 | [Sallent](http://twitter.com/search?q=Sallent) | N/A |
+| 40 | [Viernes 24](http://twitter.com/search?q=Viernes+24) | N/A |
+| 41 | [Susana](http://twitter.com/search?q=Susana) | N/A |
+| 42 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 43 | [Rosalía de Castro](http://twitter.com/search?q=Rosal%c3%ada+de+Castro) | N/A |
+| 44 | [Supercopa](http://twitter.com/search?q=Supercopa) | Supercopa is a Spanish football (soccer) tournament that is held annually. It is contested by the winners of the previous season's La Liga and Copa del Rey competitions. The English translation of Supercopa is Super Cup. |
+| 45 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
+| 46 | [#DíadeAndalucía](http://twitter.com/search?q=%23D%c3%adadeAndaluc%c3%ada) | N/A |
+| 47 | [#FelizFinde](http://twitter.com/search?q=%23FelizFinde) | N/A |
+| 48 | [#Irati](http://twitter.com/search?q=%23Irati) | N/A |
+| 49 | [#DAZNF1](http://twitter.com/search?q=%23DAZNF1) | N/A |
+| 50 | [#QueTeVoteTomasote](http://twitter.com/search?q=%23QueTeVoteTomasote) | N/A |
 
 
 

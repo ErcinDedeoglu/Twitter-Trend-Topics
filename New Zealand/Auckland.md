@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-24 10:16:35 UTC`
+📆 Last Updated: `2023-02-24 11:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 8 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 9 | [Mangawhai](http://twitter.com/search?q=Mangawhai) | N/A |
 | 10 | [#NZLvENG](http://twitter.com/search?q=%23NZLvENG) | N/A |
-| 11 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 12 | [Census](http://twitter.com/search?q=Census) | N/A |
-| 13 | [Auckland](http://twitter.com/search?q=Auckland) | Auckland is the largest city in New Zealand. It is located in the North Island and is known for its diverse population, vibrant culture, and stunning natural beauty. The name Auckland comes from the Māori language and means "the place of Tāmaki". |
-| 14 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 11 | [Census](http://twitter.com/search?q=Census) | N/A |
+| 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 13 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 14 | [Auckland](http://twitter.com/search?q=Auckland) | Auckland is the largest city in New Zealand. It is located in the North Island and is known for its diverse population, vibrant culture, and stunning natural beauty. The name Auckland comes from the Māori language and means "the place of Tāmaki". |
 | 15 | [Floof](http://twitter.com/search?q=Floof) | N/A |
 | 16 | [Wagner](http://twitter.com/search?q=Wagner) | N/A |
 | 17 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 18 | [Basin](http://twitter.com/search?q=Basin) | N/A |
-| 19 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 20 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 21 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
-| 22 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 23 | [#flooding](http://twitter.com/search?q=%23flooding) | N/A |
-| 24 | [Stats NZ](http://twitter.com/search?q=Stats+NZ) | N/A |
-| 25 | [Craig](http://twitter.com/search?q=Craig) | N/A |
-| 26 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
-| 27 | [Trumps](http://twitter.com/search?q=Trumps) | N/A |
-| 28 | [The PM](http://twitter.com/search?q=The+PM) | N/A |
-| 29 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 30 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
-| 31 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 32 | [Soooo](http://twitter.com/search?q=Soooo) | N/A |
-| 33 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 34 | [Long Covid](http://twitter.com/search?q=Long+Covid) | N/A |
-| 35 | [GGWP](http://twitter.com/search?q=GGWP) | N/A |
-| 36 | [Tāmaki Makaurau](http://twitter.com/search?q=T%c4%81maki+Makaurau) | N/A |
-| 37 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 38 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 39 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 40 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
-| 41 | [fonterra](http://twitter.com/search?q=fonterra) | N/A |
-| 42 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 43 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 44 | [freereadku amazon](http://twitter.com/search?q=freereadku+amazon) | N/A |
-| 45 | [adrian orr](http://twitter.com/search?q=adrian+orr) | N/A |
-| 46 | [Maureen](http://twitter.com/search?q=Maureen) | N/A |
-| 47 | [don't come here now](http://twitter.com/search?q=don%27t+come+here+now) | N/A |
-| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 49 | [Dunno](http://twitter.com/search?q=Dunno) | N/A |
-| 50 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 18 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 19 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 20 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 21 | [#flooding](http://twitter.com/search?q=%23flooding) | N/A |
+| 22 | [Stats NZ](http://twitter.com/search?q=Stats+NZ) | N/A |
+| 23 | [Craig](http://twitter.com/search?q=Craig) | N/A |
+| 24 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
+| 25 | [Trumps](http://twitter.com/search?q=Trumps) | N/A |
+| 26 | [The PM](http://twitter.com/search?q=The+PM) | N/A |
+| 27 | [Basin](http://twitter.com/search?q=Basin) | N/A |
+| 28 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 29 | [Sophie](http://twitter.com/search?q=Sophie) | N/A |
+| 30 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 31 | [Soooo](http://twitter.com/search?q=Soooo) | N/A |
+| 32 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 33 | [Long Covid](http://twitter.com/search?q=Long+Covid) | N/A |
+| 34 | [Tāmaki Makaurau](http://twitter.com/search?q=T%c4%81maki+Makaurau) | N/A |
+| 35 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 36 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 37 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 38 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
+| 39 | [fonterra](http://twitter.com/search?q=fonterra) | N/A |
+| 40 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 41 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 42 | [freereadku amazon](http://twitter.com/search?q=freereadku+amazon) | N/A |
+| 43 | [Adrian Orr](http://twitter.com/search?q=Adrian+Orr) | N/A |
+| 44 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 45 | [don't come here now](http://twitter.com/search?q=don%27t+come+here+now) | N/A |
+| 46 | [Dunno](http://twitter.com/search?q=Dunno) | N/A |
+| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 48 | [Substack](http://twitter.com/search?q=Substack) | N/A |
+| 49 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 50 | [Australians](http://twitter.com/search?q=Australians) | N/A |
 
 
 

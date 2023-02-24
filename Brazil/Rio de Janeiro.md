@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-24 10:16:05 UTC`
+📆 Last Updated: `2023-02-24 11:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [abel](http://twitter.com/search?q=abel) | N/A |
 | 2 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 3 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
-| 4 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
-| 5 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 6 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 7 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 8 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 9 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 11 | [#BoysPlanetElimination](http://twitter.com/search?q=%23BoysPlanetElimination) | N/A |
-| 12 | [Louis Vuitton](http://twitter.com/search?q=Louis+Vuitton) | N/A |
+| 3 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 4 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 5 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 6 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 7 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 8 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
+| 9 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 10 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 11 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 12 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
 | 13 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 14 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 15 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 16 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 14 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 15 | [MAMATA NOS EUA](http://twitter.com/search?q=MAMATA+NOS+EUA) | N/A |
+| 16 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
 | 17 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 18 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 19 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 20 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 21 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
-| 22 | [#forafrednicacio](http://twitter.com/search?q=%23forafrednicacio) | N/A |
-| 23 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 24 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 25 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 26 | [#ForaGuskey](http://twitter.com/search?q=%23ForaGuskey) | N/A |
-| 27 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 18 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 19 | [#BoysPlanetElimination](http://twitter.com/search?q=%23BoysPlanetElimination) | N/A |
+| 20 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 21 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 22 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 23 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 24 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 25 | [Titi Muller](http://twitter.com/search?q=Titi+Muller) | N/A |
+| 26 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
+| 27 | [Scalene](http://twitter.com/search?q=Scalene) | N/A |
 | 28 | [Tomás Bertoni](http://twitter.com/search?q=Tom%c3%a1s+Bertoni) | N/A |
-| 29 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 30 | [Titi Muller](http://twitter.com/search?q=Titi+Muller) | N/A |
-| 31 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 32 | [Trem](http://twitter.com/search?q=Trem) | N/A |
-| 33 | [Scalene](http://twitter.com/search?q=Scalene) | N/A |
-| 34 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 35 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
-| 36 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 37 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 38 | [Joga y Joga](http://twitter.com/search?q=Joga+y+Joga) | N/A |
-| 39 | [QUE SABOR](http://twitter.com/search?q=QUE+SABOR) | N/A |
-| 40 | [Cara de Sapato](http://twitter.com/search?q=Cara+de+Sapato) | Cara de Sapato is a Portuguese expression that literally translates to "shoe face." It is used to describe someone who has an expressionless or emotionless face. In English, it can be used to describe someone who has a poker face. |
-| 41 | [TIRIRICA](http://twitter.com/search?q=TIRIRICA) | N/A |
-| 42 | [CRAQUE DO JOGO](http://twitter.com/search?q=CRAQUE+DO+JOGO) | N/A |
-| 43 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 44 | [Agroboy](http://twitter.com/search?q=Agroboy) | Agroboy is a slang term used to describe someone who is aggressive, confrontational, and quick to anger. It is often used to describe someone who is easily provoked and prone to outbursts of rage. |
-| 45 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
-| 46 | [Ribamar](http://twitter.com/search?q=Ribamar) | N/A |
-| 47 | [#GoodRiddanceOutNOW](http://twitter.com/search?q=%23GoodRiddanceOutNOW) | N/A |
-| 48 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
-| 49 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 29 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 30 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 31 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 32 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
+| 33 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 34 | [#forafrednicacio](http://twitter.com/search?q=%23forafrednicacio) | N/A |
+| 35 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 36 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 37 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 38 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 39 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 40 | [#GoodRiddanceOutNOW](http://twitter.com/search?q=%23GoodRiddanceOutNOW) | N/A |
+| 41 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 42 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 43 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
+| 44 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
+| 45 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 46 | [Joga y Joga](http://twitter.com/search?q=Joga+y+Joga) | N/A |
+| 47 | [Cara de Sapato](http://twitter.com/search?q=Cara+de+Sapato) | Cara de Sapato is a Portuguese expression that literally translates to "shoe face." It is used to describe someone who has an expressionless or emotionless face. In English, it can be used to describe someone who has a poker face. |
+| 48 | [TIRIRICA](http://twitter.com/search?q=TIRIRICA) | N/A |
+| 49 | [CRAQUE DO JOGO](http://twitter.com/search?q=CRAQUE+DO+JOGO) | N/A |
+| 50 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
 
 
 

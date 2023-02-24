@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nigeria
 
-📆 Last Updated: `2023-02-24 10:16:48 UTC`
+📆 Last Updated: `2023-02-24 11:16:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,50 +16,55 @@ This is top 50 for Nigeria
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UzabeNigeria](http://twitter.com/search?q=%23UzabeNigeria) | N/A |
-| 2 | [#APCFAKENAIRA](http://twitter.com/search?q=%23APCFAKENAIRA) | N/A |
-| 3 | [#VoteToPredictYourFuture](http://twitter.com/search?q=%23VoteToPredictYourFuture) | N/A |
-| 4 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
-| 5 | [#BerriTigaxDjAsapYolo](http://twitter.com/search?q=%23BerriTigaxDjAsapYolo) | N/A |
-| 6 | [Chinyere Igwe](http://twitter.com/search?q=Chinyere+Igwe) | N/A |
+| 2 | [#Indomie](http://twitter.com/search?q=%23Indomie) | N/A |
+| 3 | [#Yourwaistchallenge](http://twitter.com/search?q=%23Yourwaistchallenge) | N/A |
+| 4 | [#SayNoToAPC](http://twitter.com/search?q=%23SayNoToAPC) | N/A |
+| 5 | [#VoteToPredictYourFuture](http://twitter.com/search?q=%23VoteToPredictYourFuture) | N/A |
+| 6 | [Tambuwal](http://twitter.com/search?q=Tambuwal) | N/A |
 | 7 | [OUT NOW](http://twitter.com/search?q=OUT+NOW) | N/A |
-| 8 | [Option B](http://twitter.com/search?q=Option+B) | N/A |
-| 9 | [Tambuwal](http://twitter.com/search?q=Tambuwal) | N/A |
-| 10 | [YVONNE THE STANDARD](http://twitter.com/search?q=YVONNE+THE+STANDARD) | N/A |
-| 11 | [All Progressive Congress](http://twitter.com/search?q=All+Progressive+Congress) | N/A |
-| 12 | [I HAVE MY GLORIOUS EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+GLORIOUS+EVIDENCE) | N/A |
-| 13 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 14 | [Okowa](http://twitter.com/search?q=Okowa) | N/A |
-| 15 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 16 | [The Red Wedding](http://twitter.com/search?q=The+Red+Wedding) | N/A |
-| 17 | [Slow Motion](http://twitter.com/search?q=Slow+Motion) | N/A |
-| 18 | [Precious](http://twitter.com/search?q=Precious) | N/A |
-| 19 | [Juma](http://twitter.com/search?q=Juma) | N/A |
-| 20 | [Eko Atlantic](http://twitter.com/search?q=Eko+Atlantic) | N/A |
-| 21 | [Gbaja](http://twitter.com/search?q=Gbaja) | N/A |
-| 22 | [Dear Nigerians](http://twitter.com/search?q=Dear+Nigerians) | N/A |
-| 23 | [Mahmood Yakubu](http://twitter.com/search?q=Mahmood+Yakubu) | N/A |
+| 8 | [Chinyere Igwe](http://twitter.com/search?q=Chinyere+Igwe) | N/A |
+| 9 | [Peter Gregory Obi](http://twitter.com/search?q=Peter+Gregory+Obi) | N/A |
+| 10 | [Okowa](http://twitter.com/search?q=Okowa) | N/A |
+| 11 | [YVONNE THE STANDARD](http://twitter.com/search?q=YVONNE+THE+STANDARD) | N/A |
+| 12 | [Option B](http://twitter.com/search?q=Option+B) | N/A |
+| 13 | [VERSATILE YEMI CREGX](http://twitter.com/search?q=VERSATILE+YEMI+CREGX) | N/A |
+| 14 | [Overtime](http://twitter.com/search?q=Overtime) | N/A |
+| 15 | [All Progressive Congress](http://twitter.com/search?q=All+Progressive+Congress) | N/A |
+| 16 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 17 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 18 | [I HAVE MY GLORIOUS EVIDENCE](http://twitter.com/search?q=I+HAVE+MY+GLORIOUS+EVIDENCE) | N/A |
+| 19 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 20 | [Precious](http://twitter.com/search?q=Precious) | N/A |
+| 21 | [The Red Wedding](http://twitter.com/search?q=The+Red+Wedding) | N/A |
+| 22 | [Gbaja](http://twitter.com/search?q=Gbaja) | N/A |
+| 23 | [slow motion](http://twitter.com/search?q=slow+motion) | N/A |
 | 24 | [Atiku and Tinubu](http://twitter.com/search?q=Atiku+and+Tinubu) | N/A |
-| 25 | [Akata](http://twitter.com/search?q=Akata) | N/A |
-| 26 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 27 | [Papa](http://twitter.com/search?q=Papa) | N/A |
-| 28 | [Desmond](http://twitter.com/search?q=Desmond) | N/A |
+| 25 | [Eko Atlantic](http://twitter.com/search?q=Eko+Atlantic) | N/A |
+| 26 | [Rivers State](http://twitter.com/search?q=Rivers+State) | N/A |
+| 27 | [Dear Nigerians](http://twitter.com/search?q=Dear+Nigerians) | N/A |
+| 28 | [Afrobeat](http://twitter.com/search?q=Afrobeat) | N/A |
 | 29 | [Pikin](http://twitter.com/search?q=Pikin) | N/A |
-| 30 | [Federal Republic of Nigeria](http://twitter.com/search?q=Federal+Republic+of+Nigeria) | N/A |
-| 31 | [#Nigeriadecide2023](http://twitter.com/search?q=%23Nigeriadecide2023) | N/A |
-| 32 | [#SayNoToAPC](http://twitter.com/search?q=%23SayNoToAPC) | N/A |
-| 33 | [#NigeriaDecides](http://twitter.com/search?q=%23NigeriaDecides) | N/A |
-| 34 | [#dangote](http://twitter.com/search?q=%23dangote) | N/A |
-| 35 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
-| 36 | [#VoteLabourParty](http://twitter.com/search?q=%23VoteLabourParty) | N/A |
-| 37 | [#MyPresident](http://twitter.com/search?q=%23MyPresident) | N/A |
-| 38 | [#BVAS](http://twitter.com/search?q=%23BVAS) | N/A |
-| 39 | [#QuestionsForDatti](http://twitter.com/search?q=%23QuestionsForDatti) | N/A |
-| 40 | [#NSPPD](http://twitter.com/search?q=%23NSPPD) | N/A |
-| 41 | [#NewNigeria2023](http://twitter.com/search?q=%23NewNigeria2023) | N/A |
-| 42 | [#rccg](http://twitter.com/search?q=%23rccg) | N/A |
-| 43 | [#VoteWisely](http://twitter.com/search?q=%23VoteWisely) | N/A |
-| 44 | [#VoteNotFight](http://twitter.com/search?q=%23VoteNotFight) | N/A |
-| 45 | [#VotePeterObi4President](http://twitter.com/search?q=%23VotePeterObi4President) | N/A |
+| 30 | [Papa](http://twitter.com/search?q=Papa) | N/A |
+| 31 | [Libya](http://twitter.com/search?q=Libya) | N/A |
+| 32 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 33 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 34 | [Polling Unit](http://twitter.com/search?q=Polling+Unit) | N/A |
+| 35 | [Akata](http://twitter.com/search?q=Akata) | N/A |
+| 36 | [Surulere](http://twitter.com/search?q=Surulere) | N/A |
+| 37 | [Desmond](http://twitter.com/search?q=Desmond) | N/A |
+| 38 | [Vote Obi](http://twitter.com/search?q=Vote+Obi) | N/A |
+| 39 | [Federal Republic of Nigeria](http://twitter.com/search?q=Federal+Republic+of+Nigeria) | N/A |
+| 40 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
+| 41 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
+| 42 | [#APCFAKENAIRA](http://twitter.com/search?q=%23APCFAKENAIRA) | N/A |
+| 43 | [#Nigeriadecide2023](http://twitter.com/search?q=%23Nigeriadecide2023) | N/A |
+| 44 | [#NigeriaDecides](http://twitter.com/search?q=%23NigeriaDecides) | N/A |
+| 45 | [#BerriTigaxDjAsapYolo](http://twitter.com/search?q=%23BerriTigaxDjAsapYolo) | N/A |
+| 46 | [#VoteLabourParty](http://twitter.com/search?q=%23VoteLabourParty) | N/A |
+| 47 | [#VoteKOrrectly](http://twitter.com/search?q=%23VoteKOrrectly) | N/A |
+| 48 | [#Dangote](http://twitter.com/search?q=%23Dangote) | N/A |
+| 49 | [#MyPresident](http://twitter.com/search?q=%23MyPresident) | N/A |
+| 50 | [#NationalShutdown](http://twitter.com/search?q=%23NationalShutdown) | N/A |
 
 
 
