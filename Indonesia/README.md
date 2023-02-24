@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-24 05:16:16 UTC`
+📆 Last Updated: `2023-02-24 06:16:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Indonesia
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SiEnengGoPublic](http://twitter.com/search?q=%23SiEnengGoPublic) | N/A |
-| 2 | [#MissingMovieID](http://twitter.com/search?q=%23MissingMovieID) | N/A |
-| 3 | [#TransferValasCUMAdiLivin](http://twitter.com/search?q=%23TransferValasCUMAdiLivin) | N/A |
-| 4 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
-| 5 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
-| 6 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 7 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
-| 8 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 9 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
-| 10 | [#MegawatiBermaksudBaik](http://twitter.com/search?q=%23MegawatiBermaksudBaik) | N/A |
-| 11 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 12 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
-| 13 | [Mandiri](http://twitter.com/search?q=Mandiri) | N/A |
-| 14 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
-| 15 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 16 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 1 | [#BRImoInAja](http://twitter.com/search?q=%23BRImoInAja) | N/A |
+| 2 | [Valid No Debat](http://twitter.com/search?q=Valid+No+Debat) | N/A |
+| 3 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 4 | [#TransferValasCUMAdiLivin](http://twitter.com/search?q=%23TransferValasCUMAdiLivin) | N/A |
+| 5 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
+| 6 | [#SiEnengGoPublic](http://twitter.com/search?q=%23SiEnengGoPublic) | N/A |
+| 7 | [#MissingMovieID](http://twitter.com/search?q=%23MissingMovieID) | N/A |
+| 8 | [Jumat](http://twitter.com/search?q=Jumat) | N/A |
+| 9 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
+| 10 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
+| 11 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 12 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
+| 13 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
+| 14 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
+| 15 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 16 | [Suho](http://twitter.com/search?q=Suho) | N/A |
 | 17 | [David](http://twitter.com/search?q=David) | N/A |
-| 18 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 19 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
-| 20 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
-| 21 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 22 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 23 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 24 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 25 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 26 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 27 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
-| 28 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 29 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
-| 30 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
-| 31 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 32 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 33 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 34 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 35 | [Bonnie](http://twitter.com/search?q=Bonnie) | N/A |
-| 36 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 37 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
-| 38 | [Searching](http://twitter.com/search?q=Searching) | N/A |
-| 39 | [LAPORAN](http://twitter.com/search?q=LAPORAN) | N/A |
-| 40 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 41 | [Setan](http://twitter.com/search?q=Setan) | N/A |
-| 42 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
-| 43 | [Ujan](http://twitter.com/search?q=Ujan) | N/A |
-| 44 | [Binatang](http://twitter.com/search?q=Binatang) | N/A |
-| 45 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 46 | [Decul](http://twitter.com/search?q=Decul) | N/A |
-| 47 | [Netizen](http://twitter.com/search?q=Netizen) | N/A |
-| 48 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 49 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 50 | [Biadab](http://twitter.com/search?q=Biadab) | N/A |
+| 18 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 19 | [Mandiri](http://twitter.com/search?q=Mandiri) | N/A |
+| 20 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 21 | [Fajar](http://twitter.com/search?q=Fajar) | Fajar is an Arabic word meaning dawn or sunrise. It is also used to refer to the first prayer of the day in Islam, which is performed just before sunrise. |
+| 22 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 23 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
+| 24 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 25 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 26 | [Clyde](http://twitter.com/search?q=Clyde) | N/A |
+| 27 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 28 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 29 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
+| 30 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 31 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 32 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
+| 33 | [Bonnie](http://twitter.com/search?q=Bonnie) | N/A |
+| 34 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 35 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
+| 36 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 37 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
+| 38 | [JENO WELCOME TO MILAN](http://twitter.com/search?q=JENO+WELCOME+TO+MILAN) | N/A |
+| 39 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 40 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 41 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
+| 42 | [Searching](http://twitter.com/search?q=Searching) | N/A |
+| 43 | [Setan](http://twitter.com/search?q=Setan) | N/A |
+| 44 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 45 | [Ujan](http://twitter.com/search?q=Ujan) | N/A |
+| 46 | [Harta](http://twitter.com/search?q=Harta) | N/A |
+| 47 | [LAPORAN](http://twitter.com/search?q=LAPORAN) | N/A |
+| 48 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
+| 49 | [KM 50](http://twitter.com/search?q=KM+50) | N/A |
+| 50 | [Binatang](http://twitter.com/search?q=Binatang) | N/A |
 
 
 

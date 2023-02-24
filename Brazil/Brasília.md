@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brasília
 
-📆 Last Updated: `2023-02-24 05:15:33 UTC`
+📆 Last Updated: `2023-02-24 06:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ceilândia](http://twitter.com/search?q=Ceil%c3%a2ndia) | N/A |
-| 2 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 3 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
-| 4 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 1 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
+| 2 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
+| 3 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 4 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 5 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 6 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 7 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 8 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 9 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 10 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
-| 11 | [#ARIANAISBACK](http://twitter.com/search?q=%23ARIANAISBACK) | N/A |
-| 12 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
-| 13 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 14 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 15 | [gracie abrams](http://twitter.com/search?q=gracie+abrams) | N/A |
-| 16 | [Trem](http://twitter.com/search?q=Trem) | N/A |
-| 17 | [Vick](http://twitter.com/search?q=Vick) | N/A |
+| 6 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
+| 7 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 8 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 9 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 10 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 11 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 12 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 13 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 14 | [#NBAnoPrimeVideo](http://twitter.com/search?q=%23NBAnoPrimeVideo) | N/A |
+| 15 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 16 | [Vick](http://twitter.com/search?q=Vick) | N/A |
+| 17 | [Votando](http://twitter.com/search?q=Votando) | N/A |
 | 18 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
-| 19 | [JOGA Y JOGA](http://twitter.com/search?q=JOGA+Y+JOGA) | N/A |
-| 20 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
-| 21 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
-| 22 | [No Flow](http://twitter.com/search?q=No+Flow) | N/A |
-| 23 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
-| 24 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 25 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
-| 26 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 27 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 28 | [QUE SABOR](http://twitter.com/search?q=QUE+SABOR) | N/A |
-| 29 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 30 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 19 | [Tiririca](http://twitter.com/search?q=Tiririca) | N/A |
+| 20 | [Austin Reaves](http://twitter.com/search?q=Austin+Reaves) | Austin Reaves is a basketball player who currently plays for the Oklahoma Sooners. He is known for his ability to score, pass, and defend. His name is derived from the combination of his first and last names. |
+| 21 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 22 | [Trem](http://twitter.com/search?q=Trem) | N/A |
+| 23 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 24 | [JOGA Y JOGA](http://twitter.com/search?q=JOGA+Y+JOGA) | N/A |
+| 25 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 26 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 27 | [No Flow](http://twitter.com/search?q=No+Flow) | N/A |
+| 28 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 29 | [Vasco da Gama](http://twitter.com/search?q=Vasco+da+Gama) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery. The phrase "Vasco da Gama" is used to refer to his achievements and legacy. In English, it means "the navigator from Gama". |
+| 30 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
 | 31 | [Cara de Sapato](http://twitter.com/search?q=Cara+de+Sapato) | Cara de Sapato is a Portuguese expression that literally translates to "shoe face." It is used to describe someone who has an expressionless or emotionless face. In English, it can be used to describe someone who has a poker face. |
-| 32 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 33 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 34 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 35 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
-| 36 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
-| 37 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 38 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
-| 39 | [VARIAS OPCOES BIBI TATTO](http://twitter.com/search?q=VARIAS+OPCOES+BIBI+TATTO) | N/A |
-| 40 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 41 | [Ribamar](http://twitter.com/search?q=Ribamar) | N/A |
-| 42 | [Agroboy](http://twitter.com/search?q=Agroboy) | Agroboy is a slang term used to describe someone who is aggressive, confrontational, and quick to anger. It is often used to describe someone who is easily provoked and prone to outbursts of rage. |
-| 43 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
-| 44 | [marina sena](http://twitter.com/search?q=marina+sena) | N/A |
-| 45 | [Planta](http://twitter.com/search?q=Planta) | N/A |
-| 46 | [Agrotóxico](http://twitter.com/search?q=Agrot%c3%b3xico) | N/A |
-| 47 | [Load](http://twitter.com/search?q=Load) | N/A |
-| 48 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 49 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 32 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
+| 33 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 34 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 35 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 36 | [QUE SABOR](http://twitter.com/search?q=QUE+SABOR) | N/A |
+| 37 | [halsey](http://twitter.com/search?q=halsey) | N/A |
+| 38 | [Caze](http://twitter.com/search?q=Caze) | N/A |
+| 39 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 40 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
+| 41 | [Jordan Poole](http://twitter.com/search?q=Jordan+Poole) | N/A |
+| 42 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
+| 43 | [VARIAS OPCOES BIBI TATTO](http://twitter.com/search?q=VARIAS+OPCOES+BIBI+TATTO) | N/A |
+| 44 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 45 | [marina sena](http://twitter.com/search?q=marina+sena) | N/A |
+| 46 | [alves](http://twitter.com/search?q=alves) | Alves is a Portuguese surname. It is derived from the Latin word albus, meaning "white". In English, it can be translated to mean "white" or "fair-haired". |
+| 47 | [Agroboy](http://twitter.com/search?q=Agroboy) | Agroboy is a slang term used to describe someone who is aggressive, confrontational, and quick to anger. It is often used to describe someone who is easily provoked and prone to outbursts of rage. |
+| 48 | [Load](http://twitter.com/search?q=Load) | N/A |
+| 49 | [Ribamar](http://twitter.com/search?q=Ribamar) | N/A |
 | 50 | [Fred Desimpedidos](http://twitter.com/search?q=Fred+Desimpedidos) | N/A |
 
 
