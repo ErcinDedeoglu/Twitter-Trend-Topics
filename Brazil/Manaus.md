@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-02-24 13:20:12 UTC`
+📆 Last Updated: `2023-02-24 14:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 2 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
-| 3 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 4 | [SEXTOU](http://twitter.com/search?q=SEXTOU) | N/A |
-| 5 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 6 | [IPCA-15](http://twitter.com/search?q=IPCA-15) | N/A |
-| 7 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 8 | [NCT Hollywood](http://twitter.com/search?q=NCT+Hollywood) | N/A |
-| 9 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 10 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
-| 11 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 12 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 13 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
-| 14 | [Load](http://twitter.com/search?q=Load) | N/A |
-| 15 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 16 | [#TAEHYUNGonJinnysKitchen](http://twitter.com/search?q=%23TAEHYUNGonJinnysKitchen) | N/A |
-| 17 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
-| 18 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 19 | [MAMATA NOS EUA](http://twitter.com/search?q=MAMATA+NOS+EUA) | N/A |
-| 20 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 21 | [gracie abrams](http://twitter.com/search?q=gracie+abrams) | N/A |
-| 22 | [San Junipero](http://twitter.com/search?q=San+Junipero) | N/A |
-| 23 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 24 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
-| 25 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 26 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 27 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 1 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
+| 2 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 3 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
+| 4 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 5 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 6 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 7 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 8 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 9 | [Sobis](http://twitter.com/search?q=Sobis) | N/A |
+| 10 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 11 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 12 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 13 | [NCT Hollywood](http://twitter.com/search?q=NCT+Hollywood) | N/A |
+| 14 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 15 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 16 | [IPCA-15](http://twitter.com/search?q=IPCA-15) | N/A |
+| 17 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
+| 18 | [Load](http://twitter.com/search?q=Load) | N/A |
+| 19 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 20 | [Há 91](http://twitter.com/search?q=H%c3%a1+91) | N/A |
+| 21 | [#TAEHYUNGonJinnysKitchen](http://twitter.com/search?q=%23TAEHYUNGonJinnysKitchen) | N/A |
+| 22 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 23 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 24 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 25 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 26 | [San Junipero](http://twitter.com/search?q=San+Junipero) | N/A |
+| 27 | [NCT Tokyo](http://twitter.com/search?q=NCT+Tokyo) | N/A |
 | 28 | [José Dirceu](http://twitter.com/search?q=Jos%c3%a9+Dirceu) | N/A |
-| 29 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 30 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 31 | [Tomás Bertoni](http://twitter.com/search?q=Tom%c3%a1s+Bertoni) | N/A |
-| 32 | [Cristo Jesus](http://twitter.com/search?q=Cristo+Jesus) | N/A |
+| 29 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 30 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
+| 31 | [MAMATA NOS EUA](http://twitter.com/search?q=MAMATA+NOS+EUA) | N/A |
+| 32 | [Fundão](http://twitter.com/search?q=Fund%c3%a3o) | N/A |
 | 33 | [Titi Muller](http://twitter.com/search?q=Titi+Muller) | N/A |
-| 34 | [Scalene](http://twitter.com/search?q=Scalene) | N/A |
-| 35 | [Zé Dirceu](http://twitter.com/search?q=Z%c3%a9+Dirceu) | N/A |
-| 36 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 37 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 38 | [Filipinas](http://twitter.com/search?q=Filipinas) | Filipinas is the Spanish name for the Philippines, a Southeast Asian country located in the western Pacific Ocean. The English translation of Filipinas is "Philippines". |
-| 39 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 40 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
-| 41 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 42 | [Salton](http://twitter.com/search?q=Salton) | N/A |
-| 43 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 44 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 45 | [azealia](http://twitter.com/search?q=azealia) | N/A |
-| 46 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 47 | [Fernanda Montenegro](http://twitter.com/search?q=Fernanda+Montenegro) | N/A |
-| 48 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
-| 49 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
-| 50 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 34 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 35 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 36 | [Zé Dirceu](http://twitter.com/search?q=Z%c3%a9+Dirceu) | N/A |
+| 37 | [Scalene](http://twitter.com/search?q=Scalene) | N/A |
+| 38 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 39 | [Tomás Bertoni](http://twitter.com/search?q=Tom%c3%a1s+Bertoni) | N/A |
+| 40 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 41 | [gracie abrams](http://twitter.com/search?q=gracie+abrams) | N/A |
+| 42 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 43 | [Carlinhos Maia](http://twitter.com/search?q=Carlinhos+Maia) | N/A |
+| 44 | [Garibaldi](http://twitter.com/search?q=Garibaldi) | N/A |
+| 45 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 46 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 47 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
+| 48 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 49 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 50 | [azealia](http://twitter.com/search?q=azealia) | N/A |
 
 
 

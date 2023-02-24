@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bandung
 
-📆 Last Updated: `2023-02-24 13:20:21 UTC`
+📆 Last Updated: `2023-02-24 14:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
-| 2 | [#EPICSalebrat11on](http://twitter.com/search?q=%23EPICSalebrat11on) | N/A |
-| 3 | [#PuzzlePastiMatch](http://twitter.com/search?q=%23PuzzlePastiMatch) | N/A |
-| 4 | [#GalaxyA14](http://twitter.com/search?q=%23GalaxyA14) | N/A |
-| 5 | [#PilihanPastiAwesome](http://twitter.com/search?q=%23PilihanPastiAwesome) | N/A |
-| 6 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 7 | [NCT Tokyo](http://twitter.com/search?q=NCT+Tokyo) | N/A |
-| 8 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 1 | [#zonauang️](http://twitter.com/search?q=%23zonauang%ef%b8%8f) | N/A |
+| 2 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 3 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
+| 4 | [#EPICSalebrat11on](http://twitter.com/search?q=%23EPICSalebrat11on) | N/A |
+| 5 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 6 | [#PuzzlePastiMatch](http://twitter.com/search?q=%23PuzzlePastiMatch) | N/A |
+| 7 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
+| 8 | [NCT Tokyo](http://twitter.com/search?q=NCT+Tokyo) | N/A |
 | 9 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
 | 10 | [HAECHAN DIN COTY](http://twitter.com/search?q=HAECHAN+DIN+COTY) | N/A |
 | 11 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 12 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
-| 13 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 14 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 15 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 16 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
-| 17 | [BEST ACTRESS SUZY](http://twitter.com/search?q=BEST+ACTRESS+SUZY) | N/A |
-| 18 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
-| 19 | [BulanLiterasiKripto](http://twitter.com/search?q=BulanLiterasiKripto) | N/A |
-| 20 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 21 | [GERD](http://twitter.com/search?q=GERD) | N/A |
-| 22 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 23 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Tarakanita](http://twitter.com/search?q=Tarakanita) | N/A |
-| 26 | [Traveloka](http://twitter.com/search?q=Traveloka) | N/A |
-| 27 | [Sidang](http://twitter.com/search?q=Sidang) | N/A |
-| 28 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
-| 29 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 30 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 31 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
-| 32 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 33 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
-| 34 | [Hawa](http://twitter.com/search?q=Hawa) | N/A |
-| 35 | [Kelas 8](http://twitter.com/search?q=Kelas+8) | N/A |
-| 36 | [Fajar](http://twitter.com/search?q=Fajar) | Fajar is an Arabic word meaning dawn or sunrise. It is also used to refer to the first prayer of the day in Islam, which is performed just before sunrise. |
-| 37 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
-| 38 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
-| 39 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
-| 40 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 41 | [Persebaya](http://twitter.com/search?q=Persebaya) | N/A |
-| 42 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
-| 43 | [Mundur](http://twitter.com/search?q=Mundur) | N/A |
-| 44 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 45 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 13 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 14 | [Ibnu](http://twitter.com/search?q=Ibnu) | N/A |
+| 15 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
+| 16 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 17 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
+| 18 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 19 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 20 | [BEST ACTRESS SUZY](http://twitter.com/search?q=BEST+ACTRESS+SUZY) | N/A |
+| 21 | [BulanLiterasiKripto](http://twitter.com/search?q=BulanLiterasiKripto) | N/A |
+| 22 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
+| 23 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
+| 24 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 25 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 26 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 27 | [GERD](http://twitter.com/search?q=GERD) | N/A |
+| 28 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 29 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 30 | [Sidang](http://twitter.com/search?q=Sidang) | N/A |
+| 31 | [Tarakanita](http://twitter.com/search?q=Tarakanita) | N/A |
+| 32 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
+| 33 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 34 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 35 | [Hawa](http://twitter.com/search?q=Hawa) | N/A |
+| 36 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
+| 37 | [Traveloka](http://twitter.com/search?q=Traveloka) | N/A |
+| 38 | [Kelas 8](http://twitter.com/search?q=Kelas+8) | N/A |
+| 39 | [Fajar](http://twitter.com/search?q=Fajar) | Fajar is an Arabic word meaning dawn or sunrise. It is also used to refer to the first prayer of the day in Islam, which is performed just before sunrise. |
+| 40 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 41 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
+| 42 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
+| 43 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 44 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
+| 45 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
 | 46 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 47 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
-| 48 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
+| 47 | [#NewBrightening](http://twitter.com/search?q=%23NewBrightening) | N/A |
+| 48 | [#GalaxyA14](http://twitter.com/search?q=%23GalaxyA14) | N/A |
 | 49 | [#TranexamicSerum](http://twitter.com/search?q=%23TranexamicSerum) | N/A |
-| 50 | [#NewBrightening](http://twitter.com/search?q=%23NewBrightening) | N/A |
+| 50 | [#PilihanPastiAwesome](http://twitter.com/search?q=%23PilihanPastiAwesome) | N/A |
 
 
 

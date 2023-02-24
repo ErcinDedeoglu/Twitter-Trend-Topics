@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-24 13:20:50 UTC`
+📆 Last Updated: `2023-02-24 14:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,43 +27,43 @@ This is top 50 for Austria
 | 10 | [stoffwindeln](http://twitter.com/search?q=stoffwindeln) | N/A |
 | 11 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
 | 12 | [Verhandlungstisch](http://twitter.com/search?q=Verhandlungstisch) | N/A |
-| 13 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 14 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
+| 13 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
+| 14 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
 | 15 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
-| 16 | [Volksverräter](http://twitter.com/search?q=Volksverr%c3%a4ter) | N/A |
-| 17 | [Reichen](http://twitter.com/search?q=Reichen) | N/A |
+| 16 | [Reichen](http://twitter.com/search?q=Reichen) | N/A |
+| 17 | [volksverräter](http://twitter.com/search?q=volksverr%c3%a4ter) | N/A |
 | 18 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
 | 19 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 20 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 21 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 20 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 21 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
 | 22 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 23 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
-| 24 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
-| 25 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
-| 26 | [Material](http://twitter.com/search?q=Material) | N/A |
-| 27 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 28 | [Intellekt](http://twitter.com/search?q=Intellekt) | N/A |
-| 29 | [Sager](http://twitter.com/search?q=Sager) | N/A |
-| 30 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 31 | [giftzwerg](http://twitter.com/search?q=giftzwerg) | N/A |
-| 32 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 33 | [Kolleg](http://twitter.com/search?q=Kolleg) | N/A |
-| 34 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 35 | [Verfassungsschutz](http://twitter.com/search?q=Verfassungsschutz) | N/A |
-| 36 | [Statement](http://twitter.com/search?q=Statement) | N/A |
-| 37 | [Italy](http://twitter.com/search?q=Italy) | N/A |
-| 38 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
-| 39 | [Van der Bellen](http://twitter.com/search?q=Van+der+Bellen) | N/A |
-| 40 | [Unfälle](http://twitter.com/search?q=Unf%c3%a4lle) | N/A |
-| 41 | [Russland](http://twitter.com/search?q=Russland) | N/A |
-| 42 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
-| 43 | [Korruption](http://twitter.com/search?q=Korruption) | N/A |
-| 44 | [Fetzen](http://twitter.com/search?q=Fetzen) | N/A |
-| 45 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 46 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 47 | [Bundespräsident](http://twitter.com/search?q=Bundespr%c3%a4sident) | N/A |
-| 48 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 49 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 23 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 24 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
+| 25 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
+| 26 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 27 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
+| 28 | [Material](http://twitter.com/search?q=Material) | N/A |
+| 29 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 30 | [Intellekt](http://twitter.com/search?q=Intellekt) | N/A |
+| 31 | [Sager](http://twitter.com/search?q=Sager) | N/A |
+| 32 | [richtungen](http://twitter.com/search?q=richtungen) | N/A |
+| 33 | [Verträge](http://twitter.com/search?q=Vertr%c3%a4ge) | N/A |
+| 34 | [giftzwerg](http://twitter.com/search?q=giftzwerg) | N/A |
+| 35 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 36 | [Kolleg](http://twitter.com/search?q=Kolleg) | N/A |
+| 37 | [Verfassungsschutz](http://twitter.com/search?q=Verfassungsschutz) | N/A |
+| 38 | [statement](http://twitter.com/search?q=statement) | N/A |
+| 39 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 40 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
+| 41 | [King](http://twitter.com/search?q=King) | In English, "king" is a title given to a male monarch, usually the ruler of a kingdom or empire. It is also used as a term of endearment for someone who is seen as having great power or influence. |
+| 42 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 43 | [Freundschaft](http://twitter.com/search?q=Freundschaft) | N/A |
+| 44 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 45 | [Fetzen](http://twitter.com/search?q=Fetzen) | N/A |
+| 46 | [Bundespräsident](http://twitter.com/search?q=Bundespr%c3%a4sident) | N/A |
+| 47 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 48 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 49 | [Pizza](http://twitter.com/search?q=Pizza) | N/A |
 | 50 | [Conny](http://twitter.com/search?q=Conny) | N/A |
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Luís
 
-📆 Last Updated: `2023-02-24 13:20:12 UTC`
+📆 Last Updated: `2023-02-24 14:16:12 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Brazil](</Brazil>)
 | 1 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
 | 2 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 3 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 4 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 4 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
 | 5 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
-| 6 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 7 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 8 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 9 | [IPCA-15](http://twitter.com/search?q=IPCA-15) | N/A |
-| 10 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 11 | [NCT Hollywood](http://twitter.com/search?q=NCT+Hollywood) | N/A |
-| 12 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 13 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
-| 14 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 15 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 16 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
-| 17 | [Load](http://twitter.com/search?q=Load) | N/A |
-| 18 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 19 | [#TAEHYUNGonJinnysKitchen](http://twitter.com/search?q=%23TAEHYUNGonJinnysKitchen) | N/A |
-| 20 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
-| 21 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 22 | [MAMATA NOS EUA](http://twitter.com/search?q=MAMATA+NOS+EUA) | N/A |
-| 23 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 24 | [gracie abrams](http://twitter.com/search?q=gracie+abrams) | N/A |
-| 25 | [San Junipero](http://twitter.com/search?q=San+Junipero) | N/A |
-| 26 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 27 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 28 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 29 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 30 | [José Dirceu](http://twitter.com/search?q=Jos%c3%a9+Dirceu) | N/A |
-| 31 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 32 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 33 | [Tomás Bertoni](http://twitter.com/search?q=Tom%c3%a1s+Bertoni) | N/A |
-| 34 | [Cristo Jesus](http://twitter.com/search?q=Cristo+Jesus) | N/A |
-| 35 | [Titi Muller](http://twitter.com/search?q=Titi+Muller) | N/A |
-| 36 | [Scalene](http://twitter.com/search?q=Scalene) | N/A |
-| 37 | [Zé Dirceu](http://twitter.com/search?q=Z%c3%a9+Dirceu) | N/A |
-| 38 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 39 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 40 | [Filipinas](http://twitter.com/search?q=Filipinas) | Filipinas is the Spanish name for the Philippines, a Southeast Asian country located in the western Pacific Ocean. The English translation of Filipinas is "Philippines". |
-| 41 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 42 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
-| 43 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 44 | [Salton](http://twitter.com/search?q=Salton) | N/A |
-| 45 | [azealia](http://twitter.com/search?q=azealia) | N/A |
-| 46 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 47 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 48 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 49 | [Fernanda Montenegro](http://twitter.com/search?q=Fernanda+Montenegro) | N/A |
-| 50 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 6 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 7 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 8 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 9 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 10 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 11 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 12 | [Sobis](http://twitter.com/search?q=Sobis) | N/A |
+| 13 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 14 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 15 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 16 | [NCT Hollywood](http://twitter.com/search?q=NCT+Hollywood) | N/A |
+| 17 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 18 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 19 | [IPCA-15](http://twitter.com/search?q=IPCA-15) | N/A |
+| 20 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
+| 21 | [Load](http://twitter.com/search?q=Load) | N/A |
+| 22 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 23 | [Há 91](http://twitter.com/search?q=H%c3%a1+91) | N/A |
+| 24 | [#TAEHYUNGonJinnysKitchen](http://twitter.com/search?q=%23TAEHYUNGonJinnysKitchen) | N/A |
+| 25 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 26 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
+| 27 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 28 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 29 | [San Junipero](http://twitter.com/search?q=San+Junipero) | N/A |
+| 30 | [NCT Tokyo](http://twitter.com/search?q=NCT+Tokyo) | N/A |
+| 31 | [José Dirceu](http://twitter.com/search?q=Jos%c3%a9+Dirceu) | N/A |
+| 32 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 33 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
+| 34 | [MAMATA NOS EUA](http://twitter.com/search?q=MAMATA+NOS+EUA) | N/A |
+| 35 | [Fundão](http://twitter.com/search?q=Fund%c3%a3o) | N/A |
+| 36 | [Titi Muller](http://twitter.com/search?q=Titi+Muller) | N/A |
+| 37 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 38 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 39 | [Zé Dirceu](http://twitter.com/search?q=Z%c3%a9+Dirceu) | N/A |
+| 40 | [Scalene](http://twitter.com/search?q=Scalene) | N/A |
+| 41 | [Tomás Bertoni](http://twitter.com/search?q=Tom%c3%a1s+Bertoni) | N/A |
+| 42 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 43 | [gracie abrams](http://twitter.com/search?q=gracie+abrams) | N/A |
+| 44 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 45 | [Carlinhos Maia](http://twitter.com/search?q=Carlinhos+Maia) | N/A |
+| 46 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 47 | [Garibaldi](http://twitter.com/search?q=Garibaldi) | N/A |
+| 48 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 49 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 50 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Milan
 
-📆 Last Updated: `2023-02-24 13:20:17 UTC`
+📆 Last Updated: `2023-02-24 14:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,49 +18,46 @@ This is top 50 for [Italy](</Italy>)
 | 1 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
 | 2 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
 | 3 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
-| 4 | [Maurizio Costanzo](http://twitter.com/search?q=Maurizio+Costanzo) | N/A |
-| 5 | [#24febbraio](http://twitter.com/search?q=%2324febbraio) | N/A |
-| 6 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 7 | [#UELdraw](http://twitter.com/search?q=%23UELdraw) | N/A |
-| 8 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
+| 4 | [#mauriziocostanzo](http://twitter.com/search?q=%23mauriziocostanzo) | N/A |
+| 5 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 6 | [#24febbraio](http://twitter.com/search?q=%2324febbraio) | N/A |
+| 7 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
+| 8 | [#UELdraw](http://twitter.com/search?q=%23UELdraw) | N/A |
 | 9 | [Aveva 84](http://twitter.com/search?q=Aveva+84) | N/A |
-| 10 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
-| 11 | [#Ucraina](http://twitter.com/search?q=%23Ucraina) | N/A |
-| 12 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 13 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
-| 14 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
-| 15 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 16 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 17 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 18 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 19 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 20 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 21 | [Il 24](http://twitter.com/search?q=Il+24) | N/A |
-| 22 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
-| 23 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 24 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
-| 25 | [Parenzo](http://twitter.com/search?q=Parenzo) | N/A |
-| 26 | [#unprofessore2](http://twitter.com/search?q=%23unprofessore2) | N/A |
-| 27 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
+| 10 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
+| 11 | [#twittamibeautiful](http://twitter.com/search?q=%23twittamibeautiful) | N/A |
+| 12 | [#Ucraina](http://twitter.com/search?q=%23Ucraina) | N/A |
+| 13 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 14 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 15 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 16 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
+| 17 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
+| 18 | [Vergognatevi](http://twitter.com/search?q=Vergognatevi) | N/A |
+| 19 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 20 | [Il 24](http://twitter.com/search?q=Il+24) | N/A |
+| 21 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 22 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 23 | [#Ucraina](http://twitter.com/search?q=%23Ucraina) | N/A |
+| 24 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
+| 25 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
+| 26 | [#RealSociedad](http://twitter.com/search?q=%23RealSociedad) | N/A |
+| 27 | [#unprofessore2](http://twitter.com/search?q=%23unprofessore2) | N/A |
 | 28 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
 | 29 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
-| 30 | [#guerra](http://twitter.com/search?q=%23guerra) | N/A |
+| 30 | [#pace](http://twitter.com/search?q=%23pace) | N/A |
 | 31 | [#lariachetira](http://twitter.com/search?q=%23lariachetira) | N/A |
-| 32 | [#pace](http://twitter.com/search?q=%23pace) | N/A |
+| 32 | [#guerra](http://twitter.com/search?q=%23guerra) | N/A |
 | 33 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 34 | [#ISogniSonDesideri](http://twitter.com/search?q=%23ISogniSonDesideri) | N/A |
-| 35 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
-| 36 | [#StopWar](http://twitter.com/search?q=%23StopWar) | N/A |
-| 37 | [#AlbertoSordi](http://twitter.com/search?q=%23AlbertoSordi) | N/A |
-| 38 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
-| 39 | [#ilprezzo](http://twitter.com/search?q=%23ilprezzo) | N/A |
-| 40 | [#Cina](http://twitter.com/search?q=%23Cina) | N/A |
-| 41 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
-| 42 | [#CaniSciolti](http://twitter.com/search?q=%23CaniSciolti) | N/A |
-| 43 | [#Savino](http://twitter.com/search?q=%23Savino) | N/A |
-| 44 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 45 | [#antifascismo](http://twitter.com/search?q=%23antifascismo) | N/A |
-| 46 | [#IoStoConLaPreside](http://twitter.com/search?q=%23IoStoConLaPreside) | N/A |
+| 34 | [#ElTurco](http://twitter.com/search?q=%23ElTurco) | N/A |
+| 35 | [#isognisondesideri](http://twitter.com/search?q=%23isognisondesideri) | N/A |
+| 36 | [#AlbertoSordi](http://twitter.com/search?q=%23AlbertoSordi) | N/A |
+| 37 | [#ilPrezzo](http://twitter.com/search?q=%23ilPrezzo) | N/A |
+| 38 | [#Cina](http://twitter.com/search?q=%23Cina) | N/A |
+| 39 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
+| 40 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
+| 41 | [#CaniSciolti](http://twitter.com/search?q=%23CaniSciolti) | N/A |
+| 42 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 43 | [#antifascismo](http://twitter.com/search?q=%23antifascismo) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-24 13:20:05 UTC`
+📆 Last Updated: `2023-02-24 14:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,52 +17,52 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#CashAppUK](http://twitter.com/search?q=%23CashAppUK) | N/A |
 | 2 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 3 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 4 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 5 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 3 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 4 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 5 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
 | 6 | [Sporting Lisbon](http://twitter.com/search?q=Sporting+Lisbon) | N/A |
-| 7 | [#SBSEvent2023](http://twitter.com/search?q=%23SBSEvent2023) | N/A |
-| 8 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
-| 9 | [Turnips](http://twitter.com/search?q=Turnips) | N/A |
-| 10 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 11 | [Littlejohn](http://twitter.com/search?q=Littlejohn) | N/A |
-| 12 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 13 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
+| 7 | [Turnips](http://twitter.com/search?q=Turnips) | N/A |
+| 8 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 9 | [Another Spanish](http://twitter.com/search?q=Another+Spanish) | N/A |
+| 10 | [Littlejohn](http://twitter.com/search?q=Littlejohn) | N/A |
+| 11 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 12 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 13 | [Tatchell](http://twitter.com/search?q=Tatchell) | N/A |
 | 14 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 15 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 15 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
 | 16 | [Larnaca](http://twitter.com/search?q=Larnaca) | N/A |
 | 17 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 18 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 19 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 20 | [Hannan](http://twitter.com/search?q=Hannan) | N/A |
-| 21 | [Money in the Bank](http://twitter.com/search?q=Money+in+the+Bank) | N/A |
-| 22 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 23 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 24 | [Fraser Nelson](http://twitter.com/search?q=Fraser+Nelson) | N/A |
-| 25 | [Tatchell](http://twitter.com/search?q=Tatchell) | N/A |
-| 26 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 27 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 28 | [Jordan Pickford](http://twitter.com/search?q=Jordan+Pickford) | N/A |
-| 29 | [Ruben Selles](http://twitter.com/search?q=Ruben+Selles) | N/A |
-| 30 | [Vernon Kay](http://twitter.com/search?q=Vernon+Kay) | N/A |
-| 31 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 32 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 33 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 34 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
-| 35 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
-| 36 | [Swedes](http://twitter.com/search?q=Swedes) | N/A |
-| 37 | [giveon](http://twitter.com/search?q=giveon) | N/A |
-| 38 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
-| 39 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 40 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
-| 41 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
-| 42 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 43 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 44 | [Fury](http://twitter.com/search?q=Fury) | N/A |
-| 45 | [Feyenoord](http://twitter.com/search?q=Feyenoord) | Feyenoord is a Dutch professional football club based in Rotterdam. The name Feyenoord is derived from the district Feyenoord in Rotterdam, and the club's home stadium is called De Kuip (The Tub). In English, Feyenoord translates to "Fairy of the North". |
-| 46 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
+| 18 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 19 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 20 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
+| 21 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
+| 22 | [Vernon Kay](http://twitter.com/search?q=Vernon+Kay) | N/A |
+| 23 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 24 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
+| 25 | [Hannan](http://twitter.com/search?q=Hannan) | N/A |
+| 26 | [Ruben Selles](http://twitter.com/search?q=Ruben+Selles) | N/A |
+| 27 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
+| 28 | [Money In The Bank](http://twitter.com/search?q=Money+In+The+Bank) | N/A |
+| 29 | [Fraser Nelson](http://twitter.com/search?q=Fraser+Nelson) | N/A |
+| 30 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
+| 31 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 32 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 33 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 34 | [Swedes](http://twitter.com/search?q=Swedes) | N/A |
+| 35 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 36 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
+| 37 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 38 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
+| 39 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 40 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 41 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 42 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
+| 43 | [Rings of Power](http://twitter.com/search?q=Rings+of+Power) | N/A |
+| 44 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 45 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
+| 46 | [Fury](http://twitter.com/search?q=Fury) | N/A |
 | 47 | [Bobby Moore](http://twitter.com/search?q=Bobby+Moore) | N/A |
-| 48 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
+| 48 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 
 
 
