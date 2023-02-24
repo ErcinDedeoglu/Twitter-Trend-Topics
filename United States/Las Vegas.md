@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Las Vegas
 
-📆 Last Updated: `2023-02-24 19:16:22 UTC`
+📆 Last Updated: `2023-02-24 20:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [United States](</United States>)
 | 4 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
 | 5 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
 | 6 | [Pac-12](http://twitter.com/search?q=Pac-12) | N/A |
-| 7 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 8 | [Grant Hill](http://twitter.com/search?q=Grant+Hill) | N/A |
-| 9 | [ION TV](http://twitter.com/search?q=ION+TV) | N/A |
-| 10 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 11 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 12 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 13 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
-| 14 | [SNEEG](http://twitter.com/search?q=SNEEG) | N/A |
-| 15 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 16 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 17 | [Besame Mucho](http://twitter.com/search?q=Besame+Mucho) | N/A |
-| 18 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 19 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
-| 20 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 21 | [Marine](http://twitter.com/search?q=Marine) | N/A |
-| 22 | [Tink](http://twitter.com/search?q=Tink) | N/A |
-| 23 | [Tropic Thunder](http://twitter.com/search?q=Tropic+Thunder) | N/A |
-| 24 | [Kapanen](http://twitter.com/search?q=Kapanen) | N/A |
-| 25 | [Murdaugh](http://twitter.com/search?q=Murdaugh) | N/A |
-| 26 | [Memorial Stadium](http://twitter.com/search?q=Memorial+Stadium) | N/A |
-| 27 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
+| 7 | [Grant Hill](http://twitter.com/search?q=Grant+Hill) | N/A |
+| 8 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 9 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 10 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 11 | [Kapanen](http://twitter.com/search?q=Kapanen) | N/A |
+| 12 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
+| 13 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 14 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 15 | [ION TV](http://twitter.com/search?q=ION+TV) | N/A |
+| 16 | [Rose Bowl](http://twitter.com/search?q=Rose+Bowl) | The Rose Bowl is an annual American college football bowl game played in Pasadena, California. It is one of the oldest and most prestigious bowl games in the country, and is often referred to as "The Granddaddy of Them All". The game typically features a matchup between two of the top teams from the Pac-12 and Big Ten conferences. The winner of the game is awarded the Rose Bowl trophy. |
+| 17 | [Spencer Knight](http://twitter.com/search?q=Spencer+Knight) | N/A |
+| 18 | [Besame Mucho](http://twitter.com/search?q=Besame+Mucho) | N/A |
+| 19 | [SNEEG](http://twitter.com/search?q=SNEEG) | N/A |
+| 20 | [Murdaugh](http://twitter.com/search?q=Murdaugh) | N/A |
+| 21 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 22 | [Tropic Thunder](http://twitter.com/search?q=Tropic+Thunder) | N/A |
+| 23 | [Spin Bout U](http://twitter.com/search?q=Spin+Bout+U) | N/A |
+| 24 | [Memorial Stadium](http://twitter.com/search?q=Memorial+Stadium) | N/A |
+| 25 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 26 | [Tink](http://twitter.com/search?q=Tink) | N/A |
+| 27 | [El Trafico](http://twitter.com/search?q=El+Trafico) | N/A |
 | 28 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 29 | [Tenz](http://twitter.com/search?q=Tenz) | N/A |
-| 30 | [Spencer Knight](http://twitter.com/search?q=Spencer+Knight) | N/A |
-| 31 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 32 | [Spin Bout U](http://twitter.com/search?q=Spin+Bout+U) | N/A |
-| 33 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
-| 34 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 35 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 36 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 37 | [Moes](http://twitter.com/search?q=Moes) | N/A |
-| 38 | [Northeastern](http://twitter.com/search?q=Northeastern) | N/A |
-| 39 | [Brett Baty](http://twitter.com/search?q=Brett+Baty) | N/A |
-| 40 | [Ice Age](http://twitter.com/search?q=Ice+Age) | N/A |
-| 41 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 42 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 43 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 44 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 45 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 46 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 29 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 30 | [Tenz](http://twitter.com/search?q=Tenz) | N/A |
+| 31 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 32 | [Ben Johnson](http://twitter.com/search?q=Ben+Johnson) | Ben Johnson is a phrase used to describe someone who is dishonest or unethical in their dealings. It is derived from the name of the disgraced Canadian sprinter Ben Johnson, who was stripped of his gold medal at the 1988 Olympics after testing positive for steroids. |
+| 33 | [Ice Age](http://twitter.com/search?q=Ice+Age) | N/A |
+| 34 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
+| 35 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 36 | [Marine](http://twitter.com/search?q=Marine) | N/A |
+| 37 | [Andre Blake](http://twitter.com/search?q=Andre+Blake) | N/A |
+| 38 | [Gascon](http://twitter.com/search?q=Gascon) | N/A |
+| 39 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 40 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
+| 41 | [Orono](http://twitter.com/search?q=Orono) | N/A |
+| 42 | [Moes](http://twitter.com/search?q=Moes) | N/A |
+| 43 | [Series S](http://twitter.com/search?q=Series+S) | N/A |
+| 44 | [BASEBALL IS BACK](http://twitter.com/search?q=BASEBALL+IS+BACK) | N/A |
+| 45 | [Alford](http://twitter.com/search?q=Alford) | N/A |
+| 46 | [Madagascar](http://twitter.com/search?q=Madagascar) | Madagascar is an island nation located off the southeastern coast of Africa in the Indian Ocean. It is the fourth largest island in the world and is home to a wide variety of unique flora and fauna. The name Madagascar comes from the Malagasy language, which means "land of the people". |
 | 47 | [Nintendo Switch](http://twitter.com/search?q=Nintendo+Switch) | N/A |
-| 48 | [New Coke](http://twitter.com/search?q=New+Coke) | N/A |
-| 49 | [Daniel Jeremiah](http://twitter.com/search?q=Daniel+Jeremiah) | N/A |
+| 48 | [Northeastern](http://twitter.com/search?q=Northeastern) | N/A |
+| 49 | [Brett Baty](http://twitter.com/search?q=Brett+Baty) | N/A |
 
 
 

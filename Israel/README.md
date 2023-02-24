@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-24 19:16:31 UTC`
+📆 Last Updated: `2023-02-24 20:16:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,14 +17,14 @@ This is top 50 for Israel
 | ------- | ------------ | ------------ |
 | 1 | [שבת שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c%d7%95%d7%9d) | שבת שלום is a Hebrew phrase meaning "have a peaceful Sabbath". It is a common greeting used on the Jewish Sabbath. |
 | 2 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
-| 3 | [איילה חסון](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%94+%d7%97%d7%a1%d7%95%d7%9f) | איילה חסון is a Hebrew phrase meaning "Eilah Hasun," which translates to "God is gracious." It is often used as a blessing or expression of gratitude. |
+| 3 | [בלי איילה חסון](http://twitter.com/search?q=%d7%91%d7%9c%d7%99+%d7%90%d7%99%d7%99%d7%9c%d7%94+%d7%97%d7%a1%d7%95%d7%9f) | N/A |
 | 4 | [אהוד ברק](http://twitter.com/search?q=%d7%90%d7%94%d7%95%d7%93+%d7%91%d7%a8%d7%a7) | N/A |
-| 5 | [אייל ברקוביץ](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c+%d7%91%d7%a8%d7%a7%d7%95%d7%91%d7%99%d7%a5) | N/A |
-| 6 | [תקציב המדינה](http://twitter.com/search?q=%d7%aa%d7%a7%d7%a6%d7%99%d7%91+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 7 | [חינוך חינם](http://twitter.com/search?q=%d7%97%d7%99%d7%a0%d7%95%d7%9a+%d7%97%d7%99%d7%a0%d7%9d) | N/A |
-| 8 | [של מעריב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a2%d7%a8%d7%99%d7%91) | N/A |
-| 9 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 10 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
+| 5 | [תקציב המדינה](http://twitter.com/search?q=%d7%aa%d7%a7%d7%a6%d7%99%d7%91+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
+| 6 | [נבצרות עכשיו](http://twitter.com/search?q=%d7%a0%d7%91%d7%a6%d7%a8%d7%95%d7%aa+%d7%a2%d7%9b%d7%a9%d7%99%d7%95) | N/A |
+| 7 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 8 | [חינוך חינם](http://twitter.com/search?q=%d7%97%d7%99%d7%a0%d7%95%d7%9a+%d7%97%d7%99%d7%a0%d7%9d) | N/A |
+| 9 | [אייל ברקוביץ](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c+%d7%91%d7%a8%d7%a7%d7%95%d7%91%d7%99%d7%a5) | N/A |
+| 10 | [של מעריב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a2%d7%a8%d7%99%d7%91) | N/A |
 | 11 | [מרתון תל אביב](http://twitter.com/search?q=%d7%9e%d7%a8%d7%aa%d7%95%d7%9f+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
 | 12 | [סקר שקר](http://twitter.com/search?q=%d7%a1%d7%a7%d7%a8+%d7%a9%d7%a7%d7%a8) | N/A |
 | 13 | [סקר מעריב](http://twitter.com/search?q=%d7%a1%d7%a7%d7%a8+%d7%9e%d7%a2%d7%a8%d7%99%d7%91) | N/A |
@@ -33,38 +33,38 @@ This is top 50 for Israel
 | 16 | [שי ניצן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%a0%d7%99%d7%a6%d7%9f) | N/A |
 | 17 | [יובל נח הררי](http://twitter.com/search?q=%d7%99%d7%95%d7%91%d7%9c+%d7%a0%d7%97+%d7%94%d7%a8%d7%a8%d7%99) | N/A |
 | 18 | [של עקיבא](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a2%d7%a7%d7%99%d7%91%d7%90) | N/A |
-| 19 | [הסכם הגז](http://twitter.com/search?q=%d7%94%d7%a1%d7%9b%d7%9d+%d7%94%d7%92%d7%96) | N/A |
-| 20 | [של פורום קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%95%d7%a8%d7%95%d7%9d+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
-| 21 | [מזל טוב גלעד](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91+%d7%92%d7%9c%d7%a2%d7%93) | N/A |
-| 22 | [סקר של](http://twitter.com/search?q=%d7%a1%d7%a7%d7%a8+%d7%a9%d7%9c) | N/A |
-| 23 | [צבא העם](http://twitter.com/search?q=%d7%a6%d7%91%d7%90+%d7%94%d7%a2%d7%9d) | N/A |
-| 24 | [של אפשטיין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%a4%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
-| 25 | [בנט לפיד](http://twitter.com/search?q=%d7%91%d7%a0%d7%98+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
-| 26 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
-| 27 | [מס עבאס](http://twitter.com/search?q=%d7%9e%d7%a1+%d7%a2%d7%91%d7%90%d7%a1) | N/A |
-| 28 | [אורי אוזן](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%99+%d7%90%d7%95%d7%96%d7%9f) | N/A |
-| 29 | [ש נעים](http://twitter.com/search?q=%d7%a9+%d7%a0%d7%a2%d7%99%d7%9d) | N/A |
-| 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 31 | [עם הקריאה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%a7%d7%a8%d7%99%d7%90%d7%94) | N/A |
-| 32 | [של אוחנה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%95%d7%97%d7%a0%d7%94) | N/A |
-| 33 | [גונן בן יצחק](http://twitter.com/search?q=%d7%92%d7%95%d7%a0%d7%9f+%d7%91%d7%9f+%d7%99%d7%a6%d7%97%d7%a7) | N/A |
-| 34 | [המון בריאות](http://twitter.com/search?q=%d7%94%d7%9e%d7%95%d7%9f+%d7%91%d7%a8%d7%99%d7%90%d7%95%d7%aa) | N/A |
+| 19 | [צבא העם](http://twitter.com/search?q=%d7%a6%d7%91%d7%90+%d7%94%d7%a2%d7%9d) | N/A |
+| 20 | [מזל טוב גלעד](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91+%d7%92%d7%9c%d7%a2%d7%93) | N/A |
+| 21 | [סקר של](http://twitter.com/search?q=%d7%a1%d7%a7%d7%a8+%d7%a9%d7%9c) | N/A |
+| 22 | [עם הקריאה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%a7%d7%a8%d7%99%d7%90%d7%94) | N/A |
+| 23 | [של אפשטיין](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%a4%d7%a9%d7%98%d7%99%d7%99%d7%9f) | N/A |
+| 24 | [בנט לפיד](http://twitter.com/search?q=%d7%91%d7%a0%d7%98+%d7%9c%d7%a4%d7%99%d7%93) | N/A |
+| 25 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
+| 26 | [מס עבאס](http://twitter.com/search?q=%d7%9e%d7%a1+%d7%a2%d7%91%d7%90%d7%a1) | N/A |
+| 27 | [אורי אוזן](http://twitter.com/search?q=%d7%90%d7%95%d7%a8%d7%99+%d7%90%d7%95%d7%96%d7%9f) | N/A |
+| 28 | [ש נעים](http://twitter.com/search?q=%d7%a9+%d7%a0%d7%a2%d7%99%d7%9d) | N/A |
+| 29 | [של אוחנה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%90%d7%95%d7%97%d7%a0%d7%94) | N/A |
+| 30 | [המון בריאות](http://twitter.com/search?q=%d7%94%d7%9e%d7%95%d7%9f+%d7%91%d7%a8%d7%99%d7%90%d7%95%d7%aa) | N/A |
+| 31 | [של פורום קהלת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a4%d7%95%d7%a8%d7%95%d7%9d+%d7%a7%d7%94%d7%9c%d7%aa) | N/A |
+| 32 | [גונן בן יצחק](http://twitter.com/search?q=%d7%92%d7%95%d7%a0%d7%9f+%d7%91%d7%9f+%d7%99%d7%a6%d7%97%d7%a7) | N/A |
+| 33 | [הסכם הגז](http://twitter.com/search?q=%d7%94%d7%a1%d7%9b%d7%9d+%d7%94%d7%92%d7%96) | N/A |
+| 34 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 35 | [חיים לוינסון](http://twitter.com/search?q=%d7%97%d7%99%d7%99%d7%9d+%d7%9c%d7%95%d7%99%d7%a0%d7%a1%d7%95%d7%9f) | N/A |
-| 36 | [של שישי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
-| 37 | [כך אהרן ברק](http://twitter.com/search?q=%d7%9b%d7%9a+%d7%90%d7%94%d7%a8%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
-| 38 | [גוב האריות](http://twitter.com/search?q=%d7%92%d7%95%d7%91+%d7%94%d7%90%d7%a8%d7%99%d7%95%d7%aa) | N/A |
-| 39 | [סירוב פקודה](http://twitter.com/search?q=%d7%a1%d7%99%d7%a8%d7%95%d7%91+%d7%a4%d7%a7%d7%95%d7%93%d7%94) | N/A |
-| 40 | [נבחרת ישראל](http://twitter.com/search?q=%d7%a0%d7%91%d7%97%d7%a8%d7%aa+%d7%99%d7%a9%d7%a8%d7%90%d7%9c) | N/A |
-| 41 | [שבת קודש](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a7%d7%95%d7%93%d7%a9) | N/A |
-| 42 | [Oman](http://twitter.com/search?q=Oman) | N/A |
-| 43 | [לבד עם](http://twitter.com/search?q=%d7%9c%d7%91%d7%93+%d7%a2%d7%9d) | N/A |
-| 44 | [דרך הרבנות](http://twitter.com/search?q=%d7%93%d7%a8%d7%9a+%d7%94%d7%a8%d7%91%d7%a0%d7%95%d7%aa) | N/A |
-| 45 | [יום שישי](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
+| 36 | [סירוב פקודה](http://twitter.com/search?q=%d7%a1%d7%99%d7%a8%d7%95%d7%91+%d7%a4%d7%a7%d7%95%d7%93%d7%94) | N/A |
+| 37 | [של שישי](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
+| 38 | [כך אהרן ברק](http://twitter.com/search?q=%d7%9b%d7%9a+%d7%90%d7%94%d7%a8%d7%9f+%d7%91%d7%a8%d7%a7) | N/A |
+| 39 | [גוב האריות](http://twitter.com/search?q=%d7%92%d7%95%d7%91+%d7%94%d7%90%d7%a8%d7%99%d7%95%d7%aa) | N/A |
+| 40 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
+| 41 | [חלום שלי](http://twitter.com/search?q=%d7%97%d7%9c%d7%95%d7%9d+%d7%a9%d7%9c%d7%99) | N/A |
+| 42 | [שבת קודש](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a7%d7%95%d7%93%d7%a9) | N/A |
+| 43 | [Oman](http://twitter.com/search?q=Oman) | N/A |
+| 44 | [לבד עם](http://twitter.com/search?q=%d7%9c%d7%91%d7%93+%d7%a2%d7%9d) | N/A |
+| 45 | [דרך הרבנות](http://twitter.com/search?q=%d7%93%d7%a8%d7%9a+%d7%94%d7%a8%d7%91%d7%a0%d7%95%d7%aa) | N/A |
 | 46 | [שר התפוצות](http://twitter.com/search?q=%d7%a9%d7%a8+%d7%94%d7%aa%d7%a4%d7%95%d7%a6%d7%95%d7%aa) | N/A |
-| 47 | [ארי שמאי](http://twitter.com/search?q=%d7%90%d7%a8%d7%99+%d7%a9%d7%9e%d7%90%d7%99) | N/A |
-| 48 | [סגן ראש](http://twitter.com/search?q=%d7%a1%d7%92%d7%9f+%d7%a8%d7%90%d7%a9) | N/A |
-| 49 | [מכשפות נגד](http://twitter.com/search?q=%d7%9e%d7%9b%d7%a9%d7%a4%d7%95%d7%aa+%d7%a0%d7%92%d7%93) | N/A |
-| 50 | [זכות יסוד](http://twitter.com/search?q=%d7%96%d7%9b%d7%95%d7%aa+%d7%99%d7%a1%d7%95%d7%93) | N/A |
+| 47 | [יום שישי](http://twitter.com/search?q=%d7%99%d7%95%d7%9d+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
+| 48 | [מלאך חבלה](http://twitter.com/search?q=%d7%9e%d7%9c%d7%90%d7%9a+%d7%97%d7%91%d7%9c%d7%94) | N/A |
+| 49 | [ארי שמאי](http://twitter.com/search?q=%d7%90%d7%a8%d7%99+%d7%a9%d7%9e%d7%90%d7%99) | N/A |
+| 50 | [סגן ראש](http://twitter.com/search?q=%d7%a1%d7%92%d7%9f+%d7%a8%d7%90%d7%a9) | N/A |
 
 
 

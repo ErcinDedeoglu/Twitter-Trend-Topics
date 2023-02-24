@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-02-24 19:16:34 UTC`
+📆 Last Updated: `2023-02-24 20:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -33,29 +33,29 @@ This is top 50 for Singapore
 | 16 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
 | 17 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 18 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 19 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 20 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 21 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 22 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 23 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 24 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 19 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 20 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 21 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 22 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 23 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
+| 24 | [daeul](http://twitter.com/search?q=daeul) | N/A |
 | 25 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 26 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 26 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 27 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 28 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 29 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
-| 30 | [joonie](http://twitter.com/search?q=joonie) | N/A |
-| 31 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 32 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 33 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 34 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 35 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 36 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 37 | [suga](http://twitter.com/search?q=suga) | N/A |
-| 38 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 39 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 40 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 41 | [taeil](http://twitter.com/search?q=taeil) | N/A |
+| 28 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
+| 29 | [joonie](http://twitter.com/search?q=joonie) | N/A |
+| 30 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 31 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 32 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 33 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 34 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 35 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 36 | [suga](http://twitter.com/search?q=suga) | N/A |
+| 37 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 38 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 39 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 40 | [taeil](http://twitter.com/search?q=taeil) | N/A |
+| 41 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
 | 42 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 43 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
 | 44 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
@@ -63,8 +63,8 @@ This is top 50 for Singapore
 | 46 | [MILAN FASHION WEEK KANAWUT](http://twitter.com/search?q=MILAN+FASHION+WEEK+KANAWUT) | N/A |
 | 47 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
 | 48 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 49 | [Alan](http://twitter.com/search?q=Alan) | N/A |
-| 50 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 49 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 50 | [Binance](http://twitter.com/search?q=Binance) | N/A |
 
 
 

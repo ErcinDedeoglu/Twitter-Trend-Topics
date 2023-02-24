@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Newcastle
 
-📆 Last Updated: `2023-02-24 19:15:41 UTC`
+📆 Last Updated: `2023-02-24 20:15:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Raul](http://twitter.com/search?q=Raul) | N/A |
-| 2 | [#TwinPeaksDay](http://twitter.com/search?q=%23TwinPeaksDay) | N/A |
-| 3 | [#TippingPoint](http://twitter.com/search?q=%23TippingPoint) | N/A |
-| 4 | [Turnips](http://twitter.com/search?q=Turnips) | N/A |
-| 5 | [#SBSEvent2023](http://twitter.com/search?q=%23SBSEvent2023) | N/A |
-| 6 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 7 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
-| 8 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 9 | [Bernard Ingham](http://twitter.com/search?q=Bernard+Ingham) | N/A |
-| 10 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 11 | [Mhairi](http://twitter.com/search?q=Mhairi) | N/A |
-| 12 | [Steve Allen](http://twitter.com/search?q=Steve+Allen) | N/A |
-| 13 | [Hummel](http://twitter.com/search?q=Hummel) | N/A |
-| 14 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 15 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
-| 16 | [Alex Neil](http://twitter.com/search?q=Alex+Neil) | N/A |
-| 17 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
-| 18 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 19 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 20 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
-| 21 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
-| 22 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 23 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
-| 24 | [Qatar Open](http://twitter.com/search?q=Qatar+Open) | N/A |
-| 25 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 26 | [Global Ocean Treaty](http://twitter.com/search?q=Global+Ocean+Treaty) | N/A |
-| 27 | [Margaret Thatcher](http://twitter.com/search?q=Margaret+Thatcher) | N/A |
-| 28 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
-| 29 | [Flying Scotsman](http://twitter.com/search?q=Flying+Scotsman) | N/A |
-| 30 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
-| 31 | [Puffin](http://twitter.com/search?q=Puffin) | N/A |
-| 32 | [Swede](http://twitter.com/search?q=Swede) | N/A |
-| 33 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 34 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
-| 35 | [Littlejohn](http://twitter.com/search?q=Littlejohn) | N/A |
-| 36 | [Rodney](http://twitter.com/search?q=Rodney) | N/A |
-| 37 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 38 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
-| 39 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 40 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 41 | [Streeting](http://twitter.com/search?q=Streeting) | N/A |
-| 42 | [Venus and Jupiter](http://twitter.com/search?q=Venus+and+Jupiter) | N/A |
-| 43 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
-| 44 | [Tatchell](http://twitter.com/search?q=Tatchell) | N/A |
-| 45 | [Lisbon](http://twitter.com/search?q=Lisbon) | N/A |
-| 46 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 47 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 48 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 49 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 1 | [Bosh](http://twitter.com/search?q=Bosh) | N/A |
+| 2 | [Mitrovic](http://twitter.com/search?q=Mitrovic) | Mitrovic is a surname of Slavic origin. It is derived from the personal name Mitro, which is derived from the Old Slavic word "mitra" meaning "peace". In English, it can be translated to mean "peaceful ruler". |
+| 3 | [#TwinPeaksDay](http://twitter.com/search?q=%23TwinPeaksDay) | N/A |
+| 4 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 5 | [Puffin](http://twitter.com/search?q=Puffin) | N/A |
+| 6 | [#IsItOk](http://twitter.com/search?q=%23IsItOk) | N/A |
+| 7 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 8 | [#totp](http://twitter.com/search?q=%23totp) | #TOTP stands for Time-based One-Time Password. It is a type of two-factor authentication that requires users to enter a unique code generated by an app or device in order to access an account or service. This code changes periodically, usually every 30 seconds, making it difficult for hackers to gain access. |
+| 9 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 10 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
+| 11 | [Bernard Ingham](http://twitter.com/search?q=Bernard+Ingham) | N/A |
+| 12 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 13 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
+| 14 | [Little Angels](http://twitter.com/search?q=Little+Angels) | N/A |
+| 15 | [Steve Allen](http://twitter.com/search?q=Steve+Allen) | N/A |
+| 16 | [Popmaster](http://twitter.com/search?q=Popmaster) | Popmaster is a British radio quiz show that has been running since the 1980s. It is broadcast on BBC Radio 2 and hosted by Ken Bruce. The show involves contestants answering questions about popular music, with the winner receiving a prize. The term "Popmaster" is used to refer to the host of the show, as well as to describe the game itself. |
+| 17 | [Mhairi](http://twitter.com/search?q=Mhairi) | N/A |
+| 18 | [Raul](http://twitter.com/search?q=Raul) | N/A |
+| 19 | [Hummel](http://twitter.com/search?q=Hummel) | N/A |
+| 20 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 21 | [Cunha](http://twitter.com/search?q=Cunha) | N/A |
+| 22 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
+| 23 | [Joni Mitchell](http://twitter.com/search?q=Joni+Mitchell) | N/A |
+| 24 | [Neil Young](http://twitter.com/search?q=Neil+Young) | N/A |
+| 25 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
+| 26 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 27 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 28 | [Steve Wright](http://twitter.com/search?q=Steve+Wright) | Steve Wright is a British radio presenter and comedian. He is best known for his long-running BBC Radio 2 show, Steve Wright in the Afternoon. The show features music, comedy sketches, and interviews with celebrity guests. The phrase "Steve Wright" has come to mean a light-hearted and entertaining radio show. |
+| 29 | [Bee Gees](http://twitter.com/search?q=Bee+Gees) | N/A |
+| 30 | [Fulham v Wolves](http://twitter.com/search?q=Fulham+v+Wolves) | N/A |
+| 31 | [Pet Shop Boys](http://twitter.com/search?q=Pet+Shop+Boys) | N/A |
+| 32 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
+| 33 | [Alex Neil](http://twitter.com/search?q=Alex+Neil) | N/A |
+| 34 | [Margaret Thatcher](http://twitter.com/search?q=Margaret+Thatcher) | N/A |
+| 35 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
+| 36 | [Global Ocean Treaty](http://twitter.com/search?q=Global+Ocean+Treaty) | N/A |
+| 37 | [Qatar Open](http://twitter.com/search?q=Qatar+Open) | N/A |
+| 38 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 39 | [Flying Scotsman](http://twitter.com/search?q=Flying+Scotsman) | N/A |
+| 40 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 41 | [Scott Mills](http://twitter.com/search?q=Scott+Mills) | N/A |
+| 42 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
+| 43 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 44 | [Twickenham](http://twitter.com/search?q=Twickenham) | Twickenham is a suburban area of London, England. It is best known as the home of the Twickenham Stadium, which is the largest dedicated rugby union stadium in the world. The name Twickenham comes from the Old English words 'twicce' and 'ham', meaning 'double enclosure'. |
+| 45 | [Swede](http://twitter.com/search?q=Swede) | N/A |
+| 46 | [Littlejohn](http://twitter.com/search?q=Littlejohn) | N/A |
+| 47 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
+| 48 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 49 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
 
 
 

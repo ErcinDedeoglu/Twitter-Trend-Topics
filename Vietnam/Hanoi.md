@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-24 19:16:07 UTC`
+📆 Last Updated: `2023-02-24 20:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,7 +29,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 12 | [watch smcu ep3 now](http://twitter.com/search?q=watch+smcu+ep3+now) | N/A |
 | 13 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
 | 14 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
-| 15 | [kiana](http://twitter.com/search?q=kiana) | N/A |
+| 15 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
 | 16 | [mnet](http://twitter.com/search?q=mnet) | N/A |
 | 17 | [Apple](http://twitter.com/search?q=Apple) | N/A |
 | 18 | [CHARLOTTE 2nd MV BROTHER](http://twitter.com/search?q=CHARLOTTE+2nd+MV+BROTHER) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 23 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
 | 24 | [Meow](http://twitter.com/search?q=Meow) | N/A |
 | 25 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 26 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 26 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
 | 27 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 28 | [Đông](http://twitter.com/search?q=%c4%90%c3%b4ng) | N/A |
 | 29 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
@@ -51,18 +51,18 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 34 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 35 | [Matic](http://twitter.com/search?q=Matic) | N/A |
 | 36 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 37 | [Hưng](http://twitter.com/search?q=H%c6%b0ng) | N/A |
-| 38 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
-| 39 | [Wichapas](http://twitter.com/search?q=Wichapas) | N/A |
-| 40 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 41 | [Mint](http://twitter.com/search?q=Mint) | N/A |
-| 42 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
+| 37 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 38 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
+| 39 | [Phải](http://twitter.com/search?q=Ph%e1%ba%a3i) | N/A |
+| 40 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
+| 41 | [dapps](http://twitter.com/search?q=dapps) | N/A |
+| 42 | [Mint](http://twitter.com/search?q=Mint) | N/A |
 | 43 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
 | 44 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 45 | [Thích](http://twitter.com/search?q=Th%c3%adch) | N/A |
-| 46 | [dang hong hai](http://twitter.com/search?q=dang+hong+hai) | N/A |
-| 47 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 48 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 45 | [dang hong hai](http://twitter.com/search?q=dang+hong+hai) | N/A |
+| 46 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
+| 47 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 48 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
 
 
 

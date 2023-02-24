@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Delhi
 
-📆 Last Updated: `2023-02-24 19:16:27 UTC`
+📆 Last Updated: `2023-02-24 20:16:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [स्टैंडिंग कमेटी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%88%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%82%e0%a4%97+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
 | 2 | [#HoodApp](http://twitter.com/search?q=%23HoodApp) | N/A |
-| 3 | [Fav Music Director](http://twitter.com/search?q=Fav+Music+Director) | N/A |
+| 3 | [Fav IPL Team](http://twitter.com/search?q=Fav+IPL+Team) | N/A |
 | 4 | [Fav Director](http://twitter.com/search?q=Fav+Director) | N/A |
-| 5 | [Fav IPL Team](http://twitter.com/search?q=Fav+IPL+Team) | N/A |
-| 6 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 5 | [Fav Music Director](http://twitter.com/search?q=Fav+Music+Director) | N/A |
+| 6 | [Fav Actor](http://twitter.com/search?q=Fav+Actor) | N/A |
 | 7 | [Fav Actress](http://twitter.com/search?q=Fav+Actress) | N/A |
-| 8 | [Happy Bday Urvashi Rautela](http://twitter.com/search?q=Happy+Bday+Urvashi+Rautela) | N/A |
-| 9 | [Fav Actor](http://twitter.com/search?q=Fav+Actor) | N/A |
-| 10 | [Fav Cricketer](http://twitter.com/search?q=Fav+Cricketer) | N/A |
+| 8 | [Fav Cricketer](http://twitter.com/search?q=Fav+Cricketer) | N/A |
+| 9 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 10 | [Happy Bday Urvashi Rautela](http://twitter.com/search?q=Happy+Bday+Urvashi+Rautela) | N/A |
 | 11 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 12 | [#ENGvSA](http://twitter.com/search?q=%23ENGvSA) | N/A |
-| 13 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 14 | [#mcddelhi](http://twitter.com/search?q=%23mcddelhi) | N/A |
-| 15 | [#PunjabBachao](http://twitter.com/search?q=%23PunjabBachao) | N/A |
-| 16 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
-| 17 | [HAPPY BIRTHDAY ALY GONI](http://twitter.com/search?q=HAPPY+BIRTHDAY+ALY+GONI) | N/A |
-| 18 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 12 | [ALY GONI](http://twitter.com/search?q=ALY+GONI) | N/A |
+| 13 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 14 | [#ENGvSA](http://twitter.com/search?q=%23ENGvSA) | N/A |
+| 15 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
+| 16 | [#PunjabBachao](http://twitter.com/search?q=%23PunjabBachao) | N/A |
+| 17 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 18 | [#mcddelhi](http://twitter.com/search?q=%23mcddelhi) | N/A |
 | 19 | [With Your](http://twitter.com/search?q=With+Your) | N/A |
 | 20 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
 | 21 | [Atishi](http://twitter.com/search?q=Atishi) | N/A |
-| 22 | [Ismail](http://twitter.com/search?q=Ismail) | N/A |
-| 23 | [पंजाब भारत](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
-| 24 | [GANGUBAI ZINDABAD](http://twitter.com/search?q=GANGUBAI+ZINDABAD) | N/A |
+| 22 | [पंजाब भारत](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%ad%e0%a4%be%e0%a4%b0%e0%a4%a4) | N/A |
+| 23 | [GANGUBAI ZINDABAD](http://twitter.com/search?q=GANGUBAI+ZINDABAD) | N/A |
+| 24 | [Akshay](http://twitter.com/search?q=Akshay) | N/A |
 | 25 | [Tazmin Brits](http://twitter.com/search?q=Tazmin+Brits) | N/A |
 | 26 | [Guaranteed](http://twitter.com/search?q=Guaranteed) | N/A |
 | 27 | [अमृत पाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 28 | [Shark Tank](http://twitter.com/search?q=Shark+Tank) | N/A |
-| 29 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 30 | [प्रमोद प्रेमी यादव](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%8b%e0%a4%a6+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%ae%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 31 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 32 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 33 | [Daniel Sloss](http://twitter.com/search?q=Daniel+Sloss) | N/A |
-| 34 | [Selfiee](http://twitter.com/search?q=Selfiee) | N/A |
-| 35 | [Fav MD](http://twitter.com/search?q=Fav+MD) | N/A |
-| 36 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 37 | [Akki](http://twitter.com/search?q=Akki) | N/A |
+| 28 | [Akki](http://twitter.com/search?q=Akki) | N/A |
+| 29 | [Shark Tank](http://twitter.com/search?q=Shark+Tank) | N/A |
+| 30 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
+| 31 | [प्रमोद प्रेमी यादव](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%8b%e0%a4%a6+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%ae%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 32 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 33 | [selfiee](http://twitter.com/search?q=selfiee) | N/A |
+| 34 | [Fav MD](http://twitter.com/search?q=Fav+MD) | N/A |
+| 35 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 36 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 37 | [Panjab](http://twitter.com/search?q=Panjab) | N/A |
 | 38 | [Shillong](http://twitter.com/search?q=Shillong) | N/A |
-| 39 | [Amritpal](http://twitter.com/search?q=Amritpal) | N/A |
-| 40 | [#Aurangabad](http://twitter.com/search?q=%23Aurangabad) | N/A |
-| 41 | [#ENGWvSAW](http://twitter.com/search?q=%23ENGWvSAW) | N/A |
-| 42 | [#1YearForBheemlaNayak](http://twitter.com/search?q=%231YearForBheemlaNayak) | N/A |
+| 39 | [#Aurangabad](http://twitter.com/search?q=%23Aurangabad) | N/A |
+| 40 | [#ENGWvSAW](http://twitter.com/search?q=%23ENGWvSAW) | N/A |
+| 41 | [#1YearForBheemlaNayak](http://twitter.com/search?q=%231YearForBheemlaNayak) | N/A |
+| 42 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
 | 43 | [#UmeshPal](http://twitter.com/search?q=%23UmeshPal) | N/A |
-| 44 | [#शिक्षा_मंत्री_इस्तीफा_दो](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be_%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80_%e0%a4%87%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%80%e0%a4%ab%e0%a4%be_%e0%a4%a6%e0%a5%8b) | N/A |
-| 45 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
+| 44 | [#FATF](http://twitter.com/search?q=%23FATF) | N/A |
+| 45 | [#शिक्षा_मंत्री_इस्तीफा_दो](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be_%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80_%e0%a4%87%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%80%e0%a4%ab%e0%a4%be_%e0%a4%a6%e0%a5%8b) | N/A |
 | 46 | [#मोनू_मानेसर_को_गिरफ्तार_करो](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82_%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0_%e0%a4%95%e0%a5%8b_%e0%a4%97%e0%a4%bf%e0%a4%b0%e0%a4%ab%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%b0_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
-| 47 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 48 | [#FATF](http://twitter.com/search?q=%23FATF) | N/A |
-| 49 | [#MCDstandingcommittee](http://twitter.com/search?q=%23MCDstandingcommittee) | N/A |
-| 50 | [#AapKeGunde](http://twitter.com/search?q=%23AapKeGunde) | N/A |
+| 47 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
+| 48 | [#प्रयागराज](http://twitter.com/search?q=%23%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%af%e0%a4%be%e0%a4%97%e0%a4%b0%e0%a4%be%e0%a4%9c) | N/A |
+| 49 | [#RussiaInvadedUkraine](http://twitter.com/search?q=%23RussiaInvadedUkraine) | N/A |
+| 50 | [#MCDstandingcommittee](http://twitter.com/search?q=%23MCDstandingcommittee) | N/A |
 
 
 
