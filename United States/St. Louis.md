@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For St. Louis
 
-📆 Last Updated: `2023-02-24 14:16:48 UTC`
+📆 Last Updated: `2023-02-24 15:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [United States](</United States>)
 | 3 | [#FreeTheChips](http://twitter.com/search?q=%23FreeTheChips) | N/A |
 | 4 | [#entry](http://twitter.com/search?q=%23entry) | N/A |
 | 5 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 6 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 7 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 8 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
+| 6 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
+| 7 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 8 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
 | 9 | [Tink](http://twitter.com/search?q=Tink) | N/A |
-| 10 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 11 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 12 | [Core PCE](http://twitter.com/search?q=Core+PCE) | N/A |
-| 13 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 14 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 15 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
-| 16 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 17 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
-| 18 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 19 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 20 | [Pete Carroll](http://twitter.com/search?q=Pete+Carroll) | Pete Carroll is the head coach of the Seattle Seahawks of the National Football League (NFL). He is known for his innovative approach to coaching and his ability to motivate players. The phrase "Pete Carroll" has come to mean a leader who is willing to take risks and push boundaries in order to achieve success. |
+| 10 | [Kermit Davis](http://twitter.com/search?q=Kermit+Davis) | N/A |
+| 11 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 12 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 13 | [Core PCE](http://twitter.com/search?q=Core+PCE) | N/A |
+| 14 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 15 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 16 | [Chris Beard](http://twitter.com/search?q=Chris+Beard) | Chris Beard is a slang term used to describe someone who is attractive, stylish, and well-groomed. It is derived from the phrase “clean-shaven” and is often used to describe men who have neatly trimmed facial hair. |
+| 17 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 18 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
+| 19 | [Win Case](http://twitter.com/search?q=Win+Case) | N/A |
+| 20 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 21 | [Dan Quayle](http://twitter.com/search?q=Dan+Quayle) | N/A |
-| 22 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 23 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 24 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
-| 25 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
-| 26 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 27 | [Chloe and Chris](http://twitter.com/search?q=Chloe+and+Chris) | N/A |
-| 28 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 29 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
-| 30 | [Yeat](http://twitter.com/search?q=Yeat) | N/A |
-| 31 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
-| 32 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 33 | [John Schneider](http://twitter.com/search?q=John+Schneider) | N/A |
-| 34 | [Strawberry](http://twitter.com/search?q=Strawberry) | N/A |
-| 35 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
-| 36 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 37 | [Attempted](http://twitter.com/search?q=Attempted) | N/A |
-| 38 | [The View](http://twitter.com/search?q=The+View) | N/A |
-| 39 | [Ice Age](http://twitter.com/search?q=Ice+Age) | N/A |
-| 40 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 41 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 42 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 43 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 44 | [Marianne Williamson](http://twitter.com/search?q=Marianne+Williamson) | N/A |
-| 45 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
-| 46 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 47 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 48 | [Berkeley](http://twitter.com/search?q=Berkeley) | N/A |
-| 49 | [Clip Studio Paint](http://twitter.com/search?q=Clip+Studio+Paint) | N/A |
-| 50 | [Stevie Nicks](http://twitter.com/search?q=Stevie+Nicks) | N/A |
+| 22 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 23 | [Marine](http://twitter.com/search?q=Marine) | N/A |
+| 24 | [Pete Carroll](http://twitter.com/search?q=Pete+Carroll) | Pete Carroll is the head coach of the Seattle Seahawks of the National Football League (NFL). He is known for his innovative approach to coaching and his ability to motivate players. The phrase "Pete Carroll" has come to mean a leader who is willing to take risks and push boundaries in order to achieve success. |
+| 25 | [Go Texan Day](http://twitter.com/search?q=Go+Texan+Day) | N/A |
+| 26 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
+| 27 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 28 | [Tropic Thunder](http://twitter.com/search?q=Tropic+Thunder) | N/A |
+| 29 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
+| 30 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 31 | [Jinny](http://twitter.com/search?q=Jinny) | N/A |
+| 32 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 33 | [Moes](http://twitter.com/search?q=Moes) | N/A |
+| 34 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
+| 35 | [Meltzer](http://twitter.com/search?q=Meltzer) | N/A |
+| 36 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
+| 37 | [Stevie Nicks](http://twitter.com/search?q=Stevie+Nicks) | N/A |
+| 38 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
+| 39 | [Chloe and Chris](http://twitter.com/search?q=Chloe+and+Chris) | N/A |
+| 40 | [Strawberry](http://twitter.com/search?q=Strawberry) | N/A |
+| 41 | [Yeat](http://twitter.com/search?q=Yeat) | N/A |
+| 42 | [Attempted](http://twitter.com/search?q=Attempted) | N/A |
+| 43 | [John Schneider](http://twitter.com/search?q=John+Schneider) | N/A |
+| 44 | [Ice Age](http://twitter.com/search?q=Ice+Age) | N/A |
+| 45 | [Clip Studio Paint](http://twitter.com/search?q=Clip+Studio+Paint) | N/A |
+| 46 | [Berkeley](http://twitter.com/search?q=Berkeley) | N/A |
+| 47 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
+| 48 | [Stephan](http://twitter.com/search?q=Stephan) | N/A |
+| 49 | [Rudy](http://twitter.com/search?q=Rudy) | N/A |
+| 50 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
 
 
 

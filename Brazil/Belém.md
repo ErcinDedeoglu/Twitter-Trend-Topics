@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belém
 
-📆 Last Updated: `2023-02-24 14:16:10 UTC`
+📆 Last Updated: `2023-02-24 15:15:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 2 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
-| 3 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 4 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 5 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
-| 6 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 7 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 8 | [Sobis](http://twitter.com/search?q=Sobis) | N/A |
-| 9 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 10 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 11 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 12 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 13 | [NCT Hollywood](http://twitter.com/search?q=NCT+Hollywood) | N/A |
-| 14 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 15 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 16 | [IPCA-15](http://twitter.com/search?q=IPCA-15) | N/A |
-| 17 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
-| 18 | [Load](http://twitter.com/search?q=Load) | N/A |
-| 19 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 20 | [Há 91](http://twitter.com/search?q=H%c3%a1+91) | N/A |
-| 21 | [#TAEHYUNGonJinnysKitchen](http://twitter.com/search?q=%23TAEHYUNGonJinnysKitchen) | N/A |
-| 22 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 23 | [#F1noBandSports](http://twitter.com/search?q=%23F1noBandSports) | N/A |
-| 24 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 25 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 26 | [San Junipero](http://twitter.com/search?q=San+Junipero) | N/A |
-| 27 | [NCT Tokyo](http://twitter.com/search?q=NCT+Tokyo) | N/A |
-| 28 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
-| 29 | [José Dirceu](http://twitter.com/search?q=Jos%c3%a9+Dirceu) | N/A |
-| 30 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 31 | [Fundão](http://twitter.com/search?q=Fund%c3%a3o) | N/A |
-| 32 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
-| 33 | [MAMATA NOS EUA](http://twitter.com/search?q=MAMATA+NOS+EUA) | N/A |
-| 34 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 35 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 36 | [Titi Muller](http://twitter.com/search?q=Titi+Muller) | N/A |
-| 37 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
-| 38 | [Zé Dirceu](http://twitter.com/search?q=Z%c3%a9+Dirceu) | N/A |
-| 39 | [Scalene](http://twitter.com/search?q=Scalene) | N/A |
-| 40 | [Tomás Bertoni](http://twitter.com/search?q=Tom%c3%a1s+Bertoni) | N/A |
-| 41 | [gracie abrams](http://twitter.com/search?q=gracie+abrams) | N/A |
-| 42 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 43 | [Carlinhos Maia](http://twitter.com/search?q=Carlinhos+Maia) | N/A |
-| 44 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 45 | [Garibaldi](http://twitter.com/search?q=Garibaldi) | N/A |
-| 46 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 47 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 2 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 3 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 4 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
+| 5 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 6 | [#Comfort10xMaisPerfume](http://twitter.com/search?q=%23Comfort10xMaisPerfume) | N/A |
+| 7 | [#stayselcaday](http://twitter.com/search?q=%23stayselcaday) | #StaySelcaDay is a hashtag used on social media to encourage people to take and share selfies (selcas) on a particular day. It is often used in conjunction with other hashtags such as #SelfieSunday or #SelfieSaturday. The hashtag encourages people to take and share selfies, usually with the intention of boosting self-confidence and promoting body positivity. |
+| 8 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 9 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 10 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 11 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 12 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 13 | [Sobis](http://twitter.com/search?q=Sobis) | N/A |
+| 14 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 15 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 16 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
+| 17 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 18 | [nct hollywood](http://twitter.com/search?q=nct+hollywood) | N/A |
+| 19 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 20 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
+| 21 | [José de Abreu](http://twitter.com/search?q=Jos%c3%a9+de+Abreu) | N/A |
+| 22 | [IPCA-15](http://twitter.com/search?q=IPCA-15) | N/A |
+| 23 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 24 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 25 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 26 | [Há 91](http://twitter.com/search?q=H%c3%a1+91) | N/A |
+| 27 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 28 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 29 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 30 | [Load](http://twitter.com/search?q=Load) | N/A |
+| 31 | [Voto Feminino](http://twitter.com/search?q=Voto+Feminino) | N/A |
+| 32 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 33 | [Fundão](http://twitter.com/search?q=Fund%c3%a3o) | N/A |
+| 34 | [nct tokyo](http://twitter.com/search?q=nct+tokyo) | N/A |
+| 35 | [San Junipero](http://twitter.com/search?q=San+Junipero) | N/A |
+| 36 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
+| 37 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 38 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
+| 39 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 40 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 41 | [dedal](http://twitter.com/search?q=dedal) | N/A |
+| 42 | [THIAGO SILVA](http://twitter.com/search?q=THIAGO+SILVA) | N/A |
+| 43 | [Zé Dirceu](http://twitter.com/search?q=Z%c3%a9+Dirceu) | N/A |
+| 44 | [gilberto gil](http://twitter.com/search?q=gilberto+gil) | N/A |
+| 45 | [MAMATA NOS EUA](http://twitter.com/search?q=MAMATA+NOS+EUA) | N/A |
+| 46 | [José Dirceu](http://twitter.com/search?q=Jos%c3%a9+Dirceu) | N/A |
+| 47 | [Carlinhos Maia](http://twitter.com/search?q=Carlinhos+Maia) | N/A |
 | 48 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
-| 49 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
-| 50 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 49 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 50 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 
 
 

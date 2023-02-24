@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New Zealand
 
-📆 Last Updated: `2023-02-24 14:16:55 UTC`
+📆 Last Updated: `2023-02-24 15:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,9 +15,9 @@ This is top 50 for New Zealand
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#cruvchi](http://twitter.com/search?q=%23cruvchi) | N/A |
-| 2 | [crusaders](http://twitter.com/search?q=crusaders) | N/A |
-| 3 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 1 | [#CRUvCHI](http://twitter.com/search?q=%23CRUvCHI) | N/A |
+| 2 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
+| 3 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
 | 4 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
 | 5 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
 | 6 | [#CCMvWEL](http://twitter.com/search?q=%23CCMvWEL) | N/A |
@@ -25,7 +25,7 @@ This is top 50 for New Zealand
 | 8 | [#NZLvENG](http://twitter.com/search?q=%23NZLvENG) | N/A |
 | 9 | [Mangawhai](http://twitter.com/search?q=Mangawhai) | N/A |
 | 10 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 11 | [census](http://twitter.com/search?q=census) | N/A |
+| 11 | [Census](http://twitter.com/search?q=Census) | N/A |
 | 12 | [Judith](http://twitter.com/search?q=Judith) | N/A |
 | 13 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 14 | [Floof](http://twitter.com/search?q=Floof) | N/A |
@@ -42,29 +42,29 @@ This is top 50 for New Zealand
 | 25 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 26 | [Soooo](http://twitter.com/search?q=Soooo) | N/A |
 | 27 | [Long Covid](http://twitter.com/search?q=Long+Covid) | N/A |
-| 28 | [tāmaki makaurau](http://twitter.com/search?q=t%c4%81maki+makaurau) | N/A |
-| 29 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 31 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 32 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
-| 33 | [Michael Wood](http://twitter.com/search?q=Michael+Wood) | N/A |
-| 34 | [fonterra](http://twitter.com/search?q=fonterra) | N/A |
-| 35 | [SIMEON](http://twitter.com/search?q=SIMEON) | N/A |
-| 36 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 37 | [freereadku amazon](http://twitter.com/search?q=freereadku+amazon) | N/A |
-| 38 | [Adrian Orr](http://twitter.com/search?q=Adrian+Orr) | N/A |
-| 39 | [the pm](http://twitter.com/search?q=the+pm) | N/A |
-| 40 | [west auckland](http://twitter.com/search?q=west+auckland) | N/A |
-| 41 | [ALL BLACKS](http://twitter.com/search?q=ALL+BLACKS) | N/A |
-| 42 | [don't come here now](http://twitter.com/search?q=don%27t+come+here+now) | N/A |
-| 43 | [Collins](http://twitter.com/search?q=Collins) | N/A |
-| 44 | [Craig](http://twitter.com/search?q=Craig) | N/A |
-| 45 | [Northland](http://twitter.com/search?q=Northland) | N/A |
-| 46 | [Dunno](http://twitter.com/search?q=Dunno) | N/A |
-| 47 | [Australians](http://twitter.com/search?q=Australians) | N/A |
-| 48 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 49 | [Substack](http://twitter.com/search?q=Substack) | N/A |
-| 50 | [Nats](http://twitter.com/search?q=Nats) | N/A |
+| 28 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
+| 29 | [tāmaki makaurau](http://twitter.com/search?q=t%c4%81maki+makaurau) | N/A |
+| 30 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 32 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
+| 33 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
+| 34 | [michael wood](http://twitter.com/search?q=michael+wood) | N/A |
+| 35 | [fonterra](http://twitter.com/search?q=fonterra) | N/A |
+| 36 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
+| 37 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 38 | [freereadku amazon](http://twitter.com/search?q=freereadku+amazon) | N/A |
+| 39 | [adrian orr](http://twitter.com/search?q=adrian+orr) | N/A |
+| 40 | [The PM](http://twitter.com/search?q=The+PM) | N/A |
+| 41 | [west auckland](http://twitter.com/search?q=west+auckland) | N/A |
+| 42 | [All Blacks](http://twitter.com/search?q=All+Blacks) | N/A |
+| 43 | [don't come here now](http://twitter.com/search?q=don%27t+come+here+now) | N/A |
+| 44 | [Collins](http://twitter.com/search?q=Collins) | N/A |
+| 45 | [Craig](http://twitter.com/search?q=Craig) | N/A |
+| 46 | [Northland](http://twitter.com/search?q=Northland) | N/A |
+| 47 | [Dunno](http://twitter.com/search?q=Dunno) | N/A |
+| 48 | [Australians](http://twitter.com/search?q=Australians) | N/A |
+| 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 50 | [Substack](http://twitter.com/search?q=Substack) | N/A |
 
 
 

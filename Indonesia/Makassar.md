@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Makassar
 
-📆 Last Updated: `2023-02-24 14:16:21 UTC`
+📆 Last Updated: `2023-02-24 15:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 2 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
-| 3 | [#EPICSalebrat11on](http://twitter.com/search?q=%23EPICSalebrat11on) | N/A |
-| 4 | [Agam](http://twitter.com/search?q=Agam) | N/A |
-| 5 | [#PuzzlePastiMatch](http://twitter.com/search?q=%23PuzzlePastiMatch) | N/A |
-| 6 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
-| 7 | [NCT Tokyo](http://twitter.com/search?q=NCT+Tokyo) | N/A |
+| 2 | [#stayselcaday](http://twitter.com/search?q=%23stayselcaday) | #StaySelcaDay is a hashtag used on social media to encourage people to take and share selfies (selcas) on a particular day. It is often used in conjunction with other hashtags such as #SelfieSunday or #SelfieSaturday. The hashtag encourages people to take and share selfies, usually with the intention of boosting self-confidence and promoting body positivity. |
+| 3 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
+| 4 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 5 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 6 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 7 | [RECORD MAKER YEJI](http://twitter.com/search?q=RECORD+MAKER+YEJI) | N/A |
 | 8 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
 | 9 | [HAECHAN DIN COTY](http://twitter.com/search?q=HAECHAN+DIN+COTY) | N/A |
-| 10 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 11 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
-| 12 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 13 | [Ibnu](http://twitter.com/search?q=Ibnu) | N/A |
-| 14 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
-| 15 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 16 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
-| 17 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 10 | [nct tokyo](http://twitter.com/search?q=nct+tokyo) | N/A |
+| 11 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
+| 12 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 13 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
+| 14 | [Ibnu](http://twitter.com/search?q=Ibnu) | N/A |
+| 15 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 16 | [GERD](http://twitter.com/search?q=GERD) | N/A |
+| 17 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
 | 18 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 19 | [BEST ACTRESS SUZY](http://twitter.com/search?q=BEST+ACTRESS+SUZY) | N/A |
-| 20 | [BulanLiterasiKripto](http://twitter.com/search?q=BulanLiterasiKripto) | N/A |
-| 21 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
-| 22 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
-| 23 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 24 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 25 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 26 | [GERD](http://twitter.com/search?q=GERD) | N/A |
+| 19 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
+| 20 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 21 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
+| 22 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 23 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 24 | [spanyol](http://twitter.com/search?q=spanyol) | N/A |
+| 25 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 26 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
 | 27 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 28 | [Sidang](http://twitter.com/search?q=Sidang) | N/A |
-| 29 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
-| 30 | [Tarakanita](http://twitter.com/search?q=Tarakanita) | N/A |
-| 31 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
-| 32 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
-| 33 | [Chanyeol](http://twitter.com/search?q=Chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 34 | [Hawa](http://twitter.com/search?q=Hawa) | N/A |
-| 35 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
-| 36 | [Traveloka](http://twitter.com/search?q=Traveloka) | N/A |
-| 37 | [Kelas 8](http://twitter.com/search?q=Kelas+8) | N/A |
-| 38 | [Fajar](http://twitter.com/search?q=Fajar) | Fajar is an Arabic word meaning dawn or sunrise. It is also used to refer to the first prayer of the day in Islam, which is performed just before sunrise. |
-| 39 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
-| 40 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
-| 41 | [Sehun](http://twitter.com/search?q=Sehun) | N/A |
-| 42 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 43 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
-| 44 | [Gitasav](http://twitter.com/search?q=Gitasav) | N/A |
-| 45 | [Wanna One](http://twitter.com/search?q=Wanna+One) | N/A |
-| 46 | [#GalaxyA14](http://twitter.com/search?q=%23GalaxyA14) | N/A |
-| 47 | [#NewBrightening](http://twitter.com/search?q=%23NewBrightening) | N/A |
-| 48 | [#PilihanPastiAwesome](http://twitter.com/search?q=%23PilihanPastiAwesome) | N/A |
-| 49 | [#TranexamicSerum](http://twitter.com/search?q=%23TranexamicSerum) | N/A |
+| 28 | [Tarakanita](http://twitter.com/search?q=Tarakanita) | N/A |
+| 29 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
+| 30 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 31 | [Hawa](http://twitter.com/search?q=Hawa) | N/A |
+| 32 | [Putusin](http://twitter.com/search?q=Putusin) | N/A |
+| 33 | [Traveloka](http://twitter.com/search?q=Traveloka) | N/A |
+| 34 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 35 | [Fajar](http://twitter.com/search?q=Fajar) | Fajar is an Arabic word meaning dawn or sunrise. It is also used to refer to the first prayer of the day in Islam, which is performed just before sunrise. |
+| 36 | [Kelas 8](http://twitter.com/search?q=Kelas+8) | N/A |
+| 37 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 38 | [sehun](http://twitter.com/search?q=sehun) | Sehun is a Korean given name, derived from the Chinese characters for "victory" and "talent". It is usually given to boys and can also be written as Se-hun or Sehoon. |
+| 39 | [#StayBeautiful](http://twitter.com/search?q=%23StayBeautiful) | N/A |
+| 40 | [#OhMyHaewonDay](http://twitter.com/search?q=%23OhMyHaewonDay) | N/A |
+| 41 | [#ROCKY](http://twitter.com/search?q=%23ROCKY) | N/A |
+| 42 | [#GiselleDeserveBetter](http://twitter.com/search?q=%23GiselleDeserveBetter) | N/A |
+| 43 | [#LeeKnow](http://twitter.com/search?q=%23LeeKnow) | N/A |
+| 44 | [#RespectGiselle](http://twitter.com/search?q=%23RespectGiselle) | N/A |
+| 45 | [#MySchoolPresidentEP12](http://twitter.com/search?q=%23MySchoolPresidentEP12) | N/A |
+| 46 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
+| 47 | [#SuaraMantraTerkutuk](http://twitter.com/search?q=%23SuaraMantraTerkutuk) | N/A |
+| 48 | [#AOTMYEJI_50MVIEWS](http://twitter.com/search?q=%23AOTMYEJI_50MVIEWS) | N/A |
+| 49 | [#MakinManTAB](http://twitter.com/search?q=%23MakinManTAB) | N/A |
 
 
 
