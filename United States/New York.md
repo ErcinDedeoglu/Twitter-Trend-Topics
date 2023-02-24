@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-24 02:40:33 UTC`
+📆 Last Updated: `2023-02-24 03:19:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
-| 2 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 3 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
-| 4 | [#StateOfPlay](http://twitter.com/search?q=%23StateOfPlay) | N/A |
-| 5 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 6 | [#Jeopardy](http://twitter.com/search?q=%23Jeopardy) | N/A |
-| 7 | [Lily](http://twitter.com/search?q=Lily) | N/A |
-| 8 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
-| 9 | [Miller](http://twitter.com/search?q=Miller) | N/A |
-| 10 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 11 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 12 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 13 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 14 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 15 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 16 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 17 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
-| 18 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 19 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 20 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 21 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 22 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 23 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 24 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 25 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 26 | [Jayne Mansfield](http://twitter.com/search?q=Jayne+Mansfield) | N/A |
-| 27 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 28 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
-| 29 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
-| 30 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 31 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 32 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 33 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
-| 34 | [Fire Hextall](http://twitter.com/search?q=Fire+Hextall) | N/A |
-| 35 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 36 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 37 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 38 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
-| 39 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
+| 1 | [Tommy Dangles](http://twitter.com/search?q=Tommy+Dangles) | N/A |
+| 2 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 3 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 4 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
+| 5 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 6 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 7 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 8 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 9 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 10 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
+| 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 12 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 13 | [Miller](http://twitter.com/search?q=Miller) | N/A |
+| 14 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 15 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 16 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 17 | [Murdaugh](http://twitter.com/search?q=Murdaugh) | N/A |
+| 18 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 19 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 21 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 22 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 23 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 24 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 25 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 26 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 27 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 28 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 29 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
+| 30 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
+| 31 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 32 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 33 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 34 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 35 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 36 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 37 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 38 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
+| 39 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
 | 40 | [Cernak](http://twitter.com/search?q=Cernak) | N/A |
-| 41 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 42 | [Sam Hauser](http://twitter.com/search?q=Sam+Hauser) | N/A |
-| 43 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
-| 44 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
-| 45 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 46 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 47 | [Mortal Kombat 12](http://twitter.com/search?q=Mortal+Kombat+12) | N/A |
-| 48 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
-| 49 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
-| 50 | [Reggie Jackson](http://twitter.com/search?q=Reggie+Jackson) | N/A |
+| 41 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 42 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 43 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
+| 44 | [Jayne Mansfield](http://twitter.com/search?q=Jayne+Mansfield) | N/A |
+| 45 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 46 | [Okposo](http://twitter.com/search?q=Okposo) | N/A |
+| 47 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 48 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
+| 49 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 50 | [Morant](http://twitter.com/search?q=Morant) | N/A |
 
 
 

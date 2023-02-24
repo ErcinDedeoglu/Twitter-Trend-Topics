@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-24 02:39:36 UTC`
+📆 Last Updated: `2023-02-24 03:18:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,56 +20,56 @@ This is top 50
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 2 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
-| 3 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 4 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 5 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 6 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 7 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
-| 8 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
-| 9 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 10 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 11 | [#RBDSHEA](http://twitter.com/search?q=%23RBDSHEA) | N/A |
-| 12 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
-| 13 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 14 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 15 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 16 | [#ZeeNuNew안녕D1](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D1) | N/A |
-| 17 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
-| 18 | [Xtina](http://twitter.com/search?q=Xtina) | N/A |
-| 19 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 20 | [Trem](http://twitter.com/search?q=Trem) | N/A |
-| 21 | [Vick](http://twitter.com/search?q=Vick) | N/A |
-| 22 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 23 | [オリーヴァ](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%bc%e3%83%b4%e3%82%a1) | N/A |
-| 24 | [Copano](http://twitter.com/search?q=Copano) | N/A |
-| 25 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 26 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 27 | [Cowboy](http://twitter.com/search?q=Cowboy) | Cowboy is a term used to describe a person who works on a ranch, typically in the western United States. Cowboys are usually associated with the American Old West and are known for their skills in horsemanship, cattle herding, and roping. The term can also be used to describe someone who lives an adventurous lifestyle or is a fan of Western culture. |
-| 28 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 29 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 30 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 31 | [キャミィ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%9f%e3%82%a3) | N/A |
-| 32 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 33 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 34 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 35 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 36 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 37 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 38 | [最強ピカチュウ](http://twitter.com/search?q=%e6%9c%80%e5%bc%b7%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
-| 39 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 40 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 41 | [Erick Marcus](http://twitter.com/search?q=Erick+Marcus) | Erick Marcus is a name, not a phrase or an expression. It is of German origin and means "eternal ruler". |
-| 42 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
-| 43 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 44 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
-| 45 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 46 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 47 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 48 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
-| 49 | [Lady Marmalade](http://twitter.com/search?q=Lady+Marmalade) | N/A |
-| 50 | [ラランテス](http://twitter.com/search?q=%e3%83%a9%e3%83%a9%e3%83%b3%e3%83%86%e3%82%b9) | N/A |
+| 1 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
+| 2 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 3 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 4 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
+| 5 | [#VINA2023](http://twitter.com/search?q=%23VINA2023) | N/A |
+| 6 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
+| 7 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 8 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 9 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
+| 10 | [Copano](http://twitter.com/search?q=Copano) | N/A |
+| 11 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 12 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
+| 13 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 14 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 15 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 16 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 17 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
+| 18 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 19 | [#RedeBBB](http://twitter.com/search?q=%23RedeBBB) | #RedeBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to share opinions, news, and updates about the show. In English, #RedeBBB translates to "BBB Network". |
+| 20 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 21 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 22 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 23 | [Bruna](http://twitter.com/search?q=Bruna) | Bruna is a Portuguese word meaning "brown". It is often used to describe someone or something that has a brown color. |
+| 24 | [Xtina](http://twitter.com/search?q=Xtina) | N/A |
+| 25 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
+| 26 | [dr fred](http://twitter.com/search?q=dr+fred) | "Dr Fred" is a nickname for Dr. Frederick Banting, a Canadian medical scientist who was the co-discoverer of insulin. He is credited with saving the lives of millions of people with diabetes. The nickname "Dr Fred" is used to refer to him in a friendly and informal way. |
+| 27 | [オリーヴァ](http://twitter.com/search?q=%e3%82%aa%e3%83%aa%e3%83%bc%e3%83%b4%e3%82%a1) | N/A |
+| 28 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 29 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
+| 30 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
+| 31 | [Fred Nicácio](http://twitter.com/search?q=Fred+Nic%c3%a1cio) | Fred Nicácio is a Brazilian expression that is used to describe someone who is very generous and kind. It literally translates to "generous Fred" in English. |
+| 32 | [最強ピカチュウ](http://twitter.com/search?q=%e6%9c%80%e5%bc%b7%e3%83%94%e3%82%ab%e3%83%81%e3%83%a5%e3%82%a6) | N/A |
+| 33 | [Trem](http://twitter.com/search?q=Trem) | N/A |
+| 34 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 35 | [限定アクセス](http://twitter.com/search?q=%e9%99%90%e5%ae%9a%e3%82%a2%e3%82%af%e3%82%bb%e3%82%b9) | N/A |
+| 36 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 37 | [キャミィ](http://twitter.com/search?q=%e3%82%ad%e3%83%a3%e3%83%9f%e3%82%a3) | N/A |
+| 38 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 39 | [Vick](http://twitter.com/search?q=Vick) | N/A |
+| 40 | [ラランテス](http://twitter.com/search?q=%e3%83%a9%e3%83%a9%e3%83%b3%e3%83%86%e3%82%b9) | N/A |
+| 41 | [Lexa](http://twitter.com/search?q=Lexa) | Lexa is a female given name of Greek origin, derived from the Greek word "lexis" meaning "word". It is also a variant of the name Alexandra. |
+| 42 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 43 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 44 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 45 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 46 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 47 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
+| 48 | [Sarinha](http://twitter.com/search?q=Sarinha) | N/A |
+| 49 | [JOGA Y JOGA](http://twitter.com/search?q=JOGA+Y+JOGA) | N/A |
+| 50 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
 
 
 

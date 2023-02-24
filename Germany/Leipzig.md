@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leipzig
 
-📆 Last Updated: `2023-02-24 02:39:57 UTC`
+📆 Last Updated: `2023-02-24 03:18:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,45 +15,45 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 2 | [#fcuaja](http://twitter.com/search?q=%23fcuaja) | N/A |
 | 3 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
 | 4 | [#Lenssen](http://twitter.com/search?q=%23Lenssen) | N/A |
 | 5 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
 | 6 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 7 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 8 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 9 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 10 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 11 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
-| 12 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 13 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 14 | [Pelz](http://twitter.com/search?q=Pelz) | N/A |
-| 15 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 16 | [Gisela](http://twitter.com/search?q=Gisela) | N/A |
-| 17 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
-| 18 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 19 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 20 | [THE ONE AND ONLY SUPERCORP](http://twitter.com/search?q=THE+ONE+AND+ONLY+SUPERCORP) | N/A |
-| 21 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 22 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
-| 23 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
-| 24 | [Freitod](http://twitter.com/search?q=Freitod) | N/A |
-| 25 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 26 | [Henning](http://twitter.com/search?q=Henning) | N/A |
-| 27 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
-| 28 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 29 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 30 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 31 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 32 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 33 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
-| 34 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 35 | [finanzbeamtin](http://twitter.com/search?q=finanzbeamtin) | N/A |
+| 7 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 8 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 9 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 10 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 11 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 12 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 13 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 14 | [Gisela](http://twitter.com/search?q=Gisela) | N/A |
+| 15 | [Pelz](http://twitter.com/search?q=Pelz) | N/A |
+| 16 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
+| 17 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 18 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 19 | [THE ONE AND ONLY SUPERCORP](http://twitter.com/search?q=THE+ONE+AND+ONLY+SUPERCORP) | N/A |
+| 20 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
+| 21 | [Freitod](http://twitter.com/search?q=Freitod) | N/A |
+| 22 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
+| 23 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
+| 24 | [Henning](http://twitter.com/search?q=Henning) | N/A |
+| 25 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
+| 26 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 27 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 28 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 29 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 30 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 31 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
+| 32 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 33 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 34 | [finanzbeamtin](http://twitter.com/search?q=finanzbeamtin) | N/A |
+| 35 | [Lieblings Fußball Teams](http://twitter.com/search?q=Lieblings+Fu%c3%9fball+Teams) | N/A |
 | 36 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
-| 37 | [Lieblings Fußball Teams](http://twitter.com/search?q=Lieblings+Fu%c3%9fball+Teams) | N/A |
-| 38 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 39 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
+| 37 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 38 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
+| 39 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 40 | [Windräder](http://twitter.com/search?q=Windr%c3%a4der) | N/A |
 | 41 | [Stiftungen](http://twitter.com/search?q=Stiftungen) | N/A |
 | 42 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |

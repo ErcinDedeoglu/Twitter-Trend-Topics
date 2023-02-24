@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-24 02:40:03 UTC`
+📆 Last Updated: `2023-02-24 03:18:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 | ------- | ------------ | ------------ |
 | 1 | [#SiEnengGoPublic](http://twitter.com/search?q=%23SiEnengGoPublic) | N/A |
 | 2 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
-| 3 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
-| 4 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
-| 5 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
-| 6 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 7 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 8 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 9 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 10 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 11 | [JENO WELCOME TO MILAN](http://twitter.com/search?q=JENO+WELCOME+TO+MILAN) | N/A |
-| 12 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 13 | [Al Qur'an Sumber Kebaikan](http://twitter.com/search?q=Al+Qur%27an+Sumber+Kebaikan) | N/A |
-| 14 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
-| 15 | [Friends](http://twitter.com/search?q=Friends) | N/A |
-| 16 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 17 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
-| 18 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
-| 19 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 21 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 22 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 23 | [David](http://twitter.com/search?q=David) | N/A |
-| 24 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 25 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
-| 26 | [Decul](http://twitter.com/search?q=Decul) | N/A |
-| 27 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 28 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 29 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 30 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 31 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
-| 32 | [Eropa](http://twitter.com/search?q=Eropa) | N/A |
-| 33 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 34 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 35 | [Ujan](http://twitter.com/search?q=Ujan) | N/A |
-| 36 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 37 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
-| 38 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
-| 39 | [Yoga](http://twitter.com/search?q=Yoga) | N/A |
-| 40 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 41 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 42 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 43 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 44 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 45 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 46 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 47 | [Sadis](http://twitter.com/search?q=Sadis) | N/A |
-| 48 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 49 | [LAPORAN](http://twitter.com/search?q=LAPORAN) | N/A |
-| 50 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
+| 3 | [#TransferValasCUMAdiLivin](http://twitter.com/search?q=%23TransferValasCUMAdiLivin) | N/A |
+| 4 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
+| 5 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 6 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
+| 7 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
+| 8 | [Mandiri](http://twitter.com/search?q=Mandiri) | N/A |
+| 9 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
+| 10 | [#ปัจฉิมนิยมศิลป์](http://twitter.com/search?q=%23%e0%b8%9b%e0%b8%b1%e0%b8%88%e0%b8%89%e0%b8%b4%e0%b8%a1%e0%b8%99%e0%b8%b4%e0%b8%a2%e0%b8%a1%e0%b8%a8%e0%b8%b4%e0%b8%a5%e0%b8%9b%e0%b9%8c) | N/A |
+| 11 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 12 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 13 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 14 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 15 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 16 | [Milan](http://twitter.com/search?q=Milan) | N/A |
+| 17 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
+| 18 | [Lingkungan](http://twitter.com/search?q=Lingkungan) | N/A |
+| 19 | [Friends](http://twitter.com/search?q=Friends) | N/A |
+| 20 | [David](http://twitter.com/search?q=David) | N/A |
+| 21 | [Al Qur'an Sumber Kebaikan](http://twitter.com/search?q=Al+Qur%27an+Sumber+Kebaikan) | N/A |
+| 22 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
+| 23 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
+| 24 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 25 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 26 | [Tulus Utamakan Rakyat](http://twitter.com/search?q=Tulus+Utamakan+Rakyat) | Tulus Utamakan Rakyat is a Malay phrase which translates to "Dedicated to Serving the People". It is a slogan used by the Malaysian government to emphasize their commitment to providing quality services and support for the people of Malaysia. |
+| 27 | [Angkatan Darat Di Hati Rakyat](http://twitter.com/search?q=Angkatan+Darat+Di+Hati+Rakyat) | Angkatan Darat Di Hati Rakyat is a slogan used by the Indonesian Army to express their commitment to serve the people of Indonesia. It translates to "The Army in the Hearts of the People". |
+| 28 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 29 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 30 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
+| 31 | [Ujan](http://twitter.com/search?q=Ujan) | N/A |
+| 32 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
+| 33 | [Decul](http://twitter.com/search?q=Decul) | N/A |
+| 34 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 35 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 36 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 37 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 38 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 39 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 40 | [Harta](http://twitter.com/search?q=Harta) | N/A |
+| 41 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 42 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 43 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 44 | [Yoga](http://twitter.com/search?q=Yoga) | N/A |
+| 45 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 46 | [Eropa](http://twitter.com/search?q=Eropa) | N/A |
+| 47 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 48 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 49 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 50 | [Pecat](http://twitter.com/search?q=Pecat) | N/A |
 
 
 

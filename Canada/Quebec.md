@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-24 02:39:37 UTC`
+📆 Last Updated: `2023-02-24 03:18:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
-| 2 | [Boucher](http://twitter.com/search?q=Boucher) | N/A |
-| 3 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
-| 4 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 5 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 6 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 7 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 8 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
-| 9 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
-| 10 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
-| 11 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
-| 12 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 13 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 14 | [#Raptors](http://twitter.com/search?q=%23Raptors) | N/A |
-| 15 | [Connor](http://twitter.com/search?q=Connor) | N/A |
-| 16 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
-| 17 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
-| 18 | [Maya](http://twitter.com/search?q=Maya) | N/A |
-| 19 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
-| 20 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
-| 21 | [Jakob](http://twitter.com/search?q=Jakob) | N/A |
-| 22 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
-| 23 | [Shore](http://twitter.com/search?q=Shore) | N/A |
-| 24 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 25 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
-| 26 | [Clifton](http://twitter.com/search?q=Clifton) | N/A |
-| 27 | [Dane](http://twitter.com/search?q=Dane) | N/A |
-| 28 | [Craig Smith](http://twitter.com/search?q=Craig+Smith) | N/A |
-| 29 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
-| 30 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 31 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 32 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 33 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 34 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 35 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 36 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 37 | [Ken Holland](http://twitter.com/search?q=Ken+Holland) | N/A |
-| 38 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 39 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 40 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 41 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 42 | [Lily](http://twitter.com/search?q=Lily) | N/A |
-| 43 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
-| 44 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 45 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 46 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 47 | [Globe](http://twitter.com/search?q=Globe) | N/A |
-| 48 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 49 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 1 | [#WeTheNorth](http://twitter.com/search?q=%23WeTheNorth) | N/A |
+| 2 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
+| 3 | [Poeltl](http://twitter.com/search?q=Poeltl) | N/A |
+| 4 | [Boucher](http://twitter.com/search?q=Boucher) | N/A |
+| 5 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 6 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 7 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 8 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 9 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 10 | [Ingram](http://twitter.com/search?q=Ingram) | N/A |
+| 11 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 12 | [Penguins](http://twitter.com/search?q=Penguins) | N/A |
+| 13 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
+| 14 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 15 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 16 | [Boston](http://twitter.com/search?q=Boston) | Boston is the capital and most populous city of the Commonwealth of Massachusetts in the United States. It is one of the oldest cities in the United States, founded in 1630 by Puritan settlers from England. The city is known for its rich history, culture, and educational institutions. It is also home to many world-renowned museums, universities, and hospitals. |
+| 17 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 18 | [Pittsburgh](http://twitter.com/search?q=Pittsburgh) | Pittsburgh is a city in the state of Pennsylvania in the United States. It is located at the confluence of the Allegheny, Monongahela, and Ohio rivers. Pittsburgh is known for its steel industry, museums, and sports teams. It is also home to several universities and colleges. |
+| 19 | [Binnington](http://twitter.com/search?q=Binnington) | Binnington is a surname of English origin. It is derived from the Old English words "bine" meaning "bean" and "tun" meaning "enclosure". The name originally referred to someone who lived near a bean field or enclosure. |
+| 20 | [Devin Shore](http://twitter.com/search?q=Devin+Shore) | N/A |
+| 21 | [Hextall](http://twitter.com/search?q=Hextall) | N/A |
+| 22 | [Letang](http://twitter.com/search?q=Letang) | Letang is a surname of French origin. It is derived from the Old French word "letang" which means "marshy meadow". In English, it can be translated to mean "marshy meadow". |
+| 23 | [Connor](http://twitter.com/search?q=Connor) | N/A |
+| 24 | [Pelicans](http://twitter.com/search?q=Pelicans) | Pelicans are large water birds with long beaks and large throat pouches used for catching fish. They are found on every continent except Antarctica. The word "pelican" comes from the Greek word pelekan, which means "large sea bird". |
+| 25 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 26 | [Maya](http://twitter.com/search?q=Maya) | N/A |
+| 27 | [Crosby](http://twitter.com/search?q=Crosby) | Crosby is a surname of English origin. It is derived from the Old Norse name "Krossa-byr", which means "village with the cross". |
+| 28 | [Malkin](http://twitter.com/search?q=Malkin) | N/A |
+| 29 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 30 | [Dane](http://twitter.com/search?q=Dane) | N/A |
+| 31 | [#BBCAN11](http://twitter.com/search?q=%23BBCAN11) | N/A |
+| 32 | [Gerry](http://twitter.com/search?q=Gerry) | N/A |
+| 33 | [Craig Smith](http://twitter.com/search?q=Craig+Smith) | N/A |
+| 34 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 35 | [Gavrikov](http://twitter.com/search?q=Gavrikov) | N/A |
+| 36 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 37 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
+| 38 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 39 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 40 | [Félicitations](http://twitter.com/search?q=F%c3%a9licitations) | Félicitations is a French word that means congratulations. It is used to express approval or praise for someone's accomplishment. |
+| 41 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 42 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 43 | [Ken Holland](http://twitter.com/search?q=Ken+Holland) | N/A |
+| 44 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 45 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 46 | [Chychrun](http://twitter.com/search?q=Chychrun) | N/A |
+| 47 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 48 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 49 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
 
 
 

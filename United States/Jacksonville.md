@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-02-24 02:40:31 UTC`
+📆 Last Updated: `2023-02-24 03:19:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GoBolts](http://twitter.com/search?q=%23GoBolts) | N/A |
-| 2 | [#LightningStrikes](http://twitter.com/search?q=%23LightningStrikes) | N/A |
-| 3 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 4 | [#MagicTogether](http://twitter.com/search?q=%23MagicTogether) | N/A |
-| 5 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
-| 6 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 7 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 9 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 10 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 11 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 12 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
-| 13 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 14 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 15 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 16 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
-| 17 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 18 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 19 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 20 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
-| 21 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 22 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
-| 23 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
-| 24 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 25 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 26 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
-| 27 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 28 | [Fire Hextall](http://twitter.com/search?q=Fire+Hextall) | N/A |
-| 29 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
-| 30 | [Pens](http://twitter.com/search?q=Pens) | N/A |
-| 31 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
-| 32 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 33 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 34 | [Sam Hauser](http://twitter.com/search?q=Sam+Hauser) | N/A |
-| 35 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
-| 36 | [Cernak](http://twitter.com/search?q=Cernak) | N/A |
-| 37 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
-| 38 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 39 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
-| 40 | [Mortal Kombat 12](http://twitter.com/search?q=Mortal+Kombat+12) | N/A |
-| 41 | [Reggie Jackson](http://twitter.com/search?q=Reggie+Jackson) | N/A |
-| 42 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
-| 43 | [Injustice 3](http://twitter.com/search?q=Injustice+3) | N/A |
-| 44 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
-| 45 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 46 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 47 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
-| 48 | [Ivy Queen](http://twitter.com/search?q=Ivy+Queen) | N/A |
-| 49 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
-| 50 | [Tommy Dangles](http://twitter.com/search?q=Tommy+Dangles) | N/A |
+| 1 | [#MagicTogether](http://twitter.com/search?q=%23MagicTogether) | N/A |
+| 2 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 3 | [Vasy](http://twitter.com/search?q=Vasy) | N/A |
+| 4 | [#BUFvsTBL](http://twitter.com/search?q=%23BUFvsTBL) | N/A |
+| 5 | [Lightning](http://twitter.com/search?q=Lightning) | N/A |
+| 6 | [Detroit](http://twitter.com/search?q=Detroit) | Detroit is the largest city in the U.S. state of Michigan and is located on the Detroit River, which connects Lake Erie to Lake St. Clair. It is known as the Motor City due to its long history as a major center for automobile manufacturing and its status as a major port city. Detroit has a rich cultural heritage, including music, art, and architecture, and is home to several professional sports teams. |
+| 7 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
+| 8 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 10 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 11 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 12 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 13 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 14 | [Murdaugh](http://twitter.com/search?q=Murdaugh) | N/A |
+| 15 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 16 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 17 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 18 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 19 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 20 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
+| 21 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 22 | [76ers](http://twitter.com/search?q=76ers) | 76ers is the nickname of the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The team was originally founded in 1946 as the Syracuse Nationals and changed its name to the 76ers in 1963. The name "76ers" is a reference to the year 1776, when the Declaration of Independence was signed in Philadelphia. |
+| 23 | [Memphis](http://twitter.com/search?q=Memphis) | Memphis is a city in the southwestern corner of the U.S. state of Tennessee, and the county seat of Shelby County. It is located on the fourth Chickasaw Bluff, south of the confluence of the Wolf and Mississippi rivers. Memphis is one of the most populous cities in Tennessee, with an estimated population of 651,073 in 2019. The city is known for its cultural contributions to the identity of the American South, as well as its impact on music, art, literature, and film. |
+| 24 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
+| 25 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 26 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
+| 27 | [Tobias Harris](http://twitter.com/search?q=Tobias+Harris) | Tobias Harris is an American professional basketball player who currently plays for the Philadelphia 76ers of the National Basketball Association (NBA). He was drafted 19th overall by the Charlotte Bobcats in the 2011 NBA draft. He is known for his ability to score from all three levels of the court and his versatility on defense. |
+| 28 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 29 | [Niang](http://twitter.com/search?q=Niang) | Niang is a Chinese term of endearment that is used to refer to one's mother. It is similar to the English term "Mom" or "Mama". |
+| 30 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 31 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 32 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 33 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
+| 34 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 35 | [Cernak](http://twitter.com/search?q=Cernak) | N/A |
+| 36 | [Kevin Harlan](http://twitter.com/search?q=Kevin+Harlan) | N/A |
+| 37 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 38 | [Dawson Mercer](http://twitter.com/search?q=Dawson+Mercer) | N/A |
+| 39 | [Jayne Mansfield](http://twitter.com/search?q=Jayne+Mansfield) | N/A |
+| 40 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 41 | [Okposo](http://twitter.com/search?q=Okposo) | N/A |
+| 42 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 43 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
+| 44 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 45 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 46 | [Morant](http://twitter.com/search?q=Morant) | N/A |
+| 47 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 48 | [Roddy](http://twitter.com/search?q=Roddy) | N/A |
+| 49 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 50 | [Stamkos](http://twitter.com/search?q=Stamkos) | Stamkos is a surname of Greek origin. It is derived from the Greek word "stamma" which means "pillar". The name is often used as a given name in English-speaking countries. |
 
 
 
