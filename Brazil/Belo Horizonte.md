@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belo Horizonte
 
-📆 Last Updated: `2023-02-24 15:15:44 UTC`
+📆 Last Updated: `2023-02-24 16:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
-| 2 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 3 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 4 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
-| 5 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 6 | [#stayselcaday](http://twitter.com/search?q=%23stayselcaday) | #StaySelcaDay is a hashtag used on social media to encourage people to take and share selfies (selcas) on a particular day. It is often used in conjunction with other hashtags such as #SelfieSunday or #SelfieSaturday. The hashtag encourages people to take and share selfies, usually with the intention of boosting self-confidence and promoting body positivity. |
-| 7 | [#Comfort10xMaisPerfume](http://twitter.com/search?q=%23Comfort10xMaisPerfume) | N/A |
-| 8 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 9 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
-| 10 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 11 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 12 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 13 | [Sobis](http://twitter.com/search?q=Sobis) | N/A |
-| 14 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 15 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 16 | [nct hollywood](http://twitter.com/search?q=nct+hollywood) | N/A |
-| 17 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
-| 18 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 19 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 20 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
-| 21 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 22 | [José de Abreu](http://twitter.com/search?q=Jos%c3%a9+de+Abreu) | N/A |
-| 23 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 24 | [IPCA-15](http://twitter.com/search?q=IPCA-15) | N/A |
-| 25 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 26 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 27 | [Há 91](http://twitter.com/search?q=H%c3%a1+91) | N/A |
-| 28 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 29 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 30 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 31 | [Voto Feminino](http://twitter.com/search?q=Voto+Feminino) | N/A |
-| 32 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 33 | [Fundão](http://twitter.com/search?q=Fund%c3%a3o) | N/A |
-| 34 | [nct tokyo](http://twitter.com/search?q=nct+tokyo) | N/A |
-| 35 | [San Junipero](http://twitter.com/search?q=San+Junipero) | N/A |
-| 36 | [#Encontro](http://twitter.com/search?q=%23Encontro) | N/A |
-| 37 | [THIAGO SILVA](http://twitter.com/search?q=THIAGO+SILVA) | N/A |
-| 38 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
-| 39 | [Load](http://twitter.com/search?q=Load) | N/A |
-| 40 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 41 | [Cuesta](http://twitter.com/search?q=Cuesta) | N/A |
-| 42 | [dedal](http://twitter.com/search?q=dedal) | N/A |
-| 43 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 44 | [Zé Dirceu](http://twitter.com/search?q=Z%c3%a9+Dirceu) | N/A |
-| 45 | [gilberto gil](http://twitter.com/search?q=gilberto+gil) | N/A |
-| 46 | [José Dirceu](http://twitter.com/search?q=Jos%c3%a9+Dirceu) | N/A |
-| 47 | [Carlinhos Maia](http://twitter.com/search?q=Carlinhos+Maia) | N/A |
-| 48 | [Apanhou](http://twitter.com/search?q=Apanhou) | N/A |
-| 49 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
-| 50 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 1 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 2 | [Jair](http://twitter.com/search?q=Jair) | Jair is a Hebrew name meaning "he shines". It is also a variant of the name Jairus, which is derived from the Hebrew word yārā, meaning "to enlighten". |
+| 3 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 4 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 5 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
+| 6 | [#M12NoFlu](http://twitter.com/search?q=%23M12NoFlu) | N/A |
+| 7 | [#stayselcaday](http://twitter.com/search?q=%23stayselcaday) | #StaySelcaDay is a hashtag used on social media to encourage people to take and share selfies (selcas) on a particular day. It is often used in conjunction with other hashtags such as #SelfieSunday or #SelfieSaturday. The hashtag encourages people to take and share selfies, usually with the intention of boosting self-confidence and promoting body positivity. |
+| 8 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 9 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 10 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 11 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 12 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 13 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
+| 14 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
+| 15 | [#Comfort10xMaisPerfume](http://twitter.com/search?q=%23Comfort10xMaisPerfume) | N/A |
+| 16 | [#WhereImFrom](http://twitter.com/search?q=%23WhereImFrom) | N/A |
+| 17 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 18 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 19 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
+| 20 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 21 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 22 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
+| 23 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 24 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 25 | [Sobis](http://twitter.com/search?q=Sobis) | N/A |
+| 26 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 27 | [LOUCO DA CABEÇA](http://twitter.com/search?q=LOUCO+DA+CABE%c3%87A) | N/A |
+| 28 | [Xerém](http://twitter.com/search?q=Xer%c3%a9m) | N/A |
+| 29 | [Agulhas](http://twitter.com/search?q=Agulhas) | N/A |
+| 30 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 31 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
+| 32 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 33 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 34 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 35 | [nct hollywood](http://twitter.com/search?q=nct+hollywood) | N/A |
+| 36 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 37 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 38 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
+| 39 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 40 | [Berry](http://twitter.com/search?q=Berry) | N/A |
+| 41 | [José de Abreu](http://twitter.com/search?q=Jos%c3%a9+de+Abreu) | N/A |
+| 42 | [FluminenC](http://twitter.com/search?q=FluminenC) | N/A |
+| 43 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 44 | [Árias](http://twitter.com/search?q=%c3%81rias) | N/A |
+| 45 | [Piauí Pop](http://twitter.com/search?q=Piau%c3%ad+Pop) | N/A |
+| 46 | [Load](http://twitter.com/search?q=Load) | N/A |
+| 47 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
+| 48 | [Egídio](http://twitter.com/search?q=Eg%c3%addio) | N/A |
+| 49 | [FLUMINENSE FOOTBALL CLUB](http://twitter.com/search?q=FLUMINENSE+FOOTBALL+CLUB) | N/A |
+| 50 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
 
 
 

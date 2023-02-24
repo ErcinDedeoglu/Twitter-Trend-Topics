@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barcelona
 
-📆 Last Updated: `2023-02-24 15:15:52 UTC`
+📆 Last Updated: `2023-02-24 16:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 2 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 3 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 4 | [Estrada Fernández](http://twitter.com/search?q=Estrada+Fern%c3%a1ndez) | N/A |
+| 1 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 2 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 3 | [Estrada Fernández](http://twitter.com/search?q=Estrada+Fern%c3%a1ndez) | N/A |
+| 4 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 5 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 6 | [#tipicospor](http://twitter.com/search?q=%23tipicospor) | N/A |
-| 7 | [Fernández Díaz](http://twitter.com/search?q=Fern%c3%a1ndez+D%c3%adaz) | N/A |
+| 6 | [Fernández Díaz](http://twitter.com/search?q=Fern%c3%a1ndez+D%c3%adaz) | N/A |
+| 7 | [#tipicospor](http://twitter.com/search?q=%23tipicospor) | N/A |
 | 8 | [#Solos24F](http://twitter.com/search?q=%23Solos24F) | N/A |
 | 9 | [Leguina](http://twitter.com/search?q=Leguina) | N/A |
-| 10 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
-| 11 | [Bárcenas](http://twitter.com/search?q=B%c3%a1rcenas) | N/A |
-| 12 | [Anticorrupción](http://twitter.com/search?q=Anticorrupci%c3%b3n) | N/A |
-| 13 | [#CliveNWrench](http://twitter.com/search?q=%23CliveNWrench) | N/A |
-| 14 | [#YoJuegoYuGiOhTCG](http://twitter.com/search?q=%23YoJuegoYuGiOhTCG) | N/A |
-| 15 | [Ángel Basas](http://twitter.com/search?q=%c3%81ngel+Basas) | N/A |
-| 16 | [#Terrifier2](http://twitter.com/search?q=%23Terrifier2) | N/A |
-| 17 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 18 | [Bella](http://twitter.com/search?q=Bella) | N/A |
-| 19 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 20 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
-| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 22 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 23 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 24 | [Fenerbache](http://twitter.com/search?q=Fenerbache) | N/A |
-| 25 | [Denuvo](http://twitter.com/search?q=Denuvo) | N/A |
-| 26 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 27 | [Pablo Motos](http://twitter.com/search?q=Pablo+Motos) | N/A |
-| 28 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 29 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 30 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
-| 31 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 32 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
-| 33 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 34 | [quédate](http://twitter.com/search?q=qu%c3%a9date) | N/A |
-| 35 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
-| 36 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 37 | [Iván](http://twitter.com/search?q=Iv%c3%a1n) | N/A |
-| 38 | [Gazpacho](http://twitter.com/search?q=Gazpacho) | N/A |
-| 39 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
-| 40 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 41 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 42 | [El Señor de los Anillos](http://twitter.com/search?q=El+Se%c3%b1or+de+los+Anillos) | N/A |
-| 43 | [Endesa](http://twitter.com/search?q=Endesa) | N/A |
-| 44 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 45 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
-| 46 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
-| 47 | [Belén Aguilera](http://twitter.com/search?q=Bel%c3%a9n+Aguilera) | N/A |
-| 48 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
-| 49 | [El 24](http://twitter.com/search?q=El+24) | N/A |
-| 50 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 10 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 11 | [Kitchen](http://twitter.com/search?q=Kitchen) | N/A |
+| 12 | [#Terrifier2](http://twitter.com/search?q=%23Terrifier2) | N/A |
+| 13 | [Bárcenas](http://twitter.com/search?q=B%c3%a1rcenas) | N/A |
+| 14 | [Bella](http://twitter.com/search?q=Bella) | N/A |
+| 15 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 16 | [#YoJuegoYuGiOhTCG](http://twitter.com/search?q=%23YoJuegoYuGiOhTCG) | N/A |
+| 17 | [Natasha](http://twitter.com/search?q=Natasha) | N/A |
+| 18 | [Anticorrupción](http://twitter.com/search?q=Anticorrupci%c3%b3n) | N/A |
+| 19 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
+| 20 | [Denuvo](http://twitter.com/search?q=Denuvo) | N/A |
+| 21 | [Ángel Basas](http://twitter.com/search?q=%c3%81ngel+Basas) | N/A |
+| 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 23 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 24 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
+| 25 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 26 | [Aida](http://twitter.com/search?q=Aida) | N/A |
+| 27 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 28 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 29 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 30 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 31 | [Frank](http://twitter.com/search?q=Frank) | Frank is an informal term used to describe someone who is honest and direct in their speech and behavior. It can also be used to describe someone who speaks their mind without worrying about the consequences. |
+| 32 | [Pablo Motos](http://twitter.com/search?q=Pablo+Motos) | N/A |
+| 33 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
+| 34 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
+| 35 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
+| 36 | [Quédate](http://twitter.com/search?q=Qu%c3%a9date) | N/A |
+| 37 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 38 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 39 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 40 | [luiz felipe](http://twitter.com/search?q=luiz+felipe) | N/A |
+| 41 | [El Betis](http://twitter.com/search?q=El+Betis) | El Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name El Betis is derived from the Latin phrase "bene et recte," which translates to "well and rightly." |
+| 42 | [Iván](http://twitter.com/search?q=Iv%c3%a1n) | N/A |
+| 43 | [Verstappen](http://twitter.com/search?q=Verstappen) | N/A |
+| 44 | [El Señor de los Anillos](http://twitter.com/search?q=El+Se%c3%b1or+de+los+Anillos) | N/A |
+| 45 | [gazpacho](http://twitter.com/search?q=gazpacho) | N/A |
+| 46 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 47 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 48 | [Endesa](http://twitter.com/search?q=Endesa) | N/A |
+| 49 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 50 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
 
 
 

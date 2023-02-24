@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-02-24 15:16:11 UTC`
+📆 Last Updated: `2023-02-24 16:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,48 +18,48 @@ This is top 50 for [India](</India>)
 | 1 | [श्री हरीश कुमावत](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%b0%e0%a5%80%e0%a4%b6+%e0%a4%95%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%b5%e0%a4%a4) | N/A |
 | 2 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
 | 3 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 4 | [#AkshayOnSeedhiBaat](http://twitter.com/search?q=%23AkshayOnSeedhiBaat) | N/A |
-| 5 | [#Budget4NewOdisha](http://twitter.com/search?q=%23Budget4NewOdisha) | N/A |
-| 6 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
-| 7 | [Guaranteed](http://twitter.com/search?q=Guaranteed) | N/A |
-| 8 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 9 | [Armaan](http://twitter.com/search?q=Armaan) | N/A |
-| 10 | [स्टैंडिंग कमेटी चुनाव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%88%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%82%e0%a4%97+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
-| 11 | [Fav MD](http://twitter.com/search?q=Fav+MD) | N/A |
-| 12 | [संध्या वंदन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
-| 13 | [Fav Actress](http://twitter.com/search?q=Fav+Actress) | N/A |
-| 14 | [fav cricketer](http://twitter.com/search?q=fav+cricketer) | N/A |
+| 4 | [#1YearForBheemlaNayak](http://twitter.com/search?q=%231YearForBheemlaNayak) | N/A |
+| 5 | [#AkshayOnSeedhiBaat](http://twitter.com/search?q=%23AkshayOnSeedhiBaat) | N/A |
+| 6 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 7 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
+| 8 | [Fav IPL Team](http://twitter.com/search?q=Fav+IPL+Team) | N/A |
+| 9 | [GANGUBAI ZINDABAD](http://twitter.com/search?q=GANGUBAI+ZINDABAD) | N/A |
+| 10 | [İsmail](http://twitter.com/search?q=%c4%b0smail) | N/A |
+| 11 | [Fav Cricketer](http://twitter.com/search?q=Fav+Cricketer) | N/A |
+| 12 | [Atishi](http://twitter.com/search?q=Atishi) | N/A |
+| 13 | [Tazmin Brits](http://twitter.com/search?q=Tazmin+Brits) | N/A |
+| 14 | [Fav Actress](http://twitter.com/search?q=Fav+Actress) | N/A |
 | 15 | [Fav Actor](http://twitter.com/search?q=Fav+Actor) | N/A |
-| 16 | [Daniel Sloss](http://twitter.com/search?q=Daniel+Sloss) | N/A |
-| 17 | [Tura](http://twitter.com/search?q=Tura) | N/A |
-| 18 | [Fav IPL](http://twitter.com/search?q=Fav+IPL) | N/A |
-| 19 | [panjab](http://twitter.com/search?q=panjab) | N/A |
-| 20 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
-| 21 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
-| 22 | [Akki](http://twitter.com/search?q=Akki) | N/A |
-| 23 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 24 | [Meghalaya](http://twitter.com/search?q=Meghalaya) | N/A |
-| 25 | [मेडिकल कॉलेज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%95%e0%a4%b2+%e0%a4%95%e0%a5%89%e0%a4%b2%e0%a5%87%e0%a4%9c) | N/A |
-| 26 | [केंद्रीय गृह](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%83%e0%a4%b9) | N/A |
-| 27 | [KPS Gill](http://twitter.com/search?q=KPS+Gill) | N/A |
-| 28 | [Shillong](http://twitter.com/search?q=Shillong) | N/A |
-| 29 | [शबरी जयंती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%ac%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 30 | [Ajnala](http://twitter.com/search?q=Ajnala) | N/A |
-| 31 | [#1YearForBheemlaNayak](http://twitter.com/search?q=%231YearForBheemlaNayak) | N/A |
-| 32 | [#AngelOneForAll](http://twitter.com/search?q=%23AngelOneForAll) | N/A |
-| 33 | [#GlobalStarRamCharan](http://twitter.com/search?q=%23GlobalStarRamCharan) | N/A |
-| 34 | [#BMP_ने_जलाया_Budget](http://twitter.com/search?q=%23BMP_%e0%a4%a8%e0%a5%87_%e0%a4%9c%e0%a4%b2%e0%a4%be%e0%a4%af%e0%a4%be_Budget) | N/A |
-| 35 | [#शिक्षा_मंत्री_इस्तीफा_दो](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be_%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80_%e0%a4%87%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%80%e0%a4%ab%e0%a4%be_%e0%a4%a6%e0%a5%8b) | N/A |
-| 36 | [#TirupatiSaysHelloLokesh](http://twitter.com/search?q=%23TirupatiSaysHelloLokesh) | N/A |
-| 37 | [#heartattack](http://twitter.com/search?q=%23heartattack) | N/A |
-| 38 | [#मोनू_मानेसर_को_गिरफ्तार_करो](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82_%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0_%e0%a4%95%e0%a5%8b_%e0%a4%97%e0%a4%bf%e0%a4%b0%e0%a4%ab%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%b0_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
-| 39 | [#SecuredFuture](http://twitter.com/search?q=%23SecuredFuture) | N/A |
-| 40 | [#लुटेरों_का_अधिवेशन](http://twitter.com/search?q=%23%e0%a4%b2%e0%a5%81%e0%a4%9f%e0%a5%87%e0%a4%b0%e0%a5%8b%e0%a4%82_%e0%a4%95%e0%a4%be_%e0%a4%85%e0%a4%a7%e0%a4%bf%e0%a4%b5%e0%a5%87%e0%a4%b6%e0%a4%a8) | N/A |
-| 41 | [#KotakLife](http://twitter.com/search?q=%23KotakLife) | N/A |
-| 42 | [#PunjabBachao](http://twitter.com/search?q=%23PunjabBachao) | N/A |
-| 43 | [#ENGvSA](http://twitter.com/search?q=%23ENGvSA) | N/A |
-| 44 | [#AmitShahInMP](http://twitter.com/search?q=%23AmitShahInMP) | N/A |
-| 45 | [#OdishaBudget2023](http://twitter.com/search?q=%23OdishaBudget2023) | N/A |
+| 16 | [Guaranteed](http://twitter.com/search?q=Guaranteed) | N/A |
+| 17 | [प्रमोद प्रेमी यादव](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%ae%e0%a5%8b%e0%a4%a6+%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a5%87%e0%a4%ae%e0%a5%80+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 18 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 19 | [Armaan](http://twitter.com/search?q=Armaan) | N/A |
+| 20 | [Fav MD](http://twitter.com/search?q=Fav+MD) | N/A |
+| 21 | [स्टैंडिंग कमेटी चुनाव](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%88%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%82%e0%a4%97+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80+%e0%a4%9a%e0%a5%81%e0%a4%a8%e0%a4%be%e0%a4%b5) | N/A |
+| 22 | [Panjab](http://twitter.com/search?q=Panjab) | N/A |
+| 23 | [संध्या वंदन](http://twitter.com/search?q=%e0%a4%b8%e0%a4%82%e0%a4%a7%e0%a5%8d%e0%a4%af%e0%a4%be+%e0%a4%b5%e0%a4%82%e0%a4%a6%e0%a4%a8) | N/A |
+| 24 | [Daniel Sloss](http://twitter.com/search?q=Daniel+Sloss) | N/A |
+| 25 | [शिक्षा मंत्री](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be+%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80) | N/A |
+| 26 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 27 | [Akki](http://twitter.com/search?q=Akki) | N/A |
+| 28 | [मेडिकल कॉलेज](http://twitter.com/search?q=%e0%a4%ae%e0%a5%87%e0%a4%a1%e0%a4%bf%e0%a4%95%e0%a4%b2+%e0%a4%95%e0%a5%89%e0%a4%b2%e0%a5%87%e0%a4%9c) | N/A |
+| 29 | [केंद्रीय गृह](http://twitter.com/search?q=%e0%a4%95%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%af+%e0%a4%97%e0%a5%83%e0%a4%b9) | N/A |
+| 30 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 31 | [KPS Gill](http://twitter.com/search?q=KPS+Gill) | N/A |
+| 32 | [Shillong](http://twitter.com/search?q=Shillong) | N/A |
+| 33 | [#शिक्षा_मंत्री_इस्तीफा_दो](http://twitter.com/search?q=%23%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%be_%e0%a4%ae%e0%a4%82%e0%a4%a4%e0%a5%8d%e0%a4%b0%e0%a5%80_%e0%a4%87%e0%a4%b8%e0%a5%8d%e0%a4%a4%e0%a5%80%e0%a4%ab%e0%a4%be_%e0%a4%a6%e0%a5%8b) | N/A |
+| 34 | [#ENGvSA](http://twitter.com/search?q=%23ENGvSA) | N/A |
+| 35 | [#MCDstandingcommittee](http://twitter.com/search?q=%23MCDstandingcommittee) | N/A |
+| 36 | [#AngelOneForAll](http://twitter.com/search?q=%23AngelOneForAll) | N/A |
+| 37 | [#ROCKY](http://twitter.com/search?q=%23ROCKY) | N/A |
+| 38 | [#BMP_ने_जलाया_Budget](http://twitter.com/search?q=%23BMP_%e0%a4%a8%e0%a5%87_%e0%a4%9c%e0%a4%b2%e0%a4%be%e0%a4%af%e0%a4%be_Budget) | N/A |
+| 39 | [#मोनू_मानेसर_को_गिरफ्तार_करो](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82_%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0_%e0%a4%95%e0%a5%8b_%e0%a4%97%e0%a4%bf%e0%a4%b0%e0%a4%ab%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%b0_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
+| 40 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
+| 41 | [#Budget4NewOdisha](http://twitter.com/search?q=%23Budget4NewOdisha) | N/A |
+| 42 | [#GlobalStarRamCharan](http://twitter.com/search?q=%23GlobalStarRamCharan) | N/A |
+| 43 | [#PunjabBachao](http://twitter.com/search?q=%23PunjabBachao) | N/A |
+| 44 | [#heartattack](http://twitter.com/search?q=%23heartattack) | N/A |
+| 45 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
 
 
 

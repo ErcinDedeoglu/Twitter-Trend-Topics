@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-24 15:15:36 UTC`
+📆 Last Updated: `2023-02-24 16:16:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 | ------- | ------------ | ------------ |
 | 1 | [#CashAppUK](http://twitter.com/search?q=%23CashAppUK) | N/A |
 | 2 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 3 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 3 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
 | 4 | [#ENGvSA](http://twitter.com/search?q=%23ENGvSA) | N/A |
-| 5 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 6 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
-| 7 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
-| 8 | [Turnips](http://twitter.com/search?q=Turnips) | N/A |
-| 9 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 10 | [#SBSEvent2023](http://twitter.com/search?q=%23SBSEvent2023) | N/A |
+| 5 | [Mhairi](http://twitter.com/search?q=Mhairi) | N/A |
+| 6 | [#AuthorsInGeographicalPlaces](http://twitter.com/search?q=%23AuthorsInGeographicalPlaces) | N/A |
+| 7 | [Steve Allen](http://twitter.com/search?q=Steve+Allen) | N/A |
+| 8 | [Hummel](http://twitter.com/search?q=Hummel) | N/A |
+| 9 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 10 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 11 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 12 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
-| 13 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 14 | [Littlejohn](http://twitter.com/search?q=Littlejohn) | N/A |
-| 15 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 16 | [Lisbon](http://twitter.com/search?q=Lisbon) | N/A |
-| 17 | [Puffin](http://twitter.com/search?q=Puffin) | N/A |
-| 18 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 19 | [Tatchell](http://twitter.com/search?q=Tatchell) | N/A |
-| 20 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 21 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 22 | [Mhairi](http://twitter.com/search?q=Mhairi) | N/A |
-| 23 | [Warwick](http://twitter.com/search?q=Warwick) | N/A |
-| 24 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 25 | [Larnaca](http://twitter.com/search?q=Larnaca) | N/A |
-| 26 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
-| 27 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
-| 28 | [Halifax](http://twitter.com/search?q=Halifax) | N/A |
-| 29 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
-| 30 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 31 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 32 | [Hannan](http://twitter.com/search?q=Hannan) | N/A |
-| 33 | [Ruben Selles](http://twitter.com/search?q=Ruben+Selles) | N/A |
-| 34 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
-| 35 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 36 | [Swedes](http://twitter.com/search?q=Swedes) | N/A |
-| 37 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 38 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
+| 12 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
+| 13 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
+| 14 | [#SAvENG](http://twitter.com/search?q=%23SAvENG) | N/A |
+| 15 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
+| 16 | [Katherine Sciver](http://twitter.com/search?q=Katherine+Sciver) | N/A |
+| 17 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 18 | [Puffin](http://twitter.com/search?q=Puffin) | N/A |
+| 19 | [Turnips](http://twitter.com/search?q=Turnips) | N/A |
+| 20 | [Lisbon](http://twitter.com/search?q=Lisbon) | N/A |
+| 21 | [littlejohn](http://twitter.com/search?q=littlejohn) | N/A |
+| 22 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
+| 23 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
+| 24 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 25 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 26 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 27 | [Warwick](http://twitter.com/search?q=Warwick) | N/A |
+| 28 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 29 | [Tatchell](http://twitter.com/search?q=Tatchell) | N/A |
+| 30 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 31 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 32 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 33 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 34 | [Larnaca](http://twitter.com/search?q=Larnaca) | N/A |
+| 35 | [Bellerin](http://twitter.com/search?q=Bellerin) | N/A |
+| 36 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 37 | [Swedes](http://twitter.com/search?q=Swedes) | N/A |
+| 38 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
 | 39 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 40 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
-| 41 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 42 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 43 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 44 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
-| 45 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 46 | [Murrell](http://twitter.com/search?q=Murrell) | N/A |
-| 47 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
-| 48 | [Rings of Power](http://twitter.com/search?q=Rings+of+Power) | N/A |
-| 49 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 40 | [Miggy](http://twitter.com/search?q=Miggy) | N/A |
+| 41 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 42 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
+| 43 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
+| 44 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
+| 45 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
+| 46 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 47 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
+| 48 | [Queen Consort](http://twitter.com/search?q=Queen+Consort) | N/A |
+| 49 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
 
 
 
