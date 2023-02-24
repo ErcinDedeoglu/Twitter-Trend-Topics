@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Austria
 
-📆 Last Updated: `2023-02-24 01:44:12 UTC`
+📆 Last Updated: `2023-02-24 02:40:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,7 +15,7 @@ This is top 50 for Austria
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 1 | [#gntm](http://twitter.com/search?q=%23gntm) | N/A |
 | 2 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
 | 3 | [#w2302](http://twitter.com/search?q=%23w2302) | N/A |
 | 4 | [Barca](http://twitter.com/search?q=Barca) | N/A |
@@ -24,10 +24,10 @@ This is top 50 for Austria
 | 7 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
 | 8 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
 | 9 | [#Arvay](http://twitter.com/search?q=%23Arvay) | N/A |
-| 10 | [Stoffwindeln](http://twitter.com/search?q=Stoffwindeln) | N/A |
+| 10 | [stoffwindeln](http://twitter.com/search?q=stoffwindeln) | N/A |
 | 11 | [liebe ingrid](http://twitter.com/search?q=liebe+ingrid) | N/A |
-| 12 | [Ebenen](http://twitter.com/search?q=Ebenen) | N/A |
-| 13 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
+| 12 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
+| 13 | [Ebenen](http://twitter.com/search?q=Ebenen) | N/A |
 | 14 | [Minister](http://twitter.com/search?q=Minister) | N/A |
 | 15 | [van der bellen](http://twitter.com/search?q=van+der+bellen) | N/A |
 | 16 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
@@ -46,25 +46,25 @@ This is top 50 for Austria
 | 29 | [Bildungsauftrag](http://twitter.com/search?q=Bildungsauftrag) | N/A |
 | 30 | [Orchester](http://twitter.com/search?q=Orchester) | N/A |
 | 31 | [Teuerung](http://twitter.com/search?q=Teuerung) | N/A |
-| 32 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
+| 32 | [mieten](http://twitter.com/search?q=mieten) | N/A |
 | 33 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
 | 34 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
-| 35 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
-| 36 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
-| 37 | [Material](http://twitter.com/search?q=Material) | N/A |
-| 38 | [StGB](http://twitter.com/search?q=StGB) | N/A |
-| 39 | [Kuchen](http://twitter.com/search?q=Kuchen) | N/A |
-| 40 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
-| 41 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 42 | [Unfälle](http://twitter.com/search?q=Unf%c3%a4lle) | N/A |
-| 43 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 44 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 45 | [Rand](http://twitter.com/search?q=Rand) | N/A |
-| 46 | [Palästinenser](http://twitter.com/search?q=Pal%c3%a4stinenser) | N/A |
-| 47 | [Protestform](http://twitter.com/search?q=Protestform) | N/A |
-| 48 | [Gefährdung](http://twitter.com/search?q=Gef%c3%a4hrdung) | N/A |
-| 49 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
-| 50 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
+| 35 | [Interviews](http://twitter.com/search?q=Interviews) | N/A |
+| 36 | [Material](http://twitter.com/search?q=Material) | N/A |
+| 37 | [StGB](http://twitter.com/search?q=StGB) | N/A |
+| 38 | [Kuchen](http://twitter.com/search?q=Kuchen) | N/A |
+| 39 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 40 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
+| 41 | [unfälle](http://twitter.com/search?q=unf%c3%a4lle) | N/A |
+| 42 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 43 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 44 | [Rand](http://twitter.com/search?q=Rand) | N/A |
+| 45 | [Palästinenser](http://twitter.com/search?q=Pal%c3%a4stinenser) | N/A |
+| 46 | [Protestform](http://twitter.com/search?q=Protestform) | N/A |
+| 47 | [Gefährdung](http://twitter.com/search?q=Gef%c3%a4hrdung) | N/A |
+| 48 | [Empörung](http://twitter.com/search?q=Emp%c3%b6rung) | N/A |
+| 49 | [Anwalt](http://twitter.com/search?q=Anwalt) | N/A |
+| 50 | [Bundespräsident](http://twitter.com/search?q=Bundespr%c3%a4sident) | N/A |
 
 
 

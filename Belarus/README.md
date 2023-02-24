@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-24 01:44:12 UTC`
+📆 Last Updated: `2023-02-24 02:40:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,17 +29,16 @@ This is top 50 for Belarus
 | 12 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
 | 13 | [Atomic Heart](http://twitter.com/search?q=Atomic+Heart) | N/A |
 | 14 | [#импровизаторыиниктобольше](http://twitter.com/search?q=%23%d0%b8%d0%bc%d0%bf%d1%80%d0%be%d0%b2%d0%b8%d0%b7%d0%b0%d1%82%d0%be%d1%80%d1%8b%d0%b8%d0%bd%d0%b8%d0%ba%d1%82%d0%be%d0%b1%d0%be%d0%bb%d1%8c%d1%88%d0%b5) | N/A |
-| 15 | [Германии](http://twitter.com/search?q=%d0%93%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
+| 15 | [германии](http://twitter.com/search?q=%d0%b3%d0%b5%d1%80%d0%bc%d0%b0%d0%bd%d0%b8%d0%b8) | N/A |
 | 16 | [в бресте](http://twitter.com/search?q=%d0%b2+%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
-| 17 | [оооо](http://twitter.com/search?q=%d0%be%d0%be%d0%be%d0%be) | N/A |
+| 17 | [Оооо](http://twitter.com/search?q=%d0%9e%d0%be%d0%be%d0%be) | N/A |
 | 18 | [Смотря](http://twitter.com/search?q=%d0%a1%d0%bc%d0%be%d1%82%d1%80%d1%8f) | N/A |
 | 19 | [беларусі](http://twitter.com/search?q=%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%96) | N/A |
 | 20 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 21 | [брестской](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d1%81%d0%ba%d0%be%d0%b9) | N/A |
-| 22 | [Байден](http://twitter.com/search?q=%d0%91%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
-| 23 | [насколько](http://twitter.com/search?q=%d0%bd%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
-| 24 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
-| 25 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
+| 21 | [байден](http://twitter.com/search?q=%d0%b1%d0%b0%d0%b9%d0%b4%d0%b5%d0%bd) | N/A |
+| 22 | [насколько](http://twitter.com/search?q=%d0%bd%d0%b0%d1%81%d0%ba%d0%be%d0%bb%d1%8c%d0%ba%d0%be) | N/A |
+| 23 | [в беларуси](http://twitter.com/search?q=%d0%b2+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d0%b8) | N/A |
+| 24 | [Жаль](http://twitter.com/search?q=%d0%96%d0%b0%d0%bb%d1%8c) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portland
 
-📆 Last Updated: `2023-02-24 01:44:09 UTC`
+📆 Last Updated: `2023-02-24 02:40:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NABE2023](http://twitter.com/search?q=%23NABE2023) | N/A |
-| 2 | [#pdxsnow](http://twitter.com/search?q=%23pdxsnow) | N/A |
-| 3 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
-| 4 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
-| 5 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 6 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
-| 7 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 8 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 9 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
-| 10 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 11 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
-| 12 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
-| 13 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
-| 14 | [#Destiny2YearInReview](http://twitter.com/search?q=%23Destiny2YearInReview) | N/A |
-| 15 | [Mortal Kombat 12](http://twitter.com/search?q=Mortal+Kombat+12) | N/A |
-| 16 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
-| 17 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
-| 18 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 19 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 20 | [Fire Hextall](http://twitter.com/search?q=Fire+Hextall) | N/A |
-| 21 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
-| 22 | [Injustice 3](http://twitter.com/search?q=Injustice+3) | N/A |
-| 23 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
-| 24 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 25 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
-| 26 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 27 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 28 | [Zangief](http://twitter.com/search?q=Zangief) | N/A |
-| 29 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 30 | [Nick Paul](http://twitter.com/search?q=Nick+Paul) | N/A |
-| 31 | [James Harden](http://twitter.com/search?q=James+Harden) | James Harden is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). He is known for his ability to score points and create plays for his teammates. He has won multiple awards, including the NBA Most Valuable Player Award in 2018. |
-| 32 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
-| 33 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 34 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 35 | [Lily](http://twitter.com/search?q=Lily) | N/A |
-| 36 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 37 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
-| 38 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
-| 39 | [Rings of Power](http://twitter.com/search?q=Rings+of+Power) | N/A |
-| 40 | [Arkham](http://twitter.com/search?q=Arkham) | N/A |
-| 41 | [Craig Smith](http://twitter.com/search?q=Craig+Smith) | N/A |
-| 42 | [Joel Embiid](http://twitter.com/search?q=Joel+Embiid) | N/A |
-| 43 | [Spineless](http://twitter.com/search?q=Spineless) | N/A |
-| 44 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
-| 45 | [Gotham Knights](http://twitter.com/search?q=Gotham+Knights) | N/A |
-| 46 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 47 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
-| 48 | [Copp](http://twitter.com/search?q=Copp) | N/A |
-| 49 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 50 | [Tom Bombadil](http://twitter.com/search?q=Tom+Bombadil) | N/A |
+| 2 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 3 | [#pdxsnow](http://twitter.com/search?q=%23pdxsnow) | N/A |
+| 4 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 5 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
+| 6 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
+| 7 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 8 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 9 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 10 | [Pacers](http://twitter.com/search?q=Pacers) | Pacers are a type of horse used for riding, racing, and other activities. The term is derived from the Latin word pacare, which means "to lead or guide." Pacers are known for their smooth gait and ability to maintain a steady pace over long distances. |
+| 11 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 12 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 13 | [#LetEmKnow](http://twitter.com/search?q=%23LetEmKnow) | #LetEmKnow is a hashtag used on social media to express the idea of making sure that someone knows something important. It is often used to encourage people to speak up and make sure their voice is heard. |
+| 14 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 15 | [Maxey](http://twitter.com/search?q=Maxey) | Maxey is a surname of English origin. It is derived from the Old English personal name Maccus, which was a diminutive form of Matthew. The meaning of Maxey in English is "son of Maccus". |
+| 16 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 17 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
+| 18 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
+| 19 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 20 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
+| 21 | [Succession](http://twitter.com/search?q=Succession) | N/A |
+| 22 | [Fire Hextall](http://twitter.com/search?q=Fire+Hextall) | N/A |
+| 23 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
+| 24 | [Pens](http://twitter.com/search?q=Pens) | N/A |
+| 25 | [Comrie](http://twitter.com/search?q=Comrie) | N/A |
+| 26 | [Jayne Mansfield](http://twitter.com/search?q=Jayne+Mansfield) | N/A |
+| 27 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
+| 28 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 29 | [Sam Hauser](http://twitter.com/search?q=Sam+Hauser) | N/A |
+| 30 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 31 | [Cernak](http://twitter.com/search?q=Cernak) | N/A |
+| 32 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
+| 33 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
+| 34 | [Jesse Armstrong](http://twitter.com/search?q=Jesse+Armstrong) | N/A |
+| 35 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 36 | [Boo Buie](http://twitter.com/search?q=Boo+Buie) | N/A |
+| 37 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
+| 38 | [Mortal Kombat 12](http://twitter.com/search?q=Mortal+Kombat+12) | N/A |
+| 39 | [Reggie Jackson](http://twitter.com/search?q=Reggie+Jackson) | N/A |
+| 40 | [Velasco](http://twitter.com/search?q=Velasco) | N/A |
+| 41 | [Injustice 3](http://twitter.com/search?q=Injustice+3) | N/A |
+| 42 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 43 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 44 | [Brogdon](http://twitter.com/search?q=Brogdon) | Brogdon is a surname of Scottish origin. It is derived from the Old English words "broc" and "dun", meaning "brook hill". The name is associated with the Brogdon family, who were prominent landowners in Scotland during the Middle Ages. |
+| 45 | [Ivy Queen](http://twitter.com/search?q=Ivy+Queen) | N/A |
+| 46 | [Tommy Dangles](http://twitter.com/search?q=Tommy+Dangles) | N/A |
+| 47 | [Jaden Ivey](http://twitter.com/search?q=Jaden+Ivey) | N/A |
+| 48 | [James Harden](http://twitter.com/search?q=James+Harden) | James Harden is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). He is known for his ability to score points and create plays for his teammates. He has won multiple awards, including the NBA Most Valuable Player Award in 2018. |
+| 49 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 50 | [kendall roy](http://twitter.com/search?q=kendall+roy) | N/A |
 
 
 

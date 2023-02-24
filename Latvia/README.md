@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Latvia
 
-📆 Last Updated: `2023-02-24 01:44:15 UTC`
+📆 Last Updated: `2023-02-24 02:40:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,25 +23,25 @@ This is top 50 for Latvia
 | 6 | [avenu](http://twitter.com/search?q=avenu) | N/A |
 | 7 | [Rihards Kols](http://twitter.com/search?q=Rihards+Kols) | N/A |
 | 8 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 9 | [Pozņaks](http://twitter.com/search?q=Poz%c5%86aks) | N/A |
+| 9 | [pozņaks](http://twitter.com/search?q=poz%c5%86aks) | N/A |
 | 10 | [pavļuta](http://twitter.com/search?q=pav%c4%bcuta) | N/A |
 | 11 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
 | 12 | [daugavpils](http://twitter.com/search?q=daugavpils) | N/A |
 | 13 | [#Latvia](http://twitter.com/search?q=%23Latvia) | N/A |
-| 14 | [Daudz](http://twitter.com/search?q=Daudz) | N/A |
+| 14 | [daudz](http://twitter.com/search?q=daudz) | N/A |
 | 15 | [maskavā](http://twitter.com/search?q=maskav%c4%81) | N/A |
 | 16 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 17 | [Lato](http://twitter.com/search?q=Lato) | Lato is a sans-serif typeface designed by Łukasz Dziedzic in 2010. It is a humanist typeface, meaning it has a more organic, calligraphic feel than other sans-serifs. The name Lato comes from the Polish word for "summer". |
 | 18 | [rēzeknes](http://twitter.com/search?q=r%c4%93zeknes) | N/A |
-| 19 | [Latviešu](http://twitter.com/search?q=Latvie%c5%a1u) | N/A |
+| 19 | [latviešu](http://twitter.com/search?q=latvie%c5%a1u) | N/A |
 | 20 | [Riga](http://twitter.com/search?q=Riga) | N/A |
 | 21 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
 | 22 | [Latviju](http://twitter.com/search?q=Latviju) | N/A |
 | 23 | [krievijai](http://twitter.com/search?q=krievijai) | N/A |
 | 24 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
 | 25 | [vienkārši](http://twitter.com/search?q=vienk%c4%81r%c5%a1i) | N/A |
-| 26 | [Taisnība](http://twitter.com/search?q=Taisn%c4%abba) | N/A |
-| 27 | [Neviens](http://twitter.com/search?q=Neviens) | N/A |
+| 26 | [taisnība](http://twitter.com/search?q=taisn%c4%abba) | N/A |
+| 27 | [neviens](http://twitter.com/search?q=neviens) | N/A |
 | 28 | [latgalē](http://twitter.com/search?q=latgal%c4%93) | N/A |
 | 29 | [saeimas](http://twitter.com/search?q=saeimas) | N/A |
 | 30 | [skultes](http://twitter.com/search?q=skultes) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for Latvia
 | 32 | [Viņa](http://twitter.com/search?q=Vi%c5%86a) | N/A |
 | 33 | [saprotu](http://twitter.com/search?q=saprotu) | N/A |
 | 34 | [pagaidām](http://twitter.com/search?q=pagaid%c4%81m) | N/A |
-| 35 | [Jūsu](http://twitter.com/search?q=J%c5%absu) | N/A |
+| 35 | [jūsu](http://twitter.com/search?q=j%c5%absu) | N/A |
 | 36 | [iesalnieks](http://twitter.com/search?q=iesalnieks) | N/A |
 | 37 | [putinam](http://twitter.com/search?q=putinam) | N/A |
 | 38 | [USSR](http://twitter.com/search?q=USSR) | N/A |
@@ -57,7 +57,7 @@ This is top 50 for Latvia
 | 40 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
 | 41 | [Kremlin](http://twitter.com/search?q=Kremlin) | N/A |
 | 42 | [varam](http://twitter.com/search?q=varam) | N/A |
-| 43 | [Parasti](http://twitter.com/search?q=Parasti) | N/A |
+| 43 | [parasti](http://twitter.com/search?q=parasti) | N/A |
 | 44 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 45 | [Piekrītu](http://twitter.com/search?q=Piekr%c4%abtu) | N/A |
 | 46 | [kapēc](http://twitter.com/search?q=kap%c4%93c) | N/A |

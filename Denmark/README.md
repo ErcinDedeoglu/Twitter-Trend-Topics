@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-24 01:44:13 UTC`
+📆 Last Updated: `2023-02-24 02:40:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,7 +20,7 @@ This is top 50 for Denmark
 | 3 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 4 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 5 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
-| 6 | [#FCMSCP](http://twitter.com/search?q=%23FCMSCP) | N/A |
+| 6 | [#fcmscp](http://twitter.com/search?q=%23fcmscp) | N/A |
 | 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
 | 9 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
@@ -37,34 +37,34 @@ This is top 50 for Denmark
 | 20 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
 | 21 | [jon stephensen](http://twitter.com/search?q=jon+stephensen) | N/A |
 | 22 | [Lissabon](http://twitter.com/search?q=Lissabon) | N/A |
-| 23 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 24 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 25 | [moderaterne](http://twitter.com/search?q=moderaterne) | N/A |
-| 26 | [Netto](http://twitter.com/search?q=Netto) | N/A |
-| 27 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
-| 28 | [Herning](http://twitter.com/search?q=Herning) | N/A |
-| 29 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 30 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 31 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
-| 32 | [hjort](http://twitter.com/search?q=hjort) | N/A |
-| 33 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
-| 34 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 35 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 36 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 37 | [biblen](http://twitter.com/search?q=biblen) | N/A |
-| 38 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 40 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 41 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 42 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 43 | [lynetteholm](http://twitter.com/search?q=lynetteholm) | N/A |
-| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 45 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 46 | [hamrén](http://twitter.com/search?q=hamr%c3%a9n) | N/A |
-| 47 | [simon emil](http://twitter.com/search?q=simon+emil) | N/A |
-| 48 | [næppe](http://twitter.com/search?q=n%c3%a6ppe) | N/A |
-| 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 50 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 23 | [Woke](http://twitter.com/search?q=Woke) | N/A |
+| 24 | [moderaterne](http://twitter.com/search?q=moderaterne) | N/A |
+| 25 | [Netto](http://twitter.com/search?q=Netto) | N/A |
+| 26 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
+| 27 | [herning](http://twitter.com/search?q=herning) | N/A |
+| 28 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 29 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
+| 30 | [hjort](http://twitter.com/search?q=hjort) | N/A |
+| 31 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
+| 32 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 33 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 34 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 35 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 36 | [biblen](http://twitter.com/search?q=biblen) | N/A |
+| 37 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 38 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 39 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 40 | [lynetteholm](http://twitter.com/search?q=lynetteholm) | N/A |
+| 41 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 42 | [hamrén](http://twitter.com/search?q=hamr%c3%a9n) | N/A |
+| 43 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 44 | [simon emil](http://twitter.com/search?q=simon+emil) | N/A |
+| 45 | [næppe](http://twitter.com/search?q=n%c3%a6ppe) | N/A |
+| 46 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 47 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 48 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
+| 49 | [Mbappe](http://twitter.com/search?q=Mbappe) | Mbappe is the nickname of Kylian Mbappe, a French professional soccer player who plays for Paris Saint-Germain and the French national team. The name is derived from his surname, which is pronounced "em-bap-ay". |
+| 50 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 
 
 

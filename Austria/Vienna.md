@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-24 01:43:36 UTC`
+📆 Last Updated: `2023-02-24 02:39:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,10 +24,10 @@ This is top 50 for [Austria](</Austria>)
 | 7 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
 | 8 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
 | 9 | [#Arvay](http://twitter.com/search?q=%23Arvay) | N/A |
-| 10 | [Stoffwindeln](http://twitter.com/search?q=Stoffwindeln) | N/A |
+| 10 | [stoffwindeln](http://twitter.com/search?q=stoffwindeln) | N/A |
 | 11 | [liebe ingrid](http://twitter.com/search?q=liebe+ingrid) | N/A |
-| 12 | [Ebenen](http://twitter.com/search?q=Ebenen) | N/A |
-| 13 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
+| 12 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
+| 13 | [Ebenen](http://twitter.com/search?q=Ebenen) | N/A |
 | 14 | [Minister](http://twitter.com/search?q=Minister) | N/A |
 | 15 | [van der bellen](http://twitter.com/search?q=van+der+bellen) | N/A |
 | 16 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
@@ -46,7 +46,7 @@ This is top 50 for [Austria](</Austria>)
 | 29 | [Bildungsauftrag](http://twitter.com/search?q=Bildungsauftrag) | N/A |
 | 30 | [Orchester](http://twitter.com/search?q=Orchester) | N/A |
 | 31 | [Teuerung](http://twitter.com/search?q=Teuerung) | N/A |
-| 32 | [Mieten](http://twitter.com/search?q=Mieten) | N/A |
+| 32 | [mieten](http://twitter.com/search?q=mieten) | N/A |
 | 33 | [Spanien](http://twitter.com/search?q=Spanien) | N/A |
 | 34 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
 | 35 | [Kanzler](http://twitter.com/search?q=Kanzler) | N/A |
@@ -56,7 +56,7 @@ This is top 50 for [Austria](</Austria>)
 | 39 | [Kuchen](http://twitter.com/search?q=Kuchen) | N/A |
 | 40 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
 | 41 | [Fasching](http://twitter.com/search?q=Fasching) | N/A |
-| 42 | [Unfälle](http://twitter.com/search?q=Unf%c3%a4lle) | N/A |
+| 42 | [unfälle](http://twitter.com/search?q=unf%c3%a4lle) | N/A |
 | 43 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 44 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 45 | [Rand](http://twitter.com/search?q=Rand) | N/A |
