@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dusseldorf
 
-📆 Last Updated: `2023-02-24 08:16:20 UTC`
+📆 Last Updated: `2023-02-24 09:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
-| 2 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 3 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
-| 4 | [#FCUAJA](http://twitter.com/search?q=%23FCUAJA) | N/A |
-| 5 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
-| 6 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 1 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 2 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
+| 3 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
+| 4 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
+| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 6 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 7 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
-| 8 | [Uni Bonn](http://twitter.com/search?q=Uni+Bonn) | N/A |
-| 9 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 10 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
-| 11 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 12 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
-| 13 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 14 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 15 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 16 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 17 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 18 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 19 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
-| 20 | [Guten Morgen Schubsi](http://twitter.com/search?q=Guten+Morgen+Schubsi) | N/A |
+| 8 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 9 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 10 | [Uni Bonn](http://twitter.com/search?q=Uni+Bonn) | N/A |
+| 11 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
+| 12 | [Professorin](http://twitter.com/search?q=Professorin) | N/A |
+| 13 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 14 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 15 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
+| 16 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 17 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 18 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 19 | [Pelz](http://twitter.com/search?q=Pelz) | N/A |
+| 20 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
 | 21 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 22 | [Verkommenheit](http://twitter.com/search?q=Verkommenheit) | N/A |
-| 23 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 24 | [Henning](http://twitter.com/search?q=Henning) | N/A |
-| 25 | [Pelz](http://twitter.com/search?q=Pelz) | N/A |
-| 26 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 27 | [Grundrecht](http://twitter.com/search?q=Grundrecht) | N/A |
-| 28 | [Moin](http://twitter.com/search?q=Moin) | N/A |
-| 29 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
-| 30 | [Gisela](http://twitter.com/search?q=Gisela) | N/A |
-| 31 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 32 | [Guten Morgen Chris](http://twitter.com/search?q=Guten+Morgen+Chris) | N/A |
-| 33 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 34 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 35 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 36 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
-| 37 | [Ludwigshafen](http://twitter.com/search?q=Ludwigshafen) | N/A |
-| 38 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
-| 39 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
-| 40 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 41 | [Integrität](http://twitter.com/search?q=Integrit%c3%a4t) | N/A |
-| 42 | [Freitod](http://twitter.com/search?q=Freitod) | N/A |
-| 43 | [lieblings fußball teams](http://twitter.com/search?q=lieblings+fu%c3%9fball+teams) | N/A |
-| 44 | [halsey](http://twitter.com/search?q=halsey) | N/A |
-| 45 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 46 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
-| 47 | [Jens](http://twitter.com/search?q=Jens) | N/A |
-| 48 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 49 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 22 | [Henning](http://twitter.com/search?q=Henning) | N/A |
+| 23 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
+| 24 | [Verkommenheit](http://twitter.com/search?q=Verkommenheit) | N/A |
+| 25 | [Gisela](http://twitter.com/search?q=Gisela) | N/A |
+| 26 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 27 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 28 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 29 | [Grundrecht](http://twitter.com/search?q=Grundrecht) | N/A |
+| 30 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
+| 31 | [Guten Morgen Kerstin](http://twitter.com/search?q=Guten+Morgen+Kerstin) | N/A |
+| 32 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 33 | [Freitod](http://twitter.com/search?q=Freitod) | N/A |
+| 34 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 35 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
+| 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 37 | [Pubertätsblocker](http://twitter.com/search?q=Pubert%c3%a4tsblocker) | N/A |
+| 38 | [Freutag](http://twitter.com/search?q=Freutag) | N/A |
+| 39 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 40 | [lieblings fußball teams](http://twitter.com/search?q=lieblings+fu%c3%9fball+teams) | N/A |
+| 41 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
+| 42 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 43 | [Staaten](http://twitter.com/search?q=Staaten) | N/A |
+| 44 | [Universitäten](http://twitter.com/search?q=Universit%c3%a4ten) | N/A |
+| 45 | [Botschaft in Berlin](http://twitter.com/search?q=Botschaft+in+Berlin) | N/A |
+| 46 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
+| 47 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 48 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 49 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 
 
 

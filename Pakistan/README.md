@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-24 08:17:00 UTC`
+📆 Last Updated: `2023-02-24 09:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Pakistan
 | 2 | [#جشنِ_حُسینؑ_ابنِ_حیدرؑ](http://twitter.com/search?q=%23%d8%ac%d8%b4%d9%86%d9%90_%d8%ad%d9%8f%d8%b3%db%8c%d9%86%d8%91_%d8%a7%d8%a8%d9%86%d9%90_%d8%ad%db%8c%d8%af%d8%b1%d8%91) | N/A |
 | 3 | [#جیل_بھرو_خوف_کے_بت_توڑو](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88_%d8%ae%d9%88%d9%81_%da%a9%db%92_%d8%a8%d8%aa_%d8%aa%d9%88%da%91%d9%88) | N/A |
 | 4 | [#JummahMubarak](http://twitter.com/search?q=%23JummahMubarak) | N/A |
-| 5 | [#PZvIU](http://twitter.com/search?q=%23PZvIU) | N/A |
+| 5 | [#جیل_بھرو_تحریک](http://twitter.com/search?q=%23%d8%ac%db%8c%d9%84_%d8%a8%da%be%d8%b1%d9%88_%d8%aa%d8%ad%d8%b1%db%8c%da%a9) | N/A |
 | 6 | [Hassan ali](http://twitter.com/search?q=Hassan+ali) | N/A |
-| 7 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
-| 8 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 7 | [Haider Ali](http://twitter.com/search?q=Haider+Ali) | N/A |
+| 8 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 9 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 10 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 11 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 12 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
-| 13 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 14 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 15 | [Javed Akhtar](http://twitter.com/search?q=Javed+Akhtar) | N/A |
-| 16 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 17 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 10 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 11 | [Vince](http://twitter.com/search?q=Vince) | Vince is a shortened form of the name Vincent, which is of Latin origin and means "conquering". |
+| 12 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 13 | [Javed Akhtar](http://twitter.com/search?q=Javed+Akhtar) | N/A |
+| 14 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
+| 15 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 16 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
+| 17 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 18 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 19 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 20 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
-| 21 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 22 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 23 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
-| 24 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 25 | [Welcome to Pakistan](http://twitter.com/search?q=Welcome+to+Pakistan) | N/A |
-| 26 | [Takfiri](http://twitter.com/search?q=Takfiri) | N/A |
-| 27 | [Babar](http://twitter.com/search?q=Babar) | Babar is a French children's book series about a fictional elephant character of the same name. The stories follow the adventures of Babar, from his birth in the jungle to his eventual coronation as King of the Elephants. The series was created by Jean de Brunhoff in 1931 and has since been adapted into numerous films, television shows, and other media. The name "Babar" is derived from the French phrase "babar le petit éléphant," which translates to "little elephant." |
-| 28 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 29 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 30 | [Malik Riaz](http://twitter.com/search?q=Malik+Riaz) | N/A |
-| 31 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
-| 32 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 33 | [Source](http://twitter.com/search?q=Source) | N/A |
-| 34 | [Khan Muhammad Marri](http://twitter.com/search?q=Khan+Muhammad+Marri) | N/A |
-| 35 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 36 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 37 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
-| 38 | [For God](http://twitter.com/search?q=For+God) | N/A |
-| 39 | [ABSOLUTELY NOT](http://twitter.com/search?q=ABSOLUTELY+NOT) | N/A |
-| 40 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 41 | [Bilawal](http://twitter.com/search?q=Bilawal) | N/A |
+| 19 | [Gurbaz](http://twitter.com/search?q=Gurbaz) | N/A |
+| 20 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 21 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 22 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 23 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 24 | [Welcome to Pakistan](http://twitter.com/search?q=Welcome+to+Pakistan) | N/A |
+| 25 | [Takfiri](http://twitter.com/search?q=Takfiri) | N/A |
+| 26 | [May Allah](http://twitter.com/search?q=May+Allah) | N/A |
+| 27 | [Malik Riaz](http://twitter.com/search?q=Malik+Riaz) | N/A |
+| 28 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 29 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 30 | [For God](http://twitter.com/search?q=For+God) | N/A |
+| 31 | [Youthia](http://twitter.com/search?q=Youthia) | N/A |
+| 32 | [Absolutely NOT](http://twitter.com/search?q=Absolutely+NOT) | N/A |
+| 33 | [Purple](http://twitter.com/search?q=Purple) | N/A |
+| 34 | [Yellow](http://twitter.com/search?q=Yellow) | N/A |
+| 35 | [May Almighty Allah](http://twitter.com/search?q=May+Almighty+Allah) | N/A |
+| 36 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 37 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 38 | [Jannah](http://twitter.com/search?q=Jannah) | N/A |
+| 39 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
+| 40 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 41 | [Imrando](http://twitter.com/search?q=Imrando) | N/A |
 | 42 | [Zaman Park](http://twitter.com/search?q=Zaman+Park) | Zaman Park is a public park located in Istanbul, Turkey. The name Zaman Park translates to "Time Park" in English, and it is known for its large clock tower that overlooks the park. The park features a variety of attractions, including a playground, an amphitheater, and a lake. |
-| 43 | [BREAKING NEWS](http://twitter.com/search?q=BREAKING+NEWS) | N/A |
-| 44 | [Malaysia](http://twitter.com/search?q=Malaysia) | N/A |
-| 45 | [Musharraf](http://twitter.com/search?q=Musharraf) | N/A |
-| 46 | [PMLN](http://twitter.com/search?q=PMLN) | N/A |
-| 47 | [Sara](http://twitter.com/search?q=Sara) | N/A |
-| 48 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
-| 49 | [May Almighty Allah](http://twitter.com/search?q=May+Almighty+Allah) | N/A |
-| 50 | [Imrando](http://twitter.com/search?q=Imrando) | N/A |
+| 43 | [Bajwa](http://twitter.com/search?q=Bajwa) | N/A |
+| 44 | [Ya Allah](http://twitter.com/search?q=Ya+Allah) | N/A |
+| 45 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 46 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 47 | [Ameen](http://twitter.com/search?q=Ameen) | N/A |
+| 48 | [Source](http://twitter.com/search?q=Source) | N/A |
+| 49 | [National Assembly](http://twitter.com/search?q=National+Assembly) | N/A |
+| 50 | [Unbelievable](http://twitter.com/search?q=Unbelievable) | N/A |
 
 
 

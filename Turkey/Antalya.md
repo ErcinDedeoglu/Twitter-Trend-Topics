@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-02-24 08:16:44 UTC`
+📆 Last Updated: `2023-02-24 09:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,46 +16,53 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Trabzonspor](http://twitter.com/search?q=%23Trabzonspor) | #Trabzonspor is a Turkish professional football club based in the city of Trabzon, Turkey. The club was founded in 1967 and currently plays in the Turkish Super Lig, the top tier of Turkish football. The club's name translates to "Trabzon Sports Club" in English. |
-| 2 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 3 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
-| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 5 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
-| 6 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 7 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
-| 8 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 9 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
-| 10 | [#EmeklilikteStajaTakılanlar](http://twitter.com/search?q=%23EmeklilikteStajaTak%c4%b1lanlar) | N/A |
-| 11 | [Halil Menci](http://twitter.com/search?q=Halil+Menci) | N/A |
+| 2 | [MuratileBerna Evleniyor](http://twitter.com/search?q=MuratileBerna+Evleniyor) | N/A |
+| 3 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 4 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
+| 5 | [Yürekler Beraber Çarpıyor](http://twitter.com/search?q=Y%c3%bcrekler+Beraber+%c3%87arp%c4%b1yor) | N/A |
+| 6 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
+| 7 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
+| 8 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 9 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
+| 10 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 11 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
 | 12 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 13 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 13 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
 | 14 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 15 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 16 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 17 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 18 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 19 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 20 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 21 | [Seri](http://twitter.com/search?q=Seri) | N/A |
-| 22 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 23 | [Koray](http://twitter.com/search?q=Koray) | N/A |
-| 24 | [24 Şubat](http://twitter.com/search?q=24+%c5%9eubat) | N/A |
-| 25 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 26 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 27 | [İsmail](http://twitter.com/search?q=%c4%b0smail) | N/A |
-| 28 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 29 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
-| 30 | [Banka](http://twitter.com/search?q=Banka) | N/A |
-| 31 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
-| 32 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
-| 33 | [#BitciFanTokenYeniden](http://twitter.com/search?q=%23BitciFanTokenYeniden) | N/A |
-| 34 | [#KORDS](http://twitter.com/search?q=%23KORDS) | N/A |
-| 35 | [#HayırlıSabahlar](http://twitter.com/search?q=%23Hay%c4%b1rl%c4%b1Sabahlar) | N/A |
-| 36 | [#ENJSA](http://twitter.com/search?q=%23ENJSA) | N/A |
-| 37 | [#99OEncesiHaklarlaEYT](http://twitter.com/search?q=%2399OEncesiHaklarlaEYT) | N/A |
-| 38 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
-| 39 | [#İstanbul](http://twitter.com/search?q=%23%c4%b0stanbul) | N/A |
-| 40 | [#smrtg](http://twitter.com/search?q=%23smrtg) | N/A |
-| 41 | [#EMADDER](http://twitter.com/search?q=%23EMADDER) | N/A |
+| 15 | [#EmeklilikteStajaTakılanlar](http://twitter.com/search?q=%23EmeklilikteStajaTak%c4%b1lanlar) | N/A |
+| 16 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 17 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
+| 18 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 19 | [Halil Menci](http://twitter.com/search?q=Halil+Menci) | N/A |
+| 20 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 21 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 22 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 23 | [Seri](http://twitter.com/search?q=Seri) | N/A |
+| 24 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 25 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 26 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
+| 27 | [Koray](http://twitter.com/search?q=Koray) | N/A |
+| 28 | [24 Şubat](http://twitter.com/search?q=24+%c5%9eubat) | N/A |
+| 29 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 30 | [İsmail](http://twitter.com/search?q=%c4%b0smail) | N/A |
+| 31 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 32 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 33 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 34 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
+| 35 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 36 | [Günün](http://twitter.com/search?q=G%c3%bcn%c3%bcn) | N/A |
+| 37 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
+| 38 | [Banka](http://twitter.com/search?q=Banka) | N/A |
+| 39 | [Cihan](http://twitter.com/search?q=Cihan) | N/A |
+| 40 | [#BitciFanTokenYeniden](http://twitter.com/search?q=%23BitciFanTokenYeniden) | N/A |
+| 41 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
+| 42 | [#KORDS](http://twitter.com/search?q=%23KORDS) | N/A |
+| 43 | [#99OEncesiHaklarlaEYT](http://twitter.com/search?q=%2399OEncesiHaklarlaEYT) | N/A |
+| 44 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
+| 45 | [#ENJSA](http://twitter.com/search?q=%23ENJSA) | N/A |
+| 46 | [#Fenerbahce](http://twitter.com/search?q=%23Fenerbahce) | N/A |
+| 47 | [#EMADDER](http://twitter.com/search?q=%23EMADDER) | N/A |
+| 48 | [#smrtg](http://twitter.com/search?q=%23smrtg) | N/A |
 
 
 
