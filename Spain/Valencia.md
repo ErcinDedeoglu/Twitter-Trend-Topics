@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valencia
 
-📆 Last Updated: `2023-02-24 11:15:48 UTC`
+📆 Last Updated: `2023-02-24 12:17:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Spain](</Spain>)
 | 1 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
 | 2 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 3 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 4 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 5 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 6 | [#Solos24F](http://twitter.com/search?q=%23Solos24F) | N/A |
-| 7 | [#YoMeRebelo24F](http://twitter.com/search?q=%23YoMeRebelo24F) | N/A |
-| 8 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
-| 9 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 10 | [#APOYOROCIO24F](http://twitter.com/search?q=%23APOYOROCIO24F) | N/A |
-| 11 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 12 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 13 | [Endesa](http://twitter.com/search?q=Endesa) | N/A |
-| 14 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 15 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 16 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 17 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
-| 18 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 19 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 20 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 4 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
+| 5 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 6 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 7 | [#SempiternoTourMadrid](http://twitter.com/search?q=%23SempiternoTourMadrid) | N/A |
+| 8 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
+| 9 | [#Solos24F](http://twitter.com/search?q=%23Solos24F) | N/A |
+| 10 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 11 | [Fenerbahçe](http://twitter.com/search?q=Fenerbah%c3%a7e) | Fenerbahçe is a Turkish sports club based in Istanbul. The name Fenerbahçe translates to "Lighthouse Garden" in English. The club is best known for its football team, which competes in the Turkish Super Lig and is one of the most successful teams in Turkey. |
+| 12 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 13 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 14 | [#YoMeRebelo24F](http://twitter.com/search?q=%23YoMeRebelo24F) | N/A |
+| 15 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 16 | [#APOYOROCIO24F](http://twitter.com/search?q=%23APOYOROCIO24F) | N/A |
+| 17 | [Guardado](http://twitter.com/search?q=Guardado) | N/A |
+| 18 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 19 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 20 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
 | 21 | [Gazpacho](http://twitter.com/search?q=Gazpacho) | N/A |
-| 22 | [El 24](http://twitter.com/search?q=El+24) | N/A |
-| 23 | [Natalia Lacunza](http://twitter.com/search?q=Natalia+Lacunza) | N/A |
-| 24 | [El Señor de los Anillos](http://twitter.com/search?q=El+Se%c3%b1or+de+los+Anillos) | N/A |
-| 25 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
-| 26 | [gracie abrams](http://twitter.com/search?q=gracie+abrams) | N/A |
-| 27 | [Air Europa](http://twitter.com/search?q=Air+Europa) | N/A |
-| 28 | [Iván](http://twitter.com/search?q=Iv%c3%a1n) | N/A |
-| 29 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
+| 22 | [Endesa](http://twitter.com/search?q=Endesa) | N/A |
+| 23 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 24 | [Pablo Motos](http://twitter.com/search?q=Pablo+Motos) | N/A |
+| 25 | [Lobato](http://twitter.com/search?q=Lobato) | N/A |
+| 26 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 27 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 28 | [Crimea](http://twitter.com/search?q=Crimea) | Crimea is a peninsula located in the Black Sea region of Eastern Europe. It is bordered by Ukraine to the north, Russia to the east, and the Black Sea to the south. The meaning of Crimea in English is "peninsula". |
+| 29 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
 | 30 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
-| 31 | [Belén Aguilera](http://twitter.com/search?q=Bel%c3%a9n+Aguilera) | N/A |
-| 32 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 33 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
-| 34 | [URSS](http://twitter.com/search?q=URSS) | N/A |
-| 35 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 36 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
-| 37 | [Sallent](http://twitter.com/search?q=Sallent) | N/A |
-| 38 | [Viernes 24](http://twitter.com/search?q=Viernes+24) | N/A |
-| 39 | [Susana](http://twitter.com/search?q=Susana) | N/A |
-| 40 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 41 | [Rosalía de Castro](http://twitter.com/search?q=Rosal%c3%ada+de+Castro) | N/A |
-| 42 | [Supercopa](http://twitter.com/search?q=Supercopa) | Supercopa is a Spanish football (soccer) tournament that is held annually. It is contested by the winners of the previous season's La Liga and Copa del Rey competitions. The English translation of Supercopa is Super Cup. |
-| 43 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
-| 44 | [#DíadeAndalucía](http://twitter.com/search?q=%23D%c3%adadeAndaluc%c3%ada) | N/A |
-| 45 | [#FelizFinde](http://twitter.com/search?q=%23FelizFinde) | N/A |
-| 46 | [#Irati](http://twitter.com/search?q=%23Irati) | N/A |
-| 47 | [#DAZNF1](http://twitter.com/search?q=%23DAZNF1) | N/A |
-| 48 | [#QueTeVoteTomasote](http://twitter.com/search?q=%23QueTeVoteTomasote) | N/A |
-| 49 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 50 | [#ResidentEvil4Remake](http://twitter.com/search?q=%23ResidentEvil4Remake) | N/A |
+| 31 | [Donbás](http://twitter.com/search?q=Donb%c3%a1s) | N/A |
+| 32 | [El Señor de los Anillos](http://twitter.com/search?q=El+Se%c3%b1or+de+los+Anillos) | N/A |
+| 33 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
+| 34 | [gracie abrams](http://twitter.com/search?q=gracie+abrams) | N/A |
+| 35 | [Belén Aguilera](http://twitter.com/search?q=Bel%c3%a9n+Aguilera) | N/A |
+| 36 | [El 24](http://twitter.com/search?q=El+24) | N/A |
+| 37 | [Iván](http://twitter.com/search?q=Iv%c3%a1n) | N/A |
+| 38 | [Argelia](http://twitter.com/search?q=Argelia) | N/A |
+| 39 | [Natalia Lacunza](http://twitter.com/search?q=Natalia+Lacunza) | N/A |
+| 40 | [Sábado 25](http://twitter.com/search?q=S%c3%a1bado+25) | N/A |
+| 41 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
+| 42 | [Viernes 24](http://twitter.com/search?q=Viernes+24) | N/A |
+| 43 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 44 | [Tolkien](http://twitter.com/search?q=Tolkien) | N/A |
+| 45 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 46 | [Fracaso](http://twitter.com/search?q=Fracaso) | N/A |
+| 47 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 48 | [Sallent](http://twitter.com/search?q=Sallent) | N/A |
+| 49 | [Vía Crucis](http://twitter.com/search?q=V%c3%ada+Crucis) | N/A |
+| 50 | [Rosalía de Castro](http://twitter.com/search?q=Rosal%c3%ada+de+Castro) | N/A |
 
 
 

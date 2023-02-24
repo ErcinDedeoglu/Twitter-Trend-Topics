@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toulouse
 
-📆 Last Updated: `2023-02-24 11:15:43 UTC`
+📆 Last Updated: `2023-02-24 12:17:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,46 @@ This is top 50 for [France](</France>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#SRFCSHA](http://twitter.com/search?q=%23SRFCSHA) | N/A |
-| 2 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 3 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 4 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 5 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 6 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 7 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
-| 8 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 9 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
-| 10 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 11 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 12 | [Belocian](http://twitter.com/search?q=Belocian) | N/A |
-| 13 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 14 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 15 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
-| 16 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 17 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
-| 18 | [Pallois](http://twitter.com/search?q=Pallois) | N/A |
-| 19 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 20 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 21 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 22 | [Doku](http://twitter.com/search?q=Doku) | N/A |
-| 23 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 24 | [Pauleta](http://twitter.com/search?q=Pauleta) | N/A |
-| 25 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 26 | [Turpin](http://twitter.com/search?q=Turpin) | Turpin is a French surname derived from the Old French word torp, meaning "stubborn". It is also a given name, usually for males. In English, it can be used as a nickname for someone who is stubborn or determined. |
-| 27 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
-| 28 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 29 | [Jeff Bezos](http://twitter.com/search?q=Jeff+Bezos) | N/A |
-| 30 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 31 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 32 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
-| 33 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 34 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 35 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 36 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 37 | [Poutine](http://twitter.com/search?q=Poutine) | N/A |
-| 38 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 39 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 40 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 41 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 42 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
-| 43 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 44 | [Lloris](http://twitter.com/search?q=Lloris) | Lloris is a Spanish surname. It is derived from the Latin word "Lorius", which means "lion". In English, the name Lloris can be translated to mean "lion-hearted". |
-| 45 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
-| 46 | [Shanks](http://twitter.com/search?q=Shanks) | N/A |
-| 47 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 48 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 1 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 2 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
+| 3 | [Fribourg](http://twitter.com/search?q=Fribourg) | N/A |
+| 4 | [#nftparis](http://twitter.com/search?q=%23nftparis) | N/A |
+| 5 | [Pauleta](http://twitter.com/search?q=Pauleta) | N/A |
+| 6 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
+| 7 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 8 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
+| 9 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 10 | [pikachu](http://twitter.com/search?q=pikachu) | N/A |
+| 11 | [Dieudonné](http://twitter.com/search?q=Dieudonn%c3%a9) | N/A |
+| 12 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 13 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 14 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 15 | [Polanski](http://twitter.com/search?q=Polanski) | N/A |
+| 16 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
+| 17 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 18 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 19 | [René](http://twitter.com/search?q=Ren%c3%a9) | N/A |
+| 20 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 21 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 22 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 23 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 24 | [Landy](http://twitter.com/search?q=Landy) | N/A |
+| 25 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
+| 26 | [Le 24](http://twitter.com/search?q=Le+24) | N/A |
+| 27 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 28 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
+| 29 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
+| 30 | [Salon](http://twitter.com/search?q=Salon) | N/A |
+| 31 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 32 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 33 | [#Les12CoupsDeMidi](http://twitter.com/search?q=%23Les12CoupsDeMidi) | N/A |
+| 34 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
+| 35 | [#JJK214](http://twitter.com/search?q=%23JJK214) | N/A |
+| 36 | [#SLYMKLEO](http://twitter.com/search?q=%23SLYMKLEO) | N/A |
+| 37 | [#FreebetUnibet](http://twitter.com/search?q=%23FreebetUnibet) | N/A |
+| 38 | [#EstelleMidi](http://twitter.com/search?q=%23EstelleMidi) | N/A |
+| 39 | [#AdeleHaenel](http://twitter.com/search?q=%23AdeleHaenel) | N/A |
+| 40 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
 
 
 

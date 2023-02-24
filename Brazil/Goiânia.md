@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-02-24 11:15:40 UTC`
+📆 Last Updated: `2023-02-24 12:17:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,53 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 2 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 3 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 4 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 5 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 6 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 3 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 4 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 5 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
+| 6 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
 | 7 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
-| 8 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 9 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
-| 10 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 11 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 12 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 13 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 14 | [MAMATA NOS EUA](http://twitter.com/search?q=MAMATA+NOS+EUA) | N/A |
-| 15 | [Pedro Raul](http://twitter.com/search?q=Pedro+Raul) | Pedro Raul is a Spanish name. It is composed of two given names, Pedro and Raul. In English, it would be Peter Paul. |
-| 16 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 17 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 18 | [#BoysPlanetElimination](http://twitter.com/search?q=%23BoysPlanetElimination) | N/A |
-| 19 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 20 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 21 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 8 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 9 | [MAMATA NOS EUA](http://twitter.com/search?q=MAMATA+NOS+EUA) | N/A |
+| 10 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 11 | [gracie abrams](http://twitter.com/search?q=gracie+abrams) | N/A |
+| 12 | [Dia de Grêmio](http://twitter.com/search?q=Dia+de+Gr%c3%aamio) | N/A |
+| 13 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 14 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 15 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 16 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 17 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
+| 18 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
+| 19 | [#foracowboy](http://twitter.com/search?q=%23foracowboy) | N/A |
+| 20 | [Load](http://twitter.com/search?q=Load) | N/A |
+| 21 | [Cristo Jesus](http://twitter.com/search?q=Cristo+Jesus) | N/A |
 | 22 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 23 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 24 | [Titi Muller](http://twitter.com/search?q=Titi+Muller) | N/A |
-| 25 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
-| 26 | [Scalene](http://twitter.com/search?q=Scalene) | N/A |
-| 27 | [Tomás Bertoni](http://twitter.com/search?q=Tom%c3%a1s+Bertoni) | N/A |
-| 28 | [Nenê](http://twitter.com/search?q=Nen%c3%aa) | Nenê is a Brazilian Portuguese nickname meaning "baby" or "little one". It is often used as a term of endearment. |
-| 29 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 30 | [Carina](http://twitter.com/search?q=Carina) | N/A |
-| 31 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
-| 32 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
-| 33 | [#forafrednicacio](http://twitter.com/search?q=%23forafrednicacio) | N/A |
-| 34 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 35 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 36 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 37 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
-| 38 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 39 | [#GoodRiddanceOutNOW](http://twitter.com/search?q=%23GoodRiddanceOutNOW) | N/A |
-| 40 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
-| 41 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
-| 42 | [#ParedaoBBB](http://twitter.com/search?q=%23ParedaoBBB) | #ParedaoBBB is a hashtag used on social media to discuss the Brazilian reality show Big Brother Brasil (BBB). It is used to discuss the show's weekly eliminations, or "paredão," which is Portuguese for "wall." In English, it translates to "Big Brother Brazil Wall." |
-| 43 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
-| 44 | [Gshow](http://twitter.com/search?q=Gshow) | N/A |
-| 45 | [Joga y Joga](http://twitter.com/search?q=Joga+y+Joga) | N/A |
-| 46 | [Cara de Sapato](http://twitter.com/search?q=Cara+de+Sapato) | Cara de Sapato is a Portuguese expression that literally translates to "shoe face." It is used to describe someone who has an expressionless or emotionless face. In English, it can be used to describe someone who has a poker face. |
-| 47 | [TIRIRICA](http://twitter.com/search?q=TIRIRICA) | N/A |
-| 48 | [CRAQUE DO JOGO](http://twitter.com/search?q=CRAQUE+DO+JOGO) | N/A |
-| 49 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 50 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
+| 23 | [José Dirceu](http://twitter.com/search?q=Jos%c3%a9+Dirceu) | N/A |
+| 24 | [azealia](http://twitter.com/search?q=azealia) | N/A |
+| 25 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 26 | [#BoysPlanetElimination](http://twitter.com/search?q=%23BoysPlanetElimination) | N/A |
+| 27 | [BRICS](http://twitter.com/search?q=BRICS) | N/A |
+| 28 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 29 | [VASCO DA GAMA](http://twitter.com/search?q=VASCO+DA+GAMA) | Vasco da Gama was a Portuguese explorer who led the first European expedition to reach India by sea in 1498. He is considered to be one of the most important figures in the Age of Discovery, as his voyage marked the beginning of direct trade and cultural exchange between Europe and Asia. The phrase "Vasco da Gama" is often used to refer to his explorations and accomplishments. In English, it means "Vasco of Gama". |
+| 30 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 31 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 32 | [Scalene](http://twitter.com/search?q=Scalene) | N/A |
+| 33 | [Tomás Bertoni](http://twitter.com/search?q=Tom%c3%a1s+Bertoni) | N/A |
+| 34 | [Titi Muller](http://twitter.com/search?q=Titi+Muller) | N/A |
+| 35 | [Fernanda Montenegro](http://twitter.com/search?q=Fernanda+Montenegro) | N/A |
+| 36 | [#ForaFredNicacio](http://twitter.com/search?q=%23ForaFredNicacio) | N/A |
+| 37 | [Sérgio Ramos](http://twitter.com/search?q=S%c3%a9rgio+Ramos) | N/A |
+| 38 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 39 | [Boulos](http://twitter.com/search?q=Boulos) | N/A |
+| 40 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 41 | [Carla Zambelli](http://twitter.com/search?q=Carla+Zambelli) | Carla Zambelli is an Italian surname. It is derived from the Italian word zambello, which means "bell-maker". The name is most likely derived from the occupation of bell-making, which was a common profession in Italy during the Middle Ages. In English, Carla Zambelli can be translated to mean "bell-maker Carla". |
+| 42 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 43 | [Dulce](http://twitter.com/search?q=Dulce) | N/A |
+| 44 | [Chico Bento](http://twitter.com/search?q=Chico+Bento) | N/A |
+| 45 | [Léo Pelé](http://twitter.com/search?q=L%c3%a9o+Pel%c3%a9) | N/A |
+| 46 | [Van Dijk](http://twitter.com/search?q=Van+Dijk) | Van Dijk is a Dutch surname. It is derived from the Dutch word "dijk", which means "dike" or "dyke". The name is most commonly associated with the Dutch footballer Virgil van Dijk, who currently plays for Liverpool FC. |
+| 47 | [CRAQUE DO JOGO](http://twitter.com/search?q=CRAQUE+DO+JOGO) | N/A |
+| 48 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
+| 49 | [#ParedaoBBB23](http://twitter.com/search?q=%23ParedaoBBB23) | N/A |
 
 
 

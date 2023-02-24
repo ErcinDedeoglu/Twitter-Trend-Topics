@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cebu City
 
-📆 Last Updated: `2023-02-24 11:15:57 UTC`
+📆 Last Updated: `2023-02-24 12:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [JoshCullen OnWishBus](http://twitter.com/search?q=JoshCullen+OnWishBus) | N/A |
-| 2 | [#WILD_TONIGHT_MV_RELEASE](http://twitter.com/search?q=%23WILD_TONIGHT_MV_RELEASE) | N/A |
+| 1 | [#WILD_TONIGHT_MV_RELEASE](http://twitter.com/search?q=%23WILD_TONIGHT_MV_RELEASE) | N/A |
+| 2 | [JoshCullen OnWishBus](http://twitter.com/search?q=JoshCullen+OnWishBus) | N/A |
 | 3 | [#MCIEndingYarn](http://twitter.com/search?q=%23MCIEndingYarn) | N/A |
-| 4 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 5 | [FILAY Endgame](http://twitter.com/search?q=FILAY+Endgame) | N/A |
-| 6 | [#WILDTONIGHT](http://twitter.com/search?q=%23WILDTONIGHT) | N/A |
-| 7 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
-| 8 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 9 | [#TeddyBear3rdWin](http://twitter.com/search?q=%23TeddyBear3rdWin) | N/A |
-| 10 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 11 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 12 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 13 | [MatapangMV](http://twitter.com/search?q=MatapangMV) | N/A |
-| 14 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
-| 15 | [Brownlee](http://twitter.com/search?q=Brownlee) | N/A |
-| 16 | [ALJAY KILIG LIVE](http://twitter.com/search?q=ALJAY+KILIG+LIVE) | N/A |
-| 17 | [ACElebrate with V1NSTER](http://twitter.com/search?q=ACElebrate+with+V1NSTER) | N/A |
-| 18 | [JOY FOR TODS MFW](http://twitter.com/search?q=JOY+FOR+TODS+MFW) | N/A |
-| 19 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 20 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 21 | [PIEnakaMATAPANG VIVOREE](http://twitter.com/search?q=PIEnakaMATAPANG+VIVOREE) | N/A |
-| 22 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
-| 23 | [KeepOnSlayingRSG H2WO](http://twitter.com/search?q=KeepOnSlayingRSG+H2WO) | N/A |
-| 24 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
-| 25 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 26 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 27 | [Xiao Zhan](http://twitter.com/search?q=Xiao+Zhan) | N/A |
-| 28 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 29 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 30 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 31 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 32 | [kiana](http://twitter.com/search?q=kiana) | N/A |
-| 33 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 34 | [#LALISAatCelineKR](http://twitter.com/search?q=%23LALISAatCelineKR) | N/A |
-| 35 | [#FIBAWC](http://twitter.com/search?q=%23FIBAWC) | N/A |
-| 36 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
-| 37 | [#CATOLCH1BLES](http://twitter.com/search?q=%23CATOLCH1BLES) | N/A |
-| 38 | [#JoyxTodsFW23](http://twitter.com/search?q=%23JoyxTodsFW23) | N/A |
-| 39 | [#HORI7ON_REYSTER](http://twitter.com/search?q=%23HORI7ON_REYSTER) | N/A |
-| 40 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
-| 41 | [#GoodJobPBBM](http://twitter.com/search?q=%23GoodJobPBBM) | N/A |
-| 42 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 43 | [#GGRSG](http://twitter.com/search?q=%23GGRSG) | N/A |
-| 44 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
-| 45 | [#KAIA](http://twitter.com/search?q=%23KAIA) | N/A |
-| 46 | [#VivoreeMatapang](http://twitter.com/search?q=%23VivoreeMatapang) | N/A |
-| 47 | [#EDSA37](http://twitter.com/search?q=%23EDSA37) | N/A |
-| 48 | [#NeverForget](http://twitter.com/search?q=%23NeverForget) | N/A |
-| 49 | [#BOYCOTTEBxGMA716](http://twitter.com/search?q=%23BOYCOTTEBxGMA716) | N/A |
-| 50 | [#ENHYPEN_JAY](http://twitter.com/search?q=%23ENHYPEN_JAY) | N/A |
+| 4 | [#WILDTONIGHT](http://twitter.com/search?q=%23WILDTONIGHT) | N/A |
+| 5 | [KDLEX FEB TIX SOLDOUT](http://twitter.com/search?q=KDLEX+FEB+TIX+SOLDOUT) | N/A |
+| 6 | [Mason Amos](http://twitter.com/search?q=Mason+Amos) | N/A |
+| 7 | [FILAY Endgame](http://twitter.com/search?q=FILAY+Endgame) | N/A |
+| 8 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
+| 9 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 10 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
+| 11 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 12 | [ANGELA Wild](http://twitter.com/search?q=ANGELA+Wild) | N/A |
+| 13 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 14 | [NCT HOLLYWOOD](http://twitter.com/search?q=NCT+HOLLYWOOD) | N/A |
+| 15 | [BRENTMANALO ON MATAPANGMV](http://twitter.com/search?q=BRENTMANALO+ON+MATAPANGMV) | N/A |
+| 16 | [Julie Anne San Jose](http://twitter.com/search?q=Julie+Anne+San+Jose) | N/A |
+| 17 | [#LoveMonth4Jennie](http://twitter.com/search?q=%23LoveMonth4Jennie) | N/A |
+| 18 | [Lebanon](http://twitter.com/search?q=Lebanon) | Lebanon is a country in the Middle East, located on the eastern shore of the Mediterranean Sea. Its name comes from the Semitic root lbn, meaning "white," referring to the snow-capped Mount Lebanon. The country is bordered by Syria to the north and east, and Israel to the south. Lebanon is home to a diverse population of Christians, Muslims, and Druze. |
+| 19 | [#FIBAWC](http://twitter.com/search?q=%23FIBAWC) | N/A |
+| 20 | [Hoon](http://twitter.com/search?q=Hoon) | N/A |
+| 21 | [ACElebrate with V1NSTER](http://twitter.com/search?q=ACElebrate+with+V1NSTER) | N/A |
+| 22 | [ALJAY KILIG LIVE](http://twitter.com/search?q=ALJAY+KILIG+LIVE) | N/A |
+| 23 | [Justin Brownlee](http://twitter.com/search?q=Justin+Brownlee) | N/A |
+| 24 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 25 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 26 | [chanyeol](http://twitter.com/search?q=chanyeol) | Chanyeol is a Korean given name, derived from the Chinese characters for "long" and "night". It is usually given to boys and means "eternal night". |
+| 27 | [Philippine Arena](http://twitter.com/search?q=Philippine+Arena) | N/A |
+| 28 | [JOY FOR TODS MFW](http://twitter.com/search?q=JOY+FOR+TODS+MFW) | N/A |
+| 29 | [PIEnakaMATAPANG VIVOREE](http://twitter.com/search?q=PIEnakaMATAPANG+VIVOREE) | N/A |
+| 30 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 31 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 32 | [Dwight](http://twitter.com/search?q=Dwight) | N/A |
+| 33 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 34 | [BenteSingkoLIT NG RALPHGAIL](http://twitter.com/search?q=BenteSingkoLIT+NG+RALPHGAIL) | N/A |
+| 35 | [Maria Clara](http://twitter.com/search?q=Maria+Clara) | N/A |
+| 36 | [UAAP](http://twitter.com/search?q=UAAP) | N/A |
+| 37 | [Mr. Torres](http://twitter.com/search?q=Mr.+Torres) | N/A |
+| 38 | [Ssob](http://twitter.com/search?q=Ssob) | N/A |
+| 39 | [Xiao Zhan](http://twitter.com/search?q=Xiao+Zhan) | N/A |
+| 40 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 41 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 42 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 43 | [EDSA People Power](http://twitter.com/search?q=EDSA+People+Power) | N/A |
+| 44 | [kiana](http://twitter.com/search?q=kiana) | N/A |
+| 45 | [#CATOLCH1BLES](http://twitter.com/search?q=%23CATOLCH1BLES) | N/A |
+| 46 | [#KAIA](http://twitter.com/search?q=%23KAIA) | N/A |
+| 47 | [#ShiningWithLove](http://twitter.com/search?q=%23ShiningWithLove) | N/A |
+| 48 | [#HORI7ON_REYSTER](http://twitter.com/search?q=%23HORI7ON_REYSTER) | N/A |
+| 49 | [#LabanPilipinas](http://twitter.com/search?q=%23LabanPilipinas) | N/A |
+| 50 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
 
 
 

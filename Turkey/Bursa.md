@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bursa
 
-📆 Last Updated: `2023-02-24 11:16:08 UTC`
+📆 Last Updated: `2023-02-24 12:17:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
-| 2 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
-| 3 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 4 | [MuratileBerna Evleniyor](http://twitter.com/search?q=MuratileBerna+Evleniyor) | N/A |
-| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 6 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 7 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
+| 1 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 2 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
+| 3 | [#UEFAEuropaLeague](http://twitter.com/search?q=%23UEFAEuropaLeague) | N/A |
+| 4 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
+| 5 | [Yürekler Beraber Çarpıyor](http://twitter.com/search?q=Y%c3%bcrekler+Beraber+%c3%87arp%c4%b1yor) | N/A |
+| 6 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 7 | [Roma](http://twitter.com/search?q=Roma) | N/A |
 | 8 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 9 | [Yürekler Beraber Çarpıyor](http://twitter.com/search?q=Y%c3%bcrekler+Beraber+%c3%87arp%c4%b1yor) | N/A |
-| 10 | [#UEFAEuropaLeague](http://twitter.com/search?q=%23UEFAEuropaLeague) | N/A |
-| 11 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 12 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 13 | [leverkusen](http://twitter.com/search?q=leverkusen) | N/A |
-| 14 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 15 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 16 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 17 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 18 | [Milli İstihbarat Teşkilatı](http://twitter.com/search?q=Milli+%c4%b0stihbarat+Te%c5%9fkilat%c4%b1) | N/A |
-| 19 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 20 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
-| 21 | [Halil Menci](http://twitter.com/search?q=Halil+Menci) | N/A |
-| 22 | [Kura](http://twitter.com/search?q=Kura) | N/A |
-| 23 | [İsmail](http://twitter.com/search?q=%c4%b0smail) | N/A |
-| 24 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
-| 25 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
-| 26 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
-| 27 | [Seri](http://twitter.com/search?q=Seri) | N/A |
-| 28 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 29 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
-| 30 | [İYİ Parti](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti) | N/A |
-| 31 | [Şampiyonlar](http://twitter.com/search?q=%c5%9eampiyonlar) | N/A |
-| 32 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 33 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
-| 34 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
-| 35 | [24 Şubat](http://twitter.com/search?q=24+%c5%9eubat) | N/A |
-| 36 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 37 | [Koray](http://twitter.com/search?q=Koray) | N/A |
-| 38 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 39 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 40 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 41 | [Banka](http://twitter.com/search?q=Banka) | N/A |
-| 42 | [#EnginAkyürek](http://twitter.com/search?q=%23EnginAky%c3%bcrek) | N/A |
-| 43 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 44 | [#Fenerbahce](http://twitter.com/search?q=%23Fenerbahce) | N/A |
-| 45 | [#DemetÖzdemir](http://twitter.com/search?q=%23Demet%c3%96zdemir) | N/A |
-| 46 | [#EmeklilikteStajaTakılanlar](http://twitter.com/search?q=%23EmeklilikteStajaTak%c4%b1lanlar) | N/A |
-| 47 | [#AsDor](http://twitter.com/search?q=%23AsDor) | N/A |
-| 48 | [#altın](http://twitter.com/search?q=%23alt%c4%b1n) | N/A |
+| 9 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
+| 10 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
+| 11 | [Marcao](http://twitter.com/search?q=Marcao) | N/A |
+| 12 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 13 | [Volkan](http://twitter.com/search?q=Volkan) | Volkan is a Turkish name derived from the word "volk" which means "people" or "nation". In English, it can be translated to mean "of the people". |
+| 14 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 15 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 16 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 17 | [Milli İstihbarat Teşkilatı](http://twitter.com/search?q=Milli+%c4%b0stihbarat+Te%c5%9fkilat%c4%b1) | N/A |
+| 18 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 19 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 20 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
+| 21 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
+| 22 | [AF İSTİYORUZ](http://twitter.com/search?q=AF+%c4%b0ST%c4%b0YORUZ) | N/A |
+| 23 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 24 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 25 | [Halil Menci](http://twitter.com/search?q=Halil+Menci) | N/A |
+| 26 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 27 | [Başarılar](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar) | N/A |
+| 28 | [Kura](http://twitter.com/search?q=Kura) | N/A |
+| 29 | [İYİ Parti](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti) | N/A |
+| 30 | [Kadıköy'de](http://twitter.com/search?q=Kad%c4%b1k%c3%b6y%27de) | Kadıköy'de is a Turkish phrase meaning "in Kadıköy". Kadıköy is a district of Istanbul, Turkey. |
+| 31 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
+| 32 | [Son 16](http://twitter.com/search?q=Son+16) | N/A |
+| 33 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
+| 34 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
+| 35 | [Avrupa'da](http://twitter.com/search?q=Avrupa%27da) | N/A |
+| 36 | [İsmail](http://twitter.com/search?q=%c4%b0smail) | N/A |
+| 37 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
+| 38 | [Şampiyonlar](http://twitter.com/search?q=%c5%9eampiyonlar) | N/A |
+| 39 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
+| 40 | [Seri](http://twitter.com/search?q=Seri) | N/A |
+| 41 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 42 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 43 | [Koray](http://twitter.com/search?q=Koray) | N/A |
+| 44 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 45 | [Fulya](http://twitter.com/search?q=Fulya) | N/A |
+| 46 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 47 | [#MebSartsizTayinVer](http://twitter.com/search?q=%23MebSartsizTayinVer) | N/A |
+| 48 | [#UELdraw](http://twitter.com/search?q=%23UELdraw) | N/A |
 
 
 
