@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-24 18:16:56 UTC`
+📆 Last Updated: `2023-02-24 19:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,46 +17,45 @@ This is top 50 for France
 | ------- | ------------ | ------------ |
 | 1 | [Diacre](http://twitter.com/search?q=Diacre) | N/A |
 | 2 | [#FrandroidOffreMoi](http://twitter.com/search?q=%23FrandroidOffreMoi) | N/A |
-| 3 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
-| 4 | [Katoto](http://twitter.com/search?q=Katoto) | N/A |
-| 5 | [Diani](http://twitter.com/search?q=Diani) | N/A |
-| 6 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
-| 7 | [#StaySelcaDay](http://twitter.com/search?q=%23StaySelcaDay) | N/A |
-| 8 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 9 | [Le Graet](http://twitter.com/search?q=Le+Graet) | Le Graet is a French surname. It is derived from the Old French word "graet," which means "great." In English, it can be translated to mean "the great one." |
-| 10 | [#SondageMeilleurRéal](http://twitter.com/search?q=%23SondageMeilleurR%c3%a9al) | N/A |
-| 11 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
-| 12 | [Bleues](http://twitter.com/search?q=Bleues) | N/A |
-| 13 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 3 | [#ZombehNFT](http://twitter.com/search?q=%23ZombehNFT) | N/A |
+| 4 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
+| 5 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
+| 6 | [La FFF](http://twitter.com/search?q=La+FFF) | N/A |
+| 7 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
+| 8 | [Katoto](http://twitter.com/search?q=Katoto) | N/A |
+| 9 | [Diani](http://twitter.com/search?q=Diani) | N/A |
+| 10 | [#NationalFFF](http://twitter.com/search?q=%23NationalFFF) | N/A |
+| 11 | [Le Graet](http://twitter.com/search?q=Le+Graet) | Le Graet is a French surname. It is derived from the Old French word "graet," which means "great." In English, it can be translated to mean "the great one." |
+| 12 | [Feldup](http://twitter.com/search?q=Feldup) | N/A |
+| 13 | [#StaySelcaDay](http://twitter.com/search?q=%23StaySelcaDay) | N/A |
 | 14 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 15 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
-| 16 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
-| 17 | [Polanski](http://twitter.com/search?q=Polanski) | N/A |
-| 18 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
-| 19 | [Flow](http://twitter.com/search?q=Flow) | N/A |
-| 20 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 21 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 22 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
-| 23 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 24 | [IPTV](http://twitter.com/search?q=IPTV) | N/A |
-| 25 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
-| 26 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 27 | [le 24](http://twitter.com/search?q=le+24) | N/A |
-| 28 | [Kanye](http://twitter.com/search?q=Kanye) | N/A |
-| 29 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 30 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
-| 31 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
-| 32 | [#ILOVEYUGI](http://twitter.com/search?q=%23ILOVEYUGI) | N/A |
-| 33 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
-| 34 | [#nftparis](http://twitter.com/search?q=%23nftparis) | N/A |
-| 35 | [#Lamjarred](http://twitter.com/search?q=%23Lamjarred) | N/A |
-| 36 | [#SLYWIN](http://twitter.com/search?q=%23SLYWIN) | N/A |
-| 37 | [#affaireconclue](http://twitter.com/search?q=%23affaireconclue) | N/A |
-| 38 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 39 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 40 | [#UkraineRussianWar](http://twitter.com/search?q=%23UkraineRussianWar) | N/A |
-| 41 | [#AdeleHaenel](http://twitter.com/search?q=%23AdeleHaenel) | N/A |
-| 42 | [#UkraineWillWin](http://twitter.com/search?q=%23UkraineWillWin) | N/A |
+| 15 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
+| 16 | [Bleues](http://twitter.com/search?q=Bleues) | N/A |
+| 17 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 18 | [Deschamps](http://twitter.com/search?q=Deschamps) | Deschamps is a French surname derived from the Old French word deschamps, meaning "of the fields". It is also a common given name in France. |
+| 19 | [La Chine](http://twitter.com/search?q=La+Chine) | N/A |
+| 20 | [Yémen](http://twitter.com/search?q=Y%c3%a9men) | N/A |
+| 21 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 22 | [Polanski](http://twitter.com/search?q=Polanski) | N/A |
+| 23 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
+| 24 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 25 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 26 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
+| 27 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 28 | [Kirby](http://twitter.com/search?q=Kirby) | Kirby is a series of video games created by Nintendo. The series is named after its main character, Kirby, a pink, spherical creature with the ability to inhale and swallow objects or enemies and copy their abilities. The games typically involve Kirby navigating through levels and defeating enemies to progress. |
+| 29 | [#SondageMeilleurRéal](http://twitter.com/search?q=%23SondageMeilleurR%c3%a9al) | N/A |
+| 30 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 31 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
+| 32 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 33 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 34 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 35 | [#FamillesNombreuses](http://twitter.com/search?q=%23FamillesNombreuses) | N/A |
+| 36 | [#ILOVEYUGI](http://twitter.com/search?q=%23ILOVEYUGI) | N/A |
+| 37 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 38 | [#UkraineRussianWar](http://twitter.com/search?q=%23UkraineRussianWar) | N/A |
+| 39 | [#nftparis](http://twitter.com/search?q=%23nftparis) | N/A |
+| 40 | [#Lamjarred](http://twitter.com/search?q=%23Lamjarred) | N/A |
+| 41 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
 
 
 

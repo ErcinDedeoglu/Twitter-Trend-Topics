@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kayseri
 
-📆 Last Updated: `2023-02-24 18:16:46 UTC`
+📆 Last Updated: `2023-02-24 19:16:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CbYaralarıSarmaya100Bin](http://twitter.com/search?q=%23CbYaralar%c4%b1Sarmaya100Bin) | N/A |
-| 2 | [ÇşbAlımı KpssliYap](http://twitter.com/search?q=%c3%87%c5%9fbAl%c4%b1m%c4%b1+KpssliYap) | N/A |
-| 3 | [#Sivas](http://twitter.com/search?q=%23Sivas) | N/A |
-| 4 | [KÜLLERİMİZDEN DOĞARIZ](http://twitter.com/search?q=K%c3%9cLLER%c4%b0M%c4%b0ZDEN+DO%c4%9eARIZ) | N/A |
-| 5 | [#isiasınmüteahhidinerede](http://twitter.com/search?q=%23isias%c4%b1nm%c3%bcteahhidinerede) | N/A |
-| 6 | [#zorunlucografyadersi](http://twitter.com/search?q=%23zorunlucografyadersi) | N/A |
-| 7 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
-| 8 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 9 | [Adil](http://twitter.com/search?q=Adil) | N/A |
-| 10 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 11 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | Gültekin Uysal is a Turkish name. It is composed of two words: Gültekin, which means "rose garden," and Uysal, which means "obedient." In English, the name would translate to "Rose Garden Obedient." |
-| 12 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 13 | [Konya'da 4.3](http://twitter.com/search?q=Konya%27da+4.3) | N/A |
-| 14 | [Akşener](http://twitter.com/search?q=Ak%c5%9fener) | N/A |
-| 15 | [Enayi](http://twitter.com/search?q=Enayi) | N/A |
-| 16 | [Yürekler Beraber Çarpıyor](http://twitter.com/search?q=Y%c3%bcrekler+Beraber+%c3%87arp%c4%b1yor) | N/A |
-| 17 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
-| 18 | [Afet Yönetimi](http://twitter.com/search?q=Afet+Y%c3%b6netimi) | N/A |
-| 19 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
-| 20 | [Ali Babacan](http://twitter.com/search?q=Ali+Babacan) | Ali Babacan is a Turkish name. It is derived from the Arabic phrase "Ali Baba Khan", which means "noble leader". In English, it can be translated to mean "noble leader Ali". |
-| 21 | [Erkekler](http://twitter.com/search?q=Erkekler) | N/A |
-| 22 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 23 | [Ereğli](http://twitter.com/search?q=Ere%c4%9fli) | N/A |
-| 24 | [Tavuk](http://twitter.com/search?q=Tavuk) | N/A |
-| 25 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
-| 26 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
-| 27 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
-| 28 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 29 | [Yiyin](http://twitter.com/search?q=Yiyin) | N/A |
-| 30 | [Altay](http://twitter.com/search?q=Altay) | Altay is a region in Central Asia that spans parts of Russia, China, Kazakhstan, and Mongolia. The name Altay is derived from the Turkic word for "golden mountain," and it is known for its mountainous terrain and rich cultural heritage. In English, Altay means "Golden Mountain." |
-| 31 | [Şampiyonlar](http://twitter.com/search?q=%c5%9eampiyonlar) | N/A |
-| 32 | [Volkan](http://twitter.com/search?q=Volkan) | Volkan is a Turkish name derived from the word "volk" which means "people" or "nation". In English, it can be translated to mean "of the people". |
-| 33 | [Başarılar](http://twitter.com/search?q=Ba%c5%9far%c4%b1lar) | N/A |
-| 34 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 35 | [Şamil](http://twitter.com/search?q=%c5%9eamil) | N/A |
-| 36 | [#MebSartsizTayinVer](http://twitter.com/search?q=%23MebSartsizTayinVer) | N/A |
-| 37 | [#martayuezyueze](http://twitter.com/search?q=%23martayuezyueze) | N/A |
-| 38 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
-| 39 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
-| 40 | [#StaySelcaDay](http://twitter.com/search?q=%23StaySelcaDay) | N/A |
-| 41 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
-| 42 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 43 | [#AfetiAyayaver](http://twitter.com/search?q=%23AfetiAyayaver) | N/A |
-| 44 | [#SesimiDuyanVarMı](http://twitter.com/search?q=%23SesimiDuyanVarM%c4%b1) | N/A |
-| 45 | [#EmsalimeDokunma](http://twitter.com/search?q=%23EmsalimeDokunma) | N/A |
-| 46 | [#DevletUnutmaz](http://twitter.com/search?q=%23DevletUnutmaz) | N/A |
-| 47 | [#EmeklilikteStajaTakılanlar](http://twitter.com/search?q=%23EmeklilikteStajaTak%c4%b1lanlar) | N/A |
-| 48 | [#GOKNR](http://twitter.com/search?q=%23GOKNR) | N/A |
-| 49 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 1 | [#ZombehNFT](http://twitter.com/search?q=%23ZombehNFT) | N/A |
+| 2 | [#CbYaralarıSarmaya100Bin](http://twitter.com/search?q=%23CbYaralar%c4%b1Sarmaya100Bin) | N/A |
+| 3 | [#zorunlucoğrafyadersi](http://twitter.com/search?q=%23zorunluco%c4%9frafyadersi) | N/A |
+| 4 | [#DUStarihinetlessin](http://twitter.com/search?q=%23DUStarihinetlessin) | N/A |
+| 5 | [KÜLLERİMİZDEN DOĞARIZ](http://twitter.com/search?q=K%c3%9cLLER%c4%b0M%c4%b0ZDEN+DO%c4%9eARIZ) | N/A |
+| 6 | [ÇşbAlımı KpssliYap](http://twitter.com/search?q=%c3%87%c5%9fbAl%c4%b1m%c4%b1+KpssliYap) | N/A |
+| 7 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 8 | [Berke Kutay Şahin](http://twitter.com/search?q=Berke+Kutay+%c5%9eahin) | N/A |
+| 9 | [Çetin Tekindor](http://twitter.com/search?q=%c3%87etin+Tekindor) | N/A |
+| 10 | [Depremzade](http://twitter.com/search?q=Depremzade) | N/A |
+| 11 | [Konya'da 4.3](http://twitter.com/search?q=Konya%27da+4.3) | N/A |
+| 12 | [Kamuran](http://twitter.com/search?q=Kamuran) | N/A |
+| 13 | [AfDiyenle YolumuzBir](http://twitter.com/search?q=AfDiyenle+YolumuzBir) | N/A |
+| 14 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
+| 15 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 16 | [Adil](http://twitter.com/search?q=Adil) | N/A |
+| 17 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 18 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
+| 19 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 20 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | Gültekin Uysal is a Turkish name. It is composed of two words: Gültekin, which means "rose garden," and Uysal, which means "obedient." In English, the name would translate to "Rose Garden Obedient." |
+| 21 | [Akşener](http://twitter.com/search?q=Ak%c5%9fener) | N/A |
+| 22 | [Halis](http://twitter.com/search?q=Halis) | Halis is a Turkish word meaning "gentle" or "kind". It is often used to describe someone who is considerate and caring. |
+| 23 | [Anıtkabir](http://twitter.com/search?q=An%c4%b1tkabir) | Anıtkabir is the mausoleum of Mustafa Kemal Atatürk, the founder and first president of the Republic of Turkey. The word Anıtkabir translates to "memorial tomb" in English. |
+| 24 | [Enayi](http://twitter.com/search?q=Enayi) | N/A |
+| 25 | [Yürekler Beraber Çarpıyor](http://twitter.com/search?q=Y%c3%bcrekler+Beraber+%c3%87arp%c4%b1yor) | N/A |
+| 26 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 27 | [Afet Yönetimi](http://twitter.com/search?q=Afet+Y%c3%b6netimi) | N/A |
+| 28 | [Ali Babacan](http://twitter.com/search?q=Ali+Babacan) | Ali Babacan is a Turkish name. It is derived from the Arabic phrase "Ali Baba Khan", which means "noble leader". In English, it can be translated to mean "noble leader Ali". |
+| 29 | [Yoshi](http://twitter.com/search?q=Yoshi) | N/A |
+| 30 | [Ankaragücü](http://twitter.com/search?q=Ankarag%c3%bcc%c3%bc) | Ankaragücü is a Turkish sports club based in Ankara, Turkey. The club's name translates to "Ankara Sports Club" in English. It is best known for its football team, which competes in the Turkish Süper Lig, the top tier of Turkish football. |
+| 31 | [Erkekler](http://twitter.com/search?q=Erkekler) | N/A |
+| 32 | [Meral](http://twitter.com/search?q=Meral) | N/A |
+| 33 | [İyi Parti](http://twitter.com/search?q=%c4%b0yi+Parti) | N/A |
+| 34 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
+| 35 | [Ereğli](http://twitter.com/search?q=Ere%c4%9fli) | N/A |
+| 36 | [Tavuk](http://twitter.com/search?q=Tavuk) | N/A |
+| 37 | [Şampiyonlar](http://twitter.com/search?q=%c5%9eampiyonlar) | N/A |
+| 38 | [Şamil](http://twitter.com/search?q=%c5%9eamil) | N/A |
+| 39 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 40 | [#Sivas](http://twitter.com/search?q=%23Sivas) | N/A |
+| 41 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
+| 42 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
+| 43 | [#isiasınmüteahhidinerede](http://twitter.com/search?q=%23isias%c4%b1nm%c3%bcteahhidinerede) | N/A |
+| 44 | [#MebSartsizTayinVer](http://twitter.com/search?q=%23MebSartsizTayinVer) | N/A |
+| 45 | [#ekşisözlüksansürükalksın](http://twitter.com/search?q=%23ek%c5%9fis%c3%b6zl%c3%bcksans%c3%bcr%c3%bckalks%c4%b1n) | N/A |
+| 46 | [#martayuezyueze](http://twitter.com/search?q=%23martayuezyueze) | N/A |
+| 47 | [#SesimiDuyanVarMı](http://twitter.com/search?q=%23SesimiDuyanVarM%c4%b1) | N/A |
+| 48 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
+| 49 | [#emsalimedokunma](http://twitter.com/search?q=%23emsalimedokunma) | N/A |
 
 
 

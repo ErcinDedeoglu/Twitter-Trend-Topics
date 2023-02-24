@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-24 18:16:48 UTC`
+📆 Last Updated: `2023-02-24 19:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [United States](</United States>)
 | 2 | [Mavs](http://twitter.com/search?q=Mavs) | Mavs is short for Mavericks, which is a term used to refer to an independent-minded person who is willing to take risks and challenge the status quo. It can also refer to the Dallas Mavericks, an NBA basketball team based in Dallas, Texas. |
 | 3 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 4 | [Justin Holiday](http://twitter.com/search?q=Justin+Holiday) | N/A |
-| 5 | [Alamo](http://twitter.com/search?q=Alamo) | N/A |
-| 6 | [#FreeTheChips](http://twitter.com/search?q=%23FreeTheChips) | N/A |
-| 7 | [#entry](http://twitter.com/search?q=%23entry) | N/A |
-| 8 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
-| 9 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 10 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
-| 11 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 12 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 13 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
-| 14 | [ION TV](http://twitter.com/search?q=ION+TV) | N/A |
-| 15 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 16 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 17 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 18 | [Murdaugh](http://twitter.com/search?q=Murdaugh) | N/A |
-| 19 | [Tink](http://twitter.com/search?q=Tink) | N/A |
-| 20 | [Tropic Thunder](http://twitter.com/search?q=Tropic+Thunder) | N/A |
-| 21 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 22 | [Grant Hill](http://twitter.com/search?q=Grant+Hill) | N/A |
-| 23 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 24 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 25 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
-| 26 | [Memorial Stadium](http://twitter.com/search?q=Memorial+Stadium) | N/A |
+| 5 | [Yeat](http://twitter.com/search?q=Yeat) | N/A |
+| 6 | [Alamo](http://twitter.com/search?q=Alamo) | N/A |
+| 7 | [#ZombehNFT](http://twitter.com/search?q=%23ZombehNFT) | N/A |
+| 8 | [#FreeTheChips](http://twitter.com/search?q=%23FreeTheChips) | N/A |
+| 9 | [#entry](http://twitter.com/search?q=%23entry) | N/A |
+| 10 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
+| 11 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
+| 12 | [Pac-12](http://twitter.com/search?q=Pac-12) | N/A |
+| 13 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 14 | [Grant Hill](http://twitter.com/search?q=Grant+Hill) | N/A |
+| 15 | [ION TV](http://twitter.com/search?q=ION+TV) | N/A |
+| 16 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 17 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 18 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 19 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
+| 20 | [SNEEG](http://twitter.com/search?q=SNEEG) | N/A |
+| 21 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 22 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 23 | [Besame Mucho](http://twitter.com/search?q=Besame+Mucho) | N/A |
+| 24 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 25 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
+| 26 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
 | 27 | [Marine](http://twitter.com/search?q=Marine) | N/A |
-| 28 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 29 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 30 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
-| 31 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 32 | [Kermit Davis](http://twitter.com/search?q=Kermit+Davis) | N/A |
-| 33 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 34 | [Dan Quayle](http://twitter.com/search?q=Dan+Quayle) | N/A |
-| 35 | [Lehecka](http://twitter.com/search?q=Lehecka) | N/A |
-| 36 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 37 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 38 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 39 | [Jinny](http://twitter.com/search?q=Jinny) | N/A |
-| 40 | [Moes](http://twitter.com/search?q=Moes) | N/A |
-| 41 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 42 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 43 | [New Coke](http://twitter.com/search?q=New+Coke) | N/A |
-| 44 | [Hanni](http://twitter.com/search?q=Hanni) | Hanni is a German name derived from the Hebrew name Hannah, meaning “grace” or “favor.” It is also a diminutive form of the name Johanna. |
-| 45 | [Chris Beard](http://twitter.com/search?q=Chris+Beard) | Chris Beard is a slang term used to describe someone who is attractive, stylish, and well-groomed. It is derived from the phrase “clean-shaven” and is often used to describe men who have neatly trimmed facial hair. |
-| 46 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 47 | [Pete Carroll](http://twitter.com/search?q=Pete+Carroll) | Pete Carroll is the head coach of the Seattle Seahawks of the National Football League (NFL). He is known for his innovative approach to coaching and his ability to motivate players. The phrase "Pete Carroll" has come to mean a leader who is willing to take risks and push boundaries in order to achieve success. |
-| 48 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 49 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 50 | [Yeat](http://twitter.com/search?q=Yeat) | N/A |
+| 28 | [Kapanen](http://twitter.com/search?q=Kapanen) | N/A |
+| 29 | [Tink](http://twitter.com/search?q=Tink) | N/A |
+| 30 | [Tropic Thunder](http://twitter.com/search?q=Tropic+Thunder) | N/A |
+| 31 | [Murdaugh](http://twitter.com/search?q=Murdaugh) | N/A |
+| 32 | [Memorial Stadium](http://twitter.com/search?q=Memorial+Stadium) | N/A |
+| 33 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
+| 34 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 35 | [Tenz](http://twitter.com/search?q=Tenz) | N/A |
+| 36 | [Spencer Knight](http://twitter.com/search?q=Spencer+Knight) | N/A |
+| 37 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 38 | [Spin Bout U](http://twitter.com/search?q=Spin+Bout+U) | N/A |
+| 39 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
+| 40 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 41 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 42 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 43 | [Moes](http://twitter.com/search?q=Moes) | N/A |
+| 44 | [Northeastern](http://twitter.com/search?q=Northeastern) | N/A |
+| 45 | [Brett Baty](http://twitter.com/search?q=Brett+Baty) | N/A |
+| 46 | [Ice Age](http://twitter.com/search?q=Ice+Age) | N/A |
+| 47 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 48 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 49 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 50 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jakarta
 
-📆 Last Updated: `2023-02-24 18:16:28 UTC`
+📆 Last Updated: `2023-02-24 19:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#TheHarmonyOfSisca](http://twitter.com/search?q=%23TheHarmonyOfSisca) | N/A |
-| 2 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 3 | [Prabowo Pilihan Kita](http://twitter.com/search?q=Prabowo+Pilihan+Kita) | N/A |
-| 4 | [#StaySelcaDay](http://twitter.com/search?q=%23StaySelcaDay) | N/A |
-| 5 | [Agam](http://twitter.com/search?q=Agam) | N/A |
-| 6 | [HAECHAN ACE](http://twitter.com/search?q=HAECHAN+ACE) | N/A |
-| 7 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
-| 8 | [READY TO BE CAPTIVATED](http://twitter.com/search?q=READY+TO+BE+CAPTIVATED) | N/A |
-| 9 | [Sosis](http://twitter.com/search?q=Sosis) | N/A |
-| 10 | [Gajah](http://twitter.com/search?q=Gajah) | N/A |
-| 11 | [RECORD MAKER YEJI](http://twitter.com/search?q=RECORD+MAKER+YEJI) | N/A |
-| 12 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
-| 13 | [nct tokyo](http://twitter.com/search?q=nct+tokyo) | N/A |
-| 14 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 15 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
-| 16 | [WAR IS OVER](http://twitter.com/search?q=WAR+IS+OVER) | N/A |
-| 17 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 18 | [GERD](http://twitter.com/search?q=GERD) | N/A |
-| 19 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
-| 20 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
-| 21 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 22 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 23 | [tarki](http://twitter.com/search?q=tarki) | N/A |
-| 24 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 25 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 26 | [#스트레이키즈](http://twitter.com/search?q=%23%ec%8a%a4%ed%8a%b8%eb%a0%88%ec%9d%b4%ed%82%a4%ec%a6%88) | N/A |
-| 27 | [#OhMyHaewonDay](http://twitter.com/search?q=%23OhMyHaewonDay) | N/A |
-| 28 | [#ROCKY](http://twitter.com/search?q=%23ROCKY) | N/A |
-| 29 | [#30SammySideUp](http://twitter.com/search?q=%2330SammySideUp) | N/A |
-| 30 | [#StayBeautiful](http://twitter.com/search?q=%23StayBeautiful) | N/A |
-| 31 | [#GiselleDeserveBetter](http://twitter.com/search?q=%23GiselleDeserveBetter) | N/A |
-| 32 | [#우주의_정원에서_우정을_만난_건_7_럭키야](http://twitter.com/search?q=%23%ec%9a%b0%ec%a3%bc%ec%9d%98_%ec%a0%95%ec%9b%90%ec%97%90%ec%84%9c_%ec%9a%b0%ec%a0%95%ec%9d%84_%eb%a7%8c%eb%82%9c_%ea%b1%b4_7_%eb%9f%ad%ed%82%a4%ec%95%bc) | N/A |
-| 33 | [#LeeKnow](http://twitter.com/search?q=%23LeeKnow) | N/A |
-| 34 | [#BangChan](http://twitter.com/search?q=%23BangChan) | N/A |
-| 35 | [#TaxiDriver2Ep3](http://twitter.com/search?q=%23TaxiDriver2Ep3) | N/A |
-| 36 | [#Hyunjin](http://twitter.com/search?q=%23Hyunjin) | N/A |
-| 37 | [#TWICE_ConceptPhotoD4](http://twitter.com/search?q=%23TWICE_ConceptPhotoD4) | N/A |
-| 38 | [#SuaraMantraTerkutuk](http://twitter.com/search?q=%23SuaraMantraTerkutuk) | N/A |
-| 39 | [#AOTMYEJI_50MVIEWS](http://twitter.com/search?q=%23AOTMYEJI_50MVIEWS) | N/A |
-| 40 | [#CaraMeminumRamuneJKT48](http://twitter.com/search?q=%23CaraMeminumRamuneJKT48) | N/A |
-| 41 | [#MakinManTAB](http://twitter.com/search?q=%23MakinManTAB) | N/A |
-| 42 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 43 | [#아스트로](http://twitter.com/search?q=%23%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c) | N/A |
-| 44 | [#NewBrightening](http://twitter.com/search?q=%23NewBrightening) | N/A |
-| 45 | [#TranexamicSerum](http://twitter.com/search?q=%23TranexamicSerum) | N/A |
-| 46 | [#OPPOReno8TdiShopee](http://twitter.com/search?q=%23OPPOReno8TdiShopee) | N/A |
-| 47 | [#OPPOPortraitofLoveXShopee](http://twitter.com/search?q=%23OPPOPortraitofLoveXShopee) | N/A |
+| 1 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 2 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 3 | [David](http://twitter.com/search?q=David) | N/A |
+| 4 | [Prabowo Pilihan Kita](http://twitter.com/search?q=Prabowo+Pilihan+Kita) | N/A |
+| 5 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
+| 6 | [#TokocryptoforBLK2023](http://twitter.com/search?q=%23TokocryptoforBLK2023) | N/A |
+| 7 | [mengabdi tanpa lelah](http://twitter.com/search?q=mengabdi+tanpa+lelah) | N/A |
+| 8 | [prabowo untuk indonesia](http://twitter.com/search?q=prabowo+untuk+indonesia) | N/A |
+| 9 | [setujuuu mending prabowo](http://twitter.com/search?q=setujuuu+mending+prabowo) | N/A |
+| 10 | [BulanLiterasiKripto](http://twitter.com/search?q=BulanLiterasiKripto) | N/A |
+| 11 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
+| 12 | [#SiEnengGoPublic](http://twitter.com/search?q=%23SiEnengGoPublic) | N/A |
+| 13 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
+| 14 | [cs misterius bca](http://twitter.com/search?q=cs+misterius+bca) | N/A |
+| 15 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 16 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 17 | [valid no debat](http://twitter.com/search?q=valid+no+debat) | N/A |
+| 18 | [Rafael Alun Trisambodo](http://twitter.com/search?q=Rafael+Alun+Trisambodo) | N/A |
+| 19 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
+| 20 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 21 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 22 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 23 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 24 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 25 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
+| 26 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 27 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 28 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 29 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
+| 30 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
+| 31 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 32 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 33 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
+| 34 | [danamon](http://twitter.com/search?q=danamon) | N/A |
+| 35 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 36 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 37 | [Biadab](http://twitter.com/search?q=Biadab) | N/A |
+| 38 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
+| 39 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 40 | [petisi 99 kyai](http://twitter.com/search?q=petisi+99+kyai) | N/A |
+| 41 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
+| 42 | [Kelas 8](http://twitter.com/search?q=Kelas+8) | N/A |
+| 43 | [exo is exoing](http://twitter.com/search?q=exo+is+exoing) | N/A |
+| 44 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 45 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 46 | [Traveloka](http://twitter.com/search?q=Traveloka) | N/A |
+| 47 | [Bapaknya](http://twitter.com/search?q=Bapaknya) | N/A |
+| 48 | [Sri Mulyani](http://twitter.com/search?q=Sri+Mulyani) | N/A |
 
 
 

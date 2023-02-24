@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-24 18:16:22 UTC`
+📆 Last Updated: `2023-02-24 19:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,50 +19,50 @@ This is top 50 for [Germany](</Germany>)
 | 2 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
 | 3 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
 | 4 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 5 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 6 | [Uni Bonn](http://twitter.com/search?q=Uni+Bonn) | N/A |
-| 7 | [Helga](http://twitter.com/search?q=Helga) | N/A |
-| 8 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
-| 9 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 10 | [Begeisterung an die Front](http://twitter.com/search?q=Begeisterung+an+die+Front) | N/A |
-| 11 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 12 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
-| 13 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
-| 14 | [Jörg](http://twitter.com/search?q=J%c3%b6rg) | N/A |
+| 5 | [Begeisterung an die Front](http://twitter.com/search?q=Begeisterung+an+die+Front) | N/A |
+| 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 7 | [BASF](http://twitter.com/search?q=BASF) | N/A |
+| 8 | [Uni Bonn](http://twitter.com/search?q=Uni+Bonn) | N/A |
+| 9 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 10 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
+| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 12 | [Helga](http://twitter.com/search?q=Helga) | N/A |
+| 13 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 14 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
 | 15 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
-| 16 | [Botschaft in Berlin](http://twitter.com/search?q=Botschaft+in+Berlin) | N/A |
-| 17 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
-| 18 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 16 | [Jörg](http://twitter.com/search?q=J%c3%b6rg) | N/A |
+| 17 | [Halsband](http://twitter.com/search?q=Halsband) | N/A |
+| 18 | [Botschaft in Berlin](http://twitter.com/search?q=Botschaft+in+Berlin) | N/A |
 | 19 | [Pubertätsblocker](http://twitter.com/search?q=Pubert%c3%a4tsblocker) | N/A |
-| 20 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 21 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 20 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
+| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 22 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
 | 23 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
 | 24 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 25 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 26 | [Schlesinger](http://twitter.com/search?q=Schlesinger) | N/A |
-| 27 | [Henning](http://twitter.com/search?q=Henning) | N/A |
-| 28 | [Gisela](http://twitter.com/search?q=Gisela) | N/A |
-| 29 | [Theaterplatz](http://twitter.com/search?q=Theaterplatz) | N/A |
-| 30 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
+| 25 | [Ein Jahr Krieg](http://twitter.com/search?q=Ein+Jahr+Krieg) | N/A |
+| 26 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
+| 27 | [Schlesinger](http://twitter.com/search?q=Schlesinger) | N/A |
+| 28 | [Schönen Abend](http://twitter.com/search?q=Sch%c3%b6nen+Abend) | N/A |
+| 29 | [Lohn](http://twitter.com/search?q=Lohn) | N/A |
+| 30 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
 | 31 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
 | 32 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 33 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 34 | [Professorin](http://twitter.com/search?q=Professorin) | N/A |
-| 35 | [Peter Lustig](http://twitter.com/search?q=Peter+Lustig) | N/A |
-| 36 | [freitod](http://twitter.com/search?q=freitod) | N/A |
-| 37 | [Universität Bonn](http://twitter.com/search?q=Universit%c3%a4t+Bonn) | N/A |
-| 38 | [Schneeregen](http://twitter.com/search?q=Schneeregen) | N/A |
+| 33 | [Professorin](http://twitter.com/search?q=Professorin) | N/A |
+| 34 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 35 | [Universität Bonn](http://twitter.com/search?q=Universit%c3%a4t+Bonn) | N/A |
+| 36 | [Peter Lustig](http://twitter.com/search?q=Peter+Lustig) | N/A |
+| 37 | [Kaufmann](http://twitter.com/search?q=Kaufmann) | N/A |
+| 38 | [Theaterplatz](http://twitter.com/search?q=Theaterplatz) | N/A |
 | 39 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
-| 40 | ['Nähe'](http://twitter.com/search?q=%27N%c3%a4he%27) | N/A |
-| 41 | [Verkommenheit](http://twitter.com/search?q=Verkommenheit) | N/A |
-| 42 | [Enthaltungen](http://twitter.com/search?q=Enthaltungen) | N/A |
-| 43 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
-| 44 | [FreUtag](http://twitter.com/search?q=FreUtag) | N/A |
-| 45 | [Halsband](http://twitter.com/search?q=Halsband) | N/A |
-| 46 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 47 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 48 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 40 | ['nähe'](http://twitter.com/search?q=%27n%c3%a4he%27) | N/A |
+| 41 | [Enthaltungen](http://twitter.com/search?q=Enthaltungen) | N/A |
+| 42 | [Verkommenheit](http://twitter.com/search?q=Verkommenheit) | N/A |
+| 43 | [Schneeregen](http://twitter.com/search?q=Schneeregen) | N/A |
+| 44 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 45 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 46 | [Precht](http://twitter.com/search?q=Precht) | N/A |
+| 47 | [FreUtag](http://twitter.com/search?q=FreUtag) | N/A |
+| 48 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
 
 
 
