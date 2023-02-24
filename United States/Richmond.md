@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Richmond
 
-📆 Last Updated: `2023-02-24 09:16:48 UTC`
+📆 Last Updated: `2023-02-24 10:16:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [United States](</United States>)
 | 2 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 3 | [daeul](http://twitter.com/search?q=daeul) | N/A |
 | 4 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 5 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 6 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 7 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
-| 8 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 9 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
-| 10 | [Yeat](http://twitter.com/search?q=Yeat) | N/A |
-| 11 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 12 | [Tink](http://twitter.com/search?q=Tink) | N/A |
-| 13 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 14 | [Beasley](http://twitter.com/search?q=Beasley) | N/A |
-| 15 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 16 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
-| 17 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 18 | [#GreysAnatomy](http://twitter.com/search?q=%23GreysAnatomy) | N/A |
-| 19 | [#MananaSeraBonito](http://twitter.com/search?q=%23MananaSeraBonito) | N/A |
-| 20 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
-| 21 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 22 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
-| 23 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
-| 24 | [Tus Gafitas](http://twitter.com/search?q=Tus+Gafitas) | N/A |
-| 25 | [Ojos Ferrari](http://twitter.com/search?q=Ojos+Ferrari) | N/A |
-| 26 | [GUCCI LOS PAÑOS](http://twitter.com/search?q=GUCCI+LOS+PA%c3%91OS) | N/A |
-| 27 | [Walker Kessler](http://twitter.com/search?q=Walker+Kessler) | Walker Kessler is a professional basketball player from the United States. He currently plays for the University of Georgia Bulldogs. His name is derived from his father's middle name, Walker, and his mother's maiden name, Kessler. The name has no particular meaning in English. |
-| 28 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 29 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
-| 30 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 31 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
-| 32 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
-| 33 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 34 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
-| 35 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
-| 36 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
-| 37 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
-| 38 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 39 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 40 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 41 | [jingoo](http://twitter.com/search?q=jingoo) | N/A |
-| 42 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
-| 43 | [LeBron and AD](http://twitter.com/search?q=LeBron+and+AD) | LeBron and AD is a reference to the two basketball superstars LeBron James and Anthony Davis, who currently play together on the Los Angeles Lakers. The phrase is often used to refer to the duo's formidable presence on the court. |
-| 44 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
-| 45 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
-| 46 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
+| 5 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 6 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 7 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 8 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
+| 9 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
+| 10 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 11 | [Yeat](http://twitter.com/search?q=Yeat) | N/A |
+| 12 | [#LakeShow](http://twitter.com/search?q=%23LakeShow) | #LakeShow is a hashtag used by fans of the Los Angeles Lakers, a professional basketball team in the National Basketball Association (NBA). It is used to show support for the team and to share news and updates about the team. |
+| 13 | [Tink](http://twitter.com/search?q=Tink) | N/A |
+| 14 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 15 | [#Wordle615](http://twitter.com/search?q=%23Wordle615) | N/A |
+| 16 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
+| 17 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 18 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 19 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 20 | [Malik Beasley](http://twitter.com/search?q=Malik+Beasley) | N/A |
+| 21 | [Grizzlies](http://twitter.com/search?q=Grizzlies) | Grizzlies are a species of large brown bears native to North America. They are typically found in mountainous regions and can weigh up to 800 pounds. The name "grizzly" comes from the silver-tipped hairs on their fur, which give them a grizzled appearance. |
+| 22 | [Halsey](http://twitter.com/search?q=Halsey) | N/A |
+| 23 | [Sixers](http://twitter.com/search?q=Sixers) | Sixers is a nickname for the Philadelphia 76ers, a professional basketball team based in Philadelphia, Pennsylvania. The name is derived from the team's original ownership group, which was made up of six investors. |
+| 24 | [Poole](http://twitter.com/search?q=Poole) | Poole is a town in Dorset, England. It is located on the south coast of England, between Bournemouth and Southampton. The name Poole is derived from the Old English word pol, meaning a pool or creek. |
+| 25 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 26 | [TUS GAFITAS](http://twitter.com/search?q=TUS+GAFITAS) | N/A |
+| 27 | [Ojos Ferrari](http://twitter.com/search?q=Ojos+Ferrari) | N/A |
+| 28 | [GUCCI LOS PAÑOS](http://twitter.com/search?q=GUCCI+LOS+PA%c3%91OS) | N/A |
+| 29 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 30 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 31 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 32 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
+| 33 | [Reaves](http://twitter.com/search?q=Reaves) | Reaves is a surname of English origin. It is derived from the Old French word "reves," meaning "dreams." The name is thought to have been given to someone who was known for having prophetic dreams. |
+| 34 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
+| 35 | [Wiggins](http://twitter.com/search?q=Wiggins) | Wiggins is a slang term used to describe someone who is clumsy or awkward. It can also be used to describe someone who is not very intelligent. |
+| 36 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
+| 37 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 38 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 39 | [jingoo](http://twitter.com/search?q=jingoo) | N/A |
+| 40 | [Lauri](http://twitter.com/search?q=Lauri) | Lauri is a Finnish name derived from the Latin name Laurentius, meaning "from Laurentum". It is also a variant of the English name Lawrence. |
+| 41 | [Lonnie](http://twitter.com/search?q=Lonnie) | N/A |
+| 42 | [haruto](http://twitter.com/search?q=haruto) | N/A |
+| 43 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 44 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
+| 45 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
+| 46 | [Harden](http://twitter.com/search?q=Harden) | Harden is a verb meaning to become or make something harder, stronger, or more solid. It can also mean to become more determined or resolute. |
 | 47 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 48 | [Embiid](http://twitter.com/search?q=Embiid) | Embiid is the surname of Philadelphia 76ers basketball player Joel Embiid. It is a Cameroonian surname, derived from the name of a village in Cameroon. |
-| 49 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 48 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 49 | [Meredith](http://twitter.com/search?q=Meredith) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cagayan de Oro
 
-📆 Last Updated: `2023-02-24 09:16:30 UTC`
+📆 Last Updated: `2023-02-24 10:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,53 +16,52 @@ This is top 50 for [Philippines](</Philippines>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 2 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
-| 3 | [#LALISAatCelineKR](http://twitter.com/search?q=%23LALISAatCelineKR) | N/A |
-| 4 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 5 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 6 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
-| 7 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 8 | [PIEnakaMATAPANG VIVOREE](http://twitter.com/search?q=PIEnakaMATAPANG+VIVOREE) | N/A |
-| 9 | [#MCIEndingYarn](http://twitter.com/search?q=%23MCIEndingYarn) | N/A |
-| 10 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 11 | [ACElebrate with V1NSTER](http://twitter.com/search?q=ACElebrate+with+V1NSTER) | N/A |
-| 12 | [JCWildTonight OUT NOW](http://twitter.com/search?q=JCWildTonight+OUT+NOW) | N/A |
-| 13 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 14 | [KeepOnSlayingRSG H2WO](http://twitter.com/search?q=KeepOnSlayingRSG+H2WO) | N/A |
-| 15 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 16 | [abel](http://twitter.com/search?q=abel) | N/A |
-| 17 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 18 | [WORLD TOUR](http://twitter.com/search?q=WORLD+TOUR) | N/A |
-| 19 | [Carmelo Anthony](http://twitter.com/search?q=Carmelo+Anthony) | N/A |
-| 20 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 21 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 22 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 23 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
-| 24 | [haruto](http://twitter.com/search?q=haruto) | N/A |
-| 25 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 26 | [kiana](http://twitter.com/search?q=kiana) | N/A |
-| 27 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 28 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
-| 29 | [Suho](http://twitter.com/search?q=Suho) | N/A |
-| 30 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
-| 31 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 32 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 33 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 34 | [Milan](http://twitter.com/search?q=Milan) | N/A |
-| 35 | [#AKNPConfrontation](http://twitter.com/search?q=%23AKNPConfrontation) | N/A |
-| 36 | [#CATOLCH1BLES](http://twitter.com/search?q=%23CATOLCH1BLES) | N/A |
-| 37 | [#BatangShowtimeTo](http://twitter.com/search?q=%23BatangShowtimeTo) | N/A |
-| 38 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
-| 39 | [#GGRSG](http://twitter.com/search?q=%23GGRSG) | N/A |
-| 40 | [#GoodJobPBBM](http://twitter.com/search?q=%23GoodJobPBBM) | N/A |
-| 41 | [#JoshCullenSoloDebut](http://twitter.com/search?q=%23JoshCullenSoloDebut) | N/A |
-| 42 | [#FIBAWC](http://twitter.com/search?q=%23FIBAWC) | N/A |
-| 43 | [#EDSA37](http://twitter.com/search?q=%23EDSA37) | N/A |
-| 44 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
-| 45 | [#TodsFW23](http://twitter.com/search?q=%23TodsFW23) | N/A |
-| 46 | [#HORI7ON_REYSTER](http://twitter.com/search?q=%23HORI7ON_REYSTER) | N/A |
-| 47 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
-| 48 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 2 | [#MCIEndingYarn](http://twitter.com/search?q=%23MCIEndingYarn) | N/A |
+| 3 | [JoshCullen OnWishBus](http://twitter.com/search?q=JoshCullen+OnWishBus) | N/A |
+| 4 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 5 | [#LALISAatCelineKR](http://twitter.com/search?q=%23LALISAatCelineKR) | N/A |
+| 6 | [#TeddyBear3rdWin](http://twitter.com/search?q=%23TeddyBear3rdWin) | N/A |
+| 7 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 8 | [FILAY Endgame](http://twitter.com/search?q=FILAY+Endgame) | N/A |
+| 9 | [jeonghan](http://twitter.com/search?q=jeonghan) | Jeonghan is a Korean given name, usually for males. It is composed of two characters: "Jeong" meaning "righteous" and "Han" meaning "greatness". In English, Jeonghan can be translated to mean "righteous greatness". |
+| 10 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 11 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 12 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 13 | [PIEnakaMATAPANG VIVOREE](http://twitter.com/search?q=PIEnakaMATAPANG+VIVOREE) | N/A |
+| 14 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
+| 15 | [ACElebrate with V1NSTER](http://twitter.com/search?q=ACElebrate+with+V1NSTER) | N/A |
+| 16 | [KeepOnSlayingRSG H2WO](http://twitter.com/search?q=KeepOnSlayingRSG+H2WO) | N/A |
+| 17 | [JCWildTonight OUT NOW](http://twitter.com/search?q=JCWildTonight+OUT+NOW) | N/A |
+| 18 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 19 | [abel](http://twitter.com/search?q=abel) | N/A |
+| 20 | [WORLD TOUR](http://twitter.com/search?q=WORLD+TOUR) | N/A |
+| 21 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 22 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 23 | [Xiao Zhan](http://twitter.com/search?q=Xiao+Zhan) | N/A |
+| 24 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
+| 25 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 26 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 27 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
+| 28 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 29 | [junmyeon](http://twitter.com/search?q=junmyeon) | Junmyeon is a Korean name, and it means "truthful and righteous". |
+| 30 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
+| 31 | [#FIBAWC](http://twitter.com/search?q=%23FIBAWC) | N/A |
+| 32 | [#CATOLCH1BLES](http://twitter.com/search?q=%23CATOLCH1BLES) | N/A |
+| 33 | [#JoyxTods](http://twitter.com/search?q=%23JoyxTods) | N/A |
+| 34 | [#AKNPConfrontation](http://twitter.com/search?q=%23AKNPConfrontation) | N/A |
+| 35 | [#GoodJobPBBM](http://twitter.com/search?q=%23GoodJobPBBM) | N/A |
+| 36 | [#GGRSG](http://twitter.com/search?q=%23GGRSG) | N/A |
+| 37 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
+| 38 | [#HORI7ON_VINCI](http://twitter.com/search?q=%23HORI7ON_VINCI) | N/A |
+| 39 | [#TodsFW23](http://twitter.com/search?q=%23TodsFW23) | N/A |
+| 40 | [#HORI7ON_REYSTER](http://twitter.com/search?q=%23HORI7ON_REYSTER) | N/A |
+| 41 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 42 | [#EDSA37](http://twitter.com/search?q=%23EDSA37) | N/A |
+| 43 | [#BOYCOTTEBxGMA716](http://twitter.com/search?q=%23BOYCOTTEBxGMA716) | N/A |
+| 44 | [#NeverForget](http://twitter.com/search?q=%23NeverForget) | N/A |
+| 45 | [#ENHYPEN_JAY](http://twitter.com/search?q=%23ENHYPEN_JAY) | N/A |
+| 46 | [#BOYSPLANET](http://twitter.com/search?q=%23BOYSPLANET) | #BOYSPLANET is a hashtag used on social media to celebrate and promote the achievements of boys and young men. It is often used to recognize the successes of boys in areas such as education, sports, and business. The hashtag is also used to raise awareness about issues that affect boys and young men, such as mental health, bullying, and gender equality. |
+| 47 | [#LovINKTheSky](http://twitter.com/search?q=%23LovINKTheSky) | N/A |
 
 
 

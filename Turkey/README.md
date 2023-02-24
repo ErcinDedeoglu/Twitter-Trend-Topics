@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turkey
 
-📆 Last Updated: `2023-02-24 09:16:57 UTC`
+📆 Last Updated: `2023-02-24 10:16:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,56 @@ This is top 50 for Turkey
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [MuratileBerna Evleniyor](http://twitter.com/search?q=MuratileBerna+Evleniyor) | N/A |
-| 2 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 3 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 4 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
+| 1 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
+| 2 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
+| 3 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 4 | [MuratileBerna Evleniyor](http://twitter.com/search?q=MuratileBerna+Evleniyor) | N/A |
 | 5 | [Yürekler Beraber Çarpıyor](http://twitter.com/search?q=Y%c3%bcrekler+Beraber+%c3%87arp%c4%b1yor) | N/A |
-| 6 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
+| 6 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
 | 7 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 8 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
 | 9 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 10 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
-| 11 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 12 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 14 | [#EmeklilikteStajaTakılanlar](http://twitter.com/search?q=%23EmeklilikteStajaTak%c4%b1lanlar) | N/A |
-| 15 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 16 | [#ProtestoEdiyorum](http://twitter.com/search?q=%23ProtestoEdiyorum) | N/A |
-| 17 | [Halil Menci](http://twitter.com/search?q=Halil+Menci) | N/A |
-| 18 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 19 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 20 | [#BitciFanTokenYeniden](http://twitter.com/search?q=%23BitciFanTokenYeniden) | N/A |
+| 10 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 11 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 12 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 13 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 14 | [Manu](http://twitter.com/search?q=Manu) | N/A |
+| 15 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
+| 16 | [#DemetÖzdemir](http://twitter.com/search?q=%23Demet%c3%96zdemir) | N/A |
+| 17 | [#EnginAkyürek](http://twitter.com/search?q=%23EnginAky%c3%bcrek) | N/A |
+| 18 | [Cumamız Mübarek Olsun](http://twitter.com/search?q=Cumam%c4%b1z+M%c3%bcbarek+Olsun) | N/A |
+| 19 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 20 | [Halil Menci](http://twitter.com/search?q=Halil+Menci) | N/A |
 | 21 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 22 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 22 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
 | 23 | [Seri](http://twitter.com/search?q=Seri) | N/A |
-| 24 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 25 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
-| 26 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
-| 27 | [Koray](http://twitter.com/search?q=Koray) | N/A |
-| 28 | [24 Şubat](http://twitter.com/search?q=24+%c5%9eubat) | N/A |
+| 24 | [İsmail](http://twitter.com/search?q=%c4%b0smail) | N/A |
+| 25 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
+| 26 | [24 Şubat](http://twitter.com/search?q=24+%c5%9eubat) | N/A |
+| 27 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
+| 28 | [İYİ Parti](http://twitter.com/search?q=%c4%b0Y%c4%b0+Parti) | N/A |
 | 29 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 30 | [İsmail](http://twitter.com/search?q=%c4%b0smail) | N/A |
-| 31 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
-| 32 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
-| 33 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
-| 34 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
-| 35 | [Günün](http://twitter.com/search?q=G%c3%bcn%c3%bcn) | N/A |
-| 36 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
-| 37 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 38 | [Banka](http://twitter.com/search?q=Banka) | N/A |
-| 39 | [Cihan](http://twitter.com/search?q=Cihan) | N/A |
-| 40 | [#AdımFarah](http://twitter.com/search?q=%23Ad%c4%b1mFarah) | N/A |
-| 41 | [#KORDS](http://twitter.com/search?q=%23KORDS) | N/A |
-| 42 | [#99OEncesiHaklarlaEYT](http://twitter.com/search?q=%2399OEncesiHaklarlaEYT) | N/A |
-| 43 | [#Fenerbahce](http://twitter.com/search?q=%23Fenerbahce) | N/A |
-| 44 | [#HAARP](http://twitter.com/search?q=%23HAARP) | N/A |
-| 45 | [#ENJSA](http://twitter.com/search?q=%23ENJSA) | N/A |
-| 46 | [#EMADDER](http://twitter.com/search?q=%23EMADDER) | N/A |
-| 47 | [#smrtg](http://twitter.com/search?q=%23smrtg) | N/A |
+| 30 | [Koray](http://twitter.com/search?q=Koray) | N/A |
+| 31 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
+| 32 | [Günaydınnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnn) | N/A |
+| 33 | [Ertem](http://twitter.com/search?q=Ertem) | N/A |
+| 34 | [Resmi Gazete'de](http://twitter.com/search?q=Resmi+Gazete%27de) | N/A |
+| 35 | [Ahmet Hakan](http://twitter.com/search?q=Ahmet+Hakan) | N/A |
+| 36 | [Şampiyonlar](http://twitter.com/search?q=%c5%9eampiyonlar) | N/A |
+| 37 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 38 | [Bakan Kurum](http://twitter.com/search?q=Bakan+Kurum) | N/A |
+| 39 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 40 | [Günün](http://twitter.com/search?q=G%c3%bcn%c3%bcn) | N/A |
+| 41 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 42 | [Banka](http://twitter.com/search?q=Banka) | N/A |
+| 43 | [Cihan](http://twitter.com/search?q=Cihan) | N/A |
+| 44 | [#EmeklilikteStajaTakılanlar](http://twitter.com/search?q=%23EmeklilikteStajaTak%c4%b1lanlar) | N/A |
+| 45 | [#BitciFanTokenYeniden](http://twitter.com/search?q=%23BitciFanTokenYeniden) | N/A |
+| 46 | [#AsDor](http://twitter.com/search?q=%23AsDor) | N/A |
+| 47 | [#Fenerbahce](http://twitter.com/search?q=%23Fenerbahce) | N/A |
+| 48 | [#KORDS](http://twitter.com/search?q=%23KORDS) | N/A |
+| 49 | [#99OEncesiHaklarlaEYT](http://twitter.com/search?q=%2399OEncesiHaklarlaEYT) | N/A |
+| 50 | [#EMADDER](http://twitter.com/search?q=%23EMADDER) | N/A |
 
 
 

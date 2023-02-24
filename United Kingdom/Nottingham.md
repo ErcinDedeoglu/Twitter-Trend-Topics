@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-02-24 09:16:06 UTC`
+📆 Last Updated: `2023-02-24 10:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
-| 2 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 3 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 4 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
-| 5 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 6 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 7 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 8 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 9 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 10 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
-| 11 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 12 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
-| 13 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
-| 14 | [Turnip](http://twitter.com/search?q=Turnip) | N/A |
-| 15 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
-| 16 | [Vernon Kay](http://twitter.com/search?q=Vernon+Kay) | N/A |
+| 1 | [#ytfc](http://twitter.com/search?q=%23ytfc) | N/A |
+| 2 | [Bairstow](http://twitter.com/search?q=Bairstow) | N/A |
+| 3 | [Fiona Bruce](http://twitter.com/search?q=Fiona+Bruce) | N/A |
+| 4 | [#Tomatoes](http://twitter.com/search?q=%23Tomatoes) | N/A |
+| 5 | [#foodshortages](http://twitter.com/search?q=%23foodshortages) | N/A |
+| 6 | [#loveisland](http://twitter.com/search?q=%23loveisland) | #LoveIsland is a British reality television show that follows a group of single people living in a villa on the Spanish island of Majorca. The show focuses on the contestants' relationships with each other and their attempts to find love. The show has become popular in the UK and has spawned several spin-off series. |
+| 7 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
+| 8 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 9 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 10 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
+| 11 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 12 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 13 | [Turnip](http://twitter.com/search?q=Turnip) | N/A |
+| 14 | [Stanley Johnson](http://twitter.com/search?q=Stanley+Johnson) | N/A |
+| 15 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 16 | [Giveon](http://twitter.com/search?q=Giveon) | N/A |
 | 17 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 18 | [Wordle 615 X](http://twitter.com/search?q=Wordle+615+X) | N/A |
-| 19 | [Joe Root](http://twitter.com/search?q=Joe+Root) | Joe Root is an English cricketer who currently captains the England Test team. He is widely regarded as one of the best batsmen in the world and has scored over 8,000 runs in Test cricket. The phrase "Joe Root" is often used to refer to someone who is a talented and successful sportsperson. |
-| 20 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 21 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
-| 22 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 23 | [Bairstow](http://twitter.com/search?q=Bairstow) | N/A |
-| 24 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
-| 25 | [Baldrick](http://twitter.com/search?q=Baldrick) | N/A |
-| 26 | [Swede](http://twitter.com/search?q=Swede) | N/A |
-| 27 | [Gravy](http://twitter.com/search?q=Gravy) | N/A |
+| 18 | [Vernon Kay](http://twitter.com/search?q=Vernon+Kay) | N/A |
+| 19 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
+| 20 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
+| 21 | [Baldrick](http://twitter.com/search?q=Baldrick) | N/A |
+| 22 | [Joe Root](http://twitter.com/search?q=Joe+Root) | Joe Root is an English cricketer who currently captains the England Test team. He is widely regarded as one of the best batsmen in the world and has scored over 8,000 runs in Test cricket. The phrase "Joe Root" is often used to refer to someone who is a talented and successful sportsperson. |
+| 23 | [Bernie Sanders](http://twitter.com/search?q=Bernie+Sanders) | N/A |
+| 24 | [Shakhtar](http://twitter.com/search?q=Shakhtar) | Shakhtar is a Ukrainian football club based in Donetsk. The name Shakhtar is derived from the word "shakhtyor", which means "miner" in Ukrainian. In English, Shakhtar translates to "miner". |
+| 25 | [Swede](http://twitter.com/search?q=Swede) | N/A |
+| 26 | [Gravy](http://twitter.com/search?q=Gravy) | N/A |
+| 27 | [Marie Antoinette](http://twitter.com/search?q=Marie+Antoinette) | N/A |
 | 28 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 29 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 30 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 31 | [Blackadder](http://twitter.com/search?q=Blackadder) | N/A |
-| 32 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 33 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
-| 34 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 35 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 36 | [#r4today](http://twitter.com/search?q=%23r4today) | N/A |
-| 37 | [#LDInsight](http://twitter.com/search?q=%23LDInsight) | N/A |
-| 38 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
-| 39 | [#distant](http://twitter.com/search?q=%23distant) | N/A |
-| 40 | [#FallFriday](http://twitter.com/search?q=%23FallFriday) | N/A |
-| 41 | [#FridayMotivation](http://twitter.com/search?q=%23FridayMotivation) | N/A |
-| 42 | [#FlyingScotsman](http://twitter.com/search?q=%23FlyingScotsman) | N/A |
-| 43 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 44 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
-| 45 | [#ToriesOut232](http://twitter.com/search?q=%23ToriesOut232) | N/A |
-| 46 | [#SBSEvent2023](http://twitter.com/search?q=%23SBSEvent2023) | N/A |
-| 47 | [#NZEng](http://twitter.com/search?q=%23NZEng) | N/A |
-| 48 | [#ToriesDevoidOfShame](http://twitter.com/search?q=%23ToriesDevoidOfShame) | N/A |
-| 49 | [#BrexitFoodRationing](http://twitter.com/search?q=%23BrexitFoodRationing) | N/A |
-| 50 | [#ytfc](http://twitter.com/search?q=%23ytfc) | N/A |
+| 29 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 30 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 31 | [Arkham](http://twitter.com/search?q=Arkham) | N/A |
+| 32 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 33 | [Yemen](http://twitter.com/search?q=Yemen) | N/A |
+| 34 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
+| 35 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
+| 36 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 37 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 38 | [Blackadder](http://twitter.com/search?q=Blackadder) | N/A |
+| 39 | [Crawley](http://twitter.com/search?q=Crawley) | N/A |
+| 40 | [#FridayFeeling](http://twitter.com/search?q=%23FridayFeeling) | N/A |
+| 41 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 42 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
+| 43 | [#fingerpostfriday](http://twitter.com/search?q=%23fingerpostfriday) | N/A |
+| 44 | [#ASongOrMovieForHeights](http://twitter.com/search?q=%23ASongOrMovieForHeights) | N/A |
+| 45 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 46 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
+| 47 | [#NewMusicFriday](http://twitter.com/search?q=%23NewMusicFriday) | N/A |
+| 48 | [#LDInsight](http://twitter.com/search?q=%23LDInsight) | N/A |
+| 49 | [#SBSEvent2023](http://twitter.com/search?q=%23SBSEvent2023) | N/A |
+| 50 | [#flowersonfriday](http://twitter.com/search?q=%23flowersonfriday) | N/A |
 
 
 
