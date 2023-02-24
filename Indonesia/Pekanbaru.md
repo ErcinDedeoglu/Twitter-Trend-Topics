@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-24 00:28:08 UTC`
+📆 Last Updated: `2023-02-24 01:43:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,53 @@ This is top 50 for [Indonesia](</Indonesia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#SiEnengGoPublic](http://twitter.com/search?q=%23SiEnengGoPublic) | N/A |
-| 2 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 3 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 4 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
-| 5 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 6 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
-| 7 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 8 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
-| 9 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 10 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 11 | [JENO WELCOME TO MILAN](http://twitter.com/search?q=JENO+WELCOME+TO+MILAN) | N/A |
-| 12 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 13 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 14 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 15 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 16 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
-| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 19 | [Decul](http://twitter.com/search?q=Decul) | N/A |
-| 20 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 21 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
-| 22 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 23 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 24 | [Glory Glory Man United](http://twitter.com/search?q=Glory+Glory+Man+United) | N/A |
-| 25 | [Eropa](http://twitter.com/search?q=Eropa) | N/A |
-| 26 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 27 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 28 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 29 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 30 | [Lewy](http://twitter.com/search?q=Lewy) | Lewy is a surname of German origin. It is derived from the given name Ludwig, which is derived from the Germanic elements "hlud" meaning "fame" and "wig" meaning "warrior". The name can also be found in other countries such as Poland, where it is spelled Lewy. |
-| 31 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 32 | [King MU](http://twitter.com/search?q=King+MU) | N/A |
-| 33 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 34 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 35 | [Yoga](http://twitter.com/search?q=Yoga) | N/A |
-| 36 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 37 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 38 | [Spanyol](http://twitter.com/search?q=Spanyol) | N/A |
-| 39 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
-| 40 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 41 | [Biadab](http://twitter.com/search?q=Biadab) | N/A |
-| 42 | [Sadis](http://twitter.com/search?q=Sadis) | N/A |
-| 43 | [Mundur](http://twitter.com/search?q=Mundur) | N/A |
-| 44 | [Obat](http://twitter.com/search?q=Obat) | N/A |
-| 45 | [Mario](http://twitter.com/search?q=Mario) | N/A |
-| 46 | [Setan](http://twitter.com/search?q=Setan) | N/A |
-| 47 | [Gus Muhaimin](http://twitter.com/search?q=Gus+Muhaimin) | Gus Muhaimin is an Indonesian name. It is derived from the Arabic words "Gus" (meaning "noble") and "Muhaimin" (meaning "protector"). In English, it can be translated to mean "noble protector". |
-| 48 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
-| 49 | [#AyoRamaikanPengajian](http://twitter.com/search?q=%23AyoRamaikanPengajian) | N/A |
+| 2 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
+| 3 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 4 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
+| 5 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
+| 6 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
+| 7 | [NA JAEMIN THANK YOU](http://twitter.com/search?q=NA+JAEMIN+THANK+YOU) | N/A |
+| 8 | [#JumatBerkah](http://twitter.com/search?q=%23JumatBerkah) | N/A |
+| 9 | [JENO WELCOME TO MILAN](http://twitter.com/search?q=JENO+WELCOME+TO+MILAN) | N/A |
+| 10 | [Fikri](http://twitter.com/search?q=Fikri) | N/A |
+| 11 | [Al Qur'an Sumber Kebaikan](http://twitter.com/search?q=Al+Qur%27an+Sumber+Kebaikan) | N/A |
+| 12 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 13 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 14 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 15 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 16 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 17 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 18 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 19 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 20 | [Decul](http://twitter.com/search?q=Decul) | N/A |
+| 21 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 22 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 23 | [Emyu](http://twitter.com/search?q=Emyu) | N/A |
+| 24 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 25 | [Fans MU](http://twitter.com/search?q=Fans+MU) | N/A |
+| 26 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
+| 27 | [David](http://twitter.com/search?q=David) | N/A |
+| 28 | [Suho](http://twitter.com/search?q=Suho) | N/A |
+| 29 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 30 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 31 | [Petisi 99 Kyai](http://twitter.com/search?q=Petisi+99+Kyai) | N/A |
+| 32 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 33 | [Eropa](http://twitter.com/search?q=Eropa) | N/A |
+| 34 | [Yoga](http://twitter.com/search?q=Yoga) | N/A |
+| 35 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 36 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 37 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
+| 38 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 39 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 40 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
+| 41 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 42 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 43 | [Biadab](http://twitter.com/search?q=Biadab) | N/A |
+| 44 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 45 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 46 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 47 | [LAPORAN](http://twitter.com/search?q=LAPORAN) | N/A |
+| 48 | [Sadis](http://twitter.com/search?q=Sadis) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-24 00:28:36 UTC`
+📆 Last Updated: `2023-02-24 01:44:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,20 +15,20 @@ This is top 50 for Denmark
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 2 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
-| 3 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 4 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 5 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 6 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 7 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 8 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
-| 9 | [#FCMSCP](http://twitter.com/search?q=%23FCMSCP) | N/A |
-| 10 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 11 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 12 | [#mufcdk](http://twitter.com/search?q=%23mufcdk) | N/A |
-| 13 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
-| 14 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 1 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
+| 2 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 3 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 4 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 5 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
+| 6 | [#FCMSCP](http://twitter.com/search?q=%23FCMSCP) | N/A |
+| 7 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 8 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 9 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 10 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 11 | [#mufcdk](http://twitter.com/search?q=%23mufcdk) | N/A |
+| 12 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
+| 13 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 14 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
 | 15 | [bælum](http://twitter.com/search?q=b%c3%a6lum) | N/A |
 | 16 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
 | 17 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
@@ -40,31 +40,31 @@ This is top 50 for Denmark
 | 23 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 24 | [Woke](http://twitter.com/search?q=Woke) | N/A |
 | 25 | [moderaterne](http://twitter.com/search?q=moderaterne) | N/A |
-| 26 | [Herning](http://twitter.com/search?q=Herning) | N/A |
-| 27 | [Netto](http://twitter.com/search?q=Netto) | N/A |
-| 28 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 29 | [Christiansborg](http://twitter.com/search?q=Christiansborg) | N/A |
-| 30 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
-| 31 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
-| 32 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
-| 33 | [hjort](http://twitter.com/search?q=hjort) | N/A |
-| 34 | [Føler](http://twitter.com/search?q=F%c3%b8ler) | N/A |
-| 35 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 36 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
-| 37 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
-| 38 | [Lynetteholm](http://twitter.com/search?q=Lynetteholm) | N/A |
-| 39 | [biblen](http://twitter.com/search?q=biblen) | N/A |
-| 40 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 42 | [Luke](http://twitter.com/search?q=Luke) | N/A |
-| 43 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 44 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 45 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 46 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
-| 47 | [hamrén](http://twitter.com/search?q=hamr%c3%a9n) | N/A |
-| 48 | [simon emil](http://twitter.com/search?q=simon+emil) | N/A |
-| 49 | [næppe](http://twitter.com/search?q=n%c3%a6ppe) | N/A |
-| 50 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 26 | [Netto](http://twitter.com/search?q=Netto) | N/A |
+| 27 | [christiansborg](http://twitter.com/search?q=christiansborg) | N/A |
+| 28 | [Herning](http://twitter.com/search?q=Herning) | N/A |
+| 29 | [Israeli](http://twitter.com/search?q=Israeli) | N/A |
+| 30 | [Real Madrid](http://twitter.com/search?q=Real+Madrid) | Real Madrid is a professional football club based in Madrid, Spain. It is one of the most successful and popular clubs in the world, having won a record 33 La Liga titles, 19 Copa del Rey titles, 10 Supercopa de España titles, a record 13 UEFA Champions League titles, 2 UEFA Cups, 3 UEFA Super Cups and 4 FIFA Club World Cup titles. The club's motto is "Hala Madrid", which translates to "Go Madrid" in English. |
+| 31 | [Slava Ukraini](http://twitter.com/search?q=Slava+Ukraini) | N/A |
+| 32 | [hjort](http://twitter.com/search?q=hjort) | N/A |
+| 33 | [føler](http://twitter.com/search?q=f%c3%b8ler) | N/A |
+| 34 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 35 | [Democrats](http://twitter.com/search?q=Democrats) | Democrats is a political party in the United States. It is one of the two major contemporary political parties in the country, along with the Republican Party. The Democratic Party supports progressive policies such as social justice, civil rights, environmental protection, and economic equality. |
+| 36 | [Bellingham](http://twitter.com/search?q=Bellingham) | N/A |
+| 37 | [biblen](http://twitter.com/search?q=biblen) | N/A |
+| 38 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 40 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 41 | [Luke](http://twitter.com/search?q=Luke) | N/A |
+| 42 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 43 | [lynetteholm](http://twitter.com/search?q=lynetteholm) | N/A |
+| 44 | [Trump](http://twitter.com/search?q=Trump) | N/A |
+| 45 | [Hungary](http://twitter.com/search?q=Hungary) | N/A |
+| 46 | [hamrén](http://twitter.com/search?q=hamr%c3%a9n) | N/A |
+| 47 | [simon emil](http://twitter.com/search?q=simon+emil) | N/A |
+| 48 | [næppe](http://twitter.com/search?q=n%c3%a6ppe) | N/A |
+| 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
+| 50 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
 
 
 

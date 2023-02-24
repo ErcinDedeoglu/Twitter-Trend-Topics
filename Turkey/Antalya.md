@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-02-24 00:28:25 UTC`
+📆 Last Updated: `2023-02-24 01:44:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,52 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#Trabzonspor](http://twitter.com/search?q=%23Trabzonspor) | #Trabzonspor is a Turkish professional football club based in the city of Trabzon, Turkey. The club was founded in 1967 and currently plays in the Turkish Super Lig, the top tier of Turkish football. The club's name translates to "Trabzon Sports Club" in English. |
 | 2 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
-| 3 | [HakemŞerefsiz Çıktı](http://twitter.com/search?q=Hakem%c5%9eerefsiz+%c3%87%c4%b1kt%c4%b1) | N/A |
-| 4 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
+| 3 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
+| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 5 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 6 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 6 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
 | 7 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 8 | [Haber Odak](http://twitter.com/search?q=Haber+Odak) | Haber Odak is a Turkish phrase that translates to "news focus" or "news center." It is used to refer to a news outlet or organization that focuses on providing news coverage. |
+| 8 | [Yusuf](http://twitter.com/search?q=Yusuf) | N/A |
 | 9 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
-| 10 | [Yusuf](http://twitter.com/search?q=Yusuf) | N/A |
-| 11 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 12 | [#FCBvTS](http://twitter.com/search?q=%23FCBvTS) | N/A |
-| 13 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
-| 14 | [Lahoz](http://twitter.com/search?q=Lahoz) | N/A |
-| 15 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 16 | [ManU](http://twitter.com/search?q=ManU) | N/A |
-| 17 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 18 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 19 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 20 | [Umut Bozok](http://twitter.com/search?q=Umut+Bozok) | Umut Bozok is a Turkish phrase that translates to "hope of eternity" or "eternal hope". It is often used as a metaphor for the idea that hope can last forever, even in the face of adversity. |
-| 21 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 22 | [Bakasetas](http://twitter.com/search?q=Bakasetas) | N/A |
-| 23 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 24 | [#picemiyeti](http://twitter.com/search?q=%23picemiyeti) | N/A |
-| 25 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 26 | [Bartra](http://twitter.com/search?q=Bartra) | Bartra is a Spanish surname derived from the Basque language. It is believed to be derived from the words "bartz" (meaning "axe") and "ara" (meaning "stone"). In English, Bartra can be translated to mean "axe stone". |
-| 27 | [Uğurcan](http://twitter.com/search?q=U%c4%9furcan) | Uğurcan is a Turkish name, derived from the words "uğur" (meaning luck or fortune) and "can" (meaning soul). It can be translated to English as "lucky soul". |
-| 28 | [Ofsayt](http://twitter.com/search?q=Ofsayt) | Ofsayt is a Turkish word that means "goodbye". It is used as a polite way to say farewell. |
-| 29 | [#EmeklilikteStajaTakılanlar](http://twitter.com/search?q=%23EmeklilikteStajaTak%c4%b1lanlar) | N/A |
-| 30 | [Doğucan](http://twitter.com/search?q=Do%c4%9fucan) | N/A |
-| 31 | [#yüzdeyüzmüzik](http://twitter.com/search?q=%23y%c3%bczdey%c3%bczm%c3%bczik) | N/A |
-| 32 | [Ivan Bebek](http://twitter.com/search?q=Ivan+Bebek) | N/A |
-| 33 | [Nwakaeme](http://twitter.com/search?q=Nwakaeme) | N/A |
-| 34 | [Marko Guduric](http://twitter.com/search?q=Marko+Guduric) | N/A |
-| 35 | [Siopis](http://twitter.com/search?q=Siopis) | N/A |
-| 36 | [Larsen](http://twitter.com/search?q=Larsen) | Larsen is a Scandinavian surname derived from the given name Lars, which is a form of the Latin name Laurentius. It is most commonly found in Norway, Denmark, and Sweden. The English meaning of Larsen is "son of Lars". |
-| 37 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 38 | [Defne Belediye Başkanı](http://twitter.com/search?q=Defne+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
-| 39 | [Penaltı](http://twitter.com/search?q=Penalt%c4%b1) | Penaltı is a term used in soccer (football) to refer to a penalty kick. It is a kick taken from the penalty spot by a player of the team that has been fouled, and it is usually taken with the aim of scoring a goal. In English, it is simply referred to as a "penalty kick". |
-| 40 | [Abdülkadir](http://twitter.com/search?q=Abd%c3%bclkadir) | N/A |
-| 41 | [Sivasspor](http://twitter.com/search?q=Sivasspor) | Sivasspor is a Turkish professional football club based in Sivas, Turkey. The name of the club translates to "Sivas Knights" in English. The team plays in the Turkish Super Lig, the top tier of Turkish football. |
-| 42 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
-| 43 | [Avrupa'da](http://twitter.com/search?q=Avrupa%27da) | N/A |
-| 44 | [Şampiyonlar](http://twitter.com/search?q=%c5%9eampiyonlar) | N/A |
-| 45 | [Seri](http://twitter.com/search?q=Seri) | N/A |
-| 46 | [Eren](http://twitter.com/search?q=Eren) | N/A |
-| 47 | [Maçı](http://twitter.com/search?q=Ma%c3%a7%c4%b1) | N/A |
-| 48 | [İsviçre](http://twitter.com/search?q=%c4%b0svi%c3%a7re) | N/A |
-| 49 | [Beni de Silivri'ye](http://twitter.com/search?q=Beni+de+Silivri%27ye) | N/A |
-| 50 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 10 | [Lahoz](http://twitter.com/search?q=Lahoz) | N/A |
+| 11 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 12 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 13 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
+| 14 | [Umut Bozok](http://twitter.com/search?q=Umut+Bozok) | Umut Bozok is a Turkish phrase that translates to "hope of eternity" or "eternal hope". It is often used as a metaphor for the idea that hope can last forever, even in the face of adversity. |
+| 15 | [ManU](http://twitter.com/search?q=ManU) | N/A |
+| 16 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 17 | [Gomez](http://twitter.com/search?q=Gomez) | Gomez is a Spanish surname. It is derived from the Germanic name Gomesano, which means "man of the village". In English, it can be translated to mean "villager". |
+| 18 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 19 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
+| 20 | [Hakem](http://twitter.com/search?q=Hakem) | Hakem is an Arabic word meaning "ruler" or "judge". It is used to refer to a person who has authority over a certain area or situation. |
+| 21 | [#picemiyeti](http://twitter.com/search?q=%23picemiyeti) | N/A |
+| 22 | [#EmeklilikteStajaTakılanlar](http://twitter.com/search?q=%23EmeklilikteStajaTak%c4%b1lanlar) | N/A |
+| 23 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 24 | [#KurdsAreNotTerrorists](http://twitter.com/search?q=%23KurdsAreNotTerrorists) | N/A |
+| 25 | [#Jupiter](http://twitter.com/search?q=%23Jupiter) | N/A |
+| 26 | [Defne Belediye Başkanı](http://twitter.com/search?q=Defne+Belediye+Ba%c5%9fkan%c4%b1) | N/A |
+| 27 | [G İ D E C E K S İ N İ Z](http://twitter.com/search?q=G+%c4%b0+D+E+C+E+K+S+%c4%b0+N+%c4%b0+Z) | N/A |
+| 28 | [Abdülkadir](http://twitter.com/search?q=Abd%c3%bclkadir) | N/A |
+| 29 | [Avrupa'da](http://twitter.com/search?q=Avrupa%27da) | N/A |
+| 30 | [Şampiyonlar](http://twitter.com/search?q=%c5%9eampiyonlar) | N/A |
+| 31 | [Seri](http://twitter.com/search?q=Seri) | N/A |
+| 32 | [Eren](http://twitter.com/search?q=Eren) | N/A |
+| 33 | [Beni de Silivri'ye](http://twitter.com/search?q=Beni+de+Silivri%27ye) | N/A |
+| 34 | [İsviçre](http://twitter.com/search?q=%c4%b0svi%c3%a7re) | N/A |
+| 35 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 36 | [Mehmet Akif](http://twitter.com/search?q=Mehmet+Akif) | N/A |
+| 37 | [Tuğçe](http://twitter.com/search?q=Tu%c4%9f%c3%a7e) | N/A |
+| 38 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 39 | [#UEFA](http://twitter.com/search?q=%23UEFA) | N/A |
+| 40 | [#Fenerbahce](http://twitter.com/search?q=%23Fenerbahce) | N/A |
+| 41 | [#Ömer](http://twitter.com/search?q=%23%c3%96mer) | #Ömer is a hashtag used to refer to Ömer, a Turkish given name. It is derived from the Arabic name Omar and means "long-lived" or "flourishing". |
+| 42 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
+| 43 | [#tuğoz](http://twitter.com/search?q=%23tu%c4%9foz) | N/A |
+| 44 | [#ÇÜTFdağılmasın](http://twitter.com/search?q=%23%c3%87%c3%9cTFda%c4%9f%c4%b1lmas%c4%b1n) | N/A |
+| 45 | [#isiashesapzamanı](http://twitter.com/search?q=%23isiashesapzaman%c4%b1) | N/A |
+| 46 | [#GeceyeNotum](http://twitter.com/search?q=%23GeceyeNotum) | N/A |
+| 47 | [#GeceyeBirNot](http://twitter.com/search?q=%23GeceyeBirNot) | N/A |
+| 48 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
 
 
 

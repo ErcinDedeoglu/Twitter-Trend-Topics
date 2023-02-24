@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-24 00:28:31 UTC`
+📆 Last Updated: `2023-02-24 01:44:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 2 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
-| 3 | [#UNGA](http://twitter.com/search?q=%23UNGA) | N/A |
-| 4 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
-| 5 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
-| 6 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 7 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 8 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
-| 9 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 10 | [#StateOfPlay](http://twitter.com/search?q=%23StateOfPlay) | N/A |
-| 11 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
-| 12 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 13 | [#Destiny2YearInReview](http://twitter.com/search?q=%23Destiny2YearInReview) | N/A |
-| 14 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 15 | [Mortal Kombat 12](http://twitter.com/search?q=Mortal+Kombat+12) | N/A |
-| 16 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
-| 17 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 19 | [Zangief](http://twitter.com/search?q=Zangief) | N/A |
-| 20 | [Lily](http://twitter.com/search?q=Lily) | N/A |
-| 21 | [Injustice 3](http://twitter.com/search?q=Injustice+3) | N/A |
-| 22 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
-| 23 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 24 | [Craig Smith](http://twitter.com/search?q=Craig+Smith) | N/A |
-| 25 | [Arkham](http://twitter.com/search?q=Arkham) | N/A |
-| 26 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 1 | [Skinner](http://twitter.com/search?q=Skinner) | N/A |
+| 2 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 3 | [#Jeopardy](http://twitter.com/search?q=%23Jeopardy) | N/A |
+| 4 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 5 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 6 | [AR-15](http://twitter.com/search?q=AR-15) | AR-15 is a type of semi-automatic rifle that is popular among gun enthusiasts. The acronym stands for ArmaLite Rifle, 15, which refers to the original manufacturer of the rifle. It is a lightweight, magazine-fed weapon that is used for a variety of purposes, including hunting and target shooting. |
+| 7 | [#Station19](http://twitter.com/search?q=%23Station19) | N/A |
+| 8 | [Mobley](http://twitter.com/search?q=Mobley) | Mobley is a slang term used to describe someone who is a loner or an outsider. It can also be used to describe someone who is socially awkward or uncomfortable in social situations. |
+| 9 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 10 | [Desmond Bane](http://twitter.com/search?q=Desmond+Bane) | N/A |
+| 11 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 12 | [Dillon Brooks](http://twitter.com/search?q=Dillon+Brooks) | Dillon Brooks is a Canadian professional basketball player who currently plays for the Memphis Grizzlies of the National Basketball Association (NBA). His name is derived from his middle name, Dillon, and his mother's maiden name, Brooks. |
+| 13 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
+| 14 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
+| 15 | [Myles Turner](http://twitter.com/search?q=Myles+Turner) | N/A |
+| 16 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
+| 17 | [#Destiny2YearInReview](http://twitter.com/search?q=%23Destiny2YearInReview) | N/A |
+| 18 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
+| 19 | [Mortal Kombat 12](http://twitter.com/search?q=Mortal+Kombat+12) | N/A |
+| 20 | [Jalen Pickett](http://twitter.com/search?q=Jalen+Pickett) | N/A |
+| 21 | [Bruins](http://twitter.com/search?q=Bruins) | Bruins is the nickname of the National Hockey League (NHL) team based in Boston, Massachusetts. The team is named after the brown bear, which is native to the area. The Bruins have won six Stanley Cup championships since their founding in 1924. |
+| 22 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 23 | [Marcus Smart](http://twitter.com/search?q=Marcus+Smart) | Marcus Smart is an American professional basketball player who currently plays for the Boston Celtics of the National Basketball Association (NBA). His name is often used as a metaphor for someone who is intelligent, hardworking, and dedicated to their craft. |
+| 24 | [Injustice 3](http://twitter.com/search?q=Injustice+3) | N/A |
+| 25 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
+| 26 | [Fire Hextall](http://twitter.com/search?q=Fire+Hextall) | N/A |
 | 27 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
-| 28 | [Gotham Knights](http://twitter.com/search?q=Gotham+Knights) | N/A |
-| 29 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 30 | [Clifton](http://twitter.com/search?q=Clifton) | N/A |
-| 31 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 32 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 33 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 34 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 36 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 37 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 38 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 39 | [Harvey Weinstein](http://twitter.com/search?q=Harvey+Weinstein) | N/A |
-| 40 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
-| 41 | [Warner Bros](http://twitter.com/search?q=Warner+Bros) | N/A |
-| 42 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 43 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 44 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 45 | [Davis Webb](http://twitter.com/search?q=Davis+Webb) | Davis Webb is an American football quarterback who currently plays for the New York Giants of the National Football League (NFL). He was drafted by the Giants in the third round of the 2017 NFL Draft. |
-| 46 | [Capcom](http://twitter.com/search?q=Capcom) | N/A |
-| 47 | [Spineless](http://twitter.com/search?q=Spineless) | N/A |
-| 48 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 49 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 50 | [Krauser](http://twitter.com/search?q=Krauser) | N/A |
+| 28 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 29 | [Larkin](http://twitter.com/search?q=Larkin) | N/A |
+| 30 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 31 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 32 | [Zangief](http://twitter.com/search?q=Zangief) | N/A |
+| 33 | [Carina](http://twitter.com/search?q=Carina) | N/A |
+| 34 | [Nick Paul](http://twitter.com/search?q=Nick+Paul) | N/A |
+| 35 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
+| 36 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 37 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 38 | [James Harden](http://twitter.com/search?q=James+Harden) | James Harden is an American professional basketball player who currently plays for the Houston Rockets of the National Basketball Association (NBA). He is known for his ability to score points and create plays for his teammates. He has won multiple awards, including the NBA Most Valuable Player Award in 2018. |
+| 39 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 40 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 41 | [Tage Thompson](http://twitter.com/search?q=Tage+Thompson) | Tage Thompson is a Swedish name meaning "Day of the Warrior". It is derived from the Old Norse words tagi, meaning "day", and thom, meaning "warrior". |
+| 42 | [Dahlin](http://twitter.com/search?q=Dahlin) | Dahlin is a term of endearment, similar to sweetheart or darling. It is often used as a term of affection between family members, friends, and romantic partners. |
+| 43 | [Rings of Power](http://twitter.com/search?q=Rings+of+Power) | N/A |
+| 44 | [Arkham](http://twitter.com/search?q=Arkham) | N/A |
+| 45 | [Craig Smith](http://twitter.com/search?q=Craig+Smith) | N/A |
+| 46 | [Spineless](http://twitter.com/search?q=Spineless) | N/A |
+| 47 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 48 | [Gotham Knights](http://twitter.com/search?q=Gotham+Knights) | N/A |
+| 49 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 50 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
 
 
 
