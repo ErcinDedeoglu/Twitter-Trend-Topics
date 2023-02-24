@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Goiânia
 
-📆 Last Updated: `2023-02-24 16:16:18 UTC`
+📆 Last Updated: `2023-02-24 17:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Gustavo](http://twitter.com/search?q=Gustavo) | Gustavo is a Spanish and Portuguese name derived from the Latin name Gustavus, which means "staff of the gods". It is also a variant of the Germanic name Gustaf, meaning "staff of the Geats". |
-| 2 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
-| 3 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 4 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 5 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
-| 6 | [#M12NoFlu](http://twitter.com/search?q=%23M12NoFlu) | N/A |
-| 7 | [#stayselcaday](http://twitter.com/search?q=%23stayselcaday) | #StaySelcaDay is a hashtag used on social media to encourage people to take and share selfies (selcas) on a particular day. It is often used in conjunction with other hashtags such as #SelfieSunday or #SelfieSaturday. The hashtag encourages people to take and share selfies, usually with the intention of boosting self-confidence and promoting body positivity. |
-| 8 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 9 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 10 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 11 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 12 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 13 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
-| 14 | [#Comfort10xMaisPerfume](http://twitter.com/search?q=%23Comfort10xMaisPerfume) | N/A |
-| 15 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
-| 16 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 17 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 18 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
-| 19 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
-| 20 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 21 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
-| 22 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 23 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 24 | [Sobis](http://twitter.com/search?q=Sobis) | N/A |
+| 1 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 2 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 3 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 4 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
+| 5 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 6 | [#StaySelcaDay](http://twitter.com/search?q=%23StaySelcaDay) | N/A |
+| 7 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 8 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 9 | [#M12NoFlu](http://twitter.com/search?q=%23M12NoFlu) | N/A |
+| 10 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 11 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 12 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
+| 13 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 14 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 15 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
+| 16 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
+| 17 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 18 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 19 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 20 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
+| 21 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 22 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 23 | [Agulhas](http://twitter.com/search?q=Agulhas) | N/A |
+| 24 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
 | 25 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 26 | [LOUCO DA CABEÇA](http://twitter.com/search?q=LOUCO+DA+CABE%c3%87A) | N/A |
-| 27 | [Xerém](http://twitter.com/search?q=Xer%c3%a9m) | N/A |
-| 28 | [Agulhas](http://twitter.com/search?q=Agulhas) | N/A |
-| 29 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
-| 30 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 31 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 32 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 33 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 34 | [NCT Hollywood](http://twitter.com/search?q=NCT+Hollywood) | N/A |
-| 35 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 36 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 37 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 38 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 39 | [Berry](http://twitter.com/search?q=Berry) | N/A |
-| 40 | [José de Abreu](http://twitter.com/search?q=Jos%c3%a9+de+Abreu) | N/A |
-| 41 | [FluminenC](http://twitter.com/search?q=FluminenC) | N/A |
-| 42 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 43 | [Árias](http://twitter.com/search?q=%c3%81rias) | N/A |
-| 44 | [Load](http://twitter.com/search?q=Load) | N/A |
-| 45 | [Alex Sandro](http://twitter.com/search?q=Alex+Sandro) | Alex Sandro is a Brazilian professional footballer who plays for Italian club Juventus and the Brazil national team. His full name is Alex Sandro Lobo Silva. He primarily plays as a left-back, but can also play as a left winger. In English, his name means "Protector of Man". |
-| 46 | [Egídio](http://twitter.com/search?q=Eg%c3%addio) | N/A |
-| 47 | [FLUMINENSE FOOTBALL CLUB](http://twitter.com/search?q=FLUMINENSE+FOOTBALL+CLUB) | N/A |
-| 48 | [Piauí Pop](http://twitter.com/search?q=Piau%c3%ad+Pop) | N/A |
-| 49 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 50 | [Deco](http://twitter.com/search?q=Deco) | N/A |
+| 26 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 27 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
+| 28 | [Árias](http://twitter.com/search?q=%c3%81rias) | N/A |
+| 29 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 30 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
+| 31 | [Xerém](http://twitter.com/search?q=Xer%c3%a9m) | N/A |
+| 32 | [Piauí Pop](http://twitter.com/search?q=Piau%c3%ad+Pop) | N/A |
+| 33 | [Sobis](http://twitter.com/search?q=Sobis) | N/A |
+| 34 | [Jegue](http://twitter.com/search?q=Jegue) | N/A |
+| 35 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 36 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 37 | [Zhou](http://twitter.com/search?q=Zhou) | N/A |
+| 38 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
+| 39 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 40 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
+| 41 | [LOUCO DA CABEÇA](http://twitter.com/search?q=LOUCO+DA+CABE%c3%87A) | N/A |
+| 42 | [Ritinha](http://twitter.com/search?q=Ritinha) | N/A |
+| 43 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 44 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
+| 45 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 46 | [Elizabeth](http://twitter.com/search?q=Elizabeth) | N/A |
+| 47 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 48 | [Laranjeiras](http://twitter.com/search?q=Laranjeiras) | N/A |
 
 
 

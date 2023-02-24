@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Oklahoma City
 
-📆 Last Updated: `2023-02-24 16:16:51 UTC`
+📆 Last Updated: `2023-02-24 17:16:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [United States](</United States>)
 | 3 | [Utah](http://twitter.com/search?q=Utah) | Utah is a state in the western United States. It is bordered by Idaho to the north, Wyoming to the northeast, Colorado to the east, Arizona to the south, and Nevada to the west. The name Utah comes from the Ute tribe of Native Americans who lived in the area. The meaning of Utah in English is "people of the mountains". |
 | 4 | [#FreeTheChips](http://twitter.com/search?q=%23FreeTheChips) | N/A |
 | 5 | [#entry](http://twitter.com/search?q=%23entry) | N/A |
-| 6 | [#fridaymorning](http://twitter.com/search?q=%23fridaymorning) | #FridayMorning is a hashtag used on social media to refer to the start of the weekend. It is often used to share positive messages, such as inspirational quotes or images, and to express excitement for the upcoming weekend. |
-| 7 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 8 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
-| 9 | [#BoycottHeineken](http://twitter.com/search?q=%23BoycottHeineken) | N/A |
-| 10 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
-| 11 | [Tink](http://twitter.com/search?q=Tink) | N/A |
-| 12 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 13 | [Kermit Davis](http://twitter.com/search?q=Kermit+Davis) | N/A |
-| 14 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 15 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
-| 16 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 17 | [Tropic Thunder](http://twitter.com/search?q=Tropic+Thunder) | N/A |
-| 18 | [Chris Beard](http://twitter.com/search?q=Chris+Beard) | Chris Beard is a slang term used to describe someone who is attractive, stylish, and well-groomed. It is derived from the phrase “clean-shaven” and is often used to describe men who have neatly trimmed facial hair. |
-| 19 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 20 | [Win Case](http://twitter.com/search?q=Win+Case) | N/A |
-| 21 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
-| 22 | [Dan Quayle](http://twitter.com/search?q=Dan+Quayle) | N/A |
-| 23 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 24 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 25 | [Grant Hill](http://twitter.com/search?q=Grant+Hill) | N/A |
-| 26 | [God I Love You](http://twitter.com/search?q=God+I+Love+You) | N/A |
-| 27 | [Marine](http://twitter.com/search?q=Marine) | N/A |
-| 28 | [Jinny](http://twitter.com/search?q=Jinny) | N/A |
-| 29 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
-| 30 | [Pete Carroll](http://twitter.com/search?q=Pete+Carroll) | Pete Carroll is the head coach of the Seattle Seahawks of the National Football League (NFL). He is known for his innovative approach to coaching and his ability to motivate players. The phrase "Pete Carroll" has come to mean a leader who is willing to take risks and push boundaries in order to achieve success. |
-| 31 | [Go Texan Day](http://twitter.com/search?q=Go+Texan+Day) | N/A |
-| 32 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 33 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
-| 34 | [Murdaugh](http://twitter.com/search?q=Murdaugh) | N/A |
-| 35 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 36 | [Core PCE](http://twitter.com/search?q=Core+PCE) | N/A |
-| 37 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
-| 38 | [Moes](http://twitter.com/search?q=Moes) | N/A |
-| 39 | [Daily Quordle 396](http://twitter.com/search?q=Daily+Quordle+396) | N/A |
-| 40 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 41 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 42 | [Today is Friday](http://twitter.com/search?q=Today+is+Friday) | N/A |
-| 43 | [Meltzer](http://twitter.com/search?q=Meltzer) | N/A |
-| 44 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 45 | [Drogba](http://twitter.com/search?q=Drogba) | N/A |
-| 46 | [nct tokyo](http://twitter.com/search?q=nct+tokyo) | N/A |
-| 47 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
-| 48 | [Khamzat](http://twitter.com/search?q=Khamzat) | N/A |
-| 49 | [NCT Hollywood](http://twitter.com/search?q=NCT+Hollywood) | N/A |
+| 6 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
+| 7 | [#BoycottHeineken](http://twitter.com/search?q=%23BoycottHeineken) | N/A |
+| 8 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
+| 9 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
+| 10 | [Russell Wilson](http://twitter.com/search?q=Russell+Wilson) | Russell Wilson is the name of an American football player who currently plays for the Seattle Seahawks in the National Football League (NFL). He is a four-time Pro Bowl selection and two-time Super Bowl champion. He is known for his athleticism, leadership, and ability to make plays in clutch situations. |
+| 11 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 12 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
+| 13 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 14 | [Tink](http://twitter.com/search?q=Tink) | N/A |
+| 15 | [Good Friday](http://twitter.com/search?q=Good+Friday) | Good Friday is a Christian holiday commemorating the crucifixion of Jesus Christ and his death at Calvary. It is observed during Holy Week as part of the Paschal Triduum on the Friday preceding Easter Sunday, and may coincide with the Jewish observance of Passover. It is also known as Holy Friday, Great Friday, Black Friday, or Easter Friday. |
+| 16 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 17 | [Grant Hill](http://twitter.com/search?q=Grant+Hill) | N/A |
+| 18 | [Tropic Thunder](http://twitter.com/search?q=Tropic+Thunder) | N/A |
+| 19 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 20 | [Kermit Davis](http://twitter.com/search?q=Kermit+Davis) | N/A |
+| 21 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 22 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 23 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 24 | [Marine](http://twitter.com/search?q=Marine) | N/A |
+| 25 | [Happy Friyay](http://twitter.com/search?q=Happy+Friyay) | N/A |
+| 26 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
+| 27 | [Murdaugh](http://twitter.com/search?q=Murdaugh) | N/A |
+| 28 | [GOD I LOVE YOU](http://twitter.com/search?q=GOD+I+LOVE+YOU) | N/A |
+| 29 | [ON SALE NOW](http://twitter.com/search?q=ON+SALE+NOW) | N/A |
+| 30 | [Dan Quayle](http://twitter.com/search?q=Dan+Quayle) | N/A |
+| 31 | [Key Glock](http://twitter.com/search?q=Key+Glock) | N/A |
+| 32 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
+| 33 | [Jonas Brothers](http://twitter.com/search?q=Jonas+Brothers) | The Jonas Brothers are an American pop rock band from Wyckoff, New Jersey, formed in 2005. The band consists of three brothers: Kevin Jonas, Joe Jonas, and Nick Jonas. They gained popularity from their appearances on the Disney Channel television network. Their music has spanned a range of styles, from pop rock to hip hop. |
+| 34 | [Win Case](http://twitter.com/search?q=Win+Case) | N/A |
+| 35 | [Chris Beard](http://twitter.com/search?q=Chris+Beard) | Chris Beard is a slang term used to describe someone who is attractive, stylish, and well-groomed. It is derived from the phrase “clean-shaven” and is often used to describe men who have neatly trimmed facial hair. |
+| 36 | [Moes](http://twitter.com/search?q=Moes) | N/A |
+| 37 | [Lehecka](http://twitter.com/search?q=Lehecka) | N/A |
+| 38 | [Pete Carroll](http://twitter.com/search?q=Pete+Carroll) | Pete Carroll is the head coach of the Seattle Seahawks of the National Football League (NFL). He is known for his innovative approach to coaching and his ability to motivate players. The phrase "Pete Carroll" has come to mean a leader who is willing to take risks and push boundaries in order to achieve success. |
+| 39 | [Go Texan Day](http://twitter.com/search?q=Go+Texan+Day) | N/A |
+| 40 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 41 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 42 | [Finally Friday](http://twitter.com/search?q=Finally+Friday) | N/A |
+| 43 | [Jinny](http://twitter.com/search?q=Jinny) | N/A |
+| 44 | [Waters](http://twitter.com/search?q=Waters) | N/A |
+| 45 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 46 | [Dusty May](http://twitter.com/search?q=Dusty+May) | N/A |
+| 47 | [Happy Friday Everyone](http://twitter.com/search?q=Happy+Friday+Everyone) | N/A |
+| 48 | [BASEBALL IS BACK](http://twitter.com/search?q=BASEBALL+IS+BACK) | N/A |
+| 49 | [Meltzer](http://twitter.com/search?q=Meltzer) | N/A |
 
 
 
