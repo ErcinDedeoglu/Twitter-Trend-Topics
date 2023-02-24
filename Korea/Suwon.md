@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Suwon
 
-📆 Last Updated: `2023-02-23 23:16:30 UTC`
+📆 Last Updated: `2023-02-24 00:28:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,50 @@ This is top 50 for [Korea](</Korea>)
 | 1 | [#실제_이름이_흔한가요](http://twitter.com/search?q=%23%ec%8b%a4%ec%a0%9c_%ec%9d%b4%eb%a6%84%ec%9d%b4_%ed%9d%94%ed%95%9c%ea%b0%80%ec%9a%94) | N/A |
 | 2 | [#Jimin_FACE](http://twitter.com/search?q=%23Jimin_FACE) | N/A |
 | 3 | [몬스타엑스](http://twitter.com/search?q=%eb%aa%ac%ec%8a%a4%ed%83%80%ec%97%91%ec%8a%a4) | 몬스타엑스 (Monsta X) is a South Korean boy band formed in 2015 by Starship Entertainment. The group consists of seven members: Shownu, Wonho, Minhyuk, Kihyun, Hyungwon, Joohoney and I.M. The group's name is a combination of the words "monsters" and "stars". In English, it means "Stars of Monsters". |
-| 4 | [롤링페이퍼](http://twitter.com/search?q=%eb%a1%a4%eb%a7%81%ed%8e%98%ec%9d%b4%ed%8d%bc) | N/A |
-| 5 | [#현현_본방사수_15회](http://twitter.com/search?q=%23%ed%98%84%ed%98%84_%eb%b3%b8%eb%b0%a9%ec%82%ac%ec%88%98_15%ed%9a%8c) | N/A |
+| 4 | [샤오잔 인스타](http://twitter.com/search?q=%ec%83%a4%ec%98%a4%ec%9e%94+%ec%9d%b8%ec%8a%a4%ed%83%80) | N/A |
+| 5 | [롤링페이퍼](http://twitter.com/search?q=%eb%a1%a4%eb%a7%81%ed%8e%98%ec%9d%b4%ed%8d%bc) | N/A |
 | 6 | [모스부호](http://twitter.com/search?q=%eb%aa%a8%ec%8a%a4%eb%b6%80%ed%98%b8) | N/A |
 | 7 | [주요일정](http://twitter.com/search?q=%ec%a3%bc%ec%9a%94%ec%9d%bc%ec%a0%95) | N/A |
 | 8 | [크리스티안](http://twitter.com/search?q=%ed%81%ac%eb%a6%ac%ec%8a%a4%ed%8b%b0%ec%95%88) | N/A |
-| 9 | [프랭크버거](http://twitter.com/search?q=%ed%94%84%eb%9e%ad%ed%81%ac%eb%b2%84%ea%b1%b0) | N/A |
-| 10 | [친구초대](http://twitter.com/search?q=%ec%b9%9c%ea%b5%ac%ec%b4%88%eb%8c%80) | N/A |
-| 11 | [꼬들 419](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+419) | N/A |
+| 9 | [친구초대](http://twitter.com/search?q=%ec%b9%9c%ea%b5%ac%ec%b4%88%eb%8c%80) | N/A |
+| 10 | [꼬들 419](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+419) | N/A |
+| 11 | [프랭크버거](http://twitter.com/search?q=%ed%94%84%eb%9e%ad%ed%81%ac%eb%b2%84%ea%b1%b0) | N/A |
 | 12 | [아이돌 체험](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%8f%8c+%ec%b2%b4%ed%97%98) | N/A |
-| 13 | [포토이즘](http://twitter.com/search?q=%ed%8f%ac%ed%86%a0%ec%9d%b4%ec%a6%98) | 포토이즘 (Photoism) is a Korean term used to describe the practice of taking and sharing photos online. It is a combination of the words "photo" and "ism," and it refers to the trend of people taking and sharing photos on social media platforms such as Instagram, Facebook, and Twitter. The term is often used to describe the phenomenon of people using their phones to take pictures of their everyday lives, such as food, fashion, travel, and more. In English, it can be translated as "photo-ism." |
-| 14 | [나의 스토리](http://twitter.com/search?q=%eb%82%98%ec%9d%98+%ec%8a%a4%ed%86%a0%eb%a6%ac) | N/A |
-| 15 | [트랙리스트](http://twitter.com/search?q=%ed%8a%b8%eb%9e%99%eb%a6%ac%ec%8a%a4%ed%8a%b8) | N/A |
-| 16 | [압수수색](http://twitter.com/search?q=%ec%95%95%ec%88%98%ec%88%98%ec%83%89) | 압수수색 is a Korean term meaning "search and seizure". It refers to the process of searching for and seizing evidence or property in connection with a criminal investigation. |
-| 17 | [그라가스](http://twitter.com/search?q=%ea%b7%b8%eb%9d%bc%ea%b0%80%ec%8a%a4) | N/A |
-| 18 | [소금빵 자주](http://twitter.com/search?q=%ec%86%8c%ea%b8%88%eb%b9%b5+%ec%9e%90%ec%a3%bc) | N/A |
-| 19 | [레오 고음](http://twitter.com/search?q=%eb%a0%88%ec%98%a4+%ea%b3%a0%ec%9d%8c) | N/A |
+| 13 | [나의 스토리](http://twitter.com/search?q=%eb%82%98%ec%9d%98+%ec%8a%a4%ed%86%a0%eb%a6%ac) | N/A |
+| 14 | [포토이즘](http://twitter.com/search?q=%ed%8f%ac%ed%86%a0%ec%9d%b4%ec%a6%98) | 포토이즘 (Photoism) is a Korean term used to describe the practice of taking and sharing photos online. It is a combination of the words "photo" and "ism," and it refers to the trend of people taking and sharing photos on social media platforms such as Instagram, Facebook, and Twitter. The term is often used to describe the phenomenon of people using their phones to take pictures of their everyday lives, such as food, fashion, travel, and more. In English, it can be translated as "photo-ism." |
+| 15 | [사실무근](http://twitter.com/search?q=%ec%82%ac%ec%8b%a4%eb%ac%b4%ea%b7%bc) | N/A |
+| 16 | [트랙리스트](http://twitter.com/search?q=%ed%8a%b8%eb%9e%99%eb%a6%ac%ec%8a%a4%ed%8a%b8) | N/A |
+| 17 | [미세먼지](http://twitter.com/search?q=%eb%af%b8%ec%84%b8%eb%a8%bc%ec%a7%80) | 미세먼지 (mise meonji) is a type of air pollution made up of tiny particles that are 2.5 micrometers or smaller in diameter. It is also known as fine particulate matter and can be hazardous to human health if inhaled. In English, it is referred to as "fine dust" or "micro dust". |
+| 18 | [압수수색](http://twitter.com/search?q=%ec%95%95%ec%88%98%ec%88%98%ec%83%89) | 압수수색 is a Korean term meaning "search and seizure". It refers to the process of searching for and seizing evidence or property in connection with a criminal investigation. |
+| 19 | [소금빵 자주](http://twitter.com/search?q=%ec%86%8c%ea%b8%88%eb%b9%b5+%ec%9e%90%ec%a3%bc) | N/A |
 | 20 | [여고생 드래곤](http://twitter.com/search?q=%ec%97%ac%ea%b3%a0%ec%83%9d+%eb%93%9c%eb%9e%98%ea%b3%a4) | N/A |
-| 21 | [원재료 자체](http://twitter.com/search?q=%ec%9b%90%ec%9e%ac%eb%a3%8c+%ec%9e%90%ec%b2%b4) | N/A |
-| 22 | [좋은 소금](http://twitter.com/search?q=%ec%a2%8b%ec%9d%80+%ec%86%8c%ea%b8%88) | N/A |
-| 23 | [오페 실장](http://twitter.com/search?q=%ec%98%a4%ed%8e%98+%ec%8b%a4%ec%9e%a5) | N/A |
-| 24 | [샤오잔 인스타](http://twitter.com/search?q=%ec%83%a4%ec%98%a4%ec%9e%94+%ec%9d%b8%ec%8a%a4%ed%83%80) | N/A |
-| 25 | [필름카이](http://twitter.com/search?q=%ed%95%84%eb%a6%84%ec%b9%b4%ec%9d%b4) | N/A |
-| 26 | [밀키스 제로](http://twitter.com/search?q=%eb%b0%80%ed%82%a4%ec%8a%a4+%ec%a0%9c%eb%a1%9c) | N/A |
-| 27 | [럽미라잇](http://twitter.com/search?q=%eb%9f%bd%eb%af%b8%eb%9d%bc%ec%9e%87) | N/A |
-| 28 | [아스트로](http://twitter.com/search?q=%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c) | N/A |
-| 29 | [당신의 이름](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%9d%b4%eb%a6%84) | N/A |
-| 30 | [드림주의 첫사랑](http://twitter.com/search?q=%eb%93%9c%eb%a6%bc%ec%a3%bc%ec%9d%98+%ec%b2%ab%ec%82%ac%eb%9e%91) | N/A |
-| 31 | [인더숲 포카](http://twitter.com/search?q=%ec%9d%b8%eb%8d%94%ec%88%b2+%ed%8f%ac%ec%b9%b4) | N/A |
-| 32 | [장기입원](http://twitter.com/search?q=%ec%9e%a5%ea%b8%b0%ec%9e%85%ec%9b%90) | N/A |
-| 33 | [글로벌 베타 테스트](http://twitter.com/search?q=%ea%b8%80%eb%a1%9c%eb%b2%8c+%eb%b2%a0%ed%83%80+%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
-| 34 | [향수 가격](http://twitter.com/search?q=%ed%96%a5%ec%88%98+%ea%b0%80%ea%b2%a9) | N/A |
-| 35 | [오또케송](http://twitter.com/search?q=%ec%98%a4%eb%98%90%ec%bc%80%ec%86%a1) | N/A |
-| 36 | [장슈아이보](http://twitter.com/search?q=%ec%9e%a5%ec%8a%88%ec%95%84%ec%9d%b4%eb%b3%b4) | N/A |
-| 37 | [님들 만약](http://twitter.com/search?q=%eb%8b%98%eb%93%a4+%eb%a7%8c%ec%95%bd) | N/A |
-| 38 | [연애혁명](http://twitter.com/search?q=%ec%97%b0%ec%95%a0%ed%98%81%eb%aa%85) | N/A |
-| 39 | [네이처 팬페](http://twitter.com/search?q=%eb%84%a4%ec%9d%b4%ec%b2%98+%ed%8c%ac%ed%8e%98) | N/A |
-| 40 | [근육파열](http://twitter.com/search?q=%ea%b7%bc%ec%9c%a1%ed%8c%8c%ec%97%b4) | N/A |
-| 41 | [사실 애인](http://twitter.com/search?q=%ec%82%ac%ec%8b%a4+%ec%95%a0%ec%9d%b8) | N/A |
-| 42 | [님들 드림캐](http://twitter.com/search?q=%eb%8b%98%eb%93%a4+%eb%93%9c%eb%a6%bc%ec%ba%90) | N/A |
-| 43 | [수채구멍 청소](http://twitter.com/search?q=%ec%88%98%ec%b1%84%ea%b5%ac%eb%a9%8d+%ec%b2%ad%ec%86%8c) | N/A |
+| 21 | [밀키스 제로](http://twitter.com/search?q=%eb%b0%80%ed%82%a4%ec%8a%a4+%ec%a0%9c%eb%a1%9c) | N/A |
+| 22 | [원재료 자체](http://twitter.com/search?q=%ec%9b%90%ec%9e%ac%eb%a3%8c+%ec%9e%90%ec%b2%b4) | N/A |
+| 23 | [좋은 소금](http://twitter.com/search?q=%ec%a2%8b%ec%9d%80+%ec%86%8c%ea%b8%88) | N/A |
+| 24 | [아스트로](http://twitter.com/search?q=%ec%95%84%ec%8a%a4%ed%8a%b8%eb%a1%9c) | N/A |
+| 25 | [영훈 선우](http://twitter.com/search?q=%ec%98%81%ed%9b%88+%ec%84%a0%ec%9a%b0) | N/A |
+| 26 | [럽미라잇](http://twitter.com/search?q=%eb%9f%bd%eb%af%b8%eb%9d%bc%ec%9e%87) | N/A |
+| 27 | [필름카이](http://twitter.com/search?q=%ed%95%84%eb%a6%84%ec%b9%b4%ec%9d%b4) | N/A |
+| 28 | [당신의 이름](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%9d%b4%eb%a6%84) | N/A |
+| 29 | [레오 고음](http://twitter.com/search?q=%eb%a0%88%ec%98%a4+%ea%b3%a0%ec%9d%8c) | N/A |
+| 30 | [베타 테스트](http://twitter.com/search?q=%eb%b2%a0%ed%83%80+%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
+| 31 | [드림주의 첫사랑](http://twitter.com/search?q=%eb%93%9c%eb%a6%bc%ec%a3%bc%ec%9d%98+%ec%b2%ab%ec%82%ac%eb%9e%91) | N/A |
+| 32 | [향수 가격](http://twitter.com/search?q=%ed%96%a5%ec%88%98+%ea%b0%80%ea%b2%a9) | N/A |
+| 33 | [엔비디아](http://twitter.com/search?q=%ec%97%94%eb%b9%84%eb%94%94%ec%95%84) | N/A |
+| 34 | [오또케송](http://twitter.com/search?q=%ec%98%a4%eb%98%90%ec%bc%80%ec%86%a1) | N/A |
+| 35 | [생일 축하](http://twitter.com/search?q=%ec%83%9d%ec%9d%bc+%ec%b6%95%ed%95%98) | N/A |
+| 36 | [장기입원](http://twitter.com/search?q=%ec%9e%a5%ea%b8%b0%ec%9e%85%ec%9b%90) | N/A |
+| 37 | [수채구멍 청소](http://twitter.com/search?q=%ec%88%98%ec%b1%84%ea%b5%ac%eb%a9%8d+%ec%b2%ad%ec%86%8c) | N/A |
+| 38 | [그라가스](http://twitter.com/search?q=%ea%b7%b8%eb%9d%bc%ea%b0%80%ec%8a%a4) | N/A |
+| 39 | [기준금리](http://twitter.com/search?q=%ea%b8%b0%ec%a4%80%ea%b8%88%eb%a6%ac) | N/A |
+| 40 | [장슈아이보](http://twitter.com/search?q=%ec%9e%a5%ec%8a%88%ec%95%84%ec%9d%b4%eb%b3%b4) | N/A |
+| 41 | [네이처 팬페](http://twitter.com/search?q=%eb%84%a4%ec%9d%b4%ec%b2%98+%ed%8c%ac%ed%8e%98) | N/A |
+| 42 | [근육파열](http://twitter.com/search?q=%ea%b7%bc%ec%9c%a1%ed%8c%8c%ec%97%b4) | N/A |
+| 43 | [님들 만약](http://twitter.com/search?q=%eb%8b%98%eb%93%a4+%eb%a7%8c%ec%95%bd) | N/A |
 | 44 | [프리 파트투](http://twitter.com/search?q=%ed%94%84%eb%a6%ac+%ed%8c%8c%ed%8a%b8%ed%88%ac) | N/A |
-| 45 | [노아 4라인](http://twitter.com/search?q=%eb%85%b8%ec%95%84+4%eb%9d%bc%ec%9d%b8) | N/A |
-| 46 | [기준금리](http://twitter.com/search?q=%ea%b8%b0%ec%a4%80%ea%b8%88%eb%a6%ac) | N/A |
+| 45 | [인더숲 포카](http://twitter.com/search?q=%ec%9d%b8%eb%8d%94%ec%88%b2+%ed%8f%ac%ec%b9%b4) | N/A |
+| 46 | [사실 애인](http://twitter.com/search?q=%ec%82%ac%ec%8b%a4+%ec%95%a0%ec%9d%b8) | N/A |
 | 47 | [소음발생](http://twitter.com/search?q=%ec%86%8c%ec%9d%8c%eb%b0%9c%ec%83%9d) | N/A |
-| 48 | [네이처리퍼블릭](http://twitter.com/search?q=%eb%84%a4%ec%9d%b4%ec%b2%98%eb%a6%ac%ed%8d%bc%eb%b8%94%eb%a6%ad) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dallas-Ft. Worth
 
-📆 Last Updated: `2023-02-23 23:16:46 UTC`
+📆 Last Updated: `2023-02-24 00:28:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
 | 2 | [Galveston](http://twitter.com/search?q=Galveston) | N/A |
-| 3 | [#RHOM](http://twitter.com/search?q=%23RHOM) | N/A |
+| 3 | [Cancun](http://twitter.com/search?q=Cancun) | Cancun is a city in Mexico located on the Yucatan Peninsula. It is a popular tourist destination known for its white sand beaches, crystal clear waters, and vibrant nightlife. The name Cancun is derived from the Mayan word "Kaan Kun," which means "nest of snakes." |
 | 4 | [Watson](http://twitter.com/search?q=Watson) | Watson is an artificial intelligence (AI) computer system developed by IBM. It is capable of answering questions posed in natural language, making it a useful tool for businesses and researchers. Watson can also be used to analyze large amounts of data and generate insights from it. |
-| 5 | [Buttigieg](http://twitter.com/search?q=Buttigieg) | N/A |
-| 6 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 7 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 8 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 9 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 5 | [Janine](http://twitter.com/search?q=Janine) | Janine is a French female given name, derived from the Roman name Januarius, which means "born in January". It is also a variant of the English name Jane. |
+| 6 | [Buttigieg](http://twitter.com/search?q=Buttigieg) | N/A |
+| 7 | [Orlov](http://twitter.com/search?q=Orlov) | N/A |
+| 8 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 9 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
 | 10 | [Bobby Wagner](http://twitter.com/search?q=Bobby+Wagner) | Bobby Wagner is the name of an American football player who currently plays for the Seattle Seahawks of the National Football League (NFL). He is a four-time Pro Bowl selection and two-time All-Pro selection. He was drafted by the Seahawks in the second round of the 2012 NFL Draft. |
-| 11 | [#StateOfPlay](http://twitter.com/search?q=%23StateOfPlay) | N/A |
-| 12 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 13 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
-| 14 | [Hathaway](http://twitter.com/search?q=Hathaway) | N/A |
-| 15 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 16 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 17 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 18 | [Zangief](http://twitter.com/search?q=Zangief) | N/A |
-| 19 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
-| 20 | [#StreetFighter6](http://twitter.com/search?q=%23StreetFighter6) | N/A |
-| 21 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 22 | [Lily](http://twitter.com/search?q=Lily) | N/A |
-| 23 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 24 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 25 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
-| 26 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 27 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 28 | [Mortal Kombat 12](http://twitter.com/search?q=Mortal+Kombat+12) | N/A |
-| 29 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 30 | [Gotham Knights](http://twitter.com/search?q=Gotham+Knights) | N/A |
-| 31 | [Arkham](http://twitter.com/search?q=Arkham) | N/A |
-| 32 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 33 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 34 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 35 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 36 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 37 | [Waters](http://twitter.com/search?q=Waters) | N/A |
-| 38 | [Davis Webb](http://twitter.com/search?q=Davis+Webb) | Davis Webb is an American football quarterback who currently plays for the New York Giants of the National Football League (NFL). He was drafted by the Giants in the third round of the 2017 NFL Draft. |
-| 39 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 40 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
-| 41 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 42 | [Harvey Weinstein](http://twitter.com/search?q=Harvey+Weinstein) | N/A |
-| 43 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 44 | [Capcom](http://twitter.com/search?q=Capcom) | N/A |
-| 45 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 46 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
-| 47 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 48 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 49 | [Steven Yeun](http://twitter.com/search?q=Steven+Yeun) | N/A |
-| 50 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
+| 11 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 12 | [#StateOfPlay](http://twitter.com/search?q=%23StateOfPlay) | N/A |
+| 13 | [Joy Behar](http://twitter.com/search?q=Joy+Behar) | N/A |
+| 14 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 15 | [#Destiny2YearInReview](http://twitter.com/search?q=%23Destiny2YearInReview) | N/A |
+| 16 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 17 | [Mortal Kombat 12](http://twitter.com/search?q=Mortal+Kombat+12) | N/A |
+| 18 | [6 Billion](http://twitter.com/search?q=6+Billion) | N/A |
+| 19 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
+| 20 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 21 | [Zangief](http://twitter.com/search?q=Zangief) | N/A |
+| 22 | [#MurdaughTrial](http://twitter.com/search?q=%23MurdaughTrial) | N/A |
+| 23 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 24 | [Lily](http://twitter.com/search?q=Lily) | N/A |
+| 25 | [Injustice 3](http://twitter.com/search?q=Injustice+3) | N/A |
+| 26 | [Rocksteady](http://twitter.com/search?q=Rocksteady) | N/A |
+| 27 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 28 | [Craig Smith](http://twitter.com/search?q=Craig+Smith) | N/A |
+| 29 | [Arkham](http://twitter.com/search?q=Arkham) | N/A |
+| 30 | [Don Sweeney](http://twitter.com/search?q=Don+Sweeney) | N/A |
+| 31 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
+| 32 | [Gotham Knights](http://twitter.com/search?q=Gotham+Knights) | N/A |
+| 33 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 34 | [Clifton](http://twitter.com/search?q=Clifton) | N/A |
+| 35 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 36 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 37 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 38 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 39 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 40 | [Waters](http://twitter.com/search?q=Waters) | N/A |
+| 41 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 42 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 43 | [Harvey Weinstein](http://twitter.com/search?q=Harvey+Weinstein) | N/A |
+| 44 | [Lord of the Rings](http://twitter.com/search?q=Lord+of+the+Rings) | N/A |
+| 45 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 46 | [Warner Bros](http://twitter.com/search?q=Warner+Bros) | N/A |
+| 47 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 48 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 49 | [Davis Webb](http://twitter.com/search?q=Davis+Webb) | Davis Webb is an American football quarterback who currently plays for the New York Giants of the National Football League (NFL). He was drafted by the Giants in the third round of the 2017 NFL Draft. |
+| 50 | [Capcom](http://twitter.com/search?q=Capcom) | N/A |
 
 
 

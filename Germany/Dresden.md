@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Dresden
 
-📆 Last Updated: `2023-02-23 23:16:19 UTC`
+📆 Last Updated: `2023-02-24 00:28:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#GNTM](http://twitter.com/search?q=%23GNTM) | N/A |
 | 2 | [#Lenssen](http://twitter.com/search?q=%23Lenssen) | N/A |
 | 3 | [#fcuaja](http://twitter.com/search?q=%23fcuaja) | N/A |
-| 4 | [#illner](http://twitter.com/search?q=%23illner) | N/A |
-| 5 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 4 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
+| 5 | [Gisela](http://twitter.com/search?q=Gisela) | N/A |
 | 6 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 7 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 8 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
-| 9 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
-| 10 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 11 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 12 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 13 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
-| 14 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 15 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 16 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 17 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 18 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 19 | [Pelz](http://twitter.com/search?q=Pelz) | N/A |
-| 20 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 21 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
-| 22 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 23 | [Models](http://twitter.com/search?q=Models) | N/A |
-| 24 | [Henning](http://twitter.com/search?q=Henning) | N/A |
-| 25 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 26 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
-| 27 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 28 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
-| 29 | [Clemens Arvay](http://twitter.com/search?q=Clemens+Arvay) | N/A |
-| 30 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 31 | [Ruhe in Frieden](http://twitter.com/search?q=Ruhe+in+Frieden) | N/A |
-| 32 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 33 | [Edeka](http://twitter.com/search?q=Edeka) | N/A |
-| 34 | [#ICHWILLRTX](http://twitter.com/search?q=%23ICHWILLRTX) | N/A |
-| 35 | [#fcunion](http://twitter.com/search?q=%23fcunion) | N/A |
-| 36 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 37 | [#StateOfPlay](http://twitter.com/search?q=%23StateOfPlay) | N/A |
-| 38 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
-| 39 | [#UBEajx](http://twitter.com/search?q=%23UBEajx) | N/A |
-| 40 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 41 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 42 | [#ASMB04](http://twitter.com/search?q=%23ASMB04) | N/A |
-| 43 | [#GronkhTV](http://twitter.com/search?q=%23GronkhTV) | N/A |
-| 44 | [#ploetzlichunderwartet](http://twitter.com/search?q=%23ploetzlichunderwartet) | N/A |
-| 45 | [#hartesdeutschland](http://twitter.com/search?q=%23hartesdeutschland) | N/A |
-| 46 | [#UkraineWillWin](http://twitter.com/search?q=%23UkraineWillWin) | N/A |
-| 47 | [#sonsoftheforest](http://twitter.com/search?q=%23sonsoftheforest) | N/A |
-| 48 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 49 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 7 | [Helmut](http://twitter.com/search?q=Helmut) | N/A |
+| 8 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 9 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 10 | [Heidi](http://twitter.com/search?q=Heidi) | N/A |
+| 11 | [Zoey](http://twitter.com/search?q=Zoey) | N/A |
+| 12 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 13 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 14 | [Ingo](http://twitter.com/search?q=Ingo) | N/A |
+| 15 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 16 | [Lobo](http://twitter.com/search?q=Lobo) | N/A |
+| 17 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 18 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 19 | [Enthaltungen](http://twitter.com/search?q=Enthaltungen) | N/A |
+| 20 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 21 | [Pelz](http://twitter.com/search?q=Pelz) | N/A |
+| 22 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 23 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 24 | [Fotomontage](http://twitter.com/search?q=Fotomontage) | N/A |
+| 25 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 26 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
+| 27 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
+| 28 | [Lanz](http://twitter.com/search?q=Lanz) | N/A |
+| 29 | [Freitod](http://twitter.com/search?q=Freitod) | N/A |
+| 30 | [Henning](http://twitter.com/search?q=Henning) | N/A |
+| 31 | [heute vor 80 jahren](http://twitter.com/search?q=heute+vor+80+jahren) | N/A |
+| 32 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 33 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
+| 34 | [Schuldlos](http://twitter.com/search?q=Schuldlos) | N/A |
+| 35 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 36 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 37 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 38 | [Wirtz](http://twitter.com/search?q=Wirtz) | N/A |
+| 39 | [Teleobjektiv](http://twitter.com/search?q=Teleobjektiv) | N/A |
+| 40 | ['spiegelung'](http://twitter.com/search?q=%27spiegelung%27) | N/A |
+| 41 | [Fastenzeit](http://twitter.com/search?q=Fastenzeit) | N/A |
+| 42 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
+| 43 | [Finanzbeamtin](http://twitter.com/search?q=Finanzbeamtin) | N/A |
+| 44 | [Urs Fischer](http://twitter.com/search?q=Urs+Fischer) | N/A |
+| 45 | [Lieblings Fußball Teams](http://twitter.com/search?q=Lieblings+Fu%c3%9fball+Teams) | N/A |
+| 46 | [Regina](http://twitter.com/search?q=Regina) | N/A |
+| 47 | [Steuererklärung](http://twitter.com/search?q=Steuererkl%c3%a4rung) | N/A |
+| 48 | [Staaten](http://twitter.com/search?q=Staaten) | N/A |
+| 49 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
 
 
 

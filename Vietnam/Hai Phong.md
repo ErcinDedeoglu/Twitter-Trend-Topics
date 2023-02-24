@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-23 23:16:33 UTC`
+📆 Last Updated: `2023-02-24 00:28:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#2M300KforBuild](http://twitter.com/search?q=%232M300KforBuild) | N/A |
-| 2 | [#JISOOxVogueFrance](http://twitter.com/search?q=%23JISOOxVogueFrance) | N/A |
+| 2 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
 | 3 | [KEEP GROWING WITH BUILD](http://twitter.com/search?q=KEEP+GROWING+WITH+BUILD) | N/A |
-| 4 | [#SMCUEp3_Girls](http://twitter.com/search?q=%23SMCUEp3_Girls) | N/A |
-| 5 | [#เบิ้ลชาล็อตMVพี่ชาย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95MV%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%b2%e0%b8%a2) | N/A |
-| 6 | [#ส่งซีนุนิวไปเกาหลี](http://twitter.com/search?q=%23%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b8%8b%e0%b8%b5%e0%b8%99%e0%b8%b8%e0%b8%99%e0%b8%b4%e0%b8%a7%e0%b9%84%e0%b8%9b%e0%b9%80%e0%b8%81%e0%b8%b2%e0%b8%ab%e0%b8%a5%e0%b8%b5) | N/A |
+| 4 | [#JISOOxVogueFrance](http://twitter.com/search?q=%23JISOOxVogueFrance) | N/A |
+| 5 | [#SMCUEp3_Girls](http://twitter.com/search?q=%23SMCUEp3_Girls) | N/A |
+| 6 | [#เบิ้ลชาล็อตMVพี่ชาย](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9a%e0%b8%b4%e0%b9%89%e0%b8%a5%e0%b8%8a%e0%b8%b2%e0%b8%a5%e0%b9%87%e0%b8%ad%e0%b8%95MV%e0%b8%9e%e0%b8%b5%e0%b9%88%e0%b8%8a%e0%b8%b2%e0%b8%a2) | N/A |
 | 7 | [WATCH SMCU EP3 NOW](http://twitter.com/search?q=WATCH+SMCU+EP3+NOW) | N/A |
 | 8 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
 | 9 | [Sphinx](http://twitter.com/search?q=Sphinx) | N/A |
-| 10 | [JIMIN FACE TRACKLIST](http://twitter.com/search?q=JIMIN+FACE+TRACKLIST) | N/A |
-| 11 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
+| 10 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
+| 11 | [Base](http://twitter.com/search?q=Base) | N/A |
 | 12 | [Lisa](http://twitter.com/search?q=Lisa) | Lisa is a female given name of Hebrew origin, meaning "God is my oath". It is also a short form of Elisabeth. |
 | 13 | [build is special](http://twitter.com/search?q=build+is+special) | N/A |
 | 14 | [út vàng nhà bangtan](http://twitter.com/search?q=%c3%bat+v%c3%a0ng+nh%c3%a0+bangtan) | N/A |
 | 15 | [winwin](http://twitter.com/search?q=winwin) | N/A |
-| 16 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 17 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 18 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
-| 19 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
-| 20 | [Chess](http://twitter.com/search?q=Chess) | N/A |
-| 21 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
-| 22 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
-| 23 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
-| 24 | [Lovely](http://twitter.com/search?q=Lovely) | N/A |
-| 25 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
-| 26 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 27 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
-| 28 | [Ankr](http://twitter.com/search?q=Ankr) | N/A |
-| 29 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
-| 30 | [hà nội](http://twitter.com/search?q=h%c3%a0+n%e1%bb%99i) | N/A |
-| 31 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
-| 32 | [Australia](http://twitter.com/search?q=Australia) | N/A |
-| 33 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
-| 34 | [Metaverse](http://twitter.com/search?q=Metaverse) | N/A |
+| 16 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 17 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
+| 18 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
+| 19 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
+| 20 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 21 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 22 | [Chess](http://twitter.com/search?q=Chess) | N/A |
+| 23 | [FACE IS COMING](http://twitter.com/search?q=FACE+IS+COMING) | N/A |
+| 24 | [Yuzu](http://twitter.com/search?q=Yuzu) | N/A |
+| 25 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 26 | [Vinh](http://twitter.com/search?q=Vinh) | N/A |
+| 27 | [Ankr](http://twitter.com/search?q=Ankr) | N/A |
+| 28 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 29 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
+| 30 | [hàng](http://twitter.com/search?q=h%c3%a0ng) | N/A |
+| 31 | [hà nội](http://twitter.com/search?q=h%c3%a0+n%e1%bb%99i) | N/A |
+| 32 | [điều](http://twitter.com/search?q=%c4%91i%e1%bb%81u) | N/A |
+| 33 | [Australia](http://twitter.com/search?q=Australia) | N/A |
+| 34 | [liên](http://twitter.com/search?q=li%c3%aan) | N/A |
 | 35 | [Hóng](http://twitter.com/search?q=H%c3%b3ng) | N/A |
-| 36 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
-| 37 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
-| 38 | [Pump](http://twitter.com/search?q=Pump) | N/A |
-| 39 | [Liverpool](http://twitter.com/search?q=Liverpool) | Liverpool is a city in Merseyside, England. It is the ninth-largest English city and the sixth-largest in the United Kingdom. The city is known for its rich history, culture, and music scene. Liverpool is also home to two Premier League football clubs, Liverpool F.C. and Everton F.C., as well as the world-famous Beatles. |
-| 40 | [Jeff](http://twitter.com/search?q=Jeff) | N/A |
-| 41 | [MEXC](http://twitter.com/search?q=MEXC) | N/A |
-| 42 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
-| 43 | [Moscow](http://twitter.com/search?q=Moscow) | N/A |
-| 44 | [nhân](http://twitter.com/search?q=nh%c3%a2n) | N/A |
-| 45 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 46 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 47 | [Korea](http://twitter.com/search?q=Korea) | N/A |
-| 48 | [Chúng](http://twitter.com/search?q=Ch%c3%bang) | N/A |
-| 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 50 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 36 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 37 | [OpenSea](http://twitter.com/search?q=OpenSea) | N/A |
+| 38 | [NFTs](http://twitter.com/search?q=NFTs) | N/A |
+| 39 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 40 | [MEXC](http://twitter.com/search?q=MEXC) | N/A |
+| 41 | [Pi Network](http://twitter.com/search?q=Pi+Network) | N/A |
+| 42 | [Chéo](http://twitter.com/search?q=Ch%c3%a9o) | N/A |
+| 43 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 44 | [Korea](http://twitter.com/search?q=Korea) | N/A |
+| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 46 | [Chúng](http://twitter.com/search?q=Ch%c3%bang) | N/A |
+| 47 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 48 | [Vietnam](http://twitter.com/search?q=Vietnam) | N/A |
+| 49 | [London](http://twitter.com/search?q=London) | N/A |
+| 50 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 
 
 
