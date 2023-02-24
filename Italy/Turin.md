@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Turin
 
-📆 Last Updated: `2023-02-24 17:16:19 UTC`
+📆 Last Updated: `2023-02-24 18:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,43 +16,55 @@ This is top 50 for [Italy](</Italy>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#mauriziocostanzo](http://twitter.com/search?q=%23mauriziocostanzo) | N/A |
-| 2 | [#StaySelcaDay](http://twitter.com/search?q=%23StaySelcaDay) | N/A |
-| 3 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 4 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 5 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
-| 6 | [#ilparadisodellesignore](http://twitter.com/search?q=%23ilparadisodellesignore) | N/A |
-| 7 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 8 | [Paky](http://twitter.com/search?q=Paky) | N/A |
-| 9 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
-| 10 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
-| 11 | [Aveva 84](http://twitter.com/search?q=Aveva+84) | N/A |
-| 12 | [R.I.P](http://twitter.com/search?q=R.I.P) | N/A |
-| 13 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 14 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 15 | [Clara](http://twitter.com/search?q=Clara) | Clara is a female given name of Latin origin, meaning "bright" or "clear". |
+| 2 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
+| 3 | [#24febbraio](http://twitter.com/search?q=%2324febbraio) | N/A |
+| 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 5 | [#NantesJuventus](http://twitter.com/search?q=%23NantesJuventus) | N/A |
+| 6 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 7 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 8 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
+| 9 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 10 | [La Cassazione](http://twitter.com/search?q=La+Cassazione) | N/A |
+| 11 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 12 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 13 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 14 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 15 | [Namjoon](http://twitter.com/search?q=Namjoon) | N/A |
 | 16 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 17 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
-| 18 | [#carolapuddu](http://twitter.com/search?q=%23carolapuddu) | N/A |
-| 19 | [#24febbraio](http://twitter.com/search?q=%2324febbraio) | N/A |
-| 20 | [#Mattarella](http://twitter.com/search?q=%23Mattarella) | N/A |
-| 21 | [#lavitaindiretta](http://twitter.com/search?q=%23lavitaindiretta) | N/A |
-| 22 | [#unprofessore2](http://twitter.com/search?q=%23unprofessore2) | N/A |
-| 23 | [#terraamara](http://twitter.com/search?q=%23terraamara) | N/A |
-| 24 | [#UELdraw](http://twitter.com/search?q=%23UELdraw) | N/A |
-| 25 | [#jib11](http://twitter.com/search?q=%23jib11) | N/A |
-| 26 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 27 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
-| 28 | [#RussiaInvadedUkraine](http://twitter.com/search?q=%23RussiaInvadedUkraine) | N/A |
-| 29 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 30 | [#tagadala7](http://twitter.com/search?q=%23tagadala7) | N/A |
-| 31 | [#UkraineWar](http://twitter.com/search?q=%23UkraineWar) | N/A |
-| 32 | [#ISogniSonDesideri](http://twitter.com/search?q=%23ISogniSonDesideri) | N/A |
-| 33 | [#ore14](http://twitter.com/search?q=%23ore14) | N/A |
-| 34 | [#ConferenceLeague](http://twitter.com/search?q=%23ConferenceLeague) | N/A |
-| 35 | [#ElTurco](http://twitter.com/search?q=%23ElTurco) | N/A |
-| 36 | [#Fiorentina](http://twitter.com/search?q=%23Fiorentina) | N/A |
-| 37 | [#AlbertoSordi](http://twitter.com/search?q=%23AlbertoSordi) | N/A |
-| 38 | [#Donbass](http://twitter.com/search?q=%23Donbass) | N/A |
+| 17 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 18 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 19 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 20 | [Aveva 84](http://twitter.com/search?q=Aveva+84) | N/A |
+| 21 | [Forza Roma](http://twitter.com/search?q=Forza+Roma) | N/A |
+| 22 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
+| 23 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
+| 24 | [Paky](http://twitter.com/search?q=Paky) | N/A |
+| 25 | [Spinazzola](http://twitter.com/search?q=Spinazzola) | N/A |
+| 26 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 27 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
+| 28 | [Pippo Baudo](http://twitter.com/search?q=Pippo+Baudo) | N/A |
+| 29 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 30 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 31 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
+| 32 | [Moldavia](http://twitter.com/search?q=Moldavia) | N/A |
+| 33 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 34 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 35 | [Malan](http://twitter.com/search?q=Malan) | N/A |
+| 36 | [Il 24](http://twitter.com/search?q=Il+24) | N/A |
+| 37 | [Odissea](http://twitter.com/search?q=Odissea) | N/A |
+| 38 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
+| 39 | [Sparta](http://twitter.com/search?q=Sparta) | N/A |
+| 40 | [Mediaset](http://twitter.com/search?q=Mediaset) | N/A |
+| 41 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
+| 42 | [Carmelo Bene](http://twitter.com/search?q=Carmelo+Bene) | N/A |
+| 43 | [Adelaide](http://twitter.com/search?q=Adelaide) | N/A |
+| 44 | [Prisma](http://twitter.com/search?q=Prisma) | N/A |
+| 45 | [Marcello](http://twitter.com/search?q=Marcello) | N/A |
+| 46 | [Ennio Morricone](http://twitter.com/search?q=Ennio+Morricone) | N/A |
+| 47 | [Cerasa](http://twitter.com/search?q=Cerasa) | N/A |
+| 48 | [Bentornata](http://twitter.com/search?q=Bentornata) | N/A |
+| 49 | [Corrado](http://twitter.com/search?q=Corrado) | N/A |
+| 50 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
 
 
 

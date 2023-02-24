@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-24 17:16:51 UTC`
+📆 Last Updated: `2023-02-24 18:16:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Denmark
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 2 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
-| 3 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 4 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
-| 5 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 6 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 7 | [#fcmscp](http://twitter.com/search?q=%23fcmscp) | N/A |
-| 8 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 9 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 10 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 11 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
-| 12 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 13 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
-| 14 | [Farum](http://twitter.com/search?q=Farum) | N/A |
-| 15 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 16 | [#fcnob](http://twitter.com/search?q=%23fcnob) | N/A |
+| 2 | [Farum](http://twitter.com/search?q=Farum) | N/A |
+| 3 | [#fcnob](http://twitter.com/search?q=%23fcnob) | N/A |
+| 4 | [#dkpol](http://twitter.com/search?q=%23dkpol) | N/A |
+| 5 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 6 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
+| 7 | [#obdk](http://twitter.com/search?q=%23obdk) | N/A |
+| 8 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 9 | [Pogacar](http://twitter.com/search?q=Pogacar) | N/A |
+| 10 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 11 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 12 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 13 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
+| 14 | [Kina](http://twitter.com/search?q=Kina) | N/A |
+| 15 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 16 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 17 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 18 | [peter seier](http://twitter.com/search?q=peter+seier) | N/A |
-| 19 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 20 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
-| 21 | [graulund](http://twitter.com/search?q=graulund) | N/A |
+| 18 | [Man United](http://twitter.com/search?q=Man+United) | Man United is a nickname for Manchester United Football Club, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 19 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
+| 20 | [graulund](http://twitter.com/search?q=graulund) | N/A |
+| 21 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
 | 22 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 23 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 24 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 25 | [Lissabon](http://twitter.com/search?q=Lissabon) | N/A |
-| 26 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 24 | [Lissabon](http://twitter.com/search?q=Lissabon) | N/A |
+| 25 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 26 | [Peter Seier](http://twitter.com/search?q=Peter+Seier) | N/A |
 | 27 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
 | 28 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 29 | [ukrainske](http://twitter.com/search?q=ukrainske) | N/A |
-| 30 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 31 | [Parken](http://twitter.com/search?q=Parken) | N/A |
-| 32 | [Russiske](http://twitter.com/search?q=Russiske) | N/A |
-| 33 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 34 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 35 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 36 | [Australien](http://twitter.com/search?q=Australien) | N/A |
-| 37 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
-| 38 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
-| 39 | [jarlov](http://twitter.com/search?q=jarlov) | N/A |
-| 40 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 41 | [Kolding](http://twitter.com/search?q=Kolding) | N/A |
+| 29 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 30 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 31 | [YouSee](http://twitter.com/search?q=YouSee) | N/A |
+| 32 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 33 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 34 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
+| 35 | [Parken](http://twitter.com/search?q=Parken) | N/A |
+| 36 | [Russiske](http://twitter.com/search?q=Russiske) | N/A |
+| 37 | [Australien](http://twitter.com/search?q=Australien) | N/A |
+| 38 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
+| 39 | [Ukrainske](http://twitter.com/search?q=Ukrainske) | N/A |
+| 40 | [jarlov](http://twitter.com/search?q=jarlov) | N/A |
+| 41 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
 | 42 | [Jonas Vingegaard](http://twitter.com/search?q=Jonas+Vingegaard) | N/A |
-| 43 | [Russia and China](http://twitter.com/search?q=Russia+and+China) | N/A |
-| 44 | [Børsen](http://twitter.com/search?q=B%c3%b8rsen) | N/A |
-| 45 | [Viaplay](http://twitter.com/search?q=Viaplay) | N/A |
-| 46 | [lynetteholm](http://twitter.com/search?q=lynetteholm) | N/A |
-| 47 | [Trump](http://twitter.com/search?q=Trump) | N/A |
-| 48 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 49 | [jon stephensen](http://twitter.com/search?q=jon+stephensen) | N/A |
-| 50 | [moderaterne](http://twitter.com/search?q=moderaterne) | N/A |
+| 43 | [Kolding](http://twitter.com/search?q=Kolding) | N/A |
+| 44 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 45 | [lynetteholm](http://twitter.com/search?q=lynetteholm) | N/A |
+| 46 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 47 | [Russia and China](http://twitter.com/search?q=Russia+and+China) | N/A |
+| 48 | [Netto](http://twitter.com/search?q=Netto) | N/A |
+| 49 | [Gavi](http://twitter.com/search?q=Gavi) | Gavi is a village in the Indian state of Kerala. It is located in the Kannur district and is known for its beautiful landscapes and lush green vegetation. The name Gavi is derived from the Malayalam word ‘gavu’, which means ‘cave’. The village is home to a number of caves, which are believed to have been used by Buddhist monks in ancient times. |
+| 50 | [I Danmark](http://twitter.com/search?q=I+Danmark) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Manaus
 
-📆 Last Updated: `2023-02-24 17:16:13 UTC`
+📆 Last Updated: `2023-02-24 18:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Brazil](</Brazil>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 2 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 3 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 4 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
-| 5 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 6 | [#StaySelcaDay](http://twitter.com/search?q=%23StaySelcaDay) | N/A |
-| 7 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 8 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
-| 9 | [#M12NoFlu](http://twitter.com/search?q=%23M12NoFlu) | N/A |
-| 10 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
-| 11 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
-| 12 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
-| 13 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
-| 14 | [#Comfort10xMaisPerfume](http://twitter.com/search?q=%23Comfort10xMaisPerfume) | N/A |
-| 15 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
-| 16 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
-| 17 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
-| 18 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 19 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 20 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
-| 21 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
-| 22 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
-| 23 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 24 | [Agulhas](http://twitter.com/search?q=Agulhas) | N/A |
-| 25 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 26 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 27 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
-| 28 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
-| 29 | [Árias](http://twitter.com/search?q=%c3%81rias) | N/A |
-| 30 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 31 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
-| 32 | [Xerém](http://twitter.com/search?q=Xer%c3%a9m) | N/A |
-| 33 | [Piauí Pop](http://twitter.com/search?q=Piau%c3%ad+Pop) | N/A |
-| 34 | [Sobis](http://twitter.com/search?q=Sobis) | N/A |
-| 35 | [Jegue](http://twitter.com/search?q=Jegue) | N/A |
-| 36 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 37 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
-| 38 | [Zhou](http://twitter.com/search?q=Zhou) | N/A |
-| 39 | [Dani Alves](http://twitter.com/search?q=Dani+Alves) | Dani Alves is a Brazilian professional footballer who plays for São Paulo FC. He is widely regarded as one of the best right-backs in the world and has won numerous trophies throughout his career, including six La Liga titles, three UEFA Champions League titles, and four Copa del Rey titles. The name Dani Alves is derived from his given name Daniel Alves da Silva. |
-| 40 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 41 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
-| 42 | [LOUCO DA CABEÇA](http://twitter.com/search?q=LOUCO+DA+CABE%c3%87A) | N/A |
-| 43 | [Ritinha](http://twitter.com/search?q=Ritinha) | N/A |
-| 44 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 45 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
-| 46 | [Figueiredo](http://twitter.com/search?q=Figueiredo) | Figueiredo is a Portuguese surname derived from the Latin word figarius, meaning "fig tree". It is most commonly found in Portugal and Brazil. In English, it can be translated to mean "of the fig tree". |
-| 47 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 48 | [Campari](http://twitter.com/search?q=Campari) | N/A |
-| 49 | [Laranjeiras](http://twitter.com/search?q=Laranjeiras) | N/A |
-| 50 | [Adidas](http://twitter.com/search?q=Adidas) | N/A |
+| 2 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 3 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
+| 4 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 5 | [#StaySelcaDay](http://twitter.com/search?q=%23StaySelcaDay) | N/A |
+| 6 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
+| 7 | [Marçal](http://twitter.com/search?q=Mar%c3%a7al) | N/A |
+| 8 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 9 | [Ganso](http://twitter.com/search?q=Ganso) | Ganso is a Japanese word that means "original" or "pioneer". It is often used to refer to the first person or thing of its kind. |
+| 10 | [#M12NoFlu](http://twitter.com/search?q=%23M12NoFlu) | N/A |
+| 11 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 12 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
+| 13 | [#SextouDoBem](http://twitter.com/search?q=%23SextouDoBem) | N/A |
+| 14 | [Thiago Silva](http://twitter.com/search?q=Thiago+Silva) | Thiago Silva is a Brazilian professional footballer who plays as a central defender for Paris Saint-Germain and the Brazil national team. In English, Thiago Silva means "Saint Thomas". |
+| 15 | [Tenz](http://twitter.com/search?q=Tenz) | N/A |
+| 16 | [#StrayKids](http://twitter.com/search?q=%23StrayKids) | #StrayKids is a South Korean boy band formed by JYP Entertainment in 2017. The group consists of nine members: Bang Chan, Lee Know, Changbin, Hyunjin, Han, Felix, Seungmin, I.N and Woojin. The name "Stray Kids" is meant to represent the idea that the members are all different and unique individuals who have come together to create something special. |
+| 17 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 18 | [Sacy](http://twitter.com/search?q=Sacy) | N/A |
+| 19 | [Fluzão](http://twitter.com/search?q=Fluz%c3%a3o) | N/A |
+| 20 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 21 | [Olympiacos](http://twitter.com/search?q=Olympiacos) | N/A |
+| 22 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 23 | [Coutinho](http://twitter.com/search?q=Coutinho) | N/A |
+| 24 | [Diogo Dantas](http://twitter.com/search?q=Diogo+Dantas) | N/A |
+| 25 | [Jegue](http://twitter.com/search?q=Jegue) | N/A |
+| 26 | [Elizabeth](http://twitter.com/search?q=Elizabeth) | N/A |
+| 27 | [Felipe Melo](http://twitter.com/search?q=Felipe+Melo) | Felipe Melo is a Brazilian professional footballer who plays as a defensive midfielder for Palmeiras. His name translates to "Philip the Brave" in English. |
+| 28 | [O Fluminense](http://twitter.com/search?q=O+Fluminense) | N/A |
+| 29 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 30 | [Agulhas](http://twitter.com/search?q=Agulhas) | N/A |
+| 31 | [Heaven](http://twitter.com/search?q=Heaven) | N/A |
+| 32 | [Textor](http://twitter.com/search?q=Textor) | Textor is a German word that means "weaver" or "spinner." It is used to refer to someone who creates textiles, such as a tailor or seamstress. |
+| 33 | [Arias](http://twitter.com/search?q=Arias) | Arias is a type of vocal solo in opera or oratorio. It is a song for one voice, usually with orchestral accompaniment. The term comes from the Italian word for "air" or "melody". In English, an aria is a song that expresses emotion and is often used to highlight a particular character's feelings. |
+| 34 | [Campari](http://twitter.com/search?q=Campari) | N/A |
+| 35 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 36 | [Raimundos](http://twitter.com/search?q=Raimundos) | N/A |
+| 37 | [Ritinha](http://twitter.com/search?q=Ritinha) | N/A |
+| 38 | [Cruella](http://twitter.com/search?q=Cruella) | N/A |
+| 39 | [Rodinei](http://twitter.com/search?q=Rodinei) | Rodinei is a Brazilian name derived from the Latin name Rodinius, which means "from the famous one". It is a masculine given name and can also be used as a surname. |
+| 40 | [Banrisul](http://twitter.com/search?q=Banrisul) | N/A |
+| 41 | [Fernandinho](http://twitter.com/search?q=Fernandinho) | N/A |
+| 42 | [Voto Feminino](http://twitter.com/search?q=Voto+Feminino) | N/A |
+| 43 | [Piauí Pop](http://twitter.com/search?q=Piau%c3%ad+Pop) | N/A |
+| 44 | [Pancada](http://twitter.com/search?q=Pancada) | N/A |
+| 45 | [Seedorf](http://twitter.com/search?q=Seedorf) | N/A |
+| 46 | [Botafoguense](http://twitter.com/search?q=Botafoguense) | N/A |
+| 47 | [Zhou](http://twitter.com/search?q=Zhou) | N/A |
+| 48 | [Xerém](http://twitter.com/search?q=Xer%c3%a9m) | N/A |
+| 49 | [Dedal](http://twitter.com/search?q=Dedal) | N/A |
+| 50 | [Hermes](http://twitter.com/search?q=Hermes) | N/A |
 
 
 

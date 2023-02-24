@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-24 17:16:04 UTC`
+📆 Last Updated: `2023-02-24 18:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#CashAppUK](http://twitter.com/search?q=%23CashAppUK) | N/A |
-| 2 | [Mhairi](http://twitter.com/search?q=Mhairi) | N/A |
-| 3 | [#ENGvSA](http://twitter.com/search?q=%23ENGvSA) | N/A |
-| 4 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 5 | [Hummel](http://twitter.com/search?q=Hummel) | N/A |
-| 6 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 7 | [#T20WorldCup](http://twitter.com/search?q=%23T20WorldCup) | N/A |
-| 8 | [#FridayVibes](http://twitter.com/search?q=%23FridayVibes) | N/A |
-| 9 | [#T20WomensWorldCup](http://twitter.com/search?q=%23T20WomensWorldCup) | N/A |
-| 10 | [Sir Bernard Ingham](http://twitter.com/search?q=Sir+Bernard+Ingham) | N/A |
-| 11 | [Steve Allen](http://twitter.com/search?q=Steve+Allen) | N/A |
-| 12 | [Katherine Sciver](http://twitter.com/search?q=Katherine+Sciver) | N/A |
+| 1 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
+| 2 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
+| 3 | [Bernard Ingham](http://twitter.com/search?q=Bernard+Ingham) | N/A |
+| 4 | [Mhairi](http://twitter.com/search?q=Mhairi) | N/A |
+| 5 | [#CashAppUK](http://twitter.com/search?q=%23CashAppUK) | N/A |
+| 6 | [#TheChase](http://twitter.com/search?q=%23TheChase) | N/A |
+| 7 | [Hummel](http://twitter.com/search?q=Hummel) | N/A |
+| 8 | [#BVFootball](http://twitter.com/search?q=%23BVFootball) | N/A |
+| 9 | [Steve Allen](http://twitter.com/search?q=Steve+Allen) | N/A |
+| 10 | [#fourinabed](http://twitter.com/search?q=%23fourinabed) | N/A |
+| 11 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 12 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
 | 13 | [Riccardo](http://twitter.com/search?q=Riccardo) | Riccardo is an Italian name derived from the Latin name Ricardus, which means “powerful ruler”. In English, it is usually translated as Richard. |
-| 14 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 15 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 16 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 17 | [Global Ocean Treaty](http://twitter.com/search?q=Global+Ocean+Treaty) | N/A |
-| 18 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
-| 19 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
-| 20 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
-| 21 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
-| 22 | [Margaret Thatcher](http://twitter.com/search?q=Margaret+Thatcher) | N/A |
-| 23 | [Alex Neil](http://twitter.com/search?q=Alex+Neil) | N/A |
-| 24 | [Puffin](http://twitter.com/search?q=Puffin) | N/A |
-| 25 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 26 | [Lisbon](http://twitter.com/search?q=Lisbon) | N/A |
-| 27 | [Tatchell](http://twitter.com/search?q=Tatchell) | N/A |
-| 28 | [Littlejohn](http://twitter.com/search?q=Littlejohn) | N/A |
-| 29 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
-| 30 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 31 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
-| 32 | [usyk](http://twitter.com/search?q=usyk) | N/A |
-| 33 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 34 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 14 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 15 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
+| 16 | [Global Ocean Treaty](http://twitter.com/search?q=Global+Ocean+Treaty) | N/A |
+| 17 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 18 | [Katherine Sciver](http://twitter.com/search?q=Katherine+Sciver) | N/A |
+| 19 | [Alex Neil](http://twitter.com/search?q=Alex+Neil) | N/A |
+| 20 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
+| 21 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 22 | [Meydan](http://twitter.com/search?q=Meydan) | N/A |
+| 23 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
+| 24 | [Margaret Thatcher](http://twitter.com/search?q=Margaret+Thatcher) | N/A |
+| 25 | [Puffin](http://twitter.com/search?q=Puffin) | N/A |
+| 26 | [Pikachu](http://twitter.com/search?q=Pikachu) | N/A |
+| 27 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
+| 28 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 29 | [Littlejohn](http://twitter.com/search?q=Littlejohn) | N/A |
+| 30 | [Swede](http://twitter.com/search?q=Swede) | N/A |
+| 31 | [Turnips](http://twitter.com/search?q=Turnips) | N/A |
+| 32 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
+| 33 | [Tatchell](http://twitter.com/search?q=Tatchell) | N/A |
+| 34 | [Warwick](http://twitter.com/search?q=Warwick) | N/A |
 | 35 | [Cupid](http://twitter.com/search?q=Cupid) | N/A |
-| 36 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 37 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
-| 38 | [Warwick](http://twitter.com/search?q=Warwick) | N/A |
-| 39 | [Camilla](http://twitter.com/search?q=Camilla) | N/A |
-| 40 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
-| 41 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 42 | [Swedes](http://twitter.com/search?q=Swedes) | N/A |
-| 43 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 44 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
-| 45 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 46 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 47 | [Succession](http://twitter.com/search?q=Succession) | N/A |
-| 48 | [Ferguson](http://twitter.com/search?q=Ferguson) | N/A |
-| 49 | [Gracia](http://twitter.com/search?q=Gracia) | N/A |
+| 36 | [Mitro](http://twitter.com/search?q=Mitro) | N/A |
+| 37 | [Usyk](http://twitter.com/search?q=Usyk) | N/A |
+| 38 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 39 | [Lisbon](http://twitter.com/search?q=Lisbon) | N/A |
+| 40 | [Billy Bragg](http://twitter.com/search?q=Billy+Bragg) | N/A |
+| 41 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 42 | [Ash Regan](http://twitter.com/search?q=Ash+Regan) | N/A |
+| 43 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 44 | [Cyprus](http://twitter.com/search?q=Cyprus) | N/A |
+| 45 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 46 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
+| 47 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 48 | [Gavin](http://twitter.com/search?q=Gavin) | N/A |
+| 49 | [Succession](http://twitter.com/search?q=Succession) | N/A |
 
 
 
