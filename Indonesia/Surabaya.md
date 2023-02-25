@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-25 10:15:40 UTC`
+📆 Last Updated: `2023-02-25 11:16:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#BnbChain](http://twitter.com/search?q=%23BnbChain) | N/A |
-| 2 | [JENO MILAN FASHION WEEK](http://twitter.com/search?q=JENO+MILAN+FASHION+WEEK) | N/A |
-| 3 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
-| 4 | [#bocahedewe](http://twitter.com/search?q=%23bocahedewe) | N/A |
-| 5 | [Rakernas IKA UNDIP](http://twitter.com/search?q=Rakernas+IKA+UNDIP) | N/A |
-| 6 | [#BrendaBagiBagiSkincare](http://twitter.com/search?q=%23BrendaBagiBagiSkincare) | N/A |
-| 7 | [#GALagi](http://twitter.com/search?q=%23GALagi) | N/A |
-| 8 | [KIM MINJEONG](http://twitter.com/search?q=KIM+MINJEONG) | N/A |
-| 9 | [JINAN SAFA SAFIRA S.I.KOM](http://twitter.com/search?q=JINAN+SAFA+SAFIRA+S.I.KOM) | N/A |
-| 10 | [Risih](http://twitter.com/search?q=Risih) | N/A |
-| 11 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
-| 12 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 13 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
-| 14 | [Elif](http://twitter.com/search?q=Elif) | N/A |
-| 15 | [Cerai](http://twitter.com/search?q=Cerai) | N/A |
-| 16 | [Pengacara](http://twitter.com/search?q=Pengacara) | N/A |
-| 17 | [Ayahku](http://twitter.com/search?q=Ayahku) | N/A |
-| 18 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 19 | [Signal](http://twitter.com/search?q=Signal) | N/A |
-| 20 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
-| 21 | [Ortu](http://twitter.com/search?q=Ortu) | N/A |
-| 22 | [Buzzer](http://twitter.com/search?q=Buzzer) | N/A |
-| 23 | [Nikah](http://twitter.com/search?q=Nikah) | N/A |
-| 24 | [Prabowo Pilihan Kita](http://twitter.com/search?q=Prabowo+Pilihan+Kita) | N/A |
-| 25 | [Lapor](http://twitter.com/search?q=Lapor) | N/A |
-| 26 | [#TWSMonster](http://twitter.com/search?q=%23TWSMonster) | N/A |
-| 27 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
-| 28 | [#Fighting7thWin](http://twitter.com/search?q=%23Fighting7thWin) | N/A |
-| 29 | [#FerragamoFW23](http://twitter.com/search?q=%23FerragamoFW23) | N/A |
-| 30 | [#WINsSociety](http://twitter.com/search?q=%23WINsSociety) | N/A |
-| 31 | [#WINfinity2023](http://twitter.com/search?q=%23WINfinity2023) | N/A |
-| 32 | [#BSS7thWin](http://twitter.com/search?q=%23BSS7thWin) | N/A |
-| 33 | [#UsutKembaliKasusKM50](http://twitter.com/search?q=%23UsutKembaliKasusKM50) | N/A |
-| 34 | [#HotGirlGiselleInKorea](http://twitter.com/search?q=%23HotGirlGiselleInKorea) | N/A |
-| 35 | [#SynkWithAceWinter](http://twitter.com/search?q=%23SynkWithAceWinter) | N/A |
-| 36 | [#IDGLEIvsARS](http://twitter.com/search?q=%23IDGLEIvsARS) | N/A |
-| 37 | [#Badmintondidetikcom](http://twitter.com/search?q=%23Badmintondidetikcom) | N/A |
-| 38 | [#부석순_음악중심_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%8c%ec%95%85%ec%a4%91%ec%8b%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 39 | [#BNISirnas2023](http://twitter.com/search?q=%23BNISirnas2023) | N/A |
-| 40 | [#zonauang️](http://twitter.com/search?q=%23zonauang%ef%b8%8f) | N/A |
+| 1 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
+| 2 | [#BnbChain](http://twitter.com/search?q=%23BnbChain) | N/A |
+| 3 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
+| 4 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
+| 5 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
+| 6 | [#BiuTheBluePrince](http://twitter.com/search?q=%23BiuTheBluePrince) | N/A |
+| 7 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 8 | [Rakernas IKA UNDIP](http://twitter.com/search?q=Rakernas+IKA+UNDIP) | N/A |
+| 9 | [KIM MINJEONG](http://twitter.com/search?q=KIM+MINJEONG) | N/A |
+| 10 | [GISELLE](http://twitter.com/search?q=GISELLE) | N/A |
+| 11 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 12 | [NINGNING](http://twitter.com/search?q=NINGNING) | NINGNING is an onomatopoeia in Chinese, which is used to describe the sound of a small bell or a ringing sound. In English, it can be translated as "ding-dong". |
+| 13 | [Risih](http://twitter.com/search?q=Risih) | N/A |
+| 14 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 15 | [Grace](http://twitter.com/search?q=Grace) | N/A |
+| 16 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
+| 17 | [JINAN SAFA SAFIRA S.I.KOM](http://twitter.com/search?q=JINAN+SAFA+SAFIRA+S.I.KOM) | N/A |
+| 18 | [Elif](http://twitter.com/search?q=Elif) | N/A |
+| 19 | [Pengacara](http://twitter.com/search?q=Pengacara) | N/A |
+| 20 | [Cerai](http://twitter.com/search?q=Cerai) | N/A |
+| 21 | [Ayahku](http://twitter.com/search?q=Ayahku) | N/A |
+| 22 | [Ortu](http://twitter.com/search?q=Ortu) | N/A |
+| 23 | [Buzzer](http://twitter.com/search?q=Buzzer) | N/A |
+| 24 | [#bocahedewe](http://twitter.com/search?q=%23bocahedewe) | N/A |
+| 25 | [#FerragamoFW23](http://twitter.com/search?q=%23FerragamoFW23) | N/A |
+| 26 | [#BrendaBagiBagiSkincare](http://twitter.com/search?q=%23BrendaBagiBagiSkincare) | N/A |
+| 27 | [#GALagi](http://twitter.com/search?q=%23GALagi) | N/A |
+| 28 | [#TWSMonster](http://twitter.com/search?q=%23TWSMonster) | N/A |
+| 29 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
+| 30 | [#UsutKembaliKasusKM50](http://twitter.com/search?q=%23UsutKembaliKasusKM50) | N/A |
+| 31 | [#Fighting7thWin](http://twitter.com/search?q=%23Fighting7thWin) | N/A |
+| 32 | [#IreneDeservesBetterTreatment](http://twitter.com/search?q=%23IreneDeservesBetterTreatment) | N/A |
+| 33 | [#WINsSociety](http://twitter.com/search?q=%23WINsSociety) | N/A |
+| 34 | [#kinnporscheworldtour2023](http://twitter.com/search?q=%23kinnporscheworldtour2023) | N/A |
+| 35 | [#BSS7thWin](http://twitter.com/search?q=%23BSS7thWin) | N/A |
+| 36 | [#WINfinity2023](http://twitter.com/search?q=%23WINfinity2023) | N/A |
+| 37 | [#부석순_음악중심_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%8c%ec%95%85%ec%a4%91%ec%8b%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 38 | [#zonauang️](http://twitter.com/search?q=%23zonauang%ef%b8%8f) | N/A |
+| 39 | [#IDGLEIvsARS](http://twitter.com/search?q=%23IDGLEIvsARS) | N/A |
+| 40 | [#mbankingsirnasbatam](http://twitter.com/search?q=%23mbankingsirnasbatam) | N/A |
 | 41 | [#lapakcot](http://twitter.com/search?q=%23lapakcot) | N/A |
-| 42 | [#mbankingsirnasbatam](http://twitter.com/search?q=%23mbankingsirnasbatam) | N/A |
-| 43 | [#IreneDeservesBetterTreatment](http://twitter.com/search?q=%23IreneDeservesBetterTreatment) | N/A |
+| 42 | [#LeeJaeWookFIRSTinJKT](http://twitter.com/search?q=%23LeeJaeWookFIRSTinJKT) | N/A |
+| 43 | [#RaisaGBK2023](http://twitter.com/search?q=%23RaisaGBK2023) | N/A |
 | 44 | [#ChaTamara](http://twitter.com/search?q=%23ChaTamara) | N/A |
-| 45 | [#USDC](http://twitter.com/search?q=%23USDC) | N/A |
-| 46 | [#LeeJaeWookFIRSTinJKT](http://twitter.com/search?q=%23LeeJaeWookFIRSTinJKT) | N/A |
-| 47 | [#RaisaGBK2023](http://twitter.com/search?q=%23RaisaGBK2023) | N/A |
-| 48 | [#SuaraMantraTerkutuk](http://twitter.com/search?q=%23SuaraMantraTerkutuk) | N/A |
-| 49 | [#RespectGiselle](http://twitter.com/search?q=%23RespectGiselle) | N/A |
 
 
 

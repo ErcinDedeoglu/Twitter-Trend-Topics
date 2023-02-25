@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico
 
-📆 Last Updated: `2023-02-25 10:16:12 UTC`
+📆 Last Updated: `2023-02-25 11:17:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,7 +16,7 @@ This is top 50 for Mexico
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#salariorosavapormas](http://twitter.com/search?q=%23salariorosavapormas) | N/A |
-| 2 | [#díadelabandera](http://twitter.com/search?q=%23d%c3%adadelabandera) | N/A |
+| 2 | [#DíaDeLaBandera](http://twitter.com/search?q=%23D%c3%adaDeLaBandera) | N/A |
 | 3 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
 | 4 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
 | 5 | [Anáhuac](http://twitter.com/search?q=An%c3%a1huac) | N/A |
@@ -27,44 +27,44 @@ This is top 50 for Mexico
 | 10 | [#MinistraDoblePirata](http://twitter.com/search?q=%23MinistraDoblePirata) | N/A |
 | 11 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
 | 12 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 13 | [Esos 4](http://twitter.com/search?q=Esos+4) | N/A |
-| 14 | [#24DeFebrero](http://twitter.com/search?q=%2324DeFebrero) | N/A |
-| 15 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
-| 16 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
-| 17 | [#poderosotravieso](http://twitter.com/search?q=%23poderosotravieso) | N/A |
-| 18 | [perú](http://twitter.com/search?q=per%c3%ba) | N/A |
-| 19 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 20 | [YOU ARE THE STAR MATI](http://twitter.com/search?q=YOU+ARE+THE+STAR+MATI) | N/A |
-| 21 | [Luismi](http://twitter.com/search?q=Luismi) | N/A |
-| 22 | [Doctorado](http://twitter.com/search?q=Doctorado) | N/A |
-| 23 | [El País](http://twitter.com/search?q=El+Pa%c3%ads) | N/A |
-| 24 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 25 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 26 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 27 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 28 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 29 | [Cinemex](http://twitter.com/search?q=Cinemex) | N/A |
-| 30 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 31 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 32 | [Durazo](http://twitter.com/search?q=Durazo) | N/A |
-| 33 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
-| 34 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
-| 35 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 36 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 37 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 38 | [hoy 24](http://twitter.com/search?q=hoy+24) | N/A |
-| 39 | [Cinépolis Klic](http://twitter.com/search?q=Cin%c3%a9polis+Klic) | N/A |
-| 40 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 41 | [salvio](http://twitter.com/search?q=salvio) | N/A |
+| 13 | [#24deFebrero](http://twitter.com/search?q=%2324deFebrero) | N/A |
+| 14 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
+| 15 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
+| 16 | [YOU ARE THE STAR MATI](http://twitter.com/search?q=YOU+ARE+THE+STAR+MATI) | N/A |
+| 17 | [Doctorado](http://twitter.com/search?q=Doctorado) | N/A |
+| 18 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 19 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
+| 20 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 21 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
+| 22 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 23 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
+| 24 | [el país](http://twitter.com/search?q=el+pa%c3%ads) | N/A |
+| 25 | [Cinemex](http://twitter.com/search?q=Cinemex) | N/A |
+| 26 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 27 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 28 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 29 | [Pumas](http://twitter.com/search?q=Pumas) | Pumas is a term used to refer to the athletic teams of the National Autonomous University of Mexico (UNAM). The name is derived from the Spanish word for mountain lion, which is also the school's mascot. In English, Pumas can be translated to mean "Mountain Lions". |
+| 30 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
+| 31 | [Juanito](http://twitter.com/search?q=Juanito) | N/A |
+| 32 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
+| 33 | [Durazo](http://twitter.com/search?q=Durazo) | N/A |
+| 34 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
+| 35 | [Esos 4](http://twitter.com/search?q=Esos+4) | N/A |
+| 36 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 37 | [hoy 24](http://twitter.com/search?q=hoy+24) | N/A |
+| 38 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 39 | [Luismi](http://twitter.com/search?q=Luismi) | N/A |
+| 40 | [salvio](http://twitter.com/search?q=salvio) | N/A |
+| 41 | [Cinépolis Klic](http://twitter.com/search?q=Cin%c3%a9polis+Klic) | N/A |
 | 42 | [Frank Sinatra](http://twitter.com/search?q=Frank+Sinatra) | N/A |
-| 43 | [Chay](http://twitter.com/search?q=Chay) | N/A |
-| 44 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 45 | [Carbonell](http://twitter.com/search?q=Carbonell) | N/A |
-| 46 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 47 | [maciel](http://twitter.com/search?q=maciel) | N/A |
-| 48 | [Felix](http://twitter.com/search?q=Felix) | Felix is a Latin word meaning "happy" or "lucky". It is often used as a given name, and can also be used as a surname. |
-| 49 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 50 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 43 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 44 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 45 | [Martin Garrix](http://twitter.com/search?q=Martin+Garrix) | N/A |
+| 46 | [Carbonell](http://twitter.com/search?q=Carbonell) | N/A |
+| 47 | [Maciel](http://twitter.com/search?q=Maciel) | N/A |
+| 48 | [Micky](http://twitter.com/search?q=Micky) | N/A |
+| 49 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 50 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Porto Alegre
 
-📆 Last Updated: `2023-02-25 10:15:30 UTC`
+📆 Last Updated: `2023-02-25 11:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for [Brazil](</Brazil>)
 | 6 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
 | 7 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
 | 8 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 9 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 10 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
-| 11 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 12 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 13 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 9 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 10 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 11 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
+| 12 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 13 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 14 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 15 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
 | 16 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 17 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 18 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 19 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 20 | [Pope](http://twitter.com/search?q=Pope) | N/A |
-| 21 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 22 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
-| 23 | [Big John](http://twitter.com/search?q=Big+John) | N/A |
-| 24 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
-| 25 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 26 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 27 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
-| 28 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
-| 29 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 30 | [#voleinosportv](http://twitter.com/search?q=%23voleinosportv) | N/A |
+| 18 | [#FEnoBandSports](http://twitter.com/search?q=%23FEnoBandSports) | N/A |
+| 19 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 20 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 21 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 22 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 23 | [#BibleDaysRevived](http://twitter.com/search?q=%23BibleDaysRevived) | N/A |
+| 24 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 25 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
+| 26 | [Big John](http://twitter.com/search?q=Big+John) | N/A |
+| 27 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 28 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 29 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 30 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
 | 31 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
-| 32 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 33 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 32 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 33 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
 | 34 | [Cleo](http://twitter.com/search?q=Cleo) | N/A |
-| 35 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 35 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
 | 36 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
-| 37 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
+| 37 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
 | 38 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 39 | [Elizabeth](http://twitter.com/search?q=Elizabeth) | N/A |
-| 40 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 41 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 42 | [4M DO CORINGA](http://twitter.com/search?q=4M+DO+CORINGA) | N/A |
-| 43 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 39 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
+| 40 | [Elizabeth](http://twitter.com/search?q=Elizabeth) | N/A |
+| 41 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 42 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 43 | [4M DO CORINGA](http://twitter.com/search?q=4M+DO+CORINGA) | N/A |
 | 44 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
-| 45 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 46 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 47 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 48 | [Jhon B](http://twitter.com/search?q=Jhon+B) | N/A |
+| 45 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 46 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 47 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 48 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 49 | [Tadeu](http://twitter.com/search?q=Tadeu) | Tadeu is a Portuguese name derived from the Latin name Thaddeus. It is a masculine given name meaning "gift of God". |
-| 50 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 50 | [Jhon B](http://twitter.com/search?q=Jhon+B) | N/A |
 
 
 

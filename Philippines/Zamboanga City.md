@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-25 10:15:48 UTC`
+📆 Last Updated: `2023-02-25 11:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
-| 2 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
-| 3 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
-| 4 | [JENO MILAN FASHION WEEK](http://twitter.com/search?q=JENO+MILAN+FASHION+WEEK) | N/A |
-| 5 | [#Fighting7thWin](http://twitter.com/search?q=%23Fighting7thWin) | N/A |
+| 1 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
+| 2 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
+| 3 | [JENO MILAN FASHION WEEK](http://twitter.com/search?q=JENO+MILAN+FASHION+WEEK) | N/A |
+| 4 | [#BGYOsaZambales](http://twitter.com/search?q=%23BGYOsaZambales) | N/A |
+| 5 | [#SingkamasFestival2023](http://twitter.com/search?q=%23SingkamasFestival2023) | N/A |
 | 6 | [MARICEL SORIANO DAY](http://twitter.com/search?q=MARICEL+SORIANO+DAY) | N/A |
-| 7 | [Kyla Atienza](http://twitter.com/search?q=Kyla+Atienza) | N/A |
-| 8 | [karina](http://twitter.com/search?q=karina) | N/A |
-| 9 | [BGYO AT SINGKAMASaya FEST](http://twitter.com/search?q=BGYO+AT+SINGKAMASaya+FEST) | N/A |
-| 10 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 11 | [BODY ROCK ASIA WITH BINI](http://twitter.com/search?q=BODY+ROCK+ASIA+WITH+BINI) | N/A |
-| 12 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 13 | [Tots](http://twitter.com/search?q=Tots) | N/A |
-| 14 | [KIM MINJEONG](http://twitter.com/search?q=KIM+MINJEONG) | N/A |
-| 15 | [Faith](http://twitter.com/search?q=Faith) | N/A |
-| 16 | [KODREA AT VISTAMALL TAGUIG](http://twitter.com/search?q=KODREA+AT+VISTAMALL+TAGUIG) | N/A |
-| 17 | [Vanie](http://twitter.com/search?q=Vanie) | N/A |
-| 18 | [Kross the Line with ENHYPEN](http://twitter.com/search?q=Kross+the+Line+with+ENHYPEN) | N/A |
-| 19 | [Congrats NU](http://twitter.com/search?q=Congrats+NU) | N/A |
-| 20 | [Miner](http://twitter.com/search?q=Miner) | N/A |
-| 21 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
-| 22 | [De Guzman](http://twitter.com/search?q=De+Guzman) | N/A |
-| 23 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 24 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 25 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 26 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
-| 27 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
-| 28 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 29 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
-| 30 | [Filipinos](http://twitter.com/search?q=Filipinos) | N/A |
-| 31 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 32 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 33 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 34 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
-| 35 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
-| 36 | [#BSS7thWin](http://twitter.com/search?q=%23BSS7thWin) | N/A |
-| 37 | [#BGYOsaZambales](http://twitter.com/search?q=%23BGYOsaZambales) | N/A |
-| 38 | [#SingkamasFestival2023](http://twitter.com/search?q=%23SingkamasFestival2023) | N/A |
-| 39 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
-| 40 | [#부석순_음악중심_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%8c%ec%95%85%ec%a4%91%ec%8b%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
-| 41 | [#BodyRockAsia2023](http://twitter.com/search?q=%23BodyRockAsia2023) | N/A |
-| 42 | [#HotGirlGiselleInKorea](http://twitter.com/search?q=%23HotGirlGiselleInKorea) | N/A |
-| 43 | [#SYNKwithNINGNING](http://twitter.com/search?q=%23SYNKwithNINGNING) | N/A |
-| 44 | [#EDSA37](http://twitter.com/search?q=%23EDSA37) | N/A |
-| 45 | [#MCGIHeartfeltThanksgiving](http://twitter.com/search?q=%23MCGIHeartfeltThanksgiving) | N/A |
-| 46 | [#ENHYPEN_at_KROSSvol2](http://twitter.com/search?q=%23ENHYPEN_at_KROSSvol2) | N/A |
-| 47 | [#祝_ENHYPENヘッドライナー](http://twitter.com/search?q=%23%e7%a5%9d_ENHYPEN%e3%83%98%e3%83%83%e3%83%89%e3%83%a9%e3%82%a4%e3%83%8a%e3%83%bc) | N/A |
-| 48 | [#FerragamoFW23](http://twitter.com/search?q=%23FerragamoFW23) | N/A |
-| 49 | [#NeverAgain](http://twitter.com/search?q=%23NeverAgain) | N/A |
+| 7 | [BGYO AT SINGKAMASaya FEST](http://twitter.com/search?q=BGYO+AT+SINGKAMASaya+FEST) | N/A |
+| 8 | [NINGNING](http://twitter.com/search?q=NINGNING) | NINGNING is an onomatopoeia in Chinese, which is used to describe the sound of a small bell or a ringing sound. In English, it can be translated as "ding-dong". |
+| 9 | [Congrats Creamline](http://twitter.com/search?q=Congrats+Creamline) | N/A |
+| 10 | [GISELLE](http://twitter.com/search?q=GISELLE) | N/A |
+| 11 | [Jema](http://twitter.com/search?q=Jema) | N/A |
+| 12 | [Kyla Atienza](http://twitter.com/search?q=Kyla+Atienza) | N/A |
+| 13 | [KAOMIAHxACE TADHANAMV](http://twitter.com/search?q=KAOMIAHxACE+TADHANAMV) | N/A |
+| 14 | [BODY ROCK ASIA WITH BINI](http://twitter.com/search?q=BODY+ROCK+ASIA+WITH+BINI) | N/A |
+| 15 | [JIA IS GOLD](http://twitter.com/search?q=JIA+IS+GOLD) | N/A |
+| 16 | [Irene](http://twitter.com/search?q=Irene) | N/A |
+| 17 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 18 | [YERI](http://twitter.com/search?q=YERI) | N/A |
+| 19 | [ZACHAM CHOSEN B4RKADA](http://twitter.com/search?q=ZACHAM+CHOSEN+B4RKADA) | N/A |
+| 20 | [BARKADAS WITH ROBXINE](http://twitter.com/search?q=BARKADAS+WITH+ROBXINE) | N/A |
+| 21 | [KIM MINJEONG](http://twitter.com/search?q=KIM+MINJEONG) | N/A |
+| 22 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 23 | [Tots](http://twitter.com/search?q=Tots) | N/A |
+| 24 | [Chery Tiggo](http://twitter.com/search?q=Chery+Tiggo) | N/A |
+| 25 | [gigi](http://twitter.com/search?q=gigi) | N/A |
+| 26 | [KODREA AT VISTAMALL TAGUIG](http://twitter.com/search?q=KODREA+AT+VISTAMALL+TAGUIG) | N/A |
+| 27 | [Congrats NU](http://twitter.com/search?q=Congrats+NU) | N/A |
+| 28 | [Inay](http://twitter.com/search?q=Inay) | N/A |
+| 29 | [Kross the Line with ENHYPEN](http://twitter.com/search?q=Kross+the+Line+with+ENHYPEN) | N/A |
+| 30 | [ADMU](http://twitter.com/search?q=ADMU) | N/A |
+| 31 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 32 | [Faith](http://twitter.com/search?q=Faith) | N/A |
+| 33 | [Winter](http://twitter.com/search?q=Winter) | N/A |
+| 34 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 35 | [Lamina](http://twitter.com/search?q=Lamina) | N/A |
+| 36 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 37 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 38 | [Filipinos](http://twitter.com/search?q=Filipinos) | N/A |
+| 39 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 40 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 41 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 42 | [EDSA Revolution](http://twitter.com/search?q=EDSA+Revolution) | N/A |
+| 43 | [Yuta](http://twitter.com/search?q=Yuta) | N/A |
+| 44 | [YOUR TYPE GAME](http://twitter.com/search?q=YOUR+TYPE+GAME) | N/A |
+| 45 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 46 | [Marcoses](http://twitter.com/search?q=Marcoses) | N/A |
+| 47 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 48 | [#BodyRockAsia2023](http://twitter.com/search?q=%23BodyRockAsia2023) | N/A |
+| 49 | [#TheVoiceKidsPH5](http://twitter.com/search?q=%23TheVoiceKidsPH5) | N/A |
 
 
 
