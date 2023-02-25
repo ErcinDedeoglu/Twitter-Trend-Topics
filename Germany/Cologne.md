@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-02-25 14:15:59 UTC`
+📆 Last Updated: `2023-02-25 15:15:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,44 +15,53 @@ This is top 50 for [Germany](</Germany>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
-| 2 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 3 | [#FCNSVS](http://twitter.com/search?q=%23FCNSVS) | N/A |
-| 4 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
-| 5 | [#FCKSGF](http://twitter.com/search?q=%23FCKSGF) | N/A |
-| 6 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 7 | [#TSGBVB](http://twitter.com/search?q=%23TSGBVB) | N/A |
-| 8 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 9 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 10 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
-| 11 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 12 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
-| 13 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 14 | [Herr Lindner](http://twitter.com/search?q=Herr+Lindner) | N/A |
+| 1 | [Waffenlieferungen](http://twitter.com/search?q=Waffenlieferungen) | N/A |
+| 2 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
+| 3 | [#TSGBVB](http://twitter.com/search?q=%23TSGBVB) | N/A |
+| 4 | [#RBLSGE](http://twitter.com/search?q=%23RBLSGE) | N/A |
+| 5 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 6 | [#SVWBOC](http://twitter.com/search?q=%23SVWBOC) | N/A |
+| 7 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 8 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
+| 9 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 10 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 11 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
+| 12 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 13 | [Redner](http://twitter.com/search?q=Redner) | N/A |
+| 14 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
 | 15 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
-| 16 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 17 | [Vollidiot](http://twitter.com/search?q=Vollidiot) | N/A |
-| 18 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 19 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
-| 20 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
-| 21 | [Werder](http://twitter.com/search?q=Werder) | N/A |
-| 22 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 23 | [Flagge](http://twitter.com/search?q=Flagge) | N/A |
-| 24 | [Indien](http://twitter.com/search?q=Indien) | N/A |
-| 25 | [#BSCFCA](http://twitter.com/search?q=%23BSCFCA) | N/A |
-| 26 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
-| 27 | [#RBLSGE](http://twitter.com/search?q=%23RBLSGE) | N/A |
-| 28 | [#KSVSCP](http://twitter.com/search?q=%23KSVSCP) | N/A |
-| 29 | [#MSVSVM](http://twitter.com/search?q=%23MSVSVM) | N/A |
-| 30 | [#Querfront](http://twitter.com/search?q=%23Querfront) | N/A |
-| 31 | [#SVWBOC](http://twitter.com/search?q=%23SVWBOC) | N/A |
-| 32 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 33 | [#Habeck](http://twitter.com/search?q=%23Habeck) | N/A |
-| 34 | [#ManifestDerSchande](http://twitter.com/search?q=%23ManifestDerSchande) | N/A |
-| 35 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
-| 36 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
-| 37 | [#FCKPTN](http://twitter.com/search?q=%23FCKPTN) | N/A |
-| 38 | [#SVDHSV](http://twitter.com/search?q=%23SVDHSV) | N/A |
+| 16 | [Flaggen](http://twitter.com/search?q=Flaggen) | N/A |
+| 17 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
+| 18 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 19 | [Herr Lindner](http://twitter.com/search?q=Herr+Lindner) | N/A |
+| 20 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
+| 21 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
+| 22 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 23 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
+| 24 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 25 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 26 | [Indien](http://twitter.com/search?q=Indien) | N/A |
+| 27 | [#KOEWOB](http://twitter.com/search?q=%23KOEWOB) | N/A |
+| 28 | [#effzeh](http://twitter.com/search?q=%23effzeh) | N/A |
+| 29 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
+| 30 | [#Werder](http://twitter.com/search?q=%23Werder) | N/A |
+| 31 | [#BSCFCA](http://twitter.com/search?q=%23BSCFCA) | N/A |
+| 32 | [#FCNSVS](http://twitter.com/search?q=%23FCNSVS) | N/A |
+| 33 | [#FCKSGF](http://twitter.com/search?q=%23FCKSGF) | N/A |
+| 34 | [#MSVSVM](http://twitter.com/search?q=%23MSVSVM) | N/A |
+| 35 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 36 | [#Querfront](http://twitter.com/search?q=%23Querfront) | N/A |
+| 37 | [#KSVSCP](http://twitter.com/search?q=%23KSVSCP) | N/A |
+| 38 | [#Vollidiot](http://twitter.com/search?q=%23Vollidiot) | N/A |
+| 39 | [#ManifestDerSchande](http://twitter.com/search?q=%23ManifestDerSchande) | N/A |
+| 40 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 41 | [#Habeck](http://twitter.com/search?q=%23Habeck) | N/A |
+| 42 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
+| 43 | [#Putinknecht](http://twitter.com/search?q=%23Putinknecht) | N/A |
+| 44 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
+| 45 | [#FCKPTN](http://twitter.com/search?q=%23FCKPTN) | N/A |
+| 46 | [#SVDHSV](http://twitter.com/search?q=%23SVDHSV) | N/A |
+| 47 | [#ATTD2023](http://twitter.com/search?q=%23ATTD2023) | N/A |
 
 
 

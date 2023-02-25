@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Tucson
 
-📆 Last Updated: `2023-02-25 14:16:37 UTC`
+📆 Last Updated: `2023-02-25 15:16:05 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 2 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 3 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 4 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 6 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 7 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 8 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 9 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 10 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 11 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
-| 12 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 13 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 14 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 15 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
-| 16 | [#Wordle616](http://twitter.com/search?q=%23Wordle616) | N/A |
-| 17 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 18 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
-| 19 | [#SaturdayMood](http://twitter.com/search?q=%23SaturdayMood) | N/A |
-| 20 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 21 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 22 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
-| 23 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 1 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 2 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 3 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 4 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 5 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 6 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 7 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 8 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
+| 9 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 10 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 11 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 12 | [Casa Creed](http://twitter.com/search?q=Casa+Creed) | N/A |
+| 13 | [#NextStepsForSpaceKaren](http://twitter.com/search?q=%23NextStepsForSpaceKaren) | N/A |
+| 14 | [match day](http://twitter.com/search?q=match+day) | N/A |
+| 15 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 16 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 17 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 18 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 19 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 20 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 21 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 22 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 23 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
 | 24 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 25 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
-| 26 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 27 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 28 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
-| 29 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 30 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 31 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 32 | [Tulsi](http://twitter.com/search?q=Tulsi) | N/A |
-| 33 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 34 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
-| 35 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 36 | [Katie Hobbs](http://twitter.com/search?q=Katie+Hobbs) | N/A |
-| 37 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 38 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 39 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 40 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 41 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 42 | [Bill Mitchell](http://twitter.com/search?q=Bill+Mitchell) | N/A |
-| 43 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 44 | [Antonio Brown](http://twitter.com/search?q=Antonio+Brown) | Antonio Brown is an American professional football wide receiver who currently plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the best wide receivers in the NFL, having been selected to seven Pro Bowls and four All-Pro teams. |
-| 45 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 46 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 47 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 48 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 49 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 25 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 26 | [IT'S GAMEDAY](http://twitter.com/search?q=IT%27S+GAMEDAY) | N/A |
+| 27 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 28 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 29 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 30 | [Katie Hobbs](http://twitter.com/search?q=Katie+Hobbs) | N/A |
+| 31 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
+| 32 | [Grapefruit League](http://twitter.com/search?q=Grapefruit+League) | N/A |
+| 33 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 34 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 35 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 36 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 37 | [Beatle](http://twitter.com/search?q=Beatle) | N/A |
+| 38 | [ningning](http://twitter.com/search?q=ningning) | N/A |
+| 39 | [Tulsi](http://twitter.com/search?q=Tulsi) | N/A |
+| 40 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 41 | [westbrook](http://twitter.com/search?q=westbrook) | N/A |
+| 42 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
+| 43 | [The Jeffersons](http://twitter.com/search?q=The+Jeffersons) | N/A |
+| 44 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 45 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 46 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 47 | [Department of Transportation](http://twitter.com/search?q=Department+of+Transportation) | N/A |
+| 48 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 49 | [Antonio Brown](http://twitter.com/search?q=Antonio+Brown) | Antonio Brown is an American professional football wide receiver who currently plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the best wide receivers in the NFL, having been selected to seven Pro Bowls and four All-Pro teams. |
 
 
 

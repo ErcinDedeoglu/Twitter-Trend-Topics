@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cardiff
 
-📆 Last Updated: `2023-02-25 14:15:42 UTC`
+📆 Last Updated: `2023-02-25 15:15:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 2 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 3 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
-| 4 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 5 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 6 | [#boxing365](http://twitter.com/search?q=%23boxing365) | N/A |
-| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 8 | [#COVSUN](http://twitter.com/search?q=%23COVSUN) | N/A |
-| 9 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 10 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 11 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 12 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 13 | [#PUSB](http://twitter.com/search?q=%23PUSB) | N/A |
-| 14 | [Diallo](http://twitter.com/search?q=Diallo) | N/A |
-| 15 | [#oufc](http://twitter.com/search?q=%23oufc) | N/A |
-| 16 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 17 | [Gyokeres](http://twitter.com/search?q=Gyokeres) | N/A |
-| 18 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 19 | [Honor Oak](http://twitter.com/search?q=Honor+Oak) | N/A |
-| 20 | [Digne](http://twitter.com/search?q=Digne) | N/A |
-| 21 | [Avram Glazer](http://twitter.com/search?q=Avram+Glazer) | N/A |
-| 22 | [John Noakes](http://twitter.com/search?q=John+Noakes) | N/A |
-| 23 | [Scriptwriter](http://twitter.com/search?q=Scriptwriter) | N/A |
-| 24 | [STARTING XI](http://twitter.com/search?q=STARTING+XI) | N/A |
-| 25 | [football focus](http://twitter.com/search?q=football+focus) | N/A |
-| 26 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 27 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 28 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 29 | [Kempton](http://twitter.com/search?q=Kempton) | N/A |
-| 30 | [Ings](http://twitter.com/search?q=Ings) | Ings is a slang term used to refer to things or activities that are enjoyable or fun. It can also be used to describe people who are fun and outgoing. |
-| 31 | [Skegness](http://twitter.com/search?q=Skegness) | N/A |
-| 32 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 33 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 34 | [Cenotaph](http://twitter.com/search?q=Cenotaph) | N/A |
-| 35 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 36 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 37 | [Kone](http://twitter.com/search?q=Kone) | N/A |
-| 38 | [Pork](http://twitter.com/search?q=Pork) | N/A |
-| 39 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 40 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
-| 41 | [Carling](http://twitter.com/search?q=Carling) | N/A |
-| 42 | [Atlantis](http://twitter.com/search?q=Atlantis) | N/A |
-| 43 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
-| 44 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 45 | [Crystal Palace](http://twitter.com/search?q=Crystal+Palace) | Crystal Palace is a cast-iron and plate-glass building originally erected in Hyde Park, London, England, for the Great Exhibition of 1851. The structure was designed by Joseph Paxton and was the first large prefabricated building ever constructed. It has since become a symbol of Victorian architecture and engineering. The term "Crystal Palace" is often used to refer to any large, grand building made of glass and metal. |
-| 46 | [Geordies](http://twitter.com/search?q=Geordies) | N/A |
-| 47 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
-| 48 | [Harriet](http://twitter.com/search?q=Harriet) | N/A |
-| 49 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
-| 50 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
+| 1 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 2 | [#ITAvIRE](http://twitter.com/search?q=%23ITAvIRE) | N/A |
+| 3 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
+| 4 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 5 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
+| 6 | [#PUSB](http://twitter.com/search?q=%23PUSB) | N/A |
+| 7 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 8 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 9 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 10 | [#oufc](http://twitter.com/search?q=%23oufc) | N/A |
+| 11 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 12 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 13 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 14 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 15 | [Ireland's Call](http://twitter.com/search?q=Ireland%27s+Call) | N/A |
+| 16 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 17 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 18 | [Da Costa](http://twitter.com/search?q=Da+Costa) | N/A |
+| 19 | [Gyokeres](http://twitter.com/search?q=Gyokeres) | N/A |
+| 20 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 21 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 22 | [Lord North](http://twitter.com/search?q=Lord+North) | N/A |
+| 23 | [Digne](http://twitter.com/search?q=Digne) | N/A |
+| 24 | [Gelhardt](http://twitter.com/search?q=Gelhardt) | N/A |
+| 25 | [Starting XI](http://twitter.com/search?q=Starting+XI) | N/A |
+| 26 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 27 | [Ings](http://twitter.com/search?q=Ings) | Ings is a slang term used to refer to things or activities that are enjoyable or fun. It can also be used to describe people who are fun and outgoing. |
+| 28 | [Pork](http://twitter.com/search?q=Pork) | N/A |
+| 29 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 30 | [Fleck](http://twitter.com/search?q=Fleck) | N/A |
+| 31 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
+| 32 | [Mowbray](http://twitter.com/search?q=Mowbray) | N/A |
+| 33 | [nusret](http://twitter.com/search?q=nusret) | N/A |
+| 34 | [Nelli](http://twitter.com/search?q=Nelli) | N/A |
+| 35 | [John Noakes](http://twitter.com/search?q=John+Noakes) | N/A |
+| 36 | [Michut](http://twitter.com/search?q=Michut) | N/A |
+| 37 | [Hamer](http://twitter.com/search?q=Hamer) | N/A |
+| 38 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
+| 39 | [Buendia](http://twitter.com/search?q=Buendia) | Buendia is a Spanish surname derived from the town of Buendía in the province of Cuenca, Spain. In English, it means "from Buendía". |
+| 40 | [Honor Oak](http://twitter.com/search?q=Honor+Oak) | N/A |
+| 41 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 42 | [Scriptwriter](http://twitter.com/search?q=Scriptwriter) | N/A |
+| 43 | [Avram Glazer](http://twitter.com/search?q=Avram+Glazer) | N/A |
+| 44 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 45 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
+| 46 | [Kempton](http://twitter.com/search?q=Kempton) | N/A |
+| 47 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
+| 48 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 49 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
+| 50 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
 
 
 

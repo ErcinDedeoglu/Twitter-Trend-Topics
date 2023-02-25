@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-25 14:16:46 UTC`
+📆 Last Updated: `2023-02-25 15:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Sweden
 | 3 | [Ukraina](http://twitter.com/search?q=Ukraina) | N/A |
 | 4 | [Ingman](http://twitter.com/search?q=Ingman) | N/A |
 | 5 | [Modo](http://twitter.com/search?q=Modo) | N/A |
-| 6 | [Gripen](http://twitter.com/search?q=Gripen) | N/A |
-| 7 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
-| 8 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
-| 9 | [Erabi](http://twitter.com/search?q=Erabi) | N/A |
+| 6 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
+| 7 | [Frölunda](http://twitter.com/search?q=Fr%c3%b6lunda) | N/A |
+| 8 | [Gripen](http://twitter.com/search?q=Gripen) | N/A |
+| 9 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
 | 10 | [Comviq](http://twitter.com/search?q=Comviq) | N/A |
-| 11 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
-| 12 | [#Bajen](http://twitter.com/search?q=%23Bajen) | N/A |
-| 13 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
-| 14 | [daniel suhonen](http://twitter.com/search?q=daniel+suhonen) | N/A |
-| 15 | [#fplsverige](http://twitter.com/search?q=%23fplsverige) | N/A |
-| 16 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
-| 17 | [Norrby](http://twitter.com/search?q=Norrby) | N/A |
-| 18 | [Egyptson](http://twitter.com/search?q=Egyptson) | N/A |
-| 19 | [Johan Nitare](http://twitter.com/search?q=Johan+Nitare) | N/A |
-| 20 | [susse](http://twitter.com/search?q=susse) | N/A |
-| 21 | [#svenskacupen](http://twitter.com/search?q=%23svenskacupen) | N/A |
-| 22 | [Brickley](http://twitter.com/search?q=Brickley) | N/A |
-| 23 | [Hammarby](http://twitter.com/search?q=Hammarby) | N/A |
-| 24 | [hammarlund](http://twitter.com/search?q=hammarlund) | N/A |
-| 25 | [#24feb2022](http://twitter.com/search?q=%2324feb2022) | N/A |
-| 26 | [Skogsstyrelsen](http://twitter.com/search?q=Skogsstyrelsen) | N/A |
-| 27 | [romme](http://twitter.com/search?q=romme) | N/A |
-| 28 | [Löfving](http://twitter.com/search?q=L%c3%b6fving) | N/A |
-| 29 | [IRIS-T](http://twitter.com/search?q=IRIS-T) | N/A |
-| 30 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
-| 31 | [SSAB](http://twitter.com/search?q=SSAB) | N/A |
-| 32 | [Niklas Sundström](http://twitter.com/search?q=Niklas+Sundstr%c3%b6m) | N/A |
-| 33 | [Gasum](http://twitter.com/search?q=Gasum) | N/A |
-| 34 | [örnsköldsvik](http://twitter.com/search?q=%c3%b6rnsk%c3%b6ldsvik) | N/A |
-| 35 | [Bollnäs](http://twitter.com/search?q=Bolln%c3%a4s) | N/A |
-| 36 | [Peking](http://twitter.com/search?q=Peking) | N/A |
-| 37 | [karikari](http://twitter.com/search?q=karikari) | N/A |
-| 38 | [hägglund](http://twitter.com/search?q=h%c3%a4gglund) | N/A |
-| 39 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
-| 40 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 41 | [fredag](http://twitter.com/search?q=fredag) | N/A |
-| 42 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
-| 43 | [Robert](http://twitter.com/search?q=Robert) | N/A |
-| 44 | [Krüger](http://twitter.com/search?q=Kr%c3%bcger) | N/A |
-| 45 | [Sagerska](http://twitter.com/search?q=Sagerska) | N/A |
-| 46 | [Skål](http://twitter.com/search?q=Sk%c3%a5l) | N/A |
-| 47 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 48 | [Hovrätten](http://twitter.com/search?q=Hovr%c3%a4tten) | N/A |
-| 49 | [Tarkowski](http://twitter.com/search?q=Tarkowski) | Tarkowski is a surname of Polish origin. It is derived from the given name Tarkowski, which is derived from the Polish word tarczyca, meaning "shield". The name can also be translated to mean "protector" or "defender". |
-| 50 | [bodö](http://twitter.com/search?q=bod%c3%b6) | N/A |
+| 11 | [Brynäs](http://twitter.com/search?q=Bryn%c3%a4s) | N/A |
+| 12 | [#fplsverige](http://twitter.com/search?q=%23fplsverige) | N/A |
+| 13 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
+| 14 | [Daniel Suhonen](http://twitter.com/search?q=Daniel+Suhonen) | N/A |
+| 15 | [Norrby](http://twitter.com/search?q=Norrby) | N/A |
+| 16 | [Egyptson](http://twitter.com/search?q=Egyptson) | N/A |
+| 17 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 18 | [Johan Nitare](http://twitter.com/search?q=Johan+Nitare) | N/A |
+| 19 | [Bajen](http://twitter.com/search?q=Bajen) | N/A |
+| 20 | [Erabi](http://twitter.com/search?q=Erabi) | N/A |
+| 21 | [Trevlig](http://twitter.com/search?q=Trevlig) | N/A |
+| 22 | [susse](http://twitter.com/search?q=susse) | N/A |
+| 23 | [#svenskacupen](http://twitter.com/search?q=%23svenskacupen) | N/A |
+| 24 | [#timraik](http://twitter.com/search?q=%23timraik) | N/A |
+| 25 | [Hammarlund](http://twitter.com/search?q=Hammarlund) | N/A |
+| 26 | [#HV71](http://twitter.com/search?q=%23HV71) | N/A |
+| 27 | [Skogsstyrelsen](http://twitter.com/search?q=Skogsstyrelsen) | N/A |
+| 28 | [Brickley](http://twitter.com/search?q=Brickley) | N/A |
+| 29 | [Romme](http://twitter.com/search?q=Romme) | N/A |
+| 30 | [Löfving](http://twitter.com/search?q=L%c3%b6fving) | N/A |
+| 31 | [ssab](http://twitter.com/search?q=ssab) | N/A |
+| 32 | [niklas sundström](http://twitter.com/search?q=niklas+sundstr%c3%b6m) | N/A |
+| 33 | [gasum](http://twitter.com/search?q=gasum) | N/A |
+| 34 | [Växjö](http://twitter.com/search?q=V%c3%a4xj%c3%b6) | N/A |
+| 35 | [örnsköldsvik](http://twitter.com/search?q=%c3%b6rnsk%c3%b6ldsvik) | N/A |
+| 36 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 37 | [Bollnäs](http://twitter.com/search?q=Bolln%c3%a4s) | N/A |
+| 38 | [Karikari](http://twitter.com/search?q=Karikari) | N/A |
+| 39 | [hägglund](http://twitter.com/search?q=h%c3%a4gglund) | N/A |
+| 40 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
+| 41 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 42 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
+| 43 | [Hammarby](http://twitter.com/search?q=Hammarby) | N/A |
+| 44 | [Robert](http://twitter.com/search?q=Robert) | N/A |
+| 45 | [krüger](http://twitter.com/search?q=kr%c3%bcger) | N/A |
+| 46 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
+| 47 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 48 | [Sagerska](http://twitter.com/search?q=Sagerska) | N/A |
+| 49 | [daeul](http://twitter.com/search?q=daeul) | N/A |
+| 50 | [Shinnimin](http://twitter.com/search?q=Shinnimin) | N/A |
 
 
 
