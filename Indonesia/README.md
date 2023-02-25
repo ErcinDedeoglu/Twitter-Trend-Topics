@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Indonesia
 
-📆 Last Updated: `2023-02-25 06:16:21 UTC`
+📆 Last Updated: `2023-02-25 07:16:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,48 +22,48 @@ This is top 50 for Indonesia
 | 5 | [mengabdi tanpa lelah](http://twitter.com/search?q=mengabdi+tanpa+lelah) | N/A |
 | 6 | [prabowo untuk indonesia](http://twitter.com/search?q=prabowo+untuk+indonesia) | N/A |
 | 7 | [setujuuu mending prabowo](http://twitter.com/search?q=setujuuu+mending+prabowo) | N/A |
-| 8 | [#JKT48diTokopediaWIB](http://twitter.com/search?q=%23JKT48diTokopediaWIB) | N/A |
-| 9 | [#XporaSirnasBatam](http://twitter.com/search?q=%23XporaSirnasBatam) | N/A |
-| 10 | [#BrendaBagiBagiSkincare](http://twitter.com/search?q=%23BrendaBagiBagiSkincare) | N/A |
-| 11 | [#Badmintondidetikcom](http://twitter.com/search?q=%23Badmintondidetikcom) | N/A |
+| 8 | [#BrendaBagiBagiSkincare](http://twitter.com/search?q=%23BrendaBagiBagiSkincare) | N/A |
+| 9 | [#DukungJakartaSTINBIN](http://twitter.com/search?q=%23DukungJakartaSTINBIN) | N/A |
+| 10 | [#BNISirnas2023](http://twitter.com/search?q=%23BNISirnas2023) | N/A |
+| 11 | [#SiEnengGoPublic](http://twitter.com/search?q=%23SiEnengGoPublic) | N/A |
 | 12 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
 | 13 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
 | 14 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
-| 15 | [BulanLiterasikripto](http://twitter.com/search?q=BulanLiterasikripto) | N/A |
+| 15 | [BulanLiterasiKripto](http://twitter.com/search?q=BulanLiterasiKripto) | N/A |
 | 16 | [cs misterius bca](http://twitter.com/search?q=cs+misterius+bca) | N/A |
-| 17 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
+| 17 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
 | 18 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 19 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 20 | [valid no debat](http://twitter.com/search?q=valid+no+debat) | N/A |
-| 21 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
-| 22 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 23 | [Cerai](http://twitter.com/search?q=Cerai) | N/A |
-| 24 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 25 | [prabowo pilihan kita](http://twitter.com/search?q=prabowo+pilihan+kita) | N/A |
+| 19 | [valid no debat](http://twitter.com/search?q=valid+no+debat) | N/A |
+| 20 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 21 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
+| 22 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 23 | [prabowo pilihan kita](http://twitter.com/search?q=prabowo+pilihan+kita) | N/A |
+| 24 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
+| 25 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 26 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 27 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
-| 28 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 29 | [Sirkuit Nasional](http://twitter.com/search?q=Sirkuit+Nasional) | N/A |
-| 30 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 31 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
-| 32 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
-| 33 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
+| 27 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 28 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 29 | [Cerai](http://twitter.com/search?q=Cerai) | N/A |
+| 30 | [Sirkuit Nasional](http://twitter.com/search?q=Sirkuit+Nasional) | N/A |
+| 31 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
+| 32 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 33 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
 | 34 | [Elif](http://twitter.com/search?q=Elif) | N/A |
-| 35 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 36 | [Eka Ramdani](http://twitter.com/search?q=Eka+Ramdani) | N/A |
-| 37 | [Firman Utina](http://twitter.com/search?q=Firman+Utina) | N/A |
-| 38 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
-| 39 | [D-Bank PRO](http://twitter.com/search?q=D-Bank+PRO) | N/A |
-| 40 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
-| 41 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
-| 42 | [Budi Sudarsono](http://twitter.com/search?q=Budi+Sudarsono) | N/A |
-| 43 | [Charis Yulianto](http://twitter.com/search?q=Charis+Yulianto) | N/A |
-| 44 | [Sayang 2](http://twitter.com/search?q=Sayang+2) | N/A |
-| 45 | [Surabaya BIN Samator](http://twitter.com/search?q=Surabaya+BIN+Samator) | N/A |
-| 46 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 47 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
-| 48 | [Kartu Debit](http://twitter.com/search?q=Kartu+Debit) | N/A |
-| 49 | [agam](http://twitter.com/search?q=agam) | N/A |
+| 35 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
+| 36 | [$MOOO](http://twitter.com/search?q=%24MOOO) | N/A |
+| 37 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
+| 38 | [Siang](http://twitter.com/search?q=Siang) | N/A |
+| 39 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 40 | [JINAN SAFA SAFIRA S.I.KOM](http://twitter.com/search?q=JINAN+SAFA+SAFIRA+S.I.KOM) | N/A |
+| 41 | [Charis Yulianto](http://twitter.com/search?q=Charis+Yulianto) | N/A |
+| 42 | [Eka Ramdani](http://twitter.com/search?q=Eka+Ramdani) | N/A |
+| 43 | [Surabaya BIN Samator](http://twitter.com/search?q=Surabaya+BIN+Samator) | N/A |
+| 44 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 45 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
+| 46 | [Teguh Berislam Kaffah](http://twitter.com/search?q=Teguh+Berislam+Kaffah) | N/A |
+| 47 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 48 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 49 | [Budi Sudarsono](http://twitter.com/search?q=Budi+Sudarsono) | N/A |
 | 50 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
 
 

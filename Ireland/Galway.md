@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-02-25 06:15:43 UTC`
+📆 Last Updated: `2023-02-25 07:15:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,9 +18,9 @@ This is top 50 for [Ireland](</Ireland>)
 | 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
 | 2 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
 | 3 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 4 | [#itavire](http://twitter.com/search?q=%23itavire) | N/A |
-| 5 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 6 | [#u20sixnations](http://twitter.com/search?q=%23u20sixnations) | N/A |
+| 4 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 5 | [#u20sixnations](http://twitter.com/search?q=%23u20sixnations) | N/A |
+| 6 | [#ITAvIRE](http://twitter.com/search?q=%23ITAvIRE) | N/A |
 | 7 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
 | 8 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
 | 9 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for [Ireland](</Ireland>)
 | 25 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
 | 26 | [Hull](http://twitter.com/search?q=Hull) | N/A |
 | 27 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 28 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
+| 28 | [hozier](http://twitter.com/search?q=hozier) | N/A |
 | 29 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 30 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
 | 31 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
@@ -51,19 +51,19 @@ This is top 50 for [Ireland](</Ireland>)
 | 34 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
 | 35 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 36 | [cork city](http://twitter.com/search?q=cork+city) | N/A |
-| 37 | [Erik Ten Hag](http://twitter.com/search?q=Erik+Ten+Hag) | N/A |
-| 38 | [Inchicore](http://twitter.com/search?q=Inchicore) | N/A |
+| 37 | [Erik ten Hag](http://twitter.com/search?q=Erik+ten+Hag) | N/A |
+| 38 | [inchicore](http://twitter.com/search?q=inchicore) | N/A |
 | 39 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 40 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 41 | [solidarity joe](http://twitter.com/search?q=solidarity+joe) | N/A |
 | 42 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 43 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 44 | [terenure college](http://twitter.com/search?q=terenure+college) | N/A |
-| 45 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
-| 46 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
-| 47 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 48 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 49 | [rip tom](http://twitter.com/search?q=rip+tom) | N/A |
+| 43 | [terenure college](http://twitter.com/search?q=terenure+college) | N/A |
+| 44 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
+| 45 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 46 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 47 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 48 | [rip tom](http://twitter.com/search?q=rip+tom) | N/A |
+| 49 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
 
 
 

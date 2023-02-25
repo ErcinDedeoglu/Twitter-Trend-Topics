@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-25 06:16:20 UTC`
+📆 Last Updated: `2023-02-25 07:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for France
 | ------- | ------------ | ------------ |
 | 1 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
 | 2 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 3 | [#LOSCSB29](http://twitter.com/search?q=%23LOSCSB29) | N/A |
-| 4 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
+| 3 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
+| 4 | [#LOSCSB29](http://twitter.com/search?q=%23LOSCSB29) | N/A |
 | 5 | [Diacre](http://twitter.com/search?q=Diacre) | N/A |
 | 6 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 7 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 7 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 8 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
 | 9 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 10 | [#srfcsha](http://twitter.com/search?q=%23srfcsha) | N/A |
-| 11 | [La Nuit du 12](http://twitter.com/search?q=La+Nuit+du+12) | N/A |
-| 12 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 13 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
+| 10 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
+| 11 | [#srfcsha](http://twitter.com/search?q=%23srfcsha) | N/A |
+| 12 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 13 | [La Nuit du 12](http://twitter.com/search?q=La+Nuit+du+12) | N/A |
 | 14 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
-| 15 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
-| 16 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 17 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
-| 18 | [Alice Diop](http://twitter.com/search?q=Alice+Diop) | N/A |
-| 19 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
-| 20 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
-| 21 | [bastien bouillon](http://twitter.com/search?q=bastien+bouillon) | N/A |
-| 22 | [jérôme commandeur](http://twitter.com/search?q=j%c3%a9r%c3%b4me+commandeur) | N/A |
-| 23 | [pacifiction](http://twitter.com/search?q=pacifiction) | N/A |
-| 24 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 25 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
-| 26 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 15 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 16 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
+| 17 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
+| 18 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
+| 19 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 20 | [alice diop](http://twitter.com/search?q=alice+diop) | N/A |
+| 21 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
+| 22 | [Pacifiction](http://twitter.com/search?q=Pacifiction) | N/A |
+| 23 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 24 | [Monk](http://twitter.com/search?q=Monk) | N/A |
+| 25 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 26 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
 | 27 | [Giddey](http://twitter.com/search?q=Giddey) | N/A |
 | 28 | [mandanda](http://twitter.com/search?q=mandanda) | N/A |
-| 29 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 30 | [noémie merlant](http://twitter.com/search?q=no%c3%a9mie+merlant) | N/A |
+| 29 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 30 | [Bastien Bouillon](http://twitter.com/search?q=Bastien+Bouillon) | N/A |
 | 31 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 32 | [Dort](http://twitter.com/search?q=Dort) | N/A |
-| 33 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
-| 34 | [Dominik Moll](http://twitter.com/search?q=Dominik+Moll) | N/A |
-| 35 | [tahar rahim](http://twitter.com/search?q=tahar+rahim) | N/A |
-| 36 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 37 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
-| 38 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
-| 39 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
-| 40 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
-| 41 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 42 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 43 | [Benoît Magimel](http://twitter.com/search?q=Beno%c3%aet+Magimel) | N/A |
-| 44 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
-| 45 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 46 | [Diani](http://twitter.com/search?q=Diani) | N/A |
+| 32 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
+| 33 | [Noémie Merlant](http://twitter.com/search?q=No%c3%a9mie+Merlant) | N/A |
+| 34 | [Dort](http://twitter.com/search?q=Dort) | N/A |
+| 35 | [Bonjour Michelle](http://twitter.com/search?q=Bonjour+Michelle) | N/A |
+| 36 | [Dominik Moll](http://twitter.com/search?q=Dominik+Moll) | N/A |
+| 37 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 38 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
+| 39 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 40 | [Roméo](http://twitter.com/search?q=Rom%c3%a9o) | N/A |
+| 41 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 42 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
+| 43 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 44 | [Benoît Magimel](http://twitter.com/search?q=Beno%c3%aet+Magimel) | N/A |
+| 45 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 46 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
 | 47 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
-| 48 | [Katoto](http://twitter.com/search?q=Katoto) | N/A |
+| 48 | [SAINT OMER](http://twitter.com/search?q=SAINT+OMER) | N/A |
 | 49 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
-| 50 | [pallois](http://twitter.com/search?q=pallois) | N/A |
+| 50 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 
 
 

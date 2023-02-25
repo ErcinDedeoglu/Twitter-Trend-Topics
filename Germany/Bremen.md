@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bremen
 
-📆 Last Updated: `2023-02-25 06:15:45 UTC`
+📆 Last Updated: `2023-02-25 07:15:23 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,52 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#M05BMG](http://twitter.com/search?q=%23M05BMG) | N/A |
 | 2 | [#tipicospor](http://twitter.com/search?q=%23tipicospor) | N/A |
 | 3 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 4 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 5 | [BASF](http://twitter.com/search?q=BASF) | N/A |
-| 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 7 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 8 | [uni bonn](http://twitter.com/search?q=uni+bonn) | N/A |
+| 4 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 5 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 6 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 7 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 8 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
 | 9 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 10 | [Begeisterung an die Front](http://twitter.com/search?q=Begeisterung+an+die+Front) | N/A |
-| 11 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 14 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 15 | [elvedi](http://twitter.com/search?q=elvedi) | N/A |
-| 16 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
-| 17 | [schlesinger](http://twitter.com/search?q=schlesinger) | N/A |
-| 18 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 19 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 20 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 21 | [ein jahr krieg](http://twitter.com/search?q=ein+jahr+krieg) | N/A |
-| 22 | [Pubertätsblocker](http://twitter.com/search?q=Pubert%c3%a4tsblocker) | N/A |
-| 23 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 24 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 25 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
-| 26 | [William](http://twitter.com/search?q=William) | William is a masculine given name of Old German origin. It is derived from the Germanic elements wil, meaning "will or desire," and helm, meaning "helmet, protection." The name was popular among early Christians due to its association with Saint William of Gellone. In English, it is often shortened to Will or Bill. |
-| 27 | [verkommenheit](http://twitter.com/search?q=verkommenheit) | N/A |
-| 28 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 29 | [peter lustig](http://twitter.com/search?q=peter+lustig) | N/A |
-| 30 | [knossi](http://twitter.com/search?q=knossi) | N/A |
-| 31 | [Grundrechtseinschränkung](http://twitter.com/search?q=Grundrechtseinschr%c3%a4nkung) | N/A |
-| 32 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
-| 33 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
-| 34 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 35 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 36 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
-| 37 | [Ballbesitz](http://twitter.com/search?q=Ballbesitz) | N/A |
-| 38 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 39 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
-| 40 | [Work-Life-Balance](http://twitter.com/search?q=Work-Life-Balance) | N/A |
-| 41 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 42 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 43 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
-| 44 | [Die Politik der Grünen](http://twitter.com/search?q=Die+Politik+der+Gr%c3%bcnen) | N/A |
+| 10 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 11 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
+| 12 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 13 | [Uni Bonn](http://twitter.com/search?q=Uni+Bonn) | N/A |
+| 14 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
+| 15 | [Begeisterung an die Front](http://twitter.com/search?q=Begeisterung+an+die+Front) | N/A |
+| 16 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
+| 17 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 18 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 19 | [Farke](http://twitter.com/search?q=Farke) | N/A |
+| 20 | [Elvedi](http://twitter.com/search?q=Elvedi) | N/A |
+| 21 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 22 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 23 | [schlesinger](http://twitter.com/search?q=schlesinger) | N/A |
+| 24 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
+| 25 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 26 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 27 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 28 | [Ein Jahr Krieg](http://twitter.com/search?q=Ein+Jahr+Krieg) | N/A |
+| 29 | [Pubertätsblocker](http://twitter.com/search?q=Pubert%c3%a4tsblocker) | N/A |
+| 30 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 31 | [Guten Morgen Thomas](http://twitter.com/search?q=Guten+Morgen+Thomas) | N/A |
+| 32 | [Corinna](http://twitter.com/search?q=Corinna) | N/A |
+| 33 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
+| 34 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 35 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
+| 36 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 37 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
+| 38 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 39 | [peter lustig](http://twitter.com/search?q=peter+lustig) | N/A |
+| 40 | [knossi](http://twitter.com/search?q=knossi) | N/A |
+| 41 | [grundrechtseinschränkung](http://twitter.com/search?q=grundrechtseinschr%c3%a4nkung) | N/A |
+| 42 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 43 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
+| 44 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
 | 45 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
-| 46 | [Affront](http://twitter.com/search?q=Affront) | N/A |
-| 47 | [Gesetzentwurf](http://twitter.com/search?q=Gesetzentwurf) | N/A |
-| 48 | [Wecker](http://twitter.com/search?q=Wecker) | N/A |
+| 46 | [Laufrad](http://twitter.com/search?q=Laufrad) | N/A |
+| 47 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 48 | [Ballbesitz](http://twitter.com/search?q=Ballbesitz) | N/A |
+| 49 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
 
 
 

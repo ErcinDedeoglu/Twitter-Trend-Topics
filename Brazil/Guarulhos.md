@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guarulhos
 
-📆 Last Updated: `2023-02-25 06:15:42 UTC`
+📆 Last Updated: `2023-02-25 07:15:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 2 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 3 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
-| 4 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 5 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 6 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 7 | [4M DO CORINGA](http://twitter.com/search?q=4M+DO+CORINGA) | N/A |
-| 8 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 9 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 10 | [#carnavaisdobrasil](http://twitter.com/search?q=%23carnavaisdobrasil) | N/A |
-| 11 | [Klay Thompson](http://twitter.com/search?q=Klay+Thompson) | N/A |
-| 12 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 13 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 14 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 15 | [Rocinha](http://twitter.com/search?q=Rocinha) | N/A |
-| 16 | [#festabbb](http://twitter.com/search?q=%23festabbb) | N/A |
-| 17 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 18 | [#MercadoLivrenoBBB23](http://twitter.com/search?q=%23MercadoLivrenoBBB23) | N/A |
-| 19 | [Chelo](http://twitter.com/search?q=Chelo) | N/A |
-| 20 | [Omelete](http://twitter.com/search?q=Omelete) | N/A |
-| 21 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
-| 22 | [Caneta](http://twitter.com/search?q=Caneta) | N/A |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 3 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
+| 4 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 5 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
+| 6 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 7 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
+| 8 | [#carnavaisdobrasil](http://twitter.com/search?q=%23carnavaisdobrasil) | N/A |
+| 9 | [4M DO CORINGA](http://twitter.com/search?q=4M+DO+CORINGA) | N/A |
+| 10 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 11 | [#festabbb](http://twitter.com/search?q=%23festabbb) | N/A |
+| 12 | [Klay Thompson](http://twitter.com/search?q=Klay+Thompson) | N/A |
+| 13 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 14 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 15 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 16 | [Aline e Amanda](http://twitter.com/search?q=Aline+e+Amanda) | N/A |
+| 17 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 18 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 19 | [Rocinha](http://twitter.com/search?q=Rocinha) | N/A |
+| 20 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 21 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 22 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
 | 23 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
-| 24 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 25 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 26 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 24 | [Omelete](http://twitter.com/search?q=Omelete) | N/A |
+| 25 | [sofia santino](http://twitter.com/search?q=sofia+santino) | N/A |
+| 26 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
 | 27 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 28 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 29 | [sofia santino](http://twitter.com/search?q=sofia+santino) | N/A |
-| 30 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
-| 31 | [Mariely](http://twitter.com/search?q=Mariely) | N/A |
-| 32 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 33 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 34 | [HOJE TEM CORINTHIANS FEMININO](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS+FEMININO) | N/A |
-| 35 | [ward](http://twitter.com/search?q=ward) | N/A |
-| 36 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 37 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 38 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
-| 39 | [James Webb](http://twitter.com/search?q=James+Webb) | N/A |
-| 40 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 41 | [Intendente](http://twitter.com/search?q=Intendente) | N/A |
-| 42 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 43 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
+| 28 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 29 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
+| 30 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 31 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
+| 32 | [Caneta](http://twitter.com/search?q=Caneta) | N/A |
+| 33 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
+| 34 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 35 | [Mariely](http://twitter.com/search?q=Mariely) | N/A |
+| 36 | [Intendente](http://twitter.com/search?q=Intendente) | N/A |
+| 37 | [ward](http://twitter.com/search?q=ward) | N/A |
+| 38 | [HOJE TEM CORINTHIANS FEMININO](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS+FEMININO) | N/A |
+| 39 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 40 | [Vítimas de p3d0f1l1a](http://twitter.com/search?q=V%c3%adtimas+de+p3d0f1l1a) | N/A |
+| 41 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 42 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
+| 43 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
 | 44 | [Estevão Ferreira](http://twitter.com/search?q=Estev%c3%a3o+Ferreira) | N/A |
-| 45 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
-| 46 | [Vítimas de p3d0f1l1a](http://twitter.com/search?q=V%c3%adtimas+de+p3d0f1l1a) | N/A |
-| 47 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 48 | [Carol Sampaio](http://twitter.com/search?q=Carol+Sampaio) | N/A |
+| 45 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
+| 46 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
+| 47 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
+| 48 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
 
 
 

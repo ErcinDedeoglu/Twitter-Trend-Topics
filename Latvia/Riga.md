@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-25 06:15:49 UTC`
+📆 Last Updated: `2023-02-25 07:15:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Latvia](</Latvia>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 2 | [bez tevis](http://twitter.com/search?q=bez+tevis) | N/A |
-| 3 | [#riga](http://twitter.com/search?q=%23riga) | N/A |
-| 4 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 2 | [#birdle](http://twitter.com/search?q=%23birdle) | N/A |
+| 3 | [bez tevis](http://twitter.com/search?q=bez+tevis) | N/A |
+| 4 | [#riga](http://twitter.com/search?q=%23riga) | N/A |
 | 5 | [Krievijas](http://twitter.com/search?q=Krievijas) | N/A |
 | 6 | [brīvības](http://twitter.com/search?q=br%c4%abv%c4%abbas) | N/A |
 | 7 | [darīts](http://twitter.com/search?q=dar%c4%abts) | N/A |
@@ -36,35 +36,35 @@ This is top 50 for [Latvia](</Latvia>)
 | 19 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
 | 20 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 21 | [эстонии](http://twitter.com/search?q=%d1%8d%d1%81%d1%82%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
-| 22 | [pavļuta](http://twitter.com/search?q=pav%c4%bcuta) | N/A |
-| 23 | [🇱🇻](http://twitter.com/search?q=%f0%9f%87%b1%f0%9f%87%bb) | N/A |
-| 24 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
-| 25 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
-| 26 | [rēzeknes](http://twitter.com/search?q=r%c4%93zeknes) | N/A |
-| 27 | [sveiks](http://twitter.com/search?q=sveiks) | N/A |
-| 28 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
-| 29 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
-| 30 | [turcijas](http://twitter.com/search?q=turcijas) | N/A |
-| 31 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
-| 32 | [reinis](http://twitter.com/search?q=reinis) | N/A |
-| 33 | [avenu](http://twitter.com/search?q=avenu) | N/A |
-| 34 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
-| 35 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
-| 36 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 37 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 38 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
-| 39 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
-| 40 | [pozņakam](http://twitter.com/search?q=poz%c5%86akam) | N/A |
-| 41 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 22 | [Putins](http://twitter.com/search?q=Putins) | N/A |
+| 23 | [pavļuta](http://twitter.com/search?q=pav%c4%bcuta) | N/A |
+| 24 | [🇱🇻](http://twitter.com/search?q=%f0%9f%87%b1%f0%9f%87%bb) | N/A |
+| 25 | [Helmani](http://twitter.com/search?q=Helmani) | N/A |
+| 26 | [Ogres](http://twitter.com/search?q=Ogres) | N/A |
+| 27 | [риге](http://twitter.com/search?q=%d1%80%d0%b8%d0%b3%d0%b5) | N/A |
+| 28 | [rēzeknes](http://twitter.com/search?q=r%c4%93zeknes) | N/A |
+| 29 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
+| 30 | [Sveiks](http://twitter.com/search?q=Sveiks) | N/A |
+| 31 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
+| 32 | [turcijas](http://twitter.com/search?q=turcijas) | N/A |
+| 33 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
+| 34 | [Reinis](http://twitter.com/search?q=Reinis) | N/A |
+| 35 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
+| 36 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
+| 37 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 38 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 39 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
+| 40 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
+| 41 | [pozņakam](http://twitter.com/search?q=poz%c5%86akam) | N/A |
 | 42 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
 | 43 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
 | 44 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 45 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
 | 46 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
-| 47 | [saeimas](http://twitter.com/search?q=saeimas) | N/A |
-| 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 49 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
-| 50 | [Helmanis](http://twitter.com/search?q=Helmanis) | N/A |
+| 47 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
+| 48 | [Avenu](http://twitter.com/search?q=Avenu) | N/A |
+| 49 | [Piekrītu](http://twitter.com/search?q=Piekr%c4%abtu) | N/A |
+| 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 
 
 

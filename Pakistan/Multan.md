@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-25 06:16:05 UTC`
+📆 Last Updated: `2023-02-25 07:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,49 +21,49 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 4 | [#QGvIU](http://twitter.com/search?q=%23QGvIU) | N/A |
 | 5 | [#ولادت_ابوالفضل_عباسؑ](http://twitter.com/search?q=%23%d9%88%d9%84%d8%a7%d8%af%d8%aa_%d8%a7%d8%a8%d9%88%d8%a7%d9%84%d9%81%d8%b6%d9%84_%d8%b9%d8%a8%d8%a7%d8%b3%d8%91) | N/A |
 | 6 | [Moin Khan](http://twitter.com/search?q=Moin+Khan) | N/A |
-| 7 | [itcn asia 2023](http://twitter.com/search?q=itcn+asia+2023) | N/A |
-| 8 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 9 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
-| 10 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
-| 11 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
-| 12 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 7 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 8 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
+| 9 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
+| 10 | [Islamabad United](http://twitter.com/search?q=Islamabad+United) | N/A |
+| 11 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 12 | [ITCN Asia 2023](http://twitter.com/search?q=ITCN+Asia+2023) | N/A |
 | 13 | [Mola Abbas](http://twitter.com/search?q=Mola+Abbas) | N/A |
-| 14 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
-| 15 | [King Of Loyalty](http://twitter.com/search?q=King+Of+Loyalty) | N/A |
-| 16 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 14 | [King Of Loyalty](http://twitter.com/search?q=King+Of+Loyalty) | N/A |
+| 15 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
+| 16 | [Brown](http://twitter.com/search?q=Brown) | N/A |
 | 17 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
 | 18 | [Hasan Ali](http://twitter.com/search?q=Hasan+Ali) | N/A |
 | 19 | [aimal khan](http://twitter.com/search?q=aimal+khan) | N/A |
 | 20 | [Guantanamo Bay](http://twitter.com/search?q=Guantanamo+Bay) | N/A |
 | 21 | [Iffat](http://twitter.com/search?q=Iffat) | N/A |
-| 22 | [jason roy](http://twitter.com/search?q=jason+roy) | N/A |
-| 23 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
-| 24 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 25 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
-| 26 | [Sarfaraz Ahmed](http://twitter.com/search?q=Sarfaraz+Ahmed) | N/A |
+| 22 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
+| 23 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 24 | [Iftikhar](http://twitter.com/search?q=Iftikhar) | N/A |
+| 25 | [Sarfaraz Ahmed](http://twitter.com/search?q=Sarfaraz+Ahmed) | N/A |
+| 26 | [Odean Smith](http://twitter.com/search?q=Odean+Smith) | N/A |
 | 27 | [Tata](http://twitter.com/search?q=Tata) | Tata is a term of endearment used in India, similar to the English term "dear." It is often used as a form of address when speaking to someone close to you, such as a family member or friend. |
 | 28 | [Elon](http://twitter.com/search?q=Elon) | N/A |
 | 29 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 30 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 31 | [Palestine](http://twitter.com/search?q=Palestine) | N/A |
-| 32 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
-| 33 | [London](http://twitter.com/search?q=London) | N/A |
+| 30 | [Jason Roy](http://twitter.com/search?q=Jason+Roy) | Jason Roy is a professional English cricketer who plays for the England national cricket team. He is an aggressive right-handed batsman and occasional right-arm off-break bowler. |
+| 31 | [Meerab](http://twitter.com/search?q=Meerab) | N/A |
+| 32 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 33 | [Asha](http://twitter.com/search?q=Asha) | N/A |
 | 34 | [Social Media](http://twitter.com/search?q=Social+Media) | N/A |
-| 35 | [Quran](http://twitter.com/search?q=Quran) | N/A |
-| 36 | [Price](http://twitter.com/search?q=Price) | N/A |
-| 37 | [Patwaris](http://twitter.com/search?q=Patwaris) | N/A |
-| 38 | [Happiest](http://twitter.com/search?q=Happiest) | N/A |
-| 39 | [Masha Allah](http://twitter.com/search?q=Masha+Allah) | N/A |
-| 40 | [West](http://twitter.com/search?q=West) | N/A |
-| 41 | [Arab](http://twitter.com/search?q=Arab) | N/A |
-| 42 | [Shameless](http://twitter.com/search?q=Shameless) | N/A |
-| 43 | [Chorni](http://twitter.com/search?q=Chorni) | N/A |
-| 44 | [Impossible](http://twitter.com/search?q=Impossible) | N/A |
-| 45 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 46 | [Stay Blessed](http://twitter.com/search?q=Stay+Blessed) | N/A |
-| 47 | [Alhamdulillah](http://twitter.com/search?q=Alhamdulillah) | N/A |
-| 48 | [Frying](http://twitter.com/search?q=Frying) | N/A |
-| 49 | [Weldon](http://twitter.com/search?q=Weldon) | N/A |
+| 35 | [Excellent](http://twitter.com/search?q=Excellent) | N/A |
+| 36 | [Libya](http://twitter.com/search?q=Libya) | N/A |
+| 37 | [Price](http://twitter.com/search?q=Price) | N/A |
+| 38 | [Patwaris](http://twitter.com/search?q=Patwaris) | N/A |
+| 39 | [London](http://twitter.com/search?q=London) | N/A |
+| 40 | [Jazak Allah](http://twitter.com/search?q=Jazak+Allah) | N/A |
+| 41 | [Shameless](http://twitter.com/search?q=Shameless) | N/A |
+| 42 | [America](http://twitter.com/search?q=America) | N/A |
+| 43 | [Frying](http://twitter.com/search?q=Frying) | N/A |
+| 44 | [Hollywood](http://twitter.com/search?q=Hollywood) | N/A |
+| 45 | [Black](http://twitter.com/search?q=Black) | N/A |
+| 46 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
+| 47 | [Bhai](http://twitter.com/search?q=Bhai) | N/A |
+| 48 | [Turkey](http://twitter.com/search?q=Turkey) | Turkey is a country located in the Middle East and southeastern Europe. It is bordered by eight countries: Bulgaria, Greece, Georgia, Armenia, Azerbaijan, Iran, Iraq and Syria. The official language of Turkey is Turkish. The name "Turkey" comes from the medieval Latin Turchia or Turquia, which was used to refer to the Anatolian peninsula. |
+| 49 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Canberra
 
-📆 Last Updated: `2023-02-25 06:15:52 UTC`
+📆 Last Updated: `2023-02-25 07:15:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
-| 2 | [Little Brose](http://twitter.com/search?q=Little+Brose) | N/A |
-| 3 | [Sunshine In Paris](http://twitter.com/search?q=Sunshine+In+Paris) | N/A |
-| 4 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
-| 5 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 1 | [#MCYvSYD](http://twitter.com/search?q=%23MCYvSYD) | N/A |
+| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 3 | [Uncommon James](http://twitter.com/search?q=Uncommon+James) | N/A |
+| 4 | [#Anamoe](http://twitter.com/search?q=%23Anamoe) | N/A |
+| 5 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
 | 6 | [Alligator Blood](http://twitter.com/search?q=Alligator+Blood) | N/A |
 | 7 | [#TeamGirlsCup](http://twitter.com/search?q=%23TeamGirlsCup) | N/A |
 | 8 | [#WorldPride2023](http://twitter.com/search?q=%23WorldPride2023) | N/A |
-| 9 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
-| 10 | [Pericles](http://twitter.com/search?q=Pericles) | N/A |
-| 11 | [#BoycottBlackmores](http://twitter.com/search?q=%23BoycottBlackmores) | N/A |
-| 12 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 13 | [Ruthless Dame](http://twitter.com/search?q=Ruthless+Dame) | N/A |
-| 14 | [#MardiGras2023](http://twitter.com/search?q=%23MardiGras2023) | N/A |
-| 15 | [Gold Trip](http://twitter.com/search?q=Gold+Trip) | N/A |
-| 16 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 17 | [Steinem](http://twitter.com/search?q=Steinem) | N/A |
-| 18 | [Keats](http://twitter.com/search?q=Keats) | N/A |
+| 9 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 10 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
+| 11 | [Sunshine In Paris](http://twitter.com/search?q=Sunshine+In+Paris) | N/A |
+| 12 | [Ruthless Dame](http://twitter.com/search?q=Ruthless+Dame) | N/A |
+| 13 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 14 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 15 | [Tilio](http://twitter.com/search?q=Tilio) | N/A |
+| 16 | [Gold Trip](http://twitter.com/search?q=Gold+Trip) | N/A |
+| 17 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 18 | [Little Brose](http://twitter.com/search?q=Little+Brose) | N/A |
 | 19 | [Middle Australia](http://twitter.com/search?q=Middle+Australia) | N/A |
-| 20 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 21 | [Teals](http://twitter.com/search?q=Teals) | N/A |
-| 22 | [ATAR](http://twitter.com/search?q=ATAR) | N/A |
-| 23 | [Don Corleone](http://twitter.com/search?q=Don+Corleone) | N/A |
-| 24 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
-| 25 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 26 | [Espiona](http://twitter.com/search?q=Espiona) | N/A |
-| 27 | [Hope In Your Heart](http://twitter.com/search?q=Hope+In+Your+Heart) | N/A |
-| 28 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
-| 29 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 30 | [Skirt The Law](http://twitter.com/search?q=Skirt+The+Law) | N/A |
-| 31 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 32 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 33 | [Group 1](http://twitter.com/search?q=Group+1) | N/A |
+| 20 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 21 | [Hayes](http://twitter.com/search?q=Hayes) | N/A |
+| 22 | [Mr Brightside](http://twitter.com/search?q=Mr+Brightside) | N/A |
+| 23 | [Keats](http://twitter.com/search?q=Keats) | N/A |
+| 24 | [Teals](http://twitter.com/search?q=Teals) | N/A |
+| 25 | [ATAR](http://twitter.com/search?q=ATAR) | N/A |
+| 26 | [Don Corleone](http://twitter.com/search?q=Don+Corleone) | N/A |
+| 27 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
+| 28 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 29 | [Group 1](http://twitter.com/search?q=Group+1) | N/A |
+| 30 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
+| 31 | [Oakleigh Plate](http://twitter.com/search?q=Oakleigh+Plate) | N/A |
+| 32 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 33 | [Skirt The Law](http://twitter.com/search?q=Skirt+The+Law) | N/A |
 | 34 | [John Howard](http://twitter.com/search?q=John+Howard) | N/A |
-| 35 | [Shuffle Dancer](http://twitter.com/search?q=Shuffle+Dancer) | N/A |
-| 36 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 37 | [Teal MPs](http://twitter.com/search?q=Teal+MPs) | N/A |
-| 38 | [Rhys Cauzzo](http://twitter.com/search?q=Rhys+Cauzzo) | N/A |
-| 39 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 40 | [Barber](http://twitter.com/search?q=Barber) | N/A |
-| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 42 | [Mogo Magic](http://twitter.com/search?q=Mogo+Magic) | N/A |
-| 43 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 44 | [mr hanks](http://twitter.com/search?q=mr+hanks) | N/A |
-| 45 | [Simon Benson](http://twitter.com/search?q=Simon+Benson) | N/A |
-| 46 | [Brave Halo](http://twitter.com/search?q=Brave+Halo) | N/A |
-| 47 | [James Ashby](http://twitter.com/search?q=James+Ashby) | N/A |
-| 48 | [Pauli](http://twitter.com/search?q=Pauli) | Pauli is a German surname derived from the Latin name Paulus, meaning "small" or "humble". It is also a nickname for someone named Paul. |
-| 49 | [Happy Pride](http://twitter.com/search?q=Happy+Pride) | N/A |
+| 35 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 36 | [Shuffle Dancer](http://twitter.com/search?q=Shuffle+Dancer) | N/A |
+| 37 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 38 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 39 | [Teal MPs](http://twitter.com/search?q=Teal+MPs) | N/A |
+| 40 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 41 | [Rhys Cauzzo](http://twitter.com/search?q=Rhys+Cauzzo) | N/A |
+| 42 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 43 | [Barber](http://twitter.com/search?q=Barber) | N/A |
+| 44 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 45 | [Pericles](http://twitter.com/search?q=Pericles) | N/A |
+| 46 | [Hope In Your Heart](http://twitter.com/search?q=Hope+In+Your+Heart) | N/A |
+| 47 | [mogo magic](http://twitter.com/search?q=mogo+magic) | N/A |
+| 48 | [mr hanks](http://twitter.com/search?q=mr+hanks) | N/A |
+| 49 | [Simon Benson](http://twitter.com/search?q=Simon+Benson) | N/A |
 
 
 

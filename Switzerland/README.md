@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-25 06:16:25 UTC`
+📆 Last Updated: `2023-02-25 07:16:04 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -27,44 +27,44 @@ This is top 50 for Switzerland
 | 10 | [gefährliches gerede](http://twitter.com/search?q=gef%c3%a4hrliches+gerede) | N/A |
 | 11 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
 | 12 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 13 | [Eigenbedarf](http://twitter.com/search?q=Eigenbedarf) | N/A |
-| 14 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
-| 15 | [isabel garcia](http://twitter.com/search?q=isabel+garcia) | N/A |
-| 16 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
-| 17 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
-| 18 | [sitz](http://twitter.com/search?q=sitz) | N/A |
-| 19 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
-| 20 | [wechsel](http://twitter.com/search?q=wechsel) | N/A |
-| 21 | [gebiete](http://twitter.com/search?q=gebiete) | N/A |
-| 22 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 23 | [friedensplan](http://twitter.com/search?q=friedensplan) | N/A |
-| 24 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 25 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 26 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
-| 27 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 28 | [Clemens](http://twitter.com/search?q=Clemens) | Clemens is a surname of German origin. It is derived from the Latin word clemens, which means "merciful" or "gentle". |
-| 29 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
-| 30 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
-| 31 | [bâle](http://twitter.com/search?q=b%c3%a2le) | N/A |
+| 13 | [isabel garcia](http://twitter.com/search?q=isabel+garcia) | N/A |
+| 14 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 15 | [Eigenbedarf](http://twitter.com/search?q=Eigenbedarf) | N/A |
+| 16 | [sitz](http://twitter.com/search?q=sitz) | N/A |
+| 17 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
+| 18 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
+| 19 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
+| 20 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
+| 21 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 22 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
+| 23 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
+| 24 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 25 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
+| 26 | [Clemens](http://twitter.com/search?q=Clemens) | Clemens is a surname of German origin. It is derived from the Latin word clemens, which means "merciful" or "gentle". |
+| 27 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
+| 28 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
+| 29 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 30 | [bâle](http://twitter.com/search?q=b%c3%a2le) | N/A |
+| 31 | [Western](http://twitter.com/search?q=Western) | N/A |
 | 32 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
 | 33 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 34 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
 | 35 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
-| 36 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 37 | [Diplomatie](http://twitter.com/search?q=Diplomatie) | N/A |
-| 38 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
-| 39 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 40 | [Vorgehen](http://twitter.com/search?q=Vorgehen) | N/A |
-| 41 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
-| 42 | [Velo](http://twitter.com/search?q=Velo) | N/A |
-| 43 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 44 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 45 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 46 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
-| 47 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 48 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
-| 49 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 50 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
+| 36 | [Diplomatie](http://twitter.com/search?q=Diplomatie) | N/A |
+| 37 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
+| 38 | [Luna](http://twitter.com/search?q=Luna) | N/A |
+| 39 | [Vorgehen](http://twitter.com/search?q=Vorgehen) | N/A |
+| 40 | [Velo](http://twitter.com/search?q=Velo) | N/A |
+| 41 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
+| 42 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 43 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 44 | [Politikern](http://twitter.com/search?q=Politikern) | N/A |
+| 45 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
+| 46 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
+| 47 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
+| 48 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 49 | [resultat](http://twitter.com/search?q=resultat) | N/A |
+| 50 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
 
 
 

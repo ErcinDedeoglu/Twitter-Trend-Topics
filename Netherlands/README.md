@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Netherlands
 
-📆 Last Updated: `2023-02-25 06:16:23 UTC`
+📆 Last Updated: `2023-02-25 07:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Netherlands
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Groningen](http://twitter.com/search?q=%23Groningen) | N/A |
+| 1 | [Groningers](http://twitter.com/search?q=Groningers) | N/A |
 | 2 | [#pegas](http://twitter.com/search?q=%23pegas) | N/A |
-| 3 | [#spautr](http://twitter.com/search?q=%23spautr) | N/A |
-| 4 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 3 | [Rutte](http://twitter.com/search?q=Rutte) | N/A |
+| 4 | [Goedemorgen](http://twitter.com/search?q=Goedemorgen) | Goedemorgen is a Dutch greeting that translates to "Good morning" in English. |
 | 5 | [#aftreden](http://twitter.com/search?q=%23aftreden) | N/A |
-| 6 | [#avastars](http://twitter.com/search?q=%23avastars) | N/A |
-| 7 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 8 | [enquêtecommissie](http://twitter.com/search?q=enqu%c3%aatecommissie) | N/A |
-| 9 | [joey kooij](http://twitter.com/search?q=joey+kooij) | N/A |
-| 10 | [Ollongren](http://twitter.com/search?q=Ollongren) | N/A |
-| 11 | [vijlbrief](http://twitter.com/search?q=vijlbrief) | N/A |
-| 12 | [vera bergkamp](http://twitter.com/search?q=vera+bergkamp) | N/A |
-| 13 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
-| 14 | [Bernhard](http://twitter.com/search?q=Bernhard) | N/A |
-| 15 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 16 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 17 | [erasmusbrug](http://twitter.com/search?q=erasmusbrug) | N/A |
-| 18 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
-| 19 | [Russische](http://twitter.com/search?q=Russische) | N/A |
-| 20 | [Groningse](http://twitter.com/search?q=Groningse) | N/A |
-| 21 | [willem ii](http://twitter.com/search?q=willem+ii) | N/A |
-| 22 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
-| 23 | [buma](http://twitter.com/search?q=buma) | N/A |
-| 24 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 25 | [auassar](http://twitter.com/search?q=auassar) | N/A |
-| 26 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 27 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 28 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
-| 29 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 30 | [Silva](http://twitter.com/search?q=Silva) | N/A |
-| 31 | [carel](http://twitter.com/search?q=carel) | N/A |
-| 32 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
-| 33 | [dylano](http://twitter.com/search?q=dylano) | N/A |
-| 34 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 35 | [haga](http://twitter.com/search?q=haga) | N/A |
-| 36 | [Timber](http://twitter.com/search?q=Timber) | N/A |
-| 37 | [dag 24](http://twitter.com/search?q=dag+24) | N/A |
-| 38 | [Astrid Kersseboom](http://twitter.com/search?q=Astrid+Kersseboom) | N/A |
-| 39 | [Shakhtar](http://twitter.com/search?q=Shakhtar) | Shakhtar is a Ukrainian football club based in Donetsk. The name Shakhtar is derived from the word "shakhtyor", which means "miner" in Ukrainian. In English, Shakhtar translates to "miner". |
-| 40 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 41 | [Brands](http://twitter.com/search?q=Brands) | N/A |
-| 42 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 43 | [ExxonMobil](http://twitter.com/search?q=ExxonMobil) | N/A |
-| 44 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
-| 45 | [klimaatterrorisme](http://twitter.com/search?q=klimaatterrorisme) | N/A |
-| 46 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 47 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
-| 48 | [eindhoven airport](http://twitter.com/search?q=eindhoven+airport) | N/A |
-| 49 | [AS Roma](http://twitter.com/search?q=AS+Roma) | N/A |
-| 50 | [van meijeren](http://twitter.com/search?q=van+meijeren) | N/A |
+| 6 | [#spautr](http://twitter.com/search?q=%23spautr) | N/A |
+| 7 | [#Avastars](http://twitter.com/search?q=%23Avastars) | N/A |
+| 8 | [#uniaja](http://twitter.com/search?q=%23uniaja) | N/A |
+| 9 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 10 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 11 | [joey kooij](http://twitter.com/search?q=joey+kooij) | N/A |
+| 12 | [Ollongren](http://twitter.com/search?q=Ollongren) | N/A |
+| 13 | [vera bergkamp](http://twitter.com/search?q=vera+bergkamp) | N/A |
+| 14 | [van der wal](http://twitter.com/search?q=van+der+wal) | N/A |
+| 15 | [Bernhard](http://twitter.com/search?q=Bernhard) | N/A |
+| 16 | [erasmusbrug](http://twitter.com/search?q=erasmusbrug) | N/A |
+| 17 | [Russische](http://twitter.com/search?q=Russische) | N/A |
+| 18 | [Vijlbrief](http://twitter.com/search?q=Vijlbrief) | N/A |
+| 19 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
+| 20 | [Leon](http://twitter.com/search?q=Leon) | N/A |
+| 21 | [buma](http://twitter.com/search?q=buma) | N/A |
+| 22 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
+| 23 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
+| 24 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 25 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
+| 26 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 27 | [Silva](http://twitter.com/search?q=Silva) | N/A |
+| 28 | [carel](http://twitter.com/search?q=carel) | N/A |
+| 29 | [Mogge](http://twitter.com/search?q=Mogge) | N/A |
+| 30 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
+| 31 | [Timber](http://twitter.com/search?q=Timber) | N/A |
+| 32 | [dag 24](http://twitter.com/search?q=dag+24) | N/A |
+| 33 | [Van Haga](http://twitter.com/search?q=Van+Haga) | N/A |
+| 34 | [Astrid Kersseboom](http://twitter.com/search?q=Astrid+Kersseboom) | N/A |
+| 35 | [shakhtar](http://twitter.com/search?q=shakhtar) | N/A |
+| 36 | [Brands](http://twitter.com/search?q=Brands) | N/A |
+| 37 | [Exxon](http://twitter.com/search?q=Exxon) | N/A |
+| 38 | [Willem II](http://twitter.com/search?q=Willem+II) | N/A |
+| 39 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
+| 40 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
+| 41 | [eindhoven airport](http://twitter.com/search?q=eindhoven+airport) | N/A |
+| 42 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 43 | [AS Roma](http://twitter.com/search?q=AS+Roma) | N/A |
+| 44 | [Dylano](http://twitter.com/search?q=Dylano) | N/A |
+| 45 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 46 | [van meijeren](http://twitter.com/search?q=van+meijeren) | N/A |
+| 47 | [kasja](http://twitter.com/search?q=kasja) | N/A |
+| 48 | [antwan](http://twitter.com/search?q=antwan) | N/A |
+| 49 | [Auassar](http://twitter.com/search?q=Auassar) | N/A |
+| 50 | [brobbey](http://twitter.com/search?q=brobbey) | N/A |
 
 
 

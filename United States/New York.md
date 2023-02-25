@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-25 06:16:15 UTC`
+📆 Last Updated: `2023-02-25 07:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
 | 2 | [#LetsGoBuffalo](http://twitter.com/search?q=%23LetsGoBuffalo) | N/A |
-| 3 | [Josh Hart](http://twitter.com/search?q=Josh+Hart) | N/A |
-| 4 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
+| 3 | [#NewYorkForever](http://twitter.com/search?q=%23NewYorkForever) | N/A |
+| 4 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
 | 5 | [#CocaineBear](http://twitter.com/search?q=%23CocaineBear) | N/A |
-| 6 | [Mitch](http://twitter.com/search?q=Mitch) | N/A |
-| 7 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 8 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 6 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 7 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 8 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
 | 9 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 10 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
-| 11 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 12 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 13 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 14 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
-| 15 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 16 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 17 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 18 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 19 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 20 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
-| 21 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 22 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 23 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 24 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 25 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 26 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 27 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 28 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 29 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 30 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 31 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 32 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
-| 33 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 34 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 35 | [Finch](http://twitter.com/search?q=Finch) | N/A |
-| 36 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 37 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 38 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 39 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 40 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
-| 41 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
-| 42 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
-| 43 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 44 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 45 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 46 | [Cameron Payne](http://twitter.com/search?q=Cameron+Payne) | N/A |
-| 47 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
-| 48 | [The Nets](http://twitter.com/search?q=The+Nets) | N/A |
-| 49 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 50 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 10 | [Double OT](http://twitter.com/search?q=Double+OT) | Double OT is an abbreviation for double overtime, which is a period of extra time added to the end of a game or match that has ended in a tie. It is usually used in sports such as basketball, hockey, and soccer. Double OT is used to determine a winner when the game has been tied after regulation time. |
+| 11 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 12 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 13 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 14 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 15 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 16 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 17 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 18 | [#SACvsLAC](http://twitter.com/search?q=%23SACvsLAC) | N/A |
+| 19 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 20 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 21 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 22 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 23 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
+| 24 | [Clips](http://twitter.com/search?q=Clips) | N/A |
+| 25 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 26 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
+| 27 | [2nd OT](http://twitter.com/search?q=2nd+OT) | N/A |
+| 28 | [GAME OF THE YEAR](http://twitter.com/search?q=GAME+OF+THE+YEAR) | N/A |
+| 29 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 30 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
+| 31 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 32 | [DOUBLE OVERTIME](http://twitter.com/search?q=DOUBLE+OVERTIME) | N/A |
+| 33 | [2 OT](http://twitter.com/search?q=2+OT) | N/A |
+| 34 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
+| 35 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 36 | [Roco](http://twitter.com/search?q=Roco) | N/A |
+| 37 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
+| 38 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 39 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 40 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 41 | [De’Aaron](http://twitter.com/search?q=De%e2%80%99Aaron) | N/A |
+| 42 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 43 | [Terrance Mann](http://twitter.com/search?q=Terrance+Mann) | N/A |
+| 44 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 45 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
+| 46 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 47 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 48 | [CEQA](http://twitter.com/search?q=CEQA) | N/A |
+| 49 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 50 | [Riho](http://twitter.com/search?q=Riho) | N/A |
 
 
 

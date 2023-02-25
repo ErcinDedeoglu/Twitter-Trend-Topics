@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ireland
 
-📆 Last Updated: `2023-02-25 06:16:20 UTC`
+📆 Last Updated: `2023-02-25 07:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,11 +16,11 @@ This is top 50 for Ireland
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 2 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
+| 2 | [#latelateshow](http://twitter.com/search?q=%23latelateshow) | N/A |
 | 3 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 4 | [#itavire](http://twitter.com/search?q=%23itavire) | N/A |
-| 5 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 6 | [#u20sixnations](http://twitter.com/search?q=%23u20sixnations) | N/A |
+| 4 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 5 | [#u20sixnations](http://twitter.com/search?q=%23u20sixnations) | N/A |
+| 6 | [#ITAvIRE](http://twitter.com/search?q=%23ITAvIRE) | N/A |
 | 7 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
 | 8 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
 | 9 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
@@ -52,13 +52,13 @@ This is top 50 for Ireland
 | 35 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
 | 36 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 37 | [cork city](http://twitter.com/search?q=cork+city) | N/A |
-| 38 | [Erik Ten Hag](http://twitter.com/search?q=Erik+Ten+Hag) | N/A |
-| 39 | [Inchicore](http://twitter.com/search?q=Inchicore) | N/A |
-| 40 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 41 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 42 | [solidarity joe](http://twitter.com/search?q=solidarity+joe) | N/A |
-| 43 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 44 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 38 | [Erik ten Hag](http://twitter.com/search?q=Erik+ten+Hag) | N/A |
+| 39 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 40 | [inchicore](http://twitter.com/search?q=inchicore) | N/A |
+| 41 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 42 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 43 | [solidarity joe](http://twitter.com/search?q=solidarity+joe) | N/A |
+| 44 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 45 | [terenure college](http://twitter.com/search?q=terenure+college) | N/A |
 | 46 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
 | 47 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
