@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brisbane
 
-📆 Last Updated: `2023-02-25 07:15:30 UTC`
+📆 Last Updated: `2023-02-25 08:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,52 +18,52 @@ This is top 50 for [Australia](</Australia>)
 | 1 | [#MCYvSYD](http://twitter.com/search?q=%23MCYvSYD) | N/A |
 | 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 3 | [Uncommon James](http://twitter.com/search?q=Uncommon+James) | N/A |
-| 4 | [#Anamoe](http://twitter.com/search?q=%23Anamoe) | N/A |
-| 5 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
-| 6 | [Alligator Blood](http://twitter.com/search?q=Alligator+Blood) | N/A |
+| 4 | [Alligator Blood](http://twitter.com/search?q=Alligator+Blood) | N/A |
+| 5 | [#NEWvWUN](http://twitter.com/search?q=%23NEWvWUN) | N/A |
+| 6 | [#WorldPride2023](http://twitter.com/search?q=%23WorldPride2023) | N/A |
 | 7 | [#TeamGirlsCup](http://twitter.com/search?q=%23TeamGirlsCup) | N/A |
-| 8 | [#WorldPride2023](http://twitter.com/search?q=%23WorldPride2023) | N/A |
-| 9 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 10 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
-| 11 | [Sunshine In Paris](http://twitter.com/search?q=Sunshine+In+Paris) | N/A |
-| 12 | [Ruthless Dame](http://twitter.com/search?q=Ruthless+Dame) | N/A |
-| 13 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 14 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 15 | [Tilio](http://twitter.com/search?q=Tilio) | N/A |
-| 16 | [Gold Trip](http://twitter.com/search?q=Gold+Trip) | N/A |
-| 17 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 18 | [Steinem](http://twitter.com/search?q=Steinem) | N/A |
-| 19 | [Little Brose](http://twitter.com/search?q=Little+Brose) | N/A |
-| 20 | [Middle Australia](http://twitter.com/search?q=Middle+Australia) | N/A |
-| 21 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 22 | [Hayes](http://twitter.com/search?q=Hayes) | N/A |
-| 23 | [Mr Brightside](http://twitter.com/search?q=Mr+Brightside) | N/A |
-| 24 | [Keats](http://twitter.com/search?q=Keats) | N/A |
-| 25 | [Teals](http://twitter.com/search?q=Teals) | N/A |
-| 26 | [ATAR](http://twitter.com/search?q=ATAR) | N/A |
-| 27 | [Don Corleone](http://twitter.com/search?q=Don+Corleone) | N/A |
+| 8 | [Mardi Gras](http://twitter.com/search?q=Mardi+Gras) | N/A |
+| 9 | [Sunshine In Paris](http://twitter.com/search?q=Sunshine+In+Paris) | N/A |
+| 10 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 12 | [Tilio](http://twitter.com/search?q=Tilio) | N/A |
+| 13 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 14 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 15 | [Middle Australia](http://twitter.com/search?q=Middle+Australia) | N/A |
+| 16 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 17 | [Little Brose](http://twitter.com/search?q=Little+Brose) | N/A |
+| 18 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
+| 19 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 20 | [Hayes](http://twitter.com/search?q=Hayes) | N/A |
+| 21 | [Mr Brightside](http://twitter.com/search?q=Mr+Brightside) | N/A |
+| 22 | [Keats](http://twitter.com/search?q=Keats) | N/A |
+| 23 | [Teals](http://twitter.com/search?q=Teals) | N/A |
+| 24 | [ATAR](http://twitter.com/search?q=ATAR) | N/A |
+| 25 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 26 | [Oakleigh Plate](http://twitter.com/search?q=Oakleigh+Plate) | N/A |
+| 27 | [John Howard](http://twitter.com/search?q=John+Howard) | N/A |
 | 28 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
-| 29 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
-| 30 | [Group 1](http://twitter.com/search?q=Group+1) | N/A |
-| 31 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
-| 32 | [Oakleigh Plate](http://twitter.com/search?q=Oakleigh+Plate) | N/A |
-| 33 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 34 | [Skirt The Law](http://twitter.com/search?q=Skirt+The+Law) | N/A |
-| 35 | [John Howard](http://twitter.com/search?q=John+Howard) | N/A |
-| 36 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 37 | [Shuffle Dancer](http://twitter.com/search?q=Shuffle+Dancer) | N/A |
-| 38 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 39 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 40 | [Teal MPs](http://twitter.com/search?q=Teal+MPs) | N/A |
-| 41 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 42 | [Rhys Cauzzo](http://twitter.com/search?q=Rhys+Cauzzo) | N/A |
-| 43 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 44 | [Barber](http://twitter.com/search?q=Barber) | N/A |
-| 45 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 46 | [Pericles](http://twitter.com/search?q=Pericles) | N/A |
-| 47 | [Hope In Your Heart](http://twitter.com/search?q=Hope+In+Your+Heart) | N/A |
-| 48 | [mogo magic](http://twitter.com/search?q=mogo+magic) | N/A |
-| 49 | [mr hanks](http://twitter.com/search?q=mr+hanks) | N/A |
+| 29 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
+| 30 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 31 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 32 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 33 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
+| 34 | [Shuffle Dancer](http://twitter.com/search?q=Shuffle+Dancer) | N/A |
+| 35 | [Gold Trip](http://twitter.com/search?q=Gold+Trip) | N/A |
+| 36 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 37 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 38 | [Blue Diamond](http://twitter.com/search?q=Blue+Diamond) | N/A |
+| 39 | [Group 1](http://twitter.com/search?q=Group+1) | N/A |
+| 40 | [Rhys Cauzzo](http://twitter.com/search?q=Rhys+Cauzzo) | N/A |
+| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 42 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 43 | [Teal MPs](http://twitter.com/search?q=Teal+MPs) | N/A |
+| 44 | [Coles](http://twitter.com/search?q=Coles) | N/A |
+| 45 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 46 | [James Ashby](http://twitter.com/search?q=James+Ashby) | N/A |
+| 47 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 48 | [Simon Benson](http://twitter.com/search?q=Simon+Benson) | N/A |
+| 49 | [Espiona](http://twitter.com/search?q=Espiona) | N/A |
 
 
 

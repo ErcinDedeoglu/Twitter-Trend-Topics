@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Santo Domingo
 
-📆 Last Updated: `2023-02-25 07:15:12 UTC`
+📆 Last Updated: `2023-02-25 08:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,10 +25,10 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 8 | [Asamblea Nacional](http://twitter.com/search?q=Asamblea+Nacional) | N/A |
 | 9 | [Este 27](http://twitter.com/search?q=Este+27) | N/A |
 | 10 | [Pricesmart](http://twitter.com/search?q=Pricesmart) | N/A |
-| 11 | [acd media](http://twitter.com/search?q=acd+media) | N/A |
-| 12 | [#OrgullososDeEstarMejor](http://twitter.com/search?q=%23OrgullososDeEstarMejor) | N/A |
-| 13 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
-| 14 | [#PremioLoNuestro](http://twitter.com/search?q=%23PremioLoNuestro) | N/A |
+| 11 | [#PremioLoNuestro](http://twitter.com/search?q=%23PremioLoNuestro) | N/A |
+| 12 | [acd media](http://twitter.com/search?q=acd+media) | N/A |
+| 13 | [#orgullososdeestarmejor](http://twitter.com/search?q=%23orgullososdeestarmejor) | N/A |
+| 14 | [Ferxxo](http://twitter.com/search?q=Ferxxo) | Ferxxo is a slang term used in Spanish-speaking countries to describe someone who is cool, stylish, and fashionable. It can also be used to describe someone who is confident and outgoing. In English, it could be translated as "cool cat" or "trendsetter". |
 | 15 | [Tokischa](http://twitter.com/search?q=Tokischa) | N/A |
 | 16 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 | 17 | [mi vivienda ciudad modelo](http://twitter.com/search?q=mi+vivienda+ciudad+modelo) | N/A |
@@ -39,32 +39,32 @@ This is top 50 for [Dominican Republic](</Dominican Republic>)
 | 22 | [Panamá](http://twitter.com/search?q=Panam%c3%a1) | N/A |
 | 23 | [Tribunal Constitucional](http://twitter.com/search?q=Tribunal+Constitucional) | N/A |
 | 24 | [Beyonce](http://twitter.com/search?q=Beyonce) | N/A |
-| 25 | [Independencia Nacional](http://twitter.com/search?q=Independencia+Nacional) | N/A |
+| 25 | [independencia nacional](http://twitter.com/search?q=independencia+nacional) | N/A |
 | 26 | [#palacalleconabel](http://twitter.com/search?q=%23palacalleconabel) | N/A |
-| 27 | [Beautiful Liar](http://twitter.com/search?q=Beautiful+Liar) | N/A |
-| 28 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
-| 29 | [jean montero](http://twitter.com/search?q=jean+montero) | N/A |
-| 30 | [Debieron](http://twitter.com/search?q=Debieron) | N/A |
-| 31 | [Hony](http://twitter.com/search?q=Hony) | N/A |
+| 27 | [Yailin](http://twitter.com/search?q=Yailin) | N/A |
+| 28 | [Beautiful Liar](http://twitter.com/search?q=Beautiful+Liar) | N/A |
+| 29 | [Hony](http://twitter.com/search?q=Hony) | N/A |
+| 30 | [jean montero](http://twitter.com/search?q=jean+montero) | N/A |
+| 31 | [Debieron](http://twitter.com/search?q=Debieron) | N/A |
 | 32 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
 | 33 | [Congreso Nacional](http://twitter.com/search?q=Congreso+Nacional) | N/A |
 | 34 | [#27defebrero](http://twitter.com/search?q=%2327defebrero) | N/A |
-| 35 | [Medusa](http://twitter.com/search?q=Medusa) | N/A |
-| 36 | [Ministerio de Justicia](http://twitter.com/search?q=Ministerio+de+Justicia) | N/A |
-| 37 | [#felizjueves](http://twitter.com/search?q=%23felizjueves) | N/A |
+| 35 | [ministerio de justicia](http://twitter.com/search?q=ministerio+de+justicia) | N/A |
+| 36 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
+| 37 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 38 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 39 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 40 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 39 | [Ozuna](http://twitter.com/search?q=Ozuna) | N/A |
+| 40 | [Medusa](http://twitter.com/search?q=Medusa) | N/A |
 | 41 | [Haina](http://twitter.com/search?q=Haina) | N/A |
 | 42 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
 | 43 | [Pique](http://twitter.com/search?q=Pique) | N/A |
-| 44 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
-| 45 | [BABADO TORRES](http://twitter.com/search?q=BABADO+TORRES) | N/A |
+| 44 | [Babado](http://twitter.com/search?q=Babado) | N/A |
+| 45 | [Pronta](http://twitter.com/search?q=Pronta) | N/A |
 | 46 | [Angel Dior](http://twitter.com/search?q=Angel+Dior) | N/A |
-| 47 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
-| 48 | [Gaby](http://twitter.com/search?q=Gaby) | N/A |
-| 49 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 50 | [Medio Ambiente](http://twitter.com/search?q=Medio+Ambiente) | N/A |
+| 47 | [Medio Ambiente](http://twitter.com/search?q=Medio+Ambiente) | N/A |
+| 48 | [Alfa](http://twitter.com/search?q=Alfa) | Alfa is a term used in the Italian language to mean "first" or "foremost". It is often used to refer to something that is the best or most important. In English, it can be used as an adjective to describe something that is the highest quality or most important. |
+| 49 | [jairo gonzález](http://twitter.com/search?q=jairo+gonz%c3%a1lez) | N/A |
+| 50 | [tini](http://twitter.com/search?q=tini) | Tini is a diminutive form of the name Martini, which is an alcoholic beverage made with gin or vodka and vermouth. It is typically served in a small glass, hence the name. In English, it means "small martini". |
 
 
 

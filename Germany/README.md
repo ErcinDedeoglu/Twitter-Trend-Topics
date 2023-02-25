@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Germany
 
-📆 Last Updated: `2023-02-25 07:15:59 UTC`
+📆 Last Updated: `2023-02-25 08:17:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Germany
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#M05BMG](http://twitter.com/search?q=%23M05BMG) | N/A |
-| 2 | [#tipicospor](http://twitter.com/search?q=%23tipicospor) | N/A |
-| 3 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 4 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 5 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 1 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
+| 2 | [#M05BMG](http://twitter.com/search?q=%23M05BMG) | N/A |
+| 3 | [#tipicospor](http://twitter.com/search?q=%23tipicospor) | N/A |
+| 4 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 5 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
 | 6 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
 | 7 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 8 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 9 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
-| 10 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 11 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 8 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 9 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 10 | [Wölfin](http://twitter.com/search?q=W%c3%b6lfin) | N/A |
+| 11 | [Guten Morgen Corinna](http://twitter.com/search?q=Guten+Morgen+Corinna) | N/A |
 | 12 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 13 | [BASF](http://twitter.com/search?q=BASF) | N/A |
-| 14 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 15 | [Uni Bonn](http://twitter.com/search?q=Uni+Bonn) | N/A |
-| 16 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
+| 13 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
+| 14 | [Chromosom](http://twitter.com/search?q=Chromosom) | N/A |
+| 15 | [Sonnabend](http://twitter.com/search?q=Sonnabend) | N/A |
+| 16 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
 | 17 | [Begeisterung an die Front](http://twitter.com/search?q=Begeisterung+an+die+Front) | N/A |
-| 18 | [Guten Morgen ihr Lieben](http://twitter.com/search?q=Guten+Morgen+ihr+Lieben) | N/A |
-| 19 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
-| 20 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
-| 21 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 22 | [Farke](http://twitter.com/search?q=Farke) | N/A |
-| 23 | [Elvedi](http://twitter.com/search?q=Elvedi) | N/A |
-| 24 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 25 | [schlesinger](http://twitter.com/search?q=schlesinger) | N/A |
-| 26 | [Moin Klaus](http://twitter.com/search?q=Moin+Klaus) | N/A |
-| 27 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 18 | [Affront](http://twitter.com/search?q=Affront) | N/A |
+| 19 | [Uni Bonn](http://twitter.com/search?q=Uni+Bonn) | N/A |
+| 20 | [Moin](http://twitter.com/search?q=Moin) | N/A |
+| 21 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 22 | [Guten Morgen Andreas](http://twitter.com/search?q=Guten+Morgen+Andreas) | N/A |
+| 23 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
+| 24 | [Guten Morgen Daniel](http://twitter.com/search?q=Guten+Morgen+Daniel) | N/A |
+| 25 | [Elvedi](http://twitter.com/search?q=Elvedi) | N/A |
+| 26 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 27 | [Farke](http://twitter.com/search?q=Farke) | N/A |
 | 28 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 29 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 30 | [Pubertätsblocker](http://twitter.com/search?q=Pubert%c3%a4tsblocker) | N/A |
-| 31 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 32 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 33 | [Corinna](http://twitter.com/search?q=Corinna) | N/A |
-| 34 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
-| 35 | [Marlies](http://twitter.com/search?q=Marlies) | N/A |
-| 36 | [Bäcker](http://twitter.com/search?q=B%c3%a4cker) | N/A |
-| 37 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 38 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
-| 39 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 40 | [peter lustig](http://twitter.com/search?q=peter+lustig) | N/A |
-| 41 | [knossi](http://twitter.com/search?q=knossi) | N/A |
-| 42 | [grundrechtseinschränkung](http://twitter.com/search?q=grundrechtseinschr%c3%a4nkung) | N/A |
-| 43 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 44 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 45 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 46 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
-| 47 | [Laufrad](http://twitter.com/search?q=Laufrad) | N/A |
-| 48 | [Ballbesitz](http://twitter.com/search?q=Ballbesitz) | N/A |
-| 49 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
-| 50 | [Brötchen](http://twitter.com/search?q=Br%c3%b6tchen) | N/A |
+| 29 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
+| 30 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 31 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 32 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
+| 33 | [Guten Morgen Welt](http://twitter.com/search?q=Guten+Morgen+Welt) | N/A |
+| 34 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 35 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
+| 36 | [Schlesinger](http://twitter.com/search?q=Schlesinger) | N/A |
+| 37 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
+| 38 | [Bäcker](http://twitter.com/search?q=B%c3%a4cker) | N/A |
+| 39 | [Brötchen](http://twitter.com/search?q=Br%c3%b6tchen) | N/A |
+| 40 | [Cevi](http://twitter.com/search?q=Cevi) | N/A |
+| 41 | [Pubertätsblocker](http://twitter.com/search?q=Pubert%c3%a4tsblocker) | N/A |
+| 42 | [Guten Morgen Michael](http://twitter.com/search?q=Guten+Morgen+Michael) | N/A |
+| 43 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
+| 44 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 45 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 46 | [peter lustig](http://twitter.com/search?q=peter+lustig) | N/A |
+| 47 | [grundrechtseinschränkung](http://twitter.com/search?q=grundrechtseinschr%c3%a4nkung) | N/A |
+| 48 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
+| 49 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
+| 50 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
 
 
 

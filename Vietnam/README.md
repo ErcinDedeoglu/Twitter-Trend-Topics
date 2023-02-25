@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-25 07:16:05 UTC`
+📆 Last Updated: `2023-02-25 08:17:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for Vietnam
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
-| 2 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 3 | [XIAO ZHAN TODS MFW 2023](http://twitter.com/search?q=XIAO+ZHAN+TODS+MFW+2023) | N/A |
-| 4 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
-| 5 | [#BuildInWhite](http://twitter.com/search?q=%23BuildInWhite) | N/A |
-| 6 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 7 | [#ZeeNuNew안녕D1](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D1) | N/A |
-| 8 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
-| 9 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 10 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
-| 11 | [Valentino - WINWIN](http://twitter.com/search?q=Valentino+-+WINWIN) | N/A |
-| 12 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 13 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
-| 14 | [Alchemy](http://twitter.com/search?q=Alchemy) | N/A |
-| 15 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
-| 16 | [jisoo for vogue france](http://twitter.com/search?q=jisoo+for+vogue+france) | N/A |
-| 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 18 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
-| 19 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 20 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 21 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
-| 22 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 23 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 24 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 25 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 26 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 27 | [kiana](http://twitter.com/search?q=kiana) | N/A |
-| 28 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 29 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 30 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
-| 31 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 32 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 33 | [Không](http://twitter.com/search?q=Kh%c3%b4ng) | N/A |
-| 34 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 35 | [Solana](http://twitter.com/search?q=Solana) | N/A |
-| 36 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 37 | [Bible](http://twitter.com/search?q=Bible) | N/A |
-| 38 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 1 | [SYNK WITH AESPA DAY1](http://twitter.com/search?q=SYNK+WITH+AESPA+DAY1) | N/A |
+| 2 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
+| 3 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 4 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 5 | [XIAO ZHAN TODS MFW 2023](http://twitter.com/search?q=XIAO+ZHAN+TODS+MFW+2023) | N/A |
+| 6 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
+| 7 | [#BuildInWhite](http://twitter.com/search?q=%23BuildInWhite) | N/A |
+| 8 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 9 | [#ZeeNuNew안녕D1](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D1) | N/A |
+| 10 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 11 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 12 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
+| 13 | [valentino - winwin](http://twitter.com/search?q=valentino+-+winwin) | N/A |
+| 14 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
+| 15 | [Alchemy](http://twitter.com/search?q=Alchemy) | N/A |
+| 16 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
+| 17 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
+| 18 | [jisoo for vogue france](http://twitter.com/search?q=jisoo+for+vogue+france) | N/A |
+| 19 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 20 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 21 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
+| 22 | [face tracklist is coming](http://twitter.com/search?q=face+tracklist+is+coming) | N/A |
+| 23 | [Explore Yields](http://twitter.com/search?q=Explore+Yields) | N/A |
+| 24 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 25 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 26 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 27 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 28 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 29 | [TRƯỚC](http://twitter.com/search?q=TR%c6%af%e1%bb%9aC) | N/A |
+| 30 | [kiana](http://twitter.com/search?q=kiana) | N/A |
+| 31 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 32 | [Sài Gòn](http://twitter.com/search?q=S%c3%a0i+G%c3%b2n) | N/A |
+| 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 34 | [Không](http://twitter.com/search?q=Kh%c3%b4ng) | N/A |
+| 35 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
+| 36 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 37 | [Solana](http://twitter.com/search?q=Solana) | N/A |
+| 38 | [Freen](http://twitter.com/search?q=Freen) | N/A |
 | 39 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
-| 40 | [Sphinx](http://twitter.com/search?q=Sphinx) | N/A |
-| 41 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
-| 42 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 43 | [Người](http://twitter.com/search?q=Ng%c6%b0%e1%bb%9di) | N/A |
-| 44 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
-| 45 | [Thực](http://twitter.com/search?q=Th%e1%bb%b1c) | N/A |
-| 46 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
-| 47 | [Theo](http://twitter.com/search?q=Theo) | N/A |
-| 48 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 49 | [New York](http://twitter.com/search?q=New+York) | N/A |
-| 50 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 40 | [Cosmos](http://twitter.com/search?q=Cosmos) | N/A |
+| 41 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 42 | [Thấy](http://twitter.com/search?q=Th%e1%ba%a5y) | N/A |
+| 43 | [Thực](http://twitter.com/search?q=Th%e1%bb%b1c) | N/A |
+| 44 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
+| 45 | [Sphinx](http://twitter.com/search?q=Sphinx) | N/A |
+| 46 | [Tây Ban Nha](http://twitter.com/search?q=T%c3%a2y+Ban+Nha) | N/A |
+| 47 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 48 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
+| 49 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 50 | [New York](http://twitter.com/search?q=New+York) | N/A |
 
 
 

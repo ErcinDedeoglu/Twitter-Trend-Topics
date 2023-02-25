@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-02-25 07:15:16 UTC`
+📆 Last Updated: `2023-02-25 08:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Ecuador](</Ecuador>)
 | 12 | [Aragón](http://twitter.com/search?q=Arag%c3%b3n) | N/A |
 | 13 | [Eliseo Duarte](http://twitter.com/search?q=Eliseo+Duarte) | N/A |
 | 14 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
-| 15 | [Alejandro Serrano Aguilar](http://twitter.com/search?q=Alejandro+Serrano+Aguilar) | N/A |
-| 16 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
-| 17 | [Fenocin](http://twitter.com/search?q=Fenocin) | N/A |
-| 18 | [#LDUQ](http://twitter.com/search?q=%23LDUQ) | N/A |
-| 19 | [Gary Espinoza](http://twitter.com/search?q=Gary+Espinoza) | N/A |
-| 20 | [Cortázar](http://twitter.com/search?q=Cort%c3%a1zar) | N/A |
-| 21 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 22 | [Francisco Mera](http://twitter.com/search?q=Francisco+Mera) | N/A |
-| 23 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
+| 15 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 16 | [Alejandro Serrano Aguilar](http://twitter.com/search?q=Alejandro+Serrano+Aguilar) | N/A |
+| 17 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
+| 18 | [Fenocin](http://twitter.com/search?q=Fenocin) | N/A |
+| 19 | [#lduq](http://twitter.com/search?q=%23lduq) | N/A |
+| 20 | [Gary Espinoza](http://twitter.com/search?q=Gary+Espinoza) | N/A |
+| 21 | [Cortázar](http://twitter.com/search?q=Cort%c3%a1zar) | N/A |
+| 22 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
+| 23 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
 | 24 | [hamilton piedra](http://twitter.com/search?q=hamilton+piedra) | N/A |
-| 25 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 26 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
-| 27 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 28 | [Enrique Pita](http://twitter.com/search?q=Enrique+Pita) | N/A |
-| 29 | [Renato Ibarra](http://twitter.com/search?q=Renato+Ibarra) | N/A |
-| 30 | [Tiban](http://twitter.com/search?q=Tiban) | N/A |
-| 31 | [Consejo Ampliado](http://twitter.com/search?q=Consejo+Ampliado) | N/A |
-| 32 | [nueva prosperina](http://twitter.com/search?q=nueva+prosperina) | N/A |
-| 33 | [Esteban Paz](http://twitter.com/search?q=Esteban+Paz) | N/A |
-| 34 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
-| 35 | [Ricardo Adé](http://twitter.com/search?q=Ricardo+Ad%c3%a9) | N/A |
+| 25 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 26 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 27 | [Enrique Pita](http://twitter.com/search?q=Enrique+Pita) | N/A |
+| 28 | [renato ibarra](http://twitter.com/search?q=renato+ibarra) | N/A |
+| 29 | [Tiban](http://twitter.com/search?q=Tiban) | N/A |
+| 30 | [Consejo Ampliado](http://twitter.com/search?q=Consejo+Ampliado) | N/A |
+| 31 | [nueva prosperina](http://twitter.com/search?q=nueva+prosperina) | N/A |
+| 32 | [Esteban Paz](http://twitter.com/search?q=Esteban+Paz) | N/A |
+| 33 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
+| 34 | [Ricardo Adé](http://twitter.com/search?q=Ricardo+Ad%c3%a9) | N/A |
+| 35 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
 | 36 | [fecha 1](http://twitter.com/search?q=fecha+1) | N/A |
-| 37 | [Santiago](http://twitter.com/search?q=Santiago) | N/A |
-| 38 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 39 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
-| 40 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 41 | [Cuenquita](http://twitter.com/search?q=Cuenquita) | N/A |
-| 42 | [Casa de la Cultura](http://twitter.com/search?q=Casa+de+la+Cultura) | N/A |
-| 43 | [Udla](http://twitter.com/search?q=Udla) | N/A |
-| 44 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
-| 45 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 46 | [Quishpe](http://twitter.com/search?q=Quishpe) | N/A |
-| 47 | [vamos liga](http://twitter.com/search?q=vamos+liga) | N/A |
-| 48 | [Indio](http://twitter.com/search?q=Indio) | N/A |
-| 49 | [otavalo](http://twitter.com/search?q=otavalo) | N/A |
-| 50 | [fierro urco](http://twitter.com/search?q=fierro+urco) | N/A |
+| 37 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
+| 38 | [Cuenquita](http://twitter.com/search?q=Cuenquita) | N/A |
+| 39 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
+| 40 | [Casa de la Cultura](http://twitter.com/search?q=Casa+de+la+Cultura) | N/A |
+| 41 | [Domínguez](http://twitter.com/search?q=Dom%c3%adnguez) | N/A |
+| 42 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 43 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 44 | [Indio](http://twitter.com/search?q=Indio) | N/A |
+| 45 | [otavalo](http://twitter.com/search?q=otavalo) | N/A |
+| 46 | [vamos liga](http://twitter.com/search?q=vamos+liga) | N/A |
+| 47 | [fierro urco](http://twitter.com/search?q=fierro+urco) | N/A |
+| 48 | [UDLA](http://twitter.com/search?q=UDLA) | N/A |
+| 49 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 50 | [Karina Arteaga](http://twitter.com/search?q=Karina+Arteaga) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Giza
 
-📆 Last Updated: `2023-02-25 07:15:38 UTC`
+📆 Last Updated: `2023-02-25 08:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Egypt](</Egypt>)
 | ------- | ------------ | ------------ |
 | 1 | [عمرو راضي](http://twitter.com/search?q=%d8%b9%d9%85%d8%b1%d9%88+%d8%b1%d8%a7%d8%b6%d9%8a) | N/A |
 | 2 | [#زلزال_مصر](http://twitter.com/search?q=%23%d8%b2%d9%84%d8%b2%d8%a7%d9%84_%d9%85%d8%b5%d8%b1) | N/A |
-| 3 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
-| 4 | [#يا_اهلي_جمهورك_معاك](http://twitter.com/search?q=%23%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a_%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%83_%d9%85%d8%b9%d8%a7%d9%83) | N/A |
+| 3 | [#يا_اهلي_جمهورك_معاك](http://twitter.com/search?q=%23%d9%8a%d8%a7_%d8%a7%d9%87%d9%84%d9%8a_%d8%ac%d9%85%d9%87%d9%88%d8%b1%d9%83_%d9%85%d8%b9%d8%a7%d9%83) | N/A |
+| 4 | [#صباح_الخيرᅠ](http://twitter.com/search?q=%23%d8%b5%d8%a8%d8%a7%d8%ad_%d8%a7%d9%84%d8%ae%d9%8a%d8%b1%e1%85%a0) | #صباح_الخيرᅠ is an Arabic phrase meaning "Good Morning". |
 | 5 | [#توقع_مع_المدرج](http://twitter.com/search?q=%23%d8%aa%d9%88%d9%82%d8%b9_%d9%85%d8%b9_%d8%a7%d9%84%d9%85%d8%af%d8%b1%d8%ac) | N/A |
 | 6 | [#جمعه_مباركه](http://twitter.com/search?q=%23%d8%ac%d9%85%d8%b9%d9%87_%d9%85%d8%a8%d8%a7%d8%b1%d9%83%d9%87) | #جمعه_مباركه is an Arabic hashtag that translates to "blessed Friday". It is used to express joy and appreciation for the start of the weekend. |
 | 7 | [صن داونز](http://twitter.com/search?q=%d8%b5%d9%86+%d8%af%d8%a7%d9%88%d9%86%d8%b2) | N/A |
 | 8 | [اليوم السبت](http://twitter.com/search?q=%d8%a7%d9%84%d9%8a%d9%88%d9%85+%d8%a7%d9%84%d8%b3%d8%a8%d8%aa) | N/A |
 | 9 | [المريخ السوداني](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d8%b1%d9%8a%d8%ae+%d8%a7%d9%84%d8%b3%d9%88%d8%af%d8%a7%d9%86%d9%8a) | N/A |
-| 10 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
+| 10 | [علي القطن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d9%86) | N/A |
 | 11 | [شباب بلوزداد](http://twitter.com/search?q=%d8%b4%d8%a8%d8%a7%d8%a8+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
 | 12 | [فوز الهلال](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%87%d9%84%d8%a7%d9%84) | N/A |
-| 13 | [القطن الكاميروني](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d8%b7%d9%86+%d8%a7%d9%84%d9%83%d8%a7%d9%85%d9%8a%d8%b1%d9%88%d9%86%d9%8a) | N/A |
+| 13 | [برشلونة](http://twitter.com/search?q=%d8%a8%d8%b1%d8%b4%d9%84%d9%88%d9%86%d8%a9) | برشلونة (Barcelona) is a Spanish professional football club based in Barcelona, Catalonia, Spain. It is one of the most successful clubs in Spanish football and is one of the most widely supported teams in the world. In English, it means "Barcelona". |
 | 14 | [فوز المريخ](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d9%85%d8%b1%d9%8a%d8%ae) | N/A |
-| 15 | [علي تونس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%aa%d9%88%d9%86%d8%b3) | N/A |
-| 16 | [مكتب البريد](http://twitter.com/search?q=%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af) | N/A |
-| 17 | [باسم يوسف](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
-| 18 | [الفراخ البرازيلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ae+%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84%d9%8a) | N/A |
-| 19 | [السويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b3) | N/A |
-| 20 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 21 | [روبن هود](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%86+%d9%87%d9%88%d8%af) | N/A |
-| 22 | [ريال بيتيس](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d8%a8%d9%8a%d8%aa%d9%8a%d8%b3) | N/A |
-| 23 | [السطو المسلح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b7%d9%88+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad) | N/A |
-| 24 | [البحوث الفلكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d9%88%d8%ab+%d8%a7%d9%84%d9%81%d9%84%d9%83%d9%8a%d9%87) | N/A |
-| 25 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 26 | [لليونايتد](http://twitter.com/search?q=%d9%84%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
+| 15 | [باسم يوسف](http://twitter.com/search?q=%d8%a8%d8%a7%d8%b3%d9%85+%d9%8a%d9%88%d8%b3%d9%81) | N/A |
+| 16 | [علي تونس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%aa%d9%88%d9%86%d8%b3) | N/A |
+| 17 | [السويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b3) | N/A |
+| 18 | [ريال بيتيس](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d8%a8%d9%8a%d8%aa%d9%8a%d8%b3) | N/A |
+| 19 | [الفراخ البرازيلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ae+%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84%d9%8a) | N/A |
+| 20 | [روبن هود](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%86+%d9%87%d9%88%d8%af) | N/A |
+| 21 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
+| 22 | [مكتب البريد](http://twitter.com/search?q=%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af) | N/A |
+| 23 | [البحوث الفلكيه](http://twitter.com/search?q=%d8%a7%d9%84%d8%a8%d8%ad%d9%88%d8%ab+%d8%a7%d9%84%d9%81%d9%84%d9%83%d9%8a%d9%87) | N/A |
+| 24 | [لليونايتد](http://twitter.com/search?q=%d9%84%d9%84%d9%8a%d9%88%d9%86%d8%a7%d9%8a%d8%aa%d8%af) | N/A |
+| 25 | [السطو المسلح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b7%d9%88+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad) | N/A |
+| 26 | [يارا المحلاوي](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b1%d8%a7+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d8%a7%d9%88%d9%8a) | N/A |
 | 27 | [دوري الموتمرات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1%d8%a7%d8%aa) | N/A |
-| 28 | [يارا المحلاوي](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b1%d8%a7+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d8%a7%d9%88%d9%8a) | N/A |
-| 29 | [ليفاندوفسكي](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7%d9%86%d8%af%d9%88%d9%81%d8%b3%d9%83%d9%8a) | N/A |
-| 30 | [نانت](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%aa) | N/A |
-| 31 | [الفرخه المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%ae%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
-| 32 | [24 فبراير 2023](http://twitter.com/search?q=24+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 33 | [القمر الصناعي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
-| 34 | [الشياكه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%a7%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
-| 35 | [دوري المجموعات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa) | N/A |
-| 36 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
-| 37 | [جمال مبارك](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 38 | [طويل العتب](http://twitter.com/search?q=%d8%b7%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%b9%d8%aa%d8%a8) | N/A |
-| 39 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 40 | [كابتن محمود الخطيب](http://twitter.com/search?q=%d9%83%d8%a7%d8%a8%d8%aa%d9%86+%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
-| 41 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
-| 42 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 43 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 44 | [لشبونة](http://twitter.com/search?q=%d9%84%d8%b4%d8%a8%d9%88%d9%86%d8%a9) | N/A |
-| 45 | [فري هيت](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a+%d9%87%d9%8a%d8%aa) | N/A |
-| 46 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 47 | [التشغيل التجاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b4%d8%ba%d9%8a%d9%84+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
-| 48 | [دوري الموتمر الاوروبي](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
-| 49 | [أوكرانيا](http://twitter.com/search?q=%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 50 | [غير الفوز](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 28 | [ليفاندوفسكي](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7%d9%86%d8%af%d9%88%d9%81%d8%b3%d9%83%d9%8a) | N/A |
+| 29 | [نانت](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%aa) | N/A |
+| 30 | [25 فبراير 2023](http://twitter.com/search?q=25+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 31 | [لشبونة](http://twitter.com/search?q=%d9%84%d8%b4%d8%a8%d9%88%d9%86%d8%a9) | N/A |
+| 32 | [القمر الصناعي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
+| 33 | [دوري المجموعات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa) | N/A |
+| 34 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 35 | [طويل العتب](http://twitter.com/search?q=%d8%b7%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%b9%d8%aa%d8%a8) | N/A |
+| 36 | [الدوري الاوروبي](http://twitter.com/search?q=%d8%a7%d9%84%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d8%a7%d9%88%d8%b1%d9%88%d8%a8%d9%8a) | N/A |
+| 37 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 38 | [كابتن محمود الخطيب](http://twitter.com/search?q=%d9%83%d8%a7%d8%a8%d8%aa%d9%86+%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
+| 39 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
+| 40 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 41 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 42 | [فينورد](http://twitter.com/search?q=%d9%81%d9%8a%d9%86%d9%88%d8%b1%d8%af) | N/A |
+| 43 | [التشغيل التجاري](http://twitter.com/search?q=%d8%a7%d9%84%d8%aa%d8%b4%d8%ba%d9%8a%d9%84+%d8%a7%d9%84%d8%aa%d8%ac%d8%a7%d8%b1%d9%8a) | N/A |
+| 44 | [الشياكه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%a7%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
+| 45 | [جمال مبارك](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
+| 46 | [غير الفوز](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 47 | [أوكرانيا](http://twitter.com/search?q=%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
+| 48 | [فري هيت](http://twitter.com/search?q=%d9%81%d8%b1%d9%8a+%d9%87%d9%8a%d8%aa) | N/A |
+| 49 | [الملا الاعلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%85%d9%84%d8%a7+%d8%a7%d9%84%d8%a7%d8%b9%d9%84%d9%8a) | N/A |
+| 50 | [سوسيداد](http://twitter.com/search?q=%d8%b3%d9%88%d8%b3%d9%8a%d8%af%d8%a7%d8%af) | سوسيداد (Soussad) is an Arabic word meaning "dignity" or "honor". It is often used to refer to the dignity and respect that should be accorded to a person or group of people. |
 
 
 
