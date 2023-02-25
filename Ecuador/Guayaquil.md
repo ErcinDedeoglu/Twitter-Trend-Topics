@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guayaquil
 
-📆 Last Updated: `2023-02-25 00:28:19 UTC`
+📆 Last Updated: `2023-02-25 01:43:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Ecuador](</Ecuador>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 2 | [#ParoNacional](http://twitter.com/search?q=%23ParoNacional) | N/A |
-| 3 | [#IzaTerrorista](http://twitter.com/search?q=%23IzaTerrorista) | N/A |
-| 4 | [Harta Demencia](http://twitter.com/search?q=Harta+Demencia) | N/A |
-| 5 | [#DCuenca](http://twitter.com/search?q=%23DCuenca) | N/A |
-| 6 | [Vamos Liga](http://twitter.com/search?q=Vamos+Liga) | N/A |
-| 7 | [#DeckerGiftCool](http://twitter.com/search?q=%23DeckerGiftCool) | N/A |
+| 1 | [Enzo López](http://twitter.com/search?q=Enzo+L%c3%b3pez) | N/A |
+| 2 | [Aragón](http://twitter.com/search?q=Arag%c3%b3n) | N/A |
+| 3 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 4 | [#ParoNacional](http://twitter.com/search?q=%23ParoNacional) | N/A |
+| 5 | [Cuenca](http://twitter.com/search?q=Cuenca) | N/A |
+| 6 | [Hamilton Piedra](http://twitter.com/search?q=Hamilton+Piedra) | N/A |
+| 7 | [Alzugaray](http://twitter.com/search?q=Alzugaray) | N/A |
 | 8 | [#LigaProBet593](http://twitter.com/search?q=%23LigaProBet593) | N/A |
-| 9 | [Alejandro Serrano Aguilar](http://twitter.com/search?q=Alejandro+Serrano+Aguilar) | N/A |
-| 10 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 11 | [Eliseo Duarte](http://twitter.com/search?q=Eliseo+Duarte) | N/A |
-| 12 | [Cortázar](http://twitter.com/search?q=Cort%c3%a1zar) | N/A |
+| 9 | [#IzaTerrorista](http://twitter.com/search?q=%23IzaTerrorista) | N/A |
+| 10 | [Harta Demencia](http://twitter.com/search?q=Harta+Demencia) | N/A |
+| 11 | [#LDUQ](http://twitter.com/search?q=%23LDUQ) | N/A |
+| 12 | [Eliseo Duarte](http://twitter.com/search?q=Eliseo+Duarte) | N/A |
 | 13 | [Gary Espinoza](http://twitter.com/search?q=Gary+Espinoza) | N/A |
-| 14 | [Enrique Pita](http://twitter.com/search?q=Enrique+Pita) | N/A |
-| 15 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
-| 16 | [CONAIE](http://twitter.com/search?q=CONAIE) | N/A |
-| 17 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 18 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 20 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 21 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 22 | [Fenocin](http://twitter.com/search?q=Fenocin) | N/A |
-| 23 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
-| 24 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
-| 25 | [Nueva Prosperina](http://twitter.com/search?q=Nueva+Prosperina) | N/A |
-| 26 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 27 | [UDLA](http://twitter.com/search?q=UDLA) | N/A |
-| 28 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
-| 29 | [Quito](http://twitter.com/search?q=Quito) | N/A |
-| 30 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 31 | [Fierro Urco](http://twitter.com/search?q=Fierro+Urco) | N/A |
-| 32 | [Tiban](http://twitter.com/search?q=Tiban) | N/A |
-| 33 | [Andrés](http://twitter.com/search?q=Andr%c3%a9s) | N/A |
-| 34 | [Luisa Valverde](http://twitter.com/search?q=Luisa+Valverde) | N/A |
-| 35 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 36 | [Consejo Ampliado](http://twitter.com/search?q=Consejo+Ampliado) | N/A |
-| 37 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 38 | [Pique](http://twitter.com/search?q=Pique) | N/A |
-| 39 | [León de Troya](http://twitter.com/search?q=Le%c3%b3n+de+Troya) | N/A |
-| 40 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 41 | [Olmedo](http://twitter.com/search?q=Olmedo) | N/A |
-| 42 | [Otavalo](http://twitter.com/search?q=Otavalo) | N/A |
-| 43 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 44 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 45 | [Maribel Castillo](http://twitter.com/search?q=Maribel+Castillo) | N/A |
-| 46 | [piero hincapié](http://twitter.com/search?q=piero+hincapi%c3%a9) | N/A |
-| 47 | [Karina Arteaga](http://twitter.com/search?q=Karina+Arteaga) | N/A |
-| 48 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 49 | [Indio](http://twitter.com/search?q=Indio) | N/A |
-| 50 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 14 | [Fenocin](http://twitter.com/search?q=Fenocin) | N/A |
+| 15 | [Ricardo Adé](http://twitter.com/search?q=Ricardo+Ad%c3%a9) | N/A |
+| 16 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 17 | [Con VAR](http://twitter.com/search?q=Con+VAR) | N/A |
+| 18 | [Cortázar](http://twitter.com/search?q=Cort%c3%a1zar) | N/A |
+| 19 | [Zubeldia](http://twitter.com/search?q=Zubeldia) | N/A |
+| 20 | [Vamos Liga](http://twitter.com/search?q=Vamos+Liga) | N/A |
+| 21 | [#DeckerGiftCool](http://twitter.com/search?q=%23DeckerGiftCool) | N/A |
+| 22 | [Piovi](http://twitter.com/search?q=Piovi) | Piovi is an Italian word that means "to rain". It is used to describe the sound of rain falling. |
+| 23 | [Alejandro Serrano Aguilar](http://twitter.com/search?q=Alejandro+Serrano+Aguilar) | N/A |
+| 24 | [Penal](http://twitter.com/search?q=Penal) | N/A |
+| 25 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 26 | [Renato Ibarra](http://twitter.com/search?q=Renato+Ibarra) | N/A |
+| 27 | [Enrique Pita](http://twitter.com/search?q=Enrique+Pita) | N/A |
+| 28 | [CONAIE](http://twitter.com/search?q=CONAIE) | N/A |
+| 29 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 30 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
+| 31 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 32 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 33 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
+| 34 | [Alvarado](http://twitter.com/search?q=Alvarado) | N/A |
+| 35 | [Vivanco](http://twitter.com/search?q=Vivanco) | N/A |
+| 36 | [maría belén bernal](http://twitter.com/search?q=mar%c3%ada+bel%c3%a9n+bernal) | N/A |
+| 37 | [Fecha 1](http://twitter.com/search?q=Fecha+1) | N/A |
+| 38 | [Liga de Quito](http://twitter.com/search?q=Liga+de+Quito) | N/A |
+| 39 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 40 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 41 | [Tiban](http://twitter.com/search?q=Tiban) | N/A |
+| 42 | [Esteban](http://twitter.com/search?q=Esteban) | N/A |
+| 43 | [UDLA](http://twitter.com/search?q=UDLA) | N/A |
+| 44 | [Nueva Prosperina](http://twitter.com/search?q=Nueva+Prosperina) | N/A |
+| 45 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 46 | [Fierro Urco](http://twitter.com/search?q=Fierro+Urco) | N/A |
+| 47 | [Consejo Ampliado](http://twitter.com/search?q=Consejo+Ampliado) | N/A |
+| 48 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 49 | [León de Troya](http://twitter.com/search?q=Le%c3%b3n+de+Troya) | N/A |
+| 50 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
 
 
 

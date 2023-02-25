@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nairobi
 
-📆 Last Updated: `2023-02-25 00:28:41 UTC`
+📆 Last Updated: `2023-02-25 01:44:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,21 +22,21 @@ This is top 50 for [Kenya](</Kenya>)
 | 5 | [LGBTQ](http://twitter.com/search?q=LGBTQ) | N/A |
 | 6 | [Samidoh](http://twitter.com/search?q=Samidoh) | N/A |
 | 7 | [Elijah](http://twitter.com/search?q=Elijah) | N/A |
-| 8 | [Karen Nyamu](http://twitter.com/search?q=Karen+Nyamu) | N/A |
+| 8 | [karen nyamu](http://twitter.com/search?q=karen+nyamu) | N/A |
 | 9 | [#banktompesanisare](http://twitter.com/search?q=%23banktompesanisare) | N/A |
 | 10 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 11 | [Edday Nderitu](http://twitter.com/search?q=Edday+Nderitu) | N/A |
-| 12 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 13 | [Taifa Gas](http://twitter.com/search?q=Taifa+Gas) | N/A |
-| 14 | [digitika na robisearch](http://twitter.com/search?q=digitika+na+robisearch) | N/A |
-| 15 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
-| 16 | [254realty expo](http://twitter.com/search?q=254realty+expo) | N/A |
-| 17 | [minneh](http://twitter.com/search?q=minneh) | N/A |
-| 18 | [Vera](http://twitter.com/search?q=Vera) | N/A |
-| 19 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
+| 11 | [edday nderitu](http://twitter.com/search?q=edday+nderitu) | N/A |
+| 12 | [Taifa Gas](http://twitter.com/search?q=Taifa+Gas) | N/A |
+| 13 | [digitika na robisearch](http://twitter.com/search?q=digitika+na+robisearch) | N/A |
+| 14 | [Pastor Fred](http://twitter.com/search?q=Pastor+Fred) | Pastor Fred is a term used to refer to a Christian minister or pastor. It is often used as a generic name for any pastor, regardless of their actual name. |
+| 15 | [254realty expo](http://twitter.com/search?q=254realty+expo) | N/A |
+| 16 | [minneh](http://twitter.com/search?q=minneh) | N/A |
+| 17 | [Vera](http://twitter.com/search?q=Vera) | N/A |
+| 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 19 | [Prime Cabinet Secretary](http://twitter.com/search?q=Prime+Cabinet+Secretary) | N/A |
 | 20 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 21 | [Prime Cabinet Secretary](http://twitter.com/search?q=Prime+Cabinet+Secretary) | N/A |
-| 22 | [peter kaluma](http://twitter.com/search?q=peter+kaluma) | N/A |
+| 21 | [peter kaluma](http://twitter.com/search?q=peter+kaluma) | N/A |
+| 22 | [Supreme Court](http://twitter.com/search?q=Supreme+Court) | N/A |
 | 23 | [tukutane bluesprings kesho](http://twitter.com/search?q=tukutane+bluesprings+kesho) | N/A |
 | 24 | [Rachel Ruto](http://twitter.com/search?q=Rachel+Ruto) | N/A |
 | 25 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
@@ -53,18 +53,18 @@ This is top 50 for [Kenya](</Kenya>)
 | 36 | [rispah simiyu](http://twitter.com/search?q=rispah+simiyu) | N/A |
 | 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
 | 38 | [Frenkie De Jong](http://twitter.com/search?q=Frenkie+De+Jong) | N/A |
-| 39 | [david ndii](http://twitter.com/search?q=david+ndii) | N/A |
+| 39 | [David ndii](http://twitter.com/search?q=David+ndii) | N/A |
 | 40 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 41 | [China Square](http://twitter.com/search?q=China+Square) | N/A |
-| 42 | [kra commissioner general](http://twitter.com/search?q=kra+commissioner+general) | N/A |
+| 41 | [Githurai](http://twitter.com/search?q=Githurai) | N/A |
+| 42 | [China Square](http://twitter.com/search?q=China+Square) | N/A |
 | 43 | [IPPs](http://twitter.com/search?q=IPPs) | N/A |
-| 44 | [Githurai](http://twitter.com/search?q=Githurai) | N/A |
-| 45 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 46 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 47 | [Welcome to Kenya](http://twitter.com/search?q=Welcome+to+Kenya) | N/A |
-| 48 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 49 | [Musalia Mudavadi](http://twitter.com/search?q=Musalia+Mudavadi) | N/A |
-| 50 | [Tessie Musalia](http://twitter.com/search?q=Tessie+Musalia) | N/A |
+| 44 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 45 | [kra commissioner general](http://twitter.com/search?q=kra+commissioner+general) | N/A |
+| 46 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 47 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 48 | [Welcome to Kenya](http://twitter.com/search?q=Welcome+to+Kenya) | N/A |
+| 49 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 50 | [Musalia Mudavadi](http://twitter.com/search?q=Musalia+Mudavadi) | N/A |
 
 
 

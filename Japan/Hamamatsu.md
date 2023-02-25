@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamamatsu
 
-📆 Last Updated: `2023-02-25 00:28:34 UTC`
+📆 Last Updated: `2023-02-25 01:44:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [sumika](http://twitter.com/search?q=sumika) | N/A |
-| 2 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
-| 3 | [#ウチカフェしよう](http://twitter.com/search?q=%23%e3%82%a6%e3%83%81%e3%82%ab%e3%83%95%e3%82%a7%e3%81%97%e3%82%88%e3%81%86) | N/A |
-| 4 | [#ジェネスタ](http://twitter.com/search?q=%23%e3%82%b8%e3%82%a7%e3%83%8d%e3%82%b9%e3%82%bf) | #ジェネスタ is a hashtag used on social media in Japan. It translates to "Generation S" and is used to refer to people born between the mid-1980s and mid-1990s. It is often used to discuss topics related to this generation, such as lifestyle, fashion, and culture. |
-| 5 | [#旅サラダ](http://twitter.com/search?q=%23%e6%97%85%e3%82%b5%e3%83%a9%e3%83%80) | #旅サラダ is a hashtag used on social media in Japan to refer to a type of salad made with ingredients that are easy to take on a trip. The literal translation of #旅サラダ is "Travel Salad". |
-| 6 | [#サタプラ](http://twitter.com/search?q=%23%e3%82%b5%e3%82%bf%e3%83%97%e3%83%a9) | N/A |
-| 7 | [#めざましどようび](http://twitter.com/search?q=%23%e3%82%81%e3%81%96%e3%81%be%e3%81%97%e3%81%a9%e3%82%88%e3%81%86%e3%81%b3) | N/A |
-| 8 | [グッズ列](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e5%88%97) | グッズ列 (Guzzu retsu) is a Japanese term that refers to a line of merchandise, usually related to a particular event or product. In English, it can be translated as "merchandise line" or "merchandise queue". |
-| 9 | [土曜出勤](http://twitter.com/search?q=%e5%9c%9f%e6%9b%9c%e5%87%ba%e5%8b%a4) | N/A |
+| 2 | [#ポケカCL2023愛知](http://twitter.com/search?q=%23%e3%83%9d%e3%82%b1%e3%82%abCL2023%e6%84%9b%e7%9f%a5) | N/A |
+| 3 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
+| 4 | [ブロッコリーくじ](http://twitter.com/search?q=%e3%83%96%e3%83%ad%e3%83%83%e3%82%b3%e3%83%aa%e3%83%bc%e3%81%8f%e3%81%98) | N/A |
+| 5 | [#ウチカフェしよう](http://twitter.com/search?q=%23%e3%82%a6%e3%83%81%e3%82%ab%e3%83%95%e3%82%a7%e3%81%97%e3%82%88%e3%81%86) | N/A |
+| 6 | [#ジャニーズJrCHAMP](http://twitter.com/search?q=%23%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%baJrCHAMP) | N/A |
+| 7 | [#ジェネスタ](http://twitter.com/search?q=%23%e3%82%b8%e3%82%a7%e3%83%8d%e3%82%b9%e3%82%bf) | #ジェネスタ is a hashtag used on social media in Japan. It translates to "Generation S" and is used to refer to people born between the mid-1980s and mid-1990s. It is often used to discuss topics related to this generation, such as lifestyle, fashion, and culture. |
+| 8 | [#旅サラダ](http://twitter.com/search?q=%23%e6%97%85%e3%82%b5%e3%83%a9%e3%83%80) | #旅サラダ is a hashtag used on social media in Japan to refer to a type of salad made with ingredients that are easy to take on a trip. The literal translation of #旅サラダ is "Travel Salad". |
+| 9 | [横歩取り](http://twitter.com/search?q=%e6%a8%aa%e6%ad%a9%e5%8f%96%e3%82%8a) | N/A |
 | 10 | [エース兄さん](http://twitter.com/search?q=%e3%82%a8%e3%83%bc%e3%82%b9%e5%85%84%e3%81%95%e3%82%93) | N/A |
 | 11 | [プリンの日](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%81%ae%e6%97%a5) | N/A |
-| 12 | [ベムスター](http://twitter.com/search?q=%e3%83%99%e3%83%a0%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
-| 13 | [横歩取り](http://twitter.com/search?q=%e6%a8%aa%e6%ad%a9%e5%8f%96%e3%82%8a) | N/A |
-| 14 | [オッケーカフ](http://twitter.com/search?q=%e3%82%aa%e3%83%83%e3%82%b1%e3%83%bc%e3%82%ab%e3%83%95) | N/A |
-| 15 | [セカライ](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%a9%e3%82%a4) | セカライ is a Japanese word that means "forever". It is often used to express a strong feeling of love or commitment. |
-| 16 | [マスクス](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e3%82%b9) | N/A |
-| 17 | [ロシア独自制裁](http://twitter.com/search?q=%e3%83%ad%e3%82%b7%e3%82%a2%e7%8b%ac%e8%87%aa%e5%88%b6%e8%a3%81) | N/A |
-| 18 | [第400回](http://twitter.com/search?q=%e7%ac%ac400%e5%9b%9e) | N/A |
-| 19 | [ドラマ班](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e7%8f%ad) | N/A |
-| 20 | [恋愛力の低下](http://twitter.com/search?q=%e6%81%8b%e6%84%9b%e5%8a%9b%e3%81%ae%e4%bd%8e%e4%b8%8b) | N/A |
-| 21 | [CL愛知](http://twitter.com/search?q=CL%e6%84%9b%e7%9f%a5) | N/A |
-| 22 | [ヨドバシ梅田](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%83%90%e3%82%b7%e6%a2%85%e7%94%b0) | N/A |
-| 23 | [生田アナ](http://twitter.com/search?q=%e7%94%9f%e7%94%b0%e3%82%a2%e3%83%8a) | N/A |
-| 24 | [エルデンリング1周年](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%87%e3%83%b3%e3%83%aa%e3%83%b3%e3%82%b01%e5%91%a8%e5%b9%b4) | N/A |
-| 25 | [ホーム開幕戦](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e9%96%8b%e5%b9%95%e6%88%a6) | ホーム開幕戦 is a Japanese phrase that translates to "home opener" in English. It is used to refer to the first game of a season that is played at the team's home stadium. |
-| 26 | [のぞみグリーン車2席](http://twitter.com/search?q=%e3%81%ae%e3%81%9e%e3%81%bf%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%b3%e8%bb%8a2%e5%b8%ad) | N/A |
-| 27 | [ひざ関節の日](http://twitter.com/search?q=%e3%81%b2%e3%81%96%e9%96%a2%e7%af%80%e3%81%ae%e6%97%a5) | N/A |
-| 28 | [少子化の要因](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e3%81%ae%e8%a6%81%e5%9b%a0) | N/A |
-| 29 | [ホウエンツアー](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%a8%e3%83%b3%e3%83%84%e3%82%a2%e3%83%bc) | N/A |
-| 30 | [上級メンヘラ](http://twitter.com/search?q=%e4%b8%8a%e7%b4%9a%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9) | N/A |
-| 31 | [メンヘラ度20](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9%e5%ba%a620) | N/A |
-| 32 | [二次試験](http://twitter.com/search?q=%e4%ba%8c%e6%ac%a1%e8%a9%a6%e9%a8%93) | N/A |
-| 33 | [ヤンデレ度20](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e5%ba%a620) | N/A |
-| 34 | [麻婆豆腐の素](http://twitter.com/search?q=%e9%ba%bb%e5%a9%86%e8%b1%86%e8%85%90%e3%81%ae%e7%b4%a0) | N/A |
-| 35 | [メンヘラちゃん](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 36 | [上級ヤンデレ](http://twitter.com/search?q=%e4%b8%8a%e7%b4%9a%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac) | N/A |
-| 37 | [生粋のヤンデレ](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac) | N/A |
-| 38 | [超ド級のヤンデレ](http://twitter.com/search?q=%e8%b6%85%e3%83%89%e7%b4%9a%e3%81%ae%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac) | N/A |
-| 39 | [ヤンデレちゃん](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 40 | [ヤンデレ度100](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e5%ba%a6100) | N/A |
-| 41 | [うちわケース](http://twitter.com/search?q=%e3%81%86%e3%81%a1%e3%82%8f%e3%82%b1%e3%83%bc%e3%82%b9) | うちわケース (uchiwa kēsu) is a type of Japanese fan case. It is a small, cylindrical container made of wood or plastic that is used to store and protect folding fans. The word "uchiwa" means fan in Japanese, and "kēsu" means case. In English, it can be translated as "fan case". |
-| 42 | [自民の三重県議](http://twitter.com/search?q=%e8%87%aa%e6%b0%91%e3%81%ae%e4%b8%89%e9%87%8d%e7%9c%8c%e8%ad%b0) | N/A |
-| 43 | [超ド級のメンヘラ](http://twitter.com/search?q=%e8%b6%85%e3%83%89%e7%b4%9a%e3%81%ae%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9) | N/A |
-| 44 | [最後の勇者](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e5%8b%87%e8%80%85) | N/A |
-| 45 | [夕刊紙の日](http://twitter.com/search?q=%e5%a4%95%e5%88%8a%e7%b4%99%e3%81%ae%e6%97%a5) | N/A |
-| 46 | [生粋のメンヘラ](http://twitter.com/search?q=%e7%94%9f%e7%b2%8b%e3%81%ae%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9) | N/A |
-| 47 | [アクリルチャーム](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%83%aa%e3%83%ab%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0) | N/A |
-| 48 | [送達の郵便法違反](http://twitter.com/search?q=%e9%80%81%e9%81%94%e3%81%ae%e9%83%b5%e4%be%bf%e6%b3%95%e9%81%95%e5%8f%8d) | N/A |
-| 49 | [折田先生](http://twitter.com/search?q=%e6%8a%98%e7%94%b0%e5%85%88%e7%94%9f) | N/A |
-| 50 | [ホワベイ](http://twitter.com/search?q=%e3%83%9b%e3%83%af%e3%83%99%e3%82%a4) | N/A |
+| 12 | [セカライ](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%a9%e3%82%a4) | セカライ is a Japanese word that means "forever". It is often used to express a strong feeling of love or commitment. |
+| 13 | [グッズ列](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e5%88%97) | グッズ列 (Guzzu retsu) is a Japanese term that refers to a line of merchandise, usually related to a particular event or product. In English, it can be translated as "merchandise line" or "merchandise queue". |
+| 14 | [ネヴァリア](http://twitter.com/search?q=%e3%83%8d%e3%83%b4%e3%82%a1%e3%83%aa%e3%82%a2) | N/A |
+| 15 | [のぞみグリーン車2席](http://twitter.com/search?q=%e3%81%ae%e3%81%9e%e3%81%bf%e3%82%b0%e3%83%aa%e3%83%bc%e3%83%b3%e8%bb%8a2%e5%b8%ad) | N/A |
+| 16 | [ロシア独自制裁](http://twitter.com/search?q=%e3%83%ad%e3%82%b7%e3%82%a2%e7%8b%ac%e8%87%aa%e5%88%b6%e8%a3%81) | N/A |
+| 17 | [最後の勇者](http://twitter.com/search?q=%e6%9c%80%e5%be%8c%e3%81%ae%e5%8b%87%e8%80%85) | N/A |
+| 18 | [小倉1R](http://twitter.com/search?q=%e5%b0%8f%e5%80%891R) | N/A |
+| 19 | [キープスマイリング](http://twitter.com/search?q=%e3%82%ad%e3%83%bc%e3%83%97%e3%82%b9%e3%83%9e%e3%82%a4%e3%83%aa%e3%83%b3%e3%82%b0) | N/A |
+| 20 | [キア隊長](http://twitter.com/search?q=%e3%82%ad%e3%82%a2%e9%9a%8a%e9%95%b7) | N/A |
+| 21 | [土曜出勤](http://twitter.com/search?q=%e5%9c%9f%e6%9b%9c%e5%87%ba%e5%8b%a4) | N/A |
+| 22 | [Ice Crystal](http://twitter.com/search?q=Ice+Crystal) | N/A |
+| 23 | [🥦くじ](http://twitter.com/search?q=%f0%9f%a5%a6%e3%81%8f%e3%81%98) | N/A |
+| 24 | [CL愛知](http://twitter.com/search?q=CL%e6%84%9b%e7%9f%a5) | N/A |
+| 25 | [ホウエンツアー](http://twitter.com/search?q=%e3%83%9b%e3%82%a6%e3%82%a8%e3%83%b3%e3%83%84%e3%82%a2%e3%83%bc) | N/A |
+| 26 | [マスクス](http://twitter.com/search?q=%e3%83%9e%e3%82%b9%e3%82%af%e3%82%b9) | N/A |
+| 27 | [アベイル](http://twitter.com/search?q=%e3%82%a2%e3%83%99%e3%82%a4%e3%83%ab) | N/A |
+| 28 | [ホーム開幕戦](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e9%96%8b%e5%b9%95%e6%88%a6) | ホーム開幕戦 is a Japanese phrase that translates to "home opener" in English. It is used to refer to the first game of a season that is played at the team's home stadium. |
+| 29 | [ウインステイトリー](http://twitter.com/search?q=%e3%82%a6%e3%82%a4%e3%83%b3%e3%82%b9%e3%83%86%e3%82%a4%e3%83%88%e3%83%aa%e3%83%bc) | N/A |
+| 30 | [ベムスター](http://twitter.com/search?q=%e3%83%99%e3%83%a0%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 31 | [ヨドバシ梅田](http://twitter.com/search?q=%e3%83%a8%e3%83%89%e3%83%90%e3%82%b7%e6%a2%85%e7%94%b0) | N/A |
+| 32 | [レースライブ](http://twitter.com/search?q=%e3%83%ac%e3%83%bc%e3%82%b9%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 33 | [アクリルチャーム](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%83%aa%e3%83%ab%e3%83%81%e3%83%a3%e3%83%bc%e3%83%a0) | N/A |
+| 34 | [アクチャ](http://twitter.com/search?q=%e3%82%a2%e3%82%af%e3%83%81%e3%83%a3) | N/A |
+| 35 | [エルデンリング1周年](http://twitter.com/search?q=%e3%82%a8%e3%83%ab%e3%83%87%e3%83%b3%e3%83%aa%e3%83%b3%e3%82%b01%e5%91%a8%e5%b9%b4) | N/A |
+| 36 | [恋愛力の低下](http://twitter.com/search?q=%e6%81%8b%e6%84%9b%e5%8a%9b%e3%81%ae%e4%bd%8e%e4%b8%8b) | N/A |
+| 37 | [タガノアレハンドラ](http://twitter.com/search?q=%e3%82%bf%e3%82%ac%e3%83%8e%e3%82%a2%e3%83%ac%e3%83%8f%e3%83%b3%e3%83%89%e3%83%a9) | N/A |
+| 38 | [飛車交換](http://twitter.com/search?q=%e9%a3%9b%e8%bb%8a%e4%ba%a4%e6%8f%9b) | N/A |
+| 39 | [ゼットさん](http://twitter.com/search?q=%e3%82%bc%e3%83%83%e3%83%88%e3%81%95%e3%82%93) | ゼットさん is a Japanese nickname for the character Zet from the manga series, Kinnikuman. It is a combination of the words "Zetto" (the Japanese name for Zet) and "san," which is an honorific suffix used to show respect. In English, it would be translated as "Mr. Zet." |
+| 40 | [イツモハラペコ](http://twitter.com/search?q=%e3%82%a4%e3%83%84%e3%83%a2%e3%83%8f%e3%83%a9%e3%83%9a%e3%82%b3) | N/A |
+| 41 | [ワールドツアー](http://twitter.com/search?q=%e3%83%af%e3%83%bc%e3%83%ab%e3%83%89%e3%83%84%e3%82%a2%e3%83%bc) | N/A |
+| 42 | [少子化の要因](http://twitter.com/search?q=%e5%b0%91%e5%ad%90%e5%8c%96%e3%81%ae%e8%a6%81%e5%9b%a0) | N/A |
+| 43 | [小倉2R](http://twitter.com/search?q=%e5%b0%8f%e5%80%892R) | N/A |
+| 44 | [エンプレスペイ](http://twitter.com/search?q=%e3%82%a8%e3%83%b3%e3%83%97%e3%83%ac%e3%82%b9%e3%83%9a%e3%82%a4) | N/A |
+| 45 | [阪神1R](http://twitter.com/search?q=%e9%98%aa%e7%a5%9e1R) | N/A |
+| 46 | [G7オンライン会議](http://twitter.com/search?q=G7%e3%82%aa%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%b3%e4%bc%9a%e8%ad%b0) | N/A |
+| 47 | [ヘアパーツ](http://twitter.com/search?q=%e3%83%98%e3%82%a2%e3%83%91%e3%83%bc%e3%83%84) | N/A |
+| 48 | [ジット団](http://twitter.com/search?q=%e3%82%b8%e3%83%83%e3%83%88%e5%9b%a3) | N/A |
+| 49 | [中山2R](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b12R) | N/A |
+| 50 | [第400回](http://twitter.com/search?q=%e7%ac%ac400%e5%9b%9e) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montpellier
 
-📆 Last Updated: `2023-02-25 00:28:24 UTC`
+📆 Last Updated: `2023-02-25 01:44:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,51 +17,37 @@ This is top 50 for [France](</France>)
 | ------- | ------------ | ------------ |
 | 1 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
 | 2 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
-| 3 | [#LOSCSB29](http://twitter.com/search?q=%23LOSCSB29) | N/A |
-| 4 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
+| 3 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
+| 4 | [#LOSCSB29](http://twitter.com/search?q=%23LOSCSB29) | N/A |
 | 5 | [La Nuit du 12](http://twitter.com/search?q=La+Nuit+du+12) | N/A |
-| 6 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
-| 7 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 8 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
-| 9 | [Benoît Magimel](http://twitter.com/search?q=Beno%c3%aet+Magimel) | N/A |
-| 10 | [Dominik Moll](http://twitter.com/search?q=Dominik+Moll) | N/A |
-| 11 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
-| 12 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
-| 13 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
-| 14 | [Alice Diop](http://twitter.com/search?q=Alice+Diop) | N/A |
-| 15 | [Pacifiction](http://twitter.com/search?q=Pacifiction) | N/A |
-| 16 | [Revoir Paris](http://twitter.com/search?q=Revoir+Paris) | N/A |
-| 17 | [Bouli Lanners](http://twitter.com/search?q=Bouli+Lanners) | N/A |
-| 18 | [Eric Roy](http://twitter.com/search?q=Eric+Roy) | N/A |
-| 19 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
-| 20 | [Louis Garrel](http://twitter.com/search?q=Louis+Garrel) | N/A |
-| 21 | [Alex Lutz](http://twitter.com/search?q=Alex+Lutz) | N/A |
-| 22 | [Noémie Merlant](http://twitter.com/search?q=No%c3%a9mie+Merlant) | N/A |
-| 23 | [Alien 3](http://twitter.com/search?q=Alien+3) | N/A |
-| 24 | [Bastien Bouillon](http://twitter.com/search?q=Bastien+Bouillon) | N/A |
-| 25 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
-| 26 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
-| 27 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
-| 28 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
-| 29 | [Nisqy](http://twitter.com/search?q=Nisqy) | N/A |
-| 30 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 31 | [Godard](http://twitter.com/search?q=Godard) | N/A |
-| 32 | [François Civil](http://twitter.com/search?q=Fran%c3%a7ois+Civil) | N/A |
-| 33 | [L'Innocent](http://twitter.com/search?q=L%27Innocent) | N/A |
-| 34 | [Diacre](http://twitter.com/search?q=Diacre) | N/A |
-| 35 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
-| 36 | [Jamel](http://twitter.com/search?q=Jamel) | N/A |
-| 37 | [Feldup](http://twitter.com/search?q=Feldup) | N/A |
-| 38 | [Laure Calamy](http://twitter.com/search?q=Laure+Calamy) | N/A |
-| 39 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 40 | [Polanski](http://twitter.com/search?q=Polanski) | N/A |
-| 41 | [Top Gun](http://twitter.com/search?q=Top+Gun) | Top Gun is a 1986 American action drama film directed by Tony Scott and produced by Don Simpson and Jerry Bruckheimer. The film stars Tom Cruise, Kelly McGillis, Val Kilmer, Anthony Edwards, and Tom Skerritt. The title of the film refers to the nickname of the United States Navy's Fighter Weapons School, which is based at Naval Air Station Miramar in San Diego, California. The film follows a group of fighter pilots as they compete to be the best in their class. The phrase "Top Gun" has become a popular slang term for excellence or superiority. |
-| 42 | [Auteuil](http://twitter.com/search?q=Auteuil) | N/A |
-| 43 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
-| 44 | [#VisualSuspect](http://twitter.com/search?q=%23VisualSuspect) | N/A |
-| 45 | [#Taratata](http://twitter.com/search?q=%23Taratata) | N/A |
-| 46 | [#FrandroidOffreMoi](http://twitter.com/search?q=%23FrandroidOffreMoi) | N/A |
-| 47 | [#ProD2](http://twitter.com/search?q=%23ProD2) | N/A |
+| 6 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 7 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
+| 8 | [Brest](http://twitter.com/search?q=Brest) | N/A |
+| 9 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 10 | [Benoît Magimel](http://twitter.com/search?q=Beno%c3%aet+Magimel) | N/A |
+| 11 | [Dominik Moll](http://twitter.com/search?q=Dominik+Moll) | N/A |
+| 12 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
+| 13 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 14 | [Pacifiction](http://twitter.com/search?q=Pacifiction) | N/A |
+| 15 | [Revoir Paris](http://twitter.com/search?q=Revoir+Paris) | N/A |
+| 16 | [Bouli Lanners](http://twitter.com/search?q=Bouli+Lanners) | N/A |
+| 17 | [Alice Diop](http://twitter.com/search?q=Alice+Diop) | N/A |
+| 18 | [Louis Garrel](http://twitter.com/search?q=Louis+Garrel) | N/A |
+| 19 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
+| 20 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
+| 21 | [Noémie Merlant](http://twitter.com/search?q=No%c3%a9mie+Merlant) | N/A |
+| 22 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
+| 23 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
+| 24 | [Nisqy](http://twitter.com/search?q=Nisqy) | N/A |
+| 25 | [Diacre](http://twitter.com/search?q=Diacre) | N/A |
+| 26 | [Bastien Bouillon](http://twitter.com/search?q=Bastien+Bouillon) | N/A |
+| 27 | [François Civil](http://twitter.com/search?q=Fran%c3%a7ois+Civil) | N/A |
+| 28 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
+| 29 | [Jamel](http://twitter.com/search?q=Jamel) | N/A |
+| 30 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 31 | [Polanski](http://twitter.com/search?q=Polanski) | N/A |
+| 32 | [#Taratata](http://twitter.com/search?q=%23Taratata) | N/A |
+| 33 | [#FrandroidOffreMoi](http://twitter.com/search?q=%23FrandroidOffreMoi) | N/A |
 
 
 

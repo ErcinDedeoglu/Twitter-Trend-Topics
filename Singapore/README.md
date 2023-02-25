@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Singapore
 
-📆 Last Updated: `2023-02-25 00:29:06 UTC`
+📆 Last Updated: `2023-02-25 01:44:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Singapore
 | 1 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
 | 2 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
 | 3 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 4 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 5 | [#XINinParis](http://twitter.com/search?q=%23XINinParis) | N/A |
-| 6 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
-| 7 | [#우주의_정원에서_우정을_만난_건_7_럭키야](http://twitter.com/search?q=%23%ec%9a%b0%ec%a3%bc%ec%9d%98_%ec%a0%95%ec%9b%90%ec%97%90%ec%84%9c_%ec%9a%b0%ec%a0%95%ec%9d%84_%eb%a7%8c%eb%82%9c_%ea%b1%b4_7_%eb%9f%ad%ed%82%a4%ec%95%bc) | N/A |
+| 4 | [#GGMU](http://twitter.com/search?q=%23GGMU) | #GGMU is an acronym for the phrase “Glory, Glory, Manchester United”. It is a chant used by Manchester United fans to show their support for the team. |
+| 5 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 6 | [#우주의_정원에서_우정을_만난_건_7_럭키야](http://twitter.com/search?q=%23%ec%9a%b0%ec%a3%bc%ec%9d%98_%ec%a0%95%ec%9b%90%ec%97%90%ec%84%9c_%ec%9a%b0%ec%a0%95%ec%9d%84_%eb%a7%8c%eb%82%9c_%ea%b1%b4_7_%eb%9f%ad%ed%82%a4%ec%95%bc) | N/A |
+| 7 | [#XINLiu](http://twitter.com/search?q=%23XINLiu) | N/A |
 | 8 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 9 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 10 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 11 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 12 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 10 | [WELCOME TO PARIS XIN](http://twitter.com/search?q=WELCOME+TO+PARIS+XIN) | N/A |
+| 11 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 12 | [mnet](http://twitter.com/search?q=mnet) | N/A |
 | 13 | [Martinez](http://twitter.com/search?q=Martinez) | Martinez is a Spanish surname derived from the personal name Martin. It is a common surname in Spain, Latin America, and the Philippines. In English, it means "son of Martin". |
 | 14 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
-| 15 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
-| 16 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 17 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
-| 18 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 19 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 20 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 21 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 22 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
-| 23 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 24 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 15 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
+| 16 | [WJSN](http://twitter.com/search?q=WJSN) | N/A |
+| 17 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 18 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 19 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 20 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 21 | [Rashford](http://twitter.com/search?q=Rashford) | Rashford is a surname of English origin. It is derived from the Old English words "rasce" (rush) and "ford" (ford). The name refers to someone who lived near a ford in a rushy area. |
+| 22 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 23 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 24 | [renjun](http://twitter.com/search?q=renjun) | Renjun is a Korean given name, derived from the Chinese characters for "person" and "gentle". It is typically given to boys and can be translated to mean "gentle person". |
 | 25 | [daeul](http://twitter.com/search?q=daeul) | N/A |
-| 26 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 27 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
-| 28 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
-| 29 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
-| 30 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
-| 31 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 32 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 33 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 34 | [iKON](http://twitter.com/search?q=iKON) | N/A |
-| 35 | [suga](http://twitter.com/search?q=suga) | N/A |
-| 36 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
-| 37 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
-| 38 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 39 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
-| 40 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
-| 41 | [taeil](http://twitter.com/search?q=taeil) | N/A |
-| 42 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 26 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 27 | [Joonie](http://twitter.com/search?q=Joonie) | N/A |
+| 28 | [Ten Hag](http://twitter.com/search?q=Ten+Hag) | Ten Hag is a Dutch surname. It is derived from the Dutch words "ten" (meaning "at") and "hag" (meaning "hedge"). The literal translation of Ten Hag is "at the hedge". |
+| 29 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 30 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 31 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 32 | [iKON](http://twitter.com/search?q=iKON) | N/A |
+| 33 | [suga](http://twitter.com/search?q=suga) | N/A |
+| 34 | [Ricky](http://twitter.com/search?q=Ricky) | N/A |
+| 35 | [Lakers](http://twitter.com/search?q=Lakers) | Lakers is a nickname for the Los Angeles Lakers, a professional basketball team based in Los Angeles, California. The team plays in the National Basketball Association (NBA). The Lakers are one of the most successful and popular teams in the NBA, having won 16 championships since their founding in 1947. |
+| 36 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 37 | [Cheers](http://twitter.com/search?q=Cheers) | N/A |
+| 38 | [Abel](http://twitter.com/search?q=Abel) | Abel is a Hebrew name meaning "breath, vapor, or son". It is also the name of the second son of Adam and Eve in the Bible. |
+| 39 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 40 | [taeil](http://twitter.com/search?q=taeil) | N/A |
+| 41 | [Tablo](http://twitter.com/search?q=Tablo) | N/A |
+| 42 | [Glenn](http://twitter.com/search?q=Glenn) | Glenn is a masculine given name of Scottish origin, derived from the Gaelic word for "valley". It is also used as a surname. In English, it is usually pronounced with a hard "G" sound. |
 | 43 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 44 | [Hindu](http://twitter.com/search?q=Hindu) | N/A |
-| 45 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
-| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 47 | [MILAN FASHION WEEK KANAWUT](http://twitter.com/search?q=MILAN+FASHION+WEEK+KANAWUT) | N/A |
-| 48 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 49 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
-| 50 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 44 | [Syria](http://twitter.com/search?q=Syria) | Syria is a country in the Middle East. Its official name is the Syrian Arab Republic. It is bordered by Turkey, Iraq, Jordan, Israel, and Lebanon. Syria has a population of over 22 million people and its capital city is Damascus. The official language of Syria is Arabic. |
+| 45 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 46 | [MILAN FASHION WEEK KANAWUT](http://twitter.com/search?q=MILAN+FASHION+WEEK+KANAWUT) | N/A |
+| 47 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
+| 48 | [Like Crazy](http://twitter.com/search?q=Like+Crazy) | N/A |
+| 49 | [Hannah](http://twitter.com/search?q=Hannah) | Hannah is a feminine given name of Hebrew origin, meaning "grace" or "favor". |
+| 50 | [baekhyun](http://twitter.com/search?q=baekhyun) | Baekhyun is a Korean given name, derived from the Chinese characters 白贤. It is composed of two characters: "bae" meaning "white" and "hyun" meaning "virtuous". In English, it can be translated to mean "noble and virtuous". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mendoza
 
-📆 Last Updated: `2023-02-25 00:28:18 UTC`
+📆 Last Updated: `2023-02-25 01:43:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,47 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
+| 1 | [LA PRIMONETA BANCA A CONTI](http://twitter.com/search?q=LA+PRIMONETA+BANCA+A+CONTI) | N/A |
 | 2 | [#QuieroVotarACristina](http://twitter.com/search?q=%23QuieroVotarACristina) | N/A |
-| 3 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 4 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 5 | [Maratea](http://twitter.com/search?q=Maratea) | N/A |
-| 6 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 7 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 8 | [#ArrancaGranDT](http://twitter.com/search?q=%23ArrancaGranDT) | N/A |
-| 9 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 10 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 11 | [Indio](http://twitter.com/search?q=Indio) | N/A |
-| 12 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 13 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 14 | [#BuenViernes](http://twitter.com/search?q=%23BuenViernes) | N/A |
-| 15 | [#LaliEnVelezSOLDOUT](http://twitter.com/search?q=%23LaliEnVelezSOLDOUT) | N/A |
-| 16 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 17 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 18 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 19 | [Florencia](http://twitter.com/search?q=Florencia) | N/A |
-| 20 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 21 | [#integracionharrie](http://twitter.com/search?q=%23integracionharrie) | N/A |
-| 22 | [Horacio](http://twitter.com/search?q=Horacio) | Horacio is a Spanish name derived from the Latin name Horatius, which means "timekeeper". It is also a variant of the Latin name Horatius, which means "hour". |
-| 23 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
-| 24 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 25 | [Maslaton](http://twitter.com/search?q=Maslaton) | N/A |
-| 26 | [Rodo al 9009](http://twitter.com/search?q=Rodo+al+9009) | N/A |
-| 27 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 28 | [Bullrich](http://twitter.com/search?q=Bullrich) | N/A |
-| 29 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 30 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
-| 31 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
-| 32 | [Pato](http://twitter.com/search?q=Pato) | N/A |
-| 33 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 34 | [RAHDEN AMOR PIRATA](http://twitter.com/search?q=RAHDEN+AMOR+PIRATA) | N/A |
-| 35 | [Grabois](http://twitter.com/search?q=Grabois) | N/A |
-| 36 | [Hace 77](http://twitter.com/search?q=Hace+77) | N/A |
-| 37 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 38 | [D'Alessandro](http://twitter.com/search?q=D%27Alessandro) | N/A |
-| 39 | [Gladys](http://twitter.com/search?q=Gladys) | N/A |
-| 40 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 41 | [Antártida](http://twitter.com/search?q=Ant%c3%a1rtida) | N/A |
-| 42 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 43 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
-| 44 | [Toyota](http://twitter.com/search?q=Toyota) | N/A |
-| 45 | [Licha](http://twitter.com/search?q=Licha) | Licha is a Spanish word that means "beautiful" or "pretty". It is often used to describe someone's physical appearance, but can also be used to describe something that is aesthetically pleasing. |
-| 46 | [Gonza](http://twitter.com/search?q=Gonza) | N/A |
-| 47 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
-| 48 | [Lisandro](http://twitter.com/search?q=Lisandro) | Lisandro is a Spanish name derived from the Greek name Alexander, which means "defender of men". It is also a variant of the Latin name Isidore, which means "gift of Isis". |
-| 49 | [Grieta](http://twitter.com/search?q=Grieta) | N/A |
+| 3 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 4 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
+| 5 | [De Paul](http://twitter.com/search?q=De+Paul) | N/A |
+| 6 | [#selfiefortini](http://twitter.com/search?q=%23selfiefortini) | N/A |
+| 7 | [Losada](http://twitter.com/search?q=Losada) | N/A |
+| 8 | [NACHO TIENE AGUANTE](http://twitter.com/search?q=NACHO+TIENE+AGUANTE) | N/A |
+| 9 | [Juanma](http://twitter.com/search?q=Juanma) | N/A |
+| 10 | [Malcorra](http://twitter.com/search?q=Malcorra) | N/A |
+| 11 | [#Los8EscalonesDelMillon](http://twitter.com/search?q=%23Los8EscalonesDelMillon) | N/A |
+| 12 | [Infantino](http://twitter.com/search?q=Infantino) | Infantino is a Spanish word meaning "little baby". It is often used as an affectionate term for a young child. |
+| 13 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 14 | [#Belgrano](http://twitter.com/search?q=%23Belgrano) | N/A |
+| 15 | [#MiFotoBang](http://twitter.com/search?q=%23MiFotoBang) | N/A |
+| 16 | [Gran DT](http://twitter.com/search?q=Gran+DT) | N/A |
+| 17 | [Gonza](http://twitter.com/search?q=Gonza) | N/A |
+| 18 | [Acomodacho](http://twitter.com/search?q=Acomodacho) | N/A |
+| 19 | [Blanco](http://twitter.com/search?q=Blanco) | Blanco is a Spanish word meaning "white" or "blank". It is often used to describe a white color, such as the color of paper or a wall. It can also be used to refer to something that is empty or without content. |
+| 20 | [Maratea](http://twitter.com/search?q=Maratea) | N/A |
+| 21 | [JUSTICIA PARA NEGRO](http://twitter.com/search?q=JUSTICIA+PARA+NEGRO) | N/A |
+| 22 | [Surinam](http://twitter.com/search?q=Surinam) | N/A |
+| 23 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 24 | [Arshak](http://twitter.com/search?q=Arshak) | N/A |
+| 25 | [Hace 77](http://twitter.com/search?q=Hace+77) | N/A |
+| 26 | [Manotea](http://twitter.com/search?q=Manotea) | N/A |
+| 27 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 28 | [Máximo Kirchner](http://twitter.com/search?q=M%c3%a1ximo+Kirchner) | N/A |
+| 29 | [Kempes](http://twitter.com/search?q=Kempes) | N/A |
+| 30 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 31 | [La Patria](http://twitter.com/search?q=La+Patria) | N/A |
+| 32 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 33 | [OTAN](http://twitter.com/search?q=OTAN) | N/A |
+| 34 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 35 | [Maslaton](http://twitter.com/search?q=Maslaton) | N/A |
+| 36 | [RODO AL 9009](http://twitter.com/search?q=RODO+AL+9009) | N/A |
+| 37 | [Coto](http://twitter.com/search?q=Coto) | N/A |
+| 38 | [#GodoyCruz](http://twitter.com/search?q=%23GodoyCruz) | N/A |
+| 39 | [#RosarioCentral](http://twitter.com/search?q=%23RosarioCentral) | N/A |
+| 40 | [#AllBoys](http://twitter.com/search?q=%23AllBoys) | N/A |
+| 41 | [#ElHotelDeLosFamosos](http://twitter.com/search?q=%23ElHotelDeLosFamosos) | N/A |
 
 
 

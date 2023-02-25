@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seattle
 
-📆 Last Updated: `2023-02-25 00:28:59 UTC`
+📆 Last Updated: `2023-02-25 01:44:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Christian](http://twitter.com/search?q=Christian) | Christian is an adjective used to describe someone or something related to the religion of Christianity. Christianity is a monotheistic religion based on the teachings of Jesus Christ, who is believed to be the Son of God. It is one of the world's largest religions, with over 2 billion followers worldwide. |
-| 2 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
-| 3 | [Seahawks](http://twitter.com/search?q=Seahawks) | Seahawks is the name of the National Football League (NFL) team based in Seattle, Washington. The team was founded in 1976 and has won one Super Bowl championship. The name "Seahawks" is derived from the region's maritime culture and refers to the osprey, a large fish-eating bird of prey that is native to the area. |
-| 4 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 5 | [Ralph Nader](http://twitter.com/search?q=Ralph+Nader) | N/A |
-| 6 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 7 | [#mnwildfirst](http://twitter.com/search?q=%23mnwildfirst) | N/A |
-| 8 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
-| 9 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
-| 10 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
-| 11 | [#OddWaysToGetAttention](http://twitter.com/search?q=%23OddWaysToGetAttention) | N/A |
-| 12 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 13 | [#DavisGarcia](http://twitter.com/search?q=%23DavisGarcia) | #DavisGarcia is a hashtag used to refer to the professional tennis players, Bob and Mike Bryan, who are also known as the Bryan Brothers. The hashtag is a combination of their last names, Davis and Garcia. |
-| 14 | [Optic](http://twitter.com/search?q=Optic) | N/A |
-| 15 | [Jackson Merrill](http://twitter.com/search?q=Jackson+Merrill) | N/A |
-| 16 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 17 | [Mitchell Robinson](http://twitter.com/search?q=Mitchell+Robinson) | Mitchell Robinson is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected in the second round of the 2018 NBA draft. His name is derived from his father's middle name, Mitchell. |
-| 18 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 19 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 20 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
-| 21 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 22 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 23 | [RSNs](http://twitter.com/search?q=RSNs) | N/A |
-| 24 | [Tony Vitello](http://twitter.com/search?q=Tony+Vitello) | N/A |
-| 25 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 26 | [Rose Bowl](http://twitter.com/search?q=Rose+Bowl) | The Rose Bowl is an annual American college football bowl game played in Pasadena, California. It is one of the oldest and most prestigious bowl games in the country, and is often referred to as "The Granddaddy of Them All". The game typically features a matchup between two of the top teams from the Pac-12 and Big Ten conferences. The winner of the game is awarded the Rose Bowl trophy. |
-| 27 | [Corvair](http://twitter.com/search?q=Corvair) | N/A |
-| 28 | [Dashy](http://twitter.com/search?q=Dashy) | Dashy is a slang term used to describe someone or something that is cool, stylish, or fashionable. It can also be used to describe someone who is confident and outgoing. |
-| 29 | [Same Here](http://twitter.com/search?q=Same+Here) | N/A |
-| 30 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
-| 31 | [Ryan Garcia](http://twitter.com/search?q=Ryan+Garcia) | N/A |
-| 32 | [TD Jakes](http://twitter.com/search?q=TD+Jakes) | N/A |
-| 33 | [Ghosty](http://twitter.com/search?q=Ghosty) | N/A |
-| 34 | [Spin Bout U](http://twitter.com/search?q=Spin+Bout+U) | N/A |
-| 35 | [Ice Age](http://twitter.com/search?q=Ice+Age) | N/A |
-| 36 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 37 | [Go Texan Day](http://twitter.com/search?q=Go+Texan+Day) | N/A |
-| 38 | [Nintendo Switch](http://twitter.com/search?q=Nintendo+Switch) | N/A |
-| 39 | [The Shade Room](http://twitter.com/search?q=The+Shade+Room) | N/A |
-| 40 | [Roberta Flack](http://twitter.com/search?q=Roberta+Flack) | N/A |
-| 41 | [Manny Machado](http://twitter.com/search?q=Manny+Machado) | N/A |
-| 42 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 43 | [Murdaugh](http://twitter.com/search?q=Murdaugh) | N/A |
-| 44 | [Illey](http://twitter.com/search?q=Illey) | N/A |
-| 45 | [Series S](http://twitter.com/search?q=Series+S) | N/A |
-| 46 | [Cesspool](http://twitter.com/search?q=Cesspool) | N/A |
-| 47 | [Porsha](http://twitter.com/search?q=Porsha) | N/A |
-| 48 | [Mike Ford](http://twitter.com/search?q=Mike+Ford) | N/A |
-| 49 | [Grant Hill](http://twitter.com/search?q=Grant+Hill) | N/A |
-| 50 | [Dayton](http://twitter.com/search?q=Dayton) | Dayton is a city in the U.S. state of Ohio. It is the county seat of Montgomery County and the sixth-largest city in the state. The meaning of Dayton in English is "valley town". |
+| 2 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 3 | [Mariners](http://twitter.com/search?q=Mariners) | N/A |
+| 4 | [Wilson](http://twitter.com/search?q=Wilson) | N/A |
+| 5 | [Seahawks](http://twitter.com/search?q=Seahawks) | Seahawks is the name of the National Football League (NFL) team based in Seattle, Washington. The team was founded in 1976 and has won one Super Bowl championship. The name "Seahawks" is derived from the region's maritime culture and refers to the osprey, a large fish-eating bird of prey that is native to the area. |
+| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 8 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 9 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 10 | [Ralph Nader](http://twitter.com/search?q=Ralph+Nader) | N/A |
+| 11 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 12 | [#NoSurrender](http://twitter.com/search?q=%23NoSurrender) | N/A |
+| 13 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
+| 14 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
+| 15 | [Bobby Portis](http://twitter.com/search?q=Bobby+Portis) | N/A |
+| 16 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 17 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 18 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
+| 19 | [#OddWaysToGetAttention](http://twitter.com/search?q=%23OddWaysToGetAttention) | N/A |
+| 20 | [Kofi](http://twitter.com/search?q=Kofi) | Kofi is a unisex name of African origin meaning "born on Friday". It is also a popular name in Ghana, where it is the name of the Akan day of the week for Friday. |
+| 21 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
+| 22 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 23 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 24 | [Zeller](http://twitter.com/search?q=Zeller) | N/A |
+| 25 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 26 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
+| 27 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 28 | [Drew McIntyre](http://twitter.com/search?q=Drew+McIntyre) | Drew McIntyre is a Scottish professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Drew, and his mother's maiden name, McIntyre. He is a two-time WWE Champion and the current WWE Champion. |
+| 29 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
+| 30 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
+| 31 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 32 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
+| 33 | [Imperium](http://twitter.com/search?q=Imperium) | Imperium is a Latin word meaning "power to command" or "absolute power". It is often used to refer to the power of an emperor or other ruler, or to the political and military authority of a state. |
+| 34 | [Strus](http://twitter.com/search?q=Strus) | N/A |
+| 35 | [Madcap Moss](http://twitter.com/search?q=Madcap+Moss) | N/A |
+| 36 | [After 1](http://twitter.com/search?q=After+1) | N/A |
+| 37 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 38 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 39 | [End 1Q](http://twitter.com/search?q=End+1Q) | N/A |
+| 40 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
+| 41 | [Mitchell Robinson](http://twitter.com/search?q=Mitchell+Robinson) | Mitchell Robinson is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected in the second round of the 2018 NBA draft. His name is derived from his father's middle name, Mitchell. |
+| 42 | [TD Jakes](http://twitter.com/search?q=TD+Jakes) | N/A |
+| 43 | [The Hawks](http://twitter.com/search?q=The+Hawks) | N/A |
+| 44 | [Strowman](http://twitter.com/search?q=Strowman) | N/A |
+| 45 | [Optic](http://twitter.com/search?q=Optic) | N/A |
+| 46 | [Friday Night](http://twitter.com/search?q=Friday+Night) | N/A |
+| 47 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 48 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
+| 49 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
+| 50 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
 
 
 
