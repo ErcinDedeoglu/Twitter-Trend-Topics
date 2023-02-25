@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Salvador
 
-📆 Last Updated: `2023-02-25 02:40:54 UTC`
+📆 Last Updated: `2023-02-25 03:20:00 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Brazil](</Brazil>)
 | ------- | ------------ | ------------ |
 | 1 | [UFBA](http://twitter.com/search?q=UFBA) | N/A |
 | 2 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 3 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 4 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 5 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
-| 6 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 7 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 8 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
-| 9 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 10 | [4M DO CORINGA](http://twitter.com/search?q=4M+DO+CORINGA) | N/A |
-| 11 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 12 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 13 | [#GloboReporter](http://twitter.com/search?q=%23GloboReporter) | N/A |
-| 14 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 15 | [#MercadoLivrenoBBB23](http://twitter.com/search?q=%23MercadoLivrenoBBB23) | N/A |
-| 16 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
-| 17 | [GREnal](http://twitter.com/search?q=GREnal) | N/A |
+| 3 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
+| 4 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 5 | [4M DO CORINGA](http://twitter.com/search?q=4M+DO+CORINGA) | N/A |
+| 6 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
+| 7 | [#GloboReporter](http://twitter.com/search?q=%23GloboReporter) | N/A |
+| 8 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 9 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
+| 10 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 11 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 12 | [#MercadoLivrenoBBB23](http://twitter.com/search?q=%23MercadoLivrenoBBB23) | N/A |
+| 13 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 14 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
+| 15 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 16 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 17 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
 | 18 | [Mariely](http://twitter.com/search?q=Mariely) | N/A |
-| 19 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
-| 20 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 21 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
-| 22 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 19 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 20 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 21 | [#festabbb](http://twitter.com/search?q=%23festabbb) | N/A |
+| 22 | [Chelo](http://twitter.com/search?q=Chelo) | N/A |
 | 23 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 24 | [Carol Sampaio](http://twitter.com/search?q=Carol+Sampaio) | N/A |
+| 24 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
 | 25 | [Omelete](http://twitter.com/search?q=Omelete) | N/A |
-| 26 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 27 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
-| 28 | [Gustavinho](http://twitter.com/search?q=Gustavinho) | N/A |
-| 29 | [Big Bang](http://twitter.com/search?q=Big+Bang) | N/A |
-| 30 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 31 | [Leo Dias](http://twitter.com/search?q=Leo+Dias) | N/A |
-| 32 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
-| 33 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
-| 34 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
-| 35 | [Da Silva](http://twitter.com/search?q=Da+Silva) | N/A |
-| 36 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
-| 37 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
+| 26 | [Carol Sampaio](http://twitter.com/search?q=Carol+Sampaio) | N/A |
+| 27 | [Abolição](http://twitter.com/search?q=Aboli%c3%a7%c3%a3o) | N/A |
+| 28 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 29 | [Caneta](http://twitter.com/search?q=Caneta) | N/A |
+| 30 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 31 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 32 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 33 | [Big Bang](http://twitter.com/search?q=Big+Bang) | N/A |
+| 34 | [Casquinha](http://twitter.com/search?q=Casquinha) | N/A |
+| 35 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 36 | [Gustavinho](http://twitter.com/search?q=Gustavinho) | N/A |
+| 37 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
 | 38 | [James Webb](http://twitter.com/search?q=James+Webb) | N/A |
-| 39 | [Chelo](http://twitter.com/search?q=Chelo) | N/A |
-| 40 | [maisa](http://twitter.com/search?q=maisa) | N/A |
-| 41 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
-| 42 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 43 | [Parque Acari](http://twitter.com/search?q=Parque+Acari) | N/A |
-| 44 | [Fame](http://twitter.com/search?q=Fame) | N/A |
-| 45 | [Fernanda Colombo](http://twitter.com/search?q=Fernanda+Colombo) | N/A |
-| 46 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 47 | [TV Alerj](http://twitter.com/search?q=TV+Alerj) | N/A |
-| 48 | [Flesch](http://twitter.com/search?q=Flesch) | N/A |
-| 49 | [Cristiane](http://twitter.com/search?q=Cristiane) | N/A |
-| 50 | [Intendente](http://twitter.com/search?q=Intendente) | N/A |
+| 39 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 40 | [Intendente](http://twitter.com/search?q=Intendente) | N/A |
+| 41 | [Leo Dias](http://twitter.com/search?q=Leo+Dias) | N/A |
+| 42 | [Da Silva](http://twitter.com/search?q=Da+Silva) | N/A |
+| 43 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 44 | [Parque Acari](http://twitter.com/search?q=Parque+Acari) | N/A |
+| 45 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
+| 46 | [Adriel](http://twitter.com/search?q=Adriel) | N/A |
+| 47 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 48 | [Fame](http://twitter.com/search?q=Fame) | N/A |
+| 49 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 50 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
 
 
 

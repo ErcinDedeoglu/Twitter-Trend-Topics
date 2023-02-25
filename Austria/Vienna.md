@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-25 02:40:57 UTC`
+📆 Last Updated: `2023-02-25 03:20:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,40 +20,40 @@ This is top 50 for [Austria](</Austria>)
 | 3 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
 | 4 | [#ASKALU](http://twitter.com/search?q=%23ASKALU) | N/A |
 | 5 | [#mietpreisbremse](http://twitter.com/search?q=%23mietpreisbremse) | N/A |
-| 6 | [kickl](http://twitter.com/search?q=kickl) | N/A |
+| 6 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
 | 7 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
 | 8 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
-| 9 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 10 | [Brandstätter](http://twitter.com/search?q=Brandst%c3%a4tter) | N/A |
-| 11 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
-| 12 | [Hofburg](http://twitter.com/search?q=Hofburg) | N/A |
+| 9 | [Brandstätter](http://twitter.com/search?q=Brandst%c3%a4tter) | N/A |
+| 10 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 11 | [hofburg](http://twitter.com/search?q=hofburg) | N/A |
+| 12 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
 | 13 | [mieten](http://twitter.com/search?q=mieten) | N/A |
 | 14 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 15 | [Podcasts](http://twitter.com/search?q=Podcasts) | N/A |
 | 16 | [Verhandlungstisch](http://twitter.com/search?q=Verhandlungstisch) | N/A |
 | 17 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
 | 18 | [Chantal](http://twitter.com/search?q=Chantal) | N/A |
-| 19 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 19 | [Werte](http://twitter.com/search?q=Werte) | N/A |
 | 20 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
-| 21 | [Werte](http://twitter.com/search?q=Werte) | N/A |
-| 22 | [Menschlichkeit](http://twitter.com/search?q=Menschlichkeit) | N/A |
-| 23 | [Intellekt](http://twitter.com/search?q=Intellekt) | N/A |
-| 24 | [Linz](http://twitter.com/search?q=Linz) | N/A |
-| 25 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
-| 26 | [Sager](http://twitter.com/search?q=Sager) | N/A |
-| 27 | [Verfassungsschutz](http://twitter.com/search?q=Verfassungsschutz) | N/A |
-| 28 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 21 | [Linz](http://twitter.com/search?q=Linz) | N/A |
+| 22 | [menschlichkeit](http://twitter.com/search?q=menschlichkeit) | N/A |
+| 23 | [intellekt](http://twitter.com/search?q=intellekt) | N/A |
+| 24 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 25 | [Sager](http://twitter.com/search?q=Sager) | N/A |
+| 26 | [Verfassungsschutz](http://twitter.com/search?q=Verfassungsschutz) | N/A |
+| 27 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 28 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 29 | [Truppen](http://twitter.com/search?q=Truppen) | N/A |
 | 30 | [Krieg in Europa](http://twitter.com/search?q=Krieg+in+Europa) | N/A |
-| 31 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
-| 32 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
-| 33 | [Demonstranten](http://twitter.com/search?q=Demonstranten) | N/A |
+| 31 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 32 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 33 | [Oooh](http://twitter.com/search?q=Oooh) | N/A |
 | 34 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
-| 35 | [Material](http://twitter.com/search?q=Material) | N/A |
-| 36 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 35 | [Italy](http://twitter.com/search?q=Italy) | N/A |
+| 36 | [Material](http://twitter.com/search?q=Material) | N/A |
 | 37 | [Bures](http://twitter.com/search?q=Bures) | N/A |
 | 38 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 39 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
+| 39 | [Demonstranten](http://twitter.com/search?q=Demonstranten) | N/A |
 | 40 | [Parlament](http://twitter.com/search?q=Parlament) | N/A |
 | 41 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 | 42 | [Immunität](http://twitter.com/search?q=Immunit%c3%a4t) | N/A |
@@ -61,8 +61,8 @@ This is top 50 for [Austria](</Austria>)
 | 44 | [Reichen](http://twitter.com/search?q=Reichen) | N/A |
 | 45 | [Karli](http://twitter.com/search?q=Karli) | N/A |
 | 46 | [Februar 2022](http://twitter.com/search?q=Februar+2022) | N/A |
-| 47 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
-| 48 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 47 | [Anstand](http://twitter.com/search?q=Anstand) | N/A |
+| 48 | [Aggressor](http://twitter.com/search?q=Aggressor) | N/A |
 | 49 | [Stellung](http://twitter.com/search?q=Stellung) | N/A |
 | 50 | [Makler](http://twitter.com/search?q=Makler) | N/A |
 

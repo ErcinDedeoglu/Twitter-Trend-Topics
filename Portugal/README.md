@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Portugal
 
-📆 Last Updated: `2023-02-25 02:41:38 UTC`
+📆 Last Updated: `2023-02-25 03:20:41 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,27 +28,27 @@ This is top 50 for Portugal
 | 11 | [Lula](http://twitter.com/search?q=Lula) | Lula is a nickname for the Brazilian politician Luiz Inácio Lula da Silva, who served as President of Brazil from 2003 to 2011. In English, it is simply a shortened version of his name. |
 | 12 | [Sofia Ribeiro](http://twitter.com/search?q=Sofia+Ribeiro) | N/A |
 | 13 | [Rússia](http://twitter.com/search?q=R%c3%bassia) | N/A |
-| 14 | [Belém](http://twitter.com/search?q=Bel%c3%a9m) | N/A |
-| 15 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
-| 16 | [Sérgio Sousa Pinto](http://twitter.com/search?q=S%c3%a9rgio+Sousa+Pinto) | N/A |
-| 17 | [T-Rex](http://twitter.com/search?q=T-Rex) | N/A |
-| 18 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
+| 14 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
+| 15 | [Sérgio Sousa Pinto](http://twitter.com/search?q=S%c3%a9rgio+Sousa+Pinto) | N/A |
+| 16 | [T-Rex](http://twitter.com/search?q=T-Rex) | N/A |
+| 17 | [quaresma](http://twitter.com/search?q=quaresma) | N/A |
+| 18 | [Belém](http://twitter.com/search?q=Bel%c3%a9m) | N/A |
 | 19 | [#bercomacp](http://twitter.com/search?q=%23bercomacp) | N/A |
-| 20 | [SPORT LISBOA](http://twitter.com/search?q=SPORT+LISBOA) | N/A |
-| 21 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 20 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 21 | [SPORT LISBOA](http://twitter.com/search?q=SPORT+LISBOA) | N/A |
 | 22 | [Liga Europa](http://twitter.com/search?q=Liga+Europa) | N/A |
 | 23 | [lorde](http://twitter.com/search?q=lorde) | N/A |
 | 24 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 25 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
-| 26 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 25 | [Londres](http://twitter.com/search?q=Londres) | N/A |
+| 26 | [Edwards](http://twitter.com/search?q=Edwards) | N/A |
 | 27 | [Luísa Sonza](http://twitter.com/search?q=Lu%c3%adsa+Sonza) | N/A |
 | 28 | [Domingues](http://twitter.com/search?q=Domingues) | N/A |
 | 29 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
 | 30 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 31 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 32 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 33 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 34 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 31 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 32 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 33 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 34 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
 | 35 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
 | 36 | [o otávio](http://twitter.com/search?q=o+ot%c3%a1vio) | N/A |
 | 37 | [pope](http://twitter.com/search?q=pope) | N/A |
@@ -59,7 +59,7 @@ This is top 50 for Portugal
 | 42 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
 | 43 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
 | 44 | [Rui Tavares](http://twitter.com/search?q=Rui+Tavares) | N/A |
-| 45 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 45 | [Bruno Paixão](http://twitter.com/search?q=Bruno+Paix%c3%a3o) | N/A |
 | 46 | [Assembleia da República](http://twitter.com/search?q=Assembleia+da+Rep%c3%bablica) | N/A |
 | 47 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 48 | [Caetana](http://twitter.com/search?q=Caetana) | N/A |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-02-25 02:41:23 UTC`
+📆 Last Updated: `2023-02-25 03:20:27 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,8 +24,8 @@ This is top 50 for [Turkey](</Turkey>)
 | 7 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
 | 8 | [muratileberna evleniyor](http://twitter.com/search?q=muratileberna+evleniyor) | N/A |
 | 9 | [yürekler beraber çarpıyor](http://twitter.com/search?q=y%c3%bcrekler+beraber+%c3%a7arp%c4%b1yor) | N/A |
-| 10 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 11 | [KÜLLERİMİZDEN DOĞARIZ](http://twitter.com/search?q=K%c3%9cLLER%c4%b0M%c4%b0ZDEN+DO%c4%9eARIZ) | N/A |
+| 10 | [KÜLLERİMİZDEN DOĞARIZ](http://twitter.com/search?q=K%c3%9cLLER%c4%b0M%c4%b0ZDEN+DO%c4%9eARIZ) | N/A |
+| 11 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
 | 12 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
 | 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 | 14 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
@@ -36,8 +36,8 @@ This is top 50 for [Turkey](</Turkey>)
 | 19 | [Union](http://twitter.com/search?q=Union) | N/A |
 | 20 | [çşbalımı kpssliyap](http://twitter.com/search?q=%c3%a7%c5%9fbal%c4%b1m%c4%b1+kpssliyap) | N/A |
 | 21 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
-| 22 | [Konya'da 4.3](http://twitter.com/search?q=Konya%27da+4.3) | N/A |
-| 23 | [manu](http://twitter.com/search?q=manu) | N/A |
+| 22 | [manu](http://twitter.com/search?q=manu) | N/A |
+| 23 | [Konya'da 4.3](http://twitter.com/search?q=Konya%27da+4.3) | N/A |
 | 24 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
 | 25 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
 | 26 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
@@ -49,22 +49,22 @@ This is top 50 for [Turkey](</Turkey>)
 | 32 | [lahoz](http://twitter.com/search?q=lahoz) | N/A |
 | 33 | [birliktelik destanı](http://twitter.com/search?q=birliktelik+destan%c4%b1) | N/A |
 | 34 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
-| 35 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 36 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
-| 37 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 38 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
+| 35 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
+| 36 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 37 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
+| 38 | [Obruk](http://twitter.com/search?q=Obruk) | N/A |
 | 39 | [Sevcan Orhan](http://twitter.com/search?q=Sevcan+Orhan) | N/A |
-| 40 | [Obruk](http://twitter.com/search?q=Obruk) | N/A |
-| 41 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 40 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 41 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
 | 42 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
-| 43 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 44 | [ProfilimeKimler Bakıyorlar](http://twitter.com/search?q=ProfilimeKimler+Bak%c4%b1yorlar) | N/A |
-| 45 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
-| 46 | [Çetin Tekindor](http://twitter.com/search?q=%c3%87etin+Tekindor) | N/A |
-| 47 | [Gültekin Uysal](http://twitter.com/search?q=G%c3%bcltekin+Uysal) | Gültekin Uysal is a Turkish name. It is composed of two words: Gültekin, which means "rose garden," and Uysal, which means "obedient." In English, the name would translate to "Rose Garden Obedient." |
-| 48 | [Kemal Kılıçdaroğlu](http://twitter.com/search?q=Kemal+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | Kemal Kılıçdaroğlu is a Turkish politician who has been the leader of the Republican People's Party (CHP) since 2010. His name translates to "Kemal Sword of Justice" in English. |
-| 49 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
-| 50 | [Muş'ta](http://twitter.com/search?q=Mu%c5%9f%27ta) | N/A |
+| 43 | [ProfilimeKimler Bakıyorlar](http://twitter.com/search?q=ProfilimeKimler+Bak%c4%b1yorlar) | N/A |
+| 44 | [Çetin Tekindor](http://twitter.com/search?q=%c3%87etin+Tekindor) | N/A |
+| 45 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 46 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 47 | [gültekin uysal](http://twitter.com/search?q=g%c3%bcltekin+uysal) | N/A |
+| 48 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
+| 49 | [Kemal Kılıçdaroğlu](http://twitter.com/search?q=Kemal+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | Kemal Kılıçdaroğlu is a Turkish politician who has been the leader of the Republican People's Party (CHP) since 2010. His name translates to "Kemal Sword of Justice" in English. |
+| 50 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
 
 
 

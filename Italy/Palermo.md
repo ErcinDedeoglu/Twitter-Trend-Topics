@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palermo
 
-📆 Last Updated: `2023-02-25 02:41:01 UTC`
+📆 Last Updated: `2023-02-25 03:20:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,42 +29,42 @@ This is top 50 for [Italy](</Italy>)
 | 12 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
 | 13 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
 | 14 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 15 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
-| 16 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 17 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 18 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
-| 19 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 20 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 21 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 22 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 23 | [Aveva 84](http://twitter.com/search?q=Aveva+84) | N/A |
-| 24 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 25 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 26 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
-| 27 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 28 | [Malan](http://twitter.com/search?q=Malan) | N/A |
-| 29 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 30 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 15 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 16 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 17 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 18 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
+| 19 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 20 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 21 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
+| 22 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 23 | [ORIETTA](http://twitter.com/search?q=ORIETTA) | N/A |
+| 24 | [Aveva 84](http://twitter.com/search?q=Aveva+84) | N/A |
+| 25 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 26 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 27 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
+| 28 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 29 | [Malan](http://twitter.com/search?q=Malan) | N/A |
+| 30 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
 | 31 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 32 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
-| 33 | [La Cassazione](http://twitter.com/search?q=La+Cassazione) | N/A |
-| 34 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 35 | [Lapo](http://twitter.com/search?q=Lapo) | N/A |
-| 36 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 37 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
-| 38 | [Michele](http://twitter.com/search?q=Michele) | N/A |
-| 39 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
-| 40 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 41 | [Letta](http://twitter.com/search?q=Letta) | N/A |
-| 42 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 43 | [Rome](http://twitter.com/search?q=Rome) | N/A |
-| 44 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 45 | [Minchia](http://twitter.com/search?q=Minchia) | N/A |
-| 46 | [Bravissimo](http://twitter.com/search?q=Bravissimo) | N/A |
-| 47 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 48 | [Serena](http://twitter.com/search?q=Serena) | N/A |
-| 49 | [Fottiti](http://twitter.com/search?q=Fottiti) | N/A |
-| 50 | [Giubilei](http://twitter.com/search?q=Giubilei) | N/A |
+| 32 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 33 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
+| 34 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
+| 35 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 36 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
+| 37 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 38 | [Minchia](http://twitter.com/search?q=Minchia) | N/A |
+| 39 | [Giubilei](http://twitter.com/search?q=Giubilei) | N/A |
+| 40 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
+| 41 | [Nellina](http://twitter.com/search?q=Nellina) | N/A |
+| 42 | [Taci](http://twitter.com/search?q=Taci) | N/A |
+| 43 | [Vergogna](http://twitter.com/search?q=Vergogna) | N/A |
+| 44 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
+| 45 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
+| 46 | [Hoara](http://twitter.com/search?q=Hoara) | N/A |
+| 47 | [Dolce](http://twitter.com/search?q=Dolce) | N/A |
+| 48 | [Amen](http://twitter.com/search?q=Amen) | N/A |
+| 49 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 50 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
 
 
 

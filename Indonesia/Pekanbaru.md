@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pekanbaru
 
-📆 Last Updated: `2023-02-25 02:41:04 UTC`
+📆 Last Updated: `2023-02-25 03:20:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,49 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 3 | [David](http://twitter.com/search?q=David) | N/A |
 | 4 | [pak prabowo subianto](http://twitter.com/search?q=pak+prabowo+subianto) | N/A |
 | 5 | [mengabdi tanpa lelah](http://twitter.com/search?q=mengabdi+tanpa+lelah) | N/A |
-| 6 | [prabowo untuk indonesia](http://twitter.com/search?q=prabowo+untuk+indonesia) | N/A |
+| 6 | [#TokocryptoforBLK2023](http://twitter.com/search?q=%23TokocryptoforBLK2023) | N/A |
 | 7 | [setujuuu mending prabowo](http://twitter.com/search?q=setujuuu+mending+prabowo) | N/A |
-| 8 | [#TokocryptoforBLK2023](http://twitter.com/search?q=%23TokocryptoforBLK2023) | N/A |
-| 9 | [BulanLiterasiKripto](http://twitter.com/search?q=BulanLiterasiKripto) | N/A |
-| 10 | [#PaketInternetCepat](http://twitter.com/search?q=%23PaketInternetCepat) | N/A |
-| 11 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
-| 12 | [#WiFiRumah](http://twitter.com/search?q=%23WiFiRumah) | N/A |
+| 8 | [prabowo untuk indonesia](http://twitter.com/search?q=prabowo+untuk+indonesia) | N/A |
+| 9 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
+| 10 | [#lapakcot](http://twitter.com/search?q=%23lapakcot) | N/A |
+| 11 | [BulanLiterasiKripto](http://twitter.com/search?q=BulanLiterasiKripto) | N/A |
+| 12 | [#SiEnengGoPublic](http://twitter.com/search?q=%23SiEnengGoPublic) | N/A |
 | 13 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
 | 14 | [cs misterius bca](http://twitter.com/search?q=cs+misterius+bca) | N/A |
-| 15 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 15 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
 | 16 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 17 | [valid no debat](http://twitter.com/search?q=valid+no+debat) | N/A |
-| 18 | [Teguh Berislam Kaffah](http://twitter.com/search?q=Teguh+Berislam+Kaffah) | N/A |
-| 19 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
-| 20 | [Bangga Taati Syariah](http://twitter.com/search?q=Bangga+Taati+Syariah) | N/A |
-| 21 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 22 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 23 | [prabowo pilihan kita](http://twitter.com/search?q=prabowo+pilihan+kita) | N/A |
-| 24 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
-| 25 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 26 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 27 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 28 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 17 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 18 | [valid no debat](http://twitter.com/search?q=valid+no+debat) | N/A |
+| 19 | [Bangga Taati Syariah](http://twitter.com/search?q=Bangga+Taati+Syariah) | N/A |
+| 20 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 21 | [prabowo pilihan kita](http://twitter.com/search?q=prabowo+pilihan+kita) | N/A |
+| 22 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 23 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 24 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 25 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 26 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
+| 27 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 28 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
 | 29 | [danamon](http://twitter.com/search?q=danamon) | N/A |
-| 30 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
+| 30 | [ZHONG CHENLE THANK YOU](http://twitter.com/search?q=ZHONG+CHENLE+THANK+YOU) | N/A |
 | 31 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 32 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
-| 33 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
-| 34 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 35 | [petisi 99 kyai](http://twitter.com/search?q=petisi+99+kyai) | N/A |
-| 36 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 32 | [Teguh Berislam Kaffah](http://twitter.com/search?q=Teguh+Berislam+Kaffah) | N/A |
+| 33 | [petisi 99 kyai](http://twitter.com/search?q=petisi+99+kyai) | N/A |
+| 34 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
+| 35 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 36 | [Elif](http://twitter.com/search?q=Elif) | N/A |
 | 37 | [Adekmu](http://twitter.com/search?q=Adekmu) | N/A |
-| 38 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
-| 39 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 40 | [Pagiii](http://twitter.com/search?q=Pagiii) | N/A |
-| 41 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 42 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
-| 43 | [Elif](http://twitter.com/search?q=Elif) | N/A |
+| 38 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 39 | [Agam](http://twitter.com/search?q=Agam) | N/A |
+| 40 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
+| 41 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 42 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 43 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
 | 44 | [Biadab](http://twitter.com/search?q=Biadab) | N/A |
-| 45 | [exo is exoing](http://twitter.com/search?q=exo+is+exoing) | N/A |
-| 46 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
-| 47 | [Samsung](http://twitter.com/search?q=Samsung) | N/A |
+| 45 | [Topped-up Reno8 T](http://twitter.com/search?q=Topped-up+Reno8+T) | N/A |
+| 46 | [exo is exoing](http://twitter.com/search?q=exo+is+exoing) | N/A |
+| 47 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
 | 48 | [Tarki](http://twitter.com/search?q=Tarki) | N/A |
-| 49 | [Menari](http://twitter.com/search?q=Menari) | N/A |
 
 
 

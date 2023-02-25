@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Stockholm
 
-📆 Last Updated: `2023-02-25 02:41:04 UTC`
+📆 Last Updated: `2023-02-25 03:20:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -35,7 +35,7 @@ This is top 50 for [Sweden](</Sweden>)
 | 18 | [Hammarlund](http://twitter.com/search?q=Hammarlund) | N/A |
 | 19 | [Gripen](http://twitter.com/search?q=Gripen) | N/A |
 | 20 | [Brickley](http://twitter.com/search?q=Brickley) | N/A |
-| 21 | [jesper karlström](http://twitter.com/search?q=jesper+karlstr%c3%b6m) | N/A |
+| 21 | [Jesper Karlström](http://twitter.com/search?q=Jesper+Karlstr%c3%b6m) | N/A |
 | 22 | [göran hägglund](http://twitter.com/search?q=g%c3%b6ran+h%c3%a4gglund) | N/A |
 | 23 | [karlis](http://twitter.com/search?q=karlis) | N/A |
 | 24 | [Danielsson](http://twitter.com/search?q=Danielsson) | N/A |
@@ -48,23 +48,23 @@ This is top 50 for [Sweden](</Sweden>)
 | 31 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
 | 32 | [Gdansk](http://twitter.com/search?q=Gdansk) | N/A |
 | 33 | [Basel](http://twitter.com/search?q=Basel) | N/A |
-| 34 | [iris-t](http://twitter.com/search?q=iris-t) | N/A |
+| 34 | [IRIS-T](http://twitter.com/search?q=IRIS-T) | N/A |
 | 35 | [Gent](http://twitter.com/search?q=Gent) | N/A |
-| 36 | [Steve Bannon](http://twitter.com/search?q=Steve+Bannon) | N/A |
-| 37 | [Örnsköldsvik](http://twitter.com/search?q=%c3%96rnsk%c3%b6ldsvik) | N/A |
-| 38 | [Hawk](http://twitter.com/search?q=Hawk) | N/A |
-| 39 | [Polen](http://twitter.com/search?q=Polen) | N/A |
-| 40 | [gasum](http://twitter.com/search?q=gasum) | N/A |
-| 41 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
-| 42 | [Löven](http://twitter.com/search?q=L%c3%b6ven) | N/A |
+| 36 | [löven](http://twitter.com/search?q=l%c3%b6ven) | N/A |
+| 37 | [Steve Bannon](http://twitter.com/search?q=Steve+Bannon) | N/A |
+| 38 | [Polen](http://twitter.com/search?q=Polen) | N/A |
+| 39 | [Örnsköldsvik](http://twitter.com/search?q=%c3%96rnsk%c3%b6ldsvik) | N/A |
+| 40 | [Hawk](http://twitter.com/search?q=Hawk) | N/A |
+| 41 | [gasum](http://twitter.com/search?q=gasum) | N/A |
+| 42 | [Pettersson](http://twitter.com/search?q=Pettersson) | N/A |
 | 43 | [Public Service](http://twitter.com/search?q=Public+Service) | N/A |
-| 44 | [Fredag](http://twitter.com/search?q=Fredag) | N/A |
-| 45 | [ssab](http://twitter.com/search?q=ssab) | N/A |
-| 46 | [staaf](http://twitter.com/search?q=staaf) | N/A |
-| 47 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 48 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 49 | [guldskölden](http://twitter.com/search?q=guldsk%c3%b6lden) | N/A |
-| 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 44 | [fredag](http://twitter.com/search?q=fredag) | N/A |
+| 45 | [staaf](http://twitter.com/search?q=staaf) | N/A |
+| 46 | [Archer](http://twitter.com/search?q=Archer) | N/A |
+| 47 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 48 | [guldskölden](http://twitter.com/search?q=guldsk%c3%b6lden) | N/A |
+| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [sergels torg](http://twitter.com/search?q=sergels+torg) | N/A |
 
 
 

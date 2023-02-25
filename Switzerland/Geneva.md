@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-25 02:41:03 UTC`
+📆 Last Updated: `2023-02-25 03:20:08 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -29,37 +29,37 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 12 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
 | 13 | [mieter](http://twitter.com/search?q=mieter) | N/A |
 | 14 | [sitz](http://twitter.com/search?q=sitz) | N/A |
-| 15 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
+| 15 | [köppel](http://twitter.com/search?q=k%c3%b6ppel) | N/A |
 | 16 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
-| 17 | [Gebiete](http://twitter.com/search?q=Gebiete) | N/A |
-| 18 | [Verstand](http://twitter.com/search?q=Verstand) | N/A |
-| 19 | [Friedensplan](http://twitter.com/search?q=Friedensplan) | N/A |
-| 20 | [Sony](http://twitter.com/search?q=Sony) | N/A |
-| 21 | [Botschafterin](http://twitter.com/search?q=Botschafterin) | N/A |
-| 22 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
+| 17 | [verstand](http://twitter.com/search?q=verstand) | N/A |
+| 18 | [Friedensplan](http://twitter.com/search?q=Friedensplan) | N/A |
+| 19 | [Sony](http://twitter.com/search?q=Sony) | N/A |
+| 20 | [botschafterin](http://twitter.com/search?q=botschafterin) | N/A |
+| 21 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
+| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 23 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
 | 24 | [Clemens](http://twitter.com/search?q=Clemens) | Clemens is a surname of German origin. It is derived from the Latin word clemens, which means "merciful" or "gentle". |
 | 25 | [Kiew](http://twitter.com/search?q=Kiew) | N/A |
 | 26 | [Ressourcen](http://twitter.com/search?q=Ressourcen) | N/A |
 | 27 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
-| 28 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 29 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
-| 30 | [Diplomatie](http://twitter.com/search?q=Diplomatie) | N/A |
-| 31 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 32 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 28 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 29 | [Diplomatie](http://twitter.com/search?q=Diplomatie) | N/A |
+| 30 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
+| 31 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
+| 32 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
 | 33 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 34 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 35 | [Vorgehen](http://twitter.com/search?q=Vorgehen) | N/A |
+| 35 | [vorgehen](http://twitter.com/search?q=vorgehen) | N/A |
 | 36 | [Tories](http://twitter.com/search?q=Tories) | N/A |
-| 37 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
-| 38 | [Velo](http://twitter.com/search?q=Velo) | N/A |
+| 37 | [Velo](http://twitter.com/search?q=Velo) | N/A |
+| 38 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
 | 39 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
 | 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
 | 41 | [Vogel](http://twitter.com/search?q=Vogel) | N/A |
 | 42 | [Madonna](http://twitter.com/search?q=Madonna) | Madonna is an Italian word meaning "my lady" or "my mistress". It is often used as a title of respect for the Virgin Mary, the mother of Jesus. It can also be used as a term of endearment for a woman, especially one who is seen as a mother figure. |
-| 43 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
-| 44 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
-| 45 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 43 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
+| 44 | [Orban](http://twitter.com/search?q=Orban) | N/A |
+| 45 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
 | 46 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 
 
