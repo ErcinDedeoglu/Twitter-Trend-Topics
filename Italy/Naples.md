@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Naples
 
-📆 Last Updated: `2023-02-25 05:15:36 UTC`
+📆 Last Updated: `2023-02-25 06:15:47 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Italy](</Italy>)
 | 3 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
 | 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
 | 5 | [#thevoicesenior](http://twitter.com/search?q=%23thevoicesenior) | N/A |
-| 6 | [Preside](http://twitter.com/search?q=Preside) | N/A |
-| 7 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 6 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 7 | [Preside](http://twitter.com/search?q=Preside) | N/A |
 | 8 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
 | 9 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
 | 10 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
 | 11 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 12 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
-| 13 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
-| 14 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 15 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 16 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 17 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
-| 18 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
-| 19 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 20 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 21 | [orietta](http://twitter.com/search?q=orietta) | N/A |
-| 22 | [aveva 84](http://twitter.com/search?q=aveva+84) | N/A |
-| 23 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 24 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 25 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
+| 12 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
+| 13 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
+| 14 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
+| 15 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 16 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
+| 17 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 18 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
+| 19 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 20 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
+| 21 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 22 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
+| 23 | [orietta](http://twitter.com/search?q=orietta) | N/A |
+| 24 | [aveva 84](http://twitter.com/search?q=aveva+84) | N/A |
+| 25 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
 | 26 | [malan](http://twitter.com/search?q=malan) | N/A |
-| 27 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 28 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 29 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 30 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 31 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
-| 32 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 33 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 34 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
-| 35 | [America](http://twitter.com/search?q=America) | N/A |
-| 36 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 37 | [PER PIACERE](http://twitter.com/search?q=PER+PIACERE) | N/A |
-| 38 | [Gli Italiani](http://twitter.com/search?q=Gli+Italiani) | N/A |
-| 39 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
-| 40 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 41 | [Fatelo](http://twitter.com/search?q=Fatelo) | N/A |
-| 42 | [Demet](http://twitter.com/search?q=Demet) | N/A |
-| 43 | [Belgrado](http://twitter.com/search?q=Belgrado) | N/A |
-| 44 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 45 | [Gheddafi](http://twitter.com/search?q=Gheddafi) | N/A |
-| 46 | [Simona](http://twitter.com/search?q=Simona) | N/A |
-| 47 | [Vogliono](http://twitter.com/search?q=Vogliono) | N/A |
-| 48 | [Il Fatto Quotidiano](http://twitter.com/search?q=Il+Fatto+Quotidiano) | N/A |
-| 49 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 50 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 27 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 28 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 29 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
+| 30 | [Buongiorno Mari](http://twitter.com/search?q=Buongiorno+Mari) | N/A |
+| 31 | [Buongiorno Aldo](http://twitter.com/search?q=Buongiorno+Aldo) | N/A |
+| 32 | [Simona](http://twitter.com/search?q=Simona) | N/A |
+| 33 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 34 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
+| 35 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 36 | [Buongiorno Emi](http://twitter.com/search?q=Buongiorno+Emi) | N/A |
+| 37 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 38 | [manu](http://twitter.com/search?q=manu) | N/A |
+| 39 | [Ukrainians](http://twitter.com/search?q=Ukrainians) | N/A |
+| 40 | [Cristo](http://twitter.com/search?q=Cristo) | N/A |
+| 41 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
+| 42 | [Buongiorno Andrea](http://twitter.com/search?q=Buongiorno+Andrea) | N/A |
+| 43 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 44 | [Biafra](http://twitter.com/search?q=Biafra) | N/A |
+| 45 | [Israel](http://twitter.com/search?q=Israel) | N/A |
+| 46 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
+| 47 | [America](http://twitter.com/search?q=America) | N/A |
+| 48 | [Isabella](http://twitter.com/search?q=Isabella) | N/A |
+| 49 | [Vuol](http://twitter.com/search?q=Vuol) | N/A |
+| 50 | [Amen](http://twitter.com/search?q=Amen) | N/A |
 
 
 

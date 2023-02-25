@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poznań
 
-📆 Last Updated: `2023-02-25 05:15:32 UTC`
+📆 Last Updated: `2023-02-25 06:15:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,12 +20,12 @@ This is top 50 for [Poland](</Poland>)
 | 3 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
 | 4 | [#LPOBOD](http://twitter.com/search?q=%23LPOBOD) | N/A |
 | 5 | [#jagrcz](http://twitter.com/search?q=%23jagrcz) | N/A |
-| 6 | [#WISODR](http://twitter.com/search?q=%23WISODR) | N/A |
+| 6 | [#wisodr](http://twitter.com/search?q=%23wisodr) | N/A |
 | 7 | [sokołowski](http://twitter.com/search?q=soko%c5%82owski) | N/A |
 | 8 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
 | 9 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
-| 10 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 11 | [brawo lech](http://twitter.com/search?q=brawo+lech) | N/A |
+| 10 | [brawo lech](http://twitter.com/search?q=brawo+lech) | N/A |
+| 11 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
 | 12 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
 | 13 | [Slovan](http://twitter.com/search?q=Slovan) | N/A |
 | 14 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
@@ -34,37 +34,37 @@ This is top 50 for [Poland](</Poland>)
 | 17 | [Mula](http://twitter.com/search?q=Mula) | N/A |
 | 18 | [Roberto](http://twitter.com/search?q=Roberto) | N/A |
 | 19 | [djurgarden](http://twitter.com/search?q=djurgarden) | N/A |
-| 20 | [wszołek](http://twitter.com/search?q=wszo%c5%82ek) | N/A |
-| 21 | [Villareal](http://twitter.com/search?q=Villareal) | N/A |
-| 22 | [Fernandez](http://twitter.com/search?q=Fernandez) | N/A |
-| 23 | [rosołek](http://twitter.com/search?q=roso%c5%82ek) | N/A |
-| 24 | [brawo kolejorz](http://twitter.com/search?q=brawo+kolejorz) | N/A |
-| 25 | [muci](http://twitter.com/search?q=muci) | N/A |
-| 26 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 27 | [łazienkowskiej](http://twitter.com/search?q=%c5%82azienkowskiej) | N/A |
-| 28 | [wszołka](http://twitter.com/search?q=wszo%c5%82ka) | N/A |
-| 29 | [makijaż](http://twitter.com/search?q=makija%c5%bc) | N/A |
-| 30 | [ligi konferencji](http://twitter.com/search?q=ligi+konferencji) | N/A |
-| 31 | [Faflun](http://twitter.com/search?q=Faflun) | N/A |
-| 32 | [depresją](http://twitter.com/search?q=depresj%c4%85) | N/A |
-| 33 | [rodado](http://twitter.com/search?q=rodado) | N/A |
-| 34 | [rady bezpieczeństwa narodowego](http://twitter.com/search?q=rady+bezpiecze%c5%84stwa+narodowego) | N/A |
-| 35 | [augusta emila fieldorfa](http://twitter.com/search?q=augusta+emila+fieldorfa) | N/A |
-| 36 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 37 | [pawłowski](http://twitter.com/search?q=paw%c5%82owski) | N/A |
-| 38 | [Kessie](http://twitter.com/search?q=Kessie) | Kessie is a female given name of English origin. It is derived from the name Katherine, which means "pure" or "clear". |
-| 39 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
-| 40 | [szachtar](http://twitter.com/search?q=szachtar) | N/A |
+| 20 | [Villareal](http://twitter.com/search?q=Villareal) | N/A |
+| 21 | [Fernandez](http://twitter.com/search?q=Fernandez) | N/A |
+| 22 | [Wszołek](http://twitter.com/search?q=Wszo%c5%82ek) | N/A |
+| 23 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 24 | [łazienkowskiej](http://twitter.com/search?q=%c5%82azienkowskiej) | N/A |
+| 25 | [wszołka](http://twitter.com/search?q=wszo%c5%82ka) | N/A |
+| 26 | [Rosołek](http://twitter.com/search?q=Roso%c5%82ek) | N/A |
+| 27 | [makijaż](http://twitter.com/search?q=makija%c5%bc) | N/A |
+| 28 | [ligi konferencji](http://twitter.com/search?q=ligi+konferencji) | N/A |
+| 29 | [Faflun](http://twitter.com/search?q=Faflun) | N/A |
+| 30 | [depresją](http://twitter.com/search?q=depresj%c4%85) | N/A |
+| 31 | [rodado](http://twitter.com/search?q=rodado) | N/A |
+| 32 | [rady bezpieczeństwa narodowego](http://twitter.com/search?q=rady+bezpiecze%c5%84stwa+narodowego) | N/A |
+| 33 | [augusta emila fieldorfa](http://twitter.com/search?q=augusta+emila+fieldorfa) | N/A |
+| 34 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 35 | [pawłowski](http://twitter.com/search?q=paw%c5%82owski) | N/A |
+| 36 | [Muci](http://twitter.com/search?q=Muci) | N/A |
+| 37 | [kessie](http://twitter.com/search?q=kessie) | N/A |
+| 38 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
+| 39 | [szachtar](http://twitter.com/search?q=szachtar) | N/A |
+| 40 | [Andruszkiewicz](http://twitter.com/search?q=Andruszkiewicz) | N/A |
 | 41 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 42 | [Andruszkiewicz](http://twitter.com/search?q=Andruszkiewicz) | N/A |
-| 43 | [слава україні](http://twitter.com/search?q=%d1%81%d0%bb%d0%b0%d0%b2%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%96) | N/A |
-| 44 | [trójkąta weimarskiego](http://twitter.com/search?q=tr%c3%b3jk%c4%85ta+weimarskiego) | N/A |
-| 45 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 42 | [слава україні](http://twitter.com/search?q=%d1%81%d0%bb%d0%b0%d0%b2%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%96) | N/A |
+| 43 | [trójkąta weimarskiego](http://twitter.com/search?q=tr%c3%b3jk%c4%85ta+weimarskiego) | N/A |
+| 44 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 45 | [Jurek](http://twitter.com/search?q=Jurek) | N/A |
 | 46 | [wołodymyr zełenski](http://twitter.com/search?q=wo%c5%82odymyr+ze%c5%82enski) | N/A |
-| 47 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 48 | [obwe](http://twitter.com/search?q=obwe) | N/A |
-| 49 | [PT-91](http://twitter.com/search?q=PT-91) | N/A |
-| 50 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 47 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 48 | [PT-91](http://twitter.com/search?q=PT-91) | N/A |
+| 49 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 50 | [Kielce](http://twitter.com/search?q=Kielce) | N/A |
 
 
 

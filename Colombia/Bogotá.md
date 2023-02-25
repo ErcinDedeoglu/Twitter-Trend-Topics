@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bogotá
 
-📆 Last Updated: `2023-02-25 05:15:27 UTC`
+📆 Last Updated: `2023-02-25 06:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,46 +25,46 @@ This is top 50 for [Colombia](</Colombia>)
 | 8 | [#PetroMentiroso](http://twitter.com/search?q=%23PetroMentiroso) | N/A |
 | 9 | [#MananaSeraBonito](http://twitter.com/search?q=%23MananaSeraBonito) | N/A |
 | 10 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 11 | [Marco Pérez](http://twitter.com/search?q=Marco+P%c3%a9rez) | N/A |
-| 12 | [Antioquia](http://twitter.com/search?q=Antioquia) | N/A |
-| 13 | [Juan Diego Alvira](http://twitter.com/search?q=Juan+Diego+Alvira) | N/A |
-| 14 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
-| 15 | [Fernando Ruiz](http://twitter.com/search?q=Fernando+Ruiz) | N/A |
-| 16 | [#SpamDePiernas](http://twitter.com/search?q=%23SpamDePiernas) | N/A |
-| 17 | [Poncho](http://twitter.com/search?q=Poncho) | N/A |
-| 18 | [The Truman Show](http://twitter.com/search?q=The+Truman+Show) | N/A |
-| 19 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 20 | [Águilas](http://twitter.com/search?q=%c3%81guilas) | N/A |
-| 21 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 22 | [CDMB](http://twitter.com/search?q=CDMB) | N/A |
-| 23 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 24 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 25 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 11 | [Antioquia](http://twitter.com/search?q=Antioquia) | N/A |
+| 12 | [Juan Diego Alvira](http://twitter.com/search?q=Juan+Diego+Alvira) | N/A |
+| 13 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
+| 14 | [Fernando Ruiz](http://twitter.com/search?q=Fernando+Ruiz) | N/A |
+| 15 | [Poncho](http://twitter.com/search?q=Poncho) | N/A |
+| 16 | [#impunidades](http://twitter.com/search?q=%23impunidades) | N/A |
+| 17 | [The Truman Show](http://twitter.com/search?q=The+Truman+Show) | N/A |
+| 18 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 19 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 20 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 21 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 22 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 23 | [CDMB](http://twitter.com/search?q=CDMB) | N/A |
+| 24 | [Ojos Ferrari](http://twitter.com/search?q=Ojos+Ferrari) | N/A |
+| 25 | [TUS GAFITAS](http://twitter.com/search?q=TUS+GAFITAS) | N/A |
 | 26 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
-| 27 | [Ojos Ferrari](http://twitter.com/search?q=Ojos+Ferrari) | N/A |
-| 28 | [TUS GAFITAS](http://twitter.com/search?q=TUS+GAFITAS) | N/A |
-| 29 | [Te Quiero Gonorrea](http://twitter.com/search?q=Te+Quiero+Gonorrea) | N/A |
-| 30 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
-| 31 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 32 | [Eficientes](http://twitter.com/search?q=Eficientes) | N/A |
-| 33 | [Florez](http://twitter.com/search?q=Florez) | N/A |
-| 34 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 35 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 36 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 37 | [Henao](http://twitter.com/search?q=Henao) | N/A |
-| 38 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 39 | [Ana del Castillo](http://twitter.com/search?q=Ana+del+Castillo) | N/A |
-| 40 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 41 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 42 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 43 | [Garcés](http://twitter.com/search?q=Garc%c3%a9s) | N/A |
-| 44 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 45 | [Agmeth Escaf](http://twitter.com/search?q=Agmeth+Escaf) | N/A |
-| 46 | [Susanita](http://twitter.com/search?q=Susanita) | N/A |
-| 47 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 48 | [Exministro](http://twitter.com/search?q=Exministro) | N/A |
-| 49 | [Besties](http://twitter.com/search?q=Besties) | N/A |
-| 50 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 27 | [Te Quiero Gonorrea](http://twitter.com/search?q=Te+Quiero+Gonorrea) | N/A |
+| 28 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
+| 29 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 30 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 31 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 32 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 33 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 34 | [Henao](http://twitter.com/search?q=Henao) | N/A |
+| 35 | [Eficientes](http://twitter.com/search?q=Eficientes) | N/A |
+| 36 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 37 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 38 | [Ana del Castillo](http://twitter.com/search?q=Ana+del+Castillo) | N/A |
+| 39 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 40 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 41 | [Garcés](http://twitter.com/search?q=Garc%c3%a9s) | N/A |
+| 42 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 43 | [Agmeth Escaf](http://twitter.com/search?q=Agmeth+Escaf) | N/A |
+| 44 | [Susanita](http://twitter.com/search?q=Susanita) | N/A |
+| 45 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 46 | [Exministro](http://twitter.com/search?q=Exministro) | N/A |
+| 47 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 48 | [Besties](http://twitter.com/search?q=Besties) | N/A |
+| 49 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 50 | [hijueputismo](http://twitter.com/search?q=hijueputismo) | N/A |
 
 
 

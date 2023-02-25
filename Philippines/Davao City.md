@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Davao City
 
-📆 Last Updated: `2023-02-25 05:15:47 UTC`
+📆 Last Updated: `2023-02-25 06:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,37 @@ This is top 50 for [Philippines](</Philippines>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#MCIEndingYarn](http://twitter.com/search?q=%23MCIEndingYarn) | N/A |
-| 2 | [#WILDTONIGHT](http://twitter.com/search?q=%23WILDTONIGHT) | N/A |
-| 3 | [#EDSA37](http://twitter.com/search?q=%23EDSA37) | N/A |
-| 4 | [#WILD_TONIGHT_MV_RELEASE](http://twitter.com/search?q=%23WILD_TONIGHT_MV_RELEASE) | N/A |
-| 5 | [JoshCullen OnWishBus](http://twitter.com/search?q=JoshCullen+OnWishBus) | N/A |
-| 6 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
-| 7 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 8 | [KAIA ON EAT BULAGA](http://twitter.com/search?q=KAIA+ON+EAT+BULAGA) | N/A |
-| 9 | [NEVER AGAIN](http://twitter.com/search?q=NEVER+AGAIN) | N/A |
-| 10 | [d-1 be his prey](http://twitter.com/search?q=d-1+be+his+prey) | N/A |
-| 11 | [FILAY Endgame](http://twitter.com/search?q=FILAY+Endgame) | N/A |
-| 12 | [SHOWTIME ONLINE WITH GABBLUKE](http://twitter.com/search?q=SHOWTIME+ONLINE+WITH+GABBLUKE) | N/A |
-| 13 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 14 | [kdlex feb tix soldout](http://twitter.com/search?q=kdlex+feb+tix+soldout) | N/A |
-| 15 | [Tubu](http://twitter.com/search?q=Tubu) | N/A |
-| 16 | [ANJBRENT OUR PUPPY 7OVE](http://twitter.com/search?q=ANJBRENT+OUR+PUPPY+7OVE) | N/A |
-| 17 | [acelebrate with v1nster](http://twitter.com/search?q=acelebrate+with+v1nster) | N/A |
-| 18 | [AIL TOP1 DASURV](http://twitter.com/search?q=AIL+TOP1+DASURV) | N/A |
-| 19 | [Culabat](http://twitter.com/search?q=Culabat) | N/A |
-| 20 | [Magic Sarap](http://twitter.com/search?q=Magic+Sarap) | N/A |
-| 21 | [Ibarra](http://twitter.com/search?q=Ibarra) | Ibarra is a Spanish surname derived from the Basque name Ibar. It is also the name of several towns in Spain, as well as a city in Mexico. In English, it means "from the banks of the river Ibar". |
-| 22 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 23 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 24 | [Filipinos](http://twitter.com/search?q=Filipinos) | N/A |
-| 25 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 26 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 27 | [bouncebackrsg h2wo](http://twitter.com/search?q=bouncebackrsg+h2wo) | N/A |
-| 28 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 29 | [Romero](http://twitter.com/search?q=Romero) | Romero is a Spanish surname derived from the Latin word "romerus," meaning "pilgrim." It is also a given name, derived from the Latin name Romerius. The name is most commonly associated with Saint Oscar Romero, an archbishop of El Salvador who was assassinated in 1980 for his outspoken criticism of human rights abuses in the country. |
-| 30 | [GAYUMA MV SOON](http://twitter.com/search?q=GAYUMA+MV+SOON) | N/A |
-| 31 | [READY TO BE CAPTIVATED](http://twitter.com/search?q=READY+TO+BE+CAPTIVATED) | N/A |
-| 32 | [Josafat](http://twitter.com/search?q=Josafat) | N/A |
-| 33 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 34 | [Fidel](http://twitter.com/search?q=Fidel) | N/A |
-| 35 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 36 | [Mason Amos](http://twitter.com/search?q=Mason+Amos) | N/A |
-| 37 | [Kross the Line with ENHYPEN](http://twitter.com/search?q=Kross+the+Line+with+ENHYPEN) | N/A |
-| 38 | [Gilas](http://twitter.com/search?q=Gilas) | N/A |
-| 39 | [WELCOME TO MILAN DOKYEOM](http://twitter.com/search?q=WELCOME+TO+MILAN+DOKYEOM) | N/A |
-| 40 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 41 | [mingyu](http://twitter.com/search?q=mingyu) | N/A |
-| 42 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 43 | [pienakamatapang vivoree](http://twitter.com/search?q=pienakamatapang+vivoree) | N/A |
-| 44 | [Drinksmoke](http://twitter.com/search?q=Drinksmoke) | N/A |
-| 45 | [Queen Regine SOLO](http://twitter.com/search?q=Queen+Regine+SOLO) | N/A |
-| 46 | [MAINE MENDOZA EBSabado](http://twitter.com/search?q=MAINE+MENDOZA+EBSabado) | N/A |
-| 47 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 1 | [#UAAPSeason85](http://twitter.com/search?q=%23UAAPSeason85) | N/A |
+| 2 | [#EDSA37](http://twitter.com/search?q=%23EDSA37) | N/A |
+| 3 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
+| 4 | [#ShowtimeHappyHome](http://twitter.com/search?q=%23ShowtimeHappyHome) | N/A |
+| 5 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 6 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 7 | [#PPOPCON](http://twitter.com/search?q=%23PPOPCON) | N/A |
+| 8 | [NEVER AGAIN](http://twitter.com/search?q=NEVER+AGAIN) | N/A |
+| 9 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 10 | [SHOWTIME ONLINE WITH GABBLUKE](http://twitter.com/search?q=SHOWTIME+ONLINE+WITH+GABBLUKE) | N/A |
+| 11 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 12 | [KAIA ON EAT BULAGA](http://twitter.com/search?q=KAIA+ON+EAT+BULAGA) | N/A |
+| 13 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 14 | [One Big Fight](http://twitter.com/search?q=One+Big+Fight) | N/A |
+| 15 | [Filipinos](http://twitter.com/search?q=Filipinos) | N/A |
+| 16 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 17 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 18 | [ANJBRENT OUR PUPPY 7OVE](http://twitter.com/search?q=ANJBRENT+OUR+PUPPY+7OVE) | N/A |
+| 19 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
+| 20 | [Pilipino](http://twitter.com/search?q=Pilipino) | N/A |
+| 21 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 22 | [Belle](http://twitter.com/search?q=Belle) | N/A |
+| 23 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 24 | [#Kiara3DParty](http://twitter.com/search?q=%23Kiara3DParty) | N/A |
+| 25 | [#WINfinity2023](http://twitter.com/search?q=%23WINfinity2023) | N/A |
+| 26 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 27 | [#WINsSociety](http://twitter.com/search?q=%23WINsSociety) | N/A |
+| 28 | [#RSGH2WO](http://twitter.com/search?q=%23RSGH2WO) | N/A |
+| 29 | [#GGRSG](http://twitter.com/search?q=%23GGRSG) | N/A |
+| 30 | [#BOYCOTTEBxGMA717](http://twitter.com/search?q=%23BOYCOTTEBxGMA717) | N/A |
+| 31 | [#StaySelcaDay](http://twitter.com/search?q=%23StaySelcaDay) | N/A |
 
 
 

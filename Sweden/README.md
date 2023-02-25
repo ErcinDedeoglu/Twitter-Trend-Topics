@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sweden
 
-📆 Last Updated: `2023-02-25 05:16:15 UTC`
+📆 Last Updated: `2023-02-25 06:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,10 +19,10 @@ This is top 50 for Sweden
 | 2 | [Ingman](http://twitter.com/search?q=Ingman) | N/A |
 | 3 | [Modo](http://twitter.com/search?q=Modo) | N/A |
 | 4 | [#NFC2023](http://twitter.com/search?q=%23NFC2023) | N/A |
-| 5 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 6 | [Poznan](http://twitter.com/search?q=Poznan) | N/A |
-| 7 | [trevlig](http://twitter.com/search?q=trevlig) | N/A |
-| 8 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 5 | [poznan](http://twitter.com/search?q=poznan) | N/A |
+| 6 | [trevlig](http://twitter.com/search?q=trevlig) | N/A |
+| 7 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 8 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
 | 9 | [Ryssland](http://twitter.com/search?q=Ryssland) | N/A |
 | 10 | [skål](http://twitter.com/search?q=sk%c3%a5l) | N/A |
 | 11 | [Lazio](http://twitter.com/search?q=Lazio) | N/A |
@@ -34,19 +34,19 @@ This is top 50 for Sweden
 | 17 | [Gripen](http://twitter.com/search?q=Gripen) | N/A |
 | 18 | [Löfving](http://twitter.com/search?q=L%c3%b6fving) | N/A |
 | 19 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
-| 20 | [Brickley](http://twitter.com/search?q=Brickley) | N/A |
+| 20 | [brickley](http://twitter.com/search?q=brickley) | N/A |
 | 21 | [jesper karlström](http://twitter.com/search?q=jesper+karlstr%c3%b6m) | N/A |
 | 22 | [göran hägglund](http://twitter.com/search?q=g%c3%b6ran+h%c3%a4gglund) | N/A |
 | 23 | [Karlis](http://twitter.com/search?q=Karlis) | N/A |
 | 24 | [danielsson](http://twitter.com/search?q=danielsson) | N/A |
 | 25 | [#nordicfuzzcon](http://twitter.com/search?q=%23nordicfuzzcon) | N/A |
-| 26 | [egyptson](http://twitter.com/search?q=egyptson) | N/A |
-| 27 | [nynäshamn](http://twitter.com/search?q=nyn%c3%a4shamn) | N/A |
-| 28 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 29 | [krüger](http://twitter.com/search?q=kr%c3%bcger) | N/A |
-| 30 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 31 | [Gdansk](http://twitter.com/search?q=Gdansk) | N/A |
-| 32 | [Thornberg](http://twitter.com/search?q=Thornberg) | N/A |
+| 26 | [nynäshamn](http://twitter.com/search?q=nyn%c3%a4shamn) | N/A |
+| 27 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
+| 28 | [krüger](http://twitter.com/search?q=kr%c3%bcger) | N/A |
+| 29 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 30 | [Gdansk](http://twitter.com/search?q=Gdansk) | N/A |
+| 31 | [Thornberg](http://twitter.com/search?q=Thornberg) | N/A |
+| 32 | [Egyptson](http://twitter.com/search?q=Egyptson) | N/A |
 | 33 | [IRIS-T](http://twitter.com/search?q=IRIS-T) | N/A |
 | 34 | [Gent](http://twitter.com/search?q=Gent) | N/A |
 | 35 | [Steve Bannon](http://twitter.com/search?q=Steve+Bannon) | N/A |
@@ -58,12 +58,12 @@ This is top 50 for Sweden
 | 41 | [Public Service](http://twitter.com/search?q=Public+Service) | N/A |
 | 42 | [Biden](http://twitter.com/search?q=Biden) | Biden is the surname of the current President of the United States, Joe Biden. It is an English surname derived from the Old English personal name Bida, which means "one who bids". |
 | 43 | [fredag](http://twitter.com/search?q=fredag) | N/A |
-| 44 | [staaf](http://twitter.com/search?q=staaf) | N/A |
-| 45 | [Archer](http://twitter.com/search?q=Archer) | N/A |
-| 46 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 47 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 48 | [guldskölden](http://twitter.com/search?q=guldsk%c3%b6lden) | N/A |
-| 49 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 44 | [Archer](http://twitter.com/search?q=Archer) | N/A |
+| 45 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 46 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 47 | [guldskölden](http://twitter.com/search?q=guldsk%c3%b6lden) | N/A |
+| 48 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 49 | [SSAB](http://twitter.com/search?q=SSAB) | N/A |
 | 50 | [sergels torg](http://twitter.com/search?q=sergels+torg) | N/A |
 
 

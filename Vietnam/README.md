@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-25 05:16:16 UTC`
+📆 Last Updated: `2023-02-25 06:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for Vietnam
 | 9 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 10 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
 | 11 | [Valentino - WINWIN](http://twitter.com/search?q=Valentino+-+WINWIN) | N/A |
-| 12 | [apo happy birthday](http://twitter.com/search?q=apo+happy+birthday) | N/A |
+| 12 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
 | 13 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
 | 14 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 15 | [CHARLOTTE 2nd MV BROTHER](http://twitter.com/search?q=CHARLOTTE+2nd+MV+BROTHER) | N/A |
-| 16 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 17 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 18 | [JISOO FOR VOGUE FRANCE](http://twitter.com/search?q=JISOO+FOR+VOGUE+FRANCE) | N/A |
-| 19 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 20 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
-| 21 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 22 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 23 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 24 | [Sphinx](http://twitter.com/search?q=Sphinx) | N/A |
-| 25 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
+| 15 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
+| 16 | [JISOO FOR VOGUE FRANCE](http://twitter.com/search?q=JISOO+FOR+VOGUE+FRANCE) | N/A |
+| 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 18 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
+| 19 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 20 | [Chuẩn](http://twitter.com/search?q=Chu%e1%ba%a9n) | N/A |
+| 21 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 22 | [Sphinx](http://twitter.com/search?q=Sphinx) | N/A |
+| 23 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
+| 24 | [Thôi](http://twitter.com/search?q=Th%c3%b4i) | N/A |
+| 25 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
 | 26 | [kiana](http://twitter.com/search?q=kiana) | N/A |
 | 27 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
 | 28 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
 | 29 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 30 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 31 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
-| 32 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 33 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 34 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 35 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
-| 36 | [PHẢI](http://twitter.com/search?q=PH%e1%ba%a2I) | N/A |
-| 37 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
-| 38 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 39 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 40 | [Thực](http://twitter.com/search?q=Th%e1%bb%b1c) | N/A |
-| 41 | [Xinh](http://twitter.com/search?q=Xinh) | N/A |
-| 42 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 30 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 31 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 32 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
+| 33 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 34 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
+| 35 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 36 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 37 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 38 | [PHẢI](http://twitter.com/search?q=PH%e1%ba%a2I) | N/A |
+| 39 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
+| 40 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 41 | [Thực](http://twitter.com/search?q=Th%e1%bb%b1c) | N/A |
+| 42 | [Theo](http://twitter.com/search?q=Theo) | N/A |
 | 43 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 44 | [Tây Ban Nha](http://twitter.com/search?q=T%c3%a2y+Ban+Nha) | N/A |
+| 44 | [New York](http://twitter.com/search?q=New+York) | N/A |
 | 45 | [Cosmos](http://twitter.com/search?q=Cosmos) | N/A |
-| 46 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
-| 47 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
+| 46 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 47 | [iPhone](http://twitter.com/search?q=iPhone) | N/A |
 | 48 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 49 | [Trịnh Gia](http://twitter.com/search?q=Tr%e1%bb%8bnh+Gia) | N/A |
-| 50 | [dang hong hai](http://twitter.com/search?q=dang+hong+hai) | N/A |
+| 49 | [Tây Ban Nha](http://twitter.com/search?q=T%c3%a2y+Ban+Nha) | N/A |
+| 50 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 
 
 

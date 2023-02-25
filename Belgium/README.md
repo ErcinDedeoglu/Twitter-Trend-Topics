@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-25 05:16:09 UTC`
+📆 Last Updated: `2023-02-25 06:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -28,43 +28,43 @@ This is top 50 for Belgium
 | 11 | [oprechte](http://twitter.com/search?q=oprechte) | N/A |
 | 12 | [Bert](http://twitter.com/search?q=Bert) | N/A |
 | 13 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 14 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 15 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 16 | [verbruggen](http://twitter.com/search?q=verbruggen) | N/A |
+| 14 | [Jihad](http://twitter.com/search?q=Jihad) | N/A |
+| 15 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 16 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 | 17 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
 | 18 | [Innige](http://twitter.com/search?q=Innige) | N/A |
 | 19 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 20 | [Jihad](http://twitter.com/search?q=Jihad) | N/A |
-| 21 | [olivier vandecasteele](http://twitter.com/search?q=olivier+vandecasteele) | N/A |
-| 22 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 23 | [Dries](http://twitter.com/search?q=Dries) | N/A |
-| 24 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
-| 25 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
-| 26 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 27 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
-| 28 | [Giveon](http://twitter.com/search?q=Giveon) | N/A |
-| 29 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
-| 30 | [fn herstal](http://twitter.com/search?q=fn+herstal) | N/A |
-| 31 | [Ludogorets](http://twitter.com/search?q=Ludogorets) | N/A |
-| 32 | [De Lie](http://twitter.com/search?q=De+Lie) | N/A |
-| 33 | [Yari](http://twitter.com/search?q=Yari) | N/A |
-| 34 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 35 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 36 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 37 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 38 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
-| 39 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 40 | [colruyt](http://twitter.com/search?q=colruyt) | N/A |
-| 41 | [UN Charter](http://twitter.com/search?q=UN+Charter) | N/A |
-| 42 | [pidcock](http://twitter.com/search?q=pidcock) | N/A |
-| 43 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 44 | [lotto park](http://twitter.com/search?q=lotto+park) | N/A |
-| 45 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
-| 46 | [Qu'Allah](http://twitter.com/search?q=Qu%27Allah) | N/A |
-| 47 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
-| 48 | [slimani](http://twitter.com/search?q=slimani) | N/A |
-| 49 | [marokkanen](http://twitter.com/search?q=marokkanen) | N/A |
-| 50 | [efteling](http://twitter.com/search?q=efteling) | N/A |
+| 20 | [olivier vandecasteele](http://twitter.com/search?q=olivier+vandecasteele) | N/A |
+| 21 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 22 | [Dries](http://twitter.com/search?q=Dries) | N/A |
+| 23 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
+| 24 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 25 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 26 | [Anderlecht](http://twitter.com/search?q=Anderlecht) | N/A |
+| 27 | [Giveon](http://twitter.com/search?q=Giveon) | N/A |
+| 28 | [Lewis Capaldi](http://twitter.com/search?q=Lewis+Capaldi) | N/A |
+| 29 | [fn herstal](http://twitter.com/search?q=fn+herstal) | N/A |
+| 30 | [Ludogorets](http://twitter.com/search?q=Ludogorets) | N/A |
+| 31 | [De Lie](http://twitter.com/search?q=De+Lie) | N/A |
+| 32 | [Yari](http://twitter.com/search?q=Yari) | N/A |
+| 33 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 34 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 35 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 36 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 37 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 38 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 39 | [colruyt](http://twitter.com/search?q=colruyt) | N/A |
+| 40 | [UN Charter](http://twitter.com/search?q=UN+Charter) | N/A |
+| 41 | [Pidcock](http://twitter.com/search?q=Pidcock) | N/A |
+| 42 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 43 | [lotto park](http://twitter.com/search?q=lotto+park) | N/A |
+| 44 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
+| 45 | [Qu'Allah](http://twitter.com/search?q=Qu%27Allah) | N/A |
+| 46 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
+| 47 | [slimani](http://twitter.com/search?q=slimani) | N/A |
+| 48 | [marokkanen](http://twitter.com/search?q=marokkanen) | N/A |
+| 49 | [Efteling](http://twitter.com/search?q=Efteling) | N/A |
+| 50 | [Bart Verbruggen](http://twitter.com/search?q=Bart+Verbruggen) | N/A |
 
 
 

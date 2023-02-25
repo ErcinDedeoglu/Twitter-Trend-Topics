@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Toluca
 
-📆 Last Updated: `2023-02-25 05:15:26 UTC`
+📆 Last Updated: `2023-02-25 06:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Mexico](</Mexico>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 2 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 3 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
-| 4 | [#AtletasEnRiesgo](http://twitter.com/search?q=%23AtletasEnRiesgo) | N/A |
-| 5 | [YOU ARE THE STAR MATI](http://twitter.com/search?q=YOU+ARE+THE+STAR+MATI) | N/A |
-| 6 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
-| 7 | [Anáhuac](http://twitter.com/search?q=An%c3%a1huac) | N/A |
-| 8 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
-| 9 | [Salvio](http://twitter.com/search?q=Salvio) | N/A |
-| 10 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
-| 11 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
-| 12 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
-| 13 | [Toto](http://twitter.com/search?q=Toto) | N/A |
-| 14 | [Del Petre](http://twitter.com/search?q=Del+Petre) | N/A |
-| 15 | [#MinistraDoblePirata](http://twitter.com/search?q=%23MinistraDoblePirata) | N/A |
-| 16 | [Cinta](http://twitter.com/search?q=Cinta) | Cinta is a Malay and Indonesian word that means "love". It is often used to refer to romantic love, but can also be used to describe familial love or platonic love. |
-| 17 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
-| 18 | [SOL ON FIRE](http://twitter.com/search?q=SOL+ON+FIRE) | N/A |
-| 19 | [Maciel](http://twitter.com/search?q=Maciel) | N/A |
-| 20 | [Esos 4](http://twitter.com/search?q=Esos+4) | N/A |
-| 21 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 22 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
-| 23 | [Ricardo Salinas](http://twitter.com/search?q=Ricardo+Salinas) | N/A |
-| 24 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 25 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
-| 26 | [Corrupta](http://twitter.com/search?q=Corrupta) | N/A |
-| 27 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
-| 28 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 29 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
-| 30 | [El Poder Judicial](http://twitter.com/search?q=El+Poder+Judicial) | N/A |
-| 31 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 32 | [Esquivel](http://twitter.com/search?q=Esquivel) | N/A |
-| 33 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 34 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 35 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 36 | [Tesis](http://twitter.com/search?q=Tesis) | N/A |
-| 37 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
-| 38 | [Samira](http://twitter.com/search?q=Samira) | N/A |
-| 39 | [Shaki](http://twitter.com/search?q=Shaki) | N/A |
-| 40 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 41 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
-| 42 | [#quackityfanart](http://twitter.com/search?q=%23quackityfanart) | N/A |
-| 43 | [#SoyDePumas](http://twitter.com/search?q=%23SoyDePumas) | N/A |
-| 44 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 45 | [#DriveToSurvive](http://twitter.com/search?q=%23DriveToSurvive) | N/A |
-| 46 | [#Necaxa](http://twitter.com/search?q=%23Necaxa) | N/A |
-| 47 | [#MarchaDeLosNarcos](http://twitter.com/search?q=%23MarchaDeLosNarcos) | N/A |
+| 1 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 2 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
+| 3 | [Rafa Puente](http://twitter.com/search?q=Rafa+Puente) | N/A |
+| 4 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 5 | [Dinenno](http://twitter.com/search?q=Dinenno) | N/A |
+| 6 | [#AtletasEnRiesgo](http://twitter.com/search?q=%23AtletasEnRiesgo) | N/A |
+| 7 | [YOU ARE THE STAR MATI](http://twitter.com/search?q=YOU+ARE+THE+STAR+MATI) | N/A |
+| 8 | [Salvio](http://twitter.com/search?q=Salvio) | N/A |
+| 9 | [Anáhuac](http://twitter.com/search?q=An%c3%a1huac) | N/A |
+| 10 | [#ViernesBotanero](http://twitter.com/search?q=%23ViernesBotanero) | N/A |
+| 11 | [El VAR](http://twitter.com/search?q=El+VAR) | El VAR is an acronym for Video Assistant Referee, which is a technology used in soccer to help referees make decisions. It uses video replays to review decisions made by the referee on the field. In English, it means Video Assistant Referee. |
+| 12 | [Salinas Pliego](http://twitter.com/search?q=Salinas+Pliego) | N/A |
+| 13 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
+| 14 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
+| 15 | [Del Prete](http://twitter.com/search?q=Del+Prete) | N/A |
+| 16 | [#FueraPuente](http://twitter.com/search?q=%23FueraPuente) | N/A |
+| 17 | [Micky](http://twitter.com/search?q=Micky) | N/A |
+| 18 | [Ruvalcaba](http://twitter.com/search?q=Ruvalcaba) | N/A |
+| 19 | [Romano](http://twitter.com/search?q=Romano) | N/A |
+| 20 | [Necaxa](http://twitter.com/search?q=Necaxa) | Necaxa is a Mexican professional football club based in Aguascalientes, Mexico. The name Necaxa is derived from the Nahuatl language and means “Place of the Four Waters”. |
+| 21 | [Toto](http://twitter.com/search?q=Toto) | N/A |
+| 22 | [Mazapán](http://twitter.com/search?q=Mazap%c3%a1n) | N/A |
+| 23 | [Cinta](http://twitter.com/search?q=Cinta) | Cinta is a Malay and Indonesian word that means "love". It is often used to refer to romantic love, but can also be used to describe familial love or platonic love. |
+| 24 | [Ricardo Salinas](http://twitter.com/search?q=Ricardo+Salinas) | N/A |
+| 25 | [SOL ON FIRE](http://twitter.com/search?q=SOL+ON+FIRE) | N/A |
+| 26 | [Del Petre](http://twitter.com/search?q=Del+Petre) | N/A |
+| 27 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 28 | [Maciel](http://twitter.com/search?q=Maciel) | N/A |
+| 29 | [Querétaro](http://twitter.com/search?q=Quer%c3%a9taro) | N/A |
+| 30 | [Esos 4](http://twitter.com/search?q=Esos+4) | N/A |
+| 31 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
+| 32 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 33 | [Heliud](http://twitter.com/search?q=Heliud) | N/A |
+| 34 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 35 | [Richie](http://twitter.com/search?q=Richie) | N/A |
+| 36 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
+| 37 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 38 | [Vergonzoso](http://twitter.com/search?q=Vergonzoso) | N/A |
+| 39 | [Corrupta](http://twitter.com/search?q=Corrupta) | N/A |
+| 40 | [Rocky](http://twitter.com/search?q=Rocky) | N/A |
+| 41 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
+| 42 | [Gallos](http://twitter.com/search?q=Gallos) | N/A |
+| 43 | [El Poder Judicial](http://twitter.com/search?q=El+Poder+Judicial) | N/A |
+| 44 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 45 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 46 | [Shaki](http://twitter.com/search?q=Shaki) | N/A |
+| 47 | [#MinistraDoblePirata](http://twitter.com/search?q=%23MinistraDoblePirata) | N/A |
 
 
 

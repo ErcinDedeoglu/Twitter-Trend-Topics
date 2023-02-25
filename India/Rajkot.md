@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rajkot
 
-📆 Last Updated: `2023-02-25 05:15:56 UTC`
+📆 Last Updated: `2023-02-25 06:16:07 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [India](</India>)
 | ------- | ------------ | ------------ |
 | 1 | [#LaraconIN](http://twitter.com/search?q=%23LaraconIN) | N/A |
 | 2 | [#Who_Is_SantGaribdasJiMaharaj](http://twitter.com/search?q=%23Who_Is_SantGaribdasJiMaharaj) | N/A |
-| 3 | [#WeLovedMatruPitruPujan](http://twitter.com/search?q=%23WeLovedMatruPitruPujan) | N/A |
-| 4 | [#OrganicYield](http://twitter.com/search?q=%23OrganicYield) | N/A |
-| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 3 | [#YogiMeansGovernance](http://twitter.com/search?q=%23YogiMeansGovernance) | N/A |
+| 4 | [#TheHinduLitForLife](http://twitter.com/search?q=%23TheHinduLitForLife) | N/A |
+| 5 | [#GlobalTriumphRAMCHARAN](http://twitter.com/search?q=%23GlobalTriumphRAMCHARAN) | N/A |
 | 6 | [गरीब दास](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
 | 7 | [Thanks To Asharamji Bapu](http://twitter.com/search?q=Thanks+To+Asharamji+Bapu) | N/A |
 | 8 | [For Beautiful Initiative](http://twitter.com/search?q=For+Beautiful+Initiative) | N/A |
-| 9 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 10 | [God Kabir](http://twitter.com/search?q=God+Kabir) | N/A |
-| 11 | [Satlok](http://twitter.com/search?q=Satlok) | Satlok is a term used to refer to the spiritual abode of the god Satnam, which is believed to be located in the higher realms of existence. The literal meaning of Satlok in English is "the abode of truth". |
-| 12 | [SSRCs Evidences Point Murder](http://twitter.com/search?q=SSRCs+Evidences+Point+Murder) | N/A |
-| 13 | [Best International Film](http://twitter.com/search?q=Best+International+Film) | N/A |
-| 14 | [Best Action Film](http://twitter.com/search?q=Best+Action+Film) | N/A |
+| 9 | [SSRCs Evidences Point Murder](http://twitter.com/search?q=SSRCs+Evidences+Point+Murder) | N/A |
+| 10 | [Best International Film](http://twitter.com/search?q=Best+International+Film) | N/A |
+| 11 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 12 | [Satlok](http://twitter.com/search?q=Satlok) | Satlok is a term used to refer to the spiritual abode of the god Satnam, which is believed to be located in the higher realms of existence. The literal meaning of Satlok in English is "the abode of truth". |
+| 13 | [Best Action Film](http://twitter.com/search?q=Best+Action+Film) | N/A |
+| 14 | [Fav Director](http://twitter.com/search?q=Fav+Director) | N/A |
 | 15 | [Best Stunts](http://twitter.com/search?q=Best+Stunts) | N/A |
-| 16 | [Fav Director](http://twitter.com/search?q=Fav+Director) | N/A |
-| 17 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 18 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 16 | [सुरेंद्र सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
+| 17 | [God Kabir](http://twitter.com/search?q=God+Kabir) | N/A |
+| 18 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
 | 19 | [Fav IPL Team](http://twitter.com/search?q=Fav+IPL+Team) | N/A |
-| 20 | [अनन्त कोटि](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%9f%e0%a4%bf) | N/A |
-| 21 | [सुरेंद्र सिंह](http://twitter.com/search?q=%e0%a4%b8%e0%a5%81%e0%a4%b0%e0%a5%87%e0%a4%82%e0%a4%a6%e0%a5%8d%e0%a4%b0+%e0%a4%b8%e0%a4%bf%e0%a4%82%e0%a4%b9) | N/A |
-| 22 | [Fav Music Director](http://twitter.com/search?q=Fav+Music+Director) | N/A |
-| 23 | [Fav Actress](http://twitter.com/search?q=Fav+Actress) | N/A |
+| 20 | [Fav Actress](http://twitter.com/search?q=Fav+Actress) | N/A |
+| 21 | [Fav Music Director](http://twitter.com/search?q=Fav+Music+Director) | N/A |
+| 22 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 23 | [Face of RRR](http://twitter.com/search?q=Face+of+RRR) | N/A |
 | 24 | [Fav Cricketer](http://twitter.com/search?q=Fav+Cricketer) | N/A |
-| 25 | [अलख अल्लाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a4%96+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
-| 26 | [अनिल जैन](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
+| 25 | [अनन्त कोटि](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%9f%e0%a4%bf) | N/A |
+| 26 | [मास सुदी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b8+%e0%a4%b8%e0%a5%81%e0%a4%a6%e0%a5%80) | N/A |
 | 27 | [Fav Actor](http://twitter.com/search?q=Fav+Actor) | N/A |
-| 28 | [Chhudani](http://twitter.com/search?q=Chhudani) | N/A |
-| 29 | [गोपाल दास](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 30 | [मास सुदी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b8+%e0%a4%b8%e0%a5%81%e0%a4%a6%e0%a5%80) | N/A |
+| 28 | [Skilling and Education](http://twitter.com/search?q=Skilling+and+Education) | N/A |
+| 29 | [MS Dhoni](http://twitter.com/search?q=MS+Dhoni) | N/A |
+| 30 | [अनिल जैन](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
 | 31 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 32 | [श्री अमित शाह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
-| 33 | [With Your](http://twitter.com/search?q=With+Your) | N/A |
-| 34 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
-| 35 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 36 | [Shah Rukh Khan](http://twitter.com/search?q=Shah+Rukh+Khan) | N/A |
-| 37 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 38 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 39 | [Amritpal](http://twitter.com/search?q=Amritpal) | N/A |
-| 40 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
-| 41 | [#HCAFilmAwards](http://twitter.com/search?q=%23HCAFilmAwards) | N/A |
-| 42 | [#RRRMovie](http://twitter.com/search?q=%23RRRMovie) | #RRRMovie is a hashtag used to refer to the upcoming Indian film RRR (Rise Roar Revolt). The film is directed by S. S. Rajamouli and stars Ram Charan, Jr. NTR, Alia Bhatt, Ajay Devgn, and Olivia Morris. The hashtag is used to promote the movie and share updates about its production and release. In English, the hashtag translates to "RRR Movie". |
-| 43 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 44 | [#ErodeEastWelcomesMKS](http://twitter.com/search?q=%23ErodeEastWelcomesMKS) | N/A |
-| 45 | [#1YearForBheemlaNayak](http://twitter.com/search?q=%231YearForBheemlaNayak) | N/A |
-| 46 | [#AmitShahJiKeSwagatBa](http://twitter.com/search?q=%23AmitShahJiKeSwagatBa) | N/A |
-| 47 | [#railway_groupd_waiting_do](http://twitter.com/search?q=%23railway_groupd_waiting_do) | N/A |
-| 48 | [#CongressVoiceOfIndia](http://twitter.com/search?q=%23CongressVoiceOfIndia) | N/A |
-| 49 | [#HCAAwards](http://twitter.com/search?q=%23HCAAwards) | N/A |
-| 50 | [#HBDGauthamVasudevMenon](http://twitter.com/search?q=%23HBDGauthamVasudevMenon) | N/A |
+| 32 | [German Chancellor](http://twitter.com/search?q=German+Chancellor) | N/A |
+| 33 | [अलख अल्लाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a4%96+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
+| 34 | [Chhudani](http://twitter.com/search?q=Chhudani) | N/A |
+| 35 | [गोपाल दास](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
+| 36 | [With Your](http://twitter.com/search?q=With+Your) | N/A |
+| 37 | [श्री अमित शाह](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
+| 38 | [Shah Rukh Khan](http://twitter.com/search?q=Shah+Rukh+Khan) | N/A |
+| 39 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 40 | [Khalistan](http://twitter.com/search?q=Khalistan) | N/A |
+| 41 | [Hindu Rashtra](http://twitter.com/search?q=Hindu+Rashtra) | N/A |
+| 42 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 43 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 44 | [Amritpal](http://twitter.com/search?q=Amritpal) | N/A |
+| 45 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 46 | [Kejriwal](http://twitter.com/search?q=Kejriwal) | N/A |
+| 47 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 48 | [#Budget4Skills](http://twitter.com/search?q=%23Budget4Skills) | N/A |
+| 49 | [#CongressVoiceOfIndia](http://twitter.com/search?q=%23CongressVoiceOfIndia) | N/A |
+| 50 | [#RRRMovie](http://twitter.com/search?q=%23RRRMovie) | #RRRMovie is a hashtag used to refer to the upcoming Indian film RRR (Rise Roar Revolt). The film is directed by S. S. Rajamouli and stars Ram Charan, Jr. NTR, Alia Bhatt, Ajay Devgn, and Olivia Morris. The hashtag is used to promote the movie and share updates about its production and release. In English, the hashtag translates to "RRR Movie". |
 
 
 

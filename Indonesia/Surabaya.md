@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Surabaya
 
-📆 Last Updated: `2023-02-25 05:15:40 UTC`
+📆 Last Updated: `2023-02-25 06:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -26,45 +26,45 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 9 | [prabowo untuk indonesia](http://twitter.com/search?q=prabowo+untuk+indonesia) | N/A |
 | 10 | [setujuuu mending prabowo](http://twitter.com/search?q=setujuuu+mending+prabowo) | N/A |
 | 11 | [#JKT48diTokopediaWIB](http://twitter.com/search?q=%23JKT48diTokopediaWIB) | N/A |
-| 12 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
-| 13 | [#WINfinity2023](http://twitter.com/search?q=%23WINfinity2023) | N/A |
+| 12 | [#XporaSirnasBatam](http://twitter.com/search?q=%23XporaSirnasBatam) | N/A |
+| 13 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
 | 14 | [BulanLiterasiKripto](http://twitter.com/search?q=BulanLiterasiKripto) | N/A |
 | 15 | [Dandy](http://twitter.com/search?q=Dandy) | N/A |
 | 16 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
-| 17 | [cs misterius bca](http://twitter.com/search?q=cs+misterius+bca) | N/A |
-| 18 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 19 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 20 | [valid no debat](http://twitter.com/search?q=valid+no+debat) | N/A |
-| 21 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 22 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 23 | [prabowo pilihan kita](http://twitter.com/search?q=prabowo+pilihan+kita) | N/A |
-| 24 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 25 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
-| 26 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 27 | [Cerai](http://twitter.com/search?q=Cerai) | N/A |
-| 28 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
-| 29 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
-| 30 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
-| 31 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
-| 32 | [Charis Yulianto](http://twitter.com/search?q=Charis+Yulianto) | N/A |
-| 33 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
-| 34 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
-| 35 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
-| 36 | [petisi 99 kyai](http://twitter.com/search?q=petisi+99+kyai) | N/A |
-| 37 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
-| 38 | [Budi Sudarsono](http://twitter.com/search?q=Budi+Sudarsono) | N/A |
-| 39 | [Elif](http://twitter.com/search?q=Elif) | N/A |
-| 40 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 41 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
-| 42 | [Agam](http://twitter.com/search?q=Agam) | N/A |
-| 43 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 17 | [Danamon](http://twitter.com/search?q=Danamon) | N/A |
+| 18 | [cs misterius bca](http://twitter.com/search?q=cs+misterius+bca) | N/A |
+| 19 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 20 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 21 | [valid no debat](http://twitter.com/search?q=valid+no+debat) | N/A |
+| 22 | [IIMS 2023](http://twitter.com/search?q=IIMS+2023) | N/A |
+| 23 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 24 | [Cerai](http://twitter.com/search?q=Cerai) | N/A |
+| 25 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 26 | [prabowo pilihan kita](http://twitter.com/search?q=prabowo+pilihan+kita) | N/A |
+| 27 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
+| 28 | [GP Ansor](http://twitter.com/search?q=GP+Ansor) | N/A |
+| 29 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 30 | [Sirkuit Nasional](http://twitter.com/search?q=Sirkuit+Nasional) | N/A |
+| 31 | [Rubicon](http://twitter.com/search?q=Rubicon) | N/A |
+| 32 | [SEHUN NISEU COTY](http://twitter.com/search?q=SEHUN+NISEU+COTY) | N/A |
+| 33 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
+| 34 | [Elif](http://twitter.com/search?q=Elif) | N/A |
+| 35 | [Narnia](http://twitter.com/search?q=Narnia) | N/A |
+| 36 | [Eka Ramdani](http://twitter.com/search?q=Eka+Ramdani) | N/A |
+| 37 | [Firman Utina](http://twitter.com/search?q=Firman+Utina) | N/A |
+| 38 | [D-Bank PRO](http://twitter.com/search?q=D-Bank+PRO) | N/A |
+| 39 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
+| 40 | [Maleficent](http://twitter.com/search?q=Maleficent) | N/A |
+| 41 | [Dicopot](http://twitter.com/search?q=Dicopot) | N/A |
+| 42 | [Budi Sudarsono](http://twitter.com/search?q=Budi+Sudarsono) | N/A |
+| 43 | [Charis Yulianto](http://twitter.com/search?q=Charis+Yulianto) | N/A |
 | 44 | [Sayang 2](http://twitter.com/search?q=Sayang+2) | N/A |
-| 45 | [Pengacara](http://twitter.com/search?q=Pengacara) | N/A |
-| 46 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
-| 47 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 48 | [Teguh Berislam Kaffah](http://twitter.com/search?q=Teguh+Berislam+Kaffah) | N/A |
-| 49 | [Ohayou](http://twitter.com/search?q=Ohayou) | N/A |
-| 50 | [D-Bank PRO](http://twitter.com/search?q=D-Bank+PRO) | N/A |
+| 45 | [Surabaya BIN Samator](http://twitter.com/search?q=Surabaya+BIN+Samator) | N/A |
+| 46 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 47 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
+| 48 | [Kartu Debit](http://twitter.com/search?q=Kartu+Debit) | N/A |
+| 49 | [agam](http://twitter.com/search?q=agam) | N/A |
+| 50 | [BAEKHYUN WORLD TOUR](http://twitter.com/search?q=BAEKHYUN+WORLD+TOUR) | N/A |
 
 
 

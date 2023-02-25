@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-25 05:16:10 UTC`
+📆 Last Updated: `2023-02-25 06:16:20 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,37 +23,37 @@ This is top 50 for Denmark
 | 6 | [#obdk](http://twitter.com/search?q=%23obdk) | N/A |
 | 7 | [#fcmscp](http://twitter.com/search?q=%23fcmscp) | N/A |
 | 8 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
-| 9 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 10 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
-| 11 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 9 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 10 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 11 | [midtjylland](http://twitter.com/search?q=midtjylland) | N/A |
 | 12 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 13 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 14 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 15 | [Ecco](http://twitter.com/search?q=Ecco) | N/A |
-| 16 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 17 | [Zelenskyj](http://twitter.com/search?q=Zelenskyj) | N/A |
-| 18 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 19 | [peter seier](http://twitter.com/search?q=peter+seier) | N/A |
-| 20 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
-| 21 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 22 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
-| 23 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 24 | [ukrainske](http://twitter.com/search?q=ukrainske) | N/A |
-| 25 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 26 | [Parken](http://twitter.com/search?q=Parken) | N/A |
-| 27 | [Irak](http://twitter.com/search?q=Irak) | N/A |
-| 28 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
-| 29 | [russiske](http://twitter.com/search?q=russiske) | N/A |
-| 30 | [yousee](http://twitter.com/search?q=yousee) | N/A |
-| 31 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 32 | [i danmark](http://twitter.com/search?q=i+danmark) | N/A |
-| 33 | [jarlov](http://twitter.com/search?q=jarlov) | N/A |
-| 34 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 35 | [jonas vingegaard](http://twitter.com/search?q=jonas+vingegaard) | N/A |
-| 36 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
-| 37 | [kolding](http://twitter.com/search?q=kolding) | N/A |
-| 38 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 39 | [Europas](http://twitter.com/search?q=Europas) | N/A |
+| 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 14 | [Ecco](http://twitter.com/search?q=Ecco) | N/A |
+| 15 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 16 | [Zelenskyj](http://twitter.com/search?q=Zelenskyj) | N/A |
+| 17 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 18 | [peter seier](http://twitter.com/search?q=peter+seier) | N/A |
+| 19 | [Alpha](http://twitter.com/search?q=Alpha) | N/A |
+| 20 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 21 | [Daniel](http://twitter.com/search?q=Daniel) | N/A |
+| 22 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 23 | [ukrainske](http://twitter.com/search?q=ukrainske) | N/A |
+| 24 | [Krim](http://twitter.com/search?q=Krim) | N/A |
+| 25 | [Parken](http://twitter.com/search?q=Parken) | N/A |
+| 26 | [Irak](http://twitter.com/search?q=Irak) | N/A |
+| 27 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
+| 28 | [russiske](http://twitter.com/search?q=russiske) | N/A |
+| 29 | [yousee](http://twitter.com/search?q=yousee) | N/A |
+| 30 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 31 | [i danmark](http://twitter.com/search?q=i+danmark) | N/A |
+| 32 | [jarlov](http://twitter.com/search?q=jarlov) | N/A |
+| 33 | [kinas](http://twitter.com/search?q=kinas) | N/A |
+| 34 | [jonas vingegaard](http://twitter.com/search?q=jonas+vingegaard) | N/A |
+| 35 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
+| 36 | [kolding](http://twitter.com/search?q=kolding) | N/A |
+| 37 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 38 | [Europas](http://twitter.com/search?q=Europas) | N/A |
+| 39 | [NATO](http://twitter.com/search?q=NATO) | N/A |
 | 40 | [Israel](http://twitter.com/search?q=Israel) | N/A |
 | 41 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 42 | [Netto](http://twitter.com/search?q=Netto) | N/A |

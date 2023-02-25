@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-25 05:16:09 UTC`
+📆 Last Updated: `2023-02-25 06:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,21 +17,21 @@ This is top 50 for Belarus
 | ------- | ------------ | ------------ |
 | 1 | [минска](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bd%d1%81%d0%ba%d0%b0) | N/A |
 | 2 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 3 | [отечества](http://twitter.com/search?q=%d0%be%d1%82%d0%b5%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0) | N/A |
+| 3 | [Отечества](http://twitter.com/search?q=%d0%9e%d1%82%d0%b5%d1%87%d0%b5%d1%81%d1%82%d0%b2%d0%b0) | N/A |
 | 4 | [Китая](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d1%8f) | N/A |
 | 5 | [днем](http://twitter.com/search?q=%d0%b4%d0%bd%d0%b5%d0%bc) | N/A |
 | 6 | [#SurvivalinUnity](http://twitter.com/search?q=%23SurvivalinUnity) | N/A |
 | 7 | [Украину](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%83) | N/A |
 | 8 | [#ArtistOnTwitter](http://twitter.com/search?q=%23ArtistOnTwitter) | N/A |
-| 9 | [#CryptoNews](http://twitter.com/search?q=%23CryptoNews) | N/A |
+| 9 | [Интересно](http://twitter.com/search?q=%d0%98%d0%bd%d1%82%d0%b5%d1%80%d0%b5%d1%81%d0%bd%d0%be) | N/A |
 | 10 | [республики беларусь](http://twitter.com/search?q=%d1%80%d0%b5%d1%81%d0%bf%d1%83%d0%b1%d0%bb%d0%b8%d0%ba%d0%b8+%d0%b1%d0%b5%d0%bb%d0%b0%d1%80%d1%83%d1%81%d1%8c) | N/A |
 | 11 | [#GlobalCrisis](http://twitter.com/search?q=%23GlobalCrisis) | N/A |
 | 12 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 13 | [правильно](http://twitter.com/search?q=%d0%bf%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
-| 14 | [в бресте](http://twitter.com/search?q=%d0%b2+%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
-| 15 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
-| 16 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
-| 17 | [мило](http://twitter.com/search?q=%d0%bc%d0%b8%d0%bb%d0%be) | N/A |
+| 13 | [Правильно](http://twitter.com/search?q=%d0%9f%d1%80%d0%b0%d0%b2%d0%b8%d0%bb%d1%8c%d0%bd%d0%be) | N/A |
+| 14 | [#CryptoNews](http://twitter.com/search?q=%23CryptoNews) | N/A |
+| 15 | [в бресте](http://twitter.com/search?q=%d0%b2+%d0%b1%d1%80%d0%b5%d1%81%d1%82%d0%b5) | N/A |
+| 16 | [СССР](http://twitter.com/search?q=%d0%a1%d0%a1%d0%a1%d0%a0) | N/A |
+| 17 | [Киева](http://twitter.com/search?q=%d0%9a%d0%b8%d0%b5%d0%b2%d0%b0) | N/A |
 | 18 | [брестской](http://twitter.com/search?q=%d0%b1%d1%80%d0%b5%d1%81%d1%82%d1%81%d0%ba%d0%be%d0%b9) | N/A |
 | 19 | [#DeFi](http://twitter.com/search?q=%23DeFi) | N/A |
 | 20 | [#CreativeSociety](http://twitter.com/search?q=%23CreativeSociety) | N/A |
