@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Melbourne
 
-📆 Last Updated: `2023-02-25 17:16:11 UTC`
+📆 Last Updated: `2023-02-25 18:16:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,37 +15,37 @@ This is top 50 for [Australia](</Australia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
-| 2 | [#MardiGras2023](http://twitter.com/search?q=%23MardiGras2023) | N/A |
+| 1 | [#MardiGras2023](http://twitter.com/search?q=%23MardiGras2023) | N/A |
+| 2 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
 | 3 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 4 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 5 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 4 | [#lufc](http://twitter.com/search?q=%23lufc) | #lufc is an abbreviation for Leeds United Football Club, a professional football club based in Leeds, England. The club was founded in 1919 and currently plays in the English Championship. |
+| 5 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 6 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 7 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 8 | [#WorldPride2023](http://twitter.com/search?q=%23WorldPride2023) | N/A |
-| 9 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 10 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 11 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 12 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 13 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
-| 14 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 15 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 7 | [#WorldPride2023](http://twitter.com/search?q=%23WorldPride2023) | N/A |
+| 8 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 9 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 10 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 11 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 12 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 13 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 14 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
+| 15 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
 | 16 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 17 | [Uncommon James](http://twitter.com/search?q=Uncommon+James) | N/A |
 | 18 | [Middle Australia](http://twitter.com/search?q=Middle+Australia) | N/A |
 | 19 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 20 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 21 | [Alligator Blood](http://twitter.com/search?q=Alligator+Blood) | N/A |
-| 22 | [sunshine in paris](http://twitter.com/search?q=sunshine+in+paris) | N/A |
-| 23 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
-| 24 | [teals](http://twitter.com/search?q=teals) | N/A |
-| 25 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 26 | [little brose](http://twitter.com/search?q=little+brose) | N/A |
-| 27 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 28 | [Oxford Street](http://twitter.com/search?q=Oxford+Street) | N/A |
+| 20 | [alligator blood](http://twitter.com/search?q=alligator+blood) | N/A |
+| 21 | [sunshine in paris](http://twitter.com/search?q=sunshine+in+paris) | N/A |
+| 22 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
+| 23 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 24 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 25 | [little brose](http://twitter.com/search?q=little+brose) | N/A |
+| 26 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 27 | [Oxford Street](http://twitter.com/search?q=Oxford+Street) | N/A |
+| 28 | [Teals](http://twitter.com/search?q=Teals) | N/A |
 | 29 | [Atar](http://twitter.com/search?q=Atar) | N/A |
-| 30 | [Howard](http://twitter.com/search?q=Howard) | N/A |
-| 31 | [katharine murphy](http://twitter.com/search?q=katharine+murphy) | N/A |
+| 30 | [katharine murphy](http://twitter.com/search?q=katharine+murphy) | N/A |
+| 31 | [Howard](http://twitter.com/search?q=Howard) | N/A |
 | 32 | [shuffle dancer](http://twitter.com/search?q=shuffle+dancer) | N/A |
 | 33 | [LEAVE AMERICA](http://twitter.com/search?q=LEAVE+AMERICA) | Leave America is a phrase used to express the idea of leaving the United States of America. It can be used as a call to action for those who wish to leave the country, or as a statement of intent for those who are planning to do so. It can also be used as a way to express frustration with the current political and social climate in the US. |
 | 34 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
@@ -54,17 +54,17 @@ This is top 50 for [Australia](</Australia>)
 | 37 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
 | 38 | [gold trip](http://twitter.com/search?q=gold+trip) | N/A |
 | 39 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 40 | [aboriginality](http://twitter.com/search?q=aboriginality) | N/A |
-| 41 | [Group 1](http://twitter.com/search?q=Group+1) | N/A |
-| 42 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 40 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 41 | [aboriginality](http://twitter.com/search?q=aboriginality) | N/A |
+| 42 | [Group 1](http://twitter.com/search?q=Group+1) | N/A |
 | 43 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
 | 44 | [simon benson](http://twitter.com/search?q=simon+benson) | N/A |
 | 45 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
 | 46 | [Goldstein](http://twitter.com/search?q=Goldstein) | N/A |
-| 47 | [Keats](http://twitter.com/search?q=Keats) | N/A |
-| 48 | [Ben Thompson](http://twitter.com/search?q=Ben+Thompson) | N/A |
-| 49 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 50 | [James Ashby](http://twitter.com/search?q=James+Ashby) | N/A |
+| 47 | [keats](http://twitter.com/search?q=keats) | N/A |
+| 48 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 49 | [Ben Thompson](http://twitter.com/search?q=Ben+Thompson) | N/A |
+| 50 | [Canes](http://twitter.com/search?q=Canes) | N/A |
 
 
 

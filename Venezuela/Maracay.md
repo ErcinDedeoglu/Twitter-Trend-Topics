@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Maracay
 
-📆 Last Updated: `2023-02-25 17:15:55 UTC`
+📆 Last Updated: `2023-02-25 18:16:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,49 +20,49 @@ This is top 50 for [Venezuela](</Venezuela>)
 | 3 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 4 | [#SancionesAsesinas](http://twitter.com/search?q=%23SancionesAsesinas) | N/A |
 | 5 | [Mi Vivienda](http://twitter.com/search?q=Mi+Vivienda) | N/A |
-| 6 | [#ConsultaPJ](http://twitter.com/search?q=%23ConsultaPJ) | N/A |
-| 7 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
-| 8 | [Cometin](http://twitter.com/search?q=Cometin) | N/A |
-| 9 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
-| 10 | [Astro](http://twitter.com/search?q=Astro) | N/A |
-| 11 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 12 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 13 | [Rumildo](http://twitter.com/search?q=Rumildo) | N/A |
-| 14 | [Martha Rodríguez miranda](http://twitter.com/search?q=Martha+Rodr%c3%adguez+miranda) | N/A |
-| 15 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
-| 16 | [Esperanza Magaz](http://twitter.com/search?q=Esperanza+Magaz) | N/A |
-| 17 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
-| 18 | [Sultán](http://twitter.com/search?q=Sult%c3%a1n) | N/A |
-| 19 | [Cinta](http://twitter.com/search?q=Cinta) | Cinta is a Malay and Indonesian word that means "love". It is often used to refer to romantic love, but can also be used to describe familial love or platonic love. |
-| 20 | [José José](http://twitter.com/search?q=Jos%c3%a9+Jos%c3%a9) | N/A |
-| 21 | [Jacinto Lara](http://twitter.com/search?q=Jacinto+Lara) | N/A |
-| 22 | [plan vuelta a la patria](http://twitter.com/search?q=plan+vuelta+a+la+patria) | N/A |
-| 23 | [Cristiano](http://twitter.com/search?q=Cristiano) | Cristiano is a Portuguese and Spanish given name derived from the Latin name Christianus, meaning "follower of Christ". It is also a surname. The name is popularly associated with Portuguese footballer Cristiano Ronaldo. |
-| 24 | [Los Supersónicos](http://twitter.com/search?q=Los+Supers%c3%b3nicos) | N/A |
-| 25 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
-| 26 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 27 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 28 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
-| 29 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 30 | [marino](http://twitter.com/search?q=marino) | N/A |
-| 31 | [césar granados](http://twitter.com/search?q=c%c3%a9sar+granados) | N/A |
-| 32 | [Lee Marvin](http://twitter.com/search?q=Lee+Marvin) | N/A |
-| 33 | [Salvador](http://twitter.com/search?q=Salvador) | N/A |
-| 34 | [daniel florencio o'leary](http://twitter.com/search?q=daniel+florencio+o%27leary) | N/A |
-| 35 | [José de San Martín](http://twitter.com/search?q=Jos%c3%a9+de+San+Mart%c3%adn) | N/A |
-| 36 | [Lee Hamilton](http://twitter.com/search?q=Lee+Hamilton) | N/A |
-| 37 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 38 | [Consejos Feministas](http://twitter.com/search?q=Consejos+Feministas) | N/A |
-| 39 | [Luis Aguile](http://twitter.com/search?q=Luis+Aguile) | N/A |
-| 40 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
-| 41 | [Puyol](http://twitter.com/search?q=Puyol) | N/A |
-| 42 | [Herminia Martinez](http://twitter.com/search?q=Herminia+Martinez) | N/A |
-| 43 | [paula avendaño](http://twitter.com/search?q=paula+avenda%c3%b1o) | N/A |
-| 44 | [Tren de Aragua](http://twitter.com/search?q=Tren+de+Aragua) | N/A |
-| 45 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 6 | [Kiko](http://twitter.com/search?q=Kiko) | N/A |
+| 7 | [Feliz Sábado](http://twitter.com/search?q=Feliz+S%c3%a1bado) | N/A |
+| 8 | [Chelo Rodríguez](http://twitter.com/search?q=Chelo+Rodr%c3%adguez) | N/A |
+| 9 | [Cometin](http://twitter.com/search?q=Cometin) | N/A |
+| 10 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 11 | [#ConsultaPJ](http://twitter.com/search?q=%23ConsultaPJ) | N/A |
+| 12 | [Astro](http://twitter.com/search?q=Astro) | N/A |
+| 13 | [Kroos](http://twitter.com/search?q=Kroos) | Kroos is a German surname derived from the Old German word "kross" meaning "cross". It is also a Dutch surname derived from the Old Dutch word "kroes" meaning "curly". |
+| 14 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
+| 16 | [Martha Rodríguez Miranda](http://twitter.com/search?q=Martha+Rodr%c3%adguez+Miranda) | N/A |
+| 17 | [Cinta](http://twitter.com/search?q=Cinta) | Cinta is a Malay and Indonesian word that means "love". It is often used to refer to romantic love, but can also be used to describe familial love or platonic love. |
+| 18 | [Primero Justicia](http://twitter.com/search?q=Primero+Justicia) | N/A |
+| 19 | [Rumildo](http://twitter.com/search?q=Rumildo) | N/A |
+| 20 | [Esperanza Magaz](http://twitter.com/search?q=Esperanza+Magaz) | N/A |
+| 21 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 22 | [José José](http://twitter.com/search?q=Jos%c3%a9+Jos%c3%a9) | N/A |
+| 23 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 24 | [Valverde](http://twitter.com/search?q=Valverde) | Valverde is a Spanish surname derived from the Latin word valle verde, which means "green valley". It is also a place name in several countries, including Spain, Portugal, and Mexico. In English, Valverde can be translated to mean "green valley". |
+| 25 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 26 | [Jacinto Lara](http://twitter.com/search?q=Jacinto+Lara) | N/A |
+| 27 | [plan vuelta a la patria](http://twitter.com/search?q=plan+vuelta+a+la+patria) | N/A |
+| 28 | [Los Supersónicos](http://twitter.com/search?q=Los+Supers%c3%b3nicos) | N/A |
+| 29 | [Gilberto Correa](http://twitter.com/search?q=Gilberto+Correa) | N/A |
+| 30 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
+| 31 | [Columbo](http://twitter.com/search?q=Columbo) | N/A |
+| 32 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 33 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 34 | [Marino](http://twitter.com/search?q=Marino) | N/A |
+| 35 | [Camavinga](http://twitter.com/search?q=Camavinga) | Camavinga is a French surname derived from the Basque language. It is believed to mean "place of the caves" or "place of the rocks". In English, it can be translated to mean "rocky place". |
+| 36 | [José de San Martín](http://twitter.com/search?q=Jos%c3%a9+de+San+Mart%c3%adn) | N/A |
+| 37 | [Japón](http://twitter.com/search?q=Jap%c3%b3n) | N/A |
+| 38 | [daniel florencio o'leary](http://twitter.com/search?q=daniel+florencio+o%27leary) | N/A |
+| 39 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 40 | [Lee Marvin](http://twitter.com/search?q=Lee+Marvin) | N/A |
+| 41 | [Lee Hamilton](http://twitter.com/search?q=Lee+Hamilton) | N/A |
+| 42 | [Sultán](http://twitter.com/search?q=Sult%c3%a1n) | N/A |
+| 43 | [Luis Aguile](http://twitter.com/search?q=Luis+Aguile) | N/A |
+| 44 | [Bruno Mars](http://twitter.com/search?q=Bruno+Mars) | Bruno Mars is the stage name of American singer-songwriter Peter Gene Hernandez. He is known for his soulful, pop-influenced music and his wide range of musical styles, including R&B, funk, reggae, hip hop, and pop. |
+| 45 | [Ariana Grande](http://twitter.com/search?q=Ariana+Grande) | N/A |
 | 46 | [Dua Lipa](http://twitter.com/search?q=Dua+Lipa) | N/A |
-| 47 | [Fuerza de Tarea Humanitaria](http://twitter.com/search?q=Fuerza+de+Tarea+Humanitaria) | N/A |
-| 48 | [Sergio Ramos](http://twitter.com/search?q=Sergio+Ramos) | Sergio Ramos is a Spanish professional footballer who plays for Real Madrid and the Spanish national team. He is primarily a central defender, but can also play as a right back. He is widely regarded as one of the best defenders in the world and has won numerous awards, including four La Liga titles, four UEFA Champions League titles, two Copa del Rey titles, and two FIFA Club World Cup titles. |
+| 47 | [Vini](http://twitter.com/search?q=Vini) | Vini is a shortened form of the Italian word vino, which means wine. It is often used as a slang term for wine in informal contexts. |
+| 48 | [Herminia Martinez](http://twitter.com/search?q=Herminia+Martinez) | N/A |
 
 
 

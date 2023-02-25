@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexicali
 
-📆 Last Updated: `2023-02-25 17:15:52 UTC`
+📆 Last Updated: `2023-02-25 18:16:17 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,49 @@ This is top 50 for [Mexico](</Mexico>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
-| 2 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
-| 3 | [#DíaDeLaBandera](http://twitter.com/search?q=%23D%c3%adaDeLaBandera) | N/A |
-| 4 | [Anáhuac](http://twitter.com/search?q=An%c3%a1huac) | N/A |
-| 5 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 6 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 7 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 8 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 9 | [#SalarioRosaVaPorMas](http://twitter.com/search?q=%23SalarioRosaVaPorMas) | N/A |
-| 10 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 11 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 12 | [#MinistraDoblePirata](http://twitter.com/search?q=%23MinistraDoblePirata) | N/A |
-| 13 | [García Luna](http://twitter.com/search?q=Garc%c3%ada+Luna) | García Luna is a Spanish surname. In English, it translates to "Moon Garcia." |
-| 14 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 15 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 16 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 17 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
-| 18 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 19 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
-| 20 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
-| 21 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 22 | [SCJN](http://twitter.com/search?q=SCJN) | SCJN stands for the Supreme Court of Justice of the Nation, which is the highest court in Mexico. It is responsible for interpreting and applying the laws of Mexico. In English, SCJN stands for Supreme Court of Justice of the Nation. |
-| 23 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 24 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 25 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 26 | [Dortmund](http://twitter.com/search?q=Dortmund) | Dortmund is a city in western Germany. It is located in the state of North Rhine-Westphalia and is the largest city in the Ruhr area, Germany's largest urban area. The name Dortmund comes from the Old German word "Throtmanni", which means "people living in a market place". |
-| 27 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 28 | [Doctorado](http://twitter.com/search?q=Doctorado) | N/A |
-| 29 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 30 | [César Montes](http://twitter.com/search?q=C%c3%a9sar+Montes) | N/A |
-| 31 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 32 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 33 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 34 | [YOU ARE THE STAR MATI](http://twitter.com/search?q=YOU+ARE+THE+STAR+MATI) | N/A |
-| 35 | [El País](http://twitter.com/search?q=El+Pa%c3%ads) | N/A |
-| 36 | [Durazo](http://twitter.com/search?q=Durazo) | N/A |
-| 37 | [hoy 24](http://twitter.com/search?q=hoy+24) | N/A |
-| 38 | [Cinemex](http://twitter.com/search?q=Cinemex) | N/A |
-| 39 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 40 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 41 | [Salvio](http://twitter.com/search?q=Salvio) | N/A |
-| 42 | [El 25](http://twitter.com/search?q=El+25) | N/A |
-| 43 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
-| 44 | [Calderón](http://twitter.com/search?q=Calder%c3%b3n) | N/A |
-| 45 | [Maciel](http://twitter.com/search?q=Maciel) | N/A |
-| 46 | [Marshmello](http://twitter.com/search?q=Marshmello) | N/A |
-| 47 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 48 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 49 | [Andrea Legarreta](http://twitter.com/search?q=Andrea+Legarreta) | N/A |
+| 2 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 3 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 4 | [Carlos Vela](http://twitter.com/search?q=Carlos+Vela) | N/A |
+| 5 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 6 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
+| 7 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 8 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 9 | [Marshmello](http://twitter.com/search?q=Marshmello) | N/A |
+| 10 | [#Únete](http://twitter.com/search?q=%23%c3%9anete) | N/A |
+| 11 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 12 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 13 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 14 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
+| 15 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 16 | [César Montes](http://twitter.com/search?q=C%c3%a9sar+Montes) | N/A |
+| 17 | [El 25](http://twitter.com/search?q=El+25) | N/A |
+| 18 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
+| 19 | [Anáhuac](http://twitter.com/search?q=An%c3%a1huac) | N/A |
+| 20 | [Santiago Nieto](http://twitter.com/search?q=Santiago+Nieto) | N/A |
+| 21 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
+| 22 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
+| 23 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 24 | [Marcial Maciel](http://twitter.com/search?q=Marcial+Maciel) | N/A |
+| 25 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 26 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
+| 27 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 28 | [Robles](http://twitter.com/search?q=Robles) | N/A |
+| 29 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 30 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 31 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 32 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
+| 33 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 34 | [Corrupta](http://twitter.com/search?q=Corrupta) | N/A |
+| 35 | [Durazo](http://twitter.com/search?q=Durazo) | N/A |
+| 36 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 37 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 38 | [#MiVotoSeRespeta](http://twitter.com/search?q=%23MiVotoSeRespeta) | N/A |
+| 39 | [#EDCMexico](http://twitter.com/search?q=%23EDCMexico) | N/A |
+| 40 | [#democracia](http://twitter.com/search?q=%23democracia) | N/A |
+| 41 | [#YoSiVoyAlZocalo](http://twitter.com/search?q=%23YoSiVoyAlZocalo) | N/A |
+| 42 | [#MarchaDeLosNarcos](http://twitter.com/search?q=%23MarchaDeLosNarcos) | N/A |
+| 43 | [#LaMarchaDeLosPENDEJOS2](http://twitter.com/search?q=%23LaMarchaDeLosPENDEJOS2) | N/A |
+| 44 | [#ElINESomosTodos](http://twitter.com/search?q=%23ElINESomosTodos) | N/A |
 
 
 

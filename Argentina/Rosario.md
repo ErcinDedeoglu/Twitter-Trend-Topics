@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rosario
 
-📆 Last Updated: `2023-02-25 17:15:59 UTC`
+📆 Last Updated: `2023-02-25 18:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,49 @@ This is top 50 for [Argentina](</Argentina>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Central](http://twitter.com/search?q=Central) | N/A |
-| 2 | [#NestorCumple](http://twitter.com/search?q=%23NestorCumple) | N/A |
-| 3 | [Larreta](http://twitter.com/search?q=Larreta) | N/A |
-| 4 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 5 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 6 | [Retegui](http://twitter.com/search?q=Retegui) | Retegui is a Basque word meaning “to go back” or “to return.” It is often used to refer to the act of returning home after a long journey. |
-| 7 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 8 | [#QuieroVotarACristina](http://twitter.com/search?q=%23QuieroVotarACristina) | N/A |
-| 9 | [Maratea](http://twitter.com/search?q=Maratea) | N/A |
-| 10 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 1 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
+| 2 | [mallo](http://twitter.com/search?q=mallo) | N/A |
+| 3 | [Julian](http://twitter.com/search?q=Julian) | Julian is a given name of Latin origin, derived from Julius. It is a masculine name, and can also be used as a surname. In English, it means "youthful" or "downy-bearded". |
+| 4 | [Guardiola](http://twitter.com/search?q=Guardiola) | Guardiola is a Spanish surname, derived from the Catalan word guardiola, meaning "watchman". It is most commonly associated with Pep Guardiola, the former manager of FC Barcelona and current manager of Manchester City. |
+| 5 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 6 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
+| 7 | [#NestorCumple](http://twitter.com/search?q=%23NestorCumple) | N/A |
+| 8 | [Gundogan](http://twitter.com/search?q=Gundogan) | Gundogan is a Turkish surname. It is derived from the Turkish word "gundogdu," which means "soldier." The name is most commonly found in Turkey and other parts of the Middle East. |
+| 9 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 10 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
 | 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 12 | [#BuenSabado](http://twitter.com/search?q=%23BuenSabado) | N/A |
-| 13 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 14 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 15 | [Aston Villa](http://twitter.com/search?q=Aston+Villa) | Aston Villa is an English professional football club based in Aston, Birmingham. The club competes in the Championship, the second tier of English football. Aston Villa have won seven league titles, seven FA Cups, five League Cups and one European Cup. The club's traditional kit colours are claret and blue and their nickname is The Villans. |
-| 16 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 17 | [Padre de la Patria](http://twitter.com/search?q=Padre+de+la+Patria) | N/A |
-| 18 | [#tndeportivo](http://twitter.com/search?q=%23tndeportivo) | N/A |
-| 19 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
-| 20 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 21 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 22 | [Chano](http://twitter.com/search?q=Chano) | N/A |
-| 23 | [Faber Castell](http://twitter.com/search?q=Faber+Castell) | N/A |
-| 24 | [Emilia](http://twitter.com/search?q=Emilia) | N/A |
-| 25 | [#buenviernes](http://twitter.com/search?q=%23buenviernes) | N/A |
-| 26 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 27 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
-| 28 | [Dibu](http://twitter.com/search?q=Dibu) | N/A |
-| 29 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 30 | [Yapeyú](http://twitter.com/search?q=Yapey%c3%ba) | N/A |
-| 31 | [Lali](http://twitter.com/search?q=Lali) | Lali is a term of endearment used in some parts of India. It is derived from the Sanskrit word "lalita," which means "beautiful." In English, it can be translated to mean "darling" or "sweetheart." |
-| 32 | [Maslaton](http://twitter.com/search?q=Maslaton) | N/A |
-| 33 | [Indio](http://twitter.com/search?q=Indio) | N/A |
-| 34 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 35 | [Paracetamol](http://twitter.com/search?q=Paracetamol) | N/A |
-| 36 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
-| 37 | [COLOR PIEL](http://twitter.com/search?q=COLOR+PIEL) | N/A |
-| 38 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 39 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
-| 40 | [Valentina](http://twitter.com/search?q=Valentina) | N/A |
-| 41 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
-| 42 | [Quintana](http://twitter.com/search?q=Quintana) | N/A |
-| 43 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 44 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 45 | [Patricia](http://twitter.com/search?q=Patricia) | N/A |
-| 46 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 47 | [Sacha](http://twitter.com/search?q=Sacha) | N/A |
-| 48 | [Hace 77](http://twitter.com/search?q=Hace+77) | N/A |
-| 49 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
+| 12 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 13 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
+| 14 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 15 | [Araña](http://twitter.com/search?q=Ara%c3%b1a) | N/A |
+| 16 | [Padre de la Patria](http://twitter.com/search?q=Padre+de+la+Patria) | N/A |
+| 17 | [robert pattinson](http://twitter.com/search?q=robert+pattinson) | N/A |
+| 18 | [#PremierLeague](http://twitter.com/search?q=%23PremierLeague) | #PremierLeague is the top tier of English professional football. It is the most-watched football league in the world and consists of 20 teams. The teams compete against each other to win the Premier League title, with the top four teams qualifying for the UEFA Champions League. |
+| 19 | [Faber Castell](http://twitter.com/search?q=Faber+Castell) | N/A |
+| 20 | [Everton](http://twitter.com/search?q=Everton) | Everton is a professional football club based in Liverpool, England. The club competes in the Premier League, the top tier of English football. Everton has won nine league titles, five FA Cups and one UEFA Cup Winners' Cup. |
+| 21 | [Paracetamol](http://twitter.com/search?q=Paracetamol) | N/A |
+| 22 | [Malena](http://twitter.com/search?q=Malena) | N/A |
+| 23 | [#BuenSabado](http://twitter.com/search?q=%23BuenSabado) | N/A |
+| 24 | [RM X BOTTEGA VENETA](http://twitter.com/search?q=RM+X+BOTTEGA+VENETA) | N/A |
+| 25 | [COLOR PIEL](http://twitter.com/search?q=COLOR+PIEL) | N/A |
+| 26 | [Yapeyú](http://twitter.com/search?q=Yapey%c3%ba) | N/A |
+| 27 | [Santi Manotea](http://twitter.com/search?q=Santi+Manotea) | N/A |
+| 28 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 29 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 30 | [Pappo](http://twitter.com/search?q=Pappo) | N/A |
+| 31 | [El FMI](http://twitter.com/search?q=El+FMI) | N/A |
+| 32 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 33 | [OSDE](http://twitter.com/search?q=OSDE) | N/A |
+| 34 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 35 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 36 | [Noruega](http://twitter.com/search?q=Noruega) | N/A |
+| 37 | [Servicio Militar](http://twitter.com/search?q=Servicio+Militar) | N/A |
+| 38 | [Chorro](http://twitter.com/search?q=Chorro) | N/A |
+| 39 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 40 | [Libertador](http://twitter.com/search?q=Libertador) | N/A |
+| 41 | [Gral](http://twitter.com/search?q=Gral) | N/A |
+| 42 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 43 | [#QuieroVotarACristina](http://twitter.com/search?q=%23QuieroVotarACristina) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hanoi
 
-📆 Last Updated: `2023-02-25 17:16:19 UTC`
+📆 Last Updated: `2023-02-25 18:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,13 +19,13 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 2 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
 | 3 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
 | 4 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
-| 5 | [#FinalMissGrandLoei2023](http://twitter.com/search?q=%23FinalMissGrandLoei2023) | N/A |
-| 6 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 5 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 6 | [#GQCSuzhouMusicFest](http://twitter.com/search?q=%23GQCSuzhouMusicFest) | N/A |
 | 7 | [NNINE SPECIAL STAGE](http://twitter.com/search?q=NNINE+SPECIAL+STAGE) | N/A |
 | 8 | [Yuehua](http://twitter.com/search?q=Yuehua) | N/A |
-| 9 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
-| 10 | [SU TÓC ĐỎ CHỨNG TỎ YÊU EM](http://twitter.com/search?q=SU+T%c3%93C+%c4%90%e1%bb%8e+CH%e1%bb%a8NG+T%e1%bb%8e+Y%c3%8aU+EM) | N/A |
-| 11 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 9 | [SU TÓC ĐỎ CHỨNG TỎ YÊU EM](http://twitter.com/search?q=SU+T%c3%93C+%c4%90%e1%bb%8e+CH%e1%bb%a8NG+T%e1%bb%8e+Y%c3%8aU+EM) | N/A |
+| 10 | [Pete](http://twitter.com/search?q=Pete) | Pete is a nickname for the name Peter. It is derived from the Greek word "petros" which means "rock". |
+| 11 | [ENGFA WARAHA](http://twitter.com/search?q=ENGFA+WARAHA) | ENGFA WARAHA is a phrase in the Somali language that translates to "may peace be upon you." It is a common greeting used to wish someone peace and goodwill. |
 | 12 | [MILEAPO ON STAGE BANGKOK](http://twitter.com/search?q=MILEAPO+ON+STAGE+BANGKOK) | N/A |
 | 13 | [paris time](http://twitter.com/search?q=paris+time) | N/A |
 | 14 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
@@ -35,36 +35,36 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 18 | [Get 700ERB](http://twitter.com/search?q=Get+700ERB) | N/A |
 | 19 | [Wormholes](http://twitter.com/search?q=Wormholes) | N/A |
 | 20 | [S-NFT](http://twitter.com/search?q=S-NFT) | N/A |
-| 21 | [WELCOME TO PARIS XIN](http://twitter.com/search?q=WELCOME+TO+PARIS+XIN) | N/A |
+| 21 | [welcome to paris xin](http://twitter.com/search?q=welcome+to+paris+xin) | N/A |
 | 22 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
-| 23 | [joong](http://twitter.com/search?q=joong) | N/A |
+| 23 | [Joong](http://twitter.com/search?q=Joong) | N/A |
 | 24 | [Alchemy](http://twitter.com/search?q=Alchemy) | N/A |
 | 25 | [Paris Fashion Week](http://twitter.com/search?q=Paris+Fashion+Week) | N/A |
-| 26 | [apo happy birthday](http://twitter.com/search?q=apo+happy+birthday) | N/A |
-| 27 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 28 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 29 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
-| 30 | [Mỹ Diệu](http://twitter.com/search?q=M%e1%bb%b9+Di%e1%bb%87u) | N/A |
+| 26 | [Mỹ Diệu](http://twitter.com/search?q=M%e1%bb%b9+Di%e1%bb%87u) | N/A |
+| 27 | [apo happy birthday](http://twitter.com/search?q=apo+happy+birthday) | N/A |
+| 28 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 29 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 30 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
 | 31 | [hanbin](http://twitter.com/search?q=hanbin) | Hanbin is a Korean given name, derived from the Chinese characters for “great” and “man”. It can be translated to mean “great man” or “noble man” in English. |
 | 32 | [Đánh](http://twitter.com/search?q=%c4%90%c3%a1nh) | N/A |
 | 33 | [Khóc](http://twitter.com/search?q=Kh%c3%b3c) | N/A |
-| 34 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
-| 35 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 36 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
-| 37 | [explore yields](http://twitter.com/search?q=explore+yields) | N/A |
+| 34 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 35 | [jisoo](http://twitter.com/search?q=jisoo) | N/A |
+| 36 | [Explore Yields](http://twitter.com/search?q=Explore+Yields) | N/A |
+| 37 | [Tempest](http://twitter.com/search?q=Tempest) | N/A |
 | 38 | [đà nẵng](http://twitter.com/search?q=%c4%91%c3%a0+n%e1%ba%b5ng) | N/A |
-| 39 | [Dodo](http://twitter.com/search?q=Dodo) | N/A |
-| 40 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
-| 41 | [Cosmos](http://twitter.com/search?q=Cosmos) | N/A |
-| 42 | [op stack](http://twitter.com/search?q=op+stack) | N/A |
-| 43 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 44 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
-| 45 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
-| 46 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
-| 47 | [cách](http://twitter.com/search?q=c%c3%a1ch) | N/A |
+| 39 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
+| 40 | [Dodo](http://twitter.com/search?q=Dodo) | N/A |
+| 41 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 42 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
+| 43 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
+| 44 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 45 | [Hihi](http://twitter.com/search?q=Hihi) | N/A |
+| 46 | [Vietnamese](http://twitter.com/search?q=Vietnamese) | N/A |
+| 47 | [Kiana](http://twitter.com/search?q=Kiana) | N/A |
 | 48 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
-| 49 | [Huhu](http://twitter.com/search?q=Huhu) | N/A |
-| 50 | [Chào](http://twitter.com/search?q=Ch%c3%a0o) | N/A |
+| 49 | [Cách](http://twitter.com/search?q=C%c3%a1ch) | N/A |
+| 50 | [Chắc](http://twitter.com/search?q=Ch%e1%ba%afc) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sendai
 
-📆 Last Updated: `2023-02-25 17:16:14 UTC`
+📆 Last Updated: `2023-02-25 18:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [シルヴァーソニック](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%bd%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 2 | [#SixTONESANN](http://twitter.com/search?q=%23SixTONESANN) | #SixTONESANN is a hashtag used by fans of the Japanese boy band SixTONES. It stands for "SixTONES Announcement" and is used to share news and updates about the group. |
-| 3 | [バスラットレオン](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%83%a9%e3%83%83%e3%83%88%e3%83%ac%e3%82%aa%e3%83%b3) | バスラットレオン is a type of Japanese traditional folk dance. It is performed by two people, one playing the role of a lion and the other playing the role of a bushi (samurai). The lion dances around the bushi, who tries to catch it with a fan. The dance is usually accompanied by singing and chanting. In English, it is known as the Lion Bus Dance. |
-| 4 | [福永騎手](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e9%a8%8e%e6%89%8b) | 福永騎手 is a Japanese term that refers to a jockey who specializes in riding horses at the Fukuenag racing track. The literal translation of the term is "Fukuenag Jockey". |
-| 5 | [#SixTONES_ABARERO](http://twitter.com/search?q=%23SixTONES_ABARERO) | N/A |
-| 6 | [福永祐一](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e7%a5%90%e4%b8%80) | N/A |
-| 7 | [フォレストページ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88%e3%83%9a%e3%83%bc%e3%82%b8) | N/A |
-| 8 | [エリートパワー](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%bc%e3%83%88%e3%83%91%e3%83%af%e3%83%bc) | N/A |
-| 9 | [福永さん](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e3%81%95%e3%82%93) | 福永さん is a Japanese honorific title used to refer to someone with the surname Fukunaga. It is roughly equivalent to "Mr. Fukunaga" in English. |
-| 10 | [リメイク3着](http://twitter.com/search?q=%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af3%e7%9d%80) | N/A |
-| 11 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
-| 12 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
-| 13 | [サウジカップ](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 14 | [#大病院占拠](http://twitter.com/search?q=%23%e5%a4%a7%e7%97%85%e9%99%a2%e5%8d%a0%e6%8b%a0) | "#大病院占拠" is a hashtag used on social media in Japan to refer to the occupation of large hospitals by protesters. It is used to express support for the protesters and their cause. In English, it translates to "Occupy Big Hospitals". |
-| 15 | [#人類に栄光あれ](http://twitter.com/search?q=%23%e4%ba%ba%e9%a1%9e%e3%81%ab%e6%a0%84%e5%85%89%e3%81%82%e3%82%8c) | "#人類に栄光あれ" is a Japanese hashtag that translates to "Glory to Humanity". It is often used to express admiration for the accomplishments of humanity, such as scientific and technological advances. |
-| 16 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
-| 17 | [デルマソトガケ](http://twitter.com/search?q=%e3%83%87%e3%83%ab%e3%83%9e%e3%82%bd%e3%83%88%e3%82%ac%e3%82%b1) | N/A |
-| 18 | [#Venue101](http://twitter.com/search?q=%23Venue101) | N/A |
-| 19 | [サウジダービー](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
-| 20 | [エミール](http://twitter.com/search?q=%e3%82%a8%e3%83%9f%e3%83%bc%e3%83%ab) | N/A |
-| 21 | [レシステンシア](http://twitter.com/search?q=%e3%83%ac%e3%82%b7%e3%82%b9%e3%83%86%e3%83%b3%e3%82%b7%e3%82%a2) | N/A |
-| 22 | [福永先生](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e5%85%88%e7%94%9f) | N/A |
-| 23 | [震度5弱](http://twitter.com/search?q=%e9%9c%87%e5%ba%a65%e5%bc%b1) | N/A |
-| 24 | [ソングライン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%82%b0%e3%83%a9%e3%82%a4%e3%83%b3) | N/A |
-| 25 | [もり大会](http://twitter.com/search?q=%e3%82%82%e3%82%8a%e5%a4%a7%e4%bc%9a) | N/A |
-| 26 | [シルソニ](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%82%bd%e3%83%8b) | N/A |
-| 27 | [緊急地震速報](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e5%9c%b0%e9%9c%87%e9%80%9f%e5%a0%b1) | 緊急地震速報 (Kinkyū Jishin Sokuhō) is an emergency earthquake warning system in Japan. It is a system that provides information on earthquakes that are expected to cause strong shaking in the near future. The information is broadcast on television and radio, as well as through cell phones and other electronic devices. The English translation of this phrase is "Emergency Earthquake Warning". |
-| 28 | [デットーリ](http://twitter.com/search?q=%e3%83%87%e3%83%83%e3%83%88%e3%83%bc%e3%83%aa) | N/A |
-| 29 | [リヤドダートスプリント](http://twitter.com/search?q=%e3%83%aa%e3%83%a4%e3%83%89%e3%83%80%e3%83%bc%e3%83%88%e3%82%b9%e3%83%97%e3%83%aa%e3%83%b3%e3%83%88) | N/A |
-| 30 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
-| 31 | [イリチル](http://twitter.com/search?q=%e3%82%a4%e3%83%aa%e3%83%81%e3%83%ab) | N/A |
-| 32 | [第401回](http://twitter.com/search?q=%e7%ac%ac401%e5%9b%9e) | N/A |
-| 33 | [ダンシングプリンス](http://twitter.com/search?q=%e3%83%80%e3%83%b3%e3%82%b7%e3%83%b3%e3%82%b0%e3%83%97%e3%83%aa%e3%83%b3%e3%82%b9) | N/A |
-| 34 | [レスター](http://twitter.com/search?q=%e3%83%ac%e3%82%b9%e3%82%bf%e3%83%bc) | レスター (Resutā) is a Japanese surname. It is derived from the English surname "Lester". The meaning of the name in English is "fortified town". |
-| 35 | [しんじゅり](http://twitter.com/search?q=%e3%81%97%e3%82%93%e3%81%98%e3%82%85%e3%82%8a) | N/A |
-| 36 | [レプリカント](http://twitter.com/search?q=%e3%83%ac%e3%83%97%e3%83%aa%e3%82%ab%e3%83%b3%e3%83%88) | レプリカント is a Japanese word that means "replicant". It is used to refer to a synthetic human, usually created in a laboratory setting. In English, it is often used in the context of science fiction stories or movies. |
-| 37 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
-| 38 | [ティーレマンス](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%83%bc%e3%83%ac%e3%83%9e%e3%83%b3%e3%82%b9) | N/A |
-| 39 | [スミスロウ](http://twitter.com/search?q=%e3%82%b9%e3%83%9f%e3%82%b9%e3%83%ad%e3%82%a6) | スミスロウ (Sumisu Rou) is a Japanese fashion brand founded in 2002. The brand's name is derived from the English words "Smith" and "Row", which symbolize the idea of combining traditional craftsmanship with modern design. In English, the brand name translates to "Smith & Row". |
-| 40 | [アメリカ勢](http://twitter.com/search?q=%e3%82%a2%e3%83%a1%e3%83%aa%e3%82%ab%e5%8b%a2) | N/A |
-| 41 | [カイネさん](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%83%8d%e3%81%95%e3%82%93) | N/A |
-| 42 | [リュウノユキナ](http://twitter.com/search?q=%e3%83%aa%e3%83%a5%e3%82%a6%e3%83%8e%e3%83%a6%e3%82%ad%e3%83%8a) | N/A |
-| 43 | [あでぃしょ](http://twitter.com/search?q=%e3%81%82%e3%81%a7%e3%81%83%e3%81%97%e3%82%87) | あでぃしょ is a Japanese onomatopoeia that is used to describe the sound of something being cut or sliced. In English, it could be translated as "snip" or "snip-snip". |
-| 44 | [グロ耐性](http://twitter.com/search?q=%e3%82%b0%e3%83%ad%e8%80%90%e6%80%a7) | N/A |
-| 45 | [ラストラン](http://twitter.com/search?q=%e3%83%a9%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3) | ラストラン is a Japanese phrase that literally translates to "last run." It is used to refer to the last chance or opportunity to do something, such as the last chance to make a purchase or the last chance to finish a task. |
-| 46 | [ジャスティン](http://twitter.com/search?q=%e3%82%b8%e3%83%a3%e3%82%b9%e3%83%86%e3%82%a3%e3%83%b3) | N/A |
-| 47 | [信長のスマホ](http://twitter.com/search?q=%e4%bf%a1%e9%95%b7%e3%81%ae%e3%82%b9%e3%83%9e%e3%83%9b) | N/A |
-| 48 | [福永ジョッキー](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e3%82%b8%e3%83%a7%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
-| 49 | [北海道の地震](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e3%81%ae%e5%9c%b0%e9%9c%87) | N/A |
-| 50 | [ジンチェンコ](http://twitter.com/search?q=%e3%82%b8%e3%83%b3%e3%83%81%e3%82%a7%e3%83%b3%e3%82%b3) | ジンチェンコ is a Japanese card game that is similar to the Western game of Go Fish. The name translates to "pulling out a pair" and the goal of the game is to collect as many pairs of cards as possible. |
+| 1 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
+| 2 | [シルヴァーソニック](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%bd%e3%83%8b%e3%83%83%e3%82%af) | N/A |
+| 3 | [サウジカップ](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 4 | [#SixTONESANN](http://twitter.com/search?q=%23SixTONESANN) | #SixTONESANN is a hashtag used by fans of the Japanese boy band SixTONES. It stands for "SixTONES Announcement" and is used to share news and updates about the group. |
+| 5 | [ジオグリフ](http://twitter.com/search?q=%e3%82%b8%e3%82%aa%e3%82%b0%e3%83%aa%e3%83%95) | N/A |
+| 6 | [バスラットレオン](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%83%a9%e3%83%83%e3%83%88%e3%83%ac%e3%82%aa%e3%83%b3) | バスラットレオン is a type of Japanese traditional folk dance. It is performed by two people, one playing the role of a lion and the other playing the role of a bushi (samurai). The lion dances around the bushi, who tries to catch it with a fan. The dance is usually accompanied by singing and chanting. In English, it is known as the Lion Bus Dance. |
+| 7 | [福永騎手](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e9%a8%8e%e6%89%8b) | 福永騎手 is a Japanese term that refers to a jockey who specializes in riding horses at the Fukuenag racing track. The literal translation of the term is "Fukuenag Jockey". |
+| 8 | [カフェファラオ](http://twitter.com/search?q=%e3%82%ab%e3%83%95%e3%82%a7%e3%83%95%e3%82%a1%e3%83%a9%e3%82%aa) | N/A |
+| 9 | [フォレストページ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88%e3%83%9a%e3%83%bc%e3%82%b8) | N/A |
+| 10 | [福永祐一](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e7%a5%90%e4%b8%80) | N/A |
+| 11 | [#SixTONES_ABARERO](http://twitter.com/search?q=%23SixTONES_ABARERO) | N/A |
+| 12 | [パンくん](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
+| 13 | [福永さん](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e3%81%95%e3%82%93) | 福永さん is a Japanese honorific title used to refer to someone with the surname Fukunaga. It is roughly equivalent to "Mr. Fukunaga" in English. |
+| 14 | [カントリーグラマー](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc%e3%82%b0%e3%83%a9%e3%83%9e%e3%83%bc) | N/A |
+| 15 | [エリートパワー](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%bc%e3%83%88%e3%83%91%e3%83%af%e3%83%bc) | N/A |
+| 16 | [リメイク3着](http://twitter.com/search?q=%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af3%e7%9d%80) | N/A |
+| 17 | [吉田豊騎手](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e8%b1%8a%e9%a8%8e%e6%89%8b) | N/A |
+| 18 | [#annkw](http://twitter.com/search?q=%23annkw) | #annkw is an abbreviation for "announcement keyword," which is a hashtag used to indicate that a post contains important information or news. It is often used on social media platforms such as Twitter and Instagram. |
+| 19 | [世界の矢作](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e3%81%ae%e7%9f%a2%e4%bd%9c) | N/A |
+| 20 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
+| 21 | [クラウンプライド](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%97%e3%83%a9%e3%82%a4%e3%83%89) | N/A |
+| 22 | [ドバイターフ](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%82%bf%e3%83%bc%e3%83%95) | N/A |
+| 23 | [令和のツインターボ](http://twitter.com/search?q=%e4%bb%a4%e5%92%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9c) | N/A |
+| 24 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
+| 25 | [#大病院占拠](http://twitter.com/search?q=%23%e5%a4%a7%e7%97%85%e9%99%a2%e5%8d%a0%e6%8b%a0) | "#大病院占拠" is a hashtag used on social media in Japan to refer to the occupation of large hospitals by protesters. It is used to express support for the protesters and their cause. In English, it translates to "Occupy Big Hospitals". |
+| 26 | [デルマソトガケ](http://twitter.com/search?q=%e3%83%87%e3%83%ab%e3%83%9e%e3%82%bd%e3%83%88%e3%82%ac%e3%82%b1) | N/A |
+| 27 | [矢作先生](http://twitter.com/search?q=%e7%9f%a2%e4%bd%9c%e5%85%88%e7%94%9f) | N/A |
+| 28 | [アーモンドアイ](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%a2%e3%83%b3%e3%83%89%e3%82%a2%e3%82%a4) | アーモンドアイ (Aamondoai) is a type of Japanese confectionery made from mochi (rice cake) and sweet bean paste. It is shaped like an almond and is usually filled with red bean paste. The name literally translates to "almond eye" in English. |
+| 29 | [デットーリ](http://twitter.com/search?q=%e3%83%87%e3%83%83%e3%83%88%e3%83%bc%e3%83%aa) | N/A |
+| 30 | [#人類に栄光あれ](http://twitter.com/search?q=%23%e4%ba%ba%e9%a1%9e%e3%81%ab%e6%a0%84%e5%85%89%e3%81%82%e3%82%8c) | "#人類に栄光あれ" is a Japanese hashtag that translates to "Glory to Humanity". It is often used to express admiration for the accomplishments of humanity, such as scientific and technological advances. |
+| 31 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
+| 32 | [サウジダービー](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
+| 33 | [エミール](http://twitter.com/search?q=%e3%82%a8%e3%83%9f%e3%83%bc%e3%83%ab) | N/A |
+| 34 | [レシステンシア](http://twitter.com/search?q=%e3%83%ac%e3%82%b7%e3%82%b9%e3%83%86%e3%83%b3%e3%82%b7%e3%82%a2) | N/A |
+| 35 | [福永先生](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e5%85%88%e7%94%9f) | N/A |
+| 36 | [矢作厩舎](http://twitter.com/search?q=%e7%9f%a2%e4%bd%9c%e5%8e%a9%e8%88%8e) | N/A |
+| 37 | [ソングライン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%82%b0%e3%83%a9%e3%82%a4%e3%83%b3) | N/A |
+| 38 | [ジュンライトボルト](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%88%e3%83%9c%e3%83%ab%e3%83%88) | N/A |
+| 39 | [もり大会](http://twitter.com/search?q=%e3%82%82%e3%82%8a%e5%a4%a7%e4%bc%9a) | N/A |
+| 40 | [cNed](http://twitter.com/search?q=cNed) | N/A |
+| 41 | [第401回](http://twitter.com/search?q=%e7%ac%ac401%e5%9b%9e) | N/A |
+| 42 | [震度5弱](http://twitter.com/search?q=%e9%9c%87%e5%ba%a65%e5%bc%b1) | N/A |
+| 43 | [シルソニ](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%82%bd%e3%83%8b) | N/A |
+| 44 | [マドリードダービー](http://twitter.com/search?q=%e3%83%9e%e3%83%89%e3%83%aa%e3%83%bc%e3%83%89%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
+| 45 | [アセンシオ](http://twitter.com/search?q=%e3%82%a2%e3%82%bb%e3%83%b3%e3%82%b7%e3%82%aa) | アセンシオ is a Japanese word that means "ascension" or "elevation". It is often used to refer to spiritual or physical ascension, such as the ascension of a person to a higher level of consciousness or the elevation of an object to a higher position. |
+| 46 | [イクイノックス](http://twitter.com/search?q=%e3%82%a4%e3%82%af%e3%82%a4%e3%83%8e%e3%83%83%e3%82%af%e3%82%b9) | イクイノックス is a Japanese brand of men's clothing. The name is derived from the Latin phrase "ex inox", which means "from stainless steel". In English, it can be translated to mean "stainless steel fashion". |
+| 47 | [あでぃしょ](http://twitter.com/search?q=%e3%81%82%e3%81%a7%e3%81%83%e3%81%97%e3%82%87) | あでぃしょ is a Japanese onomatopoeia that is used to describe the sound of something being cut or sliced. In English, it could be translated as "snip" or "snip-snip". |
+| 48 | [ティアニー](http://twitter.com/search?q=%e3%83%86%e3%82%a3%e3%82%a2%e3%83%8b%e3%83%bc) | N/A |
+| 49 | [リヤドダートスプリント](http://twitter.com/search?q=%e3%83%aa%e3%83%a4%e3%83%89%e3%83%80%e3%83%bc%e3%83%88%e3%82%b9%e3%83%97%e3%83%aa%e3%83%b3%e3%83%88) | N/A |
+| 50 | [緊急地震速報](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e5%9c%b0%e9%9c%87%e9%80%9f%e5%a0%b1) | 緊急地震速報 (Kinkyū Jishin Sokuhō) is an emergency earthquake warning system in Japan. It is a system that provides information on earthquakes that are expected to cause strong shaking in the near future. The information is broadcast on television and radio, as well as through cell phones and other electronic devices. The English translation of this phrase is "Emergency Earthquake Warning". |
 
 
 

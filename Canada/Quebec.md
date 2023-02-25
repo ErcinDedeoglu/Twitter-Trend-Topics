@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Quebec
 
-📆 Last Updated: `2023-02-25 17:15:45 UTC`
+📆 Last Updated: `2023-02-25 18:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,43 @@ This is top 50 for [Canada](</Canada>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 2 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
-| 3 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 4 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 5 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 6 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
-| 7 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 8 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 9 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 10 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 11 | [Trudeau](http://twitter.com/search?q=Trudeau) | N/A |
-| 12 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 13 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
-| 14 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
-| 15 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 16 | [#NigeriaDecides2023](http://twitter.com/search?q=%23NigeriaDecides2023) | N/A |
-| 17 | [German](http://twitter.com/search?q=German) | N/A |
-| 18 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 19 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 20 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 21 | [Lilley](http://twitter.com/search?q=Lilley) | N/A |
-| 22 | [North](http://twitter.com/search?q=North) | N/A |
-| 23 | [Leslyn Lewis](http://twitter.com/search?q=Leslyn+Lewis) | N/A |
-| 24 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
-| 25 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 26 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 27 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 28 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 29 | [Laith Marouf](http://twitter.com/search?q=Laith+Marouf) | N/A |
-| 30 | [CPC MPs](http://twitter.com/search?q=CPC+MPs) | N/A |
-| 31 | [Kinsella](http://twitter.com/search?q=Kinsella) | N/A |
-| 32 | [Vardy](http://twitter.com/search?q=Vardy) | Vardy is a slang term used to describe someone who is always on the go and always busy. It can also be used to describe someone who is always hustling and working hard to get ahead. |
-| 33 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 34 | [Canadians](http://twitter.com/search?q=Canadians) | N/A |
-| 35 | [Unprovoked](http://twitter.com/search?q=Unprovoked) | N/A |
-| 36 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
-| 37 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 38 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
-| 39 | [Maxime Bernier](http://twitter.com/search?q=Maxime+Bernier) | N/A |
-| 40 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 41 | [Odegaard](http://twitter.com/search?q=Odegaard) | Odegaard is a Norwegian surname. It is derived from the Old Norse words "óðr", meaning "inspiration" or "poetry", and "garðr", meaning "enclosure" or "farm". In English, the name can be translated to mean "inspiring farm". |
-| 42 | [The CPC](http://twitter.com/search?q=The+CPC) | N/A |
-| 43 | [Liberal](http://twitter.com/search?q=Liberal) | N/A |
-| 44 | [Diagolon](http://twitter.com/search?q=Diagolon) | N/A |
-| 45 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 46 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 48 | [Willy](http://twitter.com/search?q=Willy) | N/A |
-| 49 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
+| 1 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 3 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
+| 4 | [Draisaitl](http://twitter.com/search?q=Draisaitl) | N/A |
+| 5 | [#flames1stgoal](http://twitter.com/search?q=%23flames1stgoal) | N/A |
+| 6 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
+| 7 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 8 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 9 | [North](http://twitter.com/search?q=North) | N/A |
+| 10 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 11 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 12 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
+| 13 | [Leslyn](http://twitter.com/search?q=Leslyn) | N/A |
+| 14 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
+| 15 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
+| 16 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 17 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 18 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 19 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 20 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 21 | [Anderson](http://twitter.com/search?q=Anderson) | N/A |
+| 22 | [Blackface](http://twitter.com/search?q=Blackface) | N/A |
+| 23 | [The PM](http://twitter.com/search?q=The+PM) | N/A |
+| 24 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 25 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 26 | [Bernier](http://twitter.com/search?q=Bernier) | N/A |
+| 27 | [Liberal Party](http://twitter.com/search?q=Liberal+Party) | N/A |
+| 28 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 29 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
+| 30 | [Laith Marouf](http://twitter.com/search?q=Laith+Marouf) | N/A |
+| 31 | [#BlueJays](http://twitter.com/search?q=%23BlueJays) | N/A |
+| 32 | [#NigeriaDecides2023](http://twitter.com/search?q=%23NigeriaDecides2023) | N/A |
+| 33 | [#CurlingDayinCanada](http://twitter.com/search?q=%23CurlingDayinCanada) | N/A |
+| 34 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 35 | [#IStandWithTrudeau](http://twitter.com/search?q=%23IStandWithTrudeau) | N/A |
+| 36 | [#CFMTL](http://twitter.com/search?q=%23CFMTL) | N/A |
+| 37 | [#bcstorm](http://twitter.com/search?q=%23bcstorm) | N/A |
 
 
 
