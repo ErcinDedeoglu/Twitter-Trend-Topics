@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bordeaux
 
-📆 Last Updated: `2023-02-25 04:16:07 UTC`
+📆 Last Updated: `2023-02-25 05:15:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,37 +23,37 @@ This is top 50 for [France](</France>)
 | 6 | [#vendredilecture](http://twitter.com/search?q=%23vendredilecture) | N/A |
 | 7 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
 | 8 | [La Nuit du 12](http://twitter.com/search?q=La+Nuit+du+12) | N/A |
-| 9 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 9 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
 | 10 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
-| 11 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
-| 12 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 13 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 14 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
+| 11 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 12 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
+| 13 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
+| 14 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 | 15 | [Alice Diop](http://twitter.com/search?q=Alice+Diop) | N/A |
 | 16 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
 | 17 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
-| 18 | [Bastien Bouillon](http://twitter.com/search?q=Bastien+Bouillon) | N/A |
+| 18 | [bastien bouillon](http://twitter.com/search?q=bastien+bouillon) | N/A |
 | 19 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
 | 20 | [Pacifiction](http://twitter.com/search?q=Pacifiction) | N/A |
-| 21 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
-| 22 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 21 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 22 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
 | 23 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 24 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
 | 25 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
 | 26 | [Noémie Merlant](http://twitter.com/search?q=No%c3%a9mie+Merlant) | N/A |
 | 27 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 28 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
-| 29 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
-| 30 | [Dominik Moll](http://twitter.com/search?q=Dominik+Moll) | N/A |
-| 31 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
+| 28 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
+| 29 | [Dominik Moll](http://twitter.com/search?q=Dominik+Moll) | N/A |
+| 30 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
+| 31 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
 | 32 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
-| 33 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
-| 34 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
-| 35 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 33 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
+| 34 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 35 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
 | 36 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 37 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
 | 38 | [Benoît Magimel](http://twitter.com/search?q=Beno%c3%aet+Magimel) | N/A |
-| 39 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 39 | [arthur fils](http://twitter.com/search?q=arthur+fils) | N/A |
 | 40 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
 | 41 | [Diani](http://twitter.com/search?q=Diani) | N/A |
 | 42 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |

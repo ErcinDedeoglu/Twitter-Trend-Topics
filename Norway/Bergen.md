@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bergen
 
-📆 Last Updated: `2023-02-25 04:16:13 UTC`
+📆 Last Updated: `2023-02-25 05:15:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -34,36 +34,36 @@ This is top 50 for [Norway](</Norway>)
 | 17 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 18 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
 | 19 | [Iran](http://twitter.com/search?q=Iran) | N/A |
-| 20 | [Nytt](http://twitter.com/search?q=Nytt) | N/A |
+| 20 | [nytt](http://twitter.com/search?q=nytt) | N/A |
 | 21 | [vårt land](http://twitter.com/search?q=v%c3%a5rt+land) | N/A |
 | 22 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 23 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 24 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
-| 25 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 26 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
-| 27 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 28 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 29 | [lech poznan](http://twitter.com/search?q=lech+poznan) | N/A |
-| 30 | [selvsagt](http://twitter.com/search?q=selvsagt) | N/A |
-| 31 | [sjekk](http://twitter.com/search?q=sjekk) | N/A |
-| 32 | [viken](http://twitter.com/search?q=viken) | N/A |
-| 33 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 34 | [nord-norge](http://twitter.com/search?q=nord-norge) | N/A |
-| 35 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
-| 36 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 37 | [fredrik solvang](http://twitter.com/search?q=fredrik+solvang) | N/A |
-| 38 | [såpass](http://twitter.com/search?q=s%c3%a5pass) | N/A |
-| 39 | [jentoft](http://twitter.com/search?q=jentoft) | N/A |
-| 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 41 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 42 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
-| 43 | [Erik](http://twitter.com/search?q=Erik) | N/A |
-| 44 | [nidaros](http://twitter.com/search?q=nidaros) | N/A |
-| 45 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 46 | [statnett](http://twitter.com/search?q=statnett) | N/A |
-| 47 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 48 | [regjeringen](http://twitter.com/search?q=regjeringen) | N/A |
-| 49 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
+| 23 | [#MUFC](http://twitter.com/search?q=%23MUFC) | #MUFC is an acronym for Manchester United Football Club, a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won numerous trophies, including the Premier League, FA Cup and UEFA Champions League. |
+| 24 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 25 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
+| 26 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 27 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
+| 28 | [lech poznan](http://twitter.com/search?q=lech+poznan) | N/A |
+| 29 | [selvsagt](http://twitter.com/search?q=selvsagt) | N/A |
+| 30 | [sjekk](http://twitter.com/search?q=sjekk) | N/A |
+| 31 | [viken](http://twitter.com/search?q=viken) | N/A |
+| 32 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 33 | [nord-norge](http://twitter.com/search?q=nord-norge) | N/A |
+| 34 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 35 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 36 | [fredrik solvang](http://twitter.com/search?q=fredrik+solvang) | N/A |
+| 37 | [såpass](http://twitter.com/search?q=s%c3%a5pass) | N/A |
+| 38 | [jentoft](http://twitter.com/search?q=jentoft) | N/A |
+| 39 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 40 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 41 | [Christmas](http://twitter.com/search?q=Christmas) | Christmas is an annual festival commemorating the birth of Jesus Christ, observed primarily on December 25 as a religious and cultural celebration among billions of people around the world. The traditional Christmas narrative, the Nativity of Jesus, delineated in the New Testament says that Jesus was born in Bethlehem, in accordance with messianic prophecies. When Joseph and Mary arrived in the city, the inn had no room and so they were offered a stable where the Christ Child was soon born. |
+| 42 | [nidaros](http://twitter.com/search?q=nidaros) | N/A |
+| 43 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
+| 44 | [statnett](http://twitter.com/search?q=statnett) | N/A |
+| 45 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 46 | [regjeringen](http://twitter.com/search?q=regjeringen) | N/A |
+| 47 | [glimt](http://twitter.com/search?q=glimt) | N/A |
+| 48 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
+| 49 | [jordal](http://twitter.com/search?q=jordal) | N/A |
 
 
 

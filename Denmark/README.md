@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Denmark
 
-📆 Last Updated: `2023-02-25 04:16:42 UTC`
+📆 Last Updated: `2023-02-25 05:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,8 +25,8 @@ This is top 50 for Denmark
 | 8 | [#eldk](http://twitter.com/search?q=%23eldk) | N/A |
 | 9 | [TikTok](http://twitter.com/search?q=TikTok) | N/A |
 | 10 | [Midtjylland](http://twitter.com/search?q=Midtjylland) | N/A |
-| 11 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 12 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 11 | [Rusland](http://twitter.com/search?q=Rusland) | N/A |
+| 12 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 13 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
 | 14 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
 | 15 | [Ecco](http://twitter.com/search?q=Ecco) | N/A |
@@ -40,7 +40,7 @@ This is top 50 for Denmark
 | 23 | [Union](http://twitter.com/search?q=Union) | N/A |
 | 24 | [ukrainske](http://twitter.com/search?q=ukrainske) | N/A |
 | 25 | [Krim](http://twitter.com/search?q=Krim) | N/A |
-| 26 | [parken](http://twitter.com/search?q=parken) | N/A |
+| 26 | [Parken](http://twitter.com/search?q=Parken) | N/A |
 | 27 | [Irak](http://twitter.com/search?q=Irak) | N/A |
 | 28 | [PFAS](http://twitter.com/search?q=PFAS) | N/A |
 | 29 | [russiske](http://twitter.com/search?q=russiske) | N/A |
@@ -49,7 +49,7 @@ This is top 50 for Denmark
 | 32 | [i danmark](http://twitter.com/search?q=i+danmark) | N/A |
 | 33 | [jarlov](http://twitter.com/search?q=jarlov) | N/A |
 | 34 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 35 | [Jonas Vingegaard](http://twitter.com/search?q=Jonas+Vingegaard) | N/A |
+| 35 | [jonas vingegaard](http://twitter.com/search?q=jonas+vingegaard) | N/A |
 | 36 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
 | 37 | [kolding](http://twitter.com/search?q=kolding) | N/A |
 | 38 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |

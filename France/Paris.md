@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Paris
 
-📆 Last Updated: `2023-02-25 04:16:08 UTC`
+📆 Last Updated: `2023-02-25 05:15:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,37 +25,37 @@ This is top 50 for [France](</France>)
 | 8 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
 | 9 | [#srfcsha](http://twitter.com/search?q=%23srfcsha) | N/A |
 | 10 | [La Nuit du 12](http://twitter.com/search?q=La+Nuit+du+12) | N/A |
-| 11 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 11 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
 | 12 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
-| 13 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
-| 14 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 13 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 14 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
 | 15 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
-| 16 | [Alice Diop](http://twitter.com/search?q=Alice+Diop) | N/A |
-| 17 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
-| 18 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
-| 19 | [Bastien Bouillon](http://twitter.com/search?q=Bastien+Bouillon) | N/A |
-| 20 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
-| 21 | [Pacifiction](http://twitter.com/search?q=Pacifiction) | N/A |
-| 22 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
+| 16 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 17 | [Alice Diop](http://twitter.com/search?q=Alice+Diop) | N/A |
+| 18 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
+| 19 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
+| 20 | [bastien bouillon](http://twitter.com/search?q=bastien+bouillon) | N/A |
+| 21 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 22 | [Pacifiction](http://twitter.com/search?q=Pacifiction) | N/A |
 | 23 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 24 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 25 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
-| 26 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
-| 27 | [Noémie Merlant](http://twitter.com/search?q=No%c3%a9mie+Merlant) | N/A |
-| 28 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 29 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
+| 24 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
+| 25 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 26 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
+| 27 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
+| 28 | [Noémie Merlant](http://twitter.com/search?q=No%c3%a9mie+Merlant) | N/A |
+| 29 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
 | 30 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
 | 31 | [Dominik Moll](http://twitter.com/search?q=Dominik+Moll) | N/A |
 | 32 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
-| 33 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
-| 34 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 35 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
-| 36 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
-| 37 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 38 | [Benoît Magimel](http://twitter.com/search?q=Beno%c3%aet+Magimel) | N/A |
-| 39 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 40 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 41 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 33 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 34 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 35 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
+| 36 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 37 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
+| 38 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 39 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 40 | [Benoît Magimel](http://twitter.com/search?q=Beno%c3%aet+Magimel) | N/A |
+| 41 | [arthur fils](http://twitter.com/search?q=arthur+fils) | N/A |
 | 42 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
 | 43 | [Diani](http://twitter.com/search?q=Diani) | N/A |
 | 44 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
@@ -64,7 +64,7 @@ This is top 50 for [France](</France>)
 | 47 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
 | 48 | [pallois](http://twitter.com/search?q=pallois) | N/A |
 | 49 | [Louis Garrel](http://twitter.com/search?q=Louis+Garrel) | N/A |
-| 50 | [La FFF](http://twitter.com/search?q=La+FFF) | N/A |
+| 50 | [la fff](http://twitter.com/search?q=la+fff) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Izmir
 
-📆 Last Updated: `2023-02-25 04:16:32 UTC`
+📆 Last Updated: `2023-02-25 05:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
-| 2 | [#uyuyamıyorum](http://twitter.com/search?q=%23uyuyam%c4%b1yorum) | N/A |
-| 3 | [#CbYaralarıSarmaya100Bin](http://twitter.com/search?q=%23CbYaralar%c4%b1Sarmaya100Bin) | N/A |
-| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 5 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 6 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
-| 7 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 8 | [muratileberna evleniyor](http://twitter.com/search?q=muratileberna+evleniyor) | N/A |
-| 9 | [yürekler beraber çarpıyor](http://twitter.com/search?q=y%c3%bcrekler+beraber+%c3%a7arp%c4%b1yor) | N/A |
-| 10 | [KÜLLERİMİZDEN DOĞARIZ](http://twitter.com/search?q=K%c3%9cLLER%c4%b0M%c4%b0ZDEN+DO%c4%9eARIZ) | N/A |
+| 1 | [#uyuyamıyorum](http://twitter.com/search?q=%23uyuyam%c4%b1yorum) | N/A |
+| 2 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 3 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
+| 4 | [#CbYaralarıSarmaya100Bin](http://twitter.com/search?q=%23CbYaralar%c4%b1Sarmaya100Bin) | N/A |
+| 5 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 6 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 7 | [muratileberna evleniyor](http://twitter.com/search?q=muratileberna+evleniyor) | N/A |
+| 8 | [yürekler beraber çarpıyor](http://twitter.com/search?q=y%c3%bcrekler+beraber+%c3%a7arp%c4%b1yor) | N/A |
+| 9 | [KÜLLERİMİZDEN DOĞARIZ](http://twitter.com/search?q=K%c3%9cLLER%c4%b0M%c4%b0ZDEN+DO%c4%9eARIZ) | N/A |
+| 10 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
 | 11 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 12 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
-| 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 14 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
-| 15 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 16 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 17 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 18 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 19 | [çşbalımı kpssliyap](http://twitter.com/search?q=%c3%a7%c5%9fbal%c4%b1m%c4%b1+kpssliyap) | N/A |
-| 20 | [abdullah avcı](http://twitter.com/search?q=abdullah+avc%c4%b1) | N/A |
-| 21 | [Konya'da 4.3](http://twitter.com/search?q=Konya%27da+4.3) | N/A |
-| 22 | [manu](http://twitter.com/search?q=manu) | N/A |
-| 23 | [Berke Kutay Şahin](http://twitter.com/search?q=Berke+Kutay+%c5%9eahin) | N/A |
-| 24 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 25 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 26 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 27 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 28 | [elif buse doğan](http://twitter.com/search?q=elif+buse+do%c4%9fan) | N/A |
-| 29 | [g i d e c e k s i n i z](http://twitter.com/search?q=g+i+d+e+c+e+k+s+i+n+i+z) | N/A |
-| 30 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
-| 31 | [Depremzade](http://twitter.com/search?q=Depremzade) | N/A |
-| 32 | [lahoz](http://twitter.com/search?q=lahoz) | N/A |
-| 33 | [birliktelik destanı](http://twitter.com/search?q=birliktelik+destan%c4%b1) | N/A |
-| 34 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 36 | [Sevcan Orhan](http://twitter.com/search?q=Sevcan+Orhan) | N/A |
+| 12 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
+| 13 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
+| 14 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
+| 15 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
+| 16 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 17 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 18 | [çşbalımı kpssliyap](http://twitter.com/search?q=%c3%a7%c5%9fbal%c4%b1m%c4%b1+kpssliyap) | N/A |
+| 19 | [abdullah avcı](http://twitter.com/search?q=abdullah+avc%c4%b1) | N/A |
+| 20 | [konya'da 4.3](http://twitter.com/search?q=konya%27da+4.3) | N/A |
+| 21 | [manu](http://twitter.com/search?q=manu) | N/A |
+| 22 | [Berke Kutay Şahin](http://twitter.com/search?q=Berke+Kutay+%c5%9eahin) | N/A |
+| 23 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
+| 24 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 25 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 26 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 27 | [elif buse doğan](http://twitter.com/search?q=elif+buse+do%c4%9fan) | N/A |
+| 28 | [g i d e c e k s i n i z](http://twitter.com/search?q=g+i+d+e+c+e+k+s+i+n+i+z) | N/A |
+| 29 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
+| 30 | [Zülfü Livaneli](http://twitter.com/search?q=Z%c3%bclf%c3%bc+Livaneli) | N/A |
+| 31 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 32 | [Depremzade](http://twitter.com/search?q=Depremzade) | N/A |
+| 33 | [lahoz](http://twitter.com/search?q=lahoz) | N/A |
+| 34 | [birliktelik destanı](http://twitter.com/search?q=birliktelik+destan%c4%b1) | N/A |
+| 35 | [malatya'da 4.7](http://twitter.com/search?q=malatya%27da+4.7) | N/A |
+| 36 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
 | 37 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
-| 38 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 39 | [ProfilimeKimler Bakıyorlar](http://twitter.com/search?q=ProfilimeKimler+Bak%c4%b1yorlar) | N/A |
-| 40 | [Obruk](http://twitter.com/search?q=Obruk) | N/A |
-| 41 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
-| 42 | [Çetin Tekindor](http://twitter.com/search?q=%c3%87etin+Tekindor) | N/A |
-| 43 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 44 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
-| 45 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
-| 46 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
-| 47 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 48 | [Muş'ta](http://twitter.com/search?q=Mu%c5%9f%27ta) | N/A |
-| 49 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
-| 50 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
+| 38 | [Sevcan Orhan](http://twitter.com/search?q=Sevcan+Orhan) | N/A |
+| 39 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 40 | [ProfilimeKimler Bakıyorlar](http://twitter.com/search?q=ProfilimeKimler+Bak%c4%b1yorlar) | N/A |
+| 41 | [Obruk](http://twitter.com/search?q=Obruk) | N/A |
+| 42 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
+| 43 | [Çetin Tekindor](http://twitter.com/search?q=%c3%87etin+Tekindor) | N/A |
+| 44 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 45 | [Muş'ta](http://twitter.com/search?q=Mu%c5%9f%27ta) | N/A |
+| 46 | [Muş'ta](http://twitter.com/search?q=Mu%c5%9f%27ta) | N/A |
+| 47 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 48 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
+| 49 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
+| 50 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
 
 
 

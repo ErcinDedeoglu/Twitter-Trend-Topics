@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-25 04:16:48 UTC`
+📆 Last Updated: `2023-02-25 05:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,9 +21,9 @@ This is top 50 for Ukraine
 | 4 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
 | 5 | [Victory](http://twitter.com/search?q=Victory) | N/A |
 | 6 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 7 | [тирасполь](http://twitter.com/search?q=%d1%82%d0%b8%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d1%8c) | N/A |
-| 8 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 9 | [#LunarNewYearTSB](http://twitter.com/search?q=%23LunarNewYearTSB) | N/A |
+| 7 | [#LunarNewYearTSB](http://twitter.com/search?q=%23LunarNewYearTSB) | N/A |
+| 8 | [тирасполь](http://twitter.com/search?q=%d1%82%d0%b8%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d1%8c) | N/A |
+| 9 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 10 | [читаю](http://twitter.com/search?q=%d1%87%d0%b8%d1%82%d0%b0%d1%8e) | N/A |
 | 11 | [#RussiaIsLosing](http://twitter.com/search?q=%23RussiaIsLosing) | N/A |
 | 12 | [Hostomel](http://twitter.com/search?q=Hostomel) | N/A |
@@ -31,18 +31,18 @@ This is top 50 for Ukraine
 | 14 | [Quest](http://twitter.com/search?q=Quest) | N/A |
 | 15 | [#Transnistria](http://twitter.com/search?q=%23Transnistria) | N/A |
 | 16 | [McDull in McDull LAND](http://twitter.com/search?q=McDull+in+McDull+LAND) | N/A |
-| 17 | [Берлине](http://twitter.com/search?q=%d0%91%d0%b5%d1%80%d0%bb%d0%b8%d0%bd%d0%b5) | N/A |
+| 17 | [берлине](http://twitter.com/search?q=%d0%b1%d0%b5%d1%80%d0%bb%d0%b8%d0%bd%d0%b5) | N/A |
 | 18 | [Estonia](http://twitter.com/search?q=Estonia) | N/A |
 | 19 | [Star Team in PCCW HKT Futurera](http://twitter.com/search?q=Star+Team+in+PCCW+HKT+Futurera) | N/A |
 | 20 | [слава україні](http://twitter.com/search?q=%d1%81%d0%bb%d0%b0%d0%b2%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%96) | N/A |
 | 21 | [The Legend of Sword and Fairy](http://twitter.com/search?q=The+Legend+of+Sword+and+Fairy) | N/A |
 | 22 | [зеленскому](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%bc%d1%83) | N/A |
-| 23 | [Порошенко](http://twitter.com/search?q=%d0%9f%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
-| 24 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
+| 23 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
+| 24 | [Порошенко](http://twitter.com/search?q=%d0%9f%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
 | 25 | [обсе](http://twitter.com/search?q=%d0%be%d0%b1%d1%81%d0%b5) | N/A |
-| 26 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 27 | [UN Charter](http://twitter.com/search?q=UN+Charter) | N/A |
-| 28 | [Delivery Robot in Next Station](http://twitter.com/search?q=Delivery+Robot+in+Next+Station) | N/A |
+| 26 | [Delivery Robot in Next Station](http://twitter.com/search?q=Delivery+Robot+in+Next+Station) | N/A |
+| 27 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
+| 28 | [UN Charter](http://twitter.com/search?q=UN+Charter) | N/A |
 | 29 | [$time](http://twitter.com/search?q=%24time) | N/A |
 | 30 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
 | 31 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
@@ -50,19 +50,19 @@ This is top 50 for Ukraine
 | 33 | [зеленский](http://twitter.com/search?q=%d0%b7%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
 | 34 | [франции](http://twitter.com/search?q=%d1%84%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
 | 35 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 36 | [Днепр](http://twitter.com/search?q=%d0%94%d0%bd%d0%b5%d0%bf%d1%80) | N/A |
+| 36 | [днепр](http://twitter.com/search?q=%d0%b4%d0%bd%d0%b5%d0%bf%d1%80) | N/A |
 | 37 | [Чувак](http://twitter.com/search?q=%d0%a7%d1%83%d0%b2%d0%b0%d0%ba) | N/A |
 | 38 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
-| 39 | [Харькове](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
+| 39 | [харькове](http://twitter.com/search?q=%d1%85%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
 | 40 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
 | 41 | [Желаю](http://twitter.com/search?q=%d0%96%d0%b5%d0%bb%d0%b0%d1%8e) | N/A |
 | 42 | [Paris](http://twitter.com/search?q=Paris) | N/A |
 | 43 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 44 | [Poland](http://twitter.com/search?q=Poland) | N/A |
-| 45 | [Молдовы](http://twitter.com/search?q=%d0%9c%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d1%8b) | N/A |
-| 46 | [Irpin](http://twitter.com/search?q=Irpin) | N/A |
-| 47 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
-| 48 | [мразота](http://twitter.com/search?q=%d0%bc%d1%80%d0%b0%d0%b7%d0%be%d1%82%d0%b0) | N/A |
+| 44 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 45 | [Poland](http://twitter.com/search?q=Poland) | N/A |
+| 46 | [молдовы](http://twitter.com/search?q=%d0%bc%d0%be%d0%bb%d0%b4%d0%be%d0%b2%d1%8b) | N/A |
+| 47 | [Irpin](http://twitter.com/search?q=Irpin) | N/A |
+| 48 | [Kijowie](http://twitter.com/search?q=Kijowie) | N/A |
 | 49 | [причем](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d1%87%d0%b5%d0%bc) | N/A |
 | 50 | [Finland](http://twitter.com/search?q=Finland) | N/A |
 

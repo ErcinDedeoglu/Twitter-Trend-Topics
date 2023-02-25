@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belarus
 
-📆 Last Updated: `2023-02-25 04:16:42 UTC`
+📆 Last Updated: `2023-02-25 05:16:09 UTC`
 
 🔧 Updated every 1 hour!
 

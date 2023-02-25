@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Brazil
 
-📆 Last Updated: `2023-02-25 04:16:42 UTC`
+📆 Last Updated: `2023-02-25 05:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Brazil
 | ------- | ------------ | ------------ |
 | 1 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
 | 2 | [4M DO CORINGA](http://twitter.com/search?q=4M+DO+CORINGA) | N/A |
-| 3 | [florence](http://twitter.com/search?q=florence) | N/A |
+| 3 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
 | 4 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 5 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 6 | [chelo](http://twitter.com/search?q=chelo) | N/A |
-| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 8 | [#GloboReporter](http://twitter.com/search?q=%23GloboReporter) | N/A |
-| 9 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
-| 10 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 11 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 12 | [#MercadoLivrenoBBB23](http://twitter.com/search?q=%23MercadoLivrenoBBB23) | N/A |
-| 13 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
-| 14 | [Caneta](http://twitter.com/search?q=Caneta) | N/A |
-| 15 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
-| 16 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 17 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 18 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 19 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
-| 20 | [Omelete](http://twitter.com/search?q=Omelete) | N/A |
-| 21 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 22 | [HOJE TEM CORINTHIANS FEMININO](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS+FEMININO) | N/A |
-| 23 | [#festabbb](http://twitter.com/search?q=%23festabbb) | N/A |
-| 24 | [Mariely](http://twitter.com/search?q=Mariely) | N/A |
-| 25 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 26 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 27 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
-| 28 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
-| 29 | [Abolição](http://twitter.com/search?q=Aboli%c3%a7%c3%a3o) | N/A |
-| 30 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
-| 31 | [Carol Sampaio](http://twitter.com/search?q=Carol+Sampaio) | N/A |
-| 32 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
-| 33 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 34 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
-| 35 | [James Webb](http://twitter.com/search?q=James+Webb) | N/A |
-| 36 | [Estevão Ferreira](http://twitter.com/search?q=Estev%c3%a3o+Ferreira) | N/A |
-| 37 | [Casquinha](http://twitter.com/search?q=Casquinha) | N/A |
-| 38 | [sofia santino](http://twitter.com/search?q=sofia+santino) | N/A |
-| 39 | [Intendente](http://twitter.com/search?q=Intendente) | N/A |
-| 40 | [ward](http://twitter.com/search?q=ward) | N/A |
-| 41 | [Big Bang](http://twitter.com/search?q=Big+Bang) | N/A |
-| 42 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
-| 43 | [maisa](http://twitter.com/search?q=maisa) | N/A |
-| 44 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 45 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
-| 46 | [Da Silva](http://twitter.com/search?q=Da+Silva) | N/A |
-| 47 | [KANNEMANN](http://twitter.com/search?q=KANNEMANN) | N/A |
-| 48 | [Parque Acari](http://twitter.com/search?q=Parque+Acari) | N/A |
-| 49 | [Leo Dias](http://twitter.com/search?q=Leo+Dias) | N/A |
-| 50 | [Thaciano](http://twitter.com/search?q=Thaciano) | N/A |
+| 5 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 6 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
+| 7 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
+| 8 | [chelo](http://twitter.com/search?q=chelo) | N/A |
+| 9 | [#carnavaisdobrasil](http://twitter.com/search?q=%23carnavaisdobrasil) | N/A |
+| 10 | [#MercadoLivrenoBBB23](http://twitter.com/search?q=%23MercadoLivrenoBBB23) | N/A |
+| 11 | [Caneta](http://twitter.com/search?q=Caneta) | N/A |
+| 12 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 13 | [Klay Thompson](http://twitter.com/search?q=Klay+Thompson) | N/A |
+| 14 | [Zanzibar](http://twitter.com/search?q=Zanzibar) | N/A |
+| 15 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 16 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
+| 17 | [#festabbb](http://twitter.com/search?q=%23festabbb) | N/A |
+| 18 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
+| 19 | [sofia santino](http://twitter.com/search?q=sofia+santino) | N/A |
+| 20 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
+| 21 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
+| 22 | [Omelete](http://twitter.com/search?q=Omelete) | N/A |
+| 23 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
+| 24 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 25 | [Rocinha](http://twitter.com/search?q=Rocinha) | N/A |
+| 26 | [Mariely](http://twitter.com/search?q=Mariely) | N/A |
+| 27 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
+| 28 | [HOJE TEM CORINTHIANS FEMININO](http://twitter.com/search?q=HOJE+TEM+CORINTHIANS+FEMININO) | N/A |
+| 29 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
+| 30 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 31 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 32 | [James Webb](http://twitter.com/search?q=James+Webb) | N/A |
+| 33 | [Abolição](http://twitter.com/search?q=Aboli%c3%a7%c3%a3o) | N/A |
+| 34 | [Intendente](http://twitter.com/search?q=Intendente) | N/A |
+| 35 | [Imperial](http://twitter.com/search?q=Imperial) | N/A |
+| 36 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 37 | [ward](http://twitter.com/search?q=ward) | N/A |
+| 38 | [Nets](http://twitter.com/search?q=Nets) | Nets is short for "networks," which refers to a system of interconnected computers, devices, and other components that can communicate with each other. It is used to share information and resources between users. |
+| 39 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 40 | [Estevão Ferreira](http://twitter.com/search?q=Estev%c3%a3o+Ferreira) | N/A |
+| 41 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
+| 42 | [Casquinha](http://twitter.com/search?q=Casquinha) | N/A |
+| 43 | [Carol Sampaio](http://twitter.com/search?q=Carol+Sampaio) | N/A |
+| 44 | [Grenal](http://twitter.com/search?q=Grenal) | N/A |
+| 45 | [Big Bang](http://twitter.com/search?q=Big+Bang) | N/A |
+| 46 | [Amazônia](http://twitter.com/search?q=Amaz%c3%b4nia) | N/A |
+| 47 | [Série Prata](http://twitter.com/search?q=S%c3%a9rie+Prata) | N/A |
+| 48 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 49 | [Horner](http://twitter.com/search?q=Horner) | N/A |
+| 50 | [Cassano](http://twitter.com/search?q=Cassano) | N/A |
 
 
 

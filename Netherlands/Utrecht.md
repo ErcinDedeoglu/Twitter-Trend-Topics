@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Utrecht
 
-📆 Last Updated: `2023-02-25 04:16:11 UTC`
+📆 Last Updated: `2023-02-25 05:15:37 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -25,26 +25,26 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 8 | [joey kooij](http://twitter.com/search?q=joey+kooij) | N/A |
 | 9 | [Ollongren](http://twitter.com/search?q=Ollongren) | N/A |
 | 10 | [vijlbrief](http://twitter.com/search?q=vijlbrief) | N/A |
-| 11 | [Vera Bergkamp](http://twitter.com/search?q=Vera+Bergkamp) | N/A |
-| 12 | [Koopmans](http://twitter.com/search?q=Koopmans) | N/A |
+| 11 | [vera bergkamp](http://twitter.com/search?q=vera+bergkamp) | N/A |
+| 12 | [koopmans](http://twitter.com/search?q=koopmans) | N/A |
 | 13 | [Bernhard](http://twitter.com/search?q=Bernhard) | N/A |
 | 14 | [Van der Wal](http://twitter.com/search?q=Van+der+Wal) | N/A |
-| 15 | [Groningse](http://twitter.com/search?q=Groningse) | N/A |
-| 16 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
-| 17 | [erasmusbrug](http://twitter.com/search?q=erasmusbrug) | N/A |
-| 18 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
+| 15 | [Bassey](http://twitter.com/search?q=Bassey) | N/A |
+| 16 | [erasmusbrug](http://twitter.com/search?q=erasmusbrug) | N/A |
+| 17 | [BMTH](http://twitter.com/search?q=BMTH) | N/A |
+| 18 | [Groningse](http://twitter.com/search?q=Groningse) | N/A |
 | 19 | [Russische](http://twitter.com/search?q=Russische) | N/A |
 | 20 | [Union](http://twitter.com/search?q=Union) | N/A |
 | 21 | [willem ii](http://twitter.com/search?q=willem+ii) | N/A |
 | 22 | [Ajax](http://twitter.com/search?q=Ajax) | Ajax stands for Asynchronous JavaScript and XML. It is a web development technique used to create interactive web applications. Ajax allows web pages to be updated asynchronously by exchanging small amounts of data with the server behind the scenes. This means that it is possible to update parts of a web page, without reloading the whole page. |
 | 23 | [buma](http://twitter.com/search?q=buma) | N/A |
 | 24 | [UEFA](http://twitter.com/search?q=UEFA) | UEFA stands for the Union of European Football Associations. It is the governing body for association football in Europe, responsible for organizing and overseeing major international tournaments such as the UEFA Champions League and the UEFA European Championship. |
-| 25 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
-| 26 | [auassar](http://twitter.com/search?q=auassar) | N/A |
-| 27 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
-| 28 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 29 | [opstappen](http://twitter.com/search?q=opstappen) | N/A |
-| 30 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 25 | [auassar](http://twitter.com/search?q=auassar) | N/A |
+| 26 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 27 | [Baudet](http://twitter.com/search?q=Baudet) | N/A |
+| 28 | [opstappen](http://twitter.com/search?q=opstappen) | N/A |
+| 29 | [Rulli](http://twitter.com/search?q=Rulli) | N/A |
+| 30 | [Fijn](http://twitter.com/search?q=Fijn) | N/A |
 | 31 | [Silva](http://twitter.com/search?q=Silva) | N/A |
 | 32 | [carel](http://twitter.com/search?q=carel) | N/A |
 | 33 | [Gideon](http://twitter.com/search?q=Gideon) | N/A |
@@ -58,10 +58,10 @@ This is top 50 for [Netherlands](</Netherlands>)
 | 41 | [Brands](http://twitter.com/search?q=Brands) | N/A |
 | 42 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
 | 43 | [ExxonMobil](http://twitter.com/search?q=ExxonMobil) | N/A |
-| 44 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 45 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
-| 46 | [klimaatterrorisme](http://twitter.com/search?q=klimaatterrorisme) | N/A |
-| 47 | [berghuis](http://twitter.com/search?q=berghuis) | N/A |
+| 44 | [helmond sport](http://twitter.com/search?q=helmond+sport) | N/A |
+| 45 | [klimaatterrorisme](http://twitter.com/search?q=klimaatterrorisme) | N/A |
+| 46 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 47 | [Berghuis](http://twitter.com/search?q=Berghuis) | Berghuis is a Dutch surname derived from the word "berg," which means mountain. The name is thought to have originated as a toponymic surname, referring to someone who lived near or on a mountain. In English, the name would be translated as "Mountainhouse." |
 | 48 | [eindhoven airport](http://twitter.com/search?q=eindhoven+airport) | N/A |
 | 49 | [AS Roma](http://twitter.com/search?q=AS+Roma) | N/A |
 

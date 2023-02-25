@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belgium
 
-📆 Last Updated: `2023-02-25 04:16:42 UTC`
+📆 Last Updated: `2023-02-25 05:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,10 +31,10 @@ This is top 50 for Belgium
 | 14 | [Europe](http://twitter.com/search?q=Europe) | N/A |
 | 15 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 | 16 | [verbruggen](http://twitter.com/search?q=verbruggen) | N/A |
-| 17 | [Jihad](http://twitter.com/search?q=Jihad) | N/A |
-| 18 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
-| 19 | [Innige](http://twitter.com/search?q=Innige) | N/A |
-| 20 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 17 | [Oekraïne](http://twitter.com/search?q=Oekra%c3%afne) | N/A |
+| 18 | [Innige](http://twitter.com/search?q=Innige) | N/A |
+| 19 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 20 | [Jihad](http://twitter.com/search?q=Jihad) | N/A |
 | 21 | [olivier vandecasteele](http://twitter.com/search?q=olivier+vandecasteele) | N/A |
 | 22 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
 | 23 | [Dries](http://twitter.com/search?q=Dries) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for Belgium
 | 33 | [Yari](http://twitter.com/search?q=Yari) | N/A |
 | 34 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
 | 35 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 36 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 37 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
-| 38 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 39 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
-| 40 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 41 | [colruyt](http://twitter.com/search?q=colruyt) | N/A |
-| 42 | [UN Charter](http://twitter.com/search?q=UN+Charter) | N/A |
-| 43 | [pidcock](http://twitter.com/search?q=pidcock) | N/A |
-| 44 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 45 | [lotto park](http://twitter.com/search?q=lotto+park) | N/A |
-| 46 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
-| 47 | [Qu'Allah](http://twitter.com/search?q=Qu%27Allah) | N/A |
-| 48 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
-| 49 | [Slimani](http://twitter.com/search?q=Slimani) | N/A |
-| 50 | [marokkanen](http://twitter.com/search?q=marokkanen) | N/A |
+| 36 | [Séville](http://twitter.com/search?q=S%c3%a9ville) | N/A |
+| 37 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 38 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
+| 39 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 40 | [colruyt](http://twitter.com/search?q=colruyt) | N/A |
+| 41 | [UN Charter](http://twitter.com/search?q=UN+Charter) | N/A |
+| 42 | [pidcock](http://twitter.com/search?q=pidcock) | N/A |
+| 43 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 44 | [lotto park](http://twitter.com/search?q=lotto+park) | N/A |
+| 45 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
+| 46 | [Qu'Allah](http://twitter.com/search?q=Qu%27Allah) | N/A |
+| 47 | [Angulo](http://twitter.com/search?q=Angulo) | N/A |
+| 48 | [slimani](http://twitter.com/search?q=slimani) | N/A |
+| 49 | [marokkanen](http://twitter.com/search?q=marokkanen) | N/A |
+| 50 | [efteling](http://twitter.com/search?q=efteling) | N/A |
 
 
 

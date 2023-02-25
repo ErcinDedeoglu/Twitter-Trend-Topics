@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Warsaw
 
-📆 Last Updated: `2023-02-25 04:16:06 UTC`
+📆 Last Updated: `2023-02-25 05:15:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,13 +18,13 @@ This is top 50 for [Poland](</Poland>)
 | 1 | [#LEGWID](http://twitter.com/search?q=%23LEGWID) | N/A |
 | 2 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
 | 3 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
-| 4 | [#lpobod](http://twitter.com/search?q=%23lpobod) | N/A |
+| 4 | [#LPOBOD](http://twitter.com/search?q=%23LPOBOD) | N/A |
 | 5 | [#jagrcz](http://twitter.com/search?q=%23jagrcz) | N/A |
 | 6 | [#WISODR](http://twitter.com/search?q=%23WISODR) | N/A |
-| 7 | [Sokołowski](http://twitter.com/search?q=Soko%c5%82owski) | N/A |
-| 8 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 9 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
-| 10 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 7 | [sokołowski](http://twitter.com/search?q=soko%c5%82owski) | N/A |
+| 8 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
+| 9 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 10 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
 | 11 | [brawo lech](http://twitter.com/search?q=brawo+lech) | N/A |
 | 12 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
 | 13 | [Slovan](http://twitter.com/search?q=Slovan) | N/A |
@@ -42,7 +42,7 @@ This is top 50 for [Poland](</Poland>)
 | 25 | [muci](http://twitter.com/search?q=muci) | N/A |
 | 26 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 27 | [łazienkowskiej](http://twitter.com/search?q=%c5%82azienkowskiej) | N/A |
-| 28 | [Wszołka](http://twitter.com/search?q=Wszo%c5%82ka) | N/A |
+| 28 | [wszołka](http://twitter.com/search?q=wszo%c5%82ka) | N/A |
 | 29 | [makijaż](http://twitter.com/search?q=makija%c5%bc) | N/A |
 | 30 | [ligi konferencji](http://twitter.com/search?q=ligi+konferencji) | N/A |
 | 31 | [Faflun](http://twitter.com/search?q=Faflun) | N/A |
@@ -56,12 +56,12 @@ This is top 50 for [Poland](</Poland>)
 | 39 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
 | 40 | [szachtar](http://twitter.com/search?q=szachtar) | N/A |
 | 41 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 42 | [слава україні](http://twitter.com/search?q=%d1%81%d0%bb%d0%b0%d0%b2%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%96) | N/A |
-| 43 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 42 | [Andruszkiewicz](http://twitter.com/search?q=Andruszkiewicz) | N/A |
+| 43 | [слава україні](http://twitter.com/search?q=%d1%81%d0%bb%d0%b0%d0%b2%d0%b0+%d1%83%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%96) | N/A |
 | 44 | [trójkąta weimarskiego](http://twitter.com/search?q=tr%c3%b3jk%c4%85ta+weimarskiego) | N/A |
-| 45 | [wołodymyr zełenski](http://twitter.com/search?q=wo%c5%82odymyr+ze%c5%82enski) | N/A |
-| 46 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 47 | [Andruszkiewicz](http://twitter.com/search?q=Andruszkiewicz) | N/A |
+| 45 | [Bodo](http://twitter.com/search?q=Bodo) | N/A |
+| 46 | [wołodymyr zełenski](http://twitter.com/search?q=wo%c5%82odymyr+ze%c5%82enski) | N/A |
+| 47 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
 | 48 | [obwe](http://twitter.com/search?q=obwe) | N/A |
 | 49 | [PT-91](http://twitter.com/search?q=PT-91) | N/A |
 | 50 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Essen
 
-📆 Last Updated: `2023-02-25 04:16:09 UTC`
+📆 Last Updated: `2023-02-25 05:15:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Germany](</Germany>)
 | ------- | ------------ | ------------ |
 | 1 | [#M05BMG](http://twitter.com/search?q=%23M05BMG) | N/A |
 | 2 | [#tipicospor](http://twitter.com/search?q=%23tipicospor) | N/A |
-| 3 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 4 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 3 | [#letsdance](http://twitter.com/search?q=%23letsdance) | N/A |
+| 4 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
 | 5 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 6 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 7 | [BASF](http://twitter.com/search?q=BASF) | N/A |
+| 6 | [BASF](http://twitter.com/search?q=BASF) | N/A |
+| 7 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
 | 8 | [Uni Bonn](http://twitter.com/search?q=Uni+Bonn) | N/A |
 | 9 | [Begeisterung an die Front](http://twitter.com/search?q=Begeisterung+an+die+Front) | N/A |
-| 10 | [farke](http://twitter.com/search?q=farke) | N/A |
-| 11 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 10 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
+| 11 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 12 | [Farke](http://twitter.com/search?q=Farke) | N/A |
 | 13 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
-| 14 | [Elvedi](http://twitter.com/search?q=Elvedi) | N/A |
-| 15 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 14 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
+| 15 | [elvedi](http://twitter.com/search?q=elvedi) | N/A |
 | 16 | [freitagabend](http://twitter.com/search?q=freitagabend) | N/A |
 | 17 | [schlesinger](http://twitter.com/search?q=schlesinger) | N/A |
-| 18 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 19 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 20 | [Pubertätsblocker](http://twitter.com/search?q=Pubert%c3%a4tsblocker) | N/A |
+| 18 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 19 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
+| 20 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
 | 21 | [ein jahr krieg](http://twitter.com/search?q=ein+jahr+krieg) | N/A |
-| 22 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
-| 23 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 24 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
-| 25 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
-| 26 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
-| 27 | [ballbesitz](http://twitter.com/search?q=ballbesitz) | N/A |
-| 28 | [verkommenheit](http://twitter.com/search?q=verkommenheit) | N/A |
-| 29 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
-| 30 | [peter lustig](http://twitter.com/search?q=peter+lustig) | N/A |
-| 31 | [knossi](http://twitter.com/search?q=knossi) | N/A |
-| 32 | [schneeregen](http://twitter.com/search?q=schneeregen) | N/A |
-| 33 | [Grundrechtseinschränkung](http://twitter.com/search?q=Grundrechtseinschr%c3%a4nkung) | N/A |
-| 34 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
-| 35 | [theaterplatz](http://twitter.com/search?q=theaterplatz) | N/A |
-| 36 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 37 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
-| 38 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
-| 39 | [Work-Life-Balance](http://twitter.com/search?q=Work-Life-Balance) | N/A |
-| 40 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
-| 41 | [hofreiter](http://twitter.com/search?q=hofreiter) | N/A |
-| 42 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
-| 43 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
-| 44 | [Hofmann](http://twitter.com/search?q=Hofmann) | N/A |
-| 45 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
-| 46 | [Konzert](http://twitter.com/search?q=Konzert) | N/A |
-| 47 | [America](http://twitter.com/search?q=America) | N/A |
-| 48 | [Träume](http://twitter.com/search?q=Tr%c3%a4ume) | N/A |
-| 49 | [iTunes](http://twitter.com/search?q=iTunes) | N/A |
+| 22 | [Pubertätsblocker](http://twitter.com/search?q=Pubert%c3%a4tsblocker) | N/A |
+| 23 | [Elsa](http://twitter.com/search?q=Elsa) | N/A |
+| 24 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 25 | [Faktenfinder](http://twitter.com/search?q=Faktenfinder) | N/A |
+| 26 | [verkommenheit](http://twitter.com/search?q=verkommenheit) | N/A |
+| 27 | [Kamada](http://twitter.com/search?q=Kamada) | N/A |
+| 28 | [Arbeitgeber](http://twitter.com/search?q=Arbeitgeber) | N/A |
+| 29 | [peter lustig](http://twitter.com/search?q=peter+lustig) | N/A |
+| 30 | [knossi](http://twitter.com/search?q=knossi) | N/A |
+| 31 | [schneeregen](http://twitter.com/search?q=schneeregen) | N/A |
+| 32 | [Grundrechtseinschränkung](http://twitter.com/search?q=Grundrechtseinschr%c3%a4nkung) | N/A |
+| 33 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
+| 34 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 35 | [Kelvin](http://twitter.com/search?q=Kelvin) | N/A |
+| 36 | [Work-Life-Balance](http://twitter.com/search?q=Work-Life-Balance) | N/A |
+| 37 | [Tisch](http://twitter.com/search?q=Tisch) | N/A |
+| 38 | [hofreiter](http://twitter.com/search?q=hofreiter) | N/A |
+| 39 | [Resolution](http://twitter.com/search?q=Resolution) | N/A |
+| 40 | [Ballbesitz](http://twitter.com/search?q=Ballbesitz) | N/A |
+| 41 | [Sanktionen](http://twitter.com/search?q=Sanktionen) | N/A |
+| 42 | [Mainz](http://twitter.com/search?q=Mainz) | Mainz is a city in Germany located on the Rhine River. It is the capital of the state of Rhineland-Palatinate and the seat of the government of the state. In English, Mainz means "Mouth of the Rhine". |
+| 43 | [Gladbach](http://twitter.com/search?q=Gladbach) | N/A |
+| 44 | [Baizhu](http://twitter.com/search?q=Baizhu) | N/A |
+| 45 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
+| 46 | [Affront](http://twitter.com/search?q=Affront) | N/A |
+| 47 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 48 | [America](http://twitter.com/search?q=America) | N/A |
+| 49 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
 
 
 

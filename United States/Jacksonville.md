@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jacksonville
 
-📆 Last Updated: `2023-02-25 04:16:36 UTC`
+📆 Last Updated: `2023-02-25 05:16:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
-| 2 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
-| 3 | [#FlaPanthers](http://twitter.com/search?q=%23FlaPanthers) | N/A |
-| 4 | [Jill](http://twitter.com/search?q=Jill) | N/A |
-| 5 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
-| 6 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
-| 7 | [#CocaineBear](http://twitter.com/search?q=%23CocaineBear) | N/A |
-| 8 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 9 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 10 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 11 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 12 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 13 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 14 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 15 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 16 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
-| 17 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 18 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 19 | [The Nets](http://twitter.com/search?q=The+Nets) | N/A |
-| 20 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 21 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
-| 22 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
-| 23 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
-| 24 | [Riho](http://twitter.com/search?q=Riho) | N/A |
-| 25 | [Finch](http://twitter.com/search?q=Finch) | N/A |
-| 26 | [Lance Archer](http://twitter.com/search?q=Lance+Archer) | N/A |
-| 27 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 28 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 29 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 30 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 31 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 32 | [Bray Wyatt](http://twitter.com/search?q=Bray+Wyatt) | Bray Wyatt is the ring name of American professional wrestler Windham Rotunda. The name is derived from the combination of his father's first name, Mike Rotunda, and his grandfather's first name, Bray Heath Slater. The name Bray Wyatt is a reference to the character of Bray Wyatt in the horror film The Texas Chainsaw Massacre. |
-| 33 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 34 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 35 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 36 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
-| 37 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 38 | [Regional Champs](http://twitter.com/search?q=Regional+Champs) | N/A |
-| 39 | [Komander](http://twitter.com/search?q=Komander) | N/A |
-| 40 | [shayna](http://twitter.com/search?q=shayna) | N/A |
-| 41 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
-| 42 | [Dreamcon](http://twitter.com/search?q=Dreamcon) | N/A |
-| 43 | [Kofi](http://twitter.com/search?q=Kofi) | Kofi is a unisex name of African origin meaning "born on Friday". It is also a popular name in Ghana, where it is the name of the Akan day of the week for Friday. |
-| 44 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 45 | [Porter Brown](http://twitter.com/search?q=Porter+Brown) | N/A |
-| 46 | [Greatest American Hero](http://twitter.com/search?q=Greatest+American+Hero) | N/A |
-| 47 | [Hubie Brown](http://twitter.com/search?q=Hubie+Brown) | Hubie Brown is a nickname for Hubert Jude Brown, an American basketball coach and commentator. He was a two-time NBA Coach of the Year and was inducted into the Basketball Hall of Fame in 2005. He is known for his innovative coaching strategies and his colorful commentary on NBA games. |
-| 48 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 49 | [Area Champs](http://twitter.com/search?q=Area+Champs) | N/A |
-| 50 | [Action Andretti](http://twitter.com/search?q=Action+Andretti) | Action Andretti is a phrase used to describe someone who is very active and energetic. It is derived from the name of the Italian-American racing driver Mario Andretti, who was known for his aggressive driving style. |
+| 1 | [Bucks](http://twitter.com/search?q=Bucks) | Bucks is a slang term for money, usually referring to dollars. It is often used in the phrase "bucks up," which means to pay or spend money. |
+| 2 | [#HEATCulture](http://twitter.com/search?q=%23HEATCulture) | N/A |
+| 3 | [Duncan](http://twitter.com/search?q=Duncan) | N/A |
+| 4 | [#TimeToHunt](http://twitter.com/search?q=%23TimeToHunt) | N/A |
+| 5 | [#FlaPanthers](http://twitter.com/search?q=%23FlaPanthers) | N/A |
+| 6 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 7 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
+| 8 | [NCAA](http://twitter.com/search?q=NCAA) | N/A |
+| 9 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
+| 10 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 11 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 12 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
+| 13 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 14 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 15 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
+| 16 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 17 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 18 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 19 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
+| 20 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 21 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 22 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 23 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 24 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 25 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 26 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 27 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 28 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 29 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 30 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 31 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
+| 32 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 33 | [Finch](http://twitter.com/search?q=Finch) | N/A |
+| 34 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
+| 35 | [Cameron Payne](http://twitter.com/search?q=Cameron+Payne) | N/A |
+| 36 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
+| 37 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
+| 38 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 39 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 40 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 41 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
+| 42 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 43 | [Okogie](http://twitter.com/search?q=Okogie) | N/A |
+| 44 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 45 | [Komander](http://twitter.com/search?q=Komander) | N/A |
+| 46 | [Lance Archer](http://twitter.com/search?q=Lance+Archer) | N/A |
+| 47 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 48 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 49 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 50 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
 
 
 

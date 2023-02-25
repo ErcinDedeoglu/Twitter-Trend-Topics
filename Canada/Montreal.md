@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Montreal
 
-📆 Last Updated: `2023-02-25 04:15:54 UTC`
+📆 Last Updated: `2023-02-25 05:15:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,41 +21,43 @@ This is top 50 for [Canada](</Canada>)
 | 4 | [Willy](http://twitter.com/search?q=Willy) | N/A |
 | 5 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 | 6 | [Pierre](http://twitter.com/search?q=Pierre) | N/A |
-| 7 | [#NHLJets](http://twitter.com/search?q=%23NHLJets) | N/A |
-| 8 | [#IStandWithTrudeau](http://twitter.com/search?q=%23IStandWithTrudeau) | N/A |
-| 9 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
-| 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 11 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
-| 12 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
-| 13 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
-| 14 | [Germany](http://twitter.com/search?q=Germany) | N/A |
-| 15 | [Bernier](http://twitter.com/search?q=Bernier) | N/A |
-| 16 | [Minnesota Wild](http://twitter.com/search?q=Minnesota+Wild) | N/A |
+| 7 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 8 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 9 | [#IStandWithTrudeau](http://twitter.com/search?q=%23IStandWithTrudeau) | N/A |
+| 10 | [Nazis](http://twitter.com/search?q=Nazis) | N/A |
+| 11 | [#NHLJets](http://twitter.com/search?q=%23NHLJets) | N/A |
+| 12 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 13 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 14 | [Hellebuyck](http://twitter.com/search?q=Hellebuyck) | N/A |
+| 15 | [Ehlers](http://twitter.com/search?q=Ehlers) | N/A |
+| 16 | [CSIS](http://twitter.com/search?q=CSIS) | N/A |
 | 17 | [Laith Marouf](http://twitter.com/search?q=Laith+Marouf) | N/A |
-| 18 | [The CPC](http://twitter.com/search?q=The+CPC) | N/A |
-| 19 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 20 | [Lilley](http://twitter.com/search?q=Lilley) | N/A |
-| 21 | [Chris Tierney](http://twitter.com/search?q=Chris+Tierney) | N/A |
-| 22 | [Canes](http://twitter.com/search?q=Canes) | N/A |
-| 23 | [Torts](http://twitter.com/search?q=Torts) | Torts is a branch of civil law that deals with wrongs committed against individuals or their property. It is an area of law that provides remedies for those who have suffered harm due to the wrongful acts of another. Torts can include intentional wrongs, such as assault and battery, as well as unintentional wrongs, such as negligence. |
+| 18 | [Flyers](http://twitter.com/search?q=Flyers) | Flyers are a type of printed advertisement used to promote products, services, or events. They are typically distributed in public places such as streets, parks, and shopping centers. Flyers can also be sent through the mail or handed out at events. The purpose of a flyer is to attract attention and encourage people to take action. |
+| 19 | [The CPC](http://twitter.com/search?q=The+CPC) | N/A |
+| 20 | [Germany](http://twitter.com/search?q=Germany) | N/A |
+| 21 | [Maxime Bernier](http://twitter.com/search?q=Maxime+Bernier) | N/A |
+| 22 | [Colin](http://twitter.com/search?q=Colin) | N/A |
+| 23 | [Lilley](http://twitter.com/search?q=Lilley) | N/A |
 | 24 | [O'Toole](http://twitter.com/search?q=O%27Toole) | N/A |
-| 25 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
-| 26 | [Colin](http://twitter.com/search?q=Colin) | N/A |
-| 27 | [Unprovoked](http://twitter.com/search?q=Unprovoked) | N/A |
-| 28 | [Conservative Party](http://twitter.com/search?q=Conservative+Party) | N/A |
-| 29 | [CPC MPs](http://twitter.com/search?q=CPC+MPs) | N/A |
-| 30 | [Kinsella](http://twitter.com/search?q=Kinsella) | N/A |
-| 31 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 32 | [Conservative MPs](http://twitter.com/search?q=Conservative+MPs) | N/A |
-| 33 | [Leslyn Lewis](http://twitter.com/search?q=Leslyn+Lewis) | N/A |
-| 34 | [Kapanen](http://twitter.com/search?q=Kapanen) | N/A |
-| 35 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 36 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
-| 37 | [#NoSurrender](http://twitter.com/search?q=%23NoSurrender) | N/A |
-| 38 | [#NigeriaDecides2023](http://twitter.com/search?q=%23NigeriaDecides2023) | N/A |
-| 39 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
-| 40 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 41 | [#CocaineBear](http://twitter.com/search?q=%23CocaineBear) | N/A |
+| 25 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 26 | [Chris Tierney](http://twitter.com/search?q=Chris+Tierney) | N/A |
+| 27 | [Canes](http://twitter.com/search?q=Canes) | N/A |
+| 28 | [European Parliament](http://twitter.com/search?q=European+Parliament) | N/A |
+| 29 | [Minnesota](http://twitter.com/search?q=Minnesota) | Minnesota is a state in the Upper Midwest region of the United States. It is known as the "Land of 10,000 Lakes" due to its many lakes and rivers. Minnesota is bordered by Wisconsin to the east, Iowa to the south, North Dakota and South Dakota to the west, and Lake Superior and Canada to the north. The state's capital is Saint Paul, and its largest city is Minneapolis. |
+| 30 | [Unprovoked](http://twitter.com/search?q=Unprovoked) | N/A |
+| 31 | [Conservative Party](http://twitter.com/search?q=Conservative+Party) | N/A |
+| 32 | [Leslyn Lewis](http://twitter.com/search?q=Leslyn+Lewis) | N/A |
+| 33 | [CPC MPs](http://twitter.com/search?q=CPC+MPs) | N/A |
+| 34 | [Kinsella](http://twitter.com/search?q=Kinsella) | N/A |
+| 35 | [Conservative MPs](http://twitter.com/search?q=Conservative+MPs) | N/A |
+| 36 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 37 | [#GoJetsGo](http://twitter.com/search?q=%23GoJetsGo) | N/A |
+| 38 | [#STOH2023](http://twitter.com/search?q=%23STOH2023) | N/A |
+| 39 | [#NoSurrender](http://twitter.com/search?q=%23NoSurrender) | N/A |
+| 40 | [#mnwild](http://twitter.com/search?q=%23mnwild) | N/A |
+| 41 | [#NigeriaDecides2023](http://twitter.com/search?q=%23NigeriaDecides2023) | N/A |
+| 42 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
+| 43 | [#CocaineBear](http://twitter.com/search?q=%23CocaineBear) | N/A |
 
 
 

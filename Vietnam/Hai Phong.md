@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hai Phong
 
-📆 Last Updated: `2023-02-25 04:16:22 UTC`
+📆 Last Updated: `2023-02-25 05:15:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,8 +16,8 @@ This is top 50 for [Vietnam](</Vietnam>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
-| 2 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
-| 3 | [#เพลงที่เพิ่งเขียนจบ10M](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%a5%e0%b8%87%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%88%e0%b8%9a10M) | N/A |
+| 2 | [#เพลงที่เพิ่งเขียนจบ10M](http://twitter.com/search?q=%23%e0%b9%80%e0%b8%9e%e0%b8%a5%e0%b8%87%e0%b8%97%e0%b8%b5%e0%b9%88%e0%b9%80%e0%b8%9e%e0%b8%b4%e0%b9%88%e0%b8%87%e0%b9%80%e0%b8%82%e0%b8%b5%e0%b8%a2%e0%b8%99%e0%b8%88%e0%b8%9a10M) | N/A |
+| 3 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
 | 4 | [XIAO ZHAN TODS MFW 2023](http://twitter.com/search?q=XIAO+ZHAN+TODS+MFW+2023) | N/A |
 | 5 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
 | 6 | [#BuildInWhite](http://twitter.com/search?q=%23BuildInWhite) | N/A |
@@ -26,45 +26,45 @@ This is top 50 for [Vietnam](</Vietnam>)
 | 9 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
 | 10 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
 | 11 | [Valentino - WINWIN](http://twitter.com/search?q=Valentino+-+WINWIN) | N/A |
-| 12 | [watch smcu ep3 now](http://twitter.com/search?q=watch+smcu+ep3+now) | N/A |
-| 13 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
-| 14 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
+| 12 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
+| 13 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
+| 14 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
 | 15 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 16 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 17 | [CHARLOTTE 2nd MV BROTHER](http://twitter.com/search?q=CHARLOTTE+2nd+MV+BROTHER) | N/A |
-| 18 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
-| 19 | [JISOO FOR VOGUE FRANCE](http://twitter.com/search?q=JISOO+FOR+VOGUE+FRANCE) | N/A |
-| 20 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 21 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
-| 22 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 23 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 24 | [Sphinx](http://twitter.com/search?q=Sphinx) | N/A |
-| 25 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
-| 26 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 27 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
-| 28 | [kiana](http://twitter.com/search?q=kiana) | N/A |
-| 29 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 30 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 31 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 32 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
-| 33 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 34 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 35 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 36 | [Đúng](http://twitter.com/search?q=%c4%90%c3%bang) | N/A |
-| 37 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
-| 38 | [PHẢI](http://twitter.com/search?q=PH%e1%ba%a2I) | N/A |
-| 39 | [Chúc](http://twitter.com/search?q=Ch%c3%bac) | N/A |
-| 40 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
-| 41 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 42 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
-| 43 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
-| 44 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 45 | [Tây Ban Nha](http://twitter.com/search?q=T%c3%a2y+Ban+Nha) | N/A |
-| 46 | [Cosmos](http://twitter.com/search?q=Cosmos) | N/A |
-| 47 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
-| 48 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
-| 49 | [Karina](http://twitter.com/search?q=Karina) | N/A |
-| 50 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
+| 16 | [CHARLOTTE 2nd MV BROTHER](http://twitter.com/search?q=CHARLOTTE+2nd+MV+BROTHER) | N/A |
+| 17 | [Ryan](http://twitter.com/search?q=Ryan) | N/A |
+| 18 | [JISOO FOR VOGUE FRANCE](http://twitter.com/search?q=JISOO+FOR+VOGUE+FRANCE) | N/A |
+| 19 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 20 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
+| 21 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 22 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 23 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 24 | [kiana](http://twitter.com/search?q=kiana) | N/A |
+| 25 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 26 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 27 | [Mnet](http://twitter.com/search?q=Mnet) | N/A |
+| 28 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 29 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
+| 30 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 31 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 32 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 33 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 34 | [PHẢI](http://twitter.com/search?q=PH%e1%ba%a2I) | N/A |
+| 35 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
+| 36 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 37 | [Hoa Kỳ](http://twitter.com/search?q=Hoa+K%e1%bb%b3) | N/A |
+| 38 | [Thực](http://twitter.com/search?q=Th%e1%bb%b1c) | N/A |
+| 39 | [Nhật](http://twitter.com/search?q=Nh%e1%ba%adt) | N/A |
+| 40 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 41 | [Tây Ban Nha](http://twitter.com/search?q=T%c3%a2y+Ban+Nha) | N/A |
+| 42 | [Sphinx](http://twitter.com/search?q=Sphinx) | N/A |
+| 43 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
+| 44 | [Cosmos](http://twitter.com/search?q=Cosmos) | N/A |
+| 45 | [jack - j97](http://twitter.com/search?q=jack+-+j97) | N/A |
+| 46 | [special stage video](http://twitter.com/search?q=special+stage+video) | N/A |
+| 47 | [Karina](http://twitter.com/search?q=Karina) | N/A |
+| 48 | [trịnh gia](http://twitter.com/search?q=tr%e1%bb%8bnh+gia) | N/A |
+| 49 | [dang hong hai](http://twitter.com/search?q=dang+hong+hai) | N/A |
+| 50 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 
 
 
