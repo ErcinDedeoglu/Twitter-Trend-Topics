@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nottingham
 
-📆 Last Updated: `2023-02-25 11:16:12 UTC`
+📆 Last Updated: `2023-02-25 12:16:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,51 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 2 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 3 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 1 | [#COYI](http://twitter.com/search?q=%23COYI) | N/A |
+| 2 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
+| 3 | [Steve Wright](http://twitter.com/search?q=Steve+Wright) | Steve Wright is a British radio presenter and comedian. He is best known for his long-running BBC Radio 2 show, Steve Wright in the Afternoon. The show features music, comedy sketches, and interviews with celebrity guests. The phrase "Steve Wright" has come to mean a light-hearted and entertaining radio show. |
 | 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
 | 5 | [#SaturdayKitchen](http://twitter.com/search?q=%23SaturdayKitchen) | N/A |
-| 6 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 7 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 8 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 6 | [#Boxing365](http://twitter.com/search?q=%23Boxing365) | N/A |
+| 7 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 8 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
 | 9 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 10 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 10 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
 | 11 | [Pat Symonds](http://twitter.com/search?q=Pat+Symonds) | N/A |
-| 12 | [Avram](http://twitter.com/search?q=Avram) | N/A |
+| 12 | [Honor Oak](http://twitter.com/search?q=Honor+Oak) | N/A |
 | 13 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 14 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
-| 15 | [Wordle 616 X](http://twitter.com/search?q=Wordle+616+X) | N/A |
-| 16 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 17 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 18 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
-| 19 | [South Wales](http://twitter.com/search?q=South+Wales) | N/A |
-| 20 | [HOWAY THE LADS](http://twitter.com/search?q=HOWAY+THE+LADS) | N/A |
-| 21 | [Cenotaph](http://twitter.com/search?q=Cenotaph) | N/A |
-| 22 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
-| 23 | [Catalonia](http://twitter.com/search?q=Catalonia) | N/A |
-| 24 | [Wales v England](http://twitter.com/search?q=Wales+v+England) | N/A |
-| 25 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 26 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
-| 27 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
-| 28 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
-| 29 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
-| 30 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
-| 31 | [Greatest Hits](http://twitter.com/search?q=Greatest+Hits) | N/A |
-| 32 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 33 | [Steve Wright](http://twitter.com/search?q=Steve+Wright) | Steve Wright is a British radio presenter and comedian. He is best known for his long-running BBC Radio 2 show, Steve Wright in the Afternoon. The show features music, comedy sketches, and interviews with celebrity guests. The phrase "Steve Wright" has come to mean a light-hearted and entertaining radio show. |
-| 34 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 35 | [Vernon](http://twitter.com/search?q=Vernon) | N/A |
-| 36 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
-| 37 | [Geordies](http://twitter.com/search?q=Geordies) | N/A |
-| 38 | [Popmaster](http://twitter.com/search?q=Popmaster) | Popmaster is a British radio quiz show that has been running since the 1980s. It is broadcast on BBC Radio 2 and hosted by Ken Bruce. The show involves contestants answering questions about popular music, with the winner receiving a prize. The term "Popmaster" is used to refer to the host of the show, as well as to describe the game itself. |
-| 39 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
-| 40 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 41 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
-| 42 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
-| 43 | [#ASongOrMovieForBottles](http://twitter.com/search?q=%23ASongOrMovieForBottles) | N/A |
-| 44 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 45 | [#CapeTownEPrix](http://twitter.com/search?q=%23CapeTownEPrix) | N/A |
-| 46 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
-| 47 | [#ToriesOut233](http://twitter.com/search?q=%23ToriesOut233) | N/A |
-| 48 | [#SixOnSaturday](http://twitter.com/search?q=%23SixOnSaturday) | N/A |
+| 14 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
+| 15 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 16 | [Avram](http://twitter.com/search?q=Avram) | N/A |
+| 17 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 18 | [Cenotaph](http://twitter.com/search?q=Cenotaph) | N/A |
+| 19 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 20 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 21 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 22 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 23 | [Atlantis](http://twitter.com/search?q=Atlantis) | N/A |
+| 24 | [Wordle 616 X](http://twitter.com/search?q=Wordle+616+X) | N/A |
+| 25 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 26 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 27 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
+| 28 | [Kempton](http://twitter.com/search?q=Kempton) | N/A |
+| 29 | [Micky Flanagan](http://twitter.com/search?q=Micky+Flanagan) | N/A |
+| 30 | [Kano](http://twitter.com/search?q=Kano) | Kano is a Japanese term that means “riverbank” or “shore.” It is often used to refer to the area around a river or lake, and can also be used to describe a place of natural beauty. |
+| 31 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 32 | [Six Nations](http://twitter.com/search?q=Six+Nations) | N/A |
+| 33 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
+| 34 | [Catalonia](http://twitter.com/search?q=Catalonia) | N/A |
+| 35 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
+| 36 | [geordies](http://twitter.com/search?q=geordies) | N/A |
+| 37 | [Skegness](http://twitter.com/search?q=Skegness) | N/A |
+| 38 | [Gaza](http://twitter.com/search?q=Gaza) | N/A |
+| 39 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
+| 40 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 41 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 42 | [Greatest Hits](http://twitter.com/search?q=Greatest+Hits) | N/A |
+| 43 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
+| 44 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 45 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
 
 
 

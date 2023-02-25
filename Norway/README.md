@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Norway
 
-📆 Last Updated: `2023-02-25 11:17:14 UTC`
+📆 Last Updated: `2023-02-25 12:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Norway
 | 3 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
 | 4 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
 | 5 | [Russlands](http://twitter.com/search?q=Russlands) | N/A |
-| 6 | [Jordal](http://twitter.com/search?q=Jordal) | N/A |
-| 7 | [Dagbladet](http://twitter.com/search?q=Dagbladet) | N/A |
-| 8 | [Olje](http://twitter.com/search?q=Olje) | N/A |
-| 9 | [Sarabia](http://twitter.com/search?q=Sarabia) | Sarabia is a Spanish surname derived from the Arabic word sarab, which means "mirage". It is also the name of a small town in Spain. In English, Sarabia can be translated to mean "mirage". |
-| 10 | [Klæbo](http://twitter.com/search?q=Kl%c3%a6bo) | N/A |
-| 11 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
-| 12 | [#debatten](http://twitter.com/search?q=%23debatten) | N/A |
-| 13 | [Fosen](http://twitter.com/search?q=Fosen) | N/A |
-| 14 | [Libya](http://twitter.com/search?q=Libya) | N/A |
-| 15 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 6 | [Dagbladet](http://twitter.com/search?q=Dagbladet) | N/A |
+| 7 | [Olje](http://twitter.com/search?q=Olje) | N/A |
+| 8 | [Sarabia](http://twitter.com/search?q=Sarabia) | Sarabia is a Spanish surname derived from the Arabic word sarab, which means "mirage". It is also the name of a small town in Spain. In English, Sarabia can be translated to mean "mirage". |
+| 9 | [klæbo](http://twitter.com/search?q=kl%c3%a6bo) | N/A |
+| 10 | [vetlesen](http://twitter.com/search?q=vetlesen) | N/A |
+| 11 | [Jordal](http://twitter.com/search?q=Jordal) | N/A |
+| 12 | [Fosen](http://twitter.com/search?q=Fosen) | N/A |
+| 13 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
+| 14 | [Iran](http://twitter.com/search?q=Iran) | N/A |
+| 15 | [Libya](http://twitter.com/search?q=Libya) | N/A |
 | 16 | [#nrksport](http://twitter.com/search?q=%23nrksport) | N/A |
 | 17 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 19 | [Tv2 Play](http://twitter.com/search?q=Tv2+Play) | N/A |
+| 18 | [TV2 Play](http://twitter.com/search?q=TV2+Play) | N/A |
+| 19 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
 | 20 | [Nytt](http://twitter.com/search?q=Nytt) | N/A |
 | 21 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 22 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 22 | [Kinas](http://twitter.com/search?q=Kinas) | N/A |
 | 23 | [Planica](http://twitter.com/search?q=Planica) | N/A |
 | 24 | [Lech Poznan](http://twitter.com/search?q=Lech+Poznan) | N/A |
-| 25 | [Kina](http://twitter.com/search?q=Kina) | N/A |
-| 26 | [selvsagt](http://twitter.com/search?q=selvsagt) | N/A |
-| 27 | [Synes](http://twitter.com/search?q=Synes) | N/A |
-| 28 | [sjekk](http://twitter.com/search?q=sjekk) | N/A |
-| 29 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
-| 30 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 31 | [Donbas](http://twitter.com/search?q=Donbas) | N/A |
-| 32 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
-| 33 | [Vårt Land](http://twitter.com/search?q=V%c3%a5rt+Land) | N/A |
+| 25 | [Selvsagt](http://twitter.com/search?q=Selvsagt) | N/A |
+| 26 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 27 | [Sophie Elise](http://twitter.com/search?q=Sophie+Elise) | N/A |
+| 28 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 29 | [Juve](http://twitter.com/search?q=Juve) | Juve is short for Juventus, an Italian professional football club based in Turin, Italy. The club is one of the most successful and popular teams in Italy and Europe, having won numerous domestic and international titles. In English, Juve is an abbreviation for Juventus. |
+| 30 | [vårt land](http://twitter.com/search?q=v%c3%a5rt+land) | N/A |
+| 31 | [#2hockey](http://twitter.com/search?q=%232hockey) | N/A |
+| 32 | [Bergen](http://twitter.com/search?q=Bergen) | N/A |
+| 33 | [Brann](http://twitter.com/search?q=Brann) | N/A |
 | 34 | [fredrik solvang](http://twitter.com/search?q=fredrik+solvang) | N/A |
 | 35 | [Fredrikstad](http://twitter.com/search?q=Fredrikstad) | N/A |
 | 36 | [såpass](http://twitter.com/search?q=s%c3%a5pass) | N/A |
-| 37 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 37 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 38 | [nidaros](http://twitter.com/search?q=nidaros) | N/A |
 | 39 | [Shaw](http://twitter.com/search?q=Shaw) | Shaw is a surname of English and Scottish origin. It is derived from the Old English word sceaga, meaning "wood" or "copse". The name is also found in Ireland, where it is an Anglicized form of the Gaelic Ó Séaghdha, meaning "descendant of Seaghdh". |
-| 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 40 | [Earth](http://twitter.com/search?q=Earth) | N/A |
 | 41 | [statnett](http://twitter.com/search?q=statnett) | N/A |
-| 42 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 42 | [Høyesterett](http://twitter.com/search?q=H%c3%b8yesterett) | N/A |
 | 43 | [De Gea](http://twitter.com/search?q=De+Gea) | De Gea is a Spanish surname, derived from the name of the town of Gea de Albarracín in Teruel, Spain. It is most commonly associated with Spanish footballer David de Gea, who currently plays for Manchester United. The literal translation of De Gea in English is "of Gea". |
-| 44 | [USAs](http://twitter.com/search?q=USAs) | N/A |
-| 45 | [regjeringen](http://twitter.com/search?q=regjeringen) | N/A |
-| 46 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
-| 47 | [Andrew Tate](http://twitter.com/search?q=Andrew+Tate) | N/A |
-| 48 | [Woke](http://twitter.com/search?q=Woke) | N/A |
-| 49 | [Høyesterett](http://twitter.com/search?q=H%c3%b8yesterett) | N/A |
-| 50 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
+| 44 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 45 | [USAs](http://twitter.com/search?q=USAs) | N/A |
+| 46 | [regjeringen](http://twitter.com/search?q=regjeringen) | N/A |
+| 47 | [Glimt](http://twitter.com/search?q=Glimt) | N/A |
+| 48 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
+| 49 | [Viken](http://twitter.com/search?q=Viken) | N/A |
+| 50 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 
 
 

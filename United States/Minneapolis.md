@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-02-25 11:17:03 UTC`
+📆 Last Updated: `2023-02-25 12:17:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,52 @@ This is top 50 for [United States](</United States>)
 | 1 | [Finch](http://twitter.com/search?q=Finch) | N/A |
 | 2 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
 | 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 4 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 5 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
-| 6 | [#BiuTheBluePrince](http://twitter.com/search?q=%23BiuTheBluePrince) | N/A |
-| 7 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
-| 8 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 9 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
-| 10 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 11 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
-| 12 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 13 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 14 | [#NigeriaDecides](http://twitter.com/search?q=%23NigeriaDecides) | N/A |
-| 15 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 16 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 17 | [#Wordle616](http://twitter.com/search?q=%23Wordle616) | N/A |
-| 18 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 19 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
-| 20 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 21 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 22 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
-| 23 | [Clips](http://twitter.com/search?q=Clips) | N/A |
-| 24 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 25 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 26 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 27 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 28 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 29 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 4 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 5 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 6 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 7 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
+| 8 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
+| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 10 | [#NigeriaDecides](http://twitter.com/search?q=%23NigeriaDecides) | N/A |
+| 11 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 12 | [#BiuTheBluePrince](http://twitter.com/search?q=%23BiuTheBluePrince) | N/A |
+| 13 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 14 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 15 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 16 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 17 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 18 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 19 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 20 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 21 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
+| 22 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 23 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 24 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 25 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 26 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 27 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 28 | [Clips](http://twitter.com/search?q=Clips) | N/A |
+| 29 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
 | 30 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 31 | [Mason Plumlee](http://twitter.com/search?q=Mason+Plumlee) | N/A |
-| 32 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 33 | [Roco](http://twitter.com/search?q=Roco) | N/A |
-| 34 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 35 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 36 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 37 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
-| 38 | [Antonio Brown](http://twitter.com/search?q=Antonio+Brown) | Antonio Brown is an American professional football wide receiver who currently plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the best wide receivers in the NFL, having been selected to seven Pro Bowls and four All-Pro teams. |
-| 39 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 40 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 41 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 42 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
-| 43 | [Jalen Ramsey](http://twitter.com/search?q=Jalen+Ramsey) | N/A |
-| 44 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 45 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
-| 46 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 47 | [#TCMUnderground](http://twitter.com/search?q=%23TCMUnderground) | N/A |
-| 48 | [#SACvsLAC](http://twitter.com/search?q=%23SACvsLAC) | N/A |
-| 49 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 50 | [#loveafterlockup](http://twitter.com/search?q=%23loveafterlockup) | #LoveAfterLockup is a reality television series that follows couples who have formed relationships while one of them is in prison. The show follows the couples as they reunite and attempt to make their relationships work after the release of the incarcerated partner. |
+| 31 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 32 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
+| 33 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 34 | [Ralph Nader](http://twitter.com/search?q=Ralph+Nader) | N/A |
+| 35 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 36 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 37 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 38 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 39 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
+| 40 | [#Wordle616](http://twitter.com/search?q=%23Wordle616) | N/A |
+| 41 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
+| 42 | [#TCMUnderground](http://twitter.com/search?q=%23TCMUnderground) | N/A |
+| 43 | [#ClipperNation](http://twitter.com/search?q=%23ClipperNation) | N/A |
+| 44 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
+| 45 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
+| 46 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 47 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 48 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
+| 49 | [#HCSxDolbyGiveaway](http://twitter.com/search?q=%23HCSxDolbyGiveaway) | N/A |
 
 
 

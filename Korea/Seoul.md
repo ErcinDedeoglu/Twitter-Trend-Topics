@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Seoul
 
-📆 Last Updated: `2023-02-25 11:16:40 UTC`
+📆 Last Updated: `2023-02-25 12:17:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,52 @@ This is top 50 for [Korea](</Korea>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#WONHO](http://twitter.com/search?q=%23WONHO) | N/A |
-| 2 | [새우튀김](http://twitter.com/search?q=%ec%83%88%ec%9a%b0%ed%8a%80%ea%b9%80) | N/A |
-| 3 | [#JENOatMFW](http://twitter.com/search?q=%23JENOatMFW) | N/A |
-| 4 | [#표준말투와_내말투를_비교해보자](http://twitter.com/search?q=%23%ed%91%9c%ec%a4%80%eb%a7%90%ed%88%ac%ec%99%80_%eb%82%b4%eb%a7%90%ed%88%ac%eb%a5%bc_%eb%b9%84%ea%b5%90%ed%95%b4%eb%b3%b4%ec%9e%90) | N/A |
-| 5 | [#FerragamoFW23](http://twitter.com/search?q=%23FerragamoFW23) | N/A |
-| 6 | [#마버블](http://twitter.com/search?q=%23%eb%a7%88%eb%b2%84%eb%b8%94) | N/A |
-| 7 | [정순신 아들](http://twitter.com/search?q=%ec%a0%95%ec%88%9c%ec%8b%a0+%ec%95%84%eb%93%a4) | N/A |
-| 8 | [요즘 남자친구](http://twitter.com/search?q=%ec%9a%94%ec%a6%98+%eb%82%a8%ec%9e%90%ec%b9%9c%ea%b5%ac) | N/A |
-| 9 | [무한확장](http://twitter.com/search?q=%eb%ac%b4%ed%95%9c%ed%99%95%ec%9e%a5) | N/A |
-| 10 | [목이버섯](http://twitter.com/search?q=%eb%aa%a9%ec%9d%b4%eb%b2%84%ec%84%af) | N/A |
-| 11 | [학폭 가해자](http://twitter.com/search?q=%ed%95%99%ed%8f%ad+%ea%b0%80%ed%95%b4%ec%9e%90) | N/A |
+| 1 | [골다공증](http://twitter.com/search?q=%ea%b3%a8%eb%8b%a4%ea%b3%b5%ec%a6%9d) | N/A |
+| 2 | [현대건설](http://twitter.com/search?q=%ed%98%84%eb%8c%80%ea%b1%b4%ec%84%a4) | N/A |
+| 3 | [#WONHO](http://twitter.com/search?q=%23WONHO) | N/A |
+| 4 | [새우튀김](http://twitter.com/search?q=%ec%83%88%ec%9a%b0%ed%8a%80%ea%b9%80) | N/A |
+| 5 | [#마버블](http://twitter.com/search?q=%23%eb%a7%88%eb%b2%84%eb%b8%94) | N/A |
+| 6 | [#JENOatMFW](http://twitter.com/search?q=%23JENOatMFW) | N/A |
+| 7 | [콜레스테롤](http://twitter.com/search?q=%ec%bd%9c%eb%a0%88%ec%8a%a4%ed%85%8c%eb%a1%a4) | N/A |
+| 8 | [가라오케](http://twitter.com/search?q=%ea%b0%80%eb%9d%bc%ec%98%a4%ec%bc%80) | 가라오케 is a Japanese phrase that means "Let's go!" or "Come on!" in English. |
+| 9 | [#FerragamoFW23](http://twitter.com/search?q=%23FerragamoFW23) | N/A |
+| 10 | [#마크버블](http://twitter.com/search?q=%23%eb%a7%88%ed%81%ac%eb%b2%84%eb%b8%94) | N/A |
+| 11 | [요즘 남자친구](http://twitter.com/search?q=%ec%9a%94%ec%a6%98+%eb%82%a8%ec%9e%90%ec%b9%9c%ea%b5%ac) | N/A |
 | 12 | [좋은 영향](http://twitter.com/search?q=%ec%a2%8b%ec%9d%80+%ec%98%81%ed%96%a5) | N/A |
-| 13 | [스즈메의 문단속](http://twitter.com/search?q=%ec%8a%a4%ec%a6%88%eb%a9%94%ec%9d%98+%eb%ac%b8%eb%8b%a8%ec%86%8d) | N/A |
-| 14 | [석촌호수](http://twitter.com/search?q=%ec%84%9d%ec%b4%8c%ed%98%b8%ec%88%98) | N/A |
-| 15 | [망고식스](http://twitter.com/search?q=%eb%a7%9d%ea%b3%a0%ec%8b%9d%ec%8a%a4) | N/A |
-| 16 | [음중 1위](http://twitter.com/search?q=%ec%9d%8c%ec%a4%91+1%ec%9c%84) | N/A |
-| 17 | [달의 아들](http://twitter.com/search?q=%eb%8b%ac%ec%9d%98+%ec%95%84%eb%93%a4) | N/A |
-| 18 | [서울대 철학](http://twitter.com/search?q=%ec%84%9c%ec%9a%b8%eb%8c%80+%ec%b2%a0%ed%95%99) | N/A |
-| 19 | [가라오케](http://twitter.com/search?q=%ea%b0%80%eb%9d%bc%ec%98%a4%ec%bc%80) | 가라오케 is a Japanese phrase that means "Let's go!" or "Come on!" in English. |
-| 20 | [김석진 에피파니](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%ec%97%90%ed%94%bc%ed%8c%8c%eb%8b%88) | N/A |
-| 21 | [김석진 다정](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%eb%8b%a4%ec%a0%95) | N/A |
-| 22 | [김석진 햄스터](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%ed%96%84%ec%8a%a4%ed%84%b0) | N/A |
-| 23 | [김석진 메이플](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%eb%a9%94%ec%9d%b4%ed%94%8c) | N/A |
-| 24 | [아이돌 체험](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%8f%8c+%ec%b2%b4%ed%97%98) | N/A |
-| 25 | [꼬들 420](http://twitter.com/search?q=%ea%bc%ac%eb%93%a4+420) | N/A |
-| 26 | [김석진 알제](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%ec%95%8c%ec%a0%9c) | N/A |
-| 27 | [김석진 자작곡](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%ec%9e%90%ec%9e%91%ea%b3%a1) | N/A |
-| 28 | [김석진 게임](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%ea%b2%8c%ec%9e%84) | N/A |
-| 29 | [밀키스 제로](http://twitter.com/search?q=%eb%b0%80%ed%82%a4%ec%8a%a4+%ec%a0%9c%eb%a1%9c) | N/A |
-| 30 | [김석진 보라](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%eb%b3%b4%eb%9d%bc) | N/A |
-| 31 | [모스코모스코](http://twitter.com/search?q=%eb%aa%a8%ec%8a%a4%ec%bd%94%eb%aa%a8%ec%8a%a4%ec%bd%94) | N/A |
-| 32 | [김석진 기타](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%ea%b8%b0%ed%83%80) | N/A |
-| 33 | [김석진 이밤](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%ec%9d%b4%eb%b0%a4) | N/A |
-| 34 | [김석진 친절](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%ec%b9%9c%ec%a0%88) | N/A |
-| 35 | [사의 표명](http://twitter.com/search?q=%ec%82%ac%ec%9d%98+%ed%91%9c%eb%aa%85) | N/A |
-| 36 | [닥다그닥](http://twitter.com/search?q=%eb%8b%a5%eb%8b%a4%ea%b7%b8%eb%8b%a5) | N/A |
-| 37 | [김석진 피아노](http://twitter.com/search?q=%ea%b9%80%ec%84%9d%ec%a7%84+%ed%94%bc%ec%95%84%eb%85%b8) | N/A |
-| 38 | [당신의 이름](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%9d%b4%eb%a6%84) | N/A |
-| 39 | [현대건설](http://twitter.com/search?q=%ed%98%84%eb%8c%80%ea%b1%b4%ec%84%a4) | N/A |
-| 40 | [미니강쥐](http://twitter.com/search?q=%eb%af%b8%eb%8b%88%ea%b0%95%ec%a5%90) | N/A |
-| 41 | [바루스 서폿](http://twitter.com/search?q=%eb%b0%94%eb%a3%a8%ec%8a%a4+%ec%84%9c%ed%8f%bf) | N/A |
-| 42 | [유죄판결](http://twitter.com/search?q=%ec%9c%a0%ec%a3%84%ed%8c%90%ea%b2%b0) | N/A |
-| 43 | [에스파 콘서트](http://twitter.com/search?q=%ec%97%90%ec%8a%a4%ed%8c%8c+%ec%bd%98%ec%84%9c%ed%8a%b8) | 에스파 콘서트 is a South Korean music festival held annually in Seoul. It is one of the largest music festivals in the country, featuring a variety of genres from K-pop to rock and hip-hop. The name "에스파 콘서트" translates to "Espa Concert" in English. |
-| 44 | [사쿠라기 하나미치](http://twitter.com/search?q=%ec%82%ac%ec%bf%a0%eb%9d%bc%ea%b8%b0+%ed%95%98%eb%82%98%eb%af%b8%ec%b9%98) | N/A |
-| 45 | [페레가모](http://twitter.com/search?q=%ed%8e%98%eb%a0%88%ea%b0%80%eb%aa%a8) | N/A |
-| 46 | [검사 출신](http://twitter.com/search?q=%ea%b2%80%ec%82%ac+%ec%b6%9c%ec%8b%a0) | N/A |
-| 47 | [피해학생](http://twitter.com/search?q=%ed%94%bc%ed%95%b4%ed%95%99%ec%83%9d) | N/A |
-| 48 | [우주소녀](http://twitter.com/search?q=%ec%9a%b0%ec%a3%bc%ec%86%8c%eb%85%80) | N/A |
-| 49 | [화이트데이](http://twitter.com/search?q=%ed%99%94%ec%9d%b4%ed%8a%b8%eb%8d%b0%ec%9d%b4) | N/A |
-| 50 | [스키지기](http://twitter.com/search?q=%ec%8a%a4%ed%82%a4%ec%a7%80%ea%b8%b0) | N/A |
+| 13 | [사모예드](http://twitter.com/search?q=%ec%82%ac%eb%aa%a8%ec%98%88%eb%93%9c) | N/A |
+| 14 | [스즈메의 문단속](http://twitter.com/search?q=%ec%8a%a4%ec%a6%88%eb%a9%94%ec%9d%98+%eb%ac%b8%eb%8b%a8%ec%86%8d) | N/A |
+| 15 | [우리 제노](http://twitter.com/search?q=%ec%9a%b0%eb%a6%ac+%ec%a0%9c%eb%85%b8) | N/A |
+| 16 | [에스파 콘서트](http://twitter.com/search?q=%ec%97%90%ec%8a%a4%ed%8c%8c+%ec%bd%98%ec%84%9c%ed%8a%b8) | 에스파 콘서트 is a South Korean music festival held annually in Seoul. It is one of the largest music festivals in the country, featuring a variety of genres from K-pop to rock and hip-hop. The name "에스파 콘서트" translates to "Espa Concert" in English. |
+| 17 | [석촌호수](http://twitter.com/search?q=%ec%84%9d%ec%b4%8c%ed%98%b8%ec%88%98) | N/A |
+| 18 | [사쿠라기 하나미치](http://twitter.com/search?q=%ec%82%ac%ec%bf%a0%eb%9d%bc%ea%b8%b0+%ed%95%98%eb%82%98%eb%af%b8%ec%b9%98) | N/A |
+| 19 | [모스코모스코](http://twitter.com/search?q=%eb%aa%a8%ec%8a%a4%ec%bd%94%eb%aa%a8%ec%8a%a4%ec%bd%94) | N/A |
+| 20 | [제노 너무](http://twitter.com/search?q=%ec%a0%9c%eb%85%b8+%eb%84%88%eb%ac%b4) | N/A |
+| 21 | [인간극장](http://twitter.com/search?q=%ec%9d%b8%ea%b0%84%ea%b7%b9%ec%9e%a5) | N/A |
+| 22 | [아들 학폭](http://twitter.com/search?q=%ec%95%84%eb%93%a4+%ed%95%99%ed%8f%ad) | N/A |
+| 23 | [사의 표명](http://twitter.com/search?q=%ec%82%ac%ec%9d%98+%ed%91%9c%eb%aa%85) | N/A |
+| 24 | [서울대 철학](http://twitter.com/search?q=%ec%84%9c%ec%9a%b8%eb%8c%80+%ec%b2%a0%ed%95%99) | N/A |
+| 25 | [정순신 아들](http://twitter.com/search?q=%ec%a0%95%ec%88%9c%ec%8b%a0+%ec%95%84%eb%93%a4) | N/A |
+| 26 | [학폭 가해자](http://twitter.com/search?q=%ed%95%99%ed%8f%ad+%ea%b0%80%ed%95%b4%ec%9e%90) | N/A |
+| 27 | [스몰토크](http://twitter.com/search?q=%ec%8a%a4%eb%aa%b0%ed%86%a0%ed%81%ac) | N/A |
+| 28 | [목이버섯](http://twitter.com/search?q=%eb%aa%a9%ec%9d%b4%eb%b2%84%ec%84%af) | N/A |
+| 29 | [기업은행](http://twitter.com/search?q=%ea%b8%b0%ec%97%85%ec%9d%80%ed%96%89) | N/A |
+| 30 | [당신의 이름](http://twitter.com/search?q=%eb%8b%b9%ec%8b%a0%ec%9d%98+%ec%9d%b4%eb%a6%84) | N/A |
+| 31 | [아이돌 체험](http://twitter.com/search?q=%ec%95%84%ec%9d%b4%eb%8f%8c+%ec%b2%b4%ed%97%98) | N/A |
+| 32 | [테디베어 챌린](http://twitter.com/search?q=%ed%85%8c%eb%94%94%eb%b2%a0%ec%96%b4+%ec%b1%8c%eb%a6%b0) | N/A |
+| 33 | [#슬램덩크등장인물테스트](http://twitter.com/search?q=%23%ec%8a%ac%eb%9e%a8%eb%8d%a9%ed%81%ac%eb%93%b1%ec%9e%a5%ec%9d%b8%eb%ac%bc%ed%85%8c%ec%8a%a4%ed%8a%b8) | N/A |
+| 34 | [#배워본예체능](http://twitter.com/search?q=%23%eb%b0%b0%ec%9b%8c%eb%b3%b8%ec%98%88%ec%b2%b4%eb%8a%a5) | N/A |
+| 35 | [#블림블림](http://twitter.com/search?q=%23%eb%b8%94%eb%a6%bc%eb%b8%94%eb%a6%bc) | N/A |
+| 36 | [#BSS7thWin](http://twitter.com/search?q=%23BSS7thWin) | N/A |
+| 37 | [#지미니의댄스타임](http://twitter.com/search?q=%23%ec%a7%80%eb%af%b8%eb%8b%88%ec%9d%98%eb%8c%84%ec%8a%a4%ed%83%80%ec%9e%84) | N/A |
+| 38 | [#부석순_음악중심_1위_축하해](http://twitter.com/search?q=%23%eb%b6%80%ec%84%9d%ec%88%9c_%ec%9d%8c%ec%95%85%ec%a4%91%ec%8b%ac_1%ec%9c%84_%ec%b6%95%ed%95%98%ed%95%b4) | N/A |
+| 39 | [#Fighting7thWin](http://twitter.com/search?q=%23Fighting7thWin) | N/A |
+| 40 | [#ZeeNuNew안녕D2](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D2) | N/A |
+| 41 | [#악마랑계약한발전과정](http://twitter.com/search?q=%23%ec%95%85%eb%a7%88%eb%9e%91%ea%b3%84%ec%95%bd%ed%95%9c%eb%b0%9c%ec%a0%84%ea%b3%bc%ec%a0%95) | N/A |
+| 42 | [#새프로필사진](http://twitter.com/search?q=%23%ec%83%88%ed%94%84%eb%a1%9c%ed%95%84%ec%82%ac%ec%a7%84) | N/A |
+| 43 | [#인용으로_이_트친에게_했던_오해](http://twitter.com/search?q=%23%ec%9d%b8%ec%9a%a9%ec%9c%bc%eb%a1%9c_%ec%9d%b4_%ed%8a%b8%ec%b9%9c%ec%97%90%ea%b2%8c_%ed%96%88%eb%8d%98_%ec%98%a4%ed%95%b4) | N/A |
+| 44 | [#TeddyBear](http://twitter.com/search?q=%23TeddyBear) | N/A |
+| 45 | [#스테이씨](http://twitter.com/search?q=%23%ec%8a%a4%ed%85%8c%ec%9d%b4%ec%94%a8) | N/A |
+| 46 | [#STAYC](http://twitter.com/search?q=%23STAYC) | N/A |
 
 
 

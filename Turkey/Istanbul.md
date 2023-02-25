@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-25 11:16:57 UTC`
+📆 Last Updated: `2023-02-25 12:17:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Faik](http://twitter.com/search?q=Faik) | N/A |
-| 2 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
-| 3 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 1 | [#AyınYıldızıyım](http://twitter.com/search?q=%23Ay%c4%b1nY%c4%b1ld%c4%b1z%c4%b1y%c4%b1m) | N/A |
+| 2 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 3 | [#kombinedevret](http://twitter.com/search?q=%23kombinedevret) | N/A |
 | 4 | [#EMADDER](http://twitter.com/search?q=%23EMADDER) | N/A |
 | 5 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 6 | [#AyınYıldızıyım](http://twitter.com/search?q=%23Ay%c4%b1nY%c4%b1ld%c4%b1z%c4%b1y%c4%b1m) | N/A |
+| 6 | [Kathimerini Gazetesi](http://twitter.com/search?q=Kathimerini+Gazetesi) | N/A |
 | 7 | [ZirveBiziz AyTol](http://twitter.com/search?q=ZirveBiziz+AyTol) | N/A |
 | 8 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
-| 9 | [#DevletUnutmaz](http://twitter.com/search?q=%23DevletUnutmaz) | N/A |
-| 10 | [Koç Holding](http://twitter.com/search?q=Ko%c3%a7+Holding) | N/A |
-| 11 | [Ökkeş Kavak](http://twitter.com/search?q=%c3%96kke%c5%9f+Kavak) | N/A |
-| 12 | [Şamil Tayyar](http://twitter.com/search?q=%c5%9eamil+Tayyar) | N/A |
-| 13 | [Aksaray](http://twitter.com/search?q=Aksaray) | N/A |
-| 14 | [Hatay'da 4](http://twitter.com/search?q=Hatay%27da+4) | N/A |
-| 15 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 9 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 10 | [Ökkeş Kavak](http://twitter.com/search?q=%c3%96kke%c5%9f+Kavak) | N/A |
+| 11 | [Hasan Dağı](http://twitter.com/search?q=Hasan+Da%c4%9f%c4%b1) | N/A |
+| 12 | [Koç Holding](http://twitter.com/search?q=Ko%c3%a7+Holding) | N/A |
+| 13 | [Şamil Tayyar](http://twitter.com/search?q=%c5%9eamil+Tayyar) | N/A |
+| 14 | [Tuz Gölü](http://twitter.com/search?q=Tuz+G%c3%b6l%c3%bc) | N/A |
+| 15 | [Nahid Yamak](http://twitter.com/search?q=Nahid+Yamak) | N/A |
 | 16 | [Ersin](http://twitter.com/search?q=Ersin) | Ersin is a Turkish name derived from the ancient Persian word "ersan", meaning "hero". It is also used as a surname in some parts of Turkey. |
-| 17 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 18 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
-| 19 | [İstanbul Büyükşehir Belediyesi](http://twitter.com/search?q=%c4%b0stanbul+B%c3%bcy%c3%bck%c5%9fehir+Belediyesi) | N/A |
-| 20 | [Fenerbahçe - Konyaspor](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Konyaspor) | N/A |
-| 21 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 22 | [Zülfü Livaneli](http://twitter.com/search?q=Z%c3%bclf%c3%bc+Livaneli) | N/A |
-| 23 | [hande fırat](http://twitter.com/search?q=hande+f%c4%b1rat) | N/A |
-| 24 | [Boğaziçi](http://twitter.com/search?q=Bo%c4%9fazi%c3%a7i) | N/A |
-| 25 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
-| 26 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
-| 27 | [Günaydınnnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnnn) | N/A |
-| 28 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 29 | [Özal](http://twitter.com/search?q=%c3%96zal) | N/A |
+| 17 | [Fenerbahçe - Konyaspor](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Konyaspor) | N/A |
+| 18 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 19 | [Aksaray](http://twitter.com/search?q=Aksaray) | N/A |
+| 20 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
+| 21 | [Hatay'da 4](http://twitter.com/search?q=Hatay%27da+4) | N/A |
+| 22 | [İstanbul Büyükşehir Belediyesi](http://twitter.com/search?q=%c4%b0stanbul+B%c3%bcy%c3%bck%c5%9fehir+Belediyesi) | N/A |
+| 23 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
+| 24 | [Bella Hadid](http://twitter.com/search?q=Bella+Hadid) | N/A |
+| 25 | [Faik](http://twitter.com/search?q=Faik) | N/A |
+| 26 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
+| 27 | [Boğaziçi](http://twitter.com/search?q=Bo%c4%9fazi%c3%a7i) | N/A |
+| 28 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
+| 29 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
 | 30 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 31 | [Günaydınlar](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nlar) | N/A |
-| 32 | [Konut](http://twitter.com/search?q=Konut) | N/A |
-| 33 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 34 | [#SabahattinAli](http://twitter.com/search?q=%23SabahattinAli) | N/A |
-| 35 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 31 | [Özal](http://twitter.com/search?q=%c3%96zal) | N/A |
+| 32 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
+| 33 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
+| 34 | [Zülfü Livaneli](http://twitter.com/search?q=Z%c3%bclf%c3%bc+Livaneli) | N/A |
+| 35 | [#DevletUnutmaz](http://twitter.com/search?q=%23DevletUnutmaz) | N/A |
 | 36 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
-| 37 | [#SSMÇözümBekliyor](http://twitter.com/search?q=%23SSM%c3%87%c3%b6z%c3%bcmBekliyor) | N/A |
-| 38 | [#21yıllıkfelaket](http://twitter.com/search?q=%2321y%c4%b1ll%c4%b1kfelaket) | N/A |
-| 39 | [#obruk](http://twitter.com/search?q=%23obruk) | N/A |
-| 40 | [#EYT28ŞubatMiladıOlsun](http://twitter.com/search?q=%23EYT28%c5%9eubatMilad%c4%b1Olsun) | N/A |
-| 41 | [#uyuyamıyorum](http://twitter.com/search?q=%23uyuyam%c4%b1yorum) | N/A |
-| 42 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
-| 43 | [#FBvKNY](http://twitter.com/search?q=%23FBvKNY) | N/A |
-| 44 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
-| 45 | [#kombinedevret](http://twitter.com/search?q=%23kombinedevret) | N/A |
-| 46 | [#KöpekleriToplayın](http://twitter.com/search?q=%23K%c3%b6pekleriToplay%c4%b1n) | N/A |
-| 47 | [#pütürge](http://twitter.com/search?q=%23p%c3%bct%c3%bcrge) | N/A |
-| 48 | [#2000sonrasıKADEME](http://twitter.com/search?q=%232000sonras%c4%b1KADEME) | N/A |
-| 49 | [#DepremDegilSistem](http://twitter.com/search?q=%23DepremDegilSistem) | N/A |
+| 37 | [#Cbmarttayuzyuze](http://twitter.com/search?q=%23Cbmarttayuzyuze) | N/A |
+| 38 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 39 | [#SabahattinAli](http://twitter.com/search?q=%23SabahattinAli) | N/A |
+| 40 | [#KöpekleriToplayın](http://twitter.com/search?q=%23K%c3%b6pekleriToplay%c4%b1n) | N/A |
+| 41 | [#SSMÇözümBekliyor](http://twitter.com/search?q=%23SSM%c3%87%c3%b6z%c3%bcmBekliyor) | N/A |
+| 42 | [#EYT28ŞubatMiladıOlsun](http://twitter.com/search?q=%23EYT28%c5%9eubatMilad%c4%b1Olsun) | N/A |
+| 43 | [#obruk](http://twitter.com/search?q=%23obruk) | N/A |
+| 44 | [#atamadeğilgörevlendirme](http://twitter.com/search?q=%23atamade%c4%9filg%c3%b6revlendirme) | N/A |
+| 45 | [#uyuyamıyorum](http://twitter.com/search?q=%23uyuyam%c4%b1yorum) | N/A |
+| 46 | [#bilet](http://twitter.com/search?q=%23bilet) | N/A |
+| 47 | [#Giresunspor](http://twitter.com/search?q=%23Giresunspor) | N/A |
+| 48 | [#FBvKNY](http://twitter.com/search?q=%23FBvKNY) | N/A |
+| 49 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 50 | [#pütürge](http://twitter.com/search?q=%23p%c3%bct%c3%bcrge) | N/A |
 
 
 

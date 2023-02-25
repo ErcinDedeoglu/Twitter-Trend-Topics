@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-25 11:17:15 UTC`
+📆 Last Updated: `2023-02-25 12:17:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for Poland
 | ------- | ------------ | ------------ |
 | 1 | [#LEGWID](http://twitter.com/search?q=%23LEGWID) | N/A |
 | 2 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
-| 3 | [#KonkursBetclic](http://twitter.com/search?q=%23KonkursBetclic) | N/A |
-| 4 | [#viaF1](http://twitter.com/search?q=%23viaF1) | N/A |
-| 5 | [#PodatekDlaObajtka](http://twitter.com/search?q=%23PodatekDlaObajtka) | N/A |
-| 6 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 7 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 8 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
-| 9 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
-| 10 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
-| 11 | [Sokołowski](http://twitter.com/search?q=Soko%c5%82owski) | N/A |
-| 12 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
-| 13 | [Slovan](http://twitter.com/search?q=Slovan) | N/A |
-| 14 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
-| 15 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
-| 16 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
-| 17 | [Jasiu](http://twitter.com/search?q=Jasiu) | N/A |
-| 18 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
-| 19 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
-| 20 | [Mula](http://twitter.com/search?q=Mula) | N/A |
+| 3 | [#ViaF1](http://twitter.com/search?q=%23ViaF1) | N/A |
+| 4 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 5 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 6 | [#OBX3](http://twitter.com/search?q=%23OBX3) | N/A |
+| 7 | [#PodatekDlaObajtka](http://twitter.com/search?q=%23PodatekDlaObajtka) | N/A |
+| 8 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
+| 9 | [Sokołowski](http://twitter.com/search?q=Soko%c5%82owski) | N/A |
+| 10 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
+| 11 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
+| 12 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
+| 13 | [West Ham](http://twitter.com/search?q=West+Ham) | West Ham is a district in East London, England. It is located in the London Borough of Newham and is situated 6.1 miles (9.8 km) east of Charing Cross. The area has a long history as an industrial and port district, and is now home to a diverse population of people from many different backgrounds. The name "West Ham" comes from the Old English words "west" and "ham", meaning "west village". |
+| 14 | [Miłego](http://twitter.com/search?q=Mi%c5%82ego) | N/A |
+| 15 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
+| 16 | [Lecha](http://twitter.com/search?q=Lecha) | N/A |
+| 17 | [Mula](http://twitter.com/search?q=Mula) | N/A |
+| 18 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
+| 19 | [Andruszkiewicz](http://twitter.com/search?q=Andruszkiewicz) | N/A |
+| 20 | [Wrzosek](http://twitter.com/search?q=Wrzosek) | N/A |
 | 21 | [Rosołek](http://twitter.com/search?q=Roso%c5%82ek) | N/A |
 | 22 | [Rodado](http://twitter.com/search?q=Rodado) | N/A |
-| 23 | [Wszołek](http://twitter.com/search?q=Wszo%c5%82ek) | N/A |
-| 24 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
-| 25 | [Andruszkiewicz](http://twitter.com/search?q=Andruszkiewicz) | N/A |
-| 26 | [depresją](http://twitter.com/search?q=depresj%c4%85) | N/A |
-| 27 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 28 | [Wszołka](http://twitter.com/search?q=Wszo%c5%82ka) | N/A |
+| 23 | [Niemcom](http://twitter.com/search?q=Niemcom) | N/A |
+| 24 | [depresją](http://twitter.com/search?q=depresj%c4%85) | N/A |
+| 25 | [Wszołek](http://twitter.com/search?q=Wszo%c5%82ek) | N/A |
+| 26 | [będziecie](http://twitter.com/search?q=b%c4%99dziecie) | N/A |
+| 27 | [Centralne Biuro Antyaborcyjne](http://twitter.com/search?q=Centralne+Biuro+Antyaborcyjne) | N/A |
+| 28 | [wszołka](http://twitter.com/search?q=wszo%c5%82ka) | N/A |
 | 29 | [augusta emila fieldorfa](http://twitter.com/search?q=augusta+emila+fieldorfa) | N/A |
 | 30 | [Muci](http://twitter.com/search?q=Muci) | N/A |
-| 31 | [Centralne Biuro Antyaborcyjne](http://twitter.com/search?q=Centralne+Biuro+Antyaborcyjne) | N/A |
-| 32 | [Będziecie](http://twitter.com/search?q=B%c4%99dziecie) | N/A |
-| 33 | [szachtar](http://twitter.com/search?q=szachtar) | N/A |
-| 34 | [trójkąta weimarskiego](http://twitter.com/search?q=tr%c3%b3jk%c4%85ta+weimarskiego) | N/A |
-| 35 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
-| 36 | [Fernandez](http://twitter.com/search?q=Fernandez) | N/A |
-| 37 | [Wołyń](http://twitter.com/search?q=Wo%c5%82y%c5%84) | N/A |
-| 38 | [Udanej](http://twitter.com/search?q=Udanej) | N/A |
-| 39 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
-| 40 | [Djurgarden](http://twitter.com/search?q=Djurgarden) | N/A |
-| 41 | [Jurek](http://twitter.com/search?q=Jurek) | N/A |
-| 42 | [Faflun](http://twitter.com/search?q=Faflun) | N/A |
-| 43 | [Łazienkowskiej](http://twitter.com/search?q=%c5%81azienkowskiej) | N/A |
-| 44 | [Jordi](http://twitter.com/search?q=Jordi) | Jordi is a Catalan name derived from the Hebrew name George, meaning "farmer". In English, it is usually translated as "George". |
-| 45 | [Miłej](http://twitter.com/search?q=Mi%c5%82ej) | N/A |
-| 46 | [kielce](http://twitter.com/search?q=kielce) | N/A |
-| 47 | [Bolek](http://twitter.com/search?q=Bolek) | N/A |
-| 48 | [Makijaż](http://twitter.com/search?q=Makija%c5%bc) | N/A |
-| 49 | [rady bezpieczeństwa narodowego](http://twitter.com/search?q=rady+bezpiecze%c5%84stwa+narodowego) | N/A |
-| 50 | [Sapała](http://twitter.com/search?q=Sapa%c5%82a) | N/A |
+| 31 | [Terlikowski](http://twitter.com/search?q=Terlikowski) | N/A |
+| 32 | [szachtar](http://twitter.com/search?q=szachtar) | N/A |
+| 33 | [Josue](http://twitter.com/search?q=Josue) | N/A |
+| 34 | [dawid kubacki](http://twitter.com/search?q=dawid+kubacki) | N/A |
+| 35 | [slovan bratysława](http://twitter.com/search?q=slovan+bratys%c5%82awa) | N/A |
+| 36 | [Villarreal](http://twitter.com/search?q=Villarreal) | Villarreal is a Spanish city located in the province of Castellón, in the Valencian Community. The name Villarreal comes from the Latin word villare, which means "country house". In English, it can be translated to mean "rural estate". |
+| 37 | [trójkąta weimarskiego](http://twitter.com/search?q=tr%c3%b3jk%c4%85ta+weimarskiego) | N/A |
+| 38 | [Djurgarden](http://twitter.com/search?q=Djurgarden) | N/A |
+| 39 | [Faflun](http://twitter.com/search?q=Faflun) | N/A |
+| 40 | [Bolek](http://twitter.com/search?q=Bolek) | N/A |
+| 41 | [Fernandez](http://twitter.com/search?q=Fernandez) | N/A |
+| 42 | [kielce](http://twitter.com/search?q=kielce) | N/A |
+| 43 | [Makijaż](http://twitter.com/search?q=Makija%c5%bc) | N/A |
+| 44 | [rady bezpieczeństwa narodowego](http://twitter.com/search?q=rady+bezpiecze%c5%84stwa+narodowego) | N/A |
+| 45 | [Sapała](http://twitter.com/search?q=Sapa%c5%82a) | N/A |
+| 46 | [ligi konferencji europy](http://twitter.com/search?q=ligi+konferencji+europy) | N/A |
+| 47 | [Jurek](http://twitter.com/search?q=Jurek) | N/A |
+| 48 | [Wołyniu](http://twitter.com/search?q=Wo%c5%82yniu) | N/A |
+| 49 | [Łazienkowskiej](http://twitter.com/search?q=%c5%81azienkowskiej) | N/A |
+| 50 | [Raków](http://twitter.com/search?q=Rak%c3%b3w) | N/A |
 
 
 
