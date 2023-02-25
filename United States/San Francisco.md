@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Francisco
 
-📆 Last Updated: `2023-02-25 03:20:35 UTC`
+📆 Last Updated: `2023-02-25 04:16:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [4th of July](http://twitter.com/search?q=4th+of+July) | N/A |
-| 2 | [Jackson Merrill](http://twitter.com/search?q=Jackson+Merrill) | N/A |
-| 3 | [Rose Bowl](http://twitter.com/search?q=Rose+Bowl) | The Rose Bowl is an annual American college football bowl game played in Pasadena, California. It is one of the oldest and most prestigious bowl games in the country, and is often referred to as "The Granddaddy of Them All". The game typically features a matchup between two of the top teams from the Pac-12 and Big Ten conferences. The winner of the game is awarded the Rose Bowl trophy. |
-| 4 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
-| 5 | [#BayAreaSnow](http://twitter.com/search?q=%23BayAreaSnow) | N/A |
-| 6 | [#FursuitFriday](http://twitter.com/search?q=%23FursuitFriday) | N/A |
-| 7 | [Berkeley](http://twitter.com/search?q=Berkeley) | N/A |
-| 8 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
-| 9 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 10 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
-| 11 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 12 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
-| 13 | [Cruz](http://twitter.com/search?q=Cruz) | N/A |
-| 14 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 15 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 16 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 17 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 18 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 19 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 20 | [The Nets](http://twitter.com/search?q=The+Nets) | N/A |
-| 21 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 22 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 23 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 24 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 25 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
-| 26 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 27 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 28 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 29 | [Bray Wyatt](http://twitter.com/search?q=Bray+Wyatt) | Bray Wyatt is the ring name of American professional wrestler Windham Rotunda. The name is derived from the combination of his father's first name, Mike Rotunda, and his grandfather's first name, Bray Heath Slater. The name Bray Wyatt is a reference to the character of Bray Wyatt in the horror film The Texas Chainsaw Massacre. |
-| 30 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 31 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 32 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 33 | [Kofi](http://twitter.com/search?q=Kofi) | Kofi is a unisex name of African origin meaning "born on Friday". It is also a popular name in Ghana, where it is the name of the Akan day of the week for Friday. |
-| 34 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 35 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
-| 36 | [Regional Champs](http://twitter.com/search?q=Regional+Champs) | N/A |
-| 37 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
-| 38 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
-| 39 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
-| 40 | [Bobby Portis](http://twitter.com/search?q=Bobby+Portis) | N/A |
-| 41 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 42 | [Hubie Brown](http://twitter.com/search?q=Hubie+Brown) | Hubie Brown is a nickname for Hubert Jude Brown, an American basketball coach and commentator. He was a two-time NBA Coach of the Year and was inducted into the Basketball Hall of Fame in 2005. He is known for his innovative coaching strategies and his colorful commentary on NBA games. |
-| 43 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
-| 44 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
-| 45 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 46 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 47 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
-| 48 | [Dreamcon](http://twitter.com/search?q=Dreamcon) | N/A |
-| 49 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
-| 50 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 1 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 2 | [Rockets](http://twitter.com/search?q=Rockets) | Rockets are a type of spacecraft used for space exploration and travel. They are powered by engines that use fuel to generate thrust, allowing them to move through the air or outer space. Rockets are used to launch satellites, transport people and cargo into space, and even explore other planets. The word "rocket" comes from the Latin word "rockete," which means "to shoot." |
+| 3 | [4th of July](http://twitter.com/search?q=4th+of+July) | N/A |
+| 4 | [Moody](http://twitter.com/search?q=Moody) | N/A |
+| 5 | [#DubNation](http://twitter.com/search?q=%23DubNation) | #DubNation is a term used to refer to the fan base of the Golden State Warriors, a professional basketball team based in Oakland, California. The term is derived from the team's nickname, the "Warriors," and is used to show support for the team and its players. |
+| 6 | [Russell Westbrook](http://twitter.com/search?q=Russell+Westbrook) | N/A |
+| 7 | [Lamb](http://twitter.com/search?q=Lamb) | Lamb is a young sheep, usually less than one year old. It is also used as a term of endearment for a young child. The word comes from the Old English “lamb”, which means “young sheep”. |
+| 8 | [Kerr](http://twitter.com/search?q=Kerr) | N/A |
+| 9 | [Rose Bowl](http://twitter.com/search?q=Rose+Bowl) | The Rose Bowl is an annual American college football bowl game played in Pasadena, California. It is one of the oldest and most prestigious bowl games in the country, and is often referred to as "The Granddaddy of Them All". The game typically features a matchup between two of the top teams from the Pac-12 and Big Ten conferences. The winner of the game is awarded the Rose Bowl trophy. |
+| 10 | [#BayAreaSnow](http://twitter.com/search?q=%23BayAreaSnow) | N/A |
+| 11 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
+| 12 | [Berkeley](http://twitter.com/search?q=Berkeley) | N/A |
+| 13 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
+| 14 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 15 | [#LAFC](http://twitter.com/search?q=%23LAFC) | N/A |
+| 16 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
+| 17 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
+| 18 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 19 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 20 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 21 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 22 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 23 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 24 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 25 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 26 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 27 | [The Nets](http://twitter.com/search?q=The+Nets) | N/A |
+| 28 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 29 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
+| 30 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
+| 31 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 32 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 33 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 34 | [Finch](http://twitter.com/search?q=Finch) | N/A |
+| 35 | [Lance Archer](http://twitter.com/search?q=Lance+Archer) | N/A |
+| 36 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 37 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 38 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 39 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 40 | [Bray Wyatt](http://twitter.com/search?q=Bray+Wyatt) | Bray Wyatt is the ring name of American professional wrestler Windham Rotunda. The name is derived from the combination of his father's first name, Mike Rotunda, and his grandfather's first name, Bray Heath Slater. The name Bray Wyatt is a reference to the character of Bray Wyatt in the horror film The Texas Chainsaw Massacre. |
+| 41 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 42 | [Regional Champs](http://twitter.com/search?q=Regional+Champs) | N/A |
+| 43 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 44 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 45 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
+| 46 | [Komander](http://twitter.com/search?q=Komander) | N/A |
+| 47 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 48 | [shayna](http://twitter.com/search?q=shayna) | N/A |
+| 49 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
+| 50 | [Dreamcon](http://twitter.com/search?q=Dreamcon) | N/A |
 
 
 

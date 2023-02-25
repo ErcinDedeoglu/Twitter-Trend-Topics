@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lucknow
 
-📆 Last Updated: `2023-02-25 03:20:24 UTC`
+📆 Last Updated: `2023-02-25 04:16:29 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Who_Is_SantGaribdasJiMaharaj](http://twitter.com/search?q=%23Who_Is_SantGaribdasJiMaharaj) | N/A |
-| 2 | [#WeLovedMatruPitruPujan](http://twitter.com/search?q=%23WeLovedMatruPitruPujan) | N/A |
-| 3 | [#OrganicYield](http://twitter.com/search?q=%23OrganicYield) | N/A |
+| 2 | [#OrganicYield](http://twitter.com/search?q=%23OrganicYield) | N/A |
+| 3 | [#WeLovedMatruPitruPujan](http://twitter.com/search?q=%23WeLovedMatruPitruPujan) | N/A |
 | 4 | [गरीब दास](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 5 | [Thanks To Asharamji Bapu](http://twitter.com/search?q=Thanks+To+Asharamji+Bapu) | N/A |
-| 6 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 6 | [Thanks To Asharamji Bapu](http://twitter.com/search?q=Thanks+To+Asharamji+Bapu) | N/A |
 | 7 | [For Beautiful Initiative](http://twitter.com/search?q=For+Beautiful+Initiative) | N/A |
-| 8 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 9 | [Satlok](http://twitter.com/search?q=Satlok) | Satlok is a term used to refer to the spiritual abode of the god Satnam, which is believed to be located in the higher realms of existence. The literal meaning of Satlok in English is "the abode of truth". |
-| 10 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 8 | [#HCAFilmAwards](http://twitter.com/search?q=%23HCAFilmAwards) | N/A |
+| 9 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 10 | [Satlok](http://twitter.com/search?q=Satlok) | Satlok is a term used to refer to the spiritual abode of the god Satnam, which is believed to be located in the higher realms of existence. The literal meaning of Satlok in English is "the abode of truth". |
 | 11 | [God Kabir](http://twitter.com/search?q=God+Kabir) | N/A |
-| 12 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 13 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 14 | [SSRCs Evidences Point Murder](http://twitter.com/search?q=SSRCs+Evidences+Point+Murder) | N/A |
-| 15 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 12 | [SSRCs Evidences Point Murder](http://twitter.com/search?q=SSRCs+Evidences+Point+Murder) | N/A |
+| 13 | [Best Action Film](http://twitter.com/search?q=Best+Action+Film) | N/A |
+| 14 | [Best Stunts](http://twitter.com/search?q=Best+Stunts) | N/A |
+| 15 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
 | 16 | [अनन्त कोटि](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%9f%e0%a4%bf) | N/A |
-| 17 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
-| 18 | [गोपाल दास](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 19 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 20 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 21 | [Fav Actress](http://twitter.com/search?q=Fav+Actress) | N/A |
-| 22 | [Fav Actor](http://twitter.com/search?q=Fav+Actor) | N/A |
-| 23 | [Fav Cricketer](http://twitter.com/search?q=Fav+Cricketer) | N/A |
-| 24 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 25 | [Fav IPL Team](http://twitter.com/search?q=Fav+IPL+Team) | N/A |
-| 26 | [Fav Director](http://twitter.com/search?q=Fav+Director) | N/A |
-| 27 | [Chhudani](http://twitter.com/search?q=Chhudani) | N/A |
-| 28 | [Fav Music Director](http://twitter.com/search?q=Fav+Music+Director) | N/A |
-| 29 | [action prince dhruvasarja](http://twitter.com/search?q=action+prince+dhruvasarja) | N/A |
-| 30 | [पूर्ण अगम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%85%e0%a4%97%e0%a4%ae) | N/A |
-| 31 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 32 | [True Spiritual Knowledge](http://twitter.com/search?q=True+Spiritual+Knowledge) | N/A |
-| 33 | [Best Stunts](http://twitter.com/search?q=Best+Stunts) | N/A |
-| 34 | [अनिल जैन](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
-| 35 | [नानक तारे](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a4%95+%e0%a4%a4%e0%a4%be%e0%a4%b0%e0%a5%87) | N/A |
-| 36 | [अलख अल्लाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a4%96+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
-| 37 | [काशी माहे कबीर](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b6%e0%a5%80+%e0%a4%ae%e0%a4%be%e0%a4%b9%e0%a5%87+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
-| 38 | [दादू पंथ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%be%e0%a4%a6%e0%a5%82+%e0%a4%aa%e0%a4%82%e0%a4%a5) | N/A |
-| 39 | [Jhajjar](http://twitter.com/search?q=Jhajjar) | N/A |
-| 40 | [तथा अमृत वाणी](http://twitter.com/search?q=%e0%a4%a4%e0%a4%a5%e0%a4%be+%e0%a4%85%e0%a4%ae%e0%a5%83%e0%a4%a4+%e0%a4%b5%e0%a4%be%e0%a4%a3%e0%a5%80) | N/A |
-| 41 | [मास सुदी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b8+%e0%a4%b8%e0%a5%81%e0%a4%a6%e0%a5%80) | N/A |
-| 42 | [दिव्य दृष्टि](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf) | N/A |
-| 43 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
-| 44 | [जिला झज्जर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%9d%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%b0) | N/A |
-| 45 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 46 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 47 | [राम रसायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
-| 48 | [विशिष्ट ज्ञानी बालक](http://twitter.com/search?q=%e0%a4%b5%e0%a4%bf%e0%a4%b6%e0%a4%bf%e0%a4%b7%e0%a5%8d%e0%a4%9f+%e0%a4%9c%e0%a5%8d%e0%a4%9e%e0%a4%be%e0%a4%a8%e0%a5%80+%e0%a4%ac%e0%a4%be%e0%a4%b2%e0%a4%95) | N/A |
-| 49 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 50 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 17 | [Fav Director](http://twitter.com/search?q=Fav+Director) | N/A |
+| 18 | [Fav IPL Team](http://twitter.com/search?q=Fav+IPL+Team) | N/A |
+| 19 | [अनिल जैन](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
+| 20 | [Fav Music Director](http://twitter.com/search?q=Fav+Music+Director) | N/A |
+| 21 | [गोपाल दास](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
+| 22 | [Chhudani](http://twitter.com/search?q=Chhudani) | N/A |
+| 23 | [Fav Actress](http://twitter.com/search?q=Fav+Actress) | N/A |
+| 24 | [Fav Cricketer](http://twitter.com/search?q=Fav+Cricketer) | N/A |
+| 25 | [Fav Actor](http://twitter.com/search?q=Fav+Actor) | N/A |
+| 26 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 27 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
+| 28 | [Sikh](http://twitter.com/search?q=Sikh) | N/A |
+| 29 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 30 | [Amritpal](http://twitter.com/search?q=Amritpal) | N/A |
+| 31 | [अरविंद केजरीवाल](http://twitter.com/search?q=%e0%a4%85%e0%a4%b0%e0%a4%b5%e0%a4%bf%e0%a4%82%e0%a4%a6+%e0%a4%95%e0%a5%87%e0%a4%9c%e0%a4%b0%e0%a5%80%e0%a4%b5%e0%a4%be%e0%a4%b2) | N/A |
+| 32 | [#ErodeEastWelcomesMKS](http://twitter.com/search?q=%23ErodeEastWelcomesMKS) | N/A |
+| 33 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 34 | [#RRRMovie](http://twitter.com/search?q=%23RRRMovie) | #RRRMovie is a hashtag used to refer to the upcoming Indian film RRR (Rise Roar Revolt). The film is directed by S. S. Rajamouli and stars Ram Charan, Jr. NTR, Alia Bhatt, Ajay Devgn, and Olivia Morris. The hashtag is used to promote the movie and share updates about its production and release. In English, the hashtag translates to "RRR Movie". |
+| 35 | [#Saturdaythoughts](http://twitter.com/search?q=%23Saturdaythoughts) | N/A |
+| 36 | [#AmitShahJiKeSwagatBa](http://twitter.com/search?q=%23AmitShahJiKeSwagatBa) | N/A |
+| 37 | [#1YearForBheemlaNayak](http://twitter.com/search?q=%231YearForBheemlaNayak) | N/A |
+| 38 | [#railway_groupd_waiting_do](http://twitter.com/search?q=%23railway_groupd_waiting_do) | N/A |
+| 39 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 40 | [#HBDGVM](http://twitter.com/search?q=%23HBDGVM) | N/A |
+| 41 | [#जय_श्री_राम](http://twitter.com/search?q=%23%e0%a4%9c%e0%a4%af_%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80_%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 42 | [#diversion2k23](http://twitter.com/search?q=%23diversion2k23) | N/A |
+| 43 | [#SSRajamouli](http://twitter.com/search?q=%23SSRajamouli) | N/A |
+| 44 | [#NaatuNaatu](http://twitter.com/search?q=%23NaatuNaatu) | #NaatuNaatu is a Tamil phrase that translates to “Let it be” in English. It is used as an expression of acceptance or resignation, and can also be used to express hope or faith in a situation. |
+| 45 | [#HappyBirthdayGVM](http://twitter.com/search?q=%23HappyBirthdayGVM) | N/A |
+| 46 | [#GlobalStarRamCharan](http://twitter.com/search?q=%23GlobalStarRamCharan) | N/A |
+| 47 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 48 | [#REET](http://twitter.com/search?q=%23REET) | N/A |
+| 49 | [#PunjabBachao](http://twitter.com/search?q=%23PunjabBachao) | N/A |
+| 50 | [#RamCharan𓃵](http://twitter.com/search?q=%23RamCharan%f0%93%83%b5) | N/A |
 
 
 

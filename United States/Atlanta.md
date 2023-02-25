@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Atlanta
 
-📆 Last Updated: `2023-02-25 03:20:28 UTC`
+📆 Last Updated: `2023-02-25 04:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [United States](</United States>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [Hawks](http://twitter.com/search?q=Hawks) | Hawks is a term used to refer to people who are hawkish, or who advocate for aggressive foreign policy. It is often used to describe those who favor military intervention in international conflicts. |
-| 2 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
-| 3 | [Nate](http://twitter.com/search?q=Nate) | N/A |
-| 4 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 2 | [#TrueToAtlanta](http://twitter.com/search?q=%23TrueToAtlanta) | N/A |
+| 3 | [Elite 8](http://twitter.com/search?q=Elite+8) | N/A |
+| 4 | [Nate](http://twitter.com/search?q=Nate) | N/A |
 | 5 | [Trae Young](http://twitter.com/search?q=Trae+Young) | Trae Young is the name of an American professional basketball player who currently plays for the Atlanta Hawks of the National Basketball Association (NBA). He was selected fifth overall in the 2018 NBA Draft. The name Trae is derived from the word "trailblazer," which means someone who is a pioneer or innovator in their field. |
 | 6 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
 | 7 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 8 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 8 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
 | 9 | [#OPLive](http://twitter.com/search?q=%23OPLive) | #OPLive is an online streaming platform that allows users to watch and broadcast live video content. It stands for Open Platform Live, and it is a way for people to connect with each other through live streaming. |
-| 10 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 11 | [#lifeafterlockup](http://twitter.com/search?q=%23lifeafterlockup) | N/A |
+| 10 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
+| 11 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
 | 12 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 13 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
+| 13 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
 | 14 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
 | 15 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 16 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 17 | [The Nets](http://twitter.com/search?q=The+Nets) | N/A |
+| 16 | [Hornets](http://twitter.com/search?q=Hornets) | Hornets are a type of large, predatory wasp. They are typically black and white in color, and have a powerful sting. Hornets are known for their aggressive behavior and will attack if they feel threatened. In English, the term "hornet" is used to refer to any species of large wasp. |
+| 17 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
 | 18 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 19 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 20 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
-| 21 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
-| 22 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
-| 23 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
-| 24 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
-| 25 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
-| 26 | [Bray Wyatt](http://twitter.com/search?q=Bray+Wyatt) | Bray Wyatt is the ring name of American professional wrestler Windham Rotunda. The name is derived from the combination of his father's first name, Mike Rotunda, and his grandfather's first name, Bray Heath Slater. The name Bray Wyatt is a reference to the character of Bray Wyatt in the horror film The Texas Chainsaw Massacre. |
-| 27 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
-| 28 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 29 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 30 | [Kofi](http://twitter.com/search?q=Kofi) | Kofi is a unisex name of African origin meaning "born on Friday". It is also a popular name in Ghana, where it is the name of the Akan day of the week for Friday. |
-| 31 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 32 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
-| 33 | [Regional Champs](http://twitter.com/search?q=Regional+Champs) | N/A |
-| 34 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
-| 35 | [Bobby Portis](http://twitter.com/search?q=Bobby+Portis) | N/A |
-| 36 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
-| 37 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
-| 38 | [Hubie Brown](http://twitter.com/search?q=Hubie+Brown) | Hubie Brown is a nickname for Hubert Jude Brown, an American basketball coach and commentator. He was a two-time NBA Coach of the Year and was inducted into the Basketball Hall of Fame in 2005. He is known for his innovative coaching strategies and his colorful commentary on NBA games. |
-| 39 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
-| 40 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
-| 41 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 42 | [Rey Mysterio](http://twitter.com/search?q=Rey+Mysterio) | Rey Mysterio is a professional wrestler and luchador (masked wrestler) from Mexico. His name translates to "Mysterious King" in English. He is known for his high-flying, acrobatic style of wrestling and his colorful masks. |
-| 43 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
-| 44 | [Dreamcon](http://twitter.com/search?q=Dreamcon) | N/A |
-| 45 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
-| 46 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
-| 47 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 48 | [Karrion Kross](http://twitter.com/search?q=Karrion+Kross) | Karrion Kross is the ring name of professional wrestler Kevin Kesar, who currently performs for WWE. The name is derived from the Latin phrase "Carpe Diem," which translates to "seize the day." |
-| 49 | [Tegan](http://twitter.com/search?q=Tegan) | N/A |
-| 50 | [Naz Reid](http://twitter.com/search?q=Naz+Reid) | Naz Reid is a professional basketball player who currently plays for the Minnesota Timberwolves of the National Basketball Association (NBA). His name is a combination of his first name, Naz, and his middle name, Reid. The name Naz Reid is derived from his full name, Nazareth Reid. |
+| 19 | [The Nets](http://twitter.com/search?q=The+Nets) | N/A |
+| 20 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 21 | [Aussie Open](http://twitter.com/search?q=Aussie+Open) | N/A |
+| 22 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
+| 23 | [Timberwolves](http://twitter.com/search?q=Timberwolves) | Timberwolves is a nickname for the Minnesota Timberwolves, a professional basketball team based in Minneapolis, Minnesota. The name was chosen to reflect the state's rich history of logging and timber production. |
+| 24 | [Riho](http://twitter.com/search?q=Riho) | N/A |
+| 25 | [Finch](http://twitter.com/search?q=Finch) | N/A |
+| 26 | [Lance Archer](http://twitter.com/search?q=Lance+Archer) | N/A |
+| 27 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 28 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 29 | [Sabres](http://twitter.com/search?q=Sabres) | Sabres is a type of sword with a curved blade and single cutting edge. It is most commonly associated with the cavalry of the Napoleonic Wars, but has been used in many other conflicts throughout history. In English, the word sabre is derived from the French word sabre, which means "sword". |
+| 30 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 31 | [Bray Wyatt](http://twitter.com/search?q=Bray+Wyatt) | Bray Wyatt is the ring name of American professional wrestler Windham Rotunda. The name is derived from the combination of his father's first name, Mike Rotunda, and his grandfather's first name, Bray Heath Slater. The name Bray Wyatt is a reference to the character of Bray Wyatt in the horror film The Texas Chainsaw Massacre. |
+| 32 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 33 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 34 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 35 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
+| 36 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 37 | [Regional Champs](http://twitter.com/search?q=Regional+Champs) | N/A |
+| 38 | [Komander](http://twitter.com/search?q=Komander) | N/A |
+| 39 | [shayna](http://twitter.com/search?q=shayna) | N/A |
+| 40 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
+| 41 | [Dreamcon](http://twitter.com/search?q=Dreamcon) | N/A |
+| 42 | [Kofi](http://twitter.com/search?q=Kofi) | Kofi is a unisex name of African origin meaning "born on Friday". It is also a popular name in Ghana, where it is the name of the Akan day of the week for Friday. |
+| 43 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 44 | [Porter Brown](http://twitter.com/search?q=Porter+Brown) | N/A |
+| 45 | [Greatest American Hero](http://twitter.com/search?q=Greatest+American+Hero) | N/A |
+| 46 | [Hubie Brown](http://twitter.com/search?q=Hubie+Brown) | Hubie Brown is a nickname for Hubert Jude Brown, an American basketball coach and commentator. He was a two-time NBA Coach of the Year and was inducted into the Basketball Hall of Fame in 2005. He is known for his innovative coaching strategies and his colorful commentary on NBA games. |
+| 47 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 48 | [Area Champs](http://twitter.com/search?q=Area+Champs) | N/A |
+| 49 | [Action Andretti](http://twitter.com/search?q=Action+Andretti) | Action Andretti is a phrase used to describe someone who is very active and energetic. It is derived from the name of the Italian-American racing driver Mario Andretti, who was known for his aggressive driving style. |
+| 50 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
 
 
 

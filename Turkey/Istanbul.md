@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Istanbul
 
-📆 Last Updated: `2023-02-25 03:20:27 UTC`
+📆 Last Updated: `2023-02-25 04:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,32 +16,32 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
-| 2 | [#CbYaralarıSarmaya100Bin](http://twitter.com/search?q=%23CbYaralar%c4%b1Sarmaya100Bin) | N/A |
-| 3 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 4 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
+| 2 | [#uyuyamıyorum](http://twitter.com/search?q=%23uyuyam%c4%b1yorum) | N/A |
+| 3 | [#CbYaralarıSarmaya100Bin](http://twitter.com/search?q=%23CbYaralar%c4%b1Sarmaya100Bin) | N/A |
+| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 5 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 6 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
-| 7 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
+| 6 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
+| 7 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
 | 8 | [muratileberna evleniyor](http://twitter.com/search?q=muratileberna+evleniyor) | N/A |
 | 9 | [yürekler beraber çarpıyor](http://twitter.com/search?q=y%c3%bcrekler+beraber+%c3%a7arp%c4%b1yor) | N/A |
 | 10 | [KÜLLERİMİZDEN DOĞARIZ](http://twitter.com/search?q=K%c3%9cLLER%c4%b0M%c4%b0ZDEN+DO%c4%9eARIZ) | N/A |
 | 11 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
 | 12 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
 | 13 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 14 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 15 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
+| 14 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
+| 15 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
 | 16 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 17 | [Berke Kutay Şahin](http://twitter.com/search?q=Berke+Kutay+%c5%9eahin) | N/A |
-| 18 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 19 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 20 | [çşbalımı kpssliyap](http://twitter.com/search?q=%c3%a7%c5%9fbal%c4%b1m%c4%b1+kpssliyap) | N/A |
-| 21 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 17 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 18 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 19 | [çşbalımı kpssliyap](http://twitter.com/search?q=%c3%a7%c5%9fbal%c4%b1m%c4%b1+kpssliyap) | N/A |
+| 20 | [abdullah avcı](http://twitter.com/search?q=abdullah+avc%c4%b1) | N/A |
+| 21 | [Konya'da 4.3](http://twitter.com/search?q=Konya%27da+4.3) | N/A |
 | 22 | [manu](http://twitter.com/search?q=manu) | N/A |
-| 23 | [Konya'da 4.3](http://twitter.com/search?q=Konya%27da+4.3) | N/A |
+| 23 | [Berke Kutay Şahin](http://twitter.com/search?q=Berke+Kutay+%c5%9eahin) | N/A |
 | 24 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 25 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 26 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 27 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 25 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 26 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 27 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
 | 28 | [elif buse doğan](http://twitter.com/search?q=elif+buse+do%c4%9fan) | N/A |
 | 29 | [g i d e c e k s i n i z](http://twitter.com/search?q=g+i+d+e+c+e+k+s+i+n+i+z) | N/A |
 | 30 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
@@ -51,20 +51,20 @@ This is top 50 for [Turkey](</Turkey>)
 | 34 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
 | 35 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
 | 36 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 37 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
-| 38 | [Obruk](http://twitter.com/search?q=Obruk) | N/A |
-| 39 | [Sevcan Orhan](http://twitter.com/search?q=Sevcan+Orhan) | N/A |
-| 40 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 37 | [Sevcan Orhan](http://twitter.com/search?q=Sevcan+Orhan) | N/A |
+| 38 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
+| 39 | [Obruk](http://twitter.com/search?q=Obruk) | N/A |
+| 40 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
 | 41 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 42 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
-| 43 | [ProfilimeKimler Bakıyorlar](http://twitter.com/search?q=ProfilimeKimler+Bak%c4%b1yorlar) | N/A |
-| 44 | [Çetin Tekindor](http://twitter.com/search?q=%c3%87etin+Tekindor) | N/A |
-| 45 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 46 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 47 | [gültekin uysal](http://twitter.com/search?q=g%c3%bcltekin+uysal) | N/A |
-| 48 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
-| 49 | [Kemal Kılıçdaroğlu](http://twitter.com/search?q=Kemal+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | Kemal Kılıçdaroğlu is a Turkish politician who has been the leader of the Republican People's Party (CHP) since 2010. His name translates to "Kemal Sword of Justice" in English. |
-| 50 | [Muş'ta](http://twitter.com/search?q=Mu%c5%9f%27ta) | N/A |
+| 42 | [ProfilimeKimler Bakıyorlar](http://twitter.com/search?q=ProfilimeKimler+Bak%c4%b1yorlar) | N/A |
+| 43 | [Çetin Tekindor](http://twitter.com/search?q=%c3%87etin+Tekindor) | N/A |
+| 44 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 45 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 46 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
+| 47 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
+| 48 | [Muş'ta](http://twitter.com/search?q=Mu%c5%9f%27ta) | N/A |
+| 49 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
+| 50 | [Ayet](http://twitter.com/search?q=Ayet) | N/A |
 
 
 

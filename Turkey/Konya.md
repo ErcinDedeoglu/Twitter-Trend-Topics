@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Konya
 
-📆 Last Updated: `2023-02-25 03:20:28 UTC`
+📆 Last Updated: `2023-02-25 04:16:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,9 +16,9 @@ This is top 50 for [Turkey](</Turkey>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
-| 2 | [#CbYaralarıSarmaya100Bin](http://twitter.com/search?q=%23CbYaralar%c4%b1Sarmaya100Bin) | N/A |
-| 3 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 4 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
+| 2 | [#uyuyamıyorum](http://twitter.com/search?q=%23uyuyam%c4%b1yorum) | N/A |
+| 3 | [#CbYaralarıSarmaya100Bin](http://twitter.com/search?q=%23CbYaralar%c4%b1Sarmaya100Bin) | N/A |
+| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
 | 5 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
 | 6 | [Hayırlı Cumalar](http://twitter.com/search?q=Hay%c4%b1rl%c4%b1+Cumalar) | "Hayırlı Cumalar" is a Turkish phrase that translates to "Have a Good Friday." It is typically used as a greeting on the Islamic holy day of Friday. |
 | 7 | [muratileberna evleniyor](http://twitter.com/search?q=muratileberna+evleniyor) | N/A |
@@ -27,42 +27,42 @@ This is top 50 for [Turkey](</Turkey>)
 | 10 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
 | 11 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
 | 12 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 13 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 14 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
+| 13 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
+| 14 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
 | 15 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 16 | [Berke Kutay Şahin](http://twitter.com/search?q=Berke+Kutay+%c5%9eahin) | N/A |
-| 17 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 18 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 19 | [çşbalımı kpssliyap](http://twitter.com/search?q=%c3%a7%c5%9fbal%c4%b1m%c4%b1+kpssliyap) | N/A |
-| 20 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
+| 16 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
+| 17 | [Union](http://twitter.com/search?q=Union) | N/A |
+| 18 | [çşbalımı kpssliyap](http://twitter.com/search?q=%c3%a7%c5%9fbal%c4%b1m%c4%b1+kpssliyap) | N/A |
+| 19 | [abdullah avcı](http://twitter.com/search?q=abdullah+avc%c4%b1) | N/A |
+| 20 | [Konya'da 4.3](http://twitter.com/search?q=Konya%27da+4.3) | N/A |
 | 21 | [manu](http://twitter.com/search?q=manu) | N/A |
-| 22 | [Konya'da 4.3](http://twitter.com/search?q=Konya%27da+4.3) | N/A |
+| 22 | [Berke Kutay Şahin](http://twitter.com/search?q=Berke+Kutay+%c5%9eahin) | N/A |
 | 23 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 24 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 25 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 26 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 24 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 25 | [Roma](http://twitter.com/search?q=Roma) | N/A |
+| 26 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
 | 27 | [elif buse doğan](http://twitter.com/search?q=elif+buse+do%c4%9fan) | N/A |
 | 28 | [g i d e c e k s i n i z](http://twitter.com/search?q=g+i+d+e+c+e+k+s+i+n+i+z) | N/A |
 | 29 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
 | 30 | [Depremzade](http://twitter.com/search?q=Depremzade) | N/A |
 | 31 | [lahoz](http://twitter.com/search?q=lahoz) | N/A |
 | 32 | [birliktelik destanı](http://twitter.com/search?q=birliktelik+destan%c4%b1) | N/A |
-| 33 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
-| 34 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
-| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 33 | [Niğde](http://twitter.com/search?q=Ni%c4%9fde) | N/A |
+| 34 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 35 | [Sevcan Orhan](http://twitter.com/search?q=Sevcan+Orhan) | N/A |
 | 36 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
-| 37 | [Obruk](http://twitter.com/search?q=Obruk) | N/A |
-| 38 | [Sevcan Orhan](http://twitter.com/search?q=Sevcan+Orhan) | N/A |
-| 39 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
-| 40 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 41 | [Trezeguet](http://twitter.com/search?q=Trezeguet) | Trezeguet is a French surname. It is derived from the Breton words tre (town) and zeguen (old). The literal translation of Trezeguet into English is "old town". |
-| 42 | [ProfilimeKimler Bakıyorlar](http://twitter.com/search?q=ProfilimeKimler+Bak%c4%b1yorlar) | N/A |
-| 43 | [Çetin Tekindor](http://twitter.com/search?q=%c3%87etin+Tekindor) | N/A |
-| 44 | [Fiorentina](http://twitter.com/search?q=Fiorentina) | N/A |
-| 45 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
-| 46 | [gültekin uysal](http://twitter.com/search?q=g%c3%bcltekin+uysal) | N/A |
-| 47 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
-| 48 | [Kemal Kılıçdaroğlu](http://twitter.com/search?q=Kemal+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | Kemal Kılıçdaroğlu is a Turkish politician who has been the leader of the Republican People's Party (CHP) since 2010. His name translates to "Kemal Sword of Justice" in English. |
+| 37 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
+| 38 | [ProfilimeKimler Bakıyorlar](http://twitter.com/search?q=ProfilimeKimler+Bak%c4%b1yorlar) | N/A |
+| 39 | [Obruk](http://twitter.com/search?q=Obruk) | N/A |
+| 40 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
+| 41 | [Çetin Tekindor](http://twitter.com/search?q=%c3%87etin+Tekindor) | N/A |
+| 42 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 43 | [Başakşehir](http://twitter.com/search?q=Ba%c5%9fak%c5%9fehir) | N/A |
+| 44 | [Bingöl](http://twitter.com/search?q=Bing%c3%b6l) | N/A |
+| 45 | [Ahmet Çakar](http://twitter.com/search?q=Ahmet+%c3%87akar) | N/A |
+| 46 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
+| 47 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
+| 48 | [Muş'ta](http://twitter.com/search?q=Mu%c5%9f%27ta) | N/A |
 
 
 

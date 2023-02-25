@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-25 03:20:39 UTC`
+📆 Last Updated: `2023-02-25 04:16:43 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for Guatemala
 | 1 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 2 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
 | 3 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 4 | [Araujo](http://twitter.com/search?q=Araujo) | Araujo is a Portuguese surname derived from the Latin word "arvum," meaning "vineyard." It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "vineyard worker." |
-| 5 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
-| 6 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 7 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 8 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
-| 9 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
-| 10 | [Pollo Campero](http://twitter.com/search?q=Pollo+Campero) | N/A |
-| 11 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
-| 12 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 13 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 14 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
-| 15 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
-| 16 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
-| 17 | [Mazariegos](http://twitter.com/search?q=Mazariegos) | N/A |
-| 18 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
-| 19 | [Zelaya](http://twitter.com/search?q=Zelaya) | N/A |
-| 20 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
-| 21 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
-| 22 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 23 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 24 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 25 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 26 | [#LibertadParaVirginia](http://twitter.com/search?q=%23LibertadParaVirginia) | N/A |
-| 27 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
-| 28 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 29 | [Barcita](http://twitter.com/search?q=Barcita) | N/A |
-| 30 | [#girapresidencial2023](http://twitter.com/search?q=%23girapresidencial2023) | N/A |
-| 31 | [Virginia Laparra](http://twitter.com/search?q=Virginia+Laparra) | N/A |
-| 32 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 33 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 34 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 35 | [Tormenta](http://twitter.com/search?q=Tormenta) | N/A |
-| 36 | [Frenkie](http://twitter.com/search?q=Frenkie) | Frenkie is a nickname for the Dutch footballer Frenkie de Jong, who currently plays for FC Barcelona. The name is derived from his given name, which is also spelled "Frenkie". In English, it can be used as an affectionate nickname for someone named Frank or Francis. |
-| 37 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 38 | [Centro Histórico](http://twitter.com/search?q=Centro+Hist%c3%b3rico) | N/A |
-| 39 | [rey del universo](http://twitter.com/search?q=rey+del+universo) | N/A |
-| 40 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 41 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
-| 42 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 43 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 44 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 45 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 46 | [La SAT](http://twitter.com/search?q=La+SAT) | N/A |
-| 47 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 48 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 49 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 50 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
+| 4 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 5 | [San Martín](http://twitter.com/search?q=San+Mart%c3%adn) | N/A |
+| 6 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
+| 7 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
+| 8 | [Mazariegos](http://twitter.com/search?q=Mazariegos) | N/A |
+| 9 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
+| 10 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 11 | [Campero](http://twitter.com/search?q=Campero) | N/A |
+| 12 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
+| 13 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
+| 14 | [Ferran](http://twitter.com/search?q=Ferran) | Ferran is a Catalan name derived from the Latin name Ferdinand, which means "brave traveler". In English, it can be translated to mean "brave explorer". |
+| 15 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 16 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
+| 17 | [Zelaya](http://twitter.com/search?q=Zelaya) | N/A |
+| 18 | [The Weeknd](http://twitter.com/search?q=The+Weeknd) | N/A |
+| 19 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 20 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
+| 21 | [#libertadparavirginia](http://twitter.com/search?q=%23libertadparavirginia) | N/A |
+| 22 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 23 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 24 | [Gaviota de Plata](http://twitter.com/search?q=Gaviota+de+Plata) | N/A |
+| 25 | [HAVE A SAFE FLIGHT NAMJOON](http://twitter.com/search?q=HAVE+A+SAFE+FLIGHT+NAMJOON) | N/A |
+| 26 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 27 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 28 | [Cinthya](http://twitter.com/search?q=Cinthya) | N/A |
+| 29 | [Virginia Laparra](http://twitter.com/search?q=Virginia+Laparra) | N/A |
+| 30 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
+| 31 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 32 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 33 | [Tormenta](http://twitter.com/search?q=Tormenta) | N/A |
+| 34 | [Centro Histórico](http://twitter.com/search?q=Centro+Hist%c3%b3rico) | N/A |
+| 35 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 36 | [rey del universo](http://twitter.com/search?q=rey+del+universo) | N/A |
+| 37 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 38 | [kali uchis](http://twitter.com/search?q=kali+uchis) | N/A |
+| 39 | [La SAT](http://twitter.com/search?q=La+SAT) | N/A |
+| 40 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 41 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 42 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 43 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 44 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
+| 45 | [Antigua Guatemala](http://twitter.com/search?q=Antigua+Guatemala) | N/A |
+| 46 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 47 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 48 | [Javi](http://twitter.com/search?q=Javi) | Javi is a Spanish name, derived from the Hebrew name Javier. It is a masculine given name, and it means "bright" or "new house". |
+| 49 | [Primer Viernes de Cuaresma](http://twitter.com/search?q=Primer+Viernes+de+Cuaresma) | N/A |
+| 50 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
 
 
 

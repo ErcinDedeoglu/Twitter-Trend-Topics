@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-25 03:20:39 UTC`
+📆 Last Updated: `2023-02-25 04:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,10 +16,10 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
-| 2 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
-| 3 | [#24febbraio](http://twitter.com/search?q=%2324febbraio) | N/A |
-| 4 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
-| 5 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 2 | [#24febbraio](http://twitter.com/search?q=%2324febbraio) | N/A |
+| 3 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
+| 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
+| 5 | [#propagandalive](http://twitter.com/search?q=%23propagandalive) | N/A |
 | 6 | [Preside](http://twitter.com/search?q=Preside) | N/A |
 | 7 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
 | 8 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
@@ -29,42 +29,42 @@ This is top 50 for Italy
 | 12 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
 | 13 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
 | 14 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 15 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 16 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 17 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
+| 15 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 16 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 17 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
 | 18 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
-| 19 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
+| 19 | [buona domenica](http://twitter.com/search?q=buona+domenica) | N/A |
 | 20 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
 | 21 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 22 | [Notte](http://twitter.com/search?q=Notte) | N/A |
-| 23 | [ORIETTA](http://twitter.com/search?q=ORIETTA) | N/A |
-| 24 | [Aveva 84](http://twitter.com/search?q=Aveva+84) | N/A |
-| 25 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 26 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
-| 27 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
-| 28 | [Ivana](http://twitter.com/search?q=Ivana) | Ivana is a Slavic female name derived from the Hebrew name Yohanan, meaning "God is gracious". It is also a variant of the name Ivana, which is derived from the Latin name Johannes. |
-| 29 | [Malan](http://twitter.com/search?q=Malan) | N/A |
-| 30 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 31 | [Daniele](http://twitter.com/search?q=Daniele) | N/A |
-| 32 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
-| 33 | [Ronnie](http://twitter.com/search?q=Ronnie) | N/A |
-| 34 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
-| 35 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 36 | [Titanic](http://twitter.com/search?q=Titanic) | N/A |
-| 37 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
-| 38 | [Minchia](http://twitter.com/search?q=Minchia) | N/A |
-| 39 | [Giubilei](http://twitter.com/search?q=Giubilei) | N/A |
-| 40 | [San Marino](http://twitter.com/search?q=San+Marino) | N/A |
-| 41 | [Nellina](http://twitter.com/search?q=Nellina) | N/A |
-| 42 | [Taci](http://twitter.com/search?q=Taci) | N/A |
-| 43 | [Vergogna](http://twitter.com/search?q=Vergogna) | N/A |
-| 44 | [NO WAY](http://twitter.com/search?q=NO+WAY) | N/A |
-| 45 | [Lady Gaga](http://twitter.com/search?q=Lady+Gaga) | N/A |
-| 46 | [Hoara](http://twitter.com/search?q=Hoara) | N/A |
-| 47 | [Dolce](http://twitter.com/search?q=Dolce) | N/A |
-| 48 | [Amen](http://twitter.com/search?q=Amen) | N/A |
-| 49 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
-| 50 | [Belgrado](http://twitter.com/search?q=Belgrado) | N/A |
+| 22 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 23 | [Aveva 84](http://twitter.com/search?q=Aveva+84) | N/A |
+| 24 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 25 | [Tavassi](http://twitter.com/search?q=Tavassi) | N/A |
+| 26 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
+| 27 | [malan](http://twitter.com/search?q=malan) | N/A |
+| 28 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 29 | [Martina](http://twitter.com/search?q=Martina) | Martina is a female given name of Latin origin, derived from the name Martinus, which means "of Mars". It is a popular name in many countries, including Italy, Spain, Germany, Austria, and the Czech Republic. In English-speaking countries, it is often used as a short form of the longer name Martina. |
+| 30 | [Notte](http://twitter.com/search?q=Notte) | N/A |
+| 31 | [capezzone](http://twitter.com/search?q=capezzone) | N/A |
+| 32 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 33 | [PER PIACERE](http://twitter.com/search?q=PER+PIACERE) | N/A |
+| 34 | [Minsk](http://twitter.com/search?q=Minsk) | N/A |
+| 35 | [Belgrado](http://twitter.com/search?q=Belgrado) | N/A |
+| 36 | [Serbia](http://twitter.com/search?q=Serbia) | N/A |
+| 37 | [Gheddafi](http://twitter.com/search?q=Gheddafi) | N/A |
+| 38 | [Elon Musk](http://twitter.com/search?q=Elon+Musk) | N/A |
+| 39 | [Edoardo](http://twitter.com/search?q=Edoardo) | Edoardo is an Italian name derived from the Germanic name Edward, which means "wealthy guardian". It is a popular name in Italy and other parts of Europe. |
+| 40 | [Il Fatto Quotidiano](http://twitter.com/search?q=Il+Fatto+Quotidiano) | N/A |
+| 41 | [Ovvio](http://twitter.com/search?q=Ovvio) | N/A |
+| 42 | [florence](http://twitter.com/search?q=florence) | N/A |
+| 43 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 44 | [Mentana](http://twitter.com/search?q=Mentana) | N/A |
+| 45 | [Vorrei](http://twitter.com/search?q=Vorrei) | N/A |
+| 46 | [Palazzo](http://twitter.com/search?q=Palazzo) | N/A |
+| 47 | [Fatelo](http://twitter.com/search?q=Fatelo) | N/A |
+| 48 | [Dobbiamo](http://twitter.com/search?q=Dobbiamo) | N/A |
+| 49 | [Nicolas](http://twitter.com/search?q=Nicolas) | N/A |
+| 50 | [Guarda](http://twitter.com/search?q=Guarda) | N/A |
 
 
 
