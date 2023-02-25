@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Thailand
 
-📆 Last Updated: `2023-02-25 21:16:23 UTC`
+📆 Last Updated: `2023-02-25 22:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -31,40 +31,40 @@ This is top 50 for Thailand
 | 14 | [XIAO ZHAN TODS MFW 2023](http://twitter.com/search?q=XIAO+ZHAN+TODS+MFW+2023) | N/A |
 | 15 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
 | 16 | [LISA CELINE AMBASSADOR](http://twitter.com/search?q=LISA+CELINE+AMBASSADOR) | N/A |
-| 17 | [CHARLOTTE AUSTIN](http://twitter.com/search?q=CHARLOTTE+AUSTIN) | Charlotte Austin is a female given name. It is derived from the French name "Charlotte" which means "free man" and the English name "Austin" which means "great". |
-| 18 | [special day25 of engfa](http://twitter.com/search?q=special+day25+of+engfa) | N/A |
+| 17 | [special day25 of engfa](http://twitter.com/search?q=special+day25+of+engfa) | N/A |
+| 18 | [CHARLOTTE AUSTIN](http://twitter.com/search?q=CHARLOTTE+AUSTIN) | Charlotte Austin is a female given name. It is derived from the French name "Charlotte" which means "free man" and the English name "Austin" which means "great". |
 | 19 | [CHARLOTTE BE MY LOVE25](http://twitter.com/search?q=CHARLOTTE+BE+MY+LOVE25) | N/A |
-| 20 | [keyu into1 concert](http://twitter.com/search?q=keyu+into1+concert) | N/A |
-| 21 | [Safe Flight](http://twitter.com/search?q=Safe+Flight) | N/A |
-| 22 | [P'Mile](http://twitter.com/search?q=P%27Mile) | N/A |
+| 20 | [P'Mile](http://twitter.com/search?q=P%27Mile) | N/A |
+| 21 | [Russian](http://twitter.com/search?q=Russian) | N/A |
+| 22 | [Ditto](http://twitter.com/search?q=Ditto) | N/A |
 | 23 | [#ZeeNuNew안녕D2](http://twitter.com/search?q=%23ZeeNuNew%ec%95%88%eb%85%95D2) | N/A |
 | 24 | [#FinalMissGrandLoei2023](http://twitter.com/search?q=%23FinalMissGrandLoei2023) | N/A |
 | 25 | [#kinnporscheworldtour2023](http://twitter.com/search?q=%23kinnporscheworldtour2023) | N/A |
-| 26 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 27 | [#PaiPaixINTO1零伍壹](http://twitter.com/search?q=%23PaiPaixINTO1%e9%9b%b6%e4%bc%8d%e5%a3%b9) | N/A |
+| 26 | [#paipaixinto1零伍壹](http://twitter.com/search?q=%23paipaixinto1%e9%9b%b6%e4%bc%8d%e5%a3%b9) | N/A |
+| 27 | [#DrDermaPlusXTarBom](http://twitter.com/search?q=%23DrDermaPlusXTarBom) | N/A |
 | 28 | [#KPWTBKK2023](http://twitter.com/search?q=%23KPWTBKK2023) | N/A |
-| 29 | [#DrDermaPlusXTarBom](http://twitter.com/search?q=%23DrDermaPlusXTarBom) | N/A |
+| 29 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
 | 30 | [#KJHFanMeetinginBKK2023](http://twitter.com/search?q=%23KJHFanMeetinginBKK2023) | N/A |
 | 31 | [#ถ่ายหนังถ่ายใจส่งให้วอร์](http://twitter.com/search?q=%23%e0%b8%96%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%96%e0%b9%88%e0%b8%b2%e0%b8%a2%e0%b9%83%e0%b8%88%e0%b8%aa%e0%b9%88%e0%b8%87%e0%b9%83%e0%b8%ab%e0%b9%89%e0%b8%a7%e0%b8%ad%e0%b8%a3%e0%b9%8c) | N/A |
 | 32 | [#JeffSaturFirstSoloConcertBKK](http://twitter.com/search?q=%23JeffSaturFirstSoloConcertBKK) | N/A |
 | 33 | [#FreenBeckyxTaitaituan](http://twitter.com/search?q=%23FreenBeckyxTaitaituan) | N/A |
-| 34 | [#LolaneXBossNoeul](http://twitter.com/search?q=%23LolaneXBossNoeul) | N/A |
-| 35 | [#INTO1WonderlandOfSpring](http://twitter.com/search?q=%23INTO1WonderlandOfSpring) | N/A |
-| 36 | [#มาปิดสวนสนุกกันน](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%aa%e0%b8%a7%e0%b8%99%e0%b8%aa%e0%b8%99%e0%b8%b8%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%99) | N/A |
-| 37 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
-| 38 | [#WINsSociety](http://twitter.com/search?q=%23WINsSociety) | N/A |
-| 39 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
-| 40 | [#WINfinity2023](http://twitter.com/search?q=%23WINfinity2023) | N/A |
+| 34 | [#INTO1WonderlandOfSpring](http://twitter.com/search?q=%23INTO1WonderlandOfSpring) | N/A |
+| 35 | [#MoonlightChickenFinalEP](http://twitter.com/search?q=%23MoonlightChickenFinalEP) | N/A |
+| 36 | [#WINsSociety](http://twitter.com/search?q=%23WINsSociety) | N/A |
+| 37 | [#มาปิดสวนสนุกกันน](http://twitter.com/search?q=%23%e0%b8%a1%e0%b8%b2%e0%b8%9b%e0%b8%b4%e0%b8%94%e0%b8%aa%e0%b8%a7%e0%b8%99%e0%b8%aa%e0%b8%99%e0%b8%b8%e0%b8%81%e0%b8%81%e0%b8%b1%e0%b8%99%e0%b8%99) | N/A |
+| 38 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
+| 39 | [#WINfinity2023](http://twitter.com/search?q=%23WINfinity2023) | N/A |
+| 40 | [#LolaneXBossNoeul](http://twitter.com/search?q=%23LolaneXBossNoeul) | N/A |
 | 41 | [#TiffanyYoung](http://twitter.com/search?q=%23TiffanyYoung) | N/A |
-| 42 | [#กดบัตรแฟนมีตพร้อม](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b8%a1%e0%b8%b5%e0%b8%95%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a1) | N/A |
-| 43 | [#NenexSohuFashionAwards](http://twitter.com/search?q=%23NenexSohuFashionAwards) | N/A |
-| 44 | [#gqcsuzhoumusicfest](http://twitter.com/search?q=%23gqcsuzhoumusicfest) | N/A |
+| 42 | [#NenexSohuFashionAwards](http://twitter.com/search?q=%23NenexSohuFashionAwards) | N/A |
+| 43 | [#gqcsuzhoumusicfest](http://twitter.com/search?q=%23gqcsuzhoumusicfest) | N/A |
+| 44 | [#FerragamoFW23](http://twitter.com/search?q=%23FerragamoFW23) | N/A |
 | 45 | [#4EVExCatFoodival](http://twitter.com/search?q=%234EVExCatFoodival) | N/A |
-| 46 | [#ดูหนังกับโอห์มไง](http://twitter.com/search?q=%23%e0%b8%94%e0%b8%b9%e0%b8%ab%e0%b8%99%e0%b8%b1%e0%b8%87%e0%b8%81%e0%b8%b1%e0%b8%9a%e0%b9%82%e0%b8%ad%e0%b8%ab%e0%b9%8c%e0%b8%a1%e0%b9%84%e0%b8%87) | N/A |
-| 47 | [#FerragamoFW23](http://twitter.com/search?q=%23FerragamoFW23) | N/A |
-| 48 | [#PaulKimLiveinBKK](http://twitter.com/search?q=%23PaulKimLiveinBKK) | N/A |
-| 49 | [#grabfoodโปรแมนติกxnnn](http://twitter.com/search?q=%23grabfood%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%81xnnn) | N/A |
-| 50 | [#RMInMilan](http://twitter.com/search?q=%23RMInMilan) | N/A |
+| 46 | [#PaulKimLiveinBKK](http://twitter.com/search?q=%23PaulKimLiveinBKK) | N/A |
+| 47 | [#กดบัตรแฟนมีตพร้อม](http://twitter.com/search?q=%23%e0%b8%81%e0%b8%94%e0%b8%9a%e0%b8%b1%e0%b8%95%e0%b8%a3%e0%b9%81%e0%b8%9f%e0%b8%99%e0%b8%a1%e0%b8%b5%e0%b8%95%e0%b8%9e%e0%b8%a3%e0%b9%89%e0%b8%ad%e0%b8%a1) | N/A |
+| 48 | [#grabfoodโปรแมนติกxnnn](http://twitter.com/search?q=%23grabfood%e0%b9%82%e0%b8%9b%e0%b8%a3%e0%b9%81%e0%b8%a1%e0%b8%99%e0%b8%95%e0%b8%b4%e0%b8%81xnnn) | N/A |
+| 49 | [#RMInMilan](http://twitter.com/search?q=%23RMInMilan) | N/A |
+| 50 | [#NATTAWINDAY2023](http://twitter.com/search?q=%23NATTAWINDAY2023) | N/A |
 
 
 

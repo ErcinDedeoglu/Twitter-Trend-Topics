@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-25 21:16:24 UTC`
+📆 Last Updated: `2023-02-25 22:16:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -21,50 +21,50 @@ This is top 50 for Ukraine
 | 4 | [Зеленского](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%b3%d0%be) | N/A |
 | 5 | [#screenshotsaturday](http://twitter.com/search?q=%23screenshotsaturday) | N/A |
 | 6 | [Китай](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b9) | N/A |
-| 7 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
-| 8 | [Бахмута](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b0) | N/A |
-| 9 | [Пороха](http://twitter.com/search?q=%d0%9f%d0%be%d1%80%d0%be%d1%85%d0%b0) | N/A |
+| 7 | [Бахмута](http://twitter.com/search?q=%d0%91%d0%b0%d1%85%d0%bc%d1%83%d1%82%d0%b0) | N/A |
+| 8 | [Пороха](http://twitter.com/search?q=%d0%9f%d0%be%d1%80%d0%be%d1%85%d0%b0) | N/A |
+| 9 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
 | 10 | [McDull in McDull LAND](http://twitter.com/search?q=McDull+in+McDull+LAND) | N/A |
 | 11 | [Star Team in PCCW HKT Futurera](http://twitter.com/search?q=Star+Team+in+PCCW+HKT+Futurera) | N/A |
-| 12 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 13 | [#Connected2023](http://twitter.com/search?q=%23Connected2023) | N/A |
-| 14 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
-| 15 | [Hostomel](http://twitter.com/search?q=Hostomel) | N/A |
-| 16 | [Чонгар](http://twitter.com/search?q=%d0%a7%d0%be%d0%bd%d0%b3%d0%b0%d1%80) | N/A |
-| 17 | [The Legend of Sword and Fairy](http://twitter.com/search?q=The+Legend+of+Sword+and+Fairy) | N/A |
-| 18 | [Delivery Robot in Next Station](http://twitter.com/search?q=Delivery+Robot+in+Next+Station) | N/A |
-| 19 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
-| 20 | [Web3 Social](http://twitter.com/search?q=Web3+Social) | N/A |
-| 21 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
-| 22 | [Китаем](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b5%d0%bc) | N/A |
-| 23 | [Мариуполя](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d1%8f) | N/A |
-| 24 | [Alex](http://twitter.com/search?q=Alex) | N/A |
-| 25 | [#SlavaUkraini](http://twitter.com/search?q=%23SlavaUkraini) | N/A |
-| 26 | [#StakingOnArbitrum](http://twitter.com/search?q=%23StakingOnArbitrum) | N/A |
-| 27 | [приднестровья](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
-| 28 | [Слава Україні](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0+%d0%a3%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%96) | N/A |
-| 29 | [Britain](http://twitter.com/search?q=Britain) | N/A |
-| 30 | [UN Charter](http://twitter.com/search?q=UN+Charter) | N/A |
-| 31 | [Quest](http://twitter.com/search?q=Quest) | N/A |
-| 32 | [Кремле](http://twitter.com/search?q=%d0%9a%d1%80%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
-| 33 | [Берлина](http://twitter.com/search?q=%d0%91%d0%b5%d1%80%d0%bb%d0%b8%d0%bd%d0%b0) | N/A |
-| 34 | [Victory](http://twitter.com/search?q=Victory) | N/A |
-| 35 | [днепр](http://twitter.com/search?q=%d0%b4%d0%bd%d0%b5%d0%bf%d1%80) | N/A |
-| 36 | [Бучи](http://twitter.com/search?q=%d0%91%d1%83%d1%87%d0%b8) | N/A |
-| 37 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 38 | [WWII](http://twitter.com/search?q=WWII) | N/A |
-| 39 | [Смерть](http://twitter.com/search?q=%d0%a1%d0%bc%d0%b5%d1%80%d1%82%d1%8c) | N/A |
-| 40 | [буче](http://twitter.com/search?q=%d0%b1%d1%83%d1%87%d0%b5) | N/A |
-| 41 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
-| 42 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
-| 43 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
-| 44 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
-| 45 | [Коли](http://twitter.com/search?q=%d0%9a%d0%be%d0%bb%d0%b8) | N/A |
-| 46 | [Бутусов](http://twitter.com/search?q=%d0%91%d1%83%d1%82%d1%83%d1%81%d0%be%d0%b2) | N/A |
-| 47 | [Супер](http://twitter.com/search?q=%d0%a1%d1%83%d0%bf%d0%b5%d1%80) | N/A |
-| 48 | [Харькове](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
-| 49 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 50 | [Lithuania](http://twitter.com/search?q=Lithuania) | N/A |
+| 12 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
+| 13 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 14 | [The Legend of Sword and Fairy](http://twitter.com/search?q=The+Legend+of+Sword+and+Fairy) | N/A |
+| 15 | [Delivery Robot in Next Station](http://twitter.com/search?q=Delivery+Robot+in+Next+Station) | N/A |
+| 16 | [Зеленский](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%b8%d0%b9) | N/A |
+| 17 | [Чонгар](http://twitter.com/search?q=%d0%a7%d0%be%d0%bd%d0%b3%d0%b0%d1%80) | N/A |
+| 18 | [Hostomel](http://twitter.com/search?q=Hostomel) | N/A |
+| 19 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 20 | [Китаем](http://twitter.com/search?q=%d0%9a%d0%b8%d1%82%d0%b0%d0%b5%d0%bc) | N/A |
+| 21 | [Мариуполя](http://twitter.com/search?q=%d0%9c%d0%b0%d1%80%d0%b8%d1%83%d0%bf%d0%be%d0%bb%d1%8f) | N/A |
+| 22 | [#StakingOnArbitrum](http://twitter.com/search?q=%23StakingOnArbitrum) | N/A |
+| 23 | [#Connected2023](http://twitter.com/search?q=%23Connected2023) | N/A |
+| 24 | [Kherson](http://twitter.com/search?q=Kherson) | N/A |
+| 25 | [Alex](http://twitter.com/search?q=Alex) | N/A |
+| 26 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
+| 27 | [#testosterone](http://twitter.com/search?q=%23testosterone) | N/A |
+| 28 | [приднестровья](http://twitter.com/search?q=%d0%bf%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d1%8f) | N/A |
+| 29 | [Quest](http://twitter.com/search?q=Quest) | N/A |
+| 30 | [Web3 Social](http://twitter.com/search?q=Web3+Social) | N/A |
+| 31 | [Britain](http://twitter.com/search?q=Britain) | N/A |
+| 32 | [Слава Україні](http://twitter.com/search?q=%d0%a1%d0%bb%d0%b0%d0%b2%d0%b0+%d0%a3%d0%ba%d1%80%d0%b0%d1%97%d0%bd%d1%96) | N/A |
+| 33 | [UN Charter](http://twitter.com/search?q=UN+Charter) | N/A |
+| 34 | [Кремле](http://twitter.com/search?q=%d0%9a%d1%80%d0%b5%d0%bc%d0%bb%d0%b5) | N/A |
+| 35 | [Берлина](http://twitter.com/search?q=%d0%91%d0%b5%d1%80%d0%bb%d0%b8%d0%bd%d0%b0) | N/A |
+| 36 | [днепр](http://twitter.com/search?q=%d0%b4%d0%bd%d0%b5%d0%bf%d1%80) | N/A |
+| 37 | [Бучи](http://twitter.com/search?q=%d0%91%d1%83%d1%87%d0%b8) | N/A |
+| 38 | [Donetsk](http://twitter.com/search?q=Donetsk) | N/A |
+| 39 | [WWII](http://twitter.com/search?q=WWII) | N/A |
+| 40 | [Смерть](http://twitter.com/search?q=%d0%a1%d0%bc%d0%b5%d1%80%d1%82%d1%8c) | N/A |
+| 41 | [Львов](http://twitter.com/search?q=%d0%9b%d1%8c%d0%b2%d0%be%d0%b2) | N/A |
+| 42 | [Согласна](http://twitter.com/search?q=%d0%a1%d0%be%d0%b3%d0%bb%d0%b0%d1%81%d0%bd%d0%b0) | N/A |
+| 43 | [буче](http://twitter.com/search?q=%d0%b1%d1%83%d1%87%d0%b5) | N/A |
+| 44 | [Canada](http://twitter.com/search?q=Canada) | Canada is a country located in North America, bordered by the United States to the south and northwest. Its ten provinces and three territories extend from the Atlantic to the Pacific and northward into the Arctic Ocean, covering 9.98 million square kilometres (3.85 million square miles), making it the world's second-largest country by total area. Canada's capital is Ottawa, and its three largest metropolitan areas are Toronto, Montreal, and Vancouver. |
+| 45 | [Transnistria](http://twitter.com/search?q=Transnistria) | N/A |
+| 46 | [Victory](http://twitter.com/search?q=Victory) | N/A |
+| 47 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
+| 48 | [Коли](http://twitter.com/search?q=%d0%9a%d0%be%d0%bb%d0%b8) | N/A |
+| 49 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 50 | [Бутусов](http://twitter.com/search?q=%d0%91%d1%83%d1%82%d1%83%d1%81%d0%be%d0%b2) | N/A |
 
 
 

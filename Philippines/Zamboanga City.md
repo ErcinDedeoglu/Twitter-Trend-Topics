@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zamboanga City
 
-📆 Last Updated: `2023-02-25 21:15:54 UTC`
+📆 Last Updated: `2023-02-25 22:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,51 +19,51 @@ This is top 50 for [Philippines](</Philippines>)
 | 2 | [#EDSA37](http://twitter.com/search?q=%23EDSA37) | N/A |
 | 3 | [#uaapseason85](http://twitter.com/search?q=%23uaapseason85) | N/A |
 | 4 | [#MCIEndingYarn](http://twitter.com/search?q=%23MCIEndingYarn) | N/A |
-| 5 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 6 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
+| 5 | [KIM SUNOO](http://twitter.com/search?q=KIM+SUNOO) | N/A |
+| 6 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
 | 7 | [KDLEX TUMINDIG AT UMIBIG](http://twitter.com/search?q=KDLEX+TUMINDIG+AT+UMIBIG) | N/A |
-| 8 | [cNed](http://twitter.com/search?q=cNed) | N/A |
-| 9 | [JoshCullen OnWishBus](http://twitter.com/search?q=JoshCullen+OnWishBus) | N/A |
-| 10 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
-| 11 | [MARICEL SORIANO DAY](http://twitter.com/search?q=MARICEL+SORIANO+DAY) | N/A |
-| 12 | [SoldOut Queen REGINE](http://twitter.com/search?q=SoldOut+Queen+REGINE) | N/A |
-| 13 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
-| 14 | [sabrina](http://twitter.com/search?q=sabrina) | N/A |
-| 15 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
-| 16 | [Jema](http://twitter.com/search?q=Jema) | N/A |
-| 17 | [SOOBOONIT](http://twitter.com/search?q=SOOBOONIT) | N/A |
-| 18 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
-| 19 | [Kim Namjoon](http://twitter.com/search?q=Kim+Namjoon) | N/A |
-| 20 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 21 | [filay endgame](http://twitter.com/search?q=filay+endgame) | N/A |
-| 22 | [ARA GALANG](http://twitter.com/search?q=ARA+GALANG) | N/A |
-| 23 | [ail top1 dasurv](http://twitter.com/search?q=ail+top1+dasurv) | N/A |
-| 24 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
-| 25 | [TXT DREAMGRAPHY](http://twitter.com/search?q=TXT+DREAMGRAPHY) | N/A |
-| 26 | [Kross the Line with ENHYPEN](http://twitter.com/search?q=Kross+the+Line+with+ENHYPEN) | N/A |
-| 27 | [record maker yeji](http://twitter.com/search?q=record+maker+yeji) | N/A |
+| 8 | [JoshCullen OnWishBus](http://twitter.com/search?q=JoshCullen+OnWishBus) | N/A |
+| 9 | [maricel soriano day](http://twitter.com/search?q=maricel+soriano+day) | N/A |
+| 10 | [SYNK WITH AESPA DAY1](http://twitter.com/search?q=SYNK+WITH+AESPA+DAY1) | N/A |
+| 11 | [SoldOut Queen REGINE](http://twitter.com/search?q=SoldOut+Queen+REGINE) | N/A |
+| 12 | [cNed](http://twitter.com/search?q=cNed) | N/A |
+| 13 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
+| 14 | [Sabrina](http://twitter.com/search?q=Sabrina) | N/A |
+| 15 | [Ateneo](http://twitter.com/search?q=Ateneo) | N/A |
+| 16 | [congrats f2](http://twitter.com/search?q=congrats+f2) | N/A |
+| 17 | [jema](http://twitter.com/search?q=jema) | N/A |
+| 18 | [SOOBOONIT](http://twitter.com/search?q=SOOBOONIT) | N/A |
+| 19 | [filay endgame](http://twitter.com/search?q=filay+endgame) | N/A |
+| 20 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 21 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 22 | [ail top1 dasurv](http://twitter.com/search?q=ail+top1+dasurv) | N/A |
+| 23 | [Kim Namjoon](http://twitter.com/search?q=Kim+Namjoon) | N/A |
+| 24 | [TXT DREAMGRAPHY](http://twitter.com/search?q=TXT+DREAMGRAPHY) | N/A |
+| 25 | [RECORD MAKER YEJI](http://twitter.com/search?q=RECORD+MAKER+YEJI) | N/A |
+| 26 | [Marcos](http://twitter.com/search?q=Marcos) | Marcos is a Spanish name derived from the Latin name Marcus, which means "dedicated to Mars". It is also a common surname in Portugal and Brazil. In English, Marcos can be translated to mean "dedicated to Mars". |
+| 27 | [ARA GALANG](http://twitter.com/search?q=ARA+GALANG) | N/A |
 | 28 | [lamina](http://twitter.com/search?q=lamina) | N/A |
-| 29 | [Belen](http://twitter.com/search?q=Belen) | N/A |
-| 30 | [BODY ROCK ASIA WITH BINI](http://twitter.com/search?q=BODY+ROCK+ASIA+WITH+BINI) | N/A |
-| 31 | [KAOMIAHxACE TADHANAMV](http://twitter.com/search?q=KAOMIAHxACE+TADHANAMV) | N/A |
-| 32 | [Yuki](http://twitter.com/search?q=Yuki) | N/A |
+| 29 | [BODY ROCK ASIA WITH BINI](http://twitter.com/search?q=BODY+ROCK+ASIA+WITH+BINI) | N/A |
+| 30 | [Kross the Line with ENHYPEN](http://twitter.com/search?q=Kross+the+Line+with+ENHYPEN) | N/A |
+| 31 | [Belen](http://twitter.com/search?q=Belen) | N/A |
+| 32 | [kaomiahxace tadhanamv](http://twitter.com/search?q=kaomiahxace+tadhanamv) | N/A |
 | 33 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
 | 34 | [TRIE](http://twitter.com/search?q=TRIE) | N/A |
-| 35 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
-| 36 | [ac miner](http://twitter.com/search?q=ac+miner) | N/A |
-| 37 | [zacham chosen b4rkada](http://twitter.com/search?q=zacham+chosen+b4rkada) | N/A |
-| 38 | [Adobo Gang](http://twitter.com/search?q=Adobo+Gang) | N/A |
-| 39 | [kyla atienza](http://twitter.com/search?q=kyla+atienza) | N/A |
-| 40 | [karina](http://twitter.com/search?q=karina) | N/A |
-| 41 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 42 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
-| 43 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
-| 44 | [alinsug](http://twitter.com/search?q=alinsug) | N/A |
-| 45 | [barkadas with robxine](http://twitter.com/search?q=barkadas+with+robxine) | N/A |
-| 46 | [Filipinos](http://twitter.com/search?q=Filipinos) | N/A |
-| 47 | [ningning](http://twitter.com/search?q=ningning) | N/A |
-| 48 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 49 | [admu](http://twitter.com/search?q=admu) | N/A |
+| 35 | [zacham chosen b4rkada](http://twitter.com/search?q=zacham+chosen+b4rkada) | N/A |
+| 36 | [congrats creamline](http://twitter.com/search?q=congrats+creamline) | N/A |
+| 37 | [ac miner](http://twitter.com/search?q=ac+miner) | N/A |
+| 38 | [kyla atienza](http://twitter.com/search?q=kyla+atienza) | N/A |
+| 39 | [karina](http://twitter.com/search?q=karina) | N/A |
+| 40 | [Adamson](http://twitter.com/search?q=Adamson) | N/A |
+| 41 | [alinsug](http://twitter.com/search?q=alinsug) | N/A |
+| 42 | [Filipinos](http://twitter.com/search?q=Filipinos) | N/A |
+| 43 | [barkadas with robxine](http://twitter.com/search?q=barkadas+with+robxine) | N/A |
+| 44 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 45 | [Vanie](http://twitter.com/search?q=Vanie) | N/A |
+| 46 | [Martial Law](http://twitter.com/search?q=Martial+Law) | N/A |
+| 47 | [kodrea at vistamall taguig](http://twitter.com/search?q=kodrea+at+vistamall+taguig) | N/A |
+| 48 | [Yeri](http://twitter.com/search?q=Yeri) | N/A |
+| 49 | [Yuki](http://twitter.com/search?q=Yuki) | N/A |
 
 
 

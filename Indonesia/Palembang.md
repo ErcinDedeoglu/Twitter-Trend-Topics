@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-02-25 21:15:47 UTC`
+📆 Last Updated: `2023-02-25 22:15:54 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,51 +18,50 @@ This is top 50 for [Indonesia](</Indonesia>)
 | 1 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
 | 2 | [David](http://twitter.com/search?q=David) | N/A |
 | 3 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
-| 4 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 5 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
-| 6 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
-| 7 | [First Ghibli](http://twitter.com/search?q=First+Ghibli) | N/A |
+| 4 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
+| 5 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 6 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 7 | [Last Ghibli](http://twitter.com/search?q=Last+Ghibli) | N/A |
 | 8 | [Mario](http://twitter.com/search?q=Mario) | N/A |
 | 9 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
-| 10 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 11 | [rakernas ika undip](http://twitter.com/search?q=rakernas+ika+undip) | N/A |
+| 10 | [rakernas ika undip](http://twitter.com/search?q=rakernas+ika+undip) | N/A |
+| 11 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
 | 12 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 13 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 14 | [Nikah](http://twitter.com/search?q=Nikah) | N/A |
-| 15 | [danamon](http://twitter.com/search?q=danamon) | N/A |
+| 13 | [Nikah](http://twitter.com/search?q=Nikah) | N/A |
+| 14 | [danamon](http://twitter.com/search?q=danamon) | N/A |
+| 15 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
 | 16 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
-| 17 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 18 | [TXT DREAMGRAPHY](http://twitter.com/search?q=TXT+DREAMGRAPHY) | N/A |
+| 17 | [TXT DREAMGRAPHY](http://twitter.com/search?q=TXT+DREAMGRAPHY) | N/A |
+| 18 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
 | 19 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
-| 20 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 20 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
 | 21 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
-| 22 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
+| 22 | [Klopp](http://twitter.com/search?q=Klopp) | Klopp is a German surname, derived from the Middle High German word "kloppe" meaning "lump". It is also used as a nickname for the German football manager Jürgen Klopp, who is best known for his time at Liverpool FC. |
 | 23 | [Elif](http://twitter.com/search?q=Elif) | N/A |
-| 24 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
-| 25 | [bulanliterasikripto](http://twitter.com/search?q=bulanliterasikripto) | N/A |
-| 26 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
-| 27 | [Prabowo Untuk Indonesia](http://twitter.com/search?q=Prabowo+Untuk+Indonesia) | N/A |
-| 28 | [Pergi](http://twitter.com/search?q=Pergi) | N/A |
-| 29 | [prabowo pilihan kita](http://twitter.com/search?q=prabowo+pilihan+kita) | N/A |
-| 30 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
-| 31 | [DOKYEOM AT MILAN FASHION WEEK](http://twitter.com/search?q=DOKYEOM+AT+MILAN+FASHION+WEEK) | N/A |
-| 32 | [teguh berislam kaffah](http://twitter.com/search?q=teguh+berislam+kaffah) | N/A |
-| 33 | [Risih](http://twitter.com/search?q=Risih) | N/A |
+| 24 | [bulanliterasikripto](http://twitter.com/search?q=bulanliterasikripto) | N/A |
+| 25 | [Inna](http://twitter.com/search?q=Inna) | N/A |
+| 26 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
+| 27 | [prabowo untuk indonesia](http://twitter.com/search?q=prabowo+untuk+indonesia) | N/A |
+| 28 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 29 | [DOKYEOM AT MILAN FASHION WEEK](http://twitter.com/search?q=DOKYEOM+AT+MILAN+FASHION+WEEK) | N/A |
+| 30 | [Pergi](http://twitter.com/search?q=Pergi) | N/A |
+| 31 | [prabowo pilihan kita](http://twitter.com/search?q=prabowo+pilihan+kita) | N/A |
+| 32 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 33 | [teguh berislam kaffah](http://twitter.com/search?q=teguh+berislam+kaffah) | N/A |
 | 34 | [KIM MINJEONG](http://twitter.com/search?q=KIM+MINJEONG) | N/A |
-| 35 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 36 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
-| 37 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 38 | [bangga taati syariah](http://twitter.com/search?q=bangga+taati+syariah) | N/A |
+| 35 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 36 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 37 | [bangga taati syariah](http://twitter.com/search?q=bangga+taati+syariah) | N/A |
+| 38 | [Risih](http://twitter.com/search?q=Risih) | N/A |
 | 39 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
-| 40 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
-| 41 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 42 | [Bersihin](http://twitter.com/search?q=Bersihin) | N/A |
-| 43 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 44 | [BTS STREAMING BATTLE](http://twitter.com/search?q=BTS+STREAMING+BATTLE) | N/A |
-| 45 | [Cerai](http://twitter.com/search?q=Cerai) | N/A |
-| 46 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
-| 47 | [marnie](http://twitter.com/search?q=marnie) | N/A |
-| 48 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
+| 40 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 41 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 42 | [BTS STREAMING BATTLE](http://twitter.com/search?q=BTS+STREAMING+BATTLE) | N/A |
+| 43 | [cerai](http://twitter.com/search?q=cerai) | N/A |
+| 44 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
+| 45 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 46 | [$mooo](http://twitter.com/search?q=%24mooo) | N/A |
+| 47 | [Grace](http://twitter.com/search?q=Grace) | N/A |
 
 
 

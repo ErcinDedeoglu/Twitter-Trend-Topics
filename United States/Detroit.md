@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Detroit
 
-📆 Last Updated: `2023-02-25 21:16:09 UTC`
+📆 Last Updated: `2023-02-25 22:16:19 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Raptors](http://twitter.com/search?q=Raptors) | Raptors are birds of prey, such as eagles, hawks, falcons, and owls. They are known for their sharp eyesight and powerful talons which they use to catch their prey. The word "raptor" comes from the Latin word "rapere," which means "to seize or take by force." |
-| 2 | [#Pistons](http://twitter.com/search?q=%23Pistons) | N/A |
+| 1 | [Bagley](http://twitter.com/search?q=Bagley) | N/A |
+| 2 | [Don Shane](http://twitter.com/search?q=Don+Shane) | N/A |
 | 3 | [Wiseman](http://twitter.com/search?q=Wiseman) | Wiseman is a term used to refer to a wise and knowledgeable person. It is often used to describe someone who has a great deal of experience and knowledge in a particular field or area of expertise. |
-| 4 | [Ivey](http://twitter.com/search?q=Ivey) | N/A |
-| 5 | [Big Ten](http://twitter.com/search?q=Big+Ten) | N/A |
-| 6 | [#Optimushinu](http://twitter.com/search?q=%23Optimushinu) | N/A |
+| 4 | [#Pistons](http://twitter.com/search?q=%23Pistons) | N/A |
+| 5 | [Ivey](http://twitter.com/search?q=Ivey) | N/A |
+| 6 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
 | 7 | [#DionexBinance](http://twitter.com/search?q=%23DionexBinance) | N/A |
-| 8 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 9 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 10 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 11 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 12 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 13 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
-| 14 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 15 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 16 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 17 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 18 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 8 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 9 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 10 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 11 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 12 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 13 | [Aliev](http://twitter.com/search?q=Aliev) | N/A |
+| 14 | [Alves](http://twitter.com/search?q=Alves) | N/A |
+| 15 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 16 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 17 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 18 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
 | 19 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 20 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 21 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 22 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 23 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 24 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 25 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 26 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 27 | [Jo Adell](http://twitter.com/search?q=Jo+Adell) | N/A |
-| 28 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
-| 29 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 30 | [Byron Jones](http://twitter.com/search?q=Byron+Jones) | N/A |
-| 31 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 32 | [Weston Wilson](http://twitter.com/search?q=Weston+Wilson) | N/A |
-| 33 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 34 | [The Martian](http://twitter.com/search?q=The+Martian) | N/A |
-| 35 | [Anthony Black](http://twitter.com/search?q=Anthony+Black) | N/A |
-| 36 | [Alvaro Rodriguez](http://twitter.com/search?q=Alvaro+Rodriguez) | N/A |
-| 37 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 38 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 39 | [Jimmy Dykes](http://twitter.com/search?q=Jimmy+Dykes) | N/A |
-| 40 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
-| 41 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 42 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
-| 43 | [Leah Hextall](http://twitter.com/search?q=Leah+Hextall) | N/A |
-| 44 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
-| 45 | [Dale Bonner](http://twitter.com/search?q=Dale+Bonner) | N/A |
-| 46 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
-| 47 | [Willson](http://twitter.com/search?q=Willson) | N/A |
-| 48 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 49 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 50 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 20 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 21 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 22 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 23 | [Ballo](http://twitter.com/search?q=Ballo) | N/A |
+| 24 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 25 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
+| 26 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 27 | [Desmond Cambridge](http://twitter.com/search?q=Desmond+Cambridge) | N/A |
+| 28 | [Sun Devils](http://twitter.com/search?q=Sun+Devils) | N/A |
+| 29 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 30 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 31 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 32 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 33 | [Bobby Hurley](http://twitter.com/search?q=Bobby+Hurley) | N/A |
+| 34 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 35 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
+| 36 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 37 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 38 | [Go Devils](http://twitter.com/search?q=Go+Devils) | N/A |
+| 39 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 40 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 41 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 42 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 43 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
+| 44 | [Jo Adell](http://twitter.com/search?q=Jo+Adell) | N/A |
+| 45 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
+| 46 | [Casey Schmitt](http://twitter.com/search?q=Casey+Schmitt) | N/A |
+| 47 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 48 | [Byron Jones](http://twitter.com/search?q=Byron+Jones) | N/A |
+| 49 | [McKale](http://twitter.com/search?q=McKale) | N/A |
+| 50 | [Baseball](http://twitter.com/search?q=Baseball) | N/A |
 
 
 

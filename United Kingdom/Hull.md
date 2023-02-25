@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hull
 
-📆 Last Updated: `2023-02-25 21:15:28 UTC`
+📆 Last Updated: `2023-02-25 22:15:32 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Islington North](http://twitter.com/search?q=Islington+North) | N/A |
-| 2 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 3 | [Dyche](http://twitter.com/search?q=Dyche) | Dyche is a surname of English origin. It is derived from the Old English word "dic," meaning "ditch." The name was originally given to someone who lived near a ditch or moat. |
-| 4 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
-| 5 | [No Darwin](http://twitter.com/search?q=No+Darwin) | N/A |
-| 6 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
-| 7 | [Cooper](http://twitter.com/search?q=Cooper) | N/A |
-| 8 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
-| 9 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
-| 10 | [Rutter](http://twitter.com/search?q=Rutter) | N/A |
-| 11 | [Simms](http://twitter.com/search?q=Simms) | N/A |
-| 12 | [Lando](http://twitter.com/search?q=Lando) | N/A |
-| 13 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 14 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 15 | [Mitchell](http://twitter.com/search?q=Mitchell) | Mitchell is a surname of English origin. It is derived from the Middle English personal name Michel, which is derived from the Hebrew name Michael, meaning "who is like God?". |
-| 16 | [#ALAW](http://twitter.com/search?q=%23ALAW) | N/A |
-| 17 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
-| 18 | [#sufc](http://twitter.com/search?q=%23sufc) | N/A |
-| 19 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
-| 20 | [#ycfc](http://twitter.com/search?q=%23ycfc) | N/A |
-| 21 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
-| 22 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 23 | [#SaturdayNightTakeaway](http://twitter.com/search?q=%23SaturdayNightTakeaway) | N/A |
-| 24 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 25 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 26 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 27 | [Mateta](http://twitter.com/search?q=Mateta) | Mateta is a Spanish word that means "to be content" or "to be satisfied". It is often used to describe a feeling of contentment or satisfaction with one's life. |
-| 28 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
-| 29 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
-| 30 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
-| 31 | [Luciana](http://twitter.com/search?q=Luciana) | N/A |
-| 32 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 33 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 34 | [Jota](http://twitter.com/search?q=Jota) | N/A |
-| 35 | [Elliott](http://twitter.com/search?q=Elliott) | Elliott is a masculine given name of English origin. It is derived from the Old English name "Aelfweard", which means "wise guardian". |
-| 36 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
-| 37 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
-| 38 | [Clyne](http://twitter.com/search?q=Clyne) | Clyne is a surname of Scottish origin. It is derived from the Gaelic word "clann", meaning "family". The name is associated with Clan MacKenzie, a Highland Scottish clan. |
-| 39 | [Perrone](http://twitter.com/search?q=Perrone) | Perrone is an Italian surname. It is derived from the Latin word perronus, which means "rocky". In English, it can be translated to mean "of the rocky place". |
-| 40 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
-| 41 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 42 | [MOTM](http://twitter.com/search?q=MOTM) | N/A |
-| 43 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
-| 44 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
-| 45 | [Firpo](http://twitter.com/search?q=Firpo) | Firpo is a Spanish surname derived from the Latin word ferpus, meaning "iron-clad". It is also a nickname for someone who is strong and brave. In English, Firpo can be translated to mean "ironclad" or "strong and brave". |
-| 46 | [Dagenham](http://twitter.com/search?q=Dagenham) | N/A |
-| 47 | [Ant and Dec](http://twitter.com/search?q=Ant+and+Dec) | N/A |
-| 48 | [Selhurst Park](http://twitter.com/search?q=Selhurst+Park) | Selhurst Park is a football stadium in South London, England, and the home ground of Crystal Palace Football Club. The stadium has a capacity of 26,309 and has been the club's home since 1924. The name Selhurst Park is derived from the area of South London in which it is located. |
-| 49 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 50 | [Rico Lewis](http://twitter.com/search?q=Rico+Lewis) | Rico Lewis is a Spanish phrase meaning "rich and powerful". It is often used to describe someone who has achieved success and wealth. |
+| 1 | [Firmino](http://twitter.com/search?q=Firmino) | N/A |
+| 2 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 3 | [Kalvin Phillips](http://twitter.com/search?q=Kalvin+Phillips) | N/A |
+| 4 | [Borthwick](http://twitter.com/search?q=Borthwick) | N/A |
+| 5 | [Rico Lewis](http://twitter.com/search?q=Rico+Lewis) | Rico Lewis is a Spanish phrase meaning "rich and powerful". It is often used to describe someone who has achieved success and wealth. |
+| 6 | [Gabriel](http://twitter.com/search?q=Gabriel) | Gabriel is a masculine given name derived from the Hebrew name גַבְרִיאֵל (Gavri'el) meaning "God is my strength". It is a popular name in many countries, including the United States, Canada, France, Germany, Italy, Spain, Portugal, Poland, Romania, Russia, and the United Kingdom. |
+| 7 | [Shelvey](http://twitter.com/search?q=Shelvey) | Shelvey is a surname of English origin. It is derived from the Old English words "scelf" and "leah", meaning "ledge meadow". |
+| 8 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 9 | [#pnefc](http://twitter.com/search?q=%23pnefc) | N/A |
+| 10 | [Man of the Match](http://twitter.com/search?q=Man+of+the+Match) | N/A |
+| 11 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
+| 12 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 13 | [#swfc](http://twitter.com/search?q=%23swfc) | N/A |
+| 14 | [Eustace](http://twitter.com/search?q=Eustace) | N/A |
+| 15 | [Lowe](http://twitter.com/search?q=Lowe) | N/A |
+| 16 | [Ollie](http://twitter.com/search?q=Ollie) | N/A |
+| 17 | [Bilic](http://twitter.com/search?q=Bilic) | N/A |
+| 18 | [Coady](http://twitter.com/search?q=Coady) | Coady is a surname of Irish origin. It is derived from the Gaelic name Mac an Chódaigh, which means "son of the coda". The coda was a leader or chieftain in ancient Ireland. In English, Coady can be translated to mean "leader" or "chieftain". |
+| 19 | [#ALAW](http://twitter.com/search?q=%23ALAW) | N/A |
+| 20 | [Barnsley](http://twitter.com/search?q=Barnsley) | N/A |
+| 21 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 22 | [#ycfc](http://twitter.com/search?q=%23ycfc) | N/A |
+| 23 | [#CRYLIV](http://twitter.com/search?q=%23CRYLIV) | N/A |
+| 24 | [Keita](http://twitter.com/search?q=Keita) | Keita is a Japanese name meaning "blessed" or "happy". It is often used as a given name for boys. |
+| 25 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 26 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
+| 27 | [Palace](http://twitter.com/search?q=Palace) | Palace is a large and grand residence, especially one owned by a monarch or other powerful figure. It is usually the residence of a head of state or some other high-ranking dignitary. The word comes from the Latin palatium, meaning "residence of a ruler". |
+| 28 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 29 | [Fabinho](http://twitter.com/search?q=Fabinho) | Fabinho is a Portuguese nickname meaning "little Fabio". It is often used as a term of endearment for someone named Fabio or someone who resembles him. |
+| 30 | [Olise](http://twitter.com/search?q=Olise) | Olise is a Nigerian name derived from the Igbo language. It means "God remembers" or "God has remembered". |
+| 31 | [Mateta](http://twitter.com/search?q=Mateta) | Mateta is a Spanish word that means "to be content" or "to be satisfied". It is often used to describe a feeling of contentment or satisfaction with one's life. |
+| 32 | [Gakpo](http://twitter.com/search?q=Gakpo) | Gakpo is a slang term used in Ghana to describe someone who is very attractive or good-looking. It can also be used to describe someone who is stylish or fashionable. In English, it could be translated as "hot" or "handsome". |
+| 33 | [Carvalho](http://twitter.com/search?q=Carvalho) | Carvalho is a Portuguese surname derived from the Latin word carbo, meaning "charcoal". In English, it can be translated to mean "charcoal maker" or "charcoal burner". |
+| 34 | [Ayew](http://twitter.com/search?q=Ayew) | Ayew is a slang term used in French-speaking countries to express excitement or enthusiasm. It is derived from the French phrase "Ah oui!" which translates to "Oh yes!" |
+| 35 | [Elliot](http://twitter.com/search?q=Elliot) | Elliot is a masculine given name of English origin. It is derived from the Hebrew name Eliyahu, meaning "My God is Yahweh". |
+| 36 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
+| 37 | [Jota](http://twitter.com/search?q=Jota) | N/A |
+| 38 | [Meatloaf](http://twitter.com/search?q=Meatloaf) | N/A |
+| 39 | [Luciana](http://twitter.com/search?q=Luciana) | N/A |
+| 40 | [Darren England](http://twitter.com/search?q=Darren+England) | N/A |
+| 41 | [Lokonga](http://twitter.com/search?q=Lokonga) | Lokonga is a term used in the African language of Swahili. It means "to be brave" or "to have courage". |
+| 42 | [Schlupp](http://twitter.com/search?q=Schlupp) | Schlupp is a German word that means "to slip away" or "to sneak away". It can also be used to describe someone who is sneaky or sly. |
+| 43 | [Farrell](http://twitter.com/search?q=Farrell) | Farrell is a surname of Irish origin. It is derived from the Gaelic Ó Fearghail, meaning "descendant of Fearghal". The name Fearghal is derived from the Old Irish words fear ("man") and gal ("valor"). |
+| 44 | [Selhurst Park](http://twitter.com/search?q=Selhurst+Park) | Selhurst Park is a football stadium in South London, England, and the home ground of Crystal Palace Football Club. The stadium has a capacity of 26,309 and has been the club's home since 1924. The name Selhurst Park is derived from the area of South London in which it is located. |
+| 45 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
+| 46 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 47 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 48 | [Shania](http://twitter.com/search?q=Shania) | Shania is a female given name of Native American origin, derived from the Ojibwe language. It means "on my way" or "I'm on my way". |
+| 49 | [Perrone](http://twitter.com/search?q=Perrone) | Perrone is an Italian surname. It is derived from the Latin word perronus, which means "rocky". In English, it can be translated to mean "of the rocky place". |
+| 50 | [Linda Ronstadt](http://twitter.com/search?q=Linda+Ronstadt) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sacramento
 
-📆 Last Updated: `2023-02-25 21:16:14 UTC`
+📆 Last Updated: `2023-02-25 22:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 2 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 3 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 4 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
-| 5 | [Rancho Cucamonga](http://twitter.com/search?q=Rancho+Cucamonga) | N/A |
-| 6 | [#SFGiants](http://twitter.com/search?q=%23SFGiants) | N/A |
-| 7 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 1 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 2 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 3 | [Freddie](http://twitter.com/search?q=Freddie) | N/A |
+| 4 | [Rialto](http://twitter.com/search?q=Rialto) | N/A |
+| 5 | [Santa Clarita](http://twitter.com/search?q=Santa+Clarita) | N/A |
+| 6 | [Rancho Cucamonga](http://twitter.com/search?q=Rancho+Cucamonga) | N/A |
+| 7 | [Redlands](http://twitter.com/search?q=Redlands) | N/A |
 | 8 | [Trent](http://twitter.com/search?q=Trent) | Trent is a name of English origin, derived from the River Trent. It is a masculine given name and can also be used as a surname. The meaning of Trent is "gushing waters". |
-| 9 | [Redlands](http://twitter.com/search?q=Redlands) | N/A |
-| 10 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 9 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
+| 10 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 | 11 | [Riverside](http://twitter.com/search?q=Riverside) | N/A |
-| 12 | [#NASCAR](http://twitter.com/search?q=%23NASCAR) | N/A |
-| 13 | [CEQA](http://twitter.com/search?q=CEQA) | N/A |
-| 14 | [Santa Clarita](http://twitter.com/search?q=Santa+Clarita) | N/A |
-| 15 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
-| 16 | [Ontario](http://twitter.com/search?q=Ontario) | N/A |
-| 17 | [Skyline](http://twitter.com/search?q=Skyline) | N/A |
-| 18 | [Big Bear](http://twitter.com/search?q=Big+Bear) | N/A |
-| 19 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
-| 20 | [Pistons](http://twitter.com/search?q=Pistons) | Pistons are components of an engine that move up and down to create the power needed to drive a vehicle. They are usually made of metal and fit into the cylinder of an engine, where they move up and down in order to compress and expand the air-fuel mixture that powers the engine. |
-| 21 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 22 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 23 | [Natalie](http://twitter.com/search?q=Natalie) | N/A |
-| 24 | [Zelenskyy](http://twitter.com/search?q=Zelenskyy) | N/A |
-| 25 | [#Optimushinu](http://twitter.com/search?q=%23Optimushinu) | N/A |
-| 26 | [#DionexBinance](http://twitter.com/search?q=%23DionexBinance) | N/A |
-| 27 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 28 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 29 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 30 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 31 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 32 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
-| 33 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 34 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 35 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 36 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 37 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 38 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 39 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 40 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 41 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 42 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 43 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 44 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 45 | [Jo Adell](http://twitter.com/search?q=Jo+Adell) | N/A |
-| 46 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
-| 47 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 48 | [Byron Jones](http://twitter.com/search?q=Byron+Jones) | N/A |
-| 49 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 50 | [Weston Wilson](http://twitter.com/search?q=Weston+Wilson) | N/A |
+| 12 | [Pac-12](http://twitter.com/search?q=Pac-12) | N/A |
+| 13 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 14 | [Big Bear](http://twitter.com/search?q=Big+Bear) | N/A |
+| 15 | [Skyline](http://twitter.com/search?q=Skyline) | N/A |
+| 16 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
+| 17 | [Ontario](http://twitter.com/search?q=Ontario) | N/A |
+| 18 | [CEQA](http://twitter.com/search?q=CEQA) | N/A |
+| 19 | [Porsche](http://twitter.com/search?q=Porsche) | N/A |
+| 20 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 21 | [Zelenskyy](http://twitter.com/search?q=Zelenskyy) | N/A |
+| 22 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
+| 23 | [#DionexBinance](http://twitter.com/search?q=%23DionexBinance) | N/A |
+| 24 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 25 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 26 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 27 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 28 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 29 | [Aliev](http://twitter.com/search?q=Aliev) | N/A |
+| 30 | [Alves](http://twitter.com/search?q=Alves) | N/A |
+| 31 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 32 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 33 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 34 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 35 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 36 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 37 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 38 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 39 | [Ballo](http://twitter.com/search?q=Ballo) | N/A |
+| 40 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
+| 41 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 42 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 43 | [Desmond Cambridge](http://twitter.com/search?q=Desmond+Cambridge) | N/A |
+| 44 | [Sun Devils](http://twitter.com/search?q=Sun+Devils) | N/A |
+| 45 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 46 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 47 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 48 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 49 | [Bobby Hurley](http://twitter.com/search?q=Bobby+Hurley) | N/A |
+| 50 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
 
 
 

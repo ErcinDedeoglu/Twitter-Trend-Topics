@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-25 21:16:12 UTC`
+📆 Last Updated: `2023-02-25 22:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mikkola](http://twitter.com/search?q=Mikkola) | N/A |
-| 2 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
-| 3 | [Lindy](http://twitter.com/search?q=Lindy) | N/A |
-| 4 | [#sjubb](http://twitter.com/search?q=%23sjubb) | N/A |
-| 5 | [Gallant](http://twitter.com/search?q=Gallant) | N/A |
-| 6 | [#Yankees](http://twitter.com/search?q=%23Yankees) | N/A |
-| 7 | [Drury](http://twitter.com/search?q=Drury) | N/A |
-| 8 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 9 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 10 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 11 | [#Optimushinu](http://twitter.com/search?q=%23Optimushinu) | N/A |
-| 12 | [#DionexBinance](http://twitter.com/search?q=%23DionexBinance) | N/A |
-| 13 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 1 | [Brett Baty](http://twitter.com/search?q=Brett+Baty) | N/A |
+| 2 | [LTIR](http://twitter.com/search?q=LTIR) | N/A |
+| 3 | [Trouba](http://twitter.com/search?q=Trouba) | Trouba is a Czech word meaning "trouble" or "difficulty". It is often used to describe a situation that is difficult or challenging. |
+| 4 | [UConn](http://twitter.com/search?q=UConn) | UConn is an abbreviation for the University of Connecticut, a public research university located in Storrs, Connecticut. It is the flagship institution of the University of Connecticut system and was founded in 1881. |
+| 5 | [Lindy](http://twitter.com/search?q=Lindy) | N/A |
+| 6 | [Gallant](http://twitter.com/search?q=Gallant) | N/A |
+| 7 | [#sjubb](http://twitter.com/search?q=%23sjubb) | N/A |
+| 8 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
+| 9 | [Drury](http://twitter.com/search?q=Drury) | N/A |
+| 10 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 11 | [#Yankees](http://twitter.com/search?q=%23Yankees) | N/A |
+| 12 | [#Optimusinu](http://twitter.com/search?q=%23Optimusinu) | N/A |
+| 13 | [#DionexBinance](http://twitter.com/search?q=%23DionexBinance) | N/A |
 | 14 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 15 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 16 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 17 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 18 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
-| 19 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
-| 20 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 21 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 22 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 23 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
-| 24 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 25 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 26 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
-| 27 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
-| 28 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 15 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 16 | [Arizona State](http://twitter.com/search?q=Arizona+State) | N/A |
+| 17 | [#UFCVegas70](http://twitter.com/search?q=%23UFCVegas70) | N/A |
+| 18 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 19 | [Aliev](http://twitter.com/search?q=Aliev) | N/A |
+| 20 | [Alves](http://twitter.com/search?q=Alves) | N/A |
+| 21 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 22 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
+| 23 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 24 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 25 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 26 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 27 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 28 | [Ballo](http://twitter.com/search?q=Ballo) | N/A |
 | 29 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 30 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 31 | [Jo Adell](http://twitter.com/search?q=Jo+Adell) | N/A |
-| 32 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
-| 33 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 34 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
-| 35 | [Byron Jones](http://twitter.com/search?q=Byron+Jones) | N/A |
-| 36 | [Weston Wilson](http://twitter.com/search?q=Weston+Wilson) | N/A |
-| 37 | [Braves](http://twitter.com/search?q=Braves) | N/A |
-| 38 | [The Martian](http://twitter.com/search?q=The+Martian) | N/A |
-| 39 | [Anthony Black](http://twitter.com/search?q=Anthony+Black) | N/A |
-| 40 | [Alvaro Rodriguez](http://twitter.com/search?q=Alvaro+Rodriguez) | N/A |
-| 41 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 42 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 43 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
-| 44 | [Jimmy Dykes](http://twitter.com/search?q=Jimmy+Dykes) | N/A |
-| 45 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
-| 46 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
-| 47 | [Leah Hextall](http://twitter.com/search?q=Leah+Hextall) | N/A |
+| 30 | [Garrett Mitchell](http://twitter.com/search?q=Garrett+Mitchell) | N/A |
+| 31 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 32 | [Desmond Cambridge](http://twitter.com/search?q=Desmond+Cambridge) | N/A |
+| 33 | [Sun Devils](http://twitter.com/search?q=Sun+Devils) | N/A |
+| 34 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 35 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 36 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 37 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 38 | [Bobby Hurley](http://twitter.com/search?q=Bobby+Hurley) | N/A |
+| 39 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 40 | [Dajuan Harris](http://twitter.com/search?q=Dajuan+Harris) | N/A |
+| 41 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 42 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 43 | [Go Devils](http://twitter.com/search?q=Go+Devils) | N/A |
+| 44 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 45 | [Nino](http://twitter.com/search?q=Nino) | N/A |
+| 46 | [joon](http://twitter.com/search?q=joon) | Joon is a Persian word that means "soul" or "spirit". It is often used to refer to the inner essence of a person, and is sometimes used as a term of endearment. |
+| 47 | [Braves](http://twitter.com/search?q=Braves) | N/A |
 | 48 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
-| 49 | [Dale Bonner](http://twitter.com/search?q=Dale+Bonner) | N/A |
-| 50 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
+| 49 | [Muss](http://twitter.com/search?q=Muss) | N/A |
+| 50 | [Mark Smith](http://twitter.com/search?q=Mark+Smith) | N/A |
 
 
 

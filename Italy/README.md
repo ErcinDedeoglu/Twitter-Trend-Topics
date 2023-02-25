@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Italy
 
-📆 Last Updated: `2023-02-25 21:16:19 UTC`
+📆 Last Updated: `2023-02-25 22:16:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Italy
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
-| 2 | [#EmpoliNapoli](http://twitter.com/search?q=%23EmpoliNapoli) | N/A |
-| 3 | [#taleequalesanremo](http://twitter.com/search?q=%23taleequalesanremo) | N/A |
+| 2 | [#taleequalesanremo](http://twitter.com/search?q=%23taleequalesanremo) | N/A |
+| 3 | [#EmpoliNapoli](http://twitter.com/search?q=%23EmpoliNapoli) | N/A |
 | 4 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
 | 5 | [#25febbraio](http://twitter.com/search?q=%2325febbraio) | N/A |
 | 6 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
-| 7 | [Davide](http://twitter.com/search?q=Davide) | N/A |
-| 8 | [Al Bano](http://twitter.com/search?q=Al+Bano) | N/A |
-| 9 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 10 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 11 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 12 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
-| 13 | [Rosy Bindi](http://twitter.com/search?q=Rosy+Bindi) | N/A |
-| 14 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
-| 15 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 16 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
-| 17 | [Ivan Capelli](http://twitter.com/search?q=Ivan+Capelli) | N/A |
-| 18 | [Roy Paci](http://twitter.com/search?q=Roy+Paci) | N/A |
-| 19 | [Caputo](http://twitter.com/search?q=Caputo) | N/A |
-| 20 | [Patty Pravo](http://twitter.com/search?q=Patty+Pravo) | N/A |
-| 21 | [Ayroldi](http://twitter.com/search?q=Ayroldi) | N/A |
-| 22 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
-| 23 | [Luca Laurenti](http://twitter.com/search?q=Luca+Laurenti) | N/A |
-| 24 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 25 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 26 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 27 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 28 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
-| 29 | [Preside](http://twitter.com/search?q=Preside) | N/A |
-| 30 | [Ingroia](http://twitter.com/search?q=Ingroia) | N/A |
-| 31 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
-| 32 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
-| 33 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
-| 34 | [Vitti](http://twitter.com/search?q=Vitti) | N/A |
-| 35 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 7 | [Albano](http://twitter.com/search?q=Albano) | N/A |
+| 8 | [Nevruz](http://twitter.com/search?q=Nevruz) | N/A |
+| 9 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 10 | [Zucchero](http://twitter.com/search?q=Zucchero) | N/A |
+| 11 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
+| 12 | [Paolantoni](http://twitter.com/search?q=Paolantoni) | N/A |
+| 13 | [Valerio Scanu](http://twitter.com/search?q=Valerio+Scanu) | N/A |
+| 14 | [Eiffel 65](http://twitter.com/search?q=Eiffel+65) | N/A |
+| 15 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 16 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 17 | [Cirilli](http://twitter.com/search?q=Cirilli) | N/A |
+| 18 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
+| 19 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 20 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 21 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 22 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
+| 23 | [Patty Pravo](http://twitter.com/search?q=Patty+Pravo) | N/A |
+| 24 | [Ivan Capelli](http://twitter.com/search?q=Ivan+Capelli) | N/A |
+| 25 | [Monica Vitti](http://twitter.com/search?q=Monica+Vitti) | N/A |
+| 26 | [Deborah Iurato](http://twitter.com/search?q=Deborah+Iurato) | N/A |
+| 27 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
+| 28 | [Le Deva](http://twitter.com/search?q=Le+Deva) | N/A |
+| 29 | [Luca Laurenti](http://twitter.com/search?q=Luca+Laurenti) | N/A |
+| 30 | [Senhit](http://twitter.com/search?q=Senhit) | N/A |
+| 31 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 32 | [Roy Paci](http://twitter.com/search?q=Roy+Paci) | N/A |
+| 33 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 34 | [Frankenstein](http://twitter.com/search?q=Frankenstein) | N/A |
+| 35 | [Achille Lauro](http://twitter.com/search?q=Achille+Lauro) | N/A |
 | 36 | [Sordi](http://twitter.com/search?q=Sordi) | N/A |
-| 37 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
-| 38 | [Ichnusa](http://twitter.com/search?q=Ichnusa) | N/A |
-| 39 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
-| 40 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 41 | [Elmas](http://twitter.com/search?q=Elmas) | N/A |
-| 42 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
-| 43 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 44 | [Castellani](http://twitter.com/search?q=Castellani) | N/A |
-| 45 | [Nuoro](http://twitter.com/search?q=Nuoro) | N/A |
-| 46 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 47 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 48 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 49 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 50 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 37 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 38 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
+| 39 | [Carlo Conti](http://twitter.com/search?q=Carlo+Conti) | N/A |
+| 40 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 41 | [Gassman](http://twitter.com/search?q=Gassman) | N/A |
+| 42 | [Malgioglio](http://twitter.com/search?q=Malgioglio) | N/A |
+| 43 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 44 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 45 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
+| 46 | [Rosy Bindi](http://twitter.com/search?q=Rosy+Bindi) | N/A |
+| 47 | [Ichnusa](http://twitter.com/search?q=Ichnusa) | N/A |
+| 48 | [Ingroia](http://twitter.com/search?q=Ingroia) | N/A |
+| 49 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 50 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
 
 
 
