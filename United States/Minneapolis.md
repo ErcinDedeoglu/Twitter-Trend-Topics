@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-02-25 15:16:02 UTC`
+📆 Last Updated: `2023-02-25 16:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Finch](http://twitter.com/search?q=Finch) | N/A |
-| 2 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 4 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 6 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 7 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 8 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 9 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 10 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
-| 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 12 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 13 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 14 | [Casa Creed](http://twitter.com/search?q=Casa+Creed) | N/A |
-| 15 | [#NextStepsForSpaceKaren](http://twitter.com/search?q=%23NextStepsForSpaceKaren) | N/A |
-| 16 | [match day](http://twitter.com/search?q=match+day) | N/A |
-| 17 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 18 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 19 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 20 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 21 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
-| 22 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 23 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 24 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
-| 25 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 26 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 27 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 28 | [IT'S GAMEDAY](http://twitter.com/search?q=IT%27S+GAMEDAY) | N/A |
-| 29 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 30 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 31 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 32 | [Katie Hobbs](http://twitter.com/search?q=Katie+Hobbs) | N/A |
-| 33 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
-| 34 | [Grapefruit League](http://twitter.com/search?q=Grapefruit+League) | N/A |
-| 35 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 36 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 37 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 38 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 39 | [Beatle](http://twitter.com/search?q=Beatle) | N/A |
-| 40 | [ningning](http://twitter.com/search?q=ningning) | N/A |
-| 41 | [Tulsi](http://twitter.com/search?q=Tulsi) | N/A |
-| 42 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 43 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 44 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
-| 45 | [The Jeffersons](http://twitter.com/search?q=The+Jeffersons) | N/A |
-| 46 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 47 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 48 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 49 | [Department of Transportation](http://twitter.com/search?q=Department+of+Transportation) | N/A |
-| 50 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [Finch](http://twitter.com/search?q=Finch) | N/A |
+| 3 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 4 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 5 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 6 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
+| 7 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 8 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 9 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 10 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 11 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 12 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 13 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 14 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 15 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 16 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 17 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 18 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 19 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 20 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 21 | [GAMEDAY](http://twitter.com/search?q=GAMEDAY) | N/A |
+| 22 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 23 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 24 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 25 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 26 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 27 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 28 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
+| 29 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 30 | [Casa Creed](http://twitter.com/search?q=Casa+Creed) | N/A |
+| 31 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 32 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
+| 33 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 34 | [Katie Hobbs](http://twitter.com/search?q=Katie+Hobbs) | N/A |
+| 35 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 36 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 37 | [Buffett](http://twitter.com/search?q=Buffett) | N/A |
+| 38 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 39 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 40 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 41 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 42 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 43 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 44 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 45 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
+| 46 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
+| 47 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 48 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 49 | [Beatle](http://twitter.com/search?q=Beatle) | N/A |
+| 50 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
 
 
 

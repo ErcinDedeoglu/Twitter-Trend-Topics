@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For New York
 
-📆 Last Updated: `2023-02-25 15:16:02 UTC`
+📆 Last Updated: `2023-02-25 16:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 2 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 3 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 5 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 6 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 7 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 8 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 9 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
-| 10 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 11 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 12 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 13 | [Casa Creed](http://twitter.com/search?q=Casa+Creed) | N/A |
-| 14 | [#NextStepsForSpaceKaren](http://twitter.com/search?q=%23NextStepsForSpaceKaren) | N/A |
-| 15 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 16 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 17 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 18 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 19 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 20 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
-| 21 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 22 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 23 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
-| 24 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 25 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 26 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 27 | [IT'S GAMEDAY](http://twitter.com/search?q=IT%27S+GAMEDAY) | N/A |
-| 28 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 29 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 30 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 31 | [Katie Hobbs](http://twitter.com/search?q=Katie+Hobbs) | N/A |
-| 32 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
-| 33 | [Grapefruit League](http://twitter.com/search?q=Grapefruit+League) | N/A |
-| 34 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 35 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 36 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 37 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 38 | [Beatle](http://twitter.com/search?q=Beatle) | N/A |
-| 39 | [ningning](http://twitter.com/search?q=ningning) | N/A |
-| 40 | [Tulsi](http://twitter.com/search?q=Tulsi) | N/A |
-| 41 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 42 | [westbrook](http://twitter.com/search?q=westbrook) | N/A |
-| 43 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
-| 44 | [The Jeffersons](http://twitter.com/search?q=The+Jeffersons) | N/A |
-| 45 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 46 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 47 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 48 | [Department of Transportation](http://twitter.com/search?q=Department+of+Transportation) | N/A |
-| 49 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 50 | [Antonio Brown](http://twitter.com/search?q=Antonio+Brown) | Antonio Brown is an American professional football wide receiver who currently plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the best wide receivers in the NFL, having been selected to seven Pro Bowls and four All-Pro teams. |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 3 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 4 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 5 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 7 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
+| 8 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 9 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 10 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 11 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 12 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 13 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 14 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 15 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 16 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 17 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 18 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 19 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 20 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 21 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 22 | [GAMEDAY](http://twitter.com/search?q=GAMEDAY) | N/A |
+| 23 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 24 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 25 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 26 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 27 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 28 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 29 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
+| 30 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 31 | [Casa Creed](http://twitter.com/search?q=Casa+Creed) | N/A |
+| 32 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 33 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
+| 34 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 35 | [Katie Hobbs](http://twitter.com/search?q=Katie+Hobbs) | N/A |
+| 36 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 37 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 38 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 39 | [Buffett](http://twitter.com/search?q=Buffett) | N/A |
+| 40 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 41 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 42 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 43 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 44 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 45 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 46 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
+| 47 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
+| 48 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 49 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 50 | [Beatle](http://twitter.com/search?q=Beatle) | N/A |
 
 
 

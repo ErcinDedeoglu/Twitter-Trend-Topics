@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Orlando
 
-📆 Last Updated: `2023-02-25 15:16:03 UTC`
+📆 Last Updated: `2023-02-25 16:16:45 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 2 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 3 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 4 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 5 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 6 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 7 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
-| 8 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
-| 9 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 10 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 11 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
-| 12 | [Casa Creed](http://twitter.com/search?q=Casa+Creed) | N/A |
-| 13 | [#NextStepsForSpaceKaren](http://twitter.com/search?q=%23NextStepsForSpaceKaren) | N/A |
-| 14 | [match day](http://twitter.com/search?q=match+day) | N/A |
-| 15 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
-| 16 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
-| 17 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 18 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 19 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
-| 20 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 21 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 22 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
-| 23 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 24 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
-| 25 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 26 | [IT'S GAMEDAY](http://twitter.com/search?q=IT%27S+GAMEDAY) | N/A |
-| 27 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 28 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 29 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 30 | [Katie Hobbs](http://twitter.com/search?q=Katie+Hobbs) | N/A |
-| 31 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
-| 32 | [Grapefruit League](http://twitter.com/search?q=Grapefruit+League) | N/A |
-| 33 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 34 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
-| 35 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 36 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 37 | [Beatle](http://twitter.com/search?q=Beatle) | N/A |
-| 38 | [ningning](http://twitter.com/search?q=ningning) | N/A |
-| 39 | [Tulsi](http://twitter.com/search?q=Tulsi) | N/A |
-| 40 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 41 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 42 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
-| 43 | [The Jeffersons](http://twitter.com/search?q=The+Jeffersons) | N/A |
-| 44 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 45 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 46 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 47 | [Department of Transportation](http://twitter.com/search?q=Department+of+Transportation) | N/A |
-| 48 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 49 | [Antonio Brown](http://twitter.com/search?q=Antonio+Brown) | Antonio Brown is an American professional football wide receiver who currently plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the best wide receivers in the NFL, having been selected to seven Pro Bowls and four All-Pro teams. |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 4 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
+| 5 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 6 | [Saka](http://twitter.com/search?q=Saka) | Saka is an ancient Indo-Iranian people who lived in the region of present-day Iran, Afghanistan, and Turkmenistan. In English, the word Saka means "nomadic warrior." |
+| 7 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 8 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 9 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 10 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
+| 11 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 12 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 13 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 14 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
+| 15 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 16 | [#RWBY9Spoilers](http://twitter.com/search?q=%23RWBY9Spoilers) | N/A |
+| 17 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 18 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 19 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 20 | [GAMEDAY](http://twitter.com/search?q=GAMEDAY) | N/A |
+| 21 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 22 | [Ramsdale](http://twitter.com/search?q=Ramsdale) | Ramsdale is a fictional town in the novel The Big Sleep by Raymond Chandler. It is the home of the wealthy Sternwood family and is described as a small, quiet town with a lot of money. In English, Ramsdale means a peaceful and affluent town. |
+| 23 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 24 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 25 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 26 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
+| 27 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 28 | [Casa Creed](http://twitter.com/search?q=Casa+Creed) | N/A |
+| 29 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 30 | [Weiss](http://twitter.com/search?q=Weiss) | N/A |
+| 31 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 32 | [Katie Hobbs](http://twitter.com/search?q=Katie+Hobbs) | N/A |
+| 33 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 34 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 35 | [Buffett](http://twitter.com/search?q=Buffett) | N/A |
+| 36 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 37 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 38 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 39 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 40 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 41 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
+| 42 | [Bezos](http://twitter.com/search?q=Bezos) | N/A |
+| 43 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 44 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
+| 45 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 46 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 47 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 48 | [Beatle](http://twitter.com/search?q=Beatle) | N/A |
+| 49 | [Live Results](http://twitter.com/search?q=Live+Results) | N/A |
 
 
 

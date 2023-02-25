@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-25 15:15:19 UTC`
+📆 Last Updated: `2023-02-25 16:15:55 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,54 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ITAvIRE](http://twitter.com/search?q=%23ITAvIRE) | N/A |
-| 2 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
-| 3 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 4 | [#PUSB](http://twitter.com/search?q=%23PUSB) | N/A |
-| 5 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 6 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 7 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 8 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
-| 9 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 10 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 11 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 12 | [Ireland's Call](http://twitter.com/search?q=Ireland%27s+Call) | N/A |
-| 13 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 14 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 15 | [Da Costa](http://twitter.com/search?q=Da+Costa) | N/A |
-| 16 | [Gyokeres](http://twitter.com/search?q=Gyokeres) | N/A |
-| 17 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 18 | [Lord North](http://twitter.com/search?q=Lord+North) | N/A |
-| 19 | [Digne](http://twitter.com/search?q=Digne) | N/A |
-| 20 | [Gelhardt](http://twitter.com/search?q=Gelhardt) | N/A |
-| 21 | [Starting XI](http://twitter.com/search?q=Starting+XI) | N/A |
-| 22 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 1 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 2 | [#ITAvIRE](http://twitter.com/search?q=%23ITAvIRE) | N/A |
+| 3 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
+| 4 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 5 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 6 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 7 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 8 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 9 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 10 | [#SAFC](http://twitter.com/search?q=%23SAFC) | N/A |
+| 11 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 12 | [Kitty's Light](http://twitter.com/search?q=Kitty%27s+Light) | N/A |
+| 13 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 14 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 15 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 16 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 17 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 18 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 19 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 20 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 21 | [Buendia](http://twitter.com/search?q=Buendia) | Buendia is a Spanish surname derived from the town of Buendía in the province of Cuenca, Spain. In English, it means "from Buendía". |
+| 22 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
 | 23 | [Ings](http://twitter.com/search?q=Ings) | Ings is a slang term used to refer to things or activities that are enjoyable or fun. It can also be used to describe people who are fun and outgoing. |
-| 24 | [Pork](http://twitter.com/search?q=Pork) | N/A |
-| 25 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 26 | [Fleck](http://twitter.com/search?q=Fleck) | N/A |
+| 24 | [Craig Pawson](http://twitter.com/search?q=Craig+Pawson) | N/A |
+| 25 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 26 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
 | 27 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 28 | [Mowbray](http://twitter.com/search?q=Mowbray) | N/A |
-| 29 | [nusret](http://twitter.com/search?q=nusret) | N/A |
-| 30 | [Michut](http://twitter.com/search?q=Michut) | N/A |
-| 31 | [John Noakes](http://twitter.com/search?q=John+Noakes) | N/A |
-| 32 | [Nelli](http://twitter.com/search?q=Nelli) | N/A |
-| 33 | [Hamer](http://twitter.com/search?q=Hamer) | N/A |
-| 34 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
-| 35 | [Buendia](http://twitter.com/search?q=Buendia) | Buendia is a Spanish surname derived from the town of Buendía in the province of Cuenca, Spain. In English, it means "from Buendía". |
-| 36 | [Honor Oak](http://twitter.com/search?q=Honor+Oak) | N/A |
-| 37 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
-| 38 | [Scriptwriter](http://twitter.com/search?q=Scriptwriter) | N/A |
-| 39 | [Avram Glazer](http://twitter.com/search?q=Avram+Glazer) | N/A |
-| 40 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 41 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
-| 42 | [Kempton](http://twitter.com/search?q=Kempton) | N/A |
-| 43 | [Football Focus](http://twitter.com/search?q=Football+Focus) | N/A |
-| 44 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 45 | [Ozil](http://twitter.com/search?q=Ozil) | Ozil is a surname of Turkish origin. It is derived from the Arabic word “azal”, which means “eternal” or “everlasting”. The name is most commonly associated with German footballer Mesut Özil, who plays for Arsenal F.C. |
-| 46 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 47 | [Surulere](http://twitter.com/search?q=Surulere) | N/A |
+| 28 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 29 | [Mulgrew](http://twitter.com/search?q=Mulgrew) | N/A |
+| 30 | [Onana](http://twitter.com/search?q=Onana) | Onana is a Japanese word that means “to be in harmony” or “to be in balance.” It is often used to describe a state of inner peace and tranquility. |
+| 31 | [Da Costa](http://twitter.com/search?q=Da+Costa) | N/A |
+| 32 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 33 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 34 | [Doucoure](http://twitter.com/search?q=Doucoure) | Doucoure is a French word that means "sweetheart" or "darling." It is used as an affectionate term of endearment. |
+| 35 | [Pork](http://twitter.com/search?q=Pork) | N/A |
+| 36 | [Still 0-0](http://twitter.com/search?q=Still+0-0) | N/A |
+| 37 | [Duran](http://twitter.com/search?q=Duran) | Duran is a Spanish surname derived from the Latin name Durandus, meaning "enduring" or "lasting". It is also a common given name in Spanish-speaking countries. |
+| 38 | [Paqueta](http://twitter.com/search?q=Paqueta) | N/A |
+| 39 | [Digne](http://twitter.com/search?q=Digne) | N/A |
+| 40 | [Our Power](http://twitter.com/search?q=Our+Power) | N/A |
+| 41 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 42 | [McGinn](http://twitter.com/search?q=McGinn) | McGinn is a surname of Irish origin. It is derived from the Gaelic Mac Fhionnghain, meaning "son of the fair-haired one". |
+| 43 | [SECOND HALF](http://twitter.com/search?q=SECOND+HALF) | N/A |
+| 44 | [Ireland's Call](http://twitter.com/search?q=Ireland%27s+Call) | N/A |
+| 45 | [Lord North](http://twitter.com/search?q=Lord+North) | N/A |
+| 46 | [Gyokeres](http://twitter.com/search?q=Gyokeres) | N/A |
+| 47 | [Gelhardt](http://twitter.com/search?q=Gelhardt) | N/A |
+| 48 | [Simms](http://twitter.com/search?q=Simms) | N/A |
 
 
 

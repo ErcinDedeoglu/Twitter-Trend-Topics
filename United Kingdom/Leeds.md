@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Leeds
 
-📆 Last Updated: `2023-02-25 15:15:17 UTC`
+📆 Last Updated: `2023-02-25 16:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,56 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#bcafc](http://twitter.com/search?q=%23bcafc) | N/A |
-| 2 | [Injured](http://twitter.com/search?q=Injured) | N/A |
-| 3 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
-| 4 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 5 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
-| 6 | [Matchday](http://twitter.com/search?q=Matchday) | N/A |
-| 7 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
-| 8 | [#NUFC](http://twitter.com/search?q=%23NUFC) | #NUFC stands for Newcastle United Football Club, an English professional football club based in Newcastle upon Tyne. The club was founded in 1892 and currently plays in the Premier League. |
-| 9 | [Newcastle United](http://twitter.com/search?q=Newcastle+United) | N/A |
-| 10 | [Geordies](http://twitter.com/search?q=Geordies) | N/A |
-| 11 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
-| 12 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 13 | [#TurnipGate](http://twitter.com/search?q=%23TurnipGate) | N/A |
-| 14 | [#ToriesDevoidOfShame](http://twitter.com/search?q=%23ToriesDevoidOfShame) | N/A |
-| 15 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 16 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
-| 17 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 18 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
-| 19 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
-| 20 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
-| 21 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
-| 22 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
-| 23 | [Ireland's Call](http://twitter.com/search?q=Ireland%27s+Call) | N/A |
-| 24 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 25 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 26 | [Da Costa](http://twitter.com/search?q=Da+Costa) | N/A |
-| 27 | [Gyokeres](http://twitter.com/search?q=Gyokeres) | N/A |
-| 28 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 29 | [Lord North](http://twitter.com/search?q=Lord+North) | N/A |
-| 30 | [Digne](http://twitter.com/search?q=Digne) | N/A |
-| 31 | [Gelhardt](http://twitter.com/search?q=Gelhardt) | N/A |
-| 32 | [Starting XI](http://twitter.com/search?q=Starting+XI) | N/A |
-| 33 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 34 | [Ings](http://twitter.com/search?q=Ings) | Ings is a slang term used to refer to things or activities that are enjoyable or fun. It can also be used to describe people who are fun and outgoing. |
-| 35 | [Pork](http://twitter.com/search?q=Pork) | N/A |
-| 36 | [Tinubu](http://twitter.com/search?q=Tinubu) | N/A |
-| 37 | [fleck](http://twitter.com/search?q=fleck) | N/A |
-| 38 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
-| 39 | [Mowbray](http://twitter.com/search?q=Mowbray) | N/A |
-| 40 | [nusret](http://twitter.com/search?q=nusret) | N/A |
-| 41 | [Michut](http://twitter.com/search?q=Michut) | N/A |
-| 42 | [John Noakes](http://twitter.com/search?q=John+Noakes) | N/A |
-| 43 | [Nelli](http://twitter.com/search?q=Nelli) | N/A |
-| 44 | [Hamer](http://twitter.com/search?q=Hamer) | N/A |
-| 45 | [Stewart](http://twitter.com/search?q=Stewart) | N/A |
-| 46 | [Buendia](http://twitter.com/search?q=Buendia) | Buendia is a Spanish surname derived from the town of Buendía in the province of Cuenca, Spain. In English, it means "from Buendía". |
-| 47 | [Honor Oak](http://twitter.com/search?q=Honor+Oak) | N/A |
-| 48 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
-| 49 | [Scriptwriter](http://twitter.com/search?q=Scriptwriter) | N/A |
+| 1 | [#SaintsFC](http://twitter.com/search?q=%23SaintsFC) | N/A |
+| 2 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 3 | [#ctfc](http://twitter.com/search?q=%23ctfc) | N/A |
+| 4 | [Palmer](http://twitter.com/search?q=Palmer) | Palmer is an English surname derived from the Old French word for "pilgrim." It was originally given to someone who had made a pilgrimage to the Holy Land. The name is also used as a given name, usually for boys. |
+| 5 | [Roberts](http://twitter.com/search?q=Roberts) | N/A |
+| 6 | [Injured](http://twitter.com/search?q=Injured) | N/A |
+| 7 | [Avram Glazer](http://twitter.com/search?q=Avram+Glazer) | N/A |
+| 8 | [Elland Road](http://twitter.com/search?q=Elland+Road) | N/A |
+| 9 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 10 | [Southampton](http://twitter.com/search?q=Southampton) | Southampton is a city in the south of England. It is located on the south coast of England, and is the largest city in Hampshire. The name Southampton comes from the Old English words "ham" and "tun", meaning a settlement or village by the sea. |
+| 11 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 12 | [#Gills](http://twitter.com/search?q=%23Gills) | N/A |
+| 13 | [Skegness](http://twitter.com/search?q=Skegness) | N/A |
+| 14 | [Carling](http://twitter.com/search?q=Carling) | N/A |
+| 15 | [#TorySewageParty](http://twitter.com/search?q=%23TorySewageParty) | N/A |
+| 16 | [Greenwood](http://twitter.com/search?q=Greenwood) | Greenwood is a term used to refer to a forest or wooded area that is lush and green. It is often used to describe a place of beauty and tranquility. In English, it can also be used as an adjective to describe something that is lush and green. |
+| 17 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
+| 18 | [Evans](http://twitter.com/search?q=Evans) | N/A |
+| 19 | [#UTFT](http://twitter.com/search?q=%23UTFT) | N/A |
+| 20 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 21 | [McLaren](http://twitter.com/search?q=McLaren) | N/A |
+| 22 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 23 | [Atiku](http://twitter.com/search?q=Atiku) | N/A |
+| 24 | [Nunes](http://twitter.com/search?q=Nunes) | Nunes is a Portuguese surname derived from the Latin word "nuncius," meaning "messenger." It is most commonly found in Portugal, Brazil, and other countries with Portuguese heritage. |
+| 25 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 26 | [Murray](http://twitter.com/search?q=Murray) | N/A |
+| 27 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 28 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 29 | [Ben White](http://twitter.com/search?q=Ben+White) | Ben White is a phrase used to describe someone who is fair-skinned or Caucasian. It is derived from the phrase "white as snow," which is often used to describe someone with very pale skin. |
+| 30 | [HALF TIME](http://twitter.com/search?q=HALF+TIME) | Half time is a term used in sports to refer to the break between two halves of a game. It is usually 15 minutes long and is used to allow players to rest and coaches to make adjustments. In some sports, such as soccer, the teams switch sides of the field at half time. |
+| 31 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 32 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 33 | [Anthony Taylor](http://twitter.com/search?q=Anthony+Taylor) | Anthony Taylor is a British professional football referee who officiates primarily in the Premier League. He has been a FIFA referee since 2011 and is one of the most experienced referees in the English game. The phrase "Anthony Taylor" is used to refer to a person who is an expert in their field and has a high level of knowledge and experience. |
+| 34 | [Bailey](http://twitter.com/search?q=Bailey) | Bailey is an English surname derived from the Old French word baille, meaning "bailiff" or "enclosure." It can also be used as a given name, usually for males. |
+| 35 | [Kitty's Light](http://twitter.com/search?q=Kitty%27s+Light) | N/A |
+| 36 | [Maddison](http://twitter.com/search?q=Maddison) | N/A |
+| 37 | [McNeil](http://twitter.com/search?q=McNeil) | McNeil is a surname of Scottish origin. It is derived from the Gaelic Mac an Fhilidh, meaning "son of the servant". |
+| 38 | [McKennie](http://twitter.com/search?q=McKennie) | McKennie is a surname of Scottish origin. It is derived from the Gaelic MacCoinneach, meaning "son of Coinneach". |
+| 39 | [KICK OFF](http://twitter.com/search?q=KICK+OFF) | N/A |
+| 40 | [Marquinhos](http://twitter.com/search?q=Marquinhos) | Marquinhos is a nickname for the Brazilian footballer Marcos Aoás Corrêa, who plays for Paris Saint-Germain. The name is derived from his first name, Marcos, and is a common nickname in Brazil. In English, it translates to "Little Marcos". |
+| 41 | [Coventry](http://twitter.com/search?q=Coventry) | Coventry is a city in the West Midlands region of England. It is the 11th largest city in England and the 12th largest in the United Kingdom. The name Coventry is derived from Old English and means "meeting place of the people". |
+| 42 | [Aaronson](http://twitter.com/search?q=Aaronson) | Aaronson is a surname of Jewish origin. It is derived from the Hebrew name Aaron, meaning "high mountain" or "exalted". |
+| 43 | [Amad](http://twitter.com/search?q=Amad) | Amad is an Arabic name that means "forever" or "eternal". It is also used as a surname. |
+| 44 | [Buendia](http://twitter.com/search?q=Buendia) | Buendia is a Spanish surname derived from the town of Buendía in the province of Cuenca, Spain. In English, it means "from Buendía". |
+| 45 | [TEAM NEWS](http://twitter.com/search?q=TEAM+NEWS) | N/A |
+| 46 | [Ings](http://twitter.com/search?q=Ings) | Ings is a slang term used to refer to things or activities that are enjoyable or fun. It can also be used to describe people who are fun and outgoing. |
+| 47 | [Craig Pawson](http://twitter.com/search?q=Craig+Pawson) | N/A |
+| 48 | [Sunderland](http://twitter.com/search?q=Sunderland) | Sunderland is a city in the North East of England. It is located on the River Wear and has a population of around 277,000 people. The name Sunderland comes from the Old English words 'sund' (meaning 'mouth') and 'land' (meaning 'land'). It is thought to refer to the mouth of the River Wear. |
+| 49 | [Maupay](http://twitter.com/search?q=Maupay) | Maupay is a French surname. It is derived from the Old French word mauvais, meaning "bad" or "evil". In English, the name Maupay can be translated to mean "evil one". |
+| 50 | [Stuart](http://twitter.com/search?q=Stuart) | N/A |
 
 
 
