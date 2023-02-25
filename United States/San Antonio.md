@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-25 09:16:53 UTC`
+📆 Last Updated: `2023-02-25 10:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 2 | [Warriors](http://twitter.com/search?q=Warriors) | Warriors is a term used to refer to people who are brave, strong, and skilled in battle. It is often used to describe soldiers, but can also be used to refer to anyone who shows courage and strength in the face of adversity. |
-| 3 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 4 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 5 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
-| 6 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 3 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
+| 4 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 5 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
+| 6 | [Double OT](http://twitter.com/search?q=Double+OT) | Double OT is an abbreviation for double overtime, which is a period of extra time added to the end of a game or match that has ended in a tie. It is usually used in sports such as basketball, hockey, and soccer. Double OT is used to determine a winner when the game has been tied after regulation time. |
 | 7 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 8 | [Double OT](http://twitter.com/search?q=Double+OT) | Double OT is an abbreviation for double overtime, which is a period of extra time added to the end of a game or match that has ended in a tie. It is usually used in sports such as basketball, hockey, and soccer. Double OT is used to determine a winner when the game has been tied after regulation time. |
-| 9 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 10 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 8 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
+| 9 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 10 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
 | 11 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 12 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
-| 13 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 12 | [#BeamTeam](http://twitter.com/search?q=%23BeamTeam) | N/A |
+| 13 | [#NigeriaDecides](http://twitter.com/search?q=%23NigeriaDecides) | N/A |
 | 14 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
 | 15 | [#TCMUnderground](http://twitter.com/search?q=%23TCMUnderground) | N/A |
-| 16 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
-| 17 | [#SACvsLAC](http://twitter.com/search?q=%23SACvsLAC) | N/A |
-| 18 | [#NigeriaDecides](http://twitter.com/search?q=%23NigeriaDecides) | N/A |
-| 19 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 20 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
-| 21 | [#Wordle616](http://twitter.com/search?q=%23Wordle616) | N/A |
-| 22 | [Clips](http://twitter.com/search?q=Clips) | N/A |
-| 23 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 24 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 25 | [2nd OT](http://twitter.com/search?q=2nd+OT) | N/A |
-| 26 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 27 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 28 | [GAME OF THE YEAR](http://twitter.com/search?q=GAME+OF+THE+YEAR) | N/A |
-| 29 | [Bones Hyland](http://twitter.com/search?q=Bones+Hyland) | N/A |
-| 30 | [2 OT](http://twitter.com/search?q=2+OT) | N/A |
-| 31 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 32 | [Roco](http://twitter.com/search?q=Roco) | N/A |
-| 33 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 34 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 35 | [Terrance Mann](http://twitter.com/search?q=Terrance+Mann) | N/A |
-| 36 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 37 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
-| 38 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 39 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
-| 40 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 41 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 42 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 43 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 44 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 45 | [Greatest American Hero](http://twitter.com/search?q=Greatest+American+Hero) | N/A |
-| 46 | [Barney Miller](http://twitter.com/search?q=Barney+Miller) | N/A |
-| 47 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 48 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
-| 49 | [The Strays](http://twitter.com/search?q=The+Strays) | N/A |
-| 50 | [LA River](http://twitter.com/search?q=LA+River) | N/A |
+| 16 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
+| 17 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 18 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 19 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 20 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 21 | [Clips](http://twitter.com/search?q=Clips) | N/A |
+| 22 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 23 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 24 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 25 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 26 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 27 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 28 | [Roco](http://twitter.com/search?q=Roco) | N/A |
+| 29 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
+| 30 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 31 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 32 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
+| 33 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 34 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 35 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
+| 36 | [Barney Miller](http://twitter.com/search?q=Barney+Miller) | N/A |
+| 37 | [Antonio Brown](http://twitter.com/search?q=Antonio+Brown) | Antonio Brown is an American professional football wide receiver who currently plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the best wide receivers in the NFL, having been selected to seven Pro Bowls and four All-Pro teams. |
+| 38 | [The Strays](http://twitter.com/search?q=The+Strays) | N/A |
+| 39 | [LA River](http://twitter.com/search?q=LA+River) | N/A |
+| 40 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
+| 41 | [Finch](http://twitter.com/search?q=Finch) | N/A |
+| 42 | [Westbrick](http://twitter.com/search?q=Westbrick) | N/A |
+| 43 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 44 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
+| 45 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 46 | [Lamelo](http://twitter.com/search?q=Lamelo) | N/A |
+| 47 | [Golden Girls](http://twitter.com/search?q=Golden+Girls) | N/A |
+| 48 | [Burbank](http://twitter.com/search?q=Burbank) | N/A |
+| 49 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
+| 50 | [Aldo](http://twitter.com/search?q=Aldo) | N/A |
 
 
 

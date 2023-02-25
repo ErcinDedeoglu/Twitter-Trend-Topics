@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mersin
 
-📆 Last Updated: `2023-02-25 09:16:43 UTC`
+📆 Last Updated: `2023-02-25 10:15:58 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,48 @@ This is top 50 for [Turkey](</Turkey>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
-| 2 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
-| 3 | [#cbyaralarısarmaya100bin](http://twitter.com/search?q=%23cbyaralar%c4%b1sarmaya100bin) | N/A |
-| 4 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 5 | [#KırmızıÇizgi99Öncesi](http://twitter.com/search?q=%23K%c4%b1rm%c4%b1z%c4%b1%c3%87izgi99%c3%96ncesi) | N/A |
-| 6 | [muratileberna evleniyor](http://twitter.com/search?q=muratileberna+evleniyor) | N/A |
-| 7 | [Shaktar](http://twitter.com/search?q=Shaktar) | N/A |
-| 8 | [Koç Holding](http://twitter.com/search?q=Ko%c3%a7+Holding) | N/A |
-| 9 | [Sporting](http://twitter.com/search?q=Sporting) | Sporting is an adjective that means enthusiastic and energetic. It is often used to describe someone who is eager to take part in physical activities or sports. It can also be used to describe someone who is full of energy and enthusiasm for a particular activity or cause. |
-| 10 | [KÜLLERİMİZDEN DOĞARIZ](http://twitter.com/search?q=K%c3%9cLLER%c4%b0M%c4%b0ZDEN+DO%c4%9eARIZ) | N/A |
-| 11 | [Meral Akşener](http://twitter.com/search?q=Meral+Ak%c5%9fener) | N/A |
-| 12 | [cumamız mübarek olsun](http://twitter.com/search?q=cumam%c4%b1z+m%c3%bcbarek+olsun) | N/A |
-| 13 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
-| 14 | [Yürekler Beraber Çarpıyor](http://twitter.com/search?q=Y%c3%bcrekler+Beraber+%c3%87arp%c4%b1yor) | N/A |
-| 15 | [Leverkusen](http://twitter.com/search?q=Leverkusen) | N/A |
-| 16 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
-| 17 | [Union](http://twitter.com/search?q=Union) | N/A |
-| 18 | [çşbalımı kpssliyap](http://twitter.com/search?q=%c3%a7%c5%9fbal%c4%b1m%c4%b1+kpssliyap) | N/A |
-| 19 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
-| 20 | [Koray Aydın](http://twitter.com/search?q=Koray+Ayd%c4%b1n) | N/A |
-| 21 | [Hatay'da 4](http://twitter.com/search?q=Hatay%27da+4) | N/A |
-| 22 | [Günaydınnn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nnn) | N/A |
-| 23 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
-| 24 | [Ersin](http://twitter.com/search?q=Ersin) | Ersin is a Turkish name derived from the ancient Persian word "ersan", meaning "hero". It is also used as a surname in some parts of Turkey. |
-| 25 | [Berke Kutay Şahin](http://twitter.com/search?q=Berke+Kutay+%c5%9eahin) | N/A |
-| 26 | [elif buse doğan](http://twitter.com/search?q=elif+buse+do%c4%9fan) | N/A |
-| 27 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
-| 28 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 29 | [Depremzade](http://twitter.com/search?q=Depremzade) | N/A |
-| 30 | [Zülfü Livaneli](http://twitter.com/search?q=Z%c3%bclf%c3%bc+Livaneli) | N/A |
-| 31 | [Abdullah Avcı](http://twitter.com/search?q=Abdullah+Avc%c4%b1) | Abdullah Avcı is a Turkish football manager and former player. He is currently the manager of the Turkish national team. The name Abdullah Avcı translates to "Servant of God, Leader" in English. |
-| 32 | [Karaman](http://twitter.com/search?q=Karaman) | N/A |
-| 33 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 34 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
-| 35 | [birliktelik destanı](http://twitter.com/search?q=birliktelik+destan%c4%b1) | N/A |
-| 36 | [Roma](http://twitter.com/search?q=Roma) | N/A |
-| 37 | [Manu](http://twitter.com/search?q=Manu) | N/A |
-| 38 | [Juventus](http://twitter.com/search?q=Juventus) | N/A |
-| 39 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
-| 40 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
-| 41 | [Sevcan Orhan](http://twitter.com/search?q=Sevcan+Orhan) | N/A |
-| 42 | [Kentsel](http://twitter.com/search?q=Kentsel) | N/A |
-| 43 | [Arif Sami Rende](http://twitter.com/search?q=Arif+Sami+Rende) | N/A |
-| 44 | [Ukrayna](http://twitter.com/search?q=Ukrayna) | N/A |
-| 45 | [ProfilimeKimler Bakıyorlar](http://twitter.com/search?q=ProfilimeKimler+Bak%c4%b1yorlar) | N/A |
-| 46 | [Boşanmaların](http://twitter.com/search?q=Bo%c5%9fanmalar%c4%b1n) | N/A |
-| 47 | [Şamil Tayyar](http://twitter.com/search?q=%c5%9eamil+Tayyar) | N/A |
-| 48 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
-| 49 | [Vehbi Koç](http://twitter.com/search?q=Vehbi+Ko%c3%a7) | N/A |
+| 1 | [ZirveBiziz AyTol](http://twitter.com/search?q=ZirveBiziz+AyTol) | N/A |
+| 2 | [#DevletUnutmaz](http://twitter.com/search?q=%23DevletUnutmaz) | N/A |
+| 3 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 4 | [Koç Holding](http://twitter.com/search?q=Ko%c3%a7+Holding) | N/A |
+| 5 | [#SabahattinAli](http://twitter.com/search?q=%23SabahattinAli) | N/A |
+| 6 | [#FenerinMaçıVar](http://twitter.com/search?q=%23FenerinMa%c3%a7%c4%b1Var) | N/A |
+| 7 | [İstanbul Büyükşehir Belediyesi](http://twitter.com/search?q=%c4%b0stanbul+B%c3%bcy%c3%bck%c5%9fehir+Belediyesi) | N/A |
+| 8 | [Arda Güler](http://twitter.com/search?q=Arda+G%c3%bcler) | Arda Güler is a Turkish name, with the given name Arda and the surname Güler. The literal translation of the name is "Joyful Field". |
+| 9 | [Faik](http://twitter.com/search?q=Faik) | N/A |
+| 10 | [Hatay'da 4](http://twitter.com/search?q=Hatay%27da+4) | N/A |
+| 11 | [Fenerbahçe - Konyaspor](http://twitter.com/search?q=Fenerbah%c3%a7e+-+Konyaspor) | N/A |
+| 12 | [Tünaydın](http://twitter.com/search?q=T%c3%bcnayd%c4%b1n) | N/A |
+| 13 | [Ersin](http://twitter.com/search?q=Ersin) | Ersin is a Turkish name derived from the ancient Persian word "ersan", meaning "hero". It is also used as a surname in some parts of Turkey. |
+| 14 | [Şamil Tayyar](http://twitter.com/search?q=%c5%9eamil+Tayyar) | N/A |
+| 15 | [Zülfü Livaneli](http://twitter.com/search?q=Z%c3%bclf%c3%bc+Livaneli) | N/A |
+| 16 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
+| 17 | [Hande Fırat](http://twitter.com/search?q=Hande+F%c4%b1rat) | N/A |
+| 18 | [Günaydınn](http://twitter.com/search?q=G%c3%bcnayd%c4%b1nn) | N/A |
+| 19 | [Gunaydin](http://twitter.com/search?q=Gunaydin) | N/A |
+| 20 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
+| 21 | [Özal](http://twitter.com/search?q=%c3%96zal) | N/A |
+| 22 | [günaydınlar](http://twitter.com/search?q=g%c3%bcnayd%c4%b1nlar) | N/A |
+| 23 | [Rojbaş](http://twitter.com/search?q=Rojba%c5%9f) | N/A |
+| 24 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 25 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 26 | [Konut](http://twitter.com/search?q=Konut) | N/A |
+| 27 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
+| 28 | [Tuğçe Kazaz](http://twitter.com/search?q=Tu%c4%9f%c3%a7e+Kazaz) | N/A |
+| 29 | [Yapar](http://twitter.com/search?q=Yapar) | N/A |
+| 30 | [#uyuyamıyorum](http://twitter.com/search?q=%23uyuyam%c4%b1yorum) | N/A |
+| 31 | [#SSMÇözümBekliyor](http://twitter.com/search?q=%23SSM%c3%87%c3%b6z%c3%bcmBekliyor) | N/A |
+| 32 | [#21YıllıkFelAKet](http://twitter.com/search?q=%2321Y%c4%b1ll%c4%b1kFelAKet) | N/A |
+| 33 | [#pütürge](http://twitter.com/search?q=%23p%c3%bct%c3%bcrge) | N/A |
+| 34 | [#EYT28ŞubatMiladıOlsun](http://twitter.com/search?q=%23EYT28%c5%9eubatMilad%c4%b1Olsun) | N/A |
+| 35 | [#haftasonu](http://twitter.com/search?q=%23haftasonu) | N/A |
+| 36 | [#fenerbahcebilet](http://twitter.com/search?q=%23fenerbahcebilet) | N/A |
+| 37 | [#FBvKNY](http://twitter.com/search?q=%23FBvKNY) | N/A |
+| 38 | [#iHeartAwards](http://twitter.com/search?q=%23iHeartAwards) | #iHeartAwards is an annual awards show hosted by iHeartRadio, a digital radio platform. The awards recognize the best in music, movies, television, sports, and more. The event celebrates the biggest names in entertainment and honors their achievements throughout the year. |
+| 39 | [#kombinedevir](http://twitter.com/search?q=%23kombinedevir) | N/A |
+| 40 | [#kombinedevret](http://twitter.com/search?q=%23kombinedevret) | N/A |
+| 41 | [#2000sonrasıKADEME](http://twitter.com/search?q=%232000sonras%c4%b1KADEME) | N/A |
+| 42 | [#DepremDegilSistem](http://twitter.com/search?q=%23DepremDegilSistem) | N/A |
 
 
 

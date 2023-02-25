@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Coventry
 
-📆 Last Updated: `2023-02-25 09:15:59 UTC`
+📆 Last Updated: `2023-02-25 10:15:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,55 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#wwfc](http://twitter.com/search?q=%23wwfc) | N/A |
-| 2 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 3 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
-| 4 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 6 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 7 | [#NigeriaDecides](http://twitter.com/search?q=%23NigeriaDecides) | N/A |
-| 8 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 9 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
-| 10 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
-| 11 | [Turnips](http://twitter.com/search?q=Turnips) | N/A |
-| 12 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
-| 13 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
-| 14 | [Coffey](http://twitter.com/search?q=Coffey) | N/A |
-| 15 | [Wordle 616 X](http://twitter.com/search?q=Wordle+616+X) | N/A |
-| 16 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 17 | [Vernon Kay](http://twitter.com/search?q=Vernon+Kay) | N/A |
-| 18 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 19 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 20 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 21 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 22 | [Premier Division](http://twitter.com/search?q=Premier+Division) | N/A |
-| 23 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 24 | [Bernard Ingham](http://twitter.com/search?q=Bernard+Ingham) | N/A |
-| 25 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
-| 26 | [Steve Allen](http://twitter.com/search?q=Steve+Allen) | N/A |
-| 27 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 28 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 29 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 30 | [Joe Root](http://twitter.com/search?q=Joe+Root) | Joe Root is an English cricketer who currently captains the England Test team. He is widely regarded as one of the best batsmen in the world and has scored over 8,000 runs in Test cricket. The phrase "Joe Root" is often used to refer to someone who is a talented and successful sportsperson. |
-| 31 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 32 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 33 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 34 | [Popmaster](http://twitter.com/search?q=Popmaster) | Popmaster is a British radio quiz show that has been running since the 1980s. It is broadcast on BBC Radio 2 and hosted by Ken Bruce. The show involves contestants answering questions about popular music, with the winner receiving a prize. The term "Popmaster" is used to refer to the host of the show, as well as to describe the game itself. |
-| 35 | [Baldrick](http://twitter.com/search?q=Baldrick) | N/A |
-| 36 | [Flying Scotsman](http://twitter.com/search?q=Flying+Scotsman) | N/A |
-| 37 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 38 | [Steve Wright](http://twitter.com/search?q=Steve+Wright) | Steve Wright is a British radio presenter and comedian. He is best known for his long-running BBC Radio 2 show, Steve Wright in the Afternoon. The show features music, comedy sketches, and interviews with celebrity guests. The phrase "Steve Wright" has come to mean a light-hearted and entertaining radio show. |
-| 39 | [Jupiter and Venus](http://twitter.com/search?q=Jupiter+and+Venus) | N/A |
-| 40 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 41 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
-| 42 | [Tanya](http://twitter.com/search?q=Tanya) | Tanya is a female given name of Russian origin. It is derived from the Russian word "tatyana" which means "fairy queen". In English, it can be translated to mean "fairy queen". |
-| 43 | [Mhairi](http://twitter.com/search?q=Mhairi) | N/A |
-| 44 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
-| 45 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 46 | [Motty](http://twitter.com/search?q=Motty) | N/A |
-| 47 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 48 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 49 | [Hummel](http://twitter.com/search?q=Hummel) | N/A |
-| 50 | [Adults £10](http://twitter.com/search?q=Adults+%c2%a310) | N/A |
+| 1 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 2 | [#TurnipGate](http://twitter.com/search?q=%23TurnipGate) | N/A |
+| 3 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 4 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 6 | [#UKGiftAM](http://twitter.com/search?q=%23UKGiftAM) | N/A |
+| 7 | [GAME DAY](http://twitter.com/search?q=GAME+DAY) | N/A |
+| 8 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 9 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 10 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
+| 11 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 12 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 13 | [Wordle 616 X](http://twitter.com/search?q=Wordle+616+X) | N/A |
+| 14 | [Election Day](http://twitter.com/search?q=Election+Day) | N/A |
+| 15 | [South Wales](http://twitter.com/search?q=South+Wales) | N/A |
+| 16 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 17 | [Cenotaph](http://twitter.com/search?q=Cenotaph) | N/A |
+| 18 | [Reserves](http://twitter.com/search?q=Reserves) | N/A |
+| 19 | [Steve Wright](http://twitter.com/search?q=Steve+Wright) | Steve Wright is a British radio presenter and comedian. He is best known for his long-running BBC Radio 2 show, Steve Wright in the Afternoon. The show features music, comedy sketches, and interviews with celebrity guests. The phrase "Steve Wright" has come to mean a light-hearted and entertaining radio show. |
+| 20 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
+| 21 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 22 | [Trafalgar Square](http://twitter.com/search?q=Trafalgar+Square) | N/A |
+| 23 | [Greatest Hits](http://twitter.com/search?q=Greatest+Hits) | N/A |
+| 24 | [Vernon Kay](http://twitter.com/search?q=Vernon+Kay) | N/A |
+| 25 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
+| 26 | [Popmaster](http://twitter.com/search?q=Popmaster) | Popmaster is a British radio quiz show that has been running since the 1980s. It is broadcast on BBC Radio 2 and hosted by Ken Bruce. The show involves contestants answering questions about popular music, with the winner receiving a prize. The term "Popmaster" is used to refer to the host of the show, as well as to describe the game itself. |
+| 27 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
+| 28 | [#UKGiftHour](http://twitter.com/search?q=%23UKGiftHour) | N/A |
+| 29 | [#NigeriaDecides](http://twitter.com/search?q=%23NigeriaDecides) | N/A |
+| 30 | [#ASongOrMovieForBottles](http://twitter.com/search?q=%23ASongOrMovieForBottles) | N/A |
+| 31 | [#postboxsaturday](http://twitter.com/search?q=%23postboxsaturday) | N/A |
+| 32 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 33 | [#SixOnSaturday](http://twitter.com/search?q=%23SixOnSaturday) | N/A |
+| 34 | [#EnglishTop10](http://twitter.com/search?q=%23EnglishTop10) | N/A |
+| 35 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
+| 36 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 37 | [#Saturdaythoughts](http://twitter.com/search?q=%23Saturdaythoughts) | N/A |
+| 38 | [#ToriesOut233](http://twitter.com/search?q=%23ToriesOut233) | N/A |
+| 39 | [#parkrun](http://twitter.com/search?q=%23parkrun) | N/A |
+| 40 | [#WALvENG](http://twitter.com/search?q=%23WALvENG) | N/A |
+| 41 | [#earthquake](http://twitter.com/search?q=%23earthquake) | #Earthquake is a hashtag used on social media to refer to an earthquake, which is a sudden shaking of the ground caused by the shifting of rocks deep within the Earth. |
+| 42 | [#CarabaoCupFinal](http://twitter.com/search?q=%23CarabaoCupFinal) | N/A |
+| 43 | [#weekendvibes](http://twitter.com/search?q=%23weekendvibes) | N/A |
+| 44 | [#CapeTownEPrix](http://twitter.com/search?q=%23CapeTownEPrix) | N/A |
+| 45 | [#HWTL](http://twitter.com/search?q=%23HWTL) | N/A |
+| 46 | [#Wembley](http://twitter.com/search?q=%23Wembley) | N/A |
+| 47 | [#PutinGorillaSexTape](http://twitter.com/search?q=%23PutinGorillaSexTape) | N/A |
+| 48 | [#ObiDatti2023](http://twitter.com/search?q=%23ObiDatti2023) | N/A |
+| 49 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
 
 
 

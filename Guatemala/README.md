@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Guatemala
 
-📆 Last Updated: `2023-02-25 09:16:59 UTC`
+📆 Last Updated: `2023-02-25 10:16:11 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,7 +22,7 @@ This is top 50 for Guatemala
 | 5 | [#EuropaLeague](http://twitter.com/search?q=%23EuropaLeague) | N/A |
 | 6 | [Mazariegos](http://twitter.com/search?q=Mazariegos) | N/A |
 | 7 | [Conference League](http://twitter.com/search?q=Conference+League) | N/A |
-| 8 | [Campero](http://twitter.com/search?q=Campero) | N/A |
+| 8 | [campero](http://twitter.com/search?q=campero) | N/A |
 | 9 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
 | 10 | [Manchester United](http://twitter.com/search?q=Manchester+United) | Manchester United is a professional football club based in Manchester, England. It is one of the most successful clubs in English football and has won a record 20 league titles, 12 FA Cups, five League Cups and a record 21 FA Community Shields. The club's nickname is "The Red Devils" and its home ground is Old Trafford Stadium. |
 | 11 | [#DieForYouRemix](http://twitter.com/search?q=%23DieForYouRemix) | N/A |
@@ -32,39 +32,39 @@ This is top 50 for Guatemala
 | 15 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 16 | [Ansu](http://twitter.com/search?q=Ansu) | Ansu is a Japanese word that means "answer". It is often used in the context of providing an answer to a question or problem. |
 | 17 | [zelaya](http://twitter.com/search?q=zelaya) | N/A |
-| 18 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 19 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
-| 20 | [#libertadparavirginia](http://twitter.com/search?q=%23libertadparavirginia) | N/A |
-| 21 | [Edgar Chin](http://twitter.com/search?q=Edgar+Chin) | N/A |
-| 22 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 18 | [#EleccionesGT](http://twitter.com/search?q=%23EleccionesGT) | N/A |
+| 19 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 20 | [Di María](http://twitter.com/search?q=Di+Mar%c3%ada) | N/A |
+| 21 | [#libertadparavirginia](http://twitter.com/search?q=%23libertadparavirginia) | N/A |
+| 22 | [Edgar Chin](http://twitter.com/search?q=Edgar+Chin) | N/A |
 | 23 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
-| 24 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
-| 25 | [Gaviota de Plata](http://twitter.com/search?q=Gaviota+de+Plata) | N/A |
-| 26 | [have a safe flight namjoon](http://twitter.com/search?q=have+a+safe+flight+namjoon) | N/A |
-| 27 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 28 | [virginia laparra](http://twitter.com/search?q=virginia+laparra) | N/A |
-| 29 | [Cinthya](http://twitter.com/search?q=Cinthya) | N/A |
-| 30 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
-| 31 | [la sat](http://twitter.com/search?q=la+sat) | N/A |
-| 32 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 33 | [Tormenta](http://twitter.com/search?q=Tormenta) | N/A |
-| 34 | [Centro Histórico](http://twitter.com/search?q=Centro+Hist%c3%b3rico) | N/A |
-| 35 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 36 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
-| 37 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
-| 38 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 39 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
-| 40 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 41 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
-| 42 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
-| 43 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
-| 44 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
-| 45 | [Antigua Guatemala](http://twitter.com/search?q=Antigua+Guatemala) | N/A |
-| 46 | [primer viernes de cuaresma](http://twitter.com/search?q=primer+viernes+de+cuaresma) | N/A |
-| 47 | [#TaehyungOnJinnysKitchen](http://twitter.com/search?q=%23TaehyungOnJinnysKitchen) | N/A |
-| 48 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 49 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
-| 50 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 24 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 25 | [Busquets](http://twitter.com/search?q=Busquets) | Busquets is a Spanish surname. It is derived from the word "buscar," which means "to search." In English, it can be translated to mean "searcher." |
+| 26 | [Gaviota de Plata](http://twitter.com/search?q=Gaviota+de+Plata) | N/A |
+| 27 | [have a safe flight namjoon](http://twitter.com/search?q=have+a+safe+flight+namjoon) | N/A |
+| 28 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 29 | [Virginia Laparra](http://twitter.com/search?q=Virginia+Laparra) | N/A |
+| 30 | [Cinthya](http://twitter.com/search?q=Cinthya) | N/A |
+| 31 | [Balde](http://twitter.com/search?q=Balde) | Balde is a Portuguese word meaning "bald". It is used to describe someone who is bald or has a shaved head. |
+| 32 | [la sat](http://twitter.com/search?q=la+sat) | N/A |
+| 33 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 34 | [Tormenta](http://twitter.com/search?q=Tormenta) | N/A |
+| 35 | [Centro Histórico](http://twitter.com/search?q=Centro+Hist%c3%b3rico) | N/A |
+| 36 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 37 | [Man U](http://twitter.com/search?q=Man+U) | Man U is a nickname for Manchester United, an English professional football club based in Old Trafford, Greater Manchester. The club is one of the most successful and popular in the world, having won a record 20 league titles, a record 12 FA Cups, four League Cups and a record 21 FA Community Shields. |
+| 38 | [#GUATEVOTA2023](http://twitter.com/search?q=%23GUATEVOTA2023) | N/A |
+| 39 | [Kali Uchis](http://twitter.com/search?q=Kali+Uchis) | N/A |
+| 40 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 41 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 42 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 43 | [Kounde](http://twitter.com/search?q=Kounde) | Kounde is a surname of African origin. It is derived from the Yoruba language and means “born on a Monday”. |
+| 44 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
+| 45 | [Haití](http://twitter.com/search?q=Hait%c3%ad) | Haití is the Spanish spelling of Haiti, a Caribbean country located on the western part of the island of Hispaniola. In English, Haiti means "mountainous country." |
+| 46 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 47 | [antigua guatemala](http://twitter.com/search?q=antigua+guatemala) | N/A |
+| 48 | [Primer Viernes de Cuaresma](http://twitter.com/search?q=Primer+Viernes+de+Cuaresma) | N/A |
+| 49 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 50 | [Dembele](http://twitter.com/search?q=Dembele) | Dembele is a surname of West African origin. It is derived from the Mande language and means "peaceful warrior". In English, it can be translated to mean "one who brings peace through strength". |
 
 
 

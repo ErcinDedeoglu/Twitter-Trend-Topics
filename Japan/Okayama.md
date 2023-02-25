@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Okayama
 
-📆 Last Updated: `2023-02-25 09:17:05 UTC`
+📆 Last Updated: `2023-02-25 10:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,54 +15,54 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [DOGSO](http://twitter.com/search?q=DOGSO) | N/A |
-| 2 | [#みんなで見ようAPOŹ_DAY1](http://twitter.com/search?q=%23%e3%81%bf%e3%82%93%e3%81%aa%e3%81%a7%e8%a6%8b%e3%82%88%e3%81%86APO%c5%b9_DAY1) | N/A |
-| 3 | [#乃木坂バスラ3期生ライブ](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e3%83%90%e3%82%b9%e3%83%a93%e6%9c%9f%e7%94%9f%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
-| 4 | [#DD_LIVEday1](http://twitter.com/search?q=%23DD_LIVEday1) | N/A |
-| 5 | [#アイプラ生放送](http://twitter.com/search?q=%23%e3%82%a2%e3%82%a4%e3%83%97%e3%83%a9%e7%94%9f%e6%94%be%e9%80%81) | #アイプラ生放送 is a hashtag used on Twitter in Japan to refer to live broadcasts of the video game Splatoon 2. In English, it translates to "Splatoon 2 Live Broadcast". |
-| 6 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
-| 7 | [#ヒロアカMVP](http://twitter.com/search?q=%23%e3%83%92%e3%83%ad%e3%82%a2%e3%82%abMVP) | #ヒロアカMVP is a hashtag used on Twitter to show support for the popular manga and anime series My Hero Academia. It stands for "My Hero Academia Most Valuable Player" and is used to recognize and celebrate the characters, storylines, and other aspects of the series. |
-| 8 | [赤面フラッシュ](http://twitter.com/search?q=%e8%b5%a4%e9%9d%a2%e3%83%95%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
-| 9 | [サプライズボーイ](http://twitter.com/search?q=%e3%82%b5%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
-| 10 | [オロロジャイア](http://twitter.com/search?q=%e3%82%aa%e3%83%ad%e3%83%ad%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%a2) | N/A |
-| 11 | [レディ・ナガン](http://twitter.com/search?q=%e3%83%ac%e3%83%87%e3%82%a3%e3%83%bb%e3%83%8a%e3%82%ac%e3%83%b3) | N/A |
-| 12 | [PKやり直し](http://twitter.com/search?q=PK%e3%82%84%e3%82%8a%e7%9b%b4%e3%81%97) | N/A |
-| 13 | [ぱしゃっつ](http://twitter.com/search?q=%e3%81%b1%e3%81%97%e3%82%83%e3%81%a3%e3%81%a4) | ぱしゃっつ is an onomatopoeia that is used to express the sound of something being thrown or tossed. In English, it could be translated as "toss" or "throw". |
-| 14 | [ホークス](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%82%af%e3%82%b9) | ホークス (Hawks) is the name of a professional baseball team in Japan. The team is based in Fukuoka and plays in the Pacific League of Nippon Professional Baseball. The English translation of ホークス is "Hawks". |
-| 15 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 16 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
-| 17 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 18 | [鹿島川崎](http://twitter.com/search?q=%e9%b9%bf%e5%b3%b6%e5%b7%9d%e5%b4%8e) | N/A |
-| 19 | [カタシロ](http://twitter.com/search?q=%e3%82%ab%e3%82%bf%e3%82%b7%e3%83%ad) | カタシロ is a Japanese word that means "tattoo". It is often used to refer to traditional Japanese tattoos, which are usually large and intricate designs. |
-| 20 | [デクくん](http://twitter.com/search?q=%e3%83%87%e3%82%af%e3%81%8f%e3%82%93) | デクくん is a character from the Japanese manga series Doraemon. He is a robotic cat from the future who travels back in time to help his human friend, Nobita. The name "デクくん" translates to "Deku-kun" in English. |
-| 21 | [ホロバス](http://twitter.com/search?q=%e3%83%9b%e3%83%ad%e3%83%90%e3%82%b9) | N/A |
-| 22 | [タイブレーク](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af) | N/A |
-| 23 | [開幕2連勝](http://twitter.com/search?q=%e9%96%8b%e5%b9%952%e9%80%a3%e5%8b%9d) | N/A |
-| 24 | [ユンカー](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ab%e3%83%bc) | ユンカー (Yunka) is a Japanese word that means "sly" or "crafty". It is often used to describe someone who is clever and cunning. |
-| 25 | [しんこちゃん](http://twitter.com/search?q=%e3%81%97%e3%82%93%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 26 | [カイオーガ](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%82%aa%e3%83%bc%e3%82%ac) | N/A |
-| 27 | [セレッソ](http://twitter.com/search?q=%e3%82%bb%e3%83%ac%e3%83%83%e3%82%bd) | セレッソ is a Japanese football club based in Osaka. The name is an abbreviation of the club's full name, Cerezo Osaka. In English, it means "Cerezo Osaka". |
-| 28 | [ソフトバンク](http://twitter.com/search?q=%e3%82%bd%e3%83%95%e3%83%88%e3%83%90%e3%83%b3%e3%82%af) | ソフトバンク is a Japanese telecommunications company that provides mobile phone, fixed-line telephone, internet, and IPTV services. In English, it is known as SoftBank. |
-| 29 | [オープン戦](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e6%88%a6) | N/A |
-| 30 | [ヨンビン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
-| 31 | [家長さん](http://twitter.com/search?q=%e5%ae%b6%e9%95%b7%e3%81%95%e3%82%93) | N/A |
-| 32 | [鈴木優磨](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e5%84%aa%e7%a3%a8) | N/A |
-| 33 | [グラードン](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%bc%e3%83%89%e3%83%b3) | N/A |
-| 34 | [TOP4](http://twitter.com/search?q=TOP4) | TOP4 is an acronym that stands for the top four teams in a particular competition or tournament. It is used to refer to the four teams that have achieved the highest ranking in a given event. |
-| 35 | [人生めちゃくちゃ](http://twitter.com/search?q=%e4%ba%ba%e7%94%9f%e3%82%81%e3%81%a1%e3%82%83%e3%81%8f%e3%81%a1%e3%82%83) | N/A |
-| 36 | [シミッチ](http://twitter.com/search?q=%e3%82%b7%e3%83%9f%e3%83%83%e3%83%81) | N/A |
-| 37 | [オールマイト](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%9e%e3%82%a4%e3%83%88) | N/A |
-| 38 | [宮城くん](http://twitter.com/search?q=%e5%ae%ae%e5%9f%8e%e3%81%8f%e3%82%93) | 宮城くん is a nickname given to people from Miyagi Prefecture in Japan. It is derived from the prefecture's name, which literally translates to "shrine city". In English, it can be translated as "Miyagi-kun". |
-| 39 | [ロンシロ](http://twitter.com/search?q=%e3%83%ad%e3%83%b3%e3%82%b7%e3%83%ad) | N/A |
-| 40 | [ナガンさん](http://twitter.com/search?q=%e3%83%8a%e3%82%ac%e3%83%b3%e3%81%95%e3%82%93) | N/A |
-| 41 | [蹴り直し](http://twitter.com/search?q=%e8%b9%b4%e3%82%8a%e7%9b%b4%e3%81%97) | N/A |
-| 42 | [周年イベ](http://twitter.com/search?q=%e5%91%a8%e5%b9%b4%e3%82%a4%e3%83%99) | 周年イベ is short for 周年イベント, which means "anniversary event" in English. It is an event that is held to celebrate the anniversary of a company, organization, or other entity. |
-| 43 | [ロジャー](http://twitter.com/search?q=%e3%83%ad%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 44 | [アニアカ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%82%a2%e3%82%ab) | アニアカ is a Japanese term that translates to "anime fan". It is used to refer to someone who is an avid fan of anime and manga. |
-| 45 | [しのぶくん](http://twitter.com/search?q=%e3%81%97%e3%81%ae%e3%81%b6%e3%81%8f%e3%82%93) | N/A |
-| 46 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 47 | [ジェバリ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%90%e3%83%aa) | ジェバリ (Jebari) is a Japanese slang term that means "cool" or "awesome". It is often used to express admiration or approval of something. |
-| 48 | [主人公の性別](http://twitter.com/search?q=%e4%b8%bb%e4%ba%ba%e5%85%ac%e3%81%ae%e6%80%a7%e5%88%a5) | N/A |
+| 1 | [TOP4](http://twitter.com/search?q=TOP4) | TOP4 is an acronym that stands for the top four teams in a particular competition or tournament. It is used to refer to the four teams that have achieved the highest ranking in a given event. |
+| 2 | [#アイプラ生放送](http://twitter.com/search?q=%23%e3%82%a2%e3%82%a4%e3%83%97%e3%83%a9%e7%94%9f%e6%94%be%e9%80%81) | #アイプラ生放送 is a hashtag used on Twitter in Japan to refer to live broadcasts of the video game Splatoon 2. In English, it translates to "Splatoon 2 Live Broadcast". |
+| 3 | [#みんなで見ようAPOŹ_DAY1](http://twitter.com/search?q=%23%e3%81%bf%e3%82%93%e3%81%aa%e3%81%a7%e8%a6%8b%e3%82%88%e3%81%86APO%c5%b9_DAY1) | N/A |
+| 4 | [#乃木坂バスラ3期生ライブ](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e3%83%90%e3%82%b9%e3%83%a93%e6%9c%9f%e7%94%9f%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 5 | [DOGSO](http://twitter.com/search?q=DOGSO) | N/A |
+| 6 | [赤面フラッシュ](http://twitter.com/search?q=%e8%b5%a4%e9%9d%a2%e3%83%95%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
+| 7 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
+| 8 | [#乃木坂11thバスラ3期生ライブ](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%8211th%e3%83%90%e3%82%b9%e3%83%a93%e6%9c%9f%e7%94%9f%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 9 | [オロロジャイア](http://twitter.com/search?q=%e3%82%aa%e3%83%ad%e3%83%ad%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%a2) | N/A |
+| 10 | [#DD_LIVEday1](http://twitter.com/search?q=%23DD_LIVEday1) | N/A |
+| 11 | [カタシロ](http://twitter.com/search?q=%e3%82%ab%e3%82%bf%e3%82%b7%e3%83%ad) | カタシロ is a Japanese word that means "tattoo". It is often used to refer to traditional Japanese tattoos, which are usually large and intricate designs. |
+| 12 | [関門海峡](http://twitter.com/search?q=%e9%96%a2%e9%96%80%e6%b5%b7%e5%b3%a1) | N/A |
+| 13 | [ロジャー](http://twitter.com/search?q=%e3%83%ad%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
+| 14 | [ぱしゃっつ](http://twitter.com/search?q=%e3%81%b1%e3%81%97%e3%82%83%e3%81%a3%e3%81%a4) | ぱしゃっつ is an onomatopoeia that is used to express the sound of something being thrown or tossed. In English, it could be translated as "toss" or "throw". |
+| 15 | [青空レストラン](http://twitter.com/search?q=%e9%9d%92%e7%a9%ba%e3%83%ac%e3%82%b9%e3%83%88%e3%83%a9%e3%83%b3) | N/A |
+| 16 | [サプライズボーイ](http://twitter.com/search?q=%e3%82%b5%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
+| 17 | [オペラさん](http://twitter.com/search?q=%e3%82%aa%e3%83%9a%e3%83%a9%e3%81%95%e3%82%93) | N/A |
+| 18 | [PKやり直し](http://twitter.com/search?q=PK%e3%82%84%e3%82%8a%e7%9b%b4%e3%81%97) | N/A |
+| 19 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
+| 20 | [カイオーガ](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%82%aa%e3%83%bc%e3%82%ac) | N/A |
+| 21 | [レディ・ナガン](http://twitter.com/search?q=%e3%83%ac%e3%83%87%e3%82%a3%e3%83%bb%e3%83%8a%e3%82%ac%e3%83%b3) | N/A |
+| 22 | [ヨンビン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
+| 23 | [周年イベ](http://twitter.com/search?q=%e5%91%a8%e5%b9%b4%e3%82%a4%e3%83%99) | 周年イベ is short for 周年イベント, which means "anniversary event" in English. It is an event that is held to celebrate the anniversary of a company, organization, or other entity. |
+| 24 | [シンシャ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%82%b7%e3%83%a3) | シンシャ is a Japanese word that means "sincere". It is used to describe someone who is honest and genuine in their feelings and actions. |
+| 25 | [しのぶくん](http://twitter.com/search?q=%e3%81%97%e3%81%ae%e3%81%b6%e3%81%8f%e3%82%93) | N/A |
+| 26 | [グラードン](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%bc%e3%83%89%e3%83%b3) | N/A |
+| 27 | [ホロバス](http://twitter.com/search?q=%e3%83%9b%e3%83%ad%e3%83%90%e3%82%b9) | N/A |
+| 28 | [鹿島川崎](http://twitter.com/search?q=%e9%b9%bf%e5%b3%b6%e5%b7%9d%e5%b4%8e) | N/A |
+| 29 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
+| 30 | [ランナーの心肺停止](http://twitter.com/search?q=%e3%83%a9%e3%83%b3%e3%83%8a%e3%83%bc%e3%81%ae%e5%bf%83%e8%82%ba%e5%81%9c%e6%ad%a2) | N/A |
+| 31 | [ミュージックフェア](http://twitter.com/search?q=%e3%83%9f%e3%83%a5%e3%83%bc%e3%82%b8%e3%83%83%e3%82%af%e3%83%95%e3%82%a7%e3%82%a2) | N/A |
+| 32 | [ロンシロ](http://twitter.com/search?q=%e3%83%ad%e3%83%b3%e3%82%b7%e3%83%ad) | N/A |
+| 33 | [荒木のハンド](http://twitter.com/search?q=%e8%8d%92%e6%9c%a8%e3%81%ae%e3%83%8f%e3%83%b3%e3%83%89) | N/A |
+| 34 | [ホークス](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%82%af%e3%82%b9) | ホークス (Hawks) is the name of a professional baseball team in Japan. The team is based in Fukuoka and plays in the Pacific League of Nippon Professional Baseball. The English translation of ホークス is "Hawks". |
+| 35 | [デクくん](http://twitter.com/search?q=%e3%83%87%e3%82%af%e3%81%8f%e3%82%93) | デクくん is a character from the Japanese manga series Doraemon. He is a robotic cat from the future who travels back in time to help his human friend, Nobita. The name "デクくん" translates to "Deku-kun" in English. |
+| 36 | [会津山塩](http://twitter.com/search?q=%e4%bc%9a%e6%b4%a5%e5%b1%b1%e5%a1%a9) | N/A |
+| 37 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
+| 38 | [スポンジボブ](http://twitter.com/search?q=%e3%82%b9%e3%83%9d%e3%83%b3%e3%82%b8%e3%83%9c%e3%83%96) | N/A |
+| 39 | [開幕2連勝](http://twitter.com/search?q=%e9%96%8b%e5%b9%952%e9%80%a3%e5%8b%9d) | N/A |
+| 40 | [巣ごもり後の調整不足](http://twitter.com/search?q=%e5%b7%a3%e3%81%94%e3%82%82%e3%82%8a%e5%be%8c%e3%81%ae%e8%aa%bf%e6%95%b4%e4%b8%8d%e8%b6%b3) | N/A |
+| 41 | [ライアリ](http://twitter.com/search?q=%e3%83%a9%e3%82%a4%e3%82%a2%e3%83%aa) | ライアリ is a Japanese word that means "library". It is derived from the English word "library". |
+| 42 | [上級ヤンデレ](http://twitter.com/search?q=%e4%b8%8a%e7%b4%9a%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac) | N/A |
+| 43 | [ジータちゃん](http://twitter.com/search?q=%e3%82%b8%e3%83%bc%e3%82%bf%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 44 | [メンヘラ度20](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9%e5%ba%a620) | N/A |
+| 45 | [ヤンデレちゃん](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 46 | [ヤンデレ度80](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e5%ba%a680) | N/A |
+| 47 | [ユンカー](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ab%e3%83%bc) | ユンカー (Yunka) is a Japanese word that means "sly" or "crafty". It is often used to describe someone who is clever and cunning. |
+| 48 | [博士ちゃん](http://twitter.com/search?q=%e5%8d%9a%e5%a3%ab%e3%81%a1%e3%82%83%e3%82%93) | 博士ちゃん is a term of endearment used to refer to someone who has achieved a doctorate degree. It is similar to the English term "Doctor Darling" or "Doctor Sweetheart". |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Barranquilla
 
-📆 Last Updated: `2023-02-25 09:16:07 UTC`
+📆 Last Updated: `2023-02-25 10:15:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -37,14 +37,14 @@ This is top 50 for [Colombia](</Colombia>)
 | 20 | [CDMB](http://twitter.com/search?q=CDMB) | N/A |
 | 21 | [Tus Gafitas](http://twitter.com/search?q=Tus+Gafitas) | N/A |
 | 22 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 23 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 24 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
-| 25 | [Te Quiero Gonorrea](http://twitter.com/search?q=Te+Quiero+Gonorrea) | N/A |
-| 26 | [Ojos Ferrari](http://twitter.com/search?q=Ojos+Ferrari) | N/A |
+| 23 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
+| 24 | [Te Quiero Gonorrea](http://twitter.com/search?q=Te+Quiero+Gonorrea) | N/A |
+| 25 | [Ojos Ferrari](http://twitter.com/search?q=Ojos+Ferrari) | N/A |
+| 26 | [Francia](http://twitter.com/search?q=Francia) | N/A |
 | 27 | [Selena](http://twitter.com/search?q=Selena) | N/A |
 | 28 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 29 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
-| 30 | [Eficientes](http://twitter.com/search?q=Eficientes) | N/A |
+| 29 | [Stray Kids](http://twitter.com/search?q=Stray+Kids) | N/A |
+| 30 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
 | 31 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
 | 32 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
 | 33 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
@@ -53,16 +53,16 @@ This is top 50 for [Colombia](</Colombia>)
 | 36 | [ariana](http://twitter.com/search?q=ariana) | N/A |
 | 37 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
 | 38 | [Ana del Castillo](http://twitter.com/search?q=Ana+del+Castillo) | N/A |
-| 39 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 40 | [Agmeth Escaf](http://twitter.com/search?q=Agmeth+Escaf) | N/A |
-| 41 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 42 | [Exministro](http://twitter.com/search?q=Exministro) | N/A |
-| 43 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 44 | [De la Espriella](http://twitter.com/search?q=De+la+Espriella) | N/A |
-| 45 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
-| 46 | [Poncho](http://twitter.com/search?q=Poncho) | N/A |
+| 39 | [Eficientes](http://twitter.com/search?q=Eficientes) | N/A |
+| 40 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 41 | [Agmeth Escaf](http://twitter.com/search?q=Agmeth+Escaf) | N/A |
+| 42 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 43 | [exministro](http://twitter.com/search?q=exministro) | N/A |
+| 44 | [hailey](http://twitter.com/search?q=hailey) | N/A |
+| 45 | [De la Espriella](http://twitter.com/search?q=De+la+Espriella) | N/A |
+| 46 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
 | 47 | [hijueputismo](http://twitter.com/search?q=hijueputismo) | N/A |
-| 48 | [mientras me curo del cora](http://twitter.com/search?q=mientras+me+curo+del+cora) | N/A |
+| 48 | [MIENTRAS ME CURO DEL CORA](http://twitter.com/search?q=MIENTRAS+ME+CURO+DEL+CORA) | N/A |
 | 49 | [Besties](http://twitter.com/search?q=Besties) | N/A |
 | 50 | [Susanita](http://twitter.com/search?q=Susanita) | N/A |
 

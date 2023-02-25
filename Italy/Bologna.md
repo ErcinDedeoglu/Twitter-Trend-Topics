@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-25 09:16:17 UTC`
+📆 Last Updated: `2023-02-25 10:15:36 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,12 +19,12 @@ This is top 50 for [Italy](</Italy>)
 | 2 | [#25febbraio](http://twitter.com/search?q=%2325febbraio) | N/A |
 | 3 | [#Valditara](http://twitter.com/search?q=%23Valditara) | N/A |
 | 4 | [#gfvip](http://twitter.com/search?q=%23gfvip) | #GFVIP stands for "Good Friends Very Important Person" and is used to refer to someone who is a close friend or an important person in one's life. |
-| 5 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
-| 6 | [Ivan Capelli](http://twitter.com/search?q=Ivan+Capelli) | N/A |
-| 7 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 8 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 9 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 10 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 5 | [Ivan Capelli](http://twitter.com/search?q=Ivan+Capelli) | N/A |
+| 6 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 7 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
+| 8 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 9 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 10 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
 | 11 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 12 | [Antonella](http://twitter.com/search?q=Antonella) | Antonella is a female given name of Italian origin. It is derived from Antonius, a Roman family name, and means "worthy of praise". |
 | 13 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
@@ -33,36 +33,36 @@ This is top 50 for [Italy](</Italy>)
 | 16 | [Buongiorno Gianni](http://twitter.com/search?q=Buongiorno+Gianni) | N/A |
 | 17 | [Buongiorno Gianni](http://twitter.com/search?q=Buongiorno+Gianni) | N/A |
 | 18 | [Buongiorno Gianni](http://twitter.com/search?q=Buongiorno+Gianni) | N/A |
-| 19 | [Buongiorno Gianni](http://twitter.com/search?q=Buongiorno+Gianni) | N/A |
-| 20 | [Buongiorno Gianni](http://twitter.com/search?q=Buongiorno+Gianni) | N/A |
-| 21 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
-| 22 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
-| 23 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 24 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
-| 25 | [Dory](http://twitter.com/search?q=Dory) | N/A |
-| 26 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 27 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 19 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
+| 20 | [Donnarumma](http://twitter.com/search?q=Donnarumma) | N/A |
+| 21 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
+| 22 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 23 | [Ichnusa](http://twitter.com/search?q=Ichnusa) | N/A |
+| 24 | [Maria](http://twitter.com/search?q=Maria) | Maria is a female given name of Latin origin, derived from the Hebrew name Miryam. It is a popular name in many countries and is often used as a form of endearment. In English, Maria means "bitter" or "beloved". |
+| 25 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 26 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 27 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
 | 28 | [Antonino](http://twitter.com/search?q=Antonino) | Antonino is an Italian name derived from the Latin name Antonius, which means "beyond praise". It is a popular name in Italy and other parts of Europe. |
-| 29 | [Ichnusa](http://twitter.com/search?q=Ichnusa) | N/A |
-| 30 | [41bis](http://twitter.com/search?q=41bis) | N/A |
-| 31 | [Buongiorno Roberta](http://twitter.com/search?q=Buongiorno+Roberta) | N/A |
-| 32 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
-| 33 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 34 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
-| 35 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
-| 36 | [Buongiorno Rosa](http://twitter.com/search?q=Buongiorno+Rosa) | N/A |
-| 37 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
-| 38 | [Dida](http://twitter.com/search?q=Dida) | N/A |
-| 39 | [Auguriii](http://twitter.com/search?q=Auguriii) | N/A |
-| 40 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
-| 41 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
-| 42 | [Buondì](http://twitter.com/search?q=Buond%c3%ac) | N/A |
-| 43 | [Buongiorno Lorenzo](http://twitter.com/search?q=Buongiorno+Lorenzo) | N/A |
+| 29 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 30 | [Mela](http://twitter.com/search?q=Mela) | N/A |
+| 31 | [Micol](http://twitter.com/search?q=Micol) | Micol is a female given name of Italian origin. It is derived from the Hebrew name Michal, which means "who is like God?". |
+| 32 | [Orietta](http://twitter.com/search?q=Orietta) | Orietta is an Italian female name derived from the Latin word "aurum" meaning "gold". It is also a variant of the name Oriana, which means "dawn". |
+| 33 | [Manuel](http://twitter.com/search?q=Manuel) | N/A |
+| 34 | [Buongiorno Rosa](http://twitter.com/search?q=Buongiorno+Rosa) | N/A |
+| 35 | [Firenze](http://twitter.com/search?q=Firenze) | N/A |
+| 36 | [Cina](http://twitter.com/search?q=Cina) | N/A |
+| 37 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
+| 38 | [Buongiorno Cristina](http://twitter.com/search?q=Buongiorno+Cristina) | N/A |
+| 39 | [Buongiorno Michele](http://twitter.com/search?q=Buongiorno+Michele) | N/A |
+| 40 | [Real Sociedad](http://twitter.com/search?q=Real+Sociedad) | Real Sociedad is a Spanish professional football club based in San Sebastián, Basque Country. The club's name means "Royal Society" in English. It was founded in 1909 and currently plays in La Liga, the top tier of Spanish football. |
+| 41 | [Renzi](http://twitter.com/search?q=Renzi) | N/A |
+| 42 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
+| 43 | [41bis](http://twitter.com/search?q=41bis) | N/A |
 | 44 | [Lucarelli](http://twitter.com/search?q=Lucarelli) | Lucarelli is an Italian surname. It is derived from the Latin word lucus, meaning "woodland" or "grove". In English, the name Lucarelli can be translated to mean "from the woods". |
-| 45 | [Buongiorno Patrizia](http://twitter.com/search?q=Buongiorno+Patrizia) | N/A |
-| 46 | [Buongiornissimo](http://twitter.com/search?q=Buongiornissimo) | N/A |
-| 47 | [Aveva 84](http://twitter.com/search?q=Aveva+84) | N/A |
-| 48 | [La Cassazione](http://twitter.com/search?q=La+Cassazione) | N/A |
+| 45 | [Buongiorno Lorenzo](http://twitter.com/search?q=Buongiorno+Lorenzo) | N/A |
+| 46 | [Parsi](http://twitter.com/search?q=Parsi) | N/A |
+| 47 | [Buongiorno Eli](http://twitter.com/search?q=Buongiorno+Eli) | N/A |
+| 48 | [Aveva 84](http://twitter.com/search?q=Aveva+84) | N/A |
 | 49 | [Buona Domenica](http://twitter.com/search?q=Buona+Domenica) | Buona Domenica is an Italian phrase that translates to "Good Sunday" in English. It is a common greeting used to wish someone a pleasant Sunday. |
 
 
