@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Darwin
 
-📆 Last Updated: `2023-02-25 13:19:19 UTC`
+📆 Last Updated: `2023-02-25 14:16:06 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for [Australia](</Australia>)
 | 2 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
 | 3 | [#mcyvsyd](http://twitter.com/search?q=%23mcyvsyd) | N/A |
 | 4 | [#WorldPride2023](http://twitter.com/search?q=%23WorldPride2023) | N/A |
-| 5 | [#FORvREB](http://twitter.com/search?q=%23FORvREB) | N/A |
-| 6 | [#TeamGirlsCup](http://twitter.com/search?q=%23TeamGirlsCup) | N/A |
-| 7 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 8 | [Reds](http://twitter.com/search?q=Reds) | Reds is a slang term used to refer to people who are communists or supporters of communism. It is derived from the color red, which has been associated with communism since the Russian Revolution of 1917. |
-| 9 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 10 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
-| 11 | [Erin](http://twitter.com/search?q=Erin) | N/A |
-| 12 | [Daryl](http://twitter.com/search?q=Daryl) | N/A |
+| 5 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 6 | [#teamgirlscup](http://twitter.com/search?q=%23teamgirlscup) | N/A |
+| 7 | [#WSWvMAC](http://twitter.com/search?q=%23WSWvMAC) | N/A |
+| 8 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 9 | [Anamoe](http://twitter.com/search?q=Anamoe) | N/A |
+| 10 | [Daryl](http://twitter.com/search?q=Daryl) | N/A |
+| 11 | [harry styles](http://twitter.com/search?q=harry+styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is a mix of pop, rock, and folk styles. |
+| 12 | [Middle Australia](http://twitter.com/search?q=Middle+Australia) | N/A |
 | 13 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 14 | [Middle Australia](http://twitter.com/search?q=Middle+Australia) | N/A |
-| 15 | [Alligator Blood](http://twitter.com/search?q=Alligator+Blood) | N/A |
-| 16 | [Harry Styles](http://twitter.com/search?q=Harry+Styles) | Harry Styles is an English singer, songwriter, and actor. He rose to fame as a member of the boy band One Direction. He has since embarked on a solo career, releasing his debut album in 2017. His music is often described as pop rock with soul and soft rock influences. |
-| 17 | [Uncommon James](http://twitter.com/search?q=Uncommon+James) | N/A |
-| 18 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
-| 19 | [teals](http://twitter.com/search?q=teals) | N/A |
-| 20 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
-| 21 | [Sunshine In Paris](http://twitter.com/search?q=Sunshine+In+Paris) | N/A |
-| 22 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
-| 23 | [Patrick Dangerfield](http://twitter.com/search?q=Patrick+Dangerfield) | N/A |
-| 24 | [Little Brose](http://twitter.com/search?q=Little+Brose) | N/A |
-| 25 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 14 | [Uncommon James](http://twitter.com/search?q=Uncommon+James) | N/A |
+| 15 | [Sandown](http://twitter.com/search?q=Sandown) | N/A |
+| 16 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 17 | [Alligator Blood](http://twitter.com/search?q=Alligator+Blood) | N/A |
+| 18 | [sunshine in paris](http://twitter.com/search?q=sunshine+in+paris) | N/A |
+| 19 | [Thunderstruck](http://twitter.com/search?q=Thunderstruck) | N/A |
+| 20 | [Teals](http://twitter.com/search?q=Teals) | N/A |
+| 21 | [Patrick Dangerfield](http://twitter.com/search?q=Patrick+Dangerfield) | N/A |
+| 22 | [Sarah Coyte](http://twitter.com/search?q=Sarah+Coyte) | N/A |
+| 23 | [little brose](http://twitter.com/search?q=little+brose) | N/A |
+| 24 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 25 | [ATAR](http://twitter.com/search?q=ATAR) | N/A |
 | 26 | [Oxford Street](http://twitter.com/search?q=Oxford+Street) | N/A |
-| 27 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 28 | [ATAR](http://twitter.com/search?q=ATAR) | N/A |
+| 27 | [Howard](http://twitter.com/search?q=Howard) | N/A |
+| 28 | [Erin](http://twitter.com/search?q=Erin) | N/A |
 | 29 | [Leave America](http://twitter.com/search?q=Leave+America) | N/A |
-| 30 | [fernando mick](http://twitter.com/search?q=fernando+mick) | N/A |
-| 31 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 32 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
-| 33 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
-| 34 | [shuffle dancer](http://twitter.com/search?q=shuffle+dancer) | N/A |
-| 35 | [The Horses](http://twitter.com/search?q=The+Horses) | N/A |
-| 36 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
-| 37 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 38 | [Lyle](http://twitter.com/search?q=Lyle) | N/A |
-| 39 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
-| 40 | [rhys cauzzo](http://twitter.com/search?q=rhys+cauzzo) | N/A |
-| 41 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 42 | [gold trip](http://twitter.com/search?q=gold+trip) | N/A |
-| 43 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 44 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 45 | [Aboriginality](http://twitter.com/search?q=Aboriginality) | N/A |
-| 46 | [Group 1](http://twitter.com/search?q=Group+1) | N/A |
-| 47 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
-| 48 | [Seungmin](http://twitter.com/search?q=Seungmin) | Seungmin is a Korean given name, derived from the Chinese characters for "victory" and "bright". It is often translated to mean "victorious and bright". |
-| 49 | [Goldstein](http://twitter.com/search?q=Goldstein) | N/A |
-| 50 | [James Ashby](http://twitter.com/search?q=James+Ashby) | N/A |
+| 30 | [Katharine Murphy](http://twitter.com/search?q=Katharine+Murphy) | N/A |
+| 31 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 32 | [shuffle dancer](http://twitter.com/search?q=shuffle+dancer) | N/A |
+| 33 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 34 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 35 | [Lyle](http://twitter.com/search?q=Lyle) | N/A |
+| 36 | [Prime Minister](http://twitter.com/search?q=Prime+Minister) | N/A |
+| 37 | [Sons of the Forest](http://twitter.com/search?q=Sons+of+the+Forest) | N/A |
+| 38 | [rhys cauzzo](http://twitter.com/search?q=rhys+cauzzo) | N/A |
+| 39 | [Sussan Ley](http://twitter.com/search?q=Sussan+Ley) | N/A |
+| 40 | [gold trip](http://twitter.com/search?q=gold+trip) | N/A |
+| 41 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 42 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
+| 43 | [Aboriginality](http://twitter.com/search?q=Aboriginality) | N/A |
+| 44 | [Group 1](http://twitter.com/search?q=Group+1) | N/A |
+| 45 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 46 | [Steel City](http://twitter.com/search?q=Steel+City) | N/A |
+| 47 | [Jake Paul](http://twitter.com/search?q=Jake+Paul) | Jake Paul is an American YouTuber, actor, and musician. He rose to fame through his Vine and YouTube channels, where he posts comedic videos and vlogs. He is also known for his involvement in various controversies. |
+| 48 | [Simon Benson](http://twitter.com/search?q=Simon+Benson) | N/A |
+| 49 | [Rebels](http://twitter.com/search?q=Rebels) | N/A |
+| 50 | [Goldstein](http://twitter.com/search?q=Goldstein) | N/A |
 
 
 

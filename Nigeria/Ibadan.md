@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ibadan
 
-📆 Last Updated: `2023-02-25 13:19:29 UTC`
+📆 Last Updated: `2023-02-25 14:16:15 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Nigeria](</Nigeria>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
-| 2 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
-| 3 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 4 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
-| 5 | [#Falz](http://twitter.com/search?q=%23Falz) | N/A |
-| 6 | [Ikate](http://twitter.com/search?q=Ikate) | N/A |
-| 7 | [#ObiWon](http://twitter.com/search?q=%23ObiWon) | N/A |
-| 8 | [#AriseTV](http://twitter.com/search?q=%23AriseTV) | N/A |
-| 9 | [Aguda](http://twitter.com/search?q=Aguda) | N/A |
-| 10 | [Situation Report](http://twitter.com/search?q=Situation+Report) | N/A |
-| 11 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
-| 12 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
-| 13 | [Done and Dusted](http://twitter.com/search?q=Done+and+Dusted) | N/A |
-| 14 | [Voting](http://twitter.com/search?q=Voting) | N/A |
-| 15 | [Polling](http://twitter.com/search?q=Polling) | N/A |
-| 16 | [no lp](http://twitter.com/search?q=no+lp) | N/A |
-| 17 | [#PeterObiForPresident2023](http://twitter.com/search?q=%23PeterObiForPresident2023) | N/A |
-| 18 | [Warri South](http://twitter.com/search?q=Warri+South) | N/A |
-| 19 | [Voted](http://twitter.com/search?q=Voted) | N/A |
-| 20 | [Soldiers](http://twitter.com/search?q=Soldiers) | N/A |
-| 21 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
-| 22 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
-| 23 | [Oshodi](http://twitter.com/search?q=Oshodi) | N/A |
-| 24 | [Delta State](http://twitter.com/search?q=Delta+State) | N/A |
-| 25 | [Ballot](http://twitter.com/search?q=Ballot) | N/A |
-| 26 | [Free and Fair](http://twitter.com/search?q=Free+and+Fair) | N/A |
-| 27 | [Void](http://twitter.com/search?q=Void) | N/A |
-| 28 | [Delete](http://twitter.com/search?q=Delete) | Delete is an action that removes something from a computer or other electronic device. It is used to remove files, folders, programs, and other data from a computer's hard drive or other storage device. When something is deleted, it cannot be recovered unless it has been backed up beforehand. |
-| 29 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
-| 30 | [The LP](http://twitter.com/search?q=The+LP) | N/A |
-| 31 | [Imo State](http://twitter.com/search?q=Imo+State) | N/A |
-| 32 | [Ajah](http://twitter.com/search?q=Ajah) | N/A |
-| 33 | [Abia State](http://twitter.com/search?q=Abia+State) | N/A |
-| 34 | [Voters](http://twitter.com/search?q=Voters) | N/A |
-| 35 | [Senatorial](http://twitter.com/search?q=Senatorial) | N/A |
-| 36 | [Trey](http://twitter.com/search?q=Trey) | N/A |
-| 37 | [Amuwo Odofin](http://twitter.com/search?q=Amuwo+Odofin) | N/A |
-| 38 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
-| 39 | [LASU](http://twitter.com/search?q=LASU) | N/A |
-| 40 | [Yenagoa](http://twitter.com/search?q=Yenagoa) | N/A |
-| 41 | [Ward 4](http://twitter.com/search?q=Ward+4) | N/A |
-| 42 | [OBIdiently](http://twitter.com/search?q=OBIdiently) | N/A |
-| 43 | [Bayelsa](http://twitter.com/search?q=Bayelsa) | N/A |
-| 44 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
-| 45 | [Lugbe](http://twitter.com/search?q=Lugbe) | N/A |
-| 46 | [Port Harcourt](http://twitter.com/search?q=Port+Harcourt) | N/A |
-| 47 | [Structure](http://twitter.com/search?q=Structure) | N/A |
-| 48 | [Lekki](http://twitter.com/search?q=Lekki) | N/A |
-| 49 | [Sangotedo](http://twitter.com/search?q=Sangotedo) | N/A |
-| 50 | [Security](http://twitter.com/search?q=Security) | N/A |
+| 1 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 2 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 3 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
+| 4 | [#NigeriaDecides2023](http://twitter.com/search?q=%23NigeriaDecides2023) | N/A |
+| 5 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 6 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 7 | [BVAS](http://twitter.com/search?q=BVAS) | BVAS stands for Behavioral and Vital Signs. It is a term used in the medical field to refer to the physical and mental signs that can be used to assess a patient's health. These signs include heart rate, blood pressure, temperature, respiration rate, and other indicators of physical and mental health. |
+| 8 | [#ObiWon](http://twitter.com/search?q=%23ObiWon) | N/A |
+| 9 | [#Falz](http://twitter.com/search?q=%23Falz) | N/A |
+| 10 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 11 | [#AriseTV](http://twitter.com/search?q=%23AriseTV) | N/A |
+| 12 | [Ikate](http://twitter.com/search?q=Ikate) | N/A |
+| 13 | [Oba Elegushi](http://twitter.com/search?q=Oba+Elegushi) | N/A |
+| 14 | [Thugs](http://twitter.com/search?q=Thugs) | N/A |
+| 15 | [Warri South](http://twitter.com/search?q=Warri+South) | N/A |
+| 16 | [Army](http://twitter.com/search?q=Army) | N/A |
+| 17 | [Labour Party](http://twitter.com/search?q=Labour+Party) | N/A |
+| 18 | [Voted](http://twitter.com/search?q=Voted) | N/A |
+| 19 | [Done and Dusted](http://twitter.com/search?q=Done+and+Dusted) | N/A |
+| 20 | [Polling](http://twitter.com/search?q=Polling) | N/A |
+| 21 | [Free and Fair](http://twitter.com/search?q=Free+and+Fair) | N/A |
+| 22 | [Void](http://twitter.com/search?q=Void) | N/A |
+| 23 | [Voting](http://twitter.com/search?q=Voting) | N/A |
+| 24 | [Soldiers](http://twitter.com/search?q=Soldiers) | N/A |
+| 25 | [My PU](http://twitter.com/search?q=My+PU) | N/A |
+| 26 | [Oshodi](http://twitter.com/search?q=Oshodi) | N/A |
+| 27 | [Bayelsa](http://twitter.com/search?q=Bayelsa) | N/A |
+| 28 | [Ballot](http://twitter.com/search?q=Ballot) | N/A |
+| 29 | [Invalid](http://twitter.com/search?q=Invalid) | N/A |
+| 30 | [Yenagoa](http://twitter.com/search?q=Yenagoa) | N/A |
+| 31 | [Peaceful](http://twitter.com/search?q=Peaceful) | N/A |
+| 32 | [Delta State](http://twitter.com/search?q=Delta+State) | N/A |
+| 33 | [No LP](http://twitter.com/search?q=No+LP) | N/A |
+| 34 | [Structure](http://twitter.com/search?q=Structure) | N/A |
+| 35 | [LASU](http://twitter.com/search?q=LASU) | N/A |
+| 36 | [Kogi](http://twitter.com/search?q=Kogi) | N/A |
+| 37 | [Voters](http://twitter.com/search?q=Voters) | N/A |
+| 38 | [Toyin Abraham](http://twitter.com/search?q=Toyin+Abraham) | N/A |
+| 39 | [Ajah](http://twitter.com/search?q=Ajah) | N/A |
+| 40 | [The LP](http://twitter.com/search?q=The+LP) | N/A |
+| 41 | [Ghana](http://twitter.com/search?q=Ghana) | N/A |
+| 42 | [Imo State](http://twitter.com/search?q=Imo+State) | N/A |
+| 43 | [Lekki](http://twitter.com/search?q=Lekki) | N/A |
+| 44 | [Port Harcourt](http://twitter.com/search?q=Port+Harcourt) | N/A |
+| 45 | [Amuwo Odofin](http://twitter.com/search?q=Amuwo+Odofin) | N/A |
+| 46 | [Anyigba](http://twitter.com/search?q=Anyigba) | N/A |
+| 47 | [Fadeyi](http://twitter.com/search?q=Fadeyi) | N/A |
+| 48 | [Lugbe](http://twitter.com/search?q=Lugbe) | N/A |
+| 49 | [Enugu](http://twitter.com/search?q=Enugu) | N/A |
+| 50 | [Senate](http://twitter.com/search?q=Senate) | Senate is a legislative body, often referred to as the upper house of a bicameral legislature. It is usually composed of members who are elected or appointed by the government. The purpose of the Senate is to represent the interests of its constituents and to provide a check on the power of the executive branch. |
 
 
 

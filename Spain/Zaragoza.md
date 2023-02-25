@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Zaragoza
 
-📆 Last Updated: `2023-02-25 13:19:15 UTC`
+📆 Last Updated: `2023-02-25 14:16:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [Spain](</Spain>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
-| 2 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 3 | [#SerMujerNoEsUnSentimiento](http://twitter.com/search?q=%23SerMujerNoEsUnSentimiento) | N/A |
-| 4 | [#Solos25F](http://twitter.com/search?q=%23Solos25F) | N/A |
-| 5 | [#APOYOROCIO25F](http://twitter.com/search?q=%23APOYOROCIO25F) | N/A |
-| 6 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 7 | [Marburgo](http://twitter.com/search?q=Marburgo) | N/A |
-| 8 | [Badajoz](http://twitter.com/search?q=Badajoz) | N/A |
-| 9 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 10 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 11 | [Cope](http://twitter.com/search?q=Cope) | N/A |
-| 12 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
-| 13 | [Extremadura](http://twitter.com/search?q=Extremadura) | N/A |
-| 14 | [#N1CanalFiesta8](http://twitter.com/search?q=%23N1CanalFiesta8) | N/A |
-| 15 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 16 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
-| 17 | [Leguina](http://twitter.com/search?q=Leguina) | N/A |
-| 18 | [Kings](http://twitter.com/search?q=Kings) | Kings is a term used to refer to a monarch, usually a king or queen. It is also used to refer to the ruling family of a kingdom or empire. In English, it is used to describe someone who has supreme power and authority over a certain area or group of people. |
-| 19 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
-| 20 | [Varsovia](http://twitter.com/search?q=Varsovia) | N/A |
-| 21 | [Bottas](http://twitter.com/search?q=Bottas) | N/A |
-| 22 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 23 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
-| 24 | [Drugovich](http://twitter.com/search?q=Drugovich) | N/A |
-| 25 | [Russell](http://twitter.com/search?q=Russell) | N/A |
-| 26 | [Estatuto de Autonomía](http://twitter.com/search?q=Estatuto+de+Autonom%c3%ada) | N/A |
-| 27 | [San Carlos del Valle](http://twitter.com/search?q=San+Carlos+del+Valle) | N/A |
-| 28 | [sallent](http://twitter.com/search?q=sallent) | N/A |
+| 1 | [Muriqi](http://twitter.com/search?q=Muriqi) | Muriqi is a term used in Albanian culture to refer to a person who is brave, strong, and courageous. In English, it can be translated as "hero". |
+| 2 | [Falcon](http://twitter.com/search?q=Falcon) | N/A |
+| 3 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
+| 4 | [Marburgo](http://twitter.com/search?q=Marburgo) | N/A |
+| 5 | [#EspanyolRCDMallorca](http://twitter.com/search?q=%23EspanyolRCDMallorca) | N/A |
+| 6 | [#SerMujerNoEsUnSentimiento](http://twitter.com/search?q=%23SerMujerNoEsUnSentimiento) | N/A |
+| 7 | [#APOYOROCIO25F](http://twitter.com/search?q=%23APOYOROCIO25F) | N/A |
+| 8 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 9 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 10 | [Badajoz](http://twitter.com/search?q=Badajoz) | N/A |
+| 11 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 12 | [#Solos25F](http://twitter.com/search?q=%23Solos25F) | N/A |
+| 13 | [Airbus](http://twitter.com/search?q=Airbus) | N/A |
+| 14 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 15 | [Extremadura](http://twitter.com/search?q=Extremadura) | N/A |
+| 16 | [Cope](http://twitter.com/search?q=Cope) | N/A |
+| 17 | [Hamilton](http://twitter.com/search?q=Hamilton) | N/A |
+| 18 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 19 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 20 | [Leguina](http://twitter.com/search?q=Leguina) | N/A |
+| 21 | [Varsovia](http://twitter.com/search?q=Varsovia) | N/A |
+| 22 | [MODOK](http://twitter.com/search?q=MODOK) | MODOK stands for Mental/Mobile/Mechanized Organism Designed Only for Killing. It is a fictional supervillain appearing in comic books published by Marvel Comics. |
+| 23 | [Drugovich](http://twitter.com/search?q=Drugovich) | N/A |
+| 24 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 25 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 26 | [DÍA DE PARTIDO](http://twitter.com/search?q=D%c3%8dA+DE+PARTIDO) | N/A |
+| 27 | [Leclerc](http://twitter.com/search?q=Leclerc) | N/A |
+| 28 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
 | 29 | [hailey](http://twitter.com/search?q=hailey) | N/A |
-| 30 | [Feminismo](http://twitter.com/search?q=Feminismo) | N/A |
+| 30 | [Estatuto de Autonomía](http://twitter.com/search?q=Estatuto+de+Autonom%c3%ada) | N/A |
 | 31 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 32 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
-| 33 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
-| 34 | [Sainz](http://twitter.com/search?q=Sainz) | N/A |
+| 32 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
+| 33 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
+| 34 | [San Carlos del Valle](http://twitter.com/search?q=San+Carlos+del+Valle) | N/A |
 | 35 | [Mediador](http://twitter.com/search?q=Mediador) | N/A |
 | 36 | [Alfa Romeo](http://twitter.com/search?q=Alfa+Romeo) | N/A |
 | 37 | [Estrada](http://twitter.com/search?q=Estrada) | N/A |
-| 38 | [#YoMeRebelo25F](http://twitter.com/search?q=%23YoMeRebelo25F) | N/A |
+| 38 | [#RealMadridAtleti](http://twitter.com/search?q=%23RealMadridAtleti) | N/A |
 | 39 | [#SSantaSevilla23](http://twitter.com/search?q=%23SSantaSevilla23) | N/A |
-| 40 | [#EspanyolRCDMallorca](http://twitter.com/search?q=%23EspanyolRCDMallorca) | N/A |
-| 41 | [#RealMadridAtleti](http://twitter.com/search?q=%23RealMadridAtleti) | N/A |
+| 40 | [#YoMeRebelo25F](http://twitter.com/search?q=%23YoMeRebelo25F) | N/A |
+| 41 | [#N1CanalFiesta8](http://twitter.com/search?q=%23N1CanalFiesta8) | N/A |
 | 42 | [#EIF2023](http://twitter.com/search?q=%23EIF2023) | N/A |
 | 43 | [#WeCallitFeminism](http://twitter.com/search?q=%23WeCallitFeminism) | N/A |
-| 44 | [#Del40al1CocaCola](http://twitter.com/search?q=%23Del40al1CocaCola) | N/A |
+| 44 | [#OGC23](http://twitter.com/search?q=%23OGC23) | N/A |
 | 45 | [#DAZNF1](http://twitter.com/search?q=%23DAZNF1) | N/A |
 | 46 | [#AgropopularManzanares](http://twitter.com/search?q=%23AgropopularManzanares) | N/A |
-| 47 | [#OGC23](http://twitter.com/search?q=%23OGC23) | N/A |
+| 47 | [#Del40al1CocaCola](http://twitter.com/search?q=%23Del40al1CocaCola) | N/A |
 | 48 | [#IreneMonteroDimision](http://twitter.com/search?q=%23IreneMonteroDimision) | N/A |
 
 

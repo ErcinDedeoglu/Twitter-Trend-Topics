@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Pakistan
 
-📆 Last Updated: `2023-02-25 13:20:01 UTC`
+📆 Last Updated: `2023-02-25 14:16:44 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Pakistan
 | 2 | [#AdliyaKiIzzatKayLiyeBOL](http://twitter.com/search?q=%23AdliyaKiIzzatKayLiyeBOL) | N/A |
 | 3 | [#MaryamTheSpoiltBrat](http://twitter.com/search?q=%23MaryamTheSpoiltBrat) | N/A |
 | 4 | [#باجوہ_کی_لاڈلی_مریم](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%ac%d9%88%db%81_%da%a9%db%8c_%d9%84%d8%a7%da%88%d9%84%db%8c_%d9%85%d8%b1%db%8c%d9%85) | N/A |
-| 5 | [#رو_فتنے_رو](http://twitter.com/search?q=%23%d8%b1%d9%88_%d9%81%d8%aa%d9%86%db%92_%d8%b1%d9%88) | N/A |
+| 5 | [#مہنگائی_سےبےحال_عوام](http://twitter.com/search?q=%23%d9%85%db%81%d9%86%da%af%d8%a7%d8%a6%db%8c_%d8%b3%db%92%d8%a8%db%92%d8%ad%d8%a7%d9%84_%d8%b9%d9%88%d8%a7%d9%85) | N/A |
 | 6 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 7 | [We Condemn Enemy Of Sahaba](http://twitter.com/search?q=We+Condemn+Enemy+Of+Sahaba) | N/A |
-| 8 | [Fahad Hussain](http://twitter.com/search?q=Fahad+Hussain) | N/A |
-| 9 | [jumma mubarak](http://twitter.com/search?q=jumma+mubarak) | N/A |
-| 10 | [BOL News](http://twitter.com/search?q=BOL+News) | N/A |
-| 11 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 12 | [UMER GRACES THE DANCE FLOOR](http://twitter.com/search?q=UMER+GRACES+THE+DANCE+FLOOR) | N/A |
-| 13 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
-| 14 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
-| 15 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 16 | [itcn asia 2023](http://twitter.com/search?q=itcn+asia+2023) | N/A |
-| 17 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 18 | [NATION LOVES ASIM RIAZ](http://twitter.com/search?q=NATION+LOVES+ASIM+RIAZ) | N/A |
-| 19 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 20 | [Bhara Kahu](http://twitter.com/search?q=Bhara+Kahu) | N/A |
-| 21 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
-| 22 | [King Of Loyalty](http://twitter.com/search?q=King+Of+Loyalty) | N/A |
-| 23 | [NADRA](http://twitter.com/search?q=NADRA) | N/A |
-| 24 | [Hasan Ali](http://twitter.com/search?q=Hasan+Ali) | N/A |
-| 25 | [earthquake in islamabad](http://twitter.com/search?q=earthquake+in+islamabad) | N/A |
-| 26 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
-| 27 | [guantanamo bay](http://twitter.com/search?q=guantanamo+bay) | N/A |
+| 7 | [Fahad Hussain](http://twitter.com/search?q=Fahad+Hussain) | N/A |
+| 8 | [We Condemn Enemy Of Sahaba](http://twitter.com/search?q=We+Condemn+Enemy+Of+Sahaba) | N/A |
+| 9 | [Sabahat Rizvi](http://twitter.com/search?q=Sabahat+Rizvi) | N/A |
+| 10 | [jummah mubarak](http://twitter.com/search?q=jummah+mubarak) | N/A |
+| 11 | [BOL News](http://twitter.com/search?q=BOL+News) | N/A |
+| 12 | [Spoiled](http://twitter.com/search?q=Spoiled) | N/A |
+| 13 | [UMER GRACES THE DANCE FLOOR](http://twitter.com/search?q=UMER+GRACES+THE+DANCE+FLOOR) | N/A |
+| 14 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 15 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 16 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
+| 17 | [NADRA](http://twitter.com/search?q=NADRA) | N/A |
+| 18 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
+| 19 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 20 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 21 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
+| 22 | [NATION LOVES ASIM RIAZ](http://twitter.com/search?q=NATION+LOVES+ASIM+RIAZ) | N/A |
+| 23 | [King Of Loyalty](http://twitter.com/search?q=King+Of+Loyalty) | N/A |
+| 24 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
+| 25 | [Hasan Ali](http://twitter.com/search?q=Hasan+Ali) | N/A |
+| 26 | [bhara kahu](http://twitter.com/search?q=bhara+kahu) | N/A |
+| 27 | [Guantanamo Bay](http://twitter.com/search?q=Guantanamo+Bay) | N/A |
 | 28 | [Mola Abbas](http://twitter.com/search?q=Mola+Abbas) | N/A |
-| 29 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 30 | [Meesha Shafi](http://twitter.com/search?q=Meesha+Shafi) | N/A |
-| 31 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 29 | [Meesha Shafi](http://twitter.com/search?q=Meesha+Shafi) | N/A |
+| 30 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 31 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
 | 32 | [Loan](http://twitter.com/search?q=Loan) | N/A |
-| 33 | [Iffat](http://twitter.com/search?q=Iffat) | N/A |
-| 34 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
+| 34 | [itcn asia 2023](http://twitter.com/search?q=itcn+asia+2023) | N/A |
 | 35 | [Hajj](http://twitter.com/search?q=Hajj) | N/A |
-| 36 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 37 | [London](http://twitter.com/search?q=London) | N/A |
-| 38 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
-| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 40 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 41 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 42 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 43 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 44 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 45 | [ARY News](http://twitter.com/search?q=ARY+News) | N/A |
-| 46 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 47 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
-| 48 | [Corrupt](http://twitter.com/search?q=Corrupt) | N/A |
-| 49 | [ramiz Raja](http://twitter.com/search?q=ramiz+Raja) | N/A |
-| 50 | [Najam Sethi](http://twitter.com/search?q=Najam+Sethi) | Najam Sethi is a Pakistani journalist, editor, and political analyst. He is the current Chairman of the Pakistan Cricket Board and the former Editor-in-Chief of The Friday Times. The name Najam Sethi is derived from Arabic and Persian, meaning "star of justice". |
+| 36 | [Joey](http://twitter.com/search?q=Joey) | N/A |
+| 37 | [iffat](http://twitter.com/search?q=iffat) | N/A |
+| 38 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 39 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 40 | [London](http://twitter.com/search?q=London) | N/A |
+| 41 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 42 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 43 | [Great Leader](http://twitter.com/search?q=Great+Leader) | N/A |
+| 44 | [Epic](http://twitter.com/search?q=Epic) | N/A |
+| 45 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 46 | [Virat](http://twitter.com/search?q=Virat) | N/A |
+| 47 | [Lala](http://twitter.com/search?q=Lala) | N/A |
+| 48 | [imran niazi](http://twitter.com/search?q=imran+niazi) | N/A |
+| 49 | [Corrupt](http://twitter.com/search?q=Corrupt) | N/A |
+| 50 | [Ramiz Raja](http://twitter.com/search?q=Ramiz+Raja) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Jaipur
 
-📆 Last Updated: `2023-02-25 13:19:39 UTC`
+📆 Last Updated: `2023-02-25 14:16:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
-| 2 | [शिक्षक भर्ती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%bf%e0%a4%95%e0%a5%8d%e0%a4%b7%e0%a4%95+%e0%a4%ad%e0%a4%b0%e0%a5%8d%e0%a4%a4%e0%a5%80) | N/A |
+| 1 | [#REET](http://twitter.com/search?q=%23REET) | N/A |
+| 2 | [गहलोत सरकार](http://twitter.com/search?q=%e0%a4%97%e0%a4%b9%e0%a4%b2%e0%a5%8b%e0%a4%a4+%e0%a4%b8%e0%a4%b0%e0%a4%95%e0%a4%be%e0%a4%b0) | N/A |
 | 3 | [#Who_Is_SantGaribdasJiMaharaj](http://twitter.com/search?q=%23Who_Is_SantGaribdasJiMaharaj) | N/A |
-| 4 | [#MahindraRootsFestival](http://twitter.com/search?q=%23MahindraRootsFestival) | N/A |
-| 5 | [#NSDCForSkillIndia](http://twitter.com/search?q=%23NSDCForSkillIndia) | N/A |
-| 6 | [#राहुल_गांधी_जवाब_दो](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2_%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80_%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%ac_%e0%a4%a6%e0%a5%8b) | N/A |
-| 7 | [#CongressVoiceOfIndia](http://twitter.com/search?q=%23CongressVoiceOfIndia) | N/A |
-| 8 | [ABP Ideas Of India](http://twitter.com/search?q=ABP+Ideas+Of+India) | N/A |
-| 9 | [1YR OF PRATIK NITI NAINAMERE](http://twitter.com/search?q=1YR+OF+PRATIK+NITI+NAINAMERE) | N/A |
-| 10 | [HBD Bhai Naveen Goyal](http://twitter.com/search?q=HBD+Bhai+Naveen+Goyal) | N/A |
-| 11 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 12 | [Raval](http://twitter.com/search?q=Raval) | N/A |
-| 13 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 14 | [500 EPISODES OF RISHMI](http://twitter.com/search?q=500+EPISODES+OF+RISHMI) | N/A |
-| 15 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 16 | [योगी आदित्यनाथ](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
-| 17 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
-| 18 | [NATION LOVES ASIM RIAZ](http://twitter.com/search?q=NATION+LOVES+ASIM+RIAZ) | N/A |
-| 19 | [अखिलेश यादव](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2%e0%a5%87%e0%a4%b6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 20 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 21 | [Bharat Jodo Yatra](http://twitter.com/search?q=Bharat+Jodo+Yatra) | N/A |
-| 22 | [नीतीश बाबू](http://twitter.com/search?q=%e0%a4%a8%e0%a5%80%e0%a4%a4%e0%a5%80%e0%a4%b6+%e0%a4%ac%e0%a4%be%e0%a4%ac%e0%a5%82) | N/A |
-| 23 | [लालू यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
-| 24 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 25 | [SSRCs Evidences Point Murder](http://twitter.com/search?q=SSRCs+Evidences+Point+Murder) | N/A |
-| 26 | [जवान शहीद](http://twitter.com/search?q=%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%a8+%e0%a4%b6%e0%a4%b9%e0%a5%80%e0%a4%a6) | N/A |
-| 27 | [राम राज्य](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
-| 28 | [लाल किला](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
-| 29 | [Fav Music Director](http://twitter.com/search?q=Fav+Music+Director) | N/A |
-| 30 | [Fav IPL Team](http://twitter.com/search?q=Fav+IPL+Team) | N/A |
-| 31 | [Fav Director](http://twitter.com/search?q=Fav+Director) | N/A |
-| 32 | [Shah Rukh Khan](http://twitter.com/search?q=Shah+Rukh+Khan) | N/A |
+| 4 | [#राहुल_गांधी_जवाब_दो](http://twitter.com/search?q=%23%e0%a4%b0%e0%a4%be%e0%a4%b9%e0%a5%81%e0%a4%b2_%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80_%e0%a4%9c%e0%a4%b5%e0%a4%be%e0%a4%ac_%e0%a4%a6%e0%a5%8b) | N/A |
+| 5 | [#UnlockYourConfidence](http://twitter.com/search?q=%23UnlockYourConfidence) | N/A |
+| 6 | [#MahindraRootsFestival](http://twitter.com/search?q=%23MahindraRootsFestival) | N/A |
+| 7 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 8 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 9 | [ABP Ideas Of India](http://twitter.com/search?q=ABP+Ideas+Of+India) | N/A |
+| 10 | [1YR OF PRATIK NITI NAINAMERE](http://twitter.com/search?q=1YR+OF+PRATIK+NITI+NAINAMERE) | N/A |
+| 11 | [Raval](http://twitter.com/search?q=Raval) | N/A |
+| 12 | [Langer](http://twitter.com/search?q=Langer) | N/A |
+| 13 | [500 EPISODES OF RISHMI](http://twitter.com/search?q=500+EPISODES+OF+RISHMI) | N/A |
+| 14 | [योगी आदित्यनाथ](http://twitter.com/search?q=%e0%a4%af%e0%a5%8b%e0%a4%97%e0%a5%80+%e0%a4%86%e0%a4%a6%e0%a4%bf%e0%a4%a4%e0%a5%8d%e0%a4%af%e0%a4%a8%e0%a4%be%e0%a4%a5) | N/A |
+| 15 | [NATION LOVES ASIM RIAZ](http://twitter.com/search?q=NATION+LOVES+ASIM+RIAZ) | N/A |
+| 16 | [SHRADDHA KAPOOR](http://twitter.com/search?q=SHRADDHA+KAPOOR) | N/A |
+| 17 | [सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 18 | [Ponting](http://twitter.com/search?q=Ponting) | N/A |
+| 19 | [Ed Sheeran](http://twitter.com/search?q=Ed+Sheeran) | N/A |
+| 20 | [अखिलेश यादव](http://twitter.com/search?q=%e0%a4%85%e0%a4%96%e0%a4%bf%e0%a4%b2%e0%a5%87%e0%a4%b6+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 21 | [RAB RAKHA PRIYANKIT](http://twitter.com/search?q=RAB+RAKHA+PRIYANKIT) | N/A |
+| 22 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 23 | [लाल किला](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2+%e0%a4%95%e0%a4%bf%e0%a4%b2%e0%a4%be) | N/A |
+| 24 | [लालू यादव](http://twitter.com/search?q=%e0%a4%b2%e0%a4%be%e0%a4%b2%e0%a5%82+%e0%a4%af%e0%a4%be%e0%a4%a6%e0%a4%b5) | N/A |
+| 25 | [प्रियंका गांधी](http://twitter.com/search?q=%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%bf%e0%a4%af%e0%a4%82%e0%a4%95%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 26 | [Bharat Jodo Yatra](http://twitter.com/search?q=Bharat+Jodo+Yatra) | N/A |
+| 27 | [परमेश्वर कबीर साहेब](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | N/A |
+| 28 | [Guru Granth Sahib](http://twitter.com/search?q=Guru+Granth+Sahib) | N/A |
+| 29 | [मास सुदी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b8+%e0%a4%b8%e0%a5%81%e0%a4%a6%e0%a5%80) | N/A |
+| 30 | [Bible](http://twitter.com/search?q=Bible) | N/A |
+| 31 | [राम राज्य](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%8d%e0%a4%af) | N/A |
+| 32 | [SSRCs Evidences Point Murder](http://twitter.com/search?q=SSRCs+Evidences+Point+Murder) | N/A |
 | 33 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
-| 34 | [Best International Film](http://twitter.com/search?q=Best+International+Film) | N/A |
-| 35 | [परमेश्वर कबीर साहेब](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | N/A |
-| 36 | [Chhattisgarh](http://twitter.com/search?q=Chhattisgarh) | N/A |
-| 37 | [#SoniaGandhi](http://twitter.com/search?q=%23SoniaGandhi) | N/A |
-| 38 | [#staylitwiththehindulitforlife](http://twitter.com/search?q=%23staylitwiththehindulitforlife) | N/A |
-| 39 | [#YogiAdityanath](http://twitter.com/search?q=%23YogiAdityanath) | N/A |
-| 40 | [#GermanyReturnAriha](http://twitter.com/search?q=%23GermanyReturnAriha) | N/A |
-| 41 | [#SunburnArenawithMartinGarrix](http://twitter.com/search?q=%23SunburnArenawithMartinGarrix) | N/A |
-| 42 | [#50DForVikramBDayFEST](http://twitter.com/search?q=%2350DForVikramBDayFEST) | N/A |
-| 43 | [#ArrestJunaidNasirKillers](http://twitter.com/search?q=%23ArrestJunaidNasirKillers) | N/A |
+| 34 | [Shah Rukh Khan](http://twitter.com/search?q=Shah+Rukh+Khan) | N/A |
+| 35 | [best international film](http://twitter.com/search?q=best+international+film) | N/A |
+| 36 | [#CongressVoiceOfIndia](http://twitter.com/search?q=%23CongressVoiceOfIndia) | N/A |
+| 37 | [#NSDCForSkillIndia](http://twitter.com/search?q=%23NSDCForSkillIndia) | N/A |
+| 38 | [#13PhenomenalYrsOfSamantha](http://twitter.com/search?q=%2313PhenomenalYrsOfSamantha) | N/A |
+| 39 | [#50DForVikramBDayFEST](http://twitter.com/search?q=%2350DForVikramBDayFEST) | N/A |
+| 40 | [#staylitwiththehindulitforlife](http://twitter.com/search?q=%23staylitwiththehindulitforlife) | N/A |
+| 41 | [#SoniaGandhi](http://twitter.com/search?q=%23SoniaGandhi) | N/A |
+| 42 | [#YogiAdityanath](http://twitter.com/search?q=%23YogiAdityanath) | N/A |
+| 43 | [#SunburnArena](http://twitter.com/search?q=%23SunburnArena) | N/A |
 | 44 | [#StopTargetingIndianMuslims](http://twitter.com/search?q=%23StopTargetingIndianMuslims) | N/A |
-| 45 | [#NisithPramanik](http://twitter.com/search?q=%23NisithPramanik) | N/A |
-| 46 | [#मोनू_मानेसर_को_गिरफ्तार_करो](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82_%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0_%e0%a4%95%e0%a5%8b_%e0%a4%97%e0%a4%bf%e0%a4%b0%e0%a4%ab%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%b0_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
-| 47 | [#MammoottyKampany](http://twitter.com/search?q=%23MammoottyKampany) | N/A |
-| 48 | [#DeshKaMatter](http://twitter.com/search?q=%23DeshKaMatter) | N/A |
-| 49 | [#AkhileshYadav](http://twitter.com/search?q=%23AkhileshYadav) | N/A |
-| 50 | [#Prayagraj](http://twitter.com/search?q=%23Prayagraj) | N/A |
+| 45 | [#ArrestJunaidNasirKillers](http://twitter.com/search?q=%23ArrestJunaidNasirKillers) | N/A |
+| 46 | [#LaluPrasadYadav](http://twitter.com/search?q=%23LaluPrasadYadav) | N/A |
+| 47 | [#ChiyaanVikram](http://twitter.com/search?q=%23ChiyaanVikram) | N/A |
+| 48 | [#AttackOnTitan](http://twitter.com/search?q=%23AttackOnTitan) | N/A |
+| 49 | [#GermanyReturnAriha](http://twitter.com/search?q=%23GermanyReturnAriha) | N/A |
+| 50 | [#मोनू_मानेसर_को_गिरफ्तार_करो](http://twitter.com/search?q=%23%e0%a4%ae%e0%a5%8b%e0%a4%a8%e0%a5%82_%e0%a4%ae%e0%a4%be%e0%a4%a8%e0%a5%87%e0%a4%b8%e0%a4%b0_%e0%a4%95%e0%a5%8b_%e0%a4%97%e0%a4%bf%e0%a4%b0%e0%a4%ab%e0%a5%8d%e0%a4%a4%e0%a4%be%e0%a4%b0_%e0%a4%95%e0%a4%b0%e0%a5%8b) | N/A |
 
 
 

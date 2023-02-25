@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Yokohama
 
-📆 Last Updated: `2023-02-25 13:19:22 UTC`
+📆 Last Updated: `2023-02-25 14:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [ベッキー](http://twitter.com/search?q=%e3%83%99%e3%83%83%e3%82%ad%e3%83%bc) | N/A |
-| 2 | [DOGSO](http://twitter.com/search?q=DOGSO) | N/A |
-| 3 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
-| 4 | [#自民党全員落選運動](http://twitter.com/search?q=%23%e8%87%aa%e6%b0%91%e5%85%9a%e5%85%a8%e5%93%a1%e8%90%bd%e9%81%b8%e9%81%8b%e5%8b%95) | N/A |
-| 5 | [PKやり直し](http://twitter.com/search?q=PK%e3%82%84%e3%82%8a%e7%9b%b4%e3%81%97) | N/A |
-| 6 | [進撃の巨人](http://twitter.com/search?q=%e9%80%b2%e6%92%83%e3%81%ae%e5%b7%a8%e4%ba%ba) | 進撃の巨人 (Shingeki no Kyojin) is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity lives inside cities surrounded by enormous walls due to the sudden appearance of the Titans, gigantic humanoid creatures who devour humans seemingly without reason. The story follows the adventures of Eren Yeager, his adopted sister Mikasa Ackerman, and their friend Armin Arlert, who join the military to fight the Titans after their home town is invaded and Eren's mother is eaten. The title of the series translates to "Attack on Titan" in English. |
-| 7 | [#frontale](http://twitter.com/search?q=%23frontale) | N/A |
-| 8 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 9 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 10 | [カイオーガ](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%82%aa%e3%83%bc%e3%82%ac) | N/A |
-| 11 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
-| 12 | [周年イベ](http://twitter.com/search?q=%e5%91%a8%e5%b9%b4%e3%82%a4%e3%83%99) | 周年イベ is short for 周年イベント, which means "anniversary event" in English. It is an event that is held to celebrate the anniversary of a company, organization, or other entity. |
-| 13 | [#fmarinos](http://twitter.com/search?q=%23fmarinos) | N/A |
-| 14 | [アドニス](http://twitter.com/search?q=%e3%82%a2%e3%83%89%e3%83%8b%e3%82%b9) | アドニス is a Japanese word that means "Adonis," which is the name of a Greek god of beauty and desire. In English, it can also refer to a very handsome man. |
-| 15 | [チャント](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%88) | N/A |
-| 16 | [テニミュ](http://twitter.com/search?q=%e3%83%86%e3%83%8b%e3%83%9f%e3%83%a5) | N/A |
-| 17 | [シュート](http://twitter.com/search?q=%e3%82%b7%e3%83%a5%e3%83%bc%e3%83%88) | シュート is a Japanese word that means "shoot" or "shooting". It is used to refer to shooting a basketball, soccer ball, or other type of ball. It can also be used to refer to shooting a gun. |
-| 18 | [#antlers](http://twitter.com/search?q=%23antlers) | N/A |
-| 19 | [ヤンデレちゃん](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 20 | [ヤンデレ度80](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e5%ba%a680) | N/A |
-| 21 | [メンヘラ度20](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9%e5%ba%a620) | N/A |
-| 22 | [上級ヤンデレ](http://twitter.com/search?q=%e4%b8%8a%e7%b4%9a%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac) | N/A |
-| 23 | [DAZN](http://twitter.com/search?q=DAZN) | DAZN is a subscription-based streaming service for live sports. It stands for "Digital Access Zone Network" and is used to provide access to live sports events and on-demand content. |
-| 24 | [#ジャニーズJrCHAMP](http://twitter.com/search?q=%23%e3%82%b8%e3%83%a3%e3%83%8b%e3%83%bc%e3%82%baJrCHAMP) | N/A |
-| 25 | [グラマス](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%9e%e3%82%b9) | N/A |
-| 26 | [ホークス](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%82%af%e3%82%b9) | ホークス (Hawks) is the name of a professional baseball team in Japan. The team is based in Fukuoka and plays in the Pacific League of Nippon Professional Baseball. The English translation of ホークス is "Hawks". |
-| 27 | [ソフトバンク](http://twitter.com/search?q=%e3%82%bd%e3%83%95%e3%83%88%e3%83%90%e3%83%b3%e3%82%af) | ソフトバンク is a Japanese telecommunications company that provides mobile phone, fixed-line telephone, internet, and IPTV services. In English, it is known as SoftBank. |
-| 28 | [ドラマ班](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e7%8f%ad) | N/A |
-| 29 | [竹下通り](http://twitter.com/search?q=%e7%ab%b9%e4%b8%8b%e9%80%9a%e3%82%8a) | N/A |
-| 30 | [スングァン](http://twitter.com/search?q=%e3%82%b9%e3%83%b3%e3%82%b0%e3%82%a1%e3%83%b3) | N/A |
-| 31 | [甲賀忍法帖](http://twitter.com/search?q=%e7%94%b2%e8%b3%80%e5%bf%8d%e6%b3%95%e5%b8%96) | N/A |
-| 32 | [獄Luck](http://twitter.com/search?q=%e7%8d%84Luck) | N/A |
-| 33 | [TOP4](http://twitter.com/search?q=TOP4) | TOP4 is an acronym that stands for the top four teams in a particular competition or tournament. It is used to refer to the four teams that have achieved the highest ranking in a given event. |
-| 34 | [オロロジャイア](http://twitter.com/search?q=%e3%82%aa%e3%83%ad%e3%83%ad%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%a2) | N/A |
-| 35 | [ラージャマウリ監督](http://twitter.com/search?q=%e3%83%a9%e3%83%bc%e3%82%b8%e3%83%a3%e3%83%9e%e3%82%a6%e3%83%aa%e7%9b%a3%e7%9d%a3) | N/A |
-| 36 | [北斗茶髪](http://twitter.com/search?q=%e5%8c%97%e6%96%97%e8%8c%b6%e9%ab%aa) | N/A |
-| 37 | [ぱしゃっつ](http://twitter.com/search?q=%e3%81%b1%e3%81%97%e3%82%83%e3%81%a3%e3%81%a4) | ぱしゃっつ is an onomatopoeia that is used to express the sound of something being thrown or tossed. In English, it could be translated as "toss" or "throw". |
-| 38 | [鷺沼プール](http://twitter.com/search?q=%e9%b7%ba%e6%b2%bc%e3%83%97%e3%83%bc%e3%83%ab) | N/A |
-| 39 | [未来ハーモニー](http://twitter.com/search?q=%e6%9c%aa%e6%9d%a5%e3%83%8f%e3%83%bc%e3%83%a2%e3%83%8b%e3%83%bc) | N/A |
-| 40 | [赤メッシュ](http://twitter.com/search?q=%e8%b5%a4%e3%83%a1%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
-| 41 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
-| 42 | [餃子の王将](http://twitter.com/search?q=%e9%a4%83%e5%ad%90%e3%81%ae%e7%8e%8b%e5%b0%86) | N/A |
-| 43 | [北斗くん茶髪](http://twitter.com/search?q=%e5%8c%97%e6%96%97%e3%81%8f%e3%82%93%e8%8c%b6%e9%ab%aa) | N/A |
-| 44 | [バーフバリ](http://twitter.com/search?q=%e3%83%90%e3%83%bc%e3%83%95%e3%83%90%e3%83%aa) | N/A |
-| 45 | [シンシャ](http://twitter.com/search?q=%e3%82%b7%e3%83%b3%e3%82%b7%e3%83%a3) | シンシャ is a Japanese word that means "sincere". It is used to describe someone who is honest and genuine in their feelings and actions. |
-| 46 | [康二くん](http://twitter.com/search?q=%e5%ba%b7%e4%ba%8c%e3%81%8f%e3%82%93) | 康二くん is a Japanese manga series written and illustrated by Takashi Shiina. It follows the story of a young man named Kōji, who is trying to find his place in the world. The title literally translates to "Kōji the Second". |
-| 47 | [ロジャー](http://twitter.com/search?q=%e3%83%ad%e3%82%b8%e3%83%a3%e3%83%bc) | N/A |
-| 48 | [有吉さん](http://twitter.com/search?q=%e6%9c%89%e5%90%89%e3%81%95%e3%82%93) | N/A |
-| 49 | [肘タッチ](http://twitter.com/search?q=%e8%82%98%e3%82%bf%e3%83%83%e3%83%81) | N/A |
+| 2 | [#アクマなUFO](http://twitter.com/search?q=%23%e3%82%a2%e3%82%af%e3%83%9e%e3%81%aaUFO) | N/A |
+| 3 | [餃子の王将](http://twitter.com/search?q=%e9%a4%83%e5%ad%90%e3%81%ae%e7%8e%8b%e5%b0%86) | N/A |
+| 4 | [DOGSO](http://twitter.com/search?q=DOGSO) | N/A |
+| 5 | [#佐久間大介](http://twitter.com/search?q=%23%e4%bd%90%e4%b9%85%e9%96%93%e5%a4%a7%e4%bb%8b) | N/A |
+| 6 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
+| 7 | [#永瀬廉](http://twitter.com/search?q=%23%e6%b0%b8%e7%80%ac%e5%bb%89) | N/A |
+| 8 | [#アイプラ生放送](http://twitter.com/search?q=%23%e3%82%a2%e3%82%a4%e3%83%97%e3%83%a9%e7%94%9f%e6%94%be%e9%80%81) | #アイプラ生放送 is a hashtag used on Twitter in Japan to refer to live broadcasts of the video game Splatoon 2. In English, it translates to "Splatoon 2 Live Broadcast". |
+| 9 | [佐久間くん](http://twitter.com/search?q=%e4%bd%90%e4%b9%85%e9%96%93%e3%81%8f%e3%82%93) | 佐久間くん is a Japanese nickname for someone named Sakuma. It is derived from the surname Sakuma, which can be written in Japanese as 佐久間. The suffix -kun is often used as an informal way to address someone in Japanese. In English, it would be translated as "Mr. Sakuma". |
+| 10 | [KROSS](http://twitter.com/search?q=KROSS) | N/A |
+| 11 | [康二くん](http://twitter.com/search?q=%e5%ba%b7%e4%ba%8c%e3%81%8f%e3%82%93) | 康二くん is a Japanese manga series written and illustrated by Takashi Shiina. It follows the story of a young man named Kōji, who is trying to find his place in the world. The title literally translates to "Kōji the Second". |
+| 12 | [たまアリ](http://twitter.com/search?q=%e3%81%9f%e3%81%be%e3%82%a2%e3%83%aa) | たまアリ is a Japanese phrase that literally translates to "sphere spider". It is used to describe someone who is very busy and always on the go. |
+| 13 | [進撃の巨人](http://twitter.com/search?q=%e9%80%b2%e6%92%83%e3%81%ae%e5%b7%a8%e4%ba%ba) | 進撃の巨人 (Shingeki no Kyojin) is a Japanese manga series written and illustrated by Hajime Isayama. It is set in a world where humanity lives inside cities surrounded by enormous walls due to the sudden appearance of the Titans, gigantic humanoid creatures who devour humans seemingly without reason. The story follows the adventures of Eren Yeager, his adopted sister Mikasa Ackerman, and their friend Armin Arlert, who join the military to fight the Titans after their home town is invaded and Eren's mother is eaten. The title of the series translates to "Attack on Titan" in English. |
+| 14 | [玉ちゃん](http://twitter.com/search?q=%e7%8e%89%e3%81%a1%e3%82%83%e3%82%93) | 玉ちゃん is a nickname for a girl, usually used by close friends or family. It is derived from the Japanese word for "jewel" (玉) and the honorific suffix "-chan". In English, it can be translated as "Jewel-chan". |
+| 15 | [中山記念](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e8%a8%98%e5%bf%b5) | N/A |
+| 16 | [最高のライブ](http://twitter.com/search?q=%e6%9c%80%e9%ab%98%e3%81%ae%e3%83%a9%e3%82%a4%e3%83%96) | "最高のライブ" is a Japanese phrase that translates to "the best live performance". It is used to describe a live performance that is particularly impressive or memorable. |
+| 17 | [#frontale](http://twitter.com/search?q=%23frontale) | N/A |
+| 18 | [アドニス](http://twitter.com/search?q=%e3%82%a2%e3%83%89%e3%83%8b%e3%82%b9) | アドニス is a Japanese word that means "Adonis," which is the name of a Greek god of beauty and desire. In English, it can also refer to a very handsome man. |
+| 19 | [ナートゥ](http://twitter.com/search?q=%e3%83%8a%e3%83%bc%e3%83%88%e3%82%a5) | ナートゥ (Nātū) is a Japanese word that means "to be natural". It is often used to describe someone who is relaxed and comfortable in their own skin. |
+| 20 | [インド映画](http://twitter.com/search?q=%e3%82%a4%e3%83%b3%e3%83%89%e6%98%a0%e7%94%bb) | N/A |
+| 21 | [HiMERU](http://twitter.com/search?q=HiMERU) | HiMERU is a Japanese phrase that means “to rise up” or “to ascend”. It is often used as a motivational phrase to encourage someone to strive for success and reach their goals. |
+| 22 | [カイオーガ](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%82%aa%e3%83%bc%e3%82%ac) | N/A |
+| 23 | [テニミュ](http://twitter.com/search?q=%e3%83%86%e3%83%8b%e3%83%9f%e3%83%a5) | N/A |
+| 24 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
+| 25 | [チャント](http://twitter.com/search?q=%e3%83%81%e3%83%a3%e3%83%b3%e3%83%88) | N/A |
+| 26 | [ゴール裏](http://twitter.com/search?q=%e3%82%b4%e3%83%bc%e3%83%ab%e8%a3%8f) | N/A |
+| 27 | [ヤンデレちゃん](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 28 | [ヤンデレ度80](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e5%ba%a680) | N/A |
+| 29 | [メンヘラ度20](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9%e5%ba%a620) | N/A |
+| 30 | [上級ヤンデレ](http://twitter.com/search?q=%e4%b8%8a%e7%b4%9a%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac) | N/A |
+| 31 | [やり直し](http://twitter.com/search?q=%e3%82%84%e3%82%8a%e7%9b%b4%e3%81%97) | N/A |
+| 32 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
+| 33 | [震度5弱](http://twitter.com/search?q=%e9%9c%87%e5%ba%a65%e5%bc%b1) | N/A |
+| 34 | [緊急地震速報](http://twitter.com/search?q=%e7%b7%8a%e6%80%a5%e5%9c%b0%e9%9c%87%e9%80%9f%e5%a0%b1) | 緊急地震速報 (Kinkyū Jishin Sokuhō) is an emergency earthquake warning system in Japan. It is a system that provides information on earthquakes that are expected to cause strong shaking in the near future. The information is broadcast on television and radio, as well as through cell phones and other electronic devices. The English translation of this phrase is "Emergency Earthquake Warning". |
+| 35 | [津波の心配](http://twitter.com/search?q=%e6%b4%a5%e6%b3%a2%e3%81%ae%e5%bf%83%e9%85%8d) | N/A |
+| 36 | [北海道大丈夫](http://twitter.com/search?q=%e5%8c%97%e6%b5%b7%e9%81%93%e5%a4%a7%e4%b8%88%e5%a4%ab) | N/A |
+| 37 | [ふしぎ発見](http://twitter.com/search?q=%e3%81%b5%e3%81%97%e3%81%8e%e7%99%ba%e8%a6%8b) | N/A |
+| 38 | [わこじぇる](http://twitter.com/search?q=%e3%82%8f%e3%81%93%e3%81%98%e3%81%87%e3%82%8b) | N/A |
+| 39 | [スングァン](http://twitter.com/search?q=%e3%82%b9%e3%83%b3%e3%82%b0%e3%82%a1%e3%83%b3) | N/A |
+| 40 | [地震情報](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e6%83%85%e5%a0%b1) | N/A |
+| 41 | [ジェルくん](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%ab%e3%81%8f%e3%82%93) | ジェルくん is a character from the Japanese manga series "Gel-Shocker". He is a robotic creature created by the evil organization Gel-Shocker to help them take over the world. His name literally translates to "Gel Boy". |
+| 42 | [大きめの地震](http://twitter.com/search?q=%e5%a4%a7%e3%81%8d%e3%82%81%e3%81%ae%e5%9c%b0%e9%9c%87) | N/A |
+| 43 | [根室の方](http://twitter.com/search?q=%e6%a0%b9%e5%ae%a4%e3%81%ae%e6%96%b9) | N/A |
+| 44 | [サウジカップ](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 45 | [ドラマ班](http://twitter.com/search?q=%e3%83%89%e3%83%a9%e3%83%9e%e7%8f%ad) | N/A |
+| 46 | [P2計画](http://twitter.com/search?q=P2%e8%a8%88%e7%94%bb) | N/A |
+| 47 | [道東の方](http://twitter.com/search?q=%e9%81%93%e6%9d%b1%e3%81%ae%e6%96%b9) | N/A |
+| 48 | [釧路の方](http://twitter.com/search?q=%e9%87%a7%e8%b7%af%e3%81%ae%e6%96%b9) | N/A |
+| 49 | [ぱしゃっつ](http://twitter.com/search?q=%e3%81%b1%e3%81%97%e3%82%83%e3%81%a3%e3%81%a4) | ぱしゃっつ is an onomatopoeia that is used to express the sound of something being thrown or tossed. In English, it could be translated as "toss" or "throw". |
 
 
 

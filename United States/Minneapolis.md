@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Minneapolis
 
-📆 Last Updated: `2023-02-25 13:19:49 UTC`
+📆 Last Updated: `2023-02-25 14:16:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [United States](</United States>)
 | ------- | ------------ | ------------ |
 | 1 | [Finch](http://twitter.com/search?q=Finch) | N/A |
 | 2 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 3 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 4 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
-| 5 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
-| 6 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 3 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 5 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 6 | [Good Saturday](http://twitter.com/search?q=Good+Saturday) | N/A |
 | 7 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 8 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
-| 9 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 10 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
-| 11 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 12 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
-| 13 | [#Wordle616](http://twitter.com/search?q=%23Wordle616) | N/A |
-| 14 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
-| 15 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
-| 16 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 17 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 18 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
-| 19 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 20 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
-| 21 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 22 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
-| 23 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
-| 24 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
-| 25 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 26 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 27 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
-| 28 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 29 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
-| 30 | [bill mitchell](http://twitter.com/search?q=bill+mitchell) | N/A |
-| 31 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 32 | [aaron fox](http://twitter.com/search?q=aaron+fox) | N/A |
-| 33 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
-| 34 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 35 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 36 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
-| 37 | [Katie Hobbs](http://twitter.com/search?q=Katie+Hobbs) | N/A |
-| 38 | [Clips](http://twitter.com/search?q=Clips) | N/A |
-| 39 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
-| 40 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
-| 41 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 42 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
-| 43 | [The NTSB](http://twitter.com/search?q=The+NTSB) | N/A |
-| 44 | [Khabib](http://twitter.com/search?q=Khabib) | N/A |
-| 45 | [Wo Long](http://twitter.com/search?q=Wo+Long) | N/A |
-| 46 | [Morris](http://twitter.com/search?q=Morris) | N/A |
-| 47 | [Ralph Nader](http://twitter.com/search?q=Ralph+Nader) | N/A |
-| 48 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 49 | [#BiuTheBluePrince](http://twitter.com/search?q=%23BiuTheBluePrince) | N/A |
-| 50 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
+| 8 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 9 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
+| 10 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 11 | [Nigeria](http://twitter.com/search?q=Nigeria) | N/A |
+| 12 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 13 | [#SaturdayMotivation](http://twitter.com/search?q=%23SaturdayMotivation) | N/A |
+| 14 | [Championship Saturday](http://twitter.com/search?q=Championship+Saturday) | N/A |
+| 15 | [MATCH DAY](http://twitter.com/search?q=MATCH+DAY) | Match Day is a term used in sports to refer to the day when a match or game is scheduled to take place. It is usually the day when teams, players, and fans come together to compete in a sporting event. In English, Match Day means the day when a match or game is scheduled to take place. |
+| 16 | [INEC](http://twitter.com/search?q=INEC) | N/A |
+| 17 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 18 | [#Wordle616](http://twitter.com/search?q=%23Wordle616) | N/A |
+| 19 | [MC Oluomo](http://twitter.com/search?q=MC+Oluomo) | N/A |
+| 20 | [#SaturdayMood](http://twitter.com/search?q=%23SaturdayMood) | N/A |
+| 21 | [Caturday](http://twitter.com/search?q=Caturday) | N/A |
+| 22 | [Catturd](http://twitter.com/search?q=Catturd) | N/A |
+| 23 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 24 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 25 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
+| 26 | [MEET DAY](http://twitter.com/search?q=MEET+DAY) | N/A |
+| 27 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 28 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
+| 29 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
+| 30 | [NTSB](http://twitter.com/search?q=NTSB) | N/A |
+| 31 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 32 | [Igbos](http://twitter.com/search?q=Igbos) | Igbos is a term used to refer to the Igbo people, an ethnic group native to southeastern Nigeria. The Igbo language is also known as Igboid. In English, the term "Igbos" is used to refer to both the people and their language. |
+| 33 | [Scott Adams](http://twitter.com/search?q=Scott+Adams) | N/A |
+| 34 | [Tulsi](http://twitter.com/search?q=Tulsi) | N/A |
+| 35 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
+| 36 | [Happy Sabbath](http://twitter.com/search?q=Happy+Sabbath) | N/A |
+| 37 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
+| 38 | [Katie Hobbs](http://twitter.com/search?q=Katie+Hobbs) | N/A |
+| 39 | [Peter Obi](http://twitter.com/search?q=Peter+Obi) | N/A |
+| 40 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 41 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
+| 42 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 43 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 44 | [Batum](http://twitter.com/search?q=Batum) | Batum is a city in Georgia, located on the coast of the Black Sea. It is the capital of the Autonomous Republic of Adjara and the largest city in the region. In English, Batum means "port" or "harbor". |
+| 45 | [Bill Mitchell](http://twitter.com/search?q=Bill+Mitchell) | N/A |
+| 46 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
+| 47 | [Antonio Brown](http://twitter.com/search?q=Antonio+Brown) | Antonio Brown is an American professional football wide receiver who currently plays for the Tampa Bay Buccaneers of the National Football League (NFL). He is widely considered to be one of the best wide receivers in the NFL, having been selected to seven Pro Bowls and four All-Pro teams. |
+| 48 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
+| 49 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
+| 50 | [Brad Paisley](http://twitter.com/search?q=Brad+Paisley) | N/A |
 
 
 

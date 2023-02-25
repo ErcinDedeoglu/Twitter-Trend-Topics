@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Nantes
 
-📆 Last Updated: `2023-02-25 13:19:09 UTC`
+📆 Last Updated: `2023-02-25 14:15:57 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [France](</France>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
-| 2 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 2 | [#beINLIGUE2](http://twitter.com/search?q=%23beINLIGUE2) | N/A |
 | 3 | [#SIA2023](http://twitter.com/search?q=%23SIA2023) | N/A |
-| 4 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
-| 5 | [Diacre](http://twitter.com/search?q=Diacre) | N/A |
-| 6 | [#LOSCSB29](http://twitter.com/search?q=%23LOSCSB29) | N/A |
-| 7 | [#Salondelagriculture](http://twitter.com/search?q=%23Salondelagriculture) | N/A |
+| 4 | [Chris Brown](http://twitter.com/search?q=Chris+Brown) | N/A |
+| 5 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
+| 6 | [Diacre](http://twitter.com/search?q=Diacre) | N/A |
+| 7 | [#LOSCSB29](http://twitter.com/search?q=%23LOSCSB29) | N/A |
 | 8 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
 | 9 | [La Nuit du 12](http://twitter.com/search?q=La+Nuit+du+12) | N/A |
 | 10 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
 | 11 | [Perrine Laffont](http://twitter.com/search?q=Perrine+Laffont) | N/A |
 | 12 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
-| 13 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
-| 14 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 15 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 16 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
-| 17 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
-| 18 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
+| 13 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 14 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
+| 15 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
+| 16 | [Europe](http://twitter.com/search?q=Europe) | N/A |
+| 17 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
+| 18 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
 | 19 | [Alice Diop](http://twitter.com/search?q=Alice+Diop) | N/A |
-| 20 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
-| 21 | [Dominik Moll](http://twitter.com/search?q=Dominik+Moll) | N/A |
+| 20 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
+| 21 | [Airdrop🪂](http://twitter.com/search?q=Airdrop%f0%9f%aa%82) | N/A |
 | 22 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
-| 23 | [Pacifiction](http://twitter.com/search?q=Pacifiction) | N/A |
+| 23 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
 | 24 | [Bastien Bouillon](http://twitter.com/search?q=Bastien+Bouillon) | N/A |
-| 25 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
-| 26 | [benoît magimel](http://twitter.com/search?q=beno%c3%aet+magimel) | N/A |
-| 27 | [Noémie Merlant](http://twitter.com/search?q=No%c3%a9mie+Merlant) | N/A |
-| 28 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
-| 29 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
-| 30 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
-| 31 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 32 | [L'épisode de MHA](http://twitter.com/search?q=L%27%c3%a9pisode+de+MHA) | N/A |
-| 33 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
-| 34 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
-| 35 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
-| 36 | [Everest](http://twitter.com/search?q=Everest) | N/A |
-| 37 | [Revoir Paris](http://twitter.com/search?q=Revoir+Paris) | N/A |
-| 38 | [Dinos](http://twitter.com/search?q=Dinos) | N/A |
-| 39 | [Bouli Lanners](http://twitter.com/search?q=Bouli+Lanners) | N/A |
-| 40 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
-| 41 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
-| 42 | [Feldup](http://twitter.com/search?q=Feldup) | N/A |
-| 43 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 44 | [Le Graet](http://twitter.com/search?q=Le+Graet) | Le Graet is a French surname. It is derived from the Old French word "graet," which means "great." In English, it can be translated to mean "the great one." |
-| 45 | [arthur fils](http://twitter.com/search?q=arthur+fils) | N/A |
-| 46 | [Diani](http://twitter.com/search?q=Diani) | N/A |
-| 47 | [Bale](http://twitter.com/search?q=Bale) | Bale is a large bundle of goods, usually compressed and tied up with string or wire, for storage or transport. It is commonly used to refer to bundles of hay, straw, or cotton. |
-| 48 | [La FFF](http://twitter.com/search?q=La+FFF) | N/A |
-| 49 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 25 | [Dominik Moll](http://twitter.com/search?q=Dominik+Moll) | N/A |
+| 26 | [Hazard](http://twitter.com/search?q=Hazard) | Hazard is a potential source of danger or harm. It can refer to a physical or environmental hazard, such as a chemical spill, or it can refer to a situation that poses a risk of injury or loss. In English, the word hazard is often used to describe any situation that could lead to an unexpected and potentially dangerous outcome. |
+| 27 | [Pacifiction](http://twitter.com/search?q=Pacifiction) | N/A |
+| 28 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
+| 29 | [Benoît Magimel](http://twitter.com/search?q=Beno%c3%aet+Magimel) | N/A |
+| 30 | [Noémie Merlant](http://twitter.com/search?q=No%c3%a9mie+Merlant) | N/A |
+| 31 | [C'est 12](http://twitter.com/search?q=C%27est+12) | N/A |
+| 32 | [Everest](http://twitter.com/search?q=Everest) | N/A |
+| 33 | [L'épisode de MHA](http://twitter.com/search?q=L%27%c3%a9pisode+de+MHA) | N/A |
+| 34 | [Brest](http://twitter.com/search?q=Brest) | N/A |
+| 35 | [fonseca](http://twitter.com/search?q=fonseca) | N/A |
+| 36 | [9x10](http://twitter.com/search?q=9x10) | N/A |
+| 37 | [Le Havre](http://twitter.com/search?q=Le+Havre) | N/A |
+| 38 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 39 | [Macron](http://twitter.com/search?q=Macron) | N/A |
+| 40 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
+| 41 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
+| 42 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 43 | [Revoir Paris](http://twitter.com/search?q=Revoir+Paris) | N/A |
+| 44 | [Nantes](http://twitter.com/search?q=Nantes) | N/A |
+| 45 | [bouli lanners](http://twitter.com/search?q=bouli+lanners) | N/A |
+| 46 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
+| 47 | [Feldup](http://twitter.com/search?q=Feldup) | N/A |
+| 48 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 49 | [Mbemba](http://twitter.com/search?q=Mbemba) | Mbemba is a Bantu language spoken in the Democratic Republic of Congo. It is also known as Cibemba, Chibemba, Ichibemba, and Cilamba. The meaning of Mbemba in English is "language". |
 
 
 

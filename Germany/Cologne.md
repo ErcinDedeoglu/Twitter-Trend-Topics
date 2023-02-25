@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cologne
 
-📆 Last Updated: `2023-02-25 13:19:11 UTC`
+📆 Last Updated: `2023-02-25 14:15:59 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,43 @@ This is top 50 for [Germany](</Germany>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
-| 2 | [#Friedensschwurbler](http://twitter.com/search?q=%23Friedensschwurbler) | N/A |
-| 3 | [#tipicospor](http://twitter.com/search?q=%23tipicospor) | N/A |
-| 4 | [#M05BMG](http://twitter.com/search?q=%23M05BMG) | N/A |
-| 5 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
-| 6 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
-| 7 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
-| 8 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 2 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 3 | [#FCNSVS](http://twitter.com/search?q=%23FCNSVS) | N/A |
+| 4 | [#Betze](http://twitter.com/search?q=%23Betze) | N/A |
+| 5 | [#FCKSGF](http://twitter.com/search?q=%23FCKSGF) | N/A |
+| 6 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 7 | [#TSGBVB](http://twitter.com/search?q=%23TSGBVB) | N/A |
+| 8 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
 | 9 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 10 | [BASF](http://twitter.com/search?q=BASF) | N/A |
-| 11 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 12 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
-| 13 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
-| 14 | [Start ins Wochenende](http://twitter.com/search?q=Start+ins+Wochenende) | "Start ins Wochenende" is a German phrase that translates to "Start the Weekend" in English. It is typically used as an expression of excitement or anticipation for the upcoming weekend. |
-| 15 | [Habeck](http://twitter.com/search?q=Habeck) | N/A |
-| 16 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
-| 17 | [SEUNGKWAN](http://twitter.com/search?q=SEUNGKWAN) | N/A |
-| 18 | [Botschaft](http://twitter.com/search?q=Botschaft) | N/A |
-| 19 | [farke](http://twitter.com/search?q=farke) | N/A |
-| 20 | [uni bonn](http://twitter.com/search?q=uni+bonn) | N/A |
-| 21 | [begeisterung an die front](http://twitter.com/search?q=begeisterung+an+die+front) | N/A |
-| 22 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
-| 23 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 24 | [Plagiat](http://twitter.com/search?q=Plagiat) | N/A |
-| 25 | [Die Politik der Grünen](http://twitter.com/search?q=Die+Politik+der+Gr%c3%bcnen) | N/A |
-| 26 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 27 | [heimsieg](http://twitter.com/search?q=heimsieg) | N/A |
-| 28 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
-| 29 | ['Skurriles'](http://twitter.com/search?q=%27Skurriles%27) | N/A |
-| 30 | [Fleischhauer](http://twitter.com/search?q=Fleischhauer) | N/A |
-| 31 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
-| 32 | [Kriegstreiber](http://twitter.com/search?q=Kriegstreiber) | N/A |
-| 33 | [Hagel](http://twitter.com/search?q=Hagel) | N/A |
-| 34 | [Elvedi](http://twitter.com/search?q=Elvedi) | N/A |
-| 35 | [Hofreiter](http://twitter.com/search?q=Hofreiter) | N/A |
-| 36 | [Chromosom](http://twitter.com/search?q=Chromosom) | N/A |
-| 37 | [INEC](http://twitter.com/search?q=INEC) | N/A |
-| 38 | [Hans-Werner Sinn](http://twitter.com/search?q=Hans-Werner+Sinn) | N/A |
-| 39 | [Affront](http://twitter.com/search?q=Affront) | N/A |
-| 40 | [Waffen](http://twitter.com/search?q=Waffen) | N/A |
-| 41 | [Freitagabend](http://twitter.com/search?q=Freitagabend) | N/A |
-| 42 | [Standort Deutschland](http://twitter.com/search?q=Standort+Deutschland) | N/A |
-| 43 | [Angriffskrieg](http://twitter.com/search?q=Angriffskrieg) | N/A |
-| 44 | [arbeitgeber](http://twitter.com/search?q=arbeitgeber) | N/A |
-| 45 | [Herr Lindner](http://twitter.com/search?q=Herr+Lindner) | N/A |
-| 46 | [pubertätsblocker](http://twitter.com/search?q=pubert%c3%a4tsblocker) | N/A |
-| 47 | [Christoph Waltz](http://twitter.com/search?q=Christoph+Waltz) | N/A |
-| 48 | [Schlesinger](http://twitter.com/search?q=Schlesinger) | N/A |
-| 49 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 50 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 10 | [Elsässer](http://twitter.com/search?q=Els%c3%a4sser) | N/A |
+| 11 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
+| 12 | [Irreführung der Bevölkerung](http://twitter.com/search?q=Irref%c3%bchrung+der+Bev%c3%b6lkerung) | N/A |
+| 13 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 14 | [Herr Lindner](http://twitter.com/search?q=Herr+Lindner) | N/A |
+| 15 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
+| 16 | [Schönen Samstag](http://twitter.com/search?q=Sch%c3%b6nen+Samstag) | N/A |
+| 17 | [Vollidiot](http://twitter.com/search?q=Vollidiot) | N/A |
+| 18 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
+| 19 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
+| 20 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
+| 21 | [Werder](http://twitter.com/search?q=Werder) | N/A |
+| 22 | [Bock auf Arbeit](http://twitter.com/search?q=Bock+auf+Arbeit) | N/A |
+| 23 | [Flagge](http://twitter.com/search?q=Flagge) | N/A |
+| 24 | [Indien](http://twitter.com/search?q=Indien) | N/A |
+| 25 | [#BSCFCA](http://twitter.com/search?q=%23BSCFCA) | N/A |
+| 26 | [#Schwarzer](http://twitter.com/search?q=%23Schwarzer) | N/A |
+| 27 | [#RBLSGE](http://twitter.com/search?q=%23RBLSGE) | N/A |
+| 28 | [#KSVSCP](http://twitter.com/search?q=%23KSVSCP) | N/A |
+| 29 | [#MSVSVM](http://twitter.com/search?q=%23MSVSVM) | N/A |
+| 30 | [#Querfront](http://twitter.com/search?q=%23Querfront) | N/A |
+| 31 | [#SVWBOC](http://twitter.com/search?q=%23SVWBOC) | N/A |
+| 32 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 33 | [#Habeck](http://twitter.com/search?q=%23Habeck) | N/A |
+| 34 | [#ManifestDerSchande](http://twitter.com/search?q=%23ManifestDerSchande) | N/A |
+| 35 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
+| 36 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
+| 37 | [#FCKPTN](http://twitter.com/search?q=%23FCKPTN) | N/A |
+| 38 | [#SVDHSV](http://twitter.com/search?q=%23SVDHSV) | N/A |
 
 
 

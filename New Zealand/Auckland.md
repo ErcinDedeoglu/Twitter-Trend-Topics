@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-25 13:19:43 UTC`
+📆 Last Updated: `2023-02-25 14:16:28 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,7 +18,7 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 1 | [#higvblu](http://twitter.com/search?q=%23higvblu) | N/A |
 | 2 | [liz gunn](http://twitter.com/search?q=liz+gunn) | N/A |
 | 3 | [#SuperRugbyPacific](http://twitter.com/search?q=%23SuperRugbyPacific) | N/A |
-| 4 | [#CRUvCHI](http://twitter.com/search?q=%23CRUvCHI) | N/A |
+| 4 | [#cruvchi](http://twitter.com/search?q=%23cruvchi) | N/A |
 | 5 | [Blues](http://twitter.com/search?q=Blues) | N/A |
 | 6 | [#MOAvDRU](http://twitter.com/search?q=%23MOAvDRU) | N/A |
 | 7 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
@@ -44,10 +44,10 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 27 | [Sande](http://twitter.com/search?q=Sande) | N/A |
 | 28 | [whangarei](http://twitter.com/search?q=whangarei) | N/A |
 | 29 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 30 | [jedi](http://twitter.com/search?q=jedi) | N/A |
+| 30 | [Jedi](http://twitter.com/search?q=Jedi) | N/A |
 | 31 | [Y'all](http://twitter.com/search?q=Y%27all) | N/A |
 | 32 | [judith collins](http://twitter.com/search?q=judith+collins) | N/A |
-| 33 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
+| 33 | [3 waters](http://twitter.com/search?q=3+waters) | N/A |
 | 34 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 35 | [Root](http://twitter.com/search?q=Root) | N/A |
 | 36 | [Tony](http://twitter.com/search?q=Tony) | N/A |
@@ -55,12 +55,12 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 38 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 39 | [Wales](http://twitter.com/search?q=Wales) | Wales is a country in the United Kingdom, located on the western side of Great Britain. It is bordered by England to the east, the Irish Sea to the north and west, and the Bristol Channel to the south. Wales has a population of around 3 million people and is officially bilingual, with both English and Welsh being spoken. The capital city is Cardiff. Wales is known for its rugged coastline, mountainous national parks, medieval castles, and vibrant culture. |
 | 40 | [blackcaps](http://twitter.com/search?q=blackcaps) | N/A |
-| 41 | [Slash](http://twitter.com/search?q=Slash) | N/A |
-| 42 | [basin](http://twitter.com/search?q=basin) | N/A |
+| 41 | [SLASH](http://twitter.com/search?q=SLASH) | N/A |
+| 42 | [Basin](http://twitter.com/search?q=Basin) | N/A |
 | 43 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
 | 44 | [The Nats](http://twitter.com/search?q=The+Nats) | N/A |
 | 45 | [Tommy](http://twitter.com/search?q=Tommy) | N/A |
-| 46 | [EVERY FIVE MINUTES](http://twitter.com/search?q=EVERY+FIVE+MINUTES) | N/A |
+| 46 | [every five minutes](http://twitter.com/search?q=every+five+minutes) | N/A |
 | 47 | [read a new zealand](http://twitter.com/search?q=read+a+new+zealand) | N/A |
 | 48 | [Jake](http://twitter.com/search?q=Jake) | N/A |
 | 49 | [Gender](http://twitter.com/search?q=Gender) | N/A |

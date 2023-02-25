@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Multan
 
-📆 Last Updated: `2023-02-25 13:19:37 UTC`
+📆 Last Updated: `2023-02-25 14:16:22 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Pakistan](</Pakistan>)
 | 3 | [#MaryamTheSpoiltBrat](http://twitter.com/search?q=%23MaryamTheSpoiltBrat) | N/A |
 | 4 | [#باجوہ_کی_لاڈلی_مریم](http://twitter.com/search?q=%23%d8%a8%d8%a7%d8%ac%d9%88%db%81_%da%a9%db%8c_%d9%84%d8%a7%da%88%d9%84%db%8c_%d9%85%d8%b1%db%8c%d9%85) | N/A |
 | 5 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 6 | [We Condemn Enemy Of Sahaba](http://twitter.com/search?q=We+Condemn+Enemy+Of+Sahaba) | N/A |
-| 7 | [Fahad Hussain](http://twitter.com/search?q=Fahad+Hussain) | N/A |
-| 8 | [jumma mubarak](http://twitter.com/search?q=jumma+mubarak) | N/A |
-| 9 | [BOL News](http://twitter.com/search?q=BOL+News) | N/A |
-| 10 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
-| 11 | [UMER GRACES THE DANCE FLOOR](http://twitter.com/search?q=UMER+GRACES+THE+DANCE+FLOOR) | N/A |
-| 12 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
-| 13 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
-| 14 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 15 | [itcn asia 2023](http://twitter.com/search?q=itcn+asia+2023) | N/A |
-| 16 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
-| 17 | [NATION LOVES ASIM RIAZ](http://twitter.com/search?q=NATION+LOVES+ASIM+RIAZ) | N/A |
-| 18 | [Quetta](http://twitter.com/search?q=Quetta) | Quetta is a city in Pakistan located in the province of Balochistan. The name Quetta is derived from the Pashto word "Kwatak", meaning fort. In English, Quetta translates to "fortress". |
-| 19 | [Bhara Kahu](http://twitter.com/search?q=Bhara+Kahu) | N/A |
-| 20 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
-| 21 | [King Of Loyalty](http://twitter.com/search?q=King+Of+Loyalty) | N/A |
-| 22 | [NADRA](http://twitter.com/search?q=NADRA) | N/A |
-| 23 | [Hasan Ali](http://twitter.com/search?q=Hasan+Ali) | N/A |
-| 24 | [earthquake in islamabad](http://twitter.com/search?q=earthquake+in+islamabad) | N/A |
-| 25 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
-| 26 | [guantanamo bay](http://twitter.com/search?q=guantanamo+bay) | N/A |
-| 27 | [Mola Abbas](http://twitter.com/search?q=Mola+Abbas) | N/A |
-| 28 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 6 | [Fahad Hussain](http://twitter.com/search?q=Fahad+Hussain) | N/A |
+| 7 | [We Condemn Enemy Of Sahaba](http://twitter.com/search?q=We+Condemn+Enemy+Of+Sahaba) | N/A |
+| 8 | [Sabahat Rizvi](http://twitter.com/search?q=Sabahat+Rizvi) | N/A |
+| 9 | [jummah mubarak](http://twitter.com/search?q=jummah+mubarak) | N/A |
+| 10 | [BOL News](http://twitter.com/search?q=BOL+News) | N/A |
+| 11 | [Spoiled](http://twitter.com/search?q=Spoiled) | N/A |
+| 12 | [UMER GRACES THE DANCE FLOOR](http://twitter.com/search?q=UMER+GRACES+THE+DANCE+FLOOR) | N/A |
+| 13 | [ChatGPT](http://twitter.com/search?q=ChatGPT) | N/A |
+| 14 | [SOOBIN](http://twitter.com/search?q=SOOBIN) | SOOBIN is a Korean name, derived from the Chinese characters for "protection" and "beauty". It can be translated to mean "protected beauty" in English. |
+| 15 | [Abrar](http://twitter.com/search?q=Abrar) | N/A |
+| 16 | [NADRA](http://twitter.com/search?q=NADRA) | N/A |
+| 17 | [PML-N](http://twitter.com/search?q=PML-N) | N/A |
+| 18 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 19 | [itcn asia 2023](http://twitter.com/search?q=itcn+asia+2023) | N/A |
+| 20 | [Hafeez](http://twitter.com/search?q=Hafeez) | N/A |
+| 21 | [IELTS](http://twitter.com/search?q=IELTS) | N/A |
+| 22 | [NATION LOVES ASIM RIAZ](http://twitter.com/search?q=NATION+LOVES+ASIM+RIAZ) | N/A |
+| 23 | [King Of Loyalty](http://twitter.com/search?q=King+Of+Loyalty) | N/A |
+| 24 | [Asif Ali](http://twitter.com/search?q=Asif+Ali) | Asif Ali is a male given name of Arabic origin. It is derived from the Arabic words ‘asif’, meaning ‘forgiveness’, and ‘ali’, meaning ‘high’ or ‘exalted’. In English, it can be translated to mean ‘forgiver of the exalted one’. |
+| 25 | [Hasan Ali](http://twitter.com/search?q=Hasan+Ali) | N/A |
+| 26 | [bhara kahu](http://twitter.com/search?q=bhara+kahu) | N/A |
+| 27 | [Guantanamo Bay](http://twitter.com/search?q=Guantanamo+Bay) | N/A |
+| 28 | [Mola Abbas](http://twitter.com/search?q=Mola+Abbas) | N/A |
 | 29 | [Meesha Shafi](http://twitter.com/search?q=Meesha+Shafi) | N/A |
-| 30 | [Google](http://twitter.com/search?q=Google) | N/A |
-| 31 | [Loan](http://twitter.com/search?q=Loan) | N/A |
-| 32 | [Iffat](http://twitter.com/search?q=Iffat) | N/A |
+| 30 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 31 | [Usama Mir](http://twitter.com/search?q=Usama+Mir) | Usama Mir is a Pakistani singer, songwriter, and music producer. His name translates to "Lion of God" in English. |
+| 32 | [Loan](http://twitter.com/search?q=Loan) | N/A |
 | 33 | [Elon](http://twitter.com/search?q=Elon) | N/A |
-| 34 | [hazrat abbas](http://twitter.com/search?q=hazrat+abbas) | N/A |
-| 35 | [Hajj](http://twitter.com/search?q=Hajj) | N/A |
-| 36 | [Army](http://twitter.com/search?q=Army) | N/A |
-| 37 | [London](http://twitter.com/search?q=London) | N/A |
-| 38 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
-| 39 | [jungkook](http://twitter.com/search?q=jungkook) | Jungkook is the stage name of Jeon Jung-kook, a South Korean singer, songwriter, and dancer. He is a member of the K-pop boy band BTS. The name Jungkook means "nation's golden maknae" (youngest member) in Korean. |
-| 40 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
-| 41 | [Epic](http://twitter.com/search?q=Epic) | N/A |
-| 42 | [Kohli](http://twitter.com/search?q=Kohli) | Kohli is a surname of Indian origin. It is derived from the Sanskrit word “Kul”, meaning clan or family. The name is most commonly associated with the Kohli clan of North India, which is one of the oldest clans in India. |
-| 43 | [Imad](http://twitter.com/search?q=Imad) | N/A |
-| 44 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
-| 45 | [ARY News](http://twitter.com/search?q=ARY+News) | N/A |
-| 46 | [Nani](http://twitter.com/search?q=Nani) | N/A |
-| 47 | [Imran Niazi](http://twitter.com/search?q=Imran+Niazi) | N/A |
+| 34 | [Hajj](http://twitter.com/search?q=Hajj) | N/A |
+| 35 | [Joey](http://twitter.com/search?q=Joey) | N/A |
+| 36 | [iffat](http://twitter.com/search?q=iffat) | N/A |
+| 37 | [Google](http://twitter.com/search?q=Google) | N/A |
+| 38 | [Lahore](http://twitter.com/search?q=Lahore) | N/A |
+| 39 | [Faiz](http://twitter.com/search?q=Faiz) | N/A |
+| 40 | [London](http://twitter.com/search?q=London) | N/A |
+| 41 | [Bibi](http://twitter.com/search?q=Bibi) | N/A |
+| 42 | [Bollywood](http://twitter.com/search?q=Bollywood) | N/A |
+| 43 | [Great Leader](http://twitter.com/search?q=Great+Leader) | N/A |
+| 44 | [Epic](http://twitter.com/search?q=Epic) | N/A |
+| 45 | [Nani](http://twitter.com/search?q=Nani) | N/A |
+| 46 | [Virat](http://twitter.com/search?q=Virat) | N/A |
+| 47 | [Lala](http://twitter.com/search?q=Lala) | N/A |
 | 48 | [Corrupt](http://twitter.com/search?q=Corrupt) | N/A |
-| 49 | [ramiz Raja](http://twitter.com/search?q=ramiz+Raja) | N/A |
+| 49 | [Ramiz Raja](http://twitter.com/search?q=Ramiz+Raja) | N/A |
 
 
 
