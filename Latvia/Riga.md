@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-24 23:16:03 UTC`
+📆 Last Updated: `2023-02-25 00:28:30 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,8 +30,8 @@ This is top 50 for [Latvia](</Latvia>)
 | 13 | [Rihards Kols](http://twitter.com/search?q=Rihards+Kols) | N/A |
 | 14 | [Latvia](http://twitter.com/search?q=Latvia) | N/A |
 | 15 | [Leopard 2](http://twitter.com/search?q=Leopard+2) | N/A |
-| 16 | [Dievs](http://twitter.com/search?q=Dievs) | N/A |
-| 17 | [Avenam](http://twitter.com/search?q=Avenam) | N/A |
+| 16 | [dievs](http://twitter.com/search?q=dievs) | N/A |
+| 17 | [avenam](http://twitter.com/search?q=avenam) | N/A |
 | 18 | [kopš](http://twitter.com/search?q=kop%c5%a1) | N/A |
 | 19 | [Russia](http://twitter.com/search?q=Russia) | N/A |
 | 20 | [Эстонии](http://twitter.com/search?q=%d0%ad%d1%81%d1%82%d0%be%d0%bd%d0%b8%d0%b8) | N/A |
@@ -50,21 +50,21 @@ This is top 50 for [Latvia](</Latvia>)
 | 33 | [Reinis](http://twitter.com/search?q=Reinis) | N/A |
 | 34 | [Avenu](http://twitter.com/search?q=Avenu) | N/A |
 | 35 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
-| 36 | [Esmu](http://twitter.com/search?q=Esmu) | N/A |
-| 37 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
-| 38 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
-| 39 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 40 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
-| 41 | [Rietumu](http://twitter.com/search?q=Rietumu) | N/A |
-| 42 | [Labs](http://twitter.com/search?q=Labs) | N/A |
-| 43 | [Putina](http://twitter.com/search?q=Putina) | N/A |
-| 44 | [Pozņakam](http://twitter.com/search?q=Poz%c5%86akam) | N/A |
-| 45 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
-| 46 | [TİKKO](http://twitter.com/search?q=T%c4%b0KKO) | N/A |
-| 47 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
-| 48 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
-| 49 | [Skaisti](http://twitter.com/search?q=Skaisti) | N/A |
-| 50 | [Izklausās](http://twitter.com/search?q=Izklaus%c4%81s) | N/A |
+| 36 | [Kurš](http://twitter.com/search?q=Kur%c5%a1) | N/A |
+| 37 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
+| 38 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 39 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
+| 40 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
+| 41 | [Putina](http://twitter.com/search?q=Putina) | N/A |
+| 42 | [pozņakam](http://twitter.com/search?q=poz%c5%86akam) | N/A |
+| 43 | [#vertigo](http://twitter.com/search?q=%23vertigo) | N/A |
+| 44 | [#NFTs](http://twitter.com/search?q=%23NFTs) | N/A |
+| 45 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
+| 46 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
+| 47 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
+| 48 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 49 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
+| 50 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
 
 
 

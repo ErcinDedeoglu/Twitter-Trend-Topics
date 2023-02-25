@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Galway
 
-📆 Last Updated: `2023-02-24 23:15:58 UTC`
+📆 Last Updated: `2023-02-25 00:28:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Ireland](</Ireland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#LateLateShow](http://twitter.com/search?q=%23LateLateShow) | #LateLateShow is a popular late-night talk show hosted by James Corden on CBS. It features celebrity guests, musical performances, comedy sketches, and games. The show airs weeknights at 12:37am ET/PT. |
-| 2 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
-| 3 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 4 | [#u20sixnations](http://twitter.com/search?q=%23u20sixnations) | N/A |
-| 5 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 6 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
-| 7 | [#LOITV](http://twitter.com/search?q=%23LOITV) | N/A |
-| 8 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
-| 9 | [Max Mata](http://twitter.com/search?q=Max+Mata) | N/A |
-| 10 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
-| 11 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 12 | [Sam Prendergast](http://twitter.com/search?q=Sam+Prendergast) | N/A |
-| 13 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 14 | [Jordan Flores](http://twitter.com/search?q=Jordan+Flores) | N/A |
-| 15 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 16 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
-| 17 | [Derry](http://twitter.com/search?q=Derry) | N/A |
-| 18 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
-| 19 | [Shaq](http://twitter.com/search?q=Shaq) | Shaq is a nickname for Shaquille O'Neal, an American professional basketball player. It is also used as a slang term to refer to someone who is very large or tall. |
-| 20 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 21 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
-| 22 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
-| 23 | [FULL TIME](http://twitter.com/search?q=FULL+TIME) | FULL TIME is a term used to describe a job or activity that requires a person to work a certain number of hours per week, usually 40 hours. It is typically used to distinguish between part-time and full-time employment. |
-| 24 | [Hull](http://twitter.com/search?q=Hull) | N/A |
-| 25 | [Dalymount](http://twitter.com/search?q=Dalymount) | N/A |
-| 26 | [John McClean](http://twitter.com/search?q=John+McClean) | N/A |
-| 27 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
-| 28 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 2 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 3 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 4 | [Rovers](http://twitter.com/search?q=Rovers) | N/A |
+| 5 | [#LOITV](http://twitter.com/search?q=%23LOITV) | N/A |
+| 6 | [#MUNBAR](http://twitter.com/search?q=%23MUNBAR) | N/A |
+| 7 | [#ITAvIRE](http://twitter.com/search?q=%23ITAvIRE) | N/A |
+| 8 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 9 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 10 | [Paul Mescal](http://twitter.com/search?q=Paul+Mescal) | Paul Mescal is an Irish actor best known for his leading role in the 2020 miniseries Normal People. The series, which was adapted from the novel of the same name by Sally Rooney, follows the story of two young people, Marianne and Connell, as they navigate their complicated relationship over several years. Mescal's performance in the series earned him critical acclaim and numerous award nominations. |
+| 11 | [Rooney](http://twitter.com/search?q=Rooney) | N/A |
+| 12 | [Max Mata](http://twitter.com/search?q=Max+Mata) | N/A |
+| 13 | [Jordan Flores](http://twitter.com/search?q=Jordan+Flores) | N/A |
+| 14 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 15 | [Varane](http://twitter.com/search?q=Varane) | Varane is a French surname derived from the Latin word varanus, meaning monitor lizard. In English, it can be translated to mean "monitor lizard". |
+| 16 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
+| 17 | [Weghorst](http://twitter.com/search?q=Weghorst) | Weghorst is a Dutch surname derived from the word "weg" meaning "road" or "way". It is also used as a given name and can be translated to mean "guardian of the way". |
+| 18 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 19 | [Casey](http://twitter.com/search?q=Casey) | Casey is a unisex name of Irish origin, derived from the Gaelic Cathasaigh, meaning “brave” or “vigilant.” It is also a popular surname in the United States. |
+| 20 | [Dundalk](http://twitter.com/search?q=Dundalk) | N/A |
+| 21 | [Dalymount](http://twitter.com/search?q=Dalymount) | N/A |
+| 22 | [Sam Prendergast](http://twitter.com/search?q=Sam+Prendergast) | N/A |
+| 23 | [Hull](http://twitter.com/search?q=Hull) | N/A |
+| 24 | [Derry](http://twitter.com/search?q=Derry) | N/A |
+| 25 | [john mcclean](http://twitter.com/search?q=john+mcclean) | N/A |
+| 26 | [John Motson](http://twitter.com/search?q=John+Motson) | N/A |
+| 27 | [Sancho](http://twitter.com/search?q=Sancho) | Sancho is a Spanish name derived from the Latin name Sanctius. It is a masculine given name and can also be used as a nickname for someone named Francisco or Sancho Panza, the sidekick of Don Quixote in the novel by Miguel de Cervantes. In English, it means "holy" or "sacred". |
+| 28 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
 | 29 | [La Liga](http://twitter.com/search?q=La+Liga) | N/A |
 | 30 | [Tom Tierney](http://twitter.com/search?q=Tom+Tierney) | N/A |
-| 31 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
-| 32 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
-| 33 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 31 | [Richmond Park](http://twitter.com/search?q=Richmond+Park) | N/A |
+| 32 | [Real Betis](http://twitter.com/search?q=Real+Betis) | N/A |
+| 33 | [Omagh](http://twitter.com/search?q=Omagh) | N/A |
 | 34 | [Hozier](http://twitter.com/search?q=Hozier) | N/A |
-| 35 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
+| 35 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
 | 36 | [De Jong](http://twitter.com/search?q=De+Jong) | De Jong is a Dutch surname. It is derived from the personal name Jan, which is a form of John. The literal meaning of the name in English is "son of John". |
 | 37 | [Olivia](http://twitter.com/search?q=Olivia) | Olivia is a feminine given name of Latin origin, derived from the Latin word oliva, meaning "olive tree". It is a popular name in many English-speaking countries, including the United States, Canada, Australia, New Zealand, Ireland and the United Kingdom. |
-| 38 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
-| 39 | [Cork City](http://twitter.com/search?q=Cork+City) | N/A |
-| 40 | [Richmond Park](http://twitter.com/search?q=Richmond+Park) | N/A |
-| 41 | [Treaty](http://twitter.com/search?q=Treaty) | N/A |
-| 42 | [MOTD](http://twitter.com/search?q=MOTD) | N/A |
-| 43 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 44 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
-| 45 | [Erik Ten Hag](http://twitter.com/search?q=Erik+Ten+Hag) | N/A |
-| 46 | [RIP Tom](http://twitter.com/search?q=RIP+Tom) | N/A |
-| 47 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 48 | [Solidarity Joe](http://twitter.com/search?q=Solidarity+Joe) | N/A |
-| 49 | [ethel cain](http://twitter.com/search?q=ethel+cain) | Ethel Cain is a phrase used to describe someone who is kind and generous. It is derived from the name of the biblical character Ethel, who was known for her generosity and hospitality. The phrase is often used as a compliment to someone who has been particularly helpful or generous. |
+| 38 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
+| 39 | [Bruno Fernandes](http://twitter.com/search?q=Bruno+Fernandes) | Bruno Fernandes is a Portuguese professional footballer who plays as a midfielder for Premier League club Manchester United and the Portugal national team. His full name is Bruno Miguel Borges Fernandes. |
+| 40 | [Erik Ten Hag](http://twitter.com/search?q=Erik+Ten+Hag) | N/A |
+| 41 | [Cork City](http://twitter.com/search?q=Cork+City) | N/A |
+| 42 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
+| 43 | [Solidarity Joe](http://twitter.com/search?q=Solidarity+Joe) | N/A |
+| 44 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 45 | [Terenure College](http://twitter.com/search?q=Terenure+College) | N/A |
+| 46 | [Treaty](http://twitter.com/search?q=Treaty) | N/A |
+| 47 | [LOTR](http://twitter.com/search?q=LOTR) | N/A |
+| 48 | [State of Play](http://twitter.com/search?q=State+of+Play) | N/A |
+| 49 | [Muhammad](http://twitter.com/search?q=Muhammad) | N/A |
 
 
 

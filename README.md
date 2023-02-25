@@ -9,7 +9,7 @@ Whether you're a journalist, marketer, or just interested in social media trends
 
 📊 Top 50 Trending Topics
 
-📆 Last Updated: `2023-02-24 23:15:45 UTC`
+📆 Last Updated: `2023-02-25 00:28:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -22,54 +22,54 @@ This is top 50
 | ------- | ------------ | ------------ |
 | 1 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
 | 2 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
-| 3 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 4 | [#fosstotounel](http://twitter.com/search?q=%23fosstotounel) | #Fosstotounel is a hashtag used to promote the FOSS (Free and Open Source Software) movement. It stands for "Free and Open Source Software To The People". It is used to encourage people to use open source software, which is software that can be freely shared, modified, and distributed. |
-| 5 | [#العيد_الوطني_الكويتي](http://twitter.com/search?q=%23%d8%a7%d9%84%d8%b9%d9%8a%d8%af_%d8%a7%d9%84%d9%88%d8%b7%d9%86%d9%8a_%d8%a7%d9%84%d9%83%d9%88%d9%8a%d8%aa%d9%8a) | N/A |
-| 6 | [#NigeriaElections2023](http://twitter.com/search?q=%23NigeriaElections2023) | N/A |
-| 7 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
-| 8 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 9 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 10 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
-| 11 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 12 | [Yahaya Bello](http://twitter.com/search?q=Yahaya+Bello) | N/A |
-| 13 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
-| 14 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
-| 15 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
-| 16 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 17 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 18 | [Manor Solomon](http://twitter.com/search?q=Manor+Solomon) | N/A |
-| 19 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
-| 20 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 21 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 22 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
-| 23 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 24 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
-| 25 | [La Nuit du 12](http://twitter.com/search?q=La+Nuit+du+12) | N/A |
-| 26 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 27 | [グッズ列](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e5%88%97) | グッズ列 (Guzzu retsu) is a Japanese term that refers to a line of merchandise, usually related to a particular event or product. In English, it can be translated as "merchandise line" or "merchandise queue". |
-| 28 | [Brest](http://twitter.com/search?q=Brest) | N/A |
-| 29 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
-| 30 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
-| 31 | [Optic](http://twitter.com/search?q=Optic) | N/A |
-| 32 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 33 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 34 | [Martínez Valero](http://twitter.com/search?q=Mart%c3%adnez+Valero) | N/A |
-| 35 | [Enzo Roco](http://twitter.com/search?q=Enzo+Roco) | N/A |
-| 36 | [Matt Nagy](http://twitter.com/search?q=Matt+Nagy) | N/A |
-| 37 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
-| 38 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
-| 39 | [Jackson Merrill](http://twitter.com/search?q=Jackson+Merrill) | N/A |
-| 40 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 41 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
-| 42 | [土曜出勤](http://twitter.com/search?q=%e5%9c%9f%e6%9b%9c%e5%87%ba%e5%8b%a4) | N/A |
-| 43 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 44 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 45 | [Pete Doherty](http://twitter.com/search?q=Pete+Doherty) | N/A |
-| 46 | [Spyro](http://twitter.com/search?q=Spyro) | N/A |
-| 47 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 48 | [MILEY IS COMING](http://twitter.com/search?q=MILEY+IS+COMING) | N/A |
-| 49 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 50 | [Benoît Magimel](http://twitter.com/search?q=Beno%c3%aet+Magimel) | N/A |
+| 3 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 4 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 5 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 6 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 7 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
+| 8 | [#ReinaLPGC](http://twitter.com/search?q=%23ReinaLPGC) | N/A |
+| 9 | [#fosstotounel](http://twitter.com/search?q=%23fosstotounel) | #Fosstotounel is a hashtag used to promote the FOSS (Free and Open Source Software) movement. It stands for "Free and Open Source Software To The People". It is used to encourage people to use open source software, which is software that can be freely shared, modified, and distributed. |
+| 10 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
+| 11 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
+| 12 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 13 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 14 | [Ralph Nader](http://twitter.com/search?q=Ralph+Nader) | N/A |
+| 15 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
+| 16 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 17 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 18 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 19 | [Yahaya Bello](http://twitter.com/search?q=Yahaya+Bello) | N/A |
+| 20 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 21 | [Chano](http://twitter.com/search?q=Chano) | N/A |
+| 22 | [Virou Grenal](http://twitter.com/search?q=Virou+Grenal) | N/A |
+| 23 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 24 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
+| 25 | [グッズ列](http://twitter.com/search?q=%e3%82%b0%e3%83%83%e3%82%ba%e5%88%97) | グッズ列 (Guzzu retsu) is a Japanese term that refers to a line of merchandise, usually related to a particular event or product. In English, it can be translated as "merchandise line" or "merchandise queue". |
+| 26 | [Brad Pitt](http://twitter.com/search?q=Brad+Pitt) | N/A |
+| 27 | [土曜出勤](http://twitter.com/search?q=%e5%9c%9f%e6%9b%9c%e5%87%ba%e5%8b%a4) | N/A |
+| 28 | [Christine Anderson](http://twitter.com/search?q=Christine+Anderson) | N/A |
+| 29 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 30 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
+| 31 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 32 | [プリンの日](http://twitter.com/search?q=%e3%83%97%e3%83%aa%e3%83%b3%e3%81%ae%e6%97%a5) | N/A |
+| 33 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 34 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 35 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 36 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
+| 37 | [ベムスター](http://twitter.com/search?q=%e3%83%99%e3%83%a0%e3%82%b9%e3%82%bf%e3%83%bc) | N/A |
+| 38 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
+| 39 | [Nico Guerra](http://twitter.com/search?q=Nico+Guerra) | N/A |
+| 40 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 41 | [Manor Solomon](http://twitter.com/search?q=Manor+Solomon) | N/A |
+| 42 | [オッケーカフ](http://twitter.com/search?q=%e3%82%aa%e3%83%83%e3%82%b1%e3%83%bc%e3%82%ab%e3%83%95) | N/A |
+| 43 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 44 | [Instead of Tinubu](http://twitter.com/search?q=Instead+of+Tinubu) | N/A |
+| 45 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 46 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 47 | [セカライ](http://twitter.com/search?q=%e3%82%bb%e3%82%ab%e3%83%a9%e3%82%a4) | セカライ is a Japanese word that means "forever". It is often used to express a strong feeling of love or commitment. |
+| 48 | [Optic](http://twitter.com/search?q=Optic) | N/A |
+| 49 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
+| 50 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
 
 
 

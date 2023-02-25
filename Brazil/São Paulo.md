@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For São Paulo
 
-📆 Last Updated: `2023-02-24 23:15:55 UTC`
+📆 Last Updated: `2023-02-25 00:28:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Mattos](http://twitter.com/search?q=Mattos) | N/A |
-| 2 | [Diniz](http://twitter.com/search?q=Diniz) | Diniz is a Portuguese surname derived from the Latin name Deniz, which means “of the sea”. It is also a common given name in Portugal and Brazil. |
-| 3 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 4 | [Stalin](http://twitter.com/search?q=Stalin) | N/A |
-| 5 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 1 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 2 | [Sacy](http://twitter.com/search?q=Sacy) | N/A |
+| 3 | [Mattos](http://twitter.com/search?q=Mattos) | N/A |
+| 4 | [#StaySelcaDay](http://twitter.com/search?q=%23StaySelcaDay) | N/A |
+| 5 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
 | 6 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 7 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
-| 8 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
-| 9 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 7 | [#VaiNaFe](http://twitter.com/search?q=%23VaiNaFe) | #VaiNaFe is a Portuguese phrase that translates to "Go to Faith" in English. It is often used as an encouragement to stay strong and have faith in difficult times. |
+| 8 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 9 | [Kannemann](http://twitter.com/search?q=Kannemann) | N/A |
 | 10 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 11 | [Vina](http://twitter.com/search?q=Vina) | N/A |
-| 12 | [Leo Dias](http://twitter.com/search?q=Leo+Dias) | N/A |
-| 13 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 14 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 15 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 16 | [#XboxFreeCodeFriday](http://twitter.com/search?q=%23XboxFreeCodeFriday) | #XboxFreeCodeFriday is a hashtag used on Twitter to promote giveaways of free Xbox codes. It is used by Xbox and other gaming companies to give away free codes for games, DLCs, and other content. The hashtag is used to draw attention to the giveaway and encourage people to participate. |
-| 17 | [#LulaUmBrasilParaTodos](http://twitter.com/search?q=%23LulaUmBrasilParaTodos) | N/A |
-| 18 | [#VCTLOCKIN](http://twitter.com/search?q=%23VCTLOCKIN) | N/A |
-| 19 | [Glayce](http://twitter.com/search?q=Glayce) | N/A |
-| 20 | [Carlinhos Maia](http://twitter.com/search?q=Carlinhos+Maia) | N/A |
-| 21 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
-| 22 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
-| 23 | [Saci](http://twitter.com/search?q=Saci) | N/A |
-| 24 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
-| 25 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
-| 26 | [Guiga](http://twitter.com/search?q=Guiga) | N/A |
-| 27 | [Rodriguinho](http://twitter.com/search?q=Rodriguinho) | N/A |
+| 11 | [Cristaldo](http://twitter.com/search?q=Cristaldo) | Cristaldo is a Portuguese name derived from the Latin name “Christophorus”, which means “Christ-bearer”. It is a combination of the words “Cristo” (Christ) and “Aldo” (bearer). In English, Cristaldo can be translated to mean "Christ-bearer". |
+| 12 | [Virou Grenal](http://twitter.com/search?q=Virou+Grenal) | N/A |
+| 13 | [Lumiar](http://twitter.com/search?q=Lumiar) | N/A |
+| 14 | [Vina](http://twitter.com/search?q=Vina) | N/A |
+| 15 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 16 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 17 | [Travis](http://twitter.com/search?q=Travis) | N/A |
+| 18 | [#ATEEZinBrazil](http://twitter.com/search?q=%23ATEEZinBrazil) | N/A |
+| 19 | [Leo Dias](http://twitter.com/search?q=Leo+Dias) | N/A |
+| 20 | [Jenifer](http://twitter.com/search?q=Jenifer) | N/A |
+| 21 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 22 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
+| 23 | [Bruno Alves](http://twitter.com/search?q=Bruno+Alves) | N/A |
+| 24 | [Glayce](http://twitter.com/search?q=Glayce) | N/A |
+| 25 | [Omelete](http://twitter.com/search?q=Omelete) | N/A |
+| 26 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
+| 27 | [#LulaUmBrasilParaTodos](http://twitter.com/search?q=%23LulaUmBrasilParaTodos) | N/A |
 | 28 | [Carol Sampaio](http://twitter.com/search?q=Carol+Sampaio) | N/A |
-| 29 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
-| 30 | [Jegue](http://twitter.com/search?q=Jegue) | N/A |
-| 31 | [Omelete](http://twitter.com/search?q=Omelete) | N/A |
-| 32 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
-| 33 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
-| 34 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 35 | [Elizabeth](http://twitter.com/search?q=Elizabeth) | N/A |
-| 36 | [Dgzin](http://twitter.com/search?q=Dgzin) | N/A |
-| 37 | [Khalil](http://twitter.com/search?q=Khalil) | N/A |
-| 38 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 39 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
-| 40 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
-| 41 | [Hermes](http://twitter.com/search?q=Hermes) | N/A |
-| 42 | [Campinho](http://twitter.com/search?q=Campinho) | N/A |
-| 43 | [Pepê](http://twitter.com/search?q=Pep%c3%aa) | Pepê is a Portuguese term of endearment that is used to refer to someone in a friendly or affectionate way. It can be translated to English as "dear" or "darling". |
-| 44 | [Fubá](http://twitter.com/search?q=Fub%c3%a1) | N/A |
-| 45 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
-| 46 | [Mourão](http://twitter.com/search?q=Mour%c3%a3o) | Mourão is a Portuguese surname. It is derived from the Latin word maurus, which means "dark-skinned". In English, it can be translated to mean "dark-skinned". |
-| 47 | [Saul Goodman](http://twitter.com/search?q=Saul+Goodman) | N/A |
-| 48 | [Greta](http://twitter.com/search?q=Greta) | Greta is a female given name of Germanic origin, derived from the element "gred" meaning "grace". It is also a variant of the name Margaret, which means "pearl". |
-| 49 | [Ultraje a Rigor](http://twitter.com/search?q=Ultraje+a+Rigor) | N/A |
-| 50 | [ITUNES](http://twitter.com/search?q=ITUNES) | N/A |
+| 29 | [Carballo](http://twitter.com/search?q=Carballo) | N/A |
+| 30 | [Ferreira](http://twitter.com/search?q=Ferreira) | Ferreira is a Portuguese surname derived from the Latin word ferrum, meaning "iron". It is also a common given name in Portuguese-speaking countries. In English, it can be translated to mean "Ironworker" or "Blacksmith". |
+| 31 | [Rodriguinho](http://twitter.com/search?q=Rodriguinho) | N/A |
+| 32 | [Pepê](http://twitter.com/search?q=Pep%c3%aa) | Pepê is a Portuguese term of endearment that is used to refer to someone in a friendly or affectionate way. It can be translated to English as "dear" or "darling". |
+| 33 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 34 | [Jegue](http://twitter.com/search?q=Jegue) | N/A |
+| 35 | [Villasanti](http://twitter.com/search?q=Villasanti) | Villasanti is a Spanish surname. It is derived from the Latin words villa (town) and sancti (holy). In English, it can be translated to mean "holy town". |
+| 36 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 37 | [Nóia](http://twitter.com/search?q=N%c3%b3ia) | N/A |
+| 38 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 39 | [Carlinhos Maia](http://twitter.com/search?q=Carlinhos+Maia) | N/A |
+| 40 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 41 | [Guiga](http://twitter.com/search?q=Guiga) | N/A |
+| 42 | [Big Bang](http://twitter.com/search?q=Big+Bang) | N/A |
+| 43 | [Candomblé](http://twitter.com/search?q=Candombl%c3%a9) | N/A |
+| 44 | [Luisito](http://twitter.com/search?q=Luisito) | Luisito is a Spanish diminutive of the name Luis, which is the Spanish form of the name Louis. It is a term of endearment used to refer to someone named Luis or Louis in a friendly and affectionate way. In English, it can be translated to mean "Little Louis" or "Little Louie". |
+| 45 | [Saci](http://twitter.com/search?q=Saci) | N/A |
+| 46 | [Roberto Carlos](http://twitter.com/search?q=Roberto+Carlos) | Roberto Carlos is a Brazilian singer, songwriter, and guitarist who is considered one of the most influential and popular artists in Latin American music. His style combines traditional Brazilian music with elements of rock, soul, and funk. In English, Roberto Carlos means "Robert Charles". |
+| 47 | [Iansã](http://twitter.com/search?q=Ians%c3%a3) | N/A |
+| 48 | [Maroon 5](http://twitter.com/search?q=Maroon+5) | Maroon 5 is an American pop rock band from Los Angeles, California. The group was formed in 1994 and consists of lead vocalist Adam Levine, keyboardist and rhythm guitarist Jesse Carmichael, bassist Mickey Madden, lead guitarist James Valentine, drummer Matt Flynn, keyboardist PJ Morton and multi-instrumentalist Sam Farrar. The band's name is derived from a maroon color; Adam Levine chose it because it sounded "cool". |
+| 49 | [O Ben](http://twitter.com/search?q=O+Ben) | N/A |
+| 50 | [James Webb](http://twitter.com/search?q=James+Webb) | N/A |
 
 
 

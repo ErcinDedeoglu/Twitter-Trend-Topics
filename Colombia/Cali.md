@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Cali
 
-📆 Last Updated: `2023-02-24 23:15:52 UTC`
+📆 Last Updated: `2023-02-25 00:28:18 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,50 +20,50 @@ This is top 50 for [Colombia](</Colombia>)
 | 3 | [#FumarMarihuanaEs](http://twitter.com/search?q=%23FumarMarihuanaEs) | N/A |
 | 4 | [Venezuela](http://twitter.com/search?q=Venezuela) | Venezuela is a country located in South America. Its official name is the Bolivarian Republic of Venezuela. The meaning of Venezuela in English is "Little Venice," which is derived from the Italian explorer Amerigo Vespucci who named the country after seeing its houses built on stilts along the coast. |
 | 5 | [#LaGuerraEs](http://twitter.com/search?q=%23LaGuerraEs) | N/A |
-| 6 | [Antioquia](http://twitter.com/search?q=Antioquia) | N/A |
-| 7 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 8 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 9 | [#PetroMentiroso](http://twitter.com/search?q=%23PetroMentiroso) | N/A |
+| 6 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 7 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 8 | [#PetroMentiroso](http://twitter.com/search?q=%23PetroMentiroso) | N/A |
+| 9 | [Antioquia](http://twitter.com/search?q=Antioquia) | N/A |
 | 10 | [#MananaSeraBonito](http://twitter.com/search?q=%23MananaSeraBonito) | N/A |
 | 11 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 12 | [Francia](http://twitter.com/search?q=Francia) | N/A |
-| 13 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
-| 14 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
-| 15 | [Juan Diego Alvira](http://twitter.com/search?q=Juan+Diego+Alvira) | N/A |
-| 16 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
-| 17 | [The Truman Show](http://twitter.com/search?q=The+Truman+Show) | N/A |
-| 18 | [#DemocratizarEs](http://twitter.com/search?q=%23DemocratizarEs) | N/A |
-| 19 | [vamos millonarios](http://twitter.com/search?q=vamos+millonarios) | N/A |
-| 20 | [Ojos Ferrari](http://twitter.com/search?q=Ojos+Ferrari) | N/A |
-| 21 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
-| 22 | [CDMB](http://twitter.com/search?q=CDMB) | N/A |
-| 23 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
-| 24 | [Bad Bunny](http://twitter.com/search?q=Bad+Bunny) | Bad Bunny is a Puerto Rican reggaeton and Latin trap singer, songwriter, and rapper. His real name is Benito Antonio Martínez Ocasio. The phrase "Bad Bunny" is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is rebellious or daring. |
-| 25 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 12 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
+| 13 | [Juan Diego Alvira](http://twitter.com/search?q=Juan+Diego+Alvira) | N/A |
+| 14 | [Francia](http://twitter.com/search?q=Francia) | N/A |
+| 15 | [Ruiz](http://twitter.com/search?q=Ruiz) | Ruiz is a Spanish surname. It is derived from the Latin word "ruiz" which means "oak tree". In English, it can be translated to mean "oak tree". |
+| 16 | [The Truman Show](http://twitter.com/search?q=The+Truman+Show) | N/A |
+| 17 | [Blink](http://twitter.com/search?q=Blink) | N/A |
+| 18 | [Barcelona](http://twitter.com/search?q=Barcelona) | Barcelona is a city in Spain. It is the capital of the autonomous community of Catalonia and the second largest city in Spain after Madrid. The name Barcelona comes from the Latin phrase Barcino, which means "little boat". Barcelona is known for its culture, architecture, and art, as well as its vibrant nightlife and beaches. |
+| 19 | [#democratizares](http://twitter.com/search?q=%23democratizares) | N/A |
+| 20 | [vamos millonarios](http://twitter.com/search?q=vamos+millonarios) | N/A |
+| 21 | [CDMB](http://twitter.com/search?q=CDMB) | N/A |
+| 22 | [Gucci](http://twitter.com/search?q=Gucci) | Gucci is an Italian luxury fashion house founded in 1921 by Guccio Gucci. It is known for its high-end clothing, leather goods, shoes, and accessories. The brand has become synonymous with luxury and quality, and its iconic logo is recognized around the world. |
+| 23 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 24 | [Bichota](http://twitter.com/search?q=Bichota) | N/A |
+| 25 | [Ojos Ferrari](http://twitter.com/search?q=Ojos+Ferrari) | N/A |
 | 26 | [Tus Gafitas](http://twitter.com/search?q=Tus+Gafitas) | N/A |
-| 27 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 28 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 29 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 30 | [ariana](http://twitter.com/search?q=ariana) | N/A |
-| 31 | [Te Quiero Gonorrea](http://twitter.com/search?q=Te+Quiero+Gonorrea) | N/A |
-| 32 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
-| 33 | [YATRA EN PLN](http://twitter.com/search?q=YATRA+EN+PLN) | N/A |
-| 34 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
-| 35 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
-| 36 | [Ana del Castillo](http://twitter.com/search?q=Ana+del+Castillo) | N/A |
-| 37 | [Hijueputismo](http://twitter.com/search?q=Hijueputismo) | N/A |
-| 38 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
-| 39 | [Eficientes](http://twitter.com/search?q=Eficientes) | N/A |
-| 40 | [Casale](http://twitter.com/search?q=Casale) | N/A |
-| 41 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 42 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 43 | [Susanita](http://twitter.com/search?q=Susanita) | N/A |
-| 44 | [Agmeth Escaf](http://twitter.com/search?q=Agmeth+Escaf) | N/A |
-| 45 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
-| 46 | [Las EPS](http://twitter.com/search?q=Las+EPS) | N/A |
-| 47 | [Pacto Histórico](http://twitter.com/search?q=Pacto+Hist%c3%b3rico) | N/A |
-| 48 | [Drogadicta](http://twitter.com/search?q=Drogadicta) | N/A |
-| 49 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 27 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 28 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 29 | [Te Quiero Gonorrea](http://twitter.com/search?q=Te+Quiero+Gonorrea) | N/A |
+| 30 | [Lalis](http://twitter.com/search?q=Lalis) | Lalis is a Spanish term used to describe someone who is very friendly and kind. It can also be used to describe someone who is generous and helpful. In English, it could be translated as "kind-hearted" or "generous". |
+| 31 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 32 | [YATRA EN PLN](http://twitter.com/search?q=YATRA+EN+PLN) | N/A |
+| 33 | [Eficientes](http://twitter.com/search?q=Eficientes) | N/A |
+| 34 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 35 | [Ana del Castillo](http://twitter.com/search?q=Ana+del+Castillo) | N/A |
+| 36 | [Sergi Roberto](http://twitter.com/search?q=Sergi+Roberto) | Sergi Roberto is a Spanish professional footballer who plays for FC Barcelona and the Spanish national team. He primarily plays as a right-back, but can also play as a central midfielder or winger. His name in English translates to "Sergio Robert". |
+| 37 | [Aguilar](http://twitter.com/search?q=Aguilar) | N/A |
+| 38 | [Cannabis](http://twitter.com/search?q=Cannabis) | N/A |
+| 39 | [Mitómano](http://twitter.com/search?q=Mit%c3%b3mano) | N/A |
+| 40 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 41 | [Casale](http://twitter.com/search?q=Casale) | N/A |
+| 42 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 43 | [Official Video](http://twitter.com/search?q=Official+Video) | N/A |
+| 44 | [HIJUEPUTISMO](http://twitter.com/search?q=HIJUEPUTISMO) | N/A |
+| 45 | [Exministro](http://twitter.com/search?q=Exministro) | N/A |
+| 46 | [MIENTRAS ME CURO DEL CORA](http://twitter.com/search?q=MIENTRAS+ME+CURO+DEL+CORA) | N/A |
+| 47 | [Agmeth Escaf](http://twitter.com/search?q=Agmeth+Escaf) | N/A |
+| 48 | [Susanita](http://twitter.com/search?q=Susanita) | N/A |
+| 49 | [Cracker Island](http://twitter.com/search?q=Cracker+Island) | N/A |
 
 
 

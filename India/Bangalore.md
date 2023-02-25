@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bangalore
 
-📆 Last Updated: `2023-02-24 23:16:21 UTC`
+📆 Last Updated: `2023-02-25 00:28:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [India](</India>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#KCC3](http://twitter.com/search?q=%23KCC3) | N/A |
+| 1 | [#kcc3](http://twitter.com/search?q=%23kcc3) | N/A |
 | 2 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
 | 3 | [#INDWvsAUSW](http://twitter.com/search?q=%23INDWvsAUSW) | N/A |
-| 4 | [#HappyBirthdayNani](http://twitter.com/search?q=%23HappyBirthdayNani) | N/A |
-| 5 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 6 | [#Selfiee](http://twitter.com/search?q=%23Selfiee) | N/A |
+| 4 | [#happybirthdaynani](http://twitter.com/search?q=%23happybirthdaynani) | N/A |
+| 5 | [#Selfiee](http://twitter.com/search?q=%23Selfiee) | N/A |
+| 6 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
 | 7 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
 | 8 | [#INCPlenaryInCG](http://twitter.com/search?q=%23INCPlenaryInCG) | N/A |
-| 9 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 10 | [Fav Actor](http://twitter.com/search?q=Fav+Actor) | N/A |
-| 11 | [Fav Actress](http://twitter.com/search?q=Fav+Actress) | N/A |
-| 12 | [Fav Cricketer](http://twitter.com/search?q=Fav+Cricketer) | N/A |
+| 9 | [Fav Actor](http://twitter.com/search?q=Fav+Actor) | N/A |
+| 10 | [Fav Actress](http://twitter.com/search?q=Fav+Actress) | N/A |
+| 11 | [Fav Cricketer](http://twitter.com/search?q=Fav+Cricketer) | N/A |
+| 12 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
 | 13 | [action prince dhruvasarja](http://twitter.com/search?q=action+prince+dhruvasarja) | N/A |
 | 14 | [Fav IPL Team](http://twitter.com/search?q=Fav+IPL+Team) | N/A |
-| 15 | [Fav Director](http://twitter.com/search?q=Fav+Director) | N/A |
-| 16 | [Fav Music Director](http://twitter.com/search?q=Fav+Music+Director) | N/A |
-| 17 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 18 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
-| 19 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 20 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 21 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 22 | [HAPPY BIRTHDAY ALY GONI](http://twitter.com/search?q=HAPPY+BIRTHDAY+ALY+GONI) | N/A |
-| 23 | [शबरी जयंती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%ac%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 24 | [Nexus Sabotaging Sushant Case](http://twitter.com/search?q=Nexus+Sabotaging+Sushant+Case) | N/A |
-| 25 | [स्टैंडिंग कमेटी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%88%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%82%e0%a4%97+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
-| 26 | [book exposes truth](http://twitter.com/search?q=book+exposes+truth) | N/A |
-| 27 | [असम पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 28 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 29 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 30 | [Fav MD](http://twitter.com/search?q=Fav+MD) | N/A |
-| 31 | [Kejriwal](http://twitter.com/search?q=Kejriwal) | N/A |
-| 32 | [Overrated Film](http://twitter.com/search?q=Overrated+Film) | N/A |
-| 33 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 34 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 35 | [Daniel Sloss](http://twitter.com/search?q=Daniel+Sloss) | N/A |
-| 36 | [Guaranteed](http://twitter.com/search?q=Guaranteed) | N/A |
-| 37 | [Atishi](http://twitter.com/search?q=Atishi) | N/A |
-| 38 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 39 | [Best Film - Swades](http://twitter.com/search?q=Best+Film+-+Swades) | N/A |
-| 40 | [Underrated Film - Swades](http://twitter.com/search?q=Underrated+Film+-+Swades) | N/A |
-| 41 | [Worst Film](http://twitter.com/search?q=Worst+Film) | N/A |
-| 42 | [With Your](http://twitter.com/search?q=With+Your) | N/A |
-| 43 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
-| 44 | [Abbas](http://twitter.com/search?q=Abbas) | N/A |
-| 45 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
-| 46 | [Shark Tank](http://twitter.com/search?q=Shark+Tank) | N/A |
-| 47 | [Potter](http://twitter.com/search?q=Potter) | Potter is a term used to refer to someone who makes pottery, which is the art of shaping clay into decorative or functional objects. Potter can also be used as a verb, meaning to shape clay into pottery. |
-| 48 | [Andy Murray](http://twitter.com/search?q=Andy+Murray) | Andy Murray is a Scottish professional tennis player. He is a three-time Grand Slam champion, two-time Olympic gold medalist, and Davis Cup champion. He has been ranked world No. 1 in singles by the Association of Tennis Professionals (ATP) for 41 weeks and reached a career-high ranking of world No. 2 in August 2016. |
-| 49 | [Hook](http://twitter.com/search?q=Hook) | N/A |
-| 50 | [Don 2](http://twitter.com/search?q=Don+2) | N/A |
+| 15 | [Fav Music Director](http://twitter.com/search?q=Fav+Music+Director) | N/A |
+| 16 | [Fav Director](http://twitter.com/search?q=Fav+Director) | N/A |
+| 17 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
+| 18 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 19 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 20 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 21 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 22 | [शबरी जयंती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%ac%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
+| 23 | [Nexus Sabotaging Sushant Case](http://twitter.com/search?q=Nexus+Sabotaging+Sushant+Case) | N/A |
+| 24 | [स्टैंडिंग कमेटी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%88%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%82%e0%a4%97+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
+| 25 | [book exposes truth](http://twitter.com/search?q=book+exposes+truth) | N/A |
+| 26 | [असम पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 27 | [Fav MD](http://twitter.com/search?q=Fav+MD) | N/A |
+| 28 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 29 | [Kejriwal](http://twitter.com/search?q=Kejriwal) | N/A |
+| 30 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
+| 31 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
+| 32 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 33 | [daniel sloss](http://twitter.com/search?q=daniel+sloss) | N/A |
+| 34 | [Guaranteed](http://twitter.com/search?q=Guaranteed) | N/A |
+| 35 | [Atishi](http://twitter.com/search?q=Atishi) | N/A |
+| 36 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
+| 37 | [Underrated Film - Swades](http://twitter.com/search?q=Underrated+Film+-+Swades) | N/A |
+| 38 | [Shah Rukh Khan](http://twitter.com/search?q=Shah+Rukh+Khan) | N/A |
+| 39 | [With Your](http://twitter.com/search?q=With+Your) | N/A |
+| 40 | [Daily Quordle 397](http://twitter.com/search?q=Daily+Quordle+397) | N/A |
+| 41 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 42 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 43 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 44 | [Chelsea](http://twitter.com/search?q=Chelsea) | Chelsea is a district of London, England, located within the Royal Borough of Kensington and Chelsea. It is an affluent area known for its fashionable shopping and dining options, as well as its art galleries, museums, and other cultural attractions. The name Chelsea is derived from the Old English term for "landing place for chalk or limestone." |
+| 45 | [My Name is Khan](http://twitter.com/search?q=My+Name+is+Khan) | N/A |
+| 46 | [Breaking Bad](http://twitter.com/search?q=Breaking+Bad) | N/A |
+| 47 | [Graham Potter](http://twitter.com/search?q=Graham+Potter) | N/A |
+| 48 | [Xbox](http://twitter.com/search?q=Xbox) | N/A |
+| 49 | [श्री राधे कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%87+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 50 | [अमित शाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%ae%e0%a4%bf%e0%a4%a4+%e0%a4%b6%e0%a4%be%e0%a4%b9) | N/A |
 
 
 

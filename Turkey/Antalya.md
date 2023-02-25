@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Antalya
 
-📆 Last Updated: `2023-02-24 23:16:22 UTC`
+📆 Last Updated: `2023-02-25 00:28:50 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Turkey](</Turkey>)
 | ------- | ------------ | ------------ |
 | 1 | [#marttayuzyuze](http://twitter.com/search?q=%23marttayuzyuze) | N/A |
 | 2 | [Sevilla](http://twitter.com/search?q=Sevilla) | Sevilla is the capital and largest city of the autonomous community of Andalusia in southern Spain. It is the fourth-largest city in Spain, with a population of about 700,000. The English translation of Sevilla is Seville. |
-| 3 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
-| 4 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
-| 5 | [#OyunYöneticisiCom](http://twitter.com/search?q=%23OyunY%c3%b6neticisiCom) | N/A |
-| 6 | [#zorunlucoğrafyadersi](http://twitter.com/search?q=%23zorunluco%c4%9frafyadersi) | N/A |
-| 7 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
+| 3 | [#KızılcıkŞerbeti](http://twitter.com/search?q=%23K%c4%b1z%c4%b1lc%c4%b1k%c5%9eerbeti) | N/A |
+| 4 | [#YalıÇapkını](http://twitter.com/search?q=%23Yal%c4%b1%c3%87apk%c4%b1n%c4%b1) | Yalıçapkını is a Turkish phrase that literally translates to "house-boat captain". It is used to refer to someone who is a leader or a person in charge. |
+| 5 | [#İzmirdeAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23%c4%b0zmirdeAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
+| 6 | [Süreyya Önder](http://twitter.com/search?q=S%c3%bcreyya+%c3%96nder) | N/A |
+| 7 | [#zorunlucoğrafyadersi](http://twitter.com/search?q=%23zorunluco%c4%9frafyadersi) | N/A |
 | 8 | [Malatya'da 4.7](http://twitter.com/search?q=Malatya%27da+4.7) | N/A |
-| 9 | [Berke Kutay Şahin](http://twitter.com/search?q=Berke+Kutay+%c5%9eahin) | N/A |
-| 10 | [KÜLLERİMİZDEN DOĞARIZ](http://twitter.com/search?q=K%c3%9cLLER%c4%b0M%c4%b0ZDEN+DO%c4%9eARIZ) | N/A |
-| 11 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
+| 9 | [KÜLLERİMİZDEN DOĞARIZ](http://twitter.com/search?q=K%c3%9cLLER%c4%b0M%c4%b0ZDEN+DO%c4%9eARIZ) | N/A |
+| 10 | [Nursema](http://twitter.com/search?q=Nursema) | N/A |
+| 11 | [Berke Kutay Şahin](http://twitter.com/search?q=Berke+Kutay+%c5%9eahin) | N/A |
 | 12 | [Kemal Kılıçdaroğlu](http://twitter.com/search?q=Kemal+K%c4%b1l%c4%b1%c3%a7daro%c4%9flu) | Kemal Kılıçdaroğlu is a Turkish politician who has been the leader of the Republican People's Party (CHP) since 2010. His name translates to "Kemal Sword of Justice" in English. |
 | 13 | [Aday](http://twitter.com/search?q=Aday) | N/A |
 | 14 | [Mehmet Akif Ersoy](http://twitter.com/search?q=Mehmet+Akif+Ersoy) | N/A |
 | 15 | [Sevcan Orhan](http://twitter.com/search?q=Sevcan+Orhan) | N/A |
 | 16 | [Konya'da 4.3](http://twitter.com/search?q=Konya%27da+4.3) | N/A |
-| 17 | [Depremzade](http://twitter.com/search?q=Depremzade) | N/A |
-| 18 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
+| 17 | [Lincoln](http://twitter.com/search?q=Lincoln) | Lincoln is a city in England, located in the county of Lincolnshire. It is the county town and administrative centre of Lincolnshire, and is situated on the River Witham. The name Lincoln comes from the Latin name Lindum Colonia, which means "Roman colony by the pool". |
+| 18 | [Depremzade](http://twitter.com/search?q=Depremzade) | N/A |
 | 19 | [Çetin Tekindor](http://twitter.com/search?q=%c3%87etin+Tekindor) | N/A |
-| 20 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
-| 21 | [ProfilimeKimler Bakıyorlar](http://twitter.com/search?q=ProfilimeKimler+Bak%c4%b1yorlar) | N/A |
-| 22 | [Nilay](http://twitter.com/search?q=Nilay) | N/A |
+| 20 | [ProfilimeKimler Bakıyorlar](http://twitter.com/search?q=ProfilimeKimler+Bak%c4%b1yorlar) | N/A |
+| 21 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 22 | [Ferit](http://twitter.com/search?q=Ferit) | Ferit is a Turkish name derived from the Arabic word "Faris", meaning "knight". It is also used as a surname in some parts of Turkey. In English, Ferit can be translated to mean "brave knight". |
 | 23 | [Obruk](http://twitter.com/search?q=Obruk) | N/A |
-| 24 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 25 | [Anadolu Efes](http://twitter.com/search?q=Anadolu+Efes) | N/A |
-| 26 | [Akşener](http://twitter.com/search?q=Ak%c5%9fener) | N/A |
-| 27 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
-| 28 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
-| 29 | [AfDiyenle YolumuzBir](http://twitter.com/search?q=AfDiyenle+YolumuzBir) | N/A |
-| 30 | [Meral](http://twitter.com/search?q=Meral) | N/A |
-| 31 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
-| 32 | [Yapar](http://twitter.com/search?q=Yapar) | N/A |
-| 33 | [Kazanacak](http://twitter.com/search?q=Kazanacak) | N/A |
-| 34 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
-| 35 | [ÇşbAlımı KpssliYap](http://twitter.com/search?q=%c3%87%c5%9fbAl%c4%b1m%c4%b1+KpssliYap) | N/A |
-| 36 | [Gültekin](http://twitter.com/search?q=G%c3%bcltekin) | N/A |
-| 37 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
-| 38 | [Özal](http://twitter.com/search?q=%c3%96zal) | N/A |
-| 39 | [Yasak](http://twitter.com/search?q=Yasak) | N/A |
-| 40 | [Pembe](http://twitter.com/search?q=Pembe) | N/A |
-| 41 | [Geliyor](http://twitter.com/search?q=Geliyor) | N/A |
-| 42 | [Kandilli](http://twitter.com/search?q=Kandilli) | N/A |
-| 43 | [Enayi](http://twitter.com/search?q=Enayi) | N/A |
-| 44 | [#İzmirdeAfetBölgesiİlanEdilsin](http://twitter.com/search?q=%23%c4%b0zmirdeAfetB%c3%b6lgesi%c4%b0lanEdilsin) | N/A |
-| 45 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
-| 46 | [#ZombehNFT](http://twitter.com/search?q=%23ZombehNFT) | N/A |
-| 47 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
-| 48 | [#DUStarihinetlessin](http://twitter.com/search?q=%23DUStarihinetlessin) | N/A |
-| 49 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
-| 50 | [#ortasayfa](http://twitter.com/search?q=%23ortasayfa) | N/A |
+| 24 | [Akşener](http://twitter.com/search?q=Ak%c5%9fener) | N/A |
+| 25 | [Seyran](http://twitter.com/search?q=Seyran) | Seyran is a Turkish name derived from the Persian word for “lovely” or “beautiful”. In English, it can be translated to mean “lovely” or “beautiful”. |
+| 26 | [Mansur Yavaş](http://twitter.com/search?q=Mansur+Yava%c5%9f) | N/A |
+| 27 | [Satranç](http://twitter.com/search?q=Satran%c3%a7) | N/A |
+| 28 | [Meral](http://twitter.com/search?q=Meral) | N/A |
+| 29 | [Yapar](http://twitter.com/search?q=Yapar) | N/A |
+| 30 | [Marmara Denizi](http://twitter.com/search?q=Marmara+Denizi) | N/A |
+| 31 | [Sezen Aksu](http://twitter.com/search?q=Sezen+Aksu) | N/A |
+| 32 | [#YaliCapkini](http://twitter.com/search?q=%23YaliCapkini) | #YaliCapkini is a Turkish phrase that translates to "Let's have a good time". It is often used as an expression of joy and celebration. |
+| 33 | [#SSMÇözümBekliyor](http://twitter.com/search?q=%23SSM%c3%87%c3%b6z%c3%bcmBekliyor) | N/A |
+| 34 | [#depremler](http://twitter.com/search?q=%23depremler) | N/A |
+| 35 | [#EYT28ŞubatMiladıOlsun](http://twitter.com/search?q=%23EYT28%c5%9eubatMilad%c4%b1Olsun) | N/A |
+| 36 | [#SeyFer](http://twitter.com/search?q=%23SeyFer) | #SeyFer is a hashtag used on social media to promote the Seychelles, an archipelago of 115 islands in the Indian Ocean. The hashtag is used to share photos and stories about the country's beautiful beaches, lush landscapes, and unique culture. In English, #SeyFer stands for "Seychelles Forever". |
+| 37 | [#ekşisözlüksansürükalksın](http://twitter.com/search?q=%23ek%c5%9fis%c3%b6zl%c3%bcksans%c3%bcr%c3%bckalks%c4%b1n) | N/A |
+| 38 | [#malatyakurtarılmayıbekliyor](http://twitter.com/search?q=%23malatyakurtar%c4%b1lmay%c4%b1bekliyor) | N/A |
+| 39 | [#iyigeceler](http://twitter.com/search?q=%23iyigeceler) | N/A |
+| 40 | [#cumartesi](http://twitter.com/search?q=%23cumartesi) | #Cumartesi is a Turkish hashtag that translates to "Saturday" in English. It is commonly used on social media to tag posts related to Saturday activities, events, or experiences. |
+| 41 | [#AbSun](http://twitter.com/search?q=%23AbSun) | N/A |
+| 42 | [#emsalimedokunma](http://twitter.com/search?q=%23emsalimedokunma) | N/A |
+| 43 | [#ALTIN](http://twitter.com/search?q=%23ALTIN) | N/A |
+| 44 | [#ElbistanİlOlsun](http://twitter.com/search?q=%23Elbistan%c4%b0lOlsun) | N/A |
+| 45 | [#GeceyeBirNot](http://twitter.com/search?q=%23GeceyeBirNot) | N/A |
+| 46 | [#AteşKuşları](http://twitter.com/search?q=%23Ate%c5%9fKu%c5%9flar%c4%b1) | N/A |
+| 47 | [#MebSartsizTayinVer](http://twitter.com/search?q=%23MebSartsizTayinVer) | N/A |
+| 48 | [#Sivas](http://twitter.com/search?q=%23Sivas) | N/A |
+| 49 | [#fenerinmacivar](http://twitter.com/search?q=%23fenerinmacivar) | N/A |
+| 50 | [#DevletUnutmaz](http://twitter.com/search?q=%23DevletUnutmaz) | N/A |
 
 
 

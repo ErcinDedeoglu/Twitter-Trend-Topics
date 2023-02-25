@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ecuador
 
-📆 Last Updated: `2023-02-24 23:16:33 UTC`
+📆 Last Updated: `2023-02-25 00:29:01 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -19,52 +19,52 @@ This is top 50 for Ecuador
 | 2 | [#ParoNacional](http://twitter.com/search?q=%23ParoNacional) | N/A |
 | 3 | [#IzaTerrorista](http://twitter.com/search?q=%23IzaTerrorista) | N/A |
 | 4 | [Harta Demencia](http://twitter.com/search?q=Harta+Demencia) | N/A |
-| 5 | [#DeckerGiftCool](http://twitter.com/search?q=%23DeckerGiftCool) | N/A |
-| 6 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
-| 7 | [Eliseo Duarte](http://twitter.com/search?q=Eliseo+Duarte) | N/A |
-| 8 | [Cortázar](http://twitter.com/search?q=Cort%c3%a1zar) | N/A |
-| 9 | [#LigaProBet593](http://twitter.com/search?q=%23LigaProBet593) | N/A |
-| 10 | [Enrique Pita](http://twitter.com/search?q=Enrique+Pita) | N/A |
-| 11 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
-| 12 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 5 | [Vamos Liga](http://twitter.com/search?q=Vamos+Liga) | N/A |
+| 6 | [#DeckerGiftCool](http://twitter.com/search?q=%23DeckerGiftCool) | N/A |
+| 7 | [#LigaProBet593](http://twitter.com/search?q=%23LigaProBet593) | N/A |
+| 8 | [Alejandro Serrano Aguilar](http://twitter.com/search?q=Alejandro+Serrano+Aguilar) | N/A |
+| 9 | [#DCuenca](http://twitter.com/search?q=%23DCuenca) | N/A |
+| 10 | [Carrillo](http://twitter.com/search?q=Carrillo) | Carrillo is a Spanish surname. It is derived from the Latin name Carillus, which means "little Charles". In English, it can be translated to mean "Little Charles". |
+| 11 | [Eliseo Duarte](http://twitter.com/search?q=Eliseo+Duarte) | N/A |
+| 12 | [Cortázar](http://twitter.com/search?q=Cort%c3%a1zar) | N/A |
 | 13 | [Gary Espinoza](http://twitter.com/search?q=Gary+Espinoza) | N/A |
-| 14 | [Karina Arteaga](http://twitter.com/search?q=Karina+Arteaga) | N/A |
+| 14 | [Triple M](http://twitter.com/search?q=Triple+M) | N/A |
 | 15 | [CONAIE](http://twitter.com/search?q=CONAIE) | N/A |
-| 16 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 17 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
-| 18 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
-| 19 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
-| 20 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
-| 21 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
-| 22 | [Nueva Prosperina](http://twitter.com/search?q=Nueva+Prosperina) | N/A |
-| 23 | [Fierro Urco](http://twitter.com/search?q=Fierro+Urco) | N/A |
-| 24 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 25 | [Deportivo Cuenca](http://twitter.com/search?q=Deportivo+Cuenca) | N/A |
-| 26 | [#lassoesmoreno](http://twitter.com/search?q=%23lassoesmoreno) | N/A |
-| 27 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 28 | [UDLA](http://twitter.com/search?q=UDLA) | N/A |
-| 29 | [Consejo Ampliado](http://twitter.com/search?q=Consejo+Ampliado) | N/A |
-| 30 | [Andrés](http://twitter.com/search?q=Andr%c3%a9s) | N/A |
-| 31 | [Romeo Santos](http://twitter.com/search?q=Romeo+Santos) | N/A |
-| 32 | [Luisa Valverde](http://twitter.com/search?q=Luisa+Valverde) | N/A |
-| 33 | [Otavalo](http://twitter.com/search?q=Otavalo) | N/A |
+| 16 | [Enrique Pita](http://twitter.com/search?q=Enrique+Pita) | N/A |
+| 17 | [Millonarios](http://twitter.com/search?q=Millonarios) | Millonarios is a Colombian professional football club based in Bogotá. The name translates to "millionaires" in English, referring to the club's wealthy owners. |
+| 18 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 19 | [Casemiro](http://twitter.com/search?q=Casemiro) | Casemiro is a Portuguese name derived from the Latin word casa, meaning "house". It is a popular name in Portugal and Brazil, where it is often used as a given name or surname. In English, Casemiro can be translated to mean "house protector". |
+| 20 | [Sonia](http://twitter.com/search?q=Sonia) | Sonia is a female given name of Latin origin, derived from the Greek word for "wisdom". It is a popular name in many countries, including India, Italy, France, Spain, and the United States. In English, it is usually pronounced "so-NEE-ah". |
+| 21 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 22 | [Fenocin](http://twitter.com/search?q=Fenocin) | N/A |
+| 23 | [Leonidas Iza](http://twitter.com/search?q=Leonidas+Iza) | N/A |
+| 24 | [María Belén Bernal](http://twitter.com/search?q=Mar%c3%ada+Bel%c3%a9n+Bernal) | N/A |
+| 25 | [Nueva Prosperina](http://twitter.com/search?q=Nueva+Prosperina) | N/A |
+| 26 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 27 | [UDLA](http://twitter.com/search?q=UDLA) | N/A |
+| 28 | [Tiban](http://twitter.com/search?q=Tiban) | N/A |
+| 29 | [Romeo](http://twitter.com/search?q=Romeo) | N/A |
+| 30 | [Quito](http://twitter.com/search?q=Quito) | N/A |
+| 31 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 32 | [Fierro Urco](http://twitter.com/search?q=Fierro+Urco) | N/A |
+| 33 | [Andrés](http://twitter.com/search?q=Andr%c3%a9s) | N/A |
 | 34 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
-| 35 | [Fenocin](http://twitter.com/search?q=Fenocin) | N/A |
+| 35 | [Consejo Ampliado](http://twitter.com/search?q=Consejo+Ampliado) | N/A |
 | 36 | [Antony](http://twitter.com/search?q=Antony) | Antony is a male given name of Latin origin, derived from Antonius, a Roman family name. It means "invaluable" or "priceless". |
-| 37 | [Alejandro Serrano Aguilar](http://twitter.com/search?q=Alejandro+Serrano+Aguilar) | N/A |
-| 38 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
-| 39 | [Olmedo](http://twitter.com/search?q=Olmedo) | N/A |
-| 40 | [Pique](http://twitter.com/search?q=Pique) | N/A |
-| 41 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 42 | [Balda](http://twitter.com/search?q=Balda) | N/A |
-| 43 | [Jerome](http://twitter.com/search?q=Jerome) | N/A |
-| 44 | [Piero Hincapié](http://twitter.com/search?q=Piero+Hincapi%c3%a9) | N/A |
-| 45 | [Indio](http://twitter.com/search?q=Indio) | N/A |
-| 46 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
-| 47 | [Betty](http://twitter.com/search?q=Betty) | N/A |
-| 48 | [Sammy](http://twitter.com/search?q=Sammy) | N/A |
-| 49 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
-| 50 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 37 | [Pique](http://twitter.com/search?q=Pique) | N/A |
+| 38 | [León de Troya](http://twitter.com/search?q=Le%c3%b3n+de+Troya) | N/A |
+| 39 | [Anuel](http://twitter.com/search?q=Anuel) | N/A |
+| 40 | [Olmedo](http://twitter.com/search?q=Olmedo) | N/A |
+| 41 | [Otavalo](http://twitter.com/search?q=Otavalo) | N/A |
+| 42 | [Maribel Castillo](http://twitter.com/search?q=Maribel+Castillo) | N/A |
+| 43 | [piero hincapié](http://twitter.com/search?q=piero+hincapi%c3%a9) | N/A |
+| 44 | [Balda](http://twitter.com/search?q=Balda) | N/A |
+| 45 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 46 | [Karina Arteaga](http://twitter.com/search?q=Karina+Arteaga) | N/A |
+| 47 | [Linda Caicedo](http://twitter.com/search?q=Linda+Caicedo) | N/A |
+| 48 | [Indio](http://twitter.com/search?q=Indio) | N/A |
+| 49 | [Betty](http://twitter.com/search?q=Betty) | N/A |
+| 50 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
 
 
 
