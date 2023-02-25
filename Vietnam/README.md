@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vietnam
 
-📆 Last Updated: `2023-02-25 01:44:43 UTC`
+📆 Last Updated: `2023-02-25 02:41:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for Vietnam
 | 3 | [xiao zhan tods mfw 2023](http://twitter.com/search?q=xiao+zhan+tods+mfw+2023) | N/A |
 | 4 | [#JHOPExLouisVuitton](http://twitter.com/search?q=%23JHOPExLouisVuitton) | N/A |
 | 5 | [#BuildInWhite](http://twitter.com/search?q=%23BuildInWhite) | N/A |
-| 6 | [#XINinParis](http://twitter.com/search?q=%23XINinParis) | N/A |
-| 7 | [keep growing with build](http://twitter.com/search?q=keep+growing+with+build) | N/A |
-| 8 | [Base](http://twitter.com/search?q=Base) | N/A |
-| 9 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 10 | [Valentino - WINWIN](http://twitter.com/search?q=Valentino+-+WINWIN) | N/A |
-| 11 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
-| 12 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
-| 13 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
-| 14 | [watch smcu ep3 now](http://twitter.com/search?q=watch+smcu+ep3+now) | N/A |
-| 15 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
-| 16 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
-| 17 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
-| 18 | [kiana](http://twitter.com/search?q=kiana) | N/A |
-| 19 | [mnet](http://twitter.com/search?q=mnet) | N/A |
-| 20 | [Apple](http://twitter.com/search?q=Apple) | N/A |
-| 21 | [CHARLOTTE 2nd MV BROTHER](http://twitter.com/search?q=CHARLOTTE+2nd+MV+BROTHER) | N/A |
-| 22 | [Earth](http://twitter.com/search?q=Earth) | N/A |
-| 23 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 24 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
-| 25 | [The US](http://twitter.com/search?q=The+US) | N/A |
-| 26 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
-| 27 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 28 | [Freen](http://twitter.com/search?q=Freen) | N/A |
-| 29 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
-| 30 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
-| 31 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
-| 32 | [Cosmos](http://twitter.com/search?q=Cosmos) | N/A |
-| 33 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 34 | [Matic](http://twitter.com/search?q=Matic) | N/A |
-| 35 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
-| 36 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
-| 37 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
-| 38 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
-| 39 | [dApps](http://twitter.com/search?q=dApps) | N/A |
-| 40 | [Tuyệt](http://twitter.com/search?q=Tuy%e1%bb%87t) | N/A |
-| 41 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
-| 42 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
-| 43 | [Tây Ban Nha](http://twitter.com/search?q=T%c3%a2y+Ban+Nha) | N/A |
-| 44 | [Metamask](http://twitter.com/search?q=Metamask) | N/A |
-| 45 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
-| 46 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
-| 47 | [dang hong hai](http://twitter.com/search?q=dang+hong+hai) | N/A |
-| 48 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 49 | [Kevin](http://twitter.com/search?q=Kevin) | N/A |
-| 50 | [Testnet](http://twitter.com/search?q=Testnet) | N/A |
+| 6 | [Base](http://twitter.com/search?q=Base) | N/A |
+| 7 | [#LISAXCELINE](http://twitter.com/search?q=%23LISAXCELINE) | N/A |
+| 8 | [WELCOME TO PARIS XIN](http://twitter.com/search?q=WELCOME+TO+PARIS+XIN) | N/A |
+| 9 | [Paris Fashion Week](http://twitter.com/search?q=Paris+Fashion+Week) | N/A |
+| 10 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
+| 11 | [Paris Time](http://twitter.com/search?q=Paris+Time) | N/A |
+| 12 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 13 | [Valentino - WINWIN](http://twitter.com/search?q=Valentino+-+WINWIN) | N/A |
+| 14 | [OP Stack](http://twitter.com/search?q=OP+Stack) | N/A |
+| 15 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
+| 16 | [watch smcu ep3 now](http://twitter.com/search?q=watch+smcu+ep3+now) | N/A |
+| 17 | [APO HAPPY BIRTHDAY](http://twitter.com/search?q=APO+HAPPY+BIRTHDAY) | N/A |
+| 18 | [tiêu chiến](http://twitter.com/search?q=ti%c3%aau+chi%e1%ba%bfn) | N/A |
+| 19 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 20 | [kiana](http://twitter.com/search?q=kiana) | N/A |
+| 21 | [Earth](http://twitter.com/search?q=Earth) | N/A |
+| 22 | [mnet](http://twitter.com/search?q=mnet) | N/A |
+| 23 | [Apple](http://twitter.com/search?q=Apple) | N/A |
+| 24 | [CHARLOTTE 2nd MV BROTHER](http://twitter.com/search?q=CHARLOTTE+2nd+MV+BROTHER) | N/A |
+| 25 | [Barca](http://twitter.com/search?q=Barca) | N/A |
+| 26 | [Layer 2](http://twitter.com/search?q=Layer+2) | N/A |
+| 27 | [The US](http://twitter.com/search?q=The+US) | N/A |
+| 28 | [FACE TRACKLIST IS COMING](http://twitter.com/search?q=FACE+TRACKLIST+IS+COMING) | N/A |
+| 29 | [Freen](http://twitter.com/search?q=Freen) | N/A |
+| 30 | [hoa kỳ](http://twitter.com/search?q=hoa+k%e1%bb%b3) | N/A |
+| 31 | [Sphinx](http://twitter.com/search?q=Sphinx) | N/A |
+| 32 | [Get 15](http://twitter.com/search?q=Get+15) | N/A |
+| 33 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 34 | [TPHCM](http://twitter.com/search?q=TPHCM) | N/A |
+| 35 | [đông](http://twitter.com/search?q=%c4%91%c3%b4ng) | N/A |
+| 36 | [trước](http://twitter.com/search?q=tr%c6%b0%e1%bb%9bc) | N/A |
+| 37 | [Cosmos](http://twitter.com/search?q=Cosmos) | N/A |
+| 38 | [Đà Nẵng](http://twitter.com/search?q=%c4%90%c3%a0+N%e1%ba%b5ng) | N/A |
+| 39 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 40 | [Matic](http://twitter.com/search?q=Matic) | N/A |
+| 41 | [blackpink](http://twitter.com/search?q=blackpink) | N/A |
+| 42 | [hưng](http://twitter.com/search?q=h%c6%b0ng) | N/A |
+| 43 | [phải](http://twitter.com/search?q=ph%e1%ba%a3i) | N/A |
+| 44 | [wichapas](http://twitter.com/search?q=wichapas) | N/A |
+| 45 | [dApps](http://twitter.com/search?q=dApps) | N/A |
+| 46 | [Ethereum](http://twitter.com/search?q=Ethereum) | N/A |
+| 47 | [Tây Ban Nha](http://twitter.com/search?q=T%c3%a2y+Ban+Nha) | N/A |
+| 48 | [MetaMask](http://twitter.com/search?q=MetaMask) | N/A |
+| 49 | [Jack - J97](http://twitter.com/search?q=Jack+-+J97) | N/A |
+| 50 | [Special Stage Video](http://twitter.com/search?q=Special+Stage+Video) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-25 01:43:57 UTC`
+📆 Last Updated: `2023-02-25 02:40:52 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -20,51 +20,51 @@ This is top 50 for [Chile](</Chile>)
 | 3 | [Copano](http://twitter.com/search?q=Copano) | N/A |
 | 4 | [Copano](http://twitter.com/search?q=Copano) | N/A |
 | 5 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
-| 6 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 7 | [Nico Guerra](http://twitter.com/search?q=Nico+Guerra) | N/A |
-| 8 | [#CURvsUCHxTNTSports](http://twitter.com/search?q=%23CURvsUCHxTNTSports) | N/A |
-| 9 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
-| 10 | [Campos](http://twitter.com/search?q=Campos) | N/A |
-| 11 | [Morales](http://twitter.com/search?q=Morales) | N/A |
-| 12 | [Curicó](http://twitter.com/search?q=Curic%c3%b3) | N/A |
-| 13 | [Montaner](http://twitter.com/search?q=Montaner) | N/A |
-| 14 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
-| 15 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
-| 16 | [Andía](http://twitter.com/search?q=And%c3%ada) | N/A |
-| 17 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
-| 18 | [Castro](http://twitter.com/search?q=Castro) | N/A |
-| 19 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
-| 20 | [#polima](http://twitter.com/search?q=%23polima) | N/A |
-| 21 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
-| 22 | [#UdeChile](http://twitter.com/search?q=%23UdeChile) | N/A |
-| 23 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
-| 24 | [Edmundo Varas](http://twitter.com/search?q=Edmundo+Varas) | N/A |
-| 25 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 26 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
-| 27 | [Golazo de Guerra](http://twitter.com/search?q=Golazo+de+Guerra) | N/A |
-| 28 | [Xtina](http://twitter.com/search?q=Xtina) | N/A |
-| 29 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
-| 30 | [Fernández](http://twitter.com/search?q=Fern%c3%a1ndez) | N/A |
-| 31 | [Cerda](http://twitter.com/search?q=Cerda) | N/A |
-| 32 | [Robert De Niro](http://twitter.com/search?q=Robert+De+Niro) | N/A |
-| 33 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
-| 34 | [Assadi](http://twitter.com/search?q=Assadi) | Assadi is an Arabic name that means "blessed". It is also used as a surname. |
-| 35 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
-| 36 | [Montes](http://twitter.com/search?q=Montes) | N/A |
-| 37 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 38 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 39 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
-| 40 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
-| 41 | [Pablo Chill-e](http://twitter.com/search?q=Pablo+Chill-e) | N/A |
-| 42 | [Laila Roth](http://twitter.com/search?q=Laila+Roth) | N/A |
-| 43 | [My Blood](http://twitter.com/search?q=My+Blood) | N/A |
-| 44 | [Freire](http://twitter.com/search?q=Freire) | N/A |
-| 45 | [Lady Marmalade](http://twitter.com/search?q=Lady+Marmalade) | N/A |
-| 46 | [Feito](http://twitter.com/search?q=Feito) | N/A |
-| 47 | [Adam Levine](http://twitter.com/search?q=Adam+Levine) | N/A |
-| 48 | [Actitud](http://twitter.com/search?q=Actitud) | N/A |
-| 49 | [Huachipato](http://twitter.com/search?q=Huachipato) | N/A |
-| 50 | [pero me acuerdo de ti](http://twitter.com/search?q=pero+me+acuerdo+de+ti) | N/A |
+| 6 | [Jarry](http://twitter.com/search?q=Jarry) | Jarry is a French name derived from the Germanic name Gari, which means "spear ruler". It is also a variant of the name Garry. |
+| 7 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 8 | [Laila](http://twitter.com/search?q=Laila) | N/A |
+| 9 | [Campos](http://twitter.com/search?q=Campos) | N/A |
+| 10 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 11 | [Montaner](http://twitter.com/search?q=Montaner) | N/A |
+| 12 | [Edmundo Varas](http://twitter.com/search?q=Edmundo+Varas) | N/A |
+| 13 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
+| 14 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
+| 15 | [Mauro Morales](http://twitter.com/search?q=Mauro+Morales) | N/A |
+| 16 | [#polima](http://twitter.com/search?q=%23polima) | N/A |
+| 17 | [Castro](http://twitter.com/search?q=Castro) | N/A |
+| 18 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
+| 19 | [#RioOpen](http://twitter.com/search?q=%23RioOpen) | N/A |
+| 20 | [Osorio](http://twitter.com/search?q=Osorio) | Osorio is a Spanish surname. It is derived from the Latin word "osor" which means "fear". In English, it can be translated to mean "fearful". |
+| 21 | [#curvsuchxtntsports](http://twitter.com/search?q=%23curvsuchxtntsports) | N/A |
+| 22 | [Xtina](http://twitter.com/search?q=Xtina) | N/A |
+| 23 | [#AgarraVueloConSky](http://twitter.com/search?q=%23AgarraVueloConSky) | N/A |
+| 24 | [Simi](http://twitter.com/search?q=Simi) | N/A |
+| 25 | [Ojeda](http://twitter.com/search?q=Ojeda) | N/A |
+| 26 | [Golazo CTM](http://twitter.com/search?q=Golazo+CTM) | N/A |
+| 27 | [Cerda](http://twitter.com/search?q=Cerda) | N/A |
+| 28 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 29 | [Báez](http://twitter.com/search?q=B%c3%a1ez) | N/A |
+| 30 | [Índigo](http://twitter.com/search?q=%c3%8dndigo) | N/A |
+| 31 | [Poblete](http://twitter.com/search?q=Poblete) | N/A |
+| 32 | [Andia](http://twitter.com/search?q=Andia) | N/A |
+| 33 | [Curicó](http://twitter.com/search?q=Curic%c3%b3) | N/A |
+| 34 | [Cadem](http://twitter.com/search?q=Cadem) | N/A |
+| 35 | [Robert De Niro](http://twitter.com/search?q=Robert+De+Niro) | N/A |
+| 36 | [Pellegrino](http://twitter.com/search?q=Pellegrino) | Pellegrino is an Italian mineral water brand. It is derived from the Italian word "Pellegrino", which means "pilgrim". The name was chosen to evoke the spirit of pilgrimage and discovery. |
+| 37 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
+| 38 | [Top 100](http://twitter.com/search?q=Top+100) | N/A |
+| 39 | [Lobos](http://twitter.com/search?q=Lobos) | Lobos is a Spanish word meaning "wolves". It is often used to refer to a group of wolves, or a pack. |
+| 40 | [Lea Fernández](http://twitter.com/search?q=Lea+Fern%c3%a1ndez) | N/A |
+| 41 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
+| 42 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 43 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 44 | [Actitud](http://twitter.com/search?q=Actitud) | N/A |
+| 45 | [Pablo Chill-e](http://twitter.com/search?q=Pablo+Chill-e) | N/A |
+| 46 | [Montes](http://twitter.com/search?q=Montes) | N/A |
+| 47 | [My Blood](http://twitter.com/search?q=My+Blood) | N/A |
+| 48 | [Casanova](http://twitter.com/search?q=Casanova) | N/A |
+| 49 | [Chorri](http://twitter.com/search?q=Chorri) | N/A |
+| 50 | [Lady Marmalade](http://twitter.com/search?q=Lady+Marmalade) | N/A |
 
 
 

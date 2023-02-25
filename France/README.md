@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For France
 
-📆 Last Updated: `2023-02-25 01:44:37 UTC`
+📆 Last Updated: `2023-02-25 02:41:35 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -23,48 +23,48 @@ This is top 50 for France
 | 6 | [Virginie Efira](http://twitter.com/search?q=Virginie+Efira) | N/A |
 | 7 | [#VendrediLecture](http://twitter.com/search?q=%23VendrediLecture) | N/A |
 | 8 | [#Ukraine](http://twitter.com/search?q=%23Ukraine) | N/A |
-| 9 | [La Nuit du 12](http://twitter.com/search?q=La+Nuit+du+12) | N/A |
-| 10 | [#SRFCSHA](http://twitter.com/search?q=%23SRFCSHA) | N/A |
+| 9 | [#srfcsha](http://twitter.com/search?q=%23srfcsha) | N/A |
+| 10 | [La Nuit du 12](http://twitter.com/search?q=La+Nuit+du+12) | N/A |
 | 11 | [Brest](http://twitter.com/search?q=Brest) | N/A |
 | 12 | [Ziak](http://twitter.com/search?q=Ziak) | N/A |
-| 13 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
-| 14 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
+| 13 | [Ahmed Sylla](http://twitter.com/search?q=Ahmed+Sylla) | N/A |
+| 14 | [David Fincher](http://twitter.com/search?q=David+Fincher) | N/A |
 | 15 | [Benoît Magimel](http://twitter.com/search?q=Beno%c3%aet+Magimel) | N/A |
 | 16 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 | 17 | [Dominik Moll](http://twitter.com/search?q=Dominik+Moll) | N/A |
 | 18 | [HONOR Magic 5 Lite](http://twitter.com/search?q=HONOR+Magic+5+Lite) | N/A |
 | 19 | [Beefcut](http://twitter.com/search?q=Beefcut) | N/A |
-| 20 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 21 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
-| 22 | [Alice Diop](http://twitter.com/search?q=Alice+Diop) | N/A |
-| 23 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
+| 20 | [Jérôme Commandeur](http://twitter.com/search?q=J%c3%a9r%c3%b4me+Commandeur) | N/A |
+| 21 | [Alice Diop](http://twitter.com/search?q=Alice+Diop) | N/A |
+| 22 | [Adèle Haenel](http://twitter.com/search?q=Ad%c3%a8le+Haenel) | N/A |
+| 23 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
 | 24 | [Wendie Renard](http://twitter.com/search?q=Wendie+Renard) | N/A |
 | 25 | [Bastien Bouillon](http://twitter.com/search?q=Bastien+Bouillon) | N/A |
 | 26 | [Pacifiction](http://twitter.com/search?q=Pacifiction) | N/A |
 | 27 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
 | 28 | [Europe](http://twitter.com/search?q=Europe) | N/A |
-| 29 | [Bouli Lanners](http://twitter.com/search?q=Bouli+Lanners) | N/A |
+| 29 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
 | 30 | [Noémie Merlant](http://twitter.com/search?q=No%c3%a9mie+Merlant) | N/A |
-| 31 | [Mandanda](http://twitter.com/search?q=Mandanda) | N/A |
-| 32 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
-| 33 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
-| 34 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
-| 35 | [Éric Roy](http://twitter.com/search?q=%c3%89ric+Roy) | N/A |
-| 36 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
-| 37 | [Revoir Paris](http://twitter.com/search?q=Revoir+Paris) | N/A |
-| 38 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
-| 39 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
-| 40 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
-| 41 | [As Bestas](http://twitter.com/search?q=As+Bestas) | N/A |
-| 42 | [Chine](http://twitter.com/search?q=Chine) | N/A |
-| 43 | [Sylvain Armand](http://twitter.com/search?q=Sylvain+Armand) | N/A |
-| 44 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
-| 45 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
-| 46 | [Selena](http://twitter.com/search?q=Selena) | N/A |
-| 47 | [Suicide Squad](http://twitter.com/search?q=Suicide+Squad) | N/A |
-| 48 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
-| 49 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
-| 50 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
+| 31 | [Fonseca](http://twitter.com/search?q=Fonseca) | N/A |
+| 32 | [Don Toliver](http://twitter.com/search?q=Don+Toliver) | N/A |
+| 33 | [Camargue](http://twitter.com/search?q=Camargue) | N/A |
+| 34 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
+| 35 | [Revoir Paris](http://twitter.com/search?q=Revoir+Paris) | N/A |
+| 36 | [Charlotte Gainsbourg](http://twitter.com/search?q=Charlotte+Gainsbourg) | N/A |
+| 37 | [Tahar Rahim](http://twitter.com/search?q=Tahar+Rahim) | N/A |
+| 38 | [Chine](http://twitter.com/search?q=Chine) | N/A |
+| 39 | [Saint Omer](http://twitter.com/search?q=Saint+Omer) | N/A |
+| 40 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 41 | [selena](http://twitter.com/search?q=selena) | Selena is a female given name of Greek origin, derived from the Greek word selēnē, meaning "moon". It is also a Spanish variant of the name Selina. |
+| 42 | [Cammy](http://twitter.com/search?q=Cammy) | N/A |
+| 43 | [Arthur Fils](http://twitter.com/search?q=Arthur+Fils) | N/A |
+| 44 | [Nubel](http://twitter.com/search?q=Nubel) | N/A |
+| 45 | [Diani](http://twitter.com/search?q=Diani) | N/A |
+| 46 | [Monsieur Nov](http://twitter.com/search?q=Monsieur+Nov) | N/A |
+| 47 | [Genesio](http://twitter.com/search?q=Genesio) | N/A |
+| 48 | [Katoto](http://twitter.com/search?q=Katoto) | N/A |
+| 49 | [Bouli Lanners](http://twitter.com/search?q=Bouli+Lanners) | N/A |
+| 50 | [pallois](http://twitter.com/search?q=pallois) | N/A |
 
 
 

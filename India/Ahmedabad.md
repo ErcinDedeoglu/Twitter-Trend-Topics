@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ahmedabad
 
-📆 Last Updated: `2023-02-25 01:44:24 UTC`
+📆 Last Updated: `2023-02-25 02:41:21 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [India](</India>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#Who_Is_SantGaribdasJiMaharaj](http://twitter.com/search?q=%23Who_Is_SantGaribdasJiMaharaj) | N/A |
-| 2 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
-| 3 | [#OrganicYield](http://twitter.com/search?q=%23OrganicYield) | N/A |
-| 4 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
-| 5 | [Satlok](http://twitter.com/search?q=Satlok) | Satlok is a term used to refer to the spiritual abode of the god Satnam, which is believed to be located in the higher realms of existence. The literal meaning of Satlok in English is "the abode of truth". |
-| 6 | [#INDWvsAUSW](http://twitter.com/search?q=%23INDWvsAUSW) | N/A |
-| 7 | [गरीब दास](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
-| 8 | [God Kabir](http://twitter.com/search?q=God+Kabir) | N/A |
-| 9 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 10 | [#Selfiee](http://twitter.com/search?q=%23Selfiee) | N/A |
-| 11 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
-| 12 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
-| 13 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
-| 14 | [Fav Actor](http://twitter.com/search?q=Fav+Actor) | N/A |
-| 15 | [Fav Actress](http://twitter.com/search?q=Fav+Actress) | N/A |
-| 16 | [Fav Cricketer](http://twitter.com/search?q=Fav+Cricketer) | N/A |
-| 17 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
-| 18 | [action prince dhruvasarja](http://twitter.com/search?q=action+prince+dhruvasarja) | N/A |
-| 19 | [Fav IPL Team](http://twitter.com/search?q=Fav+IPL+Team) | N/A |
-| 20 | [Fav Music Director](http://twitter.com/search?q=Fav+Music+Director) | N/A |
-| 21 | [Fav Director](http://twitter.com/search?q=Fav+Director) | N/A |
-| 22 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
-| 23 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
-| 24 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
-| 25 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
-| 26 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
-| 27 | [राम रसायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
-| 28 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
-| 29 | [श्री बजरंग](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%ac%e0%a4%9c%e0%a4%b0%e0%a4%82%e0%a4%97) | N/A |
-| 30 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 31 | [शबरी जयंती](http://twitter.com/search?q=%e0%a4%b6%e0%a4%ac%e0%a4%b0%e0%a5%80+%e0%a4%9c%e0%a4%af%e0%a4%82%e0%a4%a4%e0%a5%80) | N/A |
-| 32 | [nexus sabotaging sushant case](http://twitter.com/search?q=nexus+sabotaging+sushant+case) | N/A |
-| 33 | [स्टैंडिंग कमेटी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%88%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%82%e0%a4%97+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
-| 34 | [कबीर परमेश्वर](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%aa%e0%a4%b0%e0%a4%ae%e0%a5%87%e0%a4%b6%e0%a5%8d%e0%a4%b5%e0%a4%b0) | कबीर परमेश्वर is a phrase in Hindi which translates to "Kabir, the Supreme Lord". It is a reference to the 15th-century Indian mystic poet and saint, Kabir. The phrase is often used as an invocation or prayer to invoke the blessings of Kabir. |
-| 35 | [book exposes truth](http://twitter.com/search?q=book+exposes+truth) | N/A |
-| 36 | [असम पुलिस](http://twitter.com/search?q=%e0%a4%85%e0%a4%b8%e0%a4%ae+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
-| 37 | [श्री कृष्ण](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3) | N/A |
-| 38 | [श्री राधे कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%a7%e0%a5%87+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
-| 39 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
-| 40 | [Fav MD](http://twitter.com/search?q=Fav+MD) | N/A |
-| 41 | [Kejriwal](http://twitter.com/search?q=Kejriwal) | N/A |
-| 42 | [श्रीमती सोनिया गांधी](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80%e0%a4%ae%e0%a4%a4%e0%a5%80+%e0%a4%b8%e0%a5%8b%e0%a4%a8%e0%a4%bf%e0%a4%af%e0%a4%be+%e0%a4%97%e0%a4%be%e0%a4%82%e0%a4%a7%e0%a5%80) | N/A |
-| 43 | [अनन्य भक्त](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%af+%e0%a4%ad%e0%a4%95%e0%a5%8d%e0%a4%a4) | N/A |
-| 44 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
-| 45 | [daniel sloss](http://twitter.com/search?q=daniel+sloss) | N/A |
-| 46 | [Guaranteed](http://twitter.com/search?q=Guaranteed) | N/A |
-| 47 | [Atishi](http://twitter.com/search?q=Atishi) | N/A |
-| 48 | [Azam Khan](http://twitter.com/search?q=Azam+Khan) | N/A |
-| 49 | [Suprabhatam](http://twitter.com/search?q=Suprabhatam) | N/A |
-| 50 | [Om Shanti](http://twitter.com/search?q=Om+Shanti) | N/A |
+| 2 | [#OrganicYield](http://twitter.com/search?q=%23OrganicYield) | N/A |
+| 3 | [गरीब दास](http://twitter.com/search?q=%e0%a4%97%e0%a4%b0%e0%a5%80%e0%a4%ac+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
+| 4 | [#WeLovedMatruPitruPujan](http://twitter.com/search?q=%23WeLovedMatruPitruPujan) | N/A |
+| 5 | [#SaturdayMorning](http://twitter.com/search?q=%23SaturdayMorning) | N/A |
+| 6 | [Punjab](http://twitter.com/search?q=Punjab) | N/A |
+| 7 | [Satlok](http://twitter.com/search?q=Satlok) | Satlok is a term used to refer to the spiritual abode of the god Satnam, which is believed to be located in the higher realms of existence. The literal meaning of Satlok in English is "the abode of truth". |
+| 8 | [कबीर साहेब](http://twitter.com/search?q=%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0+%e0%a4%b8%e0%a4%be%e0%a4%b9%e0%a5%87%e0%a4%ac) | कबीर साहेब is a phrase used to refer to the poet Kabir, who was a 15th-century Indian mystic poet and saint. The phrase translates to "Kabir, the honorable one" in English. |
+| 9 | [God Kabir](http://twitter.com/search?q=God+Kabir) | N/A |
+| 10 | [श्री राम](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b0%e0%a4%be%e0%a4%ae) | N/A |
+| 11 | [#SaturdayVibes](http://twitter.com/search?q=%23SaturdayVibes) | N/A |
+| 12 | [Thanks To Asharamji Bapu](http://twitter.com/search?q=Thanks+To+Asharamji+Bapu) | N/A |
+| 13 | [उमेश पाल](http://twitter.com/search?q=%e0%a4%89%e0%a4%ae%e0%a5%87%e0%a4%b6+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 14 | [For Beautiful Initiative](http://twitter.com/search?q=For+Beautiful+Initiative) | N/A |
+| 15 | [अनन्त कोटि](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%a8%e0%a5%8d%e0%a4%a4+%e0%a4%95%e0%a5%8b%e0%a4%9f%e0%a4%bf) | N/A |
+| 16 | [SSRCs Evidences Point Murder](http://twitter.com/search?q=SSRCs+Evidences+Point+Murder) | N/A |
+| 17 | [पूर्ण अगम](http://twitter.com/search?q=%e0%a4%aa%e0%a5%82%e0%a4%b0%e0%a5%8d%e0%a4%a3+%e0%a4%85%e0%a4%97%e0%a4%ae) | N/A |
+| 18 | [Saint Gurmeet Ram Rahim Ji](http://twitter.com/search?q=Saint+Gurmeet+Ram+Rahim+Ji) | Saint Gurmeet Ram Rahim Ji is a spiritual leader and humanitarian from India. He is the founder of the spiritual organization Dera Sacha Sauda, which promotes social welfare and religious harmony. The name "Gurmeet Ram Rahim Ji" translates to "The Enlightened One, the Compassionate Lord". |
+| 19 | [शनि देव](http://twitter.com/search?q=%e0%a4%b6%e0%a4%a8%e0%a4%bf+%e0%a4%a6%e0%a5%87%e0%a4%b5) | N/A |
+| 20 | [राजू पाल](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%9c%e0%a5%82+%e0%a4%aa%e0%a4%be%e0%a4%b2) | N/A |
+| 21 | [Fav Actor](http://twitter.com/search?q=Fav+Actor) | N/A |
+| 22 | [Fav Actress](http://twitter.com/search?q=Fav+Actress) | N/A |
+| 23 | [Fav Cricketer](http://twitter.com/search?q=Fav+Cricketer) | N/A |
+| 24 | [गोपाल दास](http://twitter.com/search?q=%e0%a4%97%e0%a5%8b%e0%a4%aa%e0%a4%be%e0%a4%b2+%e0%a4%a6%e0%a4%be%e0%a4%b8) | N/A |
+| 25 | [Chhudani](http://twitter.com/search?q=Chhudani) | N/A |
+| 26 | [श्री हनुमान](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%b9%e0%a4%a8%e0%a5%81%e0%a4%ae%e0%a4%be%e0%a4%a8) | N/A |
+| 27 | [action prince dhruvasarja](http://twitter.com/search?q=action+prince+dhruvasarja) | N/A |
+| 28 | [अलख अल्लाह](http://twitter.com/search?q=%e0%a4%85%e0%a4%b2%e0%a4%96+%e0%a4%85%e0%a4%b2%e0%a5%8d%e0%a4%b2%e0%a4%be%e0%a4%b9) | N/A |
+| 29 | [Fav IPL Team](http://twitter.com/search?q=Fav+IPL+Team) | N/A |
+| 30 | [Fav Music Director](http://twitter.com/search?q=Fav+Music+Director) | N/A |
+| 31 | [दादू पंथ](http://twitter.com/search?q=%e0%a4%a6%e0%a4%be%e0%a4%a6%e0%a5%82+%e0%a4%aa%e0%a4%82%e0%a4%a5) | N/A |
+| 32 | [पवन खेड़ा](http://twitter.com/search?q=%e0%a4%aa%e0%a4%b5%e0%a4%a8+%e0%a4%96%e0%a5%87%e0%a4%a1%e0%a4%bc%e0%a4%be) | N/A |
+| 33 | [Fav Director](http://twitter.com/search?q=Fav+Director) | N/A |
+| 34 | [अनिल जैन](http://twitter.com/search?q=%e0%a4%85%e0%a4%a8%e0%a4%bf%e0%a4%b2+%e0%a4%9c%e0%a5%88%e0%a4%a8) | N/A |
+| 35 | [काशी माहे कबीर](http://twitter.com/search?q=%e0%a4%95%e0%a4%be%e0%a4%b6%e0%a5%80+%e0%a4%ae%e0%a4%be%e0%a4%b9%e0%a5%87+%e0%a4%95%e0%a4%ac%e0%a5%80%e0%a4%b0) | N/A |
+| 36 | [दिव्य दृष्टि](http://twitter.com/search?q=%e0%a4%a6%e0%a4%bf%e0%a4%b5%e0%a5%8d%e0%a4%af+%e0%a4%a6%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%9f%e0%a4%bf) | N/A |
+| 37 | [नानक तारे](http://twitter.com/search?q=%e0%a4%a8%e0%a4%be%e0%a4%a8%e0%a4%95+%e0%a4%a4%e0%a4%be%e0%a4%b0%e0%a5%87) | N/A |
+| 38 | [मास सुदी](http://twitter.com/search?q=%e0%a4%ae%e0%a4%be%e0%a4%b8+%e0%a4%b8%e0%a5%81%e0%a4%a6%e0%a5%80) | N/A |
+| 39 | [जिला झज्जर](http://twitter.com/search?q=%e0%a4%9c%e0%a4%bf%e0%a4%b2%e0%a4%be+%e0%a4%9d%e0%a4%9c%e0%a5%8d%e0%a4%9c%e0%a4%b0) | N/A |
+| 40 | [No Sushant No Bollywood](http://twitter.com/search?q=No+Sushant+No+Bollywood) | N/A |
+| 41 | [Mahatma](http://twitter.com/search?q=Mahatma) | N/A |
+| 42 | [Harry Brook](http://twitter.com/search?q=Harry+Brook) | Harry Brook is a phrase used in the game of cricket to describe a batsman who is playing defensively and not taking risks. It is derived from the name of the English cricketer Harry Brooks, who was known for his defensive batting style. |
+| 43 | [श्री कृष्णा](http://twitter.com/search?q=%e0%a4%b6%e0%a5%8d%e0%a4%b0%e0%a5%80+%e0%a4%95%e0%a5%83%e0%a4%b7%e0%a5%8d%e0%a4%a3%e0%a4%be) | N/A |
+| 44 | [राम रसायन](http://twitter.com/search?q=%e0%a4%b0%e0%a4%be%e0%a4%ae+%e0%a4%b0%e0%a4%b8%e0%a4%be%e0%a4%af%e0%a4%a8) | N/A |
+| 45 | [आम आदमी पार्टी](http://twitter.com/search?q=%e0%a4%86%e0%a4%ae+%e0%a4%86%e0%a4%a6%e0%a4%ae%e0%a5%80+%e0%a4%aa%e0%a4%be%e0%a4%b0%e0%a5%8d%e0%a4%9f%e0%a5%80) | N/A |
+| 46 | [पंजाब पुलिस](http://twitter.com/search?q=%e0%a4%aa%e0%a4%82%e0%a4%9c%e0%a4%be%e0%a4%ac+%e0%a4%aa%e0%a5%81%e0%a4%b2%e0%a4%bf%e0%a4%b8) | N/A |
+| 47 | [South Africa](http://twitter.com/search?q=South+Africa) | N/A |
+| 48 | [book exposes truth](http://twitter.com/search?q=book+exposes+truth) | N/A |
+| 49 | [Sikhs](http://twitter.com/search?q=Sikhs) | N/A |
+| 50 | [स्टैंडिंग कमेटी](http://twitter.com/search?q=%e0%a4%b8%e0%a5%8d%e0%a4%9f%e0%a5%88%e0%a4%82%e0%a4%a1%e0%a4%bf%e0%a4%82%e0%a4%97+%e0%a4%95%e0%a4%ae%e0%a5%87%e0%a4%9f%e0%a5%80) | N/A |
 
 
 

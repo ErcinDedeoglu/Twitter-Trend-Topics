@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lausanne
 
-📆 Last Updated: `2023-02-25 01:44:07 UTC`
+📆 Last Updated: `2023-02-25 02:41:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,22 +15,22 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 2 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 1 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 2 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 3 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
 | 4 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
-| 5 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 6 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
-| 7 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
+| 5 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
+| 6 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 7 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
 | 8 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
 | 9 | [gefährliches gerede](http://twitter.com/search?q=gef%c3%a4hrliches+gerede) | N/A |
 | 10 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
 | 11 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 12 | [Eigenbedarf](http://twitter.com/search?q=Eigenbedarf) | N/A |
+| 12 | [eigenbedarf](http://twitter.com/search?q=eigenbedarf) | N/A |
 | 13 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
 | 14 | [isabel garcia](http://twitter.com/search?q=isabel+garcia) | N/A |
 | 15 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
-| 16 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 16 | [mieter](http://twitter.com/search?q=mieter) | N/A |
 | 17 | [sitz](http://twitter.com/search?q=sitz) | N/A |
 | 18 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
 | 19 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |

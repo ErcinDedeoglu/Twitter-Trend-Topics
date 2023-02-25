@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Belfast
 
-📆 Last Updated: `2023-02-25 01:43:53 UTC`
+📆 Last Updated: `2023-02-25 02:40:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,53 +15,53 @@ This is top 50 for [United Kingdom](</United Kingdom>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
-| 2 | [#PutinGorillaSexTape](http://twitter.com/search?q=%23PutinGorillaSexTape) | N/A |
-| 3 | [Jimmy Jimmy](http://twitter.com/search?q=Jimmy+Jimmy) | N/A |
-| 4 | [#gogglebox](http://twitter.com/search?q=%23gogglebox) | N/A |
-| 5 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
-| 6 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
-| 7 | [South Wales](http://twitter.com/search?q=South+Wales) | N/A |
-| 8 | [#GrahamNorton](http://twitter.com/search?q=%23GrahamNorton) | N/A |
-| 9 | [Joe Root](http://twitter.com/search?q=Joe+Root) | Joe Root is an English cricketer who currently captains the England Test team. He is widely regarded as one of the best batsmen in the world and has scored over 8,000 runs in Test cricket. The phrase "Joe Root" is often used to refer to someone who is a talented and successful sportsperson. |
-| 10 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
+| 1 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 2 | [Jimmy Anderson](http://twitter.com/search?q=Jimmy+Anderson) | N/A |
+| 3 | [#PutinGorillaSexTape](http://twitter.com/search?q=%23PutinGorillaSexTape) | N/A |
+| 4 | [Jimmy Jimmy](http://twitter.com/search?q=Jimmy+Jimmy) | N/A |
+| 5 | [#gogglebox](http://twitter.com/search?q=%23gogglebox) | N/A |
+| 6 | [South Wales](http://twitter.com/search?q=South+Wales) | N/A |
+| 7 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 8 | [Claudia](http://twitter.com/search?q=Claudia) | Claudia is a female given name of Latin origin, derived from the Roman clan name Claudius. It means "lame" or "disabled". |
+| 9 | [Radio 2](http://twitter.com/search?q=Radio+2) | Radio 2 is a BBC radio station in the United Kingdom. It broadcasts a mix of music, news, and entertainment programs. The station's tagline is "The UK's Most Popular Music Station". Radio 2 is the most listened to radio station in the UK, with an average weekly reach of 15.2 million listeners. |
+| 10 | [Joe Root](http://twitter.com/search?q=Joe+Root) | Joe Root is an English cricketer who currently captains the England Test team. He is widely regarded as one of the best batsmen in the world and has scored over 8,000 runs in Test cricket. The phrase "Joe Root" is often used to refer to someone who is a talented and successful sportsperson. |
 | 11 | [Pete Doherty](http://twitter.com/search?q=Pete+Doherty) | N/A |
-| 12 | [Stokes](http://twitter.com/search?q=Stokes) | N/A |
+| 12 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
 | 13 | [Mason Greenwood](http://twitter.com/search?q=Mason+Greenwood) | Mason Greenwood is a professional footballer who plays for Manchester United in the English Premier League. He is an attacking player who primarily plays as a forward. His name is derived from his hometown of Mason, England, and the word "greenwood," which refers to a type of forest. |
-| 14 | [Solomon](http://twitter.com/search?q=Solomon) | N/A |
-| 15 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
-| 16 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
-| 17 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
-| 18 | [Popmaster](http://twitter.com/search?q=Popmaster) | Popmaster is a British radio quiz show that has been running since the 1980s. It is broadcast on BBC Radio 2 and hosted by Ken Bruce. The show involves contestants answering questions about popular music, with the winner receiving a prize. The term "Popmaster" is used to refer to the host of the show, as well as to describe the game itself. |
-| 19 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
-| 20 | [Cunha](http://twitter.com/search?q=Cunha) | N/A |
-| 21 | [Bernard Ingham](http://twitter.com/search?q=Bernard+Ingham) | N/A |
-| 22 | [Steve Wright](http://twitter.com/search?q=Steve+Wright) | Steve Wright is a British radio presenter and comedian. He is best known for his long-running BBC Radio 2 show, Steve Wright in the Afternoon. The show features music, comedy sketches, and interviews with celebrity guests. The phrase "Steve Wright" has come to mean a light-hearted and entertaining radio show. |
-| 23 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
-| 24 | [Sezer](http://twitter.com/search?q=Sezer) | N/A |
-| 25 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
-| 26 | [Semedo](http://twitter.com/search?q=Semedo) | N/A |
-| 27 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
-| 28 | [Yahaya Bello](http://twitter.com/search?q=Yahaya+Bello) | N/A |
-| 29 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 30 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
-| 31 | [Steve Allen](http://twitter.com/search?q=Steve+Allen) | N/A |
-| 32 | [Lemina](http://twitter.com/search?q=Lemina) | N/A |
-| 33 | [Sarabia](http://twitter.com/search?q=Sarabia) | Sarabia is a Spanish surname derived from the Arabic word sarab, which means "mirage". It is also the name of a small town in Spain. In English, Sarabia can be translated to mean "mirage". |
-| 34 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
-| 35 | [Humphrey](http://twitter.com/search?q=Humphrey) | N/A |
-| 36 | [Raul](http://twitter.com/search?q=Raul) | N/A |
-| 37 | [Rosie](http://twitter.com/search?q=Rosie) | N/A |
-| 38 | [Foakes](http://twitter.com/search?q=Foakes) | N/A |
-| 39 | [Palhinha](http://twitter.com/search?q=Palhinha) | Palhinha is a Portuguese slang term that means “little one” or “darling.” It is often used as an affectionate term of endearment for someone close to you, such as a child, friend, or partner. |
-| 40 | [Vernon Kay](http://twitter.com/search?q=Vernon+Kay) | N/A |
-| 41 | [Neves](http://twitter.com/search?q=Neves) | Neves is a Portuguese surname. It is derived from the Latin word "navis", which means "ship". In English, it can be translated to mean "of the ship" or "from the ship". |
-| 42 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
-| 43 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
-| 44 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
-| 45 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
-| 46 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
-| 47 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 14 | [Ken Bruce](http://twitter.com/search?q=Ken+Bruce) | Ken Bruce is a British radio presenter who has been broadcasting on BBC Radio 2 since 1978. He is best known for his weekday morning show, which features music, news, interviews and competitions. The show has been running since 1985 and is one of the most popular radio shows in the UK. |
+| 15 | [Manor Solomon](http://twitter.com/search?q=Manor+Solomon) | N/A |
+| 16 | [Pedro Pascal](http://twitter.com/search?q=Pedro+Pascal) | Pedro Pascal is a Chilean-American actor. He is best known for his roles in the Netflix series Narcos and The Mandalorian. The name Pedro Pascal is derived from the Spanish name Pedro, which means "rock" or "stone," and Pascal, which means "passover." |
+| 17 | [Greatest Hits Radio](http://twitter.com/search?q=Greatest+Hits+Radio) | Greatest Hits Radio is a type of radio station that plays popular music from the past. It typically features songs from the 1960s to the present day, and is designed to appeal to a wide range of listeners. The term "greatest hits" refers to the fact that these stations play some of the most popular songs from different eras. |
+| 18 | [Cunha](http://twitter.com/search?q=Cunha) | N/A |
+| 19 | [Wolves](http://twitter.com/search?q=Wolves) | "Wolves" is a song by American singer-songwriter Selena Gomez. The song is about the struggles of a relationship and the power of love to overcome them. The lyrics describe how two people can come together and fight through their differences, no matter how hard it may be. The title "Wolves" is a metaphor for the couple's relationship, with the wolves representing their struggles and how they must fight to stay together. |
+| 20 | [Steve Wright](http://twitter.com/search?q=Steve+Wright) | Steve Wright is a British radio presenter and comedian. He is best known for his long-running BBC Radio 2 show, Steve Wright in the Afternoon. The show features music, comedy sketches, and interviews with celebrity guests. The phrase "Steve Wright" has come to mean a light-hearted and entertaining radio show. |
+| 21 | [The BBC](http://twitter.com/search?q=The+BBC) | N/A |
+| 22 | [Popmaster](http://twitter.com/search?q=Popmaster) | Popmaster is a British radio quiz show that has been running since the 1980s. It is broadcast on BBC Radio 2 and hosted by Ken Bruce. The show involves contestants answering questions about popular music, with the winner receiving a prize. The term "Popmaster" is used to refer to the host of the show, as well as to describe the game itself. |
+| 23 | [Cocaine Bear](http://twitter.com/search?q=Cocaine+Bear) | Cocaine Bear is an internet meme that originated from a real-life incident in 1985. It refers to a black bear that was found dead in the Great Smoky Mountains National Park in Tennessee, USA. The bear had ingested over 70 pounds of cocaine that had been dropped from an airplane by drug smugglers. The phrase "Cocaine Bear" is used to refer to any situation where someone or something has taken on more than they can handle. |
+| 24 | [Semedo](http://twitter.com/search?q=Semedo) | N/A |
+| 25 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
+| 26 | [Steve Allen](http://twitter.com/search?q=Steve+Allen) | N/A |
+| 27 | [Mhairi Black](http://twitter.com/search?q=Mhairi+Black) | N/A |
+| 28 | [Hillsborough](http://twitter.com/search?q=Hillsborough) | N/A |
+| 29 | [Sarabia](http://twitter.com/search?q=Sarabia) | Sarabia is a Spanish surname derived from the Arabic word sarab, which means "mirage". It is also the name of a small town in Spain. In English, Sarabia can be translated to mean "mirage". |
+| 30 | [Raul](http://twitter.com/search?q=Raul) | N/A |
+| 31 | [james marriott](http://twitter.com/search?q=james+marriott) | N/A |
+| 32 | [Vernon Kay](http://twitter.com/search?q=Vernon+Kay) | N/A |
+| 33 | [Wakefield](http://twitter.com/search?q=Wakefield) | N/A |
+| 34 | [Bernie](http://twitter.com/search?q=Bernie) | N/A |
+| 35 | [Bazball](http://twitter.com/search?q=Bazball) | N/A |
+| 36 | [Rod Stewart](http://twitter.com/search?q=Rod+Stewart) | N/A |
+| 37 | [Beeb](http://twitter.com/search?q=Beeb) | N/A |
+| 38 | [Kylie](http://twitter.com/search?q=Kylie) | Kylie is a female given name of Irish and Gaelic origin, meaning "boomerang". It is also a diminutive form of the name Kyle. |
+| 39 | [Craven Cottage](http://twitter.com/search?q=Craven+Cottage) | N/A |
+| 40 | [Alex Neil](http://twitter.com/search?q=Alex+Neil) | N/A |
+| 41 | [Hummel](http://twitter.com/search?q=Hummel) | N/A |
+| 42 | [Wes Streeting](http://twitter.com/search?q=Wes+Streeting) | N/A |
+| 43 | [#GrahamNorton](http://twitter.com/search?q=%23GrahamNorton) | N/A |
+| 44 | [#TheLastLeg](http://twitter.com/search?q=%23TheLastLeg) | N/A |
+| 45 | [#DeathInParadise](http://twitter.com/search?q=%23DeathInParadise) | N/A |
+| 46 | [#NZvENG](http://twitter.com/search?q=%23NZvENG) | N/A |
+| 47 | [#BeyondParadise](http://twitter.com/search?q=%23BeyondParadise) | N/A |
 
 
 

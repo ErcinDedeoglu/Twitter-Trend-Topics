@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For San Antonio
 
-📆 Last Updated: `2023-02-25 01:44:34 UTC`
+📆 Last Updated: `2023-02-25 02:41:31 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#ARPromos](http://twitter.com/search?q=%23ARPromos) | N/A |
+| 1 | [#txhshoops](http://twitter.com/search?q=%23txhshoops) | N/A |
 | 2 | [#BayWatchWeekend](http://twitter.com/search?q=%23BayWatchWeekend) | N/A |
-| 3 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
-| 4 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 5 | [Zelensky](http://twitter.com/search?q=Zelensky) | Zelensky is a Ukrainian surname derived from the word "zeleny," which means "green" in Ukrainian. It is also the surname of the current President of Ukraine, Volodymyr Zelensky. |
-| 6 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
-| 7 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 8 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
-| 9 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
-| 10 | [Ralph Nader](http://twitter.com/search?q=Ralph+Nader) | N/A |
-| 11 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
-| 12 | [#NoSurrender](http://twitter.com/search?q=%23NoSurrender) | N/A |
-| 13 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
-| 14 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
-| 15 | [Bobby Portis](http://twitter.com/search?q=Bobby+Portis) | N/A |
-| 16 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
-| 17 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 18 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
-| 19 | [Kofi](http://twitter.com/search?q=Kofi) | Kofi is a unisex name of African origin meaning "born on Friday". It is also a popular name in Ghana, where it is the name of the Akan day of the week for Friday. |
-| 20 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
-| 21 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
-| 22 | [Melania](http://twitter.com/search?q=Melania) | N/A |
-| 23 | [Zeller](http://twitter.com/search?q=Zeller) | N/A |
-| 24 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
-| 25 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
-| 26 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
-| 27 | [Drew McIntyre](http://twitter.com/search?q=Drew+McIntyre) | Drew McIntyre is a Scottish professional wrestler currently signed to WWE. His ring name is a combination of his real first name, Drew, and his mother's maiden name, McIntyre. He is a two-time WWE Champion and the current WWE Champion. |
-| 28 | [National Day of Hate](http://twitter.com/search?q=National+Day+of+Hate) | N/A |
-| 29 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
-| 30 | [Sheamus](http://twitter.com/search?q=Sheamus) | Sheamus is an Irish name derived from the Gaelic "Seamus," which means "supplanter" or "substitute." It is also a popular given name in Ireland. |
-| 31 | [Imperium](http://twitter.com/search?q=Imperium) | Imperium is a Latin word meaning "power to command" or "absolute power". It is often used to refer to the power of an emperor or other ruler, or to the political and military authority of a state. |
-| 32 | [Strus](http://twitter.com/search?q=Strus) | N/A |
-| 33 | [Madcap Moss](http://twitter.com/search?q=Madcap+Moss) | N/A |
-| 34 | [After 1](http://twitter.com/search?q=After+1) | N/A |
-| 35 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
-| 36 | [Jill Biden](http://twitter.com/search?q=Jill+Biden) | Jill Biden is the wife of the current President of the United States, Joe Biden. She is a teacher, author, and advocate for military families. The meaning of her name in English is "one who brings joy". |
-| 37 | [End 1Q](http://twitter.com/search?q=End+1Q) | N/A |
-| 38 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
-| 39 | [Mitchell Robinson](http://twitter.com/search?q=Mitchell+Robinson) | Mitchell Robinson is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected in the second round of the 2018 NBA draft. His name is derived from his father's middle name, Mitchell. |
-| 40 | [TD Jakes](http://twitter.com/search?q=TD+Jakes) | N/A |
-| 41 | [Strowman](http://twitter.com/search?q=Strowman) | N/A |
-| 42 | [Optic](http://twitter.com/search?q=Optic) | N/A |
-| 43 | [The Hawks](http://twitter.com/search?q=The+Hawks) | N/A |
-| 44 | [Friday Night](http://twitter.com/search?q=Friday+Night) | N/A |
-| 45 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 46 | [Pemex](http://twitter.com/search?q=Pemex) | N/A |
-| 47 | [Tkachuk](http://twitter.com/search?q=Tkachuk) | N/A |
-| 48 | [Guilty](http://twitter.com/search?q=Guilty) | In English, "guilty" is an adjective that means responsible for a crime or wrongdoing. It is often used in a legal context to refer to someone who has been found guilty of a crime in a court of law. |
-| 49 | [Saddiq Bey](http://twitter.com/search?q=Saddiq+Bey) | Saddiq Bey is an Arabic name meaning "truthful lord" or "honest master". It is often used as a title of respect for someone who is known for their honesty and integrity. |
+| 3 | [#ARPromos](http://twitter.com/search?q=%23ARPromos) | N/A |
+| 4 | [#GoTexanDay](http://twitter.com/search?q=%23GoTexanDay) | N/A |
+| 5 | [Tank](http://twitter.com/search?q=Tank) | Tank is a noun that refers to a large, heavily armored military vehicle designed for offensive and defensive operations. It is typically armed with cannons, machine guns, and other weapons. The term can also be used to refer to a large container used for storing liquids or gases. |
+| 6 | [#GuardianGiveaways](http://twitter.com/search?q=%23GuardianGiveaways) | N/A |
+| 7 | [Zelenskyy](http://twitter.com/search?q=Zelenskyy) | N/A |
+| 8 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 9 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 10 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 11 | [LA Knight](http://twitter.com/search?q=LA+Knight) | LA Knight is a nickname given to Los Angeles Lakers basketball player LeBron James. It is a play on words, combining the initials of his name (LeBron James) with the city he plays for (Los Angeles). The phrase is often used to refer to James' leadership and skill on the court. |
+| 12 | [Cavs](http://twitter.com/search?q=Cavs) | Cavs is an abbreviation for the Cleveland Cavaliers, a professional basketball team based in Cleveland, Ohio. |
+| 13 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 14 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 15 | [Charlotte](http://twitter.com/search?q=Charlotte) | N/A |
+| 16 | [Anetra](http://twitter.com/search?q=Anetra) | Anetra is a feminine given name of Greek origin. It is derived from the Greek word anetos, which means "unwavering" or "resolute". In English, Anetra can be translated to mean "steadfast" or "unfaltering". |
+| 17 | [Porzingis](http://twitter.com/search?q=Porzingis) | Porzingis is the surname of Latvian professional basketball player Kristaps Porzingis. It is not an English word and does not have a meaning in English. |
+| 18 | [Shayna](http://twitter.com/search?q=Shayna) | N/A |
+| 19 | [kofi](http://twitter.com/search?q=kofi) | N/A |
+| 20 | [Bray Wyatt](http://twitter.com/search?q=Bray+Wyatt) | Bray Wyatt is the ring name of American professional wrestler Windham Rotunda. The name is derived from the combination of his father's first name, Mike Rotunda, and his grandfather's first name, Bray Heath Slater. The name Bray Wyatt is a reference to the character of Bray Wyatt in the horror film The Texas Chainsaw Massacre. |
+| 21 | [Kuzma](http://twitter.com/search?q=Kuzma) | Kuzma is a Slavic name derived from the Greek name Konstantinos, meaning "constant" or "steadfast". It is also a popular Russian surname. |
+| 22 | [Wizards](http://twitter.com/search?q=Wizards) | Wizards is a term used to refer to people who are skilled in magic or the supernatural. It is often used to describe powerful and wise characters in fantasy stories, such as Merlin from the Arthurian legends. In modern usage, it can also refer to people who are highly skilled in a particular field or profession. |
+| 23 | [Dominik](http://twitter.com/search?q=Dominik) | Dominik is a masculine given name of Latin origin, derived from the word "Dominicus" meaning "belonging to the Lord". It is a popular name in many countries, including Germany, Poland, Slovakia, and the Czech Republic. |
+| 24 | [Rhea](http://twitter.com/search?q=Rhea) | Rhea is a female given name of Greek origin, derived from the ancient Greek goddess Rhea. It is also a genus of flightless birds native to New Zealand. The meaning of the name in English is "flowing" or "stream". |
+| 25 | [Bobby Portis](http://twitter.com/search?q=Bobby+Portis) | N/A |
+| 26 | [Seton Hall](http://twitter.com/search?q=Seton+Hall) | Seton Hall is a private Roman Catholic university located in South Orange, New Jersey. It was founded in 1856 by Archbishop James Roosevelt Bayley and named after his aunt, Saint Elizabeth Ann Seton. The university offers more than 90 undergraduate and graduate degree programs to its students. The school's motto is "Religio, Mores, Cultura" which translates to "Religion, Morals, Culture". |
+| 27 | [Meyers Leonard](http://twitter.com/search?q=Meyers+Leonard) | Meyers Leonard is an American professional basketball player who currently plays for the Miami Heat of the National Basketball Association (NBA). His name is derived from his father, Meyers Leonard Sr., and his mother, Lisa Leonard. |
+| 28 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 29 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
+| 30 | [Craig Anderson](http://twitter.com/search?q=Craig+Anderson) | N/A |
+| 31 | [Hubie Brown](http://twitter.com/search?q=Hubie+Brown) | Hubie Brown is a nickname for Hubert Jude Brown, an American basketball coach and commentator. He was a two-time NBA Coach of the Year and was inducted into the Basketball Hall of Fame in 2005. He is known for his innovative coaching strategies and his colorful commentary on NBA games. |
+| 32 | [RJ Barrett](http://twitter.com/search?q=RJ+Barrett) | RJ Barrett is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). He was selected third overall in the 2019 NBA draft. |
+| 33 | [Jae Crowder](http://twitter.com/search?q=Jae+Crowder) | N/A |
+| 34 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
+| 35 | [Ricochet](http://twitter.com/search?q=Ricochet) | Ricochet is a French word meaning to "bounce back" or "rebound". It is often used to describe a situation in which an object or action rebounds off a surface and returns in the opposite direction. It can also be used figuratively to describe a situation in which an event or action has an unexpected outcome. |
+| 36 | [Cody Zeller](http://twitter.com/search?q=Cody+Zeller) | N/A |
+| 37 | [Caruso](http://twitter.com/search?q=Caruso) | N/A |
+| 38 | [Tegan](http://twitter.com/search?q=Tegan) | N/A |
+| 39 | [Jeff Skinner](http://twitter.com/search?q=Jeff+Skinner) | N/A |
+| 40 | [Salina](http://twitter.com/search?q=Salina) | N/A |
+| 41 | [Gunther](http://twitter.com/search?q=Gunther) | Gunther is a German name derived from the Old High German words "gund" (war) and "hari" (army). It is a masculine name meaning "army warrior". |
+| 42 | [Quickley](http://twitter.com/search?q=Quickley) | N/A |
+| 43 | [Minecraft](http://twitter.com/search?q=Minecraft) | N/A |
+| 44 | [Dreamcon](http://twitter.com/search?q=Dreamcon) | N/A |
+| 45 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 46 | [New Day](http://twitter.com/search?q=New+Day) | N/A |
+| 47 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 48 | [End of 3](http://twitter.com/search?q=End+of+3) | N/A |
+| 49 | [Strus](http://twitter.com/search?q=Strus) | N/A |
 
 
 

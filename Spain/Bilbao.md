@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bilbao
 
-📆 Last Updated: `2023-02-25 01:44:06 UTC`
+📆 Last Updated: `2023-02-25 02:41:02 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,53 +17,53 @@ This is top 50 for [Spain](</Spain>)
 | ------- | ------------ | ------------ |
 | 1 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
 | 2 | [#ReinaLPGC](http://twitter.com/search?q=%23ReinaLPGC) | N/A |
-| 3 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
-| 4 | [#ElDesafío7](http://twitter.com/search?q=%23ElDesaf%c3%ado7) | N/A |
-| 5 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
-| 6 | [#ViernesDeluxe](http://twitter.com/search?q=%23ViernesDeluxe) | N/A |
-| 7 | [#SempiternoTourMadrid](http://twitter.com/search?q=%23SempiternoTourMadrid) | N/A |
-| 8 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
-| 9 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
-| 10 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
-| 11 | [Martínez Valero](http://twitter.com/search?q=Mart%c3%adnez+Valero) | N/A |
-| 12 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
-| 13 | [Abner](http://twitter.com/search?q=Abner) | N/A |
-| 14 | [Juanmi](http://twitter.com/search?q=Juanmi) | N/A |
-| 15 | [Medina](http://twitter.com/search?q=Medina) | N/A |
-| 16 | [Magallán](http://twitter.com/search?q=Magall%c3%a1n) | N/A |
-| 17 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
-| 18 | [Enzo Roco](http://twitter.com/search?q=Enzo+Roco) | N/A |
-| 19 | [Mariló](http://twitter.com/search?q=Maril%c3%b3) | N/A |
-| 20 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
-| 21 | [Leguina](http://twitter.com/search?q=Leguina) | N/A |
-| 22 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
-| 23 | [Ayoze](http://twitter.com/search?q=Ayoze) | N/A |
-| 24 | [Palacios](http://twitter.com/search?q=Palacios) | N/A |
-| 25 | [Bela](http://twitter.com/search?q=Bela) | N/A |
-| 26 | [Edgar Badía](http://twitter.com/search?q=Edgar+Bad%c3%ada) | N/A |
-| 27 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
-| 28 | [Agapito](http://twitter.com/search?q=Agapito) | N/A |
-| 29 | [Willian José](http://twitter.com/search?q=Willian+Jos%c3%a9) | N/A |
-| 30 | [Queens League](http://twitter.com/search?q=Queens+League) | N/A |
-| 31 | [Los 4](http://twitter.com/search?q=Los+4) | N/A |
-| 32 | [Duki](http://twitter.com/search?q=Duki) | N/A |
-| 33 | [Lope](http://twitter.com/search?q=Lope) | N/A |
-| 34 | [Machín](http://twitter.com/search?q=Mach%c3%adn) | N/A |
-| 35 | [Brenda](http://twitter.com/search?q=Brenda) | N/A |
-| 36 | [Duko](http://twitter.com/search?q=Duko) | N/A |
-| 37 | [Andy](http://twitter.com/search?q=Andy) | N/A |
-| 38 | [Estrada Fernández](http://twitter.com/search?q=Estrada+Fern%c3%a1ndez) | N/A |
-| 39 | [Le Normand](http://twitter.com/search?q=Le+Normand) | N/A |
-| 40 | [Mónaco](http://twitter.com/search?q=M%c3%b3naco) | N/A |
-| 41 | [kiara](http://twitter.com/search?q=kiara) | Kiara is a female given name of Italian origin, derived from the Latin word "ciarus" meaning "dark". It is also a variant of the name Chiara, which means "light". |
-| 42 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
-| 43 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
-| 44 | [Patri](http://twitter.com/search?q=Patri) | N/A |
-| 45 | [Fernández Díaz](http://twitter.com/search?q=Fern%c3%a1ndez+D%c3%adaz) | N/A |
-| 46 | [Gema](http://twitter.com/search?q=Gema) | N/A |
-| 47 | [Bárcenas](http://twitter.com/search?q=B%c3%a1rcenas) | N/A |
-| 48 | [Laporte](http://twitter.com/search?q=Laporte) | Laporte is a French surname derived from the Old French word "la porte," meaning "the door." It is also the name of several towns in France. |
-| 49 | [#Solos24F](http://twitter.com/search?q=%23Solos24F) | N/A |
+| 3 | [Ucrania](http://twitter.com/search?q=Ucrania) | N/A |
+| 4 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 5 | [Miranda](http://twitter.com/search?q=Miranda) | Miranda is a female given name of Latin origin, derived from the word "mirandus" meaning "admirable" or "wonderful". It is also associated with the phrase "miranda rights", which are rights read to criminal suspects in the United States during an arrest. |
+| 6 | [#ElDesafío7](http://twitter.com/search?q=%23ElDesaf%c3%ado7) | N/A |
+| 7 | [#Solos24F](http://twitter.com/search?q=%23Solos24F) | N/A |
+| 8 | [#SempiternoTourMadrid](http://twitter.com/search?q=%23SempiternoTourMadrid) | N/A |
+| 9 | [Europa League](http://twitter.com/search?q=Europa+League) | N/A |
+| 10 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 11 | [Rusia](http://twitter.com/search?q=Rusia) | N/A |
+| 12 | [Garnacho](http://twitter.com/search?q=Garnacho) | Garnacho is a Spanish slang term that means "crazy" or "nuts". It is used to describe someone who is acting in an irrational or wild manner. |
+| 13 | [Iglesias Villanueva](http://twitter.com/search?q=Iglesias+Villanueva) | N/A |
+| 14 | [Leguina](http://twitter.com/search?q=Leguina) | N/A |
+| 15 | [Aspas](http://twitter.com/search?q=Aspas) | Aspas is a Spanish word meaning quotation marks or inverted commas. It is used to indicate direct speech or to set off a phrase or word for emphasis. |
+| 16 | [Pellegrini](http://twitter.com/search?q=Pellegrini) | N/A |
+| 17 | [Manchester](http://twitter.com/search?q=Manchester) | N/A |
+| 18 | [Estrada Fernández](http://twitter.com/search?q=Estrada+Fern%c3%a1ndez) | N/A |
+| 19 | [Medina](http://twitter.com/search?q=Medina) | N/A |
+| 20 | [Fekir](http://twitter.com/search?q=Fekir) | Fekir is a French surname. It is derived from the Old French word fekir, which means "blessed". In English, it can be translated to mean "blessed one". |
+| 21 | [Abner](http://twitter.com/search?q=Abner) | N/A |
+| 22 | [Barça](http://twitter.com/search?q=Bar%c3%a7a) | Barça is a nickname for the Spanish football club FC Barcelona. It is derived from the Catalan pronunciation of the club's name, which is "Barça". In English, it can be translated to mean "The Blaugrana". |
+| 23 | [Loreen](http://twitter.com/search?q=Loreen) | N/A |
+| 24 | [Fernández Díaz](http://twitter.com/search?q=Fern%c3%a1ndez+D%c3%adaz) | N/A |
+| 25 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 26 | [Carlos Baute](http://twitter.com/search?q=Carlos+Baute) | N/A |
+| 27 | [Ramos](http://twitter.com/search?q=Ramos) | Ramos is a Spanish surname derived from the Latin word ramus, meaning "branch". It is also a common given name in Spanish-speaking countries. In English, it can be translated to mean "branch" or "tree branch". |
+| 28 | [Martínez Valero](http://twitter.com/search?q=Mart%c3%adnez+Valero) | N/A |
+| 29 | [Pedri](http://twitter.com/search?q=Pedri) | Pedri is a Spanish name derived from the Latin name Petrus, meaning "rock" or "stone". It is a variant of the English name Peter. |
+| 30 | [Ronaldinho](http://twitter.com/search?q=Ronaldinho) | N/A |
+| 31 | [Enzo Roco](http://twitter.com/search?q=Enzo+Roco) | N/A |
+| 32 | [Carmen Lomana](http://twitter.com/search?q=Carmen+Lomana) | N/A |
+| 33 | [Xavi](http://twitter.com/search?q=Xavi) | Xavi is a Spanish given name, derived from the Hebrew name Xavier. It is a variant of the name Javier, and means "bright" or "splendid". |
+| 34 | [De la Fuente](http://twitter.com/search?q=De+la+Fuente) | N/A |
+| 35 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
+| 36 | [Claudio Bravo](http://twitter.com/search?q=Claudio+Bravo) | Claudio Bravo is a Chilean professional footballer who plays as a goalkeeper for Spanish club Real Betis and the Chile national team. His name is often used as a metaphor for excellence in goalkeeping, with "Bravo" being an expression of admiration or approval. |
+| 37 | [Borja Iglesias](http://twitter.com/search?q=Borja+Iglesias) | Borja Iglesias is a Spanish professional footballer who plays as a striker for Real Betis. His name translates to "Church of Iglesias" in English. |
+| 38 | [Luiz Felipe](http://twitter.com/search?q=Luiz+Felipe) | Luiz Felipe is a Portuguese name, derived from the Latin name Lucius and the Greek name Philippos. It means "Light of the Horse" or "Bringer of Light". |
+| 39 | [Magallan](http://twitter.com/search?q=Magallan) | N/A |
+| 40 | [Old Trafford](http://twitter.com/search?q=Old+Trafford) | Old Trafford is a football stadium in Manchester, England, and is the home of Manchester United Football Club. It has a capacity of 74,879 and is the second-largest football stadium in the United Kingdom. The name "Old Trafford" comes from its original location on the site of an old Roman fort. |
+| 41 | [Alonso](http://twitter.com/search?q=Alonso) | N/A |
+| 42 | [Iturralde](http://twitter.com/search?q=Iturralde) | N/A |
+| 43 | [Dmitrovic](http://twitter.com/search?q=Dmitrovic) | N/A |
+| 44 | [Champions](http://twitter.com/search?q=Champions) | Champions is a term used to refer to people or teams who have achieved success in a particular field or activity. It is often used to describe those who have won a championship or competition, such as the World Series, Super Bowl, or Olympic Games. It can also be used to refer to people who have achieved excellence in their field, such as Nobel Prize winners. |
+| 45 | [Lajovic](http://twitter.com/search?q=Lajovic) | N/A |
+| 46 | [Luis Enrique](http://twitter.com/search?q=Luis+Enrique) | Luis Enrique is a Spanish name, derived from the Germanic name Ludwig, meaning "famous warrior". In English, it can be translated to mean "Famous Warrior of Enrique". |
+| 47 | [Kiev](http://twitter.com/search?q=Kiev) | N/A |
+| 48 | [Tito Berni](http://twitter.com/search?q=Tito+Berni) | N/A |
+| 49 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 
 
 

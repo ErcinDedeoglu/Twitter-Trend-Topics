@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Geneva
 
-📆 Last Updated: `2023-02-25 01:44:07 UTC`
+📆 Last Updated: `2023-02-25 02:41:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,19 +15,19 @@ This is top 50 for [Switzerland](</Switzerland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 2 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 1 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 2 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 3 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
 | 4 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
 | 5 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
 | 6 | [gefährliches gerede](http://twitter.com/search?q=gef%c3%a4hrliches+gerede) | N/A |
 | 7 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
 | 8 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 9 | [Eigenbedarf](http://twitter.com/search?q=Eigenbedarf) | N/A |
+| 9 | [eigenbedarf](http://twitter.com/search?q=eigenbedarf) | N/A |
 | 10 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
 | 11 | [isabel garcia](http://twitter.com/search?q=isabel+garcia) | N/A |
 | 12 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
-| 13 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 13 | [mieter](http://twitter.com/search?q=mieter) | N/A |
 | 14 | [sitz](http://twitter.com/search?q=sitz) | N/A |
 | 15 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
 | 16 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
@@ -60,7 +60,7 @@ This is top 50 for [Switzerland](</Switzerland>)
 | 43 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
 | 44 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
 | 45 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 46 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
+| 46 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
 
 
 

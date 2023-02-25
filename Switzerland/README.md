@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Switzerland
 
-📆 Last Updated: `2023-02-25 01:44:42 UTC`
+📆 Last Updated: `2023-02-25 02:41:39 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,22 +15,22 @@ This is top 50 for Switzerland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
-| 2 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 1 | [#StandWithUkraine](http://twitter.com/search?q=%23StandWithUkraine) | N/A |
+| 2 | [#srfarena](http://twitter.com/search?q=%23srfarena) | N/A |
 | 3 | [Gemeinde](http://twitter.com/search?q=Gemeinde) | N/A |
 | 4 | [#UECL](http://twitter.com/search?q=%23UECL) | N/A |
-| 5 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
-| 6 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
-| 7 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
+| 5 | [#Cesar2023](http://twitter.com/search?q=%23Cesar2023) | N/A |
+| 6 | [Di Maria](http://twitter.com/search?q=Di+Maria) | Di Maria is a Spanish surname. It is derived from the Latin phrase de Maria, which means "of Mary". The name is often associated with the Virgin Mary, and it is a common name among Catholics in Spain and Latin America. |
+| 7 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
 | 8 | [Ukrainiens](http://twitter.com/search?q=Ukrainiens) | N/A |
 | 9 | [gefährliches gerede](http://twitter.com/search?q=gef%c3%a4hrliches+gerede) | N/A |
 | 10 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
 | 11 | [Lewandowski](http://twitter.com/search?q=Lewandowski) | Lewandowski is a Polish surname. It is derived from the given name Lew, which is a shortened form of the Slavic name Lewon or Leon. The meaning of the name is "lion-like" or "brave as a lion". |
-| 12 | [Eigenbedarf](http://twitter.com/search?q=Eigenbedarf) | N/A |
+| 12 | [eigenbedarf](http://twitter.com/search?q=eigenbedarf) | N/A |
 | 13 | [Flüchtlinge](http://twitter.com/search?q=Fl%c3%bcchtlinge) | N/A |
 | 14 | [isabel garcia](http://twitter.com/search?q=isabel+garcia) | N/A |
 | 15 | [Solidarität](http://twitter.com/search?q=Solidarit%c3%a4t) | N/A |
-| 16 | [Mieter](http://twitter.com/search?q=Mieter) | N/A |
+| 16 | [mieter](http://twitter.com/search?q=mieter) | N/A |
 | 17 | [sitz](http://twitter.com/search?q=sitz) | N/A |
 | 18 | [Köppel](http://twitter.com/search?q=K%c3%b6ppel) | N/A |
 | 19 | [Wechsel](http://twitter.com/search?q=Wechsel) | N/A |
@@ -47,12 +47,12 @@ This is top 50 for Switzerland
 | 30 | [Bâle](http://twitter.com/search?q=B%c3%a2le) | N/A |
 | 31 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 32 | [Optimism](http://twitter.com/search?q=Optimism) | N/A |
-| 33 | [diplomatie](http://twitter.com/search?q=diplomatie) | N/A |
+| 33 | [Diplomatie](http://twitter.com/search?q=Diplomatie) | N/A |
 | 34 | [Rennes](http://twitter.com/search?q=Rennes) | Rennes is a city in Brittany, France. It is the capital of the region and the historic province of Brittany. The name Rennes comes from the Celtic word "redon" which means "fortified place". In English, Rennes means "fortified place". |
 | 35 | [Berichterstattung](http://twitter.com/search?q=Berichterstattung) | N/A |
 | 36 | [Monaco](http://twitter.com/search?q=Monaco) | N/A |
 | 37 | [Luna](http://twitter.com/search?q=Luna) | N/A |
-| 38 | [Vorgehen](http://twitter.com/search?q=Vorgehen) | N/A |
+| 38 | [vorgehen](http://twitter.com/search?q=vorgehen) | N/A |
 | 39 | [Tories](http://twitter.com/search?q=Tories) | N/A |
 | 40 | [Fokus](http://twitter.com/search?q=Fokus) | N/A |
 | 41 | [Velo](http://twitter.com/search?q=Velo) | N/A |
@@ -63,8 +63,8 @@ This is top 50 for Switzerland
 | 46 | [Mittag](http://twitter.com/search?q=Mittag) | N/A |
 | 47 | [Resultat](http://twitter.com/search?q=Resultat) | N/A |
 | 48 | [Orban](http://twitter.com/search?q=Orban) | N/A |
-| 49 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
-| 50 | [Wohnraum](http://twitter.com/search?q=Wohnraum) | N/A |
+| 49 | [Tunisie](http://twitter.com/search?q=Tunisie) | N/A |
+| 50 | [Polygon](http://twitter.com/search?q=Polygon) | N/A |
 
 
 

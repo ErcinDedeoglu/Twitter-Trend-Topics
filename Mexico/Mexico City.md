@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Mexico City
 
-📆 Last Updated: `2023-02-25 01:43:54 UTC`
+📆 Last Updated: `2023-02-25 02:40:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Mexico](</Mexico>)
 | 1 | [Banamex](http://twitter.com/search?q=Banamex) | N/A |
 | 2 | [#ContingenciaAmbiental](http://twitter.com/search?q=%23ContingenciaAmbiental) | N/A |
 | 3 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
-| 4 | [#Ucrania](http://twitter.com/search?q=%23Ucrania) | N/A |
-| 5 | [#FelizViernesATodos](http://twitter.com/search?q=%23FelizViernesATodos) | N/A |
-| 6 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
-| 7 | [Anáhuac](http://twitter.com/search?q=An%c3%a1huac) | N/A |
-| 8 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
-| 9 | [#MinistraDoblePirata](http://twitter.com/search?q=%23MinistraDoblePirata) | N/A |
-| 10 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 11 | [#MiSecreto](http://twitter.com/search?q=%23MiSecreto) | N/A |
+| 4 | [#24DeFebrero](http://twitter.com/search?q=%2324DeFebrero) | N/A |
+| 5 | [Rosario Robles](http://twitter.com/search?q=Rosario+Robles) | N/A |
+| 6 | [Anáhuac](http://twitter.com/search?q=An%c3%a1huac) | N/A |
+| 7 | [#quackityfanart](http://twitter.com/search?q=%23quackityfanart) | N/A |
+| 8 | [YOU ARE THE STAR MATI](http://twitter.com/search?q=YOU+ARE+THE+STAR+MATI) | N/A |
+| 9 | [Estafa Maestra](http://twitter.com/search?q=Estafa+Maestra) | N/A |
+| 10 | [#MinistraDoblePirata](http://twitter.com/search?q=%23MinistraDoblePirata) | N/A |
+| 11 | [Marcial Maciel](http://twitter.com/search?q=Marcial+Maciel) | N/A |
 | 12 | [UNAM](http://twitter.com/search?q=UNAM) | UNAM stands for the Universidad Nacional Autónoma de México, which is the National Autonomous University of Mexico. It is a public research university located in Mexico City and is one of the most prestigious universities in Latin America. |
-| 13 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
-| 14 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
-| 15 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 16 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
-| 17 | [Marcial Maciel](http://twitter.com/search?q=Marcial+Maciel) | N/A |
+| 13 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 14 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 15 | [Yasmín Esquivel](http://twitter.com/search?q=Yasm%c3%adn+Esquivel) | Yasmín Esquivel is a Spanish name. It is composed of two words: Yasmín, which is a variant of the name Jasmine, and Esquivel, which is a Spanish surname meaning "one who evades or avoids". In English, the name would mean "Jasmine Evader". |
+| 16 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
+| 17 | [Depeche Mode](http://twitter.com/search?q=Depeche+Mode) | Depeche Mode is an English electronic music band formed in 1980. The name is derived from a French fashion magazine, "Dépêche Mode", which means "Fashion Dispatch" in English. The band has released 14 studio albums and over 50 singles, and has sold over 100 million records worldwide. |
 | 18 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
 | 19 | [Nuevo León](http://twitter.com/search?q=Nuevo+Le%c3%b3n) | N/A |
-| 20 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
-| 21 | [Natalia](http://twitter.com/search?q=Natalia) | N/A |
-| 22 | [Chayo](http://twitter.com/search?q=Chayo) | N/A |
-| 23 | [Mora](http://twitter.com/search?q=Mora) | N/A |
-| 24 | [Fulham](http://twitter.com/search?q=Fulham) | Fulham is a district in the London Borough of Hammersmith and Fulham, located in southwest London. It is an affluent area known for its Victorian architecture, green spaces, and vibrant nightlife. The name Fulham is derived from the Old English words 'fuhl' and 'ham', meaning "place by the mud flats". |
-| 25 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
-| 26 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 27 | [Gorillaz](http://twitter.com/search?q=Gorillaz) | Gorillaz is a virtual band created in 1998 by British musician Damon Albarn and artist Jamie Hewlett. The band consists of four animated members: 2D, Murdoc Niccals, Noodle, and Russel Hobbs. The band's music is a mix of alternative rock, hip hop, electronic, and pop music. The name "Gorillaz" is a combination of the words "gorilla" and "cartoons". |
-| 28 | [Elche](http://twitter.com/search?q=Elche) | Elche is a city in the Valencian Community of Spain. It is located in the province of Alicante, on the Costa Blanca. The name Elche comes from the Arabic term al-xarq, meaning "the wall". In English, Elche can be translated to mean "the walled city". |
-| 29 | [Cinemex](http://twitter.com/search?q=Cinemex) | N/A |
-| 30 | [Desarrollo Social](http://twitter.com/search?q=Desarrollo+Social) | N/A |
-| 31 | [Valle de México](http://twitter.com/search?q=Valle+de+M%c3%a9xico) | N/A |
-| 32 | [Jueces](http://twitter.com/search?q=Jueces) | N/A |
-| 33 | [Citas](http://twitter.com/search?q=Citas) | N/A |
-| 34 | [Doctorado](http://twitter.com/search?q=Doctorado) | N/A |
-| 35 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
-| 36 | [Cinépolis Klic](http://twitter.com/search?q=Cin%c3%a9polis+Klic) | N/A |
-| 37 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
-| 38 | [Plagio](http://twitter.com/search?q=Plagio) | N/A |
-| 39 | [Hoy 24](http://twitter.com/search?q=Hoy+24) | N/A |
-| 40 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
-| 41 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
-| 42 | [Tormenta](http://twitter.com/search?q=Tormenta) | N/A |
-| 43 | [Maestría](http://twitter.com/search?q=Maestr%c3%ada) | N/A |
-| 44 | [Damon Albarn](http://twitter.com/search?q=Damon+Albarn) | N/A |
-| 45 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
-| 46 | [#DiaDeLaBandera](http://twitter.com/search?q=%23DiaDeLaBandera) | N/A |
-| 47 | [#MarchaDeLosNarcos](http://twitter.com/search?q=%23MarchaDeLosNarcos) | N/A |
-| 48 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
-| 49 | [#EDC2023](http://twitter.com/search?q=%23EDC2023) | N/A |
-| 50 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 20 | [Poder Judicial](http://twitter.com/search?q=Poder+Judicial) | N/A |
+| 21 | [Chayo](http://twitter.com/search?q=Chayo) | N/A |
+| 22 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
+| 23 | [Doctorado](http://twitter.com/search?q=Doctorado) | N/A |
+| 24 | [Cinemex](http://twitter.com/search?q=Cinemex) | N/A |
+| 25 | [Natalia](http://twitter.com/search?q=Natalia) | N/A |
+| 26 | [Ticketmaster](http://twitter.com/search?q=Ticketmaster) | Ticketmaster is an online ticketing service that allows customers to purchase tickets for events such as concerts, sports games, theater performances, and more. It is one of the largest ticketing companies in the world and is used by millions of people each year. The name Ticketmaster comes from the idea that it is a master of tickets, providing customers with access to a wide variety of events. |
+| 27 | [Citas](http://twitter.com/search?q=Citas) | N/A |
+| 28 | [Cárdenas Palomino](http://twitter.com/search?q=C%c3%a1rdenas+Palomino) | N/A |
+| 29 | [Cinépolis Klic](http://twitter.com/search?q=Cin%c3%a9polis+Klic) | N/A |
+| 30 | [Carmona](http://twitter.com/search?q=Carmona) | N/A |
+| 31 | [Betis](http://twitter.com/search?q=Betis) | Betis is a Spanish football club based in Seville, Spain. The club's full name is Real Betis Balompié, and it is one of the oldest clubs in the country. The name Betis comes from the Roman name for the Guadalquivir River, which runs through Seville. In English, Betis translates to "on the banks of the Guadalquivir". |
+| 32 | [Plagio](http://twitter.com/search?q=Plagio) | N/A |
+| 33 | [Valle de México](http://twitter.com/search?q=Valle+de+M%c3%a9xico) | N/A |
+| 34 | [Suprema Corte](http://twitter.com/search?q=Suprema+Corte) | Suprema Corte is the Spanish term for Supreme Court. It is the highest court in a country's judicial system and is responsible for interpreting and applying the law. In English, it can also be referred to as the High Court or the Supreme Tribunal. |
+| 35 | [Samira](http://twitter.com/search?q=Samira) | N/A |
+| 36 | [Maestría](http://twitter.com/search?q=Maestr%c3%ada) | N/A |
+| 37 | [Piqué](http://twitter.com/search?q=Piqu%c3%a9) | Piqué is a type of fabric made from cotton, wool, or synthetic fibers. It has a raised, textured surface and is often used to make shirts, blazers, and other clothing items. In English, the term piqué means "textured" or "raised." |
+| 38 | [Samuel García](http://twitter.com/search?q=Samuel+Garc%c3%ada) | N/A |
+| 39 | [#MiSecreto](http://twitter.com/search?q=%23MiSecreto) | N/A |
+| 40 | [#DiaDeLaBandera](http://twitter.com/search?q=%23DiaDeLaBandera) | N/A |
+| 41 | [#KoggiEnConvoy](http://twitter.com/search?q=%23KoggiEnConvoy) | N/A |
+| 42 | [#MarchaDeLosNarcos](http://twitter.com/search?q=%23MarchaDeLosNarcos) | N/A |
+| 43 | [#DriveToSurvive5](http://twitter.com/search?q=%23DriveToSurvive5) | N/A |
+| 44 | [#EDC2023](http://twitter.com/search?q=%23EDC2023) | N/A |
+| 45 | [#SCJN](http://twitter.com/search?q=%23SCJN) | N/A |
+| 46 | [#EDCMéxico](http://twitter.com/search?q=%23EDCM%c3%a9xico) | N/A |
+| 47 | [#viernesdeclasicos](http://twitter.com/search?q=%23viernesdeclasicos) | N/A |
+| 48 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 49 | [#YoSiVoyAlZocalo](http://twitter.com/search?q=%23YoSiVoyAlZocalo) | N/A |
+| 50 | [#ROCKY](http://twitter.com/search?q=%23ROCKY) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Auckland
 
-📆 Last Updated: `2023-02-25 01:44:27 UTC`
+📆 Last Updated: `2023-02-25 02:41:24 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,16 +15,16 @@ This is top 50 for [New Zealand](</New Zealand>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
-| 2 | [#CRUvCHI](http://twitter.com/search?q=%23CRUvCHI) | N/A |
-| 3 | [#CCMvWEL](http://twitter.com/search?q=%23CCMvWEL) | N/A |
-| 4 | [Three Waters](http://twitter.com/search?q=Three+Waters) | N/A |
+| 1 | [Councils](http://twitter.com/search?q=Councils) | N/A |
+| 2 | [Crusaders](http://twitter.com/search?q=Crusaders) | N/A |
+| 3 | [#CRUvCHI](http://twitter.com/search?q=%23CRUvCHI) | N/A |
+| 4 | [#CCMvWEL](http://twitter.com/search?q=%23CCMvWEL) | N/A |
 | 5 | [#TeMatatini2023](http://twitter.com/search?q=%23TeMatatini2023) | N/A |
-| 6 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 7 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
-| 8 | [Councils](http://twitter.com/search?q=Councils) | N/A |
-| 9 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
-| 10 | [#NZLvENG](http://twitter.com/search?q=%23NZLvENG) | N/A |
+| 6 | [3 Waters](http://twitter.com/search?q=3+Waters) | N/A |
+| 7 | [Three Waters](http://twitter.com/search?q=Three+Waters) | N/A |
+| 8 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 9 | [#NZLvENG](http://twitter.com/search?q=%23NZLvENG) | N/A |
+| 10 | [Chiefs](http://twitter.com/search?q=Chiefs) | Chiefs is a term used to refer to leaders or rulers. It is often used to describe the head of a tribe, clan, or other group. In English, it can also be used to refer to someone in a position of authority or power. |
 | 11 | [Waihi](http://twitter.com/search?q=Waihi) | N/A |
 | 12 | [Mangawhai](http://twitter.com/search?q=Mangawhai) | N/A |
 | 13 | [Census](http://twitter.com/search?q=Census) | N/A |
@@ -47,24 +47,24 @@ This is top 50 for [New Zealand](</New Zealand>)
 | 30 | [Root](http://twitter.com/search?q=Root) | N/A |
 | 31 | [Soooo](http://twitter.com/search?q=Soooo) | N/A |
 | 32 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 33 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
-| 34 | [Judith](http://twitter.com/search?q=Judith) | N/A |
+| 33 | [Judith Collins](http://twitter.com/search?q=Judith+Collins) | N/A |
+| 34 | [Afghanistan](http://twitter.com/search?q=Afghanistan) | N/A |
 | 35 | [Middle East](http://twitter.com/search?q=Middle+East) | N/A |
 | 36 | [Blocked](http://twitter.com/search?q=Blocked) | N/A |
 | 37 | [Doctor](http://twitter.com/search?q=Doctor) | N/A |
-| 38 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 39 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 38 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 39 | [Barca](http://twitter.com/search?q=Barca) | N/A |
 | 40 | [Adams](http://twitter.com/search?q=Adams) | N/A |
 | 41 | [Phil](http://twitter.com/search?q=Phil) | Phil is short for the name Philip, which is a male given name of Greek origin meaning "lover of horses". |
-| 42 | [Simeon](http://twitter.com/search?q=Simeon) | N/A |
-| 43 | [False](http://twitter.com/search?q=False) | N/A |
-| 44 | [Tāmaki Makaurau](http://twitter.com/search?q=T%c4%81maki+Makaurau) | N/A |
-| 45 | [Basin Reserve](http://twitter.com/search?q=Basin+Reserve) | N/A |
-| 46 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
-| 47 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 48 | [Muller](http://twitter.com/search?q=Muller) | N/A |
-| 49 | [Jake](http://twitter.com/search?q=Jake) | N/A |
-| 50 | [Craig](http://twitter.com/search?q=Craig) | N/A |
+| 42 | [False](http://twitter.com/search?q=False) | N/A |
+| 43 | [Tāmaki Makaurau](http://twitter.com/search?q=T%c4%81maki+Makaurau) | N/A |
+| 44 | [Basin Reserve](http://twitter.com/search?q=Basin+Reserve) | N/A |
+| 45 | [Iraq](http://twitter.com/search?q=Iraq) | N/A |
+| 46 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 47 | [Jake](http://twitter.com/search?q=Jake) | N/A |
+| 48 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 49 | [Craig](http://twitter.com/search?q=Craig) | N/A |
+| 50 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
 
 
 

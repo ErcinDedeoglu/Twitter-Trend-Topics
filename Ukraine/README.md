@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Ukraine
 
-📆 Last Updated: `2023-02-25 01:44:42 UTC`
+📆 Last Updated: `2023-02-25 02:41:40 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,7 +24,7 @@ This is top 50 for Ukraine
 | 7 | [тирасполь](http://twitter.com/search?q=%d1%82%d0%b8%d1%80%d0%b0%d1%81%d0%bf%d0%be%d0%bb%d1%8c) | N/A |
 | 8 | [Taiwan](http://twitter.com/search?q=Taiwan) | N/A |
 | 9 | [#LunarNewYearTSB](http://twitter.com/search?q=%23LunarNewYearTSB) | N/A |
-| 10 | [Читаю](http://twitter.com/search?q=%d0%a7%d0%b8%d1%82%d0%b0%d1%8e) | N/A |
+| 10 | [читаю](http://twitter.com/search?q=%d1%87%d0%b8%d1%82%d0%b0%d1%8e) | N/A |
 | 11 | [#RussiaIsLosing](http://twitter.com/search?q=%23RussiaIsLosing) | N/A |
 | 12 | [Hostomel](http://twitter.com/search?q=Hostomel) | N/A |
 | 13 | [Приднестровье](http://twitter.com/search?q=%d0%9f%d1%80%d0%b8%d0%b4%d0%bd%d0%b5%d1%81%d1%82%d1%80%d0%be%d0%b2%d1%8c%d0%b5) | N/A |
@@ -38,20 +38,20 @@ This is top 50 for Ukraine
 | 21 | [The Legend of Sword and Fairy](http://twitter.com/search?q=The+Legend+of+Sword+and+Fairy) | N/A |
 | 22 | [Зеленскому](http://twitter.com/search?q=%d0%97%d0%b5%d0%bb%d0%b5%d0%bd%d1%81%d0%ba%d0%be%d0%bc%d1%83) | N/A |
 | 23 | [Star Team in PCCW HKT Futurera](http://twitter.com/search?q=Star+Team+in+PCCW+HKT+Futurera) | N/A |
-| 24 | [обсе](http://twitter.com/search?q=%d0%be%d0%b1%d1%81%d0%b5) | N/A |
-| 25 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
-| 26 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
+| 24 | [Mystery](http://twitter.com/search?q=Mystery) | N/A |
+| 25 | [обсе](http://twitter.com/search?q=%d0%be%d0%b1%d1%81%d0%b5) | N/A |
+| 26 | [Independence Day](http://twitter.com/search?q=Independence+Day) | N/A |
 | 27 | [UN Charter](http://twitter.com/search?q=UN+Charter) | N/A |
 | 28 | [Delivery Robot in Next Station](http://twitter.com/search?q=Delivery+Robot+in+Next+Station) | N/A |
-| 29 | [$Time](http://twitter.com/search?q=%24Time) | N/A |
-| 30 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
-| 31 | [Порошенко](http://twitter.com/search?q=%d0%9f%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 29 | [Порошенко](http://twitter.com/search?q=%d0%9f%d0%be%d1%80%d0%be%d1%88%d0%b5%d0%bd%d0%ba%d0%be) | N/A |
+| 30 | [$time](http://twitter.com/search?q=%24time) | N/A |
+| 31 | [Armed Forces](http://twitter.com/search?q=Armed+Forces) | N/A |
 | 32 | [Bucha](http://twitter.com/search?q=Bucha) | N/A |
 | 33 | [#shakhtar](http://twitter.com/search?q=%23shakhtar) | N/A |
 | 34 | [Франции](http://twitter.com/search?q=%d0%a4%d1%80%d0%b0%d0%bd%d1%86%d0%b8%d0%b8) | N/A |
 | 35 | [Britain](http://twitter.com/search?q=Britain) | N/A |
 | 36 | [Днепр](http://twitter.com/search?q=%d0%94%d0%bd%d0%b5%d0%bf%d1%80) | N/A |
-| 37 | [чувак](http://twitter.com/search?q=%d1%87%d1%83%d0%b2%d0%b0%d0%ba) | N/A |
+| 37 | [Чувак](http://twitter.com/search?q=%d0%a7%d1%83%d0%b2%d0%b0%d0%ba) | N/A |
 | 38 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
 | 39 | [Харькове](http://twitter.com/search?q=%d0%a5%d0%b0%d1%80%d1%8c%d0%ba%d0%be%d0%b2%d0%b5) | N/A |
 | 40 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |

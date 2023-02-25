@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Egypt
 
-📆 Last Updated: `2023-02-25 01:44:37 UTC`
+📆 Last Updated: `2023-02-25 02:41:34 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -30,8 +30,8 @@ This is top 50 for Egypt
 | 13 | [علي القطن](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%82%d8%b7%d9%86) | N/A |
 | 14 | [دوري الموتمرات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d9%88%d8%aa%d9%85%d8%b1%d8%a7%d8%aa) | N/A |
 | 15 | [الفراخ البرازيلي](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%a7%d8%ae+%d8%a7%d9%84%d8%a8%d8%b1%d8%a7%d8%b2%d9%8a%d9%84%d9%8a) | N/A |
-| 16 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
-| 17 | [السويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b3) | N/A |
+| 16 | [السويس](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d9%88%d9%8a%d8%b3) | N/A |
+| 17 | [علي النبي](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a7%d9%84%d9%86%d8%a8%d9%8a) | "علي النبي" is an Arabic phrase that translates to "upon the Prophet". It is used as a blessing or invocation of peace and blessings upon the Prophet Muhammad. |
 | 18 | [علي تونس](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%aa%d9%88%d9%86%d8%b3) | N/A |
 | 19 | [روبن هود](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%86+%d9%87%d9%88%d8%af) | N/A |
 | 20 | [مكتب البريد](http://twitter.com/search?q=%d9%85%d9%83%d8%aa%d8%a8+%d8%a7%d9%84%d8%a8%d8%b1%d9%8a%d8%af) | N/A |
@@ -41,26 +41,26 @@ This is top 50 for Egypt
 | 24 | [ريال بيتيس](http://twitter.com/search?q=%d8%b1%d9%8a%d8%a7%d9%84+%d8%a8%d9%8a%d8%aa%d9%8a%d8%b3) | N/A |
 | 25 | [شمس الخميس](http://twitter.com/search?q=%d8%b4%d9%85%d8%b3+%d8%a7%d9%84%d8%ae%d9%85%d9%8a%d8%b3) | N/A |
 | 26 | [السطو المسلح](http://twitter.com/search?q=%d8%a7%d9%84%d8%b3%d8%b7%d9%88+%d8%a7%d9%84%d9%85%d8%b3%d9%84%d8%ad) | N/A |
-| 27 | [يارا المحلاوي](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b1%d8%a7+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d8%a7%d9%88%d9%8a) | N/A |
-| 28 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
-| 29 | [طويل العتب](http://twitter.com/search?q=%d8%b7%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%b9%d8%aa%d8%a8) | N/A |
-| 30 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
-| 31 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 27 | [تشافي](http://twitter.com/search?q=%d8%aa%d8%b4%d8%a7%d9%81%d9%8a) | تشافي is an Arabic word that means "enjoyment" or "pleasure". In English, it can be translated as "having a good time" or "having fun". |
+| 28 | [طويل العتب](http://twitter.com/search?q=%d8%b7%d9%88%d9%8a%d9%84+%d8%a7%d9%84%d8%b9%d8%aa%d8%a8) | N/A |
+| 29 | [برونو](http://twitter.com/search?q=%d8%a8%d8%b1%d9%88%d9%86%d9%88) | برونو is a Persian word that means "outside". |
+| 30 | [روبيرتو](http://twitter.com/search?q=%d8%b1%d9%88%d8%a8%d9%8a%d8%b1%d8%aa%d9%88) | N/A |
+| 31 | [يارا المحلاوي](http://twitter.com/search?q=%d9%8a%d8%a7%d8%b1%d8%a7+%d8%a7%d9%84%d9%85%d8%ad%d9%84%d8%a7%d9%88%d9%8a) | N/A |
 | 32 | [شتيجن](http://twitter.com/search?q=%d8%b4%d8%aa%d9%8a%d8%ac%d9%86) | N/A |
 | 33 | [الفرخه المصريه](http://twitter.com/search?q=%d8%a7%d9%84%d9%81%d8%b1%d8%ae%d9%87+%d8%a7%d9%84%d9%85%d8%b5%d8%b1%d9%8a%d9%87) | N/A |
 | 34 | [ليفاندوفسكي](http://twitter.com/search?q=%d9%84%d9%8a%d9%81%d8%a7%d9%86%d8%af%d9%88%d9%81%d8%b3%d9%83%d9%8a) | N/A |
 | 35 | [نانت](http://twitter.com/search?q=%d9%86%d8%a7%d9%86%d8%aa) | N/A |
 | 36 | [جمال مبارك](http://twitter.com/search?q=%d8%ac%d9%85%d8%a7%d9%84+%d9%85%d8%a8%d8%a7%d8%b1%d9%83) | N/A |
-| 37 | [كابتن محمود الخطيب](http://twitter.com/search?q=%d9%83%d8%a7%d8%a8%d8%aa%d9%86+%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
-| 38 | [الشياكه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%a7%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
-| 39 | [القمر الصناعي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
-| 40 | [فوز الاهلي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
-| 41 | [24 فبراير 2023](http://twitter.com/search?q=24+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
-| 42 | [علي بلوزداد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
+| 37 | [القمر الصناعي](http://twitter.com/search?q=%d8%a7%d9%84%d9%82%d9%85%d8%b1+%d8%a7%d9%84%d8%b5%d9%86%d8%a7%d8%b9%d9%8a) | N/A |
+| 38 | [فوز الاهلي](http://twitter.com/search?q=%d9%81%d9%88%d8%b2+%d8%a7%d9%84%d8%a7%d9%87%d9%84%d9%8a) | N/A |
+| 39 | [24 فبراير 2023](http://twitter.com/search?q=24+%d9%81%d8%a8%d8%b1%d8%a7%d9%8a%d8%b1+2023) | N/A |
+| 40 | [علي بلوزداد](http://twitter.com/search?q=%d8%b9%d9%84%d9%8a+%d8%a8%d9%84%d9%88%d8%b2%d8%af%d8%a7%d8%af) | N/A |
+| 41 | [الشياكه المستدامه](http://twitter.com/search?q=%d8%a7%d9%84%d8%b4%d9%8a%d8%a7%d9%83%d9%87+%d8%a7%d9%84%d9%85%d8%b3%d8%aa%d8%af%d8%a7%d9%85%d9%87) | N/A |
+| 42 | [كابتن محمود الخطيب](http://twitter.com/search?q=%d9%83%d8%a7%d8%a8%d8%aa%d9%86+%d9%85%d8%ad%d9%85%d9%88%d8%af+%d8%a7%d9%84%d8%ae%d8%b7%d9%8a%d8%a8) | N/A |
 | 43 | [دوري المجموعات](http://twitter.com/search?q=%d8%af%d9%88%d8%b1%d9%8a+%d8%a7%d9%84%d9%85%d8%ac%d9%85%d9%88%d8%b9%d8%a7%d8%aa) | N/A |
-| 44 | [أوكرانيا](http://twitter.com/search?q=%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
-| 45 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
-| 46 | [غير الفوز](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 44 | [روسيا](http://twitter.com/search?q=%d8%b1%d9%88%d8%b3%d9%8a%d8%a7) | N/A |
+| 45 | [غير الفوز](http://twitter.com/search?q=%d8%ba%d9%8a%d8%b1+%d8%a7%d9%84%d9%81%d9%88%d8%b2) | N/A |
+| 46 | [أوكرانيا](http://twitter.com/search?q=%d8%a3%d9%88%d9%83%d8%b1%d8%a7%d9%86%d9%8a%d8%a7) | N/A |
 | 47 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
 | 48 | [JINNYS KITCHEN WITH V TODAY](http://twitter.com/search?q=JINNYS+KITCHEN+WITH+V+TODAY) | N/A |
 | 49 | [لشبونة](http://twitter.com/search?q=%d9%84%d8%b4%d8%a8%d9%88%d9%86%d8%a9) | N/A |

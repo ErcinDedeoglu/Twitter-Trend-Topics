@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Riga
 
-📆 Last Updated: `2023-02-25 01:44:08 UTC`
+📆 Last Updated: `2023-02-25 02:41:03 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -43,15 +43,15 @@ This is top 50 for [Latvia](</Latvia>)
 | 26 | [Sveiks](http://twitter.com/search?q=Sveiks) | N/A |
 | 27 | [skaidrs](http://twitter.com/search?q=skaidrs) | N/A |
 | 28 | [helmanis](http://twitter.com/search?q=helmanis) | N/A |
-| 29 | [Domā](http://twitter.com/search?q=Dom%c4%81) | N/A |
+| 29 | [domā](http://twitter.com/search?q=dom%c4%81) | N/A |
 | 30 | [turcijas](http://twitter.com/search?q=turcijas) | N/A |
 | 31 | [vienmēr](http://twitter.com/search?q=vienm%c4%93r) | N/A |
-| 32 | [Reinis](http://twitter.com/search?q=Reinis) | N/A |
+| 32 | [reinis](http://twitter.com/search?q=reinis) | N/A |
 | 33 | [avenu](http://twitter.com/search?q=avenu) | N/A |
 | 34 | [rīta panorāmā](http://twitter.com/search?q=r%c4%abta+panor%c4%81m%c4%81) | N/A |
 | 35 | [eiropas savienības](http://twitter.com/search?q=eiropas+savien%c4%abbas) | N/A |
 | 36 | [Pats](http://twitter.com/search?q=Pats) | Pats is a slang term used to refer to someone who is being praised or congratulated. It can also be used as a verb, meaning to give someone praise or congratulations. |
-| 37 | [moldova](http://twitter.com/search?q=moldova) | N/A |
+| 37 | [Moldova](http://twitter.com/search?q=Moldova) | N/A |
 | 38 | [Украины](http://twitter.com/search?q=%d0%a3%d0%ba%d1%80%d0%b0%d0%b8%d0%bd%d1%8b) | N/A |
 | 39 | [rietumu](http://twitter.com/search?q=rietumu) | N/A |
 | 40 | [Pozņakam](http://twitter.com/search?q=Poz%c5%86akam) | N/A |
@@ -61,7 +61,7 @@ This is top 50 for [Latvia](</Latvia>)
 | 44 | [Боже](http://twitter.com/search?q=%d0%91%d0%be%d0%b6%d0%b5) | N/A |
 | 45 | [skaisti](http://twitter.com/search?q=skaisti) | N/A |
 | 46 | [izklausās](http://twitter.com/search?q=izklaus%c4%81s) | N/A |
-| 47 | [Saeimas](http://twitter.com/search?q=Saeimas) | N/A |
+| 47 | [saeimas](http://twitter.com/search?q=saeimas) | N/A |
 | 48 | [China](http://twitter.com/search?q=China) | China is a country in East Asia. It is the world's most populous country, with a population of over 1.4 billion people. The official name of the country is the People's Republic of China. In English, China can refer to either the country or its culture. |
 | 49 | [ADHD](http://twitter.com/search?q=ADHD) | N/A |
 | 50 | [#teirdarbs](http://twitter.com/search?q=%23teirdarbs) | N/A |
