@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Bologna
 
-📆 Last Updated: `2023-02-25 20:15:46 UTC`
+📆 Last Updated: `2023-02-25 21:15:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [Italy](</Italy>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#EmpoliNapoli](http://twitter.com/search?q=%23EmpoliNapoli) | N/A |
-| 2 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
-| 3 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
-| 4 | [#25febbraio](http://twitter.com/search?q=%2325febbraio) | N/A |
-| 5 | [#leredita](http://twitter.com/search?q=%23leredita) | N/A |
-| 6 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
-| 7 | [Russia](http://twitter.com/search?q=Russia) | N/A |
-| 8 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
-| 9 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
-| 10 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
-| 11 | [Ivan Capelli](http://twitter.com/search?q=Ivan+Capelli) | N/A |
-| 12 | [Caputo](http://twitter.com/search?q=Caputo) | N/A |
-| 13 | [Zielinski](http://twitter.com/search?q=Zielinski) | N/A |
-| 14 | [Luca Laurenti](http://twitter.com/search?q=Luca+Laurenti) | N/A |
-| 15 | [Ayroldi](http://twitter.com/search?q=Ayroldi) | N/A |
-| 16 | [Preside](http://twitter.com/search?q=Preside) | N/A |
-| 17 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
-| 18 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
-| 19 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
-| 20 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
-| 21 | [Ingroia](http://twitter.com/search?q=Ingroia) | N/A |
-| 22 | [Anguissa](http://twitter.com/search?q=Anguissa) | N/A |
-| 23 | [NATO](http://twitter.com/search?q=NATO) | N/A |
-| 24 | [Cina](http://twitter.com/search?q=Cina) | N/A |
-| 25 | [Ichnusa](http://twitter.com/search?q=Ichnusa) | N/A |
-| 26 | [Landini](http://twitter.com/search?q=Landini) | N/A |
-| 27 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
-| 28 | [Castellani](http://twitter.com/search?q=Castellani) | N/A |
-| 29 | [Elmas](http://twitter.com/search?q=Elmas) | N/A |
-| 30 | [Jared](http://twitter.com/search?q=Jared) | N/A |
-| 31 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
+| 1 | [#UnaVocePerSanMarino](http://twitter.com/search?q=%23UnaVocePerSanMarino) | N/A |
+| 2 | [#EmpoliNapoli](http://twitter.com/search?q=%23EmpoliNapoli) | N/A |
+| 3 | [#MaurizioCostanzo](http://twitter.com/search?q=%23MaurizioCostanzo) | N/A |
+| 4 | [#taleequalesanremo](http://twitter.com/search?q=%23taleequalesanremo) | N/A |
+| 5 | [Mario Rui](http://twitter.com/search?q=Mario+Rui) | N/A |
+| 6 | [Davide](http://twitter.com/search?q=Davide) | N/A |
+| 7 | [Al Bano](http://twitter.com/search?q=Al+Bano) | N/A |
+| 8 | [Russia](http://twitter.com/search?q=Russia) | N/A |
+| 9 | [Murgia](http://twitter.com/search?q=Murgia) | Murgia is a geographical region in southern Italy, located in the provinces of Bari and Taranto. It is characterized by its limestone hills, deep ravines, and caves. The name Murgia comes from the Latin word murex, meaning "rocky hill". In English, Murgia can be translated as "rocky land". |
+| 10 | [Jonathan](http://twitter.com/search?q=Jonathan) | N/A |
+| 11 | [Costituzione](http://twitter.com/search?q=Costituzione) | N/A |
+| 12 | [Rosy Bindi](http://twitter.com/search?q=Rosy+Bindi) | N/A |
+| 13 | [Grattugia](http://twitter.com/search?q=Grattugia) | N/A |
+| 14 | [Travaglio](http://twitter.com/search?q=Travaglio) | N/A |
+| 15 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 16 | [Ivan Capelli](http://twitter.com/search?q=Ivan+Capelli) | N/A |
+| 17 | [Roy Paci](http://twitter.com/search?q=Roy+Paci) | N/A |
+| 18 | [Caputo](http://twitter.com/search?q=Caputo) | N/A |
+| 19 | [Ayroldi](http://twitter.com/search?q=Ayroldi) | N/A |
+| 20 | [Agnelli](http://twitter.com/search?q=Agnelli) | N/A |
+| 21 | [Luca Laurenti](http://twitter.com/search?q=Luca+Laurenti) | N/A |
+| 22 | [Heineken](http://twitter.com/search?q=Heineken) | N/A |
+| 23 | [Ucraina](http://twitter.com/search?q=Ucraina) | N/A |
+| 24 | [Buon Sabato](http://twitter.com/search?q=Buon+Sabato) | N/A |
+| 25 | [Landini](http://twitter.com/search?q=Landini) | N/A |
+| 26 | [Thomas](http://twitter.com/search?q=Thomas) | N/A |
+| 27 | [Preside](http://twitter.com/search?q=Preside) | N/A |
+| 28 | [Ingroia](http://twitter.com/search?q=Ingroia) | N/A |
+| 29 | [Mogol](http://twitter.com/search?q=Mogol) | N/A |
+| 30 | [Celentano](http://twitter.com/search?q=Celentano) | N/A |
+| 31 | [Cina](http://twitter.com/search?q=Cina) | N/A |
 | 32 | [Capezzone](http://twitter.com/search?q=Capezzone) | N/A |
-| 33 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
-| 34 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
-| 35 | [Nuoro](http://twitter.com/search?q=Nuoro) | N/A |
-| 36 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 37 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 38 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
-| 39 | [Donbass](http://twitter.com/search?q=Donbass) | N/A |
-| 40 | [Campidoglio](http://twitter.com/search?q=Campidoglio) | N/A |
-| 41 | [Jensen](http://twitter.com/search?q=Jensen) | N/A |
-| 42 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
-| 43 | [Oriana](http://twitter.com/search?q=Oriana) | Oriana is a female given name of Latin origin, derived from the Latin word for "dawn". It is also associated with the Greek goddess Aurora. The name is often used as a variant of the name Oriane, which has French origins. |
-| 44 | [Aston Martin](http://twitter.com/search?q=Aston+Martin) | N/A |
-| 45 | [Grimaldi](http://twitter.com/search?q=Grimaldi) | N/A |
-| 46 | [Victor](http://twitter.com/search?q=Victor) | N/A |
-| 47 | [Friburgo](http://twitter.com/search?q=Friburgo) | N/A |
-| 48 | [Badu](http://twitter.com/search?q=Badu) | N/A |
-| 49 | [Misha](http://twitter.com/search?q=Misha) | N/A |
+| 33 | [Ichnusa](http://twitter.com/search?q=Ichnusa) | N/A |
+| 34 | [L'antifascismo](http://twitter.com/search?q=L%27antifascismo) | N/A |
+| 35 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 36 | [Sordi](http://twitter.com/search?q=Sordi) | N/A |
+| 37 | [Elmas](http://twitter.com/search?q=Elmas) | N/A |
+| 38 | [Vanzini](http://twitter.com/search?q=Vanzini) | N/A |
+| 39 | [Vicario](http://twitter.com/search?q=Vicario) | N/A |
+| 40 | [Castellani](http://twitter.com/search?q=Castellani) | N/A |
+| 41 | [Nuoro](http://twitter.com/search?q=Nuoro) | N/A |
+| 42 | [Ferrari](http://twitter.com/search?q=Ferrari) | Ferrari is an Italian luxury sports car manufacturer based in Maranello, Italy. The company was founded by Enzo Ferrari in 1929 and is known for its high performance vehicles and iconic design. The name Ferrari is synonymous with speed, luxury, and style. |
+| 43 | [Jared](http://twitter.com/search?q=Jared) | N/A |
+| 44 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 45 | [Severgnini](http://twitter.com/search?q=Severgnini) | N/A |
+| 46 | [Gramsci](http://twitter.com/search?q=Gramsci) | N/A |
+| 47 | [Campidoglio](http://twitter.com/search?q=Campidoglio) | N/A |
+| 48 | [Vitti](http://twitter.com/search?q=Vitti) | N/A |
+| 49 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
 
 
 

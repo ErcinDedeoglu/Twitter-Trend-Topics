@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Columbus
 
-📆 Last Updated: `2023-02-25 20:16:12 UTC`
+📆 Last Updated: `2023-02-25 21:16:09 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,55 +15,55 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
-| 2 | [#AllForCincy](http://twitter.com/search?q=%23AllForCincy) | N/A |
-| 3 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
-| 4 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 5 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 6 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
-| 7 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
-| 8 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
-| 9 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
-| 10 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
-| 11 | [Igor](http://twitter.com/search?q=Igor) | N/A |
-| 12 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
-| 13 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 14 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 15 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
-| 16 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 17 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
-| 18 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 19 | [Weston Wilson](http://twitter.com/search?q=Weston+Wilson) | N/A |
-| 20 | [The Martian](http://twitter.com/search?q=The+Martian) | N/A |
-| 21 | [Brett Baty](http://twitter.com/search?q=Brett+Baty) | N/A |
-| 22 | [Byron Jones](http://twitter.com/search?q=Byron+Jones) | N/A |
-| 23 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
-| 24 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
-| 25 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 26 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 27 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
-| 28 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 29 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 30 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 31 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 32 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
-| 33 | [Brendan Donovan](http://twitter.com/search?q=Brendan+Donovan) | N/A |
-| 34 | [Rialto](http://twitter.com/search?q=Rialto) | N/A |
-| 35 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 36 | [SNOWING](http://twitter.com/search?q=SNOWING) | N/A |
+| 1 | [Oilers](http://twitter.com/search?q=Oilers) | Oilers is a nickname for the Edmonton Oilers, a professional ice hockey team based in Edmonton, Alberta, Canada. The team is part of the Pacific Division of the Western Conference in the National Hockey League (NHL). |
+| 2 | [Districts](http://twitter.com/search?q=Districts) | N/A |
+| 3 | [#Crew96](http://twitter.com/search?q=%23Crew96) | N/A |
+| 4 | [#AllForCincy](http://twitter.com/search?q=%23AllForCincy) | N/A |
+| 5 | [#Optimushinu](http://twitter.com/search?q=%23Optimushinu) | N/A |
+| 6 | [#DionexBinance](http://twitter.com/search?q=%23DionexBinance) | N/A |
+| 7 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
+| 8 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 9 | [Fran](http://twitter.com/search?q=Fran) | N/A |
+| 10 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 11 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 12 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
+| 13 | [Henderson](http://twitter.com/search?q=Henderson) | Henderson is a surname of Scottish origin. It is derived from the name Henry, which means "son of Henry". The name Henderson is also used as a given name. |
+| 14 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 15 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 16 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 17 | [WARRIOR NUN CAMPERS](http://twitter.com/search?q=WARRIOR+NUN+CAMPERS) | N/A |
+| 18 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 19 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 20 | [Hendo](http://twitter.com/search?q=Hendo) | Hendo is a slang term derived from the Japanese word "hendou," which means "change." It is often used to refer to a sudden or unexpected change in something, such as a situation or a person's attitude. |
+| 21 | [Arkansas](http://twitter.com/search?q=Arkansas) | Arkansas is a state in the southern United States. It is bordered by Missouri to the north, Tennessee and Mississippi to the east, Louisiana to the south, Texas to the southwest, and Oklahoma to the west. The name Arkansas comes from a French term meaning “downriver people” or “south wind.” |
+| 22 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 23 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 24 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 25 | [Jo Adell](http://twitter.com/search?q=Jo+Adell) | N/A |
+| 26 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
+| 27 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 28 | [Byron Jones](http://twitter.com/search?q=Byron+Jones) | N/A |
+| 29 | [Hogs](http://twitter.com/search?q=Hogs) | N/A |
+| 30 | [Weston Wilson](http://twitter.com/search?q=Weston+Wilson) | N/A |
+| 31 | [Braves](http://twitter.com/search?q=Braves) | N/A |
+| 32 | [The Martian](http://twitter.com/search?q=The+Martian) | N/A |
+| 33 | [Anthony Black](http://twitter.com/search?q=Anthony+Black) | N/A |
+| 34 | [Alvaro Rodriguez](http://twitter.com/search?q=Alvaro+Rodriguez) | N/A |
+| 35 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 36 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
 | 37 | [Jimmy Dykes](http://twitter.com/search?q=Jimmy+Dykes) | N/A |
-| 38 | [Messier](http://twitter.com/search?q=Messier) | N/A |
-| 39 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
-| 40 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
-| 41 | [Bagley](http://twitter.com/search?q=Bagley) | N/A |
-| 42 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 43 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 44 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 45 | [Eric Dixon](http://twitter.com/search?q=Eric+Dixon) | N/A |
-| 46 | [Goodrow](http://twitter.com/search?q=Goodrow) | Goodrow is a surname of German origin. It is derived from the words "gut" and "roh," which mean "good" and "raw," respectively. The name is thought to have been given to someone who was considered to be honest and straightforward. |
-| 47 | [McDavid](http://twitter.com/search?q=McDavid) | McDavid is a brand of sports equipment and apparel, named after the Canadian hockey player Connor McDavid. The company produces protective gear, such as hockey helmets and shoulder pads, as well as clothing and accessories. |
-| 48 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 49 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
+| 38 | [Kravtsov](http://twitter.com/search?q=Kravtsov) | N/A |
+| 39 | [Matip](http://twitter.com/search?q=Matip) | Matip is a term used in the West African language of Fon, which is spoken in Benin and Togo. It means "to help" or "to assist". |
+| 40 | [San Bernardino](http://twitter.com/search?q=San+Bernardino) | N/A |
+| 41 | [Leah Hextall](http://twitter.com/search?q=Leah+Hextall) | N/A |
+| 42 | [Nick Smith](http://twitter.com/search?q=Nick+Smith) | N/A |
+| 43 | [Dale Bonner](http://twitter.com/search?q=Dale+Bonner) | N/A |
+| 44 | [Southern California](http://twitter.com/search?q=Southern+California) | N/A |
+| 45 | [Willson](http://twitter.com/search?q=Willson) | N/A |
+| 46 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
+| 47 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 48 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 49 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
 
 
 

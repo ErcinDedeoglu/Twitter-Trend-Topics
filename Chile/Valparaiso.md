@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Valparaiso
 
-📆 Last Updated: `2023-02-25 20:15:38 UTC`
+📆 Last Updated: `2023-02-25 21:15:33 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,54 +17,54 @@ This is top 50 for [Chile](</Chile>)
 | ------- | ------------ | ------------ |
 | 1 | [Laila Roth](http://twitter.com/search?q=Laila+Roth) | N/A |
 | 2 | [Camilo](http://twitter.com/search?q=Camilo) | N/A |
-| 3 | [Copano](http://twitter.com/search?q=Copano) | N/A |
+| 3 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
 | 4 | [Copano](http://twitter.com/search?q=Copano) | N/A |
-| 5 | [Pailita](http://twitter.com/search?q=Pailita) | Pailita is a traditional Colombian dance that originated in the Caribbean region of Colombia. It is a lively and energetic dance that is usually performed in pairs or groups. The name Pailita comes from the Spanish word for “little basket”, referring to the baskets that are used as props during the dance. In English, Pailita translates to “little basket dance”. |
+| 5 | [Copano](http://twitter.com/search?q=Copano) | N/A |
 | 6 | [Nicki](http://twitter.com/search?q=Nicki) | N/A |
-| 7 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
-| 8 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
-| 9 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
-| 10 | [#ALaRucaConCoolbet](http://twitter.com/search?q=%23ALaRucaConCoolbet) | N/A |
-| 11 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
-| 12 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 13 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 7 | [#ALaRucaConCoolbet](http://twitter.com/search?q=%23ALaRucaConCoolbet) | N/A |
+| 8 | [#VCTHispano](http://twitter.com/search?q=%23VCTHispano) | N/A |
+| 9 | [#VamosLaU](http://twitter.com/search?q=%23VamosLaU) | #VamosLaU is a popular hashtag used by fans of the Universidad de Chile, a Chilean football team. It translates to "Let's go U!" and is used to show support for the team. |
+| 10 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 11 | [#Temblor](http://twitter.com/search?q=%23Temblor) | N/A |
+| 12 | [Christina Aguilera](http://twitter.com/search?q=Christina+Aguilera) | N/A |
+| 13 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
 | 14 | [Atlético](http://twitter.com/search?q=Atl%c3%a9tico) | Atlético is a Spanish word that means "athletic" or "energetic". It is often used to describe someone who is competitive, determined, and passionate. |
-| 15 | [Concepción](http://twitter.com/search?q=Concepci%c3%b3n) | N/A |
-| 16 | [#curvsuchxtntsports](http://twitter.com/search?q=%23curvsuchxtntsports) | N/A |
-| 17 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 18 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
-| 19 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
-| 20 | [Arsenal](http://twitter.com/search?q=Arsenal) | Arsenal is a term used to refer to a collection of weapons, usually military in nature. It can also refer to a place where weapons are stored and maintained. In English, the word “arsenal” is derived from the Italian “arsenale”, which means “workshop” or “manufactory”. |
-| 21 | [Teodoro Schmidt](http://twitter.com/search?q=Teodoro+Schmidt) | N/A |
-| 22 | [Banco](http://twitter.com/search?q=Banco) | N/A |
-| 23 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 24 | [Julián](http://twitter.com/search?q=Juli%c3%a1n) | Julián is a Spanish name derived from the Latin name Julius. It is a masculine given name and can also be used as a surname. In English, it is usually pronounced "Hoo-lee-ahn". |
-| 25 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
-| 26 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
-| 27 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
-| 28 | [Tiene 17](http://twitter.com/search?q=Tiene+17) | N/A |
-| 29 | [INDH](http://twitter.com/search?q=INDH) | N/A |
-| 30 | [El 1](http://twitter.com/search?q=El+1) | N/A |
-| 31 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
-| 32 | [Zavala](http://twitter.com/search?q=Zavala) | Zavala is a Spanish surname derived from the Latin word "zavalus," which means "guardian." It is also a common given name in Spanish-speaking countries. The name is often associated with the Spanish explorer Antonio de Zavala, who was an important figure in the Texas Revolution. |
-| 33 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 34 | [Winnie the Pooh](http://twitter.com/search?q=Winnie+the+Pooh) | N/A |
-| 35 | [Skarleth](http://twitter.com/search?q=Skarleth) | N/A |
-| 36 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
-| 37 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
-| 38 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 39 | [Young Cister](http://twitter.com/search?q=Young+Cister) | Young Cister is a youth movement of the Cistercian Order, a Roman Catholic religious order. The movement was founded in France in 1948 and is open to young people aged between 18 and 35. Its purpose is to promote the values of the Cistercian Order among young people, including prayer, work, and community life. The English translation of Young Cister is "Young Cistercians". |
-| 40 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
-| 41 | [Allende](http://twitter.com/search?q=Allende) | N/A |
-| 42 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
-| 43 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
-| 44 | [Actitud](http://twitter.com/search?q=Actitud) | N/A |
-| 45 | [Vinicius](http://twitter.com/search?q=Vinicius) | Vinicius is a Portuguese name derived from the Roman name Vinicius, which is of unknown meaning. It is also a common surname in Brazil. In English, it can be translated to mean "wine-maker" or "wine-grower". |
-| 46 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
-| 47 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
-| 48 | [Robert de Niro](http://twitter.com/search?q=Robert+de+Niro) | N/A |
-| 49 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
-| 50 | [Montaner](http://twitter.com/search?q=Montaner) | N/A |
+| 15 | [Madrid](http://twitter.com/search?q=Madrid) | Madrid is the capital and largest city of Spain. It is located in the center of the country and is known for its rich cultural heritage, vibrant nightlife, and beautiful architecture. The name Madrid comes from the Arabic phrase "magerit," which means "place of many streams." |
+| 16 | [Banco](http://twitter.com/search?q=Banco) | N/A |
+| 17 | [Mateos](http://twitter.com/search?q=Mateos) | N/A |
+| 18 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 19 | [INDH](http://twitter.com/search?q=INDH) | N/A |
+| 20 | [Teodoro Schmidt](http://twitter.com/search?q=Teodoro+Schmidt) | N/A |
+| 21 | [Gonzalo Valenzuela](http://twitter.com/search?q=Gonzalo+Valenzuela) | N/A |
+| 22 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
+| 23 | [Panchito](http://twitter.com/search?q=Panchito) | N/A |
+| 24 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
+| 25 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 26 | [Tiene 17](http://twitter.com/search?q=Tiene+17) | N/A |
+| 27 | [El 1](http://twitter.com/search?q=El+1) | N/A |
+| 28 | [Benzema](http://twitter.com/search?q=Benzema) | Benzema is the surname of French professional footballer Karim Benzema. It is not an English word and does not have a direct translation. |
+| 29 | [Allende](http://twitter.com/search?q=Allende) | N/A |
+| 30 | [Winnie the Pooh](http://twitter.com/search?q=Winnie+the+Pooh) | N/A |
+| 31 | [Actitud](http://twitter.com/search?q=Actitud) | N/A |
+| 32 | [Ceballos](http://twitter.com/search?q=Ceballos) | Ceballos is a Spanish surname derived from the Latin word ceballus, meaning "small ball". It is also a place name in Spain. In English, the name Ceballos can be translated to mean "small ball". |
+| 33 | [Eyzaguirre](http://twitter.com/search?q=Eyzaguirre) | N/A |
+| 34 | [Los Bunkers](http://twitter.com/search?q=Los+Bunkers) | N/A |
+| 35 | [Zaldivia](http://twitter.com/search?q=Zaldivia) | Zaldivia is a Spanish surname derived from the Basque language. It is composed of two elements: zaldu (meaning "valley") and ibar (meaning "meadow"). In English, it can be translated to mean "valley meadow". |
+| 36 | [Golpe de Estado](http://twitter.com/search?q=Golpe+de+Estado) | N/A |
+| 37 | [Alcaraz](http://twitter.com/search?q=Alcaraz) | Alcaraz is a Spanish surname derived from the Arabic word al-qaraz, which means "the fortress". It is also the name of several towns in Spain. In English, it can be translated to mean "fortress". |
+| 38 | [Uruguay](http://twitter.com/search?q=Uruguay) | Uruguay is a country located in South America, bordered by Brazil to the north and Argentina to the west. The name Uruguay is derived from the Guarani language and means "river of painted birds." |
+| 39 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 40 | [Shakira](http://twitter.com/search?q=Shakira) | Shakira is a popular Colombian singer, songwriter, dancer, and record producer. Her name is derived from the Arabic word for "grateful" or "thankful". She is known for her unique style of music which combines Latin, rock, and Middle Eastern influences. |
+| 41 | [Pablito](http://twitter.com/search?q=Pablito) | N/A |
+| 42 | [Young Cister](http://twitter.com/search?q=Young+Cister) | Young Cister is a youth movement of the Cistercian Order, a Roman Catholic religious order. The movement was founded in France in 1948 and is open to young people aged between 18 and 35. Its purpose is to promote the values of the Cistercian Order among young people, including prayer, work, and community life. The English translation of Young Cister is "Young Cistercians". |
+| 43 | [Montaner](http://twitter.com/search?q=Montaner) | N/A |
+| 44 | [Marcianeke](http://twitter.com/search?q=Marcianeke) | N/A |
+| 45 | [Pinochet](http://twitter.com/search?q=Pinochet) | N/A |
+| 46 | [edmundo varas](http://twitter.com/search?q=edmundo+varas) | N/A |
+| 47 | [Robert de Niro](http://twitter.com/search?q=Robert+de+Niro) | N/A |
+| 48 | [Alemania](http://twitter.com/search?q=Alemania) | N/A |
+| 49 | [Lady Marmalade](http://twitter.com/search?q=Lady+Marmalade) | N/A |
+| 50 | [Chile](http://twitter.com/search?q=Chile) | Chile is a country in South America. It is bordered by Peru to the north, Bolivia to the northeast, Argentina to the east, and the Drake Passage in the far south. Chile has a long Pacific Ocean coastline and is known for its natural beauty, with rugged mountains, deserts, and forests. The official language of Chile is Spanish. |
 
 
 

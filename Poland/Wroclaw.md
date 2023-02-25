@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Wroclaw
 
-📆 Last Updated: `2023-02-25 20:15:43 UTC`
+📆 Last Updated: `2023-02-25 21:15:38 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,38 +15,38 @@ This is top 50 for [Poland](</Poland>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 2 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 1 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 2 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
 | 3 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
 | 4 | [#KSW79](http://twitter.com/search?q=%23KSW79) | N/A |
 | 5 | [#LGDRAD](http://twitter.com/search?q=%23LGDRAD) | N/A |
-| 6 | [#lazabawa](http://twitter.com/search?q=%23lazabawa) | N/A |
-| 7 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
-| 8 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
-| 9 | [Atletico](http://twitter.com/search?q=Atletico) | N/A |
-| 10 | [Dawid](http://twitter.com/search?q=Dawid) | N/A |
-| 11 | [Z 13](http://twitter.com/search?q=Z+13) | N/A |
-| 12 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
-| 13 | [Adam Małysz](http://twitter.com/search?q=Adam+Ma%c5%82ysz) | N/A |
-| 14 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
-| 15 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
-| 16 | [Paweł Wąsek](http://twitter.com/search?q=Pawe%c5%82+W%c4%85sek) | N/A |
-| 17 | [Warty](http://twitter.com/search?q=Warty) | N/A |
-| 18 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 6 | [Dawid](http://twitter.com/search?q=Dawid) | N/A |
+| 7 | [#UMK23](http://twitter.com/search?q=%23UMK23) | N/A |
+| 8 | [Atletico](http://twitter.com/search?q=Atletico) | N/A |
+| 9 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
+| 10 | [Lechia](http://twitter.com/search?q=Lechia) | N/A |
+| 11 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 12 | [Radomiaka](http://twitter.com/search?q=Radomiaka) | N/A |
+| 13 | [Z 13](http://twitter.com/search?q=Z+13) | N/A |
+| 14 | [Adam Małysz](http://twitter.com/search?q=Adam+Ma%c5%82ysz) | N/A |
+| 15 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
+| 16 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 17 | [Kubacki](http://twitter.com/search?q=Kubacki) | N/A |
+| 18 | [Kamil Stoch](http://twitter.com/search?q=Kamil+Stoch) | N/A |
 | 19 | [Madrytu](http://twitter.com/search?q=Madrytu) | N/A |
 | 20 | [Resovii](http://twitter.com/search?q=Resovii) | N/A |
 | 21 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
-| 22 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
-| 23 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 24 | [Orlenie](http://twitter.com/search?q=Orlenie) | N/A |
-| 25 | [#Planica2023](http://twitter.com/search?q=%23Planica2023) | N/A |
-| 26 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 27 | [#TAURONPucharPolski](http://twitter.com/search?q=%23TAURONPucharPolski) | N/A |
-| 28 | [#WARKOR](http://twitter.com/search?q=%23WARKOR) | N/A |
-| 29 | [#RMAATM](http://twitter.com/search?q=%23RMAATM) | N/A |
+| 22 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 23 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
+| 24 | [#LaZabawa](http://twitter.com/search?q=%23LaZabawa) | N/A |
+| 25 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 26 | [#Planica2023](http://twitter.com/search?q=%23Planica2023) | N/A |
+| 27 | [#WARKOR](http://twitter.com/search?q=%23WARKOR) | N/A |
+| 28 | [#RMAATM](http://twitter.com/search?q=%23RMAATM) | N/A |
+| 29 | [#TAURONPucharPolski](http://twitter.com/search?q=%23TAURONPucharPolski) | N/A |
 | 30 | [#EkipaSezon4](http://twitter.com/search?q=%23EkipaSezon4) | N/A |
-| 31 | [#skokoholicy](http://twitter.com/search?q=%23skokoholicy) | N/A |
-| 32 | [#PodatekDlaObajtka](http://twitter.com/search?q=%23PodatekDlaObajtka) | N/A |
+| 31 | [#PodatekDlaObajtka](http://twitter.com/search?q=%23PodatekDlaObajtka) | N/A |
+| 32 | [#skokoholicy](http://twitter.com/search?q=%23skokoholicy) | N/A |
 
 
 
