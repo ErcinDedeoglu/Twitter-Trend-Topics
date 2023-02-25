@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Palembang
 
-📆 Last Updated: `2023-02-25 19:16:06 UTC`
+📆 Last Updated: `2023-02-25 20:15:51 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,52 +15,54 @@ This is top 50 for [Indonesia](</Indonesia>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#HollaEighteen](http://twitter.com/search?q=%23HollaEighteen) | N/A |
-| 2 | [#Highway](http://twitter.com/search?q=%23Highway) | N/A |
-| 3 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 4 | [Prabowo Untuk Indonesia](http://twitter.com/search?q=Prabowo+Untuk+Indonesia) | N/A |
-| 5 | [Last Ghibli](http://twitter.com/search?q=Last+Ghibli) | N/A |
-| 6 | [Worst Ghibli](http://twitter.com/search?q=Worst+Ghibli) | N/A |
-| 7 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 8 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
-| 9 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 10 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 11 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 12 | [Kurus](http://twitter.com/search?q=Kurus) | N/A |
-| 13 | [Bersihin](http://twitter.com/search?q=Bersihin) | N/A |
-| 14 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 15 | [Pergi](http://twitter.com/search?q=Pergi) | N/A |
-| 16 | [DOKYEOM AT MILAN FASHION WEEK](http://twitter.com/search?q=DOKYEOM+AT+MILAN+FASHION+WEEK) | N/A |
-| 17 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
-| 18 | [Nikah](http://twitter.com/search?q=Nikah) | N/A |
-| 19 | [Kecoa](http://twitter.com/search?q=Kecoa) | N/A |
-| 20 | [marnie](http://twitter.com/search?q=marnie) | N/A |
-| 21 | [Malming](http://twitter.com/search?q=Malming) | N/A |
-| 22 | [Nketiah](http://twitter.com/search?q=Nketiah) | Nketiah is an Akan name of Ghanaian origin. It means "God's gift". |
-| 23 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
-| 24 | [Ketinggian](http://twitter.com/search?q=Ketinggian) | N/A |
-| 25 | [Fuji](http://twitter.com/search?q=Fuji) | N/A |
-| 26 | [Winter](http://twitter.com/search?q=Winter) | N/A |
-| 27 | [Searching](http://twitter.com/search?q=Searching) | N/A |
-| 28 | [Darah](http://twitter.com/search?q=Darah) | N/A |
-| 29 | [Risih](http://twitter.com/search?q=Risih) | N/A |
-| 30 | [Grace](http://twitter.com/search?q=Grace) | N/A |
-| 31 | [Marjan](http://twitter.com/search?q=Marjan) | N/A |
-| 32 | [#RaisaGBK2023](http://twitter.com/search?q=%23RaisaGBK2023) | N/A |
-| 33 | [#MissingMovieID](http://twitter.com/search?q=%23MissingMovieID) | N/A |
-| 34 | [#COYG](http://twitter.com/search?q=%23COYG) | #COYG stands for "Come On You Gunners" and is a popular hashtag used by Arsenal Football Club fans. It is an expression of support for the team and is used to show enthusiasm and encouragement. |
-| 35 | [#BedFriendEP2](http://twitter.com/search?q=%23BedFriendEP2) | N/A |
-| 36 | [#LEIARS](http://twitter.com/search?q=%23LEIARS) | N/A |
-| 37 | [#LeeJaeWookFIRSTinJKT](http://twitter.com/search?q=%23LeeJaeWookFIRSTinJKT) | N/A |
-| 38 | [#GalxeID](http://twitter.com/search?q=%23GalxeID) | N/A |
-| 39 | [#SurrenderAllToCHANGSUB](http://twitter.com/search?q=%23SurrenderAllToCHANGSUB) | N/A |
-| 40 | [#DOKYEOMxBALLYatMFW](http://twitter.com/search?q=%23DOKYEOMxBALLYatMFW) | N/A |
-| 41 | [#TaxiDriver2Ep4](http://twitter.com/search?q=%23TaxiDriver2Ep4) | N/A |
-| 42 | [#CrashCourseInRomanceEp13](http://twitter.com/search?q=%23CrashCourseInRomanceEp13) | N/A |
-| 43 | [#도겸_발리쇼에서만나](http://twitter.com/search?q=%23%eb%8f%84%ea%b2%b8_%eb%b0%9c%eb%a6%ac%ec%87%bc%ec%97%90%ec%84%9c%eb%a7%8c%eb%82%98) | N/A |
-| 44 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
-| 45 | [#LoveStory](http://twitter.com/search?q=%23LoveStory) | N/A |
-| 46 | [#kinnporscheworldtour2023](http://twitter.com/search?q=%23kinnporscheworldtour2023) | N/A |
+| 1 | [#FERRAGAMOxJENO](http://twitter.com/search?q=%23FERRAGAMOxJENO) | N/A |
+| 2 | [David](http://twitter.com/search?q=David) | N/A |
+| 3 | [Agnes](http://twitter.com/search?q=Agnes) | N/A |
+| 4 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 5 | [#aespa1stConcertSYNK_HYPERLINE](http://twitter.com/search?q=%23aespa1stConcertSYNK_HYPERLINE) | N/A |
+| 6 | [#HollaEighteen](http://twitter.com/search?q=%23HollaEighteen) | N/A |
+| 7 | [First Ghibli](http://twitter.com/search?q=First+Ghibli) | N/A |
+| 8 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
+| 9 | [Mario](http://twitter.com/search?q=Mario) | N/A |
+| 10 | [BETTER TREATMENT FOR IRENE](http://twitter.com/search?q=BETTER+TREATMENT+FOR+IRENE) | N/A |
+| 11 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 12 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 13 | [rakernas ika undip](http://twitter.com/search?q=rakernas+ika+undip) | N/A |
+| 14 | [Nikah](http://twitter.com/search?q=Nikah) | N/A |
+| 15 | [danamon](http://twitter.com/search?q=danamon) | N/A |
+| 16 | [LHKPN](http://twitter.com/search?q=LHKPN) | N/A |
+| 17 | [TXT DREAMGRAPHY](http://twitter.com/search?q=TXT+DREAMGRAPHY) | N/A |
+| 18 | [Anissa Aziza](http://twitter.com/search?q=Anissa+Aziza) | N/A |
+| 19 | [Malam Minggu](http://twitter.com/search?q=Malam+Minggu) | N/A |
+| 20 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
+| 21 | [Umur 15](http://twitter.com/search?q=Umur+15) | N/A |
+| 22 | [Rumah](http://twitter.com/search?q=Rumah) | N/A |
+| 23 | [Kurus](http://twitter.com/search?q=Kurus) | N/A |
+| 24 | [Elif](http://twitter.com/search?q=Elif) | N/A |
+| 25 | [Polres Jaksel](http://twitter.com/search?q=Polres+Jaksel) | N/A |
+| 26 | [bulanliterasikripto](http://twitter.com/search?q=bulanliterasikripto) | N/A |
+| 27 | [Pergi](http://twitter.com/search?q=Pergi) | N/A |
+| 28 | [Kuda](http://twitter.com/search?q=Kuda) | N/A |
+| 29 | [Prabowo Untuk Indonesia](http://twitter.com/search?q=Prabowo+Untuk+Indonesia) | N/A |
+| 30 | [prabowo pilihan kita](http://twitter.com/search?q=prabowo+pilihan+kita) | N/A |
+| 31 | [WE LOVE OUR BLUE](http://twitter.com/search?q=WE+LOVE+OUR+BLUE) | N/A |
+| 32 | [DOKYEOM AT MILAN FASHION WEEK](http://twitter.com/search?q=DOKYEOM+AT+MILAN+FASHION+WEEK) | N/A |
+| 33 | [teguh berislam kaffah](http://twitter.com/search?q=teguh+berislam+kaffah) | N/A |
+| 34 | [Risih](http://twitter.com/search?q=Risih) | N/A |
+| 35 | [Rafael](http://twitter.com/search?q=Rafael) | N/A |
+| 36 | [KIM MINJEONG](http://twitter.com/search?q=KIM+MINJEONG) | N/A |
+| 37 | [Malming](http://twitter.com/search?q=Malming) | N/A |
+| 38 | [bangga taati syariah](http://twitter.com/search?q=bangga+taati+syariah) | N/A |
+| 39 | [Bersihin](http://twitter.com/search?q=Bersihin) | N/A |
+| 40 | [Pajak](http://twitter.com/search?q=Pajak) | N/A |
+| 41 | [BTS STREAMING BATTLE](http://twitter.com/search?q=BTS+STREAMING+BATTLE) | N/A |
+| 42 | [Alvarez](http://twitter.com/search?q=Alvarez) | Alvarez is a Spanish surname. It is derived from the Latin name Alvarus, which means "counselor of all". |
+| 43 | [Kemenkeu](http://twitter.com/search?q=Kemenkeu) | N/A |
+| 44 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 45 | [Cerai](http://twitter.com/search?q=Cerai) | N/A |
+| 46 | [PPATK](http://twitter.com/search?q=PPATK) | N/A |
+| 47 | [Marnie](http://twitter.com/search?q=Marnie) | N/A |
+| 48 | [Haaland](http://twitter.com/search?q=Haaland) | Haaland is a Norwegian surname derived from the Old Norse word “hálendi”, which means “high land”. It is also the name of a Norwegian professional footballer, Erling Braut Haaland, who plays for Borussia Dortmund in the German Bundesliga. |
 
 
 

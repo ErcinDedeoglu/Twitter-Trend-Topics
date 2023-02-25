@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Kobe
 
-📆 Last Updated: `2023-02-25 19:16:09 UTC`
+📆 Last Updated: `2023-02-25 20:15:53 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Japan](</Japan>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [イリチル](http://twitter.com/search?q=%e3%82%a4%e3%83%aa%e3%83%81%e3%83%ab) | N/A |
-| 2 | [あんスタ](http://twitter.com/search?q=%e3%81%82%e3%82%93%e3%82%b9%e3%82%bf) | あんスタ (Ensuta) is a Japanese rhythm game developed by KLabGames. It is based on the popular anime series Love Live! and features characters from the series. The game's name is a combination of the words "anime" and "star". Players can collect cards featuring characters from the series, create teams, and compete against other players in rhythm-based battles. |
-| 3 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
-| 4 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
-| 5 | [サウジカップ](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8%e3%82%ab%e3%83%83%e3%83%97) | N/A |
-| 6 | [シルヴァーソニック](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%bd%e3%83%8b%e3%83%83%e3%82%af) | N/A |
-| 7 | [ジオグリフ](http://twitter.com/search?q=%e3%82%b8%e3%82%aa%e3%82%b0%e3%83%aa%e3%83%95) | N/A |
-| 8 | [バスラットレオン](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%83%a9%e3%83%83%e3%83%88%e3%83%ac%e3%82%aa%e3%83%b3) | バスラットレオン is a type of Japanese traditional folk dance. It is performed by two people, one playing the role of a lion and the other playing the role of a bushi (samurai). The lion dances around the bushi, who tries to catch it with a fan. The dance is usually accompanied by singing and chanting. In English, it is known as the Lion Bus Dance. |
-| 9 | [#SixTONESANN](http://twitter.com/search?q=%23SixTONESANN) | #SixTONESANN is a hashtag used by fans of the Japanese boy band SixTONES. It stands for "SixTONES Announcement" and is used to share news and updates about the group. |
-| 10 | [カフェファラオ](http://twitter.com/search?q=%e3%82%ab%e3%83%95%e3%82%a7%e3%83%95%e3%82%a1%e3%83%a9%e3%82%aa) | N/A |
-| 11 | [フォレストページ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88%e3%83%9a%e3%83%bc%e3%82%b8) | N/A |
-| 12 | [福永騎手](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e9%a8%8e%e6%89%8b) | 福永騎手 is a Japanese term that refers to a jockey who specializes in riding horses at the Fukuenag racing track. The literal translation of the term is "Fukuenag Jockey". |
-| 13 | [福永祐一](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e7%a5%90%e4%b8%80) | N/A |
-| 14 | [パンくん](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
-| 15 | [#SixTONES_ABARERO](http://twitter.com/search?q=%23SixTONES_ABARERO) | N/A |
-| 16 | [カントリーグラマー](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc%e3%82%b0%e3%83%a9%e3%83%9e%e3%83%bc) | N/A |
-| 17 | [令和のツインターボ](http://twitter.com/search?q=%e4%bb%a4%e5%92%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9c) | N/A |
+| 1 | [パンサラッサ](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%82%b5%e3%83%a9%e3%83%83%e3%82%b5) | パンサラッサ is a type of traditional Japanese dance that originated in the Edo period. It is performed by two people, one playing the role of a panther and the other playing the role of a hunter. The panther dances around the hunter, trying to avoid being caught. In English, it can be translated as "Panther Dance". |
+| 2 | [サウジカップ](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8%e3%82%ab%e3%83%83%e3%83%97) | N/A |
+| 3 | [シルヴァーソニック](http://twitter.com/search?q=%e3%82%b7%e3%83%ab%e3%83%b4%e3%82%a1%e3%83%bc%e3%82%bd%e3%83%8b%e3%83%83%e3%82%af) | N/A |
+| 4 | [アルバロ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%ad) | N/A |
+| 5 | [ジオグリフ](http://twitter.com/search?q=%e3%82%b8%e3%82%aa%e3%82%b0%e3%83%aa%e3%83%95) | N/A |
+| 6 | [バスラットレオン](http://twitter.com/search?q=%e3%83%90%e3%82%b9%e3%83%a9%e3%83%83%e3%83%88%e3%83%ac%e3%82%aa%e3%83%b3) | バスラットレオン is a type of Japanese traditional folk dance. It is performed by two people, one playing the role of a lion and the other playing the role of a bushi (samurai). The lion dances around the bushi, who tries to catch it with a fan. The dance is usually accompanied by singing and chanting. In English, it is known as the Lion Bus Dance. |
+| 7 | [フォレストページ](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%ac%e3%82%b9%e3%83%88%e3%83%9a%e3%83%bc%e3%82%b8) | N/A |
+| 8 | [#SixTONESANN](http://twitter.com/search?q=%23SixTONESANN) | #SixTONESANN is a hashtag used by fans of the Japanese boy band SixTONES. It stands for "SixTONES Announcement" and is used to share news and updates about the group. |
+| 9 | [カフェファラオ](http://twitter.com/search?q=%e3%82%ab%e3%83%95%e3%82%a7%e3%83%95%e3%82%a1%e3%83%a9%e3%82%aa) | N/A |
+| 10 | [アトレティコ](http://twitter.com/search?q=%e3%82%a2%e3%83%88%e3%83%ac%e3%83%86%e3%82%a3%e3%82%b3) | N/A |
+| 11 | [福永騎手](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e9%a8%8e%e6%89%8b) | 福永騎手 is a Japanese term that refers to a jockey who specializes in riding horses at the Fukuenag racing track. The literal translation of the term is "Fukuenag Jockey". |
+| 12 | [パンくん](http://twitter.com/search?q=%e3%83%91%e3%83%b3%e3%81%8f%e3%82%93) | N/A |
+| 13 | [令和のツインターボ](http://twitter.com/search?q=%e4%bb%a4%e5%92%8c%e3%81%ae%e3%83%84%e3%82%a4%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%9c) | N/A |
+| 14 | [フィリップス](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%aa%e3%83%83%e3%83%97%e3%82%b9) | N/A |
+| 15 | [#佐藤満春ANN0](http://twitter.com/search?q=%23%e4%bd%90%e8%97%a4%e6%ba%80%e6%98%a5ANN0) | N/A |
+| 16 | [福永祐一](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e7%a5%90%e4%b8%80) | N/A |
+| 17 | [カントリーグラマー](http://twitter.com/search?q=%e3%82%ab%e3%83%b3%e3%83%88%e3%83%aa%e3%83%bc%e3%82%b0%e3%83%a9%e3%83%9e%e3%83%bc) | N/A |
 | 18 | [吉田豊騎手](http://twitter.com/search?q=%e5%90%89%e7%94%b0%e8%b1%8a%e9%a8%8e%e6%89%8b) | N/A |
-| 19 | [福永さん](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e3%81%95%e3%82%93) | 福永さん is a Japanese honorific title used to refer to someone with the surname Fukunaga. It is roughly equivalent to "Mr. Fukunaga" in English. |
-| 20 | [ドバイターフ](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%82%bf%e3%83%bc%e3%83%95) | N/A |
+| 19 | [#SixTONES_ABARERO](http://twitter.com/search?q=%23SixTONES_ABARERO) | N/A |
+| 20 | [ペローネ](http://twitter.com/search?q=%e3%83%9a%e3%83%ad%e3%83%bc%e3%83%8d) | N/A |
 | 21 | [アーモンドアイ](http://twitter.com/search?q=%e3%82%a2%e3%83%bc%e3%83%a2%e3%83%b3%e3%83%89%e3%82%a2%e3%82%a4) | アーモンドアイ (Aamondoai) is a type of Japanese confectionery made from mochi (rice cake) and sweet bean paste. It is shaped like an almond and is usually filled with red bean paste. The name literally translates to "almond eye" in English. |
-| 22 | [エリートパワー](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%bc%e3%83%88%e3%83%91%e3%83%af%e3%83%bc) | N/A |
-| 23 | [#佐藤満春ANN0](http://twitter.com/search?q=%23%e4%bd%90%e8%97%a4%e6%ba%80%e6%98%a5ANN0) | N/A |
-| 24 | [世界の矢作](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e3%81%ae%e7%9f%a2%e4%bd%9c) | N/A |
+| 22 | [ドバイターフ](http://twitter.com/search?q=%e3%83%89%e3%83%90%e3%82%a4%e3%82%bf%e3%83%bc%e3%83%95) | N/A |
+| 23 | [ヒルマンサーノ](http://twitter.com/search?q=%e3%83%92%e3%83%ab%e3%83%9e%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%8e) | ヒルマンサーノ is a type of Japanese folk dance. It is a traditional dance that originated in the city of Hirosaki in Aomori Prefecture. The name comes from the words "hiruma" (sun) and "sano" (dance). In English, it can be translated as "Sun Dance". |
+| 24 | [福永さん](http://twitter.com/search?q=%e7%a6%8f%e6%b0%b8%e3%81%95%e3%82%93) | 福永さん is a Japanese honorific title used to refer to someone with the surname Fukunaga. It is roughly equivalent to "Mr. Fukunaga" in English. |
 | 25 | [NAVI](http://twitter.com/search?q=NAVI) | N/A |
-| 26 | [#annkw](http://twitter.com/search?q=%23annkw) | #annkw is an abbreviation for "announcement keyword," which is a hashtag used to indicate that a post contains important information or news. It is often used on social media platforms such as Twitter and Instagram. |
-| 27 | [クラウンプライド](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%97%e3%83%a9%e3%82%a4%e3%83%89) | N/A |
-| 28 | [アトレティコ](http://twitter.com/search?q=%e3%82%a2%e3%83%88%e3%83%ac%e3%83%86%e3%82%a3%e3%82%b3) | N/A |
-| 29 | [リメイク3着](http://twitter.com/search?q=%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af3%e7%9d%80) | N/A |
-| 30 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
-| 31 | [矢作先生](http://twitter.com/search?q=%e7%9f%a2%e4%bd%9c%e5%85%88%e7%94%9f) | N/A |
-| 32 | [アセンシオ](http://twitter.com/search?q=%e3%82%a2%e3%82%bb%e3%83%b3%e3%82%b7%e3%82%aa) | アセンシオ is a Japanese word that means "ascension" or "elevation". It is often used to refer to spiritual or physical ascension, such as the ascension of a person to a higher level of consciousness or the elevation of an object to a higher position. |
-| 33 | [ペローネ](http://twitter.com/search?q=%e3%83%9a%e3%83%ad%e3%83%bc%e3%83%8d) | N/A |
+| 26 | [アセンシオ](http://twitter.com/search?q=%e3%82%a2%e3%82%bb%e3%83%b3%e3%82%b7%e3%82%aa) | アセンシオ is a Japanese word that means "ascension" or "elevation". It is often used to refer to spiritual or physical ascension, such as the ascension of a person to a higher level of consciousness or the elevation of an object to a higher position. |
+| 27 | [世界の矢作](http://twitter.com/search?q=%e4%b8%96%e7%95%8c%e3%81%ae%e7%9f%a2%e4%bd%9c) | N/A |
+| 28 | [マドリードダービー](http://twitter.com/search?q=%e3%83%9e%e3%83%89%e3%83%aa%e3%83%bc%e3%83%89%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
+| 29 | [矢作先生](http://twitter.com/search?q=%e7%9f%a2%e4%bd%9c%e5%85%88%e7%94%9f) | N/A |
+| 30 | [ヒメネス](http://twitter.com/search?q=%e3%83%92%e3%83%a1%e3%83%8d%e3%82%b9) | N/A |
+| 31 | [#annkw](http://twitter.com/search?q=%23annkw) | #annkw is an abbreviation for "announcement keyword," which is a hashtag used to indicate that a post contains important information or news. It is often used on social media platforms such as Twitter and Instagram. |
+| 32 | [クラウンプライド](http://twitter.com/search?q=%e3%82%af%e3%83%a9%e3%82%a6%e3%83%b3%e3%83%97%e3%83%a9%e3%82%a4%e3%83%89) | N/A |
+| 33 | [エリートパワー](http://twitter.com/search?q=%e3%82%a8%e3%83%aa%e3%83%bc%e3%83%88%e3%83%91%e3%83%af%e3%83%bc) | N/A |
 | 34 | [フォーデン](http://twitter.com/search?q=%e3%83%95%e3%82%a9%e3%83%bc%e3%83%87%e3%83%b3) | N/A |
-| 35 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
-| 36 | [ヒルマンサーノ](http://twitter.com/search?q=%e3%83%92%e3%83%ab%e3%83%9e%e3%83%b3%e3%82%b5%e3%83%bc%e3%83%8e) | ヒルマンサーノ is a type of Japanese folk dance. It is a traditional dance that originated in the city of Hirosaki in Aomori Prefecture. The name comes from the words "hiruma" (sun) and "sano" (dance). In English, it can be translated as "Sun Dance". |
-| 37 | [デットーリ](http://twitter.com/search?q=%e3%83%87%e3%83%83%e3%83%88%e3%83%bc%e3%83%aa) | N/A |
-| 38 | [イクイノックス](http://twitter.com/search?q=%e3%82%a4%e3%82%af%e3%82%a4%e3%83%8e%e3%83%83%e3%82%af%e3%82%b9) | イクイノックス is a Japanese brand of men's clothing. The name is derived from the Latin phrase "ex inox", which means "from stainless steel". In English, it can be translated to mean "stainless steel fashion". |
-| 39 | [#人類に栄光あれ](http://twitter.com/search?q=%23%e4%ba%ba%e9%a1%9e%e3%81%ab%e6%a0%84%e5%85%89%e3%81%82%e3%82%8c) | "#人類に栄光あれ" is a Japanese hashtag that translates to "Glory to Humanity". It is often used to express admiration for the accomplishments of humanity, such as scientific and technological advances. |
-| 40 | [アルバロ](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%ad) | N/A |
-| 41 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
-| 42 | [アルバレス](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%ac%e3%82%b9) | N/A |
-| 43 | [デルマソトガケ](http://twitter.com/search?q=%e3%83%87%e3%83%ab%e3%83%9e%e3%82%bd%e3%83%88%e3%82%ac%e3%82%b1) | N/A |
-| 44 | [矢作厩舎](http://twitter.com/search?q=%e7%9f%a2%e4%bd%9c%e5%8e%a9%e8%88%8e) | N/A |
-| 45 | [フィリップス](http://twitter.com/search?q=%e3%83%95%e3%82%a3%e3%83%aa%e3%83%83%e3%83%97%e3%82%b9) | N/A |
-| 46 | [cNed](http://twitter.com/search?q=cNed) | N/A |
-| 47 | [エミール](http://twitter.com/search?q=%e3%82%a8%e3%83%9f%e3%83%bc%e3%83%ab) | N/A |
-| 48 | [サウジダービー](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
-| 49 | [マドリードダービー](http://twitter.com/search?q=%e3%83%9e%e3%83%89%e3%83%aa%e3%83%bc%e3%83%89%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
-| 50 | [ジュンライトボルト](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%88%e3%83%9c%e3%83%ab%e3%83%88) | N/A |
+| 35 | [リメイク3着](http://twitter.com/search?q=%e3%83%aa%e3%83%a1%e3%82%a4%e3%82%af3%e7%9d%80) | N/A |
+| 36 | [トロサール](http://twitter.com/search?q=%e3%83%88%e3%83%ad%e3%82%b5%e3%83%bc%e3%83%ab) | トロサール (torosāru) is a type of Japanese pastry made from a sweet dough filled with custard cream. The name comes from the French word "trousser", which means "to wrap". In English, it can be translated as "custard-filled pastry". |
+| 37 | [イクイノックス](http://twitter.com/search?q=%e3%82%a4%e3%82%af%e3%82%a4%e3%83%8e%e3%83%83%e3%82%af%e3%82%b9) | イクイノックス is a Japanese brand of men's clothing. The name is derived from the Latin phrase "ex inox", which means "from stainless steel". In English, it can be translated to mean "stainless steel fashion". |
+| 38 | [マルティネッリ](http://twitter.com/search?q=%e3%83%9e%e3%83%ab%e3%83%86%e3%82%a3%e3%83%8d%e3%83%83%e3%83%aa) | マルティネッリ is a type of Italian pasta dish. It is made with a combination of cooked macaroni, cheese, and cream. The name comes from the Italian words for "cooked" (malti) and "nest" (nestri). In English, it can be translated as "macaroni and cheese". |
+| 39 | [アルバレス](http://twitter.com/search?q=%e3%82%a2%e3%83%ab%e3%83%90%e3%83%ac%e3%82%b9) | N/A |
+| 40 | [デットーリ](http://twitter.com/search?q=%e3%83%87%e3%83%83%e3%83%88%e3%83%bc%e3%83%aa) | N/A |
+| 41 | [#ファンラジ795](http://twitter.com/search?q=%23%e3%83%95%e3%82%a1%e3%83%b3%e3%83%a9%e3%82%b8795) | N/A |
+| 42 | [矢作厩舎](http://twitter.com/search?q=%e7%9f%a2%e4%bd%9c%e5%8e%a9%e8%88%8e) | N/A |
+| 43 | [cNed](http://twitter.com/search?q=cNed) | N/A |
+| 44 | [サウジダービー](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8%e3%83%80%e3%83%bc%e3%83%93%e3%83%bc) | N/A |
+| 45 | [エミール](http://twitter.com/search?q=%e3%82%a8%e3%83%9f%e3%83%bc%e3%83%ab) | N/A |
+| 46 | [第401回](http://twitter.com/search?q=%e7%ac%ac401%e5%9b%9e) | N/A |
+| 47 | [地震大丈夫](http://twitter.com/search?q=%e5%9c%b0%e9%9c%87%e5%a4%a7%e4%b8%88%e5%a4%ab) | 地震大丈夫 is a Japanese phrase that literally translates to "earthquake, big man". It is an expression of resilience and courage in the face of adversity, and can be translated to mean "stay strong in the face of an earthquake". |
+| 48 | [ジュンライトボルト](http://twitter.com/search?q=%e3%82%b8%e3%83%a5%e3%83%b3%e3%83%a9%e3%82%a4%e3%83%88%e3%83%9c%e3%83%ab%e3%83%88) | N/A |
+| 49 | [デルマソトガケ](http://twitter.com/search?q=%e3%83%87%e3%83%ab%e3%83%9e%e3%82%bd%e3%83%88%e3%82%ac%e3%82%b1) | N/A |
+| 50 | [サウジC](http://twitter.com/search?q=%e3%82%b5%e3%82%a6%e3%82%b8C) | N/A |
 
 
 

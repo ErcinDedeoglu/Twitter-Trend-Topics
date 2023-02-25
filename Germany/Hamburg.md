@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Hamburg
 
-📆 Last Updated: `2023-02-25 19:16:00 UTC`
+📆 Last Updated: `2023-02-25 20:15:46 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -18,53 +18,53 @@ This is top 50 for [Germany](</Germany>)
 | 1 | [#S04VfB](http://twitter.com/search?q=%23S04VfB) | N/A |
 | 2 | [#b2502](http://twitter.com/search?q=%23b2502) | N/A |
 | 3 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
-| 4 | [#TSGBVB](http://twitter.com/search?q=%23TSGBVB) | N/A |
-| 5 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 4 | [#SVDHSV](http://twitter.com/search?q=%23SVDHSV) | N/A |
+| 5 | [#GiovanniZarrellaShow](http://twitter.com/search?q=%23GiovanniZarrellaShow) | N/A |
 | 6 | [Schalke](http://twitter.com/search?q=Schalke) | Schalke is a German football club based in Gelsenkirchen, North Rhine-Westphalia. The club is best known for its professional football team that plays in the Bundesliga, the top tier of the German football league system. The name Schalke is derived from the nearby city of Schalke, which was a coal mining town. In English, Schalke means "coal mine". |
-| 7 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
-| 8 | [#Vollidiot](http://twitter.com/search?q=%23Vollidiot) | N/A |
-| 9 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
-| 10 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 11 | [Silas](http://twitter.com/search?q=Silas) | N/A |
-| 12 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
-| 13 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 7 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 8 | [Halbzeit](http://twitter.com/search?q=Halbzeit) | N/A |
+| 9 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 10 | [Silas](http://twitter.com/search?q=Silas) | N/A |
+| 11 | [Sosa](http://twitter.com/search?q=Sosa) | N/A |
+| 12 | [Anton](http://twitter.com/search?q=Anton) | Anton is a masculine given name of Germanic origin. It is derived from the Roman family name Antonius, which is of unknown Etruscan origin. The name means "invaluable" or "priceless". |
+| 13 | [Samstag Abend](http://twitter.com/search?q=Samstag+Abend) | N/A |
 | 14 | [Teilnehmer](http://twitter.com/search?q=Teilnehmer) | N/A |
-| 15 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
-| 16 | [Herr Lauterbach](http://twitter.com/search?q=Herr+Lauterbach) | N/A |
-| 17 | [Unterwanderung](http://twitter.com/search?q=Unterwanderung) | N/A |
-| 18 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
-| 19 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
-| 20 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 21 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
-| 22 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
-| 23 | [Flaggen](http://twitter.com/search?q=Flaggen) | N/A |
-| 24 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
-| 25 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
-| 26 | [Querfront](http://twitter.com/search?q=Querfront) | N/A |
-| 27 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
-| 28 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
-| 29 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 30 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
-| 31 | [Rechtsextremen](http://twitter.com/search?q=Rechtsextremen) | N/A |
-| 32 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
-| 33 | [Hufeisen](http://twitter.com/search?q=Hufeisen) | N/A |
-| 34 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
-| 35 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
-| 36 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 37 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
-| 38 | [Herr Lindner](http://twitter.com/search?q=Herr+Lindner) | N/A |
-| 39 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
-| 40 | [Indien](http://twitter.com/search?q=Indien) | N/A |
-| 41 | [Lagos](http://twitter.com/search?q=Lagos) | N/A |
-| 42 | [Klimapolitik](http://twitter.com/search?q=Klimapolitik) | N/A |
-| 43 | [Irreführung](http://twitter.com/search?q=Irref%c3%bchrung) | N/A |
-| 44 | [Faschos](http://twitter.com/search?q=Faschos) | N/A |
-| 45 | [#RBLSGE](http://twitter.com/search?q=%23RBLSGE) | N/A |
-| 46 | [#Skispringen](http://twitter.com/search?q=%23Skispringen) | N/A |
-| 47 | [#SVWBOC](http://twitter.com/search?q=%23SVWBOC) | N/A |
-| 48 | [#BSCFCA](http://twitter.com/search?q=%23BSCFCA) | N/A |
-| 49 | [#ImamSajjad](http://twitter.com/search?q=%23ImamSajjad) | N/A |
-| 50 | [#hahohe](http://twitter.com/search?q=%23hahohe) | N/A |
+| 15 | [Ralle](http://twitter.com/search?q=Ralle) | N/A |
+| 16 | [Verbrecher in die Geschichte](http://twitter.com/search?q=Verbrecher+in+die+Geschichte) | N/A |
+| 17 | [Abstiegskampf](http://twitter.com/search?q=Abstiegskampf) | N/A |
+| 18 | [Sieg](http://twitter.com/search?q=Sieg) | N/A |
+| 19 | [Herr Lauterbach](http://twitter.com/search?q=Herr+Lauterbach) | N/A |
+| 20 | [Foul](http://twitter.com/search?q=Foul) | N/A |
+| 21 | [namjoon](http://twitter.com/search?q=namjoon) | Namjoon is the stage name of Kim Nam-joon, a South Korean rapper, songwriter, and record producer. He is the leader and main rapper of the South Korean boy band BTS. The English meaning of Namjoon is "intelligent man". |
+| 22 | [Kinderlose](http://twitter.com/search?q=Kinderlose) | N/A |
+| 23 | [Unterwanderung](http://twitter.com/search?q=Unterwanderung) | N/A |
+| 24 | [Klassenerhalt](http://twitter.com/search?q=Klassenerhalt) | N/A |
+| 25 | [Hoffenheim](http://twitter.com/search?q=Hoffenheim) | N/A |
+| 26 | [Seite der Geschichte](http://twitter.com/search?q=Seite+der+Geschichte) | N/A |
+| 27 | [Schnee](http://twitter.com/search?q=Schnee) | Schnee is a German word meaning "snow". |
+| 28 | [Freistoß](http://twitter.com/search?q=Freisto%c3%9f) | N/A |
+| 29 | [Flaggen](http://twitter.com/search?q=Flaggen) | N/A |
+| 30 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 31 | [Querdenker](http://twitter.com/search?q=Querdenker) | N/A |
+| 32 | [Veranstaltung](http://twitter.com/search?q=Veranstaltung) | N/A |
+| 33 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 34 | [Querfront](http://twitter.com/search?q=Querfront) | N/A |
+| 35 | [Fahnen](http://twitter.com/search?q=Fahnen) | N/A |
+| 36 | [Bochum](http://twitter.com/search?q=Bochum) | N/A |
+| 37 | [Augsburg](http://twitter.com/search?q=Augsburg) | Augsburg is a city in Bavaria, Germany. It is the third-largest city in Bavaria and the largest city in Swabia. The name Augsburg comes from the Latin word Augusta Vindelicorum, which means "Augusta of the Vindelici". In English, it can be translated to mean "Augusta of the Vindelici people". |
+| 38 | [Rechtsextreme](http://twitter.com/search?q=Rechtsextreme) | N/A |
+| 39 | [Hertha](http://twitter.com/search?q=Hertha) | N/A |
+| 40 | [Abgrenzung](http://twitter.com/search?q=Abgrenzung) | N/A |
+| 41 | [Herr Lindner](http://twitter.com/search?q=Herr+Lindner) | N/A |
+| 42 | [Hufeisen](http://twitter.com/search?q=Hufeisen) | N/A |
+| 43 | [Brandt](http://twitter.com/search?q=Brandt) | N/A |
+| 44 | [FC Köln](http://twitter.com/search?q=FC+K%c3%b6ln) | N/A |
+| 45 | [Höcke](http://twitter.com/search?q=H%c3%b6cke) | N/A |
+| 46 | [Brandenburger Tor](http://twitter.com/search?q=Brandenburger+Tor) | N/A |
+| 47 | [#UMK23](http://twitter.com/search?q=%23UMK23) | N/A |
+| 48 | [#Vollidiot](http://twitter.com/search?q=%23Vollidiot) | N/A |
+| 49 | [#Melfest](http://twitter.com/search?q=%23Melfest) | N/A |
+| 50 | [#TSGBVB](http://twitter.com/search?q=%23TSGBVB) | N/A |
 
 
 

@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Poland
 
-📆 Last Updated: `2023-02-25 19:16:45 UTC`
+📆 Last Updated: `2023-02-25 20:16:25 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,41 +15,39 @@ This is top 50 for Poland
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 2 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
-| 4 | [#Planica2023](http://twitter.com/search?q=%23Planica2023) | N/A |
-| 5 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 6 | [#TAURONPucharPolski](http://twitter.com/search?q=%23TAURONPucharPolski) | N/A |
+| 1 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 2 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
+| 3 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 4 | [#LGDRAD](http://twitter.com/search?q=%23LGDRAD) | N/A |
+| 5 | [#KSW79](http://twitter.com/search?q=%23KSW79) | N/A |
+| 6 | [#lazabawa](http://twitter.com/search?q=%23lazabawa) | N/A |
 | 7 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
-| 8 | [Z 13](http://twitter.com/search?q=Z+13) | N/A |
-| 9 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
-| 10 | [Warty](http://twitter.com/search?q=Warty) | N/A |
-| 11 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
-| 12 | [Adam Małysz](http://twitter.com/search?q=Adam+Ma%c5%82ysz) | N/A |
-| 13 | [Atletico](http://twitter.com/search?q=Atletico) | N/A |
-| 14 | [Kubacki](http://twitter.com/search?q=Kubacki) | N/A |
+| 8 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 9 | [Atletico](http://twitter.com/search?q=Atletico) | N/A |
+| 10 | [Dawid](http://twitter.com/search?q=Dawid) | N/A |
+| 11 | [Z 13](http://twitter.com/search?q=Z+13) | N/A |
+| 12 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
+| 13 | [Adam Małysz](http://twitter.com/search?q=Adam+Ma%c5%82ysz) | N/A |
+| 14 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
 | 15 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
 | 16 | [Paweł Wąsek](http://twitter.com/search?q=Pawe%c5%82+W%c4%85sek) | N/A |
-| 17 | [Korony](http://twitter.com/search?q=Korony) | N/A |
-| 18 | [Resovii](http://twitter.com/search?q=Resovii) | N/A |
-| 19 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 17 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 18 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 19 | [Lechii](http://twitter.com/search?q=Lechii) | N/A |
 | 20 | [Madrytu](http://twitter.com/search?q=Madrytu) | N/A |
-| 21 | [Marsylii](http://twitter.com/search?q=Marsylii) | N/A |
-| 22 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
-| 23 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 24 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 25 | [Gliwicach](http://twitter.com/search?q=Gliwicach) | N/A |
-| 26 | [Warzecha](http://twitter.com/search?q=Warzecha) | N/A |
-| 27 | [#WARKOR](http://twitter.com/search?q=%23WARKOR) | N/A |
-| 28 | [#lazabawa](http://twitter.com/search?q=%23lazabawa) | N/A |
-| 29 | [#KSW79](http://twitter.com/search?q=%23KSW79) | N/A |
-| 30 | [#EkipaSezon4](http://twitter.com/search?q=%23EkipaSezon4) | N/A |
-| 31 | [#skokoholicy](http://twitter.com/search?q=%23skokoholicy) | N/A |
-| 32 | [#LGDRAD](http://twitter.com/search?q=%23LGDRAD) | N/A |
-| 33 | [#PIACRA](http://twitter.com/search?q=%23PIACRA) | N/A |
-| 34 | [#PodatekDlaObajtka](http://twitter.com/search?q=%23PodatekDlaObajtka) | N/A |
-| 35 | [#viaF1](http://twitter.com/search?q=%23viaF1) | N/A |
+| 21 | [Resovii](http://twitter.com/search?q=Resovii) | N/A |
+| 22 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
+| 23 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
+| 24 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 25 | [Orlenie](http://twitter.com/search?q=Orlenie) | N/A |
+| 26 | [#Planica2023](http://twitter.com/search?q=%23Planica2023) | N/A |
+| 27 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 28 | [#WARKOR](http://twitter.com/search?q=%23WARKOR) | N/A |
+| 29 | [#TAURONPucharPolski](http://twitter.com/search?q=%23TAURONPucharPolski) | N/A |
+| 30 | [#RMAATM](http://twitter.com/search?q=%23RMAATM) | N/A |
+| 31 | [#EkipaSezon4](http://twitter.com/search?q=%23EkipaSezon4) | N/A |
+| 32 | [#skokoholicy](http://twitter.com/search?q=%23skokoholicy) | N/A |
+| 33 | [#PodatekDlaObajtka](http://twitter.com/search?q=%23PodatekDlaObajtka) | N/A |
 
 
 

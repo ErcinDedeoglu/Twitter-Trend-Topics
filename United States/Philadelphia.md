@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Philadelphia
 
-📆 Last Updated: `2023-02-25 19:16:35 UTC`
+📆 Last Updated: `2023-02-25 20:16:16 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [United States](</United States>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Phillies](http://twitter.com/search?q=Phillies) | Phillies is an abbreviation for the Philadelphia Phillies, a professional baseball team based in Philadelphia, Pennsylvania. The team plays in Major League Baseball (MLB) as a member of the National League East division. |
-| 2 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
-| 3 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
-| 4 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
-| 5 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
-| 6 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 1 | [Blues](http://twitter.com/search?q=Blues) | N/A |
+| 2 | [Creighton](http://twitter.com/search?q=Creighton) | Creighton is a surname of English origin. It is derived from the Old English words "craeft" and "tun," meaning "town of craftsmen." The name was originally given to someone who lived in or near a town that was known for its skilled craftsmen. |
+| 3 | [Kappy](http://twitter.com/search?q=Kappy) | N/A |
+| 4 | [#LetsGoBucs](http://twitter.com/search?q=%23LetsGoBucs) | N/A |
+| 5 | [Yankees](http://twitter.com/search?q=Yankees) | N/A |
+| 6 | [#DOOP](http://twitter.com/search?q=%23DOOP) | N/A |
 | 7 | [Iowa](http://twitter.com/search?q=Iowa) | Iowa is a state in the Midwestern United States. It is bordered by Minnesota to the north, Wisconsin and Illinois to the east, Missouri to the south, and Nebraska and South Dakota to the west. The capital of Iowa is Des Moines. The state's name comes from an American Indian word meaning "the beautiful land." |
 | 8 | [Fran](http://twitter.com/search?q=Fran) | N/A |
-| 9 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
-| 10 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
-| 11 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
-| 12 | [Brett Baty](http://twitter.com/search?q=Brett+Baty) | N/A |
-| 13 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
-| 14 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
-| 15 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
-| 16 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 17 | [Eric Dixon](http://twitter.com/search?q=Eric+Dixon) | N/A |
-| 18 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
-| 19 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 20 | [#AT40](http://twitter.com/search?q=%23AT40) | N/A |
-| 21 | [Byron Jones](http://twitter.com/search?q=Byron+Jones) | N/A |
-| 22 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 23 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
-| 24 | [Subban](http://twitter.com/search?q=Subban) | N/A |
-| 25 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 26 | [Weston Wilson](http://twitter.com/search?q=Weston+Wilson) | N/A |
-| 27 | [Messier](http://twitter.com/search?q=Messier) | N/A |
-| 28 | [Brendan Donovan](http://twitter.com/search?q=Brendan+Donovan) | N/A |
-| 29 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
-| 30 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
-| 31 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
-| 32 | [Texas Tech](http://twitter.com/search?q=Texas+Tech) | Texas Tech is a public research university located in Lubbock, Texas. It is the flagship institution of the four-institution Texas Tech University System. The university offers degrees in more than 150 courses of study through 13 colleges and hosts 60 research centers and institutes. |
-| 33 | [Rialto](http://twitter.com/search?q=Rialto) | N/A |
-| 34 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
-| 35 | [Goodrow](http://twitter.com/search?q=Goodrow) | Goodrow is a surname of German origin. It is derived from the words "gut" and "roh," which mean "good" and "raw," respectively. The name is thought to have been given to someone who was considered to be honest and straightforward. |
-| 36 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
-| 37 | [St. John](http://twitter.com/search?q=St.+John) | N/A |
-| 38 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
-| 39 | [Zach Thompson](http://twitter.com/search?q=Zach+Thompson) | N/A |
+| 9 | [Paul Ryan](http://twitter.com/search?q=Paul+Ryan) | Paul Ryan is the name of an American politician who served as the 54th Speaker of the United States House of Representatives from October 2015 to January 2019. He is a member of the Republican Party and was previously the Vice Presidential nominee for the 2012 election. The meaning of his name in English is "little king". |
+| 10 | [Michigan State](http://twitter.com/search?q=Michigan+State) | Michigan State is a public research university located in East Lansing, Michigan. It is the largest university in the state and one of the top research universities in the United States. The university offers more than 200 undergraduate, graduate, and professional degree programs across 17 colleges and schools. The school's athletic teams are known as the Spartans and compete in NCAA Division I sports. |
+| 11 | [#MetAmazonPresale](http://twitter.com/search?q=%23MetAmazonPresale) | N/A |
+| 12 | [Rangers](http://twitter.com/search?q=Rangers) | Rangers is a term used to refer to a group of people who are responsible for protecting and managing an area of land, usually a national park or other protected area. They are typically employed by the government or a conservation organization and are responsible for enforcing laws, conducting research, and educating the public about the environment. |
+| 13 | [#Caturday](http://twitter.com/search?q=%23Caturday) | N/A |
+| 14 | [Izzo](http://twitter.com/search?q=Izzo) | Izzo is a slang term derived from the word "isso," which is a contraction of the Portuguese phrase "é isso," meaning "that's it." It can be used to express agreement, approval, or excitement. |
+| 15 | [Igor](http://twitter.com/search?q=Igor) | N/A |
+| 16 | [Kane](http://twitter.com/search?q=Kane) | Kane is a unisex name of Hebrew origin meaning “little combatant” or “warrior.” It is also an Irish surname derived from the Gaelic word for “descendant of Cathán.” |
+| 17 | [Tyson Walker](http://twitter.com/search?q=Tyson+Walker) | Tyson Walker is a slang term used to describe someone who is strong, determined, and resilient. It is often used to describe someone who has overcome difficult obstacles or achieved success despite the odds. |
+| 18 | [Lindgren](http://twitter.com/search?q=Lindgren) | N/A |
+| 19 | [Oshie](http://twitter.com/search?q=Oshie) | N/A |
+| 20 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 21 | [Jasson Dominguez](http://twitter.com/search?q=Jasson+Dominguez) | N/A |
+| 22 | [Alvaro](http://twitter.com/search?q=Alvaro) | N/A |
+| 23 | [Weston Wilson](http://twitter.com/search?q=Weston+Wilson) | N/A |
+| 24 | [The Martian](http://twitter.com/search?q=The+Martian) | N/A |
+| 25 | [Brett Baty](http://twitter.com/search?q=Brett+Baty) | N/A |
+| 26 | [Byron Jones](http://twitter.com/search?q=Byron+Jones) | N/A |
+| 27 | [Clemson](http://twitter.com/search?q=Clemson) | Clemson is a university located in Clemson, South Carolina. It is a public, land-grant research university that was founded in 1889. The name Clemson comes from the name of its founder, Thomas Green Clemson. The university's mission is to "to create, communicate and apply knowledge to serve the state of South Carolina and beyond." |
+| 28 | [Atleti](http://twitter.com/search?q=Atleti) | Atleti is a nickname for the Spanish football club Atlético Madrid. The name is derived from the Spanish word for athlete, atleta. In English, Atleti can be translated to mean "Athletes". |
+| 29 | [Spring Training](http://twitter.com/search?q=Spring+Training) | N/A |
+| 30 | [Fontana](http://twitter.com/search?q=Fontana) | N/A |
+| 31 | [Sparty](http://twitter.com/search?q=Sparty) | N/A |
+| 32 | [Villanova](http://twitter.com/search?q=Villanova) | Villanova is a university located in the Philadelphia suburbs of Pennsylvania, United States. The name Villanova is derived from the Latin phrase "villa nova," which translates to "new town" or "new village." The university was founded in 1842 by the Order of Saint Augustine and is the oldest Catholic university in the Commonwealth of Pennsylvania. |
+| 33 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 34 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
+| 35 | [Foden](http://twitter.com/search?q=Foden) | Foden is a type of heavy-duty truck, usually with six or more wheels, used for transporting goods and materials. The name comes from the Foden Motor Company, which was founded in England in 1856. |
+| 36 | [Cubs](http://twitter.com/search?q=Cubs) | N/A |
+| 37 | [Brendan Donovan](http://twitter.com/search?q=Brendan+Donovan) | N/A |
+| 38 | [Rialto](http://twitter.com/search?q=Rialto) | N/A |
+| 39 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
 | 40 | [SNOWING](http://twitter.com/search?q=SNOWING) | N/A |
-| 41 | [Trossard](http://twitter.com/search?q=Trossard) | Trossard is a French surname derived from the Old French word "trossart," which means "one who works with a saw." It is also a Belgian municipality located in the province of Liège. |
-| 42 | [Gleyber Torres](http://twitter.com/search?q=Gleyber+Torres) | N/A |
-| 43 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
-| 44 | [Senior Day](http://twitter.com/search?q=Senior+Day) | N/A |
-| 45 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 46 | [Jesus Christ is Alive](http://twitter.com/search?q=Jesus+Christ+is+Alive) | N/A |
-| 47 | [Milner](http://twitter.com/search?q=Milner) | Milner is a surname of English origin. It is derived from the Old English words mylen, meaning "mill," and eare, meaning "dweller by." The name was originally given to someone who lived near or worked in a mill. |
-| 48 | [Libs of TikTok](http://twitter.com/search?q=Libs+of+TikTok) | N/A |
-| 49 | [Chytil](http://twitter.com/search?q=Chytil) | N/A |
-| 50 | [Ronaldo](http://twitter.com/search?q=Ronaldo) | Ronaldo is a Portuguese name, derived from the Latin name "Ronaldus". It is a masculine given name, and can also be used as a surname. The meaning of Ronaldo in English is "ruler's counselor". |
+| 41 | [Jimmy Dykes](http://twitter.com/search?q=Jimmy+Dykes) | N/A |
+| 42 | [Messier](http://twitter.com/search?q=Messier) | N/A |
+| 43 | [Bobby Dalbec](http://twitter.com/search?q=Bobby+Dalbec) | N/A |
+| 44 | [Day of Hate](http://twitter.com/search?q=Day+of+Hate) | N/A |
+| 45 | [Bagley](http://twitter.com/search?q=Bagley) | N/A |
+| 46 | [Matt Olson](http://twitter.com/search?q=Matt+Olson) | N/A |
+| 47 | [Bournemouth](http://twitter.com/search?q=Bournemouth) | Bournemouth is a coastal resort town in the south of England. It is located on the English Channel coast, about 90 miles southwest of London. The town is known for its sandy beaches, Victorian architecture, and vibrant nightlife. Bournemouth is a popular tourist destination and has been voted one of the best places to live in the UK. |
+| 48 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 49 | [Eric Dixon](http://twitter.com/search?q=Eric+Dixon) | N/A |
+| 50 | [Goodrow](http://twitter.com/search?q=Goodrow) | Goodrow is a surname of German origin. It is derived from the words "gut" and "roh," which mean "good" and "raw," respectively. The name is thought to have been given to someone who was considered to be honest and straightforward. |
 
 
 
