@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Rio de Janeiro
 
-📆 Last Updated: `2023-02-25 08:16:29 UTC`
+📆 Last Updated: `2023-02-25 09:16:10 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -15,56 +15,56 @@ This is top 50 for [Brazil](</Brazil>)
 
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
-| 1 | [Domi](http://twitter.com/search?q=Domi) | Domi is a Japanese term that means "dominance" or "dominant." It is often used to describe someone who is strong, powerful, and in control. |
-| 2 | [O Gustavo](http://twitter.com/search?q=O+Gustavo) | N/A |
-| 3 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
-| 4 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 1 | [Anitta](http://twitter.com/search?q=Anitta) | Anitta is a Brazilian singer, songwriter, actress, and dancer. Her name is a combination of her first name, Anna, and the Portuguese suffix -itta. In English, Anitta means "little Anna". |
+| 2 | [Marcelo](http://twitter.com/search?q=Marcelo) | N/A |
+| 3 | [#ForaGustavo](http://twitter.com/search?q=%23ForaGustavo) | N/A |
+| 4 | [#BBB23](http://twitter.com/search?q=%23BBB23) | #BBB23 is a hashtag used on social media platforms such as Twitter and Instagram. It is not an acronym or abbreviation and does not have a specific meaning. It is simply a combination of letters and numbers that can be used to categorize posts, making them easier to find when searching for specific topics. |
 | 5 | [Pedro Sampaio](http://twitter.com/search?q=Pedro+Sampaio) | N/A |
-| 6 | [#ForaGustavoCowboy](http://twitter.com/search?q=%23ForaGustavoCowboy) | N/A |
-| 7 | [Westbrook](http://twitter.com/search?q=Westbrook) | Westbrook is a surname of English origin. It is derived from the Old English words "west" and "broc," meaning "western stream." The name was originally given to someone who lived near a stream in the west of England. |
-| 8 | [Kawhi](http://twitter.com/search?q=Kawhi) | Kawhi is a given name of African origin, derived from the Igbo language. It is a unisex name meaning "strong" or "powerful". |
-| 9 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
-| 10 | [#carnavaisdobrasil](http://twitter.com/search?q=%23carnavaisdobrasil) | N/A |
-| 11 | [4M DO CORINGA](http://twitter.com/search?q=4M+DO+CORINGA) | N/A |
-| 12 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
-| 13 | [Votando](http://twitter.com/search?q=Votando) | N/A |
-| 14 | [#festabbb](http://twitter.com/search?q=%23festabbb) | N/A |
-| 15 | [Rocinha](http://twitter.com/search?q=Rocinha) | N/A |
-| 16 | [Klay Thompson](http://twitter.com/search?q=Klay+Thompson) | N/A |
-| 17 | [Aline e Amanda](http://twitter.com/search?q=Aline+e+Amanda) | N/A |
-| 18 | [#BBBB23](http://twitter.com/search?q=%23BBBB23) | #BBBB23 is a hexadecimal color code. It is a combination of six letters and numbers that represent the red, green, and blue components of a color. In this case, the color is a light yellow-green. |
+| 6 | [outer banks](http://twitter.com/search?q=outer+banks) | Outer Banks is a chain of barrier islands off the coast of North Carolina in the United States. It is a popular vacation destination known for its beaches, lighthouses, and wildlife. The term "Outer Banks" is derived from the nautical term "outer bank," which refers to a shallow area of water located beyond the shoreline. |
+| 7 | [john b](http://twitter.com/search?q=john+b) | John B is a traditional folk song from the Outer Banks of North Carolina. The song tells the story of a young man named John B who sails away to sea and never returns. The lyrics of the song have been adapted over time, but the original version speaks of John B's longing for his home and his love for his sweetheart. |
+| 8 | [rafe](http://twitter.com/search?q=rafe) | Rafe is a short form of the name Raphael, which is a Hebrew name meaning “God has healed”. |
+| 9 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 10 | [Sapato](http://twitter.com/search?q=Sapato) | Sapato is the Portuguese word for shoe. In English, it means the same thing. |
+| 11 | [Clippers](http://twitter.com/search?q=Clippers) | Clippers are a type of boat or ship. They are usually fast sailing vessels with three or more masts and a square rig. Clippers were originally used for trade and transportation, but today they are mainly used for recreational sailing. |
+| 12 | [Sarah](http://twitter.com/search?q=Sarah) | Sarah is a feminine given name of Hebrew origin, meaning "princess" or "lady". |
+| 13 | [Kiara](http://twitter.com/search?q=Kiara) | N/A |
+| 14 | [ariana](http://twitter.com/search?q=ariana) | N/A |
+| 15 | [Selena](http://twitter.com/search?q=Selena) | N/A |
+| 16 | [Guimê](http://twitter.com/search?q=Guim%c3%aa) | Guimê is a Brazilian term used to describe a person who is strong, brave, and determined. It can also be used to describe someone who is resilient and able to overcome difficult situations. In English, it could be translated as "fearless" or "unstoppable". |
+| 17 | [Rita Lee](http://twitter.com/search?q=Rita+Lee) | Rita Lee is a Brazilian singer, songwriter, and actress. She is one of the most successful and influential female artists in Brazil, having sold over 70 million records worldwide. The phrase "Rita Lee" is used to refer to her as an artist and her music. |
+| 18 | [hailey](http://twitter.com/search?q=hailey) | N/A |
 | 19 | [Blink](http://twitter.com/search?q=Blink) | N/A |
-| 20 | [Shannon](http://twitter.com/search?q=Shannon) | Shannon is a unisex name of Irish origin. It is derived from the Gaelic word "seanachaidh" which means "wise one". The name is often used as a given name for both boys and girls. |
-| 21 | [#DragRace](http://twitter.com/search?q=%23DragRace) | #DragRace is a popular reality television series that follows drag queens as they compete against each other in a series of challenges. The show has become a cultural phenomenon, with fans around the world tuning in to watch the contestants battle it out for the title of “America’s Next Drag Superstar.” |
-| 22 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 23 | [Mistress](http://twitter.com/search?q=Mistress) | N/A |
-| 24 | [Russ](http://twitter.com/search?q=Russ) | Russ is a shortened form of the name Russell, which is of English origin and means “little red one”. |
-| 25 | [Abby](http://twitter.com/search?q=Abby) | Abby is a shortened form of the name Abigail, which is of Hebrew origin and means “father’s joy”. |
-| 26 | [Omelete](http://twitter.com/search?q=Omelete) | N/A |
-| 27 | [Sasha Colby](http://twitter.com/search?q=Sasha+Colby) | Sasha Colby is a name that is derived from the Russian name "Sasha" and the English surname "Colby". It is a unisex name, meaning it can be used for either a boy or a girl. The name has no specific meaning in English, but it could be interpreted as "protector of the people". |
-| 28 | [sofia santino](http://twitter.com/search?q=sofia+santino) | N/A |
-| 29 | [Fredão](http://twitter.com/search?q=Fred%c3%a3o) | Fredão is a Portuguese slang term used to describe someone who is very strong or powerful. It can also be used to describe someone who is brave or courageous. In English, it could be translated as "tough guy" or "strongman". |
-| 30 | [EXPLIQUE SEU TWITTER](http://twitter.com/search?q=EXPLIQUE+SEU+TWITTER) | N/A |
-| 31 | [Mirella](http://twitter.com/search?q=Mirella) | Mirella is a female given name of Italian origin. It is derived from the Latin word mirabilis, meaning "wonderful" or "marvelous". |
-| 32 | [CPMI](http://twitter.com/search?q=CPMI) | N/A |
-| 33 | [Travis](http://twitter.com/search?q=Travis) | N/A |
-| 34 | [ward](http://twitter.com/search?q=ward) | N/A |
-| 35 | [Caneta](http://twitter.com/search?q=Caneta) | N/A |
-| 36 | [Mariely](http://twitter.com/search?q=Mariely) | N/A |
-| 37 | [Intendente](http://twitter.com/search?q=Intendente) | N/A |
-| 38 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
-| 39 | [Vítimas de p3d0f1l1a](http://twitter.com/search?q=V%c3%adtimas+de+p3d0f1l1a) | N/A |
-| 40 | [Bulls](http://twitter.com/search?q=Bulls) | Bulls is a term used to refer to investors who are optimistic about the stock market and believe that prices will rise. It is the opposite of bears, who are pessimistic and believe that prices will fall. |
-| 41 | [RuPaul](http://twitter.com/search?q=RuPaul) | N/A |
-| 42 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
-| 43 | [Estevão Ferreira](http://twitter.com/search?q=Estev%c3%a3o+Ferreira) | N/A |
-| 44 | [Fred Bruno](http://twitter.com/search?q=Fred+Bruno) | N/A |
-| 45 | [The Whale](http://twitter.com/search?q=The+Whale) | N/A |
-| 46 | [Yuumi](http://twitter.com/search?q=Yuumi) | N/A |
-| 47 | [maisa](http://twitter.com/search?q=maisa) | N/A |
-| 48 | [Carol Sampaio](http://twitter.com/search?q=Carol+Sampaio) | N/A |
-| 49 | [Big Bang](http://twitter.com/search?q=Big+Bang) | N/A |
-| 50 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 20 | [Suarez](http://twitter.com/search?q=Suarez) | Suarez is a Spanish surname. It is derived from the Latin word "suarius" which means "swampy". The name is most commonly associated with the Uruguayan footballer Luis Suarez. |
+| 21 | [#MySchoolPresidentFinalEP](http://twitter.com/search?q=%23MySchoolPresidentFinalEP) | N/A |
+| 22 | [Pope](http://twitter.com/search?q=Pope) | N/A |
+| 23 | [westbrook](http://twitter.com/search?q=westbrook) | N/A |
+| 24 | [Die For You](http://twitter.com/search?q=Die+For+You) | N/A |
+| 25 | [#DIADEFURIA](http://twitter.com/search?q=%23DIADEFURIA) | N/A |
+| 26 | [Novo Hamburgo](http://twitter.com/search?q=Novo+Hamburgo) | N/A |
+| 27 | [Big John](http://twitter.com/search?q=Big+John) | N/A |
+| 28 | [Votando](http://twitter.com/search?q=Votando) | N/A |
+| 29 | [Nicácio](http://twitter.com/search?q=Nic%c3%a1cio) | Nicácio is a Portuguese name derived from the Latin name Nicasius, which means “victory of the people.” In English, it can be translated to mean “victorious people.” |
+| 30 | [Malik Monk](http://twitter.com/search?q=Malik+Monk) | N/A |
+| 31 | [Domitila](http://twitter.com/search?q=Domitila) | Domitila is a Spanish female name derived from the Latin Domitius, meaning “tamed” or “subdued”. It is also a variant of the Roman name Domitia, which means “lordly” or “powerful”. |
+| 32 | [Pelé](http://twitter.com/search?q=Pel%c3%a9) | Pelé is a nickname for the Brazilian soccer player Edson Arantes do Nascimento, widely regarded as one of the greatest players of all time. The name Pelé is derived from his parents' nickname for him, "Pérola" (Pearl). |
+| 33 | [Ward](http://twitter.com/search?q=Ward) | Ward is a term used to refer to a division of a city or town, typically for administrative or political purposes. It can also refer to an area of a hospital that is dedicated to the care of patients with similar medical conditions. |
+| 34 | [Lolla](http://twitter.com/search?q=Lolla) | N/A |
+| 35 | [#voleinosportv](http://twitter.com/search?q=%23voleinosportv) | N/A |
+| 36 | [Sextou](http://twitter.com/search?q=Sextou) | N/A |
+| 37 | [Cleo](http://twitter.com/search?q=Cleo) | N/A |
+| 38 | [Sentinels](http://twitter.com/search?q=Sentinels) | N/A |
+| 39 | [Fnatic](http://twitter.com/search?q=Fnatic) | N/A |
+| 40 | [Ucrânia](http://twitter.com/search?q=Ucr%c3%a2nia) | N/A |
+| 41 | [gremio](http://twitter.com/search?q=gremio) | Gremio is a Spanish word that means "guild" or "association". It is used to refer to a group of people who are united by a common purpose or interest. In some cases, it can also refer to a trade union or labor organization. |
+| 42 | [Grécia](http://twitter.com/search?q=Gr%c3%a9cia) | N/A |
+| 43 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
+| 44 | [Drive to Survive](http://twitter.com/search?q=Drive+to+Survive) | N/A |
+| 45 | [Elizabeth](http://twitter.com/search?q=Elizabeth) | N/A |
+| 46 | [4M DO CORINGA](http://twitter.com/search?q=4M+DO+CORINGA) | N/A |
+| 47 | [Bitello](http://twitter.com/search?q=Bitello) | Bitello is a Spanish word that means "beautiful" or "handsome". It is often used to describe someone who is attractive or has a pleasing appearance. |
+| 48 | [Kaveh](http://twitter.com/search?q=Kaveh) | Kaveh is a Persian name that means "victory". It is derived from the ancient Persian word "kav", which means "king". |
+| 49 | [Karol G](http://twitter.com/search?q=Karol+G) | N/A |
+| 50 | [Florence](http://twitter.com/search?q=Florence) | Florence is a female given name of Latin origin, meaning "blossoming" or "flowering". It is derived from the Latin word florens, meaning "to blossom". |
 
 
 

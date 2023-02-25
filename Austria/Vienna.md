@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Vienna
 
-📆 Last Updated: `2023-02-25 08:16:32 UTC`
+📆 Last Updated: `2023-02-25 09:16:13 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for [Austria](</Austria>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#w2402](http://twitter.com/search?q=%23w2402) | N/A |
-| 2 | [#akademikerball](http://twitter.com/search?q=%23akademikerball) | N/A |
-| 3 | [Manfred](http://twitter.com/search?q=Manfred) | N/A |
-| 4 | [#ASKALU](http://twitter.com/search?q=%23ASKALU) | N/A |
-| 5 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
-| 6 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
-| 7 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 8 | [Peter](http://twitter.com/search?q=Peter) | N/A |
-| 9 | [#oenr](http://twitter.com/search?q=%23oenr) | N/A |
-| 10 | [#nowkr](http://twitter.com/search?q=%23nowkr) | N/A |
-| 11 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
-| 12 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
-| 13 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
-| 14 | [Brandstätter](http://twitter.com/search?q=Brandst%c3%a4tter) | N/A |
-| 15 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
-| 16 | [Nika](http://twitter.com/search?q=Nika) | N/A |
-| 17 | [Clemens Arvay](http://twitter.com/search?q=Clemens+Arvay) | N/A |
+| 2 | [#Akademikerball](http://twitter.com/search?q=%23Akademikerball) | N/A |
+| 3 | [#ASKALU](http://twitter.com/search?q=%23ASKALU) | N/A |
+| 4 | [Beileid](http://twitter.com/search?q=Beileid) | N/A |
+| 5 | [Kickl](http://twitter.com/search?q=Kickl) | N/A |
+| 6 | [Ukraine](http://twitter.com/search?q=Ukraine) | Ukraine is a country located in Eastern Europe. It is bordered by Russia to the east and northeast, Belarus to the northwest, Poland and Slovakia to the west, Hungary, Romania, and Moldova to the southwest, and the Black Sea and Sea of Azov to the south and southeast. The official language of Ukraine is Ukrainian. The meaning of Ukraine in English is "borderland". |
+| 7 | [#nowkr](http://twitter.com/search?q=%23nowkr) | N/A |
+| 8 | [#Mietpreisbremse](http://twitter.com/search?q=%23Mietpreisbremse) | N/A |
+| 9 | [Frieden](http://twitter.com/search?q=Frieden) | N/A |
+| 10 | [Ingrid](http://twitter.com/search?q=Ingrid) | N/A |
+| 11 | [Elfer](http://twitter.com/search?q=Elfer) | N/A |
+| 12 | [Brandstätter](http://twitter.com/search?q=Brandst%c3%a4tter) | N/A |
+| 13 | [Miete](http://twitter.com/search?q=Miete) | N/A |
+| 14 | [Peter](http://twitter.com/search?q=Peter) | N/A |
+| 15 | [Unsinn](http://twitter.com/search?q=Unsinn) | N/A |
+| 16 | [Kapitel](http://twitter.com/search?q=Kapitel) | N/A |
+| 17 | [Werte](http://twitter.com/search?q=Werte) | N/A |
 | 18 | [Jahrestag](http://twitter.com/search?q=Jahrestag) | N/A |
-| 19 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
-| 20 | [Hofburg](http://twitter.com/search?q=Hofburg) | N/A |
-| 21 | [Genesung](http://twitter.com/search?q=Genesung) | N/A |
-| 22 | [Podcasts](http://twitter.com/search?q=Podcasts) | N/A |
-| 23 | [Verhandlungstisch](http://twitter.com/search?q=Verhandlungstisch) | N/A |
-| 24 | [schönen freitag](http://twitter.com/search?q=sch%c3%b6nen+freitag) | N/A |
-| 25 | [Werte](http://twitter.com/search?q=Werte) | N/A |
+| 19 | [Strom](http://twitter.com/search?q=Strom) | N/A |
+| 20 | [Lugner](http://twitter.com/search?q=Lugner) | N/A |
+| 21 | [Podcasts](http://twitter.com/search?q=Podcasts) | N/A |
+| 22 | [Mumie](http://twitter.com/search?q=Mumie) | N/A |
+| 23 | [Schönen Freitag](http://twitter.com/search?q=Sch%c3%b6nen+Freitag) | N/A |
+| 24 | [Hofburg](http://twitter.com/search?q=Hofburg) | N/A |
+| 25 | [Andreas](http://twitter.com/search?q=Andreas) | N/A |
 | 26 | [Chantal](http://twitter.com/search?q=Chantal) | N/A |
-| 27 | [Erklärung](http://twitter.com/search?q=Erkl%c3%a4rung) | N/A |
+| 27 | [OSCE](http://twitter.com/search?q=OSCE) | N/A |
 | 28 | [HOFer](http://twitter.com/search?q=HOFer) | N/A |
-| 29 | [Linz](http://twitter.com/search?q=Linz) | N/A |
-| 30 | [Menschlichkeit](http://twitter.com/search?q=Menschlichkeit) | N/A |
-| 31 | [Kündigung](http://twitter.com/search?q=K%c3%bcndigung) | N/A |
-| 32 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
-| 33 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
-| 34 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
-| 35 | [Taylor](http://twitter.com/search?q=Taylor) | Taylor is a surname of English and Scottish origin. It is derived from the Old French tailleur, which means "tailor". The name can also be used as a given name, and is often used as a unisex name. |
-| 36 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
+| 29 | [Menschlichkeit](http://twitter.com/search?q=Menschlichkeit) | N/A |
+| 30 | [Linz](http://twitter.com/search?q=Linz) | N/A |
+| 31 | [Nika](http://twitter.com/search?q=Nika) | N/A |
+| 32 | [Sekte](http://twitter.com/search?q=Sekte) | N/A |
+| 33 | [Union Berlin](http://twitter.com/search?q=Union+Berlin) | N/A |
+| 34 | [Neutralität](http://twitter.com/search?q=Neutralit%c3%a4t) | N/A |
+| 35 | [Nerven](http://twitter.com/search?q=Nerven) | N/A |
+| 36 | [Zustände](http://twitter.com/search?q=Zust%c3%a4nde) | N/A |
 | 37 | [Verfassungsschutz](http://twitter.com/search?q=Verfassungsschutz) | N/A |
-| 38 | [Panzer](http://twitter.com/search?q=Panzer) | N/A |
+| 38 | [Ukrainian](http://twitter.com/search?q=Ukrainian) | Ukrainian is a language spoken in Ukraine, and it is an East Slavic language closely related to Russian and Belarusian. In English, it is sometimes referred to as the Ukrainian language. |
 | 39 | [Salzburg](http://twitter.com/search?q=Salzburg) | N/A |
-| 40 | [Material](http://twitter.com/search?q=Material) | N/A |
-| 41 | [Demo](http://twitter.com/search?q=Demo) | N/A |
-| 42 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
-| 43 | [Covid](http://twitter.com/search?q=Covid) | N/A |
-| 44 | [Bures](http://twitter.com/search?q=Bures) | N/A |
-| 45 | [Grenzen](http://twitter.com/search?q=Grenzen) | N/A |
-| 46 | [gracie](http://twitter.com/search?q=gracie) | Gracie is a name of Latin origin meaning "graceful" or "pleasing". It is often used as a nickname for someone who is graceful, kind, and elegant. |
-| 47 | [Finger](http://twitter.com/search?q=Finger) | N/A |
-| 48 | [Suizid](http://twitter.com/search?q=Suizid) | N/A |
-| 49 | [Barca](http://twitter.com/search?q=Barca) | N/A |
-| 50 | [Reichen](http://twitter.com/search?q=Reichen) | N/A |
+| 40 | [Covid](http://twitter.com/search?q=Covid) | N/A |
+| 41 | [Wagenknecht](http://twitter.com/search?q=Wagenknecht) | N/A |
+| 42 | [NATO](http://twitter.com/search?q=NATO) | N/A |
+| 43 | [Inflation](http://twitter.com/search?q=Inflation) | N/A |
+| 44 | [Demo](http://twitter.com/search?q=Demo) | N/A |
+| 45 | [Clemens Arvay](http://twitter.com/search?q=Clemens+Arvay) | N/A |
+| 46 | [Putin](http://twitter.com/search?q=Putin) | Putin is the surname of Vladimir Putin, the current President of Russia. It is derived from the Russian word for "one's own", or "self". |
+| 47 | [Verhandlungen](http://twitter.com/search?q=Verhandlungen) | N/A |
+| 48 | [Bures](http://twitter.com/search?q=Bures) | N/A |
+| 49 | [Elfmeter](http://twitter.com/search?q=Elfmeter) | N/A |
+| 50 | [Schämen Sie](http://twitter.com/search?q=Sch%c3%a4men+Sie) | N/A |
 
 
 

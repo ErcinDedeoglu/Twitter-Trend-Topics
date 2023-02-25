@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Honolulu
 
-📆 Last Updated: `2023-02-25 08:17:07 UTC`
+📆 Last Updated: `2023-02-25 09:16:48 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -24,45 +24,45 @@ This is top 50 for [United States](</United States>)
 | 7 | [LIGHT THE BEAM](http://twitter.com/search?q=LIGHT+THE+BEAM) | "Light the Beam" is a phrase used to describe the act of focusing one's attention on a particular goal or task. It is often used as a metaphor for shining a light on something, or bringing attention to it. The phrase can also be used to encourage someone to take action and focus their energy on achieving their goals. |
 | 8 | [Ty Lue](http://twitter.com/search?q=Ty+Lue) | Ty Lue is the name of an American basketball coach and former player. He is currently the head coach of the Los Angeles Clippers of the National Basketball Association (NBA). The name "Ty Lue" is derived from his given name, Tyronn. |
 | 9 | [Klay](http://twitter.com/search?q=Klay) | Klay is a slang term used to describe someone who is cool, confident, and stylish. It can also be used to describe someone who is good at something or has a lot of skill. |
-| 10 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
-| 11 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
+| 10 | [#LARain](http://twitter.com/search?q=%23LARain) | N/A |
+| 11 | [Plumlee](http://twitter.com/search?q=Plumlee) | N/A |
 | 12 | [Aaron Fox](http://twitter.com/search?q=Aaron+Fox) | Aaron Fox is a Hebrew name meaning "high mountain" or "exalted peak." It is also a surname derived from the given name. |
-| 13 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
-| 14 | [#SACvsLAC](http://twitter.com/search?q=%23SACvsLAC) | N/A |
-| 15 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
-| 16 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
-| 17 | [Paul George](http://twitter.com/search?q=Paul+George) | Paul George is an American professional basketball player who currently plays for the Los Angeles Clippers of the National Basketball Association (NBA). He is a six-time NBA All-Star and four-time All-NBA Team selection. The phrase "Paul George" is used to refer to the basketball player himself. |
-| 18 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
-| 19 | [#SmackDown](http://twitter.com/search?q=%23SmackDown) | #SmackDown is a professional wrestling television program produced by WWE. It airs on the Fox Network in the United States and is broadcast around the world. The term "smackdown" is used to describe a situation in which one person or group defeats another in a decisive manner. |
+| 13 | [#TCMUnderground](http://twitter.com/search?q=%23TCMUnderground) | N/A |
+| 14 | [Tony Brothers](http://twitter.com/search?q=Tony+Brothers) | Tony Brothers is a nickname for the National Basketball Association (NBA) referee Anthony Brothers. He is known for his strict and consistent officiating style, which has earned him the respect of players and coaches alike. The phrase "Tony Brothers" is often used to refer to a referee who enforces the rules strictly and consistently. |
+| 15 | [#SACvsLAC](http://twitter.com/search?q=%23SACvsLAC) | N/A |
+| 16 | [#NigeriaDecides](http://twitter.com/search?q=%23NigeriaDecides) | N/A |
+| 17 | [Norman Powell](http://twitter.com/search?q=Norman+Powell) | Norman Powell is a Canadian professional basketball player who currently plays for the Toronto Raptors of the National Basketball Association (NBA). His name is derived from his middle name, Norman, and his last name, Powell. |
+| 18 | [Mike Brown](http://twitter.com/search?q=Mike+Brown) | N/A |
+| 19 | [#Wordle616](http://twitter.com/search?q=%23Wordle616) | N/A |
 | 20 | [Clips](http://twitter.com/search?q=Clips) | N/A |
-| 21 | [#TCMUnderground](http://twitter.com/search?q=%23TCMUnderground) | N/A |
-| 22 | [#AEWRampage](http://twitter.com/search?q=%23AEWRampage) | #AEWRampage is a hashtag used by the professional wrestling promotion All Elite Wrestling (AEW). It is used to promote upcoming events and pay-per-view shows. The term "rampage" refers to a wild, destructive outburst of energy or emotion. |
-| 23 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
-| 24 | [2nd OT](http://twitter.com/search?q=2nd+OT) | N/A |
-| 25 | [Marcus Morris](http://twitter.com/search?q=Marcus+Morris) | N/A |
-| 26 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
-| 27 | [GAME OF THE YEAR](http://twitter.com/search?q=GAME+OF+THE+YEAR) | N/A |
-| 28 | [Cam Payne](http://twitter.com/search?q=Cam+Payne) | N/A |
-| 29 | [DOUBLE OVERTIME](http://twitter.com/search?q=DOUBLE+OVERTIME) | N/A |
-| 30 | [2 OT](http://twitter.com/search?q=2+OT) | N/A |
-| 31 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
-| 32 | [WHAT A GAME](http://twitter.com/search?q=WHAT+A+GAME) | "WHAT A GAME" is an expression used to express admiration or excitement for a particularly exciting or thrilling game. It is often used to show appreciation for a game that was particularly enjoyable or challenging. |
-| 33 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
-| 34 | [RoCo](http://twitter.com/search?q=RoCo) | N/A |
-| 35 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
-| 36 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
-| 37 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
-| 38 | [Terrance Mann](http://twitter.com/search?q=Terrance+Mann) | N/A |
-| 39 | [Julius Randle](http://twitter.com/search?q=Julius+Randle) | Julius Randle is an American professional basketball player who currently plays for the New York Knicks of the National Basketball Association (NBA). His name is derived from Julius Caesar, a famous Roman leader, and Randle, a surname of English origin. |
-| 40 | [De’Aaron](http://twitter.com/search?q=De%e2%80%99Aaron) | N/A |
-| 41 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
-| 42 | [Lineker](http://twitter.com/search?q=Lineker) | Lineker is a surname of English origin. It is derived from the Old English words "lin" meaning "flax" and "ceorl" meaning "man". The name is most famously associated with the former English footballer Gary Lineker. |
-| 43 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
-| 44 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
-| 45 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
-| 46 | [CEQA](http://twitter.com/search?q=CEQA) | N/A |
-| 47 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
-| 48 | [Stone Ocean](http://twitter.com/search?q=Stone+Ocean) | N/A |
+| 21 | [Sabonis](http://twitter.com/search?q=Sabonis) | Sabonis is a Lithuanian surname derived from the Hebrew name Shabtai. It is most commonly associated with Arvydas Sabonis, a Lithuanian basketball player who played professionally in Europe and the United States. The name can also refer to other members of the Sabonis family, including Domantas Sabonis, Arvydas' son who currently plays for the Indiana Pacers. |
+| 22 | [Isaiah Joe](http://twitter.com/search?q=Isaiah+Joe) | Isaiah Joe is a given name of Hebrew origin. It is derived from the Hebrew name Yesha'yahu, which means "God is salvation". |
+| 23 | [2nd OT](http://twitter.com/search?q=2nd+OT) | N/A |
+| 24 | [Morris](http://twitter.com/search?q=Morris) | N/A |
+| 25 | [Eric Gordon](http://twitter.com/search?q=Eric+Gordon) | N/A |
+| 26 | [GAME OF THE YEAR](http://twitter.com/search?q=GAME+OF+THE+YEAR) | N/A |
+| 27 | [Bones Hyland](http://twitter.com/search?q=Bones+Hyland) | N/A |
+| 28 | [2 OT](http://twitter.com/search?q=2+OT) | N/A |
+| 29 | [Ralph](http://twitter.com/search?q=Ralph) | N/A |
+| 30 | [Roco](http://twitter.com/search?q=Roco) | N/A |
+| 31 | [Knicks](http://twitter.com/search?q=Knicks) | Knicks is an abbreviation for the New York Knicks, a professional basketball team based in New York City. The team competes in the National Basketball Association (NBA) as a member of the Atlantic Division of the Eastern Conference. |
+| 32 | [Dilbert](http://twitter.com/search?q=Dilbert) | N/A |
+| 33 | [Terrance Mann](http://twitter.com/search?q=Terrance+Mann) | N/A |
+| 34 | [Jonathan Winters](http://twitter.com/search?q=Jonathan+Winters) | N/A |
+| 35 | [Harrison Barnes](http://twitter.com/search?q=Harrison+Barnes) | Harrison Barnes is a professional basketball player who currently plays for the Sacramento Kings of the National Basketball Association (NBA). His name is derived from his father's middle name, Harrison. The name has no particular meaning in English. |
+| 36 | [First Lady](http://twitter.com/search?q=First+Lady) | N/A |
+| 37 | [Randle](http://twitter.com/search?q=Randle) | Randle is a surname of English origin. It is derived from the Old Norse personal name Randulfr, which is composed of the elements rand (rim or shield) and ulfr (wolf). The name was brought to England by Scandinavian settlers in the Middle Ages. The meaning of Randle in English is "shield wolf". |
+| 38 | [Meech](http://twitter.com/search?q=Meech) | Meech is a slang term used to refer to someone who is stingy or cheap. It can also be used to describe someone who is not generous with their money or possessions. |
+| 39 | [Pat Bev](http://twitter.com/search?q=Pat+Bev) | Pat Bev is an acronym for "Patience and Beverage," which is a phrase used to encourage people to take a break and enjoy a beverage while they wait patiently. It is often used in the context of waiting for something, such as waiting in line or waiting for an event to start. |
+| 40 | [Zubac](http://twitter.com/search?q=Zubac) | N/A |
+| 41 | [Melania](http://twitter.com/search?q=Melania) | N/A |
+| 42 | [Ramsey](http://twitter.com/search?q=Ramsey) | N/A |
+| 43 | [Greatest American Hero](http://twitter.com/search?q=Greatest+American+Hero) | N/A |
+| 44 | [Barney Miller](http://twitter.com/search?q=Barney+Miller) | N/A |
+| 45 | [Andrade](http://twitter.com/search?q=Andrade) | Andrade is a Spanish surname derived from the personal name Andrés, which is the Spanish form of Andrew. It is also a common place name in Portugal and Galicia. The meaning of Andrade in English is "manly" or "brave". |
+| 46 | [Dire Straits](http://twitter.com/search?q=Dire+Straits) | N/A |
+| 47 | [The Strays](http://twitter.com/search?q=The+Strays) | N/A |
+| 48 | [LA River](http://twitter.com/search?q=LA+River) | N/A |
 
 
 

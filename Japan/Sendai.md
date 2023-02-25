@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Sendai
 
-📆 Last Updated: `2023-02-25 08:16:45 UTC`
+📆 Last Updated: `2023-02-25 09:16:26 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,54 +16,54 @@ This is top 50 for [Japan](</Japan>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#BiSHバイバイ](http://twitter.com/search?q=%23BiSH%e3%83%90%e3%82%a4%e3%83%90%e3%82%a4) | N/A |
-| 2 | [#侍ジャパン](http://twitter.com/search?q=%23%e4%be%8d%e3%82%b8%e3%83%a3%e3%83%91%e3%83%b3) | #侍ジャパン is a hashtag used on social media to show support for Japan. It translates to "Samurai Japan" and is often used in conjunction with the Japanese flag emoji. The hashtag is often used to show pride in Japanese culture, history, and people. |
-| 3 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
-| 4 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
-| 5 | [#あなたはメンヘラかヤンデレか](http://twitter.com/search?q=%23%e3%81%82%e3%81%aa%e3%81%9f%e3%81%af%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9%e3%81%8b%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e3%81%8b) | N/A |
-| 6 | [ソフトバンク](http://twitter.com/search?q=%e3%82%bd%e3%83%95%e3%83%88%e3%83%90%e3%83%b3%e3%82%af) | ソフトバンク is a Japanese telecommunications company that provides mobile phone, fixed-line telephone, internet, and IPTV services. In English, it is known as SoftBank. |
-| 7 | [オープン戦](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e6%88%a6) | N/A |
-| 8 | [宮城くん](http://twitter.com/search?q=%e5%ae%ae%e5%9f%8e%e3%81%8f%e3%82%93) | 宮城くん is a nickname given to people from Miyagi Prefecture in Japan. It is derived from the prefecture's name, which literally translates to "shrine city". In English, it can be translated as "Miyagi-kun". |
-| 9 | [ぱしゃっつ](http://twitter.com/search?q=%e3%81%b1%e3%81%97%e3%82%83%e3%81%a3%e3%81%a4) | ぱしゃっつ is an onomatopoeia that is used to express the sound of something being thrown or tossed. In English, it could be translated as "toss" or "throw". |
-| 10 | [#オリガミの魔女と博士の四角い時間](http://twitter.com/search?q=%23%e3%82%aa%e3%83%aa%e3%82%ac%e3%83%9f%e3%81%ae%e9%ad%94%e5%a5%b3%e3%81%a8%e5%8d%9a%e5%a3%ab%e3%81%ae%e5%9b%9b%e8%a7%92%e3%81%84%e6%99%82%e9%96%93) | N/A |
-| 11 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
-| 12 | [ホロバス](http://twitter.com/search?q=%e3%83%9b%e3%83%ad%e3%83%90%e3%82%b9) | N/A |
-| 13 | [シミッチ](http://twitter.com/search?q=%e3%82%b7%e3%83%9f%e3%83%83%e3%83%81) | N/A |
-| 14 | [ホークス](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%82%af%e3%82%b9) | ホークス (Hawks) is the name of a professional baseball team in Japan. The team is based in Fukuoka and plays in the Pacific League of Nippon Professional Baseball. The English translation of ホークス is "Hawks". |
-| 15 | [オフサイド](http://twitter.com/search?q=%e3%82%aa%e3%83%95%e3%82%b5%e3%82%a4%e3%83%89) | オフサイド (Offside) is a rule in soccer (football) that states that a player cannot be in the opposing team's half of the field, or closer to the goal line than both the ball and the second-to-last defender, when the ball is passed to them. In English, it is referred to as "offside". |
-| 16 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
-| 17 | [しんこちゃん](http://twitter.com/search?q=%e3%81%97%e3%82%93%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 18 | [開幕2連勝](http://twitter.com/search?q=%e9%96%8b%e5%b9%952%e9%80%a3%e5%8b%9d) | N/A |
-| 19 | [鈴木優磨](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e5%84%aa%e7%a3%a8) | N/A |
-| 20 | [リンセン](http://twitter.com/search?q=%e3%83%aa%e3%83%b3%e3%82%bb%e3%83%b3) | N/A |
-| 21 | [セレッソ](http://twitter.com/search?q=%e3%82%bb%e3%83%ac%e3%83%83%e3%82%bd) | セレッソ is a Japanese football club based in Osaka. The name is an abbreviation of the club's full name, Cerezo Osaka. In English, it means "Cerezo Osaka". |
-| 22 | [タイブレークの練習](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af%e3%81%ae%e7%b7%b4%e7%bf%92) | N/A |
-| 23 | [ブロッコリーくじ](http://twitter.com/search?q=%e3%83%96%e3%83%ad%e3%83%83%e3%82%b3%e3%83%aa%e3%83%bc%e3%81%8f%e3%81%98) | N/A |
-| 24 | [人生めちゃくちゃ](http://twitter.com/search?q=%e4%ba%ba%e7%94%9f%e3%82%81%e3%81%a1%e3%82%83%e3%81%8f%e3%81%a1%e3%82%83) | N/A |
-| 25 | [スタメン](http://twitter.com/search?q=%e3%82%b9%e3%82%bf%e3%83%a1%e3%83%b3) | N/A |
-| 26 | [ネタラヴィ](http://twitter.com/search?q=%e3%83%8d%e3%82%bf%e3%83%a9%e3%83%b4%e3%82%a3) | N/A |
-| 27 | [ビルドアップ](http://twitter.com/search?q=%e3%83%93%e3%83%ab%e3%83%89%e3%82%a2%e3%83%83%e3%83%97) | N/A |
-| 28 | [ジェバリ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%90%e3%83%aa) | ジェバリ (Jebari) is a Japanese slang term that means "cool" or "awesome". It is often used to express admiration or approval of something. |
-| 29 | [カイオーガ](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%82%aa%e3%83%bc%e3%82%ac) | N/A |
-| 30 | [ホーム開幕戦](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%83%a0%e9%96%8b%e5%b9%95%e6%88%a6) | ホーム開幕戦 is a Japanese phrase that translates to "home opener" in English. It is used to refer to the first game of a season that is played at the team's home stadium. |
-| 31 | [性的暴行容疑](http://twitter.com/search?q=%e6%80%a7%e7%9a%84%e6%9a%b4%e8%a1%8c%e5%ae%b9%e7%96%91) | N/A |
-| 32 | [アドニス](http://twitter.com/search?q=%e3%82%a2%e3%83%89%e3%83%8b%e3%82%b9) | アドニス is a Japanese word that means "Adonis," which is the name of a Greek god of beauty and desire. In English, it can also refer to a very handsome man. |
-| 33 | [グラードン](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%bc%e3%83%89%e3%83%b3) | N/A |
-| 34 | [ジネストラ](http://twitter.com/search?q=%e3%82%b8%e3%83%8d%e3%82%b9%e3%83%88%e3%83%a9) | N/A |
-| 35 | [佐々木朗希](http://twitter.com/search?q=%e4%bd%90%e3%80%85%e6%9c%a8%e6%9c%97%e5%b8%8c) | 佐々木朗希 (Sasaki Akira) is a Japanese name. It is composed of two kanji characters: 佐 (sa) meaning "help" and 木 (ki) meaning "tree"; 朗 (akira) meaning "clear" and 希 (ki) meaning "hope". In English, the name can be translated to mean "Helpful Tree, Clear Hope". |
-| 36 | [メイショウフンジン](http://twitter.com/search?q=%e3%83%a1%e3%82%a4%e3%82%b7%e3%83%a7%e3%82%a6%e3%83%95%e3%83%b3%e3%82%b8%e3%83%b3) | メイショウフンジン is a type of Japanese sweet made from mochi (rice cake) and red bean paste. It is often served during special occasions such as weddings or New Year's celebrations. In English, it is known as "Maisyo Funjin". |
-| 37 | [上級ヤンデレ](http://twitter.com/search?q=%e4%b8%8a%e7%b4%9a%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac) | N/A |
-| 38 | [モーベルグ](http://twitter.com/search?q=%e3%83%a2%e3%83%bc%e3%83%99%e3%83%ab%e3%82%b0) | N/A |
-| 39 | [ヤンデレ度80](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e5%ba%a680) | N/A |
-| 40 | [メンヘラ度20](http://twitter.com/search?q=%e3%83%a1%e3%83%b3%e3%83%98%e3%83%a9%e5%ba%a620) | N/A |
-| 41 | [ヤンデレちゃん](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e3%81%a1%e3%82%83%e3%82%93) | N/A |
-| 42 | [恩返し弾](http://twitter.com/search?q=%e6%81%a9%e8%bf%94%e3%81%97%e5%bc%be) | N/A |
-| 43 | [宇田川くん](http://twitter.com/search?q=%e5%ae%87%e7%94%b0%e5%b7%9d%e3%81%8f%e3%82%93) | N/A |
-| 44 | [ソンユン](http://twitter.com/search?q=%e3%82%bd%e3%83%b3%e3%83%a6%e3%83%b3) | N/A |
-| 45 | [中山最終](http://twitter.com/search?q=%e4%b8%ad%e5%b1%b1%e6%9c%80%e7%b5%82) | 中山最終 (Nakayama Saishuu) is a Japanese phrase meaning "final stop at Nakayama". It is used to refer to the last stop on a train line, usually located in the city of Nakayama. |
-| 46 | [クリーンシート](http://twitter.com/search?q=%e3%82%af%e3%83%aa%e3%83%bc%e3%83%b3%e3%82%b7%e3%83%bc%e3%83%88) | N/A |
-| 47 | [うたプリ](http://twitter.com/search?q=%e3%81%86%e3%81%9f%e3%83%97%e3%83%aa) | N/A |
-| 48 | [パトリッキ](http://twitter.com/search?q=%e3%83%91%e3%83%88%e3%83%aa%e3%83%83%e3%82%ad) | パトリッキ is a Japanese board game similar to the Western game of Ludo. The name comes from the Japanese words "patorikku" (patrolling) and "ki" (board). The goal of the game is to move all four pieces around the board and back to the starting point. |
-| 49 | [わけほー](http://twitter.com/search?q=%e3%82%8f%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
+| 2 | [DOGSO](http://twitter.com/search?q=DOGSO) | N/A |
+| 3 | [#みんなで見ようAPOŹ_DAY1](http://twitter.com/search?q=%23%e3%81%bf%e3%82%93%e3%81%aa%e3%81%a7%e8%a6%8b%e3%82%88%e3%81%86APO%c5%b9_DAY1) | N/A |
+| 4 | [#DD_LIVEday1](http://twitter.com/search?q=%23DD_LIVEday1) | N/A |
+| 5 | [#乃木坂バスラ3期生ライブ](http://twitter.com/search?q=%23%e4%b9%83%e6%9c%a8%e5%9d%82%e3%83%90%e3%82%b9%e3%83%a93%e6%9c%9f%e7%94%9f%e3%83%a9%e3%82%a4%e3%83%96) | N/A |
+| 6 | [フロンターレ](http://twitter.com/search?q=%e3%83%95%e3%83%ad%e3%83%b3%e3%82%bf%e3%83%bc%e3%83%ac) | N/A |
+| 7 | [赤面フラッシュ](http://twitter.com/search?q=%e8%b5%a4%e9%9d%a2%e3%83%95%e3%83%a9%e3%83%83%e3%82%b7%e3%83%a5) | N/A |
+| 8 | [サプライズボーイ](http://twitter.com/search?q=%e3%82%b5%e3%83%97%e3%83%a9%e3%82%a4%e3%82%ba%e3%83%9c%e3%83%bc%e3%82%a4) | N/A |
+| 9 | [レディ・ナガン](http://twitter.com/search?q=%e3%83%ac%e3%83%87%e3%82%a3%e3%83%bb%e3%83%8a%e3%82%ac%e3%83%b3) | N/A |
+| 10 | [ぱしゃっつ](http://twitter.com/search?q=%e3%81%b1%e3%81%97%e3%82%83%e3%81%a3%e3%81%a4) | ぱしゃっつ is an onomatopoeia that is used to express the sound of something being thrown or tossed. In English, it could be translated as "toss" or "throw". |
+| 11 | [ホークス](http://twitter.com/search?q=%e3%83%9b%e3%83%bc%e3%82%af%e3%82%b9) | ホークス (Hawks) is the name of a professional baseball team in Japan. The team is based in Fukuoka and plays in the Pacific League of Nippon Professional Baseball. The English translation of ホークス is "Hawks". |
+| 12 | [マリノス](http://twitter.com/search?q=%e3%83%9e%e3%83%aa%e3%83%8e%e3%82%b9) | マリノス (Marinos) is a Japanese professional football club based in Yokohama, Kanagawa Prefecture. The team competes in the J1 League, which is the top tier of football in Japan. The name "Marinos" is derived from the Spanish word for "sailors". |
+| 13 | [オロロジャイア](http://twitter.com/search?q=%e3%82%aa%e3%83%ad%e3%83%ad%e3%82%b8%e3%83%a3%e3%82%a4%e3%82%a2) | N/A |
+| 14 | [宝石の国](http://twitter.com/search?q=%e5%ae%9d%e7%9f%b3%e3%81%ae%e5%9b%bd) | N/A |
+| 15 | [横浜優勝](http://twitter.com/search?q=%e6%a8%aa%e6%b5%9c%e5%84%aa%e5%8b%9d) | N/A |
+| 16 | [PKやり直し](http://twitter.com/search?q=PK%e3%82%84%e3%82%8a%e7%9b%b4%e3%81%97) | N/A |
+| 17 | [デクくん](http://twitter.com/search?q=%e3%83%87%e3%82%af%e3%81%8f%e3%82%93) | デクくん is a character from the Japanese manga series Doraemon. He is a robotic cat from the future who travels back in time to help his human friend, Nobita. The name "デクくん" translates to "Deku-kun" in English. |
+| 18 | [ホロバス](http://twitter.com/search?q=%e3%83%9b%e3%83%ad%e3%83%90%e3%82%b9) | N/A |
+| 19 | [鹿島川崎](http://twitter.com/search?q=%e9%b9%bf%e5%b3%b6%e5%b7%9d%e5%b4%8e) | N/A |
+| 20 | [タイブレークの練習](http://twitter.com/search?q=%e3%82%bf%e3%82%a4%e3%83%96%e3%83%ac%e3%83%bc%e3%82%af%e3%81%ae%e7%b7%b4%e7%bf%92) | N/A |
+| 21 | [カタシロ](http://twitter.com/search?q=%e3%82%ab%e3%82%bf%e3%82%b7%e3%83%ad) | カタシロ is a Japanese word that means "tattoo". It is often used to refer to traditional Japanese tattoos, which are usually large and intricate designs. |
+| 22 | [開幕2連勝](http://twitter.com/search?q=%e9%96%8b%e5%b9%952%e9%80%a3%e5%8b%9d) | N/A |
+| 23 | [ユンカー](http://twitter.com/search?q=%e3%83%a6%e3%83%b3%e3%82%ab%e3%83%bc) | ユンカー (Yunka) is a Japanese word that means "sly" or "crafty". It is often used to describe someone who is clever and cunning. |
+| 24 | [しんこちゃん](http://twitter.com/search?q=%e3%81%97%e3%82%93%e3%81%93%e3%81%a1%e3%82%83%e3%82%93) | N/A |
+| 25 | [オープン戦](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%97%e3%83%b3%e6%88%a6) | N/A |
+| 26 | [ソフトバンク](http://twitter.com/search?q=%e3%82%bd%e3%83%95%e3%83%88%e3%83%90%e3%83%b3%e3%82%af) | ソフトバンク is a Japanese telecommunications company that provides mobile phone, fixed-line telephone, internet, and IPTV services. In English, it is known as SoftBank. |
+| 27 | [セレッソ](http://twitter.com/search?q=%e3%82%bb%e3%83%ac%e3%83%83%e3%82%bd) | セレッソ is a Japanese football club based in Osaka. The name is an abbreviation of the club's full name, Cerezo Osaka. In English, it means "Cerezo Osaka". |
+| 28 | [カイオーガ](http://twitter.com/search?q=%e3%82%ab%e3%82%a4%e3%82%aa%e3%83%bc%e3%82%ac) | N/A |
+| 29 | [家長さん](http://twitter.com/search?q=%e5%ae%b6%e9%95%b7%e3%81%95%e3%82%93) | N/A |
+| 30 | [鈴木優磨](http://twitter.com/search?q=%e9%88%b4%e6%9c%a8%e5%84%aa%e7%a3%a8) | N/A |
+| 31 | [シミッチ](http://twitter.com/search?q=%e3%82%b7%e3%83%9f%e3%83%83%e3%83%81) | N/A |
+| 32 | [宮城くん](http://twitter.com/search?q=%e5%ae%ae%e5%9f%8e%e3%81%8f%e3%82%93) | 宮城くん is a nickname given to people from Miyagi Prefecture in Japan. It is derived from the prefecture's name, which literally translates to "shrine city". In English, it can be translated as "Miyagi-kun". |
+| 33 | [人生めちゃくちゃ](http://twitter.com/search?q=%e4%ba%ba%e7%94%9f%e3%82%81%e3%81%a1%e3%82%83%e3%81%8f%e3%81%a1%e3%82%83) | N/A |
+| 34 | [ヨンビン](http://twitter.com/search?q=%e3%83%a8%e3%83%b3%e3%83%93%e3%83%b3) | N/A |
+| 35 | [グラードン](http://twitter.com/search?q=%e3%82%b0%e3%83%a9%e3%83%bc%e3%83%89%e3%83%b3) | N/A |
+| 36 | [オールマイト](http://twitter.com/search?q=%e3%82%aa%e3%83%bc%e3%83%ab%e3%83%9e%e3%82%a4%e3%83%88) | N/A |
+| 37 | [ナガンさん](http://twitter.com/search?q=%e3%83%8a%e3%82%ac%e3%83%b3%e3%81%95%e3%82%93) | N/A |
+| 38 | [まけほー](http://twitter.com/search?q=%e3%81%be%e3%81%91%e3%81%bb%e3%83%bc) | N/A |
+| 39 | [ロンシロ](http://twitter.com/search?q=%e3%83%ad%e3%83%b3%e3%82%b7%e3%83%ad) | N/A |
+| 40 | [蹴り直し](http://twitter.com/search?q=%e8%b9%b4%e3%82%8a%e7%9b%b4%e3%81%97) | N/A |
+| 41 | [アドニス](http://twitter.com/search?q=%e3%82%a2%e3%83%89%e3%83%8b%e3%82%b9) | アドニス is a Japanese word that means "Adonis," which is the name of a Greek god of beauty and desire. In English, it can also refer to a very handsome man. |
+| 42 | [ジェバリ](http://twitter.com/search?q=%e3%82%b8%e3%82%a7%e3%83%90%e3%83%aa) | ジェバリ (Jebari) is a Japanese slang term that means "cool" or "awesome". It is often used to express admiration or approval of something. |
+| 43 | [アニアカ](http://twitter.com/search?q=%e3%82%a2%e3%83%8b%e3%82%a2%e3%82%ab) | アニアカ is a Japanese term that translates to "anime fan". It is used to refer to someone who is an avid fan of anime and manga. |
+| 44 | [周年イベ](http://twitter.com/search?q=%e5%91%a8%e5%b9%b4%e3%82%a4%e3%83%99) | 周年イベ is short for 周年イベント, which means "anniversary event" in English. It is an event that is held to celebrate the anniversary of a company, organization, or other entity. |
+| 45 | [ネタラヴィ](http://twitter.com/search?q=%e3%83%8d%e3%82%bf%e3%83%a9%e3%83%b4%e3%82%a3) | N/A |
+| 46 | [ブソクスン7冠](http://twitter.com/search?q=%e3%83%96%e3%82%bd%e3%82%af%e3%82%b9%e3%83%b37%e5%86%a0) | N/A |
+| 47 | [ヤンデレ度80](http://twitter.com/search?q=%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac%e5%ba%a680) | N/A |
+| 48 | [性的暴行容疑](http://twitter.com/search?q=%e6%80%a7%e7%9a%84%e6%9a%b4%e8%a1%8c%e5%ae%b9%e7%96%91) | N/A |
+| 49 | [上級ヤンデレ](http://twitter.com/search?q=%e4%b8%8a%e7%b4%9a%e3%83%a4%e3%83%b3%e3%83%87%e3%83%ac) | N/A |
 
 
 
