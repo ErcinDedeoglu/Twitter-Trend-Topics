@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Israel
 
-📆 Last Updated: `2023-02-25 18:17:11 UTC`
+📆 Last Updated: `2023-02-25 19:16:42 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,55 @@ This is top 50 for Israel
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [שבוע טוב](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%98%d7%95%d7%91) | שבוע טוב is a Hebrew phrase meaning "have a good week". It is often used as a greeting or farewell. |
-| 2 | [חנן יובל](http://twitter.com/search?q=%d7%97%d7%a0%d7%9f+%d7%99%d7%95%d7%91%d7%9c) | N/A |
-| 3 | [שבת שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c%d7%95%d7%9d) | שבת שלום is a Hebrew phrase meaning "have a peaceful Sabbath". It is a common greeting used on the Jewish Sabbath. |
-| 4 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
-| 5 | [זהר טל](http://twitter.com/search?q=%d7%96%d7%94%d7%a8+%d7%98%d7%9c) | N/A |
-| 6 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
-| 7 | [נתניהו אמר](http://twitter.com/search?q=%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95+%d7%90%d7%9e%d7%a8) | N/A |
-| 8 | [מנור סולומון](http://twitter.com/search?q=%d7%9e%d7%a0%d7%95%d7%a8+%d7%a1%d7%95%d7%9c%d7%95%d7%9e%d7%95%d7%9f) | N/A |
-| 9 | [שלמה ארצי](http://twitter.com/search?q=%d7%a9%d7%9c%d7%9e%d7%94+%d7%90%d7%a8%d7%a6%d7%99) | N/A |
-| 10 | [לתת אגרוף](http://twitter.com/search?q=%d7%9c%d7%aa%d7%aa+%d7%90%d7%92%d7%a8%d7%95%d7%a3) | N/A |
-| 11 | [אהוד ברק](http://twitter.com/search?q=%d7%90%d7%94%d7%95%d7%93+%d7%91%d7%a8%d7%a7) | N/A |
-| 12 | [אייל גולן](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
-| 13 | [איילה חסון](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%94+%d7%97%d7%a1%d7%95%d7%9f) | איילה חסון is a Hebrew phrase meaning "Eilah Hasun," which translates to "God is gracious." It is often used as a blessing or expression of gratitude. |
+| 2 | [שבת שלום](http://twitter.com/search?q=%d7%a9%d7%91%d7%aa+%d7%a9%d7%9c%d7%95%d7%9d) | שבת שלום is a Hebrew phrase meaning "have a peaceful Sabbath". It is a common greeting used on the Jewish Sabbath. |
+| 3 | [חנן יובל](http://twitter.com/search?q=%d7%97%d7%a0%d7%9f+%d7%99%d7%95%d7%91%d7%9c) | N/A |
+| 4 | [צהוב שני](http://twitter.com/search?q=%d7%a6%d7%94%d7%95%d7%91+%d7%a9%d7%a0%d7%99) | N/A |
+| 5 | [שבוע מבורך](http://twitter.com/search?q=%d7%a9%d7%91%d7%95%d7%a2+%d7%9e%d7%91%d7%95%d7%a8%d7%9a) | N/A |
+| 6 | [נתניהו אמר](http://twitter.com/search?q=%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95+%d7%90%d7%9e%d7%a8) | N/A |
+| 7 | [מנור סולומון](http://twitter.com/search?q=%d7%9e%d7%a0%d7%95%d7%a8+%d7%a1%d7%95%d7%9c%d7%95%d7%9e%d7%95%d7%9f) | N/A |
+| 8 | [אמיר איבגי](http://twitter.com/search?q=%d7%90%d7%9e%d7%99%d7%a8+%d7%90%d7%99%d7%91%d7%92%d7%99) | N/A |
+| 9 | [של חיפה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 10 | [אהוד ברק](http://twitter.com/search?q=%d7%90%d7%94%d7%95%d7%93+%d7%91%d7%a8%d7%a7) | N/A |
+| 11 | [מכבי חיפה](http://twitter.com/search?q=%d7%9e%d7%9b%d7%91%d7%99+%d7%97%d7%99%d7%a4%d7%94) | N/A |
+| 12 | [שלמה ארצי](http://twitter.com/search?q=%d7%a9%d7%9c%d7%9e%d7%94+%d7%90%d7%a8%d7%a6%d7%99) | N/A |
+| 13 | [יריב לוין](http://twitter.com/search?q=%d7%99%d7%a8%d7%99%d7%91+%d7%9c%d7%95%d7%99%d7%9f) | N/A |
 | 14 | [מקור ראשון](http://twitter.com/search?q=%d7%9e%d7%a7%d7%95%d7%a8+%d7%a8%d7%90%d7%a9%d7%95%d7%9f) | N/A |
-| 15 | [אייל ברקוביץ](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c+%d7%91%d7%a8%d7%a7%d7%95%d7%91%d7%99%d7%a5) | N/A |
-| 16 | [בהם״](http://twitter.com/search?q=%d7%91%d7%94%d7%9d%d7%b4) | N/A |
-| 17 | [ראש המוסד](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%95%d7%a1%d7%93) | N/A |
-| 18 | [נגד הסכם הגז](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%a1%d7%9b%d7%9d+%d7%94%d7%92%d7%96) | N/A |
-| 19 | [ר ירושלים](http://twitter.com/search?q=%d7%a8+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
-| 20 | [אדוני ראש הממשלה](http://twitter.com/search?q=%d7%90%d7%93%d7%95%d7%a0%d7%99+%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
-| 21 | [של שפחה](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%a4%d7%97%d7%94) | N/A |
-| 22 | [של מעריב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a2%d7%a8%d7%99%d7%91) | N/A |
-| 23 | [הוד השרון](http://twitter.com/search?q=%d7%94%d7%95%d7%93+%d7%94%d7%a9%d7%a8%d7%95%d7%9f) | N/A |
+| 15 | [אייל גולן](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c+%d7%92%d7%95%d7%9c%d7%9f) | N/A |
+| 16 | [איילה חסון](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c%d7%94+%d7%97%d7%a1%d7%95%d7%9f) | איילה חסון is a Hebrew phrase meaning "Eilah Hasun," which translates to "God is gracious." It is often used as a blessing or expression of gratitude. |
+| 17 | [לתת אגרוף](http://twitter.com/search?q=%d7%9c%d7%aa%d7%aa+%d7%90%d7%92%d7%a8%d7%95%d7%a3) | N/A |
+| 18 | [בהם״](http://twitter.com/search?q=%d7%91%d7%94%d7%9d%d7%b4) | N/A |
+| 19 | [זהר טל](http://twitter.com/search?q=%d7%96%d7%94%d7%a8+%d7%98%d7%9c) | N/A |
+| 20 | [ראש המוסד](http://twitter.com/search?q=%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%95%d7%a1%d7%93) | N/A |
+| 21 | [אייל ברקוביץ](http://twitter.com/search?q=%d7%90%d7%99%d7%99%d7%9c+%d7%91%d7%a8%d7%a7%d7%95%d7%91%d7%99%d7%a5) | N/A |
+| 22 | [ר ירושלים](http://twitter.com/search?q=%d7%a8+%d7%99%d7%a8%d7%95%d7%a9%d7%9c%d7%99%d7%9d) | N/A |
+| 23 | [נגד הסכם הגז](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%a1%d7%9b%d7%9d+%d7%94%d7%92%d7%96) | N/A |
 | 24 | [כפר סבא](http://twitter.com/search?q=%d7%9b%d7%a4%d7%a8+%d7%a1%d7%91%d7%90) | N/A |
-| 25 | [של שבת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%91%d7%aa) | N/A |
-| 26 | [שי ניצן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%a0%d7%99%d7%a6%d7%9f) | N/A |
-| 27 | [עם אגרוף](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%92%d7%a8%d7%95%d7%a3) | N/A |
-| 28 | [חינוך חינם](http://twitter.com/search?q=%d7%97%d7%99%d7%a0%d7%95%d7%9a+%d7%97%d7%99%d7%a0%d7%9d) | N/A |
-| 29 | [של נס](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%a1) | N/A |
-| 30 | [אולפן שישי](http://twitter.com/search?q=%d7%90%d7%95%d7%9c%d7%a4%d7%9f+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
-| 31 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
-| 32 | [בן זכר בכור](http://twitter.com/search?q=%d7%91%d7%9f+%d7%96%d7%9b%d7%a8+%d7%91%d7%9b%d7%95%d7%a8) | N/A |
-| 33 | [של מנור](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a0%d7%95%d7%a8) | N/A |
-| 34 | [הפועל תל אביב](http://twitter.com/search?q=%d7%94%d7%a4%d7%95%d7%a2%d7%9c+%d7%aa%d7%9c+%d7%90%d7%91%d7%99%d7%91) | N/A |
-| 35 | [כולנו עם אחד](http://twitter.com/search?q=%d7%9b%d7%95%d7%9c%d7%a0%d7%95+%d7%a2%d7%9d+%d7%90%d7%97%d7%93) | N/A |
-| 36 | [עם הקריאה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%a7%d7%a8%d7%99%d7%90%d7%94) | N/A |
-| 37 | [דגל שחור](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%a9%d7%97%d7%95%d7%a8) | N/A |
-| 38 | [#נבצרות_עכשיו](http://twitter.com/search?q=%23%d7%a0%d7%91%d7%a6%d7%a8%d7%95%d7%aa_%d7%a2%d7%9b%d7%a9%d7%99%d7%95) | N/A |
-| 39 | [אביב אלוש](http://twitter.com/search?q=%d7%90%d7%91%d7%99%d7%91+%d7%90%d7%9c%d7%95%d7%a9) | N/A |
-| 40 | [מזל טוב גלעד](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91+%d7%92%d7%9c%d7%a2%d7%93) | N/A |
-| 41 | [סירוב פקודה](http://twitter.com/search?q=%d7%a1%d7%99%d7%a8%d7%95%d7%91+%d7%a4%d7%a7%d7%95%d7%93%d7%94) | N/A |
-| 42 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
-| 43 | [של ברקו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a8%d7%a7%d7%95) | N/A |
-| 44 | [מס עבאס](http://twitter.com/search?q=%d7%9e%d7%a1+%d7%a2%d7%91%d7%90%d7%a1) | N/A |
-| 45 | [גוש נתניהו](http://twitter.com/search?q=%d7%92%d7%95%d7%a9+%d7%a0%d7%aa%d7%a0%d7%99%d7%94%d7%95) | N/A |
-| 46 | [לבד עם](http://twitter.com/search?q=%d7%9c%d7%91%d7%93+%d7%a2%d7%9d) | N/A |
-| 47 | [רני רהב](http://twitter.com/search?q=%d7%a8%d7%a0%d7%99+%d7%a8%d7%94%d7%91) | N/A |
-| 48 | [תקציב המדינה](http://twitter.com/search?q=%d7%aa%d7%a7%d7%a6%d7%99%d7%91+%d7%94%d7%9e%d7%93%d7%99%d7%a0%d7%94) | N/A |
-| 49 | [נגד הפיכה](http://twitter.com/search?q=%d7%a0%d7%92%d7%93+%d7%94%d7%a4%d7%99%d7%9b%d7%94) | N/A |
-| 50 | [ערב טוב](http://twitter.com/search?q=%d7%a2%d7%a8%d7%91+%d7%98%d7%95%d7%91) | N/A |
+| 25 | [אדוני ראש הממשלה](http://twitter.com/search?q=%d7%90%d7%93%d7%95%d7%a0%d7%99+%d7%a8%d7%90%d7%a9+%d7%94%d7%9e%d7%9e%d7%a9%d7%9c%d7%94) | N/A |
+| 26 | [דור פרץ](http://twitter.com/search?q=%d7%93%d7%95%d7%a8+%d7%a4%d7%a8%d7%a5) | N/A |
+| 27 | [של מעריב](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a2%d7%a8%d7%99%d7%91) | N/A |
+| 28 | [הוד השרון](http://twitter.com/search?q=%d7%94%d7%95%d7%93+%d7%94%d7%a9%d7%a8%d7%95%d7%9f) | N/A |
+| 29 | [של שבת](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a9%d7%91%d7%aa) | N/A |
+| 30 | [כולנו עם אחד](http://twitter.com/search?q=%d7%9b%d7%95%d7%9c%d7%a0%d7%95+%d7%a2%d7%9d+%d7%90%d7%97%d7%93) | N/A |
+| 31 | [ערוץ תעמולה](http://twitter.com/search?q=%d7%a2%d7%a8%d7%95%d7%a5+%d7%aa%d7%a2%d7%9e%d7%95%d7%9c%d7%94) | N/A |
+| 32 | [אולפן שישי](http://twitter.com/search?q=%d7%90%d7%95%d7%9c%d7%a4%d7%9f+%d7%a9%d7%99%d7%a9%d7%99) | N/A |
+| 33 | [עם אגרוף](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%90%d7%92%d7%a8%d7%95%d7%a3) | N/A |
+| 34 | [מרי אזרחי](http://twitter.com/search?q=%d7%9e%d7%a8%d7%99+%d7%90%d7%96%d7%a8%d7%97%d7%99) | N/A |
+| 35 | [שי ניצן](http://twitter.com/search?q=%d7%a9%d7%99+%d7%a0%d7%99%d7%a6%d7%9f) | N/A |
+| 36 | [של נס](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%a0%d7%a1) | N/A |
+| 37 | [#נבצרות_עכשיו](http://twitter.com/search?q=%23%d7%a0%d7%91%d7%a6%d7%a8%d7%95%d7%aa_%d7%a2%d7%9b%d7%a9%d7%99%d7%95) | N/A |
+| 38 | [קרן מרציאנו](http://twitter.com/search?q=%d7%a7%d7%a8%d7%9f+%d7%9e%d7%a8%d7%a6%d7%99%d7%90%d7%a0%d7%95) | N/A |
+| 39 | [בן זכר בכור](http://twitter.com/search?q=%d7%91%d7%9f+%d7%96%d7%9b%d7%a8+%d7%91%d7%9b%d7%95%d7%a8) | N/A |
+| 40 | [של מנור](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%9e%d7%a0%d7%95%d7%a8) | N/A |
+| 41 | [עם הקריאה](http://twitter.com/search?q=%d7%a2%d7%9d+%d7%94%d7%a7%d7%a8%d7%99%d7%90%d7%94) | N/A |
+| 42 | [#דמוקרטיה](http://twitter.com/search?q=%23%d7%93%d7%9e%d7%95%d7%a7%d7%a8%d7%98%d7%99%d7%94) | N/A |
+| 43 | [אביב אלוש](http://twitter.com/search?q=%d7%90%d7%91%d7%99%d7%91+%d7%90%d7%9c%d7%95%d7%a9) | N/A |
+| 44 | [מזל טוב גלעד](http://twitter.com/search?q=%d7%9e%d7%96%d7%9c+%d7%98%d7%95%d7%91+%d7%92%d7%9c%d7%a2%d7%93) | N/A |
+| 45 | [דגל שחור](http://twitter.com/search?q=%d7%93%d7%92%d7%9c+%d7%a9%d7%97%d7%95%d7%a8) | N/A |
+| 46 | [סירוב פקודה](http://twitter.com/search?q=%d7%a1%d7%99%d7%a8%d7%95%d7%91+%d7%a4%d7%a7%d7%95%d7%93%d7%94) | N/A |
+| 47 | [מהנדס תודעה](http://twitter.com/search?q=%d7%9e%d7%94%d7%a0%d7%93%d7%a1+%d7%aa%d7%95%d7%93%d7%a2%d7%94) | N/A |
+| 48 | [רק ערוץ](http://twitter.com/search?q=%d7%a8%d7%a7+%d7%a2%d7%a8%d7%95%d7%a5) | N/A |
+| 49 | [Shabbat Shalom](http://twitter.com/search?q=Shabbat+Shalom) | N/A |
+| 50 | [של ברקו](http://twitter.com/search?q=%d7%a9%d7%9c+%d7%91%d7%a8%d7%a7%d7%95) | N/A |
 
 
 

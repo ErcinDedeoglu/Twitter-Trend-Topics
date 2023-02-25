@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Lodz
 
-📆 Last Updated: `2023-02-25 18:16:25 UTC`
+📆 Last Updated: `2023-02-25 19:15:56 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -16,55 +16,41 @@ This is top 50 for [Poland](</Poland>)
 | Ranking | Topic | Mean |
 | ------- | ------------ | ------------ |
 | 1 | [#skijumpingfamily](http://twitter.com/search?q=%23skijumpingfamily) | N/A |
-| 2 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
-| 3 | [#TAURONPucharPolski](http://twitter.com/search?q=%23TAURONPucharPolski) | N/A |
-| 4 | [#WARKOR](http://twitter.com/search?q=%23WARKOR) | N/A |
-| 5 | [#EkipaSezon4](http://twitter.com/search?q=%23EkipaSezon4) | N/A |
-| 6 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
-| 7 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
-| 8 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
-| 9 | [Paweł Wąsek](http://twitter.com/search?q=Pawe%c5%82+W%c4%85sek) | N/A |
-| 10 | [Ukrainę](http://twitter.com/search?q=Ukrain%c4%99) | N/A |
-| 11 | [Marusiak](http://twitter.com/search?q=Marusiak) | N/A |
-| 12 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
-| 13 | [Pięknie Kamil](http://twitter.com/search?q=Pi%c4%99knie+Kamil) | N/A |
-| 14 | [Stefan Kraft](http://twitter.com/search?q=Stefan+Kraft) | N/A |
-| 15 | [Fortuna](http://twitter.com/search?q=Fortuna) | N/A |
-| 16 | [Krejcikova](http://twitter.com/search?q=Krejcikova) | N/A |
-| 17 | [Grodzisku](http://twitter.com/search?q=Grodzisku) | N/A |
-| 18 | [Rosji](http://twitter.com/search?q=Rosji) | N/A |
-| 19 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
-| 20 | [Czeszka](http://twitter.com/search?q=Czeszka) | N/A |
-| 21 | [Korony](http://twitter.com/search?q=Korony) | N/A |
-| 22 | [Kliczko](http://twitter.com/search?q=Kliczko) | N/A |
-| 23 | [Kubackiego](http://twitter.com/search?q=Kubackiego) | N/A |
-| 24 | [Marsylii](http://twitter.com/search?q=Marsylii) | N/A |
-| 25 | [Martinelli](http://twitter.com/search?q=Martinelli) | Martinelli is a surname of Italian origin. It is derived from the given name Martino, which is derived from the Latin name Martinus, meaning "of Mars". The name is most commonly associated with the Martinelli family of Piedmont, Italy. In English, it can be translated to mean "son of Mars". |
-| 26 | [Warty](http://twitter.com/search?q=Warty) | N/A |
-| 27 | [Przyjaźń](http://twitter.com/search?q=Przyja%c5%ba%c5%84) | N/A |
-| 28 | [Pawła](http://twitter.com/search?q=Paw%c5%82a) | N/A |
-| 29 | [Żyły](http://twitter.com/search?q=%c5%bby%c5%82y) | N/A |
-| 30 | [Widzew](http://twitter.com/search?q=Widzew) | N/A |
-| 31 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
-| 32 | [Xhaka](http://twitter.com/search?q=Xhaka) | Xhaka is a surname of Albanian origin. It is derived from the word "xhak", which means "shield". In English, it can be translated to mean "protector". |
-| 33 | [Sokołowski](http://twitter.com/search?q=Soko%c5%82owski) | N/A |
-| 34 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
-| 35 | [Leopardy](http://twitter.com/search?q=Leopardy) | N/A |
-| 36 | [Ryoyu](http://twitter.com/search?q=Ryoyu) | N/A |
-| 37 | [Piasta](http://twitter.com/search?q=Piasta) | N/A |
-| 38 | [Werki](http://twitter.com/search?q=Werki) | N/A |
-| 39 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 40 | [Ukraińców](http://twitter.com/search?q=Ukrai%c5%84c%c3%b3w) | N/A |
-| 41 | [Mula](http://twitter.com/search?q=Mula) | N/A |
-| 42 | [Hubert Hurkacz](http://twitter.com/search?q=Hubert+Hurkacz) | N/A |
-| 43 | [Hansen](http://twitter.com/search?q=Hansen) | N/A |
-| 44 | [Iga Świątek](http://twitter.com/search?q=Iga+%c5%9awi%c4%85tek) | N/A |
-| 45 | [Dominika](http://twitter.com/search?q=Dominika) | N/A |
-| 46 | [centralne biuro antyaborcyjne](http://twitter.com/search?q=centralne+biuro+antyaborcyjne) | N/A |
-| 47 | [Warzecha](http://twitter.com/search?q=Warzecha) | N/A |
-| 48 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 49 | [Josue](http://twitter.com/search?q=Josue) | N/A |
-| 50 | [Zaksa](http://twitter.com/search?q=Zaksa) | N/A |
+| 2 | [Piotr Żyła](http://twitter.com/search?q=Piotr+%c5%bby%c5%82a) | N/A |
+| 3 | [#TheVoiceKids](http://twitter.com/search?q=%23TheVoiceKids) | N/A |
+| 4 | [#Planica2023](http://twitter.com/search?q=%23Planica2023) | N/A |
+| 5 | [#TAURONPucharPolski](http://twitter.com/search?q=%23TAURONPucharPolski) | N/A |
+| 6 | [#t5m2](http://twitter.com/search?q=%23t5m2) | N/A |
+| 7 | [Piotrka](http://twitter.com/search?q=Piotrka) | N/A |
+| 8 | [Z 13](http://twitter.com/search?q=Z+13) | N/A |
+| 9 | [Mistrza Świata](http://twitter.com/search?q=Mistrza+%c5%9awiata) | N/A |
+| 10 | [Seefeld](http://twitter.com/search?q=Seefeld) | N/A |
+| 11 | [Warty](http://twitter.com/search?q=Warty) | N/A |
+| 12 | [Kamil](http://twitter.com/search?q=Kamil) | N/A |
+| 13 | [Adam Małysz](http://twitter.com/search?q=Adam+Ma%c5%82ysz) | N/A |
+| 14 | [Kubacki](http://twitter.com/search?q=Kubacki) | N/A |
+| 15 | [Kraft](http://twitter.com/search?q=Kraft) | N/A |
+| 16 | [Paweł Wąsek](http://twitter.com/search?q=Pawe%c5%82+W%c4%85sek) | N/A |
+| 17 | [Korony](http://twitter.com/search?q=Korony) | N/A |
+| 18 | [Resovii](http://twitter.com/search?q=Resovii) | N/A |
+| 19 | [Atletico](http://twitter.com/search?q=Atletico) | N/A |
+| 20 | [Leicester](http://twitter.com/search?q=Leicester) | Leicester is a city in the East Midlands of England. It is the county town of Leicestershire and is known for its rich cultural heritage. The name Leicester comes from the Old English word for "fort on the River Soar". |
+| 21 | [Madrytu](http://twitter.com/search?q=Madrytu) | N/A |
+| 22 | [Marsylii](http://twitter.com/search?q=Marsylii) | N/A |
+| 23 | [Dubaju](http://twitter.com/search?q=Dubaju) | N/A |
+| 24 | [Obajtek](http://twitter.com/search?q=Obajtek) | N/A |
+| 25 | [Orlen](http://twitter.com/search?q=Orlen) | N/A |
+| 26 | [Gliwicach](http://twitter.com/search?q=Gliwicach) | N/A |
+| 27 | [Warzecha](http://twitter.com/search?q=Warzecha) | N/A |
+| 28 | [#WARKOR](http://twitter.com/search?q=%23WARKOR) | N/A |
+| 29 | [#lazabawa](http://twitter.com/search?q=%23lazabawa) | N/A |
+| 30 | [#KSW79](http://twitter.com/search?q=%23KSW79) | N/A |
+| 31 | [#EkipaSezon4](http://twitter.com/search?q=%23EkipaSezon4) | N/A |
+| 32 | [#skokoholicy](http://twitter.com/search?q=%23skokoholicy) | N/A |
+| 33 | [#LGDRAD](http://twitter.com/search?q=%23LGDRAD) | N/A |
+| 34 | [#PIACRA](http://twitter.com/search?q=%23PIACRA) | N/A |
+| 35 | [#PodatekDlaObajtka](http://twitter.com/search?q=%23PodatekDlaObajtka) | N/A |
+| 36 | [#viaF1](http://twitter.com/search?q=%23viaF1) | N/A |
 
 
 

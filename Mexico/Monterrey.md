@@ -4,7 +4,7 @@
 
 📊 Top 50 Trending Topics For Monterrey
 
-📆 Last Updated: `2023-02-25 18:16:17 UTC`
+📆 Last Updated: `2023-02-25 19:15:49 UTC`
 
 🔧 Updated every 1 hour!
 
@@ -17,49 +17,52 @@ This is top 50 for [Mexico](</Mexico>)
 | ------- | ------------ | ------------ |
 | 1 | [Mazatlán](http://twitter.com/search?q=Mazatl%c3%a1n) | Mazatlán is a city in the Mexican state of Sinaloa. It is located on the Pacific coast and is known for its beaches, seafood, and colonial architecture. The name Mazatlán comes from the Nahuatl language and means "place of deer." |
 | 2 | [#DíaNaranja](http://twitter.com/search?q=%23D%c3%adaNaranja) | N/A |
-| 3 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
-| 4 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
-| 5 | [Carlos Vela](http://twitter.com/search?q=Carlos+Vela) | N/A |
-| 6 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
-| 7 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
-| 8 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
-| 9 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
-| 10 | [Marshmello](http://twitter.com/search?q=Marshmello) | N/A |
-| 11 | [#Únete](http://twitter.com/search?q=%23%c3%9anete) | N/A |
-| 12 | [Checo](http://twitter.com/search?q=Checo) | N/A |
-| 13 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
-| 14 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
-| 15 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
-| 16 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
-| 17 | [César Montes](http://twitter.com/search?q=C%c3%a9sar+Montes) | N/A |
-| 18 | [El 25](http://twitter.com/search?q=El+25) | N/A |
-| 19 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
-| 20 | [Anáhuac](http://twitter.com/search?q=An%c3%a1huac) | N/A |
-| 21 | [Santiago Nieto](http://twitter.com/search?q=Santiago+Nieto) | N/A |
-| 22 | [Bundesliga](http://twitter.com/search?q=Bundesliga) | N/A |
-| 23 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
-| 24 | [Marcial Maciel](http://twitter.com/search?q=Marcial+Maciel) | N/A |
+| 3 | [#RMxBOTTEGAVENETA](http://twitter.com/search?q=%23RMxBOTTEGAVENETA) | N/A |
+| 4 | [RMILAN FASHION WEEK](http://twitter.com/search?q=RMILAN+FASHION+WEEK) | N/A |
+| 5 | [Correa](http://twitter.com/search?q=Correa) | Correa is a Spanish surname. It is derived from the Latin word correus, meaning "messenger". In English, it can be translated to mean "messenger" or "courier". |
+| 6 | [#RealMadridAtleti](http://twitter.com/search?q=%23RealMadridAtleti) | N/A |
+| 7 | [Perú](http://twitter.com/search?q=Per%c3%ba) | Perú is the official name of a country in South America. It is bordered by Ecuador and Colombia to the north, Brazil and Bolivia to the east, Chile to the south, and the Pacific Ocean to the west. The name Perú comes from a word in the native Quechua language meaning "land of abundance." |
+| 8 | [Carlos Vela](http://twitter.com/search?q=Carlos+Vela) | N/A |
+| 9 | [Gil Manzano](http://twitter.com/search?q=Gil+Manzano) | Gil Manzano is a Spanish surname. In English, it translates to "son of Manuel". |
+| 10 | [Asensio](http://twitter.com/search?q=Asensio) | Asensio is a Spanish surname derived from the Latin name Asensius. It is derived from the Latin word "asensus" which means "ascended". In English, it can be translated to mean "ascended one". |
+| 11 | [#FelizSabado](http://twitter.com/search?q=%23FelizSabado) | N/A |
+| 12 | [Marshmello](http://twitter.com/search?q=Marshmello) | N/A |
+| 13 | [#mfw2023](http://twitter.com/search?q=%23mfw2023) | N/A |
+| 14 | [seungkwan](http://twitter.com/search?q=seungkwan) | Seungkwan is a Korean given name, derived from the Chinese characters for "victory" and "glorious". It can also be written as Seong-gwan. The meaning of the name in English is "victorious glory". |
+| 15 | [Cristiano Ronaldo](http://twitter.com/search?q=Cristiano+Ronaldo) | Cristiano Ronaldo is a Portuguese professional soccer player who plays for the Italian club Juventus and the Portugal national team. He is widely considered to be one of the greatest players of all time. He has won five Ballon d'Or awards, four European Golden Shoes, and numerous other individual and team honors. |
+| 16 | [George Harrison](http://twitter.com/search?q=George+Harrison) | N/A |
+| 17 | [Checo](http://twitter.com/search?q=Checo) | N/A |
+| 18 | [Línea 9](http://twitter.com/search?q=L%c3%adnea+9) | N/A |
+| 19 | [soobin](http://twitter.com/search?q=soobin) | Soobin is a Korean name meaning "wisdom and brilliance". It is also the name of a South Korean singer, songwriter, and rapper who is a member of the boy band TXT. |
+| 20 | [Arabia](http://twitter.com/search?q=Arabia) | Arabia is a region in the Middle East that includes the countries of Saudi Arabia, Yemen, Oman, United Arab Emirates, Qatar, Bahrain, Kuwait, and Jordan. It is known for its rich cultural heritage and its ancient civilizations. In English, Arabia means "land of the Arabs". |
+| 21 | [El 25](http://twitter.com/search?q=El+25) | N/A |
+| 22 | [Santiago Nieto](http://twitter.com/search?q=Santiago+Nieto) | N/A |
+| 23 | [Anáhuac](http://twitter.com/search?q=An%c3%a1huac) | N/A |
+| 24 | [Tenoch](http://twitter.com/search?q=Tenoch) | N/A |
 | 25 | [Bukele](http://twitter.com/search?q=Bukele) | N/A |
-| 26 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
-| 27 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
-| 28 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
-| 29 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
-| 30 | [Robles](http://twitter.com/search?q=Robles) | N/A |
-| 31 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
-| 32 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
-| 33 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
-| 34 | [Piña](http://twitter.com/search?q=Pi%c3%b1a) | N/A |
-| 35 | [Corrupta](http://twitter.com/search?q=Corrupta) | N/A |
-| 36 | [Durazo](http://twitter.com/search?q=Durazo) | N/A |
-| 37 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
-| 38 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
-| 39 | [#MiVotoSeRespeta](http://twitter.com/search?q=%23MiVotoSeRespeta) | N/A |
-| 40 | [#EDCMexico](http://twitter.com/search?q=%23EDCMexico) | N/A |
-| 41 | [#democracia](http://twitter.com/search?q=%23democracia) | N/A |
-| 42 | [#YoSiVoyAlZocalo](http://twitter.com/search?q=%23YoSiVoyAlZocalo) | N/A |
-| 43 | [#LaMarchaDeLosPENDEJOS2](http://twitter.com/search?q=%23LaMarchaDeLosPENDEJOS2) | N/A |
-| 44 | [#MarchaDeLosNarcos](http://twitter.com/search?q=%23MarchaDeLosNarcos) | N/A |
-| 45 | [#ElINESomosTodos](http://twitter.com/search?q=%23ElINESomosTodos) | N/A |
+| 26 | [Marcial Maciel](http://twitter.com/search?q=Marcial+Maciel) | N/A |
+| 27 | [Red Bull](http://twitter.com/search?q=Red+Bull) | Red Bull is an energy drink that was first introduced in Austria in 1987. It contains caffeine, taurine, B-vitamins, and sugar. The slogan for Red Bull is "Red Bull gives you wings," which is meant to suggest that the drink gives you a boost of energy and helps you to stay alert and focused. |
+| 28 | [El Salvador](http://twitter.com/search?q=El+Salvador) | El Salvador is a country in Central America. Its name translates to “The Savior” in English. It is bordered by Guatemala, Honduras, and the Pacific Ocean. El Salvador is the smallest and most densely populated country in Central America. Its capital and largest city is San Salvador. |
+| 29 | [Dina Boluarte](http://twitter.com/search?q=Dina+Boluarte) | Dina Boluarte is a Spanish phrase meaning “fortified wall”. It is often used to refer to a person or group that provides protection and security. |
+| 30 | [Universidad](http://twitter.com/search?q=Universidad) | N/A |
+| 31 | [Tesla](http://twitter.com/search?q=Tesla) | N/A |
+| 32 | [Rosario](http://twitter.com/search?q=Rosario) | N/A |
+| 33 | [Santo Domingo](http://twitter.com/search?q=Santo+Domingo) | N/A |
+| 34 | [Pedro Castillo](http://twitter.com/search?q=Pedro+Castillo) | N/A |
+| 35 | [Robles](http://twitter.com/search?q=Robles) | N/A |
+| 36 | [#Únete](http://twitter.com/search?q=%23%c3%9anete) | N/A |
+| 37 | [#BienestarEnTuColonia](http://twitter.com/search?q=%23BienestarEnTuColonia) | N/A |
+| 38 | [#MiVotoSeRespeta](http://twitter.com/search?q=%23MiVotoSeRespeta) | N/A |
+| 39 | [#TheLastKinnPorsche](http://twitter.com/search?q=%23TheLastKinnPorsche) | N/A |
+| 40 | [#LaPremierEnParamount](http://twitter.com/search?q=%23LaPremierEnParamount) | N/A |
+| 41 | [#F1Testing](http://twitter.com/search?q=%23F1Testing) | N/A |
+| 42 | [#EDCMexico](http://twitter.com/search?q=%23EDCMexico) | N/A |
+| 43 | [#MarchaDeLosNarcos](http://twitter.com/search?q=%23MarchaDeLosNarcos) | N/A |
+| 44 | [#YoSiVoyAlZocalo](http://twitter.com/search?q=%23YoSiVoyAlZocalo) | N/A |
+| 45 | [#EDC2023](http://twitter.com/search?q=%23EDC2023) | N/A |
+| 46 | [#LaMarchaDeLosPENDEJOS2](http://twitter.com/search?q=%23LaMarchaDeLosPENDEJOS2) | N/A |
+| 47 | [#democracia](http://twitter.com/search?q=%23democracia) | N/A |
+| 48 | [#ElINESomosTodos](http://twitter.com/search?q=%23ElINESomosTodos) | N/A |
 
 
 
